@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>OpenStreetMap 2012</title>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no"/>
+<script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"></script>
+<script type="text/javascript" src="leaflet-hash.js"></script>
+<script src="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js"></script>
+<link rel="icon" href="favicon.ico">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.css" />
+<style>
+html, body, #wrapper, #map, #map2 { margin: 0; height: 100%; }
+.leaflet-container { background: white; }
+#l2012, #l2022 { font-size: 16pt; position: absolute; background-color: #ffffff77; font-weight: bold; font-family: sans-serif; z-index: 999; padding: 0 8px; border-radius: 10px; }
+@media (orientation: landscape) {
+    #wrapper { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; }
+    #l2012 { top: 10px; right: 10px; }
+    #l2022 { top: 10px; left: 10px; }
+}
+@media (orientation: portrait) {
+    #wrapper { display: grid; grid-template-rows: 1fr 1fr; gap: 6px; }
+    #l2012 { bottom: 10px; left: 10px; }
+    #l2022 { top: 10px; left: 10px; }
+}
+</style>
+</head>
+<body>
+<div id="wrapper">
+    <div id="map"><div id="l2012">2012</div></div>
+    <div id="map2"><div id="l2022">2022</div></div>
+</div>
+<script>
+var center = [50, 15]; // [57.9, 34] for z6
+var map = L.map('map', { maxZoom: 19 }).setView(center, 4);
+map.attributionControl.setPrefix("");
+L.tileLayer('https://2012.osmz.ru/12/{z}/{x}/{y}.png', { attribution: '&copy; OpenStreetMap', maxZoom: 19 }).addTo(map);
+L.Control.geocoder({position: 'topleft', defaultMarkGeocode: false}).on('markgeocode', (e) => {map.fitBounds(e.geocode.bbox);}).addTo(map);
+
+var map2 = L.map('map2', { maxZoom: 19, zoomControl: false }).setView(center, 4);
+map2.attributionControl.setPrefix("");
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: '&copy; OpenStreetMap', maxZoom: 19 }).addTo(map2);
+
+var move = true;
+map.on ('move', function() { if(move) { move=false; map2.setView(map.getCenter(), map.getZoom(),  { animate: false }); move=true; }});
+map2.on('move', function() { if(move) { move=false; map.setView(map2.getCenter(), map2.getZoom(), { animate: false }); move=true; }});
+
+var hash = new L.Hash(map);
+</script>
+</body>
+</html>

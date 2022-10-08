@@ -1,0 +1,315 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <title>
+  BornHack 2022
+</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="/static/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- FontAwesome CSS -->
+    <link href="/static/css/fontawesome-all-5.0.13.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="/static/css/bornhack.css" rel="stylesheet">
+
+    <!-- https://datatables.net/ -->
+    <link href="/static/css/jquery.dataTables.1.10.20.min.css" rel="stylesheet">
+
+    <script src="/static/js/jquery-3.3.1.min.js"></script><script src="/static/js/bootstrap.min.js"></script>
+
+    <!-- https://datatables.net/ -->
+    <script src="/static/js/jquery.dataTables.1.10.20.min.js"></script>
+    <script src="/static/js/moment.2.8.4.min.js"></script>
+    <script src="/static/js/jquery.dataTables.datatime-moment.js"></script>
+
+    <!-- misc. bornhack javascript bits we want on all pages -->
+    <script src="/static/js/bornhack.js"></script>
+
+    <!-- favicon.ico stuff -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/static/img/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/static/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/static/img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/static/img/favicon/site.webmanifest">
+    <link rel="mask-icon" href="/static/img/favicon/safari-pinned-tab.svg" color="#000000">
+    <link rel="shortcut icon" href="/static/img/favicon/favicon.ico">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-config" content="/static/img/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#000000">
+
+    
+    
+  </head>
+
+  <body class="no-js">
+    
+
+      <div id="main" class="container container-fluid">
+        <nav class="navbar navbar-fixed-top">
+          <div class="container container-fluid">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#top-navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+                <a class="navbar-brand" href="/bornhack-2022/">
+                  <img src="/static/img/bornhack-2022/logo/bornhack-2022-logo-s.png" width="200" alt="bornhack" class="img-responsive">
+                </a>
+              
+            </div>
+            <div id="top-navbar" class="navbar-collapse collapse">
+              <ul class="nav navbar-nav">
+                <li><a href="/news/">News</a></li>
+                <li><a href="/shop/">Shop</a></li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Camps<span class="caret"></span></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="/bornhack-2022/">BornHack 2022</a></li>
+                    <li><a href="/bornhack-2021/">BornHack 2021</a></li>
+                    <li role="separator" class="divider"></li>
+                    <li><a href="/camps/">Camp List</a></li>
+                  </ul>
+                </li>
+                <li><a href="/contact/">Contact</a></li>
+                <li><a href="/people/">People</a></li>
+                <li><a href="/wishlist/">Wishlist</a></li>
+                <li><a href="/token/">Token</a></li>
+
+                
+              </ul>
+              <ul class="nav navbar-nav navbar-right">
+                
+                  <li><a href="/login/">Login</a></li>
+                
+              </ul>
+            </div>
+          </div>
+        </nav>
+        
+          <div class="row">
+            <div class="btn-group btn-group-justified hidden-xs">
+              
+<a class="btn btn-primary" href="/bornhack-2022/">BornHack 2022</a>
+<a class="btn btn-default" href="/bornhack-2022/info/">Info</a>
+<a class="btn btn-default" href="/bornhack-2022/program/">Program</a>
+<a class="btn btn-default" href="/bornhack-2022/villages/">Villages</a>
+<a class="btn btn-default" href="/bornhack-2022/sponsors/">Sponsors</a>
+<a class="btn btn-default" href="/bornhack-2022/teams/">Teams</a>
+
+<div class="btn-group" role="group">
+  <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">More <span class="caret"></span></button>
+  <ul class="dropdown-menu">
+    
+
+    
+
+    <li class="None"><a href="/bornhack-2022/facilities/">Facilities</a></li>
+
+    
+
+    <li class="None"><a href="/bornhack-2022/phonebook/">Phonebook</a></li>
+
+    
+
+    <li class="None"><a href="/token/">Token Game</a></li>
+  </ul>
+</div>
+
+            </div>
+            <div class="btn-group-vertical visible-xs">
+              
+<a class="btn btn-primary" href="/bornhack-2022/">BornHack 2022</a>
+<a class="btn btn-default" href="/bornhack-2022/info/">Info</a>
+<a class="btn btn-default" href="/bornhack-2022/program/">Program</a>
+<a class="btn btn-default" href="/bornhack-2022/villages/">Villages</a>
+<a class="btn btn-default" href="/bornhack-2022/sponsors/">Sponsors</a>
+<a class="btn btn-default" href="/bornhack-2022/teams/">Teams</a>
+
+<div class="btn-group" role="group">
+  <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">More <span class="caret"></span></button>
+  <ul class="dropdown-menu">
+    
+
+    
+
+    <li class="None"><a href="/bornhack-2022/facilities/">Facilities</a></li>
+
+    
+
+    <li class="None"><a href="/bornhack-2022/phonebook/">Phonebook</a></li>
+
+    
+
+    <li class="None"><a href="/token/">Token Game</a></li>
+  </ul>
+</div>
+
+            </div>
+            <p>
+            </div>
+        
+        
+
+
+        
+  <div class="row">
+    <div class="col-md-12">
+      <img src="/static/img/bornhack-2022/logo/bornhack-2022-logo-l.png" width="800" class="img-responsive" id="front-logo" />
+    </div>
+  </div>
+
+
+  <div class="row">
+    <div class="col-md-9 col-sm-9 text-container">
+      <div class="lead">
+        <b>BornHack</b> is a 7 day <b>outdoor tent camp</b> where hackers, makers and people with an interest in technology or security come together to celebrate technology, socialise, learn and <b>have fun</b>.
+      </div>
+    </div>
+    <div class="col-md-3 col-sm-3">
+      <a href="/static/img/bornhack-2020/logotent_pink_people.jpg"><img class="img-thumbnail" src="/static/img/bornhack-2020/thumbnail_logotent_pink_people.jpg.png" alt="BornHack Logotent with pink light and people" title="BornHack Logotent with pink light and people"></a>
+
+    </div>
+  </div>
+
+
+  <div class="row">
+    <div class="col-md-3 col-sm-3">
+      <a href="/static/img/bornhack-2020/participant_tent_laptop.jpg"><img class="img-thumbnail" src="/static/img/bornhack-2020/thumbnail_participant_tent_laptop.jpg.png" alt="hacker with laptop in front of tent" title="hacker with laptop in front of tent"></a>
+
+    </div>
+    <div class="col-md-9 col-sm-9 text-container">
+      <div class="lead">
+        <strong>BornHack 2022</strong> will be the seventh BornHack. It will take place from <strong>Wednesday the 3rd of August to Wednesday the 10th of August 2022</strong> at our venue on the Danish island of Funen.
+      </div>
+    </div>
+  </div>
+
+  <br />
+
+  <div class="row">
+    <div class="col-md-9 col-sm-9 text-container">
+      <div class="lead">
+        The BornHack team looks forward to organising another great event for the hacker community. We <a href="/bornhack-2022/teams/">still need volunteers</a>, so please let us know if you want to help!
+      </div>
+    </div>
+    <div class="col-md-3">
+      <a href="/static/img/bornhack-2021/volunteers.jpg"><img class="img-thumbnail" src="/static/img/bornhack-2021/thumbnail_volunteers.jpg.png" alt="The BornHack 2021 volunteers" title="The BornHack 2021 volunteers"></a>
+
+    </div>
+  </div>
+
+  <br />
+
+  <div class="row">
+    <div class="col-md-3 col-sm-3">
+      <a href="/static/img/bornhack-2018/fonsmark/FB1_9970_cropped.JPG"><img class="img-thumbnail" src="/static/img/bornhack-2018/fonsmark/thumbnail_FB1_9970_cropped.JPG.png" alt="Danish politicians, government officals and IT-developers debating at BornHack 2018" title="Danish politicians, government officals and IT-developers debating at BornHack 2018"></a>
+
+    </div>
+    <div class="col-md-9 col-sm-9 text-container">
+      <div class="lead">We want to encourage <strong>hackers, makers, politicians, activists, developers, artists, sysadmins, engineers</strong> with something to say to read our <a href="/bornhack-2022/program/call-for-participation/">call for participation</a>.</div>
+    </div>
+  </div>
+
+  <br />
+
+  <div class="row">
+    <div class="col-md-9 col-sm-9 text-container">
+      <div class="lead">
+        BornHack aims to <strong>keep ticket prices affordable</strong> for everyone and to that end <strong>we need sponsors</strong>. Please see our <a href="/bornhack-2022/sponsors/">call for sponsors</a> if you want to sponsor us, or if you work for a company you think might be able to help.
+      </div>
+    </div>
+    <div class="col-md-3 col-sm-3">
+      <a href="/static/img/bornhack-2017/fonsmark/FB1_7675_cropped.jpg"><img class="img-thumbnail" src="/static/img/bornhack-2017/fonsmark/thumbnail_FB1_7675_cropped.jpg.png" alt="Organisers thanking the BornHack 2017 sponsors" title="Organisers thanking the BornHack 2017 sponsors"></a>
+
+    </div>
+  </div>
+
+  <br />
+
+  <div class="row">
+    <div class="col-md-12 col-sm-12">
+      <p class="lead">You are very welcome to ask questions and show your interest on our different channels:</p>
+      <ul>
+  <li class="lead">
+    <strong>IRC</strong>:
+    #bornhack @ 6nbtgccn5nbcodn3.onion or irc.baconsvin.org <small>(TLS port 6697)</small>
+  </li>
+
+  <li class="lead">
+    <strong>Email</strong>:
+    <a href="mailto:info@bornhack.dk">info@bornhack.dk</a>
+  </li>
+
+  <li class="lead">
+    <strong>Twitter</strong>:
+    <a href="https://twitter.com/bornhax" target="_blank">@BornHax</a>
+  </li>
+
+  <li class="lead">
+    <strong>Facebook</strong>:
+    <a href="https://facebook.com/BornHax" target="_blank">@BornHax</a>
+  </li>
+
+  <li class="lead">
+    <strong>Instagram</strong>:
+    <a href="https://www.instagram.com/bornhax/" target="_blank">@BornHax</a>
+  </li>
+
+  <li class="lead">
+    <strong>Flickr</strong>:
+    <a href="https://www.flickr.com/photos/bornhax" target="_blank">@BornHax</a>
+  </li>
+</ul>
+
+    </div>
+  </div>
+  <p align="center">
+    <a href="/static/img/bornhack-2020/ellen_tesla_coil.jpg"><img class="img-thumbnail" src="/static/img/bornhack-2020/thumbnail_ellen_tesla_coil.jpg.png" alt="Little girl and father making arcs with tesla coil" title="Little girl and father making arcs with tesla coil"></a>
+
+    <a href="/static/img/bornhack-2020/dome_lights.jpg"><img class="img-thumbnail" src="/static/img/bornhack-2020/thumbnail_dome_lights.jpg.png" alt="Geodesic dome and tents with lights" title="Geodesic dome and tents with lights"></a>
+
+    <a href="/static/img/bornhack-2017/fonsmark/FB1_7724_cropped.jpg"><img class="img-thumbnail" src="/static/img/bornhack-2017/fonsmark/thumbnail_FB1_7724_cropped.jpg.png" alt="A welcoming hug upon arrival at BornHack 2017! <3" title="A welcoming hug upon arrival at BornHack 2017! <3"></a>
+
+    <a href="/static/img/bornhack-2016/fonsmark/FB1_5168.JPG"><img class="img-thumbnail" src="/static/img/bornhack-2016/fonsmark/thumbnail_FB1_5168.JPG.png" alt="#irl_bar by night at BornHack 2016" title="#irl_bar by night at BornHack 2016"></a>
+
+    <a href="/static/img/bornhack-2018/flummer/DSC_7054_cropped.jpg"><img class="img-thumbnail" src="/static/img/bornhack-2018/flummer/thumbnail_DSC_7054_cropped.jpg.png" alt="The BornHack 2018 badge" title="The BornHack 2018 badge"></a>
+
+    <a href="/static/img/bornhack-2019/masked_jeopardy_beer_wall.jpg"><img class="img-thumbnail" src="/static/img/bornhack-2019/thumbnail_masked_jeopardy_beer_wall.jpg.png" alt="Masked hacker jeopardy contenders behind beer can wall" title="Masked hacker jeopardy contenders behind beer can wall"></a>
+
+    <a href="/static/img/bornhack-2020/badge_cyber.jpg"><img class="img-thumbnail" src="/static/img/bornhack-2020/thumbnail_badge_cyber.jpg.png" alt="The BornHack 2020 badge displaying "cyber"" title="The BornHack 2020 badge displaying "cyber""></a>
+
+    <a href="/static/img/bornhack-2020/night_stars_lights.jpg"><img class="img-thumbnail" src="/static/img/bornhack-2020/thumbnail_night_stars_lights.jpg.png" alt="Stars above colorfully lit trees" title="Stars above colorfully lit trees"></a>
+
+    <a href="/static/img/bornhack-2020/bar_people.jpg"><img class="img-thumbnail" src="/static/img/bornhack-2020/thumbnail_bar_people.jpg.png" alt="Bornhack bar in 2020" title="Bornhack bar in 2020"></a>
+
+    <a href="/static/img/bornhack-2017/fonsmark/FB1_7521_cropped.jpg"><img class="img-thumbnail" src="/static/img/bornhack-2017/fonsmark/thumbnail_FB1_7521_cropped.jpg.png" alt="Amelia Andersdotter presenting at BornHack 2017" title="Amelia Andersdotter presenting at BornHack 2017"></a>
+
+  </p>
+
+      </div>
+      <footer>
+        <div class="col-sm-12 col-md-12 col-lg-12">
+          
+            <a href="/general-terms-and-conditions/">General Terms &amp; Conditions</a> |
+            <a href="/conduct/">Code of Conduct</a> |
+            <a href="/privacy-policy/">Privacy Policy</a> |
+            <a href="/contact/">Contact</a>
+          
+        </div>
+      </footer>
+    
+  </body>
+</html>

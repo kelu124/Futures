@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"
+  lang="en" dir="ltr" class="no-js">
+<head>
+    <meta charset="UTF-8" />
+    <title>Xerox scanners/photocopiers randomly alter numbers in scanned documents [D. Kriesel]</title>
+    <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+    <meta name="generator" content="DokuWiki"/>
+<meta name="theme-color" content="#7284A1"/>
+<meta name="robots" content="index,follow"/>
+<meta name="keywords" content="en,blog,2013,0802_xerox-workcentres_are_switching_written_numbers_when_scanning"/>
+<meta name="description" content="Xerox scanners/photocopiers randomly alter numbers in scanned documents  Please see the „condensed time line“ section (the next one) for a time line of how the Xerox saga unfolded. It for example depicts that I did not push the thing to the public right away, but gave Xerox a lot of time before I did so."/>
+<meta property="og:title" content="Xerox scanners/photocopiers randomly alter numbers in scanned documents"/>
+<meta property="og:description" content="Xerox scanners/photocopiers randomly alter numbers in scanned documents  Please see the „condensed time line“ section (the next one) for a time line of how the Xerox saga unfolded. It for example depicts that I did not push the thing to the public right away, but gave Xerox a lot of time before I did so."/>
+<meta property="og:url" content="https://www.dkriesel.com/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning"/>
+<meta property="og:type" content="article"/>
+<meta property="og:image" content="https://www.dkriesel.com/_media/blog/2013/originalzensiert.png"/>
+<meta property="og:locale" content="en_GB"/>
+<meta property="og:site_name" content="D. Kriesel"/>
+<meta property="article:published_time" content="2017-09-05T04:00:01+02:00"/>
+<meta property="article:modified_time" content="2015-09-02T12:31:38+02:00"/>
+<meta property="article:section" content="2015-09-02T12:31:38+02:00"/>
+<link rel="search" type="application/opensearchdescription+xml" href="https://www.dkriesel.com/lib/exe/opensearch.php" title="D. Kriesel"/>
+<link rel="start" href="https://www.dkriesel.com/"/>
+<link rel="manifest" href="https://www.dkriesel.com/lib/exe/manifest.php"/>
+<link rel="alternate" type="application/rss+xml" title="Recent Changes" href="https://www.dkriesel.com/feed.php"/>
+<link rel="alternate" type="application/rss+xml" title="Current namespace" href="https://www.dkriesel.com/feed.php?mode=list&amp;ns=en:blog:2013"/>
+<link rel="alternate" type="text/html" title="Plain HTML" href="https://www.dkriesel.com/_export/xhtml/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning"/>
+<link rel="canonical" href="https://www.dkriesel.com/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning"/>
+<link rel="stylesheet" type="text/css" href="https://www.dkriesel.com/lib/exe/css.php?t=writr&amp;tseed=c8346f6fb934a88894892b7fb6c9427a"/>
+<!--[if gte IE 9]><!-->
+<script type="text/javascript">/*<![CDATA[*/var NS='en:blog:2013';var JSINFO = {"plugin":{"semantic":{"exposeWebService":1}},"plugin_folded":{"hide":"hide","reveal":"reveal"},"id":"en:blog:2013:0802_xerox-workcentres_are_switching_written_numbers_when_scanning","namespace":"en:blog:2013","ACT":"show","useHeadingNavigation":1,"useHeadingContent":1};
+/*!]]>*/</script>
+<script type="text/javascript" charset="utf-8" src="https://www.dkriesel.com/lib/exe/jquery.php?tseed=23f888679b4f1dc26eef34902aca964f"></script>
+<script type="text/javascript" charset="utf-8" src="https://www.dkriesel.com/lib/exe/js.php?t=writr&amp;tseed=c8346f6fb934a88894892b7fb6c9427a&amp;lang=en"></script>
+<script type="application/ld+json">/*<![CDATA[*/{
+    "@context": "http:\/\/schema.org",
+    "@type": "WebSite",
+    "url": "https:\/\/www.dkriesel.com\/",
+    "name": "D. Kriesel",
+    "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https:\/\/www.dkriesel.com\/doku.php?do=search&amp;id={search_term_string}",
+        "query-input": "required name=search_term_string"
+    }
+}
+/*!]]>*/</script>
+<script type="application/ld+json">/*<![CDATA[*/[
+    {
+        "@context": "http:\/\/schema.org",
+        "@type": "Article",
+        "headline": "Xerox scanners\/photocopiers randomly alter numbers in scanned documents",
+        "name": "Xerox scanners\/photocopiers randomly alter numbers in scanned documents",
+        "datePublished": "2017-09-05T04:00:01+02:00",
+        "dateCreated": "2017-09-05T04:00:01+02:00",
+        "dateModified": "2015-09-02T12:31:38+02:00",
+        "description": "Xerox scanners\/photocopiers randomly alter numbers in scanned documents  Please see the \u201econdensed time line\u201c section (the next one) for a time line of how the Xerox saga unfolded. It for example depicts that I did not push the thing to the public right away, but gave Xerox a lot of time before I did so.",
+        "license": null,
+        "url": "https:\/\/www.dkriesel.com\/en\/blog\/2013\/0802_xerox-workcentres_are_switching_written_numbers_when_scanning",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/www.dkriesel.com\/en\/blog\/2013\/0802_xerox-workcentres_are_switching_written_numbers_when_scanning"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "D. Kriesel",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https:\/\/www.dkriesel.com\/_media\/logo.png"
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.dkriesel.com\/_media\/blog\/2013\/originalzensiert.png",
+            "width": 964,
+            "height": 847
+        }
+    },
+    {
+        "@context": "http:\/\/schema.org",
+        "@type": "WebPage",
+        "relatedLink": [
+            "https:\/\/www.dkriesel.com\/en\/blog\/2013\/0806_conference_call_with_xerox",
+            "https:\/\/www.dkriesel.com\/en\/blog\/2013\/0806_other_xerox_devices_reportedly_affected",
+            "https:\/\/www.dkriesel.com\/en\/blog\/2013\/0909_xerox_money",
+            "https:\/\/www.dkriesel.com\/en\/blog\/2014\/1116_next_talk_31c3_chaos_communication_congress",
+            "https:\/\/www.dkriesel.com\/en\/blog\/2014\/1224_31c3_talk",
+            "https:\/\/www.dkriesel.com\/en\/blog\/2014\/1225_31c3_streaming",
+            "https:\/\/www.dkriesel.com\/en\/blog\/2014\/1229_video_meines_vortrags_auf_dem_31c3",
+            "https:\/\/www.dkriesel.com\/en\/blog\/2015\/0823_video_slides_xerox_talk_froscon",
+            "https:\/\/www.dkriesel.com\/en\/person"
+        ]
+    }
+]
+/*!]]>*/</script>
+<!--<![endif]-->
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="shortcut icon" href="https://www.dkriesel.com/lib/tpl/writr/images/favicon.ico" />
+<link rel="apple-touch-icon" href="https://www.dkriesel.com/lib/tpl/writr/images/apple-touch-icon.png" />
+        <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css' />
+</head>
+
+<body id="dokuwiki__top" class="sidebar-closed dokuwiki mode_show tpl_writr   ">
+    <div id="writr__page" class="hfeed hasSidebar">
+        
+        <div class="sidebar-area group" id="writr__sidebar">
+            <a id="writr__sidebar-toggle" href="#writr__secondary" title="Sidebar">
+                <span class="genericon genericon-close"></span>
+                <span class="a11y">Sidebar</span>
+            </a>
+
+            <!-- ********** HEADER ********** -->
+            <header id="writr__masthead" class="site-header" role="banner">
+                
+                <a class="site-logo"  href="https://www.dkriesel.com/start" title="D. Kriesel" rel="home" accesskey="h" title="[H]">
+                    <img src="https://www.dkriesel.com/_media/logo.png" width="114" height="113" alt="" class="no-grav header-image" />
+                </a>
+
+                <div class="site-branding">
+                    <h1 class="site-title"><a href="https://www.dkriesel.com/start" rel="home" accesskey="h" title="[H]">D. Kriesel</a></h1>
+                                            <h2 class="site-description">Data, Talks, BBQ, Photos. Not always updated. But sometimes.</h2>
+                                    </div>
+
+                <div class="search-form widget">
+                    <form action="https://www.dkriesel.com/start" method="get" role="search" class="search doku_form" id="dw__search" accept-charset="utf-8"><input type="hidden" name="do" value="search" /><input type="hidden" name="id" value="en:blog:2013:0802_xerox-workcentres_are_switching_written_numbers_when_scanning" /><div class="no"><input name="q" type="text" class="edit" title="[F]" accesskey="f" placeholder="Search" autocomplete="on" id="qsearch__in" value="" /><button value="1" type="submit" title="Search">Search</button><div id="qsearch__out" class="ajax_qsearch JSpopup"></div></div></form>                </div>
+
+<div class="plugin_translation"><ul><li><div class='li'><a href="https://www.dkriesel.com/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning" class="wikilink1" title="Deutsch">Deutsch (de)</a></div></li><li><div class='li cur'><a href="https://www.dkriesel.com/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning" class="wikilink1 cur" title="English">English (en)</a></div></li></ul></div>
+                            </header><!-- #writr__masthead -->
+
+            <div id="writr__secondary" class="widget-area" role="complementary">
+                                    <div class="widget">
+                                                
+<h2 class="sectionedit1" id="general_stuff">General stuff</h2>
+<div class="level2">
+
+<p>
+<a href="https://www.dkriesel.com/en/start" class="wikilink1" title="en:start">Home and news</a>
+</p>
+
+<p>
+<a href="https://www.dkriesel.com/en/person" class="wikilink1" title="en:person">Person, short CV</a>
+</p>
+
+<p>
+<a href="https://www.dkriesel.com/en/imprint" class="wikilink1" title="en:imprint">Imprint, FAQ, Disclaimer</a>
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;General stuff&quot;,&quot;hid&quot;:&quot;general_stuff&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:1,&quot;range&quot;:&quot;2-128&quot;} -->
+<h2 class="sectionedit2" id="data_stuff">Data Stuff</h2>
+<div class="level2">
+
+<p>
+<a href="https://www.dkriesel.com/en/corona" class="wikilink1" title="en:corona">Corona/Covid19-Plots</a> <img src="https://www.dkriesel.com/lib/images/smileys/icon_exclaim.gif" class="icon" alt=":!:" />
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Data Stuff&quot;,&quot;hid&quot;:&quot;data_stuff&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:2,&quot;range&quot;:&quot;129-192&quot;} -->
+<h2 class="sectionedit3" id="science_stuff">Science Stuff</h2>
+<div class="level2">
+
+<p>
+<a href="https://www.dkriesel.com/en/science/neural_networks" class="wikilink1" title="en:science:neural_networks">Neural Networks (MANUSCRIPT)</a>
+</p>
+
+<p>
+<a href="https://www.dkriesel.com/en/science/distributed_evolution_of_swarms" class="wikilink1" title="en:science:distributed_evolution_of_swarms">Distributed evolution of Swarms (Master&#039;s Thesis)</a>
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Science Stuff&quot;,&quot;hid&quot;:&quot;science_stuff&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:3,&quot;range&quot;:&quot;193-379&quot;} -->
+<h2 class="sectionedit4" id="most_popular">Most popular</h2>
+<div class="level2">
+<p>
+2015-01-02: <a href="https://www.dkriesel.com/en/blog/2014/1229_video_meines_vortrags_auf_dem_31c3"> Video and Slides of my Xerox Talk at 31C3</a></p>
+
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Most popular&quot;,&quot;hid&quot;:&quot;most_popular&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:4,&quot;range&quot;:&quot;380-522&quot;} -->
+<h2 class="sectionedit5" id="photos">Photos</h2>
+<div class="level2">
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;Photos&quot;,&quot;hid&quot;:&quot;photos&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:5,&quot;range&quot;:&quot;523-653&quot;} -->
+<h2 class="sectionedit6" id="rss_feeds">RSS Feeds</h2>
+<div class="level2">
+
+<p>
+<a href="http://feeds.feedburner.com/dkriesel-en" class="urlextern" target="_blank" title="http://feeds.feedburner.com/dkriesel-en" rel="nofollow noopener">English</a>
+</p>
+
+<p>
+<a href="http://feeds.feedburner.com/dkriesel-de" class="urlextern" target="_blank" title="http://feeds.feedburner.com/dkriesel-de" rel="nofollow noopener">German</a> (more updates)
+</p>
+
+</div>
+<!-- EDIT{&quot;target&quot;:&quot;section&quot;,&quot;name&quot;:&quot;RSS Feeds&quot;,&quot;hid&quot;:&quot;rss_feeds&quot;,&quot;codeblockOffset&quot;:0,&quot;secid&quot;:6,&quot;range&quot;:&quot;654-&quot;} -->                                            </div>
+                
+                <div class="tools widget_links widget">
+                    <!-- SITE TOOLS -->
+
+                    <!-- PAGE TOOLS -->
+                    <div class="page-tools">
+                        <ul>
+                            <li><a href="https://www.dkriesel.com/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning?do=edit"  class="action source" accesskey="v" rel="nofollow" title="Show pagesource [V]"><span class="icon"></span> <span class="a11y">Show pagesource</span></a></li><li><a href="#dokuwiki__top"  class="action top" accesskey="t" rel="nofollow" title="Back to top [T]"><span class="icon"></span> <span class="a11y">Back to top</span></a></li>                        </ul>
+                    </div>
+
+                                            <!-- USER TOOLS -->
+                        <div class="user-tools">
+                            <ul>
+                                <li><a href="https://www.dkriesel.com/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning?do=login&amp;sectok="  class="action login" rel="nofollow" title="Log In"><span></span> Log In</a></li>                            </ul>
+                        </div>
+
+                                                            </div>
+
+                <footer id="writr__colophon" class="site-footer" role="contentinfo">
+                    <div class="site-info">
+                                                                    </div><!-- .site-info -->
+                </footer><!-- #writr__colophon -->
+
+            </div>
+        </div>
+
+        <div id="writr__content" class="site-content">
+            <div id="writr__primary" class="content-area">
+
+                <!-- BREADCRUMBS -->
+                                
+                <main id="writr__main" class="site-main group" role="main">
+
+                                        
+                                        <!-- wikipage start -->
+                    <!-- TOC START -->
+<div id="dw__toc" class="dw__toc">
+<h3 class="toggle">Table of Contents</h3>
+<div>
+
+<ul class="toc">
+<li class="level1"><div class="li"><a href="#video_of_my_talk_lies_damned_lies_and_scans">Video of my Talk &quot;Lies, damned lies and scans&quot;</a></div></li>
+<li class="level1"><div class="li"><a href="#introduction">Introduction</a></div></li>
+<li class="level1"><div class="li"><a href="#condensed_time_line">Condensed time line</a></div></li>
+<li class="level1"><div class="li"><a href="#examples_and_how_we_found_out">Examples and how we found out</a></div></li>
+<li class="level1"><div class="li"><a href="#affected_devices">Affected Devices</a></div></li>
+<li class="level1"><div class="li"><a href="#reproducing_the_error">Reproducing the error</a></div></li>
+<li class="level1"><div class="li"><a href="#cause_of_error_and_legal_implications">Cause of error and legal implications</a></div></li>
+<li class="level1"><div class="li"><a href="#is_your_company_affected_by_the_xerox_scanning_bug">Is your company affected by the Xerox Scanning Bug?</a></div></li>
+</ul>
+</div>
+</div>
+<!-- TOC END -->
+
+<h1 class="sectionedit1" id="xerox_scannersphotocopiers_randomly_alter_numbers_in_scanned_documents">Xerox scanners/photocopiers randomly alter numbers in scanned documents</h1>
+<div class="level1">
+
+<p>
+<em>Please see the “condensed time line” section (the next one) for a time line of how the Xerox saga unfolded. <strong>It for example depicts that I did not push the thing to the public right away, but gave Xerox a lot of time before I did so.</strong> Personally, I think this is important. I will post updates and links to the relevant blog posts in there in order not to make total crap out of this article&#039;s outline.  In this way, I keep this article up-to-date for future visitors and also write new blog posts on the topic for RSS users.</em>
+</p>
+
+</div>
+
+<h2 class="sectionedit2" id="video_of_my_talk_lies_damned_lies_and_scans">Video of my Talk &quot;Lies, damned lies and scans&quot;</h2>
+<div class="level2">
+
+<p>
+
+<iframe width="700" height="394" src="https://www.youtube.com/embed/c0O6UXrOZJo" frameborder="0" allowfullscreen></iframe>
+
+</p>
+
+<p>
+<em>This FrOSCon Talk (August 2015) is a native english version of the quite popular CCC talk (December 2014), so I embed this instead of the live translation by CCC.</em>
+</p>
+
+<p>
+<a href="https://www.dkriesel.com/_media/blog/2014/xerox-ccc-davidkriesel.pdf" class="media mediafile mf_pdf" target="_blank" title="blog:2014:xerox-ccc-davidkriesel.pdf (3.8 MB)" rel="noopener">Here you can download the slides.</a>
+</p>
+
+<p>
+<a href="https://frab.cccv.de/en/31c3/public/events/6558/feedback/new" class="urlextern" target="_blank" title="https://frab.cccv.de/en/31c3/public/events/6558/feedback/new" rel="nofollow noopener">Here you can send me feedback on the talk!</a> Thank you! <img src="https://www.dkriesel.com/lib/images/smileys/icon_smile.gif" class="icon" alt=":-)" />
+</p>
+
+</div>
+
+<h2 class="sectionedit3" id="introduction">Introduction</h2>
+<div class="level2">
+
+<p>
+In this article I present in which way scanners / copiers of the Xerox WorkCentre Line randomly alter written numbers in pages that are scanned. This is not an OCR problem (as we switched off OCR on purpose), it is a lot worse – patches of the pixel data are randomly replaced in a very subtle and dangerous way: The scanned images look correct at first glance, even though numbers may actually be incorrect. Without a fuss, this may cause scenarios like: 
+</p>
+<ol>
+<li class="level1"><div class="li"> Incorrect invoices</div>
+</li>
+<li class="level1"><div class="li"> Construction plans with incorrect numbers (as will be shown later in the article) even though they look right</div>
+</li>
+<li class="level1"><div class="li"> Other incorrect construction plans, for example for bridges (danger of life may be the result!)</div>
+</li>
+<li class="level1"><div class="li"> Incorrect metering of medicine, even worse, I think. </div>
+</li>
+</ol>
+
+<p>
+The errors are caused by an eight (!) year old bug in widely used WorkCentre and ColorQube scan copier families of the manufacturer Xerox – according to reseller data, hundreds of thousands of those machines are used across the planet. As a result, anyone having used machines of the named families has to ask himself:
+</p>
+<ul>
+<li class="level1"><div class="li"> How many incorrect documents (even though they look correct!) did I produce during the last years by scanning with xerox machines? Did I even give them to others?</div>
+</li>
+<li class="level1"><div class="li"> What dangers are imposed by such possible document errors? Is there a danger of life for someone?</div>
+</li>
+<li class="level1"><div class="li"> Can I be sued for such errors?</div>
+</li>
+</ul>
+
+<p>
+Before the bug was covered in my blog, it was not discovered or published, nor was its montrosity visible to Xerox or me. It unleashed itself across several blog articles I wrote that were then spread further by the mass media. What happened in which order can be seen in the time line below. It has been an interesting time, I promise. <img src="https://www.dkriesel.com/lib/images/smileys/icon_smile.gif" class="icon" alt=":-)" /> Originally, this blog article was published in the fear the bug would be dangerous enough to put lifes at risk and in the believe Xerox would not take the bug report serious. 
+</p>
+
+<p>
+The rest of the article is organized as follows.
+</p>
+<ul>
+<li class="level1"><div class="li"> First, there is a time line for you to see how the saga unfolded</div>
+</li>
+<li class="level1"><div class="li"> By showing some real world examples I outline how we got aware of the issue, and how subtle it is. As it is hard to believe that scan copiers randomly alter written numbers, picture evidence is provided. </div>
+</li>
+<li class="level1"><div class="li"> After that, there is a list of affected devices.</div>
+</li>
+<li class="level1"><div class="li"> In the next section, there is a a short manual for you to reproduce the error and see of you are affected. </div>
+</li>
+<li class="level1"><div class="li"> The last section contains a short, amateurish legal evaluation. Upshot:  The last 8 years of PDF scans of affected devices may not only contain arrors, but also I think they might be of no legal value alltogether, regardless if they are actually proven to contain errors. </div>
+</li>
+</ul>
+
+<p>
+<a name="readmore_en_blog_2013_0802_xerox-workcentres_are_switching_written_numbers_when_scanning"></a>
+</p>
+
+</div>
+
+<h2 class="sectionedit4" id="condensed_time_line">Condensed time line</h2>
+<div class="level2">
+
+<p>
+Due to the mass of the blog articles, I keep getting asked for a comprehensive time line. Here it is. The relevant blog posts are linked (barely visible, though, hm). This list will be updated as used, the current status is always marked with a <img src="https://www.dkriesel.com/lib/images/smileys/icon_exclaim.gif" class="icon" alt=":!:" />.
+</p>
+<div class="table sectionedit5"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<th class="col0"> Date </th><th class="col1"> What happened </th>
+	</tr>
+	</thead>
+	<tr class="row1">
+		<td class="col0 leftalign"> July 24th, 2013  </td><td class="col1"> Number mangling discovered </td>
+	</tr>
+	<tr class="row2">
+		<td class="col0 leftalign"> July 25th  </td><td class="col1"> Told Xerox about number mangling in pixel data. During the next days, neither the Xerox support levels we had phoned, nor the Xerox helpdesks visiting, did know that character substitutions could occur at all and were amazed to see this. The Xerox helpdesk guys even set out replicating the “bug” at their devices and managed to do so. I think this is important as it depicts that I <em>first</em> went to Xerox and gave them about a week of time, before I posted it on my blog.  <em>Later I was to learn that the number mangling was known to Xerox.</em> </td>
+	</tr>
+	<tr class="row3">
+		<td class="col0 leftalign"> August 1    </td><td class="col1 leftalign"> No solution from Xerox yet, nearly one week, across all support levels. They either do not believe us or look amazed. I think this is scary and write this blog post.   </td>
+	</tr>
+	<tr class="row4">
+		<td class="col0 leftalign"> August 2    </td><td class="col1"> The blog post goes around the planet. From now on, I get emails of people being able to replicate the “bug” around the world, as well as informations that JBIG2 compression can cause this. I update this blog post a lot. </td>
+	</tr>
+	<tr class="row5">
+		<td class="col0 leftalign"> August 6,  morning   </td><td class="col1 leftalign"> A reader tells me there is a small notice in his copier&#039;s admin panel about character substitution. On his device, the “bug” can be avoided by setting compression from “normal” to higher. As a consequence, the issue must have been known by Xerox – so why was nobody telling us? As the notice only occurs when adjusting the setting in the admin panel, the implications, however, stay the same. People may create false figures without knowing. Anyway, I write a blog post <a href="https://www.dkriesel.com/en/blog/2013/0806_work_around_for_character_substitutions_in_xerox_machines" class="wikilink1" title="en:blog:2013:0806_work_around_for_character_substitutions_in_xerox_machines">presenting this workaround.</a>   </td>
+	</tr>
+	<tr class="row6">
+		<td class="col0 leftalign"> August 6, afternoon  </td><td class="col1 leftalign"> <a href="https://www.dkriesel.com/blog/2013/0806_conference_call_with_xerox" class="wikilink1" title="blog:2013:0806_conference_call_with_xerox"> Conference call with Rick Dastin and Francis Tse.</a> Rick Dastin, Vice President at Xerox, is the first one actually working at Xerox being able to tell me that character substitutions actually can occur and Xerox knows (in contrast to their support). They also tell me that this is wanted. I criticize that this compression mode is called “normal”. I also learn that there are two notices in the (300 page) manuals also, telling about character substitution, also with respect to “normal”.  </td>
+	</tr>
+	<tr class="row7">
+		<td class="col0"> during the conference call </td><td class="col1"> Xerox publishes <a href="http://realbusinessatxerox.blogs.xerox.com/2013/08/06/always-listening-to-our-customers-clarification-on-scanning-issue/#.UgEqCERCBiE" class="urlextern" target="_blank" title="http://realbusinessatxerox.blogs.xerox.com/2013/08/06/always-listening-to-our-customers-clarification-on-scanning-issue/#.UgEqCERCBiE" rel="nofollow noopener">their first press statement</a>. “For data integrity purposes, we recommend the use of the factory defaults with a quality level set to “higher.”” Aside from this, they confirm the work around and tell the customers about the small notice. </td>
+	</tr>
+	<tr class="row8">
+		<td class="col0 leftalign"> August 7   </td><td class="col1 leftalign"> <a href="http://realbusinessatxerox.blogs.xerox.com/2013/08/07/update-on-scanning-issue-software-patches-to-come/" class="urlextern" target="_blank" title="http://realbusinessatxerox.blogs.xerox.com/2013/08/07/update-on-scanning-issue-software-patches-to-come/" rel="nofollow noopener">Second Statement</a>, Software patch announced, reads like the “normal” setting will be entirely eliminated by the patch. Xerox states most clearly: “You will not see a character substitution issue when scanning with the factory default settings.” In a further document, these factory settings are defined: Compression “higher”, at least 200 DPI.   </td>
+	</tr>
+	<tr class="row9">
+		<td class="col0 leftalign"> August 9  </td><td class="col1 leftalign"> With Compression “higher” (even advised in the Xerox press statements) and an even more generous resolution 300 DPI I reproduced number mangling on a Xerox device. As I think this <em>is</em> a big deal as anyone could be affected, I told Xerox and wait until they confirmed to see number mangling with the same settings, too. They confirm, and after that <a href="https://www.dkriesel.com/blog/2013/0810_xerox_investigating_latest_mangling_test_findings" class="wikilink1" title="blog:2013:0810_xerox_investigating_latest_mangling_test_findings"> I wrote a detailed blog post about this</a>.   </td>
+	</tr>
+	<tr class="row10">
+		<td class="col0 leftalign"> August 11  </td><td class="col1 leftalign"> On a Xerox WorkCentre 7545, <em class="u">all three</em>  compression modes seem to be affected. A user reports the same using a WC 7655. In these cases, numbers seem to be mangled independently from the compression mode, which makes the issue hard to avoid. <a href="https://www.dkriesel.com/en/blog/2013/0811_all_three_compression_modes_mangling_numbers_on_xerox_workcentre_7545" class="wikilink1" title="en:blog:2013:0811_all_three_compression_modes_mangling_numbers_on_xerox_workcentre_7545">See blog post.</a>  </td>
+	</tr>
+	<tr class="row11">
+		<td class="col0"> August 12 </td><td class="col1 leftalign"> <a href="https://www.dkriesel.com/en/blog/2013/0812_xerox_scanning_issue_fully_confirmed" class="wikilink1" title="en:blog:2013:0812_xerox_scanning_issue_fully_confirmed">Xerox scanning issue fully confirmed</a>. They indeed implemented a software bug, eight years ago, and indeed, numbers could be mangled across <em>all</em> compression modes. They have to roll out a patch for hundreds of thousands of devices world-wide. On one hand, the implications might be of vital significance for Xerox now. On the other hand, I am glad not to go down in history as the guy too dumb to read the manual. <img src="https://www.dkriesel.com/lib/images/smileys/icon_cool.gif" class="icon" alt="8-)" /> <a href="http://realbusinessatxerox.blogs.xerox.com/2013/08/07/update-on-scanning-issue-software-patches-to-come/" class="urlextern" target="_blank" title="http://realbusinessatxerox.blogs.xerox.com/2013/08/07/update-on-scanning-issue-software-patches-to-come/" rel="nofollow noopener">Here is their press statement.</a>  </td>
+	</tr>
+	<tr class="row12">
+		<td class="col0"> August 19 </td><td class="col1 leftalign"> <a href="https://www.dkriesel.com/en/blog/2013/0819_xerox_patch_tested" class="wikilink1" title="en:blog:2013:0819_xerox_patch_tested">Pretested the Xerox number mangling patch today.</a> Looks good. Pattern matching completely eliminated, hundreds of thousands of devices affected.    </td>
+	</tr>
+	<tr class="row13">
+		<td class="col0"> August 22 </td><td class="col1 leftalign"> <a href="https://www.dkriesel.com/en/blog/2013/0822_xerox_scanning_bug_patch_released" class="wikilink1" title="en:blog:2013:0822_xerox_scanning_bug_patch_released">First patches for Xerox scanning bug releasted.</a> Because of the large number of affected device types, the patches are going to be released in several waves.    </td>
+	</tr>
+	<tr class="row14">
+		<td class="col0"> <strong>Sept 11</strong> </td><td class="col1 leftalign"> <strong>I keep getting asked why I did not demand money from Xerox: There are reasons for this way of proceeding. <a href="https://www.dkriesel.com/en/blog/2013/0909_xerox_money" class="wikilink1" title="en:blog:2013:0909_xerox_money">Click here for a blog post on this.</a></strong>   </td>
+	</tr>
+	<tr class="row15">
+		<td class="col0 leftalign"> From this day on  </td><td class="col1 leftalign"> Xerox has a decentral way of selling. As a result, there is no central customer list. Consequently it is unclear  how many devices have been patched yet. I would suspect there are still hundreds of thousends devices out there, producing subtly incorrect documents for 9 years now. So: Spread the word.  </td>
+	</tr>
+	<tr class="row16">
+		<td class="col0 leftalign"> March 2015  </td><td class="col1 leftalign"> The German Federal Office for Safety in Information Technology bans JBIG2 from being used for archival purposes.  </td>
+	</tr>
+</table></div>
+
+</div>
+
+<h2 class="sectionedit6" id="examples_and_how_we_found_out">Examples and how we found out</h2>
+<div class="level2">
+
+<p>
+We got aware of the problem by scanning some construction plan last Wednesday and printing it again. Construction problems contain a boxed square meter number per room. Now in some rooms, we found beautifully lay-outed, but utterly wrong square meter numbers. You really have to read the numbers to find out; this is why it is so hard to find out. In the present case, we found out because one room in the construction plan was – as the copy told us – about 22 square meters large, whereas the next room, a lot larger, was assigned a label with 14 square meters. 
+</p>
+
+<p>
+Firstly, I present to you a complete <em>original version</em> of the affected construction plan part. After this, the wrong numbers will be presented. Click to enlarge. I added the yellow marks myself to show you where the errors will occur. Let us name the upper one “place 1”, the lower left “place 2” and the lower right “place 3”.
+</p>
+
+<p>
+<a href="https://www.dkriesel.com/_media/blog/2013/originalzensiert.png" class="media" target="_blank" title="blog:2013:originalzensiert.png" rel="noopener"><img src="https://www.dkriesel.com/_media/blog/2013/originalzensiert.png?w=500&amp;tok=7b76b8" class="mediacenter" alt="" width="500" /></a>
+</p>
+
+<p>
+Now, let us scan the construction plan and get a PDF file from it. No OCR, just plain image. Then, we get wrong square meter numbers at the three places <img src="https://www.dkriesel.com/lib/images/smileys/icon_eek.gif" class="icon" alt="8-O" /> (Yeah, couldn&#039;t believe it, too). The screen shots of the erroneous places are organized in the below table. There is one additional line in the table for the original patches. The Xerox WorkCentre 7535 always produced the same errors; this is why we only need one line for it in the table. In contrast, the WorkCentre 7556 randomly produced different numbers, this is why I present three lines for three runs with different errors.
+</p>
+<div class="table sectionedit7"><table class="inline">
+	<tr class="row0">
+		<th class="col0">Run / Machine</th><th class="col1"> Place 1 </th><th class="col2"> Place 2 </th><th class="col3"> Place 3 </th>
+	</tr>
+	<tr class="row1">
+		<td class="col0"> Original, aus einem Tif-Scan entnommen, Korrektheit verifiziert </td><th class="col1"> <img src="https://www.dkriesel.com/_media/blog/2013/original-stelle1.png?w=140&amp;tok=8546b7" class="mediacenter" alt="" width="140" /></th><th class="col2"> <img src="https://www.dkriesel.com/_media/blog/2013/original-stelle2.png?w=140&amp;tok=1d02bf" class="mediacenter" alt="" width="140" /></th><th class="col3"> <img src="https://www.dkriesel.com/_media/blog/2013/original-stelle3.png?w=140&amp;tok=92bee8" class="mediacenter" alt="" width="140" /></th>
+	</tr>
+	<tr class="row2">
+		<td class="col0"> Xerox WorkCentre 7535 </td><th class="col1"> <img src="https://www.dkriesel.com/_media/blog/2013/7535-stelle1.png" class="mediacenter" alt="" /> </th><th class="col2"> <img src="https://www.dkriesel.com/_media/blog/2013/7535-stelle2.png" class="mediacenter" alt="" /></th><th class="col3"> <img src="https://www.dkriesel.com/_media/blog/2013/7535-stelle3.png" class="mediacenter" alt="" /></th>
+	</tr>
+	<tr class="row3">
+		<td class="col0"> Xerox WorkCentre 7556, Run 1 </td><th class="col1"> <img src="https://www.dkriesel.com/_media/blog/2013/7556-stelle1a.png" class="mediacenter" alt="" /></th><th class="col2"> <img src="https://www.dkriesel.com/_media/blog/2013/7556-stelle2a.png" class="mediacenter" alt="" /></th><th class="col3"> <img src="https://www.dkriesel.com/_media/blog/2013/7556-stelle3a.png" class="mediacenter" alt="" /></th>
+	</tr>
+	<tr class="row4">
+		<td class="col0"> Xerox WorkCentre 7556, Run 2 </td><th class="col1"> <img src="https://www.dkriesel.com/_media/blog/2013/7556-stelle1b.png" class="mediacenter" alt="" /></th><th class="col2"> <img src="https://www.dkriesel.com/_media/blog/2013/7556-stelle2b.png" class="mediacenter" alt="" /></th><th class="col3"> <img src="https://www.dkriesel.com/_media/blog/2013/7556-stelle3b.png" class="mediacenter" alt="" /></th>
+	</tr>
+	<tr class="row5">
+		<td class="col0"> Xerox WorkCentre 7556, Run 3 </td><th class="col1"> <img src="https://www.dkriesel.com/_media/blog/2013/7556-stelle1c.png" class="mediacenter" alt="" /></th><th class="col2"> <img src="https://www.dkriesel.com/_media/blog/2013/7556-stelle2c.png" class="mediacenter" alt="" /></th><th class="col3"> <img src="https://www.dkriesel.com/_media/blog/2013/7556-stelle3c.png" class="mediacenter" alt="" /></th>
+	</tr>
+</table></div>
+
+<p>
+I know that the resolution is not too fine, but the numbers are clearly readable. Additionally, obviously,  these are no simple wrong pixels, but whole image patches are mixed up or copied. I repeat: This is not an OCR problem, but of course, I can&#039;t have a look into the software itself, maybe OCR is still fiddling with the data even though we switched it off.
+</p>
+
+<p>
+Next example: Some cost table, scanned on the WorkCentre 7535. As we are used to, a correct-looking scan at the first glance, but take a closer look. This error was found because usually, in such cost tables, the numbers are sorted ascending. 
+</p>
+<div class="table sectionedit8"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<th class="col0"> Before </th><th class="col1"> After </th>
+	</tr>
+	</thead>
+	<tr class="row1">
+		<td class="col0"> <img src="https://www.dkriesel.com/_media/blog/2013/kostreg-vorher.png" class="mediacenter" alt="" /> </td><td class="col1"> <img src="https://www.dkriesel.com/_media/blog/2013/kostreg-nachher.png" class="mediacenter" alt="" /> </td>
+	</tr>
+</table></div>
+
+<p>
+The 65 became an 85 (second column, third line). <em>Edit: I&#039;m getting emails telling me that also a 60 in the upper right region of the image became a 80. Thanks!</em> This is not a simple pixel error either, one can clearly see the characteristic dent the 8 has on the left side in contrast to a 6. This scan is several weeks old – no one can say how many wrong documents have been produced by the Xerox machines in the mean time.   
+</p>
+
+</div>
+
+<h2 class="sectionedit9" id="affected_devices">Affected Devices</h2>
+<div class="level2">
+
+<p>
+As the saga unfolded itself, in this section I built up a “hearsay list of affected devices” according to mails my readers sent to me. As the bug is confirmed by xerox in the meantime, I was able to remove the word “hearsay”. The letter <em>x</em> can be substituted by arbitrary digits in cases where whole device families are affected. 
+</p>
+<div class="table sectionedit10"><table class="inline">
+	<tr class="row0">
+		<th class="col0 leftalign">WorkCentre  </th><td class="col1 centeralign">  232, 238, 245, 255, 265, 275, 5030, 5050, 51xx, 56xx, 57xx, 58xx, 6400, 7220, 7225, 75xx, 76xx, 77xx, 78xx  </td>
+	</tr>
+	<tr class="row1">
+		<th class="col0 leftalign">WorkCentre Bookmark  </th><td class="col1 centeralign">  40, 55  </td>
+	</tr>
+	<tr class="row2">
+		<th class="col0 leftalign">WorkCentre Pro   </th><td class="col1 centeralign">  232, 238, 245, 255, 265, 275  </td>
+	</tr>
+	<tr class="row3">
+		<th class="col0 leftalign">ColorQube  </th><td class="col1 centeralign">  8700, 8900, 92xx, 93xx  </td>
+	</tr>
+</table></div>
+
+</div>
+
+<h2 class="sectionedit11" id="reproducing_the_error">Reproducing the error</h2>
+<div class="level2">
+
+<p>
+After the cost table, I printed some numbers, scanned them, OCRed them and compared them to the original ones. As the OCR produces errors, by itself, one obviously has to check by hand for false positives when performing this. I took Arial, 7pt as a test font, and the WorkCentre 7535 with the newer of the aboved named Software version as a test machine. The scan settings were like above. And again, a lot of sixes were replaced by eights: (only a few of the errors are marked yellow for the sake for laziness):
+</p>
+<div class="table sectionedit12"><table class="inline">
+	<thead>
+	<tr class="row0">
+		<th class="col0"> Before </th><th class="col1"> After </th>
+	</tr>
+	</thead>
+	<tr class="row1">
+		<td class="col0"> <img src="https://www.dkriesel.com/_media/blog/2013/7535-zahlenkolonnen-vorher.png" class="mediacenter" alt="" /> </td><td class="col1"> <img src="https://www.dkriesel.com/_media/blog/2013/7535-zahlenkolonnen-nachher.png" class="mediacenter" alt="" /> </td>
+	</tr>
+</table></div>
+
+<p>
+Observe how the sixes around the false eights look correct. Also the false eights contain the characteristic dent again, so whole image patches have been replaced again. 
+</p>
+
+<p>
+In case you want to have a look for yourself:
+</p>
+<ul>
+<li class="level1"><div class="li"> <a href="https://www.dkriesel.com/_media/blog/2013/7535-zahlenkolonnen-vorher.tif" class="media mediafile mf_tif" target="_blank" title="blog:2013:7535-zahlenkolonnen-vorher.tif (1.1 MB)" rel="noopener">An error-free TIF scan of the page.</a> YOU CAN PRINT THIS AND CHECK ON YOUR MACHINES IF THE ERROR OCCURS.</div>
+</li>
+<li class="level1"><div class="li"> <a href="https://www.dkriesel.com/_media/blog/2013/7535-zahlenkolonnen-nachher.pdf" class="media mediafile mf_pdf" target="_blank" title="blog:2013:7535-zahlenkolonnen-nachher.pdf (602.9 KB)" rel="noopener">The first page of the PDF scan</a>  with a few marked false eights mixed in by the 7535 WorkCentre. The OCR was added by me later to be able to mark the numbers nicely, so be aware it may not be the original file, even though the image data in it is.</div>
+</li>
+<li class="level1"><div class="li"> Due to the popular demand: <a href="https://www.dkriesel.com/_media/blog/2013/7535-7pt.pdf" class="media mediafile mf_pdf" target="_blank" title="blog:2013:7535-7pt.pdf (705.8 KB)" rel="noopener">All pages of the PDF scan</a> without any post processing, just like they came out of the 7535. Lots of pages. </div>
+</li>
+</ul>
+
+</div>
+
+<h2 class="sectionedit13" id="cause_of_error_and_legal_implications">Cause of error and legal implications</h2>
+<div class="level2">
+
+<p>
+The error does occur because image segments, that are considered as identical by the <em>pattern matching</em> engine of the Xerox scan copiers, are only saved once and getting reused across the page. If the pattern matching engine works not accurately, image segments get replaced by other segments that are not identical at all, e.g. a 6 gets replaced by an 8. In contrast to what Xerox suggests in their PR, this may also happen on characters, that were perfectly readable on the original, even though they were small.
+</p>
+
+<p>
+It is important to notice that the image format used in the affected PDFs, JBIG2, is an <em>image format</em> and not a <em>compression algorithm</em>. It is no instruction of how to compress an image, it only defines in what format it should be saved afterwards. So to say, it is a <em>de</em>compression instruction. How you compress depends on you. JBIG2 has been created to save images that contain scanned text in an efficient way and in this way it is widely used. That allows us to nevertheless have look at how compression is done usually, even though we can&#039;t look in the source code of the Xerox or other machines. In particular we will see that encoding can be done lossless or lossy. 
+<strong>Consequently, the error cause described in the following is a wrong parameter setting during ancoding. The error cause is not JBIG2 itself. Because of a software bug, loss of information was introduced where none should have been.</strong>
+</p>
+
+<p>
+JBIG2, the image format used in the affected PDFs, usually has lossless and lossy operation modes. Pattern Matching &amp; Substitution“ (PM&amp;S) is one of the standard operation modes for lossy JBIG2, and “Soft Pattern Matching” (SPM) for lossless JBIG2 (<a href="http://en.wikipedia.org/wiki/JBIG2" class="urlextern" target="_blank" title="http://en.wikipedia.org/wiki/JBIG2" rel="nofollow noopener">Read here</a> or read the papery by Paul Howard et al.<sup><a href="#fn__1" id="fnt__1" class="fn_top">1)</a></sup>). In the <a href="http://www.itu.int/rec/T-REC-T.88-200002-I/en" class="urlextern" target="_blank" title="http://www.itu.int/rec/T-REC-T.88-200002-I/en" rel="nofollow noopener">JBIG2 standard</a>, the named techniques are called “Symbol Matching”.
+</p>
+
+<p>
+PM&amp;S works lossy, SPM lossless. Both operation modes have the basics in common: Images are cut into small segments, which are grouped by similarity. For every group only a representative segment is is saved that gets reused instead of other group members, which may cause character substitution. Different to PM&amp;S, SPM corrects such errors by additionally saving difference images containing the differences of the reused symbols in comparison to the original image. This correction step seems to have been left out by Xerox.
+</p>
+
+<p>
+<strong>For PDFs that were scanned with the named Xerox devices during the last 8 years, it cannot be proven what characters were on the original sheet of paper at the places that are now defined by reused patches. Therefore, these patches have no legal value at all. Please note that it is irrelevant if errors actually occured in a specific scan – the legal value is zero once it is proven that lossy jbig 2 is used.</strong>
+</p>
+
+</div>
+
+<h2 class="sectionedit14" id="is_your_company_affected_by_the_xerox_scanning_bug">Is your company affected by the Xerox Scanning Bug?</h2>
+<div class="level2">
+
+<p>
+More and more known enterprises reach out ot me these days, asking theirselves if they have a huge problem with their scanned documents. Others are already certain thay actually <em>have</em> a huge problem, some of them in security critical contexts. All have in common that they understandably are afraid of publicity. Affected companies normally have three goals: 
+</p>
+<ol>
+<li class="level1"><div class="li"> They want to solve the problem, if possible, retroactively</div>
+</li>
+<li class="level1"><div class="li"> They don&#039;t want publicity, enterprises with lots of employees don&#039;t even want the information published internally</div>
+</li>
+<li class="level1"><div class="li"> They want to stay eligible for compensations, i.e. they have to be careful not to destroy evidence by solving the problem. </div>
+</li>
+</ol>
+
+<p>
+At a closer look, these goals may contradict each other; even large and well-organized enterprises are prone for beginner&#039;s mistakes here. Thus, in general: <strong>Everyone who gets in touch with me requesting help to evaluate their own situation can be certain not to get his identity made public by me.</strong> I acted this way across the entire xerox saga and I won&#039;t stop this way of acting now. My contact data can be found in the <a href="https://www.dkriesel.com/en/imprint" class="wikilink1" title="en:imprint">imprint</a>.
+</p>
+
+</div>
+<div class="footnotes">
+<div class="fn"><sup><a href="#fnt__1" id="fn__1" class="fn_bot">1)</a></sup> 
+<div class="content">vgl. z.B. Howard, P.G.; Kossentini, F.; Martins, B.; Forchhammer, S.; Rucklidge, W.J., “The emerging JBIG2 standard”, <em>IEEE Transactions on Circuits and Systems for Video Technology</em>, vol.8, no.7, pp.838,848, Nov 1998, doi: 10.1109/76.735380.</div></div>
+</div>
+
+                    <!-- wikipage stop -->
+
+                                                        </main><!-- #writr__main -->
+
+                <p class="page-footer"><bdi>en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning.txt</bdi> · Last modified: 2015/09/02 12:31 by <bdi>david</bdi></p>
+            </div><!-- #writr__primary -->
+        </div><!-- #writr__content -->
+    </div><!-- #writr__page -->
+
+    <div class="no"><img src="https://www.dkriesel.com/lib/exe/indexer.php?id=en%3Ablog%3A2013%3A0802_xerox-workcentres_are_switching_written_numbers_when_scanning&amp;1665219609" width="2" height="1" alt="" /></div>
+</body>
+</html>

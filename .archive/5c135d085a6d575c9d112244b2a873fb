@@ -1,0 +1,762 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link rel="author" href="mailto:webmasters@gnu.org" />
+<link rel="icon" type="image/png" href="/graphics/gnu-head-mini.png" />
+<meta name="ICBM" content="42.355469,-71.058627" />
+<link rel="stylesheet" type="text/css" href="/mini.css" media="handheld" />
+<link rel="stylesheet" type="text/css" href="/layout.min.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/print.min.css" media="print" />
+
+
+
+<!-- Parent-Version: 1.96 -->
+<!-- This page is derived from /server/standards/boilerplate.html -->
+
+
+<title>Who Does That Server Really Serve?
+- GNU Project - Free Software Foundation</title>
+<!-- begin translist file -->
+
+<link rel="alternate" type="text/html" href="/philosophy/who-does-that-server-really-serve.html" hreflang="x-default" />
+<link rel="alternate" type="text/html" lang="en" hreflang="en" href="/philosophy/who-does-that-server-really-serve.en.html" title="English" />
+<link rel="alternate" type="text/html" lang="ar" hreflang="ar" href="/philosophy/who-does-that-server-really-serve.ar.html" title="العربية" />
+<link rel="alternate" type="text/html" lang="de" hreflang="de" href="/philosophy/who-does-that-server-really-serve.de.html" title="Deutsch" />
+<link rel="alternate" type="text/html" lang="es" hreflang="es" href="/philosophy/who-does-that-server-really-serve.es.html" title="español" />
+<link rel="alternate" type="text/html" lang="fr" hreflang="fr" href="/philosophy/who-does-that-server-really-serve.fr.html" title="français" />
+<link rel="alternate" type="text/html" lang="hr" hreflang="hr" href="/philosophy/who-does-that-server-really-serve.hr.html" title="hrvatski" />
+<link rel="alternate" type="text/html" lang="it" hreflang="it" href="/philosophy/who-does-that-server-really-serve.it.html" title="italiano" />
+<link rel="alternate" type="text/html" lang="ja" hreflang="ja" href="/philosophy/who-does-that-server-really-serve.ja.html" title="日本語" />
+<link rel="alternate" type="text/html" lang="ko" hreflang="ko" href="/philosophy/who-does-that-server-really-serve.ko.html" title="한국어" />
+<link rel="alternate" type="text/html" lang="lt" hreflang="lt" href="/philosophy/who-does-that-server-really-serve.lt.html" title="lietuvių" />
+<link rel="alternate" type="text/html" lang="nl" hreflang="nl" href="/philosophy/who-does-that-server-really-serve.nl.html" title="Nederlands" />
+<link rel="alternate" type="text/html" lang="pl" hreflang="pl" href="/philosophy/who-does-that-server-really-serve.pl.html" title="polski" />
+<link rel="alternate" type="text/html" lang="pt-br" hreflang="pt-br" href="/philosophy/who-does-that-server-really-serve.pt-br.html" title="português" />
+<link rel="alternate" type="text/html" lang="ro" hreflang="ro" href="/philosophy/who-does-that-server-really-serve.ro.html" title="română" />
+<link rel="alternate" type="text/html" lang="ru" hreflang="ru" href="/philosophy/who-does-that-server-really-serve.ru.html" title="русский" />
+<link rel="alternate" type="text/html" lang="sq" hreflang="sq" href="/philosophy/who-does-that-server-really-serve.sq.html" title="Shqip" />
+<link rel="alternate" type="text/html" lang="tr" hreflang="tr" href="/philosophy/who-does-that-server-really-serve.tr.html" title="Türkçe" />
+<link rel="alternate" type="text/html" lang="uk" hreflang="uk" href="/philosophy/who-does-that-server-really-serve.uk.html" title="українська" />
+<link rel="alternate" type="text/html" lang="zh-cn" hreflang="zh-cn" href="/philosophy/who-does-that-server-really-serve.zh-cn.html" title="简体中文" />
+<!-- end translist file -->
+
+<!-- start of server/banner.html -->
+<!-- start of head-include-2.html -->
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<!-- end of head-include-2.html -->
+
+</head>
+<body>
+<div class="inner">
+<!-- start of server/body-include-1.html -->
+<div id="top">
+<a class="skip" href="#content"><b>Skip to main text</b></a>
+</div>
+
+<div id="fsf-frame" role="complementary">
+<form id="fssbox" action="https://my.fsf.org/civicrm/profile/create?reset=1&amp;gid=31"
+      method="post">
+ <div>
+  <input name="postURL" type="hidden" value="" />
+  <input type="hidden" name="group[25]" value="1" />
+  <input name="cancelURL" type="hidden" value="https://crm.fsf.org/civicrm/profile?reset=1&amp;gid=31" />
+  <input name="_qf_default" type="hidden" value="Edit:cancel" />
+  <label for="frmEmail">
+   <a href="//www.fsf.org/fss">Free Software Supporter</a>:
+  </label>
+  <input type="text" id="frmEmail" name="email-Primary" size="18" maxlength="80"
+         value="email address" onfocus="this.value=''"/>
+  <input type="submit" name="_qf_Edit_next" value="Sign up" />
+ </div>
+</form>
+
+<div id="join-fsf" class="button"><a
+href="https://www.fsf.org/associate/support_freedom?referrer=4052">JOIN&nbsp;THE&nbsp;FSF</a>
+</div>
+</div>
+
+<div id="header" role="banner">
+<p id="gnu-banner">
+ <a href="/">
+ <img src="/graphics/heckert_gnu.transp.small.png" height="48" width="49"
+      alt="&nbsp;[A GNU head]&nbsp;" /><strong>GNU</strong> <span
+ class="hide">Operating System</span></a><br />
+ <small id="fsf-support">Supported by the
+ <a href="#mission-statement">Free Software Foundation</a></small>
+</p>
+
+<div id="switches">
+ <a id="search-button" class="switch" href="//www.gnu.org/cgi-bin/estseek.cgi">
+  <img id="search-icon" height="25" width="25"
+       src="/graphics/icons/search.png"
+       alt="&nbsp;[Search www.gnu.org]&nbsp;" /></a>
+
+ <a id="language-button" class="switch" href="#language-container">
+  <img id="language-icon" height="25" width="40"
+       src="/graphics/icons/translations.png"
+       alt="&nbsp;[Languages]&nbsp;" />
+ </a>
+
+</div>
+</div>
+<!-- end of server/body-include-1.html -->
+
+<!-- start of server/body-include-2 -->
+
+
+<div style="clear: both"></div>
+
+<div id="navigation" role="navigation">
+ <a id="more-links" href="#navigation" title="More...">
+   <span>Site navigation</span></a>
+ <a id="less-links" href="#content"><b>Skip</b></a>
+ <ul>
+
+   <li id="tabAboutGNU"><a href="/gnu/gnu.html">ABOUT&nbsp;GNU</a></li>
+
+
+  <li id="tabPhilosophy" class="active">
+     <span class='no-display'>=</span> 
+    <a href="/philosophy/philosophy.html">PHILOSOPHY</a>
+    <span class="gnun-split"></span>
+     <span class='no-display'>=</span> 
+  </li>
+
+
+  <li id="tabLicenses"><a href="/licenses/licenses.html">LICENSES</a></li>
+
+
+  <li id="tabEducation"><a href="/education/education.html">EDUCATION</a></li>
+
+
+  <li id="tabSoftware"><a href="/software/software.html">SOFTWARE</a></li>
+
+
+  <li id="tabDistros"><a href="/distros/distros.html">DISTROS</a></li>
+
+
+  <li id="tabDoc"><a href="/doc/doc.html">DOCS</a></li>
+
+
+  <li id="tabMalware"><a href="/proprietary/proprietary.html">MALWARE</a></li>
+
+
+  <li id="tabHelp"><a href="/help/help.html">HELP&nbsp;GNU</a></li>
+
+
+  <li id="tabArt"><a href="/graphics/graphics.html">GNU&nbsp;ART</a></li>
+
+
+  <li id="tabFun"><a href="/fun/humor.html">FUN</a></li>
+
+
+  <li id="tabPeople"><a href="/people/people.html">GNU'S&nbsp;WHO?</a></li>
+
+  <li><a href="//directory.fsf.org">SOFTWARE&nbsp;DIRECTORY</a></li>
+  <li><a href="https://h-node.org/">HARDWARE</a></li>
+  <li><a href="/server/sitemap.html">SITEMAP</a></li>
+ </ul>
+ <div style="clear: both"></div>
+</div><!-- /"navigation -->
+<!-- end of server/body-include-2 -->
+
+<div id="content" role="main">
+<!-- end of server/banner.html -->
+
+<div class="breadcrumb" role="navigation">
+<a href="/"><img src="/graphics/icons/home.png" height="26" width="26"
+     alt="GNU Home" title="GNU Home" /><span
+ class="gnun-split"></span></a>&nbsp;/<span class="gnun-split"></span>
+<a href="/philosophy/philosophy.html#content">Philosophy<span
+ class="gnun-split"></span></a>&nbsp;/<span class="gnun-split"></span>
+<a href="/philosophy/essays-and-articles.html#content">Essays&nbsp;&amp;&nbsp;articles<span
+ class="gnun-split"></span></a>&nbsp;/<span class="gnun-split"></span>
+<a href="/philosophy/essays-and-articles.html#cultural">Cultural&nbsp;&amp;&nbsp;social&nbsp;issues<span
+ class="gnun-split"></span></a>&nbsp;/<span class="gnun-split"></span>
+<a href="/philosophy/essays-and-articles.html#ns">Network&nbsp;services<span
+ class="gnun-split"></span></a>&nbsp;/<span class="gnun-split"></span>
+
+
+</div>
+
+<!--GNUN: OUT-OF-DATE NOTICE-->
+
+
+
+<div class="article reduced-width">
+<h2>Who does that server really serve?</h2>
+
+<address class="byline">by Richard Stallman</address>
+
+<div class="introduction">
+<p><em>On the Internet, proprietary software isn't the only way to
+lose your computing freedom.  Service as a Software Substitute, or SaaSS, is
+another way to give someone else power over your computing.</em></p>
+</div>
+
+<p>The basic point is, you can have control over a program someone
+else wrote (if it's free), but you can never have control over a
+service someone else runs, so never use a service where in principle
+running a program would do.</p>
+
+
+<p>SaaSS means using a service implemented by someone else as a
+substitute for running your copy of a program.  The term is ours;
+articles and ads won't use it, and they won't tell you whether a
+service is SaaSS.  Instead they will probably use the vague and
+distracting term &ldquo;cloud,&rdquo; which lumps SaaSS together with
+various other practices, some abusive and some ok.  With the
+explanation and examples in this page, you can tell whether a service
+is SaaSS.</p>
+
+<h3>Background: How Proprietary Software Takes Away Your Freedom</h3>
+
+<p>Digital technology can give you freedom; it can also take your
+freedom away.  The first threat to our control over our computing came
+from <em>proprietary software</em>: software that the users cannot
+control because the owner (a company such as Apple or Microsoft)
+controls it.  The owner often takes advantage of this unjust power by
+inserting malicious features such as spyware, back doors, and <a
+href="https://www.defectivebydesign.org">Digital Restrictions Management
+(DRM)</a> (referred to as &ldquo;Digital Rights Management&rdquo; in
+their propaganda).</p>
+
+<p>Our solution to this problem is developing <em>free software</em>
+and rejecting proprietary software.  Free software means that you, as
+a user, have four essential freedoms: (0)&nbsp;to run the program as
+you wish, (1)&nbsp;to study and change the source code so it does what
+you wish, (2)&nbsp;to redistribute exact copies, and (3)&nbsp;to
+redistribute copies of your modified versions.  (See
+the <a href="/philosophy/free-sw.html">free software
+definition</a>.)</p>
+
+<p>With free software, we, the users, take back control of our
+computing.  Proprietary software still exists, but we can exclude it
+from our lives and many of us have done so.  However, we are now
+offered another tempting way to cede control over our computing:
+Service as a Software Substitute (SaaSS).  For our freedom's sake, we
+have to reject that too.</p>
+
+<h3>How Service as a Software Substitute Takes Away Your Freedom</h3>
+
+<p>Service as a Software Substitute (SaaSS) means using a service as a
+substitute for running your copy of a program.  Concretely, it means
+that someone sets up a network server that does certain computing
+activities&mdash;for instance, modifying a photo, translating text into
+another language, etc.&mdash;then invites users to let that server do
+<em>their own computing</em> for them.  As a user of the server, you
+would send your data to the server, which does that computing
+activity on the data thus provided, then sends the results back
+to you or else acts directly on your behalf.</p>
+
+<p>What does it mean to say that a given computing activity
+is <em>your own</em>?  It means that no one else is inherently
+involved in it.  To clarify the meaning of &ldquo;inherently
+involved,&rdquo; we present a thought experiment.  Suppose that any
+free software you might need for the job is available to you, and
+whatever data you might need, as well as computers of whatever speed,
+functionality and capacity might be required.  Could you do this
+particular computing activity entirely within those computers, not
+communicating with anyone else's computers?</p>
+
+<p>If you could, then the activity is <em>entirely your own</em>.  For
+your freedom's sake, you deserve to control it.  If you do it by
+running free software, you do control it.  However, doing it via
+someone else's service would give that someone else control over your
+computing activity.  We call that scenario SaaSS, and we say it is
+unjust.</p>
+
+<p>By contrast, if for fundamental reasons you couldn't possibly do
+that activity in your own computers, then the activity isn't entirely
+your own, so the issue of SaaSS is not applicable to that activity.
+In general, these activities involve communication with others.</p>
+
+<p>SaaSS servers wrest control from the users even more inexorably
+than proprietary software.  With proprietary software, users typically
+get an executable file but not the source code.  That makes it hard to
+study the code that is running, so it's hard to determine what the
+program really does, and hard to change it.</p>
+
+<p>With SaaSS, the users do not have even the executable file that
+does their computing: it is on someone else's server, where the users
+can't see or touch it.  Thus it is impossible for them to ascertain
+what it really does, and impossible to change it.</p>
+
+<p>Furthermore, SaaSS automatically leads to consequences equivalent
+to the malicious features of certain proprietary software.</p>
+
+<p> For instance, some proprietary programs are &ldquo;spyware&rdquo;:
+the program <a href="/philosophy/proprietary-surveillance.html">
+sends out data about users' computing activities</a>.
+Microsoft Windows sends information about users' activities to
+Microsoft.  Windows Media Player reports what each user watches or
+listens to.  The Amazon Kindle reports which pages of which books the
+user looks at, and when.  Angry Birds reports the user's geolocation
+history.</p>
+
+<p>Unlike proprietary software, SaaSS does not require covert code to
+obtain the user's data.  Instead, users must send their data to the
+server in order to use it.  This has the same effect as spyware: the
+server operator gets the data&mdash;with no special effort, by the
+nature of SaaSS.  Amy Webb, who intended never to post any photos of
+her daughter, made the mistake of using SaaSS (Instagram) to edit
+photos of her.  Eventually
+<a href="https://slate.com/technology/2013/09/privacy-facebook-kids-dont-post-photos-of-your-kids-on-social-media.html">
+they leaked from there</a>.</p>
+
+<p>Theoretically, homomorphic encryption might some day advance to the
+point where future SaaSS services might be constructed to be unable to
+understand some of the data that users send them.  Such
+services <em>could</em> be set up not to snoop on users; this does not
+mean they <em>will</em> do no snooping.  Also, snooping is only one
+among the secondary injustices of SaaSS.</p>
+
+<p>Some proprietary operating systems have a universal back door,
+permitting someone to remotely install software changes.  For
+instance, Windows has a universal back door with which Microsoft can
+forcibly change any software on the machine.  Nearly all portable
+phones have them, too.  Some proprietary applications also have
+universal back doors; for instance, the Steam client for GNU/Linux
+allows the developer to remotely install modified versions.</p>
+
+<p>With SaaSS, the server operator can change the software in use on
+the server.  He ought to be able to do this, since it's his computer;
+but the result is the same as using a proprietary application program
+with a universal back door: someone has the power to silently impose
+changes in how the user's computing gets done.</p>
+
+<p>Thus, SaaSS is equivalent to running proprietary software with
+spyware and a universal back door.  It gives the server operator
+unjust power over the user, and that power is something we must
+resist.</p>
+
+<h3>SaaSS and SaaS</h3>
+
+<p>Originally we referred to this problematical practice as
+&ldquo;SaaS,&rdquo; which stands for &ldquo;Software as a
+Service.&rdquo;  It's a commonly used term for setting up software on a
+server rather than offering copies of it to users, and we thought it
+described precisely the cases where this problem occurs.</p>
+
+<p>Subsequently we became aware that the term SaaS is sometimes used for
+communication services&mdash;activities for which this issue is not
+applicable.  In addition, the term &ldquo;Software as a Service&rdquo;
+doesn't explain <em>why</em> the practice is bad.  So we coined the term
+&ldquo;Service as a Software Substitute,&rdquo; which defines the bad
+practice more clearly and says what is bad about it.</p>
+
+<h3>Untangling the SaaSS Issue from the Proprietary Software Issue</h3>
+
+<p>SaaSS and proprietary software lead to similar harmful results, but
+the mechanisms are different.  With proprietary software, the
+mechanism is that you have and use a copy which is difficult and/or
+illegal to change.  With SaaSS, the mechanism is that you don't have
+the copy that's doing your computing.</p>
+
+<p>These two issues are often confused, and not only by accident.  Web
+developers use the vague term &ldquo;web application&rdquo; to lump
+the server software together with programs run on your machine in your
+browser.  Some web pages install nontrivial, even large JavaScript
+programs into your browser without informing
+you.  <a href="/philosophy/javascript-trap.html">When these JavaScript
+programs are nonfree</a>, they cause the same sort of injustice as any
+other nonfree software.  Here, however, we are concerned with the
+issue of using the service itself.</p>
+
+<p>Many free software supporters assume that the problem of SaaSS will
+be solved by developing free software for servers.  For the server
+operator's sake, the programs on the server had better be free; if
+they are proprietary, their developers/owners have power over the
+server.  That's unfair to the server operator, and doesn't help the
+server's users at all.  But if the programs on the server are free,
+that doesn't protect <em>the server's users</em> from the effects of
+SaaSS.  These programs liberate the server operator, but not the
+server's users.</p>
+
+<p>Releasing the server software source code does benefit the
+community: it enables suitably skilled users to set up similar
+servers, perhaps changing the
+software.  <a href="/licenses/license-recommendations.html"> We
+recommend using the GNU Affero GPL</a> as the license for programs
+often used on servers.</p>
+
+<p>But none of these servers would give you control over computing you
+do on it, unless it's <em>your</em> server (one whose software load
+you control, regardless of whether the machine is your property).  It
+may be OK to trust your friend's server for some jobs, just as you
+might let your friend maintain the software on your own computer.
+Outside of that, all these servers would be SaaSS for you.  SaaSS
+always subjects you to the power of the server operator, and the only
+remedy is, <em>Don't use SaaSS!</em>  Don't use someone else's server
+to do your own computing on data provided by you.</p>
+
+<p>This issue demonstrates the depth of the difference between
+&ldquo;open&rdquo; and &ldquo;free.&rdquo;  Source code that is open
+source <a href="/philosophy/free-open-overlap.html">is, nearly always,
+free</a>.  However, the idea of
+an <a href="https://opendefinition.org/ossd/">&ldquo;open
+software&rdquo; service</a>, meaning one whose server software is open
+source and/or free, fails to address the issue of SaaSS.</p>
+
+<p>Services are fundamentally different from programs, and the ethical
+issues that services raise are fundamentally different from the issues
+that programs raise.  To avoid confusion,
+we <a href="/philosophy/network-services-arent-free-or-nonfree.html">
+avoid describing a service as &ldquo;free&rdquo; or
+&ldquo;proprietary.&rdquo;</a></p>
+
+<h3>Distinguishing SaaSS from Other Network Services</h3>
+
+<p>Which online services are SaaSS?  The clearest example is a
+translation service, which translates (say) English text into Spanish
+text.  Translating a text for you is computing that is purely yours.
+You could do it by running a program on your own computer, if only you
+had the right program.  (To be ethical, that program should be free.)
+The translation service substitutes for that program, so it is Service
+as a Software Substitute, or SaaSS.  Since it denies you control
+over your computing, it does you wrong.</p>
+
+<p>Another clear example is using a service such as Flickr or
+Instagram to modify a photo.  Modifying photos is an activity that
+people have done in their own computers for decades; doing it in a
+server you don't control, rather than your own computer, is SaaSS.</p>
+
+<p>Rejecting SaaSS does not mean refusing to use any network servers
+run by anyone other than you.  Most servers are not SaaSS because the
+jobs they do are some sort of communication, rather than the user's
+own computing.</p>
+
+<p>The original idea of web servers wasn't to do computing for you, it
+was to publish information for you to access.  Even today this is what
+most web sites do, and it doesn't pose the SaaSS problem, because
+accessing someone's published information isn't doing your own
+computing.  Neither is use of a blog site to publish your own works,
+or using a microblogging service such as Twitter or StatusNet.  (These
+services may or may not have other problems, depending on details.)
+The same goes for other communication not meant to be private, such as
+chat groups.</p>
+
+<p>In its essence, social networking is a form of communication and
+publication, not SaaSS.  However, a service whose main facility is
+social networking can have features or extensions which are SaaSS.</p>
+
+<p>If a service is not SaaSS, that does not mean it is OK.  There are
+other ethical issues about services.  For instance, Facebook requires
+running nonfree JavaScript code, and it gives users a misleading
+impression of privacy while luring them into baring their lives to
+Facebook.  Those are important issues, different from the SaaSS issue.
+</p>
+
+<p>Services such as search engines collect data from around the web
+and let you examine it.  Looking through their collection of data
+isn't your own computing in the usual sense&mdash;you didn't provide
+that collection&mdash;so using such a service to search the web is not
+SaaSS.  However, using someone else's server to implement a search
+facility for your own site <em>is</em> SaaSS.</p>
+
+<p>Purchasing online is not SaaSS, because the computing
+isn't <em>your own</em> activity; rather, it is done jointly by and
+for you and the store.  The real issue in online shopping is whether
+you trust the other party with your money and other personal
+information (starting with your name).</p>
+
+<p>Repository sites such as Savannah and SourceForge are not
+inherently SaaSS, because a repository's job is publication of data
+supplied to it.</p>
+
+<p>Using a joint project's servers isn't SaaSS because the computing
+you do in this way isn't your own.  For instance, if you edit pages on
+Wikipedia, you are not doing your own computing; rather, you are
+collaborating in Wikipedia's computing.  Wikipedia controls its own
+servers, but organizations as well as individuals encounter the
+problem of SaaSS if they do their computing in someone else's
+server.</p>
+
+<p>Some sites offer multiple services, and if one is not SaaSS,
+another may be SaaSS.  For instance, the main service of Facebook is
+social networking, and that is not SaaSS; however, it supports
+third-party applications, some of which are SaaSS.  Flickr's main
+service is distributing photos, which is not SaaSS, but it also has
+features for editing photos, which is SaaSS.  Likewise, using
+Instagram to post a photo is not SaaSS, but using it to transform the
+photo is SaaSS.</p>
+
+<p>Google Docs shows how complex the evaluation of a single service
+can become.  It invites people to edit a document by running a
+large <a href="/philosophy/javascript-trap.html">nonfree JavaScript
+program</a>, clearly wrong.  However, it offers an API for uploading
+and downloading documents in standard formats.  A free software editor
+can do so through this API.  This usage scenario is not SaaSS, because
+it uses Google Docs as a mere repository.  Showing all your data to a
+company is bad, but that is a matter of privacy, not SaaSS; depending
+on a service for access to your data is bad, but that is a matter of
+risk, not SaaSS.  On the other hand, using the service for converting
+document formats <em>is</em> SaaSS, because it's something you could
+have done by running a suitable program (free, one hopes) in your own
+computer.</p>
+
+<p>Using Google Docs through a free editor is rare, of course.  Most
+often, people use it through the nonfree JavaScript program, which is
+bad like any nonfree program.  This scenario might involve SaaSS, too;
+that depends on what part of the editing is done in the JavaScript
+program and what part in the server.  We don't know, but since SaaSS
+and proprietary software do similar wrong to the user, it is not
+crucial to know.</p>
+
+<p>Publishing via someone else's repository does not raise privacy
+issues, but publishing through Google Docs has a special problem: it
+is impossible even to <em>view the text</em> of a Google Docs document
+in a browser without running the nonfree JavaScript code.  Thus, you
+should not use Google Docs to publish anything&mdash;but the reason
+is not a matter of SaaSS.</p>
+
+<p>The IT industry discourages users from making these distinctions.
+That's what the buzzword &ldquo;cloud computing&rdquo; is for.  This
+term is so nebulous that it could refer to almost any use of the
+Internet.  It includes SaaSS as well as many other network usage
+practices.  In any given context, an author who writes
+&ldquo;cloud&rdquo; (if a technical person) probably has a specific
+meaning in mind, but usually does not explain that in other articles
+the term has other specific meanings.  The term leads people to
+generalize about practices they ought to consider individually.</p>
+
+<p>If &ldquo;cloud computing&rdquo; has a meaning, it is not a way of
+doing computing, but rather a way of thinking about computing: a
+devil-may-care approach which says, &ldquo;Don't ask questions.  Don't
+worry about who controls your computing or who holds your data.  Don't
+check for a hook hidden inside our service before you swallow it.
+Trust companies without hesitation.&rdquo; In other words, &ldquo;Be a
+sucker.&rdquo; A cloud in the mind is an obstacle to clear thinking.
+For the sake of clear thinking about computing, let's avoid the term
+&ldquo;cloud.&rdquo;</p>
+
+<h3 id="renting">Renting a Server Distinguished from SaaSS</h3>
+
+<p>If you rent a server (real or virtual), whose software load you
+have control over, that's not SaaSS.  In SaaSS, someone else decides
+what software runs on the server and therefore controls the computing
+it does for you.  In the case where you install the software on the
+server, you control what computing it does for you.  Thus, the rented
+server is virtually your computer.  For this issue, it counts as
+yours.</p>
+
+<p>The <em>data</em> on the rented remote server is less secure than
+if you had the server at home, but that is a separate issue from
+SaaSS.</p>
+
+<p>This kind of server rental is sometimes called &ldquo;IaaS,&rdquo;
+but that term fits into a conceptual structure that downplays the issues
+that we consider important.</p>
+
+<h3>Dealing with the SaaSS Problem</h3>
+
+<p>Only a small fraction of all web sites do SaaSS; most don't raise
+the issue.  But what should we do about the ones that raise it?</p>
+
+<p>For the simple case, where you are doing your own computing on data
+in your own hands, the solution is simple: use your own copy of a free
+software application.  Do your text editing with your copy of a free
+text editor such as GNU Emacs or a free word processor.  Do your photo
+editing with your copy of free software such as GIMP.  What if there
+is no free program available?  A proprietary program or SaaSS would
+take away your freedom, so you shouldn't use those.  You can contribute
+your time or your money to development of a free replacement.</p>
+
+<p>What about collaborating with other individuals as a group?  It may
+be hard to do this at present without using a server, and your group
+may not know how to run its own server.  If you use someone else's
+server, at least don't trust a server run by a company.  A mere
+contract as a customer is no protection unless you could detect a
+breach and could really sue, and the company probably writes its
+contracts to permit a broad range of abuses.  The state can subpoena
+your data from the company along with everyone else's, as Obama has
+done to phone companies, supposing the company doesn't volunteer them
+like the US phone companies that illegally wiretapped their customers
+for Bush.  If you must use a server, use a server whose operators give
+you a basis for trust beyond a mere commercial relationship.</p>
+
+<p>However, on a longer time scale, we can create alternatives to
+using servers.  For instance, we can create a peer-to-peer program
+through which collaborators can share data encrypted.  The free
+software community should develop distributed peer-to-peer
+replacements for important &ldquo;web applications.&rdquo;  It may be
+wise to release them under
+the <a href="/licenses/why-affero-gpl.html"> GNU Affero GPL</a>, since
+they are likely candidates for being converted into server-based
+programs by someone else.  The <a href="/">GNU project</a> is looking
+for volunteers to work on such replacements.  We also invite other
+free software projects to consider this issue in their design.</p>
+
+<p>In the meantime, if a company invites you to use its server to do
+your own computing tasks, don't yield; don't use SaaSS.  Don't buy or
+install &ldquo;thin clients,&rdquo; which are simply computers so weak
+they make you do the real work on a server, unless you're going to use
+them with <em>your</em> server.  Use a real computer and keep your
+data there.  Do your own computing with your own copy of a free
+program, for your freedom's sake.</p>
+
+<div class="announcement comment" role="complementary">
+<p>See also:
+<a href="/philosophy/bug-nobody-allowed-to-understand.html">The
+Bug Nobody is Allowed to Understand</a>.</p>
+</div>
+
+<div class="infobox extra" role="complementary">
+<hr />
+<p>The first version of this article was published
+in the <cite><a
+href="https://bostonreview.net/articles/richard-stallman-free-software-drm/">
+Boston Review</a></cite>.</p>
+</div>
+</div>
+
+</div><!-- for id="content", starts in the include above -->
+
+              <!-- begin server/footer-text.html -->
+
+
+
+
+
+<div style="clear:both"></div>
+
+
+<div id="language-container">
+ <div class="backtotop">
+  <hr class="no-display" />
+  <a href="#top"><b>&#9650;</b></a>
+ </div>
+ <div id="languages" class="rounded-corners">
+  <div class="button">
+   <a href="#top" class="close"><span>BACK TO TOP</span></a>
+  </div>
+  <div id="set-language" class="button">
+   <span class="gnun-split"></span>
+   <a href="/server/select-language.html?callback=/philosophy/who-does-that-server-really-serve.en.html" rel="nofollow">
+   Set language
+   <span class="gnun-split"></span>
+   </a>
+  </div>
+  <p>Available for this page:</p>
+  <div id="translations">
+<p>
+<span dir="ltr" class="original">[en]&nbsp;<a lang="en" hreflang="en" href="/philosophy/who-does-that-server-really-serve.en.html">English</a> &nbsp;</span>
+<span dir="ltr">[ar]&nbsp;<a lang="ar" hreflang="ar" href="/philosophy/who-does-that-server-really-serve.ar.html">العربية</a> &nbsp;</span>
+<span dir="ltr">[de]&nbsp;<a lang="de" hreflang="de" href="/philosophy/who-does-that-server-really-serve.de.html">Deutsch</a> &nbsp;</span>
+<span dir="ltr">[es]&nbsp;<a lang="es" hreflang="es" href="/philosophy/who-does-that-server-really-serve.es.html">español</a> &nbsp;</span>
+<span dir="ltr">[fr]&nbsp;<a lang="fr" hreflang="fr" href="/philosophy/who-does-that-server-really-serve.fr.html">français</a> &nbsp;</span>
+<span dir="ltr">[hr]&nbsp;<a lang="hr" hreflang="hr" href="/philosophy/who-does-that-server-really-serve.hr.html">hrvatski</a> &nbsp;</span>
+<span dir="ltr">[it]&nbsp;<a lang="it" hreflang="it" href="/philosophy/who-does-that-server-really-serve.it.html">italiano</a> &nbsp;</span>
+<span dir="ltr">[ja]&nbsp;<a lang="ja" hreflang="ja" href="/philosophy/who-does-that-server-really-serve.ja.html">日本語</a> &nbsp;</span>
+<span dir="ltr">[ko]&nbsp;<a lang="ko" hreflang="ko" href="/philosophy/who-does-that-server-really-serve.ko.html">한국어</a> &nbsp;</span>
+<span dir="ltr">[lt]&nbsp;<a lang="lt" hreflang="lt" href="/philosophy/who-does-that-server-really-serve.lt.html">lietuvių</a> &nbsp;</span>
+<span dir="ltr">[nl]&nbsp;<a lang="nl" hreflang="nl" href="/philosophy/who-does-that-server-really-serve.nl.html">Nederlands</a> &nbsp;</span>
+<span dir="ltr">[pl]&nbsp;<a lang="pl" hreflang="pl" href="/philosophy/who-does-that-server-really-serve.pl.html">polski</a> &nbsp;</span>
+<span dir="ltr">[pt-br]&nbsp;<a lang="pt-br" hreflang="pt-br" href="/philosophy/who-does-that-server-really-serve.pt-br.html">português</a> &nbsp;</span>
+<span dir="ltr">[ro]&nbsp;<a lang="ro" hreflang="ro" href="/philosophy/who-does-that-server-really-serve.ro.html">română</a> &nbsp;</span>
+<span dir="ltr">[ru]&nbsp;<a lang="ru" hreflang="ru" href="/philosophy/who-does-that-server-really-serve.ru.html">русский</a> &nbsp;</span>
+<span dir="ltr">[sq]&nbsp;<a lang="sq" hreflang="sq" href="/philosophy/who-does-that-server-really-serve.sq.html">Shqip</a> &nbsp;</span>
+<span dir="ltr">[tr]&nbsp;<a lang="tr" hreflang="tr" href="/philosophy/who-does-that-server-really-serve.tr.html">Türkçe</a> &nbsp;</span>
+<span dir="ltr">[uk]&nbsp;<a lang="uk" hreflang="uk" href="/philosophy/who-does-that-server-really-serve.uk.html">українська</a> &nbsp;</span>
+<span dir="ltr">[zh-cn]&nbsp;<a lang="zh-cn" hreflang="zh-cn" href="/philosophy/who-does-that-server-really-serve.zh-cn.html">简体中文</a> &nbsp;</span>
+</p>
+</div>
+ </div>
+</div>
+
+<div id="mission-statement" role="complementary">
+ <div class="backtotop">
+  <hr class="no-display" />
+  <a href="#header"><span>BACK TO TOP </span>&#9650;</a>
+ </div>
+<div style="clear: both"></div>
+<blockquote>
+<p style="direction:ltr; text-align:left"><a href="//www.fsf.org"><img id="fsfbanner"
+src="/graphics/fsf-logo-notext-small.png" alt="&nbsp;[FSF logo]&nbsp;"
+width="75" height="25" /></a><strong>
+&ldquo;The Free Software Foundation (FSF) is a nonprofit with a worldwide
+mission to promote computer user freedom. We defend the rights of all
+software users.&rdquo;</strong></p>
+</blockquote>
+
+<div id="support-the-fsf" class="button">
+ <a class="join" href="//www.fsf.org/associate/support_freedom?referrer=4052">JOIN</a>
+ <a class="donate" href="//donate.fsf.org/">DONATE</a>
+ <a class="shop" href="//shop.fsf.org/">SHOP</a>
+</div>
+</div>
+<!-- end server/footer-text.html -->
+
+
+<div id="footer" role="contentinfo">
+<div class="unprintable">
+
+<p>Please send general FSF &amp; GNU inquiries to
+<a href="mailto:gnu@gnu.org">&lt;gnu@gnu.org&gt;</a>.
+There are also <a href="/contact/">other ways to contact</a>
+the FSF.  Broken links and other corrections or suggestions can be sent
+to <a href="mailto:webmasters@gnu.org">&lt;webmasters@gnu.org&gt;</a>.</p>
+
+<p><!-- TRANSLATORS: Ignore the original text in this paragraph,
+        replace it with the translation of these two:
+
+        We work hard and do our best to provide accurate, good quality
+        translations.  However, we are not exempt from imperfection.
+        Please send your comments and general suggestions in this regard
+        to <a href="mailto:web-translators@gnu.org">
+        &lt;web-translators@gnu.org&gt;</a>.</p>
+
+        <p>For information on coordinating and contributing translations of
+        our web pages, see <a
+        href="/server/standards/README.translations.html">Translations
+        README</a>. -->
+Please see the <a
+href="/server/standards/README.translations.html">Translations
+README</a> for information on coordinating and contributing translations
+of this article.</p>
+</div>
+
+<!-- Regarding copyright, in general, standalone pages (as opposed to
+     files generated as part of manuals) on the GNU web server should
+     be under CC BY-ND 4.0.  Please do NOT change or remove this
+     without talking with the webmasters or licensing team first.
+     Please make sure the copyright date is consistent with the
+     document.  For web pages, it is ok to list just the latest year the
+     document was modified, or published.
+     
+     If you wish to list earlier years, that is ok too.
+     Either "2001, 2002, 2003" or "2001-2003" are ok for specifying
+     years, as long as each year in the range is in fact a copyrightable
+     year, i.e., a year in which the document was published (including
+     being publicly visible on the web or in a revision control system).
+     
+     There is more detail about copyright years in the GNU Maintainers
+     Information document, www.gnu.org/prep/maintain. -->
+
+<p>Copyright &copy; 2010, 2013, 2015, 2016, 2018, 2020, 2021, 2022 Richard Stallman</p>
+
+<p>This page is licensed under a <a rel="license"
+href="http://creativecommons.org/licenses/by-nd/4.0/">Creative
+Commons Attribution-NoDerivatives 4.0 International License</a>.</p>
+
+<!-- start of server/bottom-notes.html -->
+<div id="bottom-notes" class="unprintable">
+<p><a href="//www.fsf.org/about/dmca-notice">Copyright Infringement Notification</a></p>
+<div id="generic">
+
+
+</div>
+</div>
+<!-- end of server/bottom-notes.html -->
+
+
+<p class="unprintable">Updated:
+<!-- timestamp start -->
+$Date: 2022/01/01 17:25:38 $
+<!-- timestamp end -->
+</p>
+</div>
+</div><!-- for class="inner", starts in the banner include -->
+</body>
+</html>

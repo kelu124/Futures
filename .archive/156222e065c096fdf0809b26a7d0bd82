@@ -1,0 +1,1633 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script>/\/radio(\/parrilla)?.html/gmi.test(location.href||"")&&/MSIE|Trident/gm.test(navigator.userAgent||"")&&!!window.MSInputMethodContext&&!!document.documentMode&&function(){var a=document.createElement("script");a.src="//e00-elmundo.uecdn.es/js/ue-polyfills.min.js",a.type="text/javascript";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)}();</script>
+<script type="text/javascript" language="javascript" src="https://e00-ue.uecdn.es/cookies/js/policy_v4.js"></script>
+<script>window.googlefc=window.googlefc||{},window.googlefc.ccpa=window.googlefc.ccpa||{},window.googlefc.callbackQueue=window.googlefc.callbackQueue||[],googlefc.callbackQueue.push({AD_BLOCK_DATA_READY:()=>{var o;switch(googlefc.getAdBlockerStatus()){case googlefc.AdBlockerStatusEnum.EXTENSION_LEVEL_AD_BLOCKER:case googlefc.AdBlockerStatusEnum.NETWORK_LEVEL_AD_BLOCKER:o="bloqueada";break;case googlefc.AdBlockerStatusEnum.NO_AD_BLOCKER:o="no bloqueada";break;case googlefc.AdBlockerStatusEnum.UNKNOWN:default:o="sin datos"}console.log("GFC status: "+o);try{localStorage.setItem("be_adblocking",o)}catch(o){}}}),googlefc.controlledMessagingFunction=function(o){var e,c,a,l,n=!1;try{n=new RegExp("https?://(www.marca.com(/claro-mx|/en)?|(us|co|ar).marca.com/claro)/$").test(window.location.origin+window.location.pathname)?(console.log("GFC in homepage"),!1):(a=(c=function(o){o=document.cookie.match("(^|;) ?"+o+"=([^;]*)(;|$)");return o?o[2]:null})("REGMARCA"),l=c("REGMARCAMEXICO"),e=new RegExp("[0-9a-zA-Z]+-(?:[a-zA-Z0-9+/]{4})*(?:|(?:[a-zA-Z0-9+/]{3}=)|(?:[a-zA-Z0-9+/]{2}==)|(?:[a-zA-Z0-9+/]{1}===))$"),c=window.location.pathname,l=(a=null!=a&&e.test(unescape(a)))||null!=l&&e.test(unescape(l)),!(a||c.includes("claro-mx")&&l)||(console.log("GFC logged user"),!1)),console.log("GFC show message: "+n)}catch(o){console.log("GFC test exception")}o.proceed(n)};</script>
+<script async src="https://fundingchoicesmessages.google.com/i/pub-2081531155174950?ers=1" nonce="3dEcZ3xu8OBd+gA5QsCosA"></script><script nonce="3dEcZ3xu8OBd+gA5QsCosA">(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
+<script type="text/javascript">window.gdprAppliesGlobally=true;(function(){function a(e){if(!window.frames[e]){if(document.body&&document.body.firstChild){var t=document.body;var n=document.createElement("iframe");n.style.display="none";n.name=e;n.title=e;t.insertBefore(n,t.firstChild)}else{setTimeout(function(){a(e)},5)}}}function e(n,r,o,c,s){function e(e,t,n,a){if(typeof n!=="function"){return}if(!window[r]){window[r]=[]}var i=false;if(s){i=s(e,t,n)}if(!i){window[r].push({command:e,parameter:t,callback:n,version:a})}}e.stub=true;function t(a){if(!window[n]||window[n].stub!==true){return}if(!a.data){return}var i=typeof a.data==="string";var e;try{e=i?JSON.parse(a.data):a.data}catch(t){return}if(e[o]){var r=e[o];window[n](r.command,r.parameter,function(e,t){var n={};n[c]={returnValue:e,success:t,callId:r.callId};a.source.postMessage(i?JSON.stringify(n):n,"*")},r.version)}}if(typeof window[n]!=="function"){window[n]=e;if(window.addEventListener){window.addEventListener("message",t,false)}else{window.attachEvent("onmessage",t)}}}e("__tcfapi","__tcfapiBuffer","__tcfapiCall","__tcfapiReturn");a("__tcfapiLocator");(function(e,tgt){var t=document.createElement("script");t.id="spcloader";t.type="text/javascript";t.async=true;t.src="https://sdk.privacy-center.org/"+e+"/loader.js?target_type=notice&target="+tgt;t.charset="utf-8";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)})("178119d0-5586-4a4c-953e-04aaf9ac0994","bH6MpnRd")})();</script>
+<script type='text/javascript'>var gptadslots=[],googletag=googletag||{};googletag.cmd=googletag.cmd||[];function initAdServer(){(function(){var a=document.createElement("script");a.async=!0,a.type="text/javascript";var b="https:"==document.location.protocol;a.src=(b?"https:":"http:")+"//www.googletagservices.com/tag/js/gpt.js";var c=document.getElementsByTagName("script")[0];c.parentNode.insertBefore(a,c)})()}</script>
+<script type='text/javascript' async>var pbjs=pbjs||{};pbjs.que=pbjs.que||[];(function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="//e00-elmundo.uecdn.es/js/pbma.js";var t=document.getElementsByTagName("head")[0];t.insertBefore(e,t.firstChild)})()</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-15"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1"/><title data-ue-u="title" data-ue-c="innerHTML">World Cup 2022: One-night stands will be illegal at the Qatar World Cup | Marca</title> <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0">
+<link rel="preload" href="https://e00.uecdn.es/fonts/roboto/Roboto-Bold.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="https://e00.uecdn.es/fonts/roboto/Roboto-Regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" type="text/css" href='https://e00-marca.uecdn.es/assets/article/marca/v2/main-article.cc396458aa68bc9e7892.css'>
+<meta data-ue-u="description" name="description" content="Any extramarital sexual encounter that takes place in Qatar during the 2022 World Cup could result in a seven-year jail sentence.
+It is the first time that a World Cup has been hel"/>
+<meta data-ue-u="keywords" name="keywords" content="en/world-cup,Agency_SAM,FIFA World Cup - English"/>
+<meta data-ue-u="news_keywords" name="news_keywords" content="en/world-cup,Agency_SAM,FIFA World Cup - English"/>
+<meta name="theme-color" content="#CC0000">
+<!-- ##IBEXCLU --><link Href="https://www.marca.com/en/world-cup/2022/06/21/62b1b8e446163f7e7a8b45af.html" data-ue-c="href" data-ue-u="canonical" rel="canonical"/>
+<link rel="amphtml" Href="https://amp.marca.com/en/world-cup/2022/06/21/62b1b8e446163f7e7a8b45af.html"><!-- ##FBEXCLU --><meta name="robots" content="index,follow"/>
+<meta name="date" content="2022-06-21T12:30:50Z"/>
+<meta property="article:modified_time" content="2022-06-21T12:30:50Z"/>
+<meta name="DC.date.issued" content="2022-06-21T12:30:50Z">
+<meta property="article:published_time" content="2022-06-21T12:30:50Z"/>
+<meta name="organization" content="Unidad Editorial Información General S.L.U."/>
+<meta property="article:section" content="En/world-cup"/> <meta property="article:tag" content="en/world-cup"/>
+<meta property="article:tag" content="Agency_SAM"/>
+<meta property="article:tag" content="FIFA World Cup - English"/>
+<meta name="twitter:site" content="@MarcainEnglish"/>
+<meta data-ue-u="twitter:title" name="twitter:title" content="One-night stands will be illegal at the Qatar World Cup"/>
+<meta data-ue-u="twitter:description" name="twitter:description" content="Any extramarital sexual encounter that takes place in Qatar during the 2022 World Cup could result in a seven-year jail sentence.
+It is the first time that a World Cup has been hel"/>
+<link rel="alternate" hreflang="en" Href="https://www.marca.com/en/world-cup/2022/06/21/62b1b8e446163f7e7a8b45af.html"/><link rel="alternate" hreflang="es-co" Href="https://co.marca.com/claro/futbol/mundial/2022/06/21/62b1ab1d268e3ede6f8b458d.html"/><link rel="alternate" hreflang="es" Href="https://www.marca.com/futbol/mundial/2022/06/21/62b161a4e2704e81748b45e8.html"/><meta data-ue-u="og:title" property="og:title" content="One-night stands will be illegal at the Qatar World Cup"/>
+<meta data-ue-u="og:description" property="og:description" content="Any extramarital sexual encounter that takes place in Qatar during the 2022 World Cup could result in a seven-year jail sentence.
+It is the first time that a World Cup has been hel"/>
+<meta property="og:url" content="https://www.marca.com/en/world-cup/2022/06/21/62b1b8e446163f7e7a8b45af.html"/> <meta data-ue-u="og:image" property="og:image" content="https://phantom-marca.unidadeditorial.es/b70677f4f981652f8e6486e887628648/resize/1200/f/jpg/assets/multimedia/imagenes/2022/06/21/16557923666004.jpg"/>
+<meta data-ue-u="twitter:image" name="twitter:image" content="https://phantom-marca.unidadeditorial.es/b70677f4f981652f8e6486e887628648/resize/1200/f/jpg/assets/multimedia/imagenes/2022/06/21/16557923666004.jpg"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta property="og:type" content="article"/>
+<meta property="og:site_name" content="MARCA"/>
+<meta property="fb:app_id" content="279395918757488"/>
+<link rel="shortcut icon" type="image/ico" Href="https://www.marca.com/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" Href="https://www.marca.com/favicon_32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" Href="https://www.marca.com/favicon_96x96.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" Href="https://www.marca.com/apple-touch-icon-precomposed.png"> <!-- ##IBEXCLU --> <link href="https://www.marca.com/rss/googlenews/en/world-cup.xml" rel="alternate" type="application/rss+xml" title="RSS de world-cup - Marca.com"/>
+<!-- ##FBEXCLU --> <script src="https://e00-marca.uecdn.es/assets/v27/js/jquery.2.1.4.js" type="text/javascript"></script>
+<script src="https://e00-marca.uecdn.es/assets/v27/js/ue-utils.js" type="text/javascript"></script>
+<script src="https://e00-marca.uecdn.es/assets/v27/js/youtube-api.min.js" type="text/javascript"></script>
+<script async=true src='https://e00-marca.uecdn.es/assets/uelogin/v2/ueLogin.55e8db490027ab9d1c66.js' charset='utf-8'></script>
+<script type="text/javascript">window._taboola=window._taboola||[];_taboola.push({article:'auto'});!function(e,f,u,i){if(!document.getElementById(i)){e.async=1;e.src=u;e.id=i;f.parentNode.insertBefore(e,f);}}(document.createElement('script'),document.getElementsByTagName('script')[0],'//cdn.taboola.com/libtrc/unidadeditorial-marcaenglish/loader.js','tb_loader_script');if(window.performance&&typeof window.performance.mark=='function')
+{window.performance.mark('tbl_ic');}</script>
+<meta name="theme-color" content="#2e6d9d">
+<meta name="referrer" content="unsafe-url">
+<meta name="cXenseParse:une-kicker" content="World Cup"/><meta name="cXenseParse:une-premiumDetail" content="abierta"/>
+<link rel="stylesheet" href="https://e00-marca.uecdn.es/assets/v27/css/estaticas/mundial.css" type="text/css" media="all"/> <!--[if lt IE 9]>
+        <script type="text/javascript" src="https://e00-marca.uecdn.es/assets/v27/js/html5shiv.js"></script>
+<![endif]--> <script type="application/ld+json">
+    [
+        {
+            "@context": "http://schema.org",
+            "@type":
+                "NewsArticle",
+                "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "https://www.marca.com/en/world-cup/2022/06/21/62b1b8e446163f7e7a8b45af.html"
+            },
+            "headline": "One-night stands will be illegal at the Qatar World Cup",
+            "articleSection": "FIFA World Cup Qatar 2022",
+            "articleBody" : "Any extramarital sexual encounter that takes place in Qatar during the 2022 World Cup could result in a seven-year jail sentence.                                         It is the first time that a World Cup has been held in a Gulf state, which means there are some cultural differences that many spectators may struggle to adapt to.                                         Qatar&amp;apos;s Supreme Committee said in a statement that &amp;quot;Qatar is a conservative country and public displays of affection are frowned upon regardless of sexual orientation&amp;quot;.                                         The Daily Star now reports that there is growing concern from UK law enforcement about the possibility of British fans facing stiff penalties for doing things that they would not think twice about.                                         &amp;quot;Sex is very much off the menu, unless you are coming as a husband and wife team,&amp;quot; a police source told the Daily Star.                                         &amp;quot;There definitely will be no one-night stands at this tournament. There will be no partying at all really.                                          &amp;quot;Everyone needs to keep their heads about them, unless they want to risk being stuck in prison.                                         &amp;quot;There is essentially a sex ban in place at this year&amp;apos;s World Cup for the first time ever. Fans need to be prepared.&amp;quot;                                                                                        Concern for LGTBIQ+ visitors to Qatar                                           Nasser Al-Khater, chairman of Qatar&amp;apos;s 2022 World Cup organising committee, has said that all World Cup attendees will be safe regardless of their sexual orientation or culture.                                         In December 2021 Al-Khater did confirm that &amp;quot;homosexuality is not allowed&amp;quot; in the emirate, but promises that LGTBIQ+ fans will have the right to travel to the country and attend matches.                                         &amp;quot;Qatar and the region are a lot more conservative,&amp;quot; Al-Khater told CNN.                                         &amp;quot;And this is what we ask fans to respect. And we&amp;apos;re sure that fans will respect that.                                         &amp;quot;We respect different cultures and we expect other cultures to respect ours.                                         &amp;quot;Qatar is a tolerant country. It&amp;apos;s a welcoming country. It&amp;apos;s a hospitable country.&amp;quot;",
+            "image":[
+                            {"@type": "ImageObject",
+                                    "url": "https://phantom-marca.unidadeditorial.es/0509df3173b34a3c5cb82005a23572b0/resize/1200/f/webp/assets/multimedia/imagenes/2022/06/21/16557925498430.jpg",
+                                    "height": 753,
+                                    "width": 1200
+                                }],
+            "datePublished": "2022-06-21T12:30:50Z",
+                       "dateModified": "2022-06-21T12:30:50Z",                        "author": [{
+                        "@type": "Person",
+                        "name": "ENRIQUE CORBELLA"
+                    },{
+                        "@type": "Person",
+                        "name": "Adapted by SAM"
+                    }],"publisher": {
+                "@type": "NewsMediaOrganization",
+                "name":
+                "Marca",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url":
+                    "https://e00-marca.uecdn.es/assets/v27/img/marca_publisher.png",
+                        "width": 179,
+                        "height": 60
+                    }
+            },
+            "description": "Any extramarital sexual encounter that takes place in Qatar during the 2022 World Cup could result in a seven-year jail sentence.
+It is the first time that a World Cup has been hel"        }
+    ]
+    </script>
+<script type="text/javascript">!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js")</script>
+<script src="//e00-elmundo.uecdn.es/js/uecomscore_cmp_event.js"></script>
+<script>window.uePermutiveIds={PROJECT_ID:'10453011-272d-49cd-9043-1964fdb36fd8',PUBLIC_API_KEY:'184e2a21-c646-4fd9-a6ad-7281617e89a7',NAMESPACE:'unidad'};</script>
+<script src='//e00-ue.uecdn.es/permutive/ue-permutive.min.js'></script>
+<script defer src='https://cdn.permutive.com/10453011-272d-49cd-9043-1964fdb36fd8-web.js'></script>
+</head>
+<body><div id="pixelcontabilizacionmarca" class="pixelcontabilizacion" style="position:absolute;top:0px;left:0px;width:1px;height:1px;z-Index:1"><img src="https://pixelcounter.marca.com/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Emarca%2Ecom%2Fen%2Fworld%2Dcup%2F2022%2F06%2F21%2F62b1b8e446163f7e7a8b45af%2Ehtml&amp;s=marca&amp;d=Y0E8mwoAAlMAAABbb5k" width="1" height="1" alt="" /><script type="text/javascript">function DM_prepClient(csid,client){var cat=document.location.href.split('/');url_section=cat[6];client.DM_addEncToLoc("as_section",url_section);}</script></div>
+<script src="https://tags.tiqcdn.com/utag/unidadeditorial/marca/prod/utag.sync.js"></script>
+<script type="text/javascript">
+var cdn_cookies=function(){var e=location.hostname,o="; "+document.cookie,t={"www.marca.com":{cookieName:["MARCA_idusr","UE_pref", "MARCA_edition"]},"videos.marca.com":{cookieName:["MARCA_idusr","UE_pref"],destinationHost:"www.marca.com"}};if(t[e])for(i=0;i<t[e].cookieName.length;i++)if(o.split("; "+t[e].cookieName[i]+"=").length<2){var n=document.createElement("img"),s=location.hostname;t[e].destinationHost&&(s=t[e].destinationHost),n.alt=" ",n.style="display:none;position:absolute;top:0px;left:0px;width:1px;height:1px;z-Index:1",n.src="//"+s+"/ue-cdn/services/cdn_cookie_service.html";var c=document.body.firstChild;c.parentNode.insertBefore(n,c);break}};cdn_cookies();
+</script>
+<script>var nav_continua_active=true;</script>
+<script type="text/javascript">var cookieList=document.cookie.split(';');cookieList.forEach(function(item){if(typeof item=="string"&&item.indexOf("REGMARCA")!=-1){var ifr_seed=document.createElement("iframe");ifr_seed.src="https://5214106.fls.doubleclick.net/activityi;src=5214106;type=corp;cat=regis00;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord="+Math.random()*1000000000000+"?";ifr_seed.width="1";ifr_seed.height="1";ifr_seed.style.display="none";ifr_seed.setAttribute("frameborder","0");var node=document.body.getElementsByTagName("script")[0];node.parentNode.insertBefore(ifr_seed,node);}});</script>
+<noscript>
+<iframe src="https://5214106.fls.doubleclick.net/activityi;src=5214106;type=corp;cat=regis00;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</noscript> <script type="text/javascript">var sectionMainMenuActive='default';var uniqueCtId='62b1b8e446163f7e7a8b45af';var activeUeNavigation=1;</script><script type="text/javascript">
+var uePages = [{"url":"https://www.marca.com/en/world-cup/2018/04/20/5ad9cbb422601d91148b45a5.html","titulo":"Neymar ignores Messi and Ronaldo when naming potential World Cup stars"},{"url":"https://www.marca.com/en/world-cup/2018/04/16/5ad49f6ee2704e7b6b8b456c.html","titulo":"Isco prepares to pick up Iniesta&#039;s mantle"},{"url":"https://www.marca.com/en/world-cup/2018/04/14/5ad1cfb5e2704e7d058b45f6.html","titulo":"Brazilian clubs to wear colours of teams at the World Cup"},{"url":"https://www.marca.com/en/world-cup/2018/04/10/5accf468ca4741c73d8b4657.html","titulo":"Morocco appeal to CAS and are confident Munir can represent them in Russia"},{"url":"https://www.marca.com/en/world-cup/2018/04/10/5accb0bf468aebf9178b463d.html","titulo":"Mysterious investment group offer a fortune to control FIFA&#039;s Club World Cup"},{"url":"https://www.marca.com/en/world-cup/2018/04/09/5acb8f71e2704e46558b4661.html","titulo":"Ibrahimovic: FIFA can&#039;t stop me going to the World Cup"},{"url":"https://www.marca.com/en/world-cup/2018/04/06/5ac779aae5fdead4728b45cb.html","titulo":"Maradona: Sampaoli betrayed me"},{"url":"https://www.marca.com/en/world-cup/2018/04/05/5ac618d1e5fdeaab0d8b45f1.html","titulo":"Lopetegui: Spain praise won&#039;t make World Cup defeat any more or less likely"},{"url":"https://www.marca.com/en/world-cup/2018/04/04/5ac4abd6268e3e51478b45c7.html","titulo":"How much will referees earn at the World Cup?"},{"url":"https://www.marca.com/en/world-cup/2018/04/01/5ac12c4ee2704eea578b45ff.html","titulo":"Bilardo: Messi needs to win a World Cup to be at Pele and Maradona&#039;s level"},{"url":"https://www.marca.com/en/world-cup/2018/03/31/5abf779a468aeb911b8b462e.html","titulo":"The emotion of Thiago Silva&#039;s children when finding their father&#039;s World Cup sticker"},{"url":"https://www.marca.com/en/world-cup/2018/03/30/5abe1f76e5fdea375a8b45ea.html","titulo":"Morocco&#039;s other World Cup: Battling USA to host 2026"},{"url":"https://www.marca.com/en/world-cup/2018/03/29/5abcec94e2704e72608b458a.html","titulo":"Seven reasons why Brazil, along with Spain, are World Cup favourites"},{"url":"https://www.marca.com/en/world-cup/2018/03/28/5abbf117468aebc94f8b4567.html","titulo":"Who comes into the World Cup on the best form?"},{"url":"https://www.marca.com/en/world-cup/2018/03/28/5abbd7c4468aeb39678b4649.html","titulo":"Six key factors for Argentina ahead of the World Cup"},{"url":"https://www.marca.com/en/world-cup/2018/03/28/5abbc895468aebbc378b4647.html","titulo":"Battle to become Spain&#039;s first-choice striker hotting up"},{"url":"https://www.marca.com/en/world-cup/2018/03/28/5abbbae8468aebf0118b461d.html","titulo":"Lewis Cook&#039;s grandfather wins almost ¤20,000 after player&#039;s England debut"},{"url":"https://www.marca.com/en/world-cup/opinion/2018/03/28/5abb6bdeca474179108b4606.html","titulo":"And if Cristiano Ronaldo wins the World Cup?"},{"url":"https://www.marca.com/en/world-cup/2018/03/27/5abab334e2704eaa798b46c2.html","titulo":"Brazil down Germany in high-profile friendly"},{"url":"https://www.marca.com/en/world-cup/2018/03/27/5abab1c7e2704e037b8b4690.html","titulo":"England forced to settle for draw after late VAR penalty"},{"url":"https://www.marca.com/en/world-cup/2018/03/27/5aba877be2704ec9098b465e.html","titulo":"Mbappe nets twice as France beat Russia"},{"url":"https://www.marca.com/en/world-cup/2018/03/26/5ab94c8746163f61358b45e6.html","titulo":"Messi admits the 2018 World Cup is likely to be his last"},{"url":"https://www.marca.com/en/world-cup/2018/03/22/5ab3b25b22601dfd2c8b459b.html","titulo":"Maradona: Messi doesn&#039;t have to prove anything at the World Cup"},{"url":"https://www.marca.com/en/world-cup/2018/03/22/5ab37eb422601d1f278b45ef.html","titulo":"Iniesta admits he could retire from international football after the World Cup"},{"url":"https://www.marca.com/en/world-cup/2018/03/21/5ab236b4e2704e12448b4792.html","titulo":"Lopetegui has 10 spots filled in his World Cup starting XI"},{"url":"https://www.marca.com/en/world-cup/2018/03/21/5ab22411e2704e46428b4793.html","titulo":"Oprah Winfrey&#039;s World Cup advice for Messi: Be a warrior"},{"url":"https://www.marca.com/en/world-cup/2018/03/20/5ab14c7922601ddd2f8b4692.html","titulo":"Del Bosque: The Spain team possess what it takes to have a good World Cup"},{"url":"https://www.marca.com/en/world-cup/2018/03/20/5ab0e357e2704e7d708b4681.html","titulo":"Malta players that famously lost 12-1 to Spain claim they were drugged with lemons"},{"url":"https://www.marca.com/en/world-cup/2018/03/20/5ab0da79e2704e8a208b463e.html","titulo":"Ten international games not to miss"},{"url":"https://www.marca.com/en/world-cup/2018/03/19/5aaf7b78e2704e82328b4577.html","titulo":"Messi: I&#039;m struck by how many people want me to win the World Cup"},{"url":"https://www.marca.com/en/world-cup/opinion/2018/03/18/5aae310b46163fc2468b45dc.html","titulo":"Where is the embarrassment?"},{"url":"https://www.marca.com/en/world-cup/2018/03/18/5aae2477e2704e9f758b45bf.html","titulo":"It is a war: The return of football violence and the threat at the World Cup"},{"url":"https://www.marca.com/en/world-cup/2018/03/17/5aacd4f3468aeb07058b4631.html","titulo":"17 stars that could miss the World Cup"},{"url":"https://www.marca.com/en/world-cup/2018/03/16/5aac42f8ca4741f3718b45a8.html","titulo":"Video referees get FIFA go-ahead for World Cup"},{"url":"https://www.marca.com/en/world-cup/2018/03/14/5aa9507d46163f33348b459d.html","titulo":"Tite visits Neymar to oversee his recovery"},{"url":"https://www.marca.com/en/world-cup/2018/03/14/5aa93e5e468aebda6d8b459f.html","titulo":"Dembele and Ben Yedder back in France contention"},{"url":"https://www.marca.com/en/world-cup/2018/03/14/5aa868a046163f84048b4653.html","titulo":"Marcelo is the first pick for Brazil supporters"},{"url":"https://www.marca.com/en/world-cup/2018/03/12/5aa700c3268e3e5e548b45f2.html","titulo":"Sepp Blatter: The English don&#039;t know how to lose"},{"url":"https://www.marca.com/en/world-cup/2018/03/12/5aa6cbdb268e3e5c548b45f7.html","titulo":"Argentina call up starlet Lautaro Martinez for friendlies against Italy and Spain"},{"url":"https://www.marca.com/en/world-cup/2018/03/12/5aa6b065268e3e45548b45a9.html","titulo":"Willian Jose called up to Neymar-less Brazil squad"},{"url":"https://www.marca.com/en/world-cup/2018/03/11/5aa51c87468aeb735a8b45a6.html","titulo":"Ronaldo Nazario: I&#039;d tell Neymar to focus on his wellbeing"},{"url":"https://www.marca.com/en/world-cup/2018/03/11/5aa513b8468aeb8f328b45ba.html","titulo":"Do Spain have the best full-backs in the world?"},{"url":"https://www.marca.com/en/world-cup/2018/03/09/5aa2682f268e3ef64d8b46f6.html","titulo":"Lucas Hernandez formally rejects France to play for Spain"},{"url":"https://www.marca.com/en/world-cup/2018/03/06/5a9ec881e2704e147d8b4696.html","titulo":"Maradona, Puyol, Valderrama and Putin star in FIFA World Cup countdown video"},{"url":"https://www.marca.com/en/world-cup/2018/03/01/5a984a6946163f1d2b8b45c3.html","titulo":"Higuain included in Argentina squad to play Spain and Italy"},{"url":"https://www.marca.com/en/world-cup/2018/03/01/5a9846b446163ffc278b45c2.html","titulo":"Messi set to train with Argentina at Real Madrid&#039;s Valdebebas base"},{"url":"https://www.marca.com/en/world-cup/2018/02/27/5a95ae46468aeb45668b45a5.html","titulo":"Queiroz: Cristiano Ronaldo is the best in the world, Messi is out of this world"},{"url":"https://www.marca.com/en/world-cup/2018/02/26/5a945c2d46163fca1f8b45c5.html","titulo":"Del Potro: Messi needs to win a World Cup to sleep easy"}];
+</script>
+<script type="text/javascript">
+	var gptIsDisableInitialLoad = true;
+    var IsAPSEnabled = true;
+
+    
+window.Adomik = window.Adomik || {};
+Adomik.randomAdGroup = function() {
+    var rand = Math.random();
+    switch (false) {
+        case !(rand < 0.09): return "ad_ex" + (Math.floor(100 * rand));
+        case !(rand < 0.10): return "ad_bc";
+        default: return "ad_opt";
+    }
+};
+
+window.ueUserContentGoogle = (function() {
+    if (!window || !window.ueCookiesPolicy || typeof window.ueCookiesPolicy.isAccepted != 'function') {
+        console.warn('Module ueCookiesPolicy not exists.')
+        return false
+    }
+    var googleAccepted =  ueCookiesPolicy.isAccepted({vendors: 'google'})
+    if(googleAccepted === null) { googleAccepted = undefined }
+    return googleAccepted
+}());
+var data = JSON.parse('{"networkId":"99071977","divId":"div-gpt-ad-en_n","customTargeting":{},"adSlots":[{"adUnit":"mc2/en/n","customTargeting":{"p":["f"]}},{"adUnit":"mc2/en/n","sizes":[[1,1],[728,250],[728,90],[970,250],[970,90],[980,180],[980,220],[980,250],[980,90],[990,250],[990,90]],"customTargeting":{"p":["m"]}},{"adUnit":"mc2/en/n","sizes":[[1,1],[300,100],[300,250],[300,300],[300,600]],"customTargeting":{"p":["r"]}},{"adUnit":"mc2/en/n","sizes":[[1,1],[300,100],[300,250],[300,300]],"customTargeting":{"p":["rb"]}},{"adUnit":"mc2/en/n","sizes":[[120,1000],[120,600],[160,1000],[160,600],[1,1],[450,1000]],"customTargeting":{"p":["si"]}},{"adUnit":"mc2/en/n","sizes":[[120,1001],[120,600],[160,1001],[160,600],[1,1],[450,1001]],"customTargeting":{"p":["sd"]}},{"adUnit":"p_mc2/en/n","sizes":[[1,1],[300,100],[300,50]],"customTargeting":{"p":["b300x100"]}},{"adUnit":"p_mc2/en/n","sizes":[[1,1],[300,100],[300,50]],"customTargeting":{"p":["b300x100-prm-snw"]}},{"adUnit":"p_mc2/en/n","sizes":[[1,1],[300,100],[300,50]],"customTargeting":{"p":["b300x100-prv-snw"]}},{"adUnit":"mc2/en/n","sizes":[[1,1],[980,50],[990,50]],"customTargeting":{"p":["c990x50_320x53"]}},{"adUnit":"mc2/en/n","customTargeting":{"p":["f2"]}},{"adUnit":"mc2/en/n","customTargeting":{"p":["f2-prm-snw"]}},{"adUnit":"mc2/en/n","customTargeting":{"p":["f3"]}},{"adUnit":"mc2/en/n","customTargeting":{"p":["f3-prm-snw"]}},{"adUnit":"mc2/en/n","customTargeting":{"p":["f-prm-snw"]}},{"adUnit":"mc2/en/n","customTargeting":{"p":["f-prv-snw"]}},{"adUnit":"mc2/en/n","sizes":[[1,1],[728,250],[728,90],[970,250],[970,90],[980,180],[980,220],[980,250],[980,90],[990,250],[990,90]],"customTargeting":{"p":["m-prm-snw"]}},{"adUnit":"mc2/en/n","sizes":[[1,1],[728,250],[728,90],[970,250],[970,90],[980,180],[980,220],[980,250],[980,90],[990,250],[990,90]],"customTargeting":{"p":["m-prv-snw"]}},{"adUnit":"mc2/en/n","sizes":[[1,1],[300,250],[300,300]],"customTargeting":{"p":["r-nata"]}},{"adUnit":"mc2/en/n","sizes":[[1,1],[300,250],[300,300]],"customTargeting":{"p":["r-nata-prm-snw"]}},{"adUnit":"mc2/en/n","sizes":[[1,1],[300,100],[300,250],[300,300]],"customTargeting":{"p":["rb-prm-snw"]}},{"adUnit":"mc2/en/n","sizes":[[1,1],[300,100],[300,250],[300,300]],"customTargeting":{"p":["rc"]}},{"adUnit":"mc2/en/n","sizes":[[1,1],[300,100],[300,250],[300,300]],"customTargeting":{"p":["rc-prm-snw"]}},{"adUnit":"mc2/en/n","sizes":[[1,1],[300,100],[300,250],[300,300],[300,600]],"customTargeting":{"p":["r-prm-snw"]}},{"adUnit":"mc2/en/n","sizes":[[1,1],[300,100],[300,250],[300,300],[300,600]],"customTargeting":{"p":["r-prv-snw"]}},{"adUnit":"mc2/en/n","sizes":[[120,1001],[120,600],[160,1001],[160,600],[1,1],[450,1001]],"customTargeting":{"p":["sd-prm-snw"]}},{"adUnit":"mc2/en/n","sizes":[[120,1001],[120,600],[160,1001],[160,600],[1,1],[450,1001]],"customTargeting":{"p":["sd-prv-snw"]}},{"adUnit":"mc2/en/n","sizes":[[120,1000],[120,600],[160,1000],[160,600],[1,1],[450,1000]],"customTargeting":{"p":["si-prm-snw"]}},{"adUnit":"mc2/en/n","sizes":[[1,1],[120,44]],"customTargeting":{"p":["patrocinio"]}},{"adUnit":"mc2/en/n","sizes":[[120,1000],[120,600],[160,1000],[160,600],[1,1],[450,1000]],"customTargeting":{"p":["si-prv-snw"]}}]}');
+var sizeConfig=JSON.parse('[{"mediaQuery":"(min-width: 1024px)","sizesSupported":[[728,90],[970,90],[970,250],[980,90],[980,250],[990,250],[981,90]],"labels":["mega-desktop"]},{"mediaQuery":"(min-width: 0px) and (max-width: 1023px)","sizesSupported":[[320,50],[320,53],[320,100]],"labels":["mega-phone"]},{"mediaQuery":"(min-width: 1024px)","sizesSupported":[[300,250],[300,300]],"labels":["roba2-desktop"]},{"mediaQuery":"(min-width: 0px) and (max-width: 1023px)","sizesSupported":[[300,250],[300,300]],"labels":["roba2-phone"]},{"mediaQuery":"(min-width: 1024px)","sizesSupported":[[300,250]],"labels":["roba1-desktop"]},{"mediaQuery":"(min-width: 0px) and (max-width: 1023px)","sizesSupported":[[300,250]],"labels":["roba1-phone"]},{"mediaQuery":"(min-width: 1024px)","sizesSupported":[[300,250],[300,300]],"labels":["roba3-desktop"]},{"mediaQuery":"(min-width: 0px) and (max-width: 1023px)","sizesSupported":[[300,250],[300,300],[300,600]],"labels":["roba3-phone"]},{"mediaQuery":"(min-width: 1024px)","sizesSupported":[[120,600],[120,1000]],"labels":["skyi-desktop"]},{"mediaQuery":"(min-width: 1024px)","sizesSupported":[[120,600],[120,1001]],"labels":["skyd-desktop"]}]');
+var adUnits_s='[{"labelAny":["mega-desktop"],"code":"div-gpt-ad-LDB1","mediaTypes":{"banner":{"sizes":[[728,90],[970,90],[970,250],[980,90],[980,250],[990,250],[981,90]]}},"bids":[{"bidder":"appnexus","params":{"placementId":"11595052"}},{"bidder":"rubicon","params":{"zoneId":663036,"siteId":142576,"accountId":15366,"position":"atf"}},{"bidder":"smartadserver","params":{"pageId":648549,"formatId":54639,"siteId":99913,"domain":"https://prg.smartadserver.com"}},{"bidder":"richaudience","params":{"pid":["8S3jMWeEhh","8fTLJJL0iQ"],"supplyType":"site"}},{"bidder":"pubmatic","params":{"publisherId":"161984","adSlot":"4525457"}}]},{"labelAny":["roba3-desktop"],"code":"div-gpt-ad-MPU1","mediaTypes":{"banner":{"sizes":[[300,250],[300,300],[300,600]]}},"bids":[{"bidder":"appnexus","params":{"placementId":"11595057"}},{"bidder":"rubicon","params":{"zoneId":663050,"siteId":142576,"accountId":15366,"position":"atf"}},{"bidder":"smartadserver","params":{"pageId":648549,"formatId":40859,"siteId":99913,"domain":"https://prg.smartadserver.com"}},{"bidder":"richaudience","params":{"pid":"463Y4dJxIO","supplyType":"site"}},{"bidder":"pubmatic","params":{"publisherId":"161984","adSlot":"4525457"}}]},{"labelAny":["roba1-desktop"],"code":"div-gpt-ad-MPU2","mediaTypes":{"banner":{"sizes":[[300,250]]}},"bids":[{"bidder":"appnexus","params":{"placementId":"11595058"}},{"bidder":"rubicon","params":{"zoneId":663056,"siteId":142576,"accountId":15366,"position":"btf"}},{"bidder":"smartadserver","params":{"pageId":648549,"formatId":40974,"siteId":99913,"domain":"https://prg.smartadserver.com"}},{"bidder":"richaudience","params":{"pid":"TyBOAyqBxU","supplyType":"site"}},{"bidder":"pubmatic","params":{"publisherId":"161984","adSlot":"4525457"}}]},{"labelAny":["roba2-desktop"],"code":"div-gpt-ad-MPU3","mediaTypes":{"banner":{"sizes":[[300,250],[300,300]]}},"bids":[{"bidder":"appnexus","params":{"placementId":"11595059"}},{"bidder":"rubicon","params":{"zoneId":663058,"siteId":142576,"accountId":15366,"position":"btf"}},{"bidder":"smartadserver","params":{"pageId":648549,"formatId":40975,"siteId":99913,"domain":"https://prg.smartadserver.com"}},{"bidder":"richaudience","params":{"pid":"0oOTDrARgE","supplyType":"site"}},{"bidder":"pubmatic","params":{"publisherId":"161984","adSlot":"4525457"}}]},{"labelAny":["roba1-desktop"],"code":"div-gpt-ad-MPU4","mediaTypes":{"banner":{"sizes":[[300,250]]}},"bids":[{"bidder":"appnexus","params":{"placementId":"11595060"}},{"bidder":"rubicon","params":{"zoneId":663060,"siteId":142576,"accountId":15366,"position":"btf"}},{"bidder":"smartadserver","params":{"pageId":648549,"formatId":40976,"siteId":99913,"domain":"https://prg.smartadserver.com"}},{"bidder":"richaudience","params":{"pid":"0DAxyDNUb7","supplyType":"site"}},{"bidder":"pubmatic","params":{"publisherId":"161984","adSlot":"4525457"}}]},{"labelAny":["roba1-desktop"],"code":"div-gpt-ad-MPU5","mediaTypes":{"banner":{"sizes":[[300,250]]}},"bids":[{"bidder":"appnexus","params":{"placementId":"11595061"}},{"bidder":"rubicon","params":{"zoneId":663062,"siteId":142576,"accountId":15366,"position":"btf"}},{"bidder":"smartadserver","params":{"pageId":648549,"formatId":40977,"siteId":99913,"domain":"https://prg.smartadserver.com"}},{"bidder":"richaudience","params":{"pid":"LYTomdyjXa","supplyType":"site"}},{"bidder":"pubmatic","params":{"publisherId":"161984","adSlot":"4525457"}}]},{"labelAny":["mega-phone"],"code":"div-gpt-ad-LDB1","mediaTypes":{"banner":{"sizes":[[320,50],[320,53],[320,100]]}},"bids":[{"bidder":"appnexus","params":{"placementId":"11595040"}},{"bidder":"rubicon","params":{"zoneId":663146,"siteId":142592,"accountId":15366,"position":"atf"}},{"bidder":"smartadserver","params":{"pageId":648550,"formatId":54723,"siteId":99914,"domain":"https://prg.smartadserver.com"}},{"bidder":"richaudience","params":{"pid":"1b3RqFswab","supplyType":"site"}},{"bidder":"pubmatic","params":{"publisherId":"161984","adSlot":"4525458"}}]},{"labelAny":["roba3-phone"],"code":"div-gpt-ad-MPU1","mediaTypes":{"banner":{"sizes":[[300,250],[300,300],[300,600]]}},"bids":[{"bidder":"appnexus","params":{"placementId":"11595043"}},{"bidder":"rubicon","params":{"zoneId":663156,"siteId":142592,"accountId":15366,"position":"atf"}},{"bidder":"smartadserver","params":{"pageId":648550,"formatId":40859,"siteId":99914,"domain":"https://prg.smartadserver.com"}},{"bidder":"richaudience","params":{"pid":"0kP4lrpE8z","supplyType":"site"}},{"bidder":"pubmatic","params":{"publisherId":"161984","adSlot":"4525458"}}]},{"labelAny":["roba1-phone"],"code":"div-gpt-ad-MPU2","mediaTypes":{"banner":{"sizes":[[300,250]]}},"bids":[{"bidder":"appnexus","params":{"placementId":"11595044"}},{"bidder":"rubicon","params":{"zoneId":663158,"siteId":142592,"accountId":15366,"position":"btf"}},{"bidder":"smartadserver","params":{"pageId":648550,"formatId":40974,"siteId":99914,"domain":"https://prg.smartadserver.com"}},{"bidder":"richaudience","params":{"pid":"1LKWJIrbol","supplyType":"site"}},{"bidder":"pubmatic","params":{"publisherId":"161984","adSlot":"4525458"}}]},{"labelAny":["roba2-phone"],"code":"div-gpt-ad-MPU3","mediaTypes":{"banner":{"sizes":[[300,250],[300,300]]}},"bids":[{"bidder":"appnexus","params":{"placementId":"11595045"}},{"bidder":"rubicon","params":{"zoneId":663160,"siteId":142592,"accountId":15366,"position":"btf"}},{"bidder":"smartadserver","params":{"pageId":648550,"formatId":40975,"siteId":99914,"domain":"https://prg.smartadserver.com"}},{"bidder":"richaudience","params":{"pid":"iurpCvTfUe","supplyType":"site"}},{"bidder":"pubmatic","params":{"publisherId":"161984","adSlot":"4525458"}}]},{"labelAny":["roba1-phone"],"code":"div-gpt-ad-MPU4","mediaTypes":{"banner":{"sizes":[[300,250]]}},"bids":[{"bidder":"appnexus","params":{"placementId":"11595046"}},{"bidder":"rubicon","params":{"zoneId":663162,"siteId":142592,"accountId":15366,"position":"btf"}},{"bidder":"smartadserver","params":{"pageId":648550,"formatId":40976,"siteId":99914,"domain":"https://prg.smartadserver.com"}},{"bidder":"richaudience","params":{"pid":"cZ9A3ZJ2RG","supplyType":"site"}},{"bidder":"pubmatic","params":{"publisherId":"161984","adSlot":"4525458"}}]},{"labelAny":["roba1-phone"],"code":"div-gpt-ad-MPU5","mediaTypes":{"banner":{"sizes":[[300,250]]}},"bids":[{"bidder":"appnexus","params":{"placementId":"11595047"}},{"bidder":"rubicon","params":{"zoneId":663164,"siteId":142592,"accountId":15366,"position":"btf"}},{"bidder":"smartadserver","params":{"pageId":648550,"formatId":40977,"siteId":99914,"domain":"https://prg.smartadserver.com"}},{"bidder":"richaudience","params":{"pid":"1DNkkF4ivh","supplyType":"site"}},{"bidder":"pubmatic","params":{"publisherId":"161984","adSlot":"4525458"}}]},{"labelAny":["skyd-desktop"],"code":"div-gpt-ad-SD","mediaTypes":{"banner":{"sizes":[[120,600],[120,1001]]}},"bids":[{"bidder":"richaudience","params":{"pid":"14UZpZwjFT","supplyType":"site"}}]},{"labelAny":["skyi-desktop"],"code":"div-gpt-ad-SI","mediaTypes":{"banner":{"sizes":[[120,600],[120,1000]]}},"bids":[{"bidder":"richaudience","params":{"pid":"TUOQRhWOG4","supplyType":"site"}}]}]';
+var adUnits=JSON.parse(adUnits_s);
+
+var adUnits_nc = JSON.parse(JSON.stringify(adUnits));
+var map = JSON.parse('{"div-gpt-ad-LDB1":"m","div-gpt-ad-LDB2":"mb","div-gpt-ad-MPU1":"r","div-gpt-ad-MPU2":"rb","div-gpt-ad-MPU3":"rc","div-gpt-ad-MPU4":"rd","div-gpt-ad-MPU5":"re","div-gpt-ad-SD":"sd","div-gpt-ad-SI":"si"}');
+
+adUnits.forEach(function(item) {
+	if (item.code in map) {
+		item.code = data.divId + '_' + map[item.code] + '_62b1b8e446163f7e7a8b45af';
+	}
+});
+
+if (typeof pbjs !== 'undefined') {
+		pbjs.que.push(function() {
+
+		pbjs.setConfig({
+      userSync: {
+        filterSettings: {
+            iframe: {
+                bidders: ['smartadserver', 'richaudience'],
+                filter: 'include'
+            }
+        }
+      },
+			priceGranularity: "dense",
+			enableSendAllBids: true,
+			consentManagement: {
+				cmpApi: 'iab',
+				timeout: 8000,
+				defaultGdprScope: true
+			},
+			sizeConfig: sizeConfig,
+			rubicon: {singleRequest: true}
+    });
+
+		pbjs.addAdUnits(adUnits);
+
+		pbjs.requestBids({
+			timeout: 1000,
+			bidsBackHandler: function () {
+                window.didomiOnReady = window.didomiOnReady || [];
+                window.didomiOnReady.push(function(Didomi) {
+                    let bidsWin = pbjs.getHighestCpmBids();
+                    if (bidsWin.find(a => a.dealId == "ramkt") || bidsWin.find(a => a.dealId == "1PsYeoooYs")) {
+                        googletag.cmd.push(function() {
+                            googletag.pubads().getSlots().filter(e => e.getSizes().find(function(size) { if (size.width == 120 && size.height == 600 || size.width == 160 && size.height == 600 || size.width == 120 && size.height == 1000 || size.width == 160 && size.height == 1000 || size.width == 450 && size.height == 1000 || size.width == 120 && size.height == 1001 || size.width == 160 && size.height == 1001 || size.width == 450 && size.height == 1001) { return size } })).forEach(a => a.setTargeting('hb_deal', 'ramkt'));
+                        })
+                    }
+                    initAdServer();
+                });
+			}
+		});
+	});
+}
+
+    googletag.cmd.push(function () {
+        data.customTargeting.t = ['world-cup'];
+data.customTargeting.pl = ['stndr'];
+data.customTargeting.tag = ['agency-sam,fifa-world-cup-english'];
+data.customTargeting.newsid = ['62b1b8e446163f7e7a8b45af'];
+
+var autoRefreshTime = 15000;
+var autoRefreshTimeHEX = 24000;
+var autoRefreshTimeoutIds = {};
+var UEautoRefreshCampaignIds = [2559776610, 483876297, 3038846356, 2098434238, 494913417, 494827977, 2536735611, 2106449176, 2108387998, 2106441352, 2106520950, 2106523863, 2667870692, 2668441436, 2668163671, 2668164637];
+var UEautoRefreshAdvertiserIds = [80400537, 51527697, 82838217, 4456969335];
+var HEXautoRefreshLineItemIds = [4531737763, 4531738504, 4531738963, 4531740190, 4531740202, 4532232168, 4532235756, 4532266997, 4532291252, 4532294810, 4532296049, 4532299601, 4534167307, 4534167310, 4534167337, 4534167340, 4534167343, 4534167349, 4534167481, 4534702532, 4534702547, 4534702556, 4538093494, 4538093512, 4538093701, 4538093740, 4538093755, 4538093887, 4538093905, 4538093914, 4538093917, 4538093947, 4538094124, 4538094139, 4538094145, 4538094148, 4538247763, 4538247769, 4538487330, 4538487339, 4538487345, 4538581907, 4538584238, 4538584454, 4538584460, 4538585174, 4538751341, 4538751776, 4661555674, 5026501650, 4662949864, 4662955648, 4663158431, 4663197747, 4754748418, 4755297098, 4755952449, 4755952779, 4755962625, 4756163678, 4756804480, 4756827319, 4756848463, 4757301536, 4759335753, 4776678232, 4776993099, 4777081113, 4777349423, 4777349426, 4777349432];
+
+function getLazyLoad(data) {
+    return [];
+}
+
+function getrootMargin(data) {
+    var p = '25';
+    var a = data.adSlots[0].adUnit.split('/');
+    var s = a[a.length - 1];
+    if (s == 'portada') {
+        p = '200';
+    }
+    data.customTargeting.llrm = [p];
+
+    return p + '% 0px ' + p + '% 0px';
+}
+
+var LazyLoaded = getLazyLoad(data);
+var rootMarginLL = getrootMargin(data);
+
+var enableUELazyLoad = LazyLoaded.length != 0;
+var observer;
+if ('IntersectionObserver' in window) {
+    observer = new IntersectionObserver(
+        function(entries, observer) {
+            //console.log('LazyLoad: in observer');
+            if (window.ueUserContentGoogle === undefined ) { return };
+            entries.forEach(function (entry) {
+                //if (entry.intersectionRatio > 0) {
+                if (entry.isIntersecting) {
+                    //console.log('LazyLoad: observer entry', entry);
+                    //var divParts = entry.target.id.split('_');
+                    //var slotData = data.adSlots.find(function(e) { return divParts[1] === e.customTargeting.p[0] })
+                    //observer.unobserve(entry.target);
+                    var slotData = data.adSlots.find(function(e) { return entry.target.id.replace(/_\d+_/, "_") === e.divId })
+                    if (slotData) {
+                        var slot;
+                        if (slotData.sizes) {
+                            slot = googletag.defineSlot('/' + data.networkId + '/' + slotData.adUnit, slotData.sizes, entry.target.id);
+                        } else {
+                            slot = googletag.defineOutOfPageSlot('/' + data.networkId + '/' + slotData.adUnit, entry.target.id);
+                        }
+                        if (slot) {
+                            //console.log('LazyLoad: observer ', entry.target.id);
+                            for (var key in slotData.customTargeting) {
+                                if (slotData.customTargeting.hasOwnProperty(key)) {
+                                    slot.setTargeting(key, slotData.customTargeting[key]);
+                                }
+                            }
+                            if (typeof Adomik !== 'undefined') {
+                                slot.setTargeting('ad_group', Adomik.randomAdGroup());
+                            }
+                            slot.addService(googletag.pubads());
+                            googletag.cmd.push(function() {
+                                //googletag.display(entry.target.id);
+                                googletag.pubads().refresh([slot]);
+                            });
+                        } else {
+                            // refresh ???
+                            //console.log('LazyLoad: refresh ', entry.target.id);
+                            //var slots = googletag.pubads().getSlots().filter(function(e) { return (entry.target.id === e.getSlotElementId()) });
+                            //googletag.cmd.push(function() { googletag.pubads().refresh(slots); });
+                        }
+                    } else {
+                        //console.log('LazyLoad: divId not found ', entry.target.id);
+                    }
+                }
+            })
+            //console.log('LazyLoad: out observer');
+        },
+        { root: null, rootMargin: rootMarginLL, threshold: 1 }
+    );
+} else {
+    enableUELazyLoad = false;
+}
+
+(function() {
+try{
+var ueseg=localStorage.getItem("dmpue_id");
+ueseg!==null? data.customTargeting.ueid=ueseg:data.customTargeting.ueid='NoUESeg';
+var ksegs=localStorage.getItem("dmpue_segs");
+ksegs!==null? data.customTargeting.ksegs=ksegs.split(','):data.customTargeting.ksegs='NoDefinido';
+}catch(err) {}
+})();
+
+if (typeof window.ueUserContentGoogle === 'undefined' || window.ueUserContentGoogle === false) {
+  data.customTargeting.npa='1';
+}
+
+window["ueDFPData"] = data;
+
+var hid = window.uePermutive && window.uePermutive.account && window.uePermutive.account.hid;
+if (hid) {
+  googletag.pubads().setPublisherProvidedId(hid);
+}
+
+var adDomElements = [].slice.apply(document.querySelectorAll('div[id^='+data.divId+']'))
+    .map(function(e) {
+        return e.getAttribute('id');
+    });
+var divId = '';
+data.adSlots = data.adSlots.filter(function(adSlot){
+    divId = data.divId + '_' + adSlot.customTargeting.p.join('_');
+    divId += '_' + '62b1b8e446163f7e7a8b45af'
+    adSlot.divId = divId;
+    if (adDomElements.length > 0) {
+        return (adDomElements.indexOf(divId)!==-1);
+    } else {
+        return true;
+    }
+});
+data.adSlots.forEach(function (adSlot) {
+    // var slotIndex = i + 1;
+    var adUnit = adSlot.adUnit ? adSlot.adUnit : data.adUnit;
+    var slot;
+    divId = data.divId + '_' + adSlot.customTargeting.p.join('_');
+divId += '_' + '62b1b8e446163f7e7a8b45af'
+    adSlot.divId = divId;
+    adUnit = '/' + data.networkId + '/' + adUnit;
+    if (((typeof enableUELazyLoad === 'undefined') || !enableUELazyLoad) || (LazyLoaded.indexOf(adSlot.customTargeting.p.join('_')) === -1)) {
+        //console.log('LazyLoad: SRA ', divId);
+    if (adSlot.sizes) {
+        slot = googletag.defineSlot(adUnit, adSlot.sizes, adSlot.divId);
+    } else {
+        slot = googletag.defineOutOfPageSlot(adUnit, adSlot.divId);
+    }
+
+    for (var key in adSlot.customTargeting) {
+        if (adSlot.customTargeting.hasOwnProperty(key)) {
+            slot.setTargeting(key, adSlot.customTargeting[key]);
+        }
+    }
+	
+    if (typeof Adomik !== 'undefined') {
+		slot.setTargeting('ad_group', Adomik.randomAdGroup());
+    }
+	
+    slot.addService(googletag.pubads());
+    } else {
+        //console.log('LazyLoad: LL ', divId);
+        var t = document.querySelector('#' + divId);
+        if (t) {
+            observer.observe(t);
+        } else {
+            //console.log('LazyLoad: div not found: ', divId);
+        }
+    }
+});
+
+Array.prototype.map.call(document.querySelectorAll("[id^='div-gpt-ad-']"), function(x) {return x;}).forEach(function (e) {
+    if (e.id.match(/div-gpt-ad-.*?_\d+_[0-9a-f]{24}/)) {
+        observer.observe(e);
+    }
+})
+
+
+if ((typeof DisableenableSingleRequest === 'undefined') || !DisableenableSingleRequest) {
+    googletag.pubads().enableSingleRequest();
+}
+
+for (var key in data.customTargeting) {
+    if (data.customTargeting.hasOwnProperty(key)) {
+        googletag.pubads().setTargeting(key, data.customTargeting[key]);
+    }
+}
+
+  googletag.pubads().addEventListener('slotRenderEnded', function (event) {
+    if (event && event.slot) {
+      var slotElement = event.slot.getSlotElementId();
+      var slot = document.querySelector('#' + slotElement);
+      var count = 0;
+
+      function build(removeStyle) {
+        if (event.isEmpty || !event.size || event.size.length <= 1 || event.size[0] <= 1 || event.size[1] <= 1) {
+          if (![494827977, 494913417, 2098434238, 3038846356, 2536735611].includes(event.slot.getResponseInformation()?.campaignId)) {
+            slot.setAttribute('style', 'display: none');
+            if (count < 9) {
+              count++;
+              setTimeout(function () {
+                  slot.removeAttribute('style');
+                  build();
+              }, 500);
+            }
+          }
+        } else {
+          if (slot.getAttribute('data-slot-built') === 'true') {
+              return;
+          }
+          var documentEvent = new CustomEvent('slotRenderEnded', { detail: { id: event.slot.getSlotElementId() } });
+          document.dispatchEvent(documentEvent);
+          if (slot.parentNode.parentNode.classList.contains('ue-c-ad')) {
+            slot.parentNode.parentNode.classList.add('ready');
+          } else {
+            slot.parentNode.classList.add('ready');
+          }
+          slot.setAttribute('style', 'display: block');
+          if (slotElement.indexOf('sticky') > 0) {
+            var close_button = document.createElement('span');
+            close_button.classList.add('close-button');
+            close_button.classList.add('hidden');
+            close_button.setAttribute('data-adv-id', slotElement);
+            close_button.addEventListener('click', function (event) {
+              var slot_to_clear = event.currentTarget.getAttribute('data-adv-id');
+              if (slot_to_clear) {
+                var slot_found = googletag.pubads().getSlots().find(function (slot) { return slot.getSlotElementId() === slot_to_clear; });
+                if (slot_found) {
+                  document.querySelector('#' + slot_to_clear).parentNode.classList.remove('ready');
+                  googletag.pubads().clear([slot_found]);
+                }
+              }
+            });
+            close_button.innerHTML = '<svg style="width:20px;" viewBox="0 0 24 24"><path d="M19,6.41L17.59,5L12,10.59L6.41,5L5,6.41L10.59,12L5,17.59L6.41,19L12,13.41L17.59,19L19,17.59L13.41,12L19,6.41Z"></path></svg>';
+            slot.prepend(close_button);
+            setTimeout(function () {
+              slot.setAttribute('style', 'height:auto;');
+              close_button.classList.remove('hidden');
+            }.bind(this), 5000);
+          }
+          if (!event.isEmpty && event.size && event.size.length > 1 && (event.size[0] == 300 && event.size[1] == 299)) {
+            if (slot.parentNode.parentNode.classList.contains('ue-c-ad')) {
+              slot.parentNode.parentNode.classList.add('ue-c-ad--label-hidden');
+            } else {
+              slot.parentNode.classList.add('ue-c-ad--label-hidden');
+            }
+          }
+          if (!event.isEmpty && event.size && event.size.length > 1 && (event.size[0] == 300 && event.size[1] == 99)) {
+            if (slot.parentNode.parentNode.classList.contains('ue-c-ad')) {
+              slot.parentNode.parentNode.classList.add('ue-c-ad--label-hidden');
+            } else {
+              slot.parentNode.classList.add('ue-c-ad--label-hidden');
+            }
+          }
+          slot.setAttribute('data-slot-built', 'true');
+        }
+      }
+
+      if (slot) {
+        build();
+      }
+    }
+  });
+
+googletag.pubads().enableAsyncRendering();
+if (((typeof gptIsDisableInitialLoad !== 'undefined') && gptIsDisableInitialLoad) || (typeof IsAPSEnabled !== 'undefined' && IsAPSEnabled)) {
+    googletag.pubads().disableInitialLoad();
+}
+
+if( window.ueUserContentGoogle !== undefined ){
+    if ( window.ueUserContentGoogle === true ) {
+        googletag.pubads().setRequestNonPersonalizedAds(0);
+    }else{
+        googletag.pubads().setRequestNonPersonalizedAds(1);
+    }
+}else{
+    googletag.pubads().disableInitialLoad();
+}
+if (typeof pbjs !== 'undefined') {
+	pbjs.que.push(function () {
+		pbjs.setTargetingForGPTAsync();
+	});
+}
+googletag.enableServices();
+
+var autoRefreshObserver;
+
+function SetAutoRefresh(id) {
+ let s = googletag.pubads().getSlots().filter(slot => slot.getSlotElementId() === id);
+ if (s.length !== 0) {
+   let t = autoRefreshTime;
+   let ri = s[0].getResponseInformation();
+   if (ri) {
+      //console.log('autoRefresh: refresh', ri);
+      if (HEXautoRefreshLineItemIds.includes(ri.lineItemId)) { t = autoRefreshTimeHEX }
+   }
+   autoRefreshTimeoutIds[id] = setTimeout(() => { autoRefresh(id) }, t)
+ }
+}
+
+function autoRefresh(id){
+  let s = googletag.pubads().getSlots().filter(slot => slot.getSlotElementId() === id);
+  if (s.length !== 0) {
+    //console.log('autoRefresh: refresh', id);
+    var ri = s[0].getResponseInformation();
+
+    if (ri) {
+      //console.log('autoRefresh: campaignId', c);
+     if (UEautoRefreshCampaignIds.includes(ri.campaignId) || UEautoRefreshAdvertiserIds.includes(ri.advertiserId) || HEXautoRefreshLineItemIds.includes(ri.lineItemId)) {
+        //console.log('autoRefresh: %ccampaignId OK !!!', 'color: green;');
+        s[0].setTargeting('rfrsh', '1');
+
+        var hb_p = [];
+        // apstag
+        var aps_data_r = {
+            slots: []
+        };
+        var sizes = s[0].getSizes();
+        if (sizes.length > 0) {
+            sizes = sizes.map(function(adSlotSize) {
+                return [adSlotSize.getWidth(), adSlotSize.getHeight()];
+            }).filter(function(size) {
+                return (size[0] !== 1) && (size[1] !== 1);
+            });
+            if (sizes.length > 0) {
+                aps_data_r.slots.push({
+                    slotID: s[0].getSlotElementId(),
+                    slotName: s[0].getAdUnitPath(),
+                    sizes: sizes
+                });
+            }
+
+            hb_p.push(new Promise(function(result, reject) {
+                apstag.fetchBids(aps_data_r, function(bids) {
+                    //console.log('autoRefresh: %caps !!!', 'color: green;');
+                    apstag.setDisplayBids();
+                    result();
+                });
+            }
+            ));
+        }
+
+        hb_p.push(new Promise(function(result, reject) {
+            pbjs.requestBids({
+                timeout: 1000,
+                adUnitCodes: [s[0].getAdUnitPath()],
+                bidsBackHandler: function(bidResponses, timedOut, auctionId) {
+                    //console.log('autoRefresh: %cprebid !!!', 'color: green;');
+                    pbjs.setTargetingForGPTAsync([s[0].getAdUnitPath()]);
+                    result();
+                }
+            });
+        }));
+
+        Promise.all(hb_p).then(function(results) {
+            //console.log('autoRefresh: %crefresh !!!', 'color: green;');
+        googletag.cmd.push(function() { googletag.pubads().refresh(s) });
+        });
+
+        SetAutoRefresh(id);
+      } else {
+        //console.log('autoRefresh: %ccampaignId KO', 'color: red;');
+        autoRefreshObserver.unobserve(document.getElementById(id))
+      }
+    } else {
+      //console.log('autoRefresh: %cEmpty ResponseInformation', 'color: yellow;');
+      autoRefreshObserver.unobserve(document.getElementById(id))
+    }
+  }
+}
+
+if ('IntersectionObserver' in window) {
+  autoRefreshObserver = new IntersectionObserver(function (entries) {
+    if (window.ueUserContentGoogle === undefined) {
+      return;
+    }
+    entries.forEach(e => {
+      const id = e.target.id;
+      if (e.isIntersecting) {
+        // console.log('autoRefresh: Observer: isIntersecting', id);
+        SetAutoRefresh(id);
+      } else {
+        // console.log('autoRefresh: Observer: NOT isIntersecting', id);
+        clearTimeout(autoRefreshTimeoutIds[id]);
+        delete autoRefreshTimeoutIds[id];
+      }
+    });
+  }, { threshold: [0.8] });
+
+  var REFRESH_TARGETS_QUERY = 'div[id^=div-gpt-ad-]';
+  var REFRESH_TARGETS_DONE_CLASS = 'ue-autorefresh-bind';
+
+  function getElements () {
+    var elements = Array.prototype.map.call(
+      document.querySelectorAll(REFRESH_TARGETS_QUERY + ':not(.' + REFRESH_TARGETS_DONE_CLASS + ')'),
+      function (x) { return x; }
+    );
+    return elements;
+  }
+
+  function observeElements () {
+    var elements = getElements();
+    elements.forEach(function (element) {
+      // console.log('autoRefresh: observe ', e.id);
+      autoRefreshObserver.observe(element);
+      element.classList.add(REFRESH_TARGETS_DONE_CLASS);
+    });
+  }
+
+  if (!window.__refreshBinded) {
+    window.__refreshBinded = true;
+    document.addEventListener('nc-contentLoaded', observeElements);
+  }
+  if (-1 === window.location.href.indexOf('www.marca.com/en/')) {
+    observeElements();
+  }
+}
+
+    });
+    function amz() {
+    var ueConsentData = localStorage.getItem('ueConsentData');
+    apstag.init({
+        pubID: '3537',
+        adServer: 'googletag',
+        bidTimeout: 1e3,
+        gdpr: {
+            enabled: true,
+            consent: ueConsentData
+        }
+    });
+
+    var aps_data = {slots:[]};
+    googletag.destroySlots(googletag.pubads().getSlots().filter(function(x){ return x.getSlotElementId().indexOf('cts-') < 0 && !(x.getSlotElementId() in window)}));
+    googletag.pubads().getSlots().forEach(function(adSlot, i) {
+        var sizes = adSlot.getSizes();
+        if (sizes.length > 0) {
+            sizes = sizes.map(function(adSlotSize) {
+                    if (adSlotSize !== 'fluid') {
+		    	return [adSlotSize.getWidth(), adSlotSize.getHeight()];
+		    }
+                })
+                .filter(function(size) {
+		    if (size && size.length === 2) {
+                    	return (size[0] !== 1) && (size[1] !== 1);
+		    }
+                });
+            if (sizes.length > 0) {
+                aps_data.slots.push({
+                    slotID: adSlot.getSlotElementId(),
+                    slotName: adSlot.getAdUnitPath(),
+                    sizes: sizes
+                });
+            }
+        }
+    });
+    apstag.fetchBids(aps_data, function(bids) {
+        googletag.cmd.push(function() {
+            apstag.setDisplayBids();
+            googletag.pubads().refresh();
+        });
+    });
+}
+amz = (function(amz) {
+    var DOMContentLoadedReady = false;
+    window.addEventListener('DOMContentLoaded', function() {
+        DOMContentLoadedReady = true;
+    });
+    return function() {
+        DOMContentLoadedReady ? amz() : window.addEventListener('DOMContentLoaded', amz)
+    };
+})(amz);
+if (window.ueUserContentGoogle !== undefined) {
+  googletag.cmd.push(function () {
+    if (typeof IsAPSEnabled !== 'undefined' && IsAPSEnabled) {
+        amz();
+    }
+  });
+}else{
+    window.addEventListener('ueConsentChanged', function (event) {
+        googletag.cmd.push(function () {
+            if(  event.detail.consents.vendors.google === true ){
+                googletag.pubads().setRequestNonPersonalizedAds(0);
+            }else{
+                googletag.pubads().setRequestNonPersonalizedAds(1);
+            }
+            if (typeof IsAPSEnabled !== 'undefined' && IsAPSEnabled) {
+                amz();
+            }else{
+                googletag.pubads().refresh();
+            }
+        });
+    }, false);
+}
+</script>
+<div id="fb-root"></div>
+<script type="text/javascript">(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="//connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v2.8&appId=160427764002568&status=true&cookie=true";fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));</script>
+<section class="js_slider_container seo-links-container"><div class="container js_slider_viewport slider-viewport"><ul class="list-seo-links horizontal"><li><span>Es noticia: </span></li><li><a href="https://www.marca.com/en/f1/2022/10/08/63412a4646163fac398b45af.html">F1 Japanese GP</a></li><li><a href="https://www.marca.com/en/lifestyle/celebrities/2022/10/07/63407e7dca4741f3728b45f2.html">Tom Brady - Gisele Bündchen divorce</a></li><li><a href="https://www.marca.com/en/mlb/new-york-yankees/2022/10/07/63406f7622601dd8128b45a2.html">Aaron Judge earns</a></li><li><a href="https://www.marca.com/en/mlb/st-louis-cardinals/2022/10/08/6340a8e4268e3ea6708b457a.html">Albert Pujols</a></li><li><a href="https://www.marca.com/en/nfl/indianapolis-colts/2022/10/07/633f7c5422601d71578b45c7.html">Tua Tagovailoa</a></li><li><a href="https://www.marca.com/en/nfl/2022/10/07/633fa67ee2704ebe8c8b45b5.html">Russell Wilson - Nathaniel Hackett</a></li><li><a href="https://www.marca.com/en/football/spanish-football/2022/10/07/633fd88bca4741ad708b4590.html">Getafe vs Real Madrid</a></li><li><a href="https://www.marca.com/en/basketball/nba/2022/10/07/63408697268e3eeb6d8b4593.html">NBA highest paids</a></li><li><a href="https://www.marca.com/en/nfl/pittsburgh-steelers/2022/10/07/633f7afde2704e1e278b458b.html">Kenny Pickett Steelers</a></li><li><a href="https://stories.marca.com/en/amp/why-falcons-wasting-kyle-pitts">Kyle Pitts Atlanta</a></li><li><a href="https://www.marca.com/en/basketball/nba/2022/10/05/633d45f3e2704ed7628b4586.html">NBA Top Prospects</a></li><li><a href="https://www.marca.com/en/nfl/fantasy-football/2022/10/03/633b1bade2704eccb48b45b2.html">Fantasy Football week 5</a></li><li><a href="https://www.marca.com/en/latest-news.html">Latest News</a></li><li><a href="https://www.marca.com/en/lifestyle/celebrities/2022/10/07/6340737422601d1c158b45cf.html">Logan Paul</a></li><li><a href="https://www.marca.com/en/lifestyle/celebrities/2022/10/07/63401e67ca474103098b4574.html">Amber Heard refugee</a></li><li><a href="https://www.marca.com/en/lifestyle/uk-news/2022/10/07/6340710b22601df5418b45c6.html">King Charles</a></li><li><a href="https://www.marca.com/en/lifestyle/uk-news/2022/10/08/6340adf7ca4741a83c8b45d6.html">Meghan Markle Lady Di</a></li><li><a href="https://www.marca.com/en/lifestyle/us-news/personal-finance/2022/10/07/633fd3d78da1e80020f923d7-directo.html">Stimulus Payments Live</a></li><li><a href="https://www.marca.com/en/lifestyle/us-news/personal-finance/2022/10/08/6341250346163fb19d8b456c.html">Gas Prices Today</a></li><li><a href="https://www.marca.com/en/nfl/fantasy-football.html">Fantasy Football News</a></li><li><a href="https://www.marca.com/en/nfl/2022/10/07/634079bb268e3edb0b8b45c0.html">Falcons vs Buccaneers watch</a></li></ul><span class="gradient-right"></span><span class="gradient-left"></span></div></section> <header class="main-header inside inside-news  marca-en  js-cnav-header  default  " data-ue-model="default "><div class="main-top-header-container">
+<div class="main-header-container">
+<div class="main-site-logo">
+<div class="logo">
+<a href="https://www.marca.com/en/">
+<svg class="logo-marca" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 173 50" fill="#c00" role="img" aria-hidden="true"><path d="M27.9 1.4h15v10.3h-2.6v26.6h2.6v10.4h-16V38.3h2.5V21.7L22 42l-7.3-20.3v16.6h2.6v10.4H1.1V38.3h2.6V11.7H1V1.4h15.6l5.6 16"></path><g class="arca"><path d="M75.1 38.3l-5.9-37H52.3l-5.9 37h-1.9v10.3h14.7V38.3h-1.9l.1-3.9h6.8v3.9h-2v10.3H77V38.3h-1.9zM58.4 28.2l2.3-14.6 2.4 14.6h-4.7z"></path><path d="M107.7 38.3v-9.2l-4-4 4-4V6.4l-4.9-5H78.7v10.2h2.5v26.6h-2.5v10.4h16V38.3h-1.8v-8.5h3.4v18.9h14.1V38.3h-2.7zM96.2 22.4h-3.5V11.6h3.5v10.8z"></path><path d="M132.9 1.4l5 5V21h-11.5v-9.2l-3.4-.1v26.6h3.4v-9.2h11.5v14.5l-5 5.1h-16.3l-4.8-5.1V6.4l4.8-5"></path><path d="M170.1 38.3l-5.9-37h-16.8l-5.9 37h-1.8v10.3h14.6V38.3h-1.9l.1-3.9h6.8v3.9h-1.9v10.3H172V38.3h-1.9zm-16.7-10.1l2.3-14.6 2.4 14.6h-4.7z"></path></g></svg>
+<span class="hidden-content">Portada de Marca</span></a>
+</div></div>
+<aside class="tools-header">
+<div id="header-edition-selector" class="edition-selector" aria-label="Edition preferences">
+<button class="edition-selector__btn" data-menu-action="toogle" aria-expanded="false" aria-haspopup="true" aria-controls="header-edition-selector__menu">
+<span class=" hidden-content">Selected edition</span><svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" viewBox="0 0 24 24" role="img" aria-hidden="true"><circle fill="#AED6F1" cx="12" cy="12" r="8.5"/><g><path fill="#34495E" d="M16.116,7.003l0.018,0.134l-0.2,0.042l-0.026,0.284h0.239l0.319-0.03l0.164-0.197l-0.174-0.067l-0.097-0.11 l-0.144-0.234l-0.069-0.33l-0.271,0.056L15.8,6.667v0.131l0.132,0.089L16.116,7.003z"/><path fill="#34495E" d="M15.887,7.113l0.012-0.178l-0.157-0.069L15.52,6.917l-0.166,0.265v0.172h0.192L15.887,7.113z M11.313,7.871 l-0.049,0.126h-0.236v0.122h0.056l0.008,0.06l0.146-0.012l0.091-0.056l0.023-0.113l0.117-0.01l0.047-0.095l-0.107-0.022H11.313z M10.704,8.093l-0.009,0.119l0.171-0.014l0.018-0.12l-0.103-0.081L10.704,8.093z"/><path fill="#34495E" d="M20.998,11.907c-0.007-1.108-0.223-2.205-0.635-3.233l-0.068-0.172c-0.434-1.023-1.055-1.958-1.829-2.755 C16.773,3.991,14.439,3,12,3C9.741,2.998,7.565,3.85,5.907,5.384C5.533,5.729,5.188,6.104,4.878,6.508 C3.659,8.079,2.999,10.012,3,12c0,4.963,4.038,9,9,9c3.491,0,6.521-2,8.014-4.911C20.662,14.823,21,13.422,21,12L20.998,11.907z M19.305,8.311l0.053-0.059c0.067,0.133,0.133,0.268,0.192,0.404l-0.085-0.003l-0.16,0.022V8.311z M18.003,6.739l0.002-0.401 c0.142,0.149,0.278,0.304,0.408,0.464l-0.163,0.24l-0.566-0.004L17.648,6.92L18.003,6.739z M7.147,5.74V5.726h0.18l0.016-0.063 h0.295v0.128L7.554,5.905H7.146L7.147,5.74z M7.435,6.142c0,0,0.181-0.031,0.195-0.031c0.016,0,0,0.179,0,0.179L7.224,6.317 L7.147,6.225L7.435,6.142z M19.878,9.715h-0.659l-0.4-0.299l-0.422,0.041v0.258h-0.135l-0.145-0.103l-0.73-0.185V8.953 l-0.928,0.072l-0.288,0.154h-0.366l-0.181-0.018l-0.447,0.248v0.466l-0.913,0.66l0.075,0.281h0.187l-0.049,0.267l-0.131,0.048 l-0.007,0.7l0.789,0.899h0.345l0.021-0.056h0.616l0.18-0.165h0.35l0.192,0.193l0.522,0.054l-0.07,0.694l0.58,1.023l-0.307,0.582 l0.021,0.274l0.24,0.239v0.66l0.315,0.426v0.549h0.271c-1.565,1.932-3.92,3.054-6.406,3.054c-4.552,0-8.257-3.704-8.257-8.26 c0-1.146,0.234-2.239,0.658-3.232V8.51l0.296-0.358c0.103-0.194,0.212-0.383,0.329-0.566l0.014,0.149L4.696,8.151 c-0.107,0.2-0.207,0.405-0.297,0.616v0.47l0.344,0.165v0.654l0.329,0.562l0.268,0.041l0.034-0.192L5.059,9.979L4.997,9.506h0.186 l0.078,0.487l0.455,0.666l-0.117,0.214l0.291,0.445l0.721,0.178V11.38l0.287,0.041L6.87,11.627l0.227,0.041l0.351,0.096 l0.494,0.563l0.632,0.047l0.061,0.517l-0.432,0.301l-0.02,0.459L8.12,13.932l0.625,0.783l0.046,0.268c0,0,0.227,0.063,0.255,0.063 c0.028,0,0.509,0.364,0.509,0.364v1.414l0.17,0.048l-0.115,0.65l0.287,0.385l-0.053,0.646l0.381,0.671l0.489,0.426l0.491,0.011 l0.049-0.159l-0.361-0.305l0.021-0.15l0.065-0.186l0.013-0.188l-0.245-0.007l-0.123-0.154l0.203-0.195l0.027-0.147l-0.227-0.063 l0.014-0.139l0.323-0.049l0.491-0.234l0.164-0.303l0.516-0.658l-0.117-0.516l0.158-0.273l0.473,0.014l0.318-0.252L13.07,14.7 l0.354-0.45l0.063-0.289l-0.323-0.104l-0.213-0.349L12.224,13.5l-0.576-0.22l-0.027-0.411l-0.193-0.336l-0.521-0.008l-0.301-0.474 l-0.268-0.131l-0.014,0.145l-0.487,0.029l-0.179-0.249L9.15,11.743l-0.42,0.484l-0.659-0.111l-0.047-0.743L7.542,11.29l0.193-0.364 L7.68,10.717l-0.632,0.422l-0.397-0.048L6.509,10.78l0.088-0.32l0.219-0.404L7.32,9.801L8.294,9.8l-0.002,0.298l0.35,0.162 L8.614,9.752l0.252-0.254l0.509-0.333l0.036-0.236L9.919,8.4l0.539-0.299l-0.046-0.04l0.365-0.344l0.135,0.036l0.061,0.077 l0.139-0.154l0.035-0.015L10.995,7.64l-0.154-0.051v-0.15l0.082-0.067h0.18l0.082,0.037l0.072,0.144l0.087-0.013V7.527l0.025,0.008 l0.253-0.039l0.035-0.124L11.8,7.409v0.133l-0.133,0.093l0.02,0.146l0.459,0.142v0.006l0.106-0.009l0.007-0.199l-0.363-0.165 L11.874,7.46l0.303-0.104l0.014-0.288l-0.317-0.192l-0.02-0.487l-0.433,0.212h-0.158l0.042-0.37l-0.589-0.139l-0.243,0.184v0.561 l-0.438,0.139L9.858,7.343L9.669,7.374V6.906L9.257,6.849L9.052,6.715L8.969,6.412L9.704,5.98l0.361-0.109l0.036,0.242l0.2-0.011 l0.016-0.121l0.21-0.03l0.004-0.043L10.44,5.871l-0.02-0.129l0.259-0.021l0.155-0.162l0.009-0.012h0.002l0.047-0.049l0.543-0.068 l0.239,0.204l-0.629,0.335l0.8,0.188l0.104-0.268H12.3l0.124-0.233l-0.248-0.063V5.3l-0.775-0.344l-0.535,0.062l-0.303,0.158 l0.021,0.385l-0.316-0.048L10.219,5.3l0.302-0.275L9.972,4.998L9.814,5.045L9.746,5.23l0.206,0.035L9.911,5.471l-0.35,0.021 L9.507,5.629L8.999,5.643c0,0-0.014-0.288-0.035-0.288l0.398-0.007l0.302-0.295L9.499,4.97L9.28,5.183L8.915,5.162L8.696,4.86 H8.229L7.742,5.224h0.446l0.041,0.131L8.113,5.462l0.495,0.014l0.074,0.178l-0.556-0.02L8.1,5.497L7.75,5.421L7.564,5.318 L7.147,5.321C8.556,4.292,10.255,3.739,12,3.74c2.089,0,3.997,0.78,5.452,2.063l-0.099,0.176l-0.381,0.149l-0.16,0.174l0.037,0.203 l0.196,0.027l0.118,0.296l0.34-0.136l0.055,0.396h-0.102L17.18,7.047L16.871,7.1l-0.299,0.422l-0.428,0.067l-0.063,0.365 l0.182,0.043L16.21,8.232l-0.424-0.086l-0.39,0.086l-0.082,0.217l0.066,0.454l0.229,0.107l0.384-0.003l0.259-0.022l0.078-0.207 l0.404-0.525l0.268,0.054l0.262-0.237l0.049,0.185l0.645,0.436L17.88,8.797l-0.291-0.016L17.7,8.94l0.18,0.039l0.209-0.088 L18.084,8.64l0.092-0.047l-0.074-0.079l-0.43-0.24l-0.111-0.319h0.356l0.114,0.113l0.309,0.265l0.014,0.321l0.318,0.34l0.119-0.465 l0.221-0.121l0.043,0.381l0.215,0.237L19.7,9.018c0.084,0.214,0.157,0.433,0.225,0.655L19.878,9.715z M7.909,7.089l0.216-0.103 l0.196,0.047L8.253,7.295L8.042,7.362L7.909,7.089z M9.056,7.707v0.17H8.563L8.378,7.825l0.045-0.119l0.238-0.098h0.324v0.098 L9.056,7.707L9.056,7.707z M9.284,7.944v0.165L9.16,8.188L9.006,8.217V7.944H9.284L9.284,7.944z M9.145,7.877V7.681l0.17,0.155 L9.145,7.877z M9.222,8.273v0.161L9.104,8.552H8.841l0.041-0.18l0.125-0.011l0.025-0.063L9.222,8.273z M8.567,7.944H8.84 L8.49,8.433L8.347,8.355l0.031-0.206L8.567,7.944L8.567,7.944z M9.685,8.217v0.16H9.423L9.351,8.273V8.124h0.021L9.685,8.217z M9.442,7.997l0.075-0.08l0.126,0.08L9.542,8.08L9.442,7.997z M20.012,10.132l0.026-0.03l0.03,0.141L20.012,10.132z"/><path fill="#34495E" d="M4.399,8.51v0.258c0.09-0.21,0.189-0.415,0.297-0.616L4.399,8.51z"/></g></svg>EN <i class="iconsvg iconsvg-down-a"></i>
+</button>
+<div id="header-edition-selector__menu" class="edition-selector__menu" role="menu" tabindex="-1" aria-hidden="true" aria-label="Edition preferences for Marca.com">
+<p class="edition-selector__menu-title">Editions:</p>
+<ul class="edition-selector__menu-list">
+<li class="list-option list-option-spain">
+<a href="https://www.marca.com/?intcmp=BOTONPORTADA&amp;s_kw=portada&ue_guest"><svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" viewBox="0 0 24 24" role="img" aria-hidden="true"><path fill="#FFC400" d="M3,6h18v12H3V6z"/><path fill="#C60B1E" d="M3,6h18v3H3V6z M3,15h18v3H3V15z"/></svg>
+ES (España)
+</a>
+</li>
+<li class="list-option list-option-english">
+<a href="https://www.marca.com/en/?intcmp=BOTONPORTADA&amp;s_kw=portada" aria-current="true"><svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" viewBox="0 0 24 24" role="img" aria-hidden="true"><circle fill="#AED6F1" cx="12" cy="12" r="8.5"/><g><path fill="#34495E" d="M16.116,7.003l0.018,0.134l-0.2,0.042l-0.026,0.284h0.239l0.319-0.03l0.164-0.197l-0.174-0.067l-0.097-0.11 l-0.144-0.234l-0.069-0.33l-0.271,0.056L15.8,6.667v0.131l0.132,0.089L16.116,7.003z"/><path fill="#34495E" d="M15.887,7.113l0.012-0.178l-0.157-0.069L15.52,6.917l-0.166,0.265v0.172h0.192L15.887,7.113z M11.313,7.871 l-0.049,0.126h-0.236v0.122h0.056l0.008,0.06l0.146-0.012l0.091-0.056l0.023-0.113l0.117-0.01l0.047-0.095l-0.107-0.022H11.313z M10.704,8.093l-0.009,0.119l0.171-0.014l0.018-0.12l-0.103-0.081L10.704,8.093z"/><path fill="#34495E" d="M20.998,11.907c-0.007-1.108-0.223-2.205-0.635-3.233l-0.068-0.172c-0.434-1.023-1.055-1.958-1.829-2.755 C16.773,3.991,14.439,3,12,3C9.741,2.998,7.565,3.85,5.907,5.384C5.533,5.729,5.188,6.104,4.878,6.508 C3.659,8.079,2.999,10.012,3,12c0,4.963,4.038,9,9,9c3.491,0,6.521-2,8.014-4.911C20.662,14.823,21,13.422,21,12L20.998,11.907z M19.305,8.311l0.053-0.059c0.067,0.133,0.133,0.268,0.192,0.404l-0.085-0.003l-0.16,0.022V8.311z M18.003,6.739l0.002-0.401 c0.142,0.149,0.278,0.304,0.408,0.464l-0.163,0.24l-0.566-0.004L17.648,6.92L18.003,6.739z M7.147,5.74V5.726h0.18l0.016-0.063 h0.295v0.128L7.554,5.905H7.146L7.147,5.74z M7.435,6.142c0,0,0.181-0.031,0.195-0.031c0.016,0,0,0.179,0,0.179L7.224,6.317 L7.147,6.225L7.435,6.142z M19.878,9.715h-0.659l-0.4-0.299l-0.422,0.041v0.258h-0.135l-0.145-0.103l-0.73-0.185V8.953 l-0.928,0.072l-0.288,0.154h-0.366l-0.181-0.018l-0.447,0.248v0.466l-0.913,0.66l0.075,0.281h0.187l-0.049,0.267l-0.131,0.048 l-0.007,0.7l0.789,0.899h0.345l0.021-0.056h0.616l0.18-0.165h0.35l0.192,0.193l0.522,0.054l-0.07,0.694l0.58,1.023l-0.307,0.582 l0.021,0.274l0.24,0.239v0.66l0.315,0.426v0.549h0.271c-1.565,1.932-3.92,3.054-6.406,3.054c-4.552,0-8.257-3.704-8.257-8.26 c0-1.146,0.234-2.239,0.658-3.232V8.51l0.296-0.358c0.103-0.194,0.212-0.383,0.329-0.566l0.014,0.149L4.696,8.151 c-0.107,0.2-0.207,0.405-0.297,0.616v0.47l0.344,0.165v0.654l0.329,0.562l0.268,0.041l0.034-0.192L5.059,9.979L4.997,9.506h0.186 l0.078,0.487l0.455,0.666l-0.117,0.214l0.291,0.445l0.721,0.178V11.38l0.287,0.041L6.87,11.627l0.227,0.041l0.351,0.096 l0.494,0.563l0.632,0.047l0.061,0.517l-0.432,0.301l-0.02,0.459L8.12,13.932l0.625,0.783l0.046,0.268c0,0,0.227,0.063,0.255,0.063 c0.028,0,0.509,0.364,0.509,0.364v1.414l0.17,0.048l-0.115,0.65l0.287,0.385l-0.053,0.646l0.381,0.671l0.489,0.426l0.491,0.011 l0.049-0.159l-0.361-0.305l0.021-0.15l0.065-0.186l0.013-0.188l-0.245-0.007l-0.123-0.154l0.203-0.195l0.027-0.147l-0.227-0.063 l0.014-0.139l0.323-0.049l0.491-0.234l0.164-0.303l0.516-0.658l-0.117-0.516l0.158-0.273l0.473,0.014l0.318-0.252L13.07,14.7 l0.354-0.45l0.063-0.289l-0.323-0.104l-0.213-0.349L12.224,13.5l-0.576-0.22l-0.027-0.411l-0.193-0.336l-0.521-0.008l-0.301-0.474 l-0.268-0.131l-0.014,0.145l-0.487,0.029l-0.179-0.249L9.15,11.743l-0.42,0.484l-0.659-0.111l-0.047-0.743L7.542,11.29l0.193-0.364 L7.68,10.717l-0.632,0.422l-0.397-0.048L6.509,10.78l0.088-0.32l0.219-0.404L7.32,9.801L8.294,9.8l-0.002,0.298l0.35,0.162 L8.614,9.752l0.252-0.254l0.509-0.333l0.036-0.236L9.919,8.4l0.539-0.299l-0.046-0.04l0.365-0.344l0.135,0.036l0.061,0.077 l0.139-0.154l0.035-0.015L10.995,7.64l-0.154-0.051v-0.15l0.082-0.067h0.18l0.082,0.037l0.072,0.144l0.087-0.013V7.527l0.025,0.008 l0.253-0.039l0.035-0.124L11.8,7.409v0.133l-0.133,0.093l0.02,0.146l0.459,0.142v0.006l0.106-0.009l0.007-0.199l-0.363-0.165 L11.874,7.46l0.303-0.104l0.014-0.288l-0.317-0.192l-0.02-0.487l-0.433,0.212h-0.158l0.042-0.37l-0.589-0.139l-0.243,0.184v0.561 l-0.438,0.139L9.858,7.343L9.669,7.374V6.906L9.257,6.849L9.052,6.715L8.969,6.412L9.704,5.98l0.361-0.109l0.036,0.242l0.2-0.011 l0.016-0.121l0.21-0.03l0.004-0.043L10.44,5.871l-0.02-0.129l0.259-0.021l0.155-0.162l0.009-0.012h0.002l0.047-0.049l0.543-0.068 l0.239,0.204l-0.629,0.335l0.8,0.188l0.104-0.268H12.3l0.124-0.233l-0.248-0.063V5.3l-0.775-0.344l-0.535,0.062l-0.303,0.158 l0.021,0.385l-0.316-0.048L10.219,5.3l0.302-0.275L9.972,4.998L9.814,5.045L9.746,5.23l0.206,0.035L9.911,5.471l-0.35,0.021 L9.507,5.629L8.999,5.643c0,0-0.014-0.288-0.035-0.288l0.398-0.007l0.302-0.295L9.499,4.97L9.28,5.183L8.915,5.162L8.696,4.86 H8.229L7.742,5.224h0.446l0.041,0.131L8.113,5.462l0.495,0.014l0.074,0.178l-0.556-0.02L8.1,5.497L7.75,5.421L7.564,5.318 L7.147,5.321C8.556,4.292,10.255,3.739,12,3.74c2.089,0,3.997,0.78,5.452,2.063l-0.099,0.176l-0.381,0.149l-0.16,0.174l0.037,0.203 l0.196,0.027l0.118,0.296l0.34-0.136l0.055,0.396h-0.102L17.18,7.047L16.871,7.1l-0.299,0.422l-0.428,0.067l-0.063,0.365 l0.182,0.043L16.21,8.232l-0.424-0.086l-0.39,0.086l-0.082,0.217l0.066,0.454l0.229,0.107l0.384-0.003l0.259-0.022l0.078-0.207 l0.404-0.525l0.268,0.054l0.262-0.237l0.049,0.185l0.645,0.436L17.88,8.797l-0.291-0.016L17.7,8.94l0.18,0.039l0.209-0.088 L18.084,8.64l0.092-0.047l-0.074-0.079l-0.43-0.24l-0.111-0.319h0.356l0.114,0.113l0.309,0.265l0.014,0.321l0.318,0.34l0.119-0.465 l0.221-0.121l0.043,0.381l0.215,0.237L19.7,9.018c0.084,0.214,0.157,0.433,0.225,0.655L19.878,9.715z M7.909,7.089l0.216-0.103 l0.196,0.047L8.253,7.295L8.042,7.362L7.909,7.089z M9.056,7.707v0.17H8.563L8.378,7.825l0.045-0.119l0.238-0.098h0.324v0.098 L9.056,7.707L9.056,7.707z M9.284,7.944v0.165L9.16,8.188L9.006,8.217V7.944H9.284L9.284,7.944z M9.145,7.877V7.681l0.17,0.155 L9.145,7.877z M9.222,8.273v0.161L9.104,8.552H8.841l0.041-0.18l0.125-0.011l0.025-0.063L9.222,8.273z M8.567,7.944H8.84 L8.49,8.433L8.347,8.355l0.031-0.206L8.567,7.944L8.567,7.944z M9.685,8.217v0.16H9.423L9.351,8.273V8.124h0.021L9.685,8.217z M9.442,7.997l0.075-0.08l0.126,0.08L9.542,8.08L9.442,7.997z M20.012,10.132l0.026-0.03l0.03,0.141L20.012,10.132z"/><path fill="#34495E" d="M4.399,8.51v0.258c0.09-0.21,0.189-0.415,0.297-0.616L4.399,8.51z"/></g></svg>EN (English)
+</a>
+</li>
+<li class="list-option list-option-mexico">
+<a href="https://www.marca.com/claro-mx/?intcmp=BOTONPORTADA&amp;s_kw=portada"><svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" viewBox="0 0 24 24" role="img" aria-hidden="true"><path fill="#FFFFFF" d="M3,6h18v12H3V6z"/><path fill="#006847" d="M3,6h6v12H3V6z"/><path fill="#CE1126" d="M15,6h6v12h-6V6z"/><circle fill="#C0C2A3" cx="12" cy="12" r="2"/></svg>
+MX (México)
+</a>
+</li>
+<li class="list-option list-option-colombia">
+<a href="https://co.marca.com/claro/?intcmp=BOTONPORTADA&amp;s_kw=portada"><svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" viewBox="0 0 24 24" role="img" aria-hidden="true"><rect x="3" y="15.332" fill="#CE1126" width="18" height="2.668"/><rect x="3" y="12" fill="#003893" width="18" height="3.332"/><rect x="3" y="6" fill="#FCD116" width="18" height="6"/></svg>
+CO (Colombia)
+</a>
+</li>
+<li class="list-option list-option-argentina">
+<a href="https://ar.marca.com/claro/?intcmp=BOTONPORTADA&amp;s_kw=portada"><svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" viewBox="0 0 24 24" role="img" aria-hidden="true"><g id="Group"><path fill="#FFFFFF" d="M21,6v12H3V6H21z"/><path fill="#74ACDF" d="M21,6v4H3V6H21z"/><path fill="#74ACDF" d="M21,14v4H3v-4H21z"/></g><path fill="#F6B40E" d="M12,10.667c0.736,0,1.333,0.597,1.333,1.333c0,0.736-0.597,1.333-1.333,1.333 c-0.736,0-1.333-0.597-1.333-1.333C10.667,11.264,11.264,10.667,12,10.667z"/></svg>
+AR (Argentina)
+</a>
+</li>
+<li class="list-option list-option-usa">
+<a href="https://us.marca.com/?intcmp=BOTONPORTADA&amp;s_kw=portada"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" style="isolation:isolate" viewBox="201.5 111 24 21" role="img" aria-hidden="true"><path fill="#FFF" d="M204.5 115.5h18v12h-18v-12z"/><path fill="#B22234" d="M204.5 115.5h18v1h-18v-1zm0 2h18v1h-18v-1zm0 1.8h18v1h-18v-1zm0 1.8h18v1h-18v-1zm0 1.9h18v1h-18v-1zm0 1.8h18v1h-18v-1zm0 1.7h18v1h-18v-1z"/><path fill="#3C3B6E" d="M204.5 115.5h9.2v6.5h-9.2v-6.5z"/><path fill="#FFF" d="M204.9 116.1l.3.1-.1.3.2-.2.2.2v-.3l.1-.1h-.1l-.1-.3-.1.3h-.4zm1.6 0l.2.1-.2.3.2-.2.2.2v-.3l.2-.1h-.3v-.3l-.2.3h-.1zm1.5 0l.2.1v.3l.1-.2.3.2-.1-.3.2-.1h-.3v-.3l-.1.3h-.3zm1.5 0l.2.1v.3l.2-.2.2.2-.1-.3.2-.1h-.3v-.3l-.1.3h-.3zm1.5 0l.3.1-.1.3.2-.2.2.2v-.3l.1-.1h-.2l-.1-.3-.1.3h-.3zm1.6 0l.2.1-.1.3.2-.2.2.2v-.3l.2-.1h-.3v-.3l-.2.3h-.2zm-6.9.6l.2.2v.2l.2-.1.2.1-.1-.2.2-.2h-.3v-.2l-.1.2h-.3zm1.5 0l.2.2v.2l.2-.1.2.1v-.2l.1-.2h-.2l-.2-.2-.1.2h-.2zm1.5 0l.3.2-.1.2.2-.1.2.1v-.2l.2-.2h-.3l-.1-.2v.2h-.4zm1.6 0l.2.2v.2l.1-.1.2.1v-.2l.2-.2h-.3v-.2l-.2.2h-.2zm1.5 0l.2.2v.2l.2-.1.2.1-.1-.2.2-.2h-.3v-.2l-.1.2h-.3zm-6.9.6l.3.2-.1.3.2-.2.2.2v-.3l-.1-.3-.1.3-.4-.2zm1.6 0l.2.2-.1.3.2-.2.2.2v-.3l.2-.1h-.3v-.3l-.2.3-.2-.1zm1.5 0l.2.2v.3l.1-.2.3.2-.1-.3.2-.1h-.3v-.3l-.1.3-.3-.1zm1.5 0l.2.2v.3l.2-.2.2.2-.1-.3.2-.1h-.3v-.3l-.1.3-.3-.1zm1.5 0l.3.2-.1.3.2-.2.2.2v-.3l.1-.1h-.2l-.1-.3-.1.3-.3-.1zm1.6 0l.2.2-.1.3.2-.2.2.2v-.3l.2-.1h-.3v-.3l-.2.3-.2-.1zm-6.9.7l.2.2v.2l.2-.2.2.2-.1-.2.2-.2h-.2l-.1-.3-.1.3h-.3zm1.5 0l.3.2-.1.2.2-.2.2.2v-.2l.1-.2h-.2l-.2-.3v.3h-.3zm1.6 0l.2.2-.1.2.2-.2.2.2v-.2l.2-.2h-.3v-.3l-.2.3h-.2zm1.5 0l.2.2v.2l.1-.2.3.2-.1-.2.2-.2h-.3v-.3l-.1.3h-.3zm1.5 0l.2.2v.2l.2-.2.2.2-.1-.2.2-.2h-.2l-.1-.3-.1.3h-.3zm-6.8.5l.2.2-.1.2.2-.1.2.1v-.2l.2-.2h-.3l-.2.2-.2-.2zm1.5 0l.2.2v.2l.1-.1.3.1-.1-.2.2-.2h-.3l-.1.2-.3-.2zm1.5 0l.2.2v.2l.2-.1.2.1-.1-.2.2-.2h-.2l-.1.2-.4-.2zm1.5 0l.3.2-.1.2.2-.1.2.1v-.2l.1-.2H209.9l-.1.2-.3-.2zm1.6 0l.2.2-.1.2.2-.1.2.1v-.2l.2-.2h-.3l-.2.2-.2-.2zm1.5 0l.2.2v.2l.1-.1.3.1-.1-.2.2-.2h-.3l-.1.2-.3-.2zm-7.6 1.4l.2.2-.1.2.2-.1.2.1v-.2l.2-.2h-.3v-.3l-.2.3h-.2zm1.5 0l.2.2v.2l.2-.1.2.1-.1-.2.2-.2h-.3v-.3l-.1.3h-.3zm1.5 0l.2.2v.2l.2-.1.2.1v-.2l.1-.2h-.2l-.1-.3-.1.3h-.3zm1.5 0l.3.2-.1.2.2-.1.2.1v-.2l.2-.2h-.3l-.1-.3v.3h-.4zm1.6 0l.2.2v.2l.1-.1.2.1v-.2l.2-.2h-.3v-.3l-.2.3h-.2zm1.5 0l.2.2v.2l.2-.1.2.1-.1-.2.2-.2h-.3v-.3l-.1.3h-.3zm-7.6 1.3l.2.1-.1.3.2-.2.2.2v-.3l.2-.1h-.3v-.3l-.2.3h-.2zm1.5 0l.2.1v.3l.1-.2.3.2-.1-.3.2-.1h-.3v-.3l-.2.3h-.2zm1.5 0l.2.1v.3l.2-.2.2.2-.1-.3.2-.1h-.2v-.3l-.1.3h-.4zm1.5 0l.2.1v.3l.2-.2.2.2v-.3l.1-.1h-.2l-.1-.3-.1.3h-.3zm1.6 0l.2.1-.1.3.2-.2.2.2v-.3l.2-.1h-.3v-.3l-.2.3h-.2zm1.5 0l.2.1v.3l.1-.2.3.2-.1-.3.2-.1h-.3v-.3l-.2.3h-.2zm-6.9-2l.2.2v.3l.2-.2.2.2v-.3l.1-.1h-.2l-.1-.3-.1.3-.3-.1zm1.5 0l.3.3-.1.3.1-.3.2.2v-.3l.2-.1h-.3l-.1-.3v.3l-.3-.1zm1.6 0l.2.2-.1.3.2-.2.2.2v-.3l.2-.1h-.3v-.3l-.2.3-.2-.1zm1.5 0l.2.3v.3-.3l.3.2-.1-.3.2-.1h-.3v-.3l-.1.3-.2-.1zm1.5 0l.2.2v.3l.2-.2.2.2v-.3l.1-.1h-.2l-.1-.3-.1.3-.3-.1zm-6 1.3l.1.2v.2l.2-.1.2.2-.1-.3.2-.2h-.2l-.1-.2-.1.2h-.2zm1.4 0l.3.2-.1.2.2-.1.2.2v-.3l.1-.2h-.2l-.2-.2v.2h-.3zm1.6 0l.2.2-.1.2.2-.1.2.2v-.3l.2-.2h-.3v-.2l-.2.2h-.2zm1.5 0l.2.2v.2l.1-.1.3.2-.1-.3.2-.2h-.3v-.2l-.2.2h-.2zm1.5 0l.2.2v.2l.2-.1.2.2-.1-.3.2-.2h-.2l-.1-.2-.1.2h-.3z"/><path fill="none" d="M201.5 111h24v21h-24z"/></svg>
+US (USA)
+</a>
+</li>
+</ul>
+<form data-edition-preferences="" class="edition-selector__menu-preferences">
+<fieldset>
+<legend>
+<span class="edition-selector__menu-preferences-title">
+Set your preferred edition for Marca.com
+</span>
+</legend>
+<span class="edition-selector__menu-preferences-info">
+<svg xmlns="http://www.w3.org/2000/svg" width="16px" height="15.999px" viewBox="0 0 16 15.999" role="img" aria-hidden="true"><g><circle fill="#F47F25" cx="8" cy="8" r="8"/><g><polygon fill="#FFFFFF" points="6.993,6.655 6.993,11.619 6.035,11.619 6.035,12.64 10.077,12.64 10.077,11.619 9.055,11.619 9.055,5.64 6.035,5.64 6.035,6.661 "/><polyline fill="#FFFFFF" points="7.055,4.624 9.055,4.624 9.055,2.608 7.055,2.608 "/></g></g></svg>
+Siempre que entres en Marca.com se cargará esta edición
+</span>
+<ul class="edition-selector__menu-preferences-list">
+<li>
+<label for="edition-selector_es">ES (España)
+<input type="radio" value="es" name="edition-selector" id="edition-selector_es">
+<span class="checkmark" aria-hidden="true"> </span>
+</label>
+</li>
+<li>
+<label for="edition-selector_en">EN (English)
+<input type="radio" value="en" name="edition-selector" id="edition-selector_en">
+<span class="checkmark" aria-hidden="true"> </span>
+</label>
+</li>
+<li>
+<label for="edition-selector_mx">MX (México)
+<input type="radio" value="mx" name="edition-selector" id="edition-selector_mx">
+<span class="checkmark" aria-hidden="true"> </span>
+</label>
+</li>
+<li>
+<label for="edition-selector_co">CO (Colombia)
+<input type="radio" value="co" name="edition-selector" id="edition-selector_co">
+<span class="checkmark" aria-hidden="true"> </span>
+</label>
+</li>
+<li>
+<label for="edition-selector_ar">AR (Argentina)
+<input type="radio" value="ar" name="edition-selector" id="edition-selector_ar">
+<span class="checkmark" aria-hidden="true"> </span>
+</label>
+</li>
+<li>
+<label for="edition-selector_us">US (USA)
+<input type="radio" value="us" name="edition-selector" id="edition-selector_us">
+<span class="checkmark" aria-hidden="true"> </span>
+</label>
+</li>
+</ul>
+</fieldset>
+<button class="edition-selector__menu-preferences-confirm" data-edition-preferences-action="save">Confirm</button>
+</form>
+</div>
+</div>
+</aside>
+</div>
+</div>
+<div class="main-nav-container">
+<div class="main-header-container">
+<nav class="js-navTab js-desdefixed js-hastafixed" data-jsue-navtab="true" role="navigation">
+<ul class="main-nav-tabs main-second-menu">
+<li class="main-tab main-tab-nfl">
+<a href="https://www.marca.com/en/nfl.html?intcmp=MENUPROD&s_kw=en-nfl" title="NFL" data-menu-section-path="#submenuNFL" data-menu-active="nfl" class="highlight">NFL<i class="iconsvg iconsvg-down-b"></i></a>
+</li>
+<li class="main-tab main-tab-basketball-nba">
+<a href="https://www.marca.com/en/basketball/nba.html?intcmp=MENUPROD&s_kw=en-nba" title="NBA" data-menu-section-path="#submenuNBA" data-menu-active="basketball" class="highlight">NBA<i class="iconsvg iconsvg-down-b"></i></a>
+</li>
+<li class="main-tab main-tab-soccer">
+<a href="https://www.marca.com/en/football.html?intcmp=MENUPROD&s_kw=soccer" title="Soccer" data-menu-section-path="#submenuSoccer" data-menu-active="soccer" class="highlight">Soccer<i class="iconsvg iconsvg-down-b"></i></a>
+</li>
+<li class="main-tab main-tab-mlb">
+<a href="https://www.marca.com/en/mlb.html?intcmp=MENUPROD&s_kw=en-mlb" title="MLB" data-menu-section-path="#submenuMLB" data-menu-active="mlb" class="highlight">MLB<i class="iconsvg iconsvg-down-b"></i></a>
+</li>
+<li class="main-tab main-tab-default">
+<a href="https://www.marca.com/en/more-sports.html?intcmp=MENUPROD&s_kw=english-more-sports" title="More Sports" data-menu-section-path="#submenuMoreSports" data-menu-active="more-sports" class="highlight">More Sports<i class="iconsvg iconsvg-down-b"></i></a>
+</li>
+<li class="main-tab main-tab-lifestyle">
+<a href="https://www.marca.com/en/lifestyle.html?intcmp=MENUPROD&s_kw=english-lifestyle" title="Lifestyle" data-menu-section-path="#submenuLifestyle" data-menu-active="lifestyle" class="highlight">Lifestyle<i class="iconsvg iconsvg-down-b"></i></a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="breadcrumbs js-desdefixed js-hastafixed">
+<div class="container-breadcrumb js-submenu-toggle">
+<div class="js-contenido-toggle content-breadcrumb">
+<div class="clearfix "><ul itemscope="" itemtype="http://schema.org/BreadcrumbList" class="tab-breadcrumb js-containerbreadcrumb"><li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem" class="home"><a itemscope="" itemtype="http://schema.org/Thing" itemprop="item" title="MARCA.com/en" href="https://www.marca.com/en?intcmp=MENUMIGA&s_kw=home" id="bread-0"><span itemprop="name">Home</span></a><span class="arrow"></span><meta itemprop="position" content="1"/></li><li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem" class="first-level"><span class="hidden-content">Volver a:</span><a itemscope="" itemtype="http://schema.org/Thing" itemprop="item" href="https://www.marca.com/en/football.html?intcmp=MENUMIGA&s_kw=soccer" id="bread-1"><span itemprop="name">Soccer</span></a><span class="arrow"></span><meta itemprop="position" content="2"/></li><li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem" class="second-level"><a itemscope="" itemtype="http://schema.org/Thing" itemprop="item" href="https://www.marca.com/en/world-cup.html?intcmp=MENUMIGA&s_kw=world-cup" id="bread-2"><span itemprop="name">World Cup</span></a><span class="arrow"></span><meta itemprop="position" content="3"/></li></ul><ul class="tab-breadcrumb tab-breadcrumb-list js-breadcrumb-submenu"><li><a data-section="News" href="https://www.marca.com/en/world-cup.html?intcmp=MENUMIGA&s_kw=news" title="News">News</a></li><li><a data-section="Schedule" href="https://www.marca.com/en/world-cup/schedule.html?intcmp=MENUMIGA&s_kw=schedule" title="Schedule">Schedule</a></li><li><a data-section="Groups" href="https://www.marca.com/en/world-cup/schedule/group-b.html?intcmp=MENUMIGA&s_kw=groups" title="Groups">Groups</a></li><li><a data-section="Stadiums" href="https://www.marca.com/en/world-cup/stadiums.html?intcmp=MENUMIGA&s_kw=stadiums" title="Stadiums">Stadiums</a></li><li><a data-section="Teams" href="https://www.marca.com/en/world-cup/teams.html?intcmp=MENUMIGA&s_kw=teams" title="Teams">Teams</a></li><li><a data-section="Winners" href="https://www.marca.com/en/world-cup/winners.html?intcmp=MENUMIGA&s_kw=winners" title="Winners">Winners</a></li></ul></div>
+<input type="checkbox" id="show-more-breadcrumb" role="button" class="check-more-breadcrumb">
+<label for="show-more-breadcrumb" class="dropdown-submenu dropdown-more-breadcrumb js-botonera-more">
+<span class="show-more-breadcrumb-open">More<i class="iconsvg iconsvg-more-b"></i></span>
+<span class="show-more-breadcrumb-close">Close<i class="iconsvg iconsvg-close-b"></i></span>
+</label>
+<div class="dropdown-container" data-items="">
+<ul class="dropdown-content">
+</ul>
+</div>
+</div>
+<div class="tab-news">
+<div class="container-header">
+<p class="tab-news-title js-newsTitle">En/world-cup</p> <aside class="aside-tools"><ul class="socialMedia js_socialMedia">
+<li>
+<span class="icon-facebook js-icon-facebook">
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="32" viewBox="-4 -2 36 32" aria-hidden="true" role="img"><path opacity=".5" fill="none" d="M0 0h28v28H0V0z"/><path d="M15.22 21.875V14.69h2.415l.359-2.798H15.22v-1.789c0-.809.225-1.363 1.387-1.363h1.485V6.234a19.48 19.48 0 00-2.16-.109c-2.141 0-3.601 1.308-3.601 3.705v2.068H9.909v2.799h2.421v7.178h2.89z"/></svg>
+<span class="hidden-content">Compartir en Facebook</span>
+</span>
+</li>
+<li>
+<span class="icon-twitter js-icon-twitter">
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="32" viewBox="-4 -2 36 32" role="img" aria-hidden="true"><path opacity=".5" fill="none" d="M0,0h28v28H0V0z"/><path d="M20.807,10.413c0.007,0.149,0.01,0.304,0.011,0.454c0.032,4.659-3.471,10.048-9.955,10.094 c-1.914,0.014-3.792-0.522-5.41-1.545c0.278,0.028,0.558,0.044,0.84,0.042c1.587-0.009,3.125-0.551,4.368-1.537 c-1.508-0.019-2.837-0.993-3.311-2.424c0.216,0.04,0.438,0.059,0.663,0.057c0.32,0,0.649-0.044,0.948-0.128 c-1.647-0.317-2.836-1.759-2.835-3.436v-0.042c0.438,0.259,1.004,0.414,1.58,0.428c-1.558-1.021-2.054-3.077-1.135-4.697 c1.803,2.189,4.451,3.509,7.284,3.633c-0.458-1.89,0.702-3.793,2.592-4.252c0.265-0.064,0.536-0.097,0.808-0.099 c0.975-0.008,1.909,0.388,2.581,1.094c0.789-0.159,1.544-0.454,2.233-0.871c-0.259,0.818-0.806,1.515-1.54,1.96 c0.698-0.085,1.379-0.276,2.019-0.569C22.082,9.287,21.492,9.909,20.807,10.413z"></path></svg>
+<span class="hidden-content">Compartir en Twitter</span>
+</span>
+</li>
+<li onclick="envioSC('Enviar');">
+<span class="icon-email js-icon-mail">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" role="img" aria-hidden="true"><path fill="#1F2B38" d="M23 9H9c-.963 0-1.75.788-1.75 1.75v10.5c0 .963.787 1.75 1.75 1.75h14c.963 0 1.75-.787 1.75-1.75v-10.5C24.75 9.788 23.963 9 23 9zm-.256 10.757l-1.238 1.236-3.756-3.755-1.75 1.75-1.75-1.75-3.756 3.755-.31-.309-.619-.619-.309-.309L13.013 16l-3.756-3.757.309-.309.619-.619.31-.309L16 16.513l5.506-5.506.31.309.618.619.311.309L18.987 16l3.757 3.757z"/></svg>
+<span class="hidden-content">Enviar por email</span>
+</span>
+</li>
+</ul></aside>
+</div>
+</div>
+</div>
+</div>
+<div class="percentage-bar" id="js_progressBar"></div>
+</header>
+<div class="main-tab-container no-visible" id="submenuMoreSports">
+<ul class="tab-content">
+<li class="tab-column">
+<ul>
+<li class="tab-list">
+<a href="https://www.marca.com/en/boxing.html?intcmp=MENUPROD&s_kw=en-boxing" class="tab-list-header">Boxing</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/f1.html?intcmp=MENUPROD&s_kw=en-formula-1" class="tab-list-header">Formula 1</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/golf.html?intcmp=MENUPROD&s_kw=en-golf" class="tab-list-header">Golf</a>
+</li>
+</ul>
+</li>
+<li class="tab-column">
+<ul>
+<li class="tab-list">
+<a href="https://www.marca.com/en/indycar.html?intcmp=MENUPROD&s_kw=en-indycar" class="tab-list-header">IndyCar</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nascar.html?intcmp=MENUPROD&s_kw=en-nascar" class="tab-list-header">NASCAR</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nhl.html?intcmp=MENUPROD&s_kw=en-nhl" class="tab-list-header">NHL</a>
+</li>
+</ul>
+</li>
+<li class="tab-column">
+<ul>
+<li class="tab-list">
+<a href="https://www.marca.com/en/olympic-games.html?intcmp=MENUPROD&s_kw=english-olympic-games" class="tab-list-header">Olympic Games</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/tennis.html?intcmp=MENUPROD&s_kw=en-tennis" class="tab-list-header">Tennis</a>
+</li>
+</ul>
+</li>
+<li class="tab-column">
+<ul>
+<li class="tab-list">
+<a href="https://www.marca.com/en/ufc.html?intcmp=MENUPROD&s_kw=en-ufc" class="tab-list-header">UFC</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/wwe.html?intcmp=MENUPROD&s_kw=en-wwe" class="tab-list-header">WWE</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<main aria-labelledby="H1_js_62b1b8e446163f7e7a8b45af" role="main" class="ue-l-article--basic news news-item js_navContinua  marca-theme marca-theme-v2" data-ue-contenido="" id="js_62b1b8e446163f7e7a8b45af" data-theme="marca-theme" data-theme-version="marca-theme-v2"><div id='div-gpt-ad-en_n_f_62b1b8e446163f7e7a8b45af' class="ad-item"><script type='text/javascript'>googletag.cmd.push(function(){googletag.display('div-gpt-ad-en_n_f_62b1b8e446163f7e7a8b45af');});</script></div><div class="skin-ad"></div><div class="ue-l-article"><div class="ue-l-article__inner ue-l-article__inner--no-gutter"><div class="ue-c-section-title"><span class="ue-c-section-title-brand"></span><span class="ue-c-section-title-text">FIFA WORLD CUP QATAR 2022</span></div></div></div><div class="ue-l-article"><div class="ue-l-article__inner"><div class="ue-l-article__sky ue-l-article__sky--right"><div class="ue-c-ad" aria-roledescription=Publicidad role=region aria-hidden=true><div class="ue-c-ad__inner"><div id='div-gpt-ad-en_n_sd_62b1b8e446163f7e7a8b45af' class="ad-item"><script type='text/javascript'>googletag.cmd.push(function(){googletag.display('div-gpt-ad-en_n_sd_62b1b8e446163f7e7a8b45af');});</script></div></div></div></div><div class="ue-l-article__sky ue-l-article__sky--left"><div class="ue-c-ad" aria-roledescription=Publicidad role=region aria-hidden=true><div class="ue-c-ad__inner"><div id='div-gpt-ad-en_n_si_62b1b8e446163f7e7a8b45af' class="ad-item"><script type='text/javascript'>googletag.cmd.push(function(){googletag.display('div-gpt-ad-en_n_si_62b1b8e446163f7e7a8b45af');});</script></div></div></div></div><div class="ue-l-article__mega"><div class="ue-c-ad ue-c-ad--label" aria-roledescription=Publicidad role=region aria-hidden=true><div class="ue-c-ad__inner"><div id='div-gpt-ad-en_n_m_62b1b8e446163f7e7a8b45af' class="ad-item"><script type='text/javascript'>googletag.cmd.push(function(){googletag.display('div-gpt-ad-en_n_m_62b1b8e446163f7e7a8b45af');});</script></div></div></div></div></div></div><script>var ueDataPage={rootSection:"default",classContNav:"",sectionPrettyName:"FIFA World Cup Qatar 2022",portal:"marca",ct:"n",model:"world-cup",contentId:'62b1b8e446163f7e7a8b45af',breadcrumb:'<ul itemscope="" itemtype="http://schema.org/BreadcrumbList" class="tab-breadcrumb js-containerbreadcrumb"><li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem" class="home" ><a itemscope="" itemtype="http://schema.org/Thing" itemprop="item" title="MARCA.com/en" href="https://www.marca.com/en?intcmp=MENUMIGA&s_kw=home" id="bread-0"><span itemprop="name">Home</span></a><span class="arrow"></span><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem" class="first-level"><span class="hidden-content">Volver a:</span><a itemscope="" itemtype="http://schema.org/Thing" itemprop="item" href="https://www.marca.com/en/football.html?intcmp=MENUMIGA&s_kw=soccer" id="bread-1"><span itemprop="name">Soccer</span></a><span class="arrow"></span><meta itemprop="position" content="2" /></li><li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem" class="second-level"><a itemscope="" itemtype="http://schema.org/Thing" itemprop="item" href="https://www.marca.com/en/world-cup.html?intcmp=MENUMIGA&s_kw=world-cup" id="bread-2"><span itemprop="name">World Cup</span></a><span class="arrow"></span><meta itemprop="position" content="3" /></li></ul>',children:'<ul class="tab-breadcrumb tab-breadcrumb-list js-breadcrumb-submenu"><li><a data-section="News" href="https://www.marca.com/en/world-cup.html?intcmp=MENUMIGA&s_kw=news" title="News">News</a></li><li><a data-section="Schedule" href="https://www.marca.com/en/world-cup/schedule.html?intcmp=MENUMIGA&s_kw=schedule" title="Schedule">Schedule</a></li><li><a data-section="Groups" href="https://www.marca.com/en/world-cup/schedule/group-b.html?intcmp=MENUMIGA&s_kw=groups" title="Groups">Groups</a></li><li><a data-section="Stadiums" href="https://www.marca.com/en/world-cup/stadiums.html?intcmp=MENUMIGA&s_kw=stadiums" title="Stadiums">Stadiums</a></li><li><a data-section="Teams" href="https://www.marca.com/en/world-cup/teams.html?intcmp=MENUMIGA&s_kw=teams" title="Teams">Teams</a></li><li><a data-section="Winners" href="https://www.marca.com/en/world-cup/winners.html?intcmp=MENUMIGA&s_kw=winners" title="Winners">Winners</a></li></ul>',rrss:{img:"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/06/21/16557923666004.jpg",summary:"Could result in a seven-year jail sentence",viaTwitter:'MarcainEnglish'}}</script><div class="ue-l-article"><div class="ue-l-article__inner"><article class="ue-c-article"><meta content="https://www.marca.com/en/world-cup/2022/06/21/62b1b8e446163f7e7a8b45af.html"><div class="ue-l-article__header"><div class="ue-l-article__main-column"><div class="ue-c-article__header "><div class="ue-l-article__header-content ue-l-article--expand-right-full-from-tablet ue-l-article--expand-right-half-from-desktop"><div class="ue-c-article__kicker-group"><div class="ue-c-article__kicker-container"><div class="ue-c-article__kicker"><h2 class="ue-c-article__kicker-seo">World Cup 2022</h2></div></div></div><h1 id="H1_js_62b1b8e446163f7e7a8b45af" class="ue-c-article__headline js-headline js-headlineb" itemprop=&quot;headline&quot;>One-night stands will be illegal at the Qatar World Cup</h1><p class="ue-c-article__standfirst">Could result in a seven-year jail sentence</p></div></div></div></div><div class="ue-l-article__body" data-section=articleBody><div class="ue-l-article__main-column ue-l-article--minimum-content-from-tablet"><figure class="ue-c-article__media ue-c-article__media--image ue-c-article--media-icon-m-from-phablet ue-l-article--expand-left-full-from-tablet ue-c-article__media--main-media"><div class="ue-c-article__media-img-container ue-l-article--expand-edge-right-until-tablet ue-l-article--expand-edge-left-until-tablet"><picture><source type="image/webp" sizes="(min-width: 1010px) 660px, (min-width: 980px) calc(100vw - 330px), (min-width: 740px) calc(100vw - 310px), 100vw" srcset="https://phantom-marca.unidadeditorial.es/507211c8f838673ea454a3f1e8280485/resize/360/f/webp/assets/multimedia/imagenes/2022/06/21/16557925498430.jpg 360w,https://phantom-marca.unidadeditorial.es/1f4afe74fa3be2a48f401d86494cd139/resize/375/f/webp/assets/multimedia/imagenes/2022/06/21/16557925498430.jpg 375w,https://phantom-marca.unidadeditorial.es/c98cc5e991fb7c8d55adc20db18358d0/resize/414/f/webp/assets/multimedia/imagenes/2022/06/21/16557925498430.jpg 414w,https://phantom-marca.unidadeditorial.es/dad2b99c985c36426b26ce7813a24847/resize/660/f/webp/assets/multimedia/imagenes/2022/06/21/16557925498430.jpg 660w,https://phantom-marca.unidadeditorial.es/676f2e62eff1546c339d0ead86d26a9a/resize/720/f/webp/assets/multimedia/imagenes/2022/06/21/16557925498430.jpg 720w,https://phantom-marca.unidadeditorial.es/6c0979fa967d4b1395bee411afb85db9/resize/750/f/webp/assets/multimedia/imagenes/2022/06/21/16557925498430.jpg 750w,https://phantom-marca.unidadeditorial.es/b007965e419a3f97a20abf1cecd8da38/resize/828/f/webp/assets/multimedia/imagenes/2022/06/21/16557925498430.jpg 828w,https://phantom-marca.unidadeditorial.es/d813a09bf6884f5b756f346f885f9a2c/resize/1320/f/webp/assets/multimedia/imagenes/2022/06/21/16557925498430.jpg 1320w"><source type="image/jpeg" sizes="(min-width: 1010px) 660px, (min-width: 980px) calc(100vw - 330px), (min-width: 740px) calc(100vw - 310px), 100vw" srcset="https://phantom-marca.unidadeditorial.es/77ece67b0653199904ee9c63300439a3/resize/360/f/jpg/assets/multimedia/imagenes/2022/06/21/16557925498430.jpg 360w,https://phantom-marca.unidadeditorial.es/492a542d1ad39f4a12ca70a1ead4bb6a/resize/375/f/jpg/assets/multimedia/imagenes/2022/06/21/16557925498430.jpg 375w,https://phantom-marca.unidadeditorial.es/520aa7f27dd1822553c7de09cd8cc35f/resize/414/f/jpg/assets/multimedia/imagenes/2022/06/21/16557925498430.jpg 414w,https://phantom-marca.unidadeditorial.es/e85e77d503068ff2fb98828dffd96177/resize/660/f/jpg/assets/multimedia/imagenes/2022/06/21/16557925498430.jpg 660w,https://phantom-marca.unidadeditorial.es/cf87be0e798504f47efa998637e9f936/resize/720/f/jpg/assets/multimedia/imagenes/2022/06/21/16557925498430.jpg 720w,https://phantom-marca.unidadeditorial.es/25fe2ad150d7775f66c83a0cb56d4bac/resize/750/f/jpg/assets/multimedia/imagenes/2022/06/21/16557925498430.jpg 750w,https://phantom-marca.unidadeditorial.es/0b9dbfa833291a381eabef0f993292b4/resize/828/f/jpg/assets/multimedia/imagenes/2022/06/21/16557925498430.jpg 828w,https://phantom-marca.unidadeditorial.es/d7b40705fd6450fcfff4bef63faa3cb7/resize/1320/f/jpg/assets/multimedia/imagenes/2022/06/21/16557925498430.jpg 1320w"><img width="1300px" height="816px" src="https://phantom-marca.unidadeditorial.es/d7b40705fd6450fcfff4bef63faa3cb7/resize/1320/f/jpg/assets/multimedia/imagenes/2022/06/21/16557925498430.jpg" class="ue-c-article__image" alt="One-night stands will be illegal at the Qatar World Cup"/></picture></div><figcaption class="ue-c-article__media-caption"><div class="ue-c-article__media-caption-inner"><span class="ue-c-article__media-source"><span class="ue-c-article__media-author">EFE</span></span></div></figcaption></figure><a href="https://www.marca.com/futbol/mundial/2022/06/21/62b161a4e2704e81748b45e8.html" title="En Español" class="ue-c-article__button ue-c-article__button--theme-secondary ue-c-article__button--rounded ue-l-article--move-to-leftcol-from-tablet ue-l-article--float-left-from-tablet-no-margin ue-u-hide-until-tablet"><span class="ue-c-article__button-text">ES</span></a><div class="ue-c-article__bar ue-c-article__bar--horizontal-from-tablet"><div class="ue-c-article__bar-body"><ul class="ue-c-article__byline ue-l-article--grow-from-desktop" aria-label=Redacción:><li class="ue-c-article__byline-item"><div class="ue-c-article__byline-name">ENRIQUE CORBELLA</div></li><li class="ue-c-article__byline-item"><div class="ue-c-article__byline-name">ADAPTED BY SAM</div></li></ul><div class="ue-c-article__publishdate" aria-label="Fecha de publicación"><time datetime="2022-06-21T12:30:58Z">
+21/06/2022
+-
+07:30
+<abbr title="Central Daylight Time">CDT</abbr></time></div></div></div><div class="ue-c-article__bar-secondary ue-u-hide-until-tablet ue-l-article--leftcol-width-from-tablet ue-l-article--float-left-from-tablet-no-margin ue-l-article--move-to-leftcol-from-tablet ue-u-sticky-top-80"><ul class="ue-c-article__share-tools  ue-c-article__share-tools--direction-column js_socialMedia" aria-label="Compartir artículo en Redes Sociales"><li class="ue-c-article__share-tools-item ue-c-article__share-tools-item--facebook"><a href="#" class="js-icon-facebook"><svg role="img" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28"><path opacity=".5" fill="none" d="M0 0h28v28H0z"></path><path d="M15.22 21.875V14.69h2.415l.359-2.798H15.22v-1.789c0-.809.225-1.363 1.387-1.363h1.485V6.234a19.463 19.463 0 0 0-2.16-.109c-2.141 0-3.601 1.308-3.601 3.705v2.068H9.909v2.799h2.421v7.178h2.89z"></path></svg><span class="hidden-content">Compartir en Facebook</span></a></li><li class="ue-c-article__share-tools-item ue-c-article__share-tools-item--twitter"><a href="#" class="js-icon-twitter"><svg role="img" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28"><path opacity=".5" fill="none" d="M0 0h28v28H0z"></path><path d="M20.807 10.413c.007.149.01.304.011.454.032 4.659-3.471 10.048-9.955 10.094a9.984 9.984 0 0 1-5.41-1.545c.278.028.558.044.84.042a7.094 7.094 0 0 0 4.368-1.537 3.535 3.535 0 0 1-3.311-2.424c.216.04.438.059.663.057.32 0 .649-.044.948-.128a3.496 3.496 0 0 1-2.835-3.436v-.042c.438.259 1.004.414 1.58.428a3.532 3.532 0 0 1-1.135-4.697 10.002 10.002 0 0 0 7.284 3.633 3.521 3.521 0 0 1 3.4-4.351 3.52 3.52 0 0 1 2.581 1.094 6.977 6.977 0 0 0 2.233-.871 3.541 3.541 0 0 1-1.54 1.96 6.827 6.827 0 0 0 2.019-.569 7.13 7.13 0 0 1-1.741 1.838z"></path></svg><span class="hidden-content">Compartir en Twitter</span></a></li><li class="ue-c-article__share-tools-item ue-c-article__share-tools-item--whatsapp"><a href="#" class="js-icon-whatsapp"><svg role="img" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" viewBox="0 0 28 28"><clipPath id="a-whatsapp"><path d="M6 6h16v16H6V6z" fill="#FFF"></path></clipPath><g clip-path="url(#a-whatsapp)"><path d="M18.4 17.3c-.2.5-1 1-1.6 1.1-.4.1-1 .2-2.8-.6-2.3-1-3.9-3.3-4-3.5 0-.1-1-1.3-1-2.4 0-1.2.7-1.7.9-2 .2-.2.5-.2.8-.2h.3c.2 0 .3 0 .5.4l.7 1.7c0 .1.1.3 0 .4l-.2.4-.4.4c0 .1-.2.2 0 .5 0 .2.5 1 1.2 1.6 1 .8 1.6 1 2 1.1h.5l.6-.9c.2-.2.4-.2.6-.1l1.6.7.4.3-.1 1.1zM14 6a8 8 0 00-6.5 12.7l-1 3 3.1-1A8 8 0 1014 6z" fill-rule="evenodd"></path></g><path fill="none" d="M0 0h28v28H0z"></path></svg><span class="hidden-content">Compartir en Whatsapp</span></a></li><li class="ue-c-article__share-tools-item ue-c-article__share-tools-item--email"><a href="mailto:?subject=One-night%20stands%20will%20be%20illegal%20at%20the%20Qatar%20World%20Cup&amp;body=https://www.marca.com/en/world-cup/2022/06/21/62b1b8e446163f7e7a8b45af.html?emk=MAILSHARE" class="js-icon-mail"><svg role="img" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" viewBox="0 0 28 28"><clipPath id="a"><path d="M6 7.8h16v5.8H6V7.8z" fill="#FFF"></path></clipPath><g clip-path="url(#a)"><path d="M14.8 13.4L22 8.9c-.2-.6-.9-1-1.6-1H7.7c-.8 0-1.4.4-1.7 1l7.2 4.5c.4.3 1.2.3 1.6 0z" fill-rule="evenodd"></path></g><g><clipPath id="b"><path d="M6 10.8h16v9.4H6v-9.4z" fill="#FFF"></path></clipPath><g clip-path="url(#b)"><path d="M15.3 15c-.4.3-.9.4-1.3.4-.5 0-1 0-1.3-.3L6 10.8v7.7c0 1 .8 1.7 1.7 1.7h12.5c1 0 1.8-.8 1.8-1.7v-7.7L15.3 15z" fill-rule="evenodd"></path></g></g><path fill="none" d="M0 0h28v28H0z"></path></svg><span class="hidden-content">Enviar por email</span></a></li></ul></div><ul class="ue-c-article__subtitles ue-l-article--width-1of2-from-mobile ue-l-article--width-1of3-from-desktop ue-l-article--float-right-from-mobile  ue-c-article__subtitles--boxed" aria-label="Contenido relacionado"><li class="ue-c-article__subtitles-item"><span class="ue-c-article__subtitles-kicker">
+World Cup.
+</span><a href="https://www.marca.com/en/world-cup/2022/06/15/62aa0ca122601d306c8b45ba.html">The 2022 World Cup in Qatar is here!</a></li></ul><div class="ue-c-article__body"><p><span class="capital-letter">A</span>ny extramarital sexual encounter that takes place in Qatar during <strong><a href="https://www.marca.com/en/world-cup.html">the 2022 World Cup</a></strong> could result in a seven-year jail sentence.</p><p>It is the first time that a World Cup has been held in a Gulf state, which means there are some cultural differences that many spectators may struggle to adapt to.</p><p>Qatar's Supreme Committee said in a statement that "Qatar is a conservative country and public displays of affection are frowned upon regardless of sexual orientation".</p><p>The Daily Star now reports that there is growing concern from UK law enforcement about the possibility of British fans facing stiff penalties for doing things that they would not think twice about.</p><p>"Sex is very much off the menu, unless you are coming as a husband and wife team," a police source told the Daily Star.</p><p>"There definitely will be no one-night stands at this tournament. There will be no partying at all really. </p><p>"Everyone needs to keep their heads about them, unless they want to risk being stuck in prison.</p><p>"There is essentially a sex ban in place at this year's World Cup for the first time ever. Fans need to be prepared."</p><figure class="ue-c-article__media ue-c-article__media--video ue-c-article--media-icon-m-from-tablet"><div class="ue-c-article__media-img-container ue-l-article--expand-edge-right-until-tablet ue-l-article--expand-edge-left-until-tablet"><div class="ue-c-article__media-video-responsive ue-c-article__media-video-responsive--16-9"><style>.kWidgetIframeContainer{height:100%!important;}</style><div id="video-0_3vtn2zfw" style="height: 371px;" class="full-video"></div><script type="text/javascript">jQuery(function(){if(typeof KalturaUE==='object'){var kalturaPlayer=new KalturaUE.Player('video-0_3vtn2zfw',kalturaPlayerConfig);kalturaPlayer.setConfig({partnerId:110,opciones:{responsive:'16/9'}});var tags="futbol,mundial-2022-qatar";kalturaPlayer.setTags(tags.split(","));kalturaPlayer.setTopic("futbol");if(typeof kalturaPlayer.setSection==='function'){kalturaPlayer.setSection("en/world-cup");};kalturaPlayer.load('0_3vtn2zfw','Nasser Al-Khater&#039;s interview with CNN');};});</script><noscript><img src="https://ak.uecdn.es/p/110/thumbnail/entry_id/0_3vtn2zfw/width/660/cache_st/1655814658/type/2/bgcolor/000000/0_3vtn2zfw.jpg" style="height: 590px; margin-top: -590px; width:100%; "/></noscript></div></div><figcaption class='ue-c-article__media-caption' itemprop='description'><div class="ue-c-article__media-caption-inner"><span class='ue-c-article__media-description'>Nasser Al-Khater&#039;s interview with CNN</span></div></figcaption></figure><h2 class="ue-c-article__subheadline">Concern for LGTBIQ+ visitors to Qatar </h2><p><strong>Nasser Al-Khater</strong>, chairman of Qatar's 2022 World Cup organising committee, has said that all World Cup attendees will be safe regardless of their sexual orientation or culture.</p><p>In December 2021 <strong>Al-Khater </strong>did confirm that "homosexuality is not allowed" in the emirate, but promises that LGTBIQ+ fans will have the right to travel to the country and attend matches.</p><p>"Qatar and the region are a lot more conservative," <strong>Al-Khater</strong> told CNN.</p><p>"And this is what we ask fans to respect. And we're sure that fans will respect that.</p><p>"We respect different cultures and we expect other cultures to respect ours.</p><p>"Qatar is a tolerant country. It's a welcoming country. It's a hospitable country."</p></div><hr class="taboola-art-mid-script" data-ue-is-premium="false" data-ue-is-basic="true" data-ue-is-mobile="false" style="display:none" data-ue-language="en"><script type="text/javascript">!function(c,d){var e,s,t,o,u,p;function a(e,n,l,i){return r(e).map(function(e){var t=e.closest(i);if(t){var o=t.querySelector(n);if(o){var a=r(l,o);if(0!==a.length)return{container:t,article:o,childs:a,shuttle:e};console.warn("[Taboola Mid Widget] Group childs length is 0.")}else console.log("[Taboola Mid Widget] Group article not found.")}else console.log("[Taboola Mid Widget] Group container not found.")}).filter(function(e){return e.container&&e.article&&e.childs&&0<e.childs.length&&!function(e){if((o=e.childs.filter(function(e){return"p"===e.tagName.toLowerCase()})).length<=2)return 1;var t=e.childs[o.length-1],o=e.childs[o.length-2];return!t||!o||"P"!==t.tagName||"P"!==o.tagName}(e)})}function n(e,t){var o,a,n,l=t.article,i=t.childs,r=t.shuttle;r&&l&&r?(a=l,r.classList.contains(s)||a.querySelector("."+u)?console.log("[Taboola Mid Widget] Taboola mid widget already loaded."):(o=i[e])?(n=function(e,t){if(t&&e){t=e.getAttribute(t);return t&&"true"===t.toLowerCase()}}(r,"data-ue-is-mobile"),t=Date.now(),l=r&&r.dataset.ueLanguage,"object"==typeof(t=(a=t,i=n,e=l,r=d.createElement("div"),(t=d.createElement("div")).id="taboola-"+(i?"mobile-":"")+"mid-article-mca"+(e||"")+"-oc-"+a,t.classList.add(u),r.classList.add(p),r.style.overflow="hidden",r.appendChild(t),{container:r,target:t}))&&t.container&&t.target?(o.insertAdjacentElement("beforebegin",t.container),t=t.target&&t.target.id,n=n,l=l,t?"boolean"==typeof n?(c._taboola=c._taboola||[],n?c._taboola.push({mode:"organic-thumbnails-m-1x2",container:t,placement:"Mobile-Mid Article-MCA"+(l?l.toUpperCase():"")+"-OC",target_type:"mix"}):c._taboola.push({mode:"organic-thumbnails-d-2x1",container:t,placement:"Mid Article-MCA"+(l?l.toUpperCase():"")+"-OC",target_type:"mix"})):console.warn("[Taboola Mid Widget] Unexpected value: isMobile type must be boolean."):console.warn("[Taboola Mid Widget] Unexpected value: containerId must be truly.")):console.warn("[Taboola Mid Widget] Unexpected value: container and target must be truly.")):console.warn("[Taboola Mid Widget] Unexpected value: Position match no child.")):console.warn("[Taboola Mid Widget] Unexpected value: shuttle, article and shuttle must be truly.")}function l(){o.includes(c.ueDataLayer&&c.ueDataLayer.marca_edition)||(a(t,e,".ue-c-article__body > p",'.ue-l-article__body[data-section="articleBody"]')||[]).forEach(function(e){n(e.childs.length-2,e),e.shuttle.classList.add(s)})}function r(e,t){return Array.prototype.map.call((t||d).querySelectorAll(e),function(e){return e})}c.__taboolaMidRunning||(c.__taboolaMidRunning=!0,e=".ue-c-article__body",t="hr.taboola-art-mid-script:not(."+(s="taboola-done")+")",o=["mexico"],u="taboola-mid-article-widget",p="midwidget-taboola",Element.prototype.matches||(Element.prototype.matches=Element.prototype.msMatchesSelector||Element.prototype.webkitMatchesSelector),Element.prototype.closest||(Element.prototype.closest=function(e){var t=this;do{if(Element.prototype.matches.call(t,e))return t}while(null!==(t=t.parentElement||t.parentNode)&&1===t.nodeType);return null}),d.addEventListener("nc-urlChanged",function(e){l()}),"loading"!==d.readyState?l():c.addEventListener("DOMContentLoaded",function(){l()}))}(window,document);</script><ul class="ue-c-article__tags" aria-label="Etiquetado como:"><li class="ue-c-article__tags-item"><a href="https://www.marca.com/en/world-cup.html">FIFA World Cup - English</a></li></ul><div class="ue-c-article__related-news" aria-label="Artículos relacionados">
+<div class="ue-c-article__related-news-item ue-l-article--top-separator ue-l-article--top-separator-from-mobile"><span class="ue-c-article__related-news-kicker">World Cup</span><a onclick="eventoSCModulos('noticias', 'relacionadas', '0', 'Australia defeat UAE to book World Cup playoff place against Peru', 'https://www.marca.com/en/world-cup/2022/06/07/629fba2746163f0a638b4598.html?intcmp=MNOT23801&s_kw=1');" href="https://www.marca.com/en/world-cup/2022/06/07/629fba2746163f0a638b4598.html?intcmp=MNOT23801&s_kw=1">Australia defeat UAE to book World Cup playoff place against Peru</a>
+</div>
+<div class="ue-c-article__related-news-item ue-l-article--top-separator ue-l-article--top-separator-from-mobile"><span class="ue-c-article__related-news-kicker">Qatar World Cup</span><a onclick="eventoSCModulos('noticias', 'relacionadas', '1', 'Bale after carrying Wales to World Cup: It's what dreams are made of', 'https://www.marca.com/en/world-cup/2022/06/05/629d175eca474199758b4613.html?intcmp=MNOT23801&s_kw=2');" href="https://www.marca.com/en/world-cup/2022/06/05/629d175eca474199758b4613.html?intcmp=MNOT23801&s_kw=2">Bale after carrying Wales to World Cup: It's what dreams are made of</a>
+</div>
+<div class="ue-c-article__related-news-item ue-l-article--top-separator ue-l-article--top-separator-from-mobile"><span class="ue-c-article__related-news-kicker">World Cup 2022</span><a onclick="eventoSCModulos('noticias', 'relacionadas', '2', 'Ryan Giggs to resign as Wales coach', 'https://www.marca.com/en/world-cup/2022/06/20/62b0d16de2704ec5698b459d.html?intcmp=MNOT23801&s_kw=3');" href="https://www.marca.com/en/world-cup/2022/06/20/62b0d16de2704ec5698b459d.html?intcmp=MNOT23801&s_kw=3">Ryan Giggs to resign as Wales coach</a>
+</div></div><script type="text/javascript">function doSomething(element){if(element.parentNode.classList.contains("ue-c-popular-links--closed")){return openFeaturedLinks(element.parentNode,element,element.parentNode.querySelectorAll("ul"));}
+return closeFeaturedLinks(element.parentNode,element,element.parentNode.querySelectorAll("ul"));}
+function openFeaturedLinks(element,button,uls){element&&element.classList.toggle("ue-c-popular-links--closed");button&&button.setAttribute('aria-expanded','true');let span=button&&button.querySelector("span");span.innerHTML="Close links of interest";if(uls){uls.forEach((ul)=>{ul&&ul.setAttribute('aria-hidden','false');ul&&ul.classList.remove("hidden-content");})}}
+function closeFeaturedLinks(element,button,uls){element&&element.classList.toggle("ue-c-popular-links--closed");button&&button.setAttribute('aria-expanded','false');let span=button&&button.querySelector("span");span.innerHTML="See links of interest";if(uls){uls.forEach((ul)=>{ul&&ul.setAttribute('aria-hidden','true');ul&&ul.classList.add("hidden-content");})}}</script><div class="ue-c-popular-links ue-c-popular-links--closed js-featured-links"><button class="ue-c-popular-links__button" aria-expanded="false" onclick="doSomething(this)"><span class="ue-c-popular-links__title">See links of interest</span><svg class="ue-c-popular-links__arrow" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.41 21.62" role="img" aria-hidden="true"><path fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2" d="M.71.71l19.5 19.5L39.71.71"></path></svg></button><ul class="list ue-c-popular-links__list hidden-content" aria-hidden="true"><li class="ue-c-popular-links__list-item">
+<a href="https://www.marca.com/en/latest-news.html">Latest Sports News</a>
+</li><li class="ue-c-popular-links__list-item">
+<a href="https://www.marca.com/en/nfl/fantasy-football.html">Fantasy Football</a>
+</li><li class="ue-c-popular-links__list-item">
+<a href="https://www.marca.com/en/world-cup/winners.html">World Cup Winners</a>
+</li><li class="ue-c-popular-links__list-item">
+<a href="https://www.marca.com/en/world-cup/schedule.html">World Cup Schedule</a>
+</li><li class="ue-c-popular-links__list-item">
+<a href="https://www.marca.com/en/nfl.html">NFL News</a>
+</li><li class="ue-c-popular-links__list-item">
+<a href="https://www.marca.com/en/lifestyle/net-worth.html">Net worth</a>
+</li><li class="ue-c-popular-links__list-item">
+<a href="https://www.marca.com/en/nfl/kenny-pickett.html">Kenny Pickett</a>
+</li><li class="ue-c-popular-links__list-item">
+<a href="https://www.marca.com/en/nfl/nick-chubb.html">Nick Chubb</a>
+</li><li class="ue-c-popular-links__list-item">
+<a href="https://www.marca.com/en/nfl/russell-wilson.html">Russell Wilson</a>
+</li><li class="ue-c-popular-links__list-item">
+<a href="https://www.marca.com/en/lifestyle/us-news/gas-prices.html">Gas Prices</a>
+</li><li class="ue-c-popular-links__list-item">
+<a href="https://www.marca.com/en/lifestyle/us-news/snap-benefits.html">SNAP Benefits</a>
+</li><li class="ue-c-popular-links__list-item">
+<a href="https://www.marca.com/en/lifestyle/us-news/cola.html">COLA 2023</a>
+</li></ul>
+</div></div><div class="ue-l-article__secondary-column"><div class="ue-l-article__secondary-column-item"><div class="ue-c-ad ue-c-ad--label" aria-roledescription=Publicidad role=region aria-hidden=true><div class="ue-c-ad__inner"><div id='div-gpt-ad-en_n_b300x100_62b1b8e446163f7e7a8b45af' class="ad-item"><script type='text/javascript'>googletag.cmd.push(function(){googletag.display('div-gpt-ad-en_n_b300x100_62b1b8e446163f7e7a8b45af');});</script></div></div></div></div><div class="ue-l-article__secondary-column-item ue-l-article--grow"><div class="ue-c-ad ue-c-ad--label ue-c-ad--sticky" aria-roledescription=Publicidad role=region aria-hidden=true><div class="ue-c-ad__inner"><div id='div-gpt-ad-en_n_r_62b1b8e446163f7e7a8b45af' class="ad-item"><script type='text/javascript'>googletag.cmd.push(function(){googletag.display('div-gpt-ad-en_n_r_62b1b8e446163f7e7a8b45af');});</script></div></div></div></div><div class="ue-l-article__secondary-column-item"></div><div class="ue-l-article__secondary-column-item ue-l-article--no-grow js-notice-sticky"><div class="ue-c-ad ue-c-ad--label ue-c-ad--sticky" aria-roledescription=Publicidad role=region aria-hidden=true><div class="ue-c-ad__inner"><div id='div-gpt-ad-en_n_rb_62b1b8e446163f7e7a8b45af' class="ad-item"><script type='text/javascript'>googletag.cmd.push(function(){googletag.display('div-gpt-ad-en_n_rb_62b1b8e446163f7e7a8b45af');});</script></div></div></div></div></div></div></article></div></div><div class="ue-l-article"><div class="ue-l-article__inner ue-l-article__inner--top-divider ue-l-article__inner--top-divider-aligned-main-column"><div class="ue-l-article__row"><div class="ue-l-article__main-column-extra"><script type="text/javascript">
+        /* eslint-disable camelcase */
+        !function (n, i) {
+            function e() {
+                var e, o, t;
+                n.taboolaIsRun || (n.taboolaIsRun = !0, n._taboola = n._taboola || [], n._taboola.push({
+                    article: "auto",
+                    tracking: "intcmp=BOOREC&taboola_source=taboola&taboola_medium=internal-referral"
+                }), e = i.createElement("script"), o = i.getElementsByTagName("script")[0], t = "tb_loader_script", i.getElementById(t) || (e.async = 1, e.src = "//cdn.taboola.com/libtrc/unidadeditorial-marca/loader.js", e.id = t, o.parentNode.insertBefore(e, o)), n.performance && "function" == typeof n.performance.mark && n.performance.mark("tbl_ic"))
+            }
+
+            n.didomiOnReady = n.didomiOnReady || [], n.didomiOnReady.push(function () {
+                void 0 === (n.ueCookiesPolicy && "function" == typeof n.ueCookiesPolicy.getUserConsentStatusForVendor ? n.ueCookiesPolicy.getUserConsentStatusForVendor(42) : !(!n.Didomi || "function" != typeof n.Didomi.getUserConsentStatusForVendor) && n.Didomi.getUserConsentStatusForVendor(42)) ? (n.didomiEventListeners = n.didomiEventListeners || [], n.didomiEventListeners.push({
+                    event: "consent.changed",
+                    listener: function () {
+                        e()
+                    }
+                })) : e()
+            }), setTimeout(function () {
+                n.Didomi = n.Didomi || null, n.Didomi || e()
+            }, 2e3)
+        }(window, document);
+    </script><div><div id="taboola-below-article-thumbnails---new-62b1b8e446163f7e7a8b45af"></div><script type="text/javascript">window._taboola=window._taboola||[];_taboola.push({mode:'thumbnails-3x2',container:'taboola-below-article-thumbnails---new-62b1b8e446163f7e7a8b45af',placement:'Below Article Thumbnails - New',target_type:'mix'});_taboola.push({article:'auto',url:'https://www.marca.com/en/world-cup/2022/06/21/62b1b8e446163f7e7a8b45af.html'});</script></div><script type="text/javascript">window._taboola=window._taboola||[];_taboola.push({flush:true});</script></div><div class="ue-l-article__secondary-column-extra"><div class="ue-l-article__secondary-column-item"><div class="ue-c-ad ue-c-ad--label" aria-roledescription=Publicidad role=region aria-hidden=true><div class="ue-c-ad__inner"><div id='div-gpt-ad-en_n_nata_62b1b8e446163f7e7a8b45af' class="ad-item"><script type='text/javascript'>googletag.cmd.push(function(){googletag.display('div-gpt-ad-en_n_nata_62b1b8e446163f7e7a8b45af');});</script></div></div></div></div></div></div></div></div><div id='div-gpt-ad-en_n_f2_62b1b8e446163f7e7a8b45af' class="ad-item"><script type='text/javascript'>googletag.cmd.push(function(){googletag.display('div-gpt-ad-en_n_f2_62b1b8e446163f7e7a8b45af');});</script></div><div id='div-gpt-ad-en_n_f3_62b1b8e446163f7e7a8b45af' class="ad-item"><script type='text/javascript'>googletag.cmd.push(function(){googletag.display('div-gpt-ad-en_n_f3_62b1b8e446163f7e7a8b45af');});</script></div><script type="text/javascript">jQuery(function(){Comentarios_62b1b8e446163f7e7a8b45af=new Comentarios({botonesDesplegar:".js-comentar-62b1b8e446163f7e7a8b45af",id:'62b1b8e446163f7e7a8b45af'},jQuery);if(typeof jQuery.fn.ElementoFijo==='function'){jQuery('#js_62b1b8e446163f7e7a8b45af').find('.js_fixed').ElementoFijo({elementosAnteriores:['.main-header'],elementoDesdeFixed:'.content',elementoHastaFixed:'.end-fixed',minWidthFijo:768});}if(typeof crearLoginListeners==='function'){crearLoginListeners();}
+if(typeof jQuery.fn.RedesSociales==='function'){jQuery('#js_62b1b8e446163f7e7a8b45af').find('.js_socialMedia').RedesSociales({title:"One-night stands will be illegal at the Qatar World Cup",img:"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/06/21/16557923666004.jpg",url:"https://www.marca.com/en/world-cup/2022/06/21/62b1b8e446163f7e7a8b45af.html",summary:"Could result in a seven-year jail sentence",viaTwitter:"MarcainEnglish",urlCorreo:'https://www.marca.com/enviar/formulario_enviar_noticia.html?que_mundo=marca',sufijoAnalitica:'_1'});}
+if(typeof jQuery.fn.Tab==='function'){jQuery('#js_62b1b8e446163f7e7a8b45af').find('.js-tabs').Tab();}
+jQuery('#js_62b1b8e446163f7e7a8b45af').find(".full-video").each(function(){jQuery(this).height(jQuery(this).width()*9/16);});});</script></main><script type="text/javascript">jQuery(function(){if(typeof jQuery.fn.RedesSociales==='function'){jQuery('.js-cnav-header').find('.js_socialMedia').RedesSociales({title:"One-night stands will be illegal at the Qatar World Cup",img:"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/06/21/16557923666004.jpg",url:"https://www.marca.com/en/world-cup/2022/06/21/62b1b8e446163f7e7a8b45af.html",summary:"Could result in a seven-year jail sentence",viaTwitter:"MarcainEnglish",urlCorreo:'https://www.marca.com/enviar/formulario_enviar_noticia.html?que_mundo=marca',sufijoAnalitica:'_1'});}
+jQuery(document).on("urlChanged",function(event,data){if(typeof jQuery.fn.RedesSociales==='function'){jQuery('.js-cnav-header').find('.js_socialMedia').RedesSociales({title:data.title,img:data.rrss.img,url:data.url,summary:data.rrss.summary,viaTwitter:data.rrss.twitter,urlCorreo:"https://www.marca.com/enviar/formulario_enviar_noticia.html?que_mundo=marca",sufijoAnalitica:'_1'});}});});</script><aside class="container loading-module no-visible"><img class="loading-icon" src="https://e00-marca.uecdn.es/assets/v27/img/loading-icon.gif" alt="Cargando..."><div class="loading-next"><span>Cargando siguiente contenido</span><span class="js_navTitulo"></span></div></aside><footer class="site-footer horizontal" itemtype="https://schema.org/Organization">
+<div class="container-list-footer js-toggle-footer">
+<div class="js-botonera-toggle arrow-toggle">
+<span>
+Other Unidad Editorial sites
+<i data-click-role="icon-close" class="icon-arrow-up no-visible"></i>
+<i data-click-role="icon-open" class="icon-arrow-down"></i>
+</span>
+</div>
+<div class="js-contenido-toggle container-toggle">
+<div class="clearfix">
+<ul class="list-footer">
+<li class="highlight"><span>Marca</span> </li>
+<li itemprop="member" itemtype="https://schema.org/Organization"><a href="https://www.marca.com/multimedia/en-tu-movil/" title="Open in new window" target="_blank" itemprop="url"><span itemprop="name">App Marca</span></a></li>
+<li itemprop="member" itemtype="https://schema.org/Organization"><a href="https://www.marca.com/futbol/primera/clasificacion.html" title="Open in new window" target="_blank" itemprop="url"><span itemprop="name">Clasificaci&oacute;n LaLiga</span></a></li>
+<li itemprop="member" itemtype="https://schema.org/Organization"><a href="https://www.marca.com/futbol/primera/calendario.html" title="Open in new window" target="_blank" itemprop="url"><span itemprop="name">Calendario LaLiga</span></a></li>
+<li itemprop="member" itemtype="https://schema.org/Organization"><a href="https://www.marca.com/hemeroteca/" title="Open in new window" target="_blank" itemprop="url"><span itemprop="name">Hemeroteca Marca</span></a></li>
+<li itemprop="member" itemtype="https://schema.org/Organization"><a href="https://videos.marca.com/" title="Open in new window" target="_blank" itemprop="url"><span itemprop="name">MARCA TV</span></a></li>
+</ul>
+<ul class="list-footer">
+<li class="highlight"><span>Life and Style</span> </li>
+<li itemprop="member" itemtype="https://schema.org/Organization"><a href="https://www.marca.com/tiramillas.html" title="Open in new window" target="_blank" itemprop="url"><span itemprop="name">Ocio - Tiramillas</span></a></li>
+<li itemprop="member" itemtype="https://schema.org/Organization"><a href="https://www.telva.com/" title="Open in new window" target="_blank" itemprop="url"><span itemprop="name">Moda - Telva</span></a></li>
+<li itemprop="member" itemtype="https://schema.org/Organization"><a href="https://www.elmundo.es/r/pa_restaurantes.html" title="Open in new window" target="_blank" itemprop="url"><span itemprop="name">Callejero / Restaurantes</span></a></li>
+<li itemprop="member" itemtype="https://schema.org/Organization"><a href="https://www.elmundo.es/traductor/" title="Open in new window" target="_blank" itemprop="url"><span itemprop="name">Traductor</span></a></li>
+</ul>
+<ul class="list-footer">
+<li class="highlight"><span>Health</span> </li>
+<li itemprop="member" itemtype="https://schema.org/Organization"><a href="https://www.diariomedico.com/farmacia.html" title="Open in new window" target="_blank" itemprop="url"><span itemprop="name">Farmacia - Correo Farmac&eacute;utico</span></a></li>
+<li itemprop="member" itemtype="https://schema.org/Organization"><a href="https://cuidateplus.marca.com/" title="Open in new window" target="_blank" itemprop="url"><span itemprop="name">Cu&iacute;datePlus</span></a></li>
+<li itemprop="member" itemtype="https://schema.org/Organization"><a href="https://www.diariomedico.com/" title="Open in new window" target="_blank" itemprop="url"><span itemprop="name">Medicina - Diario M&eacute;dico</span></a></li>
+</ul>
+<ul class="list-footer">
+<li class="highlight"><span>Employment</span> </li>
+<li itemprop="member" itemtype="https://schema.org/Organization"><a href="https://www.escuelaunidadeditorial.es/" title="Open in new window" target="_blank" itemprop="url"><span itemprop="name">Masters - Escuela Unidad Editorial</span></a></li>
+<li itemprop="member" itemtype="https://schema.org/Organization"><a href="https://www.unidadeditorial.es/" title="Open in new window" target="_blank" itemprop="url"><span itemprop="name">Unidad Editorial</span></a></li>
+<li itemprop="member" itemtype="https://schema.org/Organization"><a href="https://www.expansion.com/expansion-empleo.html" title="Open in new window" target="_blank" itemprop="url"><span itemprop="name">Trabajo - Expansi&oacute;n y Empleo</span></a>
+</li>
+<li itemprop="member" itemtype="https://schema.org/Organization"><a href="https://www.expansion.com/" title="Open in new window" target="_blank" itemprop="url"><span itemprop="name">Econom&iacute;a - Expansi&oacute;n</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="container-about-footer">
+<ul class="about-list">
+<li class="copyright">
+<p>&copy; <span itemprop="name"> Unidad Editorial Informaci&oacute;n Deportiva, S.L.U. All rights reserved.</span></p>
+</li>
+<li><a href="https://www.marca.com/cookies.html">Cookies policy [ES]</a></li>
+<li><a href="https://www.marca.com/corporativo/politica-privacidad.html">Privacy [ES]</a></li>
+<li><a href="https://www.marca.com/corporativo/terminos-condiciones-uso.html">Terms of service [ES]</a></li>
+<li><a href="https://www.ojd.es/">OJD certified [ES]</a></li>
+<li><a href="https://www.marca.com/corporativo/contacto.html">Contact [ES]</a></li>
+<li><a href="http://www.unidadeditorial.com/publicidad">Advertising</a></li>
+<li><a href="https://www.marca.com/corporativo/ayuda.html">Help [ES]</a></li>
+<li><a href="https://www.marca.com/corporativo/el_equipo.html">Our team [ES]</a></li>
+<li><a href="https://www.uesyndication.com/">Syndication [ES]</a></li>
+<li><a href="https://www.marca.com/en/values.html">Values</a></li>
+</ul>
+<aside class="follow-us">
+<p>Follow us</p>
+<ul class="social-networks">
+<li title="Facebook">
+<a class="icon-facebook" href="https://www.facebook.com/MARCAinEnglish" title="Open in new window" target="_blank">
+<span class="hidden-content">Facebook</span>
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="32" viewBox="-4 -2 36 32" aria-hidden="true" role="img"><path opacity=".5" fill="none" d="M0 0h28v28H0V0z"/><path fill="white" d="M15.22 21.875V14.69h2.415l.359-2.798H15.22v-1.789c0-.809.225-1.363 1.387-1.363h1.485V6.234a19.48 19.48 0 00-2.16-.109c-2.141 0-3.601 1.308-3.601 3.705v2.068H9.909v2.799h2.421v7.178h2.89z"/></svg>
+</a>
+</li>
+<li title="Twitter">
+<a class="icon-twitter" href="https://twitter.com/marcainenglish" title="Open in new window" target="_blank">
+<span class="hidden-content">Twitter</span>
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="32" viewBox="-4 -2 36 32" role="img" aria-hidden="true"><path opacity=".5" fill="none" d="M0,0h28v28H0V0z"/><path fill="white" d="M20.807,10.413c0.007,0.149,0.01,0.304,0.011,0.454c0.032,4.659-3.471,10.048-9.955,10.094 c-1.914,0.014-3.792-0.522-5.41-1.545c0.278,0.028,0.558,0.044,0.84,0.042c1.587-0.009,3.125-0.551,4.368-1.537 c-1.508-0.019-2.837-0.993-3.311-2.424c0.216,0.04,0.438,0.059,0.663,0.057c0.32,0,0.649-0.044,0.948-0.128 c-1.647-0.317-2.836-1.759-2.835-3.436v-0.042c0.438,0.259,1.004,0.414,1.58,0.428c-1.558-1.021-2.054-3.077-1.135-4.697 c1.803,2.189,4.451,3.509,7.284,3.633c-0.458-1.89,0.702-3.793,2.592-4.252c0.265-0.064,0.536-0.097,0.808-0.099 c0.975-0.008,1.909,0.388,2.581,1.094c0.789-0.159,1.544-0.454,2.233-0.871c-0.259,0.818-0.806,1.515-1.54,1.96 c0.698-0.085,1.379-0.276,2.019-0.569C22.082,9.287,21.492,9.909,20.807,10.413z"></path></svg>
+</a>
+</li>
+<li title="RSS">
+<a class="icon-rss" href="https://www.marca.com/en/sports/rss/index.html" title="Open in new window" target="_blank">
+<span class="hidden-content">RSS [EN]</span>
+<svg xmlns="http://www.w3.org/2000/svg" fill="white" width="18" height="22" viewBox="0 0 21.684 21.835"><path d="M5.826 18.922a2.913 2.913 0 11-5.826 0 2.913 2.913 0 015.826 0M0 7.402v4.028s9.778.273 10.082 10.405h4.306S14.894 8.065 0 7.402"/><path d="M0 0v4.103s15.908-.253 17.68 17.732h4.003S22.139 1.215 0 0"/></svg>
+</a>
+</li>
+</ul>
+</aside>
+</div>
+</footer>
+<div class="main-tab-container no-visible" id="submenuSoccer">
+<ul class="tab-content">
+<li class="tab-column">
+<span class="main-tab-header">Competitions</span>
+<ul>
+<li class="tab-list">
+<a href="https://www.marca.com/en/football/premier-league.html?intcmp=MENUPROD&s_kw=soccer-premier-league" class="tab-list-header">Premier League</a>
+<ul>
+<li class="tab-list-link">
+<a href="https://www.marca.com/en/football/premier-league/schedule.html?intcmp=MENUPROD&s_kw=soccer-premier-league-schedule">Schedule</a>
+</li>
+<li class="tab-list-link">
+<a href="https://www.marca.com/en/football/premier-league/standings.html?intcmp=MENUPROD&s_kw=soccer-premier-league-standings">Standings</a>
+</li>
+<li class="tab-list-link">
+<a href="https://www.marca.com/en/football/premier-league/teams.html?intcmp=MENUPROD&s_kw=soccer-premier-league-teams">Teams</a>
+</li>
+</ul>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/football/spanish-football.html?intcmp=MENUPROD&s_kw=soccer-laliga" class="tab-list-header">LaLiga</a>
+<ul>
+<li class="tab-list-link">
+<a href="https://www.marca.com/en/football/spanish-football/liga/schedule.html?intcmp=MENUPROD&s_kw=soccer-laliga-schedule">Schedule</a>
+</li>
+<li class="tab-list-link">
+<a href="https://www.marca.com/en/football/spanish-football/liga/standings.html?intcmp=MENUPROD&s_kw=soccer-laliga-standings">Standings</a>
+</li>
+</ul>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/football/ligue-1.html?intcmp=MENUPROD&s_kw=soccer-ligue-1" class="tab-list-header">Ligue 1</a>
+<ul>
+<li class="tab-list-link">
+<a href="https://www.marca.com/en/football/ligue-1/schedule.html?intcmp=MENUPROD&s_kw=soccer-ligue-1-schedule">Schedule</a>
+</li>
+<li class="tab-list-link">
+<a href="https://www.marca.com/en/football/ligue-1/standings.html?intcmp=MENUPROD&s_kw=soccer-ligue-1-standings">Standings</a>
+</li>
+</ul>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/football/mls.html?intcmp=MENUPROD&s_kw=soccer-mls" class="tab-list-header">MLS</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/football/bundesliga.html?intcmp=MENUPROD&s_kw=soccer-bundesliga" class="tab-list-header">Bundesliga</a>
+<ul>
+<li class="tab-list-link">
+<a href="https://www.marca.com/en/football/bundesliga/schedule.html?intcmp=MENUPROD&s_kw=soccer-bundesliga-schedule">Schedule</a>
+</li>
+<li class="tab-list-link">
+<a href="https://www.marca.com/en/football/bundesliga/standings.html?intcmp=MENUPROD&s_kw=soccer-bundesliga-standings">Standings</a>
+</li>
+</ul>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/football/serie-a.html?intcmp=MENUPROD&s_kw=soccer-serie-a" class="tab-list-header">Serie A</a>
+<ul>
+<li class="tab-list-link">
+<a href="https://www.marca.com/en/football/serie-a/schedule.html?intcmp=MENUPROD&s_kw=soccer-serie-a-schedule">Schedule</a>
+</li>
+<li class="tab-list-link">
+<a href="https://www.marca.com/en/football/serie-a/standings.html?intcmp=MENUPROD&s_kw=soccer-serie-a-standings">Standings</a>
+</li>
+</ul>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/football/liga-mx.html?intcmp=MENUPROD&s_kw=soccer-liga-mx" class="tab-list-header">Liga MX</a>
+</li>
+</ul>
+</li>
+<li class="tab-column margin-column">
+<ul>
+<li class="tab-list">
+<a href="https://www.marca.com/en/football/champions-league.html?intcmp=MENUPROD&s_kw=soccer-champions-league" class="tab-list-header">Champions League</a>
+<ul>
+<li class="tab-list-link">
+<a href="https://www.marca.com/en/football/champions-league/schedule.html?intcmp=MENUPROD&s_kw=soccer-champions-league-schedule">Schedule</a>
+</li>
+<li class="tab-list-link">
+<a href="https://www.marca.com/en/football/champions-league/standings.html?intcmp=MENUPROD&s_kw=soccer-champions-league-standings">Standings</a>
+</li>
+</ul>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/football/europa-league.html?intcmp=MENUPROD&s_kw=soccer-europa-league" class="tab-list-header">Europa League</a>
+<ul>
+<li class="tab-list-link">
+<a href="https://www.marca.com/en/football/europa-league/schedule.html?intcmp=MENUPROD&s_kw=soccer-europa-league-schedule">Schedule</a>
+</li>
+</ul>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/world-cup.html?intcmp=MENUPROD&s_kw=soccer-fifa-world-cup" class="tab-list-header">World Cup</a>
+<ul>
+<li class="tab-list-link">
+<a href="https://www.marca.com/en/world-cup/schedule.html?intcmp=MENUPROD&s_kw=soccer-fifa-world-cup-schedule">Schedule</a>
+</li>
+</ul>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/football/uefa-euro.html?intcmp=MENUPROD&s_kw=soccer-uefa-euro" class="tab-list-header">UEFA Euro</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/football/nations-league.html?intcmp=MENUPROD&s_kw=soccer-uefa-nations-league" class="tab-list-header">UEFA Nations League</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/football/copa-america.html?intcmp=MENUPROD&s_kw=soccer-copa-america" class="tab-list-header">Copa America</a>
+</li>
+</ul>
+</li>
+<li class="tab-column">
+<span class="main-tab-header">Teams</span>
+<ul>
+<li class="tab-list">
+<a href="https://www.marca.com/en/football/real-madrid.html?intcmp=MENUPROD&s_kw=soccer-real-madrid" class="tab-list-header">Real Madrid</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/football/barcelona.html?intcmp=MENUPROD&s_kw=soccer-barcelona" class="tab-list-header">Barcelona</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/football/atletico-madrid.html?intcmp=MENUPROD&s_kw=soccer-atletico-madrid" class="tab-list-header">Atletico de Madrid</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/football/psg.html?intcmp=MENUPROD&s_kw=soccer-psg" class="tab-list-header">PSG</a>
+</li>
+</ul>
+</li>
+<li class="tab-column">
+<span class="main-tab-header">More</span>
+<ul>
+<li class="tab-list">
+<a href="https://www.marca.com/en/football/transfer-market.html?intcmp=MENUPROD&s_kw=soccer-transfer-market" class="tab-list-header">Transfer Market</a>
+</li>
+</ul>
+</li>
+</ul>
+</div> <div class="main-tab-container no-visible" id="submenuNBA">
+<ul class="tab-content">
+<li class="tab-column">
+<span class="main-tab-header">USA</span>
+<ul>
+<li class="tab-list">
+<a href="https://www.marca.com/en/basketball/nba.html?intcmp=MENUPROD&s_kw=en-nba" class="tab-list-header">NBA</a>
+<ul>
+<li class="tab-list-link">
+<a href="https://www.marca.com/en/basketball/nba/schedule.html?intcmp=MENUPROD&s_kw=en-nba-schedule">Schedule</a>
+</li>
+<li class="tab-list-link">
+<a href="https://www.marca.com/en/basketball/nba/standings.html?intcmp=MENUPROD&s_kw=en-nba-standings">Standings</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="tab-column">
+<span class="main-tab-header"><a href="https://www.marca.com/en/basketball/nba/teams.html?intcmp=MENUPROD&s_kw=en-nba-teams">Teams<i class="iconsvg iconsvg-right-b"></i></a></span>
+<ul>
+<li class="tab-list">
+<a href="https://www.marca.com/en/basketball/nba/atlanta-hawks.html?intcmp=MENUPROD&s_kw=en-nba-atlanta-hawks" class="tab-list-header">Atlanta Hawks</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/basketball/nba/boston-celtics.html?intcmp=MENUPROD&s_kw=en-nba-boston-celtics" class="tab-list-header">Boston Celtics</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/basketball/nba/brooklyn-nets.html?intcmp=MENUPROD&s_kw=en-nba-brooklyn-nets" class="tab-list-header">Brooklyn Nets</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/basketball/nba/charlotte-hornets.html?intcmp=MENUPROD&s_kw=en-nba-charlotte-hornets" class="tab-list-header">Charlotte Hornets</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/basketball/nba/chicago-bulls.html?intcmp=MENUPROD&s_kw=en-nba-chicago-bulls" class="tab-list-header">Chicago Bulls</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/basketball/nba/cleveland-cavaliers.html?intcmp=MENUPROD&s_kw=en-nba-cleveland-cavaliers" class="tab-list-header">Cleveland Cavaliers</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/basketball/nba/dallas-mavericks.html?intcmp=MENUPROD&s_kw=en-nba-dallas-mavericks" class="tab-list-header">Dallas Mavericks</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/basketball/nba/denver-nuggets.html?intcmp=MENUPROD&s_kw=en-nba-denver-nuggets" class="tab-list-header">Denver Nuggets</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/basketball/nba/detroit-pistons.html?intcmp=MENUPROD&s_kw=en-nba-detroit-pistons" class="tab-list-header">Detroit Pistons</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/basketball/nba/golden-state-warriors.html?intcmp=MENUPROD&s_kw=en-nba-golden-state-warriors" class="tab-list-header">Golden State Warriors</a>
+</li>
+</ul>
+</li>
+<li class="tab-column margin-column">
+<ul>
+<li class="tab-list">
+<a href="https://www.marca.com/en/basketball/nba/houston-rockets.html?intcmp=MENUPROD&s_kw=en-nba-houston-rockets" class="tab-list-header">Houston Rockets</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/basketball/nba/indiana-pacers.html?intcmp=MENUPROD&s_kw=en-nba-indiana-pacers" class="tab-list-header">Indiana Pacers</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/basketball/nba/los-angeles-clippers.html?intcmp=MENUPROD&s_kw=en-nba-los-angeles-clippers" class="tab-list-header">Los Angeles Clippers</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/basketball/nba/los-angeles-lakers.html?intcmp=MENUPROD&s_kw=en-nba-los-angeles-lakers" class="tab-list-header">Los Angeles Lakers</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/basketball/nba/memphis-grizzlies.html?intcmp=MENUPROD&s_kw=en-nba-memphis-grizzlies" class="tab-list-header">Memphis Grizzlies</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/basketball/nba/miami-heat.html?intcmp=MENUPROD&s_kw=en-nba-miami-heat" class="tab-list-header">Miami Heat</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/basketball/nba/milwaukee-bucks.html?intcmp=MENUPROD&s_kw=en-nba-milwaukee-bucks" class="tab-list-header">Milwaukee Bucks</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/basketball/nba/minnesota-timberwolves.html?intcmp=MENUPROD&s_kw=en-nba-minnesota-timberwolves" class="tab-list-header">Minnesota Timberwolves</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/basketball/nba/new-orleans-pelicans.html?intcmp=MENUPROD&s_kw=en-nba-new-orleans-pelicans" class="tab-list-header">New Orleans Pelicans</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/basketball/nba/new-york-knicks.html?intcmp=MENUPROD&s_kw=en-nba-new-york-knicks" class="tab-list-header">New York Knicks</a>
+</li>
+</ul>
+</li>
+<li class="tab-column margin-column">
+<ul>
+<li class="tab-list">
+<a href="https://www.marca.com/en/basketball/nba/oklahoma-city-thunder.html?intcmp=MENUPROD&s_kw=en-nba-oklahoma-city-thunder" class="tab-list-header">Oklahoma City Thunder</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/basketball/nba/orlando-magic.html?intcmp=MENUPROD&s_kw=en-nba-orlando-magic" class="tab-list-header">Orlando Magic</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/basketball/nba/philadelphia-76ers.html?intcmp=MENUPROD&s_kw=en-nba-philadelphia-76ers" class="tab-list-header">Philadelphia 76ers</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/basketball/nba/phoenix-suns.html?intcmp=MENUPROD&s_kw=en-nba-phoenix-suns" class="tab-list-header">Phoenix Suns</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/basketball/nba/portland-trail-blazers.html?intcmp=MENUPROD&s_kw=en-nba-portland-trail-blazers" class="tab-list-header">Portland Trail Blazers</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/basketball/nba/sacramento-kings.html?intcmp=MENUPROD&s_kw=en-nba-sacramento-kings" class="tab-list-header">Sacramento Kings</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/basketball/nba/san-antonio-spurs.html?intcmp=MENUPROD&s_kw=en-nba-san-antonio-spurs" class="tab-list-header">San Antonio Spurs</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/basketball/nba/toronto-raptors.html?intcmp=MENUPROD&s_kw=en-nba-toronto-raptors" class="tab-list-header">Toronto Raptors</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/basketball/nba/utah-jazz.html?intcmp=MENUPROD&s_kw=en-nba-utah-jazz" class="tab-list-header">Utah Jazz</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/basketball/nba/washington-wizards.html?intcmp=MENUPROD&s_kw=en-nba-washington-wizards" class="tab-list-header">Washington Wizards</a>
+</li>
+</ul>
+</li>
+</ul>
+</div> <div class="main-tab-container no-visible" id="submenuMLB">
+<ul class="tab-content">
+<li class="tab-column">
+<span class="main-tab-header">USA</span>
+<ul>
+<li class="tab-list">
+<a href="https://www.marca.com/en/mlb.html?intcmp=MENUPROD&s_kw=en-mlb" class="tab-list-header">MLB</a>
+<ul>
+<li class="tab-list-link">
+<a href="https://www.marca.com/en/mlb/schedule.html?intcmp=MENUPROD&s_kw=en-mlb-schedule">Schedule</a>
+</li>
+<li class="tab-list-link">
+<a href="https://www.marca.com/en/mlb/standings.html?intcmp=MENUPROD&s_kw=en-mlb-standings">Standings</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="tab-column">
+<span class="main-tab-header"><a href="https://www.marca.com/en/mlb/teams.html?intcmp=MENUPROD&s_kw=en-mlb-teams">Teams<i class="iconsvg iconsvg-right-b"></i></a></span>
+<ul>
+<li class="tab-list">
+<a href="https://www.marca.com/en/mlb/arizona-diamondbacks.html?intcmp=MENUPROD&s_kw=en-mlb-arizona-diamondbacks" class="tab-list-header">Arizona Diamondbacks</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/mlb/atlanta-braves.html?intcmp=MENUPROD&s_kw=en-mlb-atlanta-braves" class="tab-list-header">Atlanta Braves</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/mlb/baltimore-orioles.html?intcmp=MENUPROD&s_kw=en-mlb-baltimore-orioles" class="tab-list-header">Baltimore Orioles</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/mlb/boston-red-sox.html?intcmp=MENUPROD&s_kw=en-mlb-boston-red-sox" class="tab-list-header">Boston Red Sox</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/mlb/chicago-cubs.html?intcmp=MENUPROD&s_kw=en-mlb-chicago-cubs" class="tab-list-header">Chicago Cubs</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/mlb/chicago-white-sox.html?intcmp=MENUPROD&s_kw=en-mlb-chicago-white-sox" class="tab-list-header">Chicago White Sox</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/mlb/cincinnati-reds.html?intcmp=MENUPROD&s_kw=en-mlb-cincinnati-reds" class="tab-list-header">Cincinnati Reds</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/mlb/cleveland-guardians.html?intcmp=MENUPROD&s_kw=en-mlb-cleveland-guardians" class="tab-list-header">Cleveland Guardians</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/mlb/colorado-rockies.html?intcmp=MENUPROD&s_kw=en-mlb-colorado-rockies" class="tab-list-header">Colorado Rockies</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/mlb/detroit-tigers.html?intcmp=MENUPROD&s_kw=en-mlb-detroit-tigers" class="tab-list-header">Detroit Tigers</a>
+</li>
+</ul>
+</li>
+<li class="tab-column margin-column">
+<ul>
+<li class="tab-list">
+<a href="https://www.marca.com/en/mlb/houston-astros.html?intcmp=MENUPROD&s_kw=en-mlb-houston-astros" class="tab-list-header">Houston Astros</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/mlb/kansas-city-royals.html?intcmp=MENUPROD&s_kw=en-mlb-kansas-city-royals" class="tab-list-header">Kansas City Royals</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/mlb/los-angeles-angels.html?intcmp=MENUPROD&s_kw=en-mlb-los-angeles-angels" class="tab-list-header">Los Angeles Angels</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/mlb/los-angeles-dodgers.html?intcmp=MENUPROD&s_kw=en-mlb-los-angeles-dodgers" class="tab-list-header">Los Angeles Dodgers</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/mlb/miami-marlins.html?intcmp=MENUPROD&s_kw=en-mlb-miami-marlins" class="tab-list-header">Miami Marlins</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/mlb/milwaukee-brewers.html?intcmp=MENUPROD&s_kw=en-mlb-milwaukee-brewers" class="tab-list-header">Milwaukee Brewers</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/mlb/minnesota-twins.html?intcmp=MENUPROD&s_kw=en-mlb-minnesota-twins" class="tab-list-header">Minnesota Twins</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/mlb/new-york-mets.html?intcmp=MENUPROD&s_kw=en-mlb-new-york-mets" class="tab-list-header">New York Mets</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/mlb/new-york-yankees.html?intcmp=MENUPROD&s_kw=en-mlb-new-york-yankees" class="tab-list-header">New York Yankees</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/mlb/oakland-athletics.html?intcmp=MENUPROD&s_kw=en-mlb-oakland-athletics" class="tab-list-header">Oakland Athletics</a>
+</li>
+</ul>
+</li>
+<li class="tab-column margin-column">
+<ul>
+<li class="tab-list">
+<a href="https://www.marca.com/en/mlb/philadelphia-phillies.html?intcmp=MENUPROD&s_kw=en-mlb-philadelphia-phillies" class="tab-list-header">Philadelphia Phillies</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/mlb/pittsburgh-pirates.html?intcmp=MENUPROD&s_kw=en-mlb-pittsburgh-pirates" class="tab-list-header">Pittsburg Pirates</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/mlb/san-diego-padres.html?intcmp=MENUPROD&s_kw=en-mlb-san-diego-padres" class="tab-list-header">San Diego Padres</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/mlb/san-francisco-giants.html?intcmp=MENUPROD&s_kw=en-mlb-san-francisco-giants" class="tab-list-header">San Francisco Giants</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/mlb/seattle-mariners.html?intcmp=MENUPROD&s_kw=en-mlb-seattle-mariners" class="tab-list-header">Seattle Mariners</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/mlb/st-louis-cardinals.html?intcmp=MENUPROD&s_kw=en-mlb-st-louis-cardinals" class="tab-list-header">St. Louis Cardinals</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/mlb/tampa-bay-rays.html?intcmp=MENUPROD&s_kw=en-mlb-tampa-bay-rays" class="tab-list-header">Tampa Bay Rays</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/mlb/texas-rangers.html?intcmp=MENUPROD&s_kw=en-mlb-texas-rangers" class="tab-list-header">Texas Rangers</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/mlb/toronto-blue-jays.html?intcmp=MENUPROD&s_kw=en-mlb-toronto-blue-jays" class="tab-list-header">Toronto Blue Jays</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/mlb/washington-nationals.html?intcmp=MENUPROD&s_kw=en-mlb-washington-nationals" class="tab-list-header">Washington Nationals</a>
+</li>
+</ul>
+</li>
+</ul>
+</div> <div class="main-tab-container no-visible" id="submenuNFL">
+<ul class="tab-content">
+<li class="tab-column">
+<span class="main-tab-header">USA</span>
+<ul>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl.html?intcmp=MENUPROD&s_kw=en-nfl" class="tab-list-header">NFL</a>
+<ul>
+<li class="tab-list-link">
+<a href="https://www.marca.com/en/nfl/schedule.html?intcmp=MENUPROD&s_kw=en-nfl-schedule">Schedule</a>
+</li>
+<li class="tab-list-link">
+<a href="https://www.marca.com/en/nfl/standings.html?intcmp=MENUPROD&s_kw=en-nfl-standings">Standings</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="tab-column">
+<span class="main-tab-header"><a href="https://www.marca.com/en/nfl/teams.html?intcmp=MENUPROD&s_kw=en-nba-teams">Teams<i class="iconsvg iconsvg-right-b"></i></a></span>
+<ul>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/arizona-cardinals.html?intcmp=MENUPROD&s_kw=en-nfl-arizona-cardinals" class="tab-list-header">Arizona Cardinals</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/atlanta-falcons.html?intcmp=MENUPROD&s_kw=en-nfl-atlanta-falcons" class="tab-list-header">Atlanta Falcons</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/baltimore-ravens.html?intcmp=MENUPROD&s_kw=en-nfl-baltimore-ravens" class="tab-list-header">Baltimore Ravens</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/buffalo-bills.html?intcmp=MENUPROD&s_kw=en-nfl-buffalo-bills" class="tab-list-header">Buffalo Bills</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/carolina-panthers.html?intcmp=MENUPROD&s_kw=en-nfl-carolina-panthers" class="tab-list-header">Carolina Panthers</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/chicago-bears.html?intcmp=MENUPROD&s_kw=en-nfl-chicago-bears" class="tab-list-header">Chicago Bears</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/cincinnati-bengals.html?intcmp=MENUPROD&s_kw=en-nfl-cincinnati-bengals" class="tab-list-header">Cincinnati Bengals</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/cleveland-browns.html?intcmp=MENUPROD&s_kw=en-nfl-cleveland-browns" class="tab-list-header">Cleveland Browns</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/dallas-cowboys.html?intcmp=MENUPROD&s_kw=en-nfl-dallas-cowboys" class="tab-list-header">Dallas Cowboys</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/denver-broncos.html?intcmp=MENUPROD&s_kw=en-nfl-denver-broncos" class="tab-list-header">Denver Broncos</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/detroit-lions.html?intcmp=MENUPROD&s_kw=en-nfl-detroit-lions" class="tab-list-header">Detroit Lions</a>
+</li>
+</ul>
+</li>
+<li class="tab-column margin-column">
+<ul>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/green-bay-packers.html?intcmp=MENUPROD&s_kw=en-nfl-green-bay-packers" class="tab-list-header">Green Bay Packers</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/houston-texans.html?intcmp=MENUPROD&s_kw=en-nfl-houston-texans" class="tab-list-header">Houston Texans</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/indianapolis-colts.html?intcmp=MENUPROD&s_kw=en-nfl-indianapolis-colts" class="tab-list-header">Indianapolis Colts</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/jacksonville-jaguars.html?intcmp=MENUPROD&s_kw=en-nfl-jacksonville-jaguars" class="tab-list-header">Jacksonville Jaguars</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/kansas-city-chiefs.html?intcmp=MENUPROD&s_kw=en-nfl-kansas-city-chiefs" class="tab-list-header">Kansas City Chiefs</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/las-vegas-raiders.html?intcmp=MENUPROD&s_kw=en-nfl-las-vegas-raiders" class="tab-list-header">Las Vegas Raiders</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/los-angeles-chargers.html?intcmp=MENUPROD&s_kw=en-nfl-los-angeles-chargers" class="tab-list-header">Los Angeles Chargers</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/los-angeles-rams.html?intcmp=MENUPROD&s_kw=en-nfl-los-angeles-rams" class="tab-list-header">Los Angeles Rams</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/miami-dolphins.html?intcmp=MENUPROD&s_kw=en-nfl-miami-dolphins" class="tab-list-header">Miami Dolphins</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/minnesota-vikings.html?intcmp=MENUPROD&s_kw=en-nfl-minnesota-vikings" class="tab-list-header">Minnesota Vikings</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/new-england-patriots.html?intcmp=MENUPROD&s_kw=en-nfl-new-england-patriots" class="tab-list-header">New England Patriots</a>
+</li>
+</ul>
+</li>
+<li class="tab-column margin-column">
+<ul>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/new-orleans-saints.html?intcmp=MENUPROD&s_kw=en-nfl-new-orleans-saints" class="tab-list-header">New Orleans Saints</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/new-york-giants.html?intcmp=MENUPROD&s_kw=en-nfl-new-york-giants" class="tab-list-header">New York Giants</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/new-york-jets.html?intcmp=MENUPROD&s_kw=en-nfl-new-york-jets" class="tab-list-header">New York Jets</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/philadelphia-eagles.html?intcmp=MENUPROD&s_kw=en-nfl-philadelphia-eagles" class="tab-list-header">Philadelphia Eagles</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/pittsburgh-steelers.html?intcmp=MENUPROD&s_kw=en-nfl-pittsburgh-steelers" class="tab-list-header">Pittsburgh Steelers</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/san-francisco-49ers.html?intcmp=MENUPROD&s_kw=en-nfl-san-francisco-49ers" class="tab-list-header">San Francisco 49ers</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/seattle-seahawks.html?intcmp=MENUPROD&s_kw=en-nfl-seattle-seahawks" class="tab-list-header">Seattle Seahawks</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/tampa-bay-buccaneers.html?intcmp=MENUPROD&s_kw=en-nfl-tampa-bay-buccaneers" class="tab-list-header">Tampa Bay Buccaneers</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/tennessee-titans.html?intcmp=MENUPROD&s_kw=en-nfl-tennessee-titans" class="tab-list-header">Tennessee Titans</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/nfl/washington-commanders.html?intcmp=MENUPROD&s_kw=en-nfl-washington-commanders" class="tab-list-header">Washington Commanders</a>
+</li>
+</ul>
+</li>
+</ul>
+</div> <div class="main-tab-container no-visible" id="submenuLifestyle">
+<ul class="tab-content">
+<li class="tab-column">
+<ul>
+<li class="tab-list">
+<a href="https://www.marca.com/en/lifestyle/celebrities.html?intcmp=MENUPROD&s_kw=en-lifestyle-celebrities" class="tab-list-header">Celebrities</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/lifestyle/fitness.html?intcmp=MENUPROD&s_kw=en-lifestyle-fitness" class="tab-list-header">Fitness</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/lifestyle/movies.html?intcmp=MENUPROD&s_kw=en-lifestyle-movies" class="tab-list-header">Movies</a>
+</li>
+</ul>
+</li>
+<li class="tab-column">
+<ul>
+<li class="tab-list">
+<a href="https://www.marca.com/en/lifestyle/music.html?intcmp=MENUPROD&s_kw=en-lifestyle-music" class="tab-list-header">Music</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/lifestyle/net-worth.html?intcmp=MENUPROD&s_kw=en-lifestyle-net-worth" class="tab-list-header">Net Worth</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/lifestyle/tv-shows.html?intcmp=MENUPROD&s_kw=en-lifestyle-tv-shows" class="tab-list-header">TV Shows</a>
+</li>
+</ul>
+</li>
+<li class="tab-column">
+<ul>
+<li class="tab-list">
+<a href="https://www.marca.com/en/lifestyle/us-news.html?intcmp=MENUPROD&s_kw=en-lifestyle-us-news" class="tab-list-header">US News</a>
+</li>
+<li class="tab-list">
+<a href="https://www.marca.com/en/lifestyle/world-news.html?intcmp=MENUPROD&s_kw=en-lifestyle-world-news" class="tab-list-header">World News</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<script language="JavaScript" type="text/javascript" data-ue-omniture><!--
+var s=s||{};var pageName="https://www.marca.com/en/world-cup/2022/06/21/62b1b8e446163f7e7a8b45af.html";s.pageType="";s.pageName="https://www.marca.com/en/world-cup/2022/06/21/62b1b8e446163f7e7a8b45af.html";s.channel="english-version";s.characters="2832";s.wordcounter="714";s.firstPublicationDate="Jun 21, 2022 12:30:50 PM";s.prop1="world-cup";s.prop2="noticia";s.prop3="world-cup";s.prop4="";s.prop5="";s.prop6="";s.prop7="marca.com";s.prop10="62b1b8e446163f7e7a8b45af";s.prop11="One-night stands will be illegal at the Qatar World Cup";s.hier1="marca.com|english-version|world-cup|noticia";s.prop27="web";s.list2="Agency_SAM,FIFA World Cup - English";s.prop28="0|0";s.prop29="Agency_SAM,FIFA World Cup - English";s.prop30="imagenes|videos";s.prop52=navigator.platform;s.prop53="";s.prop32="noticia";s.prop33="world-cup";s.prop31="english-version";s.prop34="pc";s.prop35="origen";s.prop36="";s.prop39="nuevo-06-21";s.prop55="";s.prop67="abierto";s.prop75="ENRIQUE CORBELLA";/*Conversion Variables*/s.eVar1=s.channel;s.eVar2=s.prop1;s.eVar3=s.prop2;s.eVar4=s.prop3;s.eVar11=s.prop11;s.eVar5=s.prop5;s.eVar35=s.prop4;s.eVar36=s.prop7;s.eVar31=s.prop10;s.eVar45=s.prop32;s.eVar18="new";s.eVar27=s.prop27;s.eVar28=s.prop28;s.eVar29=s.prop29;s.eVar30=s.prop30;s.eVar33=s.prop33;s.eVar34=s.prop34;s.eVar75=s.prop75;s.eVar39=s.prop39;s.eVar52=s.prop52;s.eVar80=s.prop53;s.eVar84=s.prop35;s.eVar85=s.prop36;var s_omniture=s;/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! *///--></script>
+<script language="JavaScript" type="text/javascript" data-ue-DataLayer>
+    var ueDataLayer = ueDataLayer || {};
+    ueDataLayer.be_date_first_publication="1655814650";ueDataLayer.be_page_article_title="One-night stands will be illegal at the Qatar World Cup";ueDataLayer.be_page_newsID="62b1b8e446163f7e7a8b45af";ueDataLayer.be_page_characters="2832";ueDataLayer.be_page_wordcounter="758";ueDataLayer.be_page_section="en";ueDataLayer.be_page_subsection1="world-cup";ueDataLayer.be_page_subsection2="";ueDataLayer.be_page_subsection3="";ueDataLayer.be_page_subsection4="";ueDataLayer.be_page_subsection5="";ueDataLayer.be_page_subsection6="";ueDataLayer.be_page_url="https://www.marca.com/en/world-cup/2022/06/21/62b1b8e446163f7e7a8b45af.html";ueDataLayer.be_page_domain="marca.com";ueDataLayer.be_page_subdomain="";ueDataLayer.be_page_hierarchy="marca.com||en|world-cup|||||";ueDataLayer.be_text_seoTags="agency_sam|fifa world cup - english";ueDataLayer.iab_taxonomies="MusicAndAudio";ueDataLayer.be_page_site_version="web";ueDataLayer.be_page_multimedia="imagenes|videos";ueDataLayer.be_galleries_count="";ueDataLayer.be_galleries_position="";ueDataLayer.be_galleries_quantity="";ueDataLayer.be_page_cms_template="world-cup";ueDataLayer.be_page_content_type="noticia";ueDataLayer.be_navigation_type="origen";ueDataLayer.be_scroll_type="";ueDataLayer.be_text_journalist="ENRIQUE CORBELLA";ueDataLayer.be_content_premium_detail="abierto";ueDataLayer.be_content_premium="0";ueDataLayer.be_product_section_conversion="";ueDataLayer.be_product_subsection_conversion="";ueDataLayer.be_product_title_conversion="";ueDataLayer.be_content_signwall_detail="abierto";ueDataLayer.be_content_signwall="0";ueDataLayer.be_signwall_section_conversion="";ueDataLayer.be_signwall_subsection_conversion="";ueDataLayer.be_signwall_title_conversion="";ueDataLayer.marca_edition="spain";</script>
+<script type="text/javascript">function DM_prepClient(csid,client){client.DM_cat("en > world-cup > noticia");}</script>
+<script src="https://e00-marca.uecdn.es/assets/v27/js/ue-ajax.js" type="text/javascript"></script>
+<script type="text/javascript" src="https://e00-marca.uecdn.es/assets/v27/js/desktop.min.js"></script>
+<script type="text/javascript" src="https://e00-marca.uecdn.es/assets/v27/js/kalturaue-marca.min.js"></script>
+<script type="text/javascript" src="https://e00-marca.uecdn.es/assets/navcontinua/v4/navegacioncontinua.min.js"></script>
+<div class="no-visible" id="iframeACargar">
+<div class="lightbox_shadow js_lightboxShadow no-visible"></div>
+<section class="lightbox js_enviarnoticia no-visible">
+<div class="cerrar" title="Cerrar"></div>
+</section>
+<section class="lightbox inicio-sesion"></section>
+</div>
+<script type="text/javascript">window._taboola=window._taboola||[];_taboola.push({flush:true});</script>
+<script>if(typeof gptIsDisableInitialLoad!=='undefined'&&gptIsDisableInitialLoad){if(typeof IsAPSEnabled==='undefined'||!IsAPSEnabled){googletag.cmd.push(function(){googletag.pubads().refresh();});}}</script>
+<script>var utag_data = {}</script>
+<script>(function(a, b, c, d) {a = 'https://tags.tiqcdn.com/utag/unidadeditorial/marca/prod/utag.js';b = document;c = 'script';d = b.createElement(c);d.src = a;d.type = 'text/java' + c;d.async = true;a = b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d, a);})();</script>
+<!-- SiteCatalyst code version: H.21.  Copyright 1996-2010 Adobe, Inc. All Rights Reserved More info available at /web/20151202224104/http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'!-'+'-')
+//--></script><noscript><img src="http://metrics.el-mundo.net/b/ss/uevistatest/1/H.21--NS/0"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.21. --></body>
+</html>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="msapplication-TileImage" content="img/hopexii_logo_144x144.png">
+    <meta name="msapplication-TileColor" content="#181919">
+    <link rel="icon" sizes="32x32" href="img/favicon-32x32.png">
+    <link rel="icon" sizes="16x16" href="img/favicon-16x16.png">
+    <title>[A New HOPE] Welcome to Hackers On Planet Earth!
+    </title>
+    <script src="js/jquery.js"></script>
+    <script>
+      $(document).ready( function() {
+        $(".sitemenu li").on( "click", function () {
+          document.location = $(this).find('a').attr('href');
+        });
+        console.log("Is this thing on?");
+      });
+      
+    </script>
+    <script src="js/jquery.form.js"></script>
+    <script src="js/jquery.validate.min.js"></script>
+    <script src="js/spin.js" type="module"></script>
+    <script src="js/index.js" type="module"></script>
+    <link type="text/css" rel="stylesheet" href="css/site.css">
+    <link type="text/css" rel="stylesheet" href="css/spin.css">
+  </head>
+  <body>
+    <div id="hope"><img src="img/newhope_logo.png"></div>
+    <div id="menutop">
+      <ul class="sitemenu">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="news.html">News</a></li>
+        <li><a href="talks.html">Talks</a></li>
+        <li><a href="workshops.html">Workshops</a></li>
+        <li><a href="speakers.html">Speakers</a></li>
+        <li><a href="https://wiki.hope.net">Wiki</a></li>
+        <li><a href="cfp.html">Call for Participation</a></li>
+        <li><a href="volunteer.html">Volunteer</a></li>
+        <li><a href="travel.html">Travel</a></li>
+        <li><a href="housing.html">Housing</a></li>
+        <li><a href="ukraine.html"><img src="img/UA-Ukraine-menu.png"></a></li>
+        <li><a href="faq.html">FAQ</a></li>
+        <li><a href="codeofconduct.html">Code of Conduct</a></li>
+        <li><a href="presskit.html">Press Kit</a></li>
+      </ul>
+    </div>
+    <div id="pagecontent"><center><b>Attended HOPE? Send us feedback: <a href="mailto:feedback@hope.net">feedback@hope.net</a></b></center>
+
+<p>A New HOPE will be a transformational conference for the hacker community -- in
+so many ways.  We&#39;ve all been through a lot, and it&#39;s been challenging.  It is a
+time to come together again to inspire, transform, and share HOPE.</p>
+<p>A New HOPE will be live and in person, and at a great new venue. St.  John&#39;s
+University has more space, more possibilities, and offers us much more support
+for HOPE far into the future.</p>
+<p>We will miss our old long-time home, the Hotel Pennsylvania, which is, sadly,
+being demolished.  But we are now ready for our next chapter.  We hope you&#39;ll
+join us for this this exciting bit of history as we create A New HOPE together.</p>
+<center><a href="https://www.2600.com/mailman/postorius/lists/hope-announce.lists.2600.com/">Join our Mailing List</a></center>
+
+    </div>
+    <div id="pagefoot">
+      <div class="floatright"><a href="https://twitter.com/hopeconf">@hopeconf</a></div>
+      <div class="floatleft"><a href="https://www.hope.net/">hope.net</a></div>
+    </div>
+    <div id="archives">
+      <p><a href="https://i.hope.net/">Past HOPEs: i&nbsp;</a><a href="https://ii.hope.net/">ii&nbsp;</a><a href="https://iii.hope.net/">iii&nbsp;</a><a href="https://iv.hope.net/">iv&nbsp;</a><a href="https://v.hope.net/">v&nbsp;</a><a href="https://vi.hope.net/">vi&nbsp;</a><a href="https://vii.hope.net/">vii&nbsp;</a><a href="https://viii.hope.net/">viii&nbsp;</a><a href="https://ix.hope.net/">ix&nbsp;</a><a href="https://x.hope.net/">x&nbsp;</a><a href="https://xi.hope.net/">xi&nbsp;</a><a href="https://xii.hope.net/">xii&nbsp;</a><a href="https://xiii.hope.net/">xiii</a></p>
+    </div>
+  </body>
+</html>
+<!--      script.-->
+<!--        var currentTB = 0 ;-->
+<!--        var changeTB = function () {-->
+<!--          if( currentTB === 0 ) {-->
+<!--            currentTB=1;-->
+<!--            $('#topbar img').attr('src', "img/hopexii_topbar_a.png" );-->
+<!--          } else {-->
+<!--            currentTB=0;-->
+<!--            $('#topbar img').attr('src', "img/hopexii_topbar_b.png" );-->
+<!--          };-->
+<!--          setTimeout( changeTB, 7000 );-->
+<!--        };-->
+<!--        $(document).ready( function() { setTimeout( changeTB, 11000 ); });-->

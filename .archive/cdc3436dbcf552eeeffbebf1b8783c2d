@@ -1,0 +1,575 @@
+<!doctype html>
+<html lang="en-US" class="no-js">
+	<head>
+		<meta charset="UTF-8">
+		<title>Dirty Bombs and Quantum Warfare - Farsight</title>
+
+		<link href="//www.google-analytics.com" rel="dns-prefetch">
+
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<link rel="apple-touch-icon" sizes="180x180" href="https://farsight.cifs.dk/wp-content/themes/farsight/img/favicon/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="https://farsight.cifs.dk/wp-content/themes/farsight/img/favicon/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="https://farsight.cifs.dk/wp-content/themes/farsight/img/favicon/favicon-16x16.png">
+		<link rel="manifest" href="https://farsight.cifs.dk/wp-content/themes/farsight/img/favicon/site.webmanifest">
+		<meta name="msapplication-TileColor" content="#000000">
+		<meta name="theme-color" content="#000000">
+
+		<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.7.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="Professor Brian David Johnson on how he uses ‘science fiction prototyping’ to model future threats." />
+	<link rel="canonical" href="https://farsight.cifs.dk/how-futurists-use-science-fiction-to-model-future-threats/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Dirty Bombs and Quantum Warfare - Farsight" />
+	<meta property="og:description" content="Professor Brian David Johnson on how he uses ‘science fiction prototyping’ to model future threats." />
+	<meta property="og:url" content="https://farsight.cifs.dk/how-futurists-use-science-fiction-to-model-future-threats/" />
+	<meta property="og:site_name" content="Farsight" />
+	<meta property="article:published_time" content="2022-07-12T13:44:11+00:00" />
+	<meta property="article:modified_time" content="2022-07-28T07:04:28+00:00" />
+	<meta property="og:image" content="https://farsight.cifs.dk/wp-content/uploads/2022/07/BDJ-Front-credit_Sarah-Jenkins-1-edited.jpg" />
+	<meta property="og:image:width" content="3024" />
+	<meta property="og:image:height" content="2268" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="author" content="Casper Skovgaard Petersen" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Casper Skovgaard Petersen" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="7 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://farsight.cifs.dk/how-futurists-use-science-fiction-to-model-future-threats/#article","isPartOf":{"@id":"https://farsight.cifs.dk/how-futurists-use-science-fiction-to-model-future-threats/"},"author":{"name":"Casper Skovgaard Petersen","@id":"https://farsight.cifs.dk/#/schema/person/b378ef20077454289d6ddc36668e78b8"},"headline":"Dirty Bombs and Quantum Warfare","datePublished":"2022-07-12T13:44:11+00:00","dateModified":"2022-07-28T07:04:28+00:00","mainEntityOfPage":{"@id":"https://farsight.cifs.dk/how-futurists-use-science-fiction-to-model-future-threats/"},"wordCount":1466,"publisher":{"@id":"https://farsight.cifs.dk/#organization"},"image":{"@id":"https://farsight.cifs.dk/how-futurists-use-science-fiction-to-model-future-threats/#primaryimage"},"thumbnailUrl":"https://farsight.cifs.dk/wp-content/uploads/2022/07/BDJ-Front-credit_Sarah-Jenkins-1-edited.jpg","articleSection":["Media &amp; Entertainment","Technology"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://farsight.cifs.dk/how-futurists-use-science-fiction-to-model-future-threats/","url":"https://farsight.cifs.dk/how-futurists-use-science-fiction-to-model-future-threats/","name":"Dirty Bombs and Quantum Warfare - Farsight","isPartOf":{"@id":"https://farsight.cifs.dk/#website"},"primaryImageOfPage":{"@id":"https://farsight.cifs.dk/how-futurists-use-science-fiction-to-model-future-threats/#primaryimage"},"image":{"@id":"https://farsight.cifs.dk/how-futurists-use-science-fiction-to-model-future-threats/#primaryimage"},"thumbnailUrl":"https://farsight.cifs.dk/wp-content/uploads/2022/07/BDJ-Front-credit_Sarah-Jenkins-1-edited.jpg","datePublished":"2022-07-12T13:44:11+00:00","dateModified":"2022-07-28T07:04:28+00:00","description":"Professor Brian David Johnson on how he uses ‘science fiction prototyping’ to model future threats.","breadcrumb":{"@id":"https://farsight.cifs.dk/how-futurists-use-science-fiction-to-model-future-threats/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://farsight.cifs.dk/how-futurists-use-science-fiction-to-model-future-threats/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://farsight.cifs.dk/how-futurists-use-science-fiction-to-model-future-threats/#primaryimage","url":"https://farsight.cifs.dk/wp-content/uploads/2022/07/BDJ-Front-credit_Sarah-Jenkins-1-edited.jpg","contentUrl":"https://farsight.cifs.dk/wp-content/uploads/2022/07/BDJ-Front-credit_Sarah-Jenkins-1-edited.jpg","width":3024,"height":2268},{"@type":"BreadcrumbList","@id":"https://farsight.cifs.dk/how-futurists-use-science-fiction-to-model-future-threats/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://farsight.cifs.dk/"},{"@type":"ListItem","position":2,"name":"Dirty Bombs and Quantum Warfare"}]},{"@type":"WebSite","@id":"https://farsight.cifs.dk/#website","url":"https://farsight.cifs.dk/","name":"Farsight","description":"","publisher":{"@id":"https://farsight.cifs.dk/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://farsight.cifs.dk/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://farsight.cifs.dk/#organization","name":"Farsight","url":"https://farsight.cifs.dk/","sameAs":[],"logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://farsight.cifs.dk/#/schema/logo/image/","url":"","contentUrl":"","caption":"Farsight"},"image":{"@id":"https://farsight.cifs.dk/#/schema/logo/image/"}},{"@type":"Person","@id":"https://farsight.cifs.dk/#/schema/person/b378ef20077454289d6ddc36668e78b8","name":"Casper Skovgaard Petersen","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://farsight.cifs.dk/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/d5c48931641f95e84ca1f1d80fb20251?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/d5c48931641f95e84ca1f1d80fb20251?s=96&d=mm&r=g","caption":"Casper Skovgaard Petersen"},"url":"https://farsight.cifs.dk/author/casper/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://farsight.cifs.dk/wp-includes/css/dist/block-library/style.min.css?ver=6.0.2' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--background: #ffffff;--wp--preset--color--foreground: #000000;--wp--preset--color--primary: #ffc7a5;--wp--preset--color--transparent: transparent;--wp--preset--color--text-gray-dark: #414042;--wp--preset--color--sand-75: #EAE4D9;--wp--preset--color--grape: #5b63ad;--wp--preset--color--gray-60: #8d8c8e;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--duotone--foreground-primary: url('#wp-duotone-foreground-primary');--wp--preset--duotone--foreground-background: url('#wp-duotone-foreground-background');--wp--preset--font-size--small: var(--wp--custom--fs-small);--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--normal: var(--wp--custom--fs-normal);--wp--preset--font-family--serif: "Granjon",serif;--wp--preset--font-family--sans-serif: "Kessel 105", sans-serif;--wp--custom--v-spacing: 1.25rem;--wp--custom--fs-caption: clamp(10px, 0.90909vw + 7.09091px, 18px);--wp--custom--fs-extra-small: clamp(12px, 0.22727vw + 11.27273px, 14px);--wp--custom--fs-small: clamp(16px, 0.22727vw + 15.27273px, 18px);--wp--custom--fs-normal: clamp(16px, 1.13636vw + 12.36364px, 26px);--wp--custom--fs-medium: clamp(18px, 1.36364vw + 13.63636px, 30px);--wp--custom--fs-large: clamp(20px, 1.81818vw + 14.18182px, 36px);--wp--custom--fs-x-large: clamp(24px, 3.86364vw + 11.63636px, 58px);--wp--custom--body-padding: clamp(20px, 1.13636vw + 16.36364px, 30px);--wp--custom--wide-size: 1220px;--wp--custom--content-size: 900px;--wp--custom--block-margin: 20px;}h1,h2,h3,h4,h5,h6{--wp--preset--font-size--normal: var(--wp--custom--fs-normal);--wp--preset--font-size--medium: var(--wp--custom--fs-medium);--wp--preset--font-size--large: var(--wp--custom--fs-large);--wp--preset--font-size--x-large: var(--wp--custom--fs-x-large);}body { margin: 0; }body{background-color: var(--wp--preset--color--background);color: var(--wp--preset--color--foreground);font-family: var(--wp--preset--font-family--serif);font-size: var(--wp--custom--fs-normal);line-height: 1.25;margin-top: 0px;margin-right: 0px;margin-bottom: 0px;margin-left: 0px;padding-top: 0px;padding-right: var(--wp--custom--body-padding);padding-bottom: 0px;padding-left: var(--wp--custom--body-padding);}.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }a{color: var(--wp--preset--color--foreground);}h1{font-size: var(--wp--custom--fs-x-large);line-height: 1em;}h2{font-size: var(--wp--custom--fs-normal);line-height: 1.2em;}h3{font-size: var(--wp--custom--fs-normal);line-height: 1.2em;}h4{font-size: var(--wp--custom--fs-normal);line-height: 1.2em;}h5{font-size: var(--wp--custom--fs-normal);line-height: 1.2em;}h6{font-size: var(--wp--custom--fs-normal);line-height: 1.2em;}h1,h2,h3,h4,h5,h6{font-family: var(--wp--preset--font-family--sans-serif);letter-spacing: 0.1em;margin-top: 1.3em;margin-bottom: 1.3em;text-transform: uppercase;}.wp-block-image{font-family: var(--wp--preset--font-family--serif);font-size: 10px;letter-spacing: 0.25em;line-height: 1em;text-transform: uppercase;}.wp-block-button__link{background-color: var(--wp--preset--color--primary);border-radius: 0;color: var(--wp--preset--color--foreground);font-size: var(--wp--custom--fs-small);padding-top: 0.3rem;padding-right: 1rem;padding-bottom: 0.3rem;padding-left: 1rem;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-background-color{color: var(--wp--preset--color--background) !important;}.has-foreground-color{color: var(--wp--preset--color--foreground) !important;}.has-primary-color{color: var(--wp--preset--color--primary) !important;}.has-transparent-color{color: var(--wp--preset--color--transparent) !important;}.has-text-gray-dark-color{color: var(--wp--preset--color--text-gray-dark) !important;}.has-sand-75-color{color: var(--wp--preset--color--sand-75) !important;}.has-grape-color{color: var(--wp--preset--color--grape) !important;}.has-gray-60-color{color: var(--wp--preset--color--gray-60) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-background-background-color{background-color: var(--wp--preset--color--background) !important;}.has-foreground-background-color{background-color: var(--wp--preset--color--foreground) !important;}.has-primary-background-color{background-color: var(--wp--preset--color--primary) !important;}.has-transparent-background-color{background-color: var(--wp--preset--color--transparent) !important;}.has-text-gray-dark-background-color{background-color: var(--wp--preset--color--text-gray-dark) !important;}.has-sand-75-background-color{background-color: var(--wp--preset--color--sand-75) !important;}.has-grape-background-color{background-color: var(--wp--preset--color--grape) !important;}.has-gray-60-background-color{background-color: var(--wp--preset--color--gray-60) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-background-border-color{border-color: var(--wp--preset--color--background) !important;}.has-foreground-border-color{border-color: var(--wp--preset--color--foreground) !important;}.has-primary-border-color{border-color: var(--wp--preset--color--primary) !important;}.has-transparent-border-color{border-color: var(--wp--preset--color--transparent) !important;}.has-text-gray-dark-border-color{border-color: var(--wp--preset--color--text-gray-dark) !important;}.has-sand-75-border-color{border-color: var(--wp--preset--color--sand-75) !important;}.has-grape-border-color{border-color: var(--wp--preset--color--grape) !important;}.has-gray-60-border-color{border-color: var(--wp--preset--color--gray-60) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-normal-font-size{font-size: var(--wp--preset--font-size--normal) !important;}.has-serif-font-family{font-family: var(--wp--preset--font-family--serif) !important;}.has-sans-serif-font-family{font-family: var(--wp--preset--font-family--sans-serif) !important;}h1.has-normal-font-size,h2.has-normal-font-size,h3.has-normal-font-size,h4.has-normal-font-size,h5.has-normal-font-size,h6.has-normal-font-size{font-size: var(--wp--preset--font-size--normal) !important;}h1.has-medium-font-size,h2.has-medium-font-size,h3.has-medium-font-size,h4.has-medium-font-size,h5.has-medium-font-size,h6.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}h1.has-large-font-size,h2.has-large-font-size,h3.has-large-font-size,h4.has-large-font-size,h5.has-large-font-size,h6.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}h1.has-x-large-font-size,h2.has-x-large-font-size,h3.has-x-large-font-size,h4.has-x-large-font-size,h5.has-x-large-font-size,h6.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='app-style-css'  href='https://farsight.cifs.dk/wp-content/themes/farsight/style.css?ver=1' media='all' />
+<script type='text/javascript' src='https://farsight.cifs.dk/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://farsight.cifs.dk/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://farsight.cifs.dk/wp-json/" /><link rel="alternate" type="application/json" href="https://farsight.cifs.dk/wp-json/wp/v2/posts/821" /><link rel="alternate" type="application/json+oembed" href="https://farsight.cifs.dk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffarsight.cifs.dk%2Fhow-futurists-use-science-fiction-to-model-future-threats%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://farsight.cifs.dk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffarsight.cifs.dk%2Fhow-futurists-use-science-fiction-to-model-future-threats%2F&#038;format=xml" />
+
+		<script>
+var trackingScripts = function() {
+  
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PX8QJ68');
+
+}
+
+</script>
+	</head>
+	<body class="post-template-default single single-post postid-821 single-format-standard wp-custom-logo">
+				
+<div :class="$store.cookieStore.showCookieOverlay ? 'show' : ''" class="cookie-overlay" x-data="cookieOverlay" >
+  <div class="background"></div>
+
+  <div class="content" x-ref="of">
+
+    <div class="text">
+      <div class="title">
+        <svg width="21" height="21" viewBox="0 0 50 50" fill="none"><path d="M25.023 49.8C11.37 49.8.263 38.695.263 25.04.263 15.576 5.8 6.811 14.37 2.715a2.188 2.188 0 013.086 1.553c.208 1.07 1.043 3.556 4.29 3.556 2.269 0 3.348-1.226 3.853-2.258a2.185 2.185 0 014.145 1.021c-.043 1.672.42 3.171 1.241 4.017 1.088 1.115 2.97 1.189 5.476.29a2.179 2.179 0 012.508.78 2.18 2.18 0 01-.051 2.625c-.953 1.218-1.043 3.007-.234 4.668.962 1.974 2.888 3.152 5.152 3.152.976 0 1.838-.21 2.637-.64a2.19 2.19 0 012.09.006 2.188 2.188 0 011.127 1.76l.02.27c.037.507.073 1.01.073 1.525 0 13.654-11.106 24.76-24.76 24.76zM14.135 7.832C8.295 11.54 4.633 18.06 4.633 25.04c0 11.245 9.147 20.391 20.39 20.391 10.794 0 19.657-8.432 20.349-19.054-.502.074-1.013.111-1.535.111-3.916 0-7.395-2.148-9.08-5.606-.796-1.634-1.109-3.366-.955-5.01-.124.002-.245.005-.367.005-2.23 0-4.159-.77-5.578-2.224a8.254 8.254 0 01-1.667-2.575c-1.284.729-2.792 1.116-4.443 1.116-3.363 0-6.131-1.645-7.612-4.362zM47.964 5.013a1.82 1.82 0 11-3.64 0 1.82 1.82 0 013.64 0z"fill="currentColor"></path><path d="M14.343 22.773a3.095 3.095 0 100-6.19 3.095 3.095 0 000 6.19zM16.588 34.931a3.095 3.095 0 100-6.19 3.095 3.095 0 000 6.19zM27.937 38.817a3.095 3.095 0 100-6.19 3.095 3.095 0 000 6.19zM26.547 26.456a3.095 3.095 0 100-6.19 3.095 3.095 0 000 6.19zM39.163 3.802a2.852 2.852 0 11-5.703-.003 2.852 2.852 0 015.703.003zM46.507 16.666a2.003 2.003 0 100-4.006 2.003 2.003 0 000 4.006z" fill="currentColor"></path></svg>
+
+        <span x-show="$store.cookieStore.activeView === 'policy'">
+          Cookie policy        </span>
+        <span x-show="$store.cookieStore.activeView !== 'policy'">
+          Cookie policy        </span>
+      </div>
+      <div class="description">
+        We use our own cookies, as well as those of third parties, for individual as well as repeated sessions, in order to make the navigation of our website easy and safe for our users.<br />
+<br />
+In turn, we use cookies to measure and obtain statistical data about the navigation of the users. You can configure and accept the use of the cookies, and modify your consent options, at any time.      </div>
+    </div>
+
+    <div x-show="$store.cookieStore.activeView !== 'policy'" class="cookie-list">
+      <div class="cookie-cat">
+        <div class="sub-title">
+          Strictly necessary cookies        </div>
+
+        <div class="description">
+          <label for="necessaryAllowed">
+            <input disabled type="checkbox" x-model="$store.cookieStore.necessaryAllowed" id="necessaryAllowed">
+            <div>This website uses cookies to allow it to function correctly and safely. These cookies, classified as essential, are necessary for the functionality of the website and are automatically saved in the browser.</div>
+          </label>
+        </div>
+      </div>
+      <div class="cookie-cat">
+        <div class="sub-title">
+          Visitor preferences        </div>
+        <div class="description">
+          <label for="visitorAllowed">
+            <input type="checkbox" x-model="$store.cookieStore.savedVals.visitorAllowed" id="visitorAllowed">
+            <div>Allow you to be shown personalized content, based on your profile.</div>
+          </label>
+        </div>
+      </div>
+      <div class="cookie-cat">
+        <div class="sub-title">
+          Analytics cookies        </div>
+        <div class="description">
+          <label for="analyticsAllowed">
+            <input type="checkbox" x-model="$store.cookieStore.savedVals.analyticsAllowed" id="analyticsAllowed">
+            <div>Allow your navigation of our website to be analyzed, to carry out studies about its use.</div>
+          </label>
+        </div>
+      </div>
+      <div class="cookie-cat">
+        <div class="sub-title">
+          Advertising cookies        </div>
+        <div class="description">
+          <label for="advertisingAllowed">
+            <input type="checkbox" x-model="$store.cookieStore.savedVals.advertisingAllowed" id="advertisingAllowed">
+            <div>Allow your navigation of our website to be analyzed, in order for us to show you more personalized adverts.</div>
+          </label>
+        </div>
+      </div>
+    </div>
+
+    <div class="buttons">
+      <button
+        @click="$store.cookieStore.acceptAll()"
+        class="btn btn-primary"
+      >
+        Accept cookies      </button>
+
+      <button
+        x-show="$store.cookieStore.activeView === 'policy'"
+        @click="$store.cookieStore.activeView = 'settings'"
+        class="btn btn-gray-small"
+      >
+        Manage settings      </button>
+
+      <button
+        x-show="$store.cookieStore.activeView !== 'policy'"
+        @click="$store.cookieStore.saveSettings()"
+        class="btn btn-gray-small"
+      >
+        Save settings      </button>
+    </div>
+  </div>
+</div>
+		<header class="header clear" role="banner">
+			<div class="container">
+				<div class="container-inner">
+				
+					<a href="https://farsight.cifs.dk" class="logo">
+						<img src="https://farsight.cifs.dk/wp-content/uploads/2022/03/Farsight_logo-2_white.png" alt="Logo">	
+					</a>
+					
+					<div class="right">
+						<div x-data="searchform" class="search">
+  <div class="search-trigger" @click="open = !open">
+    <svg width="24" height="24" viewBox="0 0 24 24"><path fill="currentColor" d="M16.041 15.856c-0.034 0.026-0.067 0.055-0.099 0.087s-0.060 0.064-0.087 0.099c-1.258 1.213-2.969 1.958-4.855 1.958-1.933 0-3.682-0.782-4.95-2.050s-2.050-3.017-2.050-4.95 0.782-3.682 2.050-4.95 3.017-2.050 4.95-2.050 3.682 0.782 4.95 2.050 2.050 3.017 2.050 4.95c0 1.886-0.745 3.597-1.959 4.856zM21.707 20.293l-3.675-3.675c1.231-1.54 1.968-3.493 1.968-5.618 0-2.485-1.008-4.736-2.636-6.364s-3.879-2.636-6.364-2.636-4.736 1.008-6.364 2.636-2.636 3.879-2.636 6.364 1.008 4.736 2.636 6.364 3.879 2.636 6.364 2.636c2.125 0 4.078-0.737 5.618-1.968l3.675 3.675c0.391 0.391 1.024 0.391 1.414 0s0.391-1.024 0-1.414z"></path></svg>
+  </div>
+
+  <template x-teleport="body">
+    <div class="searchform" :class="open && 'open'">
+      <div class="searchform-backdrop" @click="open = !open"></div>
+      <div class="searchform-inner">
+
+        <div class="input">
+          <svg width="24" height="24" viewBox="0 0 24 24"><path fill="currentColor" d="M16.041 15.856c-0.034 0.026-0.067 0.055-0.099 0.087s-0.060 0.064-0.087 0.099c-1.258 1.213-2.969 1.958-4.855 1.958-1.933 0-3.682-0.782-4.95-2.050s-2.050-3.017-2.050-4.95 0.782-3.682 2.050-4.95 3.017-2.050 4.95-2.050 3.682 0.782 4.95 2.050 2.050 3.017 2.050 4.95c0 1.886-0.745 3.597-1.959 4.856zM21.707 20.293l-3.675-3.675c1.231-1.54 1.968-3.493 1.968-5.618 0-2.485-1.008-4.736-2.636-6.364s-3.879-2.636-6.364-2.636-4.736 1.008-6.364 2.636-2.636 3.879-2.636 6.364 1.008 4.736 2.636 6.364 3.879 2.636 6.364 2.636c2.125 0 4.078-0.737 5.618-1.968l3.675 3.675c0.391 0.391 1.024 0.391 1.414 0s0.391-1.024 0-1.414z"></path></svg>
+          <input placeholder="Search..." type="text" x-model="searchVal" x-ref="searchInput" @keyup.down="keyUp" @keyup.up="keyUp" @keyup.enter="enter">
+        </div>
+        
+
+        <div class="results-dropdown">
+          <div class="progress" :class="showProgress && 'visible'">
+            <div></div>
+          </div>
+          <div class="no-posts" x-show="noPosts && searchVal && !inProgress">
+            No results...
+          </div>
+
+          <div class="results" x-ref="results">
+            <template x-for="(result, index) in results">
+              <div class="result">
+                <a :href="result.permalink" :class="index + 1 === activeIndex ? 'active' : ''" x-text="result.post_title"></a>
+              </div>
+            </template>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </template>
+</div>
+						<a href="https://cifs.dk" class="secondary-logo">
+							<img src="https://farsight.cifs.dk/wp-content/uploads/2022/03/By-CIFS_white.png" alt="Logo">
+						</a>
+
+						<div class="menu-trigger">
+							<div class="inner">
+								<div></div>
+								<div></div>
+							</div>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</header>
+
+		<div class="mobile-menu">
+			<div class="inner">
+				<ul id="menu-main-menu" class="menu"><li id="menu-item-527" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-527"><a href="https://farsight.cifs.dk/print-issue/">Print Issue</a></li>
+<li id="menu-item-717" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-717"><a href="https://farsight.cifs.dk/futures-seminars/">Futures Seminars</a></li>
+<li id="menu-item-146" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-146"><a target="_blank" rel="noopener" href="https://cifs.dk/">Cifs.dk</a></li>
+</ul>
+				<div class="newsletter">
+  <form action="https://cifs.us10.list-manage.com/subscribe/post?u=1041758497467d924433d2135&amp;id=9f7c4cef6b" method="post" target="_blank" novalidate="novalidate">
+    <div class="title">Subscribe to our newsletter</div>
+    <div class="input-group">
+      <input type="email" name="EMAIL" placeholder="Email" value=""> 
+      <button type="submit">GO</button>
+    </div>
+
+    <div aria-hidden="true" style="position: absolute; left: -5000px"><input type="text" name="b_8e5d4a9beaa317ce1e4eb8362_b19a892f5d" tabindex="-1" value=""></div>
+  </form>
+</div>
+				<div class="fs-social">
+      <a target="_blank" title="facebook" href="https://www.facebook.com/cphfutures">
+      <svg width="8" height="15" viewBox="0 0 8 15" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.58751 2.83162H7.78937V0.0769043H5.58751C3.88767 0.0769043 2.5049 1.51854 2.5049 3.29074V4.66809H0.743408V7.42281H2.5049V14.7687H5.14713V7.42281H7.34899L7.78937 4.66809H5.14713V3.29074C5.14713 3.04189 5.34882 2.83162 5.58751 2.83162Z" fill="currentColor"></path></svg>
+    </a>
+  
+      <a target="_blank" title="instagram" href="https://www.instagram.com/cphfutures/">
+      <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="14" height="14" rx="3.5" fill="currentColor"></rect> <path d="M6.99994 3.73328C5.19593 3.73328 3.73328 5.19593 3.73328 6.99994C3.73328 8.80396 5.19593 10.2666 6.99994 10.2666C8.80396 10.2666 10.2666 8.80396 10.2666 6.99994C10.2666 5.19593 8.80396 3.73328 6.99994 3.73328ZM6.99994 9.04161C5.87458 9.04161 4.95828 8.12531 4.95828 6.99994C4.95828 5.87376 5.87458 4.95828 6.99994 4.95828C8.12531 4.95828 9.04161 5.87376 9.04161 6.99994C9.04161 8.12531 8.12531 9.04161 6.99994 9.04161Z" fill="var(--social--color--background)"></path> <path d="M10.7334 3.73338C10.9911 3.73338 11.2001 3.52445 11.2001 3.26672C11.2001 3.00898 10.9911 2.80005 10.7334 2.80005C10.4757 2.80005 10.2667 3.00898 10.2667 3.26672C10.2667 3.52445 10.4757 3.73338 10.7334 3.73338Z" fill="var(--social--color--background)"></path></svg>
+    </a>
+  
+      <a target="_blank" title="twitter" href="https://twitter.com/cphfutures">
+      <svg width="18" height="14" viewBox="0 0 18 14" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M17.2697 2.17816C16.6661 2.44358 16.0142 2.62053 15.3336 2.6994C16.0302 2.28838 16.5634 1.63771 16.8166 0.863681C16.1647 1.24286 15.4425 1.52092 14.6751 1.66956C14.0587 1.02496 13.1823 0.623535 12.2125 0.623535C10.3505 0.623535 8.84128 2.1089 8.84128 3.94159C8.84128 4.20044 8.87004 4.45322 8.92809 4.69691C6.12548 4.55788 3.64032 3.23682 1.97756 1.22769C1.68836 1.71759 1.52193 2.28939 1.52193 2.89607C1.52193 4.04624 2.11573 5.06345 3.02134 5.658C2.46914 5.64232 1.9493 5.49065 1.49316 5.24393C1.49316 5.25657 1.49316 5.27225 1.49316 5.28488C1.49316 6.8931 2.65561 8.2364 4.19971 8.53924C3.91719 8.61507 3.61875 8.65602 3.31054 8.65602C3.09223 8.65602 2.88368 8.63378 2.67513 8.59586C3.10559 9.91337 4.35125 10.874 5.82447 10.9028C4.6687 11.7936 3.21757 12.3249 1.63494 12.3249C1.36217 12.3249 1.09558 12.3093 0.828979 12.2774C2.32531 13.2223 4.09698 13.7688 6.00117 13.7688C12.2038 13.7688 15.5971 8.71012 15.5971 4.3243C15.5971 4.1792 15.594 4.03663 15.5874 3.89457C16.2454 3.42995 16.8171 2.84551 17.2697 2.17867V2.17816Z" fill="currentColor"></path></svg>
+    </a>
+  
+      <a target="_blank" title="linkedin" href="https://www.linkedin.com/company/cphfutures/">
+      <svg width="15" height="14" viewBox="0 0 15 14" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.64453 4.60022H8.43022V6.01046H8.46998C8.85751 5.32398 9.8062 4.60022 11.2199 4.60022C14.1601 4.60022 14.7037 6.40814 14.7037 8.75937V13.5478H11.8002V9.30269C11.8002 8.29012 11.7791 6.98774 10.2899 6.98774C8.77748 6.98774 8.54698 8.09029 8.54698 9.22912V13.5478H5.64453V4.60022Z" fill="currentColor"></path> <path d="M0.611572 4.60022H3.63129V13.5478H0.611572V4.60022Z" fill="currentColor"></path> <path d="M3.63177 2.11481C3.63177 2.93849 2.95586 3.60608 2.12192 3.60608C1.28797 3.60608 0.612061 2.93849 0.612061 2.11481C0.612061 1.29113 1.28797 0.623535 2.12192 0.623535C2.95586 0.623535 3.63177 1.29113 3.63177 2.11481Z" fill="currentColor"></path></svg>
+    </a>
+  
+  </div>				
+			</div>
+		</div>
+
+		<nav class="sticky-menu sticky-page-menu" role="navigation">
+  <div class="container">
+    <ul id="menu-main-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-527"><a href="https://farsight.cifs.dk/print-issue/">Print Issue</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-717"><a href="https://farsight.cifs.dk/futures-seminars/">Futures Seminars</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-146"><a target="_blank" rel="noopener" href="https://cifs.dk/">Cifs.dk</a></li>
+</ul>  </div>
+</nav>
+
+		
+
+<div class="set-post-views" data-id="821"></div>
+
+<main>
+<div class="share-article">
+  <div class="title">
+    Share article
+  </div>
+  <div class="icons">
+    <div class="facebook">
+      <svg width="8" height="15" viewBox="0 0 8 15" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.58751 2.83162H7.78937V0.0769043H5.58751C3.88767 0.0769043 2.5049 1.51854 2.5049 3.29074V4.66809H0.743408V7.42281H2.5049V14.7687H5.14713V7.42281H7.34899L7.78937 4.66809H5.14713V3.29074C5.14713 3.04189 5.34882 2.83162 5.58751 2.83162Z" fill="currentColor"></path></svg>
+    </div>
+    <div class="twitter">
+      <svg width="18" height="14" viewBox="0 0 18 14" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M17.2697 2.17816C16.6661 2.44358 16.0142 2.62053 15.3336 2.6994C16.0302 2.28838 16.5634 1.63771 16.8166 0.863681C16.1647 1.24286 15.4425 1.52092 14.6751 1.66956C14.0587 1.02496 13.1823 0.623535 12.2125 0.623535C10.3505 0.623535 8.84128 2.1089 8.84128 3.94159C8.84128 4.20044 8.87004 4.45322 8.92809 4.69691C6.12548 4.55788 3.64032 3.23682 1.97756 1.22769C1.68836 1.71759 1.52193 2.28939 1.52193 2.89607C1.52193 4.04624 2.11573 5.06345 3.02134 5.658C2.46914 5.64232 1.9493 5.49065 1.49316 5.24393C1.49316 5.25657 1.49316 5.27225 1.49316 5.28488C1.49316 6.8931 2.65561 8.2364 4.19971 8.53924C3.91719 8.61507 3.61875 8.65602 3.31054 8.65602C3.09223 8.65602 2.88368 8.63378 2.67513 8.59586C3.10559 9.91337 4.35125 10.874 5.82447 10.9028C4.6687 11.7936 3.21757 12.3249 1.63494 12.3249C1.36217 12.3249 1.09558 12.3093 0.828979 12.2774C2.32531 13.2223 4.09698 13.7688 6.00117 13.7688C12.2038 13.7688 15.5971 8.71012 15.5971 4.3243C15.5971 4.1792 15.594 4.03663 15.5874 3.89457C16.2454 3.42995 16.8171 2.84551 17.2697 2.17867V2.17816Z" fill="currentColor"></path></svg>
+    </div>
+    <div class="email">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20"><path d="M18 2c1.105 0 2 0.895 2 2v0 12c0 1.105-0.895 2-2 2v0h-16c-1.105 0-2-0.895-2-2v0-12c0-1.1 0.9-2 2-2h16zM13.63 11.1l6.37 4.9v-2l-5.12-3.9 5.12-4.1v-2l-10 8-10-8v2l5.12 4.1-5.12 3.9v2l6.37-4.9 3.63 2.9 3.63-2.9z" fill="currentColor"></path></svg>
+    </div>
+  </div>
+
+</div>
+
+  <div class="fs-block-wrapper">
+    
+<h1>Dirty Bombs and Quantum Warfare</h1>
+
+
+
+<h2>Professor Brian David Johnson on how he uses ‘science fiction prototyping’ to model future threats</h2>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://farsight.cifs.dk/wp-content/uploads/2022/07/BDJ-Front-credit_Sarah-Jenkins-1-edited.jpg" alt="" class="wp-image-828" width="900" height="675" srcset="https://farsight.cifs.dk/wp-content/uploads/2022/07/BDJ-Front-credit_Sarah-Jenkins-1-edited.jpg 3024w, https://farsight.cifs.dk/wp-content/uploads/2022/07/BDJ-Front-credit_Sarah-Jenkins-1-edited-700x525.jpg 700w, https://farsight.cifs.dk/wp-content/uploads/2022/07/BDJ-Front-credit_Sarah-Jenkins-1-edited-1400x1050.jpg 1400w, https://farsight.cifs.dk/wp-content/uploads/2022/07/BDJ-Front-credit_Sarah-Jenkins-1-edited-160x120.jpg 160w, https://farsight.cifs.dk/wp-content/uploads/2022/07/BDJ-Front-credit_Sarah-Jenkins-1-edited-768x576.jpg 768w, https://farsight.cifs.dk/wp-content/uploads/2022/07/BDJ-Front-credit_Sarah-Jenkins-1-edited-1536x1152.jpg 1536w, https://farsight.cifs.dk/wp-content/uploads/2022/07/BDJ-Front-credit_Sarah-Jenkins-1-edited-2048x1536.jpg 2048w, https://farsight.cifs.dk/wp-content/uploads/2022/07/BDJ-Front-credit_Sarah-Jenkins-1-edited-1000x750.jpg 1000w" sizes="(max-width: 900px) 100vw, 900px" /><figcaption>Photo: Sarah Jenkins</figcaption></figure>
+
+
+
+<div class="block-post-meta">
+  <div class="fs-author" data-from-to="10,40">
+    Casper Skovgaard Petersen  </div>
+
+  <div class="fs-date">
+    July 12, 2022  </div>
+  
+</div>
+
+
+<p class="has-drop-cap">Brian David Johnson is a Professor of Practice at Arizona State University, a Futurist and Fellow at the business consulting firm Frost &amp; Sullivan, and a former engineer and Chief Futurist at the Intel Corporation. He is the originator of ‘sci-fi prototyping’, a technique that uses short original pieces of science fiction to model possible futures. We met with Johnson to learn more about how he uses comic books and short stories set in fictional futures to help organisations discover previously unseen threats.</p>
+
+
+
+<p><em>What exactly is science fiction prototyping?</em></p>
+
+
+
+<p>In short, it’s a way to use science fiction as a futures modelling tool. It&#8217;s not science fiction, but rather <em>science fiction thinking</em>. This distinction is important because the intent of science fiction is most often to entertain you, or if we&#8217;re being quite honest, to sell movie tickets or books. And that&#8217;s not a bad thing. But the intention of science fiction prototyping is very different in that it is a tool to be used to discover potential futures and threats that people hadn’t thought about.</p>
+
+
+
+<p><em>How is this done?</em></p>
+
+
+
+<p>One of the methodologies I use in my work as an applied futurist is called ‘threatcasting’, which, as the name implies, is about looking at a range of potential future threats, modelling how they would play out, and assessing which steps would be necessary to take today to avoid them. Science fiction prototyping is a tool we can use to take this process a step beyond the abstract, to have characters and situations that bring the futures to life. This pushes people to use their imagination more freely, sometimes to get them right up to the edge of the possible.</p>
+
+
+
+<p>When I was employed as Chief Futurist at the Intel Corporation, I used sci-fi prototyping to threatcast some very dark futures based on the technologies that Intel was building. I would then share these visions with my fellow engineers which often freaked them out because they could see the awful things that could happen. I once had a colleague get up and walk out of a meeting because he was so upset by the possibility that somebody could take a piece of technology – a piece of engineering that he loves so dearly – and use it to cause harm.</p>
+
+
+
+<p>Sci-fi prototypes can be used both in this way, to get people thinking differently about the future and to provoke conversations – sometimes uncomfortable ones – but also to create a common language to talk about the future in a way that is imaginative but also science and fact based.</p>
+
+
+
+<p><em>What does a sci-fi prototype modelling a future threat look like? Can you give us an example?</em></p>
+
+
+
+<p>It can look like a comic book or a graphic novel.</p>
+
+
+
+<p>A lot of the work we do at our Threatcasting Lab at Arizona State University has to do with national security, global security, and climate resource security. We recently did a piece for the United States Army Cyber Institute that examined the future of quantum technologies and their potential use in warfare. Quantum computing is deep, nerdy math stuff and something that&#8217;s hard for a lot of people to wrap their heads around. With sci-fi prototyping you can take these more technical aspects and apply them to real-life situations, getting into what the effects of the technology would be for people on the ground in a visceral and easily understandable way.</p>
+
+
+
+<p>The result of our prototyping process was a piece called <em>Quantum Winner</em>. In it, you follow three soldiers on the ground caught in the middle of a battle where quantum technology is being used. &nbsp;We see the breaking of encryption, the breakdown of GPS, and other technological failures, as well as the effects this would have on the soldiers. The piece never uses the word ‘quantum’ except for in its title because the goal is not to explain the technology but to shows you the effects. It’s dark stuff, and it’s meant to provoke a reaction you wouldn’t get from a high-level research paper or scenario planning exercise.</p>
+
+
+
+<p><em>Why are military institutions and other organisations hiring comic book writers and sci-fi authors to tell them of these threats?</em></p>
+
+
+
+<p>I think as we moved from the 20th century to the 21st century, there&#8217;s a was a massive shift in the way people thought about technology and the future. There is a legacy around futurists as charlatans and snake oil salesmen that isn&#8217;t so great. Luckily, we&#8217;ve left a lot of that behind. And once people accepted futures thinking as a necessity, they started feeling a lot more comfortable moving on to science fiction and sci-fi prototyping.</p>
+
+
+
+<p>Then there’s the fact that engineers and technologists have always found blueprints for innovation in sci-fi – flip phones, rockets, the metaverse, you name it. Although you can teach someone to be a sci-fi author, you can&#8217;t teach someone to be Neil Stevenson, Gene Roddenberry, or Isaac Asimov. Sci-fi prototyping is something you <em>can</em> teach. It’s not as reliant on that single brilliant person and their ideas. And because the process is repeatable, organisations can depend upon it year over year in their long-term strategic planning.</p>
+
+
+
+<p><em>What makes science fiction prototyping different from other futurist methods like scenario planning, which also involve elements of storytelling?</em></p>
+
+
+
+<p>Scenario planning is a very powerful tool in futures work. But I often argue that while it was a great fit for the 20th century, and a necessity for the 21st, it is no longer sufficient.</p>
+
+
+
+<p>For one, scenarios and other similar methodologies are not great at capturing the almost quantum-like complexity of many issues facing us today. It’s also bloodless. Human beings are messy, quirky, wonderful, and cruel. Generally, scenario planning doesn&#8217;t capture that well because it’s not its goal. With sci-fi prototyping you can get into the weirdness by focusing on situations, technologies, and characters who think, feel and act. It exposes you to a level of detail that’s unrivalled in other futurist methodologies. Say, for instance, you are modelling a large-scale cyber-attack. With sci-fi prototyping you can get into what that would look like if you were sitting in an autonomous car or looking at your phone while it was happening – in other words, how it affects people on the ground.</p>
+
+
+
+<p><em>Science fiction is often subversive, critical of the status quo and the powers that be – warning us of abuses of power or what happens when technology runs amok or is used to cause harm. Yet sci-fi prototyping is often used to do innovation sandboxing for the kinds of institutions that sometimes take the role of the villain in in works of sci-fi literature. Do you see a conflict there?</em></p>
+
+
+
+<p>It’s true that really good works of science fiction are often cautionary tales that show us a bad future and warns us to not let that happen. The perfect example of that is George Orwell&#8217;s <em>1984</em>. There are many authors working today who carry on that legacy, including Cory Doctorow, who is very clear he&#8217;s not a futurist but an activist and a writer intent on showing people the risks and dark sides of the digital future.</p>
+
+
+
+<p>In my experience, sci-fi prototyping can function in a similar way in that it can be used to counter prevailing narratives and explore all the things that could go wrong. It challenges people to think through extreme and often uncomfortable scenarios. A recent example of this is a prototype we did for Cisco, looking at the intersection between global supply chains, cyber-attacks, and terrorism, which resulted in a graphic novella called <em>Two days after Tuesday</em>. The story breaks down how a small ‘spear phishing’ attack at the edge of a supply chain could cause a major disaster. We show the step-by-step process through which hackers and state-sponsored terrorists could create a physical vulnerability at a port to sneak in a dirty bomb and detonate it on the island of Manhattan during rush hour. The point of going to this awful and dark place is not to have a story about villains or heroes, but to show how wrong this can quickly go, and – from a network security perspective – provoke a conversation around what could be done to prevent such a scenario from occurring.</p>
+
+
+
+<p>This last part is crucial because once we’ve seen how bad things can go, we then need to ask: OK, so what do we do about it? Ultimately, the goal of envisioning futures through sci-fi prototyping is to empower action. That&#8217;s why we go to those dark places. Ultimately, the intent is to make the world better and safer.</p>
+  </div>
+</main>
+
+<div class="related-posts">
+
+
+  <div class="block-related-posts">
+    <div class="container">
+      <div class="related-title">
+        More like this
+      </div>
+      <div class="fs-related-card-wrapper">
+        
+        
+<article id="post-883" class="fs-post-card ">
+
+  <a href="https://farsight.cifs.dk/decentralising-nature-conservation/" title="Decentralising Nature Conservation">
+    <div class="fs-image">
+      <img width="300" height="206" src="https://farsight.cifs.dk/wp-content/uploads/2022/08/hhhh-linkedin-photo-1-e1661773577580.png" class="attachment-medium size-medium wp-post-image" alt="" loading="lazy" srcset="https://farsight.cifs.dk/wp-content/uploads/2022/08/hhhh-linkedin-photo-1-e1661773577580.png 600w, https://farsight.cifs.dk/wp-content/uploads/2022/08/hhhh-linkedin-photo-1-e1661773577580-160x110.png 160w" sizes="(max-width: 300px) 100vw, 300px" />    </div>
+
+    <div class="fs-card-body">
+      <h3 class="fs-title">
+        Decentralising Nature Conservation      </h3>
+
+      <div class="fs-excerpt">
+        <div class="fs-inner">
+          An Interview with Hans Henrik H. Heming, co-founder of Moonjelly.        </div>
+      </div>
+
+      <div class="fs-card-footer">
+        <div class="fs-author">
+          Bugge Holm Hansen        </div>
+        
+        <div class="fs-date">
+          August 6, 2022        </div>
+      </div>
+    </div> 
+
+  </a>
+</article>
+
+        
+        
+<article id="post-802" class="fs-post-card ">
+
+  <a href="https://farsight.cifs.dk/when-artificial-intelligence-becomes-self-aware/" title="When Artificial Intelligence Becomes Self-aware">
+    <div class="fs-image">
+      <img width="300" height="169" src="https://farsight.cifs.dk/wp-content/uploads/2022/06/2112-700x394.jpg" class="attachment-medium size-medium wp-post-image" alt="" loading="lazy" srcset="https://farsight.cifs.dk/wp-content/uploads/2022/06/2112-700x394.jpg 700w, https://farsight.cifs.dk/wp-content/uploads/2022/06/2112-1400x788.jpg 1400w, https://farsight.cifs.dk/wp-content/uploads/2022/06/2112-160x90.jpg 160w, https://farsight.cifs.dk/wp-content/uploads/2022/06/2112-768x432.jpg 768w, https://farsight.cifs.dk/wp-content/uploads/2022/06/2112-1000x563.jpg 1000w, https://farsight.cifs.dk/wp-content/uploads/2022/06/2112.jpg 1472w" sizes="(max-width: 300px) 100vw, 300px" />    </div>
+
+    <div class="fs-card-body">
+      <h3 class="fs-title">
+        When Artificial Intelligence Becomes Self-aware      </h3>
+
+      <div class="fs-excerpt">
+        <div class="fs-inner">
+          Although sentience in AI may be possible we are far from understanding what this would take to achieve, let alone how to determine it.        </div>
+      </div>
+
+      <div class="fs-card-footer">
+        <div class="fs-author">
+          Klaus Æ. Mogensen        </div>
+        
+        <div class="fs-date">
+          June 15, 2022        </div>
+      </div>
+    </div> 
+
+  </a>
+</article>
+
+        
+        
+<article id="post-798" class="fs-post-card ">
+
+  <a href="https://farsight.cifs.dk/a-new-dawn-for-labour-market-organisation/" title="A New Dawn For Labour Market Organisation?">
+    <div class="fs-image">
+      <img width="300" height="191" src="https://farsight.cifs.dk/wp-content/uploads/2022/06/5279525928_d6d94469e4_o-700x445.jpg" class="attachment-medium size-medium wp-post-image" alt="" loading="lazy" srcset="https://farsight.cifs.dk/wp-content/uploads/2022/06/5279525928_d6d94469e4_o-700x445.jpg 700w, https://farsight.cifs.dk/wp-content/uploads/2022/06/5279525928_d6d94469e4_o-1400x889.jpg 1400w, https://farsight.cifs.dk/wp-content/uploads/2022/06/5279525928_d6d94469e4_o-160x102.jpg 160w, https://farsight.cifs.dk/wp-content/uploads/2022/06/5279525928_d6d94469e4_o-768x488.jpg 768w, https://farsight.cifs.dk/wp-content/uploads/2022/06/5279525928_d6d94469e4_o-1536x976.jpg 1536w, https://farsight.cifs.dk/wp-content/uploads/2022/06/5279525928_d6d94469e4_o-2048x1301.jpg 2048w, https://farsight.cifs.dk/wp-content/uploads/2022/06/5279525928_d6d94469e4_o-1000x635.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" />    </div>
+
+    <div class="fs-card-body">
+      <h3 class="fs-title">
+        A New Dawn For Labour Market Organisation?      </h3>
+
+      <div class="fs-excerpt">
+        <div class="fs-inner">
+          As traditional trade union membership levels tumble, technology can empower new ways of decentralised collective action.        </div>
+      </div>
+
+      <div class="fs-card-footer">
+        <div class="fs-author">
+          Simon Fuglsang Østergaard        </div>
+        
+        <div class="fs-date">
+          June 9, 2022        </div>
+      </div>
+    </div> 
+
+  </a>
+</article>
+
+              </div>  
+    </div>
+  </div>
+</div>
+
+
+
+		<footer class="footer">
+
+
+			<div class="newsletter">
+  <form action="https://cifs.us10.list-manage.com/subscribe/post?u=1041758497467d924433d2135&amp;id=9f7c4cef6b" method="post" target="_blank" novalidate="novalidate">
+    <div class="title">Subscribe to our newsletter</div>
+    <div class="input-group">
+      <input type="email" name="EMAIL" placeholder="Email" value=""> 
+      <button type="submit">GO</button>
+    </div>
+
+    <div aria-hidden="true" style="position: absolute; left: -5000px"><input type="text" name="b_8e5d4a9beaa317ce1e4eb8362_b19a892f5d" tabindex="-1" value=""></div>
+  </form>
+</div>			
+			<div class="container footer-bottom">
+
+				<nav class="footer-menu" role="navigation">
+						<ul id="menu-footer-menu" class="menu"><li id="menu-item-148" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-148"><a href="https://cifs.dk/calendar/">Calendar</a></li>
+<li id="menu-item-149" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-149"><a href="mailto:publications@cifs.dk">Contact</a></li>
+<li id="menu-item-621" class="cookies menu-item menu-item-type-custom menu-item-object-custom menu-item-621"><a href="#">Cookies</a></li>
+</ul>				</nav>
+
+				<div class="bottom">
+					<div class="columns">
+												<div>BLOXHUB<br />
+Bryghuspladsen 8<br />
+3rd floor <br />
+DK 1473 Copenhagen</div>
+						
+												<div> cifs@cifs.dk<br />
++45 33 11 71 76 </div>
+						
+												<div>Copyright 2022<br />
+All rights reserved</div>
+											</div>
+
+					<div class="fs-social">
+      <a target="_blank" title="facebook" href="https://www.facebook.com/cphfutures">
+      <svg width="8" height="15" viewBox="0 0 8 15" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.58751 2.83162H7.78937V0.0769043H5.58751C3.88767 0.0769043 2.5049 1.51854 2.5049 3.29074V4.66809H0.743408V7.42281H2.5049V14.7687H5.14713V7.42281H7.34899L7.78937 4.66809H5.14713V3.29074C5.14713 3.04189 5.34882 2.83162 5.58751 2.83162Z" fill="currentColor"></path></svg>
+    </a>
+  
+      <a target="_blank" title="instagram" href="https://www.instagram.com/cphfutures/">
+      <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="14" height="14" rx="3.5" fill="currentColor"></rect> <path d="M6.99994 3.73328C5.19593 3.73328 3.73328 5.19593 3.73328 6.99994C3.73328 8.80396 5.19593 10.2666 6.99994 10.2666C8.80396 10.2666 10.2666 8.80396 10.2666 6.99994C10.2666 5.19593 8.80396 3.73328 6.99994 3.73328ZM6.99994 9.04161C5.87458 9.04161 4.95828 8.12531 4.95828 6.99994C4.95828 5.87376 5.87458 4.95828 6.99994 4.95828C8.12531 4.95828 9.04161 5.87376 9.04161 6.99994C9.04161 8.12531 8.12531 9.04161 6.99994 9.04161Z" fill="var(--social--color--background)"></path> <path d="M10.7334 3.73338C10.9911 3.73338 11.2001 3.52445 11.2001 3.26672C11.2001 3.00898 10.9911 2.80005 10.7334 2.80005C10.4757 2.80005 10.2667 3.00898 10.2667 3.26672C10.2667 3.52445 10.4757 3.73338 10.7334 3.73338Z" fill="var(--social--color--background)"></path></svg>
+    </a>
+  
+      <a target="_blank" title="twitter" href="https://twitter.com/cphfutures">
+      <svg width="18" height="14" viewBox="0 0 18 14" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M17.2697 2.17816C16.6661 2.44358 16.0142 2.62053 15.3336 2.6994C16.0302 2.28838 16.5634 1.63771 16.8166 0.863681C16.1647 1.24286 15.4425 1.52092 14.6751 1.66956C14.0587 1.02496 13.1823 0.623535 12.2125 0.623535C10.3505 0.623535 8.84128 2.1089 8.84128 3.94159C8.84128 4.20044 8.87004 4.45322 8.92809 4.69691C6.12548 4.55788 3.64032 3.23682 1.97756 1.22769C1.68836 1.71759 1.52193 2.28939 1.52193 2.89607C1.52193 4.04624 2.11573 5.06345 3.02134 5.658C2.46914 5.64232 1.9493 5.49065 1.49316 5.24393C1.49316 5.25657 1.49316 5.27225 1.49316 5.28488C1.49316 6.8931 2.65561 8.2364 4.19971 8.53924C3.91719 8.61507 3.61875 8.65602 3.31054 8.65602C3.09223 8.65602 2.88368 8.63378 2.67513 8.59586C3.10559 9.91337 4.35125 10.874 5.82447 10.9028C4.6687 11.7936 3.21757 12.3249 1.63494 12.3249C1.36217 12.3249 1.09558 12.3093 0.828979 12.2774C2.32531 13.2223 4.09698 13.7688 6.00117 13.7688C12.2038 13.7688 15.5971 8.71012 15.5971 4.3243C15.5971 4.1792 15.594 4.03663 15.5874 3.89457C16.2454 3.42995 16.8171 2.84551 17.2697 2.17867V2.17816Z" fill="currentColor"></path></svg>
+    </a>
+  
+      <a target="_blank" title="linkedin" href="https://www.linkedin.com/company/cphfutures/">
+      <svg width="15" height="14" viewBox="0 0 15 14" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.64453 4.60022H8.43022V6.01046H8.46998C8.85751 5.32398 9.8062 4.60022 11.2199 4.60022C14.1601 4.60022 14.7037 6.40814 14.7037 8.75937V13.5478H11.8002V9.30269C11.8002 8.29012 11.7791 6.98774 10.2899 6.98774C8.77748 6.98774 8.54698 8.09029 8.54698 9.22912V13.5478H5.64453V4.60022Z" fill="currentColor"></path> <path d="M0.611572 4.60022H3.63129V13.5478H0.611572V4.60022Z" fill="currentColor"></path> <path d="M3.63177 2.11481C3.63177 2.93849 2.95586 3.60608 2.12192 3.60608C1.28797 3.60608 0.612061 2.93849 0.612061 2.11481C0.612061 1.29113 1.28797 0.623535 2.12192 0.623535C2.95586 0.623535 3.63177 1.29113 3.63177 2.11481Z" fill="currentColor"></path></svg>
+    </a>
+  
+  </div>
+					<a href="https://cifs.dk" class="logo">
+						<img src="https://farsight.cifs.dk/wp-content/uploads/2022/03/logo_third-1.png" alt="Logo">	
+					</a>
+
+				</div>
+				
+			</div>
+
+
+		</footer>
+
+		<link rel='stylesheet' id='block-acf-post-meta-css'  href='https://farsight.cifs.dk/wp-content/themes/farsight/blocks/block-post-meta.css?vers=1&#038;ver=6.0.2' media='all' />
+<script type='text/javascript' id='app-script-js-extra'>
+/* <![CDATA[ */
+var various = {"siteurl":"https:\/\/farsight.cifs.dk","rest_url":"https:\/\/farsight.cifs.dk\/wp-json\/","ajaxurl":"https:\/\/farsight.cifs.dk\/wp-admin\/admin-ajax.php","nonce":"008c005101","share_email_subject":"See this article from Farsight","share_email_body":"See this article from Farsight"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://farsight.cifs.dk/wp-content/themes/farsight/app-dist.js?ver=1' id='app-script-js'></script>
+		
+	</body>
+</html>

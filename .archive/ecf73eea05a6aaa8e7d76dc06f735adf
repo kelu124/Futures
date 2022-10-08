@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<!--
+
+
+           .d88888b.             
+         .8P"     "9bd888b.      
+        .8P     .d8P"   `"988.   
+     .8888   .d8P"    ,     98.  
+   .8P" 88   8"    .d98b.    88  
+  .8P   88   8 .d8P"   "98b. 88  
+  88    88   8P"  `"8b.    "98.  
+  88.   88   8       8"8b.    88 
+   88    "98.8       8   88   "88
+    `8b.    "98.,  .d8   88    88
+    88 "98b.   .d8P" 8   88   d8"
+    88    "98bP"    .8   88 .d8" 
+    "8b     `    .d8P"   8888"   
+     "88b.,   .d8P"     d8"      
+       "9888P98b.     .d8"       
+               "988888P"         
+
+
+  Solve Impossible Problems
+  openai.com/careers
+
+
+-->
+<html lang="en">
+<head>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-71156606-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-71156606-1');
+  </script>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>DALL·E 2</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <link rel="stylesheet" type="text/css" href="https://openai.com/assets/styles/all.css?v=f68ef676db" />
+  <style>:root { --bg: 0,0,0; --fg: 255,255,255;}.hero { position: absolute; width: 100%; height: 100%; top: 0; left: 0; z-index: -1; pointer-events: none; overflow: hidden; padding: 12.5vw; /* 1/2 width of image */ opacity: 0.875;}@media (min-width: 800px) { .hero { padding: 100px; /* 1/2 width of image */ }}.hero-image { width: min(25vw, 200px); position: absolute; transform: translate3d(-50%,-50%,0); opacity: 0; -webkit-transition: opacity 1000ms; -moz-transition: opacity 1000ms; -o-transition: opacity 1000ms; transition: opacity 1000ms; box-shadow: 0 0 25px rgba(0,0,0,30%);}.hero-image.is-animated { opacity: 1; -webkit-transition: opacity 375ms; -moz-transition: opacity 375ms; -o-transition: opacity 375ms; transition: opacity 375ms;}#demos { --bg: 255,255,255; --fg: 0,0,0; background-color: #fff; color: #000;}#research { --bg: 10,10,10; background-color: #111;}#safety { --bg: 255,255,255; --fg: 0,0,0; background-color: #fff; color: #000;}.header-button { position: relative;}.header-button:after { content: ''; display: block; position: absolute; left: 0; top: 0; width: 5px; height: 100%;}.header-button:nth-of-type(1):after { background-color: #ff6;}.header-button:nth-of-type(2):after { background-color: #42ffff;}.header-button:nth-of-type(3):after { background-color: #51da4c;}.header-button:nth-of-type(4):after { background-color: #ff6e3c;}.header-button:nth-of-type(5):after { background-color: #3c46ff;}.dall-e-signature#tombstone { height: 1.2rem; width: 6rem;}/*.dall-e-signature.glow > *:nth-child(1) { animation: glow 1.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0s infinite;}.dall-e-signature.glow > *:nth-child(2) { animation: glow 1.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.3s infinite;}.dall-e-signature.glow > *:nth-child(3) { animation: glow 1.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.6s infinite;}.dall-e-signature.glow > *:nth-child(4) { animation: glow 1.5s cubic-bezier(0.47, 0, 0.745, 0.715) 0.9s infinite;}.dall-e-signature.glow > *:nth-child(5) { animation: glow 1.5s cubic-bezier(0.47, 0, 0.745, 0.715) 1.2s infinite;}@keyframes glow { 0% { opacity: 1; } 50% { opacity: 0.75; } 100% { opacity: 1; }}*/.video-cover #de2-video-cover-wrap .fluidvids { /* reset video-cover fluidvids behavior */ visibility: visible; position: unset; top: unset; z-index: unset;}.video-trigger:hover { filter: brightness(70%);}.btn.icon, .btn[class^="icon-"]:before, .btn[class*=" icon-"]:before, .btn[class^="icon-"].right:after, .btn[class*=" icon-"].right:after, button.icon, button[class^="icon-"]:before, button[class*=" icon-"]:before, button[class^="icon-"].right:after, button[class*=" icon-"].right:after { vertical-align: -4px; /* manual adjust for buttons on this page */}#research img { image-rendering: pixelated;}.flickity-enabled { position: relative;}.flickity-enabled:focus { outline: none; }.flickity-viewport { overflow: hidden; position: relative; height: 100%;}.flickity-slider { position: absolute; width: 100%; height: 100%;}/* flickity draggable */.flickity-enabled.is-draggable { -webkit-tap-highlight-color: transparent; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none;}.flickity-enabled.is-draggable .flickity-viewport { cursor: move; cursor: -webkit-grab; cursor: grab;}.flickity-enabled.is-draggable .flickity-viewport.is-pointer-down { cursor: -webkit-grabbing; cursor: grabbing;}/* flickity page dots */.flickity-page-dots { position: absolute; width: 100%; bottom: -0.56em; transform: translate(0px, 100%); padding: 0; margin: 0; list-style: none; text-align: center; line-height: 0;}.inpaintingInput .flickity-page-dots { top: -0.56em; transform: translate(0px, -100%); bottom: unset;}.flickity-page-dots .dot:hover { opacity: 0.2;}.flickity-page-dots .dot.is-selected { opacity: 1;}.flickity-page-dots .dot { display: inline-block; width: 6px; height: 6px; margin: 0 3px; background: #000; border-radius: 50%; opacity: 0.1; cursor: pointer;}.thumbnails .img-wrap { cursor: pointer;}.thumbnails .img-wrap:hover { opacity: 0.8;}.thumbnails .is-selected .img-wrap:hover { opacity: 1;}.thumbnails .is-selected .img-wrap:after { position: absolute; content: ''; width: 100%; height: 100%; top: 0; left: 0; z-index: 1; pointer-events: none; border: 2px inset rgba(0,0,0,1);}.btn-custom-light { background-color: rgba(255,255,255,0.8);}.btn-custom-light:hover { background-color: rgba(255,255,255,0.9) !important;}#demo-text2im .faded-xxlight:not(:hover) { opacity: 0.2 !important;}#login { display: block;}</style>
+
+  <script type="text/javascript">document.documentElement.className = 'js';</script>
+  <link rel="icon" type="image/svg+xml" href="https://openai.com/assets/images/favicon.svg?v=f68ef676db">
+  <link rel="mask-icon" href="https://openai.com/assets/images/mask-icon.svg?v=f68ef676db" color="#000000">
+  <meta name="description" content="DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language." />
+    <link rel="icon" href="https://openai.com/content/images/size/w256h256/2020/09/icon-1.png" type="image/png" />
+    <link rel="canonical" href="https://openai.com/dall-e-2/" />
+    <meta name="referrer" content="no-referrer-when-downgrade" />
+    
+    <meta property="og:site_name" content="OpenAI" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="DALL·E 2" />
+    <meta property="og:description" content="DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language." />
+    <meta property="og:url" content="https://openai.com/dall-e-2/" />
+    <meta property="og:image" content="https://openai.com/content/images/2022/04/dall-e-2-og.jpg" />
+    <meta property="article:modified_time" content="2022-04-14T16:00:11.000Z" />
+    <meta property="article:tag" content="Research" />
+    <meta property="article:tag" content="Multimodal" />
+    
+    <meta property="article:publisher" content="https://www.facebook.com/openai.research" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="DALL·E 2" />
+    <meta name="twitter:description" content="DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language." />
+    <meta name="twitter:url" content="https://openai.com/dall-e-2/" />
+    <meta name="twitter:image" content="https://openai.com/content/images/2022/04/dall-e-2-og.jpg" />
+    <meta name="twitter:label1" content="Written by" />
+    <meta name="twitter:data1" content="OpenAI" />
+    <meta name="twitter:label2" content="Filed under" />
+    <meta name="twitter:data2" content="Research, Multimodal" />
+    <meta name="twitter:site" content="@openai" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="720" />
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "OpenAI",
+        "url": "https://openai.com/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://openai.com/content/images/2022/05/openai-avatar.png",
+            "width": 60,
+            "height": 60
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": "OpenAI",
+        "sameAs": []
+    },
+    "headline": "DALL·E 2",
+    "url": "https://openai.com/dall-e-2/",
+    "dateModified": "2022-04-14T16:00:11.000Z",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://openai.com/content/images/2022/04/dall-e-2-og.jpg",
+        "width": 1200,
+        "height": 720
+    },
+    "keywords": "Research, Multimodal",
+    "description": "DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language.",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://openai.com/"
+    }
+}
+    </script>
+
+    <meta name="generator" content="Ghost 5.17" />
+    <link rel="alternate" type="application/rss+xml" title="OpenAI" href="https://openai.com/blog/rss/" />
+    <script defer src="https://cdn.jsdelivr.net/ghost/portal@~2.14/umd/portal.min.js" data-ghost="https://openai.com/" data-key="23f7e2ddba37b787ce1ea90e77" data-api="https://openaidev.ghost.io/ghost/api/content/" crossorigin="anonymous"></script><style id="gh-members-styles">.gh-post-upgrade-cta-content,
+.gh-post-upgrade-cta {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    width: 100%;
+    color: #ffffff;
+    font-size: 16px;
+}
+
+.gh-post-upgrade-cta-content {
+    border-radius: 8px;
+    padding: 40px 4vw;
+}
+
+.gh-post-upgrade-cta h2 {
+    color: #ffffff;
+    font-size: 28px;
+    letter-spacing: -0.2px;
+    margin: 0;
+    padding: 0;
+}
+
+.gh-post-upgrade-cta p {
+    margin: 20px 0 0;
+    padding: 0;
+}
+
+.gh-post-upgrade-cta small {
+    font-size: 16px;
+    letter-spacing: -0.2px;
+}
+
+.gh-post-upgrade-cta a {
+    color: #ffffff;
+    cursor: pointer;
+    font-weight: 500;
+    box-shadow: none;
+    text-decoration: underline;
+}
+
+.gh-post-upgrade-cta a:hover {
+    color: #ffffff;
+    opacity: 0.8;
+    box-shadow: none;
+    text-decoration: underline;
+}
+
+.gh-post-upgrade-cta a.gh-btn {
+    display: block;
+    background: #ffffff;
+    text-decoration: none;
+    margin: 28px 0 0;
+    padding: 8px 18px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.gh-post-upgrade-cta a.gh-btn:hover {
+    opacity: 0.92;
+}</style>
+    <script defer src="https://cdn.jsdelivr.net/ghost/sodo-search@~1.1/umd/sodo-search.min.js" data-key="23f7e2ddba37b787ce1ea90e77" data-styles="https://cdn.jsdelivr.net/ghost/sodo-search@~1.1/umd/main.css" data-sodo-search="https://openaidev.ghost.io/" crossorigin="anonymous"></script>
+    <script defer src="/public/cards.min.js?v=f68ef676db"></script>
+    <link rel="stylesheet" type="text/css" href="/public/cards.min.css?v=f68ef676db">
+    <script defer src="/public/member-attribution.min.js?v=f68ef676db"></script><style>:root {--ghost-accent-color: #15171A;}</style>
+</head>
+<body>
+  
+<div class="post" id="post-dall-e-2" data-active>
+<div class="position-absolute w-100" style="z-index:1">
+  <nav class="nav container" data-url="/blog/dall-e-2/">
+  <div class="nav-row row align-items-center">
+    <div class="d-none d-sm-block col-sm nav-symbol-wrap">
+      <a href="/" class="nav-symbol"><svg id="openai-symbol" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 51 51"><path d="M47.21,20.92a12.65,12.65,0,0,0-1.09-10.38A12.78,12.78,0,0,0,32.36,4.41,12.82,12.82,0,0,0,10.64,9a12.65,12.65,0,0,0-8.45,6.13,12.78,12.78,0,0,0,1.57,15A12.64,12.64,0,0,0,4.84,40.51a12.79,12.79,0,0,0,13.77,6.13,12.65,12.65,0,0,0,9.53,4.25A12.8,12.8,0,0,0,40.34,42a12.66,12.66,0,0,0,8.45-6.13A12.8,12.8,0,0,0,47.21,20.92ZM28.14,47.57a9.46,9.46,0,0,1-6.08-2.2l.3-.17,10.1-5.83a1.68,1.68,0,0,0,.83-1.44V23.69l4.27,2.47a.15.15,0,0,1,.08.11v11.8A9.52,9.52,0,0,1,28.14,47.57ZM7.72,38.85a9.45,9.45,0,0,1-1.13-6.37l.3.18L17,38.49a1.63,1.63,0,0,0,1.65,0L31,31.37V36.3a.17.17,0,0,1-.07.13L20.7,42.33A9.51,9.51,0,0,1,7.72,38.85Zm-2.66-22a9.48,9.48,0,0,1,5-4.17v12a1.62,1.62,0,0,0,.82,1.43L23.17,33.2,18.9,35.67a.16.16,0,0,1-.15,0L8.54,29.78A9.52,9.52,0,0,1,5.06,16.8ZM40.14,25,27.81,17.84l4.26-2.46a.16.16,0,0,1,.15,0l10.21,5.9A9.5,9.5,0,0,1,41,38.41v-12A1.67,1.67,0,0,0,40.14,25Zm4.25-6.39-.3-.18L34,12.55a1.64,1.64,0,0,0-1.66,0L20,19.67V14.74a.14.14,0,0,1,.06-.13L30.27,8.72a9.51,9.51,0,0,1,14.12,9.85ZM17.67,27.35,13.4,24.89a.17.17,0,0,1-.08-.12V13a9.51,9.51,0,0,1,15.59-7.3l-.3.17-10.1,5.83a1.68,1.68,0,0,0-.83,1.44Zm2.32-5,5.5-3.17L31,22.35v6.34l-5.49,3.17L20,28.69Z"/></svg></a>
+    </div>
+    <div class="col col-sm-auto">
+      <ul class="d-flex flex-row align-items-center justify-content-between small-caps">
+        <div class="d-sm-none nav-symbol-wrap">
+          <a href="/" class="nav-symbol"><svg id="openai-symbol" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 51 51"><path d="M47.21,20.92a12.65,12.65,0,0,0-1.09-10.38A12.78,12.78,0,0,0,32.36,4.41,12.82,12.82,0,0,0,10.64,9a12.65,12.65,0,0,0-8.45,6.13,12.78,12.78,0,0,0,1.57,15A12.64,12.64,0,0,0,4.84,40.51a12.79,12.79,0,0,0,13.77,6.13,12.65,12.65,0,0,0,9.53,4.25A12.8,12.8,0,0,0,40.34,42a12.66,12.66,0,0,0,8.45-6.13A12.8,12.8,0,0,0,47.21,20.92ZM28.14,47.57a9.46,9.46,0,0,1-6.08-2.2l.3-.17,10.1-5.83a1.68,1.68,0,0,0,.83-1.44V23.69l4.27,2.47a.15.15,0,0,1,.08.11v11.8A9.52,9.52,0,0,1,28.14,47.57ZM7.72,38.85a9.45,9.45,0,0,1-1.13-6.37l.3.18L17,38.49a1.63,1.63,0,0,0,1.65,0L31,31.37V36.3a.17.17,0,0,1-.07.13L20.7,42.33A9.51,9.51,0,0,1,7.72,38.85Zm-2.66-22a9.48,9.48,0,0,1,5-4.17v12a1.62,1.62,0,0,0,.82,1.43L23.17,33.2,18.9,35.67a.16.16,0,0,1-.15,0L8.54,29.78A9.52,9.52,0,0,1,5.06,16.8ZM40.14,25,27.81,17.84l4.26-2.46a.16.16,0,0,1,.15,0l10.21,5.9A9.5,9.5,0,0,1,41,38.41v-12A1.67,1.67,0,0,0,40.14,25Zm4.25-6.39-.3-.18L34,12.55a1.64,1.64,0,0,0-1.66,0L20,19.67V14.74a.14.14,0,0,1,.06-.13L30.27,8.72a9.51,9.51,0,0,1,14.12,9.85ZM17.67,27.35,13.4,24.89a.17.17,0,0,1-.08-.12V13a9.51,9.51,0,0,1,15.59-7.3l-.3.17-10.1,5.83a1.68,1.68,0,0,0-.83,1.44Zm2.32-5,5.5-3.17L31,22.35v6.34l-5.49,3.17L20,28.69Z"/></svg></a>
+        </div>
+                    
+          <li class="ml-sm-1.75" style="margin-top:0.5px"><a class="nav-link " href="/api/" data-slug="api">API</a></li>
+          
+          <li class="ml-sm-1.75" style="margin-top:0.5px"><a class="nav-link " href="/research/" data-slug="research">Research</a></li>
+          
+          <li class="ml-sm-1.75" style="margin-top:0.5px"><a class="nav-link " href="/blog/" data-slug="blog">Blog</a></li>
+          
+          <li class="ml-sm-1.75" style="margin-top:0.5px"><a class="nav-link " href="/about/" data-slug="about">About</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+
+<div class="container" id="login"> <div class="text-right mt-0.25"> <a href="https://labs.openai.com/auth/login" class="small-caps mr-0.5">Log in</a> <a href="https://labs.openai.com/signup" class="btn btn-padded btn-dark btn-circle right">Sign up</a> </div> </div></div><div class="pt-9 pb-6 position-relative"> <div class="container"> <div class="mb-4"> <svg fill="none" viewBox="0 0 417 69" xmlns="http://www.w3.org/2000/svg"><g><path d="m.355469 1.80938v4.09999l5.700001.50001 1.7 1.4v55.10002l-1.7 1.4-5.700001.5v4.1h24.700031c10.1 0 16.3-1.2 21.6-4.3 10-5.8 15.4-16.1 15.4-29.3 0-21.2-13.5-33.50002-37-33.50002zm16.400031 4.6h7.9c18.2 0 27.1 9.50002 27.1 28.70002 0 19.6-8.9 29.2-27.1 29.2h-7.9z"/><path d="m91.0805 1.00938-23.4 62.60002-5.8 1.2v4.1h19.6v-4.1l-6.5-.5-1-1.4 7.1-19.1h23.5995l7.2 19.1-.7 1.4-6.2.5v4.1h22.7v-4.1l-6-1.2-23.9995-62.60002zm1.6 10.50002 10.2995 27.7h-20.1995z"/><path d="m129.148 68.9094h47.9v-18.2h-5.2l-1.7 12-1.4 1.6h-22.5v-56.50002l1.6-1.4 5.7-.50001v-4.09999h-24.4v4.09999l6.4.50001 1.7 1.4v55.10002l-1.7 1.4-6.4.5z"/><path d="m181.101 68.9094h47.9v-18.2h-5.2l-1.7 12-1.4 1.6h-22.5v-56.50002l1.6-1.4 5.7-.50001v-4.09999h-24.4v4.09999l6.4.50001 1.7 1.4v55.10002l-1.7 1.4-6.4.5z"/><path d="m244.554 29.0094c-3.6 0-6.5 2.8-6.5 6.4 0 3.5 2.9 6.3 6.4 6.3s6.3-2.8 6.3-6.3-2.8-6.4-6.2-6.4z"/><path d="m261.684 68.9094h51.5v-16.3h-5.2l-1.7 10.1-1.4 1.6h-26.8v-28h16.4l1.4 1.5 1 7.2h4.7v-22h-4.7l-1 7.3-1.4 1.4h-16.4v-25.30002h23.1l1.4 1.5 1.4 8.50002h5.6v-14.60002h-47.9v4.09999l5.7.50001 1.7 1.4v55.10002l-1.7 1.4-5.7.5z"/><path d="m380.101 61.0094c13.7-11.1 16.3-13.3 20.8-17.8 9.5-9.3 13.4-16.4 13.4-24.1 0-11.10003-8.3-18.500025-20.7-18.500025-11.7 0-21.3 6.400005-21.3 14.200025 0 3.3 2.2 5.5 5.5 5.5 1.7 0 3.1-.4 4.6-1.5v-10.70003c3.2-1.69999 5.7-2.39999 8.9-2.39999 8.1 0 13.3 5.60002 13.3 14.30002 0 8.4-3.8 15.2-13.9 25-4.6 4.5-9.4 8.5-20.5 17.6v6.3h46.3v-16.4h-4.5l-1.8 8.5z"/></g></svg> <h1 class="sr-only">DALL·E 2</h1> </div> <div class="h1 mb-4"><p>DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language.</p></div> <ul class="header-buttons"> <li class="header-button"> <a href="https://labs.openai.com/auth/signup" class="pl-1 py-5/12 btn icon-external font-xsmall ">Sign up</a> </li> <li class="header-button"> <a href="#demos" class="pl-1 py-5/12 btn icon-down font-xsmall ">Explore</a> </li> <li class="header-button"> <a href="#" class="pl-1 py-5/12 btn icon-play font-xsmall js-watch-video">Watch Video</a> </li> <li class="header-button"> <a href="https://arxiv.org/abs/2204.06125" class="pl-1 py-5/12 btn icon-paper font-xsmall ">View Research</a> </li> <li class="header-button"> <a href="https://www.instagram.com/openaidalle" class="pl-1 py-5/12 btn icon-instagram font-xsmall ">Follow on Instagram</a> </li> </ul> </div> <div class="hero hero-header"> <div class="position-relative w-100 h-100"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/0.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/1.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/2.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/3.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/4.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/5.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/6.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/7.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/8.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/9.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/10.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/11.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/12.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/13.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/14.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/15.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/16.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/17.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/18.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/19.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/20.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/21.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/22.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/23.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/24.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/25.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/26.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/27.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/28.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/29.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/30.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/31.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/32.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/33.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/34.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/35.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/36.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/37.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/38.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/39.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/40.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/41.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/42.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/43.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/44.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/45.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/46.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/47.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/48.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/49.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/50.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/51.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/52.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/53.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/54.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/55.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/56.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/57.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/58.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/59.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/60.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/61.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/62.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/63.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/64.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/65.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/66.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/67.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/68.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/69.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/70.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/71.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/72.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/73.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/74.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/75.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/76.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/77.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/78.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/79.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/80.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/81.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/82.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/83.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/84.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/85.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/86.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/87.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/88.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/89.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/90.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/91.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/92.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/93.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/94.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/95.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/96.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/97.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/98.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/99.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/100.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/101.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/102.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/103.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/104.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/105.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/106.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/107.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/108.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/109.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/110.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/111.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/112.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/113.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/114.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/115.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/116.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/117.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/118.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/119.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/120.jpg"> </div> </div></div><div id="demos" class="pt-6 pb-4"><div class="container"> <div class="mb-6"> <div class="xlarge-small max-width-wide mb-3"><p class="balance-text">DALL·E 2 can create original, realistic images and art from a text description. It can combine concepts, attributes, and styles.</p></div> <div id="demo-text2im"></div> </div> <div class="mb-6"> <div class="xlarge-small max-width-wide mb-3"><p>DALL·E 2 can can expand images beyond what's in the original canvas, creating expansive new compositions.</p></div> <div id="demo-outpainting"></div> </div> <div class="mb-6"> <div class="xlarge-small max-width-wide mb-3"><p>DALL·E 2 can make realistic edits to existing images from a natural language caption. It can add and remove elements while taking shadows, reflections, and textures into account.</p></div> <div id="demo-inpainting"></div> </div> <div class="mb-4"> <div class="xlarge-small max-width-wide mb-3"><p class="balance-text">DALL·E 2 can take an image and create different variations of it inspired by the original.</p></div> <div id="demo-variations"></div> </div></div></div><div id="research" class="pt-6 pb-6"><div class="container"> <div class="xlarge-small max-width-wide mb-4"><p>DALL·E 2 has learned the relationship between images and the text used to describe them. It uses a process called “diffusion,” which starts with a pattern of random dots and gradually alters that pattern towards an image when it recognizes specific aspects of that image.</p></div> <div class="mb-6"> <div class="video-cover bg-fg-5" style="max-height:56.25vw"> <a href="https://player.vimeo.com/video/692375454" data-target="de2-video" class="video-trigger js-video-trigger no-style aspect-16/9 bg-cover js-lazy" data-src="https://cdn.openai.com/dall-e-2/draft-20220401a/dall-e-2-poster.jpg"></a> <div id="de2-video-play" class="position-absolute text-shadowed pl-0.75 pl-md-1.5 pb-0.75 pb-md-1.5" style="pointer-events:none;bottom:0;left:0"> <span class="icon line-height-1" style="font-size:5rem">play</span> </div> <iframe id="de2-video" src="https://player.vimeo.com/video/692375454" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> </div> <div class="medium-small-copy mt-0.5">DALL·E 2 Explained&ensp;2:47</div> </div> <div class="xlarge-small max-width-wide mb-5 content no-col"><p>In January 2021, OpenAI introduced <a href="https://openai.com/blog/dall-e/">DALL·E</a>. One year later, our newest system, DALL·E 2, generates more realistic and accurate images with 4x greater resolution.</p></div> <div class="row mb-6 medium-small-copy"> <div class="col-12 col-md mb-3 mb-md-0.5"> <div class="position-relative"> <div class="position-absolute" style="top:-0.7rem;transform:translateY(-100%);">DALL·E 1</div> <div class="inset-border"> <div class="position-relative aspect-1/1 bg-fg-5"> <img data-src="https://cdn.openai.com/dall-e-2/assets/dall-e-1.jpg" class="js-lazy position-absolute trbl-center w-100"> </div> </div> </div> </div> <div class="col-12 col-md mb-0.5"> <div class="position-relative"> <div class="position-absolute" style="top:-0.7rem;transform:translateY(-100%);">DALL·E 2</div> <div class="inset-border"> <div class="position-relative aspect-1/1 bg-fg-5"> <img data-src="https://cdn.openai.com/dall-e-2/assets/dall-e-2.jpg" class="js-lazy position-absolute trbl-center w-100"> </div> </div> </div> </div> <div class="col-12 col-lg-3 col-xl-2"> <div class="hangpunc balance-text">a painting of a fox sitting in a field at sunrise in the style of Claude Monet”</div> </div> </div> <div class="xlarge-small max-width-wide mb-3"><p>DALL·E 2 is preferred over DALL·E 1 for its caption matching and photorealism when evaluators were asked to compare 1,000 image generations from each model.</p></div> <div class="row mb-1"> <div class="col-12 col-sm-6 col-md-5 col-lg-4 col-xl-3 mb-2"> <div class="h0 font-sans-serif font-normal mb-0.125" style="font-size:3.5rem">71.7%</div> <div class="medium-small-copy"><p>preferred for<br />caption matching</p></div> </div> <div class="col-12 col-sm-6 col-md-5 col-lg-4 col-xl-3 mb-2"> <div class="h0 font-sans-serif font-normal mb-0.125" style="font-size:3.5rem">88.8%</div> <div class="medium-small-copy"><p>preferred for<br />photorealism</p></div> </div> </div> <div class="mb-n0.5"> <a href="https://arxiv.org/abs/2204.06125" class="btn btn-padded btn-dark btn-circle font-xxsmall">View Research Paper</a> </div></div></div><div id="safety" class="pt-6 pb-6"><div class="container"> <div class="xlarge-small max-width-wide mb-4"><p>DALL·E 2 began as a research project and is now available in beta. Safety mitigations we have developed and continue to improve upon include:</p></div> <div class="row mb-2"> <div class="col-12 col-lg-4 mb-2"> <div class="row"> <div class="col-12 col-sm-4 col-md-3 col-lg-12 mb-lg-1"> <div class="inset-border"> <div class="bg-cover aspect-1/1 js-lazy" data-src="https://cdn.openai.com/dall-e-2/assets/safety-1.jpg"></div> </div> </div> <div class="col-12 col-sm-8 col-md-9 col-lg-12"> <div class="pr-md-0.5"> <div class="mt-0.5 mt-sm-0 font-bold mb-1/3">Preventing Harmful Generations</div> <div><p>We’ve limited the ability for DALL·E 2 to generate violent, hate, or adult images. By removing the most explicit content from the training data, we minimized DALL·E 2’s exposure to these concepts. We also used advanced techniques to prevent photorealistic generations of real individuals’ faces, including those of public figures.</p></div> </div> </div> </div> </div> <div class="col-12 col-lg-4 mb-2"> <div class="row"> <div class="col-12 col-sm-4 col-md-3 col-lg-12 mb-lg-1"> <div class="inset-border"> <div class="bg-cover aspect-1/1 js-lazy" data-src="https://cdn.openai.com/dall-e-2/assets/safety-2.jpg"></div> </div> </div> <div class="col-12 col-sm-8 col-md-9 col-lg-12"> <div class="pr-md-0.5"> <div class="mt-0.5 mt-sm-0 font-bold mb-1/3">Curbing Misuse</div> <div><p>Our content policy does not allow users to generate violent, adult, or political content, among other categories. We won’t generate images if our filters identify text prompts and image uploads that may violate our policies. We also have automated and human monitoring systems to guard against misuse.</p></div> </div> </div> </div> </div> <div class="col-12 col-lg-4 mb-2"> <div class="row"> <div class="col-12 col-sm-4 col-md-3 col-lg-12 mb-lg-1"> <div class="inset-border"> <div class="bg-cover aspect-1/1 js-lazy" data-src="https://cdn.openai.com/dall-e-2/assets/safety-3.jpg"></div> </div> </div> <div class="col-12 col-sm-8 col-md-9 col-lg-12"> <div class="pr-md-0.5"> <div class="mt-0.5 mt-sm-0 font-bold mb-1/3">Phased Deployment Based on Learning</div> <div><p>Learning from real-world use is an important part of developing and deploying AI responsibly. We began by previewing DALL·E 2 to a limited number of trusted users. As we learned more about the technology’s capabilities and limitations, and gained confidence in our safety systems, we slowly added more users and made DALL·E available in beta in July 2022.</p></div> </div> </div> </div> </div> </div> <div class="btns mb-n0.5"> <a href="https://labs.openai.com/auth/signup" class="btn btn-padded btn-dark btn-circle font-xxsmall">Sign up</a> <a href="https://labs.openai.com/policies/content-policy" class="btn btn-padded btn-circle font-xxsmall">Content Policy&nbsp;</a> <a href="https://github.com/openai/dalle-2-preview/blob/main/system-card.md" class="btn btn-padded btn-circle font-xxsmall">Risks and Limitations&nbsp;</a> </div></div></div><div id="why" class="py-6 mb-n6 position-relative"> <div class="container"> <div class="xlarge-small max-width-wide mb-2"><p>Our hope is that DALL·E 2 will empower people to express themselves creatively. DALL·E 2 also helps us understand how advanced AI systems see and understand our world, which is critical to our mission of creating AI that benefits humanity.</p></div> <div class="mb-6"> <svg id="tombstone" class="dall-e-signature glow" viewBox="0 0 80 16" xmlns="http://www.w3.org/2000/svg"><path d="m0 0h16v16h-16z" fill="#ff6"/><path d="m16 0h16v16h-16z" fill="#42ffff"/><path d="m32 0h16v16h-16z" fill="#51da4c"/><path d="m48 0h16v16h-16z" fill="#ff6e3c"/><path d="m64 0h16v16h-16z" fill="#3c46ff"/></svg> </div> <div class="small-copy max-width-wide" id="contributions"> <div class="mb-1"> <div class="font-bold">Research Advancements</div> <div>Aditya Ramesh, Prafulla Dhariwal, Alex Nichol, Casey Chu, Mark&nbsp;Chen</div> </div> <div class="mb-1"> <div class="font-bold">Engineering, Design, Product, and Prototyping</div> <div>Jeff Belgum, Dave Cummings, Jonathan Gordon, Chris Hallacy, Shawn Jain, Joanne Jang, Fraser Kelton, Vishal Kuo, Joel Lehman, Rachel Lim, Bianca Martin, Evan Morikawa, Rajeev Nayak, Glenn Powell, Krijn Rijshouwer, David Schnurr, Maddie Simens, Kenneth Stanley, Felipe Such, Chelsea Voss, Justin&nbsp;Jay&nbsp;Wang</div> </div> <div class="mb-1"> <div class="font-bold">Comms, Policy, Legal, Ops, Safety, and Security</div> <div>Steven Adler, Lama Ahmad, Miles Brundage, Kevin Button, Che Chang, Fotis Chantzis, Derek Chen, Frances Choi, Steve Dowling, Elie Georges, Shino Jomoto, Aris Konstantinidis, Gretchen Krueger, Andrew Mayne, Pamela Mishkin, Bob Rotsted, Natalie Summers, Dave Willner, Hannah&nbsp;Wong</div> </div> <div class="mb-1"> <div class="font-bold">Acknowledgments</div> <div>Thanks to those who helped with and provided feedback on this release: Sandhini Agarwal, Sam Altman, Chester Cho, Peter Hoeschele, Jacob Jackson, Jong Wook Kim, Matt Knight, Jason Kwon, Anna Makanju, Katie Mayer, Bob McGrew, Luke Miller, Mira Murati, Adam Nace, Hyeonwoo Noh, Cullen O’Keefe, Long Ouyang, Michael Petrov, Henrique Ponde de Oliveira Pinto, Alec Radford, Girish Sastry, Pranav Shyam, Aravind Srinivas, Ilya Sutskever, Preston Tuggle, Arun Vijayvergiya, Peter&nbsp;Welinder</div> </div> </div> </div> <div class="hero hero-footer"> <div class="position-relative w-100 h-100"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/0.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/1.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/2.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/3.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/4.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/5.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/6.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/7.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/8.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/9.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/10.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/11.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/12.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/13.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/14.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/15.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/16.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/17.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/18.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/19.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/20.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/21.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/22.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/23.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/24.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/25.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/26.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/27.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/28.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/29.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/30.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/31.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/32.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/33.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/34.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/35.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/36.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/37.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/38.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/39.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/40.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/41.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/42.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/43.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/44.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/45.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/46.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/47.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/48.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/49.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/50.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/51.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/52.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/53.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/54.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/55.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/56.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/57.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/58.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/59.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/60.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/61.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/62.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/63.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/64.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/65.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/66.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/67.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/68.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/69.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/70.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/71.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/72.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/73.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/74.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/75.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/76.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/77.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/78.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/79.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/80.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/81.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/82.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/83.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/84.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/85.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/86.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/87.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/88.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/89.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/90.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/91.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/92.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/93.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/94.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/95.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/96.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/97.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/98.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/99.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/100.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/101.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/102.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/103.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/104.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/105.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/106.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/107.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/108.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/109.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/110.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/111.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/112.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/113.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/114.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/115.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/116.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/117.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/118.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/119.jpg"> <img class="hero-image" data-src="https://cdn.openai.com/dall-e-2/assets/heroes/120.jpg"> </div> </div></div>
+
+
+</div>
+
+
+  
+
+<footer class="footer container medium-xsmall-copy line-height-1.6">
+  <a href="/" class="d-block footer-logo mb-1.75" style="margin-left:-1px"><svg id="openai-horizontal" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 936 232"><path d="M667.21,90.58c-13.76,0-23.58,4.7-28.4,13.6L636.22,109V92.9H613.83v97.86h23.55V132.54c0-13.91,7.56-21.89,20.73-21.89,12.56,0,19.76,7.77,19.76,21.31v58.8h23.56v-63C701.43,104.46,688.64,90.58,667.21,90.58ZM553,90.58c-27.79,0-45,17.34-45,45.25v13.74c0,26.84,17.41,43.51,45.44,43.51,18.75,0,31.89-6.87,40.16-21L579,163.68c-6.11,8.15-15.87,13.2-25.55,13.2-14.19,0-22.66-8.76-22.66-23.44v-3.89h65.73V133.32c0-26-17.07-42.74-43.5-42.74Zm22.09,43.15H530.71v-2.35c0-16.11,7.91-25,22.27-25,13.83,0,22.09,8.76,22.09,23.44ZM935.31,76.79V58.07H853.85V76.79h28.56V172H853.85v18.72h81.46V172H906.74V76.79ZM317.65,55.37c-36.38,0-59,22.67-59,59.18v19.74c0,36.5,22.61,59.18,59,59.18s59-22.68,59-59.18V114.55C376.64,78,354,55.37,317.65,55.37Zm34.66,80.27c0,24.24-12.63,38.14-34.66,38.14S283,159.88,283,135.64V113.19c0-24.24,12.64-38.14,34.66-38.14s34.66,13.9,34.66,38.14Zm98.31-45.06c-12.36,0-23.06,5.12-28.64,13.69l-2.53,3.9V92.9h-22.4V224.43h23.56V176.79l2.52,3.74c5.3,7.86,15.65,12.55,27.69,12.55,20.31,0,40.8-13.27,40.8-42.93V133.51c0-21.37-12.63-42.93-41-42.93ZM468.06,149c0,15.77-9.2,25.57-24,25.57-13.8,0-23.43-10.36-23.43-25.18V134.67c0-15,9.71-25.56,23.63-25.56,14.69,0,23.82,9.79,23.82,25.56ZM766.53,58.08,719,190.76h23.93l9.1-28.44h54.64l.09.28,9,28.16h23.92L792.07,58.07Zm-8.66,85.53,21.44-67.08,21.22,67.08Z"/><path d="M212.59,95.12a57.27,57.27,0,0,0-4.92-47.05,58,58,0,0,0-62.4-27.79A57.29,57.29,0,0,0,102.06,1,57.94,57.94,0,0,0,46.79,41.14,57.31,57.31,0,0,0,8.5,68.93a58,58,0,0,0,7.13,67.94,57.31,57.31,0,0,0,4.92,47A58,58,0,0,0,83,211.72,57.31,57.31,0,0,0,126.16,231a57.94,57.94,0,0,0,55.27-40.14,57.3,57.3,0,0,0,38.28-27.79A57.92,57.92,0,0,0,212.59,95.12ZM126.16,216a42.93,42.93,0,0,1-27.58-10c.34-.19,1-.52,1.38-.77l45.8-26.44a7.43,7.43,0,0,0,3.76-6.51V107.7l19.35,11.17a.67.67,0,0,1,.38.54v53.45A43.14,43.14,0,0,1,126.16,216ZM33.57,176.46a43,43,0,0,1-5.15-28.88c.34.21.94.57,1.36.81l45.81,26.45a7.44,7.44,0,0,0,7.52,0L139,142.52v22.34a.67.67,0,0,1-.27.6L92.43,192.18a43.14,43.14,0,0,1-58.86-15.77Zm-12-100A42.92,42.92,0,0,1,44,57.56V112a7.45,7.45,0,0,0,3.76,6.51l55.9,32.28L84.24,162a.68.68,0,0,1-.65.06L37.3,135.33A43.13,43.13,0,0,1,21.53,76.46Zm159,37-55.9-32.28L144,70a.69.69,0,0,1,.65-.06l46.29,26.73a43.1,43.1,0,0,1-6.66,77.76V120a7.44,7.44,0,0,0-3.74-6.54Zm19.27-29c-.34-.21-.94-.57-1.36-.81L152.67,57.2a7.44,7.44,0,0,0-7.52,0L89.25,89.47V67.14a.73.73,0,0,1,.28-.6l46.29-26.72a43.1,43.1,0,0,1,64,44.65ZM78.7,124.3,59.34,113.13a.73.73,0,0,1-.37-.54V59.14A43.09,43.09,0,0,1,129.64,26c-.34.19-.95.52-1.38.77L82.46,53.21a7.45,7.45,0,0,0-3.76,6.51Zm10.51-22.67,24.9-14.38L139,101.63v28.74L114.1,144.75,89.2,130.37Z"/></svg></a>
+  <div class="row mb-1">
+    
+      <div class="col-6 col-lg">
+        <ul class="mb-2">
+          <div class="small-caps mb-1/3">Featured</div>
+          
+            <li><a class="fade" href="/dall-e-2/">DALL·E 2</a></li>
+          
+            <li><a class="fade" href="/alignment/">Alignment</a></li>
+          
+            <li><a class="fade" href="/blog/instruction-following/">Instruction Following</a></li>
+          
+            <li><a class="fade" href="/blog/summarizing-books/">Summarizing Books</a></li>
+          
+            <li><a class="fade" href="/blog/openai-codex/">OpenAI Codex</a></li>
+          
+            <li><a class="fade" href="/fund/">Startup Fund</a></li>
+          
+        </ul>
+      </div>
+    
+      <div class="col-6 col-lg">
+        <ul class="mb-2">
+          <div class="small-caps mb-1/3">API</div>
+          
+            <li><a class="fade" href="/api/">Overview</a></li>
+          
+            <li><a class="fade" href="/api/pricing/">Pricing</a></li>
+          
+            <li><a class="fade" href="/api/examples/">Examples</a></li>
+          
+            <li><a class="fade" href="/api/docs/">Docs</a></li>
+          
+            <li><a class="fade" href="/api/policies/">Terms & Policies</a></li>
+          
+            <li><a class="fade" href="https://status.openai.com/">Status</a></li>
+          
+            <li><a class="fade" href="/api/login/">Log in</a></li>
+          
+        </ul>
+      </div>
+    
+      <div class="col-6 col-lg">
+        <ul class="mb-2">
+          <div class="small-caps mb-1/3">Blog</div>
+          
+            <li><a class="fade" href="/blog/">Index</a></li>
+          
+            <li><a class="fade" href="/blog/tags/research/">Research</a></li>
+          
+            <li><a class="fade" href="/blog/tags/announcements/">Announcements</a></li>
+          
+            <li><a class="fade" href="/blog/tags/events/">Events</a></li>
+          
+            <li><a class="fade" href="/blog/tags/milestones/">Milestones</a></li>
+          
+        </ul>
+      </div>
+    
+      <div class="col-6 col-lg">
+        <ul class="mb-2">
+          <div class="small-caps mb-1/3">Information</div>
+          
+            <li><a class="fade" href="/about/">About Us</a></li>
+          
+            <li><a class="fade" href="/charter/">Our Charter</a></li>
+          
+            <li><a class="fade" href="/research/">Our Research</a></li>
+          
+            <li><a class="fade" href="/publications/">Publications</a></li>
+          
+            <li><a class="fade" href="/newsroom/">Newsroom</a></li>
+          
+            <li><a class="fade" href="/careers/">Careers</a></li>
+          
+        </ul>
+      </div>
+    
+  </div>
+  <div class="row align-items-center mb-0.125">
+    <div class="col-12 col-md mb-0.5">
+      <a class="fade" style="margin-top:1px" href="/">OpenAI &copy; 2015–2022</a>&emsp;<wbr><a class="fade" style="margin-top:1px" href="/privacy/">Privacy&nbsp;Policy</a>&emsp;<wbr><a class="fade" style="margin-top:1px" href="/terms/">Terms&nbsp;of&nbsp;Use</a>
+    </div>
+    <div class="col-12 col-md-4 col-lg-4 col-xl-3 mb-0.5">
+      <div class="d-block d-md-none" style="font-size:1.333333rem"> <a class="fade icon" href="https://twitter.com/openai">twitter</a> &ensp; <a class="fade icon" href="https://youtube.com/openai">youtube</a> &ensp; <a class="fade icon" href="https://github.com/openai/">github</a> &ensp; <a class="fade icon" href="https://soundcloud.com/openai_audio">soundcloud</a> &ensp; <a class="fade icon" href="https://linkedin.com/company/openai">linkedin</a> &ensp; <a class="fade icon" href="https://facebook.com/openai.research/">facebook</a> </div> <div class="d-none d-md-block" style="font-size:1.166667rem"> <div class="d-flex justify-content-between"> <a class="fade icon" href="https://twitter.com/openai">twitter</a> &ensp; <a class="fade icon" href="https://youtube.com/openai">youtube</a> &ensp; <a class="fade icon" href="https://github.com/openai/">github</a> &ensp; <a class="fade icon" href="https://soundcloud.com/openai_audio">soundcloud</a> &ensp; <a class="fade icon" href="https://linkedin.com/company/openai">linkedin</a> &ensp; <a class="fade icon" href="https://facebook.com/openai.research/">facebook</a> </div> </div>
+    </div>
+  </div>
+</footer>
+  <script type="text/javascript" src="https://openai.com/assets/scripts/main.js?v=f68ef676db"></script>
+  <script defer="defer" src="https://cdn.openai.com/dall-e-2/assets/main.ebcfa179.js"></script><script src="https://player.vimeo.com/api/player.js"></script><script>var initHero = function () { var headerHeroes = document.querySelectorAll('.hero-header .hero-image'); var headerHeroIndices = shuffle(Array.from(Array(headerHeroes.length).keys())); var hi = headerHeroIndices[0]; setInterval(function () { initImage(headerHeroes[headerHeroIndices[hi]]); hi = (hi < (headerHeroes.length - 1)) ? hi + 1 : 0; }, 750); var footerHeroes = document.querySelectorAll('.hero-footer .hero-image'); var footerHeroIndices = shuffle(Array.from(Array(footerHeroes.length).keys())); var fi = footerHeroIndices[0]; setTimeout(function () { setInterval(function () { initImage(footerHeroes[footerHeroIndices[fi]]); fi = (fi < (footerHeroes.length - 1)) ? fi + 1 : 0; }, 750); }, 10000);};var shuffle = function (array) { var currentIndex = array.length; var temporaryValue; var randomIndex; while (0 !== currentIndex) { randomIndex = Math.floor(Math.random() * currentIndex); currentIndex -= 1; temporaryValue = array[currentIndex]; array[currentIndex] = array[randomIndex]; array[randomIndex] = temporaryValue; } return array;};window.z = 1;var initImage = function (el) { if (!el.src) { el.src = el.getAttribute('data-src'); el.addEventListener('load', function () { animateImage(this); }); } else { animateImage(el); }};var animateImage = function (el) { setRandomPosition(el); el.style.zIndex = window.z; el.classList.add('is-animated'); setTimeout(function () { el.classList.remove('is-animated'); }, 2000); window.z += 1;};var setRandomPosition = function (el) { var x = Math.random() * (100); var y = Math.random() * (100); el.style.left = x + '%'; el.style.top = y + '%';};var initVimeo = function () { var iframe = document.querySelector('iframe#de2-video'); var player = new Vimeo.Player(iframe); var trigger = document.querySelector('.js-video-trigger'); trigger.addEventListener('click', function (e) { e.preventDefault(); player.play(); }); var watchVideoLink = document.querySelector('.js-watch-video'); watchVideoLink.addEventListener('click', function (e) { e.preventDefault(); iframe.scrollIntoView({behavior: 'smooth'}); trigger.parentElement.classList.add('is-video-swapped'); player.play(); });};document.addEventListener('DOMContentLoaded', function () { initHero(); initVimeo();});</script>
+
+  
+</body>
+</html>

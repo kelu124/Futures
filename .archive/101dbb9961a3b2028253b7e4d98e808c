@@ -1,0 +1,252 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="bootstrap.min.css">
+<style>
+
+body {
+background-color: #111111;
+}
+
+h1, h2, h3 {
+opacity: 0.7;
+}
+
+.container {
+max-width: 960px;
+}
+
+.btn:focus,
+.btn:hover {
+filter: brightness(120%);
+}
+.btn-lg {
+background-color: #CE3F19;
+margin: 2rem 0;
+}
+
+td.best {
+color: #CE3F19;
+}
+
+a {
+text-decoration: none;
+color: #CE3F19;
+}
+a:hover {
+color: #b53816;
+}
+
+</style>
+<title>irchiver - your full-resolution personal web archive</title>
+</head>
+<body class="text-light">
+
+<nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+<div class="container-fluid">
+<a class="navbar-brand" href="#">irchiver</a>
+<div class="collapse navbar-collapse">
+<ul class="navbar-nav ml-auto">
+<li class="nav-item"><a class="nav-link" href="#demo">demo</a></li>
+<li class="nav-item"><a class="nav-link" href="#research">research</a></li>
+<li class="nav-item"><a class="nav-link" href="#software">software</a></li>
+<li class="nav-item"><a class="nav-link" href="#roadmap">roadmap</a></li>
+<li class="nav-item"><a class="nav-link" href="#license">license</a></li>
+</ul>
+</div>
+</div>
+</nav>
+
+<div class="container py-5">
+	<div class="row">
+		<div class="col text-center">
+			<img alt="irchiver" src="media/irchiver.svg" style="width: 10rem; height: 10rem;">
+		</div>
+	</div>
+	<div class="row">
+		<div class="col text-center">
+			<h1 class="display-2">irchiver</h1>
+			<h2 class="h3 py-2">your full-resolution personal web archive</h2>
+			<h2 class="fw-normal h6 py-2">automatic screenshots of everything you saw on the web, and full-text search for your browsing history</h2>
+			<a href="#software" class="btn text-light btn-lg text-center">get irchiver</a>
+		</div>
+	</div>
+</div>
+
+<div id="demo" class="container pb-5">
+	<div class="row">
+		<div class="col">
+			<video style="width: 100%; height: auto; display: block" poster="./media/poster.webp" controls>
+			<source src="./media/irchiver-demo.mp4" type="video/mp4">
+			Your browser does not support the video tag.
+			</video>
+		</div>
+	</div>
+</div>
+
+<div id="research" class="container py-3">
+	<div class="row">
+		<div class="col">
+			<h3>what's the research?</h3>
+			<p>almost everything from the outside world now comes to us through our web browsers. we see it, we forget it, but sometimes it leaves an impression. what would it be like if we could recall it at any time, just as we saw it?</p>
+			<p>even though the web is constantly changing, even though <a href="https://jeffhuang.com/designed_to_last/">web pages and entire hosting sites disappear</a>, you still get to keep what you saw with irchiver. seeing is keeping</p>
+			<p>irchiver aims to be your backup memory. just like how the internet has changed the way we think about knowledge, does having our memory on-demand change how we remember? irchiver is a long-term research project to study this question</p>
+		</div>
+	</div>
+</div>
+
+<div id="software" class="container py-3">
+	<div class="row">
+		<div class="col">
+			<h3>software</h3>
+			<p>
+				the irchiver software is available for free, and it currently runs only on Windows 8.1 or higher (but it has only been tested on Windows 10) with five popular web browsers: Chrome, Firefox, Edge, Brave, and Opera
+			</p>
+			<p>
+				MacOS is not supported, but may be possible with a browser extension that mirrors to a Windows computer; no development is planned for MacOS due to limited developer time and expertise, and the inherent challenges of finding techniques for cross-process window access that continue working long-term
+			</p>
+			<p>
+				irchiver does not use any network connectivity for your privacy. why would you want your browsing data stored on the cloud? irchiver saves your screenshots as webp files (and png files temporarily), and the text content in a plain text file, in a folder on your hard drive. you can view it using any file explorer, and do whatever you want with it
+			</p>
+			<p><a href="irchiver-0.2.0.msi" class="btn text-light btn-lg">Download</a></p>
+		</div>
+	</div>
+	<div class="row text-light">
+		<div class="col">
+			<table class="table text-light">
+				<thead>
+					<tr>
+						<th scope="col">product</th>
+						<th scope="col">when captured</th>
+						<th scope="col">stored</th>
+						<th scope="col">format</th>
+						<th scope="col">reproduction</th>
+						<th scope="col">platform</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<th scope="row">irchiver</th>
+						<td class="best">continuous, automatic</td>
+						<td class="best">local</td>
+						<td class="best">image, text</td>
+						<td class="best">what you saw</td>
+						<td>Windows, any browser</td>
+					</tr>
+					<tr>
+						<th scope="row">archive.org</th>
+						<td>occasional, automatic</td>
+						<td>cloud</td>
+						<td>webpage</td>
+						<td>only public view</td>
+						<td>web</td>
+					</tr>
+					<tr>
+						<th scope="row">archive.ph</th>
+						<td>manually initiated</td>
+						<td>cloud</td>
+						<td>webpage</td>
+						<td>only public view</td>
+						<td>web</td>
+					</tr>
+					<tr>
+						<th scope="row">ArchiveBox</th>
+						<td>manually initiated</td>
+						<td class="best">local</td>
+						<td>webpage</td>
+						<td>only public view</td>
+						<td class="best">any desktop</td>
+					</tr>
+					<tr>
+						<th scope="row">WebRecorder</th>
+						<td>manually initiated</td>
+						<td class="best">local</td>
+						<td>webpage</td>
+						<td>what you scroll</td>
+						<td>Chrome</td>
+					</tr>
+					<tr>
+						<th scope="row">taking a screenshot</th>
+						<td>manually initiated</td>
+						<td class="best">local</td>
+						<td>image</td>
+						<td class="best">what you saw</td>
+						<td class="best">any desktop</td>
+					</tr>
+					<tr>
+						<th scope="row">browser extensions</th>
+						<td>manually initiated</td>
+						<td class="best">local</td>
+						<td>varies</td>
+						<td>varies</td>
+						<td>varies</td>
+					</tr>
+					<tr>
+						<th scope="row">browser "Save as PDF"</th>
+						<td>manually initiated</td>
+						<td class="best">local</td>
+						<td>pdf</td>
+						<td>nearly what you saw</td>
+						<td>most browsers</td>
+					</tr>
+				</tbody>
+			</table>
+			<p>irchiver is the only way to reproduce what you actually saw with continuous automatic capture. other products either require manually initiating a capture each time, or can only capture stateless publicly-accessible pages. irchiver saves captures as images and plain text, as historically those formats have outlasted software code and cloud services</p>
+		</div>
+	</div>
+</div>
+
+<div id="roadmap" class="container py-3">
+	<div class="row">
+		<div class="col">
+			<h3>roadmap</h3>
+			<p>
+				this is the current roadmap for irchiver as of 2021-12-02, but to hear about releases, please <a href="https://docs.google.com/forms/d/e/1FAIpQLSeTCgnwF1gjrc1O8mfJ_5TmT_TLowFQ2DUhsollmqPG84pAFQ/viewform?usp=pp_url&entry.1299571007=Irchiver:+browser+history+search&entry.1760653896=irchiver+homepage">subscribe to be notified about updates</a>
+			</p>
+			<p>
+				<b>version 0.2</b>: 2x more efficient (cpu/memory performance-wise), while consuming 2x less space on disk; enable archiving options that are currently inactive in the context menu
+			</p>
+			<p>
+				<b>version 0.3</b>: better installer and more install options; notification tray icon indicator during capture; an additional 2x more efficient (cpu/memory performance-wise), and further reduction in space usage
+			</p>
+			<p>
+				<b>version 0.4</b>: API with support for python extensions/plugins, for example: automatic scrapbooks, highlight page changes, etc.; an additional 2x more efficient (cpu/memory performance-wise)
+			</p>
+			<p>
+				<b>version 0.5</b>: better search interface and a by-date browsing interface; partial-match text search; better text recognition in images (e.g. infographics, webcomics)
+			</p>
+		</div>
+	</div>
+</div>
+
+<div id="license" class="container py-3">
+	<div class="row">
+		<div class="col">
+			<h3>license and source</h3>
+			<p>
+				irchiver is licensed to you under the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license</a>, with the additional condition that it can only be used with the enthusiastic consent of the person using a computer it is installed on
+			</p>
+			<p>
+				while the indexer and search interface are <a href="https://github.com/brownhci/irchiver-backend">open source</a>, irchiver's capture software is not open source in the traditional meaning of the term, but rather it's source-verifiable, where you can <a href="media/source-verifiable-v0.1.4.mp4">watch the main executable file being created</a> and the SHA-256 hash generated for the executable so that you know the distributed executable is from the source code seen in the video
+			</p>
+			<p>
+				the capture software is not open source to make it harder to deploy the software without the user's knowledge, which can be done by modifying the source code to hide the notification tray icon and thus rendering the automatic background capture completely invisible
+			</p>
+			<p>
+				feel free to email me to request the capture software source code with an explanation what it will be used for and how it will be distributed, or for requests for other licenses
+			</p>
+		</div>
+	</div>
+</div>
+
+<footer class="py-3">
+	<div class="container text-right">
+		<p class="mb-0">by <a class="paper-link" href="https://jeffhuang.com/">Jeff Huang</a> from the <a href="https://hci.brown.edu/">Brown HCI</a> research group<br>
+		made with <font color="#CE3F19">&#9829;</font> in Providence</p>
+	</div>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,1402 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US"
+	prefix="og: https://ogp.me/ns#"  class="no-js">
+<head><style>img.lazy{min-height:1px}</style><link rel="preload" href="https://thewalrus.ca/wp-content/plugins/w3-total-cache/pub/js/lazyload.min.js" as="script">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="stylesheet" href="https://thewalrus.ca/wp-content/themes/hitmag-pro-child/fonts/font-faces.css">
+<script async src="//js-sec.indexww.com/ht/p/191969-38972089307961.js"></script>
+
+<script>
+    // create the Keywee Tracker tag
+    (function (w, d) {
+      w.kwa || (w.kwa = function () {
+        (w.kwa.q = w.kwa.q || []).push(arguments);
+      });
+      s = d.createElement('script');
+      s.src = '//cdn.keywee.co/dist/analytics.min.js';
+      s.async = true;
+      f = d.scripts[0];
+      f.parentNode.insertBefore(s, f);
+    })(window, document);
+
+    // initialize the Keywee Tracker
+    kwa('initialize',3171);
+  </script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-29232182-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-29232182-1', { 'anonymize_ip': true });
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '1090834961073306'); 
+fbq('track', 'PageView');
+</script>
+<noscript> <img class="lazy" height="1" width="1" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://www.facebook.com/tr?id=1090834961073306&ev=PageView&noscript=1"/></noscript>
+<!-- End Facebook Pixel Code -->
+<!-- Global site tag (gtag.js) - Google AdWords: 975936859 --> <script async src="https://www.googletagmanager.com/gtag/js?id=AW-975936859"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-975936859'); </script>  
+
+<!-- Event snippet for signups conversion page. Call gtag_report_conversion when someone clicks on the chosen link or button. -->
+<script> function gtag_report_conversion(url) { var callback = function () { if (typeof(url) != 'undefined') { window.location = url; } }; gtag('event', 'conversion', { 'send_to': 'AW-975936859/h6ObCP3814UBENu6rtED', 'event_callback': callback }); return false; } </script> 
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N4P92WG');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Darwin snowplow -->
+<script>
+       (function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[]; p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments) };p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1; n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","https://snowplowjs.darwin.cx/3.1.4/jt4gnhkl.js","snowplow")); 
+      </script>
+      <script>
+	snowplow('newTracker', 'sp', 'https://sp-collector-lb.darwin.cx', { appId: 'the-walrus-ca' });
+      snowplow('enableActivityTracking',{ 
+		minimumVisitLength: 30, 
+		heartbeatDelay: 10 
+	});
+	snowplow('trackPageView');
+	snowplow('enableLinkClickTracking');
+</script>
+
+
+
+<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>How Do You Make the Perfect Toy? | The Walrus</title>
+
+		<!-- All in One SEO 4.2.4 - aioseo.com -->
+		<meta name="description" content="Fads come and go, but how to create a toy that stands the test of time is the billion-dollar question" />
+		<meta name="robots" content="max-image-preview:large" />
+		<link rel="canonical" href="https://thewalrus.ca/how-do-you-make-the-perfect-toy/" />
+		<meta name="generator" content="All in One SEO (AIOSEO) 4.2.4 " />
+		<meta property="og:locale" content="en_US" />
+		<meta property="og:site_name" content="The Walrus" />
+		<meta property="og:type" content="article" />
+		<meta property="og:title" content="How Do You Make the Perfect Toy? | The Walrus" />
+		<meta property="og:description" content="Fads come and go, but how to create a toy that stands the test of time is the billion-dollar question" />
+		<meta property="og:url" content="https://thewalrus.ca/how-do-you-make-the-perfect-toy/" />
+		<meta property="og:image" content="https://walrus-assets.s3.amazonaws.com/img/Braga_Toys_1200_01.jpg" />
+		<meta property="og:image:secure_url" content="https://walrus-assets.s3.amazonaws.com/img/Braga_Toys_1200_01.jpg" />
+		<meta property="og:image:width" content="1200" />
+		<meta property="og:image:height" content="1200" />
+		<meta property="article:published_time" content="2022-09-06T20:30:21+00:00" />
+		<meta property="article:modified_time" content="2022-09-08T15:11:17+00:00" />
+		<meta property="article:publisher" content="https://www.facebook.com/thewalrus" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:site" content="@thewalrus" />
+		<meta name="twitter:title" content="How Do You Make the Perfect Toy? | The Walrus" />
+		<meta name="twitter:description" content="Fads come and go, but how to create a toy that stands the test of time is the billion-dollar question" />
+		<meta name="twitter:image" content="https://walrus-assets.s3.amazonaws.com/img/Braga_Toys_1200_01.jpg" />
+		<meta name="google" content="nositelinkssearchbox" />
+		<!-- All in One SEO -->
+
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="The Walrus &raquo; Feed" href="https://thewalrus.ca/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Walrus &raquo; Comments Feed" href="https://thewalrus.ca/comments/feed/" />
+<link rel='stylesheet' id='jquery.prettyphoto-css'  href='https://thewalrus.ca/wp-content/plugins/wp-video-lightbox/css/prettyPhoto.css?ver=6.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='video-lightbox-css'  href='https://thewalrus.ca/wp-content/plugins/wp-video-lightbox/wp-video-lightbox.css?ver=6.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://thewalrus.ca/wp-includes/css/dist/block-library/style.min.css?ver=6.0.1' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}
+</style>
+<link rel='stylesheet' id='activecampaign-form-block-css'  href='https://thewalrus.ca/wp-content/plugins/activecampaign-subscription-forms/activecampaign-form-block/build/style-index.css?ver=1607085085' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<style id='if-so-public-dummy-inline-css' type='text/css'>
+        .lds-dual-ring {
+          display: inline-block;
+          width: 16px;
+          height: 16px;
+        }
+        .lds-dual-ring:after {
+          content: " ";
+          display: block;
+          width: 16px;
+          height: 16px;
+          margin: 0px;
+          border-radius: 50%;
+          border: 3px solid #000;
+          border-color: #000 transparent #000 transparent;
+          animation: lds-dual-ring 1.2s linear infinite;
+        }
+        @keyframes lds-dual-ring {
+          0% {
+            transform: rotate(0deg);
+          }
+          100% {
+            transform: rotate(360deg);
+          }
+        }
+        /*loader 2*/
+        .ifso-logo-loader {
+            font-size: 20px;
+            width: 64px;
+            font-family: sans-serif;
+            position: relative;
+            height: auto;
+            font-weight: 800;
+        }
+        .ifso-logo-loader:before {
+            content: '';
+            position: absolute;
+            left: 30%;
+            top: 36%;
+            width: 14px;
+            height: 22px;
+            clip-path: polygon(100% 50%, 0 0, 0 100%);
+            background: #fd5b56;
+            animation: spinAndMoveArrow 2s infinite;
+            height: 9px;
+            width: 7px;
+        }
+        .ifso-logo-loader:after {
+            content: "If So";
+            word-spacing: 12px;
+        }
+        @keyframes spinAndMoveArrow {
+                40% {
+                    transform: rotate(360deg);
+                }
+    
+                60% {
+                    transform: translateX(-5px);
+                }
+    
+                80% {
+                    transform: translateX(5px);
+                }
+    
+                100% {
+                    transform: translateX(0);
+                }
+        }
+        /*Loader 3 - default content*/
+        .ifso-default-content-loader{
+            display:inline-block;
+        }
+        
+</style>
+<link rel='stylesheet' id='pciwgas-publlic-style-css'  href='https://thewalrus.ca/wp-content/plugins/post-category-image-with-grid-and-slider/assets/css/categoryimage-public.css?ver=1.4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='dpsp-frontend-style-pro-css'  href='https://thewalrus.ca/wp-content/plugins/social-pug/assets/dist/style-frontend-pro.1.20.2.css?ver=1.20.2' type='text/css' media='all' />
+<link rel='stylesheet' id='widgetopts-styles-css'  href='https://thewalrus.ca/wp-content/plugins/widget-options/assets/css/widget-options.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wppopups-pro-css'  href='https://thewalrus.ca/wp-content/plugins/wppopups/pro/assets/css/wppopups.css?ver=2.1.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wppopups-base-css'  href='https://thewalrus.ca/wp-content/plugins/wppopups/src/assets/css/wppopups-base.css?ver=2.1.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='https://thewalrus.ca/wp-content/themes/hitmag-pro/style.css?ver=6.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='hitmag-pro-font-awesome-css'  href='https://thewalrus.ca/wp-content/themes/hitmag-pro/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hitmag-pro-style-css'  href='https://thewalrus.ca/wp-content/themes/hitmag-pro-child/style.css?ver=6.0.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://thewalrus.ca/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://thewalrus.ca/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://thewalrus.ca/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='https://thewalrus.ca/wp-includes/js/dist/hooks.min.js?ver=c6d64f2cb8f5c6bb49caca37f8828ce3' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://thewalrus.ca/wp-content/plugins/wp-video-lightbox/js/jquery.prettyPhoto.js?ver=3.1.6' id='jquery.prettyphoto-js'></script>
+<script type='text/javascript' id='video-lightbox-js-extra'>
+/* <![CDATA[ */
+var vlpp_vars = {"prettyPhoto_rel":"wp-video-lightbox","animation_speed":"fast","slideshow":"5000","autoplay_slideshow":"false","opacity":"0.80","show_title":"true","allow_resize":"true","allow_expand":"true","default_width":"640","default_height":"480","counter_separator_label":"\/","theme":"pp_default","horizontal_padding":"20","hideflash":"false","wmode":"opaque","autoplay":"false","modal":"false","deeplinking":"false","overlay_gallery":"true","overlay_gallery_max":"30","keyboard_shortcuts":"true","ie6_fallback":"true"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://thewalrus.ca/wp-content/plugins/wp-video-lightbox/js/video-lightbox.js?ver=3.1.6' id='video-lightbox-js'></script>
+<script type='text/javascript' id='if-so-js-before'>
+    var nonce = "ec40076ddd";
+    var ajaxurl = "https://thewalrus.ca/wp-admin/admin-ajax.php";
+    var ifso_page_url = "https://thewalrus.ca/how-do-you-make-the-perfect-toy/";
+    var isAnalyticsOn = true;
+    var isPageVisitedOn = 0;
+    var isVisitCountEnabled = 1;
+    var referrer_for_pageload = document.referrer;
+</script>
+<script type='text/javascript' src='https://thewalrus.ca/wp-content/plugins/if-so/public/js/if-so-public.js?ver=1.5.7.2' id='if-so-js'></script>
+<script type='text/javascript' id='ga_events_main_script-js-extra'>
+/* <![CDATA[ */
+var ga_options = {"anonymizeip":"0","advanced":"1","snippet_type":"none","tracking_id":"UA-29232182-1","gtm_id":"","domain":"","click_elements":[{"name":"custom_html-45","type":"id","category":"Post Footer - Support Us (B)","action":"Click","label":"Post Footer - Support Us (B)","value":"1","bounce":"false"},{"name":"custom_html-44","type":"id","category":"Post Footer - Support Us (A)","action":"Click","label":"Post Footer - Support Us (A)","value":"1","bounce":"false"},{"name":"growler-mobile","type":"class","category":"Popup - Growler Mobile","action":"Click","label":"Popup - Growler Mobile","value":"1","bounce":"false"},{"name":"spu-140993","type":"id","category":"Popup - Growler Desktop","action":"Click","label":"Popup - Growler Desktop","value":"0","bounce":"false"},{"name":"cookie-ack","type":"class","category":"Popup - Cookies","action":"Click","label":"Popup - Cookies","value":"1","bounce":"false"}],"scroll_elements":[{"name":"hp-categs1-row","type":"id","category":"HP- Categs1 block (scroll)","action":"Scroll","label":"HP- Categs1 block (scroll)","value":"","bounce":"false"},{"name":"sidebar-above-footer","type":"class","category":"Sidebar-Above-Footer (scroll)","action":"Scroll","label":"Sidebar-Above-Footer (scroll)","value":"","bounce":"false"}],"link_clicks_delay":"120","download_tracking_type":["pdf","mp3","pptx","docx"],"force_snippet":"none"};
+var gaePlaceholders = {"is_front_page":"","page_title":"How Do You Make the Perfect Toy?"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://thewalrus.ca/wp-content/plugins/wp-google-analytics-events/js/main.js?ver=1.0' id='ga_events_main_script-js'></script>
+<script type='text/javascript' id='wppopups-pro-js-js-extra'>
+/* <![CDATA[ */
+var wppopups_pro_vars = {"enable_stats":"1","ua_code":"","data_sampling":"100","post_id":"148773","l18n":{"wait":"Please wait","seconds":"seconds"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://thewalrus.ca/wp-content/plugins/wppopups/pro/assets/js/wppopups.js?ver=2.1.4.5' id='wppopups-pro-js-js'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://thewalrus.ca/wp-content/themes/hitmag-pro/js/html5shiv.min.js?ver=6.0.1' id='html5shiv-js'></script>
+<![endif]-->
+<link rel="https://api.w.org/" href="https://thewalrus.ca/wp-json/" /><link rel="alternate" type="application/json" href="https://thewalrus.ca/wp-json/wp/v2/posts/148773" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://thewalrus.ca/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://thewalrus.ca/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 6.0.1" />
+<link rel='shortlink' href='https://thewalrus.ca/?p=148773' />
+<link rel="alternate" type="application/json+oembed" href="https://thewalrus.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthewalrus.ca%2Fhow-do-you-make-the-perfect-toy%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://thewalrus.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthewalrus.ca%2Fhow-do-you-make-the-perfect-toy%2F&#038;format=xml" />
+<style type="text/css" data-source="Grow Social by Mediavine">
+			@media screen and ( max-width : 720px ) {
+				#dpsp-floating-sidebar.dpsp-hide-on-mobile.opened {
+					display: none;
+				}
+			}
+			</style><script>
+            WP_VIDEO_LIGHTBOX_VERSION="1.9.6";
+            WP_VID_LIGHTBOX_URL="https://thewalrus.ca/wp-content/plugins/wp-video-lightbox";
+                        function wpvl_paramReplace(name, string, value) {
+                // Find the param with regex
+                // Grab the first character in the returned string (should be ? or &)
+                // Replace our href string with our new value, passing on the name and delimeter
+
+                var re = new RegExp("[\?&]" + name + "=([^&#]*)");
+                var matches = re.exec(string);
+                var newString;
+
+                if (matches === null) {
+                    // if there are no params, append the parameter
+                    newString = string + '?' + name + '=' + value;
+                } else {
+                    var delimeter = matches[0].charAt(0);
+                    newString = string.replace(re, delimeter + name + "=" + value);
+                }
+                return newString;
+            }
+            </script><style id="sexy-author-bio-css" type="text/css" media="screen">
+					  #sexy-author-bio { background: #ffffff; border-style: dotted; border-color: #dddddd; color: #404040; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; }
+					  #sab-author { font-weight: 700;font-size: 18px;line-height: 22px;}
+					  #sab-gravatar { }#sab-gravatar a { color: #404040;}
+					  #sab-author a { 
+					    margin-right:10px;text-decoration: none;text-transform: uppercase;color: #404040;}#sab-byline { color: #777777;font-weight: 400;font-size: 17px;line-height: 21px;text-decoration: none;text-transform: none;}
+					  #sab-description { font-weight: 400;font-size: 17px;line-height: 21px;}
+					  [id^=sig-] { height: 48px;width: 48px;margin-top: 2px;margin-right: 2px;margin-bottom: 2px;}
+					  
+					  @media (min-width: 1200px) {
+					  
+					  }
+					  @media (min-width: 1019px) and (max-width: 1199px) {
+					  
+					  }
+					  @media (min-width: 768px) and (max-width: 1018px) {
+					  
+					  }
+					  @media (max-width: 767px) {
+					  [id^=sig-] { margin-left: 0;margin-right: 2px;}
+					  #sab-gravatar{display:none!important;}
+					  }
+					  </style>		<style type="text/css">
+			
+
+            .post-navigation .post-title:hover {
+                color: #fb5954;
+            }
+
+            .responsive-mainnav li a:hover,
+            .responsive-topnav li a:hover {
+                background: #fb5954;
+            }
+
+            .nav-links .current {
+                background: #fb5954;
+            }
+
+
+            .is-style-hitmag-widget-title,
+            .elementor-widget-container h5,
+            .widgettitle,
+            .widget-title {
+                border-bottom: 2px solid #fb5954;
+            }
+
+            .footer-widget-title {
+                border-bottom: 2px solid #fb5954;
+            }
+
+            .widget-area a:hover {
+                color: #fb5954;
+            }
+
+            .site-info a:hover {
+                color: #fb5954;
+            }
+
+            .hmb-entry-title a:hover {
+                color: #fb5954;
+            }
+
+            .hmb-entry-meta a:hover,
+            .hms-meta a:hover {
+                color: #fb5954;
+            }
+
+            .hms-title a:hover {
+                color: #fb5954;
+            }
+
+            .hmw-grid-post .post-title a:hover {
+                color: #fb5954;
+            }
+
+            .hm-tabs-wdt .ui-state-active {
+                border-bottom: 2px solid #fb5954;
+            }
+
+            #hitmag-tags a,
+            .widget_tag_cloud .tagcloud a {
+                background: #fb5954;
+            }
+
+            .site-title a {
+                color: #fb5954;
+            }
+
+            .hitmag-post .entry-title a:hover {
+                color: #fb5954;
+            }
+
+            .hitmag-post .entry-meta a:hover {
+                color: #fb5954;
+            }
+
+            .cat-links a {
+                color: #fb5954;
+            }
+
+            .hitmag-single .entry-meta a:hover {
+                color: #fb5954;
+            }
+
+            .hitmag-single .author a:hover {
+                color: #fb5954;
+            }
+
+            .hm-author-content .author-posts-link {
+                color: #fb5954;
+            }
+
+            .hm-tags-links a:hover {
+                background: #fb5954;
+            }
+
+            .hm-tagged {
+                background: #fb5954;
+            }
+
+            .hm-edit-link a.post-edit-link {
+                background: #fb5954;
+            }
+
+            .arc-page-title {
+                border-bottom: 2px solid #fb5954;
+            }
+
+            .srch-page-title {
+                border-bottom: 2px solid #fb5954;
+            }
+
+            .hm-post-style-2.th-hero-container .cat-links,
+            .hmig-post .cat-links,
+            .hm-slider-details .cat-links {
+                background: #fb5954;
+            }
+
+            .hm-rel-post .post-title a:hover {
+                color: #fb5954;
+            }
+
+            .comment-author a {
+                color: #fb5954;
+            }
+
+            .comment-metadata a:hover,
+            .comment-metadata a:focus,
+            .pingback .comment-edit-link:hover,
+            .pingback .comment-edit-link:focus {
+                color: #fb5954;
+            }
+
+            .comment-reply-link:hover,
+            .comment-reply-link:focus {
+                background: #fb5954;
+            }
+
+            .required {
+                color: #fb5954;
+            }
+
+            blockquote {
+                border-left: 3px solid #fb5954;
+            }
+
+            .hmajax-btn:hover {
+                background: #fb5954;
+                border: 1px solid #fb5954;
+            }
+
+            .hmw-spinner > div {
+                 background: #fb5954;
+            }
+
+            .comment-reply-title small a:before {
+                color: #fb5954;
+            }
+            
+            .woocommerce ul.products li.product h3:hover,
+            .woocommerce-widget-area ul li a:hover,
+            .woocommerce-loop-product__title:hover {
+                color: #fb5954;
+            }
+
+            .woocommerce-product-search input[type="submit"],
+            .woocommerce #respond input#submit, 
+            .woocommerce a.button, 
+            .woocommerce button.button, 
+            .woocommerce input.button,
+            .woocommerce nav.woocommerce-pagination ul li a:focus,
+            .woocommerce nav.woocommerce-pagination ul li a:hover,
+            .woocommerce nav.woocommerce-pagination ul li span.current,
+            .woocommerce span.onsale,
+            .woocommerce-widget-area .widget-title,
+            .woocommerce #respond input#submit.alt,
+            .woocommerce a.button.alt,
+            .woocommerce button.button.alt,
+            .woocommerce input.button.alt {
+                background: #fb5954;
+            }
+            
+            .wp-block-quote,
+            .wp-block-quote:not(.is-large):not(.is-style-large) {
+                border-left: 3px solid #fb5954;
+            }		</style>
+	<script type="application/ld+json">
+{
+    "@context": "http:\/\/schema.org",
+    "@type": [
+        "AnalysisNewsArticle"
+    ],
+    "publishingPrinciples": "https:\/\/thewalrus.ca\/sitewide-policies\/",
+    "image": "https:\/\/walrus-assets.s3.amazonaws.com\/img\/Braga_Toys_1200_01.jpg",
+    "headline": "How Do You Make the Perfect Toy?",
+    "datePublished": "2022-09-06 16:30:21",
+    "author": {
+        "@type": "Person",
+        "workLocation": {
+            "@type": "Place"
+        },
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "Journalist"
+        },
+        "sameAs": [
+            "https:\/\/thewalrus.ca\/author\/matthew-braga\/"
+        ],
+        "name": "Matthew Braga",
+        "description": "Matthew Braga is a Toronto-based writer, editor, and former senior reporter for CBC News."
+    }
+}
+</script>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<style type="text/css" id="spu-css-140968" class="spu-css">		#spu-bg-140968 {
+			background-color: rgb(0,0,0);
+		}
+
+		#spu-140968 .spu-close {
+			font-size: 25px;
+			color: rgb(239, 239, 239);
+			text-shadow: 0 1px 0;
+		}
+
+		#spu-140968 .spu-close:hover {
+			color: ;
+		}
+
+		#spu-140968 {
+			background-color: rgb(34, 34, 34);
+			max-width: 55px;
+			border-radius: 0px;
+			
+					height: auto;
+					box-shadow:  0px 0px 0px 0px #474747;
+				}
+
+		#spu-140968 .spu-container {
+					padding: 7px;
+			height: calc(100% - 28px);
+		}
+		/*
+		* Add custom CSS for this popup
+		* Be sure to start your rules with #spu-140968 { } and use !important when needed to override plugin rules
+		*/						</style>
+		<style type="text/css" id="spu-css-140964" class="spu-css">		#spu-bg-140964 {
+			background-color: rgb(0,0,0);
+		}
+
+		#spu-140964 .spu-close {
+			font-size: 30px;
+			color: #666;
+			text-shadow: 0 1px 0#fff;
+		}
+
+		#spu-140964 .spu-close:hover {
+			color: #000;
+		}
+
+		#spu-140964 {
+			background-color: rgb(238,238,238);
+			max-width: 300px;
+			border-radius: 0px;
+			
+					height: auto;
+					box-shadow:  0px 0px 0px 0px #666;
+				}
+
+		#spu-140964 .spu-container {
+					border: 2px solid;
+			border-color: #ffffff;
+			border-radius: 0px;
+			margin: 14px;
+					padding: 0px;
+			height: calc(100% - 28px);
+		}
+		/*
+		* Add custom CSS for this popup
+		* Be sure to start your rules with #spu-140964 { } and use !important when needed to override plugin rules
+		*/						</style>
+		<style type="text/css" id="spu-css-148277" class="spu-css">		#spu-bg-148277 {
+			background-color: rgba(0,0,0,0.5);
+		}
+
+		#spu-148277 .spu-close {
+			font-size: 28px;
+			color: rgb(0, 0, 0);
+			text-shadow: 0 1px 0rgb(0, 0, 0);
+		}
+
+		#spu-148277 .spu-close:hover {
+			color: rgb(0, 0, 0);
+		}
+
+		#spu-148277 {
+			background-color: rgb(41, 182, 246);
+			max-width: 100%;
+			border-radius: 0px;
+			
+					height: auto;
+					box-shadow:  1px 0px 0px 2px #ccc;
+				}
+
+		#spu-148277 .spu-container {
+					padding: 20px;
+			height: calc(100% - 0px);
+		}
+		.spu-box span {
+    font-family: "GT Sectra";
+    font-size: 1.6rem;
+    color: #222;
+}
+
+.spu-box button {
+    background-color: #fb5954;
+    font-family: Source Sans Pro;
+    font-weight: 600;
+    font-size: 1.2rem;
+    border: 0;
+    color: white;
+    border-radius: 3px;
+    line-height: 1;
+    padding: 13px 20px;
+}						</style>
+		<style type="text/css" id="spu-css-148279" class="spu-css">		#spu-bg-148279 {
+			background-color: rgba(0,0,0,0.5);
+		}
+
+		#spu-148279 .spu-close {
+			font-size: 28px;
+			color: rgb(0, 0, 0);
+			text-shadow: 0 1px 0#000;
+		}
+
+		#spu-148279 .spu-close:hover {
+			color: rgb(0, 0, 0);
+		}
+
+		#spu-148279 {
+			background-color: rgb(41, 182, 246);
+			max-width: 100%;
+			border-radius: 0px;
+			
+					height: auto;
+					box-shadow:  1px 0px 0px 2px #ccc;
+				}
+
+		#spu-148279 .spu-container {
+					padding: 20px;
+			height: calc(100% - 0px);
+		}
+		.spu-box span {
+    font-family: "GT Sectra";
+    font-size: 1.6rem;
+    color: #222;
+}
+
+.spu-box button {
+    background-color: #fb5954;
+    font-family: Source Sans Pro;
+    font-weight: 600;
+    font-size: 1.2rem;
+    border: 0;
+    color: white;
+    border-radius: 3px;
+    line-height: 1;
+    padding: 13px 20px;
+}						</style>
+		<link rel="icon" href="https://walrus-assets.s3.amazonaws.com/img/favicon1.ico" sizes="32x32" />
+<link rel="icon" href="https://walrus-assets.s3.amazonaws.com/img/favicon1.ico" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://walrus-assets.s3.amazonaws.com/img/favicon1.ico" />
+<meta name="msapplication-TileImage" content="https://walrus-assets.s3.amazonaws.com/img/favicon1.ico" />
+		<style type="text/css" id="wp-custom-css">
+			/* Collapse the original author line
+.tag-proof .author {text-indent: -9999px; line-height: 0; }  */
+
+/* override author labels 
+.tag-proof  .author:after {content: "BY ELANA ROSENFELD, BRUCE MACLELLAN"; text-indent: 0;
+  display: block;
+  line-height: initial; margin-top: -1em;}*/
+	
+li.menu-item-128787 a {/*text-decoration:underline; text-decoration-color:#fb5954;*/}
+
+/* For the active campaign pop-up test started June 28*/
+#spu-140964.spu-box, #spu-140963.spu-box/*, #spu-140993 .spu-close::after*/ {	display:none !important;}
+
+/* Ensure article "Our Latest Issue" sidebar is not covered by header nav on scroll */
+#custom_html-23 {
+	margin-top: 110px !important;
+}		</style>
+		<style id="kirki-inline-styles">.site-title{font-family:Open Sans;font-size:36px;font-weight:700;line-height:1.3;}body{font-family:PT Serif;font-size:18px;font-weight:400;line-height:1.7;color:#404040;}#hm-tabs .hm-tab-anchor,.arc-page-title,.cat-links,.elementor-widget-container h5,.footer-widget-title,.hm-top-bar,.main-navigation,.post-navigation .meta-nav,.srch-page-title,.widget-title,.woocommerce div.product .woocommerce-tabs .panel h2, .related > h2, .woocommerce-checkout h3, .cart_totals h2{font-family:Source Sans Pro;font-weight:600;}#hm-search-form .search-form .search-submit,.th-readmore,a.hm-viewall,button, input[type="button"], input[type="reset"], input[type="submit"]{font-family:Source Sans Pro;font-weight:600;}.main-navigation ul{font-size:14px;}h1,h2,h3,h4,h5,h6{font-family:Lato;font-weight:700;}h1{font-size:36px;}h2{font-size:32px;}h3{font-size:28px;}h4{font-size:24px;}h5{font-size:20px;}h6{font-size:16px;}.hitmag-wrapper{background-color:#ffffff;}.site-title a:hover{color:#333333;}.site-header{background-color:#ffffff;}.hitmag-page .entry-title,.hitmag-post .entry-title a,.hitmag-single .entry-title,.hmb-entry-title a,.hms-title a,.hmw-grid-post .post-title a,.widget_post_views_counter_list_widget a.post-title,.woocommerce-loop-product__title{color:#333333;}.hitmag-post .entry-meta,.hitmag-post .entry-meta a,.hitmag-single .entry-meta,.hitmag-single .entry-meta a,.hmb-entry-meta, .hms-meta, .hmb-entry-meta a, .hms-meta a{color:#333333;}a{color:#333333;}a:hover{color:#646464;}#hm-search-form .search-form .search-submit,.search-form .search-submit,.th-readmore,a.hm-viewall,button,input[type="button"],input[type="reset"],input[type="submit"]{background-color:#fb5954;}#hm-search-form .search-form .search-submit,.footer-widget-area a.hm-viewall,.footer-widget-area a.hm-viewall:visited,.search-form .search-submit,.th-readmore,.th-readmore:active,.th-readmore:focus,.th-readmore:visited,a.hm-viewall,a.hm-viewall:visited,button,input[type="button"],input[type="reset"],input[type="submit"]{color:#ffffff;}#hm-search-form .search-form .search-submit:hover,.footer-widget-area a.hm-viewall:hover,.search-form .search-submit:hover,.th-readmore:hover,a.hm-viewall:hover,button:hover,input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover{background-color:#fb5954;color:#ffffff;}.hm-nav-container,.main-navigation,.main-navigation ul ul.toggled-on{background-color:#222222;}.dropdown-toggle,.hm-search-button-icon,.main-navigation a,.main-navigation ul ul.toggled-on a,.menu-toggle{color:#cccccc;}.main-navigation .current-menu-ancestor > a,.main-navigation .current-menu-item > a,.main-navigation .current_page_ancestor > a,.main-navigation .current_page_item > a,.main-navigation a:hover,.main-navigation ul ul.toggled-on a:hover,.menu-toggle,.menu-toggle:focus,.menu-toggle:hover{background-color:#222222;}.dropdown-toggle:hover,.main-navigation .current-menu-ancestor > a,.main-navigation .current-menu-item > a,.main-navigation .current_page_ancestor > a,.main-navigation .current_page_item > a,.main-navigation a:hover,.main-navigation ul ul.toggled-on a:hover,.menu-toggle,.menu-toggle:hover{color:#ffffff;}.main-navigation ul ul{background-color:#ffffff;}.main-navigation ul ul a{color:#333333;}.main-navigation ul ul .current-menu-ancestor > a,.main-navigation ul ul .current-menu-item > a,.main-navigation ul ul .current_page_ancestor > a,.main-navigation ul ul .current_page_item > a,.main-navigation ul ul a:hover{background-color:#f5f5f5;color:#333333;}.hm-top-bar,.hm-topnavbutton{background-color:#000000;}#top-nav-button,.hm-top-bar,.top-navigation a{color:#222222;}#top-nav-button:hover,.top-navigation .current-menu-ancestor > a,.top-navigation .current-menu-item > a,.top-navigation .current_page_ancestor > a,.top-navigation .current_page_item > a,.top-navigation a:hover{color:#fb5954;}.responsive-topnav,.top-navigation ul ul{background-color:#ffffff;}.responsive-topnav li a,.top-navigation ul ul a{color:#222222;}.responsive-topnav ul#top-menu li a:hover,.top-navigation ul ul .current-menu-ancestor > a,.top-navigation ul ul .current-menu-item > a,.top-navigation ul ul .current_page_ancestor > a,.top-navigation ul ul .current_page_item > a,.top-navigation ul ul a:hover{background-color:#fb5954;}.responsive-topnav li a:hover,.top-navigation ul ul .current-menu-ancestor > a,.top-navigation ul ul .current-menu-item > a,.top-navigation ul ul .current_page_ancestor > a,.top-navigation ul ul .current_page_item > a,.top-navigation ul ul a:hover{color:#ffffff;}.site-footer{background-color:#222222;}.footer-widget-title{color:#ffffff;}.footer-widget-area,.footer-widget-area .hmb-entry-meta,.footer-widget-area .hmb-entry-meta a,.footer-widget-area .hmb-entry-summary,.footer-widget-area .hms-meta,.footer-widget-area .hms-meta a{color:#c8c8c8;}.footer-widget-area .hmb-entry-title a,.footer-widget-area .hms-title a,.footer-widget-area .hmw-grid-post .post-title a,.footer-widget-area .widget a,.footer-widget-area a{color:#c8c8c8;}.footer-navigation ul li a:hover,.footer-widget-area .hmb-entry-meta a:hover,.footer-widget-area .hmb-entry-title a:hover,.footer-widget-area .hms-meta a:hover,.footer-widget-area .hms-title a:hover,.footer-widget-area .hmw-grid-post .post-title a:hover,.footer-widget-area .widget a:hover,.footer-widget-area a:hover,.site-info a:hover{color:#ffffff;}.site-info{background-color:#222222;}.site-info,.site-info a{color:#c8c8c8;}/* cyrillic-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://thewalrus.ca/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4taVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://thewalrus.ca/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4kaVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://thewalrus.ca/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4saVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://thewalrus.ca/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4jaVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+0370-03FF;
+}
+/* hebrew */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://thewalrus.ca/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4iaVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://thewalrus.ca/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4vaVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://thewalrus.ca/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4uaVQUwaEQXjN_mQ.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(https://thewalrus.ca/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVQUwaEQXjM.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* cyrillic-ext */
+@font-face {
+  font-family: 'PT Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://thewalrus.ca/wp-content/fonts/pt-serif/EJRVQgYoZZY2vCFuvAFbzrm_dSb_nco.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'PT Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://thewalrus.ca/wp-content/fonts/pt-serif/EJRVQgYoZZY2vCFuvAFSzrm_dSb_nco.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'PT Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://thewalrus.ca/wp-content/fonts/pt-serif/EJRVQgYoZZY2vCFuvAFYzrm_dSb_nco.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'PT Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://thewalrus.ca/wp-content/fonts/pt-serif/EJRVQgYoZZY2vCFuvAFWzrm_dSb_.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* cyrillic-ext */
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://thewalrus.ca/wp-content/fonts/source-sans-pro/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmhdo3cOWxy40.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://thewalrus.ca/wp-content/fonts/source-sans-pro/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwkxdo3cOWxy40.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://thewalrus.ca/wp-content/fonts/source-sans-pro/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmxdo3cOWxy40.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://thewalrus.ca/wp-content/fonts/source-sans-pro/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlBdo3cOWxy40.woff) format('woff');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://thewalrus.ca/wp-content/fonts/source-sans-pro/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmBdo3cOWxy40.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://thewalrus.ca/wp-content/fonts/source-sans-pro/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmRdo3cOWxy40.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://thewalrus.ca/wp-content/fonts/source-sans-pro/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdo3cOWxw.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://thewalrus.ca/wp-content/fonts/lato/S6u9w4BMUTPHh6UVSwaPHw3q5d0N7w.woff) format('woff');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://thewalrus.ca/wp-content/fonts/lato/S6u9w4BMUTPHh6UVSwiPHw3q5d0.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}</style>
+</head>
+
+<body class="post-template-default single single-post postid-148773 single-format-standard custom-background wp-embed-responsive has-grow-sidebar hitmag-full-width group-blog th-right-sidebar">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N4P92WG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!--<div id="background-skin">-->
+	<div class="centerbg">
+		<aside id="doubleclick_widget-7" class="widget widget_doubleclick_widget"><div class='dfw-unit' data-adunit='Skin' data-size-mapping='mapping1'></div></aside>	</div>
+<!--</div>-->
+
+
+<div id="page" class="site hitmag-wrapper">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+	
+	
+	<header id="masthead" class="site-header" role="banner">
+
+							
+		<div class="header-main-area">
+			<div class="hm-container">
+			<div class="site-branding">
+				<div class="site-branding-content">
+					<div class="hm-logo">
+											</div><!-- .hm-logo -->
+
+					<div class="hm-site-title">
+													<p class="site-title"><a href="https://thewalrus.ca/" rel="home">The Walrus</a></p>
+													<p class="site-description">Fact-based journalism that sparks the Canadian conversation</p>
+											</div><!-- .hm-site-title -->
+				</div><!-- .site-branding-content -->
+			</div><!-- .site-branding -->
+
+			
+			</div><!-- .hm-container -->
+		</div><!-- .header-main-area -->
+
+		
+		<div class="hm-nav-container clearfix">
+			<div class="hm-container">
+				 <script type="text/javascript"> jQuery(function(){ hmenu_activate_menu('2','https://thewalrus.ca/how-do-you-make-the-perfect-toy/'); }); </script> <link rel="stylesheet" property="stylesheet" id="hmenu-2-general-css" href="https://thewalrus.ca/wp-content/plugins/hmenu/_frontend_files/_menu_2/_css/hero_menu_styles.css" type="text/css" media="all"><link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css"><div class="hmenu_wrapper_state_2"><div id="hmenu_load_2" style="display:none" class="hmenu_load_menu hmenu_unique_menu_2" data-menu-id="2"> <!-- BEGIN: MAIN --> <div id="hmenu_holder_2" class="hmenu_main_holder hmenu_main_bg_color" > <!-- BEGIN: INNER --> <div class="hmenu_inner_holder"> <div class="menu_responsive_label"></div> <!-- BEGIN: LEFT --> <div class="hmenu_left"> <!-- BEGIN: SEARCH --> <div class="hmenu_search_holder hmenu_hide_for_mobile" > <div class="hmenu_search_container"> <div class="hmenu_search_inner"> <div class="hmenu_search_wrap"> <div class="hmenu_search_display hmenu_search_slide"><!-- hmenu_search_classic, hmenu_search_slide, hmenu_search_full --> <div class="hmenu_search_btn hmenu_trigger_lightbox icon_hero_default_thin_e654" data-id="2" data-link="hmenu_slide_2" data-type="slide" data-width="120" data-height="40" data-search-toggle="close"></div> </div> </div> </div> </div> </div> <div class="hmenu_grp_devider"></div> <!-- END: SEARCH --> <!-- BEGIN: LOGO --> <div class="hmenu_logo"> <a href="http://thewalrus.ca" target="_self"> <img class="logo_main lazy" alt="The Walrus" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://walrus-assets.s3.amazonaws.com/img/the-walrus-logo-1400-white-on-transparent.png"> </a> </div> <div class="hmenu_grp_devider"></div> <!-- END: LOGO --> </div> <!-- END: LEFT --> <!-- BEGIN: CENTER --> <div class="hmenu_center"> <!-- BEGIN: NAV --> <div class="hmenu_navigation_holder"> <ul class="hmenu_navigation_root hmenu_hover_color hmenu_full_hover"><li class=""><a href="https://thewalrus.ca/donate" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap icon_hero_default_solid_e631 hmenu_nav_uni_43"><span>Support The Walrus</span></div></a><div class="hmenu_item_devider"></div></li><li class=""><a title="" href="https://thewalrus.ca/subscribe/" target="_self" ><div class="hmenu_wrap icon_hero_default_thin_e609 hmenu_nav_uni_21 icon_hero_default_thin_e600"><span>Subscribe to The Walrus</span></div></a><div class="hmenu_item_devider"></div><div class="hmenu_submenu hmenu_sub " data-menu-level="0"><ul class="hmenu_navigation_root "><li class=""><a href="https://thewalrus.ca/subscribe" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_51"><span>Renew your subscription</span></div></a></li><li class=""><a href="https://thewalrus.ca/subscribe" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_50"><span>Get our latest issue</span></div></a></li><li class=""><a href="https://thewalrus.ca/subscribe" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap icon_hero_default_thin_e632 hmenu_nav_uni_52"><span>Give a gift subscription</span></div></a></li></ul></div></li><li class=""><a title="" href="http://thewalrus.ca" target="_self" ><div class="hmenu_wrap icon_hero_default_thin_e603 hmenu_nav_uni_25 icon_hero_default_thin_e600"><span>Sections</span></div></a><div class="hmenu_item_devider"></div><div class="hmenu_submenu hmenu_sub " data-menu-level="0"><ul class="hmenu_navigation_root "><li class=""><a href="https://thewalrus.ca/hope-youre-well/" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_68"><span>Hope You're Well</span></div></a></li><li class=""><a href="https://thewalrus.ca/category/society/environment/" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_26"><span>Environment</span></div></a></li><li class=""><a href="https://thewalrus.ca/category/current-affairs/" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_27"><span>Current Affairs</span></div></a></li><li class=""><a href="https://thewalrus.ca/category/society/" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_28"><span>Society</span></div></a></li><li class=""><a href="https://thewalrus.ca/category/society/health/" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_29"><span>Health</span></div></a></li><li class=""><a href="https://thewalrus.ca/category/current-affairs/business/" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_30"><span>Business</span></div></a></li><li class=""><a href="https://thewalrus.ca/category/culture/" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_31"><span>Arts & Culture</span></div></a></li><li class=""><a href="https://thewalrus.ca/category/fiction/" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_32"><span>Fiction</span></div></a></li><li class=""><a href="https://thewalrus.ca/category/poetry/" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_33"><span>Poetry</span></div></a></li><li class=""><a href="https://thewalrus.ca/category/memoir/" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_34"><span>Memoir</span></div></a></li></ul></div></li><li class=""><a title="" href="https://thewalrus.ca/the-walrus-talks/" target="_self" ><div class="hmenu_wrap icon_hero_default_thin_e60e hmenu_nav_uni_35 icon_hero_default_thin_e600"><span>Events</span></div></a><div class="hmenu_item_devider"></div><div class="hmenu_submenu hmenu_sub " data-menu-level="0"><ul class="hmenu_navigation_root "><li class=""><a href="https://thewalrus.ca/gala/" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_71"><span>The Walrus Gala 2022</span></div></a></li><li class=""><a href="https://thewalrus.ca/the-walrus-talks/" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_56"><span>The Walrus Events</span></div></a></li><li class=""><a href="https://thewalrus.ca/the-walrus-talks-video-room/" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_57"><span>The Walrus Talks Video Room</span></div></a></li><li class=""><a href="https://thewalrus.ca/the-walrus-leadership-forums/" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_58"><span>The Walrus Talks Leadership Forums</span></div></a></li><li class=""><a href="https://thewalrus.ca/the-walrus-leadership-roundtable/" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_59"><span>The Walrus Talks Leadership Roundtable</span></div></a></li></ul></div></li><li class=""><a title="" href="https://thewalrus.ca/the-walrus-lab/" target="_self" ><div class="hmenu_wrap icon_hero_default_thin_e631 hmenu_nav_uni_24 icon_hero_default_thin_e600"><span>The Walrus Lab</span></div></a><div class="hmenu_item_devider"></div><div class="hmenu_submenu hmenu_sub " data-menu-level="0"><ul class="hmenu_navigation_root "><li class=""><a href="https://thewalrus.ca/partnerships/amazon-first-novel-award/" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_67"><span>Amazon Canada First Novel Award</span></div></a></li><li class=""><a href="https://thewalrus.ca/media-kit/" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_65"><span>Media Kit</span></div></a></li><li class=""><a href="https://thewalrus.ca/the-walrus-lab/#whatwedo" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_46"><span>What We Do</span></div></a></li><li class=""><a href="https://thewalrus.ca/the-walrus-lab/#ourprojects" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_47"><span>Our Projects</span></div></a></li><li class=""><a href="https://thewalrus.ca/newsletters" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_49"><span>The Insider newsletter</span></div></a></li></ul></div></li><li class=""><a title="" href="https://thewalrus.ca/podcasts/" target="_self" ><div class="hmenu_wrap icon_hero_default_social_e629 hmenu_nav_uni_22 icon_hero_default_thin_e600"><span>Podcasts</span></div></a><div class="hmenu_item_devider"></div><div class="hmenu_submenu hmenu_sub " data-menu-level="0"><ul class="hmenu_navigation_root "><li class=""><a href="https://thewalrus.ca/podcasts/the-deep-dive/" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_69"><span>The Deep Dive</span></div></a></li><li class=""><a href="https://thewalrus.ca/podcasts/the-conversation-piece/" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_60"><span>The Conversation Piece</span></div></a></li><li class=""><a href="https://thewalrus.ca/podcasts/#facebook" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_66"><span>Let's Talk About the Internet</span></div></a></li><li class=""><a href="https://thewalrus.ca/podcasts/#bandwidth" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_40"><span>Bandwidth</span></div></a></li><li class=""><a href="https://thewalrus.ca/podcasts/#water" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_41"><span>What About Water</span></div></a></li><li class=""><a href="https://thewalrus.ca/podcasts/#edgeofenergy" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_39"><span>The Edge of Energy</span></div></a></li><li class=""><a href="https://thewalrus.ca/podcasts/#courage" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap hmenu_nav_uni_42"><span>Courage Inc.</span></div></a></li></ul></div></li><li class=""><a href="https://thewalrus.ca/newsletter" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap icon_hero_default_thin_e643 hmenu_nav_uni_44"><span>&nbsp;&nbsp;Newsletters</span></div></a><div class="hmenu_item_devider"></div></li><li class=""><a href="https://thewalrus.ca/about" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap icon_hero_default_solid_e630 hmenu_nav_uni_45"><span>&nbsp;&nbsp;About The Walrus</span></div></a><div class="hmenu_item_devider"></div></li><li class=""><a href="https://store.walrusmagazine.com/" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap icon_hero_default_thin_e611 hmenu_nav_uni_64"><span>Shop The Walrus</span></div></a><div class="hmenu_item_devider"></div></li></ul> <ul class="hmenu_show_for_mobile"> <li class="hmenu_mobile_search_holder"> <form role="search" method="get" id="searchform_mobile" class="searchform_mobile" action="https://thewalrus.ca/"> <div class="hmenu_search_btn hmenu_trigger_search icon_hero_default_thin_e654"></div> <input type="text" value="" name="s" id="s_mobile" placeholder="Search" /> <input type="submit" id="hmenu_search_submit_mobile" class="hmenu_search_submit" value="Search" /> </form> </li> </ul> </div> <div class="hmenu_grp_devider"></div> <!-- END: NAV --> </div> <!-- END: CENTER --> <!-- BEGIN: RIGHT --> <div class="hmenu_right"> <!-- BEGIN: TOGGLE --> <div class="hmenu_toggle_holder hmenu_mobile_show" data-toggle="close"> <div class="hmenu_grp_devider"></div> <ul class="hmenu_hover_color"> <li><a><div class="hmenu_wrap icon_hero_default_thin_e645"></div></a></li> </ul> </div> <!-- END: TOGGLE --> </div> <!-- END: RIGHT --> </div> <!-- END: INNER --> <!-- BEGIN: SEARCH FULL INPUT --> <div class="hmenu_search_lightbox_input" id="hmenu_slide_2"> <div class="hmenu_search_lightbox_close icon_hero_default_thin_e618"></div> <div class="hmenu_lightbox_form_holder"> <form role="search" method="get" id="searchform" class="searchform" action="https://thewalrus.ca/"> <input type="text" value="" name="s" id="s_lightbox" class="hmenu_search_2" placeholder="Search"/> <div class="hmenu_search_btn hmenu_trigger_search icon_hero_default_thin_e654"></div> <input type="submit" id="hmenu_search_submit_lightbox" class="hmenu_search_submit" value="Search" /> </form> </div> </div> <!-- END: SEARCH FULL INPUT --> </div> <!-- END: MAIN --> </div></div>				<nav id="site-navigation" class="main-navigation" role="navigation">
+					
+					<!--NEW-->
+                    <button class="menu-toggle" aria-controls="main-menu" aria-expanded="false"></button> 
+                    <!--NEW-->
+                     
+                    
+					<!--<button class="menu-toggle" aria-controls="main-menu" aria-expanded="false"><?//php esc_html_e('Main Menu', 'hitmag-pro-child'); ?>
+                    </button>-->          
+                    
+                    <!--NEW-->
+                    <a href="/" class="mobile_logo"></a>      
+                    <!--NEW-->
+
+					 <script type="text/javascript"> jQuery(function(){ hmenu_activate_menu('1','https://thewalrus.ca/how-do-you-make-the-perfect-toy/'); }); </script> <link rel="stylesheet" property="stylesheet" id="hmenu-1-general-css" href="https://thewalrus.ca/wp-content/plugins/hmenu/_frontend_files/_menu_1/_css/hero_menu_styles.css" type="text/css" media="all"><link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro|Open+Sans" rel="stylesheet" type="text/css"><div class="hmenu_wrapper_state_1"><div id="hmenu_load_1" style="display:none" class="hmenu_load_menu hmenu_unique_menu_1" data-menu-id="1"> <!-- BEGIN: MAIN --> <div id="hmenu_holder_1" class="hmenu_main_holder hmenu_main_bg_color" > <!-- BEGIN: INNER --> <div class="hmenu_inner_holder"> <div class="menu_responsive_label">Menu</div> <!-- BEGIN: LEFT --> <div class="hmenu_left"> <!-- BEGIN: NAV --> <div class="hmenu_navigation_holder"> <ul class="hmenu_navigation_root hmenu_hover_color hmenu_underline_hover"><li class="hmenu_mega_li "><a title=""><div class="hmenu_wrap icon_hero_default_thin_e645 hmenu_nav_uni_63 hmenu_mega_menu icon_hero_default_thin_e600"><span></span></div></a><div class="hmenu_item_devider"></div> <!-- BEGIN: MEGA --> <div class="hmenu_submenu hmenu_mega_sub hmenu_drop_devider" > <!-- MEGA SUB --> <div class="hmenu_mega_inner"> <!-- BEGIN: COL --> <div class="hmenu_col_5 hmenu_custom_5 " data-type="list" data-id="1"> <div class="hmenu_inner_col hmenu_col_load"> <h2 class="hmenu_mega_bottom_border">Sections</h2><a href="https://thewalrus.ca/category/current-affairs/business/" target="_self" id="hmenu_list_item_uni_1" class="hmenu_list_item hmenu_item_0 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>Business</h3></div></a><a href="https://thewalrus.ca/category/society/environment/" target="_self" id="hmenu_list_item_uni_2" class="hmenu_list_item hmenu_item_1 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>Environment</h3></div></a><a href="https://thewalrus.ca/category/society/" target="_self" id="hmenu_list_item_uni_18" class="hmenu_list_item hmenu_item_2 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>Society</h3></div></a><a href="https://thewalrus.ca/category/current-affairs/politics/" target="_self" id="hmenu_list_item_uni_19" class="hmenu_list_item hmenu_item_3 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>Politics</h3></div></a><a href="https://thewalrus.ca/category/culture/" target="_self" id="hmenu_list_item_uni_20" class="hmenu_list_item hmenu_item_4 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>Arts &amp; Culture</h3></div></a><a href="https://thewalrus.ca/category/society/health/" target="_self" id="hmenu_list_item_uni_21" class="hmenu_list_item hmenu_item_5 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>Health</h3></div></a><a href="https://thewalrus.ca/category/fiction/" target="_self" id="hmenu_list_item_uni_22" class="hmenu_list_item hmenu_item_6 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>Fiction</h3></div></a><a href="https://thewalrus.ca/category/poetry/" target="_self" id="hmenu_list_item_uni_23" class="hmenu_list_item hmenu_item_7 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>Poetry</h3></div></a><a href="https://thewalrus.ca/category/memoir/" target="_self" id="hmenu_list_item_uni_24" class="hmenu_list_item hmenu_item_8 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>Memoir</h3></div></a><a href="https://thewalrus.ca/category/society/education/" target="_self" id="hmenu_list_item_uni_25" class="hmenu_list_item hmenu_item_9 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>Education</h3></div></a><a href="https://thewalrus.ca/category/current-affairs/" target="_self" id="hmenu_list_item_uni_27" class="hmenu_list_item hmenu_item_10 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>Current Affairs</h3></div></a> </div> <div class="hmenu_col_devider"></div> </div> <!-- END: COL --><!-- BEGIN: COL --> <div class="hmenu_col_5 hmenu_custom_5 " data-type="list" data-id="2"> <div class="hmenu_inner_col hmenu_col_load"> <h2 class="hmenu_mega_bottom_border">Special Series</h2><a href="https://thewalrus.ca/teen-walrus/" target="_self" id="hmenu_list_item_uni_5" class="hmenu_list_item hmenu_item_0 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>Teen Walrus</h3></div></a><a href="https://thewalrus.ca/hope-youre-well/" target="_self" id="hmenu_list_item_uni_6" class="hmenu_list_item hmenu_item_1 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>Hope You're Well</h3></div></a><a href="https://thewalrus.ca/for-the-love-of-the-game/" target="_self" id="hmenu_list_item_uni_3" class="hmenu_list_item hmenu_item_2 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>For the Love of the Game</h3></div></a><a href="https://thewalrus.ca/livingrooms" target="_self" id="hmenu_list_item_uni_4" class="hmenu_list_item hmenu_item_3 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>Living Rooms</h3></div></a><a href="https://thewalrus.ca/special-series/" target="_self" id="hmenu_list_item_uni_28" class="hmenu_list_item hmenu_item_4 " style="color:#CCC; font-size:10px"><div class="hmenu_list_content"><h3>More Special Series ⇒</h3></div></a><a href="https://thewalrus.ca/about/newsletters/" target="_self" id="hmenu_list_item_uni_30" class="hmenu_list_item hmenu_item_5 icon_hero_default_thin_e643" style="color:#CCC; font-size:15px"><div class="hmenu_list_content"><h3>NEWSLETTERS</h3></div></a><a href="https://thewalrus.ca/about/newsletters/" target="_self" id="hmenu_list_item_uni_31" class="hmenu_list_item hmenu_item_6 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>Weekly Newsletter</h3></div></a><a href="https://thewalrus.ca/about/newsletters/" target="_self" id="hmenu_list_item_uni_32" class="hmenu_list_item hmenu_item_7 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>The Events Newsletter</h3></div></a><a href="https://thewalrus.ca/about/newsletters/" target="_self" id="hmenu_list_item_uni_33" class="hmenu_list_item hmenu_item_8 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>The Walrus Lab Insider Newsletter</h3></div></a><a href="https://thewalrus.ca/2021-year-in-review/" target="_self" id="hmenu_list_item_uni_48" class="hmenu_list_item hmenu_item_9 icon_hero_default_thin_e60e" style="color:#CCC; font-size:15px"><div class="hmenu_list_content"><h3>ANNUAL REPORT</h3><span></span></div></a> </div> <div class="hmenu_col_devider"></div> </div> <!-- END: COL --><!-- BEGIN: COL --> <div class="hmenu_col_5 hmenu_custom_5 " data-type="text" data-id="1"> <div class="hmenu_inner_col hmenu_col_load"> <h2 class="hmenu_mega_bottom_border" style="padding-top:1px!important; padding-bottom:1px!important">Subscribe</h2><div class="hmenu_text_item" ><a href="https://thewalrus.ca/subscribe/">Get our latest issue:<br /> <img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20350'%3E%3C/svg%3E" data-src="https://walrus-assets.s3.amazonaws.com/img/Nov22_Cover_Web.jpg" width="350px" style="padding-top:10px;" alt="The Walrus' November 2022 cover featuring a woman lit against a dark backdrop with the cover story When Is Dead Really Dead?"></a><br /> <a href="https://thewalrus.ca/subscribe/" style="text-transform: none;">Subscribe to The Walrus magazine</a><a href="https://thewalrus.ca/subscribe/" style="text-transform: none;">Renew or Gift a subscription</a><a href="https://thewalrus.ca/subscribe/" style="text-transform: none;">Change your address</a></div> </div> <div class="hmenu_col_devider"></div> </div> <!-- END: COL --><!-- BEGIN: COL --> <div class="hmenu_col_5 hmenu_custom_5 " data-type="list" data-id="3"> <div class="hmenu_inner_col hmenu_col_load"> <h2 class="hmenu_mega_bottom_border">Events</h2><a href="https://thewalrus.ca/gala/" target="_self" id="hmenu_list_item_uni_47" class="hmenu_list_item hmenu_item_0 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>The Walrus Gala 2022</h3></div></a><a href="https://thewalrus.ca/events" target="_self" id="hmenu_list_item_uni_7" class="hmenu_list_item hmenu_item_1 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>The Walrus Events</h3></div></a><a href="https://thewalrus.ca/the-walrus-talks-video-room/" target="_self" id="hmenu_list_item_uni_10" class="hmenu_list_item hmenu_item_2 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>The Walrus Talks Video Room</h3></div></a><a href="https://thewalrus.ca/the-walrus-leadership-forums/" target="_self" id="hmenu_list_item_uni_50" class="hmenu_list_item hmenu_item_3 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>The Walrus Talks Leadership Forum</h3><span></span></div></a><a href="https://thewalrus.ca/podcasts/" target="_self" id="hmenu_list_item_uni_12" class="hmenu_list_item hmenu_item_4 icon_hero_default_thin_e635" style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>PODCASTS</h3></div></a><a href="https://thewalrus.ca/podcasts/the-deep-dive/" target="_self" id="hmenu_list_item_uni_44" class="hmenu_list_item hmenu_item_5 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>The Deep Dive</h3></div></a><a href="https://thewalrus.ca/podcasts/the-conversation-piece/" target="_self" id="hmenu_list_item_uni_13" class="hmenu_list_item hmenu_item_6 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>The Conversation Piece</h3></div></a><a href="https://thewalrus.ca/podcasts/#facebook" target="_self" id="hmenu_list_item_uni_41" class="hmenu_list_item hmenu_item_7 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>Let's Talk About the Internet</h3></div></a><a href="https://thewalrus.ca/podcasts/#water" target="_self" id="hmenu_list_item_uni_36" class="hmenu_list_item hmenu_item_8 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>What About Water</h3></div></a><a href="https://thewalrus.ca/podcasts/#bandwidth" target="_self" id="hmenu_list_item_uni_35" class="hmenu_list_item hmenu_item_9 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>Bandwidth</h3></div></a><a href="https://thewalrus.ca/podcasts/#edgeofenergy" target="_self" id="hmenu_list_item_uni_34" class="hmenu_list_item hmenu_item_10 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>The Edge of Energy</h3></div></a><a href="https://thewalrus.ca/podcasts/#water" target="_self" id="hmenu_list_item_uni_37" class="hmenu_list_item hmenu_item_11 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>Courage Inc.</h3></div></a> </div> <div class="hmenu_col_devider"></div> </div> <!-- END: COL --><!-- BEGIN: COL --> <div class="hmenu_col_5 hmenu_custom_5 " data-type="list" data-id="4"> <div class="hmenu_inner_col hmenu_col_load"> <h2 class="hmenu_mega_bottom_border">The Walrus Lab</h2><a href="https://thewalrus.ca/partnerships/amazon-first-novel-award/" target="_self" id="hmenu_list_item_uni_43" class="hmenu_list_item hmenu_item_0 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>Amazon Canada First Novel Award</h3></div></a><a href="https://thewalrus.ca/the-walrus-lab/#whatwedo" target="_self" id="hmenu_list_item_uni_14" class="hmenu_list_item hmenu_item_1 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>What We Do</h3></div></a><a href="https://thewalrus.ca/the-walrus-lab/#ourservices" target="_self" id="hmenu_list_item_uni_15" class="hmenu_list_item hmenu_item_2 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>Our Services</h3></div></a><a href="https://thewalrus.ca/the-walrus-lab/#ourprojects" target="_self" id="hmenu_list_item_uni_16" class="hmenu_list_item hmenu_item_3 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>Our Projects</h3></div></a><a href="https://thewalrus.ca/newsletters" target="_self" id="hmenu_list_item_uni_17" class="hmenu_list_item hmenu_item_4 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>The Insider Newsletter</h3></div></a><a href="#" target="_self" id="hmenu_list_item_uni_39" class="hmenu_list_item hmenu_item_5 " style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3></h3></div></a><a href="https://store.walrusmagazine.com/" target="_self" id="hmenu_list_item_uni_40" class="hmenu_list_item hmenu_item_6 icon_hero_default_thin_e611" style="color:#CCC; font-size:20px"><div class="hmenu_list_content"><h3>SHOP THE WALRUS</h3><span><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://walrus-assets.s3.amazonaws.com/img/shop.gif"></span></div></a> </div> <div class="hmenu_col_devider"></div> </div> <!-- END: COL --> </div> </div> <!-- END: MEGA --> </li><li class=""><a href="https://thewalrus.ca/donate/" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap icon_hero_default_solid_e631 hmenu_nav_uni_61"><span>Donate</span></div></a><div class="hmenu_item_devider"></div></li><li class=""><a href="https://thewalrus.ca/subscribe/" target="_self" title="" ><div class="hmenu_no_sub hmenu_wrap icon_hero_default_solid_e61e hmenu_nav_uni_62"><span>Subscribe</span></div></a><div class="hmenu_item_devider"></div></li><li class="hmenu_mega_li hmenu_remove_mega_mobile hmenu_remove_mega "><a title=""><div class="hmenu_wrap icon_hero_default_thin_e645 hmenu_nav_uni_13 hmenu_mega_menu icon_hero_default_thin_e600"><span></span></div></a><div class="hmenu_item_devider"></div> <!-- BEGIN: MEGA --> <div class="hmenu_submenu hmenu_mega_sub hmenu_drop_devider" > <!-- MEGA SUB --> <div class="hmenu_mega_inner"> </div> </div> <!-- END: MEGA --> </li></ul> <ul class="hmenu_show_for_mobile"> <li class="hmenu_mobile_search_holder"> <form role="search" method="get" id="searchform_mobile" class="searchform_mobile" action="https://thewalrus.ca/"> <div class="hmenu_search_btn hmenu_trigger_search icon_hero_default_thin_e654"></div> <input type="text" value="" name="s" id="s_mobile" placeholder="Search" /> <input type="submit" id="hmenu_search_submit_mobile" class="hmenu_search_submit" value="Search" /> </form> </li> </ul> </div> <div class="hmenu_grp_devider"></div> <!-- END: NAV --> </div> <!-- END: LEFT --> <!-- BEGIN: CENTER --> <div class="hmenu_center"> <!-- BEGIN: LOGO --> <div class="hmenu_logo"> <a href="http://thewalrus.ca" target="_self"> <img class="logo_main lazy" alt="The Walrus" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://walrus-assets.s3.amazonaws.com/img/the-walrus-logo-1400-white-on-transparent.png"> </a> </div> <div class="hmenu_grp_devider"></div> <!-- END: LOGO --> </div> <!-- END: CENTER --> <!-- BEGIN: RIGHT --> <div class="hmenu_right"> <!-- BEGIN: SEARCH --> <div class="hmenu_search_holder hmenu_hide_for_mobile" > <div class="hmenu_search_container"> <div class="hmenu_search_inner"> <div class="hmenu_search_wrap"> <div class="hmenu_search_display hmenu_search_slide"><!-- hmenu_search_classic, hmenu_search_slide, hmenu_search_full --> <div class="hmenu_search_btn hmenu_trigger_lightbox icon_hero_default_thin_e654" data-id="1" data-link="hmenu_slide_1" data-type="slide" data-width="120" data-height="40" data-search-toggle="close"></div> </div> </div> </div> </div> </div> <div class="hmenu_grp_devider"></div> <!-- END: SEARCH --> <!-- BEGIN: TOGGLE --> <div class="hmenu_toggle_holder hmenu_mobile_show" data-toggle="close"> <div class="hmenu_grp_devider"></div> <ul class="hmenu_hover_color"> <li><a><div class="hmenu_wrap icon_hero_default_thin_e645"></div></a></li> </ul> </div> <!-- END: TOGGLE --> </div> <!-- END: RIGHT --> </div> <!-- END: INNER --> <!-- BEGIN: SEARCH FULL INPUT --> <div class="hmenu_search_lightbox_input" id="hmenu_slide_1"> <div class="hmenu_search_lightbox_close icon_hero_default_thin_e618"></div> <div class="hmenu_lightbox_form_holder"> <form role="search" method="get" id="searchform" class="searchform" action="https://thewalrus.ca/"> <input type="text" value="" name="s" id="s_lightbox" class="hmenu_search_1" placeholder="Search"/> <div class="hmenu_search_btn hmenu_trigger_search icon_hero_default_thin_e654"></div> <input type="submit" id="hmenu_search_submit_lightbox" class="hmenu_search_submit" value="Search" /> </form> </div> </div> <!-- END: SEARCH FULL INPUT --> </div> <!-- END: MAIN --> </div></div>					
+										
+				</nav><!-- #site-navigation -->
+			</div><!-- .hm-container -->
+		</div><!-- .hm-nav-container -->
+
+		
+		<div class="hm-header-sidebar"><aside id="doubleclick_widget-2" class="widget widget_doubleclick_widget"><div class='dfw-unit dfw-lazy-load' data-adunit='LB' data-size-mapping='mapping2'></div></aside></div>	</header><!-- #masthead -->
+
+	
+	<div id="content" class="site-content">
+		<div class="hm-container">
+
+</div>
+<!-- .hm-container -->
+
+
+	
+	<div class="th-hero-container hm-post-style-6 " >
+       
+
+		<header class="entry-header hm-img-post-header">
+            <div id="hero_image_holder">
+                <img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://walrus-assets.s3.amazonaws.com/img/Braga_Toys_1200_01.jpg" alt="">
+             
+            </div>
+            
+            <figcaption class="aside_wp_caption_text"><div></div></figcaption>   
+            
+            <div id="hero_title_holder">
+            <div class="hm-header-content">
+				<div class="cat-links"><a href="https://thewalrus.ca/category/current-affairs/business/" rel="category tag">Business</a> / <a href="https://thewalrus.ca/category/issues/2022-09/" rel="category tag">September/October 2022</a></div><h1 class="entry-title">How Do You Make the Perfect Toy?</h1><p>Fads come and go, but how to create a toy that stands the test of time is the billion-dollar question</p>			<div class="entry-meta">
+			<span class="posted-on"><a href="https://thewalrus.ca/how-do-you-make-the-perfect-toy/" rel="bookmark"><time class="entry-date published" datetime="2022-09-06T16:30:21-04:00">September 6, 2022</time><time class="updated" datetime="2022-09-08T11:11:17-04:00">September 8, 2022</time></a></span><span class="meta-sep"> - </span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://thewalrus.ca/author/matthew-braga/">Matthew Braga</a></span></span><a href="https://thewalrus.ca/author/matthew-braga/" title="Posts by Matthew Braga" rel="author">Matthew Braga</a><br >Illustration by 			<a href="https://thewalrus.ca/author/hudson-christie/">Hudson Christie</a><span class="authors last">, </span>
+		<span class='datepublished'> Updated 11:11, Sep. 8, 2022&nbsp;|&nbsp;Published 16:30, Sep. 6, 2022</span>
+                </div>
+                <!-- .entry-meta -->
+					
+								</div>
+            <!--/hm-header-content-->
+            
+            </div>
+            <!--/hero_title_holder-->         
+		</header>
+	</div>
+    <!-- .th-hero-container .post-style-6 -->
+
+	<div class="hm-container">
+
+
+	
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+<article id="post-148773" class="hitmag-single post-148773 post type-post status-publish format-standard has-post-thumbnail hentry category-business category-2022-09 tag-business tag-children tag-games tag-hasbro tag-mattel tag-spin-master tag-toys type-of-work-analysis grow-content-body">
+
+	
+	
+	
+	<div class="entry-content">
+		<p><span class="dropcap">M</span><span class="smallcaps">ifrah Abid’s</span> eight-year-old son, Moosa, loves The Avengers. He’s obsessed with his Iron Man action figure and can talk at length about its many suits. Her twelve-year-old daughter, Tooba, meanwhile, went through a <em>Roblox</em> phase, playing a video game that’s all the rage with kids her age. But, early in the pandemic, when everyone was spending more time together at home, Abid went looking for something the whole family could enjoy. “[Millennial parents] don’t know about new toys,” said Abid, who lives in Kitchener, Ontario, and is host and producer of the interview podcast <em>Across Her Table</em>, which focuses on women with immigrant roots. “We were like, ‘Let’s go back to what we know.’” She thought back to her own childhood, to those old games the family played while crowded around the table&mdash;Monopoly, Pictionary, Uno. She decided to try to introduce them to her kids. Now Moosa and Tooba love them too. </p><div class='code-block code-block-4' style='margin: 8px 0; clear: both;'>
+<!-- Widget Shortcode --><div id="custom_html-47" class="widget_text widget widget_custom_html widget-shortcode area-arbitrary "><div class="textwidget custom-html-widget"><div class='_form_1'></div><script type='text/javascript' src='https://thewalrus.activehosted.com/f/embed.php?static=0&id=1&634097A34CB8D&nostyles=1&preview=0'></script></div></div><!-- /Widget Shortcode --></div>
+
+<p>It was a similar story for Robert Lee and his two daughters. Allie is six, Annie is four, and they both love all things Paw Patrol, Peppa Pig, and Baby Shark. But, for Christmas two years ago, their mother bought them a Lite-Brite and a Spirograph&mdash;simple art toys invented back in the ’60s that she remembered from her own early years. These weren’t the toys that Lee’s daughters typically saw in the YouTube videos they watched. They didn’t have flashy advertising campaigns or tie-in television shows, meaning the kids would never think to ask for them on their own. But Allie and Annie loved playing with them all the same.</p>
+<ul class="related">
+<li><a href="https://thewalrus.ca/make-up-influencers/">Makeup and Money: The Persuasive Pull of Beauty Influencers</a></li>
+<li><a href="https://thewalrus.ca/what-do-you-do-with-a-billion-grams-of-surplus-weed/">What Do You Do with a Billion Grams of Surplus Weed?</a></li>
+<li><a href="https://thewalrus.ca/what-we-can-learn-from-the-fall-of-mec/">What We Can Learn from the Fall of MEC</a></li>
+</ul>
+<p>Kids get older, and fads come and go. But some toys persist, almost stubbornly&mdash;artifacts passing from one generation to the next. In the toy business, these products are considered “classics.” It’s an amorphous category <a name="newsletter"></a>filled with all sorts of games and toys that have just a few things in common: namely, they are survivors in an industry where trends rule all. The Rubik’s Cube is, in many ways, the perfect example of a classic toy. More than 450 million are estimated to have been sold since 1978, with up to tens of millions of units still moving in a year. Etch A Sketch (180 million sold since 1960), Lego, Potato Head, Barbie, and, of course, Play-Doh are classics too. These toys are instantly recognizable but rarely advertised. They’re often low tech or analog. In fact, in a world full of screens, their tactility is increasingly part of the draw. Often, classic toys encourage what academics say is high-quality play, like problem solving or imaginative thinking. And, as some experts have found, such toys are highly nostalgic&mdash;conjuring warm, fuzzy memories in the parents who do the buying. This is how toys turn into tradition.</p>
+<p>In 2016, Jane Eva Baxter published an article in the <em>International Journal of Play</em> that considered the role of nostalgia in keeping two particular items alive: the rotary-style Fisher-Price Chatter Telephone and wearable Mickey Mouse ears. Toys, she wrote, are often thought of as tools of preparation. It’s the reason parents buy Lego (to encourage creativity and cognitive thinking) or dolls (to simulate caregiving). It’s why most daycares and kindergarten classes have colourful blocks with the alphabet printed on the sides: to teach, to set kids up for future success.</p>
+<p>But learning and development can’t be the only reason certain toys stick around, wrote Baxter, who is chair of the anthropology department at Chicago’s DePaul University and an archaeologist and historian of childhood. After all, here were two items&mdash;a rotary phone and mouse ears&mdash;that have persisted despite having no clear connection with the present. “The emotional connection adults have to this iconic toy has kept it in the marketplace despite the fact that a rotary-dial landline phone is technologically irrelevant for children today,” Baxter wrote. The same could be said of Mickey Mouse ears. The toy hasn’t appeared on TV as much in recent years, is no longer featured prominently in Disney’s theme parks, and is based on a character who is “increasingly peripheral to the Disney brand.”</p><div class='code-block code-block-1' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+<!-- Widget Shortcode --><div id="doubleclick_widget-3" class="widget widget_doubleclick_widget widget-shortcode area-in-content1 "><div class='dfw-unit dfw-lazy-load' data-adunit='In-Content' data-size-mapping='mapping3'></div></div><!-- /Widget Shortcode --></div>
+
+<p>Speaking from her home in Chicago, Baxter explains that parents, not toy producers, were the ones driving these sales. “There is this nostalgic element of either wanting to share something from their own childhood or give something that they felt they lacked in their childhood, because they think it will be good,” Baxter says. Especially now, in a largely digital world, there is something about these analog toys “that parents see as desirable for their children [and] that we find desirable for ourselves.” In fact, when Fisher-Price tried to modernize its iconic toy phone by removing the rotary dial, there was a consumer revolt, and sales fell. Nostalgia, Baxter concluded, is what keeps certain toys alive. </p>
+<p>If you’re Toronto-based Spin Master, one of the largest toy makers in the world, nostalgia is also good for business. Founded in 1994 by two recent graduates from Western University, Spin Master quickly made a name for itself creating playground fads. One early success was 1997’s Air Hogs, a pump-powered, hand-thrown plane that could fly the length of a football field on nothing more than pressurized air. Then there was Bakugan, a 2007 mania centred on battling creatures from another dimension (think a mash-up of Pokémon, Transformers, and Yu-Gi-Oh), which involved an anime series, collectible trading cards, transforming toys, and a board game.</p>
+<p>And, of course, there’s Paw Patrol. Created in 2013, Spin Master’s star franchise follows the adventures of a group of rescue dogs and their leader, a human boy named Ryder. Paw Patrol has spanned nine TV seasons, a Hollywood film (the second is now on the way), and, most importantly, a sprawling line of toys, merchandise, and games. The brand practically prints money for Spin Master, which today is worth around $4.4 billion and has 2,000 employees spread across nearly twenty countries. </p>
+<p>But the company learned an important lesson from Bakugan, which had generated more than $1 billion in toy sales by 2014, before its popularity started to wane: what goes up eventually comes down, especially when it comes to fickle young audiences. That’s where the classic toys come in. Having one of these brands in your portfolio is every sales department’s dream. They practically sell themselves.</p>
+<p>Beginning in 2013, Spin Master went on a spree of acquiring classic toy brands. It started with the century-old British construction toy Meccano (also known as Erector), which allows kids to build models by joining metal strips and plates with nuts and bolts. Then, in 2015, the company paid more than $50 million (US) for Cardinal Industries, one of the oldest manufacturers of chess sets and other traditional board games in the US. It bought Etch A Sketch in 2016. Plush maker Gund, founded in 1898, was snatched up for nearly $80 million (US) in 2018. And, three years later, Spin Master closed on Rubik’s Cube for about $50 million (US). Spin Master, like a Hungry Hungry Hippo, has been gobbling up many of the oldest and most-loved toys in North America with gusto and learning lessons along the way about what products stand the test of time.</p><div class='code-block code-block-2' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+<!-- Widget Shortcode --><div id="doubleclick_widget-4" class="widget widget_doubleclick_widget widget-shortcode area-in-content2 "><div class='dfw-unit dfw-lazy-load' data-adunit='In-Content-Lower' data-size-mapping='mapping4'></div></div><!-- /Widget Shortcode --></div>
+
+<p>Most toys burn hot, bright, and fast, making Paw Patrol’s nine-year reign something of an anomaly. But, eventually, even Paw Patrol will fade. So why is it that some toys don’t? Many companies are trying to figure out the answer to this question, because as great as it is to invent the must-have toy of the season, it’s even better to create one that kids will be playing with 100 years from now.</p>
+<p><span class="dropcap">I</span><span class="smallcaps">n a Connecticut classroom,</span> a wooden-block monolith rises from the floor. The tower is flanked by two small children on a mission to make it taller. But there’s a problem: there are no more long blocks left on the shelf. The children have used them all. One of the boys looks around, and after a moment of deep thought, a look of recognition spreads across his face. You can almost see the light bulb flash. He takes two smaller blocks and connects them together. Now, “this is a long one,” the boy says, triumphant. Problem solved; the tower grows.</p>
+<p>The precocious boys were being filmed by researchers at Eastern Connecticut State University’s Center for Early Childhood Education. They were part of a long-term study of preschool children called TIMPANI, or Toys That Inspire Mindful Play and Nurture Imagination. From 2010 to 2019, TIMPANI researchers put kids together in rooms and observed how they interacted&mdash;with toys and with one another. A generation of kids built whimsical Duplo houses and elaborate marble runs. They pretended to run stores, bakeries, and ice cream shops, with all the requisite props. Simple toys proved especially popular, the researchers found, and those old-timey blocks, cars, people, and shapes seemed to yield the most imaginative play. Julia DeLapp, the centre’s director, says that while there’s been lots of research on how children play and how play affects a child’s development, less attention has been paid to the toys themselves. What kinds of toys encourage the most creativity, imagination, problem solving, or collaboration? What, specifically, makes a kid gravitate toward one toy over another? DeLapp and her colleagues had their suspicions, but they decided to test them out&mdash;and for good reason. “I think that children’s earliest experiences with play influence them for the rest of their lives,” she says.</p>
+<p>Each year, Eastern used its findings to crown a “TIMPANI Toy of the Year,” and it probably won’t come as a surprise that many are certifiable classics: Hot Wheels, Duplo bricks, Tinkertoys. “The reason they’re still around is because they are fabulous toys. They allow children to use their imagination. They’re very open ended,” says DeLapp. The study consistently found that construction toys (like Lego or Tinkertoy) and replica toys (fire trucks, stuffed animals, and dolls) produced the most imaginative and creative play. The less restrictive and more flexible the toy, the better. In one example, the researchers found that a wooden cash register encouraged children to talk about buying and selling items, whereas an electronic one with lights and sounds encouraged them to press buttons instead&mdash;more entertainment than engagement. “The more open ended a toy is, the more room there is for children to make it anything they want [it] to be,” says DeLapp. “The beauty of simple toys is that they don’t do anything for a child. And so it’s up to the child to figure out what to do.”</p>
+<p>Many of the items on TIMPANI’s list can also be found in the National Toy Hall of Fame, a shrine to fun housed at the Strong National Museum of Play in Rochester, New York. Though not academically rigorous by any means, the hall of fame has inducted seventy-seven toys since its creation in 1998. In its first year, it welcomed Play-Doh, Monopoly, Etch A Sketch, Barbie, Erector set, Lego, and Tinkertoy. Later years have added Mr. Potato Head, Slinky, Tonka trucks, and Rubik’s Cube. All were chosen based on a mix of popularity, longevity, and the quality of play. But the hall of fame has also inducted a handful of items that aren’t toys in the commercial sense: objects like “stick,” “ball,” “sand,” and “cardboard box.” All parents know that kids love boxes. “You can go in it, you could go on it, you can draw on it, you can cut it apart. It could be anything. It affords a lot of different types of play,” says Barry Kudrowitz, a professor at the University of Minnesota. He has taught toy design for eleven years and is the author of a forthcoming book about play and innovation.</p>
+<p>Kudrowitz says that, much like the humble box, the toys and games we most often think of as classics are the ones kids can figure out on their own, regardless of the cultural or social contexts around them. Imagine a time traveller encountering a Rubik’s Cube for the first time. “The size of it is going to say, ‘Pick me up,’ because it’s designed to fit exactly in your hand,” he says. It doesn’t take much to realize the cube moves and to notice the different colours on each of the squares. “It’s only a few steps before you start making a game out of it and realize that there’s a challenge to it,” he explains. It’s similar to how it doesn’t take much to infer the relationship between a basketball and a hoop or what happens when you turn the knobs of an Etch A Sketch. The constraints guide the player, but there’s enough freedom and challenge to keep them coming back. It’s no wonder the robot WALL-E, in Pixar’s eponymous 2008 film, could figure out how to play with a Rubik’s Cube some 800 years after humans left Earth behind.</p>
+<p>Of course, a Rubik’s Cube is also more than just a well-designed puzzle; in Kudrowitz’s words, it’s the embodiment of what is now a classic play pattern: challenge play. Other patterns include replica play, co-operative play, competitive play, pretend play, construction play, creative play, or nurturing play&mdash;there’s no single, agreed-upon classification&mdash;but what’s important is that these ways of engaging with the world haven’t really changed much over time. A Nerf ball gets a certain amount of its power from its tactility, design, and marketing&mdash;but also from the fact that humans, all over the world, have been playing with balls since time immemorial. Or consider the act of jumping rope; Egyptians were using vines for skipping games in 1600 BCE. </p>
+<p>“I don’t think that’s going to go away ever,” says Kudrowitz of the Rubik’s Cube. “And that’s why it’s classic.”</p>
+<p><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E" data-src="https://walrus-assets.s3.amazonaws.com/img/Braga_Toys_1200_02.jpg" alt="" width="1200" height="1200" class="alignnone size-full wp-image-148779 lazy" /></p>
+<p><span class="dropcap">B</span><span class="smallcaps">en Varadi</span> was about ten when he saw a Rubik’s Cube for the first time. Hungarian designer Ernő Rubik invented his special cube in 1974, and by the time Varadi encountered it, in the ’80s, it was already a hit. The Spin Master co-founder grew up in north Toronto and spent hours each week at a store called The Toy Man while his mom ran errands nearby. Shelf by shelf, he would study every item, and he remembers the small, colourful cube catching his eye. After Varadi grew up and entered the toy business himself, he saw first-hand how those childhood impressions stick with a person and help keep classic toys like Rubik’s Cube alive.</p><div class='code-block code-block-2' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+<!-- Widget Shortcode --><div id="doubleclick_widget-4" class="widget widget_doubleclick_widget widget-shortcode area-in-content2 "><div class='dfw-unit dfw-lazy-load' data-adunit='In-Content-Lower' data-size-mapping='mapping5'></div></div><!-- /Widget Shortcode --></div>
+
+<p>“With a new toy, you’ve got to tell the story and hope that someone gets excited about that story on day one, right? Because they’ve never seen it. They’ve never heard of it. They don’t know what it is. They don’t know what it does,” Varadi says. But there’s something transportive, even transcendent, about encountering a toy you played with as a kid. “I don’t think we realize the power of a classic,” he continues, “because a classic speaks to us in ways we don’t even understand.”</p>
+<p>Spin Master has stiff competition in the industry, as two of the biggest players, Hasbro and Mattel, are practically classic incarnate. Both rose to prominence in the early to mid-twentieth century and possess deep catalogues of legacy toys (Easy-Bake Oven, Jenga, and Potato Head for Hasbro; Fisher-Price, Hot Wheels, and Barbie for Mattel). For a comparatively young company like Spin Master, acquisitions are the only way to keep up. When Spin Master considers an acquisition, long-term margins and profitability are significant factors, as is the time it will take to pay off the investment. “The life cycle in toys is often two or three years. And [as a company] you don’t want to buy things that are only going to be around two or three years,” says Chris Beardall, a twenty-year Spin Master veteran and its chief commercial officer. </p>
+<p>Spin Master, like many publicly traded companies, doesn’t disclose revenue or sales for individual brands or items. But, based on its public financial filings, sales in the activities, games, puzzles, and plush category&mdash;where many of its classics are counted&mdash;have more than doubled since 2015. </p>
+<p>One of the standouts in the category is a relative newcomer called Kinetic Sand. When Beardall first saw the toy, around 2005, it didn’t seem especially consequential. Created by a pair of Swedish inventors in 1994, the toy is exactly what it sounds like: a pail of material that feels just like wet sand you’d play with at the beach. Kids can make castles and shapes; they can build and destroy. Unlike real sand, though, Kinetic Sand never dries out and is easy to clean&mdash;but so what? “I didn’t think it would work,” Beardall recalls. “It just didn’t make sense to me that we were going to sell this interesting sand to kids in lieu of Play-Doh.”</p>
+<p>Kids seemed to love it all the same, and in 2007, Spin Master gave it a shot. It licensed the rights and initially sold the product under the name Moon Sand. “It was a big hit,” Beardall says. Moon Sand took home a prize at that year’s Toy of the Year Awards, and, eventually, Beardall came around. Rebranded in recent years as Kinetic Sand, the toy remains a hot seller and a frequent highlight in Spin Master’s quarterly reports. In twenty years, Beardall says, it will be recognized as a classic, right next to Play-Doh on store shelves. Parents will see it, remember having played with it as children, and buy it for their kids.</p>
+<p>That familial relationship isn’t incidental. For the toys that survive, it’s key. “Nobody’s like, ‘Do you want to use the washing machine my grandmother used?’ No!” says Baxter, the childhood archaeologist. But childhood is a powerful and potent time in one’s life&mdash;something we tend to idealize the older we get. Unlike grandma’s washing machine, Baxter says, there’s an “inherent conservatism” in children’s toys that makes them an incredibly useful vehicle for passing along memories and family histories. In her journal article, Baxter even included a picture of her nephew playing with a Fisher-Price Chatter Telephone she gave him as a gift. “Why did I do that? Because I had one, and I loved my Chatterbox phone as a little kid,” Baxter says. It’s harder to convince a child to care for a toy you never cared for yourself.</p>
+<p>Of course, the window when kids will actually play with what adults give them is terribly small. By the time a child is ten, “they already know what they want,” Baxter says. But, until that happens, adults have unparalleled power to influence play. When a child sees something that adults fancy&mdash;consider the way a room will “oooh” in unison when a Tonka truck is unwrapped&mdash;they are likelier to become excited about it too. And, when that child grows up, they are more likely to share that experience with their own kids. For a toy to last generations, it has to be a vehicle in more than just the literal sense.</p>
+<p><span class="dropcap">J</span><span class="smallcaps">oan Ramsay</span> has been in the toy business for more than twenty years&mdash;long enough to see many attempts to revive and reimagine old toys. “I couldn’t begin to count the number of times My Little Pony’s come back,” says Ramsay, who’s held senior positions at Hasbro Canada and the video game company THQ and now heads analysis of the Canadian toy industry for the NPD Group, a market-research firm. “When there’s a new group of kids every four years, it’s new to those children. It’s brilliant. If you’ve got something that works, why not?”</p>
+<p>But popularity in the past doesn’t always spell success in the future, and the reality is that every toy on a store shelf faces stiff competition in an increasingly crowded market. Analyst Chris Byrne says that more than half of the products on offer in the toy industry are new every year&mdash;a figure that’s unprecedented in other businesses.</p>
+<p>So toy makers have to get creative to keep consumers buying. Licensing is a common&mdash;and often successful&mdash;way companies take old toys or games and make them feel new again. “That little square that we’ve all stepped on&mdash;for Lego, that hasn’t changed. But then they add topical licences to keep it fresh,” Ramsay says. Think of the Lego versions of Star Wars’ R2-D2 or <em>Minecraft</em>-themed play sets. “That provides the newness, if you will, that keeps people coming back to buy Lego again and again and again.”</p><div class='code-block code-block-2' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+<!-- Widget Shortcode --><div id="doubleclick_widget-4" class="widget widget_doubleclick_widget widget-shortcode area-in-content2 "><div class='dfw-unit dfw-lazy-load' data-adunit='In-Content-Lower' data-size-mapping='mapping6'></div></div><!-- /Widget Shortcode --></div>
+
+<p>But this approach, too, is effective only for so long. Toys tied to characters or brands can be hard to sustain, because those things are often associated with the specific culture or era in which they’re created. Byrne points to Pound Puppies, which were initially sold in the ’80s, a time when adoption figured prominently in the cultural conversation. But that no longer resonates with kids the same way. Or consider Care Bears, Cabbage Patch Kids, Strawberry Shortcake, and Polly Pocket: all rode a bygone trend of sweetness and cuteness that doesn’t have the same cachet today. “People are finding an audience for these,” says Byrne of these revivals, but “they haven’t become the phenomena they once were.” Without a newfound well of cultural relevance&mdash;the kind that My Little Pony found in 2010 with its animated TV revival&mdash;it’s even harder to stand apart from all the other plush toys on store shelves.</p>
+<p>Even nostalgia for some of the most successful toys runs the risk of losing its sheen as our connection with the past frays. Baxter thinks that, after a few generations, even something as timeless as a Rubik’s Cube may struggle to stay relevant without the stories we tell to keep it alive&mdash;stories that will inevitably be replaced by memories of newer, more potent toys. “Eventually, that’s going to break down,” she says. “Even the object isn’t going to be able to hold that intangible chain together.”</p>
+<p>So what <em>does</em> stand the test of time? Ask Byrne and he’ll tell you the toys that never get old are the ones that consistently light up a child’s imagination; that let them explore, express themselves, and be creative; that survive cultural and societal shifts alike. Something timeless, Byrne says, like&thinsp;.&thinsp;.&thinsp;.&thinsp;He-Man.</p>
+<p>He-Man?</p>
+<p>Yes, the blonde, buff hero&mdash;an icon of ’80s machismo&mdash;has been updated and reimagined for a new generation. He-Man and his friends, the Masters of the Universe, still have adventures and wage war against the evil Skeletor, who is intent on conquering Castle Grayskull, the source of He-Man’s power. But, unlike in the original series, the spotlight now equally shines on the powerful women who fight by He-Man’s side, and Black heroes are also finally front and centre. Netflix released a pair of new animated series in 2021 that embodied this new approach. <em>Masters of the Universe: Revelation</em>, written by Kevin Smith, was a more mature take aimed at adults who watched <em>He-Man</em> growing up, featuring a high-profile cast of familiar names, including Mark Hamill, Sarah Michelle Gellar, Henry Rollins, and Alicia Silverstone. The rebooted <em>He-Man and the Masters of the Universe</em>, meanwhile, was aimed at kids, like the original. Both arrived with a new line of toys.</p>
+<p>The return of He-Man raises a crucial, confounding question: How does a toy make the transition from fad to future classic? Rubik’s Cube was considered a temporary blip when it launched, after all. It’s tempting to think it’s just a matter of time. But time merely gives us the perspective to see, after the hype has gone, what was there all along. A Rubik’s Cube is a magic trick, a math equation, a cultural phenomenon&mdash;but its longevity suggests a kind of play that’s ancient and instinctive: the human reflex to match like with like. In this respect, it’s no different from the stick, the ball, the cardboard box. </p>
+<p>So, yes, in that context, He-Man’s inclusion in the pantheon of classics might sound strange. But what’s timeless about He-Man, as Byrne explains, is actually something deeply, enduringly human. It’s a personified idea that gets to the heart of childhood: “the desire to have agency over your actions and to have power. And it’s not necessarily aggressive power,” he says. “When you’re five and your whole life is, ‘Eat your peas, do your homework, get in the minivan, change your clothes, do all of this,’ how cool to be somebody who can just say, ‘BY THE POWER OF GRAYSKULL’ and turn into something enormously powerful? That’s so cool!” And it’s a feeling kids will have forever. </p>
+<div class="spu-placeholder" style="display:none"></div><!-- AI CONTENT END 1 -->
+		<section id="sexy_author_bio_widget-2" class="widget widget_sexy_author_bio_widget"><div id="sexy-author-bio" style="margin:10px 0;" class="matthew-braga"><script type="application/ld+json">
+							{
+							  "@context" : "http://schema.org",
+							  "@type" : "Person",
+							  "name" : "Matthew Braga",
+					 		  "url" : "https://thewalrus.ca/author/matthew-braga/",
+							  "sameAs" : [
+							  ]
+							}
+							</script><div id="sab-social-wrapper"></div><div id="sab-author"><a rel="author" href="https://thewalrus.ca/author/matthew-braga/" title="Matthew Braga" target="_top">Matthew Braga</a></div><div id="sab-gravatar"><a href="https://thewalrus.ca/author/matthew-braga/" target="_top"><img alt='Matthew Braga' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2070%2070'%3E%3C/svg%3E" data-src='https://secure.gravatar.com/avatar/56b9b668f00e076df88cc9fe69cbb829?s=70&#038;d=mm&#038;r=pg' data-srcset='https://secure.gravatar.com/avatar/56b9b668f00e076df88cc9fe69cbb829?s=140&#038;d=mm&#038;r=pg 2x' class='avatar avatar-70 photo lazy' height='70' width='70'/></a></div><div id="sab-description">Matthew Braga is a Toronto-based writer, editor, and former senior reporter for CBC News.</div></div><div id="sexy-author-bio" style="margin:10px 0;" class="hudson-christie"><script type="application/ld+json">
+							{
+							  "@context" : "http://schema.org",
+							  "@type" : "Person",
+							  "name" : "Hudson Christie",
+					 		  "url" : "https://thewalrus.ca/author/hudson-christie/",
+							  "sameAs" : [
+							  ]
+							}
+							</script><div id="sab-social-wrapper"></div><div id="sab-author"><a rel="author" href="https://thewalrus.ca/author/hudson-christie/" title="Hudson Christie" target="_top">Hudson Christie</a></div><div id="sab-gravatar"><a href="https://thewalrus.ca/author/hudson-christie/" target="_top"><img alt='Hudson Christie' src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2070%2070'%3E%3C/svg%3E" data-src='https://secure.gravatar.com/avatar/5ccfee5bbdc2c61ac99bb24f66530468?s=70&#038;d=mm&#038;r=pg' data-srcset='https://secure.gravatar.com/avatar/5ccfee5bbdc2c61ac99bb24f66530468?s=140&#038;d=mm&#038;r=pg 2x' class='avatar avatar-70 photo lazy' height='70' width='70'/></a></div><div id="sab-description">Hudson Christie (<a href="http://www.hudsonchristie.com/"><em>hudsonchristie.com</em></a>) is a Toronto-based illustrator whose three-dimensional works have been featured in the <em>New York Times</em> and <em>The New Yorker</em>.</div></div></section><section id="custom_html-46" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><!-- Widget Shortcode --><div id="custom_html-45" class="widget_text widget widget_custom_html widget-shortcode area-arbitrary "><div class="textwidget custom-html-widget"><div style="background-color: white; padding: 16px;">
+<h4 class="widget-title">Join our community</h4>
+<div class="su-animate" style="opacity:0;-webkit-animation-duration:1s;-webkit-animation-delay:0s;animation-duration:1s;animation-delay:0s;" data-animation="fadeInDown" data-duration="1" data-delay="0"></div>
+<style>
+#custom_html-44 {
+background: #f5f5f5;
+padding-left: 22px;
+padding-right: 22px;
+padding-bottom: 50px;
+border-color: #fb5954;
+border-width: 2px;
+text-align: left;
+max-width: 990px;
+margin: 0 auto !important;
+margin-top: 25px !important;
+}
+
+.letter_bio {
+display: flex;
+flex-flow: row nowrap;
+align-items: center;
+}
+
+.letter_bio img {
+margin: 0 8px 0 4px;
+width: 120px;
+height: 112px;
+}
+</style>
+Dear Readers,
+<br><br>
+For years, experts have raised the alarm about political polarization. It’s been said the left and right can’t talk to each other. Blame the political climate. Blame the rise of tech platforms and social media algorithms.
+But we don’t talk enough about the difference in the quality of the information that we receive and share.
+<br><br>
+As more and more media outlets die and as parts of Canada become “news deserts,” there are two types of citizens emerging: those with access to high-quality, fact-based journalism, like the kind you’ll find in The Walrus, and those without it.
+<br><br>
+One thing all reliable media outlets have in common: it takes time and adequate funding to produce good journalism.
+<br><br>
+If you like reading The Walrus, we ask that you consider <a href="https://secure.thewalrus.ca/M29FLJJW">becoming a monthly supporter.</a> Your donation helps us keep The Walrus’s fact-checked online journalism free to all.
+<br><br>
+<div class="letter_bio">
+<img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E" data-src="https://walrus-assets.s3.amazonaws.com/img/jessica-johnson-new-headshot-bw.png" alt="Jessica Johnson" width="150px" align="left" style="padding-right:10px;">
+<div>
+Sincerely,<br />Jessica Johnson<br />Editor-in-Chief
+</div>
+</div>
+<br><br>
+<button onclick="window.open('https://secure.thewalrus.ca/M28FLJHW')" style="text-transform: none;">Become a monthly supporter</button>
+</div></div></div><!-- /Widget Shortcode --><div class="spu-placeholder" style="display:none"></div><!-- AI CONTENT END 2 -->
+</div></section>	</div><!-- .entry-content -->
+
+	
+	<footer class="entry-footer">
+		<span class="hm-tags-links"><span class="hm-tagged">Tagged</span><a href="https://thewalrus.ca/tag/business/" rel="tag">business</a><a href="https://thewalrus.ca/tag/children/" rel="tag">children</a><a href="https://thewalrus.ca/tag/games/" rel="tag">games</a><a href="https://thewalrus.ca/tag/hasbro/" rel="tag">Hasbro</a><a href="https://thewalrus.ca/tag/mattel/" rel="tag">Mattel</a><a href="https://thewalrus.ca/tag/spin-master/" rel="tag">Spin Master</a><a href="https://thewalrus.ca/tag/toys/" rel="tag">toys</a></span>	</footer><!-- .entry-footer -->
+
+		
+</article><!-- #post-## -->
+
+        <div class="hm-related-posts">
+        
+        <div class="wt-container">
+            <h4 class="widget-title">Related Posts</h4>
+        </div>
+
+        <div class="hmrp-container">
+
+            
+                    <div class="hm-rel-post">
+                        <a href="https://thewalrus.ca/why-are-sex-workers-forced-to-wear-a-financial-scarlet-letter/" rel="bookmark" title="Why Are Sex Workers Forced to Wear a Financial Scarlet Letter?">
+                            <img width="348" height="232" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20348%20232'%3E%3C/svg%3E" data-src="https://walrus-assets.s3.amazonaws.com/img/Macdonald_OnlyFans_1800-348x232.jpg" class="attachment-hitmag-grid size-hitmag-grid wp-post-image lazy" alt="The top of a laptop with a camera turned on, showing the online profile of a sex worker" data-srcset="https://walrus-assets.s3.amazonaws.com/img/Macdonald_OnlyFans_1800-348x232.jpg 348w, https://walrus-assets.s3.amazonaws.com/img/Macdonald_OnlyFans_1800-735x490.jpg 735w, https://walrus-assets.s3.amazonaws.com/img/Macdonald_OnlyFans_1800-1536x1024.jpg 1536w, https://walrus-assets.s3.amazonaws.com/img/Macdonald_OnlyFans_1800-1200x800.jpg 1200w, https://walrus-assets.s3.amazonaws.com/img/Macdonald_OnlyFans_1800.jpg 1600w" data-sizes="(max-width: 348px) 100vw, 348px" />                        </a>
+                        <h3 class="post-title">
+                            <a href="https://thewalrus.ca/why-are-sex-workers-forced-to-wear-a-financial-scarlet-letter/" rel="bookmark" title="Why Are Sex Workers Forced to Wear a Financial Scarlet Letter?">
+                                Why Are Sex Workers Forced to Wear a Financial Scarlet Letter?                            </a>
+                        </h3>
+                        <p class="hms-meta"><time class="entry-date published" datetime="2022-09-26T13:06:38-04:00">September 26, 2022</time><time class="updated" datetime="2022-09-28T12:28:43-04:00">September 28, 2022</time></p>
+                    </div>
+                
+                
+                    <div class="hm-rel-post">
+                        <a href="https://thewalrus.ca/when-big-tobacco-was-forced-to-pay/" rel="bookmark" title="When Big Tobacco Was Forced to Pay">
+                            <img width="348" height="232" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20348%20232'%3E%3C/svg%3E" data-src="https://walrus-assets.s3.amazonaws.com/img/Knelman_Firebrand_1200-1-348x232.jpg" class="attachment-hitmag-grid size-hitmag-grid wp-post-image lazy" alt="A hand putting out a cigarette on a stack of folders." data-srcset="https://walrus-assets.s3.amazonaws.com/img/Knelman_Firebrand_1200-1-348x232.jpg 348w, https://walrus-assets.s3.amazonaws.com/img/Knelman_Firebrand_1200-1-735x490.jpg 735w, https://walrus-assets.s3.amazonaws.com/img/Knelman_Firebrand_1200-1-1200x800.jpg 1200w" data-sizes="(max-width: 348px) 100vw, 348px" />                        </a>
+                        <h3 class="post-title">
+                            <a href="https://thewalrus.ca/when-big-tobacco-was-forced-to-pay/" rel="bookmark" title="When Big Tobacco Was Forced to Pay">
+                                When Big Tobacco Was Forced to Pay                            </a>
+                        </h3>
+                        <p class="hms-meta"><time class="entry-date published" datetime="2022-09-16T10:30:10-04:00">September 16, 2022</time><time class="updated" datetime="2022-09-28T12:12:48-04:00">September 28, 2022</time></p>
+                    </div>
+                
+                
+                    <div class="hm-rel-post">
+                        <a href="https://thewalrus.ca/bc-logging/" rel="bookmark" title="Clearing Out: BC’s Logging Industry Sets Its Sights on the US">
+                            <img width="348" height="232" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20348%20232'%3E%3C/svg%3E" data-src="https://walrus-assets.s3.amazonaws.com/img/Stall-Paquet_Timber_1200-348x232.jpg" class="attachment-hitmag-grid size-hitmag-grid wp-post-image lazy" alt="A logger cuts down a tree with leaves shaped like British Columbia." data-srcset="https://walrus-assets.s3.amazonaws.com/img/Stall-Paquet_Timber_1200-348x232.jpg 348w, https://walrus-assets.s3.amazonaws.com/img/Stall-Paquet_Timber_1200-735x490.jpg 735w, https://walrus-assets.s3.amazonaws.com/img/Stall-Paquet_Timber_1200-1200x800.jpg 1200w" data-sizes="(max-width: 348px) 100vw, 348px" />                        </a>
+                        <h3 class="post-title">
+                            <a href="https://thewalrus.ca/bc-logging/" rel="bookmark" title="Clearing Out: BC’s Logging Industry Sets Its Sights on the US">
+                                Clearing Out: BC’s Logging Industry Sets Its Sights on the US                            </a>
+                        </h3>
+                        <p class="hms-meta"><time class="entry-date published" datetime="2022-06-28T15:29:17-04:00">June 28, 2022</time><time class="updated" datetime="2022-07-06T16:06:49-04:00">July 6, 2022</time></p>
+                    </div>
+                
+                
+        </div>
+        </div>
+
+        
+	<nav class="navigation post-navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Post navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://thewalrus.ca/back-to-school/" rel="prev"><span class="meta-nav" aria-hidden="true">Previous Article</span> <span class="post-title">Seven Must-Read Stories about the Education Challenges of Our Times</span></a></div><div class="nav-next"><a href="https://thewalrus.ca/the-walrus-talks-global-hunger-crisis/" rel="next"><span class="meta-nav" aria-hidden="true">Next Article</span> <span class="post-title">The Walrus Talks Global Hunger Crisis</span></a></div></div>
+	</nav>
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+<aside id="secondary" class="widget-area" role="complementary">
+
+	<div class="theiaStickySidebar">
+
+		
+		<section id="custom_html-23" class="widget_text widget widget_custom_html"><h4 class="widget-title">Our Latest Issue</h4><div class="textwidget custom-html-widget"><div class="latest-issue-widget"><table>
+<tbody>
+<tr>
+	<td width="50%"><a href="https://thewalrus.ca/subscribe"><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://walrus-assets.s3.amazonaws.com/img/Nov22_Cover_Web.jpg" align="left" alt="The Walrus' November 2022 cover featuring a woman lit against a dark backdrop with the cover story When Is Dead Really Dead?" style="border: 1px solid #ececec; width: 200px; height: 250px; align: top;"/></a></td>
+<td class="magazine-sidebar-text" style="padding-left: 10px; font-size: 1rem; line-height: 1.2; text-align: left;"><strong class="issue-title">November 2022</strong><br>
+A doctor's struggle with when to declare the end of life, the systemic racism in Quebec's human rights commission, half a million dollars missing from a rural Manitoba municipality, and are we ready for the next pandemic?
+</td>
+</tr>
+</tbody>
+</table>
+<a href="https://thewalrus.ca/subscribe/"><button target="blank" class="issue-button" style="color: black; background: #f5f5f5; padding-top: 5px; padding-bottom: 5px;min-width: 100%;min-width: 200px;margin-left: 0%; margin-right: 0%; margin-top: 40px;width: 100%;text-align: left;font-family:'Source Sans Pro';font-weight: 600; font-size: 1rem;" background="#f5f5f5">Start my subscription today</button></a><a href="https://my.thewalrus.ca/userLogin"><button style="color: black; background: #f5f5f5; padding-top: 5px; padding-bottom: 5px; min-width: 200px;margin-left: 0%; margin-right: 0%;width: 100%;text-align: left;font-family:'Source Sans Pro'; font-weight: 600; font-size: 1rem;"  target="blank" class="issue-button">Your Account</button></a>
+</div></div></section><section id="custom_html-53" class="widget_text extendedwopts-hide extendedwopts-desktop extendedwopts-tablet extendedwopts-mobile widget widget_custom_html"><div class="textwidget custom-html-widget"><hr><div class="su-animate" style="opacity:0;-webkit-animation-duration:1s;-webkit-animation-delay:1s;animation-duration:1s;animation-delay:1s;" data-animation="slideInDown" data-duration="1" data-delay="1"><a href="https://twitter.com/i/spaces/1MYGNmlvYYnKw" target="_blank" rel="noopener"><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%20350'%3E%3C/svg%3E" data-src="https://walrus-assets.s3.amazonaws.com/img/TwitterSpaces-600x600-1.jpg" width="350px" alt="BB Ad for Twitter spaces event on Sept. 17, 2021"></a></div><hr></div></section><section id="doubleclick_widget-11" class="widget widget_doubleclick_widget"><div class='dfw-unit dfw-lazy-load' data-adunit='BB' data-size-mapping='mapping7'></div></section><section id="custom_html-57" class="widget_text widget widget_custom_html"><h4 class="widget-title">Part of The Trust Project</h4><div class="textwidget custom-html-widget"><div class="su-accordion su-u-trim"><div class="su-spoiler su-spoiler-style-default su-spoiler-icon-plus su-spoiler-closed" data-scroll-offset="0" data-anchor-in-url="no"><div class="su-spoiler-title" tabindex="0" role="button"><span class="su-spoiler-icon"></span>Read more about The Trust Project and how this article fits in it</div><div class="su-spoiler-content su-u-clearfix su-u-trim"><style>/*.trust-indicators-mark, */.su-spoiler  h2.widgettitle {display:none;}</style><!-- Widget Shortcode --><div id="trust_indicators_trustproject-2" class="widget trust_indicators_trustproject widget-shortcode area-arbitrary "><h2 class="widgettitle">Part of The Trust Project</h2><div class="trust-indicators-mark"><a href="http://thetrustproject.org/" target="_blank" rel="noopener"><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://thewalrus.ca/wp-content/plugins/trust-indicators-master/includes/Trust-Logo-Stacked.svg" style="display:block;"> <div class="trust-indicators-title-wrap"></div></a></div><p>The Trust Project is a collaboration among news organizations around the world. Its goal is to create strategies that fulfill journalism’s basic pledge: to serve society with a truthful, intelligent and comprehensive account of ideas and events.</p><a href="http://thetrustproject.org/" target="_blank" rel="noopener">Learn more.</a></div><!-- /Widget Shortcode --><strong>Behind The Story</strong><!-- Widget Shortcode --><div id="trust_indicators_article-3" class="widget trust_indicators_article widget-shortcode area-arbitrary "><h2 class="widgettitle">Behind The Story</h2><p><strong>Type</strong>: Analysis</p><p>Analysis: Based on factual reporting, although it incorporates the expertise of the author/producer and may offer interpretations and conclusions.</p>
+</div><!-- /Widget Shortcode --></div></div>
+</div><br/></div></section><section id="custom_html-56" class="widget_text extendedwopts-hide extendedwopts-desktop extendedwopts-tablet extendedwopts-mobile widget widget_custom_html"><h4 class="widget-title">Editorial Policies</h4><div class="textwidget custom-html-widget">Read more about our editorial policies <a href="/sitewide-policies">here</a>.</div></section><section id="doubleclick_widget-15" class="widget widget_doubleclick_widget"><div class='dfw-unit' data-adunit='BB-lower' data-size-mapping='mapping8'></div></section>
+			</div>
+
+</aside><!-- #secondary -->
+	</div><!-- .hm-container -->
+	</div><!-- #content -->
+
+			<div class="sidebar-above-footer">
+			<div class="hm-container">
+				<aside id="custom_html-54" class="widget_text extendedwopts-hide extendedwopts-mobile widget widget_custom_html"><div class="textwidget custom-html-widget"><br>
+<div class="su-row"><div class="su-column su-column-size-1-5"><div class="su-column-inner su-u-clearfix su-u-trim">
+<a href="https://thewalrus.ca/subscribe"><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" data-src="https://walrus-assets.s3.amazonaws.com/img/tusks_notification3.jpg" align="left" alt="" height="30px"/></a></div></div>
+<div class="su-column su-column-size-4-5"><div class="su-column-inner su-u-clearfix su-u-trim"><!-- Widget Shortcode --><div id="shortcodes-ultimate-2" class="widget shortcodes-ultimate widget-shortcode area-arbitrary "><div class="textwidget"><div class='_form_51'></div><script type='text/javascript' src='https://thewalrus.activehosted.com/f/embed.php?static=0&id=51&634097A3613A1&nostyles=1&preview=0'></script></div></div><!-- /Widget Shortcode -->
+</div></div>
+</div><br></div></aside>			</div>
+		</div><!-- .sidebar-above-footer -->
+	
+	
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="hm-container">
+
+			
+			<div class="footer-widget-area">
+				<div class="footer-sidebar" role="complementary">
+					<aside id="text-37" class="widget widget_text">			<div class="textwidget"><style>
+  .invert {
+    background-color: white;
+    filter: invert(87%);
+  }
+</style>
+<p><img class="wp-image-102038 alignleft lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20197%2034'%3E%3C/svg%3E" data-src="https://walrus-assets.s3.amazonaws.com/img/TusksConvo-logo.png" alt="Walrus logo with tusks and Canada's Conversation" width="197" height="34" /><div class="su-spacer" style="height:2px"></div></p>
+<p style="color:#fff; line-height: 1.3rem;">​​The Walrus is located within the bounds of Treaty 13 signed with the Mississaugas of the Credit. This land is also the traditional territory of the Anishnabeg, the Haudenosaunee, and the Wendat peoples.<br /> Read more on our <a href="https://thewalrus.ca/about/" style="text-decoration: underline">About Us page</a>.</p>
+<p class="invert"><a href="http://facebook.com/thewalrus" target="_blank" rel="noopener"><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2040'%3E%3C/svg%3E" data-src="https://walrus-assets.s3.amazonaws.com/img/social-icons-FB.jpg" width="40px"></a><a href="http://twitter.com/thewalrus" target="_blank" rel="noopener"><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2040'%3E%3C/svg%3E" data-src="https://walrus-assets.s3.amazonaws.com/img/social-icons-Twitter.jpg" width="40px"></a><a href="http://instagram.com/thewalrus" target="_blank" rel="noopener"><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2040'%3E%3C/svg%3E" data-src="https://walrus-assets.s3.amazonaws.com/img/social-icons-instagram.jpg" width="40px"></a><a href="https://www.tiktok.com/@thewalrusca" target="_blank" rel="noopener"><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2040'%3E%3C/svg%3E" data-src="https://walrus-assets.s3.amazonaws.com/img/social-icons-TikTok.png" width="40px"></a><a href="https://www.linkedin.com/company/the-walrus/" target="_blank" rel="noopener"><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2040'%3E%3C/svg%3E" data-src="https://walrus-assets.s3.amazonaws.com/img/social-icons-LinkedIn.jpg" width="40px"></a><a href="https://www.youtube.com/c/thewalrus/featured" rel="noopener" target="_blank"><img class="lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2040%2040'%3E%3C/svg%3E" data-src="https://walrus-assets.s3.amazonaws.com/img/social-icons-YouTube.jpg" width="40px"></a></p>
+</div>
+		</aside>				</div><!-- .footer-sidebar -->
+		
+				<div class="footer-sidebar" role="complementary">
+					<aside id="nav_menu-2" class="widget widget_nav_menu"><h4 class="footer-widget-title">About The Walrus</h4><div class="menu-footer-about-us-container"><ul id="menu-footer-about-us" class="menu"><li id="menu-item-95910" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95910"><a href="https://thewalrus.ca/about/">About Us</a></li>
+<li id="menu-item-95911" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95911"><a href="https://thewalrus.ca/about/our-staff/">Our Staff</a></li>
+<li id="menu-item-148371" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-148371"><a href="https://thewalrus.ca/category/announcement/">Announcements</a></li>
+<li id="menu-item-95916" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95916"><a href="https://thewalrus.ca/about/contact/">Contact</a></li>
+<li id="menu-item-95917" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95917"><a href="https://thewalrus.ca/about/submissions/">Submissions</a></li>
+<li id="menu-item-95913" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95913"><a href="https://thewalrus.ca/about/careers/">Careers &#038; Fellowships</a></li>
+<li id="menu-item-123574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123574"><a href="https://thewalrus.ca/media-kit/">Advertise with us</a></li>
+</ul></div></aside>				</div><!-- .footer-sidebar -->		
+
+				<div class="footer-sidebar" role="complementary">
+					<aside id="custom_html-48" class="widget_text extendedwopts-hide extendedwopts-desktop extendedwopts-tablet extendedwopts-mobile widget widget_custom_html"><h4 class="footer-widget-title">The Walrus Lab</h4><div class="textwidget custom-html-widget"><a href="https://thewalrus.ca/the-walrus-lab/#whatwedo" style="text-decoration: none;">What we do</a><br>
+<a href="https://thewalrus.ca/the-walrus-lab/#ourservices" style="text-decoration: none;">Our Services</a><br>
+<a href="https://thewalrus.ca/the-walrus-lab/#ourprojects" style="text-decoration: none;">Our Projects</a><br>
+<a href="https://thewalrus.ca/the-walrus-lab/#ourclients" style="text-decoration: none;">Our Clients</a><br>
+<a href="https://thewalrus.ca/the-walrus-lab/#intouch" style="text-decoration: none;">Get in touch</a></div></aside><aside id="nav_menu-5" class="widget widget_nav_menu"><h4 class="footer-widget-title">The Walrus Lab</h4><div class="menu-footer-the-lab-container"><ul id="menu-footer-the-lab" class="menu"><li id="menu-item-143229" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-143229"><a href="https://thewalrus.ca/partnerships/amazon-first-novel-award/">Amazon Canada First Novel Award</a></li>
+<li id="menu-item-139486" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-139486"><a href="https://thewalrus.ca/the-walrus-lab/">What we do</a></li>
+<li id="menu-item-139487" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-139487"><a href="https://thewalrus.ca/the-walrus-lab/#ourservices">Our Services</a></li>
+<li id="menu-item-139488" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-139488"><a href="https://thewalrus.ca/the-walrus-lab/#ourprojects">Our Projects</a></li>
+<li id="menu-item-139489" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-139489"><a href="https://thewalrus.ca/the-walrus-lab/#ourclients">Our Clients</a></li>
+<li id="menu-item-139490" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-139490"><a href="https://thewalrus.ca/the-walrus-lab/#intouch">Get in Touch</a></li>
+</ul></div></aside>				</div><!-- .footer-sidebar -->	
+				<div class="footer-sidebar" role="complementary">
+					<aside id="nav_menu-3" class="widget widget_nav_menu"><h4 class="footer-widget-title">Subscribe</h4><div class="menu-footer-subscribe-container"><ul id="menu-footer-subscribe" class="menu"><li id="menu-item-132765" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-132765"><a href="https://thewalrus.ca/subscribe">Magazine Subscription</a></li>
+<li id="menu-item-132766" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-132766"><a href="https://thewalrus.ca/about/newsletters/">Weekly Newsletter</a></li>
+<li id="menu-item-132767" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-132767"><a href="https://thewalrus.ca/about/newsletters/">Events Newsletter</a></li>
+<li id="menu-item-132768" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-132768"><a href="https://thewalrus.ca/podcasts/the-conversation-piece">The Conversation Piece Podcast</a></li>
+</ul></div></aside>				</div><!-- .footer-sidebar -->
+				<div class="footer-sidebar" role="complementary">
+					<aside id="nav_menu-4" class="extendedwopts-hide extendedwopts-mobile widget widget_nav_menu"><h4 class="footer-widget-title">More</h4><div class="menu-footer-more-container"><ul id="menu-footer-more" class="menu"><li id="menu-item-132775" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-132775"><a href="https://thewalrus.ca/the-walrus-talks/">The Walrus Talks @Home</a></li>
+<li id="menu-item-132769" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-132769"><a href="https://thewalrus.ca/books">The Walrus Books</a></li>
+<li id="menu-item-132770" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-132770"><a href="https://thewalrus.ca/podcasts">The Walrus Podcasts</a></li>
+<li id="menu-item-132771" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-132771"><a href="https://thewalrus.ca/category/issues/">Magazine Archives</a></li>
+<li id="menu-item-132772" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-132772"><a href="https://thewalrus.ca/policies-and-standards">Policies and Standards</a></li>
+<li id="menu-item-132773" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-132773"><a href="https://thewalrus.ca/privacy-policy">Privacy Policy</a></li>
+<li id="menu-item-132774" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-132774"><a href="https://thewalrus.ca/cookie-policy">Cookie Policy</a></li>
+</ul></div></aside>				</div><!-- .footer-sidebar -->										
+			</div><!-- .footer-widget-area -->
+
+			
+		</div><!-- .hm-container -->
+
+		<div class="site-info">
+			<div class="hm-container">
+				<div class="site-info-owner">
+					© 2022 The Walrus. All Rights Reserved. <br /> Charitable Registration Number:
+No. 861851624-RR0001<br /> <br /> 				</div>
+
+				
+			</div><!-- .hm-container -->
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+
+		
+</div><!-- #page -->
+
+<script type="text/javascript">
+    (function(e,t,o,n,p,r,i){e.visitorGlobalObjectAlias=n;e[e.visitorGlobalObjectAlias]=e[e.visitorGlobalObjectAlias]||function(){(e[e.visitorGlobalObjectAlias].q=e[e.visitorGlobalObjectAlias].q||[]).push(arguments)};e[e.visitorGlobalObjectAlias].l=(new Date).getTime();r=t.createElement("script");r.src=o;r.async=true;i=t.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)})(window,document,"https://diffuser-cdn.app-us1.com/diffuser/diffuser.js","vgo");
+    vgo('setAccount', '26297670');
+    vgo('setTrackByDefault', true);
+    vgo('process');
+</script>
+<div id="mv-grow-data" data-settings='{&quot;floatingSidebar&quot;:{&quot;stopSelector&quot;:false},&quot;general&quot;:{&quot;contentSelector&quot;:false,&quot;show_count&quot;:{&quot;content&quot;:false,&quot;sidebar&quot;:false},&quot;isTrellis&quot;:false},&quot;post&quot;:{&quot;ID&quot;:148773,&quot;categories&quot;:[{&quot;ID&quot;:1878},{&quot;ID&quot;:24081}]},&quot;shareCounts&quot;:[],&quot;shouldRun&quot;:true}'></div><aside id="dpsp-floating-sidebar" aria-label="social sharing sidebar" class="dpsp-shape-circle dpsp-size-small dpsp-bottom-spacing  dpsp-hide-on-mobile dpsp-position-left dpsp-button-style-8 dpsp-animation-2" data-trigger-scroll="false">
+	<ul class="dpsp-networks-btns-wrapper dpsp-networks-btns-share dpsp-networks-btns-sidebar  dpsp-has-button-icon-animation">
+<li class="dpsp-network-list-item dpsp-network-list-item-facebook">
+	<a rel="nofollow noopener" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fthewalrus.ca%2Fhow-do-you-make-the-perfect-toy%2F&amp;t=How%20Do%20You%20Make%20the%20Perfect%20Toy%3F" class="dpsp-network-btn dpsp-facebook dpsp-no-label dpsp-first" target="_blank" aria-label="Share on Facebook" title="Share on Facebook">	<span class="dpsp-network-icon ">
+		<span class="dpsp-network-icon-inner"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 18 32"><path d="M17.12 0.224v4.704h-2.784q-1.536 0-2.080 0.64t-0.544 1.92v3.392h5.248l-0.704 5.28h-4.544v13.568h-5.472v-13.568h-4.544v-5.28h4.544v-3.904q0-3.328 1.856-5.152t4.96-1.824q2.624 0 4.064 0.224z"></path></svg></span>
+	</span>
+	</a></li>
+
+<li class="dpsp-network-list-item dpsp-network-list-item-twitter">
+	<a rel="nofollow noopener" href="https://twitter.com/intent/tweet?text=How%20Do%20You%20Make%20the%20Perfect%20Toy%3F&amp;url=https%3A%2F%2Fthewalrus.ca%2Fhow-do-you-make-the-perfect-toy%2F&amp;via=thewalrus" class="dpsp-network-btn dpsp-twitter dpsp-no-label" target="_blank" aria-label="Share on Twitter" title="Share on Twitter">	<span class="dpsp-network-icon ">
+		<span class="dpsp-network-icon-inner"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 30 32"><path d="M28.928 7.296q-1.184 1.728-2.88 2.976 0 0.256 0 0.736 0 2.336-0.672 4.64t-2.048 4.448-3.296 3.744-4.608 2.624-5.792 0.96q-4.832 0-8.832-2.592 0.608 0.064 1.376 0.064 4.032 0 7.168-2.464-1.888-0.032-3.36-1.152t-2.048-2.848q0.608 0.096 1.088 0.096 0.768 0 1.536-0.192-2.016-0.416-3.328-1.984t-1.312-3.68v-0.064q1.216 0.672 2.624 0.736-1.184-0.8-1.888-2.048t-0.704-2.752q0-1.568 0.8-2.912 2.176 2.656 5.248 4.256t6.656 1.76q-0.16-0.672-0.16-1.312 0-2.4 1.696-4.064t4.064-1.696q2.528 0 4.224 1.824 1.952-0.384 3.68-1.408-0.672 2.048-2.56 3.2 1.664-0.192 3.328-0.896z"></path></svg></span>
+	</span>
+	</a></li>
+
+<li class="dpsp-network-list-item dpsp-network-list-item-linkedin">
+	<a rel="nofollow noopener" href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fthewalrus.ca%2Fhow-do-you-make-the-perfect-toy%2F&amp;title=How%20Do%20You%20Make%20the%20Perfect%20Toy%3F&amp;summary=Fads%20come%20and%20go%2C%20but%20how%20to%20create%20a%20toy%20that%20stands%20the%20test%20of%20time%20is%20the%20billion-dollar%20question&amp;mini=true" class="dpsp-network-btn dpsp-linkedin dpsp-no-label dpsp-last" target="_blank" aria-label="Share on LinkedIn" title="Share on LinkedIn">	<span class="dpsp-network-icon ">
+		<span class="dpsp-network-icon-inner"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 27 32"><path d="M6.24 11.168v17.696h-5.888v-17.696h5.888zM6.624 5.696q0 1.312-0.928 2.176t-2.4 0.864h-0.032q-1.472 0-2.368-0.864t-0.896-2.176 0.928-2.176 2.4-0.864 2.368 0.864 0.928 2.176zM27.424 18.72v10.144h-5.856v-9.472q0-1.888-0.736-2.944t-2.272-1.056q-1.12 0-1.856 0.608t-1.152 1.536q-0.192 0.544-0.192 1.44v9.888h-5.888q0.032-7.136 0.032-11.552t0-5.28l-0.032-0.864h5.888v2.56h-0.032q0.352-0.576 0.736-0.992t0.992-0.928 1.568-0.768 2.048-0.288q3.040 0 4.896 2.016t1.856 5.952z"></path></svg></span>
+	</span>
+	</a></li>
+</ul></aside>
+<div class="wppopups-whole" style="display: none"><div class="spu-box spu-animation-slide spu-position-top-bar spu-animation-animated spu-push-content" id="spu-140968" data-id="140968" data-parent="0" data-settings="{&quot;position&quot;:{&quot;position&quot;:&quot;top-bar&quot;,&quot;sticky_title&quot;:&quot;&quot;,&quot;sticky_title_color&quot;:&quot;&quot;,&quot;sticky_title_size&quot;:&quot;&quot;,&quot;sticky_title_bg&quot;:&quot;&quot;,&quot;push_content&quot;:&quot;1&quot;},&quot;animation&quot;:{&quot;animation&quot;:&quot;slide&quot;},&quot;colors&quot;:{&quot;show_overlay&quot;:&quot;no&quot;,&quot;overlay_color&quot;:&quot;rgb(0,0,0)&quot;,&quot;overlay_blur&quot;:&quot;2&quot;,&quot;bg_color&quot;:&quot;rgb(34, 34, 34)&quot;,&quot;bg_img&quot;:&quot;&quot;,&quot;bg_img_repeat&quot;:&quot;no-repeat&quot;,&quot;bg_img_size&quot;:&quot;cover&quot;},&quot;close&quot;:{&quot;close_color&quot;:&quot;rgb(239, 239, 239)&quot;,&quot;close_hover_color&quot;:&quot;&quot;,&quot;close_shadow_color&quot;:&quot;&quot;,&quot;close_size&quot;:&quot;25&quot;,&quot;close_position&quot;:&quot;top_right&quot;},&quot;popup_box&quot;:{&quot;width&quot;:&quot;55&quot;,&quot;padding&quot;:&quot;7&quot;,&quot;radius&quot;:&quot;0&quot;,&quot;auto_height&quot;:&quot;yes&quot;,&quot;height&quot;:&quot;430px&quot;},&quot;border&quot;:{&quot;border_type&quot;:&quot;none&quot;,&quot;border_color&quot;:&quot;&quot;,&quot;border_width&quot;:&quot;0&quot;,&quot;border_radius&quot;:&quot;0&quot;,&quot;border_margin&quot;:&quot;14&quot;},&quot;shadow&quot;:{&quot;shadow_color&quot;:&quot;#474747&quot;,&quot;shadow_type&quot;:&quot;outset&quot;,&quot;shadow_x_offset&quot;:&quot;0&quot;,&quot;shadow_y_offset&quot;:&quot;0&quot;,&quot;shadow_blur&quot;:&quot;0&quot;,&quot;shadow_spread&quot;:&quot;0&quot;},&quot;css&quot;:{&quot;custom_css&quot;:&quot;\/*\r\n\t\t* Add custom CSS for this popup\r\n\t\t* Be sure to start your rules with #spu-140968 { } and use !important when needed to override plugin rules\r\n\t\t*\/&quot;},&quot;id&quot;:&quot;140968&quot;,&quot;field_id&quot;:1,&quot;rules&quot;:{&quot;group_0&quot;:{&quot;rule_0&quot;:{&quot;rule&quot;:&quot;mobiles&quot;,&quot;operator&quot;:&quot;!=&quot;,&quot;value&quot;:&quot;true&quot;},&quot;rule_1&quot;:{&quot;rule&quot;:&quot;page&quot;,&quot;operator&quot;:&quot;!=&quot;,&quot;value&quot;:&quot;13374&quot;},&quot;rule_2&quot;:{&quot;rule&quot;:&quot;page&quot;,&quot;operator&quot;:&quot;!=&quot;,&quot;value&quot;:&quot;69886&quot;},&quot;rule_3&quot;:{&quot;rule&quot;:&quot;page&quot;,&quot;operator&quot;:&quot;!=&quot;,&quot;value&quot;:&quot;105712&quot;},&quot;rule_4&quot;:{&quot;rule&quot;:&quot;page&quot;,&quot;operator&quot;:&quot;!=&quot;,&quot;value&quot;:&quot;76152&quot;},&quot;rule_5&quot;:{&quot;rule&quot;:&quot;keyword_url&quot;,&quot;operator&quot;:&quot;!=&quot;,&quot;value&quot;:&quot;subscribe&quot;},&quot;rule_6&quot;:{&quot;rule&quot;:&quot;keyword_url&quot;,&quot;operator&quot;:&quot;!=&quot;,&quot;value&quot;:&quot;gala&quot;},&quot;rule_7&quot;:{&quot;rule&quot;:&quot;keyword_url&quot;,&quot;operator&quot;:&quot;!=&quot;,&quot;value&quot;:&quot;women&quot;}}},&quot;global_rules&quot;:{&quot;group_0&quot;:{&quot;rule_0&quot;:{&quot;rule&quot;:&quot;page_type&quot;,&quot;operator&quot;:&quot;==&quot;,&quot;value&quot;:&quot;all_pages&quot;},&quot;rule_1&quot;:{&quot;rule&quot;:&quot;crawlers&quot;,&quot;operator&quot;:&quot;!=&quot;,&quot;value&quot;:&quot;true&quot;}}},&quot;settings&quot;:{&quot;popup_title&quot;:&quot;Popups Cookies&quot;,&quot;popup_desc&quot;:&quot;&quot;,&quot;test_mode&quot;:&quot;0&quot;,&quot;powered_link&quot;:&quot;0&quot;,&quot;popup_class&quot;:&quot;&quot;,&quot;popup_hidden_class&quot;:&quot;&quot;,&quot;disable_scroll&quot;:&quot;0&quot;,&quot;close_on_conversion&quot;:&quot;1&quot;,&quot;autoclose&quot;:0,&quot;disable_close&quot;:&quot;0&quot;,&quot;advanced_close&quot;:&quot;0&quot;,&quot;conversion_cookie_name&quot;:&quot;spu_conversion_103885&quot;,&quot;conversion_cookie_duration&quot;:&quot;999&quot;,&quot;conversion_cookie_type&quot;:&quot;d&quot;,&quot;closing_cookie_name&quot;:&quot;spu_closing_103885&quot;,&quot;closing_cookie_duration&quot;:&quot;30&quot;,&quot;closing_cookie_type&quot;:&quot;d&quot;},&quot;triggers&quot;:{&quot;trigger_0&quot;:{&quot;trigger&quot;:&quot;seconds&quot;,&quot;value&quot;:&quot;2&quot;}},&quot;success&quot;:{&quot;optin_success_seconds&quot;:0}}" data-need_ajax="1"><div class="spu-container "><div class="spu-content"><p style="font-size: 13px!important; font-family:PT Sans; color: #ececec; font-style: italic;">The Walrus uses cookies for personalization, to customize its online advertisements, and for other purposes. <a href="https://thewalrus.ca/cookie-policy/" style="color: #ececec;">Learn more</a> or change your cookie preferences.</p>
+</div><a href="#" class="spu-close spu-close-popup spu-close-top_right">&times;</a><span class="spu-timer"></span></div></div><!--spu-box--><div class="spu-box spu-animation-bounceIn spu-position-centered spu-animation-animated" id="spu-140964" data-id="140964" data-parent="0" data-settings="{&quot;position&quot;:{&quot;position&quot;:&quot;centered&quot;,&quot;sticky_title&quot;:&quot;&quot;,&quot;sticky_title_color&quot;:&quot;&quot;,&quot;sticky_title_size&quot;:&quot;&quot;,&quot;sticky_title_bg&quot;:&quot;&quot;,&quot;push_content&quot;:&quot;0&quot;},&quot;animation&quot;:{&quot;animation&quot;:&quot;bounceIn&quot;},&quot;colors&quot;:{&quot;show_overlay&quot;:&quot;no&quot;,&quot;overlay_color&quot;:&quot;rgb(0,0,0)&quot;,&quot;overlay_blur&quot;:&quot;2&quot;,&quot;bg_color&quot;:&quot;rgb(238,238,238)&quot;,&quot;bg_img&quot;:&quot;&quot;,&quot;bg_img_repeat&quot;:&quot;no-repeat&quot;,&quot;bg_img_size&quot;:&quot;auto&quot;},&quot;close&quot;:{&quot;close_color&quot;:&quot;#666&quot;,&quot;close_hover_color&quot;:&quot;#000&quot;,&quot;close_shadow_color&quot;:&quot;#fff&quot;,&quot;close_size&quot;:&quot;30&quot;,&quot;close_position&quot;:&quot;top_right&quot;},&quot;popup_box&quot;:{&quot;width&quot;:&quot;300px&quot;,&quot;padding&quot;:&quot;0&quot;,&quot;radius&quot;:&quot;0&quot;,&quot;auto_height&quot;:&quot;yes&quot;,&quot;height&quot;:&quot;430px&quot;},&quot;border&quot;:{&quot;border_type&quot;:&quot;solid&quot;,&quot;border_color&quot;:&quot;#ffffff&quot;,&quot;border_width&quot;:&quot;2&quot;,&quot;border_radius&quot;:&quot;0&quot;,&quot;border_margin&quot;:&quot;14&quot;},&quot;shadow&quot;:{&quot;shadow_color&quot;:&quot;#666&quot;,&quot;shadow_type&quot;:&quot;outset&quot;,&quot;shadow_x_offset&quot;:&quot;0&quot;,&quot;shadow_y_offset&quot;:&quot;0&quot;,&quot;shadow_blur&quot;:&quot;0&quot;,&quot;shadow_spread&quot;:&quot;0&quot;},&quot;css&quot;:{&quot;custom_css&quot;:&quot;\/*\r\n\t\t* Add custom CSS for this popup\r\n\t\t* Be sure to start your rules with #spu-140964 { } and use !important when needed to override plugin rules\r\n\t\t*\/&quot;},&quot;id&quot;:&quot;140964&quot;,&quot;field_id&quot;:1,&quot;rules&quot;:{&quot;group_0&quot;:{&quot;rule_0&quot;:{&quot;rule&quot;:&quot;same_site&quot;,&quot;operator&quot;:&quot;==&quot;,&quot;value&quot;:&quot;true&quot;},&quot;rule_6&quot;:{&quot;rule&quot;:&quot;post_type&quot;,&quot;operator&quot;:&quot;==&quot;,&quot;value&quot;:&quot;post&quot;}}},&quot;global_rules&quot;:{&quot;group_0&quot;:{&quot;rule_0&quot;:{&quot;rule&quot;:&quot;page_type&quot;,&quot;operator&quot;:&quot;==&quot;,&quot;value&quot;:&quot;all_pages&quot;},&quot;rule_1&quot;:{&quot;rule&quot;:&quot;crawlers&quot;,&quot;operator&quot;:&quot;!=&quot;,&quot;value&quot;:&quot;true&quot;}}},&quot;settings&quot;:{&quot;popup_title&quot;:&quot;Visitors + Newsletter (AC PopUp)&quot;,&quot;popup_desc&quot;:&quot;&quot;,&quot;test_mode&quot;:&quot;0&quot;,&quot;powered_link&quot;:&quot;0&quot;,&quot;popup_class&quot;:&quot;&quot;,&quot;popup_hidden_class&quot;:&quot;&quot;,&quot;disable_scroll&quot;:&quot;0&quot;,&quot;close_on_conversion&quot;:&quot;1&quot;,&quot;autoclose&quot;:0,&quot;disable_close&quot;:&quot;0&quot;,&quot;advanced_close&quot;:&quot;1&quot;,&quot;conversion_cookie_name&quot;:&quot;spu_newslet_july12&quot;,&quot;conversion_cookie_duration&quot;:&quot;90&quot;,&quot;conversion_cookie_type&quot;:&quot;d&quot;,&quot;closing_cookie_name&quot;:&quot;spu_newslet_closing_july12&quot;,&quot;closing_cookie_duration&quot;:&quot;90&quot;,&quot;closing_cookie_type&quot;:&quot;d&quot;},&quot;triggers&quot;:{&quot;trigger_0&quot;:{&quot;trigger&quot;:&quot;seconds&quot;,&quot;value&quot;:&quot;45&quot;}},&quot;success&quot;:{&quot;optin_success_seconds&quot;:0}}" data-need_ajax="1"><div class="spu-container "><div class="spu-content"><script type='text/javascript' src='https://thewalrus.activehosted.com/f/embed.php?static=0&id=45&634097A3673DC&nostyles=0&preview=0'></script>
+</div><a href="#" class="spu-close spu-close-popup spu-close-top_right">&times;</a><span class="spu-timer"></span></div></div><!--spu-box--><div class="spu-box spu-animation-bounceInUp spu-position-bottom-bar spu-animation-animated" id="spu-148277" data-id="148277" data-parent="0" data-settings="{&quot;position&quot;:{&quot;position&quot;:&quot;bottom-bar&quot;,&quot;sticky_title&quot;:&quot;Growler (bottom-page-browser)&quot;,&quot;sticky_title_color&quot;:&quot;rgba(0,0,0,255)&quot;,&quot;sticky_title_size&quot;:&quot;28px&quot;,&quot;sticky_title_bg&quot;:&quot;rgba(255,255,255,255)&quot;,&quot;push_content&quot;:&quot;0&quot;},&quot;animation&quot;:{&quot;animation&quot;:&quot;bounceInUp&quot;},&quot;colors&quot;:{&quot;show_overlay&quot;:&quot;no&quot;,&quot;overlay_color&quot;:&quot;rgba(0,0,0,0.5)&quot;,&quot;overlay_blur&quot;:&quot;2&quot;,&quot;bg_color&quot;:&quot;rgb(41, 182, 246)&quot;,&quot;bg_img&quot;:&quot;&quot;,&quot;bg_img_repeat&quot;:&quot;no-repeat&quot;,&quot;bg_img_size&quot;:&quot;auto&quot;},&quot;close&quot;:{&quot;close_color&quot;:&quot;rgb(0, 0, 0)&quot;,&quot;close_hover_color&quot;:&quot;rgb(0, 0, 0)&quot;,&quot;close_shadow_color&quot;:&quot;rgb(0, 0, 0)&quot;,&quot;close_size&quot;:&quot;28&quot;,&quot;close_position&quot;:&quot;top_right&quot;},&quot;popup_box&quot;:{&quot;width&quot;:&quot;100%&quot;,&quot;padding&quot;:&quot;20&quot;,&quot;radius&quot;:&quot;0&quot;,&quot;auto_height&quot;:&quot;yes&quot;,&quot;height&quot;:&quot;350px&quot;},&quot;border&quot;:{&quot;border_type&quot;:&quot;none&quot;,&quot;border_color&quot;:&quot;#000&quot;,&quot;border_width&quot;:&quot;0&quot;,&quot;border_radius&quot;:&quot;0&quot;,&quot;border_margin&quot;:&quot;0&quot;},&quot;shadow&quot;:{&quot;shadow_color&quot;:&quot;#ccc&quot;,&quot;shadow_type&quot;:&quot;outset&quot;,&quot;shadow_x_offset&quot;:&quot;1&quot;,&quot;shadow_y_offset&quot;:&quot;0&quot;,&quot;shadow_blur&quot;:&quot;0&quot;,&quot;shadow_spread&quot;:&quot;2&quot;},&quot;css&quot;:{&quot;custom_css&quot;:&quot;.spu-box span {\r\n    font-family: \&quot;GT Sectra\&quot;;\r\n    font-size: 1.6rem;\r\n    color: #222;\r\n}\r\n\r\n.spu-box button {\r\n    background-color: #fb5954;\r\n    font-family: Source Sans Pro;\r\n    font-weight: 600;\r\n    font-size: 1.2rem;\r\n    border: 0;\r\n    color: white;\r\n    border-radius: 3px;\r\n    line-height: 1;\r\n    padding: 13px 20px;\r\n}&quot;},&quot;id&quot;:&quot;148277&quot;,&quot;field_id&quot;:1,&quot;rules&quot;:{&quot;group_0&quot;:{&quot;rule_0&quot;:{&quot;rule&quot;:&quot;desktop&quot;,&quot;operator&quot;:&quot;==&quot;,&quot;value&quot;:&quot;true&quot;},&quot;rule_1&quot;:{&quot;rule&quot;:&quot;post_type&quot;,&quot;operator&quot;:&quot;==&quot;,&quot;value&quot;:&quot;post&quot;},&quot;rule_2&quot;:{&quot;rule&quot;:&quot;post_category&quot;,&quot;operator&quot;:&quot;!=&quot;,&quot;value&quot;:&quot;18855&quot;},&quot;rule_3&quot;:{&quot;rule&quot;:&quot;post_category&quot;,&quot;operator&quot;:&quot;!=&quot;,&quot;value&quot;:&quot;13892&quot;}}},&quot;global_rules&quot;:{&quot;group_0&quot;:{&quot;rule_0&quot;:{&quot;rule&quot;:&quot;page_type&quot;,&quot;operator&quot;:&quot;==&quot;,&quot;value&quot;:&quot;all_pages&quot;},&quot;rule_1&quot;:{&quot;rule&quot;:&quot;crawlers&quot;,&quot;operator&quot;:&quot;!=&quot;,&quot;value&quot;:&quot;true&quot;}}},&quot;settings&quot;:{&quot;popup_title&quot;:&quot;Growler (bottom-page-browser)&quot;,&quot;popup_desc&quot;:&quot;&quot;,&quot;test_mode&quot;:&quot;0&quot;,&quot;powered_link&quot;:&quot;0&quot;,&quot;popup_class&quot;:&quot;&quot;,&quot;popup_hidden_class&quot;:&quot;&quot;,&quot;disable_scroll&quot;:&quot;0&quot;,&quot;close_on_conversion&quot;:&quot;1&quot;,&quot;autoclose&quot;:0,&quot;disable_close&quot;:&quot;0&quot;,&quot;advanced_close&quot;:&quot;0&quot;,&quot;conversion_cookie_name&quot;:&quot;spu_conversion_148277&quot;,&quot;conversion_cookie_duration&quot;:&quot;7&quot;,&quot;conversion_cookie_type&quot;:&quot;d&quot;,&quot;closing_cookie_name&quot;:&quot;spu_closing_148277&quot;,&quot;closing_cookie_duration&quot;:&quot;7&quot;,&quot;closing_cookie_type&quot;:&quot;d&quot;},&quot;triggers&quot;:{&quot;trigger_0&quot;:{&quot;trigger&quot;:&quot;percentage&quot;,&quot;value&quot;:&quot;30&quot;}},&quot;success&quot;:{&quot;optin_success_seconds&quot;:0}}" data-need_ajax="1"><div class="spu-container "><div class="spu-content"><p><center></p>
+<div><span>Join a community that cares about journalism.</span></p>
+<p><button onclick="window.open('https://secure.thewalrus.ca/M25CDGW','_blank')">Become a Supporter</button></div>
+<p></center></p>
+</div><a href="#" class="spu-close spu-close-popup spu-close-top_right">&times;</a><span class="spu-timer"></span></div></div><!--spu-box--><div class="spu-box spu-animation-bounceInUp spu-position-bottom-bar spu-animation-animated" id="spu-148279" data-id="148279" data-parent="0" data-settings="{&quot;position&quot;:{&quot;position&quot;:&quot;bottom-bar&quot;,&quot;sticky_title&quot;:&quot;Growler (mobile) (ID #138337)&quot;,&quot;sticky_title_color&quot;:&quot;rgba(0,0,0,255)&quot;,&quot;sticky_title_size&quot;:&quot;28px&quot;,&quot;sticky_title_bg&quot;:&quot;rgba(255,255,255,255)&quot;,&quot;push_content&quot;:&quot;0&quot;},&quot;animation&quot;:{&quot;animation&quot;:&quot;bounceInUp&quot;},&quot;colors&quot;:{&quot;show_overlay&quot;:&quot;no&quot;,&quot;overlay_color&quot;:&quot;rgba(0,0,0,0.5)&quot;,&quot;overlay_blur&quot;:&quot;2&quot;,&quot;bg_color&quot;:&quot;rgb(41, 182, 246)&quot;,&quot;bg_img&quot;:&quot;&quot;,&quot;bg_img_repeat&quot;:&quot;no-repeat&quot;,&quot;bg_img_size&quot;:&quot;auto&quot;},&quot;close&quot;:{&quot;close_color&quot;:&quot;rgb(0, 0, 0)&quot;,&quot;close_hover_color&quot;:&quot;rgb(0, 0, 0)&quot;,&quot;close_shadow_color&quot;:&quot;#000&quot;,&quot;close_size&quot;:&quot;28&quot;,&quot;close_position&quot;:&quot;top_right&quot;},&quot;popup_box&quot;:{&quot;width&quot;:&quot;100%&quot;,&quot;padding&quot;:&quot;20&quot;,&quot;radius&quot;:&quot;0&quot;,&quot;auto_height&quot;:&quot;yes&quot;,&quot;height&quot;:&quot;350px&quot;},&quot;border&quot;:{&quot;border_type&quot;:&quot;none&quot;,&quot;border_color&quot;:&quot;#000&quot;,&quot;border_width&quot;:&quot;0&quot;,&quot;border_radius&quot;:&quot;0&quot;,&quot;border_margin&quot;:&quot;0&quot;},&quot;shadow&quot;:{&quot;shadow_color&quot;:&quot;#ccc&quot;,&quot;shadow_type&quot;:&quot;outset&quot;,&quot;shadow_x_offset&quot;:&quot;1&quot;,&quot;shadow_y_offset&quot;:&quot;0&quot;,&quot;shadow_blur&quot;:&quot;0&quot;,&quot;shadow_spread&quot;:&quot;2&quot;},&quot;css&quot;:{&quot;custom_css&quot;:&quot;.spu-box span {\r\n    font-family: \&quot;GT Sectra\&quot;;\r\n    font-size: 1.6rem;\r\n    color: #222;\r\n}\r\n\r\n.spu-box button {\r\n    background-color: #fb5954;\r\n    font-family: Source Sans Pro;\r\n    font-weight: 600;\r\n    font-size: 1.2rem;\r\n    border: 0;\r\n    color: white;\r\n    border-radius: 3px;\r\n    line-height: 1;\r\n    padding: 13px 20px;\r\n}&quot;},&quot;id&quot;:&quot;148279&quot;,&quot;field_id&quot;:1,&quot;rules&quot;:{&quot;group_0&quot;:{&quot;rule_0&quot;:{&quot;rule&quot;:&quot;desktop&quot;,&quot;operator&quot;:&quot;!=&quot;,&quot;value&quot;:&quot;true&quot;},&quot;rule_1&quot;:{&quot;rule&quot;:&quot;post_type&quot;,&quot;operator&quot;:&quot;==&quot;,&quot;value&quot;:&quot;post&quot;},&quot;rule_2&quot;:{&quot;rule&quot;:&quot;post_category&quot;,&quot;operator&quot;:&quot;!=&quot;,&quot;value&quot;:&quot;18855&quot;},&quot;rule_3&quot;:{&quot;rule&quot;:&quot;post_category&quot;,&quot;operator&quot;:&quot;!=&quot;,&quot;value&quot;:&quot;13892&quot;}}},&quot;global_rules&quot;:{&quot;group_0&quot;:{&quot;rule_0&quot;:{&quot;rule&quot;:&quot;page_type&quot;,&quot;operator&quot;:&quot;==&quot;,&quot;value&quot;:&quot;all_pages&quot;},&quot;rule_1&quot;:{&quot;rule&quot;:&quot;crawlers&quot;,&quot;operator&quot;:&quot;!=&quot;,&quot;value&quot;:&quot;true&quot;}}},&quot;settings&quot;:{&quot;popup_title&quot;:&quot;Growler (mobile) (ID #138337)&quot;,&quot;popup_desc&quot;:&quot;&quot;,&quot;test_mode&quot;:&quot;0&quot;,&quot;powered_link&quot;:&quot;0&quot;,&quot;popup_class&quot;:&quot;&quot;,&quot;popup_hidden_class&quot;:&quot;&quot;,&quot;disable_scroll&quot;:&quot;0&quot;,&quot;close_on_conversion&quot;:&quot;1&quot;,&quot;autoclose&quot;:0,&quot;disable_close&quot;:&quot;0&quot;,&quot;advanced_close&quot;:&quot;0&quot;,&quot;conversion_cookie_name&quot;:&quot;spu_conversion_148279&quot;,&quot;conversion_cookie_duration&quot;:&quot;7&quot;,&quot;conversion_cookie_type&quot;:&quot;d&quot;,&quot;closing_cookie_name&quot;:&quot;spu_closing_148279&quot;,&quot;closing_cookie_duration&quot;:&quot;7&quot;,&quot;closing_cookie_type&quot;:&quot;d&quot;},&quot;triggers&quot;:{&quot;trigger_0&quot;:{&quot;trigger&quot;:&quot;percentage&quot;,&quot;value&quot;:&quot;30&quot;}},&quot;success&quot;:{&quot;optin_success_seconds&quot;:0}}" data-need_ajax="1"><div class="spu-container "><div class="spu-content"><p><center></p>
+<div><span>Join a community that cares about journalism.</span></p>
+<p><button onclick="window.open('https://secure.thewalrus.ca/M25CMGW','_blank')">Become a Supporter</button></div>
+<p></center></p>
+</div><a href="#" class="spu-close spu-close-popup spu-close-top_right">&times;</a><span class="spu-timer"></span></div></div><!--spu-box--></div><script type="text/javascript" data-cfasync="false">
+					var hmenu_ajax_url = "https://thewalrus.ca/wp-admin/admin-ajax.php";
+					var hmenu_url = "https://thewalrus.ca/wp-content/plugins/hmenu/";
+				</script><script type="text/javascript" data-cfasync="false">
+					var hmenu_ajax_url = "https://thewalrus.ca/wp-admin/admin-ajax.php";
+					var hmenu_url = "https://thewalrus.ca/wp-content/plugins/hmenu/";
+				</script><link rel='stylesheet' id='hmenu_userstyles-css'  href='https://thewalrus.ca/wp-content/plugins/hmenu/assets/css/frontend_styles.css?ver=6.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='hmenu_backendiconsocial-css'  href='https://thewalrus.ca/wp-content/plugins/hmenu/_static_fonts/hero_static_fonts.css?ver=6.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sexy-author-bio-styles-css'  href='https://thewalrus.ca/wp-content/plugins/sexy-author-bio/public/assets/css/public.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='trust-project-partner-css-css'  href='https://thewalrus.ca/wp-content/plugins/trust-indicators-master/assets/widget.css?ver=1.4.0-rc1' type='text/css' media='all' />
+<link rel='stylesheet' id='dfp-css'  href='https://thewalrus.ca/wp-content/plugins/doubleclick-for-wp/css/dfp.css?ver=0.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='https://thewalrus.ca/wp-content/plugins/shortcodes-ultimate/vendor/animatecss/animate.css?ver=3.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='su-icons-css'  href='https://thewalrus.ca/wp-content/plugins/shortcodes-ultimate/includes/css/icons.css?ver=1.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='su-shortcodes-css'  href='https://thewalrus.ca/wp-content/plugins/shortcodes-ultimate/includes/css/shortcodes.css?ver=5.12.0' type='text/css' media='all' />
+<script type='text/javascript' id='wppopups-js-extra'>
+/* <![CDATA[ */
+var wppopups_vars = {"is_admin":"","ajax_url":"https:\/\/thewalrus.ca\/wp-admin\/admin-ajax.php","pid":"148773","is_front_page":"","is_blog_page":"","is_category":"","site_url":"https:\/\/thewalrus.ca","is_archive":"","is_search":"","is_singular":"1","is_preview":"","facebook":"","twitter":"","val_required":"This field is required.","val_url":"Please enter a valid URL.","val_email":"Please enter a valid email address.","val_number":"Please enter a valid number.","val_checklimit":"You have exceeded the number of allowed selections: {#}.","val_limit_characters":"{count} of {limit} max characters.","val_limit_words":"{count} of {limit} max words."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://thewalrus.ca/wp-content/plugins/wppopups/src/assets/js/wppopups.js?ver=2.1.4.5' id='wppopups-js'></script>
+<script type='text/javascript' id='site_tracking-js-extra'>
+/* <![CDATA[ */
+var php_data = {"ac_settings":{"tracking_actid":26297670,"site_tracking_default":1,"site_tracking":1},"user_email":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://thewalrus.ca/wp-content/plugins/activecampaign-subscription-forms/site_tracking.js?ver=6.0.1' id='site_tracking-js'></script>
+<script type='text/javascript' async data-noptimize src='https://thewalrus.ca/wp-content/plugins/social-pug/assets/dist/front-end-free.1.20.2.js?ver=1.20.2' id='dpsp-frontend-js-pro-js'></script>
+<script type='text/javascript' src='https://thewalrus.ca/wp-content/themes/hitmag-pro/js/theme.min.js?ver=6.0.1' id='hitmag-min-scripts-js'></script>
+<script type='text/javascript' src='https://thewalrus.ca/wp-content/themes/hitmag-pro/js/jquery.sticky.min.js?ver=6.0.1' id='jquery-sticky-js'></script>
+<script type='text/javascript' src='https://thewalrus.ca/wp-content/themes/hitmag-pro/js/custom-sticky-menu.js?ver=6.0.1' id='hitmag-pro-sticky-menu-js'></script>
+<script type='text/javascript' src='https://thewalrus.ca/wp-content/themes/hitmag-pro/js/theia-sticky-sidebar.min.js?ver=6.0.1' id='jquery-theia-sticky-sidebar-js'></script>
+<script type='text/javascript' id='hitmag-front-js-extra'>
+/* <![CDATA[ */
+var hitmag_ajax_object = {"ajaxurl":"https:\/\/thewalrus.ca\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://thewalrus.ca/wp-content/themes/hitmag-pro/js/hitmag-front.js' id='hitmag-front-js'></script>
+<script type='text/javascript' src='https://thewalrus.ca/wp-content/plugins/hmenu/assets/js/frontend_script.js?ver=6.0.1' id='hmenu_user-js'></script>
+<script type='text/javascript' src='https://thewalrus.ca/wp-content/plugins/hmenu/assets/js/frontend_dimensions.js?ver=6.0.1' id='hmenu_userdimentions-js'></script>
+<script type='text/javascript' src='https://thewalrus.ca/wp-content/plugins/doubleclick-for-wp/js/vendor/jquery.dfp.js/jquery.dfp.min.js?ver=0.3.0' id='jquery.dfp.js-js'></script>
+<script type='text/javascript' id='jquery.dfw.js-js-extra'>
+/* <![CDATA[ */
+var dfw = {"dfpID":"12347108","network_code":"12347108","mappings":{"mapping1":[{"browser":[768,1],"ad_sizes":[[1,1]]}],"mapping2":[{"browser":[0,1],"ad_sizes":[[320,50]]},{"browser":[480,1],"ad_sizes":[[320,50]]},{"browser":[768,1],"ad_sizes":[[728,90],[970,90],[970,250]]}],"mapping3":[{"browser":[0,1],"ad_sizes":[[320,50],[300,250],[310,541]]},{"browser":[480,1],"ad_sizes":[[320,50],[300,250],[310,541]]},{"browser":[768,1],"ad_sizes":[[300,250],[728,90],[735,289]]}],"mapping4":[{"browser":[0,1],"ad_sizes":[[320,50],[300,250]]},{"browser":[480,1],"ad_sizes":[[320,50],[300,250]]},{"browser":[768,1],"ad_sizes":[[300,250],[728,90]]}],"mapping5":[{"browser":[0,1],"ad_sizes":[[320,50],[300,250]]},{"browser":[480,1],"ad_sizes":[[320,50],[300,250]]},{"browser":[768,1],"ad_sizes":[[300,250],[728,90]]}],"mapping6":[{"browser":[0,1],"ad_sizes":[[320,50],[300,250]]},{"browser":[480,1],"ad_sizes":[[320,50],[300,250]]},{"browser":[768,1],"ad_sizes":[[300,250],[728,90]]}],"mapping7":[{"browser":[0,1],"ad_sizes":[[300,250]]},{"browser":[480,1],"ad_sizes":[[300,250]]},{"browser":[768,1],"ad_sizes":[[300,250],[300,600]]}],"mapping8":[{"browser":[0,1],"ad_sizes":[[300,250]]},{"browser":[480,1],"ad_sizes":[[300,250]]},{"browser":[768,1],"ad_sizes":[[300,250],[300,600]]}]},"targeting":{"Page":["single"],"inURL":["how-do-you-make-the-perfect-toy"],"Category":["business","2022-09"],"Tag":["business","children","games","hasbro","mattel","spin-master","toys"]}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://thewalrus.ca/wp-content/plugins/doubleclick-for-wp/js/jquery.dfw.js?ver=0.3.0' id='jquery.dfw.js-js'></script>
+<script type='text/javascript' src='https://thewalrus.ca/wp-content/plugins/shortcodes-ultimate/vendor/jquery-inview/jquery-inview.js?ver=1.1.2' id='jquery-inview-js'></script>
+<script type='text/javascript' id='su-shortcodes-js-extra'>
+/* <![CDATA[ */
+var SUShortcodesL10n = {"noPreview":"This shortcode doesn't work in live preview. Please insert it into editor and preview on the site.","magnificPopup":{"close":"Close (Esc)","loading":"Loading...","prev":"Previous (Left arrow key)","next":"Next (Right arrow key)","counter":"%curr% of %total%","error":"Failed to load content. <a href=\"%url%\" target=\"_blank\"><u>Open link<\/u><\/a>"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://thewalrus.ca/wp-content/plugins/shortcodes-ultimate/includes/js/shortcodes/index.js?ver=5.12.0' id='su-shortcodes-js'></script>
+			<script type="text/javascript">
+				jQuery('.dfw-unit:not(.dfw-lazy-load)').dfp( window.dfw );
+			</script>
+		
+<!-- Shortcodes Ultimate custom CSS - start -->
+<style type="text/css">
+.su-table table, .su-table table td, table, th, td {
+    border: none !important;
+}
+</style>
+<!-- Shortcodes Ultimate custom CSS - end -->
+<script>window.w3tc_lazyload=1,window.lazyLoadOptions={elements_selector:".lazy",callback_loaded:function(t){var e;try{e=new CustomEvent("w3tc_lazyload_loaded",{detail:{e:t}})}catch(a){(e=document.createEvent("CustomEvent")).initCustomEvent("w3tc_lazyload_loaded",!1,!1,{e:t})}window.dispatchEvent(e)}}</script><script async src="https://thewalrus.ca/wp-content/plugins/w3-total-cache/pub/js/lazyload.min.js"></script></body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 206/415 objects using disk
+Page Caching using disk: enhanced (SSL caching disabled) 
+Lazy Loading
+Minified using disk
+
+Served from: thewalrus.ca @ 2022-10-07 17:18:27 by W3 Total Cache
+-->

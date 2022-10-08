@@ -1,0 +1,701 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="author" content="Maria Popova">
+	<meta name="google-site-verification" content="4LJuFXcNVYbpBQ849fq77MYVRWvru3fXV8CMWF6OkE4">
+	<meta name="verify-v1" content="Xa6DUHnX8eUvM0BipzIqAMUlASbBY1m+Gi2M5NCe16Q=">
+	<meta name="p:domain_verify" content="9ac12d25319521a77a992e19624a79ee">
+	<meta name="mbl" content="e68cad7d4385c61a716edadf114599f5f246e242">
+	<meta property="twitter:account_id" content="9207632">
+
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://www.themarginalian.org/xmlrpc.php">
+	<link href="https://www.themarginalian.org/wp-content/themes/themarginalian/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+	<link rel="alternate" type="application/rss+xml" title="The Marginalian Feed" href="https://feeds.feedburner.com/brainpickings/rss">
+
+  <meta name="apple-mobile-web-app-title" content="The Marginalian">
+  <meta name="application-name" content="The Marginalian">
+  <link rel="manifest" href="/site.webmanifest">
+
+	<title>Richard Feynman on the One Sentence to Be Passed on to the Next Generation &#8211; The Marginalian</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//use.typekit.net' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.themarginalian.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.4"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.themarginalian.org/wp-includes/css/dist/block-library/style.min.css?ver=5.9.4' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='mediaelement-css'  href='https://www.themarginalian.org/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://www.themarginalian.org/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.9.4' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='brainpickings-style-css'  href='https://www.themarginalian.org/wp-content/themes/themarginalian/style.css?ver=20220725a' type='text/css' media='screen' />
+<link rel='stylesheet' id='brainpickings-print-style-css'  href='https://www.themarginalian.org/wp-content/themes/themarginalian/print.css?ver=20220725a' type='text/css' media='print' />
+<link rel='stylesheet' id='social-logos-css'  href='https://www.themarginalian.org/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=11.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://www.themarginalian.org/wp-content/plugins/jetpack/css/jetpack.css?ver=11.3.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://use.typekit.net/nuk6wtc.js?ver=20220725a' id='themarginalian-typekit-js-js'></script>
+<script type='text/javascript' src='https://www.themarginalian.org/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.themarginalian.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='brainpickings-js-js-extra'>
+/* <![CDATA[ */
+var brainpickings_ajax = {"ajax_url":"https:\/\/www.themarginalian.org\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.themarginalian.org/wp-content/themes/themarginalian/js/themarginalian.js?ver=20220725a' id='brainpickings-js-js'></script>
+<link rel="https://api.w.org/" href="https://www.themarginalian.org/wp-json/" /><link rel="alternate" type="application/json" href="https://www.themarginalian.org/wp-json/wp/v2/posts/21486" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.themarginalian.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.themarginalian.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.9.4" />
+<link rel="canonical" href="https://www.themarginalian.org/2012/09/11/richard-feynman-lectures-on-physics/" />
+<link rel='shortlink' href='https://wp.me/peM2X-5Ay' />
+<link rel="alternate" type="application/json+oembed" href="https://www.themarginalian.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.themarginalian.org%2F2012%2F09%2F11%2Frichard-feynman-lectures-on-physics%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.themarginalian.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.themarginalian.org%2F2012%2F09%2F11%2Frichard-feynman-lectures-on-physics%2F&#038;format=xml" />
+
+	<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	<script type="text/javascript">
+		var arrAffiliates = {
+			'com'   : 'braipick-20',
+			'co.uk'	: 'braipick0d-21',
+			'de'	: 'braipick00-21',
+			'fr'	: 'braipick09-21',
+			'ca'	: 'braipick09-20',
+			'co.jp'	: '',
+			'jp'	: '',
+			'it'	: 'braipick099-21',
+			'cn'	: '',
+			'es'	: 'braipick03-21',
+			'in'	: ''
+		};
+		var strUrlAjax = 'https://www.themarginalian.org/wp-content/plugins/amazon-affiliate-link-localizer/ajax.php';
+	</script>
+	<script type="text/javascript" src="https://www.themarginalian.org/wp-content/plugins/amazon-affiliate-link-localizer/js/amazon_linker.min.js?v=1.9.2"></script><style>img#wpstats{display:none}</style>
+				<style type="text/css">
+				/* If html does not have either class, do not show lazy loaded images. */
+				html:not( .jetpack-lazy-images-js-enabled ):not( .js ) .jetpack-lazy-image {
+					display: none;
+				}
+			</style>
+			<script>
+				document.documentElement.classList.add(
+					'jetpack-lazy-images-js-enabled'
+				);
+			</script>
+		
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Richard Feynman on the One Sentence to Be Passed on to the Next Generation" />
+<meta property="og:url" content="https://www.themarginalian.org/2012/09/11/richard-feynman-lectures-on-physics/" />
+<meta property="og:description" content="&#8220;In that one sentence, you will see, there is an enormous amount of information about the world, if just a little imagination and thinking are applied.&#8221;" />
+<meta property="article:published_time" content="2012-09-11T11:00:39+00:00" />
+<meta property="article:modified_time" content="2022-05-12T19:58:46+00:00" />
+<meta property="og:site_name" content="The Marginalian" />
+<meta property="og:image" content="https://www.themarginalian.org/wp-content/uploads/2012/09/richardfeynman1.jpg?fit=600%2C315&#038;ssl=1" />
+<meta property="og:image:width" content="600" />
+<meta property="og:image:height" content="315" />
+<meta property="og:image:alt" content="" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@brainpicker" />
+<meta name="twitter:text:title" content="Richard Feynman on the One Sentence to Be Passed on to the Next Generation" />
+<meta name="twitter:image" content="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2012/09/richardfeynman1.jpg?fit=600%2C315&#038;ssl=1&#038;w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2021/10/cropped-tm_site_icon-1.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2021/10/cropped-tm_site_icon-1.png?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2021/10/cropped-tm_site_icon-1.png?fit=180%2C180&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2021/10/cropped-tm_site_icon-1.png?fit=270%2C270&#038;ssl=1" />
+		<style type="text/css" id="wp-custom-css">
+			.note {
+      color: #999;
+      font-size: 115%;
+border: 1px solid #c6c6c6;
+padding:20px 20px;
+    }		</style>
+		</head>
+
+<body class="post-template-default single single-post postid-21486 single-format-standard">
+  <header>
+    <!--NAV FOR MOBILE ONLY -->
+    <nav class="responsive-nav" id="js-responsive-nav">
+      <a href="#" class="responsive-nav__toggle"></a>
+      <ul class="responsive-nav__list">
+        <li class="responsive-nav__item third border-right proxima">
+          <a href="https://www.themarginalian.org/" class="responsive-nav__link">Home</a>
+        </li>
+        <li class="responsive-nav__item third border-right proxima">
+          <a href="https://www.themarginalian.org/about/" class="responsive-nav__link">About</a>
+        </li>
+        <li class="responsive-nav__item third proxima">
+          <a href="https://www.themarginalian.org/contact/" class="responsive-nav__link">Contact</a>
+        </li>
+        <li class="responsive-nav__item full fira border-top">
+          <a href="https://www.themarginalian.org/donate/" class="responsive-nav__link">donating = loving</a>
+        </li>
+        <li class="responsive-nav__item full fira border-top">
+          <a href="https://www.themarginalian.org/newsletter/" class="responsive-nav__link">newsletter</a>
+        </li>
+        <li class="responsive-nav__item full fira border-top">
+          	<form role="search" method="get" class="search-form" action="https://www.themarginalian.org/">
+		<fieldset>
+			<input type="text" name="s" value="" class="search-field" placeholder="search" />
+			<input type="submit" value="Go" class="mc_button" />
+		</fieldset>
+	</form>
+	        </li>
+        <li class="responsive-nav__item full proxima border-top">
+          <span id="view-full" class="rwd-display-option responsive-nav__link">View Full Site</span>
+        </li>
+      </ul>
+    </nav>
+
+    <!--END NAV FOR MOBILE ONLY -->
+
+    <div id="header_container">
+      <div class="left" id="icon">
+        <a href="https://www.themarginalian.org/"><img src="https://www.themarginalian.org/wp-content/themes/themarginalian/images/the_marginalian_icon@2x.png?20220725a" alt="The Marginalian" height="120" /></a>
+      </div><!--END icon-->
+
+      <div id="logo" class="" style="">
+        <a href="https://www.themarginalian.org/"><img src="https://www.themarginalian.org/wp-content/themes/themarginalian/images/the_marginalian_wordmark@2x.png?20220725a" alt="The Marginalian" height="120" /></a>
+      </div><!--END logo-->
+
+      <div class="clear"></div>
+
+    </div><!--END header_container-->
+
+    <!--FOR PRINT.CSS ONLY -->
+    <div id="header_print"><img src="https://www.themarginalian.org/wp-content/themes/themarginalian/images/the_marginalian_logo_print.png?20220725a" alt="The Marginalian" /></div>
+  </header>
+
+  <script>BrainPickings.header();</script>
+
+  <div id="container">
+    <div id="content">
+
+			<div id="sidebar" class="left">
+	<div id="sidebar_rule">
+		<aside id="brainpickings_donation_vertical_widget-3" class="widget widget_brainpickings_donation_vertical_widget">
+	<div id="donation">
+		<div class="loving">
+			<a href="/donate/"><img src="https://www.themarginalian.org/wp-content/themes/themarginalian/images/donating_equals_loving@2x.png" alt="loving = donating" onmouseover="this.src='https://www.themarginalian.org/wp-content/themes/themarginalian/images/donating_equals_loving-over@2x.png'" onmouseout="this.src='https://www.themarginalian.org/wp-content/themes/themarginalian/images/donating_equals_loving@2x.png'" width="360" height="220" /></a>
+
+		</div><!--END loving-->
+
+		<div class="options">
+			<span class="arrow"></span>
+
+			<p>Each month, I spend hundreds of hours and thousands of dollars keeping <em>The Marginalian</em> (<a href="https://www.themarginalian.org/2021/10/22/brain-pickings-becoming-the-marginalian">formerly <em>Brain Pickings</em></a>) going. For fifteen years, it has remained free and ad-free and alive thanks to patronage from readers. I have no staff, no interns, not even an assistant — a thoroughly one-woman labor of love that is also my life and my livelihood. If this labor has made your own life more livable in the past year (or the past decade), please consider aiding its sustenance with a one-time or loyal donation. Your support makes all the difference.</p>
+
+			<h3 class="underline">MONTHLY DONATION</h3>
+
+							<div class="donation_amounts">
+					<p>&hearts; $3 / month</p>
+					<p>&hearts; $5 / month</p>
+					<p>&hearts; $7 / month</p>
+					<p>&hearts; $10 / month</p>
+					<p>&hearts; $25 / month</p>
+				</div>
+				<h4 class="one_time_donation_space"><a href="/donate/" class="button donate-link">START NOW</a></h4>
+			
+      <h3 class="underline">ONE-TIME DONATION</h3>
+
+			<p>You can also become a spontaneous supporter with a one-time donation in any amount:</p>
+
+							<h4 class="one_time_donation_space"><a href="/donate/" data-type="one-time" class="button donate-link">GIVE NOW</a></h4>
+			
+      <h3 class="underline">BITCOIN DONATION</h3>
+
+      <p class="text-break">
+        Partial to Bitcoin? You can beam some bit-love my way: <strong>197usDS6AsL9wDKxtGM6xaWjmR5ejgqem7</strong>
+      </p>
+
+      <p class="cancel-recurring">Need to cancel a recurring donation? <a href="/cancel-recurring-donation/">Go here</a>.</p>
+		</div><!--END options-->
+	</div><!--END donation-->
+
+	</aside><aside id="brainpickings_archives_widget-3" class="widget widget_brainpickings_archives_widget">
+	<div id="browse_archives">
+		<h1 class="underline">Archives</h1>
+			<form role="search" method="get" class="search-form" action="https://www.themarginalian.org/">
+		<fieldset>
+			<input type="text" name="s" value="" class="search-field" placeholder="search" />
+			<input type="submit" value="Go" class="mc_button" />
+		</fieldset>
+	</form>
+	
+		<select name="tags" id="tags"><option value="">browse by subject</option><option value="https://www.themarginalian.org/tag/culture/">culture</option><option value="https://www.themarginalian.org/tag/books/">books</option><option value="https://www.themarginalian.org/tag/art/">art</option><option value="https://www.themarginalian.org/tag/psychology/">psychology</option><option value="https://www.themarginalian.org/tag/philosophy/">philosophy</option><option value="https://www.themarginalian.org/tag/science/">science</option><option value="https://www.themarginalian.org/tag/history/">history</option><option value="https://www.themarginalian.org/tag/design/">design</option><option value="https://www.themarginalian.org/tag/illustration/">illustration</option><option value="https://www.themarginalian.org/tag/childrens-books/">children&#039;s books</option><option value="https://www.themarginalian.org/all-subjects/">all subjects</option></select>
+		<script>BrainPickings.tags();</script>
+		<h3><a href="https://www.themarginalian.org/surprise/">surprise me</a></h3>
+	</div>
+	</aside>
+	<div id="social">
+		<h3 class="underline inline-block space-right"><a href="/about/">ABOUT</a></h3>
+		<h3 class="underline inline-block"><a href="/contact/">CONTACT</a></h3>
+
+		<div class="break"></div>
+		<h3 class="underline inline-block" id="social-support"><a href="/donate/">SUPPORT</a></h3>
+
+		<div class="break"></div>
+		<h3 class="underline space-above">SUBSCRIBE</h3>
+		<div class="break"></div>
+
+		<p class="inline-block space-right-small"><a href="/newsletter/"><span class="social-newsletter"></span>Newsletter</a></p>
+		<p class="inline-block"><a href="https://feedproxy.google.com/brainpickings/rss"><span class="social-rss"></span>RSS</a></p>
+
+		<h3 class="underline space-above">CONNECT</h3>
+
+		<p class="inline-block space-right-small"><a href="https://www.facebook.com/TheMarginalian/"><span class="social-facebook"></span>Facebook</a></p>
+		<p class="inline-block"><a href="https://twitter.com/brainpicker"><span class="social-twitter"></span>Twitter</a></p>
+		<p class="inline-block space-right-small"><a href="https://instagram.com/brainpicker/"><span class="social-instagram"></span>Instagram</a></p>
+		<p class="inline-block"><a href="http://explore.brainpickings.org/"><span class="social-tumblr"></span>Tumblr</a></p>
+
+	</div><!--END social-->
+	<aside id="brainpickings_newsletter_vertical_widget-3" class="widget widget_brainpickings_newsletter_vertical_widget">
+	<div id="newsletter">
+		<h1 class="underline">Sunday newsletter</h1>		<p><em>The Marginalian</em> has a free Sunday digest of the week's most mind-broadening and heart-lifting reflections spanning art, science, poetry, philosophy, and other tendrils of our search for truth, beauty, meaning, and creative vitality. Here's an <a href="http://eepurl.com/h4Ip0n">example</a>. Like? Claim yours:</p>
+
+		<!-- Begin MailChimp Signup Form -->
+		<div id="mc_embed_signup">
+			<form action="https://brainpickings.us2.list-manage.com/subscribe/post?u=13eb080d8a315477042e0d5b1&amp;id=179ffa2629" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="../_blank">
+				<div id="mc_embed_signup_scroll">
+					<input type="text" value="" name="NAME" class="" id="mce-NAME" placeholder="Name" required>
+					<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email Address" required>
+					<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+					<div style="position: absolute; left: -5000px;"><input type="text" name="b_dbeae2cb82bd3279d443819a5_2e6d8988db" tabindex="-1" value=""></div>
+					<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="mc_button"></div>
+				</div>
+			</form>
+		</div>
+	</div><!--END newsletter -->
+
+	</aside><aside id="brainpickings_newsletter_midweek_vertical_widget-2" class="widget widget_brainpickings_newsletter_midweek_vertical_widget">
+	<div id="newsletter">
+		<h1 class="underline">midweek newsletter</h1>		<p>Also: Because <em>The Marginalian</em> is well into its second decade and because I write primarily about ideas of timeless nourishment, each Wednesday I dive into the archive and resurface from among the thousands of essays one worth resavoring. Subscribe to this free midweek pick-me-up for heart, mind, and spirit below — it is separate from the standard Sunday digest of new pieces:</p>
+
+		<!-- Begin MailChimp Signup Form -->
+		<div id="mc_embed_signup">
+			<form action="https://brainpickings.us2.list-manage.com/subscribe/post?u=13eb080d8a315477042e0d5b1&amp;id=e967e378ad" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="../_blank">
+				<div id="mc_embed_signup_scroll">
+					<input type="text" value="" name="NAME" class="" id="mce-NAME" placeholder="Name" required>
+					<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email Address" required>
+					<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+          <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_13eb080d8a315477042e0d5b1_e967e378ad" tabindex="-1" value=""></div>
+          <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="mc_button"></div>
+				</div>
+			</form>
+		</div>
+	</div><!--END newsletter -->
+
+	</aside><aside id="brainpickings_links-3" class="widget widget_brainpickings_links"><div id="also"><h1 class="underline">Also</h1><a href="https://www.themarginalian.org/the-universe-in-verse/"><img width="320" height="320" src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2022/02/animations.jpg?fit=320%2C320&amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="The Universe in Verse" loading="lazy" /></a><h5><a href="https://www.themarginalian.org/the-universe-in-verse/">The Universe in Verse</a></h5><div class="clear"></div><a href="https://www.themarginalian.org/figuring/"><img width="320" height="486" src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2018/10/figuring_jacket_final.jpg?fit=320%2C486&amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="Figuring" loading="lazy" /></a><h5><a href="https://www.themarginalian.org/figuring/">Figuring</a></h5><div class="clear"></div><a href="https://www.themarginalian.org/the-snail-with-the-right-heart/"><img width="320" height="319" src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2021/01/COVER_final.jpg?fit=320%2C319&amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="The Snail with the Right Heart: A True Story" loading="lazy" /></a><h5><a href="https://www.themarginalian.org/the-snail-with-the-right-heart/">The Snail with the Right Heart: A True Story</a></h5><div class="clear"></div><a href="https://www.themarginalian.org/a-velocity-of-being/"><img width="320" height="427" src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2018/11/avelocityofbeing_cover-1.jpg?fit=320%2C427&amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="A Velocity of Being" loading="lazy" /></a><h5><a href="https://www.themarginalian.org/a-velocity-of-being/">A Velocity of Being</a></h5><div class="clear"></div><h5><a href="http://society6.com/brainpicker?curator=brainpicker">art</a></h5><div class="clear"></div><h5><a href="https://soundcloud.com/brainpicker/">sounds</a></h5><div class="clear"></div><h5><a href="https://explore.themarginalian.org/">bites</a></h5><div class="clear"></div><h5><a href="https://bookpickings.themarginalian.org/">bookshelf</a></h5><div class="clear"></div></div></aside><aside id="brainpickings_links-4" class="widget widget_brainpickings_links"><div id="favorite_reads"><h1 class="underline">Favorite Reads</h1><a href="https://www.themarginalian.org/2021/10/22/brain-pickings-becoming-the-marginalian/"><img width="320" height="168" src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2021/10/MariaPopova_child_marginalian.jpg?fit=320%2C168&amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="Becoming the Marginalian: After 15 Years, Brain Pickings Reborn" loading="lazy" /></a><h5><a href="https://www.themarginalian.org/2021/10/22/brain-pickings-becoming-the-marginalian/">Becoming the Marginalian: After 15 Years, Brain Pickings Reborn</a></h5><div class="clear"></div><a href="https://www.themarginalian.org/2022/02/04/universe-in-verse-bloom/"><img width="320" height="168" src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2022/02/bloom_hand-1.png?fit=320%2C168&amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="Bloom: The Evolution of Life on Earth and the Birth of Ecology (Joan As Police Woman Sings Emily Dickinson)" loading="lazy" /></a><h5><a href="https://www.themarginalian.org/2022/02/04/universe-in-verse-bloom/">Bloom: The Evolution of Life on Earth and the Birth of Ecology (Joan As Police Woman Sings Emily Dickinson)</a></h5><div class="clear"></div><a href="https://www.themarginalian.org/2022/05/17/beethoven-ode-to-joy/"><img width="320" height="168" src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2022/05/vanessabell_stringquartet_virginiawoolf00.jpg?fit=320%2C168&amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="Trial, Triumph, and the Art of the Possible: The Remarkable Story Behind Beethoven’s “Ode to Joy”" loading="lazy" /></a><h5><a href="https://www.themarginalian.org/2022/05/17/beethoven-ode-to-joy/">Trial, Triumph, and the Art of the Possible: The Remarkable Story Behind Beethoven’s “Ode to Joy”</a></h5><div class="clear"></div><a href="https://www.themarginalian.org/2022/01/01/resolutions-for-living/"><img width="320" height="168" src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2022/01/resolutions.jpg?fit=320%2C168&amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="Resolutions for a Life Worth Living: Attainable Aspirations Inspired by Great Humans of the Past" loading="lazy" /></a><h5><a href="https://www.themarginalian.org/2022/01/01/resolutions-for-living/">Resolutions for a Life Worth Living: Attainable Aspirations Inspired by Great Humans of the Past</a></h5><div class="clear"></div><a href="https://www.themarginalian.org/2020/10/21/14-years-of-brain-pickings/"><img width="320" height="168" src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2021/05/dorothylathrop1.jpg?fit=320%2C168&amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="Essential Life-Learnings from 14 Years of Brain Pickings" loading="lazy" /></a><h5><a href="https://www.themarginalian.org/2020/10/21/14-years-of-brain-pickings/">Essential Life-Learnings from 14 Years of Brain Pickings</a></h5><div class="clear"></div><a href="https://www.themarginalian.org/2018/12/10/emily-dickinson-love-letters-susan-gilbert/"><img width="320" height="168" src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2018/12/emilydickinson_susangilbert1.jpg?fit=320%2C168&amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="Emily Dickinson’s Electric Love Letters to Susan Gilbert" loading="lazy" /></a><h5><a href="https://www.themarginalian.org/2018/12/10/emily-dickinson-love-letters-susan-gilbert/">Emily Dickinson’s Electric Love Letters to Susan Gilbert</a></h5><div class="clear"></div><a href="https://www.themarginalian.org/2020/04/23/singularity-marie-howe-animated/"><img width="320" height="179" src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2020/04/singularity2.jpg?fit=320%2C179&amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="Singularity: Marie Howe’s Ode to Stephen Hawking, Our Cosmic Belonging, and the Meaning of Home, in a Stunning Animated Short Film" loading="lazy" /></a><h5><a href="https://www.themarginalian.org/2020/04/23/singularity-marie-howe-animated/">Singularity: Marie Howe’s Ode to Stephen Hawking, Our Cosmic Belonging, and the Meaning of Home, in a Stunning Animated Short Film</a></h5><div class="clear"></div><a href="https://www.themarginalian.org/2019/12/26/katharina-kepler-witchcraft-dream/"><img width="320" height="168" src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2019/12/kepler.jpg?fit=320%2C168&amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="How Kepler Invented Science Fiction and Defended His Mother in a Witchcraft Trial While Revolutionizing Our Understanding of the Universe" loading="lazy" /></a><h5><a href="https://www.themarginalian.org/2019/12/26/katharina-kepler-witchcraft-dream/">How Kepler Invented Science Fiction and Defended His Mother in a Witchcraft Trial While Revolutionizing Our Understanding of the Universe</a></h5><div class="clear"></div><a href="https://www.themarginalian.org/2019/02/25/love-and-saint-augustine-hannah-arendt/"><img width="320" height="168" src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2015/10/abzlove.jpg?fit=320%2C168&amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="Hannah Arendt on Love and How to Live with the Fundamental Fear of Loss" loading="lazy" /></a><h5><a href="https://www.themarginalian.org/2019/02/25/love-and-saint-augustine-hannah-arendt/">Hannah Arendt on Love and How to Live with the Fundamental Fear of Loss</a></h5><div class="clear"></div><a href="https://www.themarginalian.org/2020/04/26/leland-melvin-reads-pablo-neruda-chilean-forest/"><img width="320" height="168" src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2020/04/neruda_leland.jpg?fit=320%2C168&amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="The Cosmic Miracle of Trees: Astronaut Leland Melvin Reads Pablo Neruda’s Love Letter to Earth’s Forests" loading="lazy" /></a><h5><a href="https://www.themarginalian.org/2020/04/26/leland-melvin-reads-pablo-neruda-chilean-forest/">The Cosmic Miracle of Trees: Astronaut Leland Melvin Reads Pablo Neruda’s Love Letter to Earth’s Forests</a></h5><div class="clear"></div><a href="https://www.themarginalian.org/2019/01/03/a-velocity-of-being-rebecca-solnit/"><img width="320" height="168" src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2019/01/liniers_solnit_velocity.jpg?fit=320%2C168&amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="Rebecca Solnit’s Lovely Letter to Children About How Books Solace, Empower, and Transform Us" loading="lazy" /></a><h5><a href="https://www.themarginalian.org/2019/01/03/a-velocity-of-being-rebecca-solnit/">Rebecca Solnit’s Lovely Letter to Children About How Books Solace, Empower, and Transform Us</a></h5><div class="clear"></div><a href="https://www.themarginalian.org/2014/01/29/carol-dweck-mindset/"><img width="300" height="157" src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2014/01/mindset.jpg?fit=300%2C157&amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="Fixed vs. Growth: The Two Basic Mindsets That Shape Our Lives" loading="lazy" /></a><h5><a href="https://www.themarginalian.org/2014/01/29/carol-dweck-mindset/">Fixed vs. Growth: The Two Basic Mindsets That Shape Our Lives</a></h5><div class="clear"></div><a href="https://www.themarginalian.org/2017/12/21/reflection/"><img width="320" height="168" src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2017/12/cosmic.jpg?fit=320%2C168&amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="In Praise of the Telescopic Perspective: A Reflection on Living Through Turbulent Times" loading="lazy" /></a><h5><a href="https://www.themarginalian.org/2017/12/21/reflection/">In Praise of the Telescopic Perspective: A Reflection on Living Through Turbulent Times</a></h5><div class="clear"></div><a href="https://www.themarginalian.org/2017/08/27/seneca-anxiety/"><img width="320" height="168" src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2016/06/thinslicesofanxiety0.jpg?fit=320%2C168&amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="A Stoic’s Key to Peace of Mind: Seneca on the Antidote to Anxiety" loading="lazy" /></a><h5><a href="https://www.themarginalian.org/2017/08/27/seneca-anxiety/">A Stoic’s Key to Peace of Mind: Seneca on the Antidote to Anxiety</a></h5><div class="clear"></div><a href="https://www.themarginalian.org/2017/09/25/e-e-cummings-advice/"><img width="320" height="168" src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2016/07/eecummings3.jpg?fit=320%2C168&amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="The Courage to Be Yourself: E.E. Cummings on Art, Life, and Being Unafraid to Feel" loading="lazy" /></a><h5><a href="https://www.themarginalian.org/2017/09/25/e-e-cummings-advice/">The Courage to Be Yourself: E.E. Cummings on Art, Life, and Being Unafraid to Feel</a></h5><div class="clear"></div><a href="https://www.themarginalian.org/2017/01/27/rachel-carson-silent-spring-dorothy-freeman/"><img width="320" height="168" src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2017/01/rachelcarson3.jpg?fit=320%2C168&amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="The Writing of “Silent Spring”: Rachel Carson and the Culture-Shifting Courage to Speak Inconvenient Truth to Power" loading="lazy" /></a><h5><a href="https://www.themarginalian.org/2017/01/27/rachel-carson-silent-spring-dorothy-freeman/">The Writing of “Silent Spring”: Rachel Carson and the Culture-Shifting Courage to Speak Inconvenient Truth to Power</a></h5><div class="clear"></div><a href="https://www.themarginalian.org/2015/03/19/a-rap-on-race-margaret-mead-and-james-baldwin/"><img width="300" height="157" src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2015/03/meadbaldwin_wendy.jpg?fit=300%2C157&amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="A Rap on Race: Margaret Mead and James Baldwin’s Rare Conversation on Forgiveness and the Difference Between Guilt and Responsibility" loading="lazy" /></a><h5><a href="https://www.themarginalian.org/2015/03/19/a-rap-on-race-margaret-mead-and-james-baldwin/">A Rap on Race: Margaret Mead and James Baldwin’s Rare Conversation on Forgiveness and the Difference Between Guilt and Responsibility</a></h5><div class="clear"></div><a href="https://www.themarginalian.org/2015/07/20/esther-sternberg-balance-within-stress-emotion/"><img width="300" height="158" src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2015/07/sendak_stress.jpg?fit=300%2C158&amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="The Science of Stress and How Our Emotions Affect Our Susceptibility to Burnout and Disease" loading="lazy" /></a><h5><a href="https://www.themarginalian.org/2015/07/20/esther-sternberg-balance-within-stress-emotion/">The Science of Stress and How Our Emotions Affect Our Susceptibility to Burnout and Disease</a></h5><div class="clear"></div><a href="https://www.themarginalian.org/2015/01/20/mary-oliver-molly-malone-cook-our-world/"><img width="300" height="157" src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2015/01/maryolivermollymalonecook.jpg?fit=300%2C157&amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="Mary Oliver on What Attention Really Means and Her Moving Elegy for Her Soul Mate" loading="lazy" /></a><h5><a href="https://www.themarginalian.org/2015/01/20/mary-oliver-molly-malone-cook-our-world/">Mary Oliver on What Attention Really Means and Her Moving Elegy for Her Soul Mate</a></h5><div class="clear"></div><a href="https://www.themarginalian.org/2016/03/16/rebecca-solnit-hope-in-the-dark-2/"><img width="300" height="158" src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2015/07/mrgauguinsheart0.jpg?fit=300%2C158&amp;ssl=1" class="attachment-medium size-medium wp-post-image" alt="Rebecca Solnit on Hope in Dark Times, Resisting the Defeatism of Easy Despair, and What Victory Really Means for Movements of Social Change" loading="lazy" /></a><h5><a href="https://www.themarginalian.org/2016/03/16/rebecca-solnit-hope-in-the-dark-2/">Rebecca Solnit on Hope in Dark Times, Resisting the Defeatism of Easy Despair, and What Victory Really Means for Movements of Social Change</a></h5><div class="clear"></div><h3 class="more_link"><a href="/favorite-reads/">see more</a></h3></div></aside><aside id="brainpickings_related_reads_widget-3" class="widget widget_brainpickings_related_reads_widget"><div id="related_reads"><h1><span>Related Reads</span></h1><a href="https://www.themarginalian.org/2014/03/07/richard-feynman-rubber-bands/"><img width="300" height="157" src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2014/03/feynman.jpg?fit=300%2C157&amp;ssl=1" class=" wp-post-image jetpack-lazy-image" alt="The Miraculous in the Mundane: Richard Feynman Explains How Rubber Bands Work" data-lazy-srcset="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2014/03/feynman.jpg?w=698&amp;ssl=1 698w, https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2014/03/feynman.jpg?resize=300%2C157&amp;ssl=1 300w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2014/03/feynman.jpg?fit=300%2C157&amp;ssl=1&amp;is-pending-load=1"></a><h5><a href="https://www.themarginalian.org/2014/03/07/richard-feynman-rubber-bands/" class="yellow">The Miraculous in the Mundane: Richard Feynman Explains How Rubber Bands Work</a></h5><a href="https://www.themarginalian.org/2014/01/06/the-universe-in-a-glass-of-wine-feynman/"><img width="320" height="168" src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2014/01/glass-1.jpg?fit=320%2C168&amp;ssl=1" class=" wp-post-image jetpack-lazy-image" alt="The Universe in a Glass of Wine: Richard Feynman on How Everything Connects, Animated" data-lazy-srcset="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2014/01/glass-1.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2014/01/glass-1.jpg?resize=240%2C126&amp;ssl=1 240w, https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2014/01/glass-1.jpg?resize=320%2C168&amp;ssl=1 320w" data-lazy-sizes="(max-width: 320px) 100vw, 320px" data-lazy-src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2014/01/glass-1.jpg?fit=320%2C168&amp;ssl=1&amp;is-pending-load=1"></a><h5><a href="https://www.themarginalian.org/2014/01/06/the-universe-in-a-glass-of-wine-feynman/" class="yellow">The Universe in a Glass of Wine: Richard Feynman on How Everything Connects, Animated</a></h5><a href="https://www.themarginalian.org/2012/05/11/richard-feynman-key-to-science/"><img width="198" height="300" src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2012/08/feynman_pleasure1.jpg?fit=198%2C300&amp;ssl=1" class=" wp-post-image jetpack-lazy-image" alt="Richard Feynman Reveals the Key to Science in 63 Seconds" data-lazy-srcset="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2012/08/feynman_pleasure1.jpg?w=300&amp;ssl=1 300w, https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2012/08/feynman_pleasure1.jpg?resize=198%2C300&amp;ssl=1 198w" data-lazy-sizes="(max-width: 198px) 100vw, 198px" data-lazy-src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2012/08/feynman_pleasure1.jpg?fit=198%2C300&amp;ssl=1&amp;is-pending-load=1"></a><h5><a href="https://www.themarginalian.org/2012/05/11/richard-feynman-key-to-science/" class="yellow">Richard Feynman Reveals the Key to Science in 63 Seconds</a></h5></div></aside><aside id="text-2" class="widget widget_text">			<div class="textwidget"><div id="labors_of_love">
+  <h1 class="underline">Labors of Love</h1>
+  
+  <h5><a href="/2013/12/16/writers-wakeup-times-literary-productivity-visualization/">Famous Writers' Sleep Habits vs. Literary Productivity,&nbsp;Visualized</a></h5>
+  <a href="/2013/12/16/writers-wakeup-times-literary-productivity-visualization/"><img src="/wp-content/uploads/2013/11/sleepproductivitywriters_500_1.jpg" width="200" scale="0" data-lazy-src="/wp-content/uploads/2013/11/sleepproductivitywriters_500_1.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img data-lazy-fallback="1" src="/wp-content/uploads/2013/11/sleepproductivitywriters_500_1.jpg" width="200" scale="0" /></noscript></a>
+  
+  <h5><a href="/2014/06/25/7-learnings-holstee-poster/">7 Life-Learnings from 7 Years of Brain Pickings,&nbsp;Illustrated</a></h5>
+  <a href="/2014/06/25/7-learnings-holstee-poster/"><img src="/wp-content/uploads/2014/06/holstee_7things.jpg" width="200" scale="0" data-lazy-src="/wp-content/uploads/2014/06/holstee_7things.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img data-lazy-fallback="1" src="/wp-content/uploads/2014/06/holstee_7things.jpg" width="200" scale="0" /></noscript></a>
+  
+  <h5><a href="/2012/12/03/anais-nin-love-debbie-millman-1/">Anaïs Nin on Love, Hand-Lettered by Debbie&nbsp;Millman</a></h5>
+  <a href="/2012/12/03/anais-nin-love-debbie-millman-1/"><img src="/wp-content/uploads/2012/12/anais_debbie1.jpg" width="200" scale="0" data-lazy-src="/wp-content/uploads/2012/12/anais_debbie1.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img data-lazy-fallback="1" src="/wp-content/uploads/2012/12/anais_debbie1.jpg" width="200" scale="0" /></noscript></a>
+
+  <h5><a href="/2013/02/21/anais-nin-on-love-by-debbie-millman-2/">Anaïs Nin on Real Love, Illustrated by Debbie&nbsp;Millman</a></h5>
+  <a href="/2013/02/21/anais-nin-on-love-by-debbie-millman-2/"><img src="/wp-content/uploads/2013/02/anaisnin_debbiemillman2_500.jpg" width="200" scale="0" data-lazy-src="/wp-content/uploads/2013/02/anaisnin_debbiemillman2_500.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img data-lazy-fallback="1" src="/wp-content/uploads/2013/02/anaisnin_debbiemillman2_500.jpg" width="200" scale="0" /></noscript></a>
+
+  <h5><a href="/2012/08/03/susan-sontag-on-love/">Susan Sontag on Love: Illustrated Diary&nbsp;Excerpts</a></h5>
+  <a href="/2012/08/03/susan-sontag-on-love/"><img src="/wp-content/uploads/2014/02/sontaglove_unlimited.jpg" width="200" scale="0" data-lazy-src="/wp-content/uploads/2014/02/sontaglove_unlimited.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img data-lazy-fallback="1" src="/wp-content/uploads/2014/02/sontaglove_unlimited.jpg" width="200" scale="0" /></noscript></a>
+  
+  <h5><a href="/2012/11/30/susan-sontag-on-art/">Susan Sontag on Art: Illustrated Diary&nbsp;Excerpts</a></h5>
+  <a href="/2012/11/30/susan-sontag-on-art/"><img src="/wp-content/uploads/2012/11/sontagart.jpg" width="200" scale="0" data-lazy-src="/wp-content/uploads/2012/11/sontagart.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img data-lazy-fallback="1" src="/wp-content/uploads/2012/11/sontagart.jpg" width="200" scale="0" /></noscript></a>
+  
+  <h5><a href="/2014/06/16/albert-camus-diary-wendy-macnaughton/">Albert Camus on Happiness and Love, Illustrated by Wendy&nbsp;MacNaughton</a></h5>
+  <a href="/2014/06/16/albert-camus-diary-wendy-macnaughton/"><img src="/wp-content/uploads/2014/06/wendycamus.jpg" width="200" scale="0" data-lazy-src="/wp-content/uploads/2014/06/wendycamus.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img data-lazy-fallback="1" src="/wp-content/uploads/2014/06/wendycamus.jpg" width="200" scale="0" /></noscript></a>
+  
+  <h5><a href="http://holstee.com/manifesto-bp" target="_blank" rel="noopener">The Holstee&nbsp;Manifesto</a></h5>
+  <a href="http://holstee.com/manifesto-bp" target="_blank" rel="noopener"><img src="/wp-content/uploads/2012/10/holsteemanifesto.jpg" width="200" scale="0" data-lazy-src="/wp-content/uploads/2012/10/holsteemanifesto.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img data-lazy-fallback="1" src="/wp-content/uploads/2012/10/holsteemanifesto.jpg" width="200" scale="0" /></noscript></a>
+
+  <h5><a href="/2015/08/31/remembering-oliver-sacks">The Silent Music of the Mind: Remembering Oliver&nbsp;Sacks</a></h5>
+  <a href="/2015/08/31/remembering-oliver-sacks"><img src="/wp-content/uploads/2015/08/oliversacks_debbiemillman.jpg" width="200" scale="0" data-lazy-src="/wp-content/uploads/2015/08/oliversacks_debbiemillman.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img data-lazy-fallback="1" src="/wp-content/uploads/2015/08/oliversacks_debbiemillman.jpg" width="200" scale="0" /></noscript></a>
+</div></div>
+		</aside>	</div><!--END sidebar_rule-->
+</div><!--END sidebar-->
+
+      <div id="main_body" class="right">
+<div class="post_content">
+	<div id="posts" class="post-21486 post type-post status-publish format-standard has-post-thumbnail hentry category-culture category-science tag-culture tag-education tag-richard-feynman tag-science">
+					<h1 class="entry-title"><span>Richard Feynman on the One Sentence to Be Passed on to the Next Generation</span></h1>		
+		<h2>&#8220;In that one sentence, you will see, there is an enormous amount of information about the world, if just a little imagination and thinking are applied.&#8221;</h2>
+
+		<h3 class="byline">By Maria Popova</h3>
+
+		<div class="entry_content">
+			<p><a href="https://www.amazon.com/dp/0465023827/ref=as_li_ss_til?tag=braipick-20&#038;camp=0&#038;creative=0&#038;linkCode=as4&#038;creativeASIN=0465023827&#038;adid=0FNNXBXWJYGWCGDEAQN5&#038;" target="_blank" rel="noopener"><img class="cover jetpack-lazy-image" src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2012/09/feynmanlecturesonphysics.jpg?w=680&#038;ssl=1" alt data-recalc-dims="1" data-lazy-src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2012/09/feynmanlecturesonphysics.jpg?w=680&amp;is-pending-load=1#038;ssl=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img data-lazy-fallback="1" class="cover" src="https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2012/09/feynmanlecturesonphysics.jpg?w=680&#038;ssl=1" alt="" data-recalc-dims="1"  /></noscript></a>The great <strong>Richard Feynman</strong> (May 11, 1918&ndash;February 15, 1988) &#8212; <a href="https://www.themarginalian.org/2012/08/27/richard-feynman-on-the-role-of-scientific-culture-in-modern-society/">champion of scientific culture</a>, <a href="https://www.themarginalian.org/2011/10/14/richard-feynman-graphic-novel-biography-ottoviani/">graphic novel hero</a>, <a href="https://www.themarginalian.org/2012/06/08/richard-feynman-caltech-cargo-cult-science/">crusader for integrity</a>, <a href="https://www.themarginalian.org/2012/05/11/richard-feynman-key-to-science/">holder of the key to science</a> &#8212; may have earned himself the moniker <a href="https://www.themarginalian.org/2011/12/14/bbcs-richard-feynman-no-ordinary-genius/">&#8220;the Great Explainer,&#8221;</a> but when Caltech invited him to take over the introductory course in physics in 1961, they took an enormous chance on a theoretical physicist with no particular interest in students. What resulted, however, was nothing short of magic &#8212; his lectures went on to become a cultural classic, blending remarkably articulate explanations of science with poignant meditations on life&#8217;s most profound questions, and were eventually collected in <a href="https://www.amazon.com/dp/0465023827/ref=as_li_ss_til?tag=braipick-20&#038;camp=0&#038;creative=0&#038;linkCode=as4&#038;creativeASIN=0465023827&#038;adid=0FNNXBXWJYGWCGDEAQN5&#038;" target="_blank" rel="noopener"><strong><em>The Feynman Lectures on Physics</em></strong></a> (<a href="https://www.worldcat.org/title/feynman-lectures-on-physics/oclc/19455482&#038;referer=brief_results" target="_blank" rel="noopener"><em>public library</em></a>).</p>
+<p><img src="https://i1.wp.com/www.themarginalian.org/wp-content/uploads/2012/09/richardfeynman1.jpg" data-lazy-src="https://i1.wp.com/www.themarginalian.org/wp-content/uploads/2012/09/richardfeynman1.jpg?is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img data-lazy-fallback="1" src="https://i1.wp.com/www.themarginalian.org/wp-content/uploads/2012/09/richardfeynman1.jpg"  /></noscript></p>
+<p>From the very beginning of his first-ever lecture comes this timeless gem (mentioned in Daniel Bor&#8217;s excellent <a href="https://www.themarginalian.org/2012/09/04/the-ravenous-brain-daniel-bor/"><em>The Ravenous Brain</em></a>) that set the tone for both Feynman&#8217;s academic contribution and his broader cultural legacy:</p>
+<blockquote><p>If, in some cataclysm, all of scientific knowledge were to be destroyed, and only one sentence passed on to the next generation of creatures, what statement would contain the most information in the fewest words? I believe it is the atomic hypothesis that <em>all things are made of atoms &#8212; little particles that move around in perpetual motion, attracting each other when they are a little distance apart, but repelling upon being squeezed into one another.</em> In that one sentence, you will see, there is an enormous amount of information about the world, if just a little imagination and thinking are applied.</p></blockquote>
+<p>Couple with Feynman&#8217;s <a href="https://www.themarginalian.org/2022/04/22/richard-feynman-yo-yo-ma/">ode to the wonder of life, performed by Yo-Yo Ma in a breathtaking animation</a>, and his famed <a href="https://www.themarginalian.org/2013/01/01/ode-to-a-flower-richard-feynman/">ode to a flower</a>, then revisit Bertrand Russell on <a href="https://www.themarginalian.org/2013/02/21/education-and-the-good-life-bertrand-russell/">science as the key to democracy</a>.</p>
+		</div>
+
+			</div><!--END posts-->
+
+	<div class="clear"></div>
+
+	<aside id="brainpickings_donation_horizontal_widget-3" class="widget widget_brainpickings_donation_horizontal_widget">
+	<div id="bottom_donation" class="flipboard-keep">
+
+		<h1 class="underline">donating = loving</h1>		<p>Each month, I spend hundreds of hours and thousands of dollars keeping <em>The Marginalian</em> (<a href="https://www.themarginalian.org/2021/10/22/brain-pickings-becoming-the-marginalian">formerly <em>Brain Pickings</em></a>) going. For fifteen years, it has remained free and ad-free and alive thanks to patronage from readers. I have no staff, no interns, not even an assistant — a thoroughly one-woman labor of love that is also my life and my livelihood. If this labor has made your own life more livable in the past year (or the past decade), please consider aiding its sustenance with a one-time or loyal donation. Your support makes all the difference.</p>
+
+		<div class="bottom_left" id="bottom_monthly_donation">
+			<h3 class="underline">Monthly donation</h3>
+
+							<div class="donation_amounts">
+					<p>&hearts; $3 / month</p>
+					<p>&hearts; $5 / month</p>
+					<p>&hearts; $7 / month</p>
+					<p>&hearts; $10 / month</p>
+					<p>&hearts; $25 / month</p>
+				</div>
+
+				<h4><a href="/donate/" class="button donate-link">START NOW</a></h4>
+					</div><!--END bottom_monthly_donation-->
+
+		<div class="bottom_right" id="bottom_onetime_donation">
+			<h3 class="underline">One-time donation</h3>
+
+			<p>You can also become a spontaneous supporter with a one-time donation in any amount:</p>
+
+							<h4><a href="/donate/" data-type="one-time" class="button donate-link">GIVE NOW</a></h4>
+					</div><!--END bottom_onetime_donation-->
+
+    <div class="clear"></div>
+
+    <h3 class="underline" style="margin-top: 3em">BITCOIN DONATION</h3>
+
+    <p class="text-break">
+      Partial to Bitcoin? You can beam some bit-love my way: <strong>197usDS6AsL9wDKxtGM6xaWjmR5ejgqem7</strong>
+    </p>
+
+    <h3 class="underline" style="margin-top: 2.8em">CANCEL MONTHLY SUPPORT</h3>
+
+    <p>
+      Need to cancel an existing donation? (It's okay — life changes course. I treasure your kindness and appreciate your
+      support for as long as it lasted.) You can do so <a href="/cancel-recurring-donation/">on this&nbsp;page</a>.
+    </p>
+
+	</div><!--END bottom_donation-->
+
+	</aside><aside id="brainpickings_newsletter_horizontal_widget-3" class="widget widget_brainpickings_newsletter_horizontal_widget">
+	<div id="bottom_newsletter">
+		<h1 class="underline">Sunday newsletter</h1>		<p><em>The Marginalian</em> has a free Sunday digest of the week's most mind-broadening and heart-lifting reflections spanning art, science, poetry, philosophy, and other tendrils of our search for truth, beauty, meaning, and creative vitality. Here's an <a href="http://eepurl.com/h4Ip0n">example</a>. Like? Claim yours:</p>
+
+		<div id="mc_embed_signup">
+			<form action="https://brainpickings.us2.list-manage.com/subscribe/post?u=13eb080d8a315477042e0d5b1&amp;id=179ffa2629" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="../_blank">
+				<div id="mc_embed_signup_scroll">
+					<div class="bottom_left" id="bottom_newsletter_name">
+						<input type="text" value="" name="NAME" class="" id="mce-NAME" placeholder="Name" required>
+					</div><!--END bottom_newsletter_name-->
+
+					<div class="bottom_right" id="bottom_newsletter_email">
+						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email Address" required>
+					</div><!--END bottom_newsletter_email-->
+
+					<div class="clear"></div>
+
+					<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+					<div style="position: absolute; left: -5000px;"><input type="text" name="b_dbeae2cb82bd3279d443819a5_2e6d8988db" tabindex="-1" value=""></div>
+					<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="mc_button"></div>
+				</div>
+			</form>
+		</div>
+	</div><!--END bottom_newsletter-->
+
+	</aside><aside id="brainpickings_newsletter_midweek_horizontal_widget-3" class="widget widget_brainpickings_newsletter_midweek_horizontal_widget">
+	<div id="bottom_newsletter">
+		<h1 class="underline">midweek newsletter</h1>		<p>Also: Because <em>The Marginalian</em> is well into its second decade and because I write primarily about ideas of timeless nourishment, each Wednesday I dive into the archive and resurface from among the thousands of essays one worth resavoring. Subscribe to this free midweek pick-me-up for heart, mind, and spirit below — it is separate from the standard Sunday digest of new pieces:</p>
+
+    <div id="mc_embed_signup">
+      <form action="https://brainpickings.us2.list-manage.com/subscribe/post?u=13eb080d8a315477042e0d5b1&amp;id=e967e378ad" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+        <div id="mc_embed_signup_scroll">
+          <div class="bottom_left" id="bottom_newsletter_name">
+            <input type="text" value="" name="NAME" class="" id="mce-NAME" placeholder="Name" required="">
+          </div>
+          <div class="bottom_right" id="bottom_newsletter_email">
+            <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email Address" required="">
+          </div>
+          <div class="clear"></div>
+          <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_13eb080d8a315477042e0d5b1_e967e378ad" tabindex="-1" value=""></div>
+          <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="mc_button"></div>
+        </div>
+      </form>
+    </div>
+	</div><!--END bottom_newsletter-->
+
+	</aside>	
+	<div id="end_print">
+		<p>
+			&mdash;<br>
+			Published September 11, 2012<br>
+			&mdash;<br>
+			https://www.themarginalian.org/2012/09/11/richard-feynman-lectures-on-physics/<br>
+			&mdash;
+		</p>
+		<img src="https://www.themarginalian.org/wp-content/themes/themarginalian/images/tm_monogram_print.png?20220725a" class="monogram" alt="BP">
+		<h1>www.themarginalian.org</h1>
+	</div>
+
+<div id="article_share">
+
+	<img src="https://www.themarginalian.org/wp-content/themes/themarginalian/images/tm_monogram@2x.png?20220725a" width="82" height="84" class="monogram" alt="BP" />
+
+			<h4 class="print_article">
+			<a href="javascript:window.print()" class="button_reverse print_article">PRINT ARTICLE</a>
+		</h4>
+
+		<h4>
+			<a href="/cdn-cgi/l/email-protection#3d024e485f57585e49007c180f0d4a525359584f5b4851180f0d4f585c59180f0d5b4f5250180f0d695558180f0d705c4f5a54535c51545c531b1e0d0e05065f525944006f545e555c4f59180f0d7b584453505c53180f0d5253180f0d495558180f0d725358180f0d6e58534958535e58180f0d4952180f0d7f58180f0d6d5c4e4e5859180f0d5253180f0d4952180f0d495558180f0d73584549180f0d7a5853584f5c49545253180d79180d7c180d79180d7c5549494d4e180e7c180f7b180f7b4a4a4a13495558505c4f5a54535c51545c5313524f5a180f7b0f0d0c0f180f7b0d04180f7b0c0c180f7b4f545e555c4f59105b584453505c531051585e49484f584e105253104d55444e545e4e180f7b180d79180d7c180d79180d7c10180f0d10180f0d10180f0d10180f0d10180d79180d7c180d79180d7c7a5849180f0d495558180f0d4a58585618780f18050d1804044e180f0d50524e49180f0d50545359105f4f525c59585354535a180f0d5c5359180f0d55585c4f491051545b4954535a180f0d4f585c594e180f0d4e494f5c545a5549180f0d4952180f0d4452484f180f0d54535f5245180f0d584b584f44180f0d6e4853595c44180f0d50524f5354535a180e7c180f0d5549494d4e180e7c180f7b180f7b4a4a4a13495558505c4f5a54535c51545c5313524f5a180f7b53584a4e51584949584f180f7b180d79180d7c" class="button_reverse email_article">EMAIL ARTICLE</a>
+		</h4>
+  
+	<div class="clear"></div>
+
+			<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><div class="sd-content"><ul><li class="share-pocket"><a rel="nofollow noopener noreferrer" data-shared="" class="share-pocket sd-button share-icon" href="https://www.themarginalian.org/2012/09/11/richard-feynman-lectures-on-physics/?share=pocket" target="_blank" title="Click to share on Pocket" ><span>Pocket</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-21486" class="share-facebook sd-button share-icon" href="https://www.themarginalian.org/2012/09/11/richard-feynman-lectures-on-physics/?share=facebook" target="_blank" title="Click to share on Facebook" ><span>Facebook</span></a></li><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-21486" class="share-twitter sd-button share-icon" href="https://www.themarginalian.org/2012/09/11/richard-feynman-lectures-on-physics/?share=twitter" target="_blank" title="Click to share on Twitter" ><span>Twitter</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-21486" class="share-linkedin sd-button share-icon" href="https://www.themarginalian.org/2012/09/11/richard-feynman-lectures-on-physics/?share=linkedin" target="_blank" title="Click to share on LinkedIn" ><span>LinkedIn</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon" href="https://www.themarginalian.org/2012/09/11/richard-feynman-lectures-on-physics/?share=reddit" target="_blank" title="Click to share on Reddit" ><span>Reddit</span></a></li><li class="share-pinterest"><a rel="nofollow noopener noreferrer" data-shared="sharing-pinterest-21486" class="share-pinterest sd-button share-icon" href="https://www.themarginalian.org/2012/09/11/richard-feynman-lectures-on-physics/?share=pinterest" target="_blank" title="Click to share on Pinterest" ><span>Pinterest</span></a></li><li class="share-end"></li></ul></div></div></div><div class="clear"></div>	
+			<h3>Filed Under</h3>
+
+		<h4 class="tags"><a href="https://www.themarginalian.org/tag/culture/" rel="tag">culture</a><a href="https://www.themarginalian.org/tag/education/" rel="tag">education</a><a href="https://www.themarginalian.org/tag/richard-feynman/" rel="tag">Richard Feynman</a><a href="https://www.themarginalian.org/tag/science/" rel="tag">science</a></h4>
+	</div>
+</div>
+
+				
+				<div class="rwd-display-options">
+					<h1><span id="view-full-2" class="rwd-display-option">View Full Site</span></h1>
+				</div>
+
+			</div><!--END main_body-->
+
+			<div class="clear"></div>
+		</div><!--END content-->
+
+		<div id="amazon-notice"><p><em>The Marginalian</em> participates in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn commissions by linking to Amazon. In more human terms, this means that whenever you buy a book on Amazon from <a href="https://www.amazon.com/?tag=braipick-20/" target="_blank">any link</a> on here, I receive a small percentage of its price, which goes straight back into my own colossal biblioexpenses. <a href="https://www.themarginalian.org/donate/privacy-terms/">Privacy policy</a>. (TLDR: You're safe — there are no nefarious "third parties" lurking on my watch or shedding crumbs of the "cookies" the rest of the internet uses.)</p></div>
+    
+			</div><!--END container-->
+
+	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script async>(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];j.async=1;j.src=o;j.dataset.sumoSiteId='23667734faf53f7c88cf4b96baa776d2a3a8d6865915018b7d037830bf7720b7';j.dataset.sumoPlatform='wordpress';v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');</script>    <script type="application/javascript">
+      var ajaxurl = "https://www.themarginalian.org/wp-admin/admin-ajax.php";
+
+      function sumo_add_woocommerce_coupon(code) {
+        jQuery.post(ajaxurl, {
+          action: 'sumo_add_woocommerce_coupon',
+          code: code,
+        });
+      }
+
+      function sumo_remove_woocommerce_coupon(code) {
+        jQuery.post(ajaxurl, {
+          action: 'sumo_remove_woocommerce_coupon',
+          code: code,
+        });
+      }
+
+      function sumo_get_woocommerce_cart_subtotal(callback) {
+        jQuery.ajax({
+          method: 'POST',
+          url: ajaxurl,
+          dataType: 'html',
+          data: {
+            action: 'sumo_get_woocommerce_cart_subtotal',
+          },
+          success: function(subtotal) {
+            return callback(null, subtotal);
+          },
+          error: function(err) {
+            return callback(err, 0);
+          }
+        });
+      }
+    </script>
+    
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/www.themarginalian.org\/2012\/09\/11\/richard-feynman-lectures-on-physics\/":21486};
+	</script>
+						<script type='text/javascript' src='https://www.themarginalian.org/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20191001' id='jetpack-photon-js'></script>
+<script type='text/javascript' src='https://www.themarginalian.org/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-lazy-images/dist/intersection-observer.js?minify=false&#038;ver=83ec8aa758f883d6da14' id='jetpack-lazy-images-polyfill-intersectionobserver-js'></script>
+<script type='text/javascript' id='jetpack-lazy-images-js-extra'>
+/* <![CDATA[ */
+var jetpackLazyImagesL10n = {"loading_warning":"Images are still loading. Please cancel your print and try again."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.themarginalian.org/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-lazy-images/dist/lazy-images.js?minify=false&#038;ver=54eb31dc971b63b49278' id='jetpack-lazy-images-js'></script>
+<script type='text/javascript' id='sharing-js-js-extra'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.themarginalian.org/wp-content/plugins/jetpack/_inc/build/sharedaddy/sharing.min.js?ver=11.3.2' id='sharing-js-js'></script>
+<script type='text/javascript' id='sharing-js-js-after'>
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-pocket' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-pocket' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcompocket', 'menubar=1,resizable=1,width=450,height=450' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-facebook' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-facebook' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-twitter' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-twitter' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-linkedin' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-linkedin' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomlinkedin', 'menubar=1,resizable=1,width=580,height=450' );
+						return false;
+					}
+				} );
+			} )();
+</script>
+<script src='https://stats.wp.com/e-202240.js' defer></script>
+<script>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:11.3.2',blog:'3521287',post:'21486',tz:'-4',srv:'www.themarginalian.org'} ]);
+	_stq.push([ 'clickTrackerInit', '3521287', '21486' ]);
+</script>
+
+  </body>
+</html>
+
+<!-- Dynamic page generated in 0.289 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2022-10-08 02:01:54 -->
+
+<!-- Compression = gzip -->
