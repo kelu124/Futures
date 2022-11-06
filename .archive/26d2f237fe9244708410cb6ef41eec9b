@@ -1,0 +1,2233 @@
+
+  
+
+
+
+	
+				
+
+
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-us">
+
+<head>
+  <meta charset="utf-8" />
+<script type="text/javascript">
+var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),gform.hooks[o][n].push({tag:i,callable:r,priority:t=null==t?10:t})},doHook:function(n,o,r){var t;if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[n][o]&&((o=gform.hooks[n][o]).sort(function(o,n){return o.priority-n.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==n?t.apply(null,r):r[0]=t.apply(null,r)})),"filter"==n)return r[0]},removeHook:function(o,n,t,i){var r;null!=gform.hooks[o][n]&&(r=(r=gform.hooks[o][n]).filter(function(o,n,r){return!!(null!=i&&i!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][n]=r)}});
+</script>
+
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport" />
+  <title>Think apartment-hunting is frustrating? Try doing it with an electric car. | Grist</title>
+  <link rel="stylesheet" href="https://grist.org/wp-content/themes/grist/dist/app.css?v=0.15.21" type="text/css" media="all" />
+
+    <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+  <script id="google-ad-setup">
+    window.googletag = window.googletag || {cmd: []};
+
+    googletag.cmd.push( function() {
+      // Set page-level targeting
+      googletag.pubads().setTargeting( 'pid', '555190' );
+      googletag.pubads().setTargeting( 'is_mobile', '' );
+      googletag.pubads().setTargeting( 'is_sponsored', '' );
+      googletag.pubads().setTargeting( 'authors', ["shannon-osaka"] );
+      googletag.pubads().setTargeting( 'topics', ["energy","equity","technology","transportation"] );
+      googletag.pubads().setTargeting( 'series', "" );
+      googletag.pubads().setTargeting( 'page_slug', 'think-apartment-hunting-is-frustrating-try-doing-it-with-an-electric-car' );
+      googletag.pubads().setTargeting( 'page_url',  'https://grist.org/transportation/think-apartment-hunting-is-frustrating-try-doing-it-with-an-electric-car/' );
+    });
+  </script>
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-191816-1', 'auto');
+    ga('require', 'displayfeatures');
+    ga('require', 'ecommerce');
+
+          ga('set', {"dimension1":"shannon-osaka","dimension2":"energy, equity, technology, transportation","dimension3":"post","dimension6":"2021-12-20","dimension11":"News\/Analysis"});
+    
+    ga('send', 'pageview');
+  </script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-8L4CPT2Q80"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-8L4CPT2Q80');
+  </script>
+
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+              new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+          j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+          'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-WBDMG4S');</script>
+  <!-- End Google Tag Manager -->
+
+  <!-- Facebook Pixel Code -->
+  <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '542017519474115');
+    fbq('track', 'PageView');
+  </script>
+  <noscript>
+    <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=542017519474115&ev=PageView&noscript=1"/>
+  </noscript>
+  <!-- End Facebook Pixel Code -->
+
+  <link rel="apple-touch-icon" sizes="57x57" href="https://grist.org/wp-content/themes/grist/static/img/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://grist.org/wp-content/themes/grist/static/img/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://grist.org/wp-content/themes/grist/static/img/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://grist.org/wp-content/themes/grist/static/img/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://grist.org/wp-content/themes/grist/static/img/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://grist.org/wp-content/themes/grist/static/img/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://grist.org/wp-content/themes/grist/static/img/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://grist.org/wp-content/themes/grist/static/img/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://grist.org/wp-content/themes/grist/static/img/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="https://grist.org/wp-content/themes/grist/static/img/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://grist.org/wp-content/themes/grist/static/img/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="48x48" href="https://grist.org/wp-content/themes/grist/static/img/favicon/favicon-48x48.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://grist.org/wp-content/themes/grist/static/img/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://grist.org/wp-content/themes/grist/static/img/favicon/favicon-16x16.png">
+<link rel="manifest" href="https://grist.org/wp-content/themes/grist/static/img/favicon/manifest.json">
+<meta name="msapplication-TileColor" content=" #e6ffa0">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content=" #e6ffa0">
+
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<!-- Jetpack Site Verification Tags -->
+<meta name="p:domain_verify" content="c293daabda398bd8ceee45abea0b3201" />
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v18.7 (Yoast SEO v19.1) - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="Faced with a lack of chargers in apartment buildings and rental houses, EV drivers have found creative workarounds." />
+	<link rel="canonical" href="https://grist.org/transportation/think-apartment-hunting-is-frustrating-try-doing-it-with-an-electric-car/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Think apartment-hunting is frustrating? Try doing it with an electric car." />
+	<meta property="og:description" content="As the US switches to EVs, apartment-dwellers struggle to plug in." />
+	<meta property="og:url" content="https://grist.org/transportation/think-apartment-hunting-is-frustrating-try-doing-it-with-an-electric-car/" />
+	<meta property="og:site_name" content="Grist" />
+	<meta property="article:published_time" content="2021-12-20T11:30:00+00:00" />
+	<meta property="article:modified_time" content="2021-12-30T06:47:30+00:00" />
+	<meta property="og:image" content="https://grist.org/wp-content/uploads/2021/12/nissan-leaf-electric-vehicle-charging-station-new-york-apartments.jpg" />
+	<meta property="og:image:width" content="1600" />
+	<meta property="og:image:height" content="1065" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:description" content="As the US switches to EVs, apartment-dwellers struggle to plug in." />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Shannon Osaka" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="11 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://grist.org/#organization","name":"Grist","url":"https://grist.org/","sameAs":[],"logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://grist.org/#/schema/logo/image/","url":"https://grist.org/wp-content/uploads/2021/03/Grist-Favicon.png","contentUrl":"https://grist.org/wp-content/uploads/2021/03/Grist-Favicon.png","width":512,"height":512,"caption":"Grist"},"image":{"@id":"https://grist.org/#/schema/logo/image/"}},{"@type":"WebSite","@id":"https://grist.org/#website","url":"https://grist.org/","name":"Grist","description":"Climate. Justice. Solutions.","publisher":{"@id":"https://grist.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://grist.org/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://grist.org/transportation/think-apartment-hunting-is-frustrating-try-doing-it-with-an-electric-car/#primaryimage","url":"https://grist.org/wp-content/uploads/2021/12/nissan-leaf-electric-vehicle-charging-station-new-york-apartments.jpg","contentUrl":"https://grist.org/wp-content/uploads/2021/12/nissan-leaf-electric-vehicle-charging-station-new-york-apartments.jpg","width":1600,"height":1065,"caption":"a blue Nissan Leaf is plugged into a charging station outside of a red brick apartment building with chain link fence surrounding it"},{"@type":"WebPage","@id":"https://grist.org/transportation/think-apartment-hunting-is-frustrating-try-doing-it-with-an-electric-car/#webpage","url":"https://grist.org/transportation/think-apartment-hunting-is-frustrating-try-doing-it-with-an-electric-car/","name":"Think apartment-hunting is frustrating? Try doing it with an electric car.","isPartOf":{"@id":"https://grist.org/#website"},"primaryImageOfPage":{"@id":"https://grist.org/transportation/think-apartment-hunting-is-frustrating-try-doing-it-with-an-electric-car/#primaryimage"},"datePublished":"2021-12-20T11:30:00+00:00","dateModified":"2021-12-30T06:47:30+00:00","description":"Faced with a lack of chargers in apartment buildings and rental houses, EV drivers have found creative workarounds.","breadcrumb":{"@id":"https://grist.org/transportation/think-apartment-hunting-is-frustrating-try-doing-it-with-an-electric-car/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://grist.org/transportation/think-apartment-hunting-is-frustrating-try-doing-it-with-an-electric-car/"]}],"author":[{"@id":"https://grist.org/#/schema/person/71bfa04fd131ce10235a3d171be63d57"}]},{"@type":"BreadcrumbList","@id":"https://grist.org/transportation/think-apartment-hunting-is-frustrating-try-doing-it-with-an-electric-car/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Think apartment-hunting is frustrating? Try doing it with an electric car."}]},{"@type":"Article","@id":"https://grist.org/transportation/think-apartment-hunting-is-frustrating-try-doing-it-with-an-electric-car/#article","isPartOf":{"@id":"https://grist.org/transportation/think-apartment-hunting-is-frustrating-try-doing-it-with-an-electric-car/#webpage"},"author":{"@id":"https://grist.org/#/schema/person/6d12ed31b1ffcdc380f60d1aa5e7a072"},"headline":"Think apartment-hunting is frustrating? Try doing it with an electric car.","datePublished":"2021-12-20T11:30:00+00:00","dateModified":"2021-12-30T06:47:30+00:00","mainEntityOfPage":{"@id":"https://grist.org/transportation/think-apartment-hunting-is-frustrating-try-doing-it-with-an-electric-car/#webpage"},"wordCount":2146,"publisher":{"@id":"https://grist.org/#organization"},"image":{"@id":"https://grist.org/transportation/think-apartment-hunting-is-frustrating-try-doing-it-with-an-electric-car/#primaryimage"},"thumbnailUrl":"https://grist.org/wp-content/uploads/2021/12/nissan-leaf-electric-vehicle-charging-station-new-york-apartments.jpg","articleSection":["Energy","Equity","Technology","Transportation"],"inLanguage":"en-US"},[{"@type":"Person","@id":"https://grist.org/#/schema/person/71bfa04fd131ce10235a3d171be63d57","name":"Shannon Osaka"}]]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<style id='wp-parsely-recommendations-style-inline-css'>
+.parsely-recommendations-list-title{font-size:1.2em}.parsely-recommendations-list{list-style:none;padding:unset}.parsely-recommendations-cardbody{overflow:hidden;padding:.8em;text-overflow:ellipsis;white-space:nowrap}.parsely-recommendations-cardmedia{padding:.8em .8em 0}
+
+</style>
+<link rel='stylesheet' id='mediaelement-css'  href='https://grist.org/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://grist.org/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.0.2' media='all' />
+<link rel='stylesheet' id='elasticpress-related-posts-block-css'  href='https://grist.org/wp-content/mu-plugins/search/elasticpress/dist/css/related-posts-block-styles.min.css?ver=3.6.5' media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}
+</style>
+<link rel='stylesheet' id='ups-blocks-css'  href='https://grist.org/wp-content/plugins/ups-blocks/build/style.css?ver=c7a56b96d493fa45ebe582fc10ef5b41' media='all' />
+<link rel='stylesheet' id='block-editor-css-css'  href='https://grist.org/wp-content/themes/grist/dist/blocks.css?ver=1' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://grist.org/wp-content/mu-plugins/jetpack-11.4/css/jetpack.css?ver=11.4' media='all' />
+<script src='https://secure.actblue.com/cf/assets/actblue.js?ver=1.4.1' id='actblue-contributions-vendor-js'></script>
+<script src='https://grist.org/wp-content/plugins/actblue-contributions/build/actblue-contributions.js?ver=1.4.1' id='actblue-contributions-plugin-js'></script>
+
+<!-- Google Analytics snippet added by Site Kit -->
+<script src='https://www.googletagmanager.com/gtag/js?id=G-8L4CPT2Q80' id='google_gtagjs-js' async></script>
+<script id='google_gtagjs-js-after'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "G-8L4CPT2Q80");
+</script>
+
+<!-- End Google Analytics snippet added by Site Kit -->
+<script src='https://grist.org/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script src='https://grist.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+			<meta property="fb:pages" content="22898109808" />
+			<meta name="generator" content="Site Kit by Google 1.79.0" /><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"http:\/\/grist.org\/transportation\/think-apartment-hunting-is-frustrating-try-doing-it-with-an-electric-car\/"},"headline":"Think apartment-hunting is frustrating? Try doing it with an electric car.","url":"http:\/\/grist.org\/transportation\/think-apartment-hunting-is-frustrating-try-doing-it-with-an-electric-car\/","thumbnailUrl":"https:\/\/grist.org\/wp-content\/uploads\/2021\/12\/nissan-leaf-electric-vehicle-charging-station-new-york-apartments.jpg?w=1200","image":{"@type":"ImageObject","url":"https:\/\/grist.org\/wp-content\/uploads\/2021\/12\/nissan-leaf-electric-vehicle-charging-station-new-york-apartments.jpg"},"dateCreated":"2021-12-20T11:30:00Z","datePublished":"2021-12-20T11:30:00Z","dateModified":"2021-12-30T06:47:30Z","articleSection":"Energy","author":[{"@type":"Person","name":"Shannon Osaka"}],"creator":["Shannon Osaka"],"publisher":{"@type":"Organization","name":"Grist","logo":"https:\/\/grist.org\/wp-content\/uploads\/2020\/12\/cropped-grist-600x600-1.png"},"keywords":["cities","transportation","energy","equity","technology","news\/analysis"]}</script><style>img#wpstats{display:none}</style>
+	            <script src="https://www.googleoptimize.com/optimize.js?id=OPT-T7NSSN5"></script>
+			<link rel="icon" href="https://grist.org/wp-content/uploads/2021/03/cropped-Grist-Favicon.png?w=32" sizes="32x32" />
+<link rel="icon" href="https://grist.org/wp-content/uploads/2021/03/cropped-Grist-Favicon.png?w=192" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://grist.org/wp-content/uploads/2021/03/cropped-Grist-Favicon.png?w=180" />
+<meta name="msapplication-TileImage" content="https://grist.org/wp-content/uploads/2021/03/cropped-Grist-Favicon.png?w=270" />
+		<style type="text/css" id="wp-custom-css">
+			body.postid-574441 wp-block-interactive-template .interactive-block-topper {
+border-bottom: 2px dotted #dfcdb5; }
+
+body.postid-568607{ background:
+linear-gradient(180deg,
+rgb(254, 252, 200) 0%,
+rgb(184, 211, 157) 30%,
+rgb(89, 161, 119) 100%); }
+
+body.postid-554703{ background: linear-gradient(180deg, rgba(254,212,231,1) 0%, rgba(242,183,159,1) 30%, rgba(255,207,67,1) 100%); }
+
+
+.cmyk-grist-header__branding-link:hover svg * {
+    fill: #fff;
+    color: #fff;
+}
+
+.cmyk-grist-header__branding-link:not(:hover) svg * {
+    color: #fff;
+}
+
+@media only screen and (max-width: 600px) {
+  .article-body .wp-block-ups-ad-wrapper figure.wp-block-ups-ad__placement {
+    display: flex;
+  }
+}
+
+.wp-block-columns {
+	display: flex;
+	margin: 10px 10px 0;
+	padding: 10px 20px 0;
+}
+
+@media only screen and (max-width: 600px) {
+.wp-block-columns .wp-block-columns{
+	margin: 0;
+	padding-left: 0;
+	padding-right:0;
+}
+}
+
+.wp-block-column {
+	flex: 1;
+	margin: 10px 10px 0;
+	padding: 10px 10px 0;
+}
+
+@media only screen and (max-width: 600px) {
+.wp-block-column .wp-block-column {
+	margin: 0;
+	padding-left: 0;
+	padding-left: 0;
+}
+}
+
+.wp-block-column h2, 
+.wp-block-column h3,
+.wp-block-column p {
+	text-align: center;
+}
+
+.wp-block-column ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.wp-block-column ul li {
+	padding: 10px;
+	margin: 0;
+}
+
+.wp-block-column ul li:nth-child(odd) {
+}
+
+.wp-block-column h3 {
+	margin: 0;
+	padding: 10px;
+	font-size:24px;
+	text-align:left;
+	margin:60px 0 12px
+}
+
+.wp-block-column:nth-child(2) {
+}
+
+.wp-block-column:nth-child(2) h3 {
+	margin: 0 -15px;
+}
+
+@media (max-width: 764px) {
+	.wp-block-columns.has-3-columns {
+		flex-flow: row wrap;
+	}
+	
+	.has-3-columns .wp-block-column {
+		order: 2;
+	}
+
+
+	.has-3-columns .wp-block-column:nth-child(2){
+		flex-basis: 100%;
+		order: 1;
+	}
+}
+
+@media (max-width: 478px) {
+	.wp-block-columns.has-3-columns {
+	}
+
+	.wp-block-column {
+		flex-basis: 100%;
+		margin: 20px 0;
+	}
+	
+	.wp-block-column:nth-child(2) {
+	}
+}
+.basic-page-body__content .donate__embed iframe{
+	margin:0;
+}
+
+.term-wildfires .section-header__title{ border-bottom:0;}
+
+.basic-page-body__content .wp-embed-aspect-16-9 iframe{margin-top: 0}
+@media (min-width: 1440px) {
+#knightlab-iframe{
+	margin-left:-40px;
+}
+}
+
+.video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+    margin: 0;
+}
+
+@media (max-width: 764px) {
+	.homepage > .horizontal-ad {
+		display: none;
+	}
+
+	.homepage > .horizontal-ad ~ .horizontal-ad{
+		display: block;
+	}
+}
+
+body #wisepops-instance-362665 .wisepops-custom-css-362665 .wisepops-block-signup button:hover:hover, body #wisepops-instance-361945 .wisepops-custom-css-361945 .wisepops-block-signup button:hover{color:#000}
+
+/* Parched no header and footer */
+.page-id-584026 .page__topper, .page-id-584026 .page-header, 
+.page-id-584026 .footer__cta-wrapper, .page-id-584026 .footer__primary, .page-id-584026  .appeal-bar-notification {display: none;}
+.page-id-584026 .basic-page-body__content {margin-top: 4vw;}
+
+.page-id-584026 .parched-donate-container{text-align: right; margin-bottom: 4vw; margin-top: -40px; max-width: 90%;}
+
+@media (max-width: 1024px) {
+	.page-id-584026 .parched-donate-container {
+		margin-top: 0px;
+	}
+}
+
+.parched-donate-container a{
+    font-family: "Basis Grotesque",sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: 700;
+    background: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+}
+.parched-donate-container a:hover{ border-bottom: 1px solid currentColor; color: #000;
+}
+
+		</style>
+		
+
+  <script>
+  var articleRailAds = [];
+  var articleBodyAds = [];
+  var articleBodyAdObjs = JSON.parse('[{"slot":"\/2154169\/article-ad-billboard-1","id":"div-gpt-ad-1607548380621-0"},{"slot":"\/2154169\/article-ad-billboard-2","id":"div-gpt-ad-1607548453163-0"}]');
+
+  
+  googletag.cmd.push( function() {
+    var railMappingTall = googletag.sizeMapping()
+      .addSize([1068, 300], [[300, 600]])
+      .addSize([300, 300], [[300, 300]])
+      .addSize([0, 0], [[300, 300]])
+      .build();
+
+    var bodyMapping = googletag.sizeMapping()
+      .addSize([1440, 300], [970, 250])
+      .addSize([300, 300], [300, 300])
+      .addSize([0, 0], [300, 300])
+      .build();
+
+    // Define ads
+    articleRailAds.push(googletag.defineSlot('/2154169/article-ad-rail-1', [[300, 300]], 'div-gpt-ad-1607548573409-0').addService(googletag.pubads()));
+    articleRailAds.push(googletag.defineSlot('/2154169/article-ad-rail-2', [[300, 300], [300, 600]], 'div-gpt-ad-1607548724302-0').defineSizeMapping(railMappingTall).addService(googletag.pubads()));
+
+    // Only define the body slot if the id exists
+    for(var i = 0; i < articleBodyAdObjs.length; i++) {
+      var bodySlot = articleBodyAdObjs[i];
+
+      if (document.querySelector('#'+bodySlot.id)) {
+        articleBodyAds.push(googletag.defineSlot(bodySlot.slot, [[970, 250], [300, 300]], bodySlot.id)
+          .defineSizeMapping(bodyMapping)
+          .addService(googletag.pubads()));
+      }
+    }
+
+    googletag.pubads().setTargeting( 'pid', '555190' );
+    googletag.pubads().setTargeting( 'is_mobile', '' );
+    googletag.pubads().setTargeting( 'is_sponsored', '' );
+    googletag.pubads().setTargeting( 'authors', ["shannon-osaka"] );
+    googletag.pubads().setTargeting( 'topics', ["energy","equity","technology","transportation"] );
+    googletag.pubads().setTargeting( 'series', "" );
+    googletag.pubads().setTargeting( 'page_slug', 'think-apartment-hunting-is-frustrating-try-doing-it-with-an-electric-car' );
+    googletag.pubads().setTargeting( 'page_url',  'https://grist.org/transportation/think-apartment-hunting-is-frustrating-try-doing-it-with-an-electric-car/' );
+
+    // After body slot is rendered, determine if it is empty and
+    // add a class to the parent to hide its styles.
+    // Check for ad_is_sponored target and show sponsor note if so
+    googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+      var slot = event.slot;
+      var slotEl = document.querySelector('#'+slot.getSlotElementId());
+
+      if (slotEl) {
+        var showSponsorNote = slot.getTargeting('ad_is_sponsored')[0]  === 'true' ? true : false;
+        var slotParent = slotEl.parentElement;
+
+        // Only add sponsor note to tall rail ad
+        if (slot === articleRailAds[1] ) {
+          if (showSponsorNote) {
+            var figcaptionEl = slotParent.querySelector('.ad-sponsor-note');
+            figcaptionEl.classList.add('is-visible');
+          }
+        }
+
+        // Add class to empty adds so we can remove styles
+        if (event.isEmpty) {
+          slotParent.classList.add('is-empty');
+        } else {
+          slotParent.classList.remove('is-empty');
+        }
+      }
+    });
+
+    // Collapse divs if there is nothing to load
+    googletag.pubads().collapseEmptyDivs(true);
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().enableLazyLoad();
+    googletag.enableServices();
+  });
+
+  jQuery( window ).load( function() {
+    // Only check the body slot if the id exists
+    for(var i = 0; i < articleBodyAdObjs.length; i++) {
+      var bodySlot = articleBodyAdObjs[i];
+      if( ! jQuery( '#'+bodySlot.id ).has( 'iframe' ).length > 0 ) {
+        jQuery( '#'+bodySlot.id ).closest( '.wp-block-ups-ad-wrapper' ).hide();
+      }
+    }
+  });
+</script>
+    </head>
+
+<body class="post-template-default single single-post postid-555190 single-format-standard article-align-center   sticky-appeal-bar appeals newsletter    " >
+  <div class="cursor">
+  <div class="cursor__ball js-cursor">
+    <svg height="30" width="30">
+      <circle cx="15" cy="15" r="12" stroke-width="0"></circle>
+    </svg>
+  </div>
+  <div class="cursor__ball js-fix-cursor">
+    <svg height="30" width="30">
+      <circle cx="15" cy="15" r="12" stroke-width="0"></circle>
+    </svg>
+  </div>
+
+</div>
+  <a href="#content" class="skip-to-content" tabindex="0">Skip to content</a>
+
+    
+<svg display="none" width="0" height="0" version="1.1" xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+        <symbol id="grist-monogram" viewBox="0 0 100 103">
+      <path fill="currentColor" d="M85.11 64V88.3C79.31 91.9 72.81 94 67.31 94C39.91 94 15.31 64.1 15.31 33C15.31 18.4 24.91 6.9 41.61 6.9C52.11 6.9 72.51 13.6 87.61 29.8C88.0688 30.38 88.6439 30.8576 89.2984 31.2021C89.9528 31.5465 90.6721 31.7502 91.41 31.8C93.41 31.8 94.61 30.5 94.61 28.2V2H90.91V3C90.91 6.6 88.81 7.6 83.61 6C73.1727 2.50408 62.2157 0.813193 51.21 1C18.31 1 0.210022 26.8 0.210022 52C0.210022 80.8 22.11 103 51.21 103C63.358 102.914 75.1883 99.11 85.11 92.1V102H99.61V50H46.61V64H85.11Z" />
+    </symbol>
+
+    <symbol id="fix-monogram" viewBox="0 0 61 78">
+      <path fill="currentColor" d="M59.2026,0 L0,0 L0,0.557142 C4.60589,2.45143 7.18969,4.45715 7.18969,12.1457 L7.18969,67.9714 C6.62799,73.7657 3.93186,75.8829 0.112339,77.4429 L0.112339,78 L41.3407,78 L41.3407,77.4429 C33.7017,76.1057 30.7808,72.6514 30.7808,65.4086 L30.7808,40.3371 L32.4659,40.3371 C40.8913,40.3371 47.744,47.58 49.7661,54.1543 L50.3278,54.1543 L50.3278,23.7343 L49.7661,23.7343 C47.744,30.42 41.0037,37.5514 32.4659,37.5514 L30.7808,37.5514 L30.7808,3.34286 L33.5893,3.34286 C45.1602,3.34286 55.9447,12.0343 60.4383,27.8571 L61,27.8571 L59.2026,0 Z" />
+    </symbol>
+
+    <symbol id="menu" viewBox="0 0 26 12">
+      <path fill="currentColor" d="M0 0H26V2H0V0ZM0 5H26V7H0V5ZM26 10H0V12H26V10Z" />
+    </symbol>
+
+    <symbol id="close" viewBox="0 0 20 20">
+      <path fill="currentColor" d="M20 2.01342L12.0134 10L20 17.9866L17.9866 20L10 12.0134L2.01342 20L0 17.9866L7.98658 10L0 2.01342L2.01342 0L10 7.98658L17.9866 0L20 2.01342Z" />
+    </symbol>
+
+    <symbol id="search" viewBox="0 0 26 26">
+      <path fill="currentColor" d="M4.94906 14.429C6.25022 15.7301 7.83021 16.3807 9.68901 16.3807C11.5478 16.3807 13.1278 15.7301 14.429 14.429C15.7301 13.1278 16.3807 11.5478 16.3807 9.68901C16.3807 7.83021 15.7301 6.25022 14.429 4.94906C13.1278 3.6479 11.5478 2.99732 9.68901 2.99732C7.83021 2.99732 6.25022 3.6479 4.94906 4.94906C3.6479 6.25022 2.99732 7.83021 2.99732 9.68901C2.99732 11.5478 3.6479 13.1278 4.94906 14.429ZM18.6113 16.3807L26 23.7694L23.7694 26L16.3807 18.6113V17.4263L15.9625 17.008C14.1966 18.5416 12.1055 19.3083 9.68901 19.3083C6.99374 19.3083 4.69348 18.3789 2.7882 16.5201C0.929401 14.6613 0 12.3843 0 9.68901C0 6.99374 0.929401 4.71671 2.7882 2.85791C4.69348 0.952636 6.99374 0 9.68901 0C12.3843 0 14.6613 0.952636 16.5201 2.85791C18.3789 4.71671 19.3083 6.99374 19.3083 9.68901C19.3083 12.1055 18.5416 14.1966 17.008 15.9625L17.4263 16.3807H18.6113Z" />
+    </symbol>
+
+    <symbol id="newsletter" viewBox="0 0 24 16">
+      <path fill-rule="evenodd"  fill="currentColor" d="M2 2H22V14H2L2 2ZM0 2C0 0.895431 0.895431 0 2 0H22C23.1046 0 24 0.895431 24 2V14C24 15.1046 23.1046 16 22 16H2C0.89543 16 0 15.1046 0 14V2ZM5 4C5.18673 4 5.36151 4.05118 5.51106 4.14028L12 7.84827L18.4869 4.14147C18.6369 4.05164 18.8124 4 19 4C19.5523 4 20 4.44772 20 5C20 5.37785 19.7904 5.70676 19.4812 5.87683L12.4962 9.86826C12.1888 10.0439 11.8113 10.0439 11.5039 9.86826L4.52103 5.87804C4.21057 5.70833 4 5.37876 4 5C4 4.44772 4.44772 4 5 4Z" />
+    </symbol>
+
+    <symbol id="podcast" viewBox="0 0 22 18">
+      <path fill="currentColor" d="M8 1C8 0.447716 8.44771 0 9 0C9.55229 0 10 0.447715 10 1V17C10 17.5523 9.55229 18 9 18C8.44771 18 8 17.5523 8 17V1ZM5 4C4.44772 4 4 4.44772 4 5V13C4 13.5523 4.44772 14 5 14C5.55228 14 6 13.5523 6 13V5C6 4.44772 5.55228 4 5 4ZM1 6C0.447715 6 0 6.44772 0 7V11C0 11.5523 0.447715 12 1 12C1.55228 12 2 11.5523 2 11V7C2 6.44772 1.55228 6 1 6ZM13 3C12.4477 3 12 3.44772 12 4V14C12 14.5523 12.4477 15 13 15C13.5523 15 14 14.5523 14 14V4C14 3.44772 13.5523 3 13 3ZM20 7C20 6.44772 20.4477 6 21 6C21.5523 6 22 6.44772 22 7V11C22 11.5523 21.5523 12 21 12C20.4477 12 20 11.5523 20 11V7ZM17 2C16.4477 2 16 2.44772 16 3V15C16 15.5523 16.4477 16 17 16C17.5523 16 18 15.5523 18 15V3C18 2.44772 17.5523 2 17 2Z" />
+    </symbol>
+
+    <symbol id="intersection" viewBox="0 0 30 30">
+      <path d="M13 0V13H0" fill="none" stroke-width="2" stroke="currentColor" />
+      <path d="M-5.68248e-07 17L13 17L13 30" fill="none" stroke-width="2" stroke="currentColor" />
+      <path d="M17 30L17 17L30 17" fill="none" stroke-width="2" stroke="currentColor" />
+      <path d="M30 13L17 13L17 1.66583e-06" fill="none" stroke-width="2" stroke="currentColor" />
+    </symbol>
+
+    <symbol id="arrow-left" viewBox="0 0 24 24">
+      <path fill="currentColor" d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z" />
+    </symbol>
+
+    <symbol id="arrow-right" viewBox="0 0 24 24">
+      <path fill="currentColor" d="M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z" />
+    </symbol>
+
+    <symbol id="checkmark" viewBox="0 0 20 20">
+      <path fill="currentColor" d="M7.5 13.4766L16.3281 4.64844L17.5 5.82031L7.5 15.8203L2.85156 11.1719L4.02344 10L7.5 13.4766Z" />
+    </symbol>
+
+    <symbol id="fix" viewBox="0 0 54 54">
+      <path fill="currentColor" d="M16.6378,46.3156 C20.9718,46.3156 24.6488,49.0916 26.0128,52.9596 C20.4528,52.8456 15.3148,51.0276 11.0958,48.0026 C12.6798,46.9376 14.5858,46.3156 16.6378,46.3156 Z M36.5035,46.3157 C38.5515,46.3157 40.4545,46.9357 42.0365,47.9967 C37.8205,51.0227 32.6855,52.8427 27.1285,52.9587 C28.4925,49.0917 32.1695,46.3157 36.5035,46.3157 Z M36.5031,26.4047 C41.9141,26.4047 46.3061,30.7257 46.4401,36.1037 C46.4381,36.1877 46.4271,36.2697 46.4271,36.3537 C46.4271,36.4387 46.4381,36.5207 46.4401,36.6047 C46.3061,41.9827 41.9141,46.3037 36.5031,46.3037 C31.1191,46.3037 26.7451,42.0237 26.5701,36.6827 L26.570034,36.6935509 C26.3903664,42.0304 22.0186862,46.3035 16.6374,46.3035 C11.2664,46.3035 6.9014,42.0445 6.7074,36.7205 C6.7114,36.5975 6.7254,36.4785 6.7254,36.3545 C6.7254,36.2305 6.7114,36.1105 6.7074,35.9885 C6.9014,30.6645 11.2664,26.4045 16.6374,26.4045 C22.0224,26.4045 26.3964,30.6845 26.5704,36.0265 L26.5704681,36.0156491 C26.7511336,30.6787986 31.1228131,26.4047 36.5031,26.4047 Z M0.000200000001,26.9494 C3.7992,28.2524 6.5542,31.7844 6.7072,35.9884 C6.7022,36.1114 6.6882,36.2304 6.6882,36.3544 C6.6882,36.4784 6.7022,36.5974 6.7072,36.7204 C6.6362,38.6494 6.0272,40.4414 5.0102,41.9384 C1.9532,37.7064 0.1142,32.5414 0.000200000001,26.9494 Z M53.1251,26.9597 C53.0091,32.5397 51.1751,37.6937 48.1281,41.9197 C47.0991,40.3957 46.4891,38.5697 46.4401,36.6047 C46.4421,36.5207 46.4531,36.4387 46.4531,36.3537 C46.4531,36.2697 46.4421,36.1877 46.4401,36.1037 C46.5461,31.8597 49.3051,28.2817 53.1251,26.9597 Z M16.6382,6.4933 C22.0222,6.4933 26.3962,10.7723 26.5702,16.1143 C26.5672,16.2243 26.5542,16.3313 26.5542,16.4423 C26.5542,16.5523 26.5672,16.6603 26.5702,16.7703 C26.3962,22.1113 22.0222,26.3913 16.6382,26.3913 C11.2672,26.3913 6.9012,22.1323 6.7072,16.8083 C6.7112,16.6853 6.7252,16.5653 6.7252,16.4423 C6.7252,16.3183 6.7112,16.1983 6.7072,16.0763 C6.9012,10.7523 11.2672,6.4933 16.6382,6.4933 Z M36.5034,6.4932 C41.9134,6.4932 46.3054,10.8132 46.4404,16.1912 L46.4404071,16.179458 C46.4905601,14.2570387 47.0801708,12.4703646 48.0721,10.9685 C51.1211,15.1655 52.9681,20.2875 53.1201,25.8355 C49.3031,24.5115 46.5461,20.9355 46.4401,16.6925 L46.4400904,16.704249 C46.2988385,22.0766525 41.9093592,26.3912 36.5034,26.3912 C31.1194,26.3912 26.7454,22.1112 26.5704,16.7702 C26.5744,16.6602 26.5874,16.5522 26.5874,16.4422 C26.5874,16.3312 26.5744,16.2242 26.5704,16.1142 C26.7454,10.7722 31.1194,6.4932 36.5034,6.4932 Z M5.0562,10.9273 C6.0452,12.4103 6.6382,14.1763 6.7072,16.0763 C6.7022,16.1983 6.6882,16.3183 6.6882,16.4423 C6.6882,16.5653 6.7022,16.6853 6.7072,16.8083 C6.5542,21.0123 3.7992,24.5443 0.000200000001,25.8473 C0.0232,24.6923 0.1142,23.5553 0.2802,22.4413 C0.9452,18.1833 2.6232,14.2633 5.0562,10.9273 Z M27.1895,0.0012 C32.6665,0.1312 37.7325,1.9152 41.9075,4.8762 C40.3515,5.8862 38.4975,6.4792 36.5035,6.4792 C32.2315,6.4792 28.5985,3.7812 27.1895,0.0012 Z M25.9528,0.000199999999 C24.5428,3.7812 20.9108,6.4792 16.6378,6.4792 C14.6338,6.4792 12.7718,5.8812 11.2098,4.8622 C15.3928,1.9012 20.4668,0.1212 25.9528,0.000199999999 Z" />
+    </symbol>
+
+    <symbol id="fix-logo" viewBox="0 0 206 101">
+      <path fill="currentColor" d="M72.9235728,6.01735041 L75.1196492,39.9083333 L74.4333069,39.9083333 C68.9431656,20.6582711 55.7667072,10.084254 41.629509,10.084254 L41.629509,10.084254 L38.198096,10.084254 L38.198096,51.7023259 L40.2569239,51.7023259 C50.6883117,51.7023259 58.9235235,43.0262808 61.3941966,34.8924138 L61.3941966,34.8924138 L62.0804393,34.8924138 L62.0804393,71.9013243 L61.3941966,71.9013243 C58.9235235,63.9030765 50.5510631,55.0914122 40.2569239,55.0914122 L40.2569239,55.0914122 L38.198096,55.0914122 L38.198096,85.5932889 C38.198096,94.4049532 41.7667575,98.6073565 51.1000573,100.234389 L51.1000573,100.234389 L51.1000573,100.911987 L0.727586526,100.911987 L0.727586526,100.234389 C5.39424838,98.3362177 8.68835302,95.7605479 9.37462565,88.7112364 L9.37462565,88.7112364 L9.37462565,20.7937908 C9.37462565,11.4399483 6.21776956,8.99975834 0.590332,6.69516768 L0.590332,6.69516768 L0.590332,6.01735041 L72.9235728,6.01735041 Z M163.111009,29.7409747 L163.111009,30.2832524 C158.856105,31.3678078 156.933829,33.1300611 156.933829,35.9769692 C156.933829,38.552639 157.894967,40.7216503 160.365042,44.3818755 L166.816123,54.2779957 L149.385158,73.9348159 L140.600454,84.5087335 C137.718036,88.033439 136.482998,90.6091088 136.482998,93.1848781 C136.482998,96.5739644 139.365417,99.4207731 143.620321,100.234389 L143.620321,100.911987 L77.8496802,100.911987 L77.8496802,100.234389 C81.6928388,98.6073565 84.575158,95.6250282 84.575158,90.0668311 L84.575158,90.0668311 L84.575158,48.4487592 C84.575158,41.9417254 82.7908272,41.1283088 77.8496802,39.6371944 L77.8496802,39.6371944 L77.8496802,38.9592976 L110.653777,29.7409747 L110.653777,90.0668311 C110.653777,95.5008803 113.48979,98.4728448 117.208198,100.123322 L116.912629,100.234389 C121.716329,98.4718369 127.149499,94.5404728 131.267951,89.5246529 L146.914087,70.2745907 L128.248085,40.8572695 C123.16949,32.8589222 121.24821,31.2321886 116.307063,30.4187721 L116.307063,29.7409747 L163.111009,29.7409747 Z M201.884223,29.7409747 L201.884223,30.4187721 C197.354423,31.6388472 190.766891,36.6547666 186.099643,42.6195227 L173.884722,57.8027012 L194.609452,89.6601726 C199.001804,96.3028256 201.609327,98.8784954 205.590332,100.234389 L205.590332,100.911987 L158.786385,100.911987 L158.786385,100.234389 C163.041289,99.8274316 165.100018,97.7940395 165.100018,94.269334 C165.100018,91.964803 164.413775,89.9313114 162.080151,86.2710862 L154.256585,73.9348159 L171.688546,54.2779957 L178.276078,46.1442283 C181.433392,42.2128642 182.66843,39.7727141 182.66843,37.332564 C182.66843,33.8078584 180.060906,31.096669 175.806002,30.2832524 L175.806002,29.7409747 L201.884223,29.7409747 Z M96.9281251,0.911987 C104.614044,0.911987 110.516329,6.87679588 110.516329,14.3328256 C110.516329,21.653276 104.614044,27.6180322 96.9281251,27.6180322 C89.2418079,27.6180322 83.339921,21.653276 83.339921,14.3328256 C83.339921,6.87679588 89.2418079,0.911987 96.9281251,0.911987 Z"/>
+    </symbol>
+
+        <symbol id="arena" viewBox="0 0 30 30">
+      <path fill="currentColor" d="M21.0557656,7.6035181 C21.2640657,7.6035181 21.4652174,7.82245762 21.5034529,8.08993954 L21.5034529,8.08993954 L22.1231997,12.4895101 C22.1607702,12.7571583 22.3968325,12.8944734 22.6473578,12.7937313 L22.6473578,12.7937313 L26.7684746,11.1522667 C27.0188337,11.0525221 27.3094231,11.1153612 27.41349,11.2919093 C27.5173907,11.468956 27.4284517,11.7504022 27.2156631,11.9169758 L27.2156631,11.9169758 L23.7498688,14.6400049 C23.5377452,14.8067447 23.5377452,15.0797126 23.7498688,15.2459537 L23.7498688,15.2459537 L27.2156631,17.9701465 C27.4282855,18.1367201 27.516892,18.4349566 27.4126588,18.6321186 C27.3085919,18.829613 27.01767,18.9092425 26.7683083,18.8088328 L26.7683083,18.8088328 L22.6837646,17.1686982 C22.433738,17.0686211 22.2003355,17.2049388 22.1644275,17.4725869 L22.1644275,17.4725869 L21.5742716,21.9105592 C21.5388622,22.1778749 21.3052935,22.3964819 21.0555994,22.3964819 C20.8065702,22.3964819 20.5730015,22.1777086 20.5377584,21.9105592 L20.5377584,21.9105592 L19.9476025,17.4725869 C19.9118606,17.2049388 19.6781257,17.0684548 19.4280991,17.1686982 L19.4280991,17.1686982 L15.4117142,18.7809043 C15.1611889,18.8816464 14.7515708,18.8816464 14.5012117,18.7809043 L14.5012117,18.7809043 L10.4841619,17.1686982 C10.2344678,17.0686211 10.0000678,17.2049388 9.96515722,17.4725869 L9.96515722,17.4725869 L9.37500133,21.9105592 C9.3392595,22.1778749 9.10569076,22.3964819 8.85632912,22.3964819 C8.60663499,22.3964819 8.3732325,22.1777086 8.3376569,21.9105592 L8.3376569,21.9105592 L7.74849846,17.4725869 C7.71342159,17.2049388 7.4800191,17.0684548 7.22899504,17.1686982 L7.22899504,17.1686982 L3.14495007,18.8088328 C2.89475722,18.9092425 2.60466651,18.8297792 2.50043335,18.6319523 C2.3966989,18.4344579 2.48480668,18.1362214 2.69759529,17.9696478 L2.69759529,17.9696478 L6.16372211,15.2462862 C6.37601199,15.0798788 6.37601199,14.806911 6.16372211,14.6401712 L6.16372211,14.6401712 L2.69759529,11.917142 C2.48547165,11.7509009 2.39686514,11.4692885 2.50076583,11.2920755 C2.60483275,11.1156937 2.89492346,11.0525221 3.14544879,11.1527655 L3.14544879,11.1527655 L7.26639929,12.7938976 C7.51709086,12.8943072 7.75298697,12.7573245 7.79055746,12.4896764 L7.79055746,12.4896764 L8.41063674,8.0897733 C8.44804099,7.82245762 8.64935896,7.6035181 8.85749281,7.6035181 C9.06496169,7.6035181 9.26578093,7.82245762 9.30401639,8.0897733 L9.30401639,8.0897733 L9.92326446,12.4896764 C9.96083495,12.7573245 10.1968973,12.8943072 10.4475889,12.7938976 L10.4475889,12.7938976 L14.5012117,11.1796965 C14.7519033,11.0796194 15.1613551,11.0796194 15.4127117,11.1796965 L15.4127117,11.1796965 L19.4656695,12.7938976 C19.7165273,12.8943072 19.9522572,12.7573245 19.9901602,12.4896764 L19.9901602,12.4896764 L20.6102395,8.0897733 C20.6474775,7.82245762 20.848463,7.6035181 21.0557656,7.6035181 Z M15.3422254,12.2685757 C15.130268,12.1015034 14.7829904,12.1015034 14.5711992,12.2685757 L14.5711992,12.2685757 L11.5123631,14.6779079 C11.3005719,14.8449802 11.3022343,15.1159532 11.5156879,15.2805318 L11.5156879,15.2805318 L14.5688719,17.6303497 C14.7818267,17.7949284 15.1322629,17.7949284 15.3458827,17.6303497 L15.3458827,17.6303497 L18.3980692,15.2805318 C18.611689,15.1157869 18.6133514,14.8448139 18.4010616,14.6779079 L18.4010616,14.6779079 Z"/>
+    </symbol>
+
+    <symbol id="email" viewBox="0 0 30 30">
+      <path fill="currentColor" d="M5.19222801,8.75771961 C5.05693776,8.75771961 4.94832557,8.86633181 4.94832557,9.00162205 L4.94832557,9.72571961 L14.9483256,16.9359635 L24.9483256,9.72571961 L24.9483256,9.00162205 C24.9483256,8.86633181 24.8397134,8.75771961 24.7044231,8.75771961 L5.19222801,8.75771961 Z M4.94832557,11.2193536 L4.94832557,20.9983779 C4.94832557,21.1336682 5.05693776,21.2422804 5.19222801,21.2422804 L24.7044231,21.2422804 C24.8397134,21.2422804 24.9483256,21.1336682 24.9483256,20.9983779 L24.9483256,11.2193536 L15.2302768,18.2239877 C15.0616402,18.3430804 14.8348865,18.3430804 14.6662524,18.2239877 L4.94832557,11.2193536 Z"/>
+    </symbol>
+
+    <symbol id="facebook" viewBox="0 0 30 30">
+      <path fill="currentColor" d="M12.75,12 L10.5,12 L10.5,15 L12.75,15 L12.75,24 L16.5,24 L16.5,15 L19.2315,15 L19.5,12 L16.5,12 L16.5,10.74975 C16.5,10.0335 16.644,9.75 17.33625,9.75 L19.5,9.75 L19.5,6 L16.644,6 C13.947,6 12.75,7.18725 12.75,9.46125 L12.75,12 Z"/>
+    </symbol>
+
+    <symbol id="github" viewBox="0 0 30 30">
+      <path fill="currentColor" d="M15,4.7599911 C9.19875,4.7599911 4.5,9.4613661 4.5,15.2599911 C4.5,19.9001161 7.50825,23.8349911 11.679375,25.2218661 C12.204375,25.3207411 12.396875,24.9961161 12.396875,24.7169911 C12.396875,24.4676161 12.388125,23.8069911 12.38375,22.9319911 C9.463,23.5654911 8.847,21.5232411 8.847,21.5232411 C8.36925,20.3113661 7.678875,19.9876161 7.678875,19.9876161 C6.72775,19.3366161 7.752375,19.3497411 7.752375,19.3497411 C8.80675,19.4232411 9.360625,20.4312411 9.360625,20.4312411 C10.296875,22.0368661 11.8185,21.5731161 12.41875,21.3044911 C12.51325,20.6254911 12.783625,20.1626161 13.08375,19.9001161 C10.751875,19.6376161 8.301,18.7346161 8.301,14.7113661 C8.301,13.5651161 8.707875,12.6288661 9.381625,11.8938661 C9.2635,11.6287411 8.909125,10.5612411 9.4735,9.1148661 C9.4735,9.1148661 10.352875,8.8331161 12.361,10.1911161 C13.201,9.9574911 14.0935,9.8419911 14.986,9.8367411 C15.8785,9.8419911 16.771,9.9574911 17.611,10.1911161 C19.606,8.8331161 20.485375,9.1148661 20.485375,9.1148661 C21.04975,10.5612411 20.695375,11.6287411 20.590375,11.8938661 C21.25975,12.6288661 21.666625,13.5651161 21.666625,14.7113661 C21.666625,18.7451161 19.21225,19.6332411 16.876,19.8913661 C17.2435,20.2063661 17.58475,20.8503661 17.58475,21.8338661 C17.58475,23.2391161 17.571625,24.3678661 17.571625,24.7091161 C17.571625,24.9847411 17.755375,25.3128661 18.2935,25.2078661 C22.494375,23.8306161 25.5,19.8931161 25.5,15.2599911 C25.5,9.4613661 20.798625,4.7599911 15,4.7599911"/>
+    </symbol>
+
+    <symbol id="instagram" viewBox="0 0 30 30">
+      <path fill="currentColor" d="M15,4.5 C12.1475,4.5 11.791375,4.513125 10.671375,4.563 C9.553125,4.6155 8.791875,4.791375 8.1225,5.05125 C7.432125,5.319 6.845875,5.678625 6.26225,6.26225 C5.678625,6.845875 5.318125,7.43125 5.05125,8.1225 C4.791375,8.791875 4.614625,9.553125 4.563,10.671375 C4.5105,11.791375 4.5,12.1475 4.5,15 C4.5,17.8525 4.513125,18.208625 4.563,19.328625 C4.6155,20.446 4.791375,21.208125 5.05125,21.8775 C5.319,22.567 5.678625,23.154125 6.26225,23.73775 C6.845875,24.3205 7.43125,24.681875 8.1225,24.94875 C8.79275,25.20775 9.554,25.385375 10.671375,25.437 C11.791375,25.4895 12.1475,25.5 15,25.5 C17.8525,25.5 18.208625,25.486875 19.328625,25.437 C20.446,25.3845 21.208125,25.20775 21.8775,24.94875 C22.567,24.681 23.154125,24.3205 23.73775,23.73775 C24.3205,23.154125 24.681875,22.569625 24.94875,21.8775 C25.20775,21.208125 25.385375,20.446 25.437,19.328625 C25.4895,18.208625 25.5,17.8525 25.5,15 C25.5,12.1475 25.486875,11.791375 25.437,10.671375 C25.3845,9.554 25.20775,8.791 24.94875,8.1225 C24.681,7.432125 24.3205,6.845875 23.73775,6.26225 C23.154125,5.678625 22.569625,5.318125 21.8775,5.05125 C21.208125,4.791375 20.446,4.614625 19.328625,4.563 C18.208625,4.5105 17.8525,4.5 15,4.5 Z M15,6.39 C17.802625,6.39 18.136875,6.404 19.24375,6.452125 C20.2675,6.50025 20.823125,6.67 21.192375,6.81525 C21.684125,7.005125 22.032375,7.232625 22.401625,7.59925 C22.76825,7.96675 22.99575,8.315875 23.185625,8.807625 C23.329125,9.176875 23.500625,9.7325 23.547,10.75625 C23.596875,11.864 23.60825,12.1965 23.60825,15 C23.60825,17.8035 23.595125,18.136875 23.5435,19.24375 C23.490125,20.2675 23.3195,20.823125 23.175125,21.192375 C22.979125,21.684125 22.756,22.032375 22.3885,22.401625 C22.021875,22.76825 21.6675,22.99575 21.181,23.185625 C20.8135,23.329125 20.249125,23.500625 19.225375,23.547 C18.110625,23.596875 17.7825,23.60825 14.97375,23.60825 C12.164125,23.60825 11.836,23.595125 10.722125,23.5435 C9.6975,23.490125 9.133125,23.3195 8.765625,23.175125 C8.26775,22.979125 7.925625,22.756 7.559,22.3885 C7.190625,22.021875 6.95525,21.6675 6.7715,21.181 C6.627125,20.8135 6.457375,20.249125 6.404,19.225375 C6.364625,18.122875 6.350625,17.7825 6.350625,14.986875 C6.350625,12.190375 6.364625,11.849125 6.404,10.7335 C6.457375,9.70975 6.627125,9.14625 6.7715,8.77875 C6.95525,8.28 7.190625,7.93875 7.559,7.570375 C7.925625,7.20375 8.26775,6.9675 8.765625,6.784625 C9.133125,6.639375 9.68525,6.46875 10.709,6.41625 C11.824625,6.376875 12.15275,6.36375 14.960625,6.36375 L15,6.39 L15,6.39 Z M15,9.60825 C12.020625,9.60825 9.60825,12.02325 9.60825,15 C9.60825,17.979375 12.02325,20.39175 15,20.39175 C17.979375,20.39175 20.39175,17.97675 20.39175,15 C20.39175,12.020625 17.97675,9.60825 15,9.60825 Z M15,18.5 C13.06625,18.5 11.5,16.93375 11.5,15 C11.5,13.06625 13.06625,11.5 15,11.5 C16.93375,11.5 18.5,13.06625 18.5,15 C18.5,16.93375 16.93375,18.5 15,18.5 Z M21.86525,9.395625 C21.86525,10.09125 21.3,10.655625 20.60525,10.655625 C19.909625,10.655625 19.34525,10.090375 19.34525,9.395625 C19.34525,8.700875 19.9105,8.13649899 20.60525,8.13649899 C21.299125,8.135625 21.86525,8.700875 21.86525,9.395625 Z"/>
+    </symbol>
+
+    <symbol id="linkedin" viewBox="0 0 30 30">
+      <path fill="currentColor" d="M23.6375751,22.75 L20.0622266,22.75 L20.0622266,17.1475477 C20.0622266,15.8115705 20.0350644,14.0923048 18.1991019,14.0923048 C16.3349711,14.0923048 16.0502712,15.5459847 16.0502712,17.048959 L16.0502712,22.75 L12.4749227,22.75 L12.4749227,11.2292092 L15.9094302,11.2292092 L15.9094302,12.7995859 L15.9557065,12.7995859 C16.4355718,11.8941797 17.6025398,10.9384732 19.3459497,10.9384732 C22.9685805,10.9384732 23.6385811,13.3227095 23.6385811,16.4262407 L23.6385811,22.75 L23.6375751,22.75 Z M8.4368111,9.65279641 C7.28593923,9.65279641 6.36141891,8.72123404 6.36141891,7.5753922 C6.36141891,6.43055637 7.28694524,5.5 8.4368111,5.5 C9.58365895,5.5 10.5132093,6.43055637 10.5132093,7.5753922 C10.5132093,8.72123404 9.58265294,9.65279641 8.4368111,9.65279641 Z M10.2295154,22.75 L6.64410684,22.75 L6.64410684,11.2292092 L10.2295154,11.2292092 L10.2295154,22.75 Z"/>
+    </symbol>
+
+    <symbol id="medium" viewBox="0 0 30 30">
+      <path fill="currentColor" d="M22.9833468,9.23153259 C22.8522194,9.33133261 22.7873068,9.49565684 22.8148297,9.65812814 L22.8148297,20.3430503 C22.787771,20.5051334 22.8526349,20.6688807 22.9833468,20.7684674 L24.4646468,22.2226633 L24.4646468,22.5420207 L17.0145444,22.5420207 L17.0145444,22.2238417 L18.5488743,20.7331142 C18.6997147,20.5822738 18.6997147,20.5386715 18.6997147,20.3088755 L18.6997147,11.6709049 L14.4337592,22.5066675 L13.8563233,22.5066675 L8.88801712,11.6709049 L8.88801712,18.9336352 C8.84660153,19.238797 8.94785968,19.5460481 9.16259381,19.7667928 L11.1588724,22.1873101 L11.1588724,22.5066675 L5.5,22.5066675 L5.5,22.1884885 L7.49745705,19.7667928 C7.71063005,19.5456817 7.8059957,19.2363996 7.75435713,18.9336352 L7.75435713,10.5360665 C7.77821657,10.3027497 7.68934984,10.0720464 7.51513366,9.91502822 L5.74040191,7.77733672 L5.74040191,7.45915772 L11.2484339,7.45915772 L15.5061403,16.7959437 L19.2488681,7.45797928 L24.5,7.45797928 L24.5,7.77733672 L22.9833468,9.23153259 Z"/>
+    </symbol>
+
+    <symbol id="reddit" viewBox="0 0 30 30">
+      <path fill="currentColor" d="M20.7268208,4.39713974 C21.5763333,4.39713974 22.2702666,5.08986859 22.2702666,5.93938117 C22.2613406,6.77184986 21.5938091,7.44723228 20.7615017,7.46589089 C19.9291942,7.4845495 19.2320672,6.83975991 19.1858445,6.00852754 L15.9791814,5.33311565 L14.9913761,9.95974884 C17.2435722,10.0461818 19.2883293,10.740115 20.7626287,11.7970667 C21.1429338,11.4155269 21.6640011,11.1908012 22.25298,11.1908012 C23.4482244,11.1908012 24.4187432,12.16132 24.4187432,13.3565644 C24.4187432,14.2406502 23.881624,15.002495 23.1716389,15.3494616 C23.2068719,15.5616567 23.2242195,15.7764361 23.2234987,15.9915351 C23.2234987,19.3179695 19.3587104,22.0048 14.5752631,22.0048 C9.79181583,22.0048 5.92702751,19.3179695 5.92702751,15.9915351 C5.92702751,15.7655746 5.94554886,15.5396142 5.98012204,15.332175 C5.1991423,14.9856181 4.69611314,14.2109822 4.69720809,13.3565644 C4.69720809,12.16132 5.66772861,11.1908012 6.86297305,11.1908012 C7.43466538,11.1908012 7.97178453,11.4328135 8.35332433,11.795832 C9.84367561,10.7055419 11.906954,10.03013 14.2110099,9.95974884 L15.3037695,4.79599651 C15.3298674,4.69657806 15.39133,4.61009142 15.4766355,4.55274945 C15.565328,4.50111828 15.6694999,4.482735 15.7705076,4.50088967 L19.3587104,5.26273452 C19.606341,4.73158437 20.1407938,4.3934513 20.7268208,4.39713974 Z M11.1451091,13.3565644 C10.2943618,13.3565644 9.60166331,14.0504976 9.60166331,14.9000102 C9.60166331,15.748288 10.2943618,16.4409865 11.1451091,16.4409865 C11.9933869,16.4409865 12.6860854,15.748288 12.6860854,14.8987755 C12.6860854,14.0492629 11.9933869,13.3565644 11.1438744,13.3565644 L11.1451091,13.3565644 Z M17.9362707,13.3565644 C17.0879929,13.3565644 16.3952944,14.0492629 16.3952944,14.9000102 C16.3952944,15.748288 17.0879929,16.4409865 17.9375055,16.4409865 C18.7870181,16.4409865 19.4797165,15.748288 19.4797165,14.8987755 C19.4797165,14.0504976 18.7857833,13.3565644 17.9362707,13.3565644 L17.9362707,13.3565644 Z M11.1870909,18.2832434 C11.080415,18.2827338 10.9778724,18.3244611 10.9018621,18.3993106 C10.7457493,18.5579022 10.7457493,18.8124112 10.9018621,18.9710029 C11.9415272,20.010668 13.9689976,20.0983357 14.5579765,20.0983357 C15.1469554,20.0983357 17.1571393,20.0291894 18.214091,18.9710029 C18.3630944,18.8143415 18.3781895,18.5733403 18.2498989,18.3993106 C18.0911595,18.2423858 17.8357112,18.2423858 17.6769718,18.3993106 C17.0015599,19.0574359 15.5976416,19.3006829 14.5752631,19.3006829 C13.5528846,19.3006829 12.1316797,19.0586706 11.4735544,18.3993106 C11.3975191,18.3235898 11.2943969,18.281363 11.1870909,18.2820087 L11.1870909,18.2832434 Z"/>
+    </symbol>
+
+    <symbol id="tumblr" viewBox="0 0 30 30">
+      <path fill="currentColor" d="M16.6871922,23.5375 C12.8594844,23.5375 11.4029563,20.7146313 11.4029563,18.7192328 L11.4029563,12.8254797 L9.58718125,12.8254797 L9.58718125,10.4963875 C12.3153531,9.50958594 12.9782313,7.04220625 13.1270406,5.63452969 C13.1375625,5.53832969 13.2134703,5.5 13.2570609,5.5 L15.9003062,5.5 L15.9003062,10.0950531 L19.5085578,10.0950531 L19.5085578,12.8254797 L15.8860266,12.8254797 L15.8860266,18.4396516 C15.8980516,19.1919656 16.1678625,20.2216063 17.544725,20.2216063 L17.6123656,20.2216063 C18.0866016,20.206575 18.7291875,20.0675359 19.0673906,19.9067016 L19.9361969,22.4808031 C19.6085156,22.9587969 18.1324469,23.51345 16.8127031,23.5359969 L16.678925,23.5359969 L16.6871922,23.5375 Z"/>
+    </symbol>
+
+    <symbol id="twitter" viewBox="0 0 30 30">
+      <path fill="currentColor" d="M25.3044801,9.0053673 C24.5785869,9.32443226 23.8034805,9.54179013 22.9873632,9.64103655 C23.8190647,9.13988312 24.458835,8.35001282 24.7614956,7.40758189 C23.9814679,7.8628031 23.1169577,8.19417132 22.1966727,8.37872046 C21.461757,7.59213103 20.4143381,7.1 19.2512685,7.1 C17.0227351,7.1 15.215794,8.9069411 15.215794,11.1330138 C15.215794,11.452899 15.2527039,11.7604809 15.3199618,12.0549393 C11.9652686,11.8966371 8.99197695,10.2857282 7.00212715,7.85049982 C6.6518939,8.44269749 6.45586171,9.13086072 6.45586171,9.88054032 C6.45586171,11.2831138 7.1694517,12.515902 8.25049953,13.2401548 C7.58858329,13.2188291 6.96603754,13.0367407 6.42305297,12.7349003 L6.42305297,12.7849336 C6.42305297,14.7411545 7.81168269,16.3725688 9.65963471,16.7441277 C9.32088452,16.835172 8.9632693,16.8843851 8.59663169,16.8843851 C8.33908311,16.8843851 8.09219738,16.8597785 7.84531165,16.8138463 C8.36286945,18.4157328 9.85074559,19.5837238 11.6215971,19.6165325 C10.2436302,20.6984006 8.49738526,21.3430922 6.61662451,21.3430922 C6.29673934,21.3430922 5.97767439,21.3242272 5.656969,21.2881376 C7.45242704,22.431522 9.56777025,23.1 11.8553593,23.1 C19.2816166,23.1 23.3375965,16.951643 23.3375965,11.6284257 C23.3375965,11.4570001 23.3375965,11.283934 23.3252932,11.1116881 C24.1135231,10.5465576 24.8016863,9.83214743 25.3430304,9.02177167 L25.3044801,9.0053673 Z"/>
+    </symbol>
+
+    <symbol id="youtube" viewBox="0 0 30 30">
+      <path fill="currentColor" d="M15,22.4725275 L18.6666667,22.4322344 C21.2454212,22.3516484 22.8840051,22.2173384 23.5824176,22.029304 C24.0659341,21.8949941 24.4822953,21.6532359 24.8315018,21.3040293 C25.1807084,20.9548227 25.4224666,20.5518923 25.5567766,20.0952381 C25.7448109,19.3699634 25.8791209,18.2551891 25.959707,16.7509158 L25.959707,16.7509158 L26,14.7362637 L25.959707,12.7216117 C25.8791209,11.2442 25.7448109,10.1428571 25.5567766,9.41758242 C25.4224666,8.93406593 25.1807084,8.51770472 24.8315018,8.16849817 C24.4822953,7.81929161 24.0659341,7.57753337 23.5824176,7.44322344 C22.8840051,7.25518905 21.2454212,7.12087912 18.6666667,7.04029304 L18.6666667,7.04029304 L15,7 L11.3333333,7.04029304 C8.75457875,7.12087912 7.11599491,7.25518905 6.41758242,7.44322344 C5.93406593,7.57753337 5.51770472,7.81929161 5.16849817,8.16849817 C4.81929161,8.51770472 4.57753337,8.93406593 4.44322344,9.41758242 C4.25518905,10.1428571 4.12087912,11.2442 4.04029304,12.7216117 C4.01343081,13.4737487 4,14.1452989 4,14.7362637 L4,14.7362637 L4.04029304,16.7509158 C4.12087912,18.2551891 4.25518905,19.3699634 4.44322344,20.0952381 C4.57753337,20.5518923 4.81929161,20.9548227 5.16849817,21.3040293 C5.51770472,21.6532359 5.93406593,21.8949941 6.41758242,22.029304 C7.11599491,22.2173384 8.75457875,22.3516484 11.3333333,22.4322344 L11.3333333,22.4322344 L15,22.4725275 Z M12.7435897,18.040293 L12.7435897,11.4725275 L18.5054945,14.7362637 L12.7435897,18.040293 Z"/>
+    </symbol>
+
+    <symbol id="flickr" viewBox="0 0 30 30">
+      <path fill="currentColor" d="M22.8571429,25 C23.4523807,25 23.9583336,24.7916664 24.375,24.375 C24.7916664,23.9583336 25,23.4523807 25,22.8571429 L25,22.8571429 L25,7.14285714 C25,6.54761927 24.7916664,6.04166644 24.375,5.625 C23.9583336,5.20833356 23.4523807,5 22.8571429,5 L22.8571429,5 L7.14285714,5 C6.54761927,5 6.04166644,5.20833356 5.625,5.625 C5.20833356,6.04166644 5,6.54761927 5,7.14285714 L5,7.14285714 L5,22.8571429 C5,23.4523807 5.20833356,23.9583336 5.625,24.375 C6.04166644,24.7916664 6.54761927,25 7.14285714,25 L7.14285714,25 L22.8571429,25 Z M11.4732143,17.8125 C10.6696429,17.8125 9.9925593,17.5372022 9.44196429,16.9866071 C8.89136927,16.4360121 8.61607143,15.7663693 8.61607143,14.9776786 C8.61607143,14.1889879 8.89136927,13.519345 9.44196429,12.96875 C9.9925593,12.418155 10.6622022,12.1428571 11.4508929,12.1428571 C12.2395836,12.1428571 12.9092264,12.418155 13.4598214,12.96875 C14.0104164,13.519345 14.2857143,14.1889879 14.2857143,14.9776786 C14.2857143,15.7663693 14.0104164,16.4360121 13.4598214,16.9866071 C12.9092264,17.5372022 12.2470236,17.8125 11.4732143,17.8125 Z M18.5714286,17.8125 C17.7678571,17.8125 17.0907736,17.5372022 16.5401786,16.9866071 C15.9895836,16.4360121 15.7142857,15.7663693 15.7142857,14.9776786 C15.7142857,14.1889879 15.9895836,13.519345 16.5401786,12.96875 C17.0907736,12.418155 17.7604164,12.1428571 18.5491071,12.1428571 C19.3377978,12.1428571 20.0074407,12.418155 20.5580357,12.96875 C21.1086307,13.519345 21.3839286,14.1889879 21.3839286,14.9776786 C21.3839286,15.7663693 21.1086307,16.4360121 20.5580357,16.9866071 C20.0074407,17.5372022 19.3452379,17.8125 18.5714286,17.8125 Z"/>
+    </symbol>
+
+    <symbol id="rss" viewBox="0 0 30 30">
+      <path fill="currentColor" d="M22.2707553,22.9979342 C22.4828491,22.9979342 22.6570691,22.9221864 22.7934151,22.7706908 C22.9449107,22.6191952 23.0130837,22.4411879 22.9979342,22.2366688 C22.899462,20.2520766 22.4449753,18.3527007 21.6344739,16.538541 C20.8239725,14.7243813 19.7104799,13.112847 18.2939961,11.703938 C16.8850872,10.2874543 15.2735528,9.1739617 13.4593932,8.3634603 C11.6452335,7.5529589 9.74585754,7.09847213 7.76126533,7 L7.76126533,7 L7.72717883,7 C7.53023456,7 7.36358941,7.06817301 7.22724338,7.20451904 C7.07574779,7.34086507 7,7.515085 7,7.72717883 L7,7.72717883 L7,9.35196901 C7,9.5413385 7.06627932,9.70608995 7.19883796,9.84622337 C7.3313966,9.98635679 7.49236066,10.0602109 7.68173015,10.0677857 C9.31030773,10.1662578 10.8574564,10.5525716 12.3231762,11.2267269 C13.7888961,11.9008823 15.061459,12.777663 16.1408651,13.8570691 C17.2202711,14.9364751 18.0970519,16.2090381 18.7712072,17.6747579 C19.4453626,19.1404777 19.827889,20.6876264 19.9187863,22.316204 C19.9263611,22.5055735 20.0002152,22.6665376 20.1403486,22.7990962 C20.280482,22.9316548 20.4490209,22.9979342 20.6459651,22.9979342 L20.6459651,22.9979342 L22.2707553,22.9979342 Z M16.4533247,22.9979342 C16.6729933,22.9979342 16.8510006,22.918399 16.9873467,22.7593286 C17.1312675,22.607833 17.1956531,22.4260383 17.1805036,22.2139445 C17.0820314,21.0019798 16.7771465,19.8430385 16.2658489,18.7371207 C15.7545513,17.6312029 15.0671401,16.650269 14.2036152,15.7943189 C13.3476652,14.9307941 12.3667312,14.2433828 11.2608134,13.7320852 C10.1548956,13.2207876 8.99595438,12.9159027 7.78398967,12.8174306 L7.78398967,12.8174306 L7.72717883,12.8174306 C7.53023456,12.8174306 7.3673768,12.8818162 7.23860555,13.0105875 C7.07953518,13.1469335 7,13.3249408 7,13.5446094 L7,13.5446094 L7,15.0785023 C7,15.2678717 7.06249193,15.4307295 7.18747579,15.5670755 C7.31245965,15.7034216 7.46963632,15.7791694 7.65900581,15.7943189 C9.3936303,15.9609641 10.8763934,16.6597375 12.107295,17.8906391 C13.3381967,19.1215408 14.0369701,20.6043039 14.2036152,22.3389283 C14.2187648,22.5282978 14.2945126,22.6854745 14.4308586,22.8104584 C14.5672046,22.9354422 14.7300624,22.9979342 14.9194319,22.9979342 L14.9194319,22.9979342 L16.4533247,22.9979342 Z M9.18153648,22.9979342 C9.78751883,22.9979342 10.3026038,22.7858403 10.7267915,22.3616527 C11.1509791,21.937465 11.363073,21.42238 11.363073,20.8163977 C11.363073,20.2104153 11.1509791,19.6953303 10.7267915,19.2711427 C10.3026038,18.846955 9.78751883,18.6348612 9.18153648,18.6348612 C8.57555412,18.6348612 8.06046912,18.846955 7.63628147,19.2711427 C7.21209382,19.6953303 7,20.2104153 7,20.8163977 C7,21.42238 7.21209382,21.937465 7.63628147,22.3616527 C8.06046912,22.7858403 8.57555412,22.9979342 9.18153648,22.9979342 Z"/>
+    </symbol>
+
+    <symbol id="republish" viewBox="-1 -1 11 11">
+      <path fill="currentColor" d="M 7.3676883,0.79552825 H 6.0860384 c -0.009,-4.7301e-4 -0.018301,-4.7301e-4 -0.0274,0 -0.3447399,0.02544 -0.31813,0.53935995 0.0274,0.52907895 h 0.68165 L 5.1036185,2.9883141 c -0.2500701,0.250073 0.1251199,0.6251819 0.37519,0.375109 L 7.1428784,1.6981672 v 0.6830489 c 0.008,0.344982 0.5215499,0.344982 0.5292,0 V 1.0936522 c 0,-0.20889796 -0.082,-0.29812395 -0.3043901,-0.29812395 z m -6.3343399,0 C 0.89779838,0.80883825 0.79448838,0.92285524 0.79458838,1.0590352 V 7.407987 c 5.9001e-4,0.1454901 0.11856,0.263209 0.26409002,0.2635062 H 7.4085185 C 7.5538385,7.6709111 7.6714985,7.553276 7.6720784,7.407987 V 4.2267941 c -0.008,-0.344982 -0.52154,-0.344982 -0.5292,0 v 2.91562 h -5.81857 V 1.3246082 h 2.92195 c 0.34505,-0.0077 0.34505,-0.52142396 0,-0.52907995 h -3.18758 c -0.008,-4.0401e-4 -0.0169,-4.0401e-4 -0.0253,0 z M 2.1170685,2.9102961 c -0.35314,0 -0.35314,0.529596 0,0.529596 h 1.3224699 c 0.3531501,0 0.3531501,-0.529596 0,-0.529596 z m -0.0274,1.058675 c -0.36104,0.010739 -0.33283,0.5556581 0.0274,0.5290791 h 3.1741399 c 0.3607101,0.008 0.3607101,-0.537079 0,-0.5290791 H 2.1170685 c -0.009,-4.762e-4 -0.0183,-4.762e-4 -0.0274,0 z m 0,1.058159 c -0.35294,0.01844 -0.3255499,0.5480349 0.0274,0.5295961 h 4.2325399 c 0.3529401,-1.942e-4 0.3529401,-0.52979 0,-0.5295961 H 2.1170685 c -0.009,-4.762e-4 -0.0183,-4.762e-4 -0.0274,0 z"/>
+    </symbol>
+
+    <symbol id="imagine-2200-logo" viewBox="0 0 596.64 191.02">
+      <rect x="1.74" y="31.11" width="13.21" height="80.1" />
+      <path d="M8.52,0A8.32,8.32,0,0,0,0,8.52,8.27,8.27,0,0,0,8.34,17a8.39,8.39,0,0,0,8.52-8.34A8.42,8.42,0,0,0,8.52,0Z" />
+      <path d="M390.11,0a8.32,8.32,0,0,0-8.52,8.52A8.27,8.27,0,0,0,389.93,17a8.39,8.39,0,0,0,8.52-8.34A8.42,8.42,0,0,0,390.11,0Z" />
+      <rect x="383.33" y="31.11" width="13.21" height="80.1" />
+      <path d="M235.28,111.14h11.58v-80H235.28V41.68a41.43,41.43,0,1,0-9,64.38,5.89,5.89,0,0,1,9,5Zm-29.86-11a29.85,29.85,0,1,1,29.85-29.85A29.88,29.88,0,0,1,205.42,100.17Z" />
+      <path d="M365.51,68.77V31.21H353.22v5.67a51.07,51.07,0,1,0-68.92,74.44l-.18.11a19.8,19.8,0,0,0-7.37,10.38A35.08,35.08,0,1,0,290.81,128a4.39,4.39,0,0,1-.13-7l0,0c3.83-2.7,10.4-1.6,12.59-.94v0A50.93,50.93,0,0,0,365.45,72.7h.06V71.47c0-.45.07-.9.07-1.35S365.52,69.22,365.51,68.77ZM270.08,179.43a23.35,23.35,0,1,1,23.35-23.35A23.38,23.38,0,0,1,270.08,179.43Zm44.37-70.49a38.82,38.82,0,1,1,38.77-39.89v2.14A38.85,38.85,0,0,1,314.45,108.94Z" />
+      <path d="M459,28.91a39.72,39.72,0,0,0-21.52,6.32,4.72,4.72,0,0,1-7.33-3.92v-.13H418.45V111.3H430.1V69.59c.22-16.08,13.07-29.1,28.85-29.1s28.82,13.2,28.86,29.45h0v41.34h11.65V69.94h0C499.35,47.31,481.23,28.91,459,28.91Z" />
+      <path d="M149,58.4v0h0a29.49,29.49,0,0,0-53.2-17.47,29.36,29.36,0,0,0-41.62-5.82v-4H42.56v80H54.14V58.48h0A17.93,17.93,0,0,1,90,57.28c0,.4-.06.79-.06,1.2H90v52.67h11.58V58.48h.07c0-.41-.05-.8-.06-1.2a17.93,17.93,0,0,1,35.82,1.2h0v52.67H149V58.48h0Z" />
+      <path d="M570.18,96.23A30.14,30.14,0,0,1,529,85.49l0,0,49.41-29,0,0,10-5.86c-12-20.51-35.48-27.53-54.53-16.35A41.7,41.7,0,0,0,576,106.22,41.86,41.86,0,0,0,596.64,70l-11.58.06A30.27,30.27,0,0,1,570.18,96.23ZM525.8,62.66a29.88,29.88,0,0,1,13.9-18.38c10.32-6.05,22.17-4.53,31.15,3.14L525.08,74.27A30,30,0,0,1,525.8,62.66Z" />
+      <path d="M353.87,171H366v6.19H339.43V172c8.47-6.41,18-11.67,18-18.84a5.15,5.15,0,0,0-5.48-5.54c-3.1,0-5.16,1.74-5.16,4.4a3.83,3.83,0,0,0,.16,1.25l-7.38,1.36a8.2,8.2,0,0,1-.43-2.93c0-6.36,5.15-10.75,13-10.75s13.08,4.83,13.08,12-6,12.54-11.78,16.45a16.37,16.37,0,0,1-2.5,1.47l.11.22A23.34,23.34,0,0,1,353.87,171Z" />
+      <path d="M393.07,171h12.1v6.19H378.63V172c8.47-6.41,18-11.67,18-18.84a5.15,5.15,0,0,0-5.48-5.54c-3.1,0-5.16,1.74-5.16,4.4a3.83,3.83,0,0,0,.16,1.25l-7.38,1.36a8.11,8.11,0,0,1-.44-2.93c0-6.36,5.16-10.75,13-10.75s13.09,4.83,13.09,12-6,12.54-11.78,16.45a16.37,16.37,0,0,1-2.5,1.47l.11.22A23.34,23.34,0,0,1,393.07,171Z" />
+      <path d="M417.66,159.5c0-11.4,5.43-18.51,15.31-18.51s15.47,7.11,15.47,18.51S443,177.58,433,177.58,417.66,170.79,417.66,159.5Zm23.13,0c0-7.6-3-11.84-7.82-11.84s-7.65,4.24-7.65,11.84,2.87,11.4,7.65,11.4S440.79,167,440.79,159.5Z" />
+      <path d="M461,159.5c0-11.4,5.43-18.51,15.31-18.51s15.47,7.11,15.47,18.51-5.48,18.08-15.47,18.08S461,170.79,461,159.5Zm23.12,0c0-7.6-3-11.84-7.81-11.84s-7.66,4.24-7.66,11.84,2.88,11.4,7.66,11.4S484.11,167,484.11,159.5Z" />
+    </symbol>
+
+  </defs>
+</svg>
+  <div class="grid">
+  <div class="grid-inner">
+    <div class="grid-column"><span class="grid-column--inner"></span></div>
+    <div class="grid-column"><span class="grid-column--inner"></span></div>
+    <div class="grid-column"><span class="grid-column--inner"></span></div>
+    <div class="grid-column"><span class="grid-column--inner"></span></div>
+    <div class="grid-column"><span class="grid-column--inner"></span></div>
+    <div class="grid-column"><span class="grid-column--inner"></span></div>
+    <div class="grid-column"><span class="grid-column--inner"></span></div>
+    <div class="grid-column"><span class="grid-column--inner"></span></div>
+    <div class="grid-column"><span class="grid-column--inner"></span></div>
+    <div class="grid-column"><span class="grid-column--inner"></span></div>
+    <div class="grid-column"><span class="grid-column--inner"></span></div>
+    <div class="grid-column"><span class="grid-column--inner"></span></div>
+  </div>
+</div>
+
+      
+<div class="appeal-bar-notification" id="appeal-bar-notification">
+  <div class="appeal-bar__inner">
+    <a href="https://grist.org" class="appeal-bar-logo__link">
+      <span class="visually-hidden">Grist home</span>
+      <svg class="site-logo__logo" viewBox="0 0 305 103">
+        <path fill="currentColor" d="M137 98.5C133 98.5 132 97.5 132 92.5V50.2C133.579 49.0591 135.454 48.3993 137.4 48.3C140.5 48.3 143.2 49.6 147.5 54.7C148.8 56.3 150 57 151.3 57C153.3 57 154.5 55.7 154.5 53.4V38H151.5C147.812 37.9397 144.155 38.6872 140.786 40.1901C137.418 41.6931 134.419 43.915 132 46.7V38H108V41.5H112C116 41.5 117 42.5 117 47.5V92.5C117 97.5 116 98.5 112 98.5H108V102H145V98.5H137ZM158.5 41.5H161.2C165.2 41.5 166.2 42.5 166.2 47.5V92.5C166.2 97.5 165.2 98.5 161.2 98.5H156.8V102H189.9V98.5H186.2C182.2 98.5 181.2 97.5 181.2 92.5V38H158.5V41.5ZM195.4 102H199.1V101C199.1 98.7 200.8 98.8 202.8 99.5C210.5 102.2 214.4 103 220.5 103C236.8 103 244.5 95.4 244.5 82.7C244.5 74.2 239.6 66.7 227.3 63.1L211.2 58.4C203.5 56.1 201.2 53 201.2 49.7C201.2 46.4 204.2 43.4 209.1 43.4C216.6 43.4 223.8 48 234.3 56.3C235.151 57.0952 236.241 57.5873 237.4 57.7C239.4 57.7 240.6 56.4 240.6 54.1V38H236.9V39C236.9 40.7 235.8 41.5 233.7 40.7C226.3 37.9 221.8 37 217.6 37C203.1 37 196 45.2 196 56.9C196 65.3 201.8 72.4 215.2 76.5L229.6 80.9C236.8 83.1 239.3 86 239.3 89.9C239.3 93.8 236 96.6 231.1 96.6C224.3 96.6 215.3 93.2 202.1 83C201.131 82.094 199.911 81.5015 198.6 81.3C196.6 81.3 195.4 82.6 195.4 84.9V102ZM257.8 83.9C257.8 96.3 265.1 103 278.7 103C285.1 103 294.8 101.2 302.3 98.7V87C302.3 84.7 301.1 83.4 299.1 83.4C297.9 83.4 296.8 84.1 295.6 85.9C288.4 96.7 282.8 99.6 278.2 99.6C274.2 99.6 272.8 97.8 272.8 92.7V49.5H304.7V38H272.8V14H269.1V14.7C269.1 29 260.3 40.4 247.8 42.8V49.5H257.8V83.9ZM166.2 30H181.2V12.5H166.2V30ZM84.9 64V88.3C79.1 91.9 72.6 94 67.1 94C39.7 94 15.1 64.1 15.1 33C15.1 18.4 24.7 6.9 41.4 6.9C51.9 6.9 72.3 13.6 87.4 29.8C87.8588 30.38 88.4339 30.8576 89.0884 31.2021C89.7428 31.5465 90.4621 31.7502 91.2 31.8C93.2 31.8 94.4 30.5 94.4 28.2V2H90.7V3C90.7 6.6 88.6 7.6 83.4 6C72.9626 2.50408 62.0057 0.813193 51 1C18.1 1 0 26.8 0 52C0 80.8 21.9 103 51 103C63.148 102.914 74.9783 99.11 84.9 92.1V102H99.4V50H46.4V64H84.9Z" />
+      </svg>
+    </a>
+    <div class="appeal-bar-donation">
+          <span class="appeal-bar-text">Support nonprofit news</span>
+      <ul class="appeal-bar-donation-list">
+                      <li>
+          <a class="appeal-bar-amt appeal-bar-amt-$10/mo " href="https://donate.grist.org/memberform?campaign=7014T000000DrEv&amount=10&installmentPeriod=monthly&utm_campaign=fy23-membership&utm_source=wordpress-unit&utm_medium=site&utm_content=navbar" data-amount="$10/mo" target="_blank">$10/mo</a>
+        </li>
+                                        <li>
+          <a class="appeal-bar-amt appeal-bar-amt-$15/mo appeal-bar-amt-preselected" href="https://donate.grist.org/memberform?campaign=7014T000000DrEv&amount=15&installmentPeriod=monthly&utm_campaign=fy23-membership&utm_source=wordpress-unit&utm_medium=site&utm_content=navbar" data-amount="$15/mo" target="_blank">$15/mo</a>
+        </li>
+                      <li>
+          <a class="appeal-bar-amt appeal-bar-amt-Other " href="https://donate.grist.org/memberform?campaign=7014T000000DrEv&installmentPeriod=monthly&utm_campaign=fy23-membership&utm_source=wordpress-unit&utm_medium=site&utm_content=navbar" data-amount="Other" target="_blank">Other</a>
+        </li>
+                      <li>
+          <a class="appeal-bar-amt appeal-bar-amt-Donate " href="https://donate.grist.org/memberform?campaign=7014T000000DrEv&installmentPeriod=monthly&utm_campaign=fy23-membership&utm_source=wordpress-unit&utm_medium=site&utm_content=navbar" data-amount="Donate" target="_blank">Donate</a>
+        </li>
+      
+      </li>
+                        <a class="appeal-bar-amt-donate button-secondary appeal-bar-amt-mobile appeal-bar-amt-donate-mobile" href="https://donate.grist.org/memberform?campaign=7014T000000DrEm&utm_campaign=fy23-membership&utm_source=wordpress-unit&utm_medium=site&utm_content=navbar-mobile" target="_blank">Donate</a>
+              <li>
+      </ul>
+	    </div>
+	      <a class="newsletter-bar" href="https://grist.org/subscribe/" >Newsletters</a>
+        <button class="appeal-bar-menu-open nav__menu-trigger js-menu-open" aria-label="Open menu">
+      <svg class="nav__menu-icon">
+        <use xlink:href="#menu"></use>
+      </svg>
+    </button>
+  </div>
+</div>
+  
+  <div class="page" >
+                    <div class="page__topper sky">
+                          <div class="page__color-bar-sun-wrapper side_by_side default-logo" >
+            <div class="color-bar-wrapper">
+              <div class="color-bar"></div>
+            </div>
+            <div class="page__inner">
+              
+<header class="main-header">
+  <nav class="nav main-nav">
+    <div class="nav__inner page__inner">
+      <div class="main-nav__content">
+        <span class="main-nav__tagline">Climate. Justice. Solutions.</span>
+        <div class="site-logo">
+          <div class="site-logo__inner">
+            <a href="https://grist.org" class="site-logo__link">
+              <span class="visually-hidden">Grist home</span>
+              <svg class="site-logo__logo" viewBox="0 0 305 103">
+                <path fill="currentColor" d="M137 98.5C133 98.5 132 97.5 132 92.5V50.2C133.579 49.0591 135.454 48.3993 137.4 48.3C140.5 48.3 143.2 49.6 147.5 54.7C148.8 56.3 150 57 151.3 57C153.3 57 154.5 55.7 154.5 53.4V38H151.5C147.812 37.9397 144.155 38.6872 140.786 40.1901C137.418 41.6931 134.419 43.915 132 46.7V38H108V41.5H112C116 41.5 117 42.5 117 47.5V92.5C117 97.5 116 98.5 112 98.5H108V102H145V98.5H137ZM158.5 41.5H161.2C165.2 41.5 166.2 42.5 166.2 47.5V92.5C166.2 97.5 165.2 98.5 161.2 98.5H156.8V102H189.9V98.5H186.2C182.2 98.5 181.2 97.5 181.2 92.5V38H158.5V41.5ZM195.4 102H199.1V101C199.1 98.7 200.8 98.8 202.8 99.5C210.5 102.2 214.4 103 220.5 103C236.8 103 244.5 95.4 244.5 82.7C244.5 74.2 239.6 66.7 227.3 63.1L211.2 58.4C203.5 56.1 201.2 53 201.2 49.7C201.2 46.4 204.2 43.4 209.1 43.4C216.6 43.4 223.8 48 234.3 56.3C235.151 57.0952 236.241 57.5873 237.4 57.7C239.4 57.7 240.6 56.4 240.6 54.1V38H236.9V39C236.9 40.7 235.8 41.5 233.7 40.7C226.3 37.9 221.8 37 217.6 37C203.1 37 196 45.2 196 56.9C196 65.3 201.8 72.4 215.2 76.5L229.6 80.9C236.8 83.1 239.3 86 239.3 89.9C239.3 93.8 236 96.6 231.1 96.6C224.3 96.6 215.3 93.2 202.1 83C201.131 82.094 199.911 81.5015 198.6 81.3C196.6 81.3 195.4 82.6 195.4 84.9V102ZM257.8 83.9C257.8 96.3 265.1 103 278.7 103C285.1 103 294.8 101.2 302.3 98.7V87C302.3 84.7 301.1 83.4 299.1 83.4C297.9 83.4 296.8 84.1 295.6 85.9C288.4 96.7 282.8 99.6 278.2 99.6C274.2 99.6 272.8 97.8 272.8 92.7V49.5H304.7V38H272.8V14H269.1V14.7C269.1 29 260.3 40.4 247.8 42.8V49.5H257.8V83.9ZM166.2 30H181.2V12.5H166.2V30ZM84.9 64V88.3C79.1 91.9 72.6 94 67.1 94C39.7 94 15.1 64.1 15.1 33C15.1 18.4 24.7 6.9 41.4 6.9C51.9 6.9 72.3 13.6 87.4 29.8C87.8588 30.38 88.4339 30.8576 89.0884 31.2021C89.7428 31.5465 90.4621 31.7502 91.2 31.8C93.2 31.8 94.4 30.5 94.4 28.2V2H90.7V3C90.7 6.6 88.6 7.6 83.4 6C72.9626 2.50408 62.0057 0.813193 51 1C18.1 1 0 26.8 0 52C0 80.8 21.9 103 51 103C63.148 102.914 74.9783 99.11 84.9 92.1V102H99.4V50H46.4V64H84.9Z" />
+                </symbol>
+            </a>
+          </div>
+        </div>
+
+        <div class="main-nav__nav">
+          <ul class="nav__items">
+
+                          <li class="nav__item nav__item--link">
+                <a href="http://grist.org/fix" class="nav__item-link">Fix</a>
+              </li>
+            
+            <li class="nav__item nav__item--link nav__item--link-follows">
+              <a href="#nav__item--link-follows-container" class="nav__item-link">Follow</a>
+              <div id="nav__item--link-follows-container" class="nav__item--link-follows-container">
+                <div class="nav__item--link-social-links">
+                                    <ul class="footer__social">
+                                                                  <li class="footer__social-item">
+                          <a href="https://www.facebook.com/grist.org/" class="footer__social-item__link">
+                            <span class="footer__social-item__text visually-hidden">Follow us on
+                              Facebook
+                            </span>
+                                                          <svg class="footer__social-item__icon">
+                                <use xlink:href="#facebook"></use>
+                              </svg>
+                                                      </a>
+                        </li>
+                                              <li class="footer__social-item">
+                          <a href="https://twitter.com/grist" class="footer__social-item__link">
+                            <span class="footer__social-item__text visually-hidden">Follow us on
+                              Twitter
+                            </span>
+                                                          <svg class="footer__social-item__icon">
+                                <use xlink:href="#twitter"></use>
+                              </svg>
+                                                      </a>
+                        </li>
+                                              <li class="footer__social-item">
+                          <a href="https://www.instagram.com/grist" class="footer__social-item__link">
+                            <span class="footer__social-item__text visually-hidden">Follow us on
+                              Instagram
+                            </span>
+                                                          <svg class="footer__social-item__icon">
+                                <use xlink:href="#instagram"></use>
+                              </svg>
+                                                      </a>
+                        </li>
+                                              <li class="footer__social-item">
+                          <a href="https://www.youtube.com/channel/UC7ga3FLMFOOpMQwaYoW42bw" class="footer__social-item__link">
+                            <span class="footer__social-item__text visually-hidden">Follow us on
+                              YouTube
+                            </span>
+                                                          <svg class="footer__social-item__icon">
+                                <use xlink:href="#youtube"></use>
+                              </svg>
+                                                      </a>
+                        </li>
+                                                            </ul>
+                </div>
+                <div class="nav__item--link-subscription-form">
+                  <script type="text/javascript"></script>
+                <div class='gf_browser_chrome gform_wrapper gform_wrapper_original_id_2 gravity-theme' id='gform_wrapper_3637480746' ><div id='gf_3637480746' class='gform_anchor' tabindex='-1'></div>
+                        <div class='gform_heading'>
+                            <h2 class="gform_title">Get your daily dose of good climate news to your inbox</h2>
+                            <span class='gform_description'></span>
+                        </div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_3637480746' id='gform_3637480746'  action='/transportation/think-apartment-hunting-is-frustrating-try-doing-it-with-an-electric-car/#gf_3637480746' novalidate>
+                        <div class='gform_body gform-body'><div id='gform_fields_3637480746' class='gform_fields top_label form_sublabel_below description_below'><div id="field_2_1"  class="gfield field_sublabel_below field_description_below hidden_label gfield_visibility_visible"  data-js-reload="field_2_1"><label class='gfield_label' for='input_3637480746_1' >Email</label><div class='ginput_container ginput_container_email'>
+                            <input name='input_1' id='input_3637480746_1' type='email' value='' class='large'   placeholder='Email Address'  aria-invalid="false"  />
+                        </div></div></div></div>
+        <div class='gform_footer top_label'> <button class='button gform_button' id='gform_submit_button_3637480746'><span>Submit</span></button> <input type='hidden' name='gform_ajax' value='form_id=2&amp;title=1&amp;description=1&amp;tabindex=0' />
+            <input type='hidden' class='gform_hidden' name='is_submit_2' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='2' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_2' value='WyJbXSIsImRhNWJmNDE2YjQ2OWQ2N2QwMjcxYWEzMzIxM2JiZmY0Il0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_2' id='gform_target_page_number_3637480746_2' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_2' id='gform_source_page_number_3637480746_2' value='1' />
+            <input type='hidden' name='gform_random_id' value='3637480746' /><input type='hidden' name='gform_field_values' value='placement=mobile-menu' />
+            
+        </div>
+                        <p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="230"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>
+                        </div>
+                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_3637480746' id='gform_ajax_frame_3637480746' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
+                <script type="text/javascript">
+gform.initializeOnLoaded( function() {gformInitSpinner( 3637480746, 'https://grist.org/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery('#gform_ajax_frame_3637480746').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_3637480746');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_3637480746').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_3637480746').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_3637480746').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_3637480746').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_3637480746').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_3637480746_2').val();gformInitSpinner( 3637480746, 'https://grist.org/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery(document).trigger('gform_page_loaded', [3637480746, current_page]);window['gf_submitting_3637480746'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_3637480746').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_3637480746').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [3637480746]);window['gf_submitting_3637480746'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_3637480746').text());}, 50);}else{jQuery('#gform_3637480746').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [3637480746, current_page]);} );} );
+</script>
+
+                </div>
+              </div>
+            </li>
+
+                          <li class="nav__item nav__item--button">
+                <a href="https://donate.grist.org/memberform?campaign=7014T000000DrEv&utm_campaign=fy23-membership&utm_source=wordpress-unit&utm_medium=site&utm_content=navbar"
+                  class="button button--small"
+                  style=background-color:#F5515B;color:#FFFFFF
+                  onMouseOver="this.style.color='#000000'"
+                  onMouseOut="this.style.color='#FFFFFF'"
+                  >
+                  <span>Donate</span>
+                </a>
+              </li>
+                                      <li class="nav__item nav__item--button nav__item--button-mobile">
+                <a href="https://donate.grist.org/memberform?campaign=7014T000000DrEm&utm_campaign=fy23-membership&utm_source=wordpress-unit&utm_medium=site&utm_content=navbar-mobile"
+                  class="button button--small"
+                  style=background-color:#F5515B;color:#FFFFFF
+                  onMouseOver="this.style.color='#000000'"
+                  onMouseOut="this.style.color='#FFFFFF'"
+                  >
+                  <span>Donate</span>
+                </a>
+              </li>
+            
+          </ul>
+
+                    <button class="nav__menu-trigger js-menu-open" aria-label="Open menu">
+            <svg class="nav__menu-icon">
+              <use xlink:href="#menu"></use>
+            </svg>
+          </button>
+        </div>
+
+      </div>
+    </div>
+
+  </nav>
+
+
+</header>
+                            <div class="menu__mask"></div>
+
+<nav
+  id="menu"
+  class="menu js-menu"
+  aria-hidden="true"
+  aria-modal="true"
+  aria-labelledby="menu-label"
+  role="dialog"
+  tabindex="0"
+>
+  <h2 id="menu-label" hidden>Menu</h2>
+  <div class="menu__close-button">
+    <button class="close-button js-menu-close" aria-label="Close menu">
+  <svg class="close-button__icon">
+    <use xlink:href="#close"></use>
+  </svg>
+</button>
+  </div>
+
+  <div class="menu__inner">
+    <div class="menu__section">
+      <p class="menu__mission">A nonprofit, independent media organization dedicated to telling stories of climate solutions and a just future.</p>
+    </div>
+    <div class="menu__section menu-search-form">
+      <h2 class="subsection-header">
+        Search
+      </h2>
+      <form role="search" method="get" id="searchform" class="searchform" action="https://grist.org/">
+    <div>
+        <label class='searchtextlabel' for="s">
+            <svg class="search-icon-svg">
+                <use xlink:href="#search"></use>
+            </svg>
+        </label>
+        <input class='searchtextfield'  type="text" value="" name="s" id="menu-search-input" placeholder="Search" />
+        <input type="submit" id="searchsubmit" value="Search" />
+        <div class="searchsubmit" type="submit" class="searchsubmit" value="Search" ><svg class="search-icon-right">
+                <use xlink:href="#arrow-right"></use>
+            </svg></div>
+    </div>
+</form>
+    </div>
+    <div class="menu__section">
+      <h2 class="subsection-header">
+  Go To
+  </h2>
+      <ul class="menu__items">
+                  <li class="menu__item">
+            <a href="http://grist.org/fix" class="menu__item-link ">
+              <span>Fix</span>
+            </a>
+          </li>
+                  <li class="menu__item">
+            <a href="https://grist.org/support-us/" class="menu__item-link ">
+              <span>Support Us</span>
+            </a>
+          </li>
+                  <li class="menu__item">
+            <a href="http://grist.org/subscribe" class="menu__item-link ">
+              <span>Subscribe</span>
+            </a>
+          </li>
+                  <li class="menu__item">
+            <a href="https://grist.org/about/" class="menu__item-link ">
+              <span>About</span>
+            </a>
+          </li>
+                  <li class="menu__item">
+            <a href="https://grist.org/advertising/" class="menu__item-link ">
+              <span>Advertise</span>
+            </a>
+          </li>
+                  <li class="menu__item">
+            <a href="http://grist.org/membership" class="menu__item-link ">
+              <span>Become a Member</span>
+            </a>
+          </li>
+                  <li class="menu__item">
+            <a href="https://grist.org/events/" class="menu__item-link ">
+              <span>Events</span>
+            </a>
+          </li>
+              </ul>
+    </div>
+
+
+    <div class="menu__section">
+      <h2 class="subsection-header">
+  Topics
+  </h2>
+      <ul class="menu__topics">
+                            <li class="menu__topic">
+            <a href="/politics/" class="menu__topic-link">
+              <svg class="menu__intersection-icon">
+                <use xlink:href="#intersection"></use>
+              </svg>
+              <span class="menu__topic-name">Politics</span>
+            </a>
+          </li>
+                            <li class="menu__topic">
+            <a href="/energy/" class="menu__topic-link">
+              <svg class="menu__intersection-icon">
+                <use xlink:href="#intersection"></use>
+              </svg>
+              <span class="menu__topic-name">Energy</span>
+            </a>
+          </li>
+                            <li class="menu__topic">
+            <a href="/equity/" class="menu__topic-link">
+              <svg class="menu__intersection-icon">
+                <use xlink:href="#intersection"></use>
+              </svg>
+              <span class="menu__topic-name">Equity</span>
+            </a>
+          </li>
+                            <li class="menu__topic">
+            <a href="/culture/" class="menu__topic-link">
+              <svg class="menu__intersection-icon">
+                <use xlink:href="#intersection"></use>
+              </svg>
+              <span class="menu__topic-name">Culture</span>
+            </a>
+          </li>
+                <li class="menu__topic">
+          <a href="https://grist.org/all-topics" class="menu__topic-link">All Topics</a>
+        </li>
+      </ul>
+    </div>
+
+          <div class="menu__section menu_section_social_subscribe">
+        <h2 class="subsection-header"></h2>
+        <div id="menu--link-follows-container" class="menu--link-follows-container">
+          <div class="nav__item--link-social-links">
+                        <ul class="footer__social">
+                                                <li class="footer__social-item">
+                    <a href="https://www.facebook.com/grist.org/" class="footer__social-item__link">
+                              <span class="footer__social-item__text visually-hidden">Follow us on
+                                Facebook
+                              </span>
+                                              <svg class="footer__social-item__icon">
+                          <use xlink:href="#facebook"></use>
+                        </svg>
+                                          </a>
+                  </li>
+                                  <li class="footer__social-item">
+                    <a href="https://twitter.com/grist" class="footer__social-item__link">
+                              <span class="footer__social-item__text visually-hidden">Follow us on
+                                Twitter
+                              </span>
+                                              <svg class="footer__social-item__icon">
+                          <use xlink:href="#twitter"></use>
+                        </svg>
+                                          </a>
+                  </li>
+                                  <li class="footer__social-item">
+                    <a href="https://www.instagram.com/grist" class="footer__social-item__link">
+                              <span class="footer__social-item__text visually-hidden">Follow us on
+                                Instagram
+                              </span>
+                                              <svg class="footer__social-item__icon">
+                          <use xlink:href="#instagram"></use>
+                        </svg>
+                                          </a>
+                  </li>
+                                  <li class="footer__social-item">
+                    <a href="https://www.youtube.com/channel/UC7ga3FLMFOOpMQwaYoW42bw" class="footer__social-item__link">
+                              <span class="footer__social-item__text visually-hidden">Follow us on
+                                YouTube
+                              </span>
+                                              <svg class="footer__social-item__icon">
+                          <use xlink:href="#youtube"></use>
+                        </svg>
+                                          </a>
+                  </li>
+                                          </ul>
+          </div>
+          <div class="nav__item--link-subscription-form">
+            
+                <div class='gf_browser_chrome gform_wrapper gform_wrapper_original_id_2 gravity-theme' id='gform_wrapper_2855243106' ><div id='gf_2855243106' class='gform_anchor' tabindex='-1'></div>
+                        <div class='gform_heading'>
+                            <h2 class="gform_title">Get your daily dose of good climate news to your inbox</h2>
+                            <span class='gform_description'></span>
+                        </div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_2855243106' id='gform_2855243106'  action='/transportation/think-apartment-hunting-is-frustrating-try-doing-it-with-an-electric-car/#gf_2855243106' novalidate>
+                        <div class='gform_body gform-body'><div id='gform_fields_2855243106' class='gform_fields top_label form_sublabel_below description_below'><div id="field_2_1"  class="gfield field_sublabel_below field_description_below hidden_label gfield_visibility_visible"  data-js-reload="field_2_1"><label class='gfield_label' for='input_2855243106_1' >Email</label><div class='ginput_container ginput_container_email'>
+                            <input name='input_1' id='input_2855243106_1' type='email' value='' class='large'   placeholder='Email Address'  aria-invalid="false"  />
+                        </div></div></div></div>
+        <div class='gform_footer top_label'> <button class='button gform_button' id='gform_submit_button_2855243106'><span>Submit</span></button> <input type='hidden' name='gform_ajax' value='form_id=2&amp;title=1&amp;description=1&amp;tabindex=0' />
+            <input type='hidden' class='gform_hidden' name='is_submit_2' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='2' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_2' value='WyJbXSIsImRhNWJmNDE2YjQ2OWQ2N2QwMjcxYWEzMzIxM2JiZmY0Il0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_2' id='gform_target_page_number_2855243106_2' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_2' id='gform_source_page_number_2855243106_2' value='1' />
+            <input type='hidden' name='gform_random_id' value='2855243106' /><input type='hidden' name='gform_field_values' value='placement=header-menu' />
+            
+        </div>
+                        <p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_2" name="ak_js" value="62"/><script>document.getElementById( "ak_js_2" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>
+                        </div>
+                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_2855243106' id='gform_ajax_frame_2855243106' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
+                <script type="text/javascript">
+gform.initializeOnLoaded( function() {gformInitSpinner( 2855243106, 'https://grist.org/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery('#gform_ajax_frame_2855243106').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_2855243106');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_2855243106').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_2855243106').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_2855243106').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_2855243106').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_2855243106').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_2855243106_2').val();gformInitSpinner( 2855243106, 'https://grist.org/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery(document).trigger('gform_page_loaded', [2855243106, current_page]);window['gf_submitting_2855243106'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_2855243106').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_2855243106').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [2855243106]);window['gf_submitting_2855243106'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_2855243106').text());}, 50);}else{jQuery('#gform_2855243106').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [2855243106, current_page]);} );} );
+</script>
+
+          </div>
+        </div>
+      </div>
+      </div>
+</nav>
+                
+      
+<div class="topper topper-side-by-side topper--bg-topper">
+  <div class="topper-side-by-side__headings">
+    <header class="topper-headings"  >
+  <div class="topper-headings__inner">
+
+    
+    <h1 class="topper-headings__title ">
+      Think apartment-hunting is frustrating? Try doing it with an electric car.
+    </h1>
+
+          <h2 class="topper-headings__subtitle">As the US switches to EVs, apartment-dwellers struggle to plug in.</h2>
+      </div>
+</header>
+  </div>
+
+      <div class="topper-side-by-side__art">
+      
+<div class="topper-featured-image">
+  <div class="topper-featured-image__inner">
+    <figure class="topper-featured-image__figure">
+              <img src=https://grist.org/wp-content/uploads/2021/12/nissan-leaf-electric-vehicle-charging-station-new-york-apartments.jpg alt="a blue Nissan Leaf is plugged into a charging station outside of a red brick apartment building with chain link fence surrounding it" />
+                    <figcaption class="topper-featured-image__caption topper-featured-image__caption--">
+           <em aria-label="Credit:">Stan Honda / AFP via Getty Images</em>        </figcaption>
+          </figure>
+  </div>
+</div>
+    </div>
+  </div>
+              </div>
+          </div>
+        </div>
+    
+    <div class="page__inner">
+      <main id="content" class="js-modal-gallery article-page" tabindex="-1">
+          <article class="article">
+    <div class='article__inner'>
+      <div class="article__content">
+                  
+<aside class="article-meta">
+      <div class="article-meta__contributor-info">
+      
+    <div class="contributor-info contributor-info--in-article">
+                      
+              <figure class="contributor-info__headshot">
+          <a href="https://grist.org/author/shannon-osaka/">
+            <figure class="headshot lazyload" data-bg="https://grist.org/wp-content/uploads/2018/06/IMG_7433-e1614192780394.jpeg" role="img" aria-label="Shannon Osaka Headshot"></figure>
+          </a>
+        </figure>
+          
+    
+    <span class="contributor-info__text">
+      <span class="contributor-info__name">
+                  <a class="byline-link" href=https://grist.org/author/shannon-osaka/>Shannon Osaka</a>        </span>
+              <span class="contributor-info__role">
+          Reporter
+        </span>
+            
+            </span>
+  </div>
+
+
+
+    </div>
+  
+  <dl class="article-meta__items">
+    <div class="article-meta__item">
+      <dt class="article-meta__item-label">Published</dt>
+      <dd class="article-meta__item-value">Dec 20, 2021</dd>
+    </div>
+
+    
+          <div class="article-meta__item">
+        <dt class="article-meta__item-label">Topic</dt>
+        <dd class="article-meta__item-value">
+          <a class="article-meta__item-link" href=/cities/transportation/>
+            Climate +             Transportation
+          </a>
+        </dd>
+      </div>
+    
+          <div class="article-meta__item">
+                <dt class="article-meta__item-label">Share/Republish</dt>
+        <dd class="article-meta__item-value">
+          <a
+            href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fgrist.org%2Ftransportation%2Fthink-apartment-hunting-is-frustrating-try-doing-it-with-an-electric-car%2F&amp;text=Think%20apartment-hunting%20is%20frustrating%3F%20Try%20doing%20it%20with%20an%20electric%20car."
+            class="article-meta__share-link"
+            target="_blank"
+            rel="noopener"
+            aria-label="Twitter"
+          >
+            <span class="visually-hidden">Twitter</span>
+            <svg class="article-meta__share-icon">
+              <use xlink:href="#twitter"></use>
+            </svg>
+          </a>
+          <a
+            href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgrist.org%2Ftransportation%2Fthink-apartment-hunting-is-frustrating-try-doing-it-with-an-electric-car%2F"
+            class="article-meta__share-link"
+            target="_blank"
+            rel="noopener"
+            aria-label="Facebook"
+          >
+            <span class="visually-hidden">Facebook</span>
+            <svg class="article-meta__share-icon">
+              <use xlink:href="#facebook"></use>
+            </svg>
+          </a>
+                      <a
+              href=https://grist.org/transportation/think-apartment-hunting-is-frustrating-try-doing-it-with-an-electric-car/republish/
+              class="article-meta__share-link"
+              target="_blank"
+              rel="noopener"
+              aria-label="Republish"
+            >
+              <span class="visually-hidden">Republish</span>
+              <span class="article-meta__share-icon">
+                <figure class="article-meta__repubish-icon" ></figure>
+              </span>
+            </a>
+                  </dd>
+      </div>
+          </dl>
+
+  </aside>
+                <div class="article-body js-hang-punc" >
+  
+  
+<p class="has-drop-cap">When Bradley Wilkinson and his husband were planning their move from Fayetteville, North Carolina, to a small Army base outside Colorado Springs, they were already worried about where they would charge their electric car.&nbsp;</p>
+
+
+
+<p>Wilkinson, a 31-year-old who works in customer care at T-Mobile, had bought a used Nissan Leaf several years earlier, and although he joked that it wasn’t a particularly high-end vehicle — “It’s the peasant’s Tesla,” he said — he had come to appreciate how cheap it was to run. Because of low electricity costs, driving an electric car is typically three to four times cheaper than driving a gas-powered one.</p>
+
+
+
+<p>“Being military, we really don’t make a lot of money,” Wilkinson said. But with the Leaf, he added, “We could always get somewhere.”&nbsp;</p>
+
+
+
+<p>Wilkinson and his husband, an infantryman in the Army, didn’t own their own home, and so they needed to negotiate with landlords to get access to charging. Wilkinson called ahead to Fort Carson, the military base, to make sure that there would be a standard 120-volt household outlet available to charge their Leaf outside their quadruplex. This was in the spring of 2017, and after just a couple of weeks in freezing cold Colorado temperatures, however, he realized that the trickle of electricity from the outlet wasn’t going to be enough, as cold weather quickly drains <a href="https://blog.evsolutions.com/6-smart-tips-for-maintaining-your-ev-in-cold-weather">lithium-ion batteries</a>. He went to the leasing office to ask if he could install a faster charger by his parking spot.<br><br>To his surprise, the office said no — multiple times. “They weren’t even sure what I was asking,” Wilkinson said.</p><div class="wp-block-ups-ad-wrapper"><div class="wp-block-ups-ad is-sponsored">
+  <figure class="wp-block-ups-ad__placement is-empty">
+      <div id="div-gpt-ad-1607548380621-0" style="max-width: 970px"></div>
+              <figcaption class="ad-sponsor-note"><p>Grist thanks its sponsors. <a href="https://grist.org/advertising/" target="_blank" rel="noopener">Become one</a>.</p>
+</figcaption>
+        </figure>
+</div>
+</div><div class="ad-rail__ad-placeholder"><div id="grist_adblock_modal" class="grist-modal-ad-blocker">
+    <div class="modal-content">
+        <div class="modal-content__logo">
+            <svg width="200" height="200" viewBox="0 0 100 103" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M85.4809 64V88.3C79.6809 91.9 73.1809 94 67.6809 94C40.2809 94 15.6809 64.1 15.6809 33C15.6809 18.4 25.2809 6.9 41.9809 6.9C52.4809 6.9 72.8809 13.6 87.9809 29.8C88.4397 30.38 89.0149 30.8576 89.6693 31.2021C90.3238 31.5465 91.043 31.7502 91.7809 31.8C93.7809 31.8 94.9809 30.5 94.9809 28.2V2H91.2809V3C91.2809 6.6 89.1809 7.6 83.9809 6C73.5436 2.50408 62.5866 0.813193 51.5809 1C18.6809 1 0.580933 26.8 0.580933 52C0.580933 80.8 22.4809 103 51.5809 103C63.7289 102.914 75.5592 99.11 85.4809 92.1V102H99.9809V50H46.9809V64H85.4809Z" fill="white"/>
+            </svg>
+        </div>
+        <p class="modal-content__message">To support our nonprofit environmental journalism, please consider <a href="https://grist.org/how-to-whitelist-grist" target="_blank">disabling your ad-blocker</a> to allow ads on Grist. <a class="modal-content__link" target="_blank" href="https://grist.org/how-to-whitelist-grist"><span class="modal-content__link-text">Here's How</span><span class="icon-right-1"></span></a></p>
+    </div>
+</div></div>
+
+
+
+<p>Wilkinson had fallen into a familiar and frustrating trap for many EV owners around the country. By all accounts, the market for electric cars is booming, with sales on track to double over last year. President Joe Biden has promised that by 2030 half of all new cars sold in the U.S. will be electric, Ford is about to start full production of the F-150 Lightning, an EV version of America’s favorite pick-up truck, and some states have even vowed to <a href="https://www.npr.org/2021/11/20/1055718914/giving-up-gas-powered-cars-for-electric-vehicles">phase out gasoline-powered cars entirely</a>.&nbsp;</p>
+
+
+
+<figure class="wp-block-ups-image aligncenter"><div class="wp-block-ups-image-inner"><img src="https://grist.org/wp-content/uploads/2021/12/EV-Wilkinson.jpeg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://grist.org/wp-content/uploads/2021/12/EV-Wilkinson.jpeg?w=1200 1200w, https://grist.org/wp-content/uploads/2021/12/EV-Wilkinson.jpeg?w=330 330w, https://grist.org/wp-content/uploads/2021/12/EV-Wilkinson.jpeg?w=1024 768w, https://grist.org/wp-content/uploads/2021/12/EV-Wilkinson.jpeg?w=1200 1200w, https://grist.org/wp-content/uploads/2021/12/EV-Wilkinson.jpeg?w=1536 1536w, https://grist.org/wp-content/uploads/2021/12/EV-Wilkinson.jpeg?w=160&amp;h=90&amp;crop=1 160w, https://grist.org/wp-content/uploads/2021/12/EV-Wilkinson.jpeg 1024w" alt="A man stands in front of his gray electric car" data-caption="Bradley Wilkinson stands in front of one of his electric car." data-credit="Courtesy of Bradley Wilkinson"/><figcaption>Bradley Wilkinson stands in front of one of his electric car. <cite>Courtesy of Bradley Wilkinson</cite></figcaption></div></figure>
+
+
+
+<p>But for the 36 percent of U.S. households who rent their homes, charging an electric car isn’t easy. Apartment buildings and other multi-family homes often have shared parking, which makes it hard to find accessible 120-volt outlets or install faster charging systems. (Electric cars can charge in three ways: on a simple, 110- or 120-volt outlet — found everywhere in a U.S. home — on a faster “Level 2” 240-volt system, or with technology known as “DC fast” charging.) For landlords, however, there’s little incentive to allow tenants to use existing outlets, let alone install new ones.&nbsp;    <div class="wp-block-article-donation" id="wp-block-article-donation" >
+        <div class="article-donation-close">
+            <button class="close-button " aria-label="Close menu">
+  <svg class="close-button__icon">
+    <use xlink:href="#close"></use>
+  </svg>
+</button>
+        </div>
+        <form target="_blank" method="get" action="https://donate.grist.org/memberform?campaign=7014T000000DrEg&utm_campaign=fy23-membership&utm_source=wordpress-unit&utm_medium=site&utm_content=inline-article" class="article-donation-form">
+
+                            <div class="article-donation-text">
+                    Grist relies on the support of generous readers like you. Donate today to keep our climate news free. All donations matched!
+                </div>
+            
+            <ul class="article-installment-period">
+                <li class="donation_amount_items ">
+                    <label data-default="" for="installment_period_onetime"><span>One Time</span></label>
+                    <input id="installment_period_onetime" 
+                           type="radio" name="installmentPeriod" value="once"></li>
+                <li class="donation_amount_items default-selected">
+                    <label data-default="" for="installment_period_monthly"><span>Monthly</span></label>
+                    <input id="installment_period_monthly" checked="true" 
+                           type="radio" name="installmentPeriod" value="monthly"></li>
+                            </ul>
+
+
+                            <ul class="article-donation-amount "
+                    id="article-donation-amount-onetime"
+                    style="display:none">
+                                                                    <li class="donation_amount_items ">
+                            <label for="donation_ammount_onetime_120"><span>$120</span></label>
+                            <input campignID="7014T000000DrEg" 
+                                   id="donation_ammount_onetime_120" type="radio"
+                                   name="amount" value="120">
+                        </li>
+                                                                    <li class="donation_amount_items default-selected">
+                            <label for="donation_ammount_onetime_180"><span>$180</span></label>
+                            <input campignID="7014T000000DrEg" 
+                                   id="donation_ammount_onetime_180" type="radio"
+                                   name="amount" value="180">
+                        </li>
+                                                                    <li class="donation_amount_items ">
+                            <label for="donation_ammount_onetime_Other"><span>Other</span></label>
+                            <input campignID="7014T000000DrEg" 
+                                   id="donation_ammount_onetime_Other" type="radio"
+                                   name="amount" value="Other">
+                        </li>
+                                        <li class="donation_amount_items donation_amount_items_submit" >
+                        <div class="article-donation-submit">
+                            <button class="button-secondary" type="submit"
+                                    value="Donate">Donate</button>
+                        </div>
+                    </li>
+                </ul>
+                                        <ul class="article-donation-amount active-donation"
+                    id="article-donation-amount-monthly"
+                    style="">
+                                                                    <li class="donation_amount_items ">
+                            <label for="donation_ammount_monthly_10"><span>$10</span></label>
+                            <input campignID="7014T000000DrEg" 
+                                   id="donation_ammount_monthly_10" type="radio"
+                                   name="amount" value="10">
+                        </li>
+                                                                                                                        <li class="donation_amount_items default-selected">
+                            <label for="donation_ammount_monthly_15"><span>$15</span></label>
+                            <input campignID="7014T000000DrEg" checked="true"
+                                   id="donation_ammount_monthly_15" type="radio"
+                                   name="amount" value="15">
+                        </li>
+                                                                    <li class="donation_amount_items ">
+                            <label for="donation_ammount_monthly_Other"><span>Other</span></label>
+                            <input campignID="7014T000000DrEg" 
+                                   id="donation_ammount_monthly_Other" type="radio"
+                                   name="amount" value="Other">
+                        </li>
+                                        <li class="donation_amount_items donation_amount_items_submit" >
+                        <div class="article-donation-submit">
+                            <button class="button-secondary" type="submit"
+                                    value="Donate">Donate</button>
+                        </div>
+                    </li>
+                </ul>
+                        <input type="hidden" id="campaign-id" name="campaign" value="7014T000000DrEg">
+                        <input type="hidden"  name="utm_campaign" value="fy23-membership">
+                        <input type="hidden"  name="utm_source" value="wordpress-unit">
+                        <input type="hidden"  name="utm_medium" value="site">
+                        <input type="hidden"  name="utm_content" value="inline-article">
+            
+        </form>
+    </div>
+</p>
+
+
+
+<p>“The real fundamental issue from a landlord or the property owner point of view is that there’s no money in charging cars,” said Marc Geller, the vice president of Plug In America, an EV advocacy group. Tenants who want to charge their car batteries will gobble up electricity from the parking lot, and — because it’s difficult to connect electricity in the parking lot to renters’ individual units — the landlord often has to cover the bill.</p>
+
+
+
+<p>It’s also an equity issue. Unsurprisingly, renters tend to have <a href="https://www.pewresearch.org/fact-tank/2021/08/02/as-national-eviction-ban-expires-a-look-at-who-rents-and-who-owns-in-the-u-s/">lower incomes</a> than those who own their own homes; they are also more likely to be Black or Latino. At the moment, according to a <a href="https://theicct.org/sites/default/files/publications/charging-up-america-jul2021.pdf">report</a> by the International Council of Clean Transportation, 4 out of 5 EV owners live in single-family detached homes. But to cut emissions and pollution from the country&#8217;s <a href="https://www.nytimes.com/interactive/2021/03/10/climate/electric-vehicle-fleet-turnover.html">250 million</a> gas-guzzling cars — and bring the low cost of electric driving to people who could benefit most — EVs have to be accessible to people living in apartments, condos, townhouses, and all other types of multi-family dwellings.&nbsp;</p><div class="wp-block-ups-ad-wrapper"><div class="wp-block-ups-ad is-sponsored">
+  <figure class="wp-block-ups-ad__placement is-empty">
+      <div id="div-gpt-ad-1607548453163-0" style="max-width: 970px"></div>
+              <figcaption class="ad-sponsor-note"><p>Grist thanks its sponsors. <a href="https://grist.org/advertising/" target="_blank" rel="noopener">Become one</a>.</p>
+</figcaption>
+        </figure>
+</div>
+</div><div class="ad-rail__ad-placeholder"><div id="grist_adblock_modal" class="grist-modal-ad-blocker">
+    <div class="modal-content">
+        <div class="modal-content__logo">
+            <svg width="200" height="200" viewBox="0 0 100 103" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M85.4809 64V88.3C79.6809 91.9 73.1809 94 67.6809 94C40.2809 94 15.6809 64.1 15.6809 33C15.6809 18.4 25.2809 6.9 41.9809 6.9C52.4809 6.9 72.8809 13.6 87.9809 29.8C88.4397 30.38 89.0149 30.8576 89.6693 31.2021C90.3238 31.5465 91.043 31.7502 91.7809 31.8C93.7809 31.8 94.9809 30.5 94.9809 28.2V2H91.2809V3C91.2809 6.6 89.1809 7.6 83.9809 6C73.5436 2.50408 62.5866 0.813193 51.5809 1C18.6809 1 0.580933 26.8 0.580933 52C0.580933 80.8 22.4809 103 51.5809 103C63.7289 102.914 75.5592 99.11 85.4809 92.1V102H99.9809V50H46.9809V64H85.4809Z" fill="white"/>
+            </svg>
+        </div>
+        <p class="modal-content__message">To support our nonprofit environmental journalism, please consider <a href="https://grist.org/how-to-whitelist-grist" target="_blank">disabling your ad-blocker</a> to allow ads on Grist. <a class="modal-content__link" target="_blank" href="https://grist.org/how-to-whitelist-grist"><span class="modal-content__link-text">Here's How</span><span class="icon-right-1"></span></a></p>
+    </div>
+</div></div>
+
+
+
+<p>“This is really something where none of us win if we all don’t win,” Geller said.&nbsp;&nbsp;</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p class="has-drop-cap">Most of the public focus on EV charging revolves around <a href="https://www.wsj.com/articles/whats-missing-in-the-electric-vehicle-revolution-enough-places-to-plug-in-except-tesla-11614380406">long trips</a>: whether there are enough chargers along highways for interstate road trips, for example, or whether electric cars have enough battery life to avoid “range anxiety.” But the average American only drives about <a href="https://newsroom.aaa.com/2015/04/new-study-reveals-much-motorists-drive/">30 miles per day</a>, a trip easily accomplished in any electric car as long as its battery can get filled up overnight.&nbsp;</p>
+
+
+
+<p>The vast majority of Americans with electric cars charge up at their homes. According to an estimate from the Department of Energy, over <a href="https://www.nytimes.com/2019/07/11/business/electric-vehicle-home-chargers.html">80 percent of EV charging</a> happens at the owner’s house. One simple reason is that it can take anywhere from two to 22 hours to fill up an empty battery. An electric car charging on a standard 120-volt outlet will replenish the battery by two to five miles of range every hour; a faster Level 2 charger can add 10 to 20 miles of range per hour. (DC fast charging can add a whopping 80 miles of range in 20 minutes.) While <a href="https://grist.org/energy/biden-wants-to-build-500000-ev-charging-stations-where-will-they-all-go/">public charging stations</a> are popping up at grocery stores, shopping malls, and community centers around the country, most EV owners don’t want to spend hours at a grocery store waiting for their cars to fill up.&nbsp;</p>
+
+
+
+<p>Faced with a lack of chargers in apartment buildings and rental houses, EV drivers have found creative workarounds. Some use high-gauge extension cords to connect a garage parking space to their electric car — with or without the approval of the landlord. One EV owner on Facebook recounted the story of a man in San Francisco who ran an extension cord out the window of his apartment building to his car parked on the street. (Car manufacturers recommend against the use of extension cords, which can overheat and create a fire risk.) Others drop their cars off at nearby dealerships or public chargers overnight and return to pick them up in the morning. Still others charge their cars up at the office before returning home.</p>
+
+
+
+<p>But for some Americans, the hassle of hunting for a charger turns them away from electric cars entirely. Behzad Dabu, a 35-year-old actor living in Los Angeles, told me that he considered buying a Tesla after moving into an apartment with an underground parking garage that had several 120-volt outlets available. But after reading his lease, Dabu realized that the building specifically barred tenants from plugging anything into the outlets in the garage. He ended up getting a hybrid instead.&nbsp;</p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-ups-image aligncenter"><div class="wp-block-ups-image-inner"><img src="https://grist.org/wp-content/uploads/2021/12/PXL_20211217_185526437.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://grist.org/wp-content/uploads/2021/12/PXL_20211217_185526437.jpg?w=1200 1200w, https://grist.org/wp-content/uploads/2021/12/PXL_20211217_185526437.jpg?w=330 330w, https://grist.org/wp-content/uploads/2021/12/PXL_20211217_185526437.jpg?w=1024 768w, https://grist.org/wp-content/uploads/2021/12/PXL_20211217_185526437.jpg?w=1200 1200w, https://grist.org/wp-content/uploads/2021/12/PXL_20211217_185526437.jpg?w=1536 1536w, https://grist.org/wp-content/uploads/2021/12/PXL_20211217_185526437.jpg?w=2048 2048w, https://grist.org/wp-content/uploads/2021/12/PXL_20211217_185526437.jpg?w=160&amp;h=90&amp;crop=1 160w, https://grist.org/wp-content/uploads/2021/12/PXL_20211217_185526437.jpg 1024w" alt="" data-caption="An outlet in an apartment parking garage in Seattle, Washington, is locked to prevent use.
+" data-credit="Kate Yoder"/><figcaption>An outlet in an apartment parking garage in Seattle, Washington, is locked to prevent use.
+ <cite>Kate Yoder</cite></figcaption></div></figure>
+
+
+
+<p>Some landlords and apartment owners are starting to offer EV charging as a key amenity for prospective renters. “It’s all about retaining tenants,” said Mark Dunec, the managing director of FTI Consulting, a real estate consulting firm. “Those landlords that will have charging stations, they’re going to be the ones to obtain tenants as people acquire and lease electric vehicles.”&nbsp;</p>
+
+
+
+<p>In some areas, this transition is occurring quickly. Christian Molino, a virtual design and construction engineer with a Tesla Model 3, looked for apartments in Orlando, Florida, earlier this year that specifically included EV charging. “If they didn’t have charging they got scratched right off the list,” he said. He estimates that around 25 to 30 percent of the buildings he looked at had chargers; all the rest had plans to install charging over the next several years. He eventually settled on a spot that had four Level 2 chargers in the apartment garage — about one for each of the EV owners in the building.&nbsp;</p>
+
+
+
+<p>But according to Mike Nicholas, a researcher for the electric vehicle program at the International Council on Clean Transportation, apartment buildings with chargers tend to be on the higher end or luxury side. Most landlords, he said, “just don’t know about it, or find it confusing.”&nbsp;</p>
+
+
+<div class="wp-block-in-article-recirc">
+  <article class="in-article-recirc">
+    <span class="in-article-recirc__label">Read Next</span>
+    <div class="in-article-recirc__content">
+            
+              <figure class="in-article-recirc__art">
+          <img src=https://grist.org/wp-content/uploads/2021/02/ev-money.jpg alt="A photo collage of repeated images of a United States Treasury check and an electric car plugged into a charger."  class="js-modal-gallery__hidden"/>
+        </figure>
+            <div class="in-article-recirc__body">
+        <div class="in-article-recirc__title">
+                    <a class="in-article-recirc__title-link" href="https://grist.org/energy/the-ev-tax-credit-can-save-you-thousands-if-youre-rich-enough/">The EV tax credit can save you thousands &#8212; if you’re rich enough</a>
+        </div>
+        <div class="in-article-recirc__meta">
+          
+  <div class="tease-meta">
+                            <a class="byline-link" href=https://grist.org/author/shannon-osaka/>Shannon Osaka</a>              </div>
+        </div>
+      </div>
+    </div>
+  </article>
+</div>
+
+
+<p>Some have suggested that installing more superfast chargers around the country could be the solution. The Biden administration, for example, has <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2021/04/22/fact-sheet-biden-administration-advances-electric-vehicle-charging-infrastructure/">emphasized</a> that fast, public chargers could help fill in the gaps for Americans without off-street parking. But fast charging is up to four times more expensive than home charging &#8212; meaning that lower-income households won’t get the full benefit of having an electric car. “In some cases, fast charging could end up costing more than gas,” Nicholas said.&nbsp;</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p class="has-drop-cap">After a few weeks of tussling with property managers at Fort Carson, Wilkinson gave the leasing office a copy of Colorado Title 38, Article 12, Part 6, which gives tenants the right to install charging at their apartments or rented homes. Wilkinson said he offered the leasing manager three options: comply with the state’s “right-to-charge” law, end his lease without penalty, or meet him and his husband in court.</p>
+
+
+
+<p>The property managers complied, ultimately agreeing to install a Level 2 charger for Wilkinson’s Chevy Bolt two months after his first request. (He had replaced the Nissan Leaf after an accident). They even agreed to pay most of the cost of the installation: Wilkinson’s share came to about $500.&nbsp;</p>
+
+
+
+
+
+
+
+  <figure class="wp-block-gallery alignwide is-cropped">
+    <ul class="blocks-gallery-grid">
+              <li class="blocks-gallery-item">
+          <figure>
+            
+<div class="article-asset-mod">
+      <img
+      class="article-asset "
+      src="https://grist.org/wp-content/uploads/2021/12/EV-charger-set-up-2.jpeg"
+      alt="a gray electric car packed into a wall unit"
+      data-caption=""
+      data-credit="Courtesy of Bradley Wilkinson"
+    />
+  </div>
+          </figure>
+        </li>
+              <li class="blocks-gallery-item">
+          <figure>
+            
+<div class="article-asset-mod">
+      <img
+      class="article-asset "
+      src="https://grist.org/wp-content/uploads/2021/12/EV-charger-set-up-1.jpeg"
+      alt=""
+      data-caption=""
+      data-credit="Courtesy of Bradley Wilkinson"
+    />
+  </div>
+          </figure>
+        </li>
+          </ul>
+
+    
+
+          <div class="wp-block-ups-image">
+        <figcaption> <p>Bradley Wilkinson&#8217;s electric vehicle charges outside the quadruplex where he lives. Images courtesy of Bradley Wilkinson.</p>
+ </figcaption>
+      </div>
+    
+  </figure>
+
+
+
+
+<p>“Right-to-charge” laws are currently on the books in Colorado and <a href="https://pluginsites.org/legislation-reference-recharging-equipment-at-multi-unit-housing/">eight other states</a>: Maryland, New Jersey, Virginia, New York, Florida, Oregon, Hawaii, and California. While they can help tenants, as in Wilkinson’s case, they also come with drawbacks. Most require tenants to pay for the entire cost of the charger installation, which for Level 2 charging can cost between $1,000 and $3,000. “The financial burden falls on the EV owner,” Nicholas said. Because renters often only sign one- to two-year leases, he added, “they can’t really get the benefits over a long period of time.”&nbsp;</p>
+
+
+
+<p>Other potential fixes are still in progress. The bipartisan infrastructure bill, which Biden signed into law last month, includes $7.5 billion dedicated to electric charging and alternative fuel infrastructure, but there’s still little information about what kind of chargers will be built and where. According to a <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/13/fact-sheet-the-biden-harris-electric-vehicle-charging-action-plan/">fact sheet</a> from the White House this week, the funds will prioritize building public chargers in “rural, disadvantaged, and hard-to-reach locations.”&nbsp;</p>
+
+
+
+<p>Another option is for cities and states to revamp their building codes: In 2017, for example, San Francisco <a href="https://theicct.org/sites/default/files/publications/EV_charging_guide_02262020.pdf">mandated that</a> all new residential or commercial buildings be “<a href="https://theicct.org/sites/default/files/publications/EV_charging_guide_02262020.pdf">EV ready</a>” starting the following year, with enough electrical capacity for cars to charge in at least 20 percent of the parking spots. Though that doesn’t mean that the building owners have to install chargers, it does dramatically cut costs should they decide to do so later on. EV advocates are pushing the <a href="https://www.marinij.com/2021/11/29/california-voice-state-must-ensure-ev-charging-access-for-all/">entire state of California</a> to do the same in its new building codes. Similar moves are happening abroad: The U.K. government <a href="https://www.reuters.com/business/cop/uk-require-charge-points-electric-vehicles-new-buildings-2021-11-21/">announced new rules</a> last month that would require EV chargers to be installed in all new residential and commercial buildings.&nbsp;</p>
+
+
+
+<p>A few startups are also trying to help accelerate the shift. Companies like <a href="https://www.plugzio.com/">Plugzio</a> in Richmond, Canada, and <a href="https://www.orangecharger.com/">Orange</a> in San Mateo, California, provide easy-to-install, cheap charging ports that allow landlords to easily monitor and charge tenants for electricity costs. And some cities are working on developing on-street charging for EV owners who don’t have access to off-street parking. Nicholas points to the example of Amsterdam, where the city government ran a program to provide <a href="https://cleantechnica.com/2015/07/08/amsterdam-ev-charging-how-it-works-original-videos/">on-street charging systems</a> for free to residents who asked for them. In London, Siemens and a German company called Ubitricity have started converting lamp posts into charging stations for curbside parking. The city of Seattle, Washington, offers <a href="https://www.seattle.gov/Documents/Departments/SDOT/CAMs/CAM2119.pdf">a lower-tech solution</a>: Residents are allowed to run an extension cable over the sidewalk with a cord cover on it.&nbsp;</p>
+
+
+
+<p>Geller hopes that policymakers will focus on such easy, cheap solutions — more 120-volt outlets, for example, rather than installing lots of expensive Level 2 or DC fast chargers. But ultimately, he says, Americans just need more chargers in their homes. Although 90 percent of the media conversation is about public charging, he says, 90 percent of charging happens at home.&nbsp;</p>
+
+
+
+<p>“I’ve met and talked to too many people who really wanted to do the right thing,” Geller said. “They got an electric car, then had to rely on public charging — and it was just a burden.” Some of those drivers, he says, ended up giving up their electric cars. And they aren’t alone: According to a 2015 <a href="https://www.nature.com/articles/s41560-021-00814-9.epdf?sharing_token=uF_2e31XTz7IdZatbzc2n9RgN0jAjWel9jnR3ZoTv0OdQo1MtvaTf2fRd9Yuvl4XeI57cinWGD0KaEwg1kf5THhCyeCk3r2oBBFOSmxwPbmP0qC6zHJ87gfQNLGiweb_Ea1e6LlFPBHPCoZ_WO4gyXhTae0rZ7jUJ1X6COdfcI1XGB1s_GpyHsXFrZ8kfVdgiDUVELizUFlWo69AA2XYSm27uS_KovYj15euvibQ6-0%3D&amp;tracking_referrer=arstechnica.com">study</a> from researchers at the University of California, Davis, 1 out of 5 EV drivers switches back to a gas-powered vehicle. The top reason? Dissatisfaction with the convenience of charging.&nbsp;</p>
+
+
+
+<p>Wilkinson doesn’t regret his decision to go electric, even though it’s forced him to jump through hoops to get his car charged at home. “I remind myself that my experience is going to help people that are in a position like me 15, 20 years from now,” he said. Since his tussle with the leasing manager, three other EV chargers have been installed at homes in Fort Carson.</p>
+
+  <hr class="wp-block-separator" />
+</div>
+                  
+<div class="ad-article-footer ">
+  
+<div class="membership-ad js-membership-ad">
+
+  
+
+  
+      <h2 class="membership-ad__title">Support solutions-based climate news</h2>
+  
+      <div class="membership-ad__desc">
+      <p>The only newsroom focused on exploring solutions at the intersection of climate and justice. Our in-depth approach to solutions-based journalism takes time and proactive planning, which is why Grist depends on reader support. Your gifts keep our unbiased, nonprofit news site free.</p>
+
+    </div>
+    <div class="membership-ad__desc membership-ad__desc_mobile">
+      <p>The only newsroom focused on exploring solutions at the intersection of climate and justice. Your support keeps our unbiased, nonprofit news free.</p>
+
+    </div>
+  
+  
+      <a href=https://donate.grist.org/memberform?campaign=7014T000000DrEb&utm_campaign=fy23-membership&utm_source=wordpress-unit&utm_medium=site&utm_content=end-of-article
+      class="red-button button"
+      onmouseover="this.style.color='#000000'" onmouseout="this.style.color='#FFFFFF'"
+      style=background-color:#F5515B;color:#FFFFFF
+      onMouseOver="this.style.color='#bottom'"
+      onMouseOut="this.style.color='#FFFFFF'"
+      >
+      <span>Donate Now </span>
+    </a>
+  
+      <a href=https://donate.grist.org/memberform?campaign=7014T000000DrEb&utm_campaign=fy23-membership&utm_source=wordpress-unit&utm_medium=site&utm_content=end-of-article class="button membership-ad__close">
+      <span>Not Now</span>
+    </a>
+  
+</div>
+</div>
+                          
+<article class="next-article">
+      <span class="next-article__label">Next Article</span>
+        
+
+
+  <a class="tease-art tease-art--image" href="https://grist.org/climate-energy/coal-isnt-dying-yet-2021-brought-a-record-surge-in-use/" tabindex="-1">
+      <figure class="tease-art__figure  ">
+              
+        <img
+          data-src='https://grist.org/wp-content/uploads/2021/12/coal2021.jpeg?w=1024'
+          alt="Smoke billows from smokestacks and a coal fired generator at a steel factory."
+          class="tease-art__art js-modal-gallery__hidden lazyload"
+        />
+        </figure>
+
+
+  </a>
+    <h3 class="next-article__title">
+      <a class="next-article__link" href="https://grist.org/climate-energy/coal-isnt-dying-yet-2021-brought-a-record-surge-in-use/">Coal isn&#8217;t dying yet. 2021 brought a record surge in use.</a>
+    </h3>
+    <div class="next-article__contributor-info">
+      
+    <div class="contributor-info contributor-info--in-tease">
+                      
+              <figure class="contributor-info__headshot">
+          <a href="https://grist.org/author/maria-paula-rubiano/">
+            <figure class="headshot lazyload" data-bg="https://grist.org/wp-content/uploads/2021/10/maria-paula-e1634161522170.jpg" role="img" aria-label="María Paula Rubiano A. Headshot"></figure>
+          </a>
+        </figure>
+          
+    
+    <span class="contributor-info__text">
+      <span class="contributor-info__name">
+                  <a class="byline-link" href=https://grist.org/author/maria-paula-rubiano/>María Paula Rubiano A.</a>        </span>
+                    <span class="contributor-info__more">
+                      <a href=/climate-energy/>Climate &amp; Energy</a>
+                  </span>
+      
+            </span>
+  </div>
+
+
+
+    </div>
+  </article>
+              </div>
+
+              
+  <div class="article-ad-rail">
+    
+<div class="ad-rail">
+      <figure class="ad-rail__ad-placement  is-empty">
+        <div id="div-gpt-ad-1607548573409-0" style='max-width: 300px;'>
+        
+                        <script>
+                googletag.cmd.push(function() {
+                    googletag.display("div-gpt-ad-1607548573409-0");
+                });
+            </script>
+
+                </div>
+
+        <figcaption class="ad-sponsor-note"><p>Grist thanks its sponsors. <a href="https://grist.org/advertising/" target="_blank" rel="noopener">Become one</a>.</p>
+</figcaption>
+    </figure>
+
+      <figure class="ad-rail__ad-placement ad-rail__ad-placement--sticky is-empty">
+        <div id="div-gpt-ad-1607548724302-0" style='max-width: 300px;'>
+        
+                        <script>
+                googletag.cmd.push(function() {
+                    googletag.display("div-gpt-ad-1607548724302-0");
+                });
+            </script>
+
+                </div>
+
+        <figcaption class="ad-sponsor-note"><p>Grist thanks its sponsors. <a href="https://grist.org/advertising/" target="_blank" rel="noopener">Become one</a>.</p>
+</figcaption>
+    </figure>
+
+  
+</div>
+<div class="ad-rail__ad-placeholder">
+    <div id="grist_adblock_modal" class="grist-modal-ad-blocker">
+    <div class="modal-content">
+                <div class="modal-content__logo">
+            <svg width="200" height="200" viewBox="0 0 100 103" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M85.4809 64V88.3C79.6809 91.9 73.1809 94 67.6809 94C40.2809 94 15.6809 64.1 15.6809 33C15.6809 18.4 25.2809 6.9 41.9809 6.9C52.4809 6.9 72.8809 13.6 87.9809 29.8C88.4397 30.38 89.0149 30.8576 89.6693 31.2021C90.3238 31.5465 91.043 31.7502 91.7809 31.8C93.7809 31.8 94.9809 30.5 94.9809 28.2V2H91.2809V3C91.2809 6.6 89.1809 7.6 83.9809 6C73.5436 2.50408 62.5866 0.813193 51.5809 1C18.6809 1 0.580933 26.8 0.580933 52C0.580933 80.8 22.4809 103 51.5809 103C63.7289 102.914 75.5592 99.11 85.4809 92.1V102H99.9809V50H46.9809V64H85.4809Z" fill="white"/>
+            </svg>
+        </div>
+        <p class="modal-content__message">To support our nonprofit environmental journalism, please consider <a href="https://grist.org/how-to-whitelist-grist" target="_blank">disabling your ad-blocker</a> to allow ads on Grist. <a class="modal-content__link" target="_blank" href="https://grist.org/how-to-whitelist-grist"><span class="modal-content__link-text">Here's How</span><span class="icon-right-1"></span></a></p>
+    </div>
+</div>
+</div>
+  </div>
+      
+          </div>
+  </article>
+        <section class="side-by-side-collections">
+      <div class="side-by-side-collection">
+      <div class="side-by-side-collection__header">
+        <h2 class="subsection-header">
+  Transportation
+  </h2>
+      </div>
+      <div class="side-by-side-collection__content">
+        <div class="side-by-side-collection__featured-tease">
+            <article class="small-tease">
+      
+
+
+  <a class="tease-art tease-art--image" href="https://grist.org/transportation/net-zero-aviation-united-nations-icao-corsia/" tabindex="-1">
+      <figure class="tease-art__figure  ">
+              
+        <img
+          data-src='https://grist.org/wp-content/uploads/2022/10/Heathrow-ICAO.jpg?w=1024'
+          alt=""
+          class="tease-art__art js-modal-gallery__hidden lazyload"
+        />
+        </figure>
+
+
+  </a>
+  
+  
+    <h3 class="small-tease__title js-cursor-target">
+    <a class="small-tease__link" href="https://grist.org/transportation/net-zero-aviation-united-nations-icao-corsia/">
+            UN countries adopt ‘aspirational’ net-zero goal for aviation
+    </a>
+  </h3>
+  
+  
+      
+  <div class="tease-meta">
+                  
+    <div class="contributor-info contributor-info--in-tease">
+                      
+              <figure class="contributor-info__headshot">
+          <a href="https://grist.org/author/jake-bittle/">
+            <figure class="headshot lazyload" data-bg="https://grist.org/wp-content/uploads/2021/07/Jake_Bittle_12.jpg" role="img" aria-label="Jake Bittle Headshot"></figure>
+          </a>
+        </figure>
+          
+    
+    <span class="contributor-info__text">
+      <span class="contributor-info__name">
+                  <a class="byline-link" href=https://grist.org/author/jake-bittle/>Jake Bittle</a>        </span>
+            
+            </span>
+  </div>
+
+
+
+            </div>
+  
+  
+</article>
+        </div>
+        <ul class="side-by-side-collection__more-teases">
+                      <li class="side-by-side-collection__tease">
+              <article class="compact-tease">
+  <h3 class="compact-tease__title js-cursor-target">
+        <a class="compact-tease__link" href="https://grist.org/transportation/new-york-state-bans-sales-new-gas-powered-cars-2035/">New York is the latest state to ban sales of new gas-powered vehicles by 2035</a>
+  </h3>
+      <div class="compact-tease__meta">
+      
+  <div class="tease-meta">
+                            <a class="byline-link" href=https://grist.org/author/brett-marsh/>Brett Marsh</a>              </div>
+    </div>
+  </article>
+            </li>
+                      <li class="side-by-side-collection__tease">
+              <article class="compact-tease">
+  <h3 class="compact-tease__title js-cursor-target">
+        <a class="compact-tease__link" href="https://grist.org/transportation/how-ensure-theres-electric-car-equity/">To ensure access to electric cars, some activists are calling attention to &#8216;charging deserts&#8217;</a>
+  </h3>
+      <div class="compact-tease__meta">
+      
+  <div class="tease-meta">
+                            <a class="byline-link" href=https://grist.org/author/brett-marsh/>Brett Marsh</a>              </div>
+    </div>
+  </article>
+            </li>
+                      <li class="side-by-side-collection__tease">
+              <article class="compact-tease">
+  <h3 class="compact-tease__title js-cursor-target">
+        <a class="compact-tease__link" href="https://grist.org/cities/nyc-may-ban-e-bikes-in-public-housing-following-a-spate-of-fires/">NYC may ban e-bikes in public housing following a spate of fires</a>
+  </h3>
+      <div class="compact-tease__meta">
+      
+  <div class="tease-meta">
+                            <a class="byline-link" href=https://grist.org/author/maria-gallucci/>Maria Gallucci</a>              </div>
+    </div>
+  </article>
+            </li>
+                  </ul>
+      </div>
+    </div>
+      <div class="side-by-side-collection">
+      <div class="side-by-side-collection__header">
+        <h2 class="subsection-header">
+  Latest
+  </h2>
+      </div>
+      <div class="side-by-side-collection__content">
+        <div class="side-by-side-collection__featured-tease">
+            <article class="small-tease">
+      
+
+
+  <a class="tease-art tease-art--image" href="https://grist.org/fix/climate-fiction/imagine-2200-metamorphosis-of-marie-martin/" tabindex="-1">
+      <figure class="tease-art__figure  ">
+              
+        <img
+          data-src='https://grist.org/wp-content/uploads/2022/10/Imagine2200_TheMetamorphosisOfMarieMartin.webp?w=1024'
+          alt=""
+          class="tease-art__art js-modal-gallery__hidden lazyload"
+        />
+        </figure>
+
+
+  </a>
+  
+  
+    <h3 class="small-tease__title js-cursor-target">
+    <a class="small-tease__link" href="https://grist.org/fix/climate-fiction/imagine-2200-metamorphosis-of-marie-martin/">
+            CLI-FI: The metamorphosis of Marie Martin￼
+    </a>
+  </h3>
+  
+  
+      
+  <div class="tease-meta">
+                  
+    <div class="contributor-info contributor-info--in-tease">
+                      
+          
+    
+    <span class="contributor-info__text">
+      <span class="contributor-info__name">
+                  <a class="byline-link" href=https://grist.org/author/fix-staff/>Fix staff</a>        </span>
+            
+            </span>
+  </div>
+
+
+
+            </div>
+  
+  
+</article>
+        </div>
+        <ul class="side-by-side-collection__more-teases">
+                      <li class="side-by-side-collection__tease">
+              <article class="compact-tease">
+  <h3 class="compact-tease__title js-cursor-target">
+        <a class="compact-tease__link" href="https://grist.org/energy/will-gulf-offshore-wind-bring-good-paying-union-jobs-texas-workers-arent-so-sure/">Will offshore wind bring ‘good-paying, union jobs’? Texas workers aren’t so sure.</a>
+  </h3>
+      <div class="compact-tease__meta">
+      
+  <div class="tease-meta">
+                            <a class="byline-link" href=https://grist.org/author/emily-pontecorvo/>Emily Pontecorvo</a>              </div>
+    </div>
+  </article>
+            </li>
+                      <li class="side-by-side-collection__tease">
+              <article class="compact-tease">
+  <h3 class="compact-tease__title js-cursor-target">
+        <a class="compact-tease__link" href="https://grist.org/international/cop27-scotland-climate-reparations-loss-and-damage/">‘A moral responsibility’: Scotland calls for climate reparations ahead of COP27</a>
+  </h3>
+      <div class="compact-tease__meta">
+      
+  <div class="tease-meta">
+                            <a class="byline-link" href=https://grist.org/author/naveena-sadasivam/>Naveena Sadasivam</a>              </div>
+    </div>
+  </article>
+            </li>
+                      <li class="side-by-side-collection__tease">
+              <article class="compact-tease">
+  <h3 class="compact-tease__title js-cursor-target">
+        <a class="compact-tease__link" href="https://grist.org/accountability/abandoned-texas-oil-wells-are-blowing-out-the-state-wont-fix-them/">Abandoned Texas oil wells are blowing out. The state won&#8217;t fix them.</a>
+  </h3>
+      <div class="compact-tease__meta">
+      
+  <div class="tease-meta">
+                            <a class="byline-link" href=https://grist.org/author/amal-ahmed/>Amal Ahmed</a>              </div>
+    </div>
+  </article>
+            </li>
+                  </ul>
+      </div>
+    </div>
+  </section>
+  
+  <div class="modal-gallery js-modal-gallery__root" aria-hidden="true">
+  <h2 id="modal-gallery-title" hidden>Modal Gallery</h2>
+
+  <div class="modal-gallery__close">
+    <button class="close-button js-modal-gallery__close" aria-label="Close menu">
+  <svg class="close-button__icon">
+    <use xlink:href="#close"></use>
+  </svg>
+</button>
+  </div>
+
+  <div class="modal-gallery__slides">
+    <div
+      class="modal-gallery__slide modal-gallery__slide--active js-modal-gallery__slide--active"
+      aria-labelledby="modal-gallery__caption modal-gallery__credit"
+    >
+    </div>
+  </div>
+
+  <div class="modal-gallery__controls">
+    <button class="modal-gallery__button modal-gallery__button--previous js-modal-gallery__previous" aria-label="Previous slide">
+      <svg>
+        <use xlink:href="#arrow-left"></use>
+      </svg>
+    </button>
+    <button class="modal-gallery__button modal-gallery__button--next js-modal-gallery__next" aria-label="Next slide">
+      <svg>
+        <use xlink:href="#arrow-right"></use>
+      </svg>
+    </button>
+  </div>
+
+  <div class="modal-gallery__info">
+    <div class="modal-gallery___count">
+      <span class="modal-gallery___count__current js-modal-gallery__count--current"></span> <span class="modal-gallery___count__slash">/</span> <span class="modal-gallery___count__total js-modal-gallery__count--total"></span>
+    </div>
+    <div class="modal-gallery__dek">
+      <span id="modal-gallery__caption" class="modal-gallery__caption js-modal-gallery__caption"></span>
+      <span id="modal-gallery__credit" class="modal-gallery__credit js-modal-gallery__credit"></span>
+    </div>
+  </div>
+</div>
+      </main>
+
+                        <footer class="footer js-footer">
+  
+  <div class="footer__cta-wrapper">
+    <div class="footer__cta">
+      <p><span style="font-weight: 400;">The only newsroom focused on exploring solutions at the intersection of climate and justice. Donate today to help keep Grist’s site and newsletters free. </span></p>
+
+                      <a href=https://donate.grist.org/memberform?campaign=7014T000000DrEl&utm_campaign=fy23-membership&utm_source=wordpress-unit&utm_medium=site&utm_content=site-footer
+          class="button"
+          style=background-color:#F5515B;color:#FFFFFF
+          onMouseOver="this.style.color='#000000'"
+          onMouseOut="this.style.color='#FFFFFF'"
+          >
+          <span>Support Grist</span>
+        </a>
+          </div>
+  </div>
+
+<div class="footer__primary " >
+      
+      <div class="footer__nav">
+  <h2 class="subsection-header">
+  Topics
+  </h2>
+  <ul class="footer__nav-list">
+          <li class="footer__nav-item">
+          <a href="/energy/" class="footer__nav-link menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-500864 ">Energy</a>
+      </li>
+          <li class="footer__nav-item">
+          <a href="/politics/" class="footer__nav-link menu-item menu-item-type-taxonomy menu-item-object-category menu-item-500699 ">Politics</a>
+      </li>
+          <li class="footer__nav-item">
+          <a href="/ask-umbra-series/" class="footer__nav-link menu-item menu-item-type-taxonomy menu-item-object-category menu-item-500863 ">Ask Umbra</a>
+      </li>
+      </ul>
+</div>
+  
+      <div class="footer__nav">
+  <h2 class="subsection-header">
+  Company
+  </h2>
+  <ul class="footer__nav-list">
+          <li class="footer__nav-item">
+          <a href="https://grist.org/about/" class="footer__nav-link menu-item menu-item-type-post_type menu-item-object-page menu-item-500704 ">About</a>
+      </li>
+          <li class="footer__nav-item">
+          <a href="https://grist.org/team/" class="footer__nav-link menu-item menu-item-type-post_type menu-item-object-page menu-item-500706 ">Team</a>
+      </li>
+          <li class="footer__nav-item">
+          <a href="https://grist.org/contact/" class="footer__nav-link menu-item menu-item-type-post_type menu-item-object-page menu-item-500757 ">Contact</a>
+      </li>
+          <li class="footer__nav-item">
+          <a href="https://grist.org/careers/" class="footer__nav-link menu-item menu-item-type-post_type menu-item-object-page menu-item-500866 ">Careers</a>
+      </li>
+          <li class="footer__nav-item">
+          <a href="https://grist.org/fellowships/" class="footer__nav-link menu-item menu-item-type-post_type menu-item-object-page menu-item-500707 ">Fellowships</a>
+      </li>
+          <li class="footer__nav-item">
+          <a href="https://grist.org/pressroom/" class="footer__nav-link menu-item menu-item-type-post_type menu-item-object-page menu-item-500868 ">Pressroom</a>
+      </li>
+          <li class="footer__nav-item">
+          <a href="https://grist.org/series/diversity-equity-inclusion-justice/" class="footer__nav-link menu-item menu-item-type-taxonomy menu-item-object-series menu-item-569824 ">DEIJ</a>
+      </li>
+      </ul>
+</div>
+  
+      <div class="footer__nav">
+  <h2 class="subsection-header">
+  More
+  </h2>
+  <ul class="footer__nav-list">
+          <li class="footer__nav-item">
+          <a href="http://grist.org/fix" class="footer__nav-link menu-item menu-item-type-custom menu-item-object-custom menu-item-500711 ">Fix</a>
+      </li>
+          <li class="footer__nav-item">
+          <a href="https://grist.org/events/" class="footer__nav-link menu-item menu-item-type-post_type menu-item-object-page menu-item-508151 ">Events</a>
+      </li>
+          <li class="footer__nav-item">
+          <a href="https://grist.org/visionaries/" class="footer__nav-link menu-item menu-item-type-post_type menu-item-object-page menu-item-500884 ">Visionaries Bureau</a>
+      </li>
+          <li class="footer__nav-item">
+          <a href="http://grist.org/membership" class="footer__nav-link menu-item menu-item-type-custom menu-item-object-custom menu-item-500869 ">Become a Member</a>
+      </li>
+          <li class="footer__nav-item">
+          <a href="https://grist.org/advertising/" class="footer__nav-link menu-item menu-item-type-post_type menu-item-object-page menu-item-530512 ">Advertising</a>
+      </li>
+          <li class="footer__nav-item">
+          <a href="https://grist.org/about/promote/" class="footer__nav-link menu-item menu-item-type-post_type menu-item-object-page menu-item-557771 ">Republish</a>
+      </li>
+          <li class="footer__nav-item">
+          <a href="#" class="footer__nav-link grist-accessibility menu-item menu-item-type-custom menu-item-object-custom menu-item-549141 ">Accessibility</a>
+      </li>
+      </ul>
+</div>
+  
+  
+      <div class="footer__commitment">
+      <div class="footer__commitment-title">
+        <h2 class="subsection-header">
+  Sustainability
+  </h2>
+      </div>
+      <div class="footer__commitment-text"><p><span style="font-weight: 400;">As part of our commitment to sustainability, in 2021 Grist moved its office headquarters to the Bullitt Center in Seattle’s vibrant Capitol Hill neighborhood. Known as one of the greenest commercial buildings in the world, since it opened its doors on Earth Day in 2013 the Bullitt Center has been setting a new standard for sustainable design. </span></p>
+</div>
+    </div>
+  </div>
+
+<div class="footer__meta">
+  <p class="footer__copyright">
+    <span>© 1999-2022 Grist Magazine, Inc. All rights reserved.</span>
+    <span>Grist is powered by <a href="https://wpvip.com/?utm_source=vip_powered_wpcom&#038;utm_medium=web&#038;utm_campaign=VIP%20Footer%20Credit&#038;utm_term=grist.org" rel="generator nofollow" class="powered-by-wpcom">WordPress VIP</a>.</span>
+    <span>Design and build by <a href="https://upstatement.com/">Upstatement</a>.</span>
+    <span><a href="https://grist.org/terms/">Terms of Use</a> | <a href="https://grist.org/about/privacy">Privacy Policy</a></span>
+  </p>
+
+  <svg class="footer__monogram">
+    <use xlink:href="#grist-monogram"></use>
+  </svg>
+
+    <ul class="footer__social">
+              <li class="footer__social-item">
+        <a href="https://www.facebook.com/grist.org/" class="footer__social-item__link">
+          <span class="footer__social-item__text visually-hidden">Follow us on
+            Facebook
+          </span>
+                      <svg class="footer__social-item__icon">
+              <use xlink:href="#facebook"></use>
+            </svg>
+                  </a>
+      </li>
+          <li class="footer__social-item">
+        <a href="https://twitter.com/grist" class="footer__social-item__link">
+          <span class="footer__social-item__text visually-hidden">Follow us on
+            Twitter
+          </span>
+                      <svg class="footer__social-item__icon">
+              <use xlink:href="#twitter"></use>
+            </svg>
+                  </a>
+      </li>
+          <li class="footer__social-item">
+        <a href="https://www.instagram.com/grist" class="footer__social-item__link">
+          <span class="footer__social-item__text visually-hidden">Follow us on
+            Instagram
+          </span>
+                      <svg class="footer__social-item__icon">
+              <use xlink:href="#instagram"></use>
+            </svg>
+                  </a>
+      </li>
+          <li class="footer__social-item">
+        <a href="https://www.youtube.com/channel/UC7ga3FLMFOOpMQwaYoW42bw" class="footer__social-item__link">
+          <span class="footer__social-item__text visually-hidden">Follow us on
+            YouTube
+          </span>
+                      <svg class="footer__social-item__icon">
+              <use xlink:href="#youtube"></use>
+            </svg>
+                  </a>
+      </li>
+          </ul>
+</div>
+<ul class="gdpr-sidebar">
+    <li id="eu_cookie_law_widget-2" class="widget widget_eu_cookie_law_widget">
+<div
+	class="hide-on-button"
+	data-hide-timeout="30"
+	data-consent-expiration="180"
+	id="eu-cookie-law"
+>
+	<form method="post">
+		<input type="submit" value="Accept" class="accept" />
+	</form>
+
+	Grist.org uses cookies for enhanced user experience, and for analyzing the site&#039;s performance and traffic. Grist may share information about your use of our website with social media partners  and analytics partners.
+		<a href="https://grist.org/about/privacy/" rel="">
+		Privacy Policy	</a>
+</div>
+</li><span id="eu-cookie-law-close">X</span>
+</ul>
+
+</footer>
+              
+      <div class="video-modal js-video-modal" aria-hidden="true">
+  <div class="video-modal__inner js-model-inner">
+    <div class="video-modal__close">
+      <button class="close-button js-modal-close" aria-label="Close menu">
+  <svg class="close-button__icon">
+    <use xlink:href="#close"></use>
+  </svg>
+</button>
+    </div>
+    <figure class="video-modal__video">
+      <iframe width="560" height="315" frameborder="0" allowfullscreen playinline allow='autoplay'></iframe>
+    </figure>
+    <div class="video-modal__share-tools">
+      <span class="video-modal__share-label">Share This Video:</span>
+      <a class="video-modal__share-link js-video-twitter-share" href="#" target="_blank"><svg><use xlink:href="#twitter"></use></svg></a>
+      <a class="video-modal__share-link js-video-facebook-share" href="#" target="_blank"><svg><use xlink:href="#facebook"></use></svg></a>
+    </div>
+  </div>
+  <div class="video-modal__mask"></div>
+</div>
+    </div>
+  </div>
+
+  <script>(function(){ var s = document.createElement('script'), e = ! document.body ? document.querySelector('head') : document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : 'Accessibility', hideMobile : true, hideTrigger : true, language : 'en', position : 'left', leadColor : '#383838', triggerColor : '#383838', triggerRadius : '50%', triggerPositionX : 'right', triggerPositionY : 'bottom', triggerIcon : 'people', triggerSize : 'medium', triggerOffsetX : 20, triggerOffsetY : 20, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'bottom', triggerOffsetX : 10, triggerOffsetY : 10, triggerRadius : '50%' } }); }; e.appendChild(s);}());</script>        <!-- Hotjar Tracking Code for grist.org -->
+        <script>
+            (function (h, o, t, j, a, r) {
+                h.hj = h.hj || function () {
+                    (h.hj.q = h.hj.q || []).push(arguments)
+                };
+                h._hjSettings = {hjid: 18764, hjsv: 6};
+                a = o.getElementsByTagName('head')[0];
+                r = o.createElement('script');
+                r.async = 1;
+                r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+                a.appendChild(r);
+            })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
+        </script>
+		        <script>(function() {var po = document.createElement("script"); po.type = "text/javascript"; po.async = true; po.src = "https://api.at.getsocial.io/get/v1/8398eac9/gs_async.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(po, s); })();</script>
+        <link rel='stylesheet' id='gform_basic-css'  href='https://grist.org/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.6.3.2' media='all' />
+<link rel='stylesheet' id='gform_theme_components-css'  href='https://grist.org/wp-content/plugins/gravityforms/assets/css/dist/theme-components.min.css?ver=2.6.3.2' media='all' />
+<link rel='stylesheet' id='gform_theme_ie11-css'  href='https://grist.org/wp-content/plugins/gravityforms/assets/css/dist/theme-ie11.min.css?ver=2.6.3.2' media='all' />
+<link rel='stylesheet' id='gform_theme-css'  href='https://grist.org/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.6.3.2' media='all' />
+<script src='https://grist.org/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/hooks.min.js?ver=c6d64f2cb8f5c6bb49caca37f8828ce3' id='wp-hooks-js'></script>
+<script src='https://grist.org/wp-content/plugins/wp-parsely/build/loader.js?ver=84ad2ee25e7d3d6bc2142b281f26aed8' id='wp-parsely-loader-js'></script>
+<script data-parsely-site="grist.org" src='https://cdn.parsely.com/keys/grist.org/p.js?ver=3.3.2' id="parsely-cfg"></script>
+<script src='https://grist.org/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19' id='lodash-js'></script>
+<script id='lodash-js-after'>
+window.lodash = _.noConflict();
+</script>
+<script src='https://grist.org/wp-includes/js/dist/autop.min.js?ver=21d1d6c005241b908b592f52ad684a28' id='wp-autop-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/blob.min.js?ver=87cf2365cd719a6954f1e2bb8bcc692a' id='wp-blob-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/block-serialization-default-parser.min.js?ver=8ee151736a1e51db2bafbb61ddd60634' id='wp-block-serialization-default-parser-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/vendor/react.min.js?ver=17.0.1' id='react-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/deprecated.min.js?ver=96593d5d272d008fbcb6912fa0b86778' id='wp-deprecated-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/dom.min.js?ver=3c10edc1abf3fbbc79f17fd7d1d332eb' id='wp-dom-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/vendor/react-dom.min.js?ver=17.0.1' id='react-dom-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/escape-html.min.js?ver=00a5735837e9efe13da1d979f16a7105' id='wp-escape-html-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/element.min.js?ver=3dfdc75a0abf30f057df44e9a39abe5b' id='wp-element-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/is-shallow-equal.min.js?ver=649feec00389556f8015a6b97efc1cb1' id='wp-is-shallow-equal-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/i18n.min.js?ver=ebee46757c6a411e38fd079a7ac71d94' id='wp-i18n-js'></script>
+<script id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script src='https://grist.org/wp-includes/js/dist/keycodes.min.js?ver=84a0e6bbcf0b9e1ea0184c3f2bf28022' id='wp-keycodes-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/priority-queue.min.js?ver=efad6460ae6b28406d39866cb10731e0' id='wp-priority-queue-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/compose.min.js?ver=e52c48958a19b766c6a9d28c02d53575' id='wp-compose-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/redux-routine.min.js?ver=5156478c032ea85a2bbdceeb7a43b0c1' id='wp-redux-routine-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/data.min.js?ver=6c1ab5799c4b061254d313d2d8d9fb87' id='wp-data-js'></script>
+<script id='wp-data-js-after'>
+( function() {
+	var userId = 0;
+	var storageKey = "WP_DATA_USER_" + userId;
+	wp.data
+		.use( wp.data.plugins.persistence, { storageKey: storageKey } );
+	wp.data.plugins.persistence.__unstableMigrate( { storageKey: storageKey } );
+} )();
+</script>
+<script src='https://grist.org/wp-includes/js/dist/html-entities.min.js?ver=c6385fb7cd9fdada1cf8892a545f8a26' id='wp-html-entities-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/shortcode.min.js?ver=d6964e945049b6190adc8770cda168c4' id='wp-shortcode-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/blocks.min.js?ver=658a51e7220626e26a92a46af5c2e489' id='wp-blocks-js'></script>
+<script src='https://grist.org/wp-content/themes/grist/dist/vendor.js?ver=0.15.21' id='vendor-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/dom-ready.min.js?ver=d996b53411d1533a84951212ab6ac4ff' id='wp-dom-ready-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/a11y.min.js?ver=a38319d7ba46c6e60f7f9d4c371222c5' id='wp-a11y-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/url.min.js?ver=16385e4d69da65c7283790971de6b297' id='wp-url-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/api-fetch.min.js?ver=63050163caffa6aac54e9ebf21fe0472' id='wp-api-fetch-js'></script>
+<script id='wp-api-fetch-js-after'>
+wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "https://grist.org/wp-json/" ) );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "167ae986d8" );
+wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
+wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
+wp.apiFetch.nonceEndpoint = "https://grist.org/wp-admin/admin-ajax.php?action=rest-nonce";
+</script>
+<script src='https://grist.org/wp-includes/js/dist/vendor/moment.min.js?ver=2.29.4' id='moment-js'></script>
+<script id='moment-js-after'>
+moment.updateLocale( 'en_US', {"months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"week":{"dow":1},"longDateFormat":{"LT":"g:i a","LTS":null,"L":null,"LL":"M j, Y","LLL":"F j, Y g:i a","LLLL":null}} );
+</script>
+<script src='https://grist.org/wp-includes/js/dist/date.min.js?ver=e923a564a0407e0c2ffcbd348817ca86' id='wp-date-js'></script>
+<script id='wp-date-js-after'>
+wp.date.setSettings( {"l10n":{"locale":"en_US","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"meridiem":{"am":"am","pm":"pm","AM":"AM","PM":"PM"},"relative":{"future":"%s from now","past":"%s ago"}},"formats":{"time":"g:i a","date":"M j, Y","datetime":"F j, Y g:i a","datetimeAbbreviated":"M j, Y g:i a"},"timezone":{"offset":-4,"string":"America\/New_York","abbr":"EDT"}} );
+</script>
+<script src='https://grist.org/wp-includes/js/dist/primitives.min.js?ver=cadf5cfaabdb15c8c8fc440547afe919' id='wp-primitives-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/rich-text.min.js?ver=e7d57502b62ec4756783a0cd79238841' id='wp-rich-text-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/warning.min.js?ver=b9190af8fc6a3a48c580473c6f337b88' id='wp-warning-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/components.min.js?ver=76c5a4c54d97b02824ed3d3b164c2811' id='wp-components-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/keyboard-shortcuts.min.js?ver=37fdd241f3be3126e9248060e363e7c9' id='wp-keyboard-shortcuts-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/notices.min.js?ver=e44820c667bf205cacdfc48cbeb3c2e6' id='wp-notices-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/token-list.min.js?ver=4ebce6423dfff99d40033fd33ce52cc9' id='wp-token-list-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/wordcount.min.js?ver=fb8056c75aa0a0569f7ea3ceae97fbc6' id='wp-wordcount-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/block-editor.min.js?ver=1aaefec40aaf345b5e6e969304e78e07' id='wp-block-editor-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/core-data.min.js?ver=95df951bbac4c9f2fd2e6da80561595d' id='wp-core-data-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/media-utils.min.js?ver=ee812d25ec8504c5b419a1aa3cae974d' id='wp-media-utils-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/preferences.min.js?ver=a9b6f95c63bb642d0be7c3d1d208b302' id='wp-preferences-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/reusable-blocks.min.js?ver=7387bed6e19d1b3aec4b6fda683a0768' id='wp-reusable-blocks-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/server-side-render.min.js?ver=9aa1118308e1a7ca5fbe4b842b1ba63e' id='wp-server-side-render-js'></script>
+<script src='https://grist.org/wp-includes/js/dist/editor.min.js?ver=5ed697cafca349e71af1c7f8842fcd44' id='wp-editor-js'></script>
+<script id='wp-editor-js-after'>
+Object.assign( window.wp.editor, window.wp.oldEditor );
+</script>
+<script src='https://grist.org/wp-content/themes/grist/dist/blocks.js?ver=0.15.21' id='block-js-js'></script>
+<script src='https://grist.org/wp-content/mu-plugins/jetpack-11.4/_inc/build/widgets/eu-cookie-law/eu-cookie-law.min.js?ver=20180522' id='eu-cookie-law-script-js'></script>
+<script src='https://polyfill.io/v3/polyfill.min.js?features=fetch%2CArray.from%2CElement.prototype.append&#038;ver=0.15.21' id='polyfill-js'></script>
+<script id='script.js-js-extra'>
+var project_footer = {"bgcolor":"#e6ffa0","rest_url":"https:\/\/grist.org\/wp-json\/"};
+var grist_ajax_vars = {"rest_url":"https:\/\/grist.org\/wp-json\/"};
+</script>
+<script src='https://grist.org/wp-content/themes/grist/dist/app.js?ver=0.15.21' id='script.js-js'></script>
+<script src='https://grist.org/wp-content/themes/grist/dist/page-wildFireIframeResizer.js?ver=0.15.21' id='wildFireIframeResizer-js'></script>
+<script src='https://grist.org/wp-content/themes/grist/dist/appealBar.js?ver=0.15.21' id='appealBar-js'></script>
+<script defer='defer' src='https://grist.org/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.6.3.2' id='gform_json-js'></script>
+<script id='gform_gravityforms-js-extra'>
+var gform_i18n = {"datepicker":{"days":{"monday":"Mon","tuesday":"Tue","wednesday":"Wed","thursday":"Thu","friday":"Fri","saturday":"Sat","sunday":"Sun"},"months":{"january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December"},"firstDay":1,"iconText":"Select date"}};
+var gf_legacy_multi = [];
+var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file is not allowed. Must be one of the following:","delete_file":"Delete this file","in_progress":"in progress","file_exceeds_limit":"File exceeds size limit","illegal_extension":"This type of file is not allowed.","max_reached":"Maximum number of files reached","unknown_error":"There was a problem while saving the file on the server","currently_uploading":"Please wait for the uploading to complete","cancel":"Cancel","cancel_upload":"Cancel this upload","cancelled":"Cancelled"},"vars":{"images_url":"https:\/\/grist.org\/wp-content\/plugins\/gravityforms\/images"}};
+var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2,"code":"USD"},"base_url":"https:\/\/grist.org\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/grist.org\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2,"code":"USD"},"base_url":"https:\/\/grist.org\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/grist.org\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+</script>
+<script defer='defer' src='https://grist.org/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.6.3.2' id='gform_gravityforms-js'></script>
+<script defer='defer' src='https://grist.org/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.6.3.2' id='gform_placeholder-js'></script>
+<script src='https://stats.wp.com/e-202241.js' defer></script>
+<script>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:11.4',blog:'184496365',post:'555190',tz:'-4',srv:'grist.org',hp:'vip'} ]);
+	_stq.push([ 'clickTrackerInit', '184496365', '555190' ]);
+</script>
+<script type="text/javascript">
+gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 2) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } );
+</script>
+<script type="text/javascript">
+gform.initializeOnLoaded( function() { jQuery(document).trigger('gform_post_render', [2, 1]) } );
+</script>
+
+
+  
+
+	<!-- Quantcast Tag -->
+	<script type="text/javascript" >
+		var _qevents = _qevents || [];
+		(function() {
+		var elem = document.createElement('script');
+		elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+		elem.async = true;
+		elem.type = "text/javascript";
+		var scpt = document.getElementsByTagName('script')[0];
+		scpt.parentNode.insertBefore(elem, scpt);
+		})();
+
+		_qevents.push({
+
+			qacct: "p-DnJbxjzf2YyXE"
+
+		});
+	</script>
+	<noscript>
+		<div style="display:none;">
+			<img src="https://pixel.quantserve.com/pixel/p-DnJbxjzf2YyXE.gif" border="0" height="1" width="1" alt="Quantcast"/>
+		</div>
+	</noscript>
+	<!-- End Quantcast tag -->
+  <script id="pardot-tracker" >
+	piAId = '400522';
+	piCId = '3017';
+
+	(function() {
+		function async_load(){
+			var s = document.createElement('script'); s.type = 'text/javascript';
+			s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+			var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+		}
+		if(window.attachEvent) { window.attachEvent('onload', async_load); }
+		else { window.addEventListener('load', async_load, false); }
+	})();
+</script>
+  <script data-cfasync="false">
+    
+        (function(W,i,s,e,P,o,p) {
+            W['WisePopsObject'] = P;
+            W[P] = W[P]||function() {
+                (W[P].q = W[P].q||[]).push(arguments)
+            }, W[P].l = 1*new Date();
+            o = i.createElement(s), p = i.getElementsByTagName(s)[0];
+            o.async = 1;
+            o.src = e;
+            o.onerror = function () {
+              W.isBlocked = true;
+            },
+            p.parentNode.insertBefore(o,p)
+        })(window,document,'script','//loader.wisepops.com/get-loader.js?v=1&site=UkdKwSrMxb','wisepops');
+    
+</script>
+    </body>
+</html>

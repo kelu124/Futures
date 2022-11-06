@@ -1,0 +1,694 @@
+<!DOCTYPE html>
+<!--[if lte IE 9]><html class="no-js legacy" lang="en-GB"><![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="en-GB"><!--<![endif]-->
+<head>
+    <meta charset="UTF-8" />
+    <title>These are the Tools Open Source Researchers Say They Need - bellingcat</title>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v18.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>These are the Tools Open Source Researchers Say They Need - bellingcat</title>
+	<meta name="description" content="Over 500 open source researchers filled out our survey. Here&#039;s what they want tool developers to know." />
+	<link rel="canonical" href="https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="These are the Tools Open Source Researchers Say They Need - bellingcat" />
+	<meta property="og:description" content="Over 500 open source researchers filled out our survey. Here&#039;s what they want tool developers to know." />
+	<meta property="og:url" content="https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/" />
+	<meta property="og:site_name" content="bellingcat" />
+	<meta property="article:published_time" content="2022-08-12T13:28:20+00:00" />
+	<meta property="article:modified_time" content="2022-08-12T13:49:47+00:00" />
+	<meta property="og:image" content="https://www.bellingcat.com/app/uploads/2022/08/2022-04-08T144342Z_1198712758_MT1HNSLCS000EEAKHJ_RTRMADP_3_HANS-LUCAS-scaled.jpg" />
+	<meta property="og:image:width" content="2560" />
+	<meta property="og:image:height" content="1707" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Johanna Wild" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="16 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.bellingcat.com/#website","url":"https://www.bellingcat.com/","name":"bellingcat","description":"the home of online investigations","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.bellingcat.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/#primaryimage","url":"https://www.bellingcat.com/app/uploads/2022/08/2022-04-08T144342Z_1198712758_MT1HNSLCS000EEAKHJ_RTRMADP_3_HANS-LUCAS-scaled.jpg","contentUrl":"https://www.bellingcat.com/app/uploads/2022/08/2022-04-08T144342Z_1198712758_MT1HNSLCS000EEAKHJ_RTRMADP_3_HANS-LUCAS-scaled.jpg","width":2560,"height":1707,"caption":"France, Montaigu-Vendee, 2022-04-08. A woman works from her living room on the dining table. Illustration telecommuting. Photograph by Mathieu Thomasset / Hans Lucas. France, Montaigu-Vendee, 2022-04-08. Une femme travaille depuis son salon sur la table a manger. Illustration teletravail. Photographie de Mathieu Thomasset / Hans Lucas."},{"@type":"WebPage","@id":"https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/#webpage","url":"https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/","name":"These are the Tools Open Source Researchers Say They Need - bellingcat","isPartOf":{"@id":"https://www.bellingcat.com/#website"},"primaryImageOfPage":{"@id":"https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/#primaryimage"},"datePublished":"2022-08-12T13:28:20+00:00","dateModified":"2022-08-12T13:49:47+00:00","author":{"@id":"https://www.bellingcat.com/#/schema/person/97dfee6d52b0b7eeb082b700cf7f9b73"},"description":"Over 500 open source researchers filled out our survey. Here's what they want tool developers to know.","breadcrumb":{"@id":"https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/"]}]},{"@type":"BreadcrumbList","@id":"https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.bellingcat.com/"},{"@type":"ListItem","position":2,"name":"These are the Tools Open Source Researchers Say They Need"}]},{"@type":"Person","@id":"https://www.bellingcat.com/#/schema/person/97dfee6d52b0b7eeb082b700cf7f9b73","name":"Johanna Wild","description":"Johanna Wild is an open source investigator from Germany with a particular interest in tech and tool development for digital investigations. You can find her on Twitter at @Johanna_Wild","url":"https://www.bellingcat.com/author/johannawild/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.bellingcat.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='nouislider-css-css'  href='https://www.bellingcat.com/app/plugins/before-after-image-slider-lite/libs/nouislider-14.6.2/nouislider.css?ver=14.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpbaimages-css-css'  href='https://www.bellingcat.com/app/plugins/before-after-image-slider-lite/ImageComparisonSlider.css?ver=2.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-style-css'  href='https://www.bellingcat.com/app/themes/bellingcat/assets/css/style.min.css?ver=20220930162235Z' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.bellingcat.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.bellingcat.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://www.bellingcat.com/app/plugins/before-after-image-slider-lite/libs/nouislider-14.6.2/nouislider.js?ver=14.6.2' id='nouislider-js-js'></script>
+<script type='text/javascript' src='https://www.bellingcat.com/app/plugins/before-after-image-slider-lite/ImageComparisonSlider.js?ver=2.2.0' id='wpbaimages-js-js'></script>
+<script type='text/javascript' src='https://www.bellingcat.com/app/themes/bellingcat/assets/js/main.min.js?ver=20220930162235Z' id='bp-js-js'></script>
+<link rel="https://api.w.org/" href="https://www.bellingcat.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.bellingcat.com/wp-json/wp/v2/posts/36591" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.bellingcat.com/xmlrpc.php?rsd" />
+<link rel="alternate" type="application/json+oembed" href="https://www.bellingcat.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bellingcat.com%2Fresources%2F2022%2F08%2F12%2Fthese-are-the-tools-open-source-researchers-say-they-need%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.bellingcat.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.bellingcat.com%2Fresources%2F2022%2F08%2F12%2Fthese-are-the-tools-open-source-researchers-say-they-need%2F&#038;format=xml" />
+		<style type="text/css" id="wp-custom-css">
+			/* The following CSS was added to support details/summary tags. (December 2020, lw) */
+
+.collapse-details {
+  display:none;
+  padding-left: 4px;
+  padding-right: 0px;
+	margin-right: 4px;
+}
+
+.collapse-open {
+  display: none;
+}
+
+.collapse-button {
+  border: 1px solid #999;
+  background-color: #eee;
+  border-radius: 2px;
+  cursor: pointer;
+  padding-left: 4px;
+  padding-right: 6px;
+	margin-right: 4px;
+}
+
+.collapse-button:hover {
+ background-color: #ddd;
+}
+
+.collapse-open:checked ~ .collapse-button {
+  display: none;
+}
+
+.collapse-open:checked ~ .collapse-details 
+{
+  display: inline;
+  margin-left: 4px;
+  background-color: #eee;
+}
+
+.collapse-close {
+  border: 1px solid #999;
+  background-color: #eee;
+  border-radius: 2px;
+  padding-left: 4px;
+  padding-right: 2px;
+  margin-left: 4px;
+  cursor: pointer;
+}
+
+.collapse-close:hover {
+  background-color: #ddd;
+}
+
+/* The following CSS was added to allow certain elements to be hidden on mobile or desktop devices (particularly data visualizations that need a minimum width). 2021, lw */
+
+@media (max-width: 680px) {
+  .mobilehide {
+    display: none;
+  }
+}
+
+@media (min-width: 681px) {
+  .desktophide {
+    display: none;
+  }
+}
+
+/* This is used for iframes that should be larger on mobile. */
+
+@media (max-width: 1023px) {
+	iframe.square {
+		height: 100vw;
+	}
+}
+
+/* H6 is hijacked to support drop caps on specified paragraphs. July 2021, lw */
+
+h6 {
+	margin-bottom: 1rem;
+	font-size: 1.06rem;
+	line-height: 1.65;
+	font-weight: normal;
+}
+
+h6:first-letter {
+  float: left;
+  font-family: Georgia;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 6px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
+/* Tweaks to HR styling */
+
+hr {
+	background-color: rgba(0,0,0,0.2);
+	height: 3px;
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+/* Pull quotes. 2021, lw */
+
+blockquote.pull {
+	background: #fffff0;
+  border-left: 10px solid #faf9a2;
+  margin: 1.5em 10px;
+  padding: 0.5em 3em;
+  quotes: "\201C""\201D""\2018""\2019";
+	font-size: 24px;
+	font-style: italic;
+	text-align: center;
+}
+
+@media (min-width: 1024px) {
+	blockquote.pull {
+		margin-left: -20%;
+		width: 120%;
+	}
+}
+
+blockquote.pull:before {
+	color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+
+blockquote.pull p {
+  display: inline;
+	color: #444 !important;
+}
+
+/* Use system defaults for higlight colors, for accessibility. August 2021, lw */
+
+::selection {
+	color: highlighttext !important;
+	background-color: highlight !important;
+}
+
+/* Support scrolly-telling parallax maps. November 2021, lw */
+
+.overlay-caption {
+width: 300px;
+    margin-left: 400px;
+    background-color: rgba(255,255,255,0.8);
+    z-index: 2;
+    position: relative;
+    margin-bottom: 200px;
+    font-size: 20px;
+    padding: 0.5em;
+	  border: 1px solid rgba(0,0,0,0.5)
+}
+
+@media (max-width: 680px) {
+	.overlay-caption {
+		margin-left: unset;
+	}
+}
+
+.overlay-image {
+	  position: absolute;
+    top: 100px;
+    height: 250px;
+    width: auto;
+    left: -700px;
+}
+
+.overlay-image .media {
+	height: 100%;
+}
+
+.overlay-image .media img {
+	height: 100%;
+}		</style>
+		
+
+    <link rel="shortcut icon" href="/app/themes/bellingcat/assets/icons/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.bellingcat.com/app/themes/bellingcat/assets/icons/favicons/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.bellingcat.com/app/themes/bellingcat/assets/icons/favicons/favicon-32x32.png">
+<link rel="manifest" href="https://www.bellingcat.com/app/themes/bellingcat/assets/icons/favicons/manifest.json">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#000">
+<meta name="application-name" content="bellingcat">
+<link rel="apple-touch-icon" sizes="57x57" href="https://www.bellingcat.com/app/themes/bellingcat/assets/icons/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://www.bellingcat.com/app/themes/bellingcat/assets/icons/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.bellingcat.com/app/themes/bellingcat/assets/icons/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://www.bellingcat.com/app/themes/bellingcat/assets/icons/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.bellingcat.com/app/themes/bellingcat/assets/icons/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.bellingcat.com/app/themes/bellingcat/assets/icons/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.bellingcat.com/app/themes/bellingcat/assets/icons/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.bellingcat.com/app/themes/bellingcat/assets/icons/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="167x167" href="https://www.bellingcat.com/app/themes/bellingcat/assets/icons/favicons/apple-touch-icon-167x167.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.bellingcat.com/app/themes/bellingcat/assets/icons/favicons/apple-touch-icon-180x180.png">
+<link rel="apple-touch-icon" sizes="1024x1024" href="https://www.bellingcat.com/app/themes/bellingcat/assets/icons/favicons/apple-touch-icon-1024x1024.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="bellingcat">
+
+    
+          <!-- Google Analytics -->
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-52456075-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- End Google Tag Manager -->
+    </head>
+<body class="post-template-default single single-post postid-36591 single-format-standard front-end visitor" itemscope itemtype="//schema.org/WebPage">
+
+    <header class="site__header">
+  <div class="container">
+    <div class="logo">
+      <a href="/">
+        <img src="/app/themes/bellingcat/assets/logos/logo_white.svg" alt="Bellingcat">
+      </a>
+    </div>
+
+    <div class="nav">
+        
+  <ul class="nav__list">
+          <li class="nav__list-item  menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28462">
+        <a class="nav__link" href="https://www.bellingcat.com/category/news/">Investigations</a>
+
+              </li>
+          <li class="nav__list-item  menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-28469">
+        <a class="nav__link" href="https://www.bellingcat.com/category/resources/">Resources</a>
+
+              </li>
+          <li class="nav__list-item  menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28463">
+        <a class="nav__link" href="https://www.bellingcat.com/category/resources/how-tos/">Guides</a>
+
+              </li>
+          <li class="nav__list-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-34298">
+        <a class="nav__link" href="https://www.bellingcat.com/tag/ukraine/">Ukraine</a>
+
+              </li>
+          <li class="nav__list-item  menu-item menu-item-type-post_type_archive menu-item-object-bc_event menu-item-29387">
+        <a class="nav__link" href="https://www.bellingcat.com/workshops/">Workshops</a>
+
+              </li>
+          <li class="nav__list-item nav__list-search"></li>
+
+          <li class="nav__list-lang nav__list-item localeSwitcher">
+        <a class="js-localeSwitch localeSwitch selected">
+          <span class="localeCode">EN</span>
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="10" viewBox="0 0 10 20" version="1.1"><g fill="#fff"><polygon points="0 0 10 10 20 0"/></g></svg></a>
+            <ul>
+                              <li><a href="https://ru.bellingcat.com" rel="nofollow">Русский</a></li>
+                              <li><a href="https://fr.bellingcat.com" rel="nofollow">Français</a></li>
+                              <li><a href="https://es.bellingcat.com" rel="nofollow">Español</a></li>
+                              <li><a href="https://de.bellingcat.com" rel="nofollow">Deutsch</a></li>
+                              <li><a href="https://uk.bellingcat.com" rel="nofollow">Українська</a></li>
+                          </ul>
+      </li>
+    
+        <li class="nav__list-item nav__list-donate">
+      <a class="nav__link btn btn--primary" href="https://www.bellingcat.com/donate">Donate</a>
+    </li>
+      </ul>
+
+
+    </div>
+
+    <div class="site__header__search_icon">
+    </div>
+
+    <div class="site__header__nav_icon">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </div>
+</header>
+
+<div class="site__header--search">
+  <div class="container">
+    <form role="search" method="get" id="searchform" class="searchform" action="https://www.bellingcat.com/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form>
+  </div>
+</div>
+
+    <main class="site__content">
+        
+      <div class="singular">
+
+          <div class="container">
+
+        <div class="singular__content">
+          <aside class="singular__content__aside">
+
+            
+              <div class="sidebar--author">
+                                                                      <a href="https://www.bellingcat.com/author/johannawild/">
+                                          <img width="300" height="284" src="https://www.bellingcat.com/app/uploads/2021/06/Bellingcat-logo-avatar-300x284.jpg" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://www.bellingcat.com/app/uploads/2021/06/Bellingcat-logo-avatar-300x284.jpg 300w, https://www.bellingcat.com/app/uploads/2021/06/Bellingcat-logo-avatar.jpg 370w" sizes="(max-width: 300px) 100vw, 300px" />
+                    </a>
+                  <span><a href="https://www.bellingcat.com/author/johannawild/">Johanna Wild</a></span>
+                  
+                                      <p>Johanna Wild is an open source investigator from Germany with a particular interest in tech and tool development for digital investigations. You can find her on Twitter at @Johanna_Wild</p>
+                                  
+                              </div>
+            
+          </aside>
+          <div class="singular__content__text">
+            <div class="singular__content__text__title">
+              <h1>
+                                  These are the Tools Open Source Researchers Say They Need
+                              </h1>
+            </div>
+
+                          <div class="singular__content__text__meta">
+                <div class="meta meta">
+
+    <time datetime="August 12, 2022" class="meta__time">
+    August 12, 2022
+  </time>
+  
+  <div class="meta__tags">
+        <ul>
+            <li><a href="/tag/tech-team">Tech Team</a></li>
+            <li><a href="/tag/tools">Tools</a></li>
+          </ul>
+  </div>
+</div>
+              </div>
+            
+            <div class="singular__content__text__content">
+              <h6>What type of tools do you need?</h6>
+<p>That’s what we asked back in February when we circulated a <a href="https://docs.google.com/forms/d/e/1FAIpQLSdN6Cq7i_TJoi8E0fCWy-rqkWCpH5YW0MfysVf-XAZxTTkKbw/viewform">survey</a> among open source researchers about their use of online tools when conducting online research. That can mean anything from a simple search engine accessed through a browser to an intricate, custom built scraper for which you must use the command line.</p>
+<p>More than 500 people took the time to answer our questions, telling us about their experiences using (or failing to use) various online tools.</p>
+<p>We conducted our survey to help the wider open source developer community learn what tools could really help researchers if they were to be built.</p>
+<p>These survey results show that the online researcher community is highly diverse. Those who conduct open source investigations do not only come from a wide range of professional backgrounds — about half of them do this type of work in their spare time.</p>
+<p>Researchers told us that the tools they are most likely to use need to be free, clearly describing what they are capable of doing and how they can be used. Given that only a quarter of our respondents knew how to use the command line, tools which do not require more advanced technical skills are particularly welcome.</p>
+<p>Nearly 200 of our respondents provided concrete suggestions for tools which could help them in their work, which we have provided in a <a href="https://docs.google.com/spreadsheets/d/1vNJRMrlwI7i06diBJtRJWrvt4YuPOqlbUV5o00P_YmE/edit?usp=sharing">publicly-accessible spreadsheet</a>.</p>
+<h2><b>Who Responded?</b></h2>
+<p>We received 525 responses to our survey. Those who took part came from a wide range of professional backgrounds, from cyber security analysts and journalists to corporate security specialists and academics.   Importantly, not everybody conducts this type of research as their day job. Although volunteers play a significant role in the open source community, we were surprised to see that roughly half our respondents did this research during ‘work’ and the other half in ‘free time’.</p>
+<p><div class="media "><img loading="lazy" class="alignnone size-full wp-image-36598" src="https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_1.png" alt="" width="1376" height="579" srcset="https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_1.png 1376w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_1-300x126.png 300w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_1-1200x505.png 1200w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_1-768x323.png 768w" sizes="(max-width: 1376px) 100vw, 1376px" /></div></p>
+<p>The respondents were also diverse in their level of online research experience. The biggest group (35%) indicated that they occasionally conduct online research but still see a need to improve their skills</p>
+<p><div class="media "><img loading="lazy" class="size-full wp-image-36599 aligncenter" src="https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_2.png" alt="" width="1376" height="579" srcset="https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_2.png 1376w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_2-300x126.png 300w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_2-1200x505.png 1200w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_2-768x323.png 768w" sizes="(max-width: 1376px) 100vw, 1376px" /></div></p>
+<p>We also asked researchers how often they used tools in their work — our definition of a tool included any digital means which helps perform specific tasks in online research. To provide examples, we linked in the survey to <a href="http://bit.ly/bcattools">Bellingcat’s Online Investigation Toolkit</a>. Here, the biggest group (34.7%) reported that they use tools whenever they do this type of work, though understandings of the term may have differed.</p>
+<p><div class="media "><img loading="lazy" class="size-full wp-image-36600 aligncenter" src="https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_3.png" alt="" width="1376" height="579" srcset="https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_3.png 1376w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_3-300x126.png 300w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_3-1200x505.png 1200w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_3-768x323.png 768w" sizes="(max-width: 1376px) 100vw, 1376px" /></div></p>
+<h2><b>Researchers&#8217; Favourite Tools Named<br />
+</b></h2>
+<p>We wanted to know the survey participants’ favourite tools and whether they could describe a time when using a specific tool had been particularly helpful in one of their investigations.</p>
+<p>The answers to both questions were sometimes very case specific — they included many tools that were only named one or two times — but there were also clear tendencies.</p>
+<div id="attachment_36611" style="width: 914px" class="wp-caption aligncenter"><div class="media "><img aria-describedby="caption-attachment-36611" loading="lazy" class="wp-image-36611 size-full" src="https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_4.png" alt="" width="904" height="1999" srcset="https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_4.png 904w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_4-136x300.png 136w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_4-543x1200.png 543w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_4-768x1698.png 768w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_4-695x1536.png 695w" sizes="(max-width: 904px) 100vw, 904px" /></div><p id="caption-attachment-36611" class="wp-caption-text"><em>List of favourite tools. Only tools that were mentioned at least five times were included. It was possible to name several tools at once. The number behind the tool name represents the number of times this answer was given.</em></p></div>
+<div id="attachment_36612" style="width: 1250px" class="wp-caption aligncenter"><div class="media "><img aria-describedby="caption-attachment-36612" loading="lazy" class="wp-image-36612 size-full" src="https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_5.png" alt="" width="1240" height="1682" srcset="https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_5.png 1240w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_5-221x300.png 221w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_5-885x1200.png 885w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_5-768x1042.png 768w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_5-1132x1536.png 1132w" sizes="(max-width: 1240px) 100vw, 1240px" /></div><p id="caption-attachment-36612" class="wp-caption-text"><em>List of the tools that online researchers considered most useful during one of their research cases. Since we received less answers for the second question, we included all tools that were mentioned at least four times. It was possible to name several tools at once.</em></p></div>
+<p>The winner in terms of favourite “tools” was the search engine Google. Even experienced researchers who used many other tools would often return to it. Those with less experience reported that Google was often the first and only “tool” they had used so far.</p>
+<p>The second most favourite tool and at the same time the one that was considered as most helpful for open source investigations was Google Earth Pro. Many respondents mentioned the free access to satellite imagery, both historical and current, as crucial for geolocation.</p>
+<p>The graphical link analysis tool Maltego was the third favourite and second most helpful tool. We could not always determine respondents used Maltego’s free or paid edition. The survey respondents explained that Maltego helped them find hidden connections between people or organisations and to gather information related to a research case at one place.</p>
+<p>The vast majority of researchers’ favourite tools — from flight trackers to social media monitors — could be used for free or at least had a basic free version. Amongst online researchers’ favourite tools was also the Wayback Machine, a digital website archive.</p>
+<p>Although respondents found several scraping tools helpful, they did not show up at the top of the favourite tools list. A potentially related finding, given that scraping tools often require use of the command line, is that those researchers who are able to write scripts of code themselves in order to automate parts of their research often considered those scripts to be their favourite tools. Several online researchers mentioned that they write their own code based on the needs of a specific research case. Others indicated that they are able to use scripts that they find on code sharing platforms like GitHub.</p>
+<p>However, only the more tech-savvy members of the worldwide open source investigator community have access to this large world of available tools. More than 30% of our survey respondents have never used GitHub. Another 22% are aware that GitHub offers tools but they don’t know how to use them. A further 23.4% tried to use GitHub tools but struggled or failed. Only around 24% indicated that they use such tools from time to time or on a regular basis.</p>
+<p><div class="media "><img loading="lazy" class="size-full wp-image-36602 aligncenter" src="https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_6.png" alt="" width="1376" height="579" srcset="https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_6.png 1376w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_6-300x126.png 300w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_6-1200x505.png 1200w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_6-768x323.png 768w" sizes="(max-width: 1376px) 100vw, 1376px" /></div></p>
+<p>Therefore, developers who build tools for online researchers will currently only reach a quarter of our respondents if they make their tool only available via services like GitHub, rather than a web or desktop app with user interface.</p>
+<h2>Least Popular Tools</h2>
+<p>We also asked our respondents whether there were any tools that they didn’t like or whether they had experienced situations when a specific tool did not help but slowed them down.</p>
+<p>Not everyone answered these questions but the limited data we received nevertheless provided insights.</p>
+<div id="attachment_36604" style="width: 1250px" class="wp-caption alignnone"><div class="media "><img aria-describedby="caption-attachment-36604" loading="lazy" class="wp-image-36604 size-full" src="https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_7.png" alt="" width="1240" height="614" srcset="https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_7.png 1240w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_7-300x149.png 300w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_7-1200x594.png 1200w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_7-768x380.png 768w" sizes="(max-width: 1240px) 100vw, 1240px" /></div><p id="caption-attachment-36604" class="wp-caption-text"><em>Disliked tools. Only tools or tool types that were at least mentioned four times were included in this list.</em></p></div>
+<p>In this case the most disliked tool was Google’s search engine — exactly the same as the favourite tool mentioned earlier. Far fewer respondents (10) indicated the search engine as a tool they did not like compared to those who named it as one of their favourite tools (58).</p>
+<p>Critics did not appreciate that Google showed them results that were influenced by their previous searches and mistrusted Google’s use of their own data. Eleven respondents felt that the search engine did not provide sufficiently precise results for the keywords they entered.</p>
+<p>The second most disliked tools were those that cost money. One respondent wrote: “As most of my research is at a hobbyist level I can’t really afford subscriptions to some tools that otherwise look useful.” Other respondents pointed out that they were often disappointed when using paid tools because it seemed that such tools were overpriced or did not provide much value compared to free tools.</p>
+<p>Some online researchers shared that they struggled to use command line or overly technical tools. “I currently don&#8217;t like Python-based tools because my skillset there is low, and I don&#8217;t have the flexibility or time to overcome that at the moment”, one person explained.</p>
+<p>Several respondents unfavourably compared the marketing language used to sell a tool with its real capabilities. Equally unpopular were tools that had stopped working without an update from the developers. “Nothing&#8217;s worse than setting up an environment, and installing a tool only to find out it doesn&#8217;t function as advertised”, wrote one respondent.</p>
+<p>Also mentioned were people search tools – meaning tools such as Pipl or Skopenow which show any blogs, social media accounts or mail accounts they can find online for a specific person. Survey respondents thought that such tools either did not represent good value for money or that the quality of the results fluctuated.</p>
+<div id="attachment_36605" style="width: 1250px" class="wp-caption aligncenter"><div class="media "><img aria-describedby="caption-attachment-36605" loading="lazy" class="wp-image-36605 size-full" src="https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_8.png" alt="" width="1240" height="850" srcset="https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_8.png 1240w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_8-300x206.png 300w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_8-1200x823.png 1200w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_8-768x526.png 768w" sizes="(max-width: 1240px) 100vw, 1240px" /></div><p id="caption-attachment-36605" class="wp-caption-text"><em>Tools that did not add anything to an investigation but rather slowed the researcher down. Only tools or tool types that were at least mentioned four times were included in this list. </em></p></div>
+<p>When asked which tools slowed them down and why, respondents pointed to tools with poor quality instructions or documentation. Several described situations when even after setting up a tool, they were unable to understand how to use it.</p>
+<p>Although they named Maltego as a well-liked tool, some of the researchers also had points of criticism. For instance, some found it cumbersome. One wrote: “It is complicated to use, and once the data is in, it has to be reworked so much to be understandable and presentable, that it is not worth it for the type of investigation that I perform.”</p>
+<p>Respondents also complained about tools that did not provide anything new or useful, which once used led them to conclude “I could have done everything faster manually”. They felt the same about tools that had been released prematurely, as useful features that could add value were not yet integrated.</p>
+<p>Some researchers expressed disappointment about the limitations of reverse image searches. A small number complained specifically about results provided by Google Reverse Image Search — One person wrote: “it changes the picture into text description and searches by that” pointing out that this tended to not provide helpful results. Some also thought the quality of the results had decreased over time. Other online researchers found that reverse image search techniques in general – not only Google’s – did often not provide useful results.</p>
+<p>Other respondents pointed out that tools that are not clear about what they can do and what they are not able to do slowed them down. “There have definitely been occasions where a tool has seemed like it might have the functions needed but then doesn&#8217;t. So there is time spent in watching limited tutorial videos or searching through limited documentation, installing and/or bug-shooting packages, only to find that it doesn&#8217;t have the function you&#8217;ve ultimately been searching for”, one person wrote.</p>
+<p>Finally, unmaintained tools were also seen as a factor that can slow down the work of researchers.</p>
+<h2>Open Source Challenges</h2>
+<p>We asked respondents to share the aspects of their work that they find most challenging. They described these challenges in their own words, which we then categorised into common themes.</p>
+<div id="attachment_36606" style="width: 1250px" class="wp-caption aligncenter"><div class="media "><img aria-describedby="caption-attachment-36606" loading="lazy" class="wp-image-36606 size-full" src="https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_9.png" alt="" width="1240" height="1974" srcset="https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_9.png 1240w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_9-188x300.png 188w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_9-754x1200.png 754w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_9-768x1223.png 768w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_9-965x1536.png 965w" sizes="(max-width: 1240px) 100vw, 1240px" /></div><p id="caption-attachment-36606" class="wp-caption-text"><em> Only challenges that were mentioned at least five times were included in this list.</em></p></div>
+<p>Forty-nine out of the 525 participants described verification of online sources – that is, the whole field of photo and video verification – as their biggest challenge. Some specifically mentioned the difficulties in verifying where a photo or video was originally posted online or ways to check the trustworthiness of websites.</p>
+<p>In a similar vein, many researchers indicated that they struggle with finding reliable and high quality sources – whether websites or individual content producers. “Knowing where to look, what sources to trust, particularly if it is a new area for me”, one explained.</p>
+<p>Respondents also wrote that they struggle to find sources of data which are both free to access and up to date.</p>
+<p>A frequent concern was the large amount of information with which researchers are confronted. “Too much information in too many places, too many results”, one respondent wrote. Other researchers described that due to “the sheer volume of information” they tend to get lost or are not sure what to focus on.</p>
+<p>In addition, researchers felt overwhelmed by the task of identifying the right tools for their research. “I often face trouble remembering and navigating through the wide variety of tools available”, one person explained. Even when they found useful tools, another wrote, it was hard to know how to choose between them.</p>
+<p>Translations also featured in these responses. On one hand, researchers found limitations when looking for online translation services for less widely used languages. They also complained of poor quality translations for some larger languages such as Arabic. On the other hand, even when they had success, researchers still encountered challenges searching for the translated phrases — they feared that certain nuances or connotations may have been lost in translation, affecting the search results.</p>
+<p>Respondents also wrote that it was difficult to organise information they had discovered. They wanted the ability to collect online sources of various formats in one place, so as to keep track of their ongoing research or to later revisit it. One person wrote: “I have images saved on my photos, screenshots saved in photos, other info saved as pdf in the Books app, and so on. One tool for all would be great.”</p>
+<p>Others felt limited due to their lack of coding skills. In some cases, this hampered their ability to automate a certain step of their research workflow. Several researchers saw the need to use command line tools but did not know how. “Not knowing how to code or interact with code, Github is useless for me and it’s my mistake honestly, I need to get a hold of this”, wrote one respondent.</p>
+<p>Another obstacle was the perceived lack of time to conduct research. As one respondent put it: “So much data, so little time”. Another found it particularly challenging to make “crucial decisions for the rest of the investigation based on time management/time”.</p>
+<p>A further challenge was a perceived lack of online research experience.</p>
+<p>Some respondents also said they struggled with making sense of the online information they collected, or “connecting the dots between the scattered info”.</p>
+<p>Other respondents found it difficult simply knowing where to start with an online investigation.</p>
+<p>Compounding this challenge was the fear of manipulated information or footage, the difficulty of finding relevant datasets and the complexities of narrowing down search queries to the most useful list of keywords or phrases.</p>
+<p>We asked respondents to recall a situation in which they were stuck with their research and describe the tool which could have helped them proceed. Most of the ideas were shared by only one or two of the online researchers and they are therefore not representative for the whole group of our survey respondents. However, we recommend aspiring tool developers to have a look at the <a href="https://docs.google.com/spreadsheets/d/1vNJRMrlwI7i06diBJtRJWrvt4YuPOqlbUV5o00P_YmE/edit?usp=sharing">list of tool needs</a> to get some insights into very concrete tool ideas that nearly 200 of our respondents identified based on their work.</p>
+<h2><b>How do researchers find tools?<br />
+</b></h2>
+<p>All 525 survey respondents answered this question. Most of them used a combination of several channels to learn about tools. <b></b></p>
+<p>Search engines were the most common way to find tools. Perhaps surprisingly, social media networks did not occupy second or even third place – these were taken by blogs or websites that presented tools, and by reading the work of other researchers.</p>
+<div id="attachment_36607" style="width: 1250px" class="wp-caption aligncenter"><div class="media "><img aria-describedby="caption-attachment-36607" loading="lazy" class="wp-image-36607 size-full" src="https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_10.png" alt="" width="1240" height="668" srcset="https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_10.png 1240w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_10-300x162.png 300w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_10-1200x646.png 1200w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_10-768x414.png 768w" sizes="(max-width: 1240px) 100vw, 1240px" /></div><p id="caption-attachment-36607" class="wp-caption-text"><em>Survey respondents were allowed to select several answers at once.</em></p></div>
+<p>Nevertheless, the majority of open source researchers still struggle to find the right tools for their work. More than 83% of the survey respondents find it either difficult or time-consuming to find the right tools.</p>
+<p><div class="media "><img loading="lazy" class="size-full wp-image-36608 aligncenter" src="https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_11.png" alt="" width="1376" height="579" srcset="https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_11.png 1376w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_11-300x126.png 300w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_11-1200x505.png 1200w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_11-768x323.png 768w" sizes="(max-width: 1376px) 100vw, 1376px" /></div></p>
+<p>When asked what motivates them to try out a new tool, around 35% of our respondents can be easily convinced to try it out. This category of online researchers considers themselves as “generally curious to learn more about new tools” even if those tools aren’t directly relevant to their work.</p>
+<p>The second largest group, just under 29%, indicated that they try out a new tool if they think it might help with specific research. In this case, they are even ready to spend some time learning how to use the tool.</p>
+<div id="attachment_36609" style="width: 1386px" class="wp-caption aligncenter"><div class="media "><img aria-describedby="caption-attachment-36609" loading="lazy" class="wp-image-36609 size-full" src="https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_12.png" alt="" width="1376" height="579" srcset="https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_12.png 1376w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_12-300x126.png 300w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_12-1200x505.png 1200w, https://www.bellingcat.com/app/uploads/2022/08/Online_researcher_survey_12-768x323.png 768w" sizes="(max-width: 1376px) 100vw, 1376px" /></div><p id="caption-attachment-36609" class="wp-caption-text"><em>The complete text for the blue category was: “If I think it might be useful for a specific research case I am working on, even if I have to spend some time on learning how to use the tool first.” The complete text for the green category was: “I am generally curious to learn more about new tools and enjoy trying them out even if I am not immediately working on a specific research project for which they could be useful.”</em></p></div>
+<p>The third group, around 23%, said they felt motivated to try out a new tool if the tool’s description clearly demonstrates what it does and how it works. And 13.5% indicated that they like to try out a new tool after reading how other researchers have used it.</p>
+<h2><b>Lessons for Tool Developers<br />
+</b></h2>
+<p>These results clearly show that open source researchers have specific criteria for the tools they would like to see.</p>
+<p>First and foremost, tool developers who want to reach a large percentage of this community <b>need to offer tools for free</b>. Since many online researchers do this type of work in their spare time or belong to small teams with tight budgets, they are often not able to pay for access to tools.</p>
+<p>Researchers also need <b>detailed documentation on how exactly a tool can be used</b>. If online researchers do not find step-by-step instructions and accessible explanations, many will get frustrated and will most likely not come back to the tool. They also <b>expect to be informed when a tool stops working</b>.</p>
+<p>Online researchers also expect <b>transparency from developers about the limitations of their tools</b>. They are very averse to marketing language and efforts to oversell a tool’s capabilities.</p>
+<p>Tools developers who create <b>apps with user interfaces</b> have the potential to reach significantly more online researchers than those who provide command line tools. Currently, <b>a significant part of the worldwide online researcher community is unable to use the command line</b>. However, a number of researchers have become aware that their lack of technical skills are a limitation and are eager to learn more.</p>
+<p>Overall, many online researchers are very open and curious to try out new tools. There are many areas in which new tools could potentially have a huge impact on the work of open source researchers. The efforts of developers who dedicate their time to making open source and online research easier and more effective will be highly welcomed — particularly if they take this feedback into account.<br />
+<i><br />
+</i></p>
+<hr />
+<p><i>Logan Williams contributed visualisations to this text.</i></p>
+<p>The <a class="c-link" tabindex="-1" href="https://www.bellingcat.com/tag/tech-team/" target="_blank" rel="noopener noreferrer" data-stringify-link="https://www.bellingcat.com/tag/tech-team/" data-sk="tooltip_parent" data-remove-tab-index="true">Bellingcat Investigative Tech Team</a> develops tools for open source investigations and explores tech-focused research techniques. It consists of Aiganysh Aidarbekova, Tristan Lee, Miguel Ramalho, Johanna Wild and  Logan Williams. Do you have a question about applying these methods or tools to your own research, or an interest in collaborating? <a class="c-link" tabindex="-1" href="https://www.bellingcat.com/contact-the-bellingcat-tech-team/" target="_blank" rel="noopener noreferrer" data-stringify-link="https://www.bellingcat.com/contact-the-bellingcat-tech-team/" data-sk="tooltip_parent" data-remove-tab-index="true"><em>Contact us here.</em></a></p>
+
+            </div>
+
+            
+                          <div class="singular__content__text--social">
+                  <div class="social social--share">
+    <span class="social__heading">Share this article</span>
+    <nav role="navigation">
+      <ul class="social__list">
+        <li class="social__list-item">
+          <a class="social__link" target="_blank" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.bellingcat.com%2Fresources%2F2022%2F08%2F12%2Fthese-are-the-tools-open-source-researchers-say-they-need%2F%3Futm_source%3Dsubstack%26utm_medium%3Demail&text=These are the Tools Open Source Researchers Say They Need">
+            <img src="https://www.bellingcat.com/app/themes/bellingcat/assets/icons/svg/share-twitter.svg" alt="Twitter">
+          </a>
+        </li>
+        <li class="social__list-item">
+          <a class="social__link" target="_blank"
+             href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.bellingcat.com%2Fresources%2F2022%2F08%2F12%2Fthese-are-the-tools-open-source-researchers-say-they-need%2F%3Futm_source%3Dsubstack%26utm_medium%3Demail">
+            <img src="https://www.bellingcat.com/app/themes/bellingcat/assets/icons/svg/share-facebook.svg" alt="Facebook">
+          </a>
+        </li>
+        <li class="social__list-item">
+          <a class="social__link" target="_blank"
+             href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.bellingcat.com%2Fresources%2F2022%2F08%2F12%2Fthese-are-the-tools-open-source-researchers-say-they-need%2F%3Futm_source%3Dsubstack%26utm_medium%3Demail">
+            <img src="https://www.bellingcat.com/app/themes/bellingcat/assets/icons/svg/share-linkedin.svg" alt="Linkedin">
+          </a>
+        </li>
+        <li class="social__list-item">
+          <a class="social__link" target="_blank"
+             href="mailto:?body=https%3A%2F%2Fwww.bellingcat.com%2Fresources%2F2022%2F08%2F12%2Fthese-are-the-tools-open-source-researchers-say-they-need%2F%3Futm_source%3Dsubstack%26utm_medium%3Demail">
+            <img src="https://www.bellingcat.com/app/themes/bellingcat/assets/icons/svg/share-mail.svg" alt="E-mail">
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+              </div>
+            
+          </div>
+        </div>
+
+                  <div class="singular__related">
+              <div class="singular__related--title">
+                <h3>Related articles</h3>
+              </div>
+
+              <div class="singular__related__posts">
+                                                    <article class="grid_item">
+                    <div class="grid_item__image">
+                      <a href="https://www.bellingcat.com/resources/2022/09/22/preserve-vital-online-content-with-bellingcats-auto-archiver-tool/"><img src="https://www.bellingcat.com/app/uploads/2022/09/archiver.png" alt="Preserve Vital Online Content With Bellingcat&#8217;s Auto Archiver"></a>
+                    </div>
+
+                    <div class="grid_item__content">
+                      <div class="meta ">
+
+  
+  <div class="meta__tags">
+        <ul>
+            <li><a href="/tag/archive">Archive</a></li>
+            <li><a href="/tag/auto-archiver">Auto Archiver</a></li>
+          </ul>
+  </div>
+</div>
+
+                      <div class="grid_item__content--title">
+                        <h3>
+                          <a href="https://www.bellingcat.com/resources/2022/09/22/preserve-vital-online-content-with-bellingcats-auto-archiver-tool/">
+                            Preserve Vital Online Content With Bellingcat&#8217;s Auto Archiver
+                          </a>
+                        </h3>
+                      </div>
+                    </div>
+                  </article>
+                                                    <article class="grid_item">
+                    <div class="grid_item__image">
+                      <a href="https://www.bellingcat.com/resources/2022/09/19/identifying-suspicious-businesses-reddit-analysis-and-tracking-russian-propaganda-here-are-the-results-of-bellingcats-first-ever-hackathon/"><img src="https://www.bellingcat.com/app/uploads/2022/09/Screenshot-2022-09-19-at-13.07.36-1200x595.png" alt="Identifying Suspicious Businesses, Reddit Analysis and Tracking Russian Propaganda: Here are the Results of Bellingcat’s First Ever Hackathon"></a>
+                    </div>
+
+                    <div class="grid_item__content">
+                      <div class="meta ">
+
+  
+  <div class="meta__tags">
+        <ul>
+            <li><a href="/tag/hackathon">Hackathon</a></li>
+            <li><a href="/tag/network-analysis">Network Analysis</a></li>
+          </ul>
+  </div>
+</div>
+
+                      <div class="grid_item__content--title">
+                        <h3>
+                          <a href="https://www.bellingcat.com/resources/2022/09/19/identifying-suspicious-businesses-reddit-analysis-and-tracking-russian-propaganda-here-are-the-results-of-bellingcats-first-ever-hackathon/">
+                            Identifying Suspicious Businesses, Reddit Analysis and Tracking Russian Propaganda: Here are the Results of Bellingcat’s First Ever Hackathon
+                          </a>
+                        </h3>
+                      </div>
+                    </div>
+                  </article>
+                                                    <article class="grid_item">
+                    <div class="grid_item__image">
+                      <a href="https://www.bellingcat.com/resources/how-tos/2022/05/11/this-new-tool-lets-you-analyse-tiktok-hashtags/"><img src="https://www.bellingcat.com/app/uploads/2022/05/2021-01-04T000000Z_439149760_MT1SIPA000680QYB_RTRMADP_3_SIPA-USA-1200x900.jpg" alt="This New Tool Lets You Analyse TikTok Hashtags"></a>
+                    </div>
+
+                    <div class="grid_item__content">
+                      <div class="meta ">
+
+  
+  <div class="meta__tags">
+        <ul>
+            <li><a href="/tag/tech-team">Tech Team</a></li>
+            <li><a href="/tag/tiktok">TikTok</a></li>
+          </ul>
+  </div>
+</div>
+
+                      <div class="grid_item__content--title">
+                        <h3>
+                          <a href="https://www.bellingcat.com/resources/how-tos/2022/05/11/this-new-tool-lets-you-analyse-tiktok-hashtags/">
+                            This New Tool Lets You Analyse TikTok Hashtags
+                          </a>
+                        </h3>
+                      </div>
+                    </div>
+                  </article>
+                              </div>
+          </div>
+        
+      </div>
+      </div>
+
+
+        <div class="push"></div>
+    </main>
+
+    <div class="footer__mailing">
+  <div class="container">
+    <div class="footer__mailing__left">
+      <h3>Support Bellingcat</h3>
+      <p>Your donation to Bellingcat is a direct contribution to our research. With your support, we will continue to publish groundbreaking investigations and uncover wrongdoing all around the world. </p>
+
+            <a href="https://www.bellingcat.com/donate" class="btn btn--medium btn--primary">Donate now</a>
+          </div>
+
+    <div class="footer__mailing__right">
+      <h3 class="footer__mailing__right__title">Join the Bellingcat Mailing List</h3>
+
+      <div class="email">
+        <form action="//bellingcat.us14.list-manage.com/subscribe/post?u=c435f53a5568f7951404c8a38&amp;id=4be345b082" method="post" name="mc-embedded-subscribe-form" class="mailingList__form" target="_blank" _lpchecked="1">
+          <input type="email" name="EMAIL" class="mailingList__inputEmail" placeholder="Email address" data-com.bitwarden.browser.user-edited="yes">
+          <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_c435f53a5568f7951404c8a38_4be345b082" tabindex="-1" value=""></div>
+          <input type="submit" name="subscribe" class="button mailingList__inputSubmit" value="Sign up">
+        </form>
+      </div>
+
+      <p>Along with our published content, we will update our readers on events that our staff and contributors are involved with, such as noteworthy interviews and training workshops.</p>
+    </div>
+  </div>
+</div>
+
+<footer class="site__footer">
+  <div class="container">
+    <div class="site__footer__left">
+      <a href="/">
+        <img src="/app/themes/bellingcat/assets/logos/logo_white.svg" alt="Bellingcat">
+      </a>
+
+      <nav>
+                  <ul class="nav__list">
+                          <li class="nav__list-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-28470">
+                <a class="nav__link" href="https://www.bellingcat.com/contributors/">Contributors</a>
+
+                              </li>
+                          <li class="nav__list-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-28468">
+                <a class="nav__link" href="https://www.bellingcat.com/about/">About</a>
+
+                              </li>
+                          <li class="nav__list-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-28467">
+                <a class="nav__link" href="https://www.bellingcat.com/contact/">Contact</a>
+
+                              </li>
+                          <li class="nav__list-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-33253">
+                <a class="nav__link" href="https://www.bellingcat.com/privacy-policy/">Privacy Policy</a>
+
+                              </li>
+                      </ul>
+              </nav>
+    </div>
+
+    <div class="site__footer__right">
+      <div class="logos">
+        <a href="https://gijn.org" rel="nofollow" target="_blank">
+          <img src="/app/themes/bellingcat/assets/images/GIJNlogo.svg" alt="GIJNlogo">
+        </a>
+      </div>
+
+      <p>&copy; 2022 Bellingcat</p>
+    </div>
+  </div>
+</footer>
+
+
+    <script type='text/javascript' src='https://www.bellingcat.com/wp-includes/js/comment-reply.min.js?ver=6.0.2' id='comment-reply-js'></script>
+
+    </body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 224/337 objects using disk
+Page Caching using disk: enhanced (Requested URI contains query) 
+
+Served from: www.bellingcat.com @ 2022-10-08 09:04:50 by W3 Total Cache
+-->

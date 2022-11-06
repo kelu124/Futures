@@ -1,0 +1,1573 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script data-cfasync="false" src="https://a.pub.network/smithsonianmag-com/pubfig.min.js" async type="text/javascript"></script>
+  
+    <!-- Google Tag Manager -->
+    <script>
+      // Define dataLayer and the gtag function.
+      window.dataLayer = window.dataLayer || [];
+
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+
+      gtag('consent', 'default', {
+        'ad_storage': 'denied',
+        'analytics_storage': 'denied',
+        'region': ['EU', 'GB']
+      });
+
+      function tagLinkEvent(name) {
+        dataLayer.push({'event': name});
+      }
+    </script>
+
+    <script type="text/javascript">
+      function OptanonWrapper() {
+        window.Optanon.OnConsentChanged(function () {
+          if (window.OptanonActiveGroups.indexOf('C0002')) {
+            gtag('consent', 'default', {
+              'ad_storage': 'granted',
+              'analytics_storage': 'granted',
+              'region': ['EU', 'GB']
+            });
+          }
+          ;
+        });
+      };
+    </script>
+
+    <script>(function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-M6LKQZ');</script>
+    <!-- End Google Tag Manager -->
+  
+  
+
+  <title>The World’s Whitest Paint May Soon Help Cool Airplanes and Spacecraft | Smart News|
+ Smithsonian Magazine</title>
+  <meta name="keywords" content=""/>
+  <meta name="description" content="The ultra-white color reflects up to 97.9 percent of sunlight and may reduce our reliance on air conditioning"/>
+  <meta name="robots" content="index,noodp,follow,archive"/>
+  <meta name="author" content="Smithsonian Magazine"/>
+  <meta charset="utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  
+
+<meta name="category" content="Smart News" />
+<meta name="author" content="Sarah Kuta" />
+
+<meta name="news_keywords" content="Airplanes, Cars, Climate Change, evolving climate, Global Warming, Innovations, Painting, Sun, Trains, Transportation" />
+<link rel="canonical" href="https://www.smithsonianmag.com/smart-news/the-worlds-whitest-paint-may-soon-help-cool-airplanes-and-spacecraft-180980899/" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@SmithsonianMag" />
+<meta name="twitter:creator" content="@" />
+<meta name="twitter:title" content="The World’s Whitest Paint May Soon Help Cool Airplanes and Spacecraft" />
+<meta name="twitter:description" content="The ultra-white color reflects up to 97.9 percent of sunlight and may reduce our reliance on air conditioning" />
+
+<meta name="twitter:image" content="https://th-thumbnailer.cdn-si-edu.com/dGJS2HFBFarJsgrYj-es_hGELIs=/fit-in/1600x0/filters:focal(2100x1400:2101x1401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b0/1e/b01ebc46-5b9a-4d1a-b76d-0256f7c34387/paint_in_the_lab.jpg" />
+<link rel="image_src" href="https://th-thumbnailer.cdn-si-edu.com/dGJS2HFBFarJsgrYj-es_hGELIs=/fit-in/1600x0/filters:focal(2100x1400:2101x1401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b0/1e/b01ebc46-5b9a-4d1a-b76d-0256f7c34387/paint_in_the_lab.jpg">
+<meta name="image" property="og:image" content="https://th-thumbnailer.cdn-si-edu.com/dGJS2HFBFarJsgrYj-es_hGELIs=/fit-in/1600x0/filters:focal(2100x1400:2101x1401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b0/1e/b01ebc46-5b9a-4d1a-b76d-0256f7c34387/paint_in_the_lab.jpg" />
+<meta property="og:image:alt" content="Mechanical engineer Xiulin Ruan helped develop the world&amp;#39;s whitest paint.
+&amp;nbsp;
+
+
+
+&amp;nbsp;" />
+
+<meta property="og:title" content='The World’s Whitest Paint May Soon Help Cool Airplanes and Spacecraft' />
+<meta property="og:url" content="https://www.smithsonianmag.com/smart-news/the-worlds-whitest-paint-may-soon-help-cool-airplanes-and-spacecraft-180980899/" />
+<meta property="og:site_name" content="Smithsonian Magazine" />
+<meta property="og:type" content="article" />
+<meta property="og:description" content="The ultra-white color reflects up to 97.9 percent of sunlight and may reduce our reliance on air conditioning" />
+<meta property="article:section" content="Smart News, Smart News Science, , Smart News Ideas &amp; Innovations" />
+<meta property="article:tag" content="Airplanes, Cars, Climate Change, evolving climate, Global Warming, Innovations, Painting, Sun, Trains, Transportation" />
+<meta property="fb:app_id" content="419418791549947" />
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": "https://www.smithsonianmag.com/smart-news/the-worlds-whitest-paint-may-soon-help-cool-airplanes-and-spacecraft-180980899/",
+  "headline": "The World’s Whitest Paint May Soon Help Cool Airplanes and Spacecraft",
+  "description": "The ultra-white color reflects up to 97.9 percent of sunlight and may reduce our reliance on air conditioning",
+  "url": "https://www.smithsonianmag.com/smart-news/the-worlds-whitest-paint-may-soon-help-cool-airplanes-and-spacecraft-180980899/",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "xpath": [
+      "/html/head/title",
+      "/html/head/meta[@name='description']/@content"
+    ]
+  },
+  "datePublished": "2022-10-05T15:48:09-04:00",
+  "dateModified": "2022-10-05T15:48:09-04:00",
+  "image": {
+    "@type":"ImageObject",
+    "url":"https://th-thumbnailer.cdn-si-edu.com/r0PPubnjPUFhFroLsQxQIqoOvRw=/1072x720/filters:no_upscale():focal(2100x1400:2101x1401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b0/1e/b01ebc46-5b9a-4d1a-b76d-0256f7c34387/paint_in_the_lab.jpg",
+    "width":1072,
+    "height":720
+  },
+  "articleSection": "Smart News",
+  "thumbnailUrl": "https://th-thumbnailer.cdn-si-edu.com/r0PPubnjPUFhFroLsQxQIqoOvRw=/1072x720/filters:no_upscale():focal(2100x1400:2101x1401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b0/1e/b01ebc46-5b9a-4d1a-b76d-0256f7c34387/paint_in_the_lab.jpg",
+  "author": [{
+    "@type": "Person",
+    "name": "Sarah Kuta",
+    "url": "https://www.smithsonianmag.com/author/sarah-kuta/",
+    "image": "https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/accounts/headshot/SarahKuta.png"
+  }],
+  "keywords": ["Smart News", "Airplanes", "Cars", "Climate Change", "evolving climate", "Global Warming", "Innovations", "Painting", "Sun", "Trains", "Transportation", "Smart News Science", "Smart News Ideas & Innovations"],
+  "publisher": {
+    "@type": "Organization",
+    "name": "Smithsonian Magazine",
+    "logo": {
+      "@type":"ImageObject",
+      "url":"https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4e/c9/4ec98b8b-b9d1-4086-858b-84984e84d164/576x164_smithsonianmagazine_logo.png",
+      "width":576,
+      "height":164
+    }
+  }
+}
+</script>
+
+<script type="application/json">
+{
+  "articleID": "180980899",
+  "articleSource": "smithsonianmag.com",
+  "articleType": "Article",
+  "premium": "0",
+  "metered": "0",
+  "articlePage": "1"
+}
+</script>
+
+<script type="text/javascript">
+tp = window["tp"] || [];
+tp.push(["setTags", ["Airplanes", "Cars", "Climate Change", "evolving climate", "Global Warming", "Innovations", "Painting", "Sun", "Trains", "Transportation"]]);
+tp.push(["setContentSection", ["Smart News", "Airplanes", "Cars", "Climate Change", "evolving climate", "Global Warming", "Innovations", "Painting", "Sun", "Trains", "Transportation", "Smart News Science", "Smart News Ideas & Innovations"]]);
+tp.push(["setContentAuthor", "Sarah Kuta"]);
+tp.push(["setContentCreated", "2022-10-05T15:48:09-04:00"]);
+</script>
+
+
+
+  <link rel="preconnect" href="//a.pub.network"/>
+  <link rel="dns-prefetch" href="//www.google-analytics.com"/>
+  <link rel="dns-prefetch" href="//www.googletagmanager.com"/>
+  <link rel="dns-prefetch" href="//connect.facebook.net"/>
+  <link rel="dns-prefetch" href="//ajax.googleapis.com"/>
+  <link rel="dns-prefetch" href="//fonts.googleapis.com"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link rel="dns-prefetch" href="//use.fontawesome.com"/>
+  <link rel="dns-prefetch" href="//logs1.smithsonian.museum"/>
+  <link rel="dns-prefetch" href="//sb.scorecardresearch.com"/>
+  <link rel="dns-prefetch" href="//th-thumbnailer.smithsonianmag.com"/>
+  <link rel="stylesheet" type="text/css" href="/static/smithsonianmag/smithsonianmag.ac8629382434.css"/>
+
+  
+    <link rel="icon" href="/static/smithsonianmag/img/Smithsonianmagazine_favicon.a059ed204fde.ico" sizes="any"><!-- 32×32 -->
+    <link rel="icon" href="/static/smithsonianmag/img/Smithsonianmagazine_favicons.44e60f3d34e8.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/static/smithsonianmag/img/Smithsonianmagazine_apple_touch_icon.bcff19327dab.png">
+    <!-- 180×180 -->
+    <link rel="manifest" href="/manifest.json">
+  
+  
+  
+
+
+  <script type="text/javascript" async src="/static/smithsonianmag/smithsonianmag.bundle.58ed62b017ca.js"></script>
+  <script src="https://kit.fontawesome.com/c31205bd70.js" crossorigin="anonymous"></script>
+  
+
+  
+    <script data-cfasync="false" type="text/javascript">
+      window.freestar = window.freestar || {};
+      freestar.queue = freestar.queue || [];
+      freestar.config = freestar.config || {};
+      freestar.config.enabled_slots = [];
+      freestar.initCallback = function () {
+        (freestar.config.enabled_slots.length === 0) ? freestar.initCallbackCalled = false : freestar.newAdSlots(freestar.config.enabled_slots);
+      };
+      window.GPT = {
+        DOMAIN: 'https://www.smithsonianmag.com/',
+        SITE: 'production',
+        ACCOUNT: '/308522/smithsonianmag.tmus',
+        
+        path: '/308522/smithsonianmag.tmus/smart-news',
+        category: JSON.parse('["smart-news", "smartnews-science", "smartnews-ideas-innovations"]'),
+        tag: JSON.parse('["airplanes", "cars", "climate-change", "evolving-climate", "global-warming", "innovations", "painting", "sun", "trains", "transportation"]'),
+        section_type: JSON.parse('[]'),
+        url: 'the-worlds-whitest-paint-may-soon-help-cool-airplanes-and-spacecraft-180980899',
+        pagetype: 'article',
+        special: JSON.parse('[]')
+      };
+      window.googletag = window.googletag || { cmd: [] };
+      googletag.cmd.push(function() {
+        var fsMapping = googletag.sizeMapping().addSize([1072, 0], [[728, 90], [970, 90], [970, 250], [1072, 325], [1, 1] ])
+          .addSize([970, 0], [[728, 90], [970, 90], [970, 250], [1, 1] ])
+          .addSize([768, 0], [[728, 90], [1, 1] ])
+          .addSize([0, 0], [[300, 50], [320, 50], [1, 1] ])
+          .build();
+        googletag.defineSlot('/15184186,21714840181/smithsonianmag_leaderboard_atf', [728, 90], 'smithsonianmag_leaderboard_atf').setTargeting('pos', ['top'])
+          .defineSizeMapping(fsMapping)
+          .addService(googletag.pubads());
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices(); });
+
+      googletag.cmd.push(function () {
+        googletag.pubads().setTargeting('site', GPT.SITE || "")
+          .setTargeting('Category', GPT.category || "")
+          .setTargeting('tag', GPT.tag || "")
+          .setTargeting('type', GPT.type || "")
+          .setTargeting('special', GPT.special || "")
+          .setTargeting('url', GPT.url || "")
+          .setTargeting('pagetype', GPT.pagetype || "")
+          .setTargeting('segment', GPT.segment || "")
+          .setTargeting('post', GPT.post || "")
+          .setTargeting('section_type', GPT.section_type || "")
+      });
+      freestar.config.targeting = [
+        //{
+        //  "smithsonianmag_leaderboard_atf": {
+        //    "pos": "top"
+        //  }
+        //},
+        {
+          "smithsonianmag_leaderboard_btf": {
+            "pos": "middle"
+          }
+        },
+        {
+          "smithsonianmag_rail_right_1": {
+            "pos": "top"
+          }
+        },
+        {
+          "smithsonianmag_rail_right_2": {
+            "pos": "bottom"
+          }
+        }
+      ];
+    </script>
+    <script type="text/javascript" data-cfasync="false" src="/static/ads/freestar.bundle.e1e73ba9810d.js"></script>
+  
+
+  
+<!-- BEGIN Silverpop -->
+<script
+  src="https://www.sc.pages03.net/lp/static/js/iMAWebCookie.js?1d10bc16-14374088980-b9e6bcd68d4fb511170ab3fcff55179d&h=www.pages03.net"
+  type="text/javascript"></script>
+<meta name="com.silverpop.brandeddomains"
+      content="www.pages03.net,airspacemag.com,si.mkt6346.com,smithsonian.com,smithsonianmag.com"/>
+
+<meta property="fb:pages" content="47619793252"/>
+<meta name="p:domain_verify" content="1cb4877f178228486592ed27f73e9fd1"/>
+
+<!-- OpenSearch -->
+<link rel="search" type="application/opensearchdescription+xml" title="Smithsonian"
+      href="/static/smithsonianmag/xml/opensearch/smith_opensearch.7184bcff4c41.xml">
+
+<!-- START Parse.ly Include: Standard -->
+<script type="text/javascript">
+  window.dataLayer = window.dataLayer || [];
+
+  window.dataLayer.push(function () {
+    if (window.OptanonActiveGroups.indexOf('C0002') === -1) {
+      function shouldTrackPII() {
+        return false;
+      }
+
+      window.PARSELY = window.PARSELY || {
+        autotrack: false,
+        onload: function () {
+          PARSELY.setConfigOptions({
+            track_ip_addresses: shouldTrackPII()
+          });
+          PARSELY.beacon.trackPageView({
+            url: location.href,
+            urlref: document.referrer,
+            js: 1
+          });
+        }
+      };
+    }
+  });
+</script>
+<div id="parsely-root" style="display: none">
+  <span id="parsely-cfg" data-parsely-site="smithsonianmag.com"></span>
+</div>
+<script>
+  (function (s, p, d) {
+    var h = d.location.protocol, i = p + "-" + s,
+      e = d.getElementById(i), r = d.getElementById(p + "-root"),
+      u = h === "https:" ? "d1z2jf7jlzjs58.cloudfront.net"
+        : "static." + p + ".com";
+    if (e) return;
+    e = d.createElement(s);
+    e.id = i;
+    e.async = true;
+    e.src = h + "//" + u + "/p.js";
+    r.appendChild(e);
+  })("script", "parsely", document);
+</script>
+<!-- END Parse.ly Include: Standard -->
+
+
+</head>
+<body class="">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+  <iframe
+    src="https://www.googletagmanager.com/ns.html?id=GTM-M6LKQZ"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+<header class="main">
+  <div class="headerBar">
+    <div class="headerBaritem">
+      <button class="hamburger" type="button">
+        <div id="mobileIcon" class="hamMenu">
+          <div id="mobile-icon">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <p>Sections</p>
+          </div>
+        </div>
+      </button>
+      <div class="searchIcon">
+        <a href="/search/"><i class="fas fa-search"></i></a>
+      </div>
+    </div>
+    <div class="headerBaritem logo">
+      <a href="/"><img src="/static/smithsonianmag/img/smithsonian_magazine_logo_white.5b455067a001.svg"
+                       alt="Smithsonian Magazine white logo" width="135" height="38"/></a>
+    </div>
+    <div class="headerBaritem">
+      
+      <button class="subscribe-btn"><a href="https://subscribe.smithsonianmag.com/?idx=245&amp;inetz=sticky_menu" id="sticky-subscribe-nav-link">Subscribe</a>
+      </button>
+      
+      
+        <button class="renew-btn"><a href="https://ssl.drgnetwork.com/flex/SMT/SMRENEWAL/"
+                                     id="sticky-renew-nav-link">Renew</a>
+        </button>
+      <button class="shop-btn"><a
+        href="https://www.smithsonianstore.com/?code=SEMAG&utm_source=Smithsonianmag.com&utm_medium=shoplink&utm_campaign=hol2016"
+        target="_blank">Shop</a></button>
+    </div>
+  </div>
+
+  <div class="navigation" id="sideNav">
+    <nav>
+      <div class="circulation">
+        <div class="navWrap search-wrapper">
+          <form class="search-form" action="/search/">
+            <input placeholder="Search..." type="text" name="q">
+            <button type="submit"><i class="fas fa-search"></i></button>
+          </form>
+        </div>
+        <div class="navWrap">
+          
+          <button class="subscribe-btn"><a href="https://subscribe.smithsonianmag.com/?idx=245&amp;inetz=side_menu" id="mobile-subscribe-side-menu">Subscribe</a>
+          </button>
+          <button class="gift-btn"><a href="https://subscribe.smithsonianmag.com/gift?idx=246&amp;inetz=side_menu" id="mobile-side-nav-gift">Give a Gift</a>
+          </button>
+          <button class="renew-btn"><a href="https://ssl.drgnetwork.com/flex/SMT/SMRENEWAL/" id="mobile-side-nav-renew">Renew</a>
+          </button>
+        </div>
+      </div>
+
+      <div class="navWrap menu">''
+        
+          
+
+
+  
+    <ul><li>
+  
+      <a href="/category/smart-news/" class="smart-news" >Smart News</a>
+
+  
+
+  
+    <ul><li class="heading">
+  
+      <a href="/category/smartnews-history-archaeology/" class="smart-news-history" >History</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/smartnews-science/" class="smartnews-science" >Science</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/smartnews-ideas-innovations/" class="smartnews-innovation" >Innovation</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/smartnews-arts-culture/" class="smartnews-arts-culture" >Arts &amp; Culture</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/smartnews-travel/" class="smartnews-travel" >Travel</a>
+
+  
+  </li></ul>
+  
+
+  
+    </li><li>
+  
+      <a href="/category/history/" class="history" >History</a>
+
+  
+
+  
+    <ul><li class="heading">
+  
+      <a href="/category/archaeology/" class="archaeology" >Archaeology</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/us-history/" class="us-history" >U.S. History</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/world-history/" class="world-history" >World History</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/history/untold-stories-american-history-180980260/" class="untold-stories-of-american-history" >Untold Stories of American History</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/videos/category/history/" class="history-video" >Video</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.pages03.net/smithsonianinstitution/SmithsonianMagazinePreferenceCenter/Subscribe" class="history-newsletter"  target="blank" >Newsletter</a>
+
+  
+  </li></ul>
+  
+
+  
+    </li><li>
+  
+      <a href="/category/science-nature/" class="science-nature" >Science</a>
+
+  
+
+  
+    <ul><li class="heading">
+  
+      <a href="/category/human-behavior/" class="human-behavior" >Human Behavior</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/mind-body/" class="mind-body" >Mind &amp; Body</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/our-planet/" class="our-planet" >Our Planet</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/space/" class="space" >Space</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/wildlife/" class="wildlife" >Wildlife</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.pages03.net/smithsonianinstitution/SmithsonianMagazinePreferenceCenter/Subscribe" class="science-newsletter"  target="blank" >Newsletter</a>
+
+  
+  </li></ul>
+  
+
+  
+    </li><li>
+  
+      <a href="/category/innovation/" class="innovation" >Innovation</a>
+
+  
+
+  
+    <ul><li class="heading">
+  
+      <a href="https://www.smithsonianmag.com/innovation/innovation-good-180977795/" class="innovation-for-good" >Innovation for Good</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/education/" class="education" >Education</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/energy/" class="energy" >Energy</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/health-medicine/" class="health-medicine" >Health &amp; Medicine</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/technology/" class="technology" >Technology</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/videos/category/ingenuity/" class="ingenuity-video" >Video</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.pages03.net/smithsonianinstitution/SmithsonianMagazinePreferenceCenter/Subscribe" class="ingenuity-newsletter"  target="blank" >Newsletter</a>
+
+  
+  </li></ul>
+  
+
+  
+    </li><li>
+  
+      <a href="/category/arts-culture/" class="arts-culture" >Arts &amp; Culture</a>
+
+  
+
+  
+    <ul><li class="heading">
+  
+      <a href="https://www.smithsonianmag.com/museumday/" class="museum-day" >Museum Day</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/art-artists/" class="art" >Art</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/books-2/" class="books" >Books</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/design/" class="design" >Design</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/food/" class="food" >Food</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/music-film/" class="music-film" >Music &amp; Film</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/videos/category/arts-culture/" class="arts-culture-video" >Video</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.pages03.net/smithsonianinstitution/SmithsonianMagazinePreferenceCenter/Subscribe" class="arts-culture-newsletter"  target="blank" >Newsletter</a>
+
+  
+  </li></ul>
+  
+
+  
+    </li><li>
+  
+      <a href="/category/travel/" class="travel" >Travel</a>
+
+  
+
+  
+    <ul><li class="heading">
+  
+      <a href="/travel/alaska-180959379/" class="alaska" >Alaska</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/travel/virtual-travel-180974440/" class="virtual-travel" >Virtual Travel</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.smithsonianjourneys.org/?src=sjmod-t-h&amp;utm_source=smithsonianmag&amp;utm_medium=referral&amp;utm_campaign=topnav/" class="journeys"  target="blank" >Journeys</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.pages03.net/smithsonianinstitution/SmithsonianMagazinePreferenceCenter/Subscribe" class="travel-newsletter"  target="blank" >Newsletter</a>
+
+  
+  </li></ul>
+  
+
+  
+    </li><li>
+  
+      <a href="/category/smithsonian-institution/" class="smithsonian-institution" >At The Smithsonian</a>
+
+  
+
+  
+    <ul><li class="heading">
+  
+      <a href="https://www.si.edu/Visit" class="visit"  target="blank" >Visit</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/events-exhibitions/" class="exhibitions" >Exhibitions</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/new-research/" class="new-research" >New Research</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/objects/" class="artifacts" >Artifacts</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/curators-corner/" class="curators-corner" >Curators&#x27; Corner</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/ask-smithsonian/" class="ask-smithsonian" >Ask Smithsonian</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/smithsonian-institution/sidedoor-smithsonian-podcast-180961115/" class="podcasts" >Podcasts</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.smithsonianmag.com/blogs/" class="voices" >Voices</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.pages03.net/smithsonianinstitution/SmithsonianMagazinePreferenceCenter/Subscribe" class="ats-newsletter"  target="blank" >Newsletter</a>
+
+  
+  </li></ul>
+  
+
+  
+    </li><li>
+  
+      <a href="https://photocontest.smithsonianmag.com/photocontest/" class="photos" >Photos</a>
+
+  
+
+  
+    <ul><li class="heading">
+  
+      <a href="https://photocontest.smithsonianmag.com/photocontest/" class="photo-contest" >Photo Contest</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.instagram.com/smithsonianmagazine" class="instagram"  target="blank" >Instagram</a>
+
+  
+  </li></ul>
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.smithsonianmag.com/video/" class="video" >Video</a>
+
+  
+
+  
+    <ul><li class="heading">
+  
+      <a href="/videos/category/ingenuity/" class="video-ingenuity-awards" >Ingenuity Awards</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/videos/category/ask-smithsonian/" class="video-ask-smithsonian" >Ask Smithsonian</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/videos/category/smithsonian-channel/" class="smithsonian-channel" >Smithsonian Channel</a>
+
+  
+  </li></ul>
+  
+
+  
+    </li><li>
+  
+      <a href="/category/games/" class="games" >Games</a>
+
+  
+
+  
+    <ul><li class="heading">
+  
+      <a href="/games/daily-sudoku-180940712/" class="daily-sudoku" >Daily Sudoku</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/games/universal-crossword-puzzle-180940711/" class="universal-crossword" >Universal Crossword</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/games/daily-word-search-180958328/" class="daily-word-search" >Daily Word Search</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/games/jumble-180958308/" class="jumble" >Jumble</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/games/mah-jong-quest-180958325/" class="mah-jong-quest" >Mah Jong Quest</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/games/ken-ken-180958307/" class="kenken" >KenKen</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/games/backgammon-180958344/" class="backgammon" >Backgammon</a>
+
+  
+  </li></ul>
+  
+  </li></ul>
+  
+
+
+        
+      </div>
+
+      <div class="secondary">
+        <div class="navWrap menu">
+          
+            
+
+
+  
+    <ul><li>
+  
+      <a href="https://www.pages03.net/smithsonianinstitution/SmithsonianMagazinePreferenceCenter/Subscribe" class="newsletters"  target="blank" >Newsletters</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.smithsonianstore.com/home.do?code=N2IBSMAD&amp;utm_source=Smithsonianmag.com&amp;utm_medium=shoplink&amp;utm_campaign=hol2016" class="shop"  target="blank" >Shop</a>
+
+  
+  </li></ul>
+  
+
+
+          
+        </div>
+      </div>
+    </nav>
+  </div>
+</header>
+
+
+
+
+
+  <div class="advertisement fullwidth adtop">
+    <!-- BEGIN Freestar: Tag ID - smithsonianmag_leaderboard_atf -->
+    <div data-freestar-ad="__320x50 __1072x325" id="smithsonianmag_leaderboard_atf">
+      <script type="text/javascript">
+        googletag.cmd.push(function() {
+          googletag.display('smithsonianmag_leaderboard_atf');
+        });
+      </script>
+    </div>
+    <!-- END Freestar: Tag ID - smithsonianmag_leaderboard_atf -->
+    
+  </div>
+
+
+
+
+
+
+  
+    
+
+
+  
+
+
+  
+
+  <article class="main-content article smart-news">
+    <header class="article-header">
+      <div class="category-label">
+        <hr/>
+        <h2><a
+          href="/category/smart-news/">SMART NEWS</a>
+        </h2>
+      </div>
+
+      
+
+      <h1 class="headline" itemprop="headline">The World’s Whitest Paint May Soon Help Cool Airplanes and Spacecraft</h1>
+      <p class="subtitle" itemprop="description">The ultra-white color reflects up to 97.9 percent of sunlight and may reduce our reliance on air conditioning</p>
+
+      
+        <div class="article-line">
+          
+
+<section class="author-box by-line single-author">
+  
+    
+      
+        <div class="author-headshot smart-news">
+          <img src="https://th-thumbnailer.cdn-si-edu.com/63ZeNGUDBRlalBFUeve-3SBvAec=/fit-in/160x80/filters:no_upscale()/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/accounts/headshot/SarahKuta.png" alt="Sarah Kuta" class="headshot" />
+        </div>
+      
+    
+  
+  <div class="author-text">
+  
+    
+      
+        <p class="author" itemprop="author">
+        
+        
+          <a href='/author/sarah-kuta/'>Sarah Kuta</a>
+        
+        </p>
+      
+      
+    
+
+    
+      
+        <p class="author-short-bio">Daily Correspondent</p>
+      
+    
+    
+      <time class="pub-date" itemprop="datePublished" data-pubdate="Oct. 5, 2022, 3:48 p.m.">October 5, 2022</time>
+    
+  
+  </div>
+  <hr />
+</section>
+
+        </div>
+      
+    </header>
+
+    <div class="article-columns">
+      <div class="articleLeft" data-article-body>
+        
+          <figure class="article-image lead-article-image">
+            <img src="https://th-thumbnailer.cdn-si-edu.com/WLx3eB_JhQDmx5Z9T7mbPtZeYp4=/1000x750/filters:no_upscale():focal(2100x1400:2101x1401)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b0/1e/b01ebc46-5b9a-4d1a-b76d-0256f7c34387/paint_in_the_lab.jpg"
+                 alt="Xiulin Ruan holding paintbrush"
+                 itemprop="image"/>
+            <figcaption class="caption">
+              
+                Mechanical engineer Xiulin Ruan helped develop the world&#39;s whitest paint.
+&nbsp;
+
+
+<br />
+&nbsp;
+              <span class="credit">Courtesy of Purdue University / John Underwood</span>
+            </figcaption>
+          </figure>
+        
+
+        <div class="addthis_inline_share_toolbox"></div>
+
+        <p>On a hot tarmac in the peak of summer, <a href="https://www.smithsonianmag.com/smart-news/electric-planes-are-taking-flight-180980821/">an airplane</a>’s crew has little choice but to run the air conditioner to keep themselves and their passengers cool. But soon, crews could become less reliant on the A.C., thanks to a new lightweight, ultra-white paint that can reflect up to 97.9 percent of sunlight.</p>
+
+<p>This engineered paint has the potential to cool the exteriors of airplanes, cars, trains and even spacecraft. As the <a href="https://www.smithsonianmag.com/tag/global-warming/">planet warms</a> because of human-caused climate change, the paint could be an innovative, passive way to keep spaces—and people—cool. At the same time, it could reduce our reliance on <a href="https://www.energy.gov/energysaver/air-conditioning">energy-guzzling</a> and heat-emitting <a href="https://www.eia.gov/energyexplained/use-of-energy/homes.php">air conditioners</a> that contribute to global warming.</p>
+
+<p>The paint is an improvement on an earlier formula, which was too thick to be applied to anything but stationary structures. Now, researchers say they’ve <a href="https://www.purdue.edu/newsroom/releases/2022/Q4/worlds-whitest-paint-now-thinner-than-ever,-ideal-for-vehicles.html">refined the paint with an ultra-thin formula</a> that’s safe for coating vehicles. In a paper published Monday in the journal <em><a href="https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(22)00352-6"><em>Cell Reports Physical Science</em></a></em>, the team shared the details of their new-and-improved product.</p>
+
+<p>“This light weight opens the doors to all kinds of applications,” says <a href="https://engineering.purdue.edu/ME/People/ptProfile?resource_id=12482">George Chiu</a>, a Purdue University mechanical engineer, in a <a href="https://www.purdue.edu/newsroom/releases/2022/Q4/worlds-whitest-paint-now-thinner-than-ever,-ideal-for-vehicles.html">statement</a>.</p>
+
+<p>In spring last year, a team from Purdue unveiled the first <a href="https://www.smithsonianmag.com/innovation/ultra-white-paint-may-someday-replace-air-conditioning-180977560/">ultra-white paint</a>—a product so white that it set a <a href="https://www.guinnessworldrecords.com/world-records/659962-whitest-paint?_ga=2.222172319.663211676.1664981403-1573018669.1664981403">Guinness World Record</a>. The key was barium sulfate, which allowed the paint to reflect 98.1 percent of sunlight and cool surfaces by up to 19 degrees Fahrenheit compared to their surroundings.</p>
+
+<p>For comparison, commercially available paints on the market today can only reflect 80 to 90 percent of sunlight, meaning they absorb a lot more light and heat. The ultra-white paint, meanwhile, cools surfaces by emitting more heat than it retains—and it doesn’t use any electricity.</p>
+
+<p>“Air conditioners can cool your house, but they move the heat from inside the house to outside—the heat is still in the city, it’s still on the Earth,” said <a href="https://engineering.purdue.edu/ME/People/Areas/ptProfile?resource_id=29343">Xiulin Ruan</a>, a mechanical engineer at Purdue who helped develop the paint, to <a href="https://www.smithsonianmag.com/innovation/ultra-white-paint-may-someday-replace-air-conditioning-180977560/"><em>Smithsonian</em> magazine</a> last year. “Our paint does not use any power, but, more importantly, it sends the heat to space. The heat doesn’t stay on the Earth, so that really helps the Earth to cool down and can stop the warming trend.”</p>
+
+<figure class="article-image ">
+  
+    <img src="https://th-thumbnailer.cdn-si-edu.com/sHxR1CCVSPfmtQ57GwwYK3t4HaE=/fit-in/1072x0/filters:focal(1968x1312:1969x1313)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/07/88/07887c26-1bdf-4e87-9b69-8b56a9c464c1/rooftop_testing_1.jpg" alt="Researchers on rooftop"/>
+  
+
+  <figcaption class="caption">
+    
+      Researchers Xiulin Ruan and Joseph Peoples use an infrared camera to compare the cooling performance of white paint samples on a rooftop.
+<br />
+&nbsp;
+    
+    
+      <span class="credit">Courtesy of Purdue University / Jared Pike</span>
+    
+  </figcaption>
+</figure>
+<p>To achieve those groundbreaking results, however, the engineers had to paint a layer that was at least 400 microns thick. That thickness works for strong, stationary structures, like the roof of a building or home. But for vessels that move, as well as objects with specific size and weight requirements, the paint really needs to be thinner and lighter, according to the researchers.</p>
+
+<p>So, the engineers went back to the lab and began tinkering with the paint’s chemical composition. Their new paint uses <a href="https://www.sciencedirect.com/topics/physics-and-astronomy/hexagonal-boron-nitride">hexagonal boron nitride</a>, a substance often used in lubricants, to give it a blindingly white hue. The hexagonal boron nitride scatters sunlight to reflect up to 97.9 percent of the sun’s rays, and it gets applied at a thickness of just 150 microns. The new paint is also highly porous, with voids of air that helped drop its weight by about 80 percent compared to the earlier version, per the researchers.</p>
+
+<p>Making the paint lighter and thinner should, in theory, make it useful for a wider array of applications. In the time since the first paint came out, Ruan has been contacted by spacecraft manufacturers, architects and makers of clothes and shoes who were looking for a lighter-weight version, per the statement. Ruan says the team is currently in discussions to commercialize the paint.</p>
+
+<p>Widespread adoption should, in theory, make it an even more viable tool for combating climate change in the long run, researchers say.</p>
+
+<p>“The paint has the benefits of saving on electric bills and at the same time contributing to saving the earth,” University of Tennessee Knoxville mechanical engineer <a href="https://mabe.utk.edu/people/xiangyu-li/">Xiangyu Li</a>, who helped develop the paint while studying at Purdue but is not an author of the new paper, said to the <a href="https://www.indystar.com/story/news/environment/2021/12/23/purdue-university-invents-whitest-white-paint-world-fight-climate-crisis/8529610002/"><em>Indianapolis Star'</em></a>s Sarah Bowman last year. "It connects with everyone.” </p>
+
+        
+
+        <div class="widget-article-pixel">
+          
+        </div>
+
+        
+          
+        
+
+        
+          
+
+
+  
+    
+      <section class="author-box by-line single-author footer-author-box">
+        
+          <div class="author-headshot smart-news">
+            <img src="https://th-thumbnailer.cdn-si-edu.com/VgM6_YG75MiGc41Li8B1Tu8_oxI=/fit-in/200x200/filters:no_upscale()/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/accounts/headshot/SarahKuta.png" alt="Sarah Kuta" class="headshot" />
+          </div>
+        
+          <div class="author-text">
+            <p class="author" itemprop="author">
+              <span class="author-name">Sarah Kuta</span>
+              
+              <span class="separator">|</span> <a href="/author/sarah-kuta/" title="Read more from this author"><span class="author-smaller">READ MORE</span></a>
+            </p>
+            <p class="author-bio-text">Sarah Kuta is a writer and editor based in Longmont, Colorado. She covers history, science, travel, food and beverage, sustainability, economics and other topics.</p>
+          </div>
+      </section>
+    
+  
+
+  
+
+
+        
+
+        
+          
+            <section class="tag-list">
+              <nav class="nav-tags">
+                
+                  
+                    <a href="/tag/airplanes/">Airplanes</a>
+                  
+                
+                  
+                    <a href="/tag/cars/">Cars</a>
+                  
+                
+                  
+                    <a href="/tag/climate-change/">Climate Change</a>
+                  
+                
+                  
+                    <a href="/tag/evolving-climate/">evolving climate</a>
+                  
+                
+                  
+                    <a href="/tag/global-warming/">Global Warming</a>
+                  
+                
+                  
+                    <a href="/tag/innovations/">Innovations</a>
+                  
+                
+                  
+                    <a href="/tag/painting/">Painting</a>
+                  
+                
+                  
+                    <a href="/tag/sun/">Sun</a>
+                  
+                
+                  
+                    <a href="/tag/trains/">Trains</a>
+                  
+                
+                  
+                    <a href="/tag/transportation/">Transportation</a>
+                  
+                
+              </nav>
+            </section>
+          
+        
+
+        <section class="recommended-videos">
+          <div class="widget-heading">Recommended Videos</div>
+          <script src="//content.jwplatform.com/libraries/8LIWDSEE.js"></script>
+          <div id="player_inarticle"></div>
+          <script type="text/javascript">
+            jwplayer('player_inarticle').setup({
+              playlist: 'https://cdn.jwplayer.com/v2/playlists/7ACdGP2D?format=mrss&search=__CONTEXTUAL__',
+              autostart: 'viewable',
+              autoplayadsmuted: true,
+              advertising: {
+                client: 'vast',
+                tag: 'https://vid.springserve.com/vast/653615?w=__player-width__&h=__player-height__&cb=__random-number__&url=__page-url__&gdpr=__gdpr__&gdpr_consent=__gdpr_consent__&addtl_consent=__addtl_consent__&iu=/15184186,21714840181/freestar_springserve_direct_video_instream_smithsonianmag-com_2410_&cust_params=__item-cust_params__&schain=1.0,1!freestar.com,1062,1,,,,'
+              }
+            });
+          </script>
+        </section>
+
+        
+          <div class="article-comments comments">
+            <button class="btn-comments" id="trigger" disqus_id="article-the-worlds-whitest-paint-may-soon-help-cool-airplanes-and-spacecraft">Post a Comment
+            </button>
+            <div id="disqus_thread"></div>
+          </div>
+        
+
+      </div>
+
+      <div class="articleRight">
+
+        <aside>
+            <!-- BEGIN Freestar: Tag ID - smithsonianmag_rail_right_1 -->
+<div align="center" data-freestar-ad="__300x600" id="smithsonianmag_rail_right_1">
+  <script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "smithsonianmag_rail_right_1", slotId: "smithsonianmag_rail_right_1" });
+  </script>
+</div>
+<!-- END Freestar: Tag ID - smithsonianmag_rail_right_1 -->
+
+
+          
+
+
+
+  <div class="widget-heading">Most Popular</div>
+  <div class="widget-most-popular">
+    <ol>
+      
+        <li>
+          <div class="containment">
+            <div class="thumb"><img src="https://th-thumbnailer.cdn-si-edu.com/EnMgSa25afazSFFBxfvC5JQFwr0=/100x100/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4a/a0/4aa0e59a-b4fb-4f3d-915e-0ac08b0a5e6a/gettyimages-926845884.jpg" alt="Rare ‘Mummified Dinosaur’ Formed in an Unexpected Way icon" /></div>
+            <div class="headline"><a href="/smart-news/rare-mummified-dinosaur-formed-in-an-unexpected-way-180980942/">Rare ‘Mummified Dinosaur’ Formed in an Unexpected Way</a></div>
+          </div>
+        </li>
+      
+        <li>
+          <div class="containment">
+            <div class="thumb"><img src="https://th-thumbnailer.cdn-si-edu.com/bIId0imOUoOIo-K31rRmcQSUhnk=/100x100/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/ef/69/ef69bfc4-6e03-4ea9-9ff3-e95be7bf3a33/ih063473.jpg" alt="Maybe the World&#x27;s Loneliest Whale Isn&#x27;t So Isolated, After All icon" /></div>
+            <div class="headline"><a href="/smart-news/maybe-worlds-loneliest-whale-isnt-so-isolated-after-all-180955005/">Maybe the World's Loneliest Whale Isn't So Isolated, After All</a></div>
+          </div>
+        </li>
+      
+        <li>
+          <div class="containment">
+            <div class="thumb"><img src="https://th-thumbnailer.cdn-si-edu.com/E0AzOZ16YmGwIKTnzyaqLoCODZc=/100x100/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/7b/b1/7bb13ff8-f7c1-4aee-9705-5489f056ff5d/dahomehy.jpg" alt="The Real History Behind &#x27;The Woman King&#x27; icon" /></div>
+            <div class="headline"><a href="/history/real-warriors-woman-king-dahomey-agojie-amazons-180980750/">The Real History Behind 'The Woman King'</a></div>
+          </div>
+        </li>
+      
+        <li>
+          <div class="containment">
+            <div class="thumb"><img src="https://th-thumbnailer.cdn-si-edu.com/FPbInTG8LHjWS2FEyUojBQ_i8N8=/100x100/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/salem631.jpg" alt="A Brief History of the Salem Witch Trials icon" /></div>
+            <div class="headline"><a href="/history/a-brief-history-of-the-salem-witch-trials-175162489/">A Brief History of the Salem Witch Trials</a></div>
+          </div>
+        </li>
+      
+        <li>
+          <div class="containment">
+            <div class="thumb"><img src="https://th-thumbnailer.cdn-si-edu.com/ZWl95Yh9UeqI7zwGnegv9WnvtxQ=/100x100/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2f/9b/2f9b096d-e726-4653-b909-20a0d5b678fe/747_fat_sept_6_courtesy_l_law.jpg" alt="Bear 747 Overcomes Scandal to Win Fat Bear Week icon" /></div>
+            <div class="headline"><a href="/smart-news/bear-747-victorious-in-2022-fat-bear-week-competition-180980931/">Bear 747 Overcomes Scandal to Win Fat Bear Week</a></div>
+          </div>
+        </li>
+      
+    </ol>
+  </div>
+
+
+          
+          
+            
+          
+
+          
+          
+            
+          
+        </aside>
+
+      </div>
+    </div>
+  </article>
+
+
+<footer>
+  <div class="footerLogo">
+    <a href="/"><img loading="lazy" src="/static/smithsonianmag/img/smithsonian_magazine_logo_black.46435ad4efd4.svg"
+                     alt="Smithsonian Magazine Logo in Black" width="120" height="33"/></a>
+  </div>
+
+  <div class="footerNav">
+    <div class="footerNavItem">
+      <p class="textlabel">Explore</p>
+      
+        
+
+
+  
+    <ul><li>
+  
+      <a href="/category/smart-news/" class="smart-news" >Smart News</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/history/" class="history" >History</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/science-nature/" class="science-nature" >Science</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/innovation/" class="innovation" >Innovation</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/arts-culture/" class="arts-culture" >Arts &amp; Culture</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/travel/" class="travel" >Travel</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/smithsonian-institution/" class="smithsonian-institution" >At The Smithsonian</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://photocontest.smithsonianmag.com/photocontest/" class="photos" >Photos</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.smithsonianmag.com/video/" class="video" >Video</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/category/games/" class="games" >Games</a>
+
+  
+  </li></ul>
+  
+
+
+      
+    </div>
+    <div class="footerNavItem">
+      <p class="textlabel">Subscribe</p>
+      
+      <ul>
+        <li><a href="https://subscribe.smithsonianmag.com/?idx=245&amp;inetz=footer" id="www-footer-nav">Subscribe</a></li>
+        <li><a href="https://subscribe.smithsonianmag.com/gift?idx=246&amp;inetz=footer" id="fixed-footer-gift">Give a gift</a></li>
+        <li><a href="https://ssl.drgnetwork.com/flex/SMT/SMRENEWAL/" id="fixed-footer-renew">Renew</a></li>
+      </ul>
+
+      <p class="textlabel spacing">Newsletters</p>
+      <ul>
+        <li><a href="/newsletters/">Sign Up</a></li>
+      </ul>
+    </div>
+    <div class="footerNavItem">
+      <p class="textlabel">Our Partners</p>
+      
+        
+
+
+  
+    <ul><li>
+  
+      <a href="https://www.si.edu/?utm_source=Smithsonianmag.com&amp;utm_medium=globalfooter&amp;utm_campaign=referlink" class="smithsonian-institution-2"  target="blank" >Smithsonian Institution</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.smithsonian.com/?utm_source=Smithsonianmag.com&amp;utm_medium=globalfooter&amp;utm_campaign=referlink" class="smithsoniancom"  target="blank" >Smithsonian.com</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.smithsonianstore.com/home.do?code=N2IBSMAD&amp;utm_source=Smithsonianmag.com&amp;utm_medium=globalfooter&amp;utm_campaign=referlink" class="smithsonian-store"  target="blank" >Smithsonian Store</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.smithsonianjourneys.org/catalog/?src=sjmod-new-hp&amp;utm_source=smithsonianmag.com&amp;utm_medium=module&amp;utm_campaign=sjmod-new-hp&amp;utm_content=footer" class="smithsonian-journeys"  target="blank" >Smithsonian Journeys</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.smithsonianchannel.com/?utm_source=Smithsonianmag.com&amp;utm_medium=globalfooter&amp;utm_campaign=referlink" class="smithsonian-channel2"  target="blank" >Smithsonian Channel</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.smithsonianbooks.com/?utm_source=Smithsonianmag.com&amp;utm_medium=globalfooter&amp;utm_campaign=referlink" class="smithsonian-books"  target="blank" >Smithsonian Books</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.si.edu/support" class="smithsonian-membership"  target="blank" >Smithsonian Membership</a>
+
+  
+  </li></ul>
+  
+
+
+      
+    </div>
+    <div class="footerNavItem">
+      <p class="textlabel">Terms of Use</p>
+
+      
+        
+
+
+  
+    <ul><li>
+  
+      <a href="/about/" class="about-smithsonian" >About Smithsonian</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/contact/" class="contact-us" >Contact Us</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/mediakit/" class="advertising" >Advertising</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.smithsonianmag.com/rss/" class="rss" >RSS</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/member-services/" class="member-services" >Member Services</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/sustainability/" class="sustainability" >Sustainability</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="https://www.si.edu/termsofuse" class="terms-of-use"  target="blank" >Terms of Use</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/privacy/" class="privacy-statement-1" >Privacy Statement</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/privacy/cookie-policy/" class="cookie-policy" >Cookie Policy</a>
+
+  
+
+  
+    </li><li>
+  
+      <a href="/privacy/ad-choices/" class="advertising-notice" >Advertising Notice</a>
+
+  
+  </li></ul>
+  
+
+
+      
+    </div>
+  </div>
+  <div class="footerLinks">
+    
+      
+
+<p>
+
+  
+        <p>
+        <span>&copy; 2022 Smithsonian Magazine</span>
+  
+          <span><a class="privacy-statement" href="/privacy/">Privacy Statement</a></span>
+
+  
+
+  
+  
+          <span><a class="cookie-policy-2" href="/privacy/cookie-policy/">Cookie Policy</a></span>
+
+  
+
+  
+  
+          <span><a class="terms-of-use-2" href="https://www.si.edu/termsofuse" target="blank">Terms of Use</a></span>
+
+  
+
+  
+  
+          <span><a class="advertising-notice-2" href="/privacy/ad-choices/">Advertising Notice</a></span>
+
+  
+
+  
+  
+          <span><a class="manage-my-data" href="/privacy/manage-my-data/">Manage My Data</a></span>
+
+  
+    <span><a id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie Settings</a></span>
+  </p>
+  
+
+
+    
+  </div>
+</footer>
+
+
+
+
+
+
+
+
+<script>(function(){var js = "window['__CF$cv$params']={r:'75b09b78cef699c3',m:'NBagbOEWsZisUMVjienIW4GRlxm9eZ8JBWVFkVhQwCk-1665921345-0-AQXM0GqwnMMV+N1G7L5sbqsNjN0++xNmeatMfTvUl6u+XaP2Aoq9qZOy5qgog6nU6gllJkMQ0/vg7NuPJY4CwNmz4U0ATTmBWHbPAGkaqx90SSdQq4PjCDXzic2rMho5tLEEDy41Bz5NHhRpDxk5mJXug1nTeJqWPWzXz+eMdjcHnTuG3RJHeHR0DnkYaT4xjDYDLai7CklzSCkpTA4fa3oOE7jM7HixfkURVicStFCE',s:[0xc73dc96cd3,0xdd9b43471c],u:'/cdn-cgi/challenge-platform/h/g'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/g/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"75b09b78cef699c3","token":"67f2fcd04947488b943852cdd7b0942b","version":"2022.8.1","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>

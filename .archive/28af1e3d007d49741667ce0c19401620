@@ -1,0 +1,1843 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="twitter:dnt" content="on">
+
+		<script>document.documentElement.classList.remove('no-js');document.documentElement.classList.add('js');</script>
+			<meta name="awa-product" content="MSR">
+						<meta name="awa-stv" content="6.14.0">
+						<meta name="awa-sitesection" content="blog post single">
+						<meta name="awa-pageType" content="Article">
+						<meta name="awa-market" content="en-us">
+						<meta name="awa-env" content="Production">
+						<meta name="awa‐asst" content="747589">
+						<meta name="awa-pgidx" content="1">
+						<meta name="awa-pgtot" content="-1">
+						<meta name="awa-pgtop" content="">
+			<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.5.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>When discussing inclusive design, don&#039;t leave out users with invisible disabilities - Microsoft Research</title>
+	<link rel="canonical" href="https://www.microsoft.com/en-us/research/group/customer-insights-research/articles/when-discussing-inclusive-design-dont-leave-out-users-with-invisible-disabilities/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="When discussing inclusive design, don&#039;t leave out users with invisible disabilities - Microsoft Research" />
+	<meta property="og:description" content="More than 1 billion people worldwide live with a disability. Using the social model of disability, we ask ourselves if the technology we develop creates or removes barriers for users who are already experiencing challenges in a physical world that was not designed for them. For example, an overwhelming interface may be disabling to information workers who have sensory processing challenges and notifications may be disabling to a user who is trying to focus on a project.  " />
+	<meta property="og:url" content="https://www.microsoft.com/en-us/research/group/customer-insights-research/articles/when-discussing-inclusive-design-dont-leave-out-users-with-invisible-disabilities/" />
+	<meta property="og:site_name" content="Microsoft Research" />
+	<meta property="article:publisher" content="https://www.facebook.com/microsoftresearch/" />
+	<meta property="article:modified_time" content="2021-05-25T19:45:59+00:00" />
+	<meta property="og:image" content="https://www.microsoft.com/en-us/research/uploads/prod/2021/05/SM-accessible-people.png" />
+	<meta property="og:image:width" content="700" />
+	<meta property="og:image:height" content="313" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@MSFTResearch" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.microsoft.com/en-us/research/group/customer-insights-research/articles/when-discussing-inclusive-design-dont-leave-out-users-with-invisible-disabilities/","url":"https://www.microsoft.com/en-us/research/group/customer-insights-research/articles/when-discussing-inclusive-design-dont-leave-out-users-with-invisible-disabilities/","name":"When discussing inclusive design, don't leave out users with invisible disabilities - Microsoft Research","isPartOf":{"@id":"https://www.microsoft.com/en-us/research/#website"},"primaryImageOfPage":{"@id":"https://www.microsoft.com/en-us/research/group/customer-insights-research/articles/when-discussing-inclusive-design-dont-leave-out-users-with-invisible-disabilities/#primaryimage"},"image":{"@id":"https://www.microsoft.com/en-us/research/group/customer-insights-research/articles/when-discussing-inclusive-design-dont-leave-out-users-with-invisible-disabilities/#primaryimage"},"thumbnailUrl":"https://www.microsoft.com/en-us/research/uploads/prod/2021/05/SM-accessible-people.png","datePublished":"2021-05-25T16:36:58+00:00","dateModified":"2021-05-25T19:45:59+00:00","breadcrumb":{"@id":"https://www.microsoft.com/en-us/research/group/customer-insights-research/articles/when-discussing-inclusive-design-dont-leave-out-users-with-invisible-disabilities/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.microsoft.com/en-us/research/group/customer-insights-research/articles/when-discussing-inclusive-design-dont-leave-out-users-with-invisible-disabilities/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.microsoft.com/en-us/research/group/customer-insights-research/articles/when-discussing-inclusive-design-dont-leave-out-users-with-invisible-disabilities/#primaryimage","url":"https://www.microsoft.com/en-us/research/uploads/prod/2021/05/SM-accessible-people.png","contentUrl":"https://www.microsoft.com/en-us/research/uploads/prod/2021/05/SM-accessible-people.png","width":700,"height":313,"caption":"stick figures with different disabilities"},{"@type":"BreadcrumbList","@id":"https://www.microsoft.com/en-us/research/group/customer-insights-research/articles/when-discussing-inclusive-design-dont-leave-out-users-with-invisible-disabilities/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.microsoft.com/en-us/research/"},{"@type":"ListItem","position":2,"name":"When discussing inclusive design, don&#8217;t leave out users with invisible disabilities"}]},{"@type":"WebSite","@id":"https://www.microsoft.com/en-us/research/#website","url":"https://www.microsoft.com/en-us/research/","name":"Microsoft Research","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.microsoft.com/en-us/research/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//wcpstatic.microsoft.com' />
+<link rel='dns-prefetch' href='//amp.azure.net' />
+<link rel='dns-prefetch' href='//js.monitor.azure.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Microsoft Research &raquo; Feed" href="https://www.microsoft.com/en-us/research/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Microsoft Research &raquo; Comments Feed" href="https://www.microsoft.com/en-us/research/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.microsoft.com\/en-us\/research\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<style id='elasticpress-facet-style-inline-css' type='text/css'>
+.widget_ep-facet input[type=search],.wp-block-elasticpress-facet input[type=search]{margin-bottom:1rem}.widget_ep-facet .searchable .inner,.wp-block-elasticpress-facet .searchable .inner{max-height:20em;overflow:scroll}.widget_ep-facet .term.hide,.wp-block-elasticpress-facet .term.hide{display:none}.widget_ep-facet .empty-term,.wp-block-elasticpress-facet .empty-term{opacity:.5;position:relative}.widget_ep-facet .empty-term:after,.wp-block-elasticpress-facet .empty-term:after{bottom:0;content:" ";display:block;left:0;position:absolute;right:0;top:0;width:100%;z-index:2}.widget_ep-facet .level-1,.wp-block-elasticpress-facet .level-1{padding-left:20px}.widget_ep-facet .level-2,.wp-block-elasticpress-facet .level-2{padding-left:40px}.widget_ep-facet .level-3,.wp-block-elasticpress-facet .level-3{padding-left:60px}.widget_ep-facet .level-4,.wp-block-elasticpress-facet .level-4{padding-left:5pc}.widget_ep-facet .level-5,.wp-block-elasticpress-facet .level-5{padding-left:75pt}.widget_ep-facet input[disabled],.wp-block-elasticpress-facet input[disabled]{cursor:pointer;opacity:1}.widget_ep-facet .term a,.wp-block-elasticpress-facet .term a{-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-ms-flexbox;display:flex;position:relative}.widget_ep-facet .term a:hover .ep-checkbox,.wp-block-elasticpress-facet .term a:hover .ep-checkbox{background-color:#ccc}.ep-checkbox{-webkit-box-align:center;-ms-flex-align:center;-ms-flex-negative:0;-webkit-box-pack:center;-ms-flex-pack:center;align-items:center;background-color:#eee;display:-webkit-box;display:-ms-flexbox;display:flex;flex-shrink:0;height:1em;justify-content:center;margin-right:.25em;width:1em}.ep-checkbox:after{border:solid #fff;border-width:0 .125em .125em 0;content:"";display:none;height:.5em;-webkit-transform:rotate(45deg);transform:rotate(45deg);width:.25em}.ep-checkbox.checked{background-color:#5e5e5e}.ep-checkbox.checked:after{display:block}
+
+</style>
+<link rel='stylesheet' id='elasticpress-related-posts-block-css'  href='https://www.microsoft.com/en-us/research/wp-content/plugins/elasticpress/dist/css/related-posts-block-styles.min.css?ver=4.2.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #171717;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--blue: #0072cc;--wp--preset--color--purple: #5c2d91;--wp--preset--color--magenta: #b4009e;--wp--preset--color--red: #e81123;--wp--preset--color--orange: #d83b01;--wp--preset--color--yellow: #ffb900;--wp--preset--color--green: #107c10;--wp--preset--color--teal: #008272;--wp--preset--color--dark-gray: #2f2f2f;--wp--preset--color--gray: #767676;--wp--preset--color--light-gray: #e3e3e3;--wp--preset--color--lighter-gray: #f2f2f2;--wp--preset--color--light-blue: #ecf8fe;--wp--preset--color--cyan-blue: #3aa0fa;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.wp-block-button__link{--wp--preset--color--blue: #0072cc;--wp--preset--color--cyan-blue: #3aa0fa;--wp--preset--color--black: #171717;--wp--preset--color--white: #ffffff;}body { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-blue-color{color: var(--wp--preset--color--blue) !important;}.has-purple-color{color: var(--wp--preset--color--purple) !important;}.has-magenta-color{color: var(--wp--preset--color--magenta) !important;}.has-red-color{color: var(--wp--preset--color--red) !important;}.has-orange-color{color: var(--wp--preset--color--orange) !important;}.has-yellow-color{color: var(--wp--preset--color--yellow) !important;}.has-green-color{color: var(--wp--preset--color--green) !important;}.has-teal-color{color: var(--wp--preset--color--teal) !important;}.has-dark-gray-color{color: var(--wp--preset--color--dark-gray) !important;}.has-gray-color{color: var(--wp--preset--color--gray) !important;}.has-light-gray-color{color: var(--wp--preset--color--light-gray) !important;}.has-lighter-gray-color{color: var(--wp--preset--color--lighter-gray) !important;}.has-light-blue-color{color: var(--wp--preset--color--light-blue) !important;}.has-cyan-blue-color{color: var(--wp--preset--color--cyan-blue) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-blue-background-color{background-color: var(--wp--preset--color--blue) !important;}.has-purple-background-color{background-color: var(--wp--preset--color--purple) !important;}.has-magenta-background-color{background-color: var(--wp--preset--color--magenta) !important;}.has-red-background-color{background-color: var(--wp--preset--color--red) !important;}.has-orange-background-color{background-color: var(--wp--preset--color--orange) !important;}.has-yellow-background-color{background-color: var(--wp--preset--color--yellow) !important;}.has-green-background-color{background-color: var(--wp--preset--color--green) !important;}.has-teal-background-color{background-color: var(--wp--preset--color--teal) !important;}.has-dark-gray-background-color{background-color: var(--wp--preset--color--dark-gray) !important;}.has-gray-background-color{background-color: var(--wp--preset--color--gray) !important;}.has-light-gray-background-color{background-color: var(--wp--preset--color--light-gray) !important;}.has-lighter-gray-background-color{background-color: var(--wp--preset--color--lighter-gray) !important;}.has-light-blue-background-color{background-color: var(--wp--preset--color--light-blue) !important;}.has-cyan-blue-background-color{background-color: var(--wp--preset--color--cyan-blue) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-blue-border-color{border-color: var(--wp--preset--color--blue) !important;}.has-purple-border-color{border-color: var(--wp--preset--color--purple) !important;}.has-magenta-border-color{border-color: var(--wp--preset--color--magenta) !important;}.has-red-border-color{border-color: var(--wp--preset--color--red) !important;}.has-orange-border-color{border-color: var(--wp--preset--color--orange) !important;}.has-yellow-border-color{border-color: var(--wp--preset--color--yellow) !important;}.has-green-border-color{border-color: var(--wp--preset--color--green) !important;}.has-teal-border-color{border-color: var(--wp--preset--color--teal) !important;}.has-dark-gray-border-color{border-color: var(--wp--preset--color--dark-gray) !important;}.has-gray-border-color{border-color: var(--wp--preset--color--gray) !important;}.has-light-gray-border-color{border-color: var(--wp--preset--color--light-gray) !important;}.has-lighter-gray-border-color{border-color: var(--wp--preset--color--lighter-gray) !important;}.has-light-blue-border-color{border-color: var(--wp--preset--color--light-blue) !important;}.has-cyan-blue-border-color{border-color: var(--wp--preset--color--cyan-blue) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.wp-block-button__link.has-blue-color{color: var(--wp--preset--color--blue) !important;}.wp-block-button__link.has-cyan-blue-color{color: var(--wp--preset--color--cyan-blue) !important;}.wp-block-button__link.has-black-color{color: var(--wp--preset--color--black) !important;}.wp-block-button__link.has-white-color{color: var(--wp--preset--color--white) !important;}.wp-block-button__link.has-blue-background-color{background-color: var(--wp--preset--color--blue) !important;}.wp-block-button__link.has-cyan-blue-background-color{background-color: var(--wp--preset--color--cyan-blue) !important;}.wp-block-button__link.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.wp-block-button__link.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.wp-block-button__link.has-blue-border-color{border-color: var(--wp--preset--color--blue) !important;}.wp-block-button__link.has-cyan-blue-border-color{border-color: var(--wp--preset--color--cyan-blue) !important;}.wp-block-button__link.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.wp-block-button__link.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}
+</style>
+<link rel='stylesheet' id='cpsh-shortcodes-css'  href='https://www.microsoft.com/en-us/research/wp-content/plugins/column-shortcodes/assets/css/shortcodes.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='moray_blocks_shared_style-css'  href='https://www.microsoft.com/en-us/research/wp-content/plugins/moray-blocks/dist/css/shared-style.css?ver=0.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='moray_blocks_frontend_style-css'  href='https://www.microsoft.com/en-us/research/wp-content/plugins/moray-blocks/dist/css/style.css?ver=0.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='msr_block_library_plugin_shared-css'  href='https://www.microsoft.com/en-us/research/wp-content/plugins/msr-blocks-library/dist/css/shared.css?ver=84ec005705eae31d699a' type='text/css' media='all' />
+<link rel='stylesheet' id='msr_block_library_plugin_frontend-css'  href='https://www.microsoft.com/en-us/research/wp-content/plugins/msr-blocks-library/dist/css/frontend.css?ver=c8e2fd8e1a4ad1fc3cac' type='text/css' media='all' />
+<link rel='stylesheet' id='taxonomy-image-plugin-public-css'  href='https://www.microsoft.com/en-us/research/wp-content/plugins/taxonomy-images/css/style.css?ver=0.9.6' type='text/css' media='screen' />
+<link rel='stylesheet' id='trp-floater-language-switcher-style-css'  href='https://www.microsoft.com/en-us/research/wp-content/plugins/translatepress/assets/css/trp-floater-language-switcher.css?ver=2.3.7' type='text/css' media='all' />
+<link rel='stylesheet' id='trp-language-switcher-style-css'  href='https://www.microsoft.com/en-us/research/wp-content/plugins/translatepress/assets/css/trp-language-switcher.css?ver=2.3.7' type='text/css' media='all' />
+<link rel='stylesheet' id='single-msr-blog-post-css'  href='https://www.microsoft.com/en-us/research/wp-content/themes/microsoft-research-theme/assets/css/single-msr-blog-post.min.css?ver=6a8b9372' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-components-css'  href='https://www.microsoft.com/en-us/research/wp-includes/css/dist/components/style.min.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-editor-css'  href='https://www.microsoft.com/en-us/research/wp-includes/css/dist/block-editor/style.min.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-nux-css'  href='https://www.microsoft.com/en-us/research/wp-includes/css/dist/nux/style.min.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-reusable-blocks-css'  href='https://www.microsoft.com/en-us/research/wp-includes/css/dist/reusable-blocks/style.min.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-editor-css'  href='https://www.microsoft.com/en-us/research/wp-includes/css/dist/editor/style.min.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='msr_blocks-style-css-css'  href='https://www.microsoft.com/en-us/research/wp-content/themes/microsoft-research-theme/assets/css/blocks-style.min.css?ver=6a8b9372' type='text/css' media='all' />
+<link rel='stylesheet' id='mwf-moray-scoped-css'  href='https://www.microsoft.com/en-us/research/wp-content/themes/microsoft-research-theme/assets/css/moray-scoped.min.css?ver=6a8b9372' type='text/css' media='all' />
+<link rel='stylesheet' id='elasticpress-autosuggest-css'  href='https://www.microsoft.com/en-us/research/wp-content/plugins/elasticpress/dist/css/autosuggest-styles.min.css?ver=26e3c1cd915b73e742ab41d02cd86563' type='text/css' media='all' />
+<link rel='stylesheet' id='azure-player-css-css'  href='//amp.azure.net/libs/amp/1.7.4/skins/amp-default/azuremediaplayer.min.css?ver=1.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='duet-date-picker-style-css'  href='https://www.microsoft.com/en-us/research/wp-content/themes/microsoft-research-theme/assets/js/vendor/duet-date-picker/duet/themes/default.css?ver=6a8b9372' type='text/css' media='all' />
+<script type='text/javascript' src='https://wcpstatic.microsoft.com/mscc/lib/v2/wcp-consent.js' id='wcp-consent-js'></script>
+<script type='text/javascript' src='https://www.microsoft.com/en-us/research/wp-content/themes/microsoft-research-theme/assets/js/vendor/jquery/jquery-3.3.1.min.js?ver=3.3.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.microsoft.com/en-us/research/wp-content/themes/microsoft-research-theme/assets/js/vendor/jquery-migrate/jquery-migrate-3.0.0.js?ver=3.0.0' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='trp-gp-language-cookie-js-extra'>
+/* <![CDATA[ */
+var trp_gp_language_cookie_data = {"lang_parameter":"lang"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.microsoft.com/en-us/research/wp-content/plugins/tp-add-on-language-by-get-parameter/assets/js/trp-gp-language-cookie.js?ver=1.0.1' id='trp-gp-language-cookie-js'></script>
+<script type='text/javascript' src='//amp.azure.net/libs/amp/1.7.4/azuremediaplayer.min.js?ver=1.7.4' id='azure-player-js-js'></script>
+<script type='text/javascript' src='https://js.monitor.azure.com/scripts/c/ms.analytics-web-3.min.js' id='oneds-tracking-js'></script>
+<link rel="https://api.w.org/" href="https://www.microsoft.com/en-us/research/wp-json/" /><link rel="alternate" type="application/json" href="https://www.microsoft.com/en-us/research/wp-json/wp/v2/msr-blog-post/747589" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.microsoft.com/en-us/research/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.microsoft.com/en-us/research/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 6.0.2" />
+<link rel='shortlink' href='https://www.microsoft.com/en-us/research/?p=747589' />
+<link rel="alternate" type="application/json+oembed" href="https://www.microsoft.com/en-us/research/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fresearch%2Fgroup%2Fcustomer-insights-research%2Farticles%2Fwhen-discussing-inclusive-design-dont-leave-out-users-with-invisible-disabilities" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.microsoft.com/en-us/research/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fresearch%2Fgroup%2Fcustomer-insights-research%2Farticles%2Fwhen-discussing-inclusive-design-dont-leave-out-users-with-invisible-disabilities&#038;format=xml" />
+<link rel="stylesheet" href="https://www.microsoft.com/onerfstatics/marketingsites-wcus-prod/west-european/shell/_scrf/css/themes=default.device=uplevel_web_pc/79-4cdd0a/33-ae3d41/a5-4bf7a2/13-8e1ceb/81-32f0c0/5c-b7b685/1a-bb39e7/ef-a24652?ver=2.0&amp;_cf=02242021_3231" type="text/css" media="all" /><link rel='stylesheet' href='https://statics-marketingsites-wcus-ms-com.akamaized.net/statics/override.css' type='text/css' /><!-- Stream WordPress user activity plugin v3.9.0 -->
+<link type="text/plain" rel="author" href="https://www.microsoft.com/en-us/research/wp-content/themes/microsoft-research-theme/humans.txt" />	<link rel="alternate" hreflang="x-default" href="https://www.microsoft.com/research/group/customer-insights-research/articles/when-discussing-inclusive-design-dont-leave-out-users-with-invisible-disabilities">
+	<link rel="alternate" hreflang="en-us" href="https://www.microsoft.com/en-us/research/group/customer-insights-research/articles/when-discussing-inclusive-design-dont-leave-out-users-with-invisible-disabilities">
+
+	
+	<!-- Facebook Pixel Code -->
+	<script>
+		function facebookTracking() {
+			!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+				n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+				n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+				t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+				document,'script','https://connect.facebook.net/en_US/fbevents.js');
+			fbq('init', '435868603227390');
+						fbq('track', 'PageView');
+					}
+	</script>
+	<!-- End Facebook Pixel Code -->
+
+	
+	<!-- Clicktale Code -->
+	<script>
+		function clicktaleTracking() {
+			var s = document.createElement( 'script' );
+			var src = "//cdn.clicktale.com/js/www07/ptc/959721af-e707-44b6-9b6a-d14f3ec0f756.js";
+			s.setAttribute( 'src', src );
+			document.head.appendChild( s );
+		}
+	</script>
+	<!-- End Clicktale Code -->
+
+	
+	<!-- Clarity Code -->
+	<script type="text/javascript">
+		function clarityTracking() {
+			(function(c,l,a,r,i,t,y){
+			c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+			t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+			y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+			})(window, document, "clarity", "script", "738awl9hsy");
+		}
+	</script>
+	<!-- End Clarity Code -->
+
+			<style type="text/css" id="wp-custom-css">
+			.autosuggest-list .autosuggest-item {
+	cursor: pointer;
+}
+
+.page-template-template-faceted-search .moray-highlight {margin-top: 0;}
+
+.single-msr-research-lab #trp-floater-ls {
+	display: none;
+}
+.single-msr-research-lab.postid-437514 #trp-floater-ls {
+	display: block;
+}
+
+.wp-block-msr-content-tabs:has(.row>.col-12>.tab-pane>.wp-block-msr-immersive-section) {
+  margin-bottom: 0;
+}
+
+main.ie11 {
+	display: block;
+}
+
+.picchu .profile-section  .publication .issue-data em {
+  font-weight: 600;
+}
+
+.page-id-744670 .msr-page-content--blocks .wp-block-embed.alignfull .wp-block-embed__wrapper,
+.page-id-744670 .msr-page-content--blocks .wp-block-embed.alignfull {
+  margin-bottom: 0;
+}
+
+@media (min-width: 960px) and (max-width:1399px) {
+  .single-msr-project .alignwide,
+  .single-msr-group .alignwide {
+    max-width: calc(100vw - var(--scrollbar-width, 0px));
+    margin: 2em calc(50% - 50vw + var(--scrollbar-width, 0px)/2);
+    width: 100vw;
+}
+}
+
+.msr-grid.msr-page-content--blocks .annotations__list .annotations__list-item .icon-chevron-right-med-blue {
+  margin-bottom: 0;
+}
+
+.page-id-770797 .msr-grid.msr-page-content--blocks .wp-block-msr-immersive-section__inner {
+  margin-bottom: 0;
+}
+
+.page-id-770797 .msr-grid.msr-page-content--blocks .wp-block-msr-immersive-section__inner .wp-block-columns {
+  margin-bottom: 0;
+}
+
+.page-id-770797 .msr-grid.msr-page-content--blocks .wp-block-msr-immersive-section__inner .wp-block-column {
+  margin-bottom: 0;
+}
+
+/** Microsoft Turing Universal Language Representation model, T-ULRv5, tops XTREME leaderboard and trains 100x faster	**/
+.footer-associations__inner--single .footer-associations__column {
+  display: block;
+}
+
+.footer-associations__inner--single .footer-associations__column .text-h4 {
+  padding-left: 12px;
+}
+
+.footer-associations__inner--single .footer-associations__list li {
+  margin-bottom: 0.5em;
+}
+
+.gallery.gallery-columns-2 .gallery-item,
+.gallery.gallery-columns-3 .gallery-item,
+.gallery.gallery-columns-4 .gallery-item,
+.gallery.gallery-columns-5 .gallery-item,
+.gallery.gallery-columns-6 .gallery-item {
+	max-width: none;
+}
+
+/** Temporay fix for the above gallery styles, needed for profile tabs **/
+.author .gallery.gallery-columns-2 .gallery-item {
+	max-width: 50%;
+}
+.author .gallery.gallery-columns-3 .gallery-item {
+	max-width: 33.33%;
+}
+.author .gallery.gallery-columns-4 .gallery-item {
+	max-width: 25%;
+}
+.author .gallery.gallery-columns-5 .gallery-item {
+	max-width: 20%;
+}
+.author .gallery.gallery-columns-6 .gallery-item {
+	max-width: 16.66%;
+}
+.author .gallery .gallery-caption {
+	text-align: left;
+}		</style>
+		<script src="https://www.microsoft.com/onerfstatics/marketingsites-wcus-prod/shell/_scrf/js/themes=default/8e-e88b64/82-2a4f02/49-a00ab0/92-02e55d/7c-dcea75/75-fca72d/ed-e77ee7/d5-bf34c0/a9-078595/7a-7ea8cc/2d-40bdad/23-e8cd2b/96-eb5423/e6-6b0cce/d1-98d78a/a0-23c4ba/a7-f7a340/48-6ed936/2e-ca165a/fc-169dd8/8e-60935c/87-fecbed/96-6ed6eb/c3-eb62e0/ad-ffd6bf/35-621acc/b0-07f293/1e-9d9d16/52-f0367f/1f-b57352/bf-517249/e1-ed258e/20-0b10e2/6b-0f1117/fb-5e9831/37-8473b9?ver=2.0&_cf=02242021_3231&iife=1"></script>	<!--
+	generated in 0.406 seconds
+	191474 bytes batcached for 300 seconds
+-->
+</head>
+
+	<body class="msr-blog-post-template-default single single-msr-blog-post postid-747589 wp-embed-responsive microsoft-uhf  msr-not-translated translatepress-en_US">
+
+		<div id="ms-cookie-banner"></div>		
+		<div class="menu-access">
+	<a class="menu-access__link" href="#banner">Skip to Header</a>
+	<a class="menu-access__link" href="#search">Skip to Search</a>
+	<a class="menu-access__link" href="#main">Skip to Content</a>
+	<a class="menu-access__link" href="#footerArea">Skip to Footer</a>
+</div>
+
+
+		<div id="banner" class="site-header" data-bi-area="header" data-no-translation>
+			
+				<uhf_header>
+					<div id="headerArea" class="uhf"  data-m='{"cN":"headerArea","cT":"Area_coreuiArea","id":"a1Body","sN":1,"aN":"Body"}'>
+                <div id="headerRegion"      data-region-key="headerregion" data-m='{"cN":"headerRegion","cT":"Region_coreui-region","id":"r1a1","sN":1,"aN":"a1"}' >
+
+    <div  id="headerUniversalHeader" data-m='{"cN":"headerUniversalHeader","cT":"Module_coreui-universalheader","id":"m1r1a1","sN":1,"aN":"r1a1"}'  data-module-id="Category|headerRegion|coreui-region|headerUniversalHeader|coreui-universalheader">
+        
+
+                        <div id="epb" class="x-hidden x-hidden-vp-mobile-st uhfc-universal-context context-uhf" data-m='{"cN":"epb_cont","cT":"Container","id":"c1m1r1a1","sN":1,"aN":"m1r1a1"}'>
+
+	<div class="c-uhfh-alert f-information epb-container theme-light" role="dialog" aria-label="Promotional Banner" data-m='{"cT":"Container","id":"c1c1m1r1a1","sN":1,"aN":"c1m1r1a1"}' data-pb="[{&quot;Browser&quot;:&quot;anaheim&quot;,&quot;ExtensionType&quot;:&quot;windows10only&quot;,&quot;ExtensionUrl&quot;:&quot;https://go.microsoft.com/fwlink/?linkid=2128969&amp;pc=W037&quot;,&quot;BackgroundColorDarkTheme&quot;:&quot;b-black&quot;,&quot;LogoUrlDarkTheme&quot;:&quot;https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4xvsU?ver=e636&quot;,&quot;ActionLinkBackgroundColorDarkTheme&quot;:&quot;btn-white&quot;,&quot;BackgroundColorLightTheme&quot;:&quot;b-white&quot;,&quot;LogoUrlLightTheme&quot;:&quot;https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4xvsU?ver=e636&quot;,&quot;ActionLinkBackgroundColorLightTheme&quot;:&quot;btn-light-blue&quot;,&quot;Title&quot;:&quot;Explore the world from your desktop—one photo at a time. Get the Bing Wallpaper app today.&quot;,&quot;Paragraph&quot;:&quot;Bring your desktop to life with daily backgrounds when you get Bing Wallpaper&quot;,&quot;ActionLinkText&quot;:&quot;Get it now&quot;,&quot;ActionLinkAriaLabel&quot;:&quot;Get it now&quot;,&quot;DismissText&quot;:&quot;No thanks&quot;,&quot;DismissAriaLabel&quot;:&quot;No thanks&quot;,&quot;CookieExpiration&quot;:&quot;30&quot;,&quot;CurrentTheme&quot;:&quot;theme-light&quot;},{&quot;Browser&quot;:&quot;edge&quot;,&quot;ExtensionType&quot;:&quot;windows10only&quot;,&quot;ExtensionUrl&quot;:&quot;https://aka.ms/MicrosoftEdgeDownload&quot;,&quot;BackgroundColorDarkTheme&quot;:&quot;b-black&quot;,&quot;LogoUrlDarkTheme&quot;:&quot;https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4xdax&quot;,&quot;ActionLinkBackgroundColorDarkTheme&quot;:&quot;btn-white&quot;,&quot;BackgroundColorLightTheme&quot;:&quot;b-white&quot;,&quot;LogoUrlLightTheme&quot;:&quot;https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4xdax&quot;,&quot;ActionLinkBackgroundColorLightTheme&quot;:&quot;btn-light-blue&quot;,&quot;Title&quot;:&quot;Try the browser recommended by Microsoft&quot;,&quot;Paragraph&quot;:&quot;Get speed, security and privacy with Microsoft Edge&quot;,&quot;ActionLinkText&quot;:&quot;Download now&quot;,&quot;ActionLinkAriaLabel&quot;:&quot;Download now&quot;,&quot;DismissText&quot;:&quot;No thanks&quot;,&quot;DismissAriaLabel&quot;:&quot;No thanks&quot;,&quot;CookieExpiration&quot;:&quot;30&quot;,&quot;CurrentTheme&quot;:&quot;theme-light&quot;},{&quot;Browser&quot;:&quot;non-anaheim&quot;,&quot;ExtensionType&quot;:&quot;windows10only&quot;,&quot;ExtensionUrl&quot;:&quot;https://aka.ms/edgeperformanceuhf&quot;,&quot;BackgroundColorDarkTheme&quot;:&quot;b-black&quot;,&quot;LogoUrlDarkTheme&quot;:&quot;https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4xdax&quot;,&quot;ActionLinkBackgroundColorDarkTheme&quot;:&quot;btn-white&quot;,&quot;BackgroundColorLightTheme&quot;:&quot;b-white&quot;,&quot;LogoUrlLightTheme&quot;:&quot;https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4xdax&quot;,&quot;ActionLinkBackgroundColorLightTheme&quot;:&quot;btn-light-blue&quot;,&quot;Title&quot;:&quot;Microsoft Edge is the only browser optimized for Windows.&quot;,&quot;Paragraph&quot;:&quot;Maximize your PC performance with features like Sleeping Tabs and Startup Boost.&quot;,&quot;ActionLinkText&quot;:&quot;Switch now&quot;,&quot;ActionLinkAriaLabel&quot;:&quot;Switch now&quot;,&quot;DismissText&quot;:&quot;Close&quot;,&quot;DismissAriaLabel&quot;:&quot;Close&quot;,&quot;CookieExpiration&quot;:&quot;30&quot;,&quot;CurrentTheme&quot;:&quot;theme-light&quot;},{&quot;Browser&quot;:&quot;firefox&quot;,&quot;ExtensionType&quot;:&quot;rewards&quot;,&quot;ExtensionUrl&quot;:&quot;https://browserdefaults.microsoft.com/extn/redirect/?xid=6&amp;br=mf&amp;channel=uhf&amp;pc=U564&quot;,&quot;BackgroundColorDarkTheme&quot;:&quot;b-blue&quot;,&quot;LogoUrlDarkTheme&quot;:&quot;https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4mFZT?ver=7321&quot;,&quot;ActionLinkBackgroundColorDarkTheme&quot;:&quot;btn-white&quot;,&quot;BackgroundColorLightTheme&quot;:&quot;b-white&quot;,&quot;LogoUrlLightTheme&quot;:&quot;https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4mDoE?ver=3feb&quot;,&quot;ActionLinkBackgroundColorLightTheme&quot;:&quot;btn-blue&quot;,&quot;Title&quot;:&quot;Maximize your points with the Microsoft Rewards extension&quot;,&quot;Paragraph&quot;:&quot;Quick access to your daily points and offers&quot;,&quot;ActionLinkText&quot;:&quot;Add it now&quot;,&quot;ActionLinkAriaLabel&quot;:&quot;Add it now&quot;,&quot;DismissText&quot;:&quot;No thanks&quot;,&quot;DismissAriaLabel&quot;:&quot;No thanks&quot;,&quot;CookieExpiration&quot;:&quot;30&quot;,&quot;CurrentTheme&quot;:&quot;theme-light&quot;}]" data-pb-g="true">
+		<div>
+			<div class="c-paragraph">
+				<img alt="" data-src="" src="" class="f-img-lzy" />
+				<span class="c-text-group pb-content">
+					<span class="epb-launch pb-content-heading"></span>
+					<span class="epb-text pb-content-text"></span>
+				</span>
+			</div>
+			<span class="c-group">
+				<button id="close-epb" class="c-action-trigger c-action-cancel glyph-cancel" data-m='{"cN":"PB-dismiss_nonnav","id":"nn1c1c1m1r1a1","sN":1,"aN":"c1c1m1r1a1"}'></button>
+				<a id="epbTryNow" href="" target="_blank" class="epb-launch c-action-trigger c-action-open" data-m='{"cN":"PB-launch_nav","id":"n2c1c1m1r1a1","sN":2,"aN":"c1c1m1r1a1"}'></a>
+			</span>
+		</div>
+	</div>
+
+
+
+
+
+                            
+                        </div>
+
+
+
+
+        <a id="uhfSkipToMain" class="m-skip-to-main" href="javascript:void(0)" data-href="" tabindex="0" data-m='{"cN":"Skip to content_nonnav","id":"nn2c1m1r1a1","sN":2,"aN":"c1m1r1a1"}'>Skip to main content</a>
+
+
+<header class="c-uhfh context-uhf no-js c-sgl-stck c-category-header " itemscope="itemscope" data-header-footprint="/MSRESEARCH/research-header-main, fromService: True"   data-magict="true"  itemtype="http://schema.org/Organization">
+    <div class="theme-light js-global-head f-closed  global-head-cont" data-m='{"cN":"Universal Header_cont","cT":"Container","id":"c3c1m1r1a1","sN":3,"aN":"c1m1r1a1"}'>
+        <div class="c-uhfh-gcontainer-st">
+            <button type="button" class="c-action-trigger c-glyph glyph-global-nav-button" aria-label="All Microsoft expand to see list of Microsoft products and services" initialState-label="All Microsoft expand to see list of Microsoft products and services" toggleState-label="Close All Microsoft list" aria-expanded="false" data-m='{"cN":"Mobile menu button_nonnav","id":"nn1c3c1m1r1a1","sN":1,"aN":"c3c1m1r1a1"}'></button>
+            <button type="button" class="c-action-trigger c-glyph glyph-arrow-htmllegacy c-close-search" aria-label="Close search" aria-expanded="false" data-m='{"cN":"Close Search_nonnav","id":"nn2c3c1m1r1a1","sN":2,"aN":"c3c1m1r1a1"}'></button>
+                    <a id="uhfLogo" class="c-logo c-sgl-stk-uhfLogo" itemprop="url" href="https://www.microsoft.com" aria-label="Microsoft" data-m='{"cN":"GlobalNav_Logo_cont","cT":"Container","id":"c3c3c1m1r1a1","sN":3,"aN":"c3c1m1r1a1"}'>
+                        <img alt="" itemprop="logo" class="c-image" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31" role="presentation" aria-hidden="true" />
+                        <span itemprop="name" role="presentation" aria-hidden="true">Microsoft</span>
+                    </a>
+            <div class="f-mobile-title">
+                <button type="button" class="c-action-trigger c-glyph glyph-chevron-left" aria-label="See more menu options" data-m='{"cN":"Mobile back button_nonnav","id":"nn4c3c1m1r1a1","sN":4,"aN":"c3c1m1r1a1"}'></button>
+                <span data-global-title="Microsoft home" class="js-mobile-title">Research</span>
+                <button type="button" class="c-action-trigger c-glyph glyph-chevron-right" aria-label="See more menu options" data-m='{"cN":"Mobile forward button_nonnav","id":"nn5c3c1m1r1a1","sN":5,"aN":"c3c1m1r1a1"}'></button>
+            </div>
+                    <div class="c-show-pipe x-hidden-vp-mobile-st">
+                        <a id="uhfCatLogo" class="c-logo c-cat-logo" href="/en-us/research/" aria-label="Research" itemprop="url" data-m='{"cN":"CatNav_Research_nav","id":"n6c3c1m1r1a1","sN":6,"aN":"c3c1m1r1a1"}'>
+                                <span>Research</span>
+                        </a>
+                    </div>
+                <div class="cat-logo-button-cont x-hidden">
+                        <button type="button" id="uhfCatLogoButton" class="c-cat-logo-button x-hidden" aria-expanded="false" aria-label="Research" data-m='{"cN":"Research_nonnav","id":"nn7c3c1m1r1a1","sN":7,"aN":"c3c1m1r1a1"}'>
+                            Research
+                        </button>
+                </div>
+
+
+
+                    <nav id="uhf-g-nav" aria-label="Contextual menu" class="c-uhfh-gnav" data-m='{"cN":"Category nav_cont","cT":"Container","id":"c8c3c1m1r1a1","sN":8,"aN":"c3c1m1r1a1"}'>
+            <ul class="js-paddle-items">
+                    <li class="single-link js-nav-menu x-hidden-none-mobile-vp uhf-menu-item">
+                        <a class="c-uhf-nav-link" href="/en-us/research/" data-m='{"cN":"CatNav_Home_nav","id":"n1c8c3c1m1r1a1","sN":1,"aN":"c8c3c1m1r1a1"}' > Home </a>
+                    </li>
+                                        <li class="nested-menu uhf-menu-item">
+                            <div class="c-uhf-menu js-nav-menu">
+                                <button type="button" id="c-shellmenu_42"  aria-expanded="false" data-m='{"cN":"CatNav_OurResearch_nonnav","id":"nn2c8c3c1m1r1a1","sN":2,"aN":"c8c3c1m1r1a1"}'>Our research</button>
+
+                                <ul class="f-multi-column f-multi-column-5" data-class-idn="f-multi-column f-multi-column-5" aria-hidden="true" data-m='{"cN":"OurResearch_cont","cT":"Container","id":"c3c8c3c1m1r1a1","sN":3,"aN":"c8c3c1m1r1a1"}'>
+<li class="f-sub-menu js-nav-menu nested-menu" data-m='{"cN":"Resources_cont","cT":"Container","id":"c1c3c8c3c1m1r1a1","sN":1,"aN":"c3c8c3c1m1r1a1"}'>
+
+    <span id="uhf-navspn-shellmenu_43-span" style="display:none"   f-multi-parent="true" aria-expanded="false" data-m='{"cN":"CatNav_Resources_nonnav","id":"nn1c1c3c8c3c1m1r1a1","sN":1,"aN":"c1c3c8c3c1m1r1a1"}'>Resources</span>
+    <button id="uhf-navbtn-shellmenu_43-button" type="button"   f-multi-parent="true" aria-expanded="false" data-m='{"cN":"CatNav_Resources_nonnav","id":"nn2c1c3c8c3c1m1r1a1","sN":2,"aN":"c1c3c8c3c1m1r1a1"}'>Resources</button>
+    <ul aria-hidden="true" aria-labelledby="uhf-navspn-shellmenu_43-span">
+        <li class="js-nav-menu single-link" data-m='{"cN":"Publications_cont","cT":"Container","id":"c3c1c3c8c3c1m1r1a1","sN":3,"aN":"c1c3c8c3c1m1r1a1"}'>
+            <a id="Publications" class="js-subm-uhf-nav-link" href="/en-us/research/publications/" data-m='{"cN":"CatNav_Publications_nav","id":"n1c3c1c3c8c3c1m1r1a1","sN":1,"aN":"c3c1c3c8c3c1m1r1a1"}'>Publications</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Code \u0026 datasets_cont","cT":"Container","id":"c4c1c3c8c3c1m1r1a1","sN":4,"aN":"c1c3c8c3c1m1r1a1"}'>
+            <a id="CodeDatasets" class="js-subm-uhf-nav-link" href="/en-us/research/tools/" data-m='{"cN":"CatNav_Code \u0026 datasets_nav","id":"n1c4c1c3c8c3c1m1r1a1","sN":1,"aN":"c4c1c3c8c3c1m1r1a1"}'>Code &amp; datasets</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"People-resources_cont","cT":"Container","id":"c5c1c3c8c3c1m1r1a1","sN":5,"aN":"c1c3c8c3c1m1r1a1"}'>
+            <a id="People" class="js-subm-uhf-nav-link" href="/en-us/research/people/" data-m='{"cN":"CatNav_People-resources_nav","id":"n1c5c1c3c8c3c1m1r1a1","sN":1,"aN":"c5c1c3c8c3c1m1r1a1"}'>People</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"MicrosoftResearchBlog-resources_cont","cT":"Container","id":"c6c1c3c8c3c1m1r1a1","sN":6,"aN":"c1c3c8c3c1m1r1a1"}'>
+            <a id="shellmenu_47" class="js-subm-uhf-nav-link" href="/en-us/research/blog/" data-m='{"cN":"CatNav_MicrosoftResearchBlog-resources_nav","id":"n1c6c1c3c8c3c1m1r1a1","sN":1,"aN":"c6c1c3c8c3c1m1r1a1"}'>Microsoft Research blog</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"WebinarsTutorials-resources_cont","cT":"Container","id":"c7c1c3c8c3c1m1r1a1","sN":7,"aN":"c1c3c8c3c1m1r1a1"}'>
+            <a id="shellmenu_48" class="js-subm-uhf-nav-link" href="/en-us/research/webinar/" data-m='{"cN":"CatNav_WebinarsTutorials-resources_nav","id":"n1c7c1c3c8c3c1m1r1a1","sN":1,"aN":"c7c1c3c8c3c1m1r1a1"}'>Webinars &amp; tutorials</a>
+            
+        </li>
+    </ul>
+    
+</li>
+<li class="f-sub-menu js-nav-menu nested-menu" data-m='{"cN":"Intelligence_cont","cT":"Container","id":"c2c3c8c3c1m1r1a1","sN":2,"aN":"c3c8c3c1m1r1a1"}'>
+
+    <span id="uhf-navspn-shellmenu_49-span" style="display:none"   f-multi-parent="true" aria-expanded="false" data-m='{"cN":"CatNav_Intelligence_nonnav","id":"nn1c2c3c8c3c1m1r1a1","sN":1,"aN":"c2c3c8c3c1m1r1a1"}'>Research areas: Intelligence</span>
+    <button id="uhf-navbtn-shellmenu_49-button" type="button"   f-multi-parent="true" aria-expanded="false" data-m='{"cN":"CatNav_Intelligence_nonnav","id":"nn2c2c3c8c3c1m1r1a1","sN":2,"aN":"c2c3c8c3c1m1r1a1"}'>Research areas: Intelligence</button>
+    <ul aria-hidden="true" aria-labelledby="uhf-navspn-shellmenu_49-span">
+        <li class="js-nav-menu single-link" data-m='{"cN":"ArtificialIntelligence_cont","cT":"Container","id":"c3c2c3c8c3c1m1r1a1","sN":3,"aN":"c2c3c8c3c1m1r1a1"}'>
+            <a id="shellmenu_50" class="js-subm-uhf-nav-link" href="/en-us/research/research-area/artificial-intelligence/" data-m='{"cN":"CatNav_ArtificialIntelligence_nav","id":"n1c3c2c3c8c3c1m1r1a1","sN":1,"aN":"c3c2c3c8c3c1m1r1a1"}'>Artificial intelligence</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"audioacoustics_cont","cT":"Container","id":"c4c2c3c8c3c1m1r1a1","sN":4,"aN":"c2c3c8c3c1m1r1a1"}'>
+            <a id="shellmenu_51" class="js-subm-uhf-nav-link" href="/en-us/research/research-area/audio-acoustics/" data-m='{"cN":"CatNav_audioacoustics_nav","id":"n1c4c2c3c8c3c1m1r1a1","sN":1,"aN":"c4c2c3c8c3c1m1r1a1"}'>Audio &amp; acoustics</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Computervision_cont","cT":"Container","id":"c5c2c3c8c3c1m1r1a1","sN":5,"aN":"c2c3c8c3c1m1r1a1"}'>
+            <a id="shellmenu_52" class="js-subm-uhf-nav-link" href="/en-us/research/research-area/computer-vision/" data-m='{"cN":"CatNav_Computervision_nav","id":"n1c5c2c3c8c3c1m1r1a1","sN":1,"aN":"c5c2c3c8c3c1m1r1a1"}'>Computer vision</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Graphicsmultimedia_cont","cT":"Container","id":"c6c2c3c8c3c1m1r1a1","sN":6,"aN":"c2c3c8c3c1m1r1a1"}'>
+            <a id="shellmenu_53" class="js-subm-uhf-nav-link" href="/en-us/research/research-area/graphics-and-multimedia/" data-m='{"cN":"CatNav_Graphicsmultimedia_nav","id":"n1c6c2c3c8c3c1m1r1a1","sN":1,"aN":"c6c2c3c8c3c1m1r1a1"}'>Graphics &amp; multimedia</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Humancomputerinteraction_cont","cT":"Container","id":"c7c2c3c8c3c1m1r1a1","sN":7,"aN":"c2c3c8c3c1m1r1a1"}'>
+            <a id="shellmenu_54" class="js-subm-uhf-nav-link" href="/en-us/research/research-area/human-computer-interaction/" data-m='{"cN":"CatNav_Humancomputerinteraction_nav","id":"n1c7c2c3c8c3c1m1r1a1","sN":1,"aN":"c7c2c3c8c3c1m1r1a1"}'>Human-computer interaction</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Humanlanguagetechnologies_cont","cT":"Container","id":"c8c2c3c8c3c1m1r1a1","sN":8,"aN":"c2c3c8c3c1m1r1a1"}'>
+            <a id="shellmenu_55" class="js-subm-uhf-nav-link" href="/en-us/research/research-area/human-language-technologies/" data-m='{"cN":"CatNav_Humanlanguagetechnologies_nav","id":"n1c8c2c3c8c3c1m1r1a1","sN":1,"aN":"c8c2c3c8c3c1m1r1a1"}'>Human language technologies</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Searchinformationretrieval_cont","cT":"Container","id":"c9c2c3c8c3c1m1r1a1","sN":9,"aN":"c2c3c8c3c1m1r1a1"}'>
+            <a id="shellmenu_56" class="js-subm-uhf-nav-link" href="/en-us/research/research-area/search-information-retrieval/" data-m='{"cN":"CatNav_Searchinformationretrieval_nav","id":"n1c9c2c3c8c3c1m1r1a1","sN":1,"aN":"c9c2c3c8c3c1m1r1a1"}'>Search &amp; information retrieval</a>
+            
+        </li>
+    </ul>
+    
+</li>
+<li class="f-sub-menu js-nav-menu nested-menu" data-m='{"cN":"Systems_cont","cT":"Container","id":"c3c3c8c3c1m1r1a1","sN":3,"aN":"c3c8c3c1m1r1a1"}'>
+
+    <span id="uhf-navspn-shellmenu_57-span" style="display:none"   f-multi-parent="true" aria-expanded="false" data-m='{"cN":"CatNav_Systems_nonnav","id":"nn1c3c3c8c3c1m1r1a1","sN":1,"aN":"c3c3c8c3c1m1r1a1"}'>Research areas: Systems</span>
+    <button id="uhf-navbtn-shellmenu_57-button" type="button"   f-multi-parent="true" aria-expanded="false" data-m='{"cN":"CatNav_Systems_nonnav","id":"nn2c3c3c8c3c1m1r1a1","sN":2,"aN":"c3c3c8c3c1m1r1a1"}'>Research areas: Systems</button>
+    <ul aria-hidden="true" aria-labelledby="uhf-navspn-shellmenu_57-span">
+        <li class="js-nav-menu single-link" data-m='{"cN":"Datamanagementanalysisvisualization_cont","cT":"Container","id":"c3c3c3c8c3c1m1r1a1","sN":3,"aN":"c3c3c8c3c1m1r1a1"}'>
+            <a id="shellmenu_58" class="js-subm-uhf-nav-link" href="/en-us/research/research-area/data-platform-analytics/" data-m='{"cN":"CatNav_Datamanagementanalysisvisualization_nav","id":"n1c3c3c3c8c3c1m1r1a1","sN":1,"aN":"c3c3c3c8c3c1m1r1a1"}'>Data platforms and analytics</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Hardwaredevices_cont","cT":"Container","id":"c4c3c3c8c3c1m1r1a1","sN":4,"aN":"c3c3c8c3c1m1r1a1"}'>
+            <a id="shellmenu_59" class="js-subm-uhf-nav-link" href="/en-us/research/research-area/hardware-devices/" data-m='{"cN":"CatNav_Hardwaredevices_nav","id":"n1c4c3c3c8c3c1m1r1a1","sN":1,"aN":"c4c3c3c8c3c1m1r1a1"}'>Hardware &amp; devices</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Programminglanguagessoftwareengineering_cont","cT":"Container","id":"c5c3c3c8c3c1m1r1a1","sN":5,"aN":"c3c3c8c3c1m1r1a1"}'>
+            <a id="shellmenu_60" class="js-subm-uhf-nav-link" href="/en-us/research/research-area/programming-languages-software-engineering/" data-m='{"cN":"CatNav_Programminglanguagessoftwareengineering_nav","id":"n1c5c3c3c8c3c1m1r1a1","sN":1,"aN":"c5c3c3c8c3c1m1r1a1"}'>Programming languages &amp; software engineering</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"QuantumComputing_cont","cT":"Container","id":"c6c3c3c8c3c1m1r1a1","sN":6,"aN":"c3c3c8c3c1m1r1a1"}'>
+            <a id="Quantum computing" class="js-subm-uhf-nav-link" href="/en-us/research/research-area/quantum/" data-m='{"cN":"CatNav_QuantumComputing_nav","id":"n1c6c3c3c8c3c1m1r1a1","sN":1,"aN":"c6c3c3c8c3c1m1r1a1"}'>Quantum computing</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Securityprivacycryptography_cont","cT":"Container","id":"c7c3c3c8c3c1m1r1a1","sN":7,"aN":"c3c3c8c3c1m1r1a1"}'>
+            <a id="shellmenu_62" class="js-subm-uhf-nav-link" href="/en-us/research/research-area/security-privacy-cryptography/" data-m='{"cN":"CatNav_Securityprivacycryptography_nav","id":"n1c7c3c3c8c3c1m1r1a1","sN":1,"aN":"c7c3c3c8c3c1m1r1a1"}'>Security, privacy &amp; cryptography</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Computersystemsnetworking_cont","cT":"Container","id":"c8c3c3c8c3c1m1r1a1","sN":8,"aN":"c3c3c8c3c1m1r1a1"}'>
+            <a id="shellmenu_63" class="js-subm-uhf-nav-link" href="/en-us/research/research-area/systems-and-networking/" data-m='{"cN":"CatNav_Computersystemsnetworking_nav","id":"n1c8c3c3c8c3c1m1r1a1","sN":1,"aN":"c8c3c3c8c3c1m1r1a1"}'>Systems &amp; networking</a>
+            
+        </li>
+    </ul>
+    
+</li>
+<li class="f-sub-menu js-nav-menu nested-menu" data-m='{"cN":"Theory_cont","cT":"Container","id":"c4c3c8c3c1m1r1a1","sN":4,"aN":"c3c8c3c1m1r1a1"}'>
+
+    <span id="uhf-navspn-shellmenu_64-span" style="display:none"   f-multi-parent="true" aria-expanded="false" data-m='{"cN":"CatNav_Theory_nonnav","id":"nn1c4c3c8c3c1m1r1a1","sN":1,"aN":"c4c3c8c3c1m1r1a1"}'>Research areas: Theory</span>
+    <button id="uhf-navbtn-shellmenu_64-button" type="button"   f-multi-parent="true" aria-expanded="false" data-m='{"cN":"CatNav_Theory_nonnav","id":"nn2c4c3c8c3c1m1r1a1","sN":2,"aN":"c4c3c8c3c1m1r1a1"}'>Research areas: Theory</button>
+    <ul aria-hidden="true" aria-labelledby="uhf-navspn-shellmenu_64-span">
+        <li class="js-nav-menu single-link" data-m='{"cN":"Algorithms_cont","cT":"Container","id":"c3c4c3c8c3c1m1r1a1","sN":3,"aN":"c4c3c8c3c1m1r1a1"}'>
+            <a id="shellmenu_65" class="js-subm-uhf-nav-link" href="/en-us/research/research-area/algorithms/" data-m='{"cN":"CatNav_Algorithms_nav","id":"n1c3c4c3c8c3c1m1r1a1","sN":1,"aN":"c3c4c3c8c3c1m1r1a1"}'>Algorithms</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Mathematics_cont","cT":"Container","id":"c4c4c3c8c3c1m1r1a1","sN":4,"aN":"c4c3c8c3c1m1r1a1"}'>
+            <a id="shellmenu_66" class="js-subm-uhf-nav-link" href="/en-us/research/research-area/computational-sciences-mathematics/" data-m='{"cN":"CatNav_Mathematics_nav","id":"n1c4c4c3c8c3c1m1r1a1","sN":1,"aN":"c4c4c3c8c3c1m1r1a1"}'>Mathematics</a>
+            
+        </li>
+    </ul>
+    
+</li>
+<li class="f-sub-menu js-nav-menu nested-menu" data-m='{"cN":"Other Sciences_cont","cT":"Container","id":"c5c3c8c3c1m1r1a1","sN":5,"aN":"c3c8c3c1m1r1a1"}'>
+
+    <span id="uhf-navspn-shellmenu_67-span" style="display:none"   f-multi-parent="true" aria-expanded="false" data-m='{"cN":"CatNav_Other Sciences_nonnav","id":"nn1c5c3c8c3c1m1r1a1","sN":1,"aN":"c5c3c8c3c1m1r1a1"}'>Research areas: Other Sciences</span>
+    <button id="uhf-navbtn-shellmenu_67-button" type="button"   f-multi-parent="true" aria-expanded="false" data-m='{"cN":"CatNav_Other Sciences_nonnav","id":"nn2c5c3c8c3c1m1r1a1","sN":2,"aN":"c5c3c8c3c1m1r1a1"}'>Research areas: Other Sciences</button>
+    <ul aria-hidden="true" aria-labelledby="uhf-navspn-shellmenu_67-span">
+        <li class="js-nav-menu single-link" data-m='{"cN":"Ecologyenvironment_cont","cT":"Container","id":"c3c5c3c8c3c1m1r1a1","sN":3,"aN":"c5c3c8c3c1m1r1a1"}'>
+            <a id="shellmenu_68" class="js-subm-uhf-nav-link" href="/en-us/research/research-area/ecology-environment/" data-m='{"cN":"CatNav_Ecologyenvironment_nav","id":"n1c3c5c3c8c3c1m1r1a1","sN":1,"aN":"c3c5c3c8c3c1m1r1a1"}'>Ecology &amp; environment</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Economics_cont","cT":"Container","id":"c4c5c3c8c3c1m1r1a1","sN":4,"aN":"c5c3c8c3c1m1r1a1"}'>
+            <a id="shellmenu_69" class="js-subm-uhf-nav-link" href="/en-us/research/research-area/economics/" data-m='{"cN":"CatNav_Economics_nav","id":"n1c4c5c3c8c3c1m1r1a1","sN":1,"aN":"c4c5c3c8c3c1m1r1a1"}'>Economics</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Medicalhealthgenomics_cont","cT":"Container","id":"c5c5c3c8c3c1m1r1a1","sN":5,"aN":"c5c3c8c3c1m1r1a1"}'>
+            <a id="shellmenu_70" class="js-subm-uhf-nav-link" href="/en-us/research/research-area/medical-health-genomics/" data-m='{"cN":"CatNav_Medicalhealthgenomics_nav","id":"n1c5c5c3c8c3c1m1r1a1","sN":1,"aN":"c5c5c3c8c3c1m1r1a1"}'>Medical, health &amp; genomics</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Socialsciences_cont","cT":"Container","id":"c6c5c3c8c3c1m1r1a1","sN":6,"aN":"c5c3c8c3c1m1r1a1"}'>
+            <a id="shellmenu_71" class="js-subm-uhf-nav-link" href="/en-us/research/research-area/social-sciences/" data-m='{"cN":"CatNav_Socialsciences_nav","id":"n1c6c5c3c8c3c1m1r1a1","sN":1,"aN":"c6c5c3c8c3c1m1r1a1"}'>Social sciences</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Technologyemergingmarkets_cont","cT":"Container","id":"c7c5c3c8c3c1m1r1a1","sN":7,"aN":"c5c3c8c3c1m1r1a1"}'>
+            <a id="shellmenu_72" class="js-subm-uhf-nav-link" href="/en-us/research/research-area/technology-for-emerging-markets/" data-m='{"cN":"CatNav_Technologyemergingmarkets_nav","id":"n1c7c5c3c8c3c1m1r1a1","sN":1,"aN":"c7c5c3c8c3c1m1r1a1"}'>Technology for emerging markets</a>
+            
+        </li>
+    </ul>
+    
+</li>
+                                                    
+                                </ul>
+                            </div>
+                        </li>                        <li class="nested-menu uhf-menu-item">
+                            <div class="c-uhf-menu js-nav-menu">
+                                <button type="button" id="c-shellmenu_73"  aria-expanded="false" data-m='{"cN":"CatNav_ProgramsEvents_nonnav","id":"nn4c8c3c1m1r1a1","sN":4,"aN":"c8c3c1m1r1a1"}'>Programs &amp; events</button>
+
+                                <ul class="f-multi-column f-multi-column-2" data-class-idn="f-multi-column f-multi-column-2" aria-hidden="true" data-m='{"cN":"ProgramsEvents_cont","cT":"Container","id":"c5c8c3c1m1r1a1","sN":5,"aN":"c8c3c1m1r1a1"}'>
+<li class="f-sub-menu js-nav-menu nested-menu" data-m='{"cN":"Academic Programs_cont","cT":"Container","id":"c1c5c8c3c1m1r1a1","sN":1,"aN":"c5c8c3c1m1r1a1"}'>
+
+    <span id="uhf-navspn-shellmenu_74-span" style="display:none"   f-multi-parent="true" aria-expanded="false" data-m='{"cN":"CatNav_Academic Programs_nonnav","id":"nn1c1c5c8c3c1m1r1a1","sN":1,"aN":"c1c5c8c3c1m1r1a1"}'>Academic Programs</span>
+    <button id="uhf-navbtn-shellmenu_74-button" type="button"   f-multi-parent="true" aria-expanded="false" data-m='{"cN":"CatNav_Academic Programs_nonnav","id":"nn2c1c5c8c3c1m1r1a1","sN":2,"aN":"c1c5c8c3c1m1r1a1"}'>Academic Programs</button>
+    <ul aria-hidden="true" aria-labelledby="uhf-navspn-shellmenu_74-span">
+        <li class="js-nav-menu single-link" data-m='{"cN":"Overview_cont","cT":"Container","id":"c3c1c5c8c3c1m1r1a1","sN":3,"aN":"c1c5c8c3c1m1r1a1"}'>
+            <a id="shellmenu_75" class="js-subm-uhf-nav-link" href="/en-us/research/academic-programs/" data-m='{"cN":"CatNav_Overview_nav","id":"n1c3c1c5c8c3c1m1r1a1","sN":1,"aN":"c3c1c5c8c3c1m1r1a1"}'>Overview</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"ProgramsFaculty_cont","cT":"Container","id":"c4c1c5c8c3c1m1r1a1","sN":4,"aN":"c1c5c8c3c1m1r1a1"}'>
+            <a id="shellmenu_76" class="js-subm-uhf-nav-link" href="/en-us/research/academic-programs/faculty/" data-m='{"cN":"CatNav_ProgramsFaculty_nav","id":"n1c4c1c5c8c3c1m1r1a1","sN":1,"aN":"c4c1c5c8c3c1m1r1a1"}'>Programs for faculty</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"ProgramsStudents_cont","cT":"Container","id":"c5c1c5c8c3c1m1r1a1","sN":5,"aN":"c1c5c8c3c1m1r1a1"}'>
+            <a id="shellmenu_77" class="js-subm-uhf-nav-link" href="/en-us/research/academic-programs/students/" data-m='{"cN":"CatNav_ProgramsStudents_nav","id":"n1c5c1c5c8c3c1m1r1a1","sN":1,"aN":"c5c1c5c8c3c1m1r1a1"}'>Programs for students</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Collaborations_cont","cT":"Container","id":"c6c1c5c8c3c1m1r1a1","sN":6,"aN":"c1c5c8c3c1m1r1a1"}'>
+            <a id="shellmenu_78" class="js-subm-uhf-nav-link" href="/en-us/research/academic-programs/collaborating-with-institutions/" data-m='{"cN":"CatNav_Collaborations_nav","id":"n1c6c1c5c8c3c1m1r1a1","sN":1,"aN":"c6c1c5c8c3c1m1r1a1"}'>Collaborations</a>
+            
+        </li>
+    </ul>
+    
+</li>
+<li class="f-sub-menu js-nav-menu nested-menu" data-m='{"cT":"Container","id":"c2c5c8c3c1m1r1a1","sN":2,"aN":"c5c8c3c1m1r1a1"}'>
+
+    <span id="uhf-navspn-shellmenu_79-span" style="display:none"   f-multi-parent="true" aria-expanded="false" data-m='{"id":"nn1c2c5c8c3c1m1r1a1","sN":1,"aN":"c2c5c8c3c1m1r1a1"}'>Events &amp; conferences</span>
+    <button id="uhf-navbtn-shellmenu_79-button" type="button"   f-multi-parent="true" aria-expanded="false" data-m='{"id":"nn2c2c5c8c3c1m1r1a1","sN":2,"aN":"c2c5c8c3c1m1r1a1"}'>Events &amp; conferences</button>
+    <ul aria-hidden="true" aria-labelledby="uhf-navspn-shellmenu_79-span">
+        <li class="js-nav-menu single-link" data-m='{"cN":"EventsConferences_cont","cT":"Container","id":"c3c2c5c8c3c1m1r1a1","sN":3,"aN":"c2c5c8c3c1m1r1a1"}'>
+            <a id="shellmenu_80" class="js-subm-uhf-nav-link" href="/en-us/research/events-conferences/" data-m='{"cN":"CatNav_EventsConferences_nav","id":"n1c3c2c5c8c3c1m1r1a1","sN":1,"aN":"c3c2c5c8c3c1m1r1a1"}'>Events &amp; academic conferences</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"WebinarsTutorials-Events_cont","cT":"Container","id":"c4c2c5c8c3c1m1r1a1","sN":4,"aN":"c2c5c8c3c1m1r1a1"}'>
+            <a id="shellmenu_81" class="js-subm-uhf-nav-link" href="/en-us/research/webinar/" data-m='{"cN":"CatNav_WebinarsTutorials-Events_nav","id":"n1c4c2c5c8c3c1m1r1a1","sN":1,"aN":"c4c2c5c8c3c1m1r1a1"}'>Webinars &amp; tutorials</a>
+            
+        </li>
+    </ul>
+    
+</li>
+                                                    
+                                </ul>
+                            </div>
+                        </li>                        <li class="nested-menu uhf-menu-item">
+                            <div class="c-uhf-menu js-nav-menu">
+                                <button type="button" id="Blogs"  aria-expanded="false" data-m='{"cN":"CatNav_Blogs \u0026 podcasts_nonnav","id":"nn6c8c3c1m1r1a1","sN":6,"aN":"c8c3c1m1r1a1"}'>Blogs &amp; podcasts</button>
+
+                                <ul class="" data-class-idn="" aria-hidden="true" data-m='{"cN":"Blogs \u0026 podcasts_cont","cT":"Container","id":"c7c8c3c1m1r1a1","sN":7,"aN":"c8c3c1m1r1a1"}'>
+        <li class="js-nav-menu single-link" data-m='{"cN":"MicrosoftResearchblog-blog_cont","cT":"Container","id":"c1c7c8c3c1m1r1a1","sN":1,"aN":"c7c8c3c1m1r1a1"}'>
+            <a id="c-shellmenu_83" class="js-subm-uhf-nav-link" href="/en-us/research/blog" data-m='{"cN":"CatNav_MicrosoftResearchblog-blog_nav","id":"n1c1c7c8c3c1m1r1a1","sN":1,"aN":"c1c7c8c3c1m1r1a1"}'>Microsoft Research blog</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"MicrosoftResearchpodcast_cont","cT":"Container","id":"c2c7c8c3c1m1r1a1","sN":2,"aN":"c7c8c3c1m1r1a1"}'>
+            <a id="c-shellmenu_84" class="js-subm-uhf-nav-link" href="/en-us/research/podcast/" data-m='{"cN":"CatNav_MicrosoftResearchpodcast_nav","id":"n1c2c7c8c3c1m1r1a1","sN":1,"aN":"c2c7c8c3c1m1r1a1"}'>Microsoft Research podcast</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"BehindtheTech_cont","cT":"Container","id":"c3c7c8c3c1m1r1a1","sN":3,"aN":"c7c8c3c1m1r1a1"}'>
+            <a id="c-shellmenu_85" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/behind-the-tech " data-m='{"cN":"CatNav_BehindtheTech_nav","id":"n1c3c7c8c3c1m1r1a1","sN":1,"aN":"c3c7c8c3c1m1r1a1"}'>Behind the Tech podcast</a>
+            
+        </li>
+                                                    
+                                </ul>
+                            </div>
+                        </li>                        <li class="nested-menu uhf-menu-item">
+                            <div class="c-uhf-menu js-nav-menu">
+                                <button type="button" id="About"  aria-expanded="false" data-m='{"cN":"CatNav_About_nonnav","id":"nn8c8c3c1m1r1a1","sN":8,"aN":"c8c3c1m1r1a1"}'>About</button>
+
+                                <ul class="f-multi-column f-multi-column-3" data-class-idn="f-multi-column f-multi-column-3" aria-hidden="true" data-m='{"cN":"About_cont","cT":"Container","id":"c9c8c3c1m1r1a1","sN":9,"aN":"c8c3c1m1r1a1"}'>
+<li class="f-sub-menu js-nav-menu nested-menu" data-m='{"cN":"People_cont","cT":"Container","id":"c1c9c8c3c1m1r1a1","sN":1,"aN":"c9c8c3c1m1r1a1"}'>
+
+    <span id="uhf-navspn-shellmenu_87-span" style="display:none"   f-multi-parent="true" aria-expanded="false" data-m='{"cN":"CatNav_People_nonnav","id":"nn1c1c9c8c3c1m1r1a1","sN":1,"aN":"c1c9c8c3c1m1r1a1"}'>People &amp; news</span>
+    <button id="uhf-navbtn-shellmenu_87-button" type="button"   f-multi-parent="true" aria-expanded="false" data-m='{"cN":"CatNav_People_nonnav","id":"nn2c1c9c8c3c1m1r1a1","sN":2,"aN":"c1c9c8c3c1m1r1a1"}'>People &amp; news</button>
+    <ul aria-hidden="true" aria-labelledby="uhf-navspn-shellmenu_87-span">
+        <li class="js-nav-menu single-link" data-m='{"cN":"/en-us/research/about-microsoft-research/_cont","cT":"Container","id":"c3c1c9c8c3c1m1r1a1","sN":3,"aN":"c1c9c8c3c1m1r1a1"}'>
+            <a id="About Microsoft Research" class="js-subm-uhf-nav-link" href="/en-us/research/about-microsoft-research/" data-m='{"cN":"CatNav_/en-us/research/about-microsoft-research/_nav","id":"n1c3c1c9c8c3c1m1r1a1","sN":1,"aN":"c3c1c9c8c3c1m1r1a1"}'>About Microsoft Research</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"CareersInternships_cont","cT":"Container","id":"c4c1c9c8c3c1m1r1a1","sN":4,"aN":"c1c9c8c3c1m1r1a1"}'>
+            <a id="CareersInternships" class="js-subm-uhf-nav-link" href="/en-us/research/careers/" data-m='{"cN":"CatNav_CareersInternships_nav","id":"n1c4c1c9c8c3c1m1r1a1","sN":1,"aN":"c4c1c9c8c3c1m1r1a1"}'>Careers &amp; internships</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"People-about_cont","cT":"Container","id":"c5c1c9c8c3c1m1r1a1","sN":5,"aN":"c1c9c8c3c1m1r1a1"}'>
+            <a id="shellmenu_90" class="js-subm-uhf-nav-link" href="/en-us/research/people/" data-m='{"cN":"CatNav_People-about_nav","id":"n1c5c1c9c8c3c1m1r1a1","sN":1,"aN":"c5c1c9c8c3c1m1r1a1"}'>People</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Emeritus program_cont","cT":"Container","id":"c6c1c9c8c3c1m1r1a1","sN":6,"aN":"c1c9c8c3c1m1r1a1"}'>
+            <a id="EmeritusProgram" class="js-subm-uhf-nav-link" href="/en-us/research/microsoft-research-emeritus-program/" data-m='{"cN":"CatNav_Emeritus program_nav","id":"n1c6c1c9c8c3c1m1r1a1","sN":1,"aN":"c6c1c9c8c3c1m1r1a1"}'>Emeritus program</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"News \u0026 awards_cont","cT":"Container","id":"c7c1c9c8c3c1m1r1a1","sN":7,"aN":"c1c9c8c3c1m1r1a1"}'>
+            <a id="NewsAwards" class="js-subm-uhf-nav-link" href="/en-us/research/news-and-awards/" data-m='{"cN":"CatNav_News \u0026 awards_nav","id":"n1c7c1c9c8c3c1m1r1a1","sN":1,"aN":"c7c1c9c8c3c1m1r1a1"}'>News &amp; awards</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Newsletter-about_cont","cT":"Container","id":"c8c1c9c8c3c1m1r1a1","sN":8,"aN":"c1c9c8c3c1m1r1a1"}'>
+            <a id="shellmenu_93" class="js-subm-uhf-nav-link" href="https://info.microsoft.com/ww-landing-microsoft-research-newsletter.html?wt.mc_id=S-webpage_msr-homepage" data-m='{"cN":"CatNav_Newsletter-about_nav","id":"n1c8c1c9c8c3c1m1r1a1","sN":1,"aN":"c8c1c9c8c3c1m1r1a1"}'>Microsoft Research newsletter</a>
+            
+        </li>
+    </ul>
+    
+</li>
+<li class="f-sub-menu js-nav-menu nested-menu" data-m='{"cN":"MicrosoftResearchLabs_cont","cT":"Container","id":"c2c9c8c3c1m1r1a1","sN":2,"aN":"c9c8c3c1m1r1a1"}'>
+
+    <span id="uhf-navspn-shellmenu_94-span" style="display:none"   f-multi-parent="true" aria-expanded="false" data-m='{"cN":"CatNav_MicrosoftResearchLabs_nonnav","id":"nn1c2c9c8c3c1m1r1a1","sN":1,"aN":"c2c9c8c3c1m1r1a1"}'>Microsoft Research Labs</span>
+    <button id="uhf-navbtn-shellmenu_94-button" type="button"   f-multi-parent="true" aria-expanded="false" data-m='{"cN":"CatNav_MicrosoftResearchLabs_nonnav","id":"nn2c2c9c8c3c1m1r1a1","sN":2,"aN":"c2c9c8c3c1m1r1a1"}'>Microsoft Research Labs</button>
+    <ul aria-hidden="true" aria-labelledby="uhf-navspn-shellmenu_94-span">
+        <li class="js-nav-menu single-link" data-m='{"cN":"AI4Science_cont","cT":"Container","id":"c3c2c9c8c3c1m1r1a1","sN":3,"aN":"c2c9c8c3c1m1r1a1"}'>
+            <a id="shellmenu_95" class="js-subm-uhf-nav-link" href="/en-us/research/lab/microsoft-research-ai4science/" data-m='{"cN":"CatNav_AI4Science_nav","id":"n1c3c2c9c8c3c1m1r1a1","sN":1,"aN":"c3c2c9c8c3c1m1r1a1"}'>AI4Science</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"AsiaLabChinese_cont","cT":"Container","id":"c4c2c9c8c3c1m1r1a1","sN":4,"aN":"c2c9c8c3c1m1r1a1"}'>
+            <a id="shellmenu_96" class="js-subm-uhf-nav-link" href="https://www.msra.cn" data-m='{"cN":"CatNav_AsiaLabChinese_nav","id":"n1c4c2c9c8c3c1m1r1a1","sN":1,"aN":"c4c2c9c8c3c1m1r1a1"}'>Asia Lab (Chinese)</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"AsiaLabEnglish_cont","cT":"Container","id":"c5c2c9c8c3c1m1r1a1","sN":5,"aN":"c2c9c8c3c1m1r1a1"}'>
+            <a id="shellmenu_97" class="js-subm-uhf-nav-link" href="/en-us/research/lab/microsoft-research-asia/" data-m='{"cN":"CatNav_AsiaLabEnglish_nav","id":"n1c5c2c9c8c3c1m1r1a1","sN":1,"aN":"c5c2c9c8c3c1m1r1a1"}'>Asia Lab (English)</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"CambridgeLab_cont","cT":"Container","id":"c6c2c9c8c3c1m1r1a1","sN":6,"aN":"c2c9c8c3c1m1r1a1"}'>
+            <a id="shellmenu_98" class="js-subm-uhf-nav-link" href="/en-us/research/lab/microsoft-research-cambridge/" data-m='{"cN":"CatNav_CambridgeLab_nav","id":"n1c6c2c9c8c3c1m1r1a1","sN":1,"aN":"c6c2c9c8c3c1m1r1a1"}'>Cambridge</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Health Futures_cont","cT":"Container","id":"c7c2c9c8c3c1m1r1a1","sN":7,"aN":"c2c9c8c3c1m1r1a1"}'>
+            <a id="shellmenu_99" class="js-subm-uhf-nav-link" href="/en-us/research/lab/microsoft-health-futures/" data-m='{"cN":"CatNav_Health Futures_nav","id":"n1c7c2c9c8c3c1m1r1a1","sN":1,"aN":"c7c2c9c8c3c1m1r1a1"}'>Health Futures</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"IndiaLab_cont","cT":"Container","id":"c8c2c9c8c3c1m1r1a1","sN":8,"aN":"c2c9c8c3c1m1r1a1"}'>
+            <a id="shellmenu_100" class="js-subm-uhf-nav-link" href="/en-us/research/lab/microsoft-research-india/" data-m='{"cN":"CatNav_IndiaLab_nav","id":"n1c8c2c9c8c3c1m1r1a1","sN":1,"aN":"c8c2c9c8c3c1m1r1a1"}'>India</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"MontrealLab_cont","cT":"Container","id":"c9c2c9c8c3c1m1r1a1","sN":9,"aN":"c2c9c8c3c1m1r1a1"}'>
+            <a id="shellmenu_101" class="js-subm-uhf-nav-link" href="/en-us/research/lab/microsoft-research-montreal/" data-m='{"cN":"CatNav_MontrealLab_nav","id":"n1c9c2c9c8c3c1m1r1a1","sN":1,"aN":"c9c2c9c8c3c1m1r1a1"}'>Montreal</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"NewEnglandLab_cont","cT":"Container","id":"c10c2c9c8c3c1m1r1a1","sN":10,"aN":"c2c9c8c3c1m1r1a1"}'>
+            <a id="shellmenu_102" class="js-subm-uhf-nav-link" href="/en-us/research/lab/microsoft-research-new-england/" data-m='{"cN":"CatNav_NewEnglandLab_nav","id":"n1c10c2c9c8c3c1m1r1a1","sN":1,"aN":"c10c2c9c8c3c1m1r1a1"}'>New England</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"NewYorkCityLab_cont","cT":"Container","id":"c11c2c9c8c3c1m1r1a1","sN":11,"aN":"c2c9c8c3c1m1r1a1"}'>
+            <a id="shellmenu_103" class="js-subm-uhf-nav-link" href="/en-us/research/lab/microsoft-research-new-york/" data-m='{"cN":"CatNav_NewYorkCityLab_nav","id":"n1c11c2c9c8c3c1m1r1a1","sN":1,"aN":"c11c2c9c8c3c1m1r1a1"}'>New York City</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"RedmondLab_cont","cT":"Container","id":"c12c2c9c8c3c1m1r1a1","sN":12,"aN":"c2c9c8c3c1m1r1a1"}'>
+            <a id="shellmenu_104" class="js-subm-uhf-nav-link" href="/en-us/research/lab/microsoft-research-redmond/" data-m='{"cN":"CatNav_RedmondLab_nav","id":"n1c12c2c9c8c3c1m1r1a1","sN":1,"aN":"c12c2c9c8c3c1m1r1a1"}'>Redmond</a>
+            
+        </li>
+    </ul>
+    
+</li>
+<li class="f-sub-menu js-nav-menu nested-menu" data-m='{"cT":"Container","id":"c3c9c8c3c1m1r1a1","sN":3,"aN":"c9c8c3c1m1r1a1"}'>
+
+    <span id="uhf-navspn-shellmenu_105-span" style="display:none"   f-multi-parent="true" aria-expanded="false" data-m='{"id":"nn1c3c9c8c3c1m1r1a1","sN":1,"aN":"c3c9c8c3c1m1r1a1"}'>Other labs</span>
+    <button id="uhf-navbtn-shellmenu_105-button" type="button"   f-multi-parent="true" aria-expanded="false" data-m='{"id":"nn2c3c9c8c3c1m1r1a1","sN":2,"aN":"c3c9c8c3c1m1r1a1"}'>Other labs</button>
+    <ul aria-hidden="true" aria-labelledby="uhf-navspn-shellmenu_105-span">
+        <li class="js-nav-menu single-link" data-m='{"cN":"AppliedSciencesLab_cont","cT":"Container","id":"c3c3c9c8c3c1m1r1a1","sN":3,"aN":"c3c9c8c3c1m1r1a1"}'>
+            <a id="shellmenu_106" class="js-subm-uhf-nav-link" href="/en-us/research/lab/applied-sciences-group/" data-m='{"cN":"CatNav_AppliedSciencesLab_nav","id":"n1c3c3c9c8c3c1m1r1a1","sN":1,"aN":"c3c3c9c8c3c1m1r1a1"}'>Applied Sciences</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Mixed Reality \u0026 AI - Cambridge_cont","cT":"Container","id":"c4c3c9c8c3c1m1r1a1","sN":4,"aN":"c3c9c8c3c1m1r1a1"}'>
+            <a id="shellmenu_107" class="js-subm-uhf-nav-link" href="/en-us/research/lab/mixed-reality-ai-lab-cambridge/" data-m='{"cN":"CatNav_Mixed Reality \u0026 AI - Cambridge_nav","id":"n1c4c3c9c8c3c1m1r1a1","sN":1,"aN":"c4c3c9c8c3c1m1r1a1"}'>Mixed Reality &amp; AI - Cambridge</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Mixed Reality \u0026 AI - Zurich_cont","cT":"Container","id":"c5c3c9c8c3c1m1r1a1","sN":5,"aN":"c3c9c8c3c1m1r1a1"}'>
+            <a id="Mixed-reality" class="js-subm-uhf-nav-link" href="/en-us/research/lab/mixed-reality-ai-zurich/" data-m='{"cN":"CatNav_Mixed Reality \u0026 AI - Zurich_nav","id":"n1c5c3c9c8c3c1m1r1a1","sN":1,"aN":"c5c3c9c8c3c1m1r1a1"}'>Mixed Reality &amp; AI - Zurich</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"AdvancedTechnologyLabCairo_cont","cT":"Container","id":"c6c3c9c8c3c1m1r1a1","sN":6,"aN":"c3c9c8c3c1m1r1a1"}'>
+            <a id="shellmenu_109" class="js-subm-uhf-nav-link" href="/en-us/research/group/advanced-technology-lab-cairo-2/" data-m='{"cN":"CatNav_AdvancedTechnologyLabCairo_nav","id":"n1c6c3c9c8c3c1m1r1a1","sN":1,"aN":"c6c3c9c8c3c1m1r1a1"}'>Advanced Technology Lab Cairo</a>
+            
+        </li>
+    </ul>
+    
+</li>
+                                                    
+                                </ul>
+                            </div>
+                        </li>
+
+                <li id="overflow-menu" class="overflow-menu x-hidden uhf-menu-item">
+                        <div class="c-uhf-menu js-nav-menu">
+        <button data-m='{"pid":"More","id":"nn10c8c3c1m1r1a1","sN":10,"aN":"c8c3c1m1r1a1"}' type="button" aria-label="More" aria-expanded="false">More</button>
+        <ul id="overflow-menu-list" aria-hidden="true" class="overflow-menu-list">
+        </ul>
+    </div>
+
+                </li>
+                                    <li class="single-link js-nav-menu" id="c-uhf-nav-cta">
+                        <a id="NewsletterButton" class="c-uhf-nav-link" href="https://note.microsoft.com/ww-registration-microsoft-research-newsletter-s.html?wt.mc_id=S-webpage_msr-homepage" data-m='{"cN":"CatNav_cta_Sign up: Research Newsletter_nav","id":"n11c8c3c1m1r1a1","sN":11,"aN":"c8c3c1m1r1a1"}'>Sign up: Research Newsletter</a>
+                    </li>
+            </ul>
+            
+        </nav>
+
+
+            <div class="c-uhfh-actions" data-m='{"cN":"Header actions_cont","cT":"Container","id":"c9c3c1m1r1a1","sN":9,"aN":"c3c1m1r1a1"}'>
+                <div class="wf-menu">        <nav id="uhf-c-nav" aria-label="All Microsoft menu" data-m='{"cN":"GlobalNav_cont","cT":"Container","id":"c1c9c3c1m1r1a1","sN":1,"aN":"c9c3c1m1r1a1"}'>
+            <ul class="js-paddle-items">
+                <li>
+                    <div class="c-uhf-menu js-nav-menu">
+                        <button type="button" class="c-button-logo all-ms-nav" aria-label="All Microsoft expand to see list of Microsoft products and services" aria-expanded="false" data-m='{"cN":"GlobalNav_More_nonnav","id":"nn1c1c9c3c1m1r1a1","sN":1,"aN":"c1c9c3c1m1r1a1"}'> <span>All Microsoft</span></button>
+                        <ul class="f-multi-column f-multi-column-4" aria-hidden="true" data-m='{"cN":"More_cont","cT":"Container","id":"c2c1c9c3c1m1r1a1","sN":2,"aN":"c1c9c3c1m1r1a1"}'>
+                                    <li class="c-w0-contr">
+            <ul class="c-w0">
+        <li class="js-nav-menu single-link" data-m='{"cN":"Microsoft Security_cont","cT":"Container","id":"c1c2c1c9c3c1m1r1a1","sN":1,"aN":"c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_0" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/security" data-m='{"cN":"W0Nav_Microsoft Security_nav","id":"n1c1c2c1c9c3c1m1r1a1","sN":1,"aN":"c1c2c1c9c3c1m1r1a1"}'>Microsoft Security</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Azure_cont","cT":"Container","id":"c2c2c1c9c3c1m1r1a1","sN":2,"aN":"c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_1" class="js-subm-uhf-nav-link" href="https://azure.microsoft.com/en-us/" data-m='{"cN":"W0Nav_Azure_nav","id":"n1c2c2c1c9c3c1m1r1a1","sN":1,"aN":"c2c2c1c9c3c1m1r1a1"}'>Azure</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Dynamics 365_cont","cT":"Container","id":"c3c2c1c9c3c1m1r1a1","sN":3,"aN":"c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_2" class="js-subm-uhf-nav-link" href="https://dynamics.microsoft.com/en-us/" data-m='{"cN":"W0Nav_Dynamics 365_nav","id":"n1c3c2c1c9c3c1m1r1a1","sN":1,"aN":"c3c2c1c9c3c1m1r1a1"}'>Dynamics 365</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Microsoft 365_cont","cT":"Container","id":"c4c2c1c9c3c1m1r1a1","sN":4,"aN":"c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_3" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/microsoft-365/business/" data-m='{"cN":"W0Nav_Microsoft 365_nav","id":"n1c4c2c1c9c3c1m1r1a1","sN":1,"aN":"c4c2c1c9c3c1m1r1a1"}'>Microsoft 365</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Microsoft Teams_cont","cT":"Container","id":"c5c2c1c9c3c1m1r1a1","sN":5,"aN":"c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_4" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" data-m='{"cN":"W0Nav_Microsoft Teams_nav","id":"n1c5c2c1c9c3c1m1r1a1","sN":1,"aN":"c5c2c1c9c3c1m1r1a1"}'>Microsoft Teams</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"Windows 365_cont","cT":"Container","id":"c6c2c1c9c3c1m1r1a1","sN":6,"aN":"c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_5" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/windows-365" data-m='{"cN":"W0Nav_Windows 365_nav","id":"n1c6c2c1c9c3c1m1r1a1","sN":1,"aN":"c6c2c1c9c3c1m1r1a1"}'>Windows 365</a>
+            
+        </li>
+            </ul>
+        </li>
+
+<li class="f-sub-menu js-nav-menu nested-menu" data-m='{"cT":"Container","id":"c7c2c1c9c3c1m1r1a1","sN":7,"aN":"c2c1c9c3c1m1r1a1"}'>
+
+    <span id="uhf-navspn-shellmenu_7-span" style="display:none"   f-multi-parent="true" aria-expanded="false" data-m='{"id":"nn1c7c2c1c9c3c1m1r1a1","sN":1,"aN":"c7c2c1c9c3c1m1r1a1"}'>Tech &amp; innovation</span>
+    <button id="uhf-navbtn-shellmenu_7-button" type="button"   f-multi-parent="true" aria-expanded="false" data-m='{"id":"nn2c7c2c1c9c3c1m1r1a1","sN":2,"aN":"c7c2c1c9c3c1m1r1a1"}'>Tech &amp; innovation</button>
+    <ul aria-hidden="true" aria-labelledby="uhf-navspn-shellmenu_7-span">
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_TechInnovation_MicrosoftCloud_cont","cT":"Container","id":"c3c7c2c1c9c3c1m1r1a1","sN":3,"aN":"c7c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_8" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/microsoft-cloud" data-m='{"cN":"GlobalNav_More_TechInnovation_MicrosoftCloud_nav","id":"n1c3c7c2c1c9c3c1m1r1a1","sN":1,"aN":"c3c7c2c1c9c3c1m1r1a1"}'>Microsoft Cloud</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_TechInnovation__AI_cont","cT":"Container","id":"c4c7c2c1c9c3c1m1r1a1","sN":4,"aN":"c7c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_9" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/ai" data-m='{"cN":"GlobalNav_More_TechInnovation__AI_nav","id":"n1c4c7c2c1c9c3c1m1r1a1","sN":1,"aN":"c4c7c2c1c9c3c1m1r1a1"}'>AI</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_TechInnovation_AzureSpace_cont","cT":"Container","id":"c5c7c2c1c9c3c1m1r1a1","sN":5,"aN":"c7c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_10" class="js-subm-uhf-nav-link" href="https://azure.microsoft.com/en-us/solutions/space/" data-m='{"cN":"GlobalNav_More_TechInnovation_AzureSpace_nav","id":"n1c5c7c2c1c9c3c1m1r1a1","sN":1,"aN":"c5c7c2c1c9c3c1m1r1a1"}'>Azure Space</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_TechInnovation_MixedReality_cont","cT":"Container","id":"c6c7c2c1c9c3c1m1r1a1","sN":6,"aN":"c7c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_11" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/mixed-reality/windows-mixed-reality" data-m='{"cN":"GlobalNav_More_TechInnovation_MixedReality_nav","id":"n1c6c7c2c1c9c3c1m1r1a1","sN":1,"aN":"c6c7c2c1c9c3c1m1r1a1"}'>Mixed reality</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_TechInnovation_MicrosoftHololens_cont","cT":"Container","id":"c7c7c2c1c9c3c1m1r1a1","sN":7,"aN":"c7c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_12" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/hololens" data-m='{"cN":"GlobalNav_More_TechInnovation_MicrosoftHololens_nav","id":"n1c7c7c2c1c9c3c1m1r1a1","sN":1,"aN":"c7c7c2c1c9c3c1m1r1a1"}'>Microsoft HoloLens</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_TechInnovation_Microsoft Viva_cont","cT":"Container","id":"c8c7c2c1c9c3c1m1r1a1","sN":8,"aN":"c7c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_13" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/microsoft-viva" data-m='{"cN":"GlobalNav_More_TechInnovation_Microsoft Viva_nav","id":"n1c8c7c2c1c9c3c1m1r1a1","sN":1,"aN":"c8c7c2c1c9c3c1m1r1a1"}'>Microsoft Viva</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_TechInnovation_QuantumComputing_cont","cT":"Container","id":"c9c7c2c1c9c3c1m1r1a1","sN":9,"aN":"c7c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_14" class="js-subm-uhf-nav-link" href="https://azure.microsoft.com/en-us/solutions/quantum-computing/" data-m='{"cN":"GlobalNav_More_TechInnovation_QuantumComputing_nav","id":"n1c9c7c2c1c9c3c1m1r1a1","sN":1,"aN":"c9c7c2c1c9c3c1m1r1a1"}'>Quantum computing</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_TechInnovation_Sustainability_cont","cT":"Container","id":"c10c7c2c1c9c3c1m1r1a1","sN":10,"aN":"c7c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_15" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/sustainability/" data-m='{"cN":"GlobalNav_More_TechInnovation_Sustainability_nav","id":"n1c10c7c2c1c9c3c1m1r1a1","sN":1,"aN":"c10c7c2c1c9c3c1m1r1a1"}'>Sustainability</a>
+            
+        </li>
+    </ul>
+    
+</li>
+<li class="f-sub-menu js-nav-menu nested-menu" data-m='{"cT":"Container","id":"c8c2c1c9c3c1m1r1a1","sN":8,"aN":"c2c1c9c3c1m1r1a1"}'>
+
+    <span id="uhf-navspn-shellmenu_16-span" style="display:none"   f-multi-parent="true" aria-expanded="false" data-m='{"id":"nn1c8c2c1c9c3c1m1r1a1","sN":1,"aN":"c8c2c1c9c3c1m1r1a1"}'>Industries</span>
+    <button id="uhf-navbtn-shellmenu_16-button" type="button"   f-multi-parent="true" aria-expanded="false" data-m='{"id":"nn2c8c2c1c9c3c1m1r1a1","sN":2,"aN":"c8c2c1c9c3c1m1r1a1"}'>Industries</button>
+    <ul aria-hidden="true" aria-labelledby="uhf-navspn-shellmenu_16-span">
+        <li class="js-nav-menu single-link" data-m='{"cN":"Industries_Education_cont","cT":"Container","id":"c3c8c2c1c9c3c1m1r1a1","sN":3,"aN":"c8c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_17" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/education" data-m='{"cN":"GlobalNav_Industries_Education_nav","id":"n1c3c8c2c1c9c3c1m1r1a1","sN":1,"aN":"c3c8c2c1c9c3c1m1r1a1"}'>Education</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Industries_Automotive_cont","cT":"Container","id":"c4c8c2c1c9c3c1m1r1a1","sN":4,"aN":"c8c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_18" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/industry/automotive" data-m='{"cN":"GlobalNav_More_Industries_Automotive_nav","id":"n1c4c8c2c1c9c3c1m1r1a1","sN":1,"aN":"c4c8c2c1c9c3c1m1r1a1"}'>Automotive</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Industries_Financialservices_cont","cT":"Container","id":"c5c8c2c1c9c3c1m1r1a1","sN":5,"aN":"c8c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_19" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/industry/financial-services/banking" data-m='{"cN":"GlobalNav_More_Industries_Financialservices_nav","id":"n1c5c8c2c1c9c3c1m1r1a1","sN":1,"aN":"c5c8c2c1c9c3c1m1r1a1"}'>Financial services</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Industries_Government_cont","cT":"Container","id":"c6c8c2c1c9c3c1m1r1a1","sN":6,"aN":"c8c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_20" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/industry/government" data-m='{"cN":"GlobalNav_More_Industries_Government_nav","id":"n1c6c8c2c1c9c3c1m1r1a1","sN":1,"aN":"c6c8c2c1c9c3c1m1r1a1"}'>Government</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Industries_Health_cont","cT":"Container","id":"c7c8c2c1c9c3c1m1r1a1","sN":7,"aN":"c8c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_21" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/industry/health" data-m='{"cN":"GlobalNav_More_Industries_Health_nav","id":"n1c7c8c2c1c9c3c1m1r1a1","sN":1,"aN":"c7c8c2c1c9c3c1m1r1a1"}'>Healthcare</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Industries_Manufacturing_cont","cT":"Container","id":"c8c8c2c1c9c3c1m1r1a1","sN":8,"aN":"c8c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_22" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/industry/manufacturing" data-m='{"cN":"GlobalNav_More_Industries_Manufacturing_nav","id":"n1c8c8c2c1c9c3c1m1r1a1","sN":1,"aN":"c8c8c2c1c9c3c1m1r1a1"}'>Manufacturing</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Industries_Retail_cont","cT":"Container","id":"c9c8c2c1c9c3c1m1r1a1","sN":9,"aN":"c8c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_23" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/industry/retail-consumer-goods" data-m='{"cN":"GlobalNav_More_Industries_Retail_nav","id":"n1c9c8c2c1c9c3c1m1r1a1","sN":1,"aN":"c9c8c2c1c9c3c1m1r1a1"}'>Retail</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Industries_Allindustries_cont","cT":"Container","id":"c10c8c2c1c9c3c1m1r1a1","sN":10,"aN":"c8c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_24" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/industry" data-m='{"cN":"GlobalNav_More_Industries_Allindustries_nav","id":"n1c10c8c2c1c9c3c1m1r1a1","sN":1,"aN":"c10c8c2c1c9c3c1m1r1a1"}'>All industries</a>
+            
+        </li>
+    </ul>
+    
+</li>
+<li class="f-sub-menu js-nav-menu nested-menu" data-m='{"cT":"Container","id":"c9c2c1c9c3c1m1r1a1","sN":9,"aN":"c2c1c9c3c1m1r1a1"}'>
+
+    <span id="uhf-navspn-shellmenu_25-span" style="display:none"   f-multi-parent="true" aria-expanded="false" data-m='{"id":"nn1c9c2c1c9c3c1m1r1a1","sN":1,"aN":"c9c2c1c9c3c1m1r1a1"}'>Partners</span>
+    <button id="uhf-navbtn-shellmenu_25-button" type="button"   f-multi-parent="true" aria-expanded="false" data-m='{"id":"nn2c9c2c1c9c3c1m1r1a1","sN":2,"aN":"c9c2c1c9c3c1m1r1a1"}'>Partners</button>
+    <ul aria-hidden="true" aria-labelledby="uhf-navspn-shellmenu_25-span">
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Partner_FindPartner_cont","cT":"Container","id":"c3c9c2c1c9c3c1m1r1a1","sN":3,"aN":"c9c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_26" class="js-subm-uhf-nav-link" href="https://partner.microsoft.com/en-US/" data-m='{"cN":"GlobalNav_More_Partner_FindPartner_nav","id":"n1c3c9c2c1c9c3c1m1r1a1","sN":1,"aN":"c3c9c2c1c9c3c1m1r1a1"}'>Find a partner</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Partner_BecomePartner_cont","cT":"Container","id":"c4c9c2c1c9c3c1m1r1a1","sN":4,"aN":"c9c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_27" class="js-subm-uhf-nav-link" href="https://partner.microsoft.com/en-US/membership/cloud-solution-provider" data-m='{"cN":"GlobalNav_More_Partner_BecomePartner_nav","id":"n1c4c9c2c1c9c3c1m1r1a1","sN":1,"aN":"c4c9c2c1c9c3c1m1r1a1"}'>Become a partner</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Partner_PartnerNetwork_cont","cT":"Container","id":"c5c9c2c1c9c3c1m1r1a1","sN":5,"aN":"c9c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_28" class="js-subm-uhf-nav-link" href="https://partner.microsoft.com/en-us/membership" data-m='{"cN":"GlobalNav_More_Partner_PartnerNetwork_nav","id":"n1c5c9c2c1c9c3c1m1r1a1","sN":1,"aN":"c5c9c2c1c9c3c1m1r1a1"}'>Partner Network</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Partner_FindAdvertisingPartner_cont","cT":"Container","id":"c6c9c2c1c9c3c1m1r1a1","sN":6,"aN":"c9c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_29" class="js-subm-uhf-nav-link" href="https://about.ads.microsoft.com/en-us/resources/microsoft-advertising-partner-program/microsoft-advertising-partner-program" data-m='{"cN":"GlobalNav_More_Partner_FindAdvertisingPartner_nav","id":"n1c6c9c2c1c9c3c1m1r1a1","sN":1,"aN":"c6c9c2c1c9c3c1m1r1a1"}'>Find an advertising partner</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Partner_BecomeAdvertisingPartner_cont","cT":"Container","id":"c7c9c2c1c9c3c1m1r1a1","sN":7,"aN":"c9c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_30" class="js-subm-uhf-nav-link" href="https://about.ads.microsoft.com/en-us/partners/welcome?s_cid=en-us-gct-web-src_ext-sub_0-flx_uhfcombepartner" data-m='{"cN":"GlobalNav_More_Partner_BecomeAdvertisingPartner_nav","id":"n1c7c9c2c1c9c3c1m1r1a1","sN":1,"aN":"c7c9c2c1c9c3c1m1r1a1"}'>Become an advertising partner</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Partner_AzureMarketplace_cont","cT":"Container","id":"c8c9c2c1c9c3c1m1r1a1","sN":8,"aN":"c9c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_31" class="js-subm-uhf-nav-link" href="https://azuremarketplace.microsoft.com/en-us/" data-m='{"cN":"GlobalNav_More_Partner_AzureMarketplace_nav","id":"n1c8c9c2c1c9c3c1m1r1a1","sN":1,"aN":"c8c9c2c1c9c3c1m1r1a1"}'>Azure Marketplace</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Partner_AppSource_cont","cT":"Container","id":"c9c9c2c1c9c3c1m1r1a1","sN":9,"aN":"c9c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_32" class="js-subm-uhf-nav-link" href="https://appsource.microsoft.com/en-us/" data-m='{"cN":"GlobalNav_More_Partner_AppSource_nav","id":"n1c9c9c2c1c9c3c1m1r1a1","sN":1,"aN":"c9c9c2c1c9c3c1m1r1a1"}'>AppSource</a>
+            
+        </li>
+    </ul>
+    
+</li>
+<li class="f-sub-menu js-nav-menu nested-menu" data-m='{"cT":"Container","id":"c10c2c1c9c3c1m1r1a1","sN":10,"aN":"c2c1c9c3c1m1r1a1"}'>
+
+    <span id="uhf-navspn-shellmenu_33-span" style="display:none"   f-multi-parent="true" aria-expanded="false" data-m='{"id":"nn1c10c2c1c9c3c1m1r1a1","sN":1,"aN":"c10c2c1c9c3c1m1r1a1"}'>Resources</span>
+    <button id="uhf-navbtn-shellmenu_33-button" type="button"   f-multi-parent="true" aria-expanded="false" data-m='{"id":"nn2c10c2c1c9c3c1m1r1a1","sN":2,"aN":"c10c2c1c9c3c1m1r1a1"}'>Resources</button>
+    <ul aria-hidden="true" aria-labelledby="uhf-navspn-shellmenu_33-span">
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Resources_Blog_cont","cT":"Container","id":"c3c10c2c1c9c3c1m1r1a1","sN":3,"aN":"c10c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_34" class="js-subm-uhf-nav-link" href="https://blogs.microsoft.com/" data-m='{"cN":"GlobalNav_More_Resources_Blog_nav","id":"n1c3c10c2c1c9c3c1m1r1a1","sN":1,"aN":"c3c10c2c1c9c3c1m1r1a1"}'>Blog</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Resources_MicrosoftAdvertising_cont","cT":"Container","id":"c4c10c2c1c9c3c1m1r1a1","sN":4,"aN":"c10c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_35" class="js-subm-uhf-nav-link" href="https://about.ads.microsoft.com/en-us?s_cid=dig-src_uhfcomm" data-m='{"cN":"GlobalNav_More_Resources_MicrosoftAdvertising_nav","id":"n1c4c10c2c1c9c3c1m1r1a1","sN":1,"aN":"c4c10c2c1c9c3c1m1r1a1"}'>Microsoft Advertising</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Resources_DeveloperCenter_cont","cT":"Container","id":"c5c10c2c1c9c3c1m1r1a1","sN":5,"aN":"c10c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_36" class="js-subm-uhf-nav-link" href="https://developer.microsoft.com/en-us/" data-m='{"cN":"GlobalNav_More_Resources_DeveloperCenter_nav","id":"n1c5c10c2c1c9c3c1m1r1a1","sN":1,"aN":"c5c10c2c1c9c3c1m1r1a1"}'>Developer Center</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Resources_Documentation_cont","cT":"Container","id":"c6c10c2c1c9c3c1m1r1a1","sN":6,"aN":"c10c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_37" class="js-subm-uhf-nav-link" href="https://learn.microsoft.com/docs/" data-m='{"cN":"GlobalNav_More_Resources_Documentation_nav","id":"n1c6c10c2c1c9c3c1m1r1a1","sN":1,"aN":"c6c10c2c1c9c3c1m1r1a1"}'>Documentation</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Resources_Events_cont","cT":"Container","id":"c7c10c2c1c9c3c1m1r1a1","sN":7,"aN":"c10c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_38" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/events" data-m='{"cN":"GlobalNav_More_Resources_Events_nav","id":"n1c7c10c2c1c9c3c1m1r1a1","sN":1,"aN":"c7c10c2c1c9c3c1m1r1a1"}'>Events</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Resources_Licensing_cont","cT":"Container","id":"c8c10c2c1c9c3c1m1r1a1","sN":8,"aN":"c10c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_39" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/licensing/" data-m='{"cN":"GlobalNav_More_Resources_Licensing_nav","id":"n1c8c10c2c1c9c3c1m1r1a1","sN":1,"aN":"c8c10c2c1c9c3c1m1r1a1"}'>Licensing</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Resources_MicrosoftLearn_cont","cT":"Container","id":"c9c10c2c1c9c3c1m1r1a1","sN":9,"aN":"c10c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_40" class="js-subm-uhf-nav-link" href="https://learn.microsoft.com/" data-m='{"cN":"GlobalNav_More_Resources_MicrosoftLearn_nav","id":"n1c9c10c2c1c9c3c1m1r1a1","sN":1,"aN":"c9c10c2c1c9c3c1m1r1a1"}'>Microsoft Learn</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"More_Resources_MicrosoftResearch_cont","cT":"Container","id":"c10c10c2c1c9c3c1m1r1a1","sN":10,"aN":"c10c2c1c9c3c1m1r1a1"}'>
+            <a id="shellmenu_41" class="js-subm-uhf-nav-link" href="https://www.microsoft.com/en-us/research/" data-m='{"cN":"GlobalNav_More_Resources_MicrosoftResearch_nav","id":"n1c10c10c2c1c9c3c1m1r1a1","sN":1,"aN":"c10c10c2c1c9c3c1m1r1a1"}'>Microsoft Research</a>
+            
+        </li>
+    </ul>
+    
+</li>
+                                                            <li class="f-multi-column-info">
+                                    <a data-m='{"id":"n11c2c1c9c3c1m1r1a1","sN":11,"aN":"c2c1c9c3c1m1r1a1"}' href="https://www.microsoft.com/en-us/sitemap.aspx" aria-label="" class="c-glyph">View Sitemap</a>
+                                </li>
+                            
+                        </ul>
+                    </div>
+                </li>
+            </ul>
+        </nav>
+</div>
+                            <form class="c-search" autocomplete="off" id="searchForm" name="searchForm" role="search" action="/en-us/research/search/" method="GET" data-seAutoSuggest='' data-seautosuggestapi="https://www.microsoft.com/msstoreapiprod/api/autosuggest" data-m='{"cN":"GlobalNav_Search_cont","cT":"Container","id":"c3c1c9c3c1m1r1a1","sN":3,"aN":"c1c9c3c1m1r1a1"}' aria-expanded="false">
+                                <input  id="cli_shellHeaderSearchInput" aria-label="Search Expanded" aria-autocomplete="list" aria-expanded="false" aria-controls="universal-header-search-auto-suggest-transparent" aria-owns="universal-header-search-auto-suggest-ul" type="search" name="q" role="combobox" placeholder="Search Microsoft Research" data-m='{"cN":"SearchBox_nav","id":"n1c3c1c9c3c1m1r1a1","sN":1,"aN":"c3c1c9c3c1m1r1a1"}' data-toggle="tooltip" data-placement="right" title="Search Microsoft Research" />
+                                    <button id="search" aria-label="Search Microsoft Research" class="c-glyph" data-m='{"cN":"Search_nav","id":"n2c3c1c9c3c1m1r1a1","sN":2,"aN":"c3c1c9c3c1m1r1a1"}' data-bi-mto="true" aria-expanded="false" disabled="disabled">
+                                        <span role="presentation">Search</span>
+                                        <span role="tooltip" class="c-uhf-tooltip c-uhf-search-tooltip">Search Microsoft Research</span>
+                                    </button>
+                                <div class="m-auto-suggest" id="universal-header-search-auto-suggest-transparent" role="group">
+                                    <ul class="c-menu" id="universal-header-search-auto-suggest-ul" aria-label="Search Suggestions" aria-hidden="true" data-bi-dnt="true" data-bi-mto="true" data-js-auto-suggest-position="default" role="listbox" data-tel="jsll" data-m='{"cN":"search suggestions_cont","cT":"Container","id":"c3c3c1c9c3c1m1r1a1","sN":3,"aN":"c3c1c9c3c1m1r1a1"}'></ul>
+                                </div>
+                                
+                            </form>
+                        <button data-m='{"cN":"cancel-search","pid":"Cancel Search","id":"nn4c1c9c3c1m1r1a1","sN":4,"aN":"c1c9c3c1m1r1a1"}' id="cancel-search" class="cancel-search" aria-label="Cancel Search">
+                            <span>Cancel</span>
+                        </button>
+                
+            </div>
+        </div>
+        
+        
+    </div>
+    
+</header>
+
+
+
+
+    </div>
+        </div>
+
+    </div>				</uhf_header>
+
+					</div>
+			
+			<main data-bi-area="body" awa-sitesection="blog post single" id="main" role="main">
+
+			<section class="mb-3 moray-highlight" data-bi-aN="hero" data-bi-type="page-header">
+	<div class="card-img-overlay mx-lg-0">
+		<div
+			class="card-background   card-background--full-bleed">
+			<img src="https://www.microsoft.com/en-us/research/uploads/prod/2020/02/blog-page-header-iStock-1181557927-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Globe with pictures of people, global communication network" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2020/02/blog-page-header-iStock-1181557927-scaled.jpg 2560w, https://www.microsoft.com/en-us/research/uploads/prod/2020/02/blog-page-header-iStock-1181557927-300x169.jpg 300w, https://www.microsoft.com/en-us/research/uploads/prod/2020/02/blog-page-header-iStock-1181557927-1024x576.jpg 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2020/02/blog-page-header-iStock-1181557927-768x432.jpg 768w, https://www.microsoft.com/en-us/research/uploads/prod/2020/02/blog-page-header-iStock-1181557927-1536x864.jpg 1536w, https://www.microsoft.com/en-us/research/uploads/prod/2020/02/blog-page-header-iStock-1181557927-2048x1152.jpg 2048w, https://www.microsoft.com/en-us/research/uploads/prod/2020/02/blog-page-header-iStock-1181557927-16x9.jpg 16w, https://www.microsoft.com/en-us/research/uploads/prod/2020/02/blog-page-header-iStock-1181557927-1066x600.jpg 1066w, https://www.microsoft.com/en-us/research/uploads/prod/2020/02/blog-page-header-iStock-1181557927-655x368.jpg 655w, https://www.microsoft.com/en-us/research/uploads/prod/2020/02/blog-page-header-iStock-1181557927-343x193.jpg 343w, https://www.microsoft.com/en-us/research/uploads/prod/2020/02/blog-page-header-iStock-1181557927-640x360.jpg 640w, https://www.microsoft.com/en-us/research/uploads/prod/2020/02/blog-page-header-iStock-1181557927-960x540.jpg 960w, https://www.microsoft.com/en-us/research/uploads/prod/2020/02/blog-page-header-iStock-1181557927-1280x720.jpg 1280w, https://www.microsoft.com/en-us/research/uploads/prod/2020/02/blog-page-header-iStock-1181557927-1920x1080.jpg 1920w" sizes="(max-width: 2560px) 100vw, 2560px" />		</div>
+		<!-- Foreground -->
+		<div class="card-foreground d-flex mt-md-n5 my-lg-5 px-g px-lg-0 align-self-center">
+			<!-- Container -->
+			<div class="container d-flex mt-md-n5 my-lg-5">
+				<!-- Card wrapper -->
+				<div class="w-100 w-lg-col-5">
+					<!-- Card -->
+					<div class="card material-md-card py-5 px-md-5">
+						<div class="card-body">
+							
+							
+															<h2 class="h2">Microsoft XC Research</h2>
+							
+							
+													</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+							<div class="container mt-5">
+					<div class="mx-auto col content-container">
+						<nav aria-label="Your location in the site" data-bi-an="breadcrumbs">
+							<ol class="breadcrumb px-0">
+								<li class="breadcrumb-item">
+									<a href="https://www.microsoft.com/en-us/research/group/customer-insights-research/">
+										Microsoft XC Research									</a>
+								</li>
+																	<li class="breadcrumb-item">
+										<a href="https://www.microsoft.com/en-us/research/group/customer-insights-research/articles/">
+											XC Research Blog										</a>
+									</li>
+															</ol>
+						</nav>
+					</div>
+				</div>
+			
+				<article>
+					<div class="pb-3">
+						<div class="ms-row">
+							<div class="container my-3" data-bi-area="content">
+								<div class="mx-auto col content-container">
+
+									<h1 class="h2 mb-4">When discussing inclusive design, don&#8217;t leave out users with invisible disabilities</h1>
+
+																			<time class="d-block py-1" datetime="Tue, 25 May 2021 09:36:58 -0700">
+											May 25, 2021										</time>
+									
+									
+<div class="row">
+	<section class="d-flex align-items-center col-12" role="region" aria-label="social media links" data-bi-area="social share">
+		<h2 class=" base font-weight-normal align-middle m-0 mr-g d-inline">Share this page</h2>
+		<ul class="list-inline mb-0 d-inline-block align-middle">
+			<li class="list-inline-item m-0 mr-g">
+				<a
+					class="d-inline-block"
+					aria-label="Share on Facebook"
+					href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fresearch%2Fgroup%2Fcustomer-insights-research%2Farticles%2Fwhen-discussing-inclusive-design-dont-leave-out-users-with-invisible-disabilities"
+					data-bi-cN="Share on Facebook"
+					data-bi-type="social-link"
+					target="_blank"
+					rel="noopener noreferrer">
+					<svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">
+						<path d="M17.83 28h-5.432V16.01H10v-3.597h2.398V9.392a5.707 5.707 0 0 1 1.45-3.945A5.995 5.995 0 0 1 18.25 4.02h3.74v3.597h-2.505a1.799 1.799 0 0 0-1.403.684 4.232 4.232 0 0 0-.24 1.642v2.47h3.741l-.431 3.597h-3.322V28Z" fill="#2F2F2F"/>
+					</svg>
+				</a>
+			</li>
+			<li class="list-inline-item m-0 mr-g">
+				<a
+					class="d-inline-block"
+					aria-label="Share on Twitter"
+					href="https://twitter.com/intent/tweet?text=When%20discussing%20inclusive%20design%2C%20don%26%238217%3Bt%20leave%20out%20users%20with%20invisible%20disabilities&#038;url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fresearch%2Fgroup%2Fcustomer-insights-research%2Farticles%2Fwhen-discussing-inclusive-design-dont-leave-out-users-with-invisible-disabilities"
+					data-bi-cN="Share on Twitter"
+					data-bi-type="social-link"
+					target="_blank"
+					rel="noopener noreferrer">
+					<svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">
+						<path d="M29 7.459a11.074 11.074 0 0 1-2.67 2.765v.686a15.01 15.01 0 0 1-3.913 10.234 14.3 14.3 0 0 1-11.25 4.952c-2.9.014-5.74-.824-8.167-2.41.422.068.849.108 1.276.117 2.414.005 4.754-.83 6.619-2.363a5.07 5.07 0 0 1-3.109-1.064 5.235 5.235 0 0 1-1.879-2.635 5.672 5.672 0 0 0 2.423-.083 5.2 5.2 0 0 1-4.148-5.188v-.071c.74.364 1.542.588 2.363.662a5.094 5.094 0 0 1-2.363-4.432 5.26 5.26 0 0 1 .697-2.695 14.525 14.525 0 0 0 10.967 5.579 6.044 6.044 0 0 1-.13-1.182A5.33 5.33 0 0 1 21.046 5a5.117 5.117 0 0 1 3.889 1.69 10.637 10.637 0 0 0 3.391-1.312 5.177 5.177 0 0 1-2.363 2.966A10.909 10.909 0 0 0 29 7.46Z" fill="#2F2F2F"/>
+					</svg>
+				</a>
+			</li>
+			<li class="list-inline-item m-0 mr-g">
+				<a
+					class="d-inline-block"
+					aria-label="Share on LinkedIn"
+					href="https://www.linkedin.com/shareArticle?mini=true&#038;url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fresearch%2Fgroup%2Fcustomer-insights-research%2Farticles%2Fwhen-discussing-inclusive-design-dont-leave-out-users-with-invisible-disabilities&#038;title=When%20discussing%20inclusive%20design%2C%20don%26%238217%3Bt%20leave%20out%20users%20with%20invisible%20disabilities&#038;summary=When%20discussing%20inclusive%20design%2C%20don%26%238217%3Bt%20leave%20out%20users%20with%20invisible%20disabilities&#038;source=Microsoft%20Research"
+					data-bi-cN="Share on LinkedIn"
+					data-bi-type="social-link"
+					target="_blank"
+					rel="noopener noreferrer">
+					<svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">
+						<path d="M26.09 4H5.79C4.716 4 4 4.72 4 5.8v20.52c0 .84.836 1.68 1.791 1.68h20.418c.955 0 1.791-.72 1.791-1.8V5.8c-.12-1.08-.955-1.8-1.91-1.8ZM11.403 24.28H7.701V13.24h3.702v11.04ZM9.493 11.8c-1.194 0-2.15-.96-2.15-2.16 0-1.2.956-2.16 2.15-2.16s2.149.96 2.149 2.16c0 1.2-.955 2.16-2.15 2.16Zm14.686 12.48h-3.701v-5.52c0-1.44-.359-3-1.791-3-1.433 0-1.792 1.44-1.792 3v5.52h-3.701V13.24h3.701v1.32h.24c.477-.96 1.671-1.68 2.984-1.68 3.344 0 4.18 2.16 4.18 5.04v6.36h-.12Z" fill="#2F2F2F"/>
+					</svg>
+				</a>
+			</li>
+			<li class="list-inline-item m-0 mr-g">
+				<a
+					class="d-inline-block"
+					aria-label="Share on Reddit"
+					href="http://www.reddit.com/submit?title=When%20discussing%20inclusive%20design%2C%20don%26%238217%3Bt%20leave%20out%20users%20with%20invisible%20disabilities&#038;url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fresearch%2Fgroup%2Fcustomer-insights-research%2Farticles%2Fwhen-discussing-inclusive-design-dont-leave-out-users-with-invisible-disabilities"
+					data-bi-cN="Share on Reddit"
+					data-bi-type="social-link"
+					target="_blank"
+					rel="noopener noreferrer">
+					<svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">
+						<path d="M18.31 5c-1.82 0-3.177 1.508-3.177 3.223v2.968c-2.386.128-4.568.774-6.31 1.786-.672-.654-1.57-.944-2.442-.944-.945 0-1.91.333-2.577 1.093l-.015.017-.015.018c-.64.81-.893 1.895-.722 2.973a3.877 3.877 0 0 0 1.694 2.62c-.006.109-.024.216-.024.326C4.722 23.447 9.782 27 16 27c6.218 0 11.278-3.553 11.278-7.92 0-.11-.018-.217-.024-.327a3.876 3.876 0 0 0 1.694-2.619c.17-1.078-.082-2.163-.721-2.973l-.016-.018-.015-.017c-.666-.76-1.632-1.092-2.577-1.093-.872 0-1.77.29-2.442.944-1.742-1.012-3.924-1.658-6.31-1.786V8.223c0-.862.49-1.463 1.442-1.463.452 0 1.002.23 1.864.536.729.26 1.677.521 2.89.6.289.87 1.094 1.504 2.046 1.504 1.193 0 2.169-.99 2.169-2.2 0-1.21-.976-2.2-2.17-2.2-.814 0-1.52.467-1.89 1.145a8.428 8.428 0 0 1-2.47-.51C19.963 5.358 19.243 5 18.309 5ZM6.38 13.793c.343 0 .669.091.937.239-.958.81-1.684 1.758-2.123 2.793a2.047 2.047 0 0 1-.429-.97c-.093-.59.081-1.205.358-1.569.261-.285.739-.492 1.257-.493Zm19.236 0c.519 0 .998.208 1.26.493.276.364.45.979.357 1.57-.056.35-.196.677-.43.969-.438-1.035-1.164-1.982-2.122-2.793.268-.148.593-.24.935-.239ZM11.662 15.56c.96 0 1.736.788 1.736 1.76s-.777 1.76-1.736 1.76a1.747 1.747 0 0 1-1.735-1.76c0-.972.777-1.76 1.736-1.76Zm8.675 0c.96 0 1.736.788 1.736 1.76s-.777 1.76-1.736 1.76a1.747 1.747 0 0 1-1.735-1.76c0-.972.777-1.76 1.735-1.76Zm.207 4.87c-.554 1.642-2.327 3.05-4.544 3.05-2.217 0-3.99-1.407-4.544-2.932.997.82 2.66 1.408 4.544 1.408 1.884 0 3.547-.588 4.544-1.527Z" fill="#2F2F2F"/>
+					</svg>
+				</a>
+			</li>
+			<li class="list-inline-item m-0 mr-g">
+				<a
+					class="d-inline-block"
+					aria-label="Subscribe to our RSS feed"
+					href="https://www.microsoft.com/en-us/research/group/customer-insights-research/feed"
+					data-bi-cN="Subscribe to our RSS feed"
+					data-bi-type="social-link"
+					target="_blank"
+					rel="noopener noreferrer">
+					<svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" height="32" width="32">
+						<path d="M6.667 4a2.676 2.676 0 0 0-2.612 2.13v.003c-.036.172-.055.35-.055.534v18.666c0 .183.019.362.055.534v.003a2.676 2.676 0 0 0 2.076 2.075h.002c.172.036.35.055.534.055h18.666A2.676 2.676 0 0 0 28 25.333V6.667a2.676 2.676 0 0 0-2.13-2.612h-.003A2.623 2.623 0 0 0 25.333 4H6.667ZM8 8h1.333C17.42 8 24 14.58 24 22.667V24h-2.667v-1.333c0-6.618-5.382-12-12-12H8V8Zm0 5.333h1.333c5.146 0 9.334 4.188 9.334 9.334V24H16v-1.333A6.674 6.674 0 0 0 9.333 16H8v-2.667ZM10 20a2 2 0 1 1-.001 4.001A2 2 0 0 1 10 20Z" fill="#2F2F2F"/>
+					</svg>
+				</a>
+			</li>
+		</ul>
+
+	</section>
+</div>
+
+								</div>
+								<div class="mt-4 mx-auto col content-container">
+									<p><span class="TextRun SCXW217985916 BCX8" lang="EN-US" xml:lang="EN-US" data-contrast="auto">By <a class="Hyperlink SCXW210661162 BCX8" href="https://www.linkedin.com/in/christakeizer/" target="_blank" rel="noreferrer noopener"><span class="TextRun Underlined SCXW210661162 BCX8" lang="EN-US" xml:lang="EN-US" data-contrast="none"><span class="NormalTextRun SCXW210661162 BCX8" data-ccp-charstyle="Hyperlink">Christa Keizer</span></span></a><span class="TextRun SCXW210661162 BCX8" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW210661162 BCX8"> & </span></span><a class="Hyperlink SCXW210661162 BCX8" href="https://www.linkedin.com/in/mcdanelmichele/" target="_blank" rel="noreferrer noopener"><span class="TextRun Underlined SCXW210661162 BCX8" lang="EN-US" xml:lang="EN-US" data-contrast="none"><span class="NormalTextRun SCXW210661162 BCX8" data-ccp-charstyle="Hyperlink">Michele McDanel</span></span></a><span class="EOP SCXW210661162 BCX8" data-ccp-props="{"201341983":0,"335559739":160,"335559740":259}"> </span><br />
+<a href="https://www.microsoft.com/en-us/research/group/customer-insights-research/articles/when-discussing-inclusive-design-dont-leave-out-users-with-invisible-disabilities/accessible-people-2/" rel="attachment wp-att-747622"><img loading="lazy" class="aligncenter size-large wp-image-747622" src="https://www.microsoft.com/en-us/research/uploads/prod/2021/05/accessible-people-1024x458.png" alt="a group of stick figure people with different disabilities" width="1024" height="458" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2021/05/accessible-people-1024x458.png 1024w, https://www.microsoft.com/en-us/research/uploads/prod/2021/05/accessible-people-300x134.png 300w, https://www.microsoft.com/en-us/research/uploads/prod/2021/05/accessible-people-768x343.png 768w, https://www.microsoft.com/en-us/research/uploads/prod/2021/05/accessible-people-16x7.png 16w, https://www.microsoft.com/en-us/research/uploads/prod/2021/05/accessible-people.png 1042w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></span><span data-contrast="auto">What’s the first thing that comes to mind when you think of “disability”? In the context of product design, we might first think of </span><i><span data-contrast="auto">vision loss, hearing loss, web content accessibility guidelines (WCAG), screen readers, </span></i><span data-contrast="auto">and/or</span><i><span data-contrast="auto"> wheelchairs.</span></i><span data-contrast="auto"> These are all, of course, extremely important to consider in design, but to be truly inclusive, we must also design for users with barriers that may not be immediately obvious. Invisible disabilities are those that might not be immediately apparent; in some cases, they may not even be medically diagnosed. (Half of people with disabilities </span><a href="https://www.who.int/features/factfiles/disability/en/"><span data-contrast="none">cannot afford healthcare</span></a><span data-contrast="auto">.)</span><span data-ccp-props="{"201341983":0,"335559739":160,"335559740":259}"> </span></p>
+<p><span data-contrast="auto">Those who identify as having an invisible disability face </span><a href="https://pubmed.ncbi.nlm.nih.gov/15709941/"><span data-contrast="none">social stigma</span></a><span data-contrast="auto"> and therefore do not always disclose their disability to those around them. </span><span data-ccp-props="{"201341983":0,"335559739":160,"335559740":259}"> </span></p>
+<p><span data-contrast="auto">Lesser-known invisible disabilities as defined by the </span><a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1467-9566.2007.00518.x"><span data-contrast="none">medical model of disability</span></a><span data-contrast="auto"> include: </span><span data-ccp-props="{"201341983":0,"335559739":160,"335559740":259}"> </span></p>
+<ul>
+<li data-leveltext="" data-font="Symbol" data-listid="12" data-aria-posinset="1" data-aria-level="1"><span data-contrast="auto">Learning difficulties like </span><a href="https://dyslexiafoundation.org/"><span data-contrast="none">dyslexia</span></a><span data-contrast="auto"> (difficulty with reading), </span><a href="https://www.researchgate.net/profile/Brian-Butterworth-2/publication/32887848_Developmental_Dyscalculia/links/00b495182a0d375d76000000/Developmental-Dyscalculia.pdf"><span data-contrast="none">dyscalculia</span></a><span data-contrast="auto"> (difficulty with numbers), and dysgraphia (difficulty with writing); </span><span data-ccp-props="{"134233279":true,"201341983":0,"335559739":160,"335559740":259}"> </span></li>
+<li data-leveltext="" data-font="Symbol" data-listid="12" data-aria-posinset="1" data-aria-level="1"><span data-contrast="auto">Developmental coordination disorder or </span><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2066137/"><span data-contrast="none">dyspraxia</span></a><span data-contrast="auto">;</span><span data-ccp-props="{"134233279":true,"201341983":0,"335559739":160,"335559740":259}"> </span></li>
+<li data-leveltext="" data-font="Symbol" data-listid="12" data-aria-posinset="1" data-aria-level="1"><span data-contrast="auto">Mental health conditions like </span><a href="https://www.nami.org/About-Mental-Illness/Mental-Health-Conditions/Depression"><span data-contrast="none">depression</span></a><span data-contrast="auto">, </span><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6897969/"><span data-contrast="none">anxiety</span></a><span data-contrast="auto">, </span><a href="https://www.nami.org/About-Mental-Illness/Mental-Health-Conditions/Posttraumatic-Stress-Disorder"><span data-contrast="none">post-traumatic stress disorder (PTSD)</span></a><span data-contrast="auto">, </span><a href="https://www.nimh.nih.gov/health/topics/obsessive-compulsive-disorder-ocd/"><span data-contrast="none">obsessive compulsive disorder (OCD)</span></a><span data-contrast="auto">, and </span><a href="https://www.nami.org/About-Mental-Illness/Mental-Health-Conditions/Bipolar-Disorder"><span data-contrast="none">bipolar disorder</span></a><span data-contrast="auto">; </span><span data-ccp-props="{"134233279":true,"201341983":0,"335559739":160,"335559740":259}"> </span></li>
+<li data-leveltext="" data-font="Symbol" data-listid="12" data-aria-posinset="1" data-aria-level="1"><span data-contrast="auto">Developmental disabilities like </span><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7067282/"><span data-contrast="none">autism and ADHD</span></a><span data-contrast="auto">; </span><span data-ccp-props="{"134233279":true,"201341983":0,"335559739":160,"335559740":259}"> </span></li>
+<li data-leveltext="" data-font="Symbol" data-listid="12" data-aria-posinset="1" data-aria-level="1"><span data-contrast="auto">Pain-related conditions like </span><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4575027/"><span data-contrast="none">fibromyalgia</span></a><span data-contrast="auto">, </span><a href="https://my.clevelandclinic.org/health/diseases/5005-migraine-headaches"><span data-contrast="none">migraines</span></a><span data-contrast="auto">, </span><a href="https://my.clevelandclinic.org/health/diseases/12061-arthritis"><span data-contrast="none">arthritis</span></a><span data-contrast="auto">;</span><span data-ccp-props="{"134233279":true,"201341983":0,"335559739":160,"335559740":259}"> </span></li>
+<li data-leveltext="" data-font="Symbol" data-listid="12" data-aria-posinset="1" data-aria-level="1"><span data-contrast="auto">Digestive and immune disorders like </span><a href="https://www.niddk.nih.gov/health-information/digestive-diseases/celiac-disease"><span data-contrast="none">celiac disease</span></a><span data-contrast="auto">, </span><a href="https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome/symptoms-causes"><span data-contrast="none">irritable bowel syndrome (IBS)</span></a><span data-contrast="auto">, </span><a href="https://www.niddk.nih.gov/health-information/diabetes"><span data-contrast="none">diabetes</span></a><span data-contrast="auto">; </span><span data-ccp-props="{"134233279":true,"201341983":0,"335559739":160,"335559740":259}"> </span></li>
+<li data-leveltext="" data-font="Symbol" data-listid="12" data-aria-posinset="1" data-aria-level="1"><span data-contrast="auto">Reproductive conditions like </span><a href="https://www.niams.nih.gov/health-topics/fibromyalgia"><span data-contrast="none">fibromyalgia</span></a><span data-contrast="auto">, </span><a href="https://www.nichd.nih.gov/health/topics/pcos"><span data-contrast="none">polycystic ovary syndrome (PCOS)</span></a><span data-contrast="auto">, </span><a href="https://www.nichd.nih.gov/health/topics/endometriosis"><span data-contrast="none">endometriosis</span></a><span data-contrast="auto">, and </span><a href="https://pubmed.ncbi.nlm.nih.gov/30335340/"><span data-contrast="none">premenstrual dysphoric disorder (PMDD)</span></a><span data-contrast="auto">;</span><span data-ccp-props="{"134233279":true,"201341983":0,"335559739":160,"335559740":259}"> </span></li>
+<li data-leveltext="" data-font="Symbol" data-listid="12" data-aria-posinset="1" data-aria-level="1"><span data-contrast="auto">And many others. </span></li>
+</ul>
+<p><span data-contrast="auto">We might also consider users who are not medically disabled but are invisibly disabled by </span><i><span data-contrast="auto">something, </span></i><span data-contrast="auto">like the stress of a global pandemic. </span><span data-ccp-props="{"201341983":0,"335559739":160,"335559740":259}"> </span></p>
+<p><b><span data-contrast="auto">No person is broken. Fix the system.</span></b><span data-ccp-props="{"201341983":0,"335559739":160,"335559740":259}"> </span></p>
+<p><span data-contrast="auto">More than </span><a href="https://www.who.int/teams/noncommunicable-diseases/sensory-functions-disability-and-rehabilitation/world-report-on-disability"><span data-contrast="none">1 billion people worldwide</span></a><span data-contrast="auto"> live with a disability. The </span><a href="https://www.who.int/features/factfiles/disability/en/"><span data-contrast="none">unemployment rate</span></a><span data-contrast="auto"> of disabled people is twice that of non-disabled people and </span><a href="https://www.who.int/features/factfiles/disability/en/"><span data-contrast="none">half of people</span></a><span data-contrast="auto"> with disabilities cannot afford health care. The </span><a href="https://www.ithaca.edu/accessibleic/social/"><span data-contrast="none">social model of disability</span></a><span data-contrast="auto"> argues that the </span><a href="https://blogs.microsoft.com/blog/2021/04/28/doubling-down-on-accessibility-microsofts-next-steps-to-expand-accessibility-in-technology-the-workforce-and-workplace/"><i><span data-contrast="none">disability divide</span></i></a><span data-contrast="auto"> is created by failures of systems, not the disabilities themselves while the </span><a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1467-9566.2007.00518.x"><span data-contrast="none">medical model of disability</span></a><span data-contrast="auto"> often sees disability as the subject needing to be “fixed.” Using the social model of disability, we ask ourselves if the technology we develop creates or removes barriers for users who are already experiencing challenges in a physical world that was not designed for them. For example, an overwhelming interface may be disabling to information workers who have sensory processing challenges and notifications may be disabling to a user who is trying to focus on a project. </span><span data-ccp-props="{"201341983":0,"335559739":160,"335559740":259}"> </span></p>
+<p><b><span data-contrast="auto">How might we design for users with invisible disabilities?</span></b><span data-ccp-props="{"201341983":0,"335559739":160,"335559740":259}"> </span></p>
+<p><span data-contrast="auto">Researching and designing for users with invisible disabilities is more achievable than ever. Here are three tips to get you started: </span><span data-ccp-props="{"201341983":0,"335559739":160,"335559740":259}"> </span></p>
+<p><i><span data-contrast="none">1. Do your homework early and often </span></i></p>
+<p><span data-contrast="auto">Starting your project with a literature review can give you and your team an initial look into users’ attitudes, perceptions, behaviors, and challenges, helping you generate hypotheses that can later be tested. </span><span data-ccp-props="{"201341983":0,"335559739":160,"335559740":259}"> </span></p>
+<p><span data-contrast="auto">You might consider immersing yourself in social media content created by people with disabilities. Although this method may be a bit unconventional, social media can be a uniquely valuable source of lived experience from the disabled community. Simply searching for the name of the disability along with a topic you’re exploring (e.g., email, productivity, communication) can elicit honest product reviews from users with disabilities. In the example below, </span><a href="https://www.mollyburkeofficial.com/about"><span data-contrast="none">Molly Burke</span></a><span data-contrast="auto"> shares her experience using makeup palettes and </span><a href="http://www.marblejar.net/"><span data-contrast="none">Laura Hammock</span></a><span data-contrast="auto"> shares her favorite organizational applications. (Be sure to then validate your generated hypotheses with primary research, of course.) </span><span data-ccp-props="{"201341983":0,"335559739":160,"335559740":259}"> </span></p>
+<p><a href="https://www.microsoft.com/en-us/research/group/customer-insights-research/articles/when-discussing-inclusive-design-dont-leave-out-users-with-invisible-disabilities/molly/" rel="attachment wp-att-747607"><img loading="lazy" class="size-full wp-image-747607 alignleft" src="https://www.microsoft.com/en-us/research/uploads/prod/2021/05/Molly.png" alt="woman holding palette of beauty products" width="936" height="282" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2021/05/Molly.png 936w, https://www.microsoft.com/en-us/research/uploads/prod/2021/05/Molly-300x90.png 300w, https://www.microsoft.com/en-us/research/uploads/prod/2021/05/Molly-768x231.png 768w, https://www.microsoft.com/en-us/research/uploads/prod/2021/05/Molly-16x5.png 16w" sizes="(max-width: 936px) 100vw, 936px" /></a><br />
+<br />
+<a href="https://www.microsoft.com/en-us/research/group/customer-insights-research/articles/when-discussing-inclusive-design-dont-leave-out-users-with-invisible-disabilities/laura-2/" rel="attachment wp-att-747613"><img loading="lazy" class="size-full wp-image-747613 aligncenter" src="https://www.microsoft.com/en-us/research/uploads/prod/2021/05/Laura.png" alt="woman smiling, and a brain" width="936" height="273" srcset="https://www.microsoft.com/en-us/research/uploads/prod/2021/05/Laura.png 936w, https://www.microsoft.com/en-us/research/uploads/prod/2021/05/Laura-300x88.png 300w, https://www.microsoft.com/en-us/research/uploads/prod/2021/05/Laura-768x224.png 768w, https://www.microsoft.com/en-us/research/uploads/prod/2021/05/Laura-16x5.png 16w" sizes="(max-width: 936px) 100vw, 936px" /></a></p>
+<p><em>2. Include research participants with disabilities.</em></p>
+<p>When researching disabilities, keep “Nothing about us, without us” in mind. A literature review can’t replace primary user research, so avoid making assumptions (especially those that are based on stereotypes) about disabled user groups without incorporating their lived perspectives.</p>
+<p><a href="https://www.who.int/publications/i/item/9789241564182">15 percent</a> of people experience a disability, so researchers should make a habit of including disabled users in their studies.</p>
+<p><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4494783/">Research shows</a> individuals are open to disclosing their invisible disability if the disclosure is expected to yield positive results. This indicates that potential research participants may be open to disclosing their invisible disability to be part of a research study. Check out this <a href="https://medium.com/inclusive-research">practical guide to inclusive research</a> for more tips on running inclusive research studies.</p>
+<p><em>3. Employ universal design principles.</em></p>
+<p>We can also critically assess our products using the <a href="http://universaldesign.ie/what-is-universal-design/the-7-principles/the-7-principles.html">universal design principles</a>, which were created in 1997 by designers, architects, engineers, and researchers to evaluate the universal accessibility of environments and products. Universal design principles include:</p>
+<ul>
+<li><strong>Equitable in use:</strong> The design is useful and marketable to people with diverse abilities.</li>
+<li><strong>Flexibility in use: </strong>The design accommodates a wide range of individual preferences and abilities.</li>
+<li><strong>Simple and intuitive: </strong>Use of the design is easy to understand, regardless of the user&#8217;s experience, knowledge, language skills, or current concentration level.</li>
+<li><strong>Perceptible information: </strong>The design communicates necessary information effectively to the user, regardless of ambient conditions or the user&#8217;s sensory abilities.</li>
+<li><strong>Tolerance for error:</strong> The design minimizes hazards and the adverse consequences of accidental or unintended actions.</li>
+<li><strong>Low physical effort:</strong> The design can be used efficiently and comfortably and with a minimum of fatigue.</li>
+<li><strong>Size appropriate for user:</strong> Appropriate size and space is provided for approach, reach, manipulation, and use regardless of user&#8217;s body size, posture, or mobility.</li>
+</ul>
+<p>Universal design principles can be used throughout the design process to ideate new solutions and <a href="https://www.microsoft.com/en-us/research/group/customer-insights-research/articles/a-guide-to-conducting-experience-reviews/">critique existing experiences</a>.</p>
+<p><strong>Wrapping it all up</strong></p>
+<p>Inclusive research is the first step to building <a href="https://blogs.microsoft.com/blog/2021/04/28/doubling-down-on-accessibility-microsofts-next-steps-to-expand-accessibility-in-technology-the-workforce-and-workplace/">a more accessible future for everyone</a>. While it may seem intimidating to incorporate disability into your user research, a great first step is talking with your team about how you’ll design for users with disabilities. We have included additional articles, some discussion prompts, and an outline for a disability workshop below to help you with those efforts.</p>
+<p><strong>Resources</strong></p>
+<p><em>Further reading</em></p>
+<p><a href="https://www.microsoft.com/en-us/research/publication/ai-and-accessibility-a-discussion-of-ethical-considerations/">AI and Accessibility: A Discussion of Ethical Considerations</a></p>
+<p><a href="https://www.microsoft.com/en-us/research/video/our-responsibility-disability-bias-and-ai/">Our Responsibility: Disability, Bias, and AI</a></p>
+<p><a href="http://universaldesign.ie/What-is-Universal-Design/">What is Universal Design | Centre for Excellence in Universal Design</a></p>
+<p><a href="http://nda.ie/">Disability Statistics | The National Disability Authority (nda.ie)</a></p>
+<p><em>Discussion prompts</em></p>
+<ul>
+<li>Do you or someone you know have an invisible disability? How is their workday, behaviors, or work style unique from yours?</li>
+<li>Think of a time when users with invisible disabilities may have been disproportionally impacted by a proposed design solution. Were these users in your research samples? Why or why not?</li>
+<li>What’s an upcoming project that would uniquely impact someone who:
+<ul>
+<li>Has memory lapses from a former brain injury?</li>
+<li>Has difficulty making mathematical calculations (dyscalculia)?</li>
+<li>Prefers written communication over meetings?</li>
+<li>Is color blind?</li>
+</ul>
+</li>
+</ul>
+<p><strong>45-minute invisible disability workshop</strong></p>
+<ol>
+<li>Divide your group into teams of three.</li>
+<li>Assign each group with a unique scenario and a unique invisible disability. Examples might include: joining an online meeting with social anxiety, managing daily tasks with a brain injury, attending an hour-long remote workshop with ADHD, going to a workplace cafeteria with autism.</li>
+<li>Allow each group to spend 15 minutes to research their group’s disability online using social media and reputable academic sources.</li>
+<li>Allow each group to spend 15 minutes plotting their findings on an <a href="https://www.nngroup.com/articles/empathy-mapping/">empathy map</a>. (Groups can use PowerPoint, Microsoft Whiteboard, or any other collaborative software.)</li>
+<li>Give time for each group to present what they learned using the completed empathy map.</li>
+</ol>
+<p><strong class="x-hidden-focus">What do you think? How will these ideas and resources help you better understand and design for those with invisible disabilities? Tweet us your thoughts at @MicrosoftRI or <a href="http://www.facebook.com/MicrosoftRI">follow us on Facebook</a> and join the conversation.</strong></p>
+<p><em>Christa Keizer is an Outlook Calendar design researcher who passionately advocates for inclusive design, mental health, and sustainability. </em></p>
+<p><em>Author note: In this post I use both </em><a href="https://odr.dc.gov/page/people-first-language"><em>person-first language</em></a><em> (PFC) and </em><a href="https://autisticadvocacy.org/about-asan/identity-first-language/"><em>identity-first language</em></a><em> (IFL) interchangeably. I am using both models because as a disabled person myself, I personally use identity-first language when describing my disabilities, while some disability communities prefer person-first language. My intent is to always use language that each community prefers. </em></p>
+<p><em>Michele McDanel is a builder, an organizer, and a storyteller with a bachelor’s degree in Communications and an MBA. She is energized by solving problems and meeting business needs through communications and customer experience solutions that raise the bar. Michele enjoys building relationships and managing teams; and overall, just figuring out what the “special sauce” is that will be the competitive differentiator for a business and its solutions. She joined the Customer Insights Research team in 2019 to amplify the great UX research and data science work they do, and to showcase the thought leadership of the team across internal and external communications, events, and social media.</em></p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</article>
+
+				<aside class="msr-moray-related-items container my-5">
+	<div class="mx-auto col col-lg-9">
+		<h3 class="border-top border-gray-300 pt-5">Related Items</h3>
+													<article class="card material-card mb-3 msr-spectrum-bar" data-mount="click-group" itemscope itemtype="https://schema.org/Article">
+					<div class="p-4">
+						<time datetime="2022-01-19T09:36:41-08:00" itemprop="datePublished">January 19, 2022</time>
+						<h4 class="my-2" itemprop="name">
+							<a href="https://www.microsoft.com/en-us/research/group/customer-insights-research/articles/lots-of-ideas-but-not-sure-how-to-prioritize-the-kano-model-can-help" itemprop="url" class="icon-link icon-link--card-title"
+								data-bi-cN="Lots of ideas, but not sure how to prioritize? The Kano model can help." data-bi-type="blog-post"
+								data-bi-tN="related-content-tabs">
+								<span itemprop="name">Lots of ideas, but not sure how to prioritize? The Kano model can help.</span>
+								<span class="glyph-append glyph-append-chevron-right glyph-append-small" aria-hidden="true"></span>
+							</a>
+						</h4>
+						<p class="m-0" itemprop="description">The first step to using an idea is knowing which idea to use. It is important to learn which ideas will bring the most value to your customers before choosing what to focus on. One method that can be used to help is called the Kano model. </p>
+					</div>
+				</article>
+											<article class="card material-card mb-3 msr-spectrum-bar" data-mount="click-group" itemscope itemtype="https://schema.org/Article">
+					<div class="p-4">
+						<time datetime="2022-01-11T10:15:55-08:00" itemprop="datePublished">January 11, 2022</time>
+						<h4 class="my-2" itemprop="name">
+							<a href="https://www.microsoft.com/en-us/research/group/customer-insights-research/articles/can-a-legacy-product-meet-the-needs-of-existing-users-while-attracting-new-ones" itemprop="url" class="icon-link icon-link--card-title"
+								data-bi-cN="Can a legacy product meet the needs of existing users while attracting new ones?" data-bi-type="blog-post"
+								data-bi-tN="related-content-tabs">
+								<span itemprop="name">Can a legacy product meet the needs of existing users while attracting new ones?</span>
+								<span class="glyph-append glyph-append-chevron-right glyph-append-small" aria-hidden="true"></span>
+							</a>
+						</h4>
+						<p class="m-0" itemprop="description">Innovating a legacy product can pose a seemingly contradicting set of goals. On the one hand, you have the benefit of an entrenched product with a loyal user base that has become day-to-day experts in their usage of the feature set. On the other, you have a need to continue&hellip;</p>
+					</div>
+				</article>
+											<article class="card material-card mb-3 msr-spectrum-bar" data-mount="click-group" itemscope itemtype="https://schema.org/Article">
+					<div class="p-4">
+						<time datetime="2022-01-04T10:08:20-08:00" itemprop="datePublished">January 4, 2022</time>
+						<h4 class="my-2" itemprop="name">
+							<a href="https://www.microsoft.com/en-us/research/group/customer-insights-research/articles/five-predictions-for-the-uxr-world-in-2022" itemprop="url" class="icon-link icon-link--card-title"
+								data-bi-cN="Five predictions for the UXR world in 2022" data-bi-type="blog-post"
+								data-bi-tN="related-content-tabs">
+								<span itemprop="name">Five predictions for the UXR world in 2022</span>
+								<span class="glyph-append glyph-append-chevron-right glyph-append-small" aria-hidden="true"></span>
+							</a>
+						</h4>
+						<p class="m-0" itemprop="description">I’m in the enviable position of hearing what my research colleagues are working on within my team and in other groups at the company. I’m also regularly reading what other researchers are posting. This gives me a broad perspective about topics and trends in UX research. Based on those sources,&hellip;</p>
+					</div>
+				</article>
+											<article class="card material-card mb-3 msr-spectrum-bar" data-mount="click-group" itemscope itemtype="https://schema.org/Article">
+					<div class="p-4">
+						<time datetime="2021-12-14T10:12:32-08:00" itemprop="datePublished">December 14, 2021</time>
+						<h4 class="my-2" itemprop="name">
+							<a href="https://www.microsoft.com/en-us/research/group/customer-insights-research/articles/very-small-business-owners-often-dream-big" itemprop="url" class="icon-link icon-link--card-title"
+								data-bi-cN="Very small business owners often dream big" data-bi-type="blog-post"
+								data-bi-tN="related-content-tabs">
+								<span itemprop="name">Very small business owners often dream big</span>
+								<span class="glyph-append glyph-append-chevron-right glyph-append-small" aria-hidden="true"></span>
+							</a>
+						</h4>
+						<p class="m-0" itemprop="description">Serving the needs of the VSB space requires understanding of their motivations. The dreamer wants technology to take care of the mundane, operational tasks that are required to run a business, so they can focus on their passion. The pragmatist needs technology to help them make money, automate cold calling,&hellip;</p>
+					</div>
+				</article>
+							<a href="https://www.microsoft.com/en-us/research/group/customer-insights-research/articles/" class="btn btn-outline-primary">
+			Browse more related items			<span class="glyph-append glyph-append-chevron-right glyph-append-xsmall" aria-hidden="true"></span>
+		</a>
+	</div>
+</aside>
+			</main>
+
+			<div class="picchu" ms.pgarea="social">
+	<section class="msr-social msr-social--footer bg-gray" role="region" aria-label="Social media links"
+			 data-bi-area="SocialMediaLinks">
+		<div class="ms-grid container">
+			<div class="ms-row">
+				<div class="m-col-12-24 msr-social-col msr-social-col--follow">
+
+					<p class="body tight block-inline block-clean heading" id="msr-follow-us-footer">
+						Follow us:					</p>
+					<ul class="block-inline list-clean list-inline" aria-labelledby="msr-follow-us-footer">
+						<li class="mr-0">
+							<a
+								href="
+								https://twitter.com/intent/follow?original_referrer=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fresearch%2Fgroup%2Fcustomer-insights-research%2Farticles%2Fwhen-discussing-inclusive-design-dont-leave-out-users-with-invisible-disabilities&#038;screen_name=MSFTResearch								"
+								data-bi-slot="0"
+								data-bi-cN="Follow on Twitter"
+								data-bi-type="social-link"
+								data-bi-tN="social-follow"
+								target="_blank"
+								rel="noopener noreferrer"
+								class="block link"
+							>
+								<span class="visually-hidden">Follow on Twitter</span>
+								<svg xmlns="http://www.w3.org/2000/svg" class="block" aria-hidden="true">
+									<path d="M32 7.075a12.941 12.941 0 0 1-3.769 1.031 6.601 6.601 0 0 0 2.887-3.631 13.21 13.21 0 0 1-4.169 1.594A6.565 6.565 0 0 0 22.155 4a6.563 6.563 0 0 0-6.563 6.563c0 .512.056 1.012.169 1.494A18.635 18.635 0 0 1 2.23 5.195a6.56 6.56 0 0 0-.887 3.3 6.557 6.557 0 0 0 2.919 5.463 6.565 6.565 0 0 1-2.975-.819v.081a6.565 6.565 0 0 0 5.269 6.437 6.574 6.574 0 0 1-2.968.112 6.588 6.588 0 0 0 6.131 4.563 13.17 13.17 0 0 1-9.725 2.719 18.568 18.568 0 0 0 10.069 2.95c12.075 0 18.681-10.006 18.681-18.681 0-.287-.006-.569-.019-.85A13.216 13.216 0 0 0 32 7.076z"/>
+								</svg>
+							</a>
+						</li>
+
+						<li class="mr-0">
+							<a
+								href="https://www.facebook.com/microsoftresearch/"
+								data-bi-slot="1"
+								data-bi-cN="Like on Facebook"
+								data-bi-type="social-link"
+								data-bi-tN="social-follow"
+								target="_blank"
+								rel="noopener noreferrer"
+								class="block link"
+							>
+								<span class="visually-hidden">Like on Facebook</span>
+								<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+									<path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"
+										  class="block"/>
+								</svg>
+							</a>
+						</li>
+
+						<li>
+							<a
+								href="https://www.linkedin.com/showcase/microsoftresearch/"
+								data-bi-slot="5"
+								data-bi-cN="Follow on LinkedIn"
+								data-bi-type="social-link"
+								data-bi-tN="social-follow"
+								target="_blank"
+								rel="noopener noreferrer"
+								class="block link"
+							>
+								<span class="visually-hidden">Follow on LinkedIn</span>
+								<svg xmlns="http://www.w3.org/2000/svg" class="linkedin" aria-hidden="true">
+									<path d="M12 12h5.535v2.837h.079c.77-1.381 2.655-2.837 5.464-2.837C28.92 12 30 15.637 30 20.367V30h-5.769v-8.54c0-2.037-.042-4.657-3.001-4.657-3.005 0-3.463 2.218-3.463 4.509V30H12V12zM2 12h6v18H2V12zM8 7a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/>
+								</svg>
+							</a>
+						</li>
+
+						<li>
+							<a
+								href="https://www.youtube.com/user/MicrosoftResearch"
+								data-bi-slot="2"
+								data-bi-cN="Subscribe on Youtube"
+								data-bi-type="social-link"
+								data-bi-tN="social-follow"
+								target="_blank"
+								rel="noopener noreferrer"
+								class="block link"
+							>
+								<span class="visually-hidden">Subscribe on Youtube</span>
+								<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+									<path d="M31.681 9.6s-.313-2.206-1.275-3.175C29.187 5.15 27.825 5.144 27.2 5.069c-4.475-.325-11.194-.325-11.194-.325h-.012s-6.719 0-11.194.325c-.625.075-1.987.081-3.206 1.356C.631 7.394.325 9.6.325 9.6s-.319 2.588-.319 5.181v2.425c0 2.587.319 5.181.319 5.181s.313 2.206 1.269 3.175c1.219 1.275 2.819 1.231 3.531 1.369 2.563.244 10.881.319 10.881.319s6.725-.012 11.2-.331c.625-.075 1.988-.081 3.206-1.356.962-.969 1.275-3.175 1.275-3.175s.319-2.587.319-5.181v-2.425c-.006-2.588-.325-5.181-.325-5.181zM12.694 20.15v-8.994l8.644 4.513-8.644 4.481z"/>
+								</svg>
+							</a>
+						</li>
+
+						<li>
+							<a
+								href="https://www.instagram.com/msft_research/"
+								data-bi-slot="3"
+								data-bi-cN="Follow on Instagram"
+								data-bi-type="social-link"
+								data-bi-tN="social-follow"
+								target="_blank"
+								rel="noopener noreferrer"
+								class="block link"
+							>
+								<span class="visually-hidden">Follow on Instagram</span>
+								<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+									<path d="M30 0H2C.895 0 0 .894 0 2v28c0 1.105.894 2 2 2h28a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM12 16s.316-4 4-4 4 4 4 4 .115 4-4 4-4-4-4-4zm16 12H4V14h4.283C8.117 14.643 8 15.305 8 16a8 8 0 0 0 16 0c0-.695-.117-1.357-.283-2H28v14zm0-18h-6V4h6v6z"/>
+								</svg>
+							</a>
+						</li>
+
+						<li>
+							<a
+								href="https://www.microsoft.com/en-us/research/feed/"
+								data-bi-slot="4"
+								data-bi-cN="Subscribe to our RSS feed"
+								data-bi-type="social-link"
+								data-bi-tN="social-follow"
+								target="_blank"
+								rel="noopener noreferrer"
+								class="block link"
+							>
+								<span class="visually-hidden">Subscribe to our RSS feed</span>
+								<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" aria-hidden="true">
+									<path d="M4.259 23.467A4.265 4.265 0 0 0 0 27.719a4.25 4.25 0 0 0 4.259 4.244 4.25 4.25 0 0 0 4.265-4.244 4.265 4.265 0 0 0-4.265-4.252zM.005 10.873v6.133c3.993 0 7.749 1.562 10.577 4.391A14.897 14.897 0 0 1 14.966 32h6.16c0-11.651-9.478-21.127-21.121-21.127zM.012 0v6.136C14.255 6.136 25.848 17.74 25.848 32H32C32 14.36 17.648 0 .012 0z"/>
+								</svg>
+							</a>
+						</li>
+					</ul>
+				</div><!--/.col-->
+
+				<div class="m-col-12-24 msr-social-col msr-social-col--share">
+
+					<p class="body tight block-inline block-clean heading" id="msr-share-footer">
+						Share this page:					</p>
+					<ul class="block-inline list-clean list-inline" aria-labelledby="msr-share-footer">
+
+						<li class="mr-0">
+							
+							<a
+								href="
+								https://twitter.com/intent/tweet?text=When%20discussing%20inclusive%20design%2C%20don%26%238217%3Bt%20leave%20out%20users%20with%20invisible%20disabilities&#038;url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fresearch%2Fgroup%2Fcustomer-insights-research%2Farticles%2Fwhen-discussing-inclusive-design-dont-leave-out-users-with-invisible-disabilities								"
+								data-bi-slot="5"
+								data-bi-cN="Share on Twitter"
+								data-bi-type="social-link"
+								data-bi-tN="social-share"
+								target="_blank"
+								rel="noopener noreferrer"
+								class="block link"
+							>
+								<span class="visually-hidden">Share on Twitter</span>
+								<svg xmlns="http://www.w3.org/2000/svg" class="block" aria-hidden="true">
+									<path d="M32 7.075a12.941 12.941 0 0 1-3.769 1.031 6.601 6.601 0 0 0 2.887-3.631 13.21 13.21 0 0 1-4.169 1.594A6.565 6.565 0 0 0 22.155 4a6.563 6.563 0 0 0-6.563 6.563c0 .512.056 1.012.169 1.494A18.635 18.635 0 0 1 2.23 5.195a6.56 6.56 0 0 0-.887 3.3 6.557 6.557 0 0 0 2.919 5.463 6.565 6.565 0 0 1-2.975-.819v.081a6.565 6.565 0 0 0 5.269 6.437 6.574 6.574 0 0 1-2.968.112 6.588 6.588 0 0 0 6.131 4.563 13.17 13.17 0 0 1-9.725 2.719 18.568 18.568 0 0 0 10.069 2.95c12.075 0 18.681-10.006 18.681-18.681 0-.287-.006-.569-.019-.85A13.216 13.216 0 0 0 32 7.076z"/>
+								</svg>
+							</a>
+						</li>
+
+						<li class="mr-0">
+							<a
+								href="
+								https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fresearch%2Fgroup%2Fcustomer-insights-research%2Farticles%2Fwhen-discussing-inclusive-design-dont-leave-out-users-with-invisible-disabilities								"
+								data-bi-slot="6"
+								data-bi-cN="Share on Facebook"
+								data-bi-type="social-link"
+								data-bi-tN="social-share"
+								target="_blank"
+								rel="noopener noreferrer"
+								class="block link">
+								<span class="visually-hidden">Share on Facebook</span>
+								<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+									<path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"
+										  class="block"/>
+								</svg>
+							</a>
+						</li>
+
+						<li>
+							<a
+								href="
+								https://www.linkedin.com/shareArticle?mini=true&#038;url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fresearch%2Fgroup%2Fcustomer-insights-research%2Farticles%2Fwhen-discussing-inclusive-design-dont-leave-out-users-with-invisible-disabilities&#038;title=When%20discussing%20inclusive%20design%2C%20don%26%238217%3Bt%20leave%20out%20users%20with%20invisible%20disabilities&#038;summary=When%20discussing%20inclusive%20design%2C%20don%26%238217%3Bt%20leave%20out%20users%20with%20invisible%20disabilities&#038;source=Microsoft%20Research								"
+								data-bi-slot="7"
+								data-bi-cN="Share on LinkedIn"
+								data-bi-type="social-link"
+								data-bi-tN="social-share"
+								target="_blank"
+								rel="noopener noreferrer"
+								class="block link"
+							>
+								<span class="visually-hidden">Share on LinkedIn</span>
+								<svg xmlns="http://www.w3.org/2000/svg" class="linkedin block" aria-hidden="true">
+									<path d="M12 12h5.535v2.837h.079c.77-1.381 2.655-2.837 5.464-2.837C28.92 12 30 15.637 30 20.367V30h-5.769v-8.54c0-2.037-.042-4.657-3.001-4.657-3.005 0-3.463 2.218-3.463 4.509V30H12V12zM2 12h6v18H2V12zM8 7a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/>
+								</svg>
+							</a>
+						</li>
+
+						<li>
+							<a href="
+								http://www.reddit.com/submit?title=When%20discussing%20inclusive%20design%2C%20don%26%238217%3Bt%20leave%20out%20users%20with%20invisible%20disabilities&#038;url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fresearch%2Fgroup%2Fcustomer-insights-research%2Farticles%2Fwhen-discussing-inclusive-design-dont-leave-out-users-with-invisible-disabilities								"
+								data-bi-slot="8"
+								data-bi-cN="Share on Reddit"
+								data-bi-type="social-link"
+								data-bi-tN="social-share"
+								target="_blank"
+								rel="noopener noreferrer"
+								class="block link"
+							>
+								<span class="visually-hidden">Share on Reddit</span>
+								<svg xmlns="http://www.w3.org/2000/svg" class="block" aria-hidden="true">
+									<path d="M8 20a2 2 0 1 1 3.999-.001A2 2 0 0 1 8 20zm12 0a2 2 0 1 1 3.999-.001A2 2 0 0 1 20 20zm.097 4.274a1.188 1.188 0 0 1 1.47 1.866C20.133 27.27 17.948 28 16 28s-4.133-.73-5.567-1.86a1.188 1.188 0 0 1 1.47-1.866c.826.651 2.46 1.351 4.097 1.351s3.271-.7 4.097-1.351zM32 16a4 4 0 0 0-7.495-1.943c-2.056-1.125-4.561-1.851-7.29-2.019l2.387-5.36 4.569 1.319a3 3 0 1 0 .188-2.417l-5.091-1.47a1.187 1.187 0 0 0-1.414.658l-3.243 7.282c-2.661.187-5.102.907-7.114 2.007a4 4 0 1 0-5.109 5.603 7.334 7.334 0 0 0-.387 2.341c0 5.523 6.268 10 14 10s14-4.477 14-10a7.3 7.3 0 0 0-.387-2.34 4 4 0 0 0 2.387-3.66zM27 5.875a1.125 1.125 0 1 1 0 2.25 1.125 1.125 0 0 1 0-2.25zM2 16c0-1.103.897-2 2-2 .797 0 1.487.469 1.808 1.145-1.045.793-1.911 1.707-2.552 2.711A2.003 2.003 0 0 1 2 16zm14 13.625c-6.42 0-11.625-3.414-11.625-7.625S9.58 14.375 16 14.375 27.625 17.789 27.625 22 22.42 29.625 16 29.625zm12.744-11.769c-.641-1.003-1.507-1.918-2.552-2.711A2.003 2.003 0 0 1 28 14c1.103 0 2 .897 2 2 0 .84-.52 1.56-1.256 1.856z"/>
+								</svg>
+							</a>
+						</li>
+					</ul>
+
+				</div><!--/.col-->
+			</div><!--/.ms-row-->
+		</div><!--/.ms-grid-->
+	</section><!--/.ms-social-->
+</div>
+
+		<div id="playerModal" class="mfp-hide">
+			<div id="player"></div>
+		</div>
+
+		<div id="mq"></div>
+
+		
+		<span data-no-translation>
+			<div id="footerArea" class="uhf"  data-m='{"cN":"footerArea","cT":"Area_coreuiArea","id":"a2Body","sN":2,"aN":"Body"}'>
+                <div id="footerRegion"      data-region-key="footerregion" data-m='{"cN":"footerRegion","cT":"Region_coreui-region","id":"r1a2","sN":1,"aN":"a2"}' >
+
+    <div  id="footerUniversalFooter" data-m='{"cN":"footerUniversalFooter","cT":"Module_coreui-universalfooter","id":"m1r1a2","sN":1,"aN":"r1a2"}'  data-module-id="Category|footerRegion|coreui-region|footerUniversalFooter|coreui-universalfooter">
+        
+
+
+
+<footer id="uhf-footer" class="c-uhff context-uhf"  data-uhf-mscc-rq="false" data-footer-footprint="/MSRESEARCH/global-default-footer, fromService: True" data-m='{"cN":"Uhf footer_cont","cT":"Container","id":"c1m1r1a2","sN":1,"aN":"m1r1a2"}'>
+        <nav class="c-uhff-nav" aria-label="Footer Resource links" data-m='{"cN":"Footer nav_cont","cT":"Container","id":"c1c1m1r1a2","sN":1,"aN":"c1m1r1a2"}'>
+            
+                <div class="c-uhff-nav-row">
+                    <div class="c-uhff-nav-group" data-m='{"cN":"footerNavColumn1_cont","cT":"Container","id":"c1c1c1m1r1a2","sN":1,"aN":"c1c1m1r1a2"}'>
+                        <div class="c-heading-4" role="heading" aria-level="2">What&#39;s new</div>
+                        <ul class="c-list f-bare">
+                            <li>
+                                <a aria-label="Surface Pro 9 What&#39;s new" class="c-uhff-link" href="https://www.microsoft.com/en-us/d/surface-pro-9/93VKD8NP4FVK" data-m='{"cN":"Footer_WhatsNew_NewSurfacePro8_nav","id":"n1c1c1c1m1r1a2","sN":1,"aN":"c1c1c1m1r1a2"}'>Surface Pro 9</a>
+                            </li>
+                            <li>
+                                <a aria-label="Surface Laptop 5 What&#39;s new" class="c-uhff-link" href="https://www.microsoft.com/en-us/d/surface-laptop-5/8XN49V61S1BN" data-m='{"cN":"Footer_WhatsNew_SurfaceLaptop2_nav","id":"n2c1c1c1m1r1a2","sN":2,"aN":"c1c1c1m1r1a2"}'>Surface Laptop 5</a>
+                            </li>
+                            <li>
+                                <a aria-label="Surface Studio 2+ What&#39;s new" class="c-uhff-link" href="https://www.microsoft.com/en-us/d/surface-studio-2plus/8VLFQC3597K4" data-m='{"cN":"Footer_WhatsNew_SurfaceStudio_nav","id":"n3c1c1c1m1r1a2","sN":3,"aN":"c1c1c1m1r1a2"}'>Surface Studio 2+</a>
+                            </li>
+                            <li>
+                                <a aria-label="Surface Laptop Go 2 What&#39;s new" class="c-uhff-link" href="https://www.microsoft.com/en-us/d/surface-laptop-go-2/8PGLPV76MJHN" data-m='{"cN":"Footer_WhatsNew_SurfaceLaptopGo_nav","id":"n4c1c1c1m1r1a2","sN":4,"aN":"c1c1c1m1r1a2"}'>Surface Laptop Go 2</a>
+                            </li>
+                            <li>
+                                <a aria-label="Surface Laptop Studio What&#39;s new" class="c-uhff-link" href="https://www.microsoft.com/en-us/d/surface-laptop-studio/8SRDF62SWKPF" data-m='{"cN":"Footer_WhatsNew_SurfaceLaptopStudio_nav","id":"n5c1c1c1m1r1a2","sN":5,"aN":"c1c1c1m1r1a2"}'>Surface Laptop Studio</a>
+                            </li>
+                            <li>
+                                <a aria-label="Surface Duo 2 What&#39;s new" class="c-uhff-link" href="https://www.microsoft.com/en-us/d/surface-duo-2/9408KGXP4XJL" data-m='{"cN":"Footer_WhatsNew_SurfaceDuo2_nav","id":"n6c1c1c1m1r1a2","sN":6,"aN":"c1c1c1m1r1a2"}'>Surface Duo 2</a>
+                            </li>
+                            <li>
+                                <a aria-label="Microsoft 365 What&#39;s new" class="c-uhff-link" href="https://www.microsoft.com/microsoft-365" data-m='{"cN":"Whatsnew_Microsoft365_nav","id":"n7c1c1c1m1r1a2","sN":7,"aN":"c1c1c1m1r1a2"}'>Microsoft 365</a>
+                            </li>
+                            <li>
+                                <a aria-label="Windows 11 apps What&#39;s new" class="c-uhff-link" href="https://www.microsoft.com/windows/windows-11-apps" data-m='{"cN":"Footer_WhatsNew_Windows_11_apps_nav","id":"n8c1c1c1m1r1a2","sN":8,"aN":"c1c1c1m1r1a2"}'>Windows 11 apps</a>
+                            </li>
+
+                        </ul>
+                        
+                    </div>
+                    <div class="c-uhff-nav-group" data-m='{"cN":"footerNavColumn2_cont","cT":"Container","id":"c2c1c1m1r1a2","sN":2,"aN":"c1c1m1r1a2"}'>
+                        <div class="c-heading-4" role="heading" aria-level="2">Microsoft Store</div>
+                        <ul class="c-list f-bare">
+                            <li>
+                                <a aria-label="Account profile Microsoft Store" class="c-uhff-link" href="https://account.microsoft.com/" data-m='{"cN":"Footer_StoreandSupport_AccountProfile_nav","id":"n1c2c1c1m1r1a2","sN":1,"aN":"c2c1c1m1r1a2"}'>Account profile</a>
+                            </li>
+                            <li>
+                                <a aria-label="Download Center Microsoft Store" class="c-uhff-link" href="https://www.microsoft.com/en-us/download" data-m='{"cN":"Footer_StoreandSupport_DownloadCenter_nav","id":"n2c2c1c1m1r1a2","sN":2,"aN":"c2c1c1m1r1a2"}'>Download Center</a>
+                            </li>
+                            <li>
+                                <a aria-label="Microsoft Store support Microsoft Store" class="c-uhff-link" href="https://go.microsoft.com/fwlink/?linkid=2139749" data-m='{"cN":"Footer_StoreandSupport_SalesAndSupport_nav","id":"n3c2c1c1m1r1a2","sN":3,"aN":"c2c1c1m1r1a2"}'>Microsoft Store support</a>
+                            </li>
+                            <li>
+                                <a aria-label="Returns Microsoft Store" class="c-uhff-link" href="https://go.microsoft.com/fwlink/p/?LinkID=824764&amp;clcid=0x409" data-m='{"cN":"MicrosoftStore_ExtendedHolidayReturns_nav","id":"n4c2c1c1m1r1a2","sN":4,"aN":"c2c1c1m1r1a2"}'>Returns</a>
+                            </li>
+                            <li>
+                                <a aria-label="Order tracking Microsoft Store" class="c-uhff-link" href="https://account.microsoft.com/orders" data-m='{"cN":"Footer_StoreandSupport_OrderTracking_nav","id":"n5c2c1c1m1r1a2","sN":5,"aN":"c2c1c1m1r1a2"}'>Order tracking</a>
+                            </li>
+                            <li>
+                                <a aria-label="Virtual workshops and training Microsoft Store" class="c-uhff-link" href="https://www.microsoft.com/en-us/store/workshops-training-and-events?icid=vl_uf_932020" data-m='{"cN":"Footer_StoreandSupport_StoreLocations_nav","id":"n6c2c1c1m1r1a2","sN":6,"aN":"c2c1c1m1r1a2"}'>Virtual workshops and training</a>
+                            </li>
+                            <li>
+                                <a aria-label="Microsoft Store Promise Microsoft Store" class="c-uhff-link" href="https://www.microsoft.com/en-us/store/b/why-microsoft-store?icid=footer_why-msft-store_7102020" data-m='{"cN":"Footer_StoreandSupport_MicrosoftPromise_nav","id":"n7c2c1c1m1r1a2","sN":7,"aN":"c2c1c1m1r1a2"}'>Microsoft Store Promise</a>
+                            </li>
+                            <li>
+                                <a aria-label="Flexible Payments Microsoft Store" class="c-uhff-link" href="https://www.microsoft.com/en-us/store/b/payment-financing-options?icid=footer_financing_vcc" data-m='{"cN":"Footer_StoreandSupport_Financing_nav","id":"n8c2c1c1m1r1a2","sN":8,"aN":"c2c1c1m1r1a2"}'>Flexible Payments</a>
+                            </li>
+
+                        </ul>
+                        
+                    </div>
+                    <div class="c-uhff-nav-group" data-m='{"cN":"footerNavColumn3_cont","cT":"Container","id":"c3c1c1m1r1a2","sN":3,"aN":"c1c1m1r1a2"}'>
+                        <div class="c-heading-4" role="heading" aria-level="2">Education</div>
+                        <ul class="c-list f-bare">
+                            <li>
+                                <a aria-label="Microsoft in education Education" class="c-uhff-link" href="https://www.microsoft.com/en-us/education" data-m='{"cN":"Footer_Education_MicrosoftInEducation_nav","id":"n1c3c1c1m1r1a2","sN":1,"aN":"c3c1c1m1r1a2"}'>Microsoft in education</a>
+                            </li>
+                            <li>
+                                <a aria-label="Devices for education Education" class="c-uhff-link" href="https://www.microsoft.com/en-us/education/devices/overview" data-m='{"cN":"Footer_Education_DevicesforEducation_nav","id":"n2c3c1c1m1r1a2","sN":2,"aN":"c3c1c1m1r1a2"}'>Devices for education</a>
+                            </li>
+                            <li>
+                                <a aria-label="Microsoft Teams for Education Education" class="c-uhff-link" href="https://www.microsoft.com/en-us/education/products/teams" data-m='{"cN":"Footer_Education_MicrosoftTeamsforEducation_nav","id":"n3c3c1c1m1r1a2","sN":3,"aN":"c3c1c1m1r1a2"}'>Microsoft Teams for Education</a>
+                            </li>
+                            <li>
+                                <a aria-label="Microsoft 365 Education Education" class="c-uhff-link" href="https://www.microsoft.com/en-us/education/buy-license/microsoft365" data-m='{"cN":"Footer_Education_Microsoft365Education_nav","id":"n4c3c1c1m1r1a2","sN":4,"aN":"c3c1c1m1r1a2"}'>Microsoft 365 Education</a>
+                            </li>
+                            <li>
+                                <a aria-label="Education consultation appointment Education" class="c-uhff-link" href="https://www.microsoft.com/en-us/store/b/business-consultation?tab=educationconsultation&amp;icid=CNavfooter_educationconsultation" data-m='{"cN":"Footer_Education_ConsultationAppointment_nav","id":"n5c3c1c1m1r1a2","sN":5,"aN":"c3c1c1m1r1a2"}'>Education consultation appointment</a>
+                            </li>
+                            <li>
+                                <a aria-label="Educator training and development Education" class="c-uhff-link" href="https://education.microsoft.com/" data-m='{"cN":"Footer_Education_EducatorTrainingDevelopment_nav","id":"n6c3c1c1m1r1a2","sN":6,"aN":"c3c1c1m1r1a2"}'>Educator training and development</a>
+                            </li>
+                            <li>
+                                <a aria-label="Deals for students and parents Education" class="c-uhff-link" href="https://www.microsoft.com/en-us/store/b/education" data-m='{"cN":"Footer_Education_DealsForStudentsandParents_nav","id":"n7c3c1c1m1r1a2","sN":7,"aN":"c3c1c1m1r1a2"}'>Deals for students and parents</a>
+                            </li>
+                            <li>
+                                <a aria-label="Azure for students Education" class="c-uhff-link" href="https://azure.microsoft.com/en-us/free/students/" data-m='{"cN":"Footer_Azureforstudents_nav","id":"n8c3c1c1m1r1a2","sN":8,"aN":"c3c1c1m1r1a2"}'>Azure for students</a>
+                            </li>
+
+                        </ul>
+                        
+                    </div>
+                </div>
+                <div class="c-uhff-nav-row">
+                    <div class="c-uhff-nav-group" data-m='{"cN":"footerNavColumn4_cont","cT":"Container","id":"c4c1c1m1r1a2","sN":4,"aN":"c1c1m1r1a2"}'>
+                        <div class="c-heading-4" role="heading" aria-level="2">Business</div>
+                        <ul class="c-list f-bare">
+                            <li>
+                                <a aria-label="Microsoft Cloud Business" class="c-uhff-link" href="https://www.microsoft.com/en-us/microsoft-cloud" data-m='{"cN":"Footer_Business_Microsoft_Cloud_nav","id":"n1c4c1c1m1r1a2","sN":1,"aN":"c4c1c1m1r1a2"}'>Microsoft Cloud</a>
+                            </li>
+                            <li>
+                                <a aria-label="Microsoft Security Business" class="c-uhff-link" href="https://www.microsoft.com/en-us/security" data-m='{"cN":"Footer_Business_Microsoft Security_nav","id":"n2c4c1c1m1r1a2","sN":2,"aN":"c4c1c1m1r1a2"}'>Microsoft Security</a>
+                            </li>
+                            <li>
+                                <a aria-label="Dynamics 365 Business" class="c-uhff-link" href="https://dynamics.microsoft.com/en-us/" data-m='{"cN":"Footer_Business_MicrosoftDynamics365_nav","id":"n3c4c1c1m1r1a2","sN":3,"aN":"c4c1c1m1r1a2"}'>Dynamics 365</a>
+                            </li>
+                            <li>
+                                <a aria-label="Microsoft 365 Business" class="c-uhff-link" href="https://www.microsoft.com/en-us/microsoft-365/business/" data-m='{"cN":"More_Business_Microsoft365_nav","id":"n4c4c1c1m1r1a2","sN":4,"aN":"c4c1c1m1r1a2"}'>Microsoft 365</a>
+                            </li>
+                            <li>
+                                <a aria-label="Microsoft Power Platform Business" class="c-uhff-link" href="https://powerplatform.microsoft.com/en-us/" data-m='{"cN":"Footer_DeveloperAndIT_Power Platform_nav","id":"n5c4c1c1m1r1a2","sN":5,"aN":"c4c1c1m1r1a2"}'>Microsoft Power Platform</a>
+                            </li>
+                            <li>
+                                <a aria-label="Microsoft Teams Business" class="c-uhff-link" href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" data-m='{"cN":"Footer_Business_Microsoft365_nav","id":"n6c4c1c1m1r1a2","sN":6,"aN":"c4c1c1m1r1a2"}'>Microsoft Teams</a>
+                            </li>
+                            <li>
+                                <a aria-label="Microsoft Industry Business" class="c-uhff-link" href="https://www.microsoft.com/en-us/industry" data-m='{"cN":"Footer_Business_MicrosoftIndustry_nav","id":"n7c4c1c1m1r1a2","sN":7,"aN":"c4c1c1m1r1a2"}'>Microsoft Industry</a>
+                            </li>
+                            <li>
+                                <a aria-label="Small Business Business" class="c-uhff-link" href="https://www.microsoft.com/en-us/store/b/business?icid=CNavBusinessStore" data-m='{"cN":"Footer_Business-SmallBusiness_nav","id":"n8c4c1c1m1r1a2","sN":8,"aN":"c4c1c1m1r1a2"}'>Small Business</a>
+                            </li>
+
+                        </ul>
+                        
+                    </div>
+                    <div class="c-uhff-nav-group" data-m='{"cN":"footerNavColumn5_cont","cT":"Container","id":"c5c1c1m1r1a2","sN":5,"aN":"c1c1m1r1a2"}'>
+                        <div class="c-heading-4" role="heading" aria-level="2">Developer &amp; IT</div>
+                        <ul class="c-list f-bare">
+                            <li>
+                                <a aria-label="Azure Developer &amp; IT" class="c-uhff-link" href="https://azure.microsoft.com/en-us/" data-m='{"cN":"Footer_Enterprise_MicrosoftAzure_nav","id":"n1c5c1c1m1r1a2","sN":1,"aN":"c5c1c1m1r1a2"}'>Azure</a>
+                            </li>
+                            <li>
+                                <a aria-label="Developer Center Developer &amp; IT" class="c-uhff-link" href="https://developer.microsoft.com/en-us/" data-m='{"cN":"Footer_Developer_DeveloperCenter_nav","id":"n2c5c1c1m1r1a2","sN":2,"aN":"c5c1c1m1r1a2"}'>Developer Center</a>
+                            </li>
+                            <li>
+                                <a aria-label="Documentation Developer &amp; IT" class="c-uhff-link" href="https://learn.microsoft.com/docs/" data-m='{"cN":"Footer_DeveloperAndIT_Documentation_nav","id":"n3c5c1c1m1r1a2","sN":3,"aN":"c5c1c1m1r1a2"}'>Documentation</a>
+                            </li>
+                            <li>
+                                <a aria-label="Microsoft Learn Developer &amp; IT" class="c-uhff-link" href="https://learn.microsoft.com/" data-m='{"cN":"Footer_DeveloperAndIT_MicrosoftLearn_nav","id":"n4c5c1c1m1r1a2","sN":4,"aN":"c5c1c1m1r1a2"}'>Microsoft Learn</a>
+                            </li>
+                            <li>
+                                <a aria-label="Microsoft Tech Community Developer &amp; IT" class="c-uhff-link" href="https://techcommunity.microsoft.com/" data-m='{"cN":"Footer_DeveloperAndIT_MicrosoftTechCommunity_nav","id":"n5c5c1c1m1r1a2","sN":5,"aN":"c5c1c1m1r1a2"}'>Microsoft Tech Community</a>
+                            </li>
+                            <li>
+                                <a aria-label="Azure Marketplace Developer &amp; IT" class="c-uhff-link" href="https://azuremarketplace.microsoft.com/en-us/" data-m='{"cN":"More_DeveloperAndIT_AzureMarketplace_nav","id":"n6c5c1c1m1r1a2","sN":6,"aN":"c5c1c1m1r1a2"}'>Azure Marketplace</a>
+                            </li>
+                            <li>
+                                <a aria-label="AppSource Developer &amp; IT" class="c-uhff-link" href="https://appsource.microsoft.com/en-us/" data-m='{"cN":"Footer_DeveloperAndIT_AppSource_nav","id":"n7c5c1c1m1r1a2","sN":7,"aN":"c5c1c1m1r1a2"}'>AppSource</a>
+                            </li>
+                            <li>
+                                <a aria-label="Visual Studio Developer &amp; IT" class="c-uhff-link" href="https://visualstudio.microsoft.com/" data-m='{"cN":"Footer_Developer_MicrosoftVisualStudio_nav","id":"n8c5c1c1m1r1a2","sN":8,"aN":"c5c1c1m1r1a2"}'>Visual Studio</a>
+                            </li>
+
+                        </ul>
+                        
+                    </div>
+                    <div class="c-uhff-nav-group" data-m='{"cN":"footerNavColumn6_cont","cT":"Container","id":"c6c1c1m1r1a2","sN":6,"aN":"c1c1m1r1a2"}'>
+                        <div class="c-heading-4" role="heading" aria-level="2">Company</div>
+                        <ul class="c-list f-bare">
+                            <li>
+                                <a aria-label="Careers Company" class="c-uhff-link" href="https://careers.microsoft.com/" data-m='{"cN":"Footer_Company_Careers_nav","id":"n1c6c1c1m1r1a2","sN":1,"aN":"c6c1c1m1r1a2"}'>Careers</a>
+                            </li>
+                            <li>
+                                <a aria-label="About Microsoft Company" class="c-uhff-link" href="https://www.microsoft.com/en-us/about" data-m='{"cN":"Footer_Company_AboutMicrosoft_nav","id":"n2c6c1c1m1r1a2","sN":2,"aN":"c6c1c1m1r1a2"}'>About Microsoft</a>
+                            </li>
+                            <li>
+                                <a aria-label="Company news Company" class="c-uhff-link" href="https://news.microsoft.com/" data-m='{"cN":"Footer_Company_CompanyNews_nav","id":"n3c6c1c1m1r1a2","sN":3,"aN":"c6c1c1m1r1a2"}'>Company news</a>
+                            </li>
+                            <li>
+                                <a aria-label="Privacy at Microsoft Company" class="c-uhff-link" href="https://privacy.microsoft.com/en-us" data-m='{"cN":"Footer_Company_PrivacyAtMicrosoft_nav","id":"n4c6c1c1m1r1a2","sN":4,"aN":"c6c1c1m1r1a2"}'>Privacy at Microsoft</a>
+                            </li>
+                            <li>
+                                <a aria-label="Investors Company" class="c-uhff-link" href="https://www.microsoft.com/investor/default.aspx" data-m='{"cN":"Footer_Company_Investors_nav","id":"n5c6c1c1m1r1a2","sN":5,"aN":"c6c1c1m1r1a2"}'>Investors</a>
+                            </li>
+                            <li>
+                                <a aria-label="Diversity and inclusion Company" class="c-uhff-link" href="https://www.microsoft.com/en-us/diversity/" data-m='{"cN":"Footer_Company_DiversityAndInclusion_nav","id":"n6c6c1c1m1r1a2","sN":6,"aN":"c6c1c1m1r1a2"}'>Diversity and inclusion</a>
+                            </li>
+                            <li>
+                                <a aria-label="Accessibility Company" class="c-uhff-link" href="https://www.microsoft.com/en-us/accessibility" data-m='{"cN":"Footer_Company_Accessibility_nav","id":"n7c6c1c1m1r1a2","sN":7,"aN":"c6c1c1m1r1a2"}'>Accessibility</a>
+                            </li>
+                            <li>
+                                <a aria-label="Sustainability Company" class="c-uhff-link" href="https://www.microsoft.com/en-us/sustainability/" data-m='{"cN":"Footer_Company_Sustainability_nav","id":"n8c6c1c1m1r1a2","sN":8,"aN":"c6c1c1m1r1a2"}'>Sustainability</a>
+                            </li>
+
+                        </ul>
+                        
+                    </div>
+                </div>
+        </nav>
+    <div class="c-uhff-base">
+        
+        <nav aria-label="Microsoft corporate links">
+            <ul class="c-list f-bare" data-m='{"cN":"Corp links_cont","cT":"Container","id":"c7c1c1m1r1a2","sN":7,"aN":"c1c1m1r1a2"}'>
+                                <li  id="c-uhff-footer_sitemap">
+                    <a class="c-uhff-link" href="https://www.microsoft.com/en-us/sitemap1.aspx" data-mscc-ic="false" data-m='{"cN":"Footer_Sitemap_nav","id":"n1c7c1c1m1r1a2","sN":1,"aN":"c7c1c1m1r1a2"}'>Sitemap</a>
+                </li>
+                <li  id="c-uhff-footer_contactus">
+                    <a class="c-uhff-link" href="https://support.microsoft.com/contactus" data-mscc-ic="false" data-m='{"cN":"Footer_ContactUs_nav","id":"n2c7c1c1m1r1a2","sN":2,"aN":"c7c1c1m1r1a2"}'>Contact Microsoft</a>
+                </li>
+                <li  id="c-uhff-footer_privacyandcookies">
+                    <a class="c-uhff-link" href="https://go.microsoft.com/fwlink/?LinkId=521839" data-mscc-ic="false" data-m='{"cN":"Footer_PrivacyandCookies_nav","id":"n3c7c1c1m1r1a2","sN":3,"aN":"c7c1c1m1r1a2"}'>Privacy </a>
+                </li>
+                <li class=" x-hidden" id="c-uhff-footer_managecookies">
+                    <a class="c-uhff-link" href="#" data-mscc-ic="false" data-m='{"cN":"Footer_ManageCookies_nav","id":"n4c7c1c1m1r1a2","sN":4,"aN":"c7c1c1m1r1a2"}'>Manage cookies</a>
+                </li>
+                <li  id="c-uhff-footer_termsofuse">
+                    <a class="c-uhff-link" href="https://go.microsoft.com/fwlink/?LinkID=206977" data-mscc-ic="false" data-m='{"cN":"Footer_TermsOfUse_nav","id":"n5c7c1c1m1r1a2","sN":5,"aN":"c7c1c1m1r1a2"}'>Terms of use</a>
+                </li>
+                <li  id="c-uhff-footer_trademarks">
+                    <a class="c-uhff-link" href="https://go.microsoft.com/fwlink/?linkid=2196228" data-mscc-ic="false" data-m='{"cN":"Footer_Trademarks_nav","id":"n6c7c1c1m1r1a2","sN":6,"aN":"c7c1c1m1r1a2"}'>Trademarks</a>
+                </li>
+                <li  id="c-uhff-footer_safetyandeco">
+                    <a class="c-uhff-link" href="https://go.microsoft.com/fwlink/?linkid=2196227" data-mscc-ic="false" data-m='{"cN":"Footer_SafetyAndEco_nav","id":"n7c7c1c1m1r1a2","sN":7,"aN":"c7c1c1m1r1a2"}'>Safety &amp; eco</a>
+                </li>
+                <li  id="c-uhff-footer_aboutourads">
+                    <a class="c-uhff-link" href="https://choice.microsoft.com" data-mscc-ic="false" data-m='{"cN":"Footer_AboutourAds_nav","id":"n8c7c1c1m1r1a2","sN":8,"aN":"c7c1c1m1r1a2"}'>About our ads</a>
+                </li>
+
+                <li>&#169; Microsoft 2022</li>
+                
+            </ul>
+        </nav>
+    </div>
+    
+</footer>
+
+
+
+
+    </div>
+        </div>
+
+    </div>		</span>
+
+		
+		<script type="text/javascript">
+			var varAutoFirePV = 1;
+			var varClickTracking = 0;
+			var varCustomerTracking = 1;
+			var Route = "route_id";
+			var Ctrl = "control_id";
+		</script>
+
+		<template id="tp-language" data-tp-language="en_US"></template>	<script>
+		function onConsentChanged( categoryPreferences ) {
+			dropAnalyticsCookies();
+			dropAdvertisingCookies();
+			dropSocialMediaCookies();
+		}
+
+		function dropAnalyticsCookies(){
+			if ( siteConsent.getConsentFor( WcpConsent.consentCategories.Analytics ) ) {
+									if ( typeof clicktaleTracking === "function" ) {
+						clicktaleTracking(); 
+					}
+									if ( typeof clarityTracking === "function" ) {
+						clarityTracking(); 
+					}
+								console.log( 'analytics cookies dropped' );
+
+				if ( siteConsent.getConsentFor( WcpConsent.consentCategories.Advertising ) ) {
+										console.log( 'dual_ad_analytics cookies dropped' );
+
+					if ( siteConsent.getConsentFor( WcpConsent.consentCategories.SocialMedia ) ) {
+													if ( typeof facebookTracking === "function" ) {
+								facebookTracking(); 
+							}
+												console.log( 'all categories cookies dropped' );
+					}
+				}
+
+				if ( siteConsent.getConsentFor( WcpConsent.consentCategories.SocialMedia ) ) {
+										console.log( 'dual_analytics_social cookies dropped' );
+				}
+			}
+		}
+
+		function dropAdvertisingCookies(){
+			if ( siteConsent.getConsentFor( WcpConsent.consentCategories.Advertising ) ) {
+								console.log( 'advertising cookies dropped' );
+
+				if ( siteConsent.getConsentFor( WcpConsent.consentCategories.SocialMedia ) ) {
+										console.log( 'dual_ad_social cookies dropped' );
+				}
+			}
+		}
+
+		function dropSocialMediaCookies(){
+			if ( siteConsent.getConsentFor( WcpConsent.consentCategories.SocialMedia ) ) {
+								console.log( 'social cookies dropped' );
+			}
+		}
+
+		window.WcpConsent && WcpConsent.init( "en-US", "ms-cookie-banner", function (err, _siteConsent) {
+			if ( ! err ) {
+				siteConsent = _siteConsent;  //siteConsent is used to get the current consent
+
+				var consentRequiredElementExists = document.getElementById( "c-uhff-footer_managecookies" ) && siteConsent.isConsentRequired;
+
+				if ( consentRequiredElementExists ) {
+					document.getElementById( "c-uhff-footer_managecookies" ).classList.remove("x-hidden");
+					document.getElementById( "c-uhff-footer_managecookies" ).onclick = function() {
+						siteConsent.manageConsent();
+					};
+				}
+
+				dropAdvertisingCookies();
+				dropAnalyticsCookies();
+				dropSocialMediaCookies();
+
+			} else {
+				console.log( "Error initializing WcpConsent: " + err );
+			}
+		}, onConsentChanged );
+	</script>
+	        <div id="trp-floater-ls" onclick="" data-no-translation class="trp-language-switcher-container trp-floater-ls-names trp-bottom-right trp-color-dark" >
+            <div id="trp-floater-ls-current-language" class="">
+
+                <a href="#" class="trp-floater-ls-disabled-language trp-ls-disabled-language" onclick="event.preventDefault()">
+					English				</a>
+
+            </div>
+            <div id="trp-floater-ls-language-list" class="" >
+
+                <div class="trp-language-wrap">                    <a href="https://www.microsoft.com/en-us/research/group/customer-insights-research/articles/when-discussing-inclusive-design-dont-leave-out-users-with-invisible-disabilities/?lang=fr_ca"
+                         title="Français" rel="nofollow">
+          						  Français					          </a>
+                <a href="#" class="trp-floater-ls-disabled-language trp-ls-disabled-language" onclick="event.preventDefault()">English</a></div>            </div>
+        </div>
+
+    	<!-- JSLL tracking -->
+	<script>
+		// 1DS initialization
+		const analytics = new oneDS.ApplicationInsights();
+		var config = {
+			instrumentationKey: "9ec747153cf446f7b4e129dc7eaa8227-f83e8b36-9a56-4437-8103-9010c8e1e72a-6756",
+			propertyConfiguration: {
+				callback: {
+					userConsentDetails: siteConsent ? siteConsent.getConsent : null
+				},
+			},
+			webAnalyticsConfiguration:{
+				coreData: {"pageName":"When discussing inclusive design, don&#8217;t leave out users with invisible disabilities","pageType":"Article"},
+				urlCollectQuery: true,
+				urlCollectHash: true,
+				autoCapture: {
+					scroll: true,
+					pageView: true,
+					onLoad: true,
+					onUnload: true,
+					click: true,
+					scroll: true,
+					resize: true,
+					jsError: true
+				}
+			}
+		}; 
+		// Initialize OneDS SDK
+		analytics.initialize( config, [] );
+	</script>
+	<script type='text/javascript' src='https://www.microsoft.com/en-us/research/wp-content/plugins/moray-blocks/dist/js/shared.js?ver=0.1.1' id='moray_blocks_shared_script-js'></script>
+<script type='text/javascript' src='https://www.microsoft.com/en-us/research/wp-content/plugins/moray-blocks/dist/js/frontend.js?ver=0.1.1' id='moray_blocks_frontend_script-js'></script>
+<script type='text/javascript' src='https://www.microsoft.com/en-us/research/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://www.microsoft.com/en-us/research/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='https://www.microsoft.com/en-us/research/wp-content/themes/microsoft-research-theme/assets/js/mwf/bundle.min.js?ver=6a8b9372' id='mwf-moray-js'></script>
+<script type='text/javascript' src='https://www.microsoft.com/en-us/research/wp-content/plugins/msr-blocks-library/dist/js/shared.js?ver=0.1.3' id='msr_block_library_plugin_shared-js'></script>
+<script type='text/javascript' src='https://www.microsoft.com/en-us/research/wp-content/plugins/msr-blocks-library/dist/js/frontend.js?ver=c8e2fd8e1a4ad1fc3cac' id='msr_block_library_plugin_frontend-js'></script>
+<script type='text/javascript' src='https://www.microsoft.com/en-us/research/wp-content/themes/microsoft-research-theme/assets/js/plugins.min.js?ver=6a8b9372' id='msr-plugins-js'></script>
+<script type='text/javascript' src='https://www.microsoft.com/en-us/research/wp-includes/js/dist/dom-ready.min.js?ver=d996b53411d1533a84951212ab6ac4ff' id='wp-dom-ready-js'></script>
+<script type='text/javascript' src='https://www.microsoft.com/en-us/research/wp-includes/js/dist/hooks.min.js?ver=c6d64f2cb8f5c6bb49caca37f8828ce3' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://www.microsoft.com/en-us/research/wp-includes/js/dist/i18n.min.js?ver=ebee46757c6a411e38fd079a7ac71d94' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' src='https://www.microsoft.com/en-us/research/wp-includes/js/dist/a11y.min.js?ver=a38319d7ba46c6e60f7f9d4c371222c5' id='wp-a11y-js'></script>
+<script type='text/javascript' src='https://www.microsoft.com/en-us/research/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19' id='lodash-js'></script>
+<script type='text/javascript' id='lodash-js-after'>
+window.lodash = _.noConflict();
+</script>
+<script type='text/javascript' src='https://www.microsoft.com/en-us/research/wp-includes/js/dist/url.min.js?ver=16385e4d69da65c7283790971de6b297' id='wp-url-js'></script>
+<script type='text/javascript' src='https://www.microsoft.com/en-us/research/wp-includes/js/dist/api-fetch.min.js?ver=63050163caffa6aac54e9ebf21fe0472' id='wp-api-fetch-js'></script>
+<script type='text/javascript' id='wp-api-fetch-js-after'>
+wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "https://www.microsoft.com/en-us/research/wp-json/" ) );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "35a560045e" );
+wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
+wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
+wp.apiFetch.nonceEndpoint = "https://www.microsoft.com/en-us/research/wp-admin/admin-ajax.php?action=rest-nonce";
+</script>
+<script type='text/javascript' id='ms-research-js-extra'>
+/* <![CDATA[ */
+var MSR_i18n = {"currentPageText":"Current Page","pageText":"Page","currentSelections":"Current Selections","currentRemove":"Remove filter for: ","facetSearchUpdate":"Filtering results\u2026","facetSearchDone":"Result filtering completed.","facetErrors":{"dateRange":"Your end date is before your start date. Please check your date range.","dateFormat":"Sorry, we can\u2019t figure out the date range. Try using YYYY-MM-DD formats.","loading":"There was a problem getting the results. You might be offline, or something went wrong in the system. ","autocomplete":"This term has no results and it isn\u2019t in our system."},"expanded":"Expanded","collapsed":"Collapsed","onDemand":{"noResults":"Sorry, there are no items to show with your filters."}};
+var MSR_content_refs = {"msr-podcast":"240054"};
+var MSRData = {"blogNavigation":{"wrapper":"blog-homepage-grid","templateId":"tmpl-blog-homepage-card","basePaginationUrl":"https:\/\/www.microsoft.com\/en-us\/research\/blog\/page\/","endpointUrl":"https:\/\/www.microsoft.com\/en-us\/research\/wp-json\/wp\/v2\/posts\/","search":null,"eventTypeTaxonomy":"msr-event-type"}};
+var epAutosuggest = {"endpoint":"https:\/\/www.microsoft.com\/en-us\/research\/wp-json\/microsoft-research\/v1\/autosuggest","action":"navigate"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.microsoft.com/en-us/research/wp-content/themes/microsoft-research-theme/assets/js/microsoft-research.min.js?ver=6a8b9372' id='ms-research-js'></script>
+<script type='text/javascript' src='https://www.microsoft.com/en-us/research/wp-content/themes/microsoft-research-theme/assets/js/vendor/duet-date-picker/duet/duet.js?ver=6a8b9372' id='duet-date-picker-script-js'></script>
+<script type='text/javascript' id='microsoft-uhf-js-extra'>
+/* <![CDATA[ */
+var microsoftUhfSettings = {"homePath":"\/en-us\/research\/","loginUrl":"http:\/\/www.microsoft.com\/en-us\/research\/wp-login.php","logoutUrl":"","scripts":[],"inline":["linkedin","youtube","youTubeVideo"]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.microsoft.com/en-us/research/wp-content/plugins/microsoft-uhf/assets/microsoft-uhf.js?ver=0.4.0' id='microsoft-uhf-js'></script>
+
+	</body>
+</html>

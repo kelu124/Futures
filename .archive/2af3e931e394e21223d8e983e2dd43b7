@@ -1,0 +1,975 @@
+<!DOCTYPE html>
+<html lang="en" class="objectfit object-fit svg boxshadow no-touchevents inputsearchevent">
+  <head>
+    <meta charset="utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).init={privacy:{cookies_enabled:true},ajax:{deny_list:["bam.nr-data.net"]},distributed_tracing:{enabled:true}};(window.NREUM||(NREUM={})).loader_config={agentID:"1133818148",accountID:"3329714",trustKey:"66686",xpid:"VwUFWFFSDBABVFVVDgUHUlYG",licenseKey:"NRJS-84eec7dc84a640ade4f",applicationID:"1047940427"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(31),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,s){try{l?l-=1:o(s||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:c.now();i("err",[t,n])}var i=t("handle"),a=t(32),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,p="nr@seenError";if(!c.disabled){var l=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(14),t(13),"addEventListener"in window&&t(7),c.xhrWrappable&&t(15),d=!0)}s.on("fn-start",function(t,e,n){d&&(l+=1)}),s.on("fn-err",function(t,e,n){d&&!n[p]&&(f(n,p,function(){return!0}),this.thrown=!0,o(n))}),s.on("fn-end",function(){d&&!this.thrown&&l>0&&(l-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})}},{}],3:[function(t,e,n){var r=t("loader");r.disabled||(r.features.ins=!0)},{}],4:[function(t,e,n){function r(){U++,L=g.hash,this[u]=y.now()}function o(){U--,g.hash!==L&&i(0,!0);var t=y.now();this[h]=~~this[h]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+g,e])}function a(t,e){t.on(e,function(){this[e]=y.now()})}var s="-start",c="-end",f="-body",u="fn"+s,d="fn"+c,p="cb"+s,l="cb"+c,h="jsTime",m="fetch",v="addEventListener",w=window,g=w.location,y=t("loader");if(w[v]&&y.xhrWrappable&&!y.disabled){var x=t(11),b=t(12),E=t(9),R=t(7),O=t(14),T=t(8),S=t(15),P=t(10),M=t("ee"),C=M.get("tracer"),N=t(23);t(17),y.features.spa=!0;var L,U=0;M.on(u,r),b.on(p,r),P.on(p,r),M.on(d,o),b.on(l,o),P.on(l,o),M.buffer([u,d,"xhr-resolved"]),R.buffer([u]),O.buffer(["setTimeout"+c,"clearTimeout"+s,u]),S.buffer([u,"new-xhr","send-xhr"+s]),T.buffer([m+s,m+"-done",m+f+s,m+f+c]),E.buffer(["newURL"]),x.buffer([u]),b.buffer(["propagate",p,l,"executor-err","resolve"+s]),C.buffer([u,"no-"+u]),P.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(T,m+s),a(T,m+"-done"),a(P,"new-jsonp"),a(P,"jsonp-end"),a(P,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,N(!0)),w[v]("load",i,N(!0)),w[v]("popstate",function(){i(0,U>1)},N(!0))}},{}],5:[function(t,e,n){function r(){var t=new PerformanceObserver(function(t,e){var n=t.getEntries();s(v,[n])});try{t.observe({entryTypes:["resource"]})}catch(e){}}function o(t){if(s(v,[window.performance.getEntriesByType(w)]),window.performance["c"+p])try{window.performance[h](m,o,!1)}catch(t){}else try{window.performance[h]("webkit"+m,o,!1)}catch(t){}}function i(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var a=t("ee"),s=t("handle"),c=t(14),f=t(13),u=t(6),d=t(23),p="learResourceTimings",l="addEventListener",h="removeEventListener",m="resourcetimingbufferfull",v="bstResource",w="resource",g="-start",y="-end",x="fn"+g,b="fn"+y,E="bstTimer",R="pushState",O=t("loader");if(!O.disabled){O.features.stn=!0,t(9),"addEventListener"in window&&t(7);var T=NREUM.o.EV;a.on(x,function(t,e){var n=t[0];n instanceof T&&(this.bstStart=O.now())}),a.on(b,function(t,e){var n=t[0];n instanceof T&&s("bst",[n,e,this.bstStart,O.now()])}),c.on(x,function(t,e,n){this.bstStart=O.now(),this.bstType=n}),c.on(b,function(t,e){s(E,[e,this.bstStart,O.now(),this.bstType])}),f.on(x,function(){this.bstStart=O.now()}),f.on(b,function(t,e){s(E,[e,this.bstStart,O.now(),"requestAnimationFrame"])}),a.on(R+g,function(t){this.time=O.now(),this.startPath=location.pathname+location.hash}),a.on(R+y,function(t){s("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),u()?(s(v,[window.performance.getEntriesByType("resource")]),r()):l in window.performance&&(window.performance["c"+p]?window.performance[l](m,o,d(!1)):window.performance[l]("webkit"+m,o,d(!1))),document[l]("scroll",i,d(!1)),document[l]("keypress",i,d(!1)),document[l]("click",i,d(!1))}}},{}],6:[function(t,e,n){e.exports=function(){return"PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver}},{}],7:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t("wrap-function")(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1];if(null!==n&&("function"==typeof n||"object"==typeof n)){var r=c(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?s(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],8:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=i(arguments),e={};o.emit(n+"before-start",[t],e);var a;e[m]&&e[m].dt&&(a=e[m].dt);var s=r.apply(this,t);return o.emit(n+"start",[t,a],s),s.then(function(t){return o.emit(n+"end",[null,t],s),t},function(t){throw o.emit(n+"end",[t],s),t})})}var o=t("ee").get("fetch"),i=t(32),a=t(31);e.exports=o;var s=window,c="fetch-",f=c+"body-",u=["arrayBuffer","blob","json","text","formData"],d=s.Request,p=s.Response,l=s.fetch,h="prototype",m="nr@context";d&&p&&l&&(a(u,function(t,e){r(d[h],e,f),r(p[h],e,f)}),r(s,"fetch",c),o.on(c+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),o.emit(c+"done",[null,e],n)}else o.emit(c+"done",[t],n)}))},{}],9:[function(t,e,n){var r=t("ee").get("history"),o=t("wrap-function")(r);e.exports=r;var i=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;i&&i.pushState&&i.replaceState&&(a=i),o.inPlace(a,["pushState","replaceState"],"-")},{}],10:[function(t,e,n){function r(t){function e(){f.emit("jsonp-end",[],l),t.removeEventListener("load",e,c(!1)),t.removeEventListener("error",n,c(!1))}function n(){f.emit("jsonp-error",[],l),f.emit("jsonp-end",[],l),t.removeEventListener("load",e,c(!1)),t.removeEventListener("error",n,c(!1))}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var d=s(a),p="function"==typeof d.parent[d.key];if(p){var l={};u.inPlace(d.parent,[d.key],"cb-",l),t.addEventListener("load",e,c(!1)),t.addEventListener("error",n,c(!1)),f.emit("new-jsonp",[t.src],l)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(d);return e?e[1]:null}function a(t,e){var n=t.match(l),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function s(t){var e=t.match(p);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var c=t(23),f=t("ee").get("jsonp"),u=t("wrap-function")(f);if(e.exports=f,o()){var d=/[?&](?:callback|cb)=([^&#]+)/,p=/(.*)\.([^.]+)/,l=/^(\w+)(\.|$)(.*)$/,h=["appendChild","insertBefore","replaceChild"];Node&&Node.prototype&&Node.prototype.appendChild?u.inPlace(Node.prototype,h,"dom-"):(u.inPlace(HTMLElement.prototype,h,"dom-"),u.inPlace(HTMLHeadElement.prototype,h,"dom-"),u.inPlace(HTMLBodyElement.prototype,h,"dom-")),f.on("dom-start",function(t){r(t[0])})}},{}],11:[function(t,e,n){var r=t("ee").get("mutation"),o=t("wrap-function")(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],12:[function(t,e,n){function r(t){var e=i.context(),n=s(t,"executor-",e,null,!1),r=new f(n);return i.context(r).getCtx=function(){return e},r}var o=t("wrap-function"),i=t("ee").get("promise"),a=t("ee").getOrSetContext,s=o(i),c=t(31),f=NREUM.o.PR;e.exports=i,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){i.emit("propagate",[null,!o],a,!1,!1),o=o||!t}}var o=!1;c(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var a=e.apply(f,arguments),s=f.resolve(a);return s}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&i.emit("propagate",[t,!0],n,!1,!1),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),c(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),o.wrapInPlace(f.prototype,"then",function(t){return function(){var e=this,n=o.argsToArray.apply(this,arguments),r=a(e);r.promise=e,n[0]=s(n[0],"cb-",r,null,!1),n[1]=s(n[1],"cb-",r,null,!1);var c=t.apply(this,n);return r.nextPromise=c,i.emit("propagate",[e,!0],c,!1,!1),c}}),i.on("executor-start",function(t){t[0]=s(t[0],"resolve-",this,null,!1),t[1]=s(t[1],"resolve-",this,null,!1)}),i.on("executor-err",function(t,e,n){t[1](n)}),i.on("cb-end",function(t,e,n){i.emit("propagate",[n,!0],this.nextPromise,!1,!1)}),i.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=i.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],13:[function(t,e,n){var r=t("ee").get("raf"),o=t("wrap-function")(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],14:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t("wrap-function")(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],15:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){x.push(t),m&&(E?E.then(a):w?w(a):(R=-R,O.data=R))}function a(){for(var t=0;t<x.length;t++)r([],x[t]);x.length&&(x=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(7);var f=t("ee"),u=f.get("xhr"),d=t("wrap-function")(u),p=t(23),l=NREUM.o,h=l.XHR,m=l.MO,v=l.PR,w=l.SI,g="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],x=[];e.exports=u;var b=window.XMLHttpRequest=function(t){var e=new h(t);try{u.emit("new-xhr",[e],e),e.addEventListener(g,o,p(!1))}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(h,b),b.prototype=h.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),m){var E=v&&v.resolve();if(!w&&!v){var R=1,O=document.createTextNode(R);new m(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===g||a()})},{}],16:[function(t,e,n){function r(t){if(!s(t))return null;var e=window.NREUM;if(!e.loader_config)return null;var n=(e.loader_config.accountID||"").toString()||null,r=(e.loader_config.agentID||"").toString()||null,f=(e.loader_config.trustKey||"").toString()||null;if(!n||!r)return null;var h=l.generateSpanId(),m=l.generateTraceId(),v=Date.now(),w={spanId:h,traceId:m,timestamp:v};return(t.sameOrigin||c(t)&&p())&&(w.traceContextParentHeader=o(h,m),w.traceContextStateHeader=i(h,v,n,r,f)),(t.sameOrigin&&!u()||!t.sameOrigin&&c(t)&&d())&&(w.newrelicHeader=a(h,m,v,n,r,f)),w}function o(t,e){return"00-"+e+"-"+t+"-01"}function i(t,e,n,r,o){var i=0,a="",s=1,c="",f="";return o+"@nr="+i+"-"+s+"-"+n+"-"+r+"-"+t+"-"+a+"-"+c+"-"+f+"-"+e}function a(t,e,n,r,o,i){var a="btoa"in window&&"function"==typeof window.btoa;if(!a)return null;var s={v:[0,1],d:{ty:"Browser",ac:r,ap:o,id:t,tr:e,ti:n}};return i&&r!==i&&(s.d.tk=i),btoa(JSON.stringify(s))}function s(t){return f()&&c(t)}function c(t){var e=!1,n={};if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(n=NREUM.init.distributed_tracing),t.sameOrigin)e=!0;else if(n.allowed_origins instanceof Array)for(var r=0;r<n.allowed_origins.length;r++){var o=h(n.allowed_origins[r]);if(t.hostname===o.hostname&&t.protocol===o.protocol&&t.port===o.port){e=!0;break}}return e}function f(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.enabled}function u(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.exclude_newrelic_header}function d(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&NREUM.init.distributed_tracing.cors_use_newrelic_header!==!1}function p(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.cors_use_tracecontext_headers}var l=t(28),h=t(18);e.exports={generateTracePayload:r,shouldGenerateTrace:s}},{}],17:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<p;r++)t.removeEventListener(d[r],this.listener,!1);return e.protocol&&"data"===e.protocol?void g("Ajax/DataUrl/Excluded"):void(e.aborted||(n.duration=a.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==e.status&&(e.status=0):i(this,t),n.cbTime=this.cbTime,s("xhr",[e,n,this.startTime,this.endTime,"xhr"],this)))}}function o(t,e){var n=c(e),r=t.params;r.hostname=n.hostname,r.port=n.port,r.protocol=n.protocol,r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.parsedOrigin=n,t.sameOrigin=n.sameOrigin}function i(t,e){t.params.status=e.status;var n=v(e,t.lastSize);if(n&&(t.metrics.rxSize=n),t.sameOrigin){var r=e.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var a=t("loader");if(a.xhrWrappable&&!a.disabled){var s=t("handle"),c=t(18),f=t(16).generateTracePayload,u=t("ee"),d=["load","error","abort","timeout"],p=d.length,l=t("id"),h=t(24),m=t(22),v=t(19),w=t(23),g=t(25).recordSupportability,y=NREUM.o.REQ,x=window.XMLHttpRequest;a.features.xhr=!0,t(15),t(8),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,e.loadCaptureCalled=!1,e.params=this.params||{},e.metrics=this.metrics||{},t.addEventListener("load",function(n){i(e,t)},w(!1)),h&&(h>34||h<10)||t.addEventListener("progress",function(t){e.lastSize=t.loaded},w(!1))}),u.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var n=f(this.parsedOrigin);if(n){var r=!1;n.newrelicHeader&&(e.setRequestHeader("newrelic",n.newrelicHeader),r=!0),n.traceContextParentHeader&&(e.setRequestHeader("traceparent",n.traceContextParentHeader),n.traceContextStateHeader&&e.setRequestHeader("tracestate",n.traceContextStateHeader),r=!0),r&&(this.dt=n)}}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=m(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;s<p;s++)e.addEventListener(d[s],this.listener,w(!1))}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("xhr-resolved",function(){this.endTime=a.now()}),u.on("addEventListener-end",function(t,e){e instanceof x&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof x&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof x&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)}),u.on("fetch-before-start",function(t){function e(t,e){var n=!1;return e.newrelicHeader&&(t.set("newrelic",e.newrelicHeader),n=!0),e.traceContextParentHeader&&(t.set("traceparent",e.traceContextParentHeader),e.traceContextStateHeader&&t.set("tracestate",e.traceContextStateHeader),n=!0),n}var n,r=t[1]||{};"string"==typeof t[0]?n=t[0]:t[0]&&t[0].url?n=t[0].url:window.URL&&t[0]&&t[0]instanceof URL&&(n=t[0].href),n&&(this.parsedOrigin=c(n),this.sameOrigin=this.parsedOrigin.sameOrigin);var o=f(this.parsedOrigin);if(o&&(o.newrelicHeader||o.traceContextParentHeader))if("string"==typeof t[0]||window.URL&&t[0]&&t[0]instanceof URL){var i={};for(var a in r)i[a]=r[a];i.headers=new Headers(r.headers||{}),e(i.headers,o)&&(this.dt=o),t.length>1?t[1]=i:t.push(i)}else t[0]&&t[0].headers&&e(t[0].headers,o)&&(this.dt=o)}),u.on("fetch-start",function(t,e){this.params={},this.metrics={},this.startTime=a.now(),this.dt=e,t.length>=1&&(this.target=t[0]),t.length>=2&&(this.opts=t[1]);var n,r=this.opts||{},i=this.target;if("string"==typeof i?n=i:"object"==typeof i&&i instanceof y?n=i.url:window.URL&&"object"==typeof i&&i instanceof URL&&(n=i.href),o(this,n),"data"!==this.params.protocol){var s=(""+(i&&i instanceof y&&i.method||r.method||"GET")).toUpperCase();this.params.method=s,this.txSize=m(r.body)||0}}),u.on("fetch-done",function(t,e){if(this.endTime=a.now(),this.params||(this.params={}),"data"===this.params.protocol)return void g("Ajax/DataUrl/Excluded");this.params.status=e?e.status:0;var n;"string"==typeof this.rxSize&&this.rxSize.length>0&&(n=+this.rxSize);var r={txSize:this.txSize,rxSize:n,duration:a.now()-this.startTime};s("xhr",[this.params,r,this.startTime,this.endTime,"fetch"],this)})}},{}],18:[function(t,e,n){var r={};e.exports=function(t){if(t in r)return r[t];if(0===(t||"").indexOf("data:"))return{protocol:"data"};var e=document.createElement("a"),n=window.location,o={};e.href=t,o.port=e.port;var i=e.href.split("://");!o.port&&i[1]&&(o.port=i[1].split("/")[0].split("@").pop().split(":")[1]),o.port&&"0"!==o.port||(o.port="https"===i[0]?"443":"80"),o.hostname=e.hostname||n.hostname,o.pathname=e.pathname,o.protocol=i[0],"/"!==o.pathname.charAt(0)&&(o.pathname="/"+o.pathname);var a=!e.protocol||":"===e.protocol||e.protocol===n.protocol,s=e.hostname===document.domain&&e.port===n.port;return o.sameOrigin=a&&(!e.hostname||s),"/"===o.pathname&&(r[t]=o),o}},{}],19:[function(t,e,n){function r(t,e){var n=t.responseType;return"json"===n&&null!==e?e:"arraybuffer"===n||"blob"===n||"json"===n?o(t.response):"text"===n||""===n||void 0===n?o(t.responseText):void 0}var o=t(22);e.exports=r},{}],20:[function(t,e,n){function r(){}function o(t,e,n,r){return function(){return u.recordSupportability("API/"+e+"/called"),i(t+e,[f.now()].concat(s(arguments)),n?null:this,r),n?void 0:this}}var i=t("handle"),a=t(31),s=t(32),c=t("ee").get("tracer"),f=t("loader"),u=t(25),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",h=l+"ixn-";a(p,function(t,e){d[e]=o(l,e,!0,"api")}),d.addPageAction=o(l,"addPageAction",!0),d.setCurrentRouteName=o(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(h+"tracer",[f.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=o(h,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),u.recordSupportability("API/noticeError/called"),i("err",[t,f.now(),!1,e])}},{}],21:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],22:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],23:[function(t,e,n){var r=!1;try{var o=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,o),window.removeEventListener("testPassive",null,o)}catch(i){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],24:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],25:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return i("storeMetric",n,null,"api"),n}function o(t,e){var n=[s,t,{name:t},e];return i("storeEventMetrics",n,null,"api"),n}var i=t("handle"),a="sm",s="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:s},recordSupportability:r,recordCustom:o}},{}],26:[function(t,e,n){function r(){return s.exists&&performance.now?Math.round(performance.now()):(i=Math.max((new Date).getTime(),i))-a}function o(){return i}var i=(new Date).getTime(),a=i,s=t(33);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=o},{}],27:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?l("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&l("timing",["fcp",Math.floor(t.startTime)])})}function o(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(f&&f<r.startTime)return;var o=[r],i=a({});i&&o.push(i),l("lcp",o)}}function i(t){t.getEntries().forEach(function(t){t.hadRecentInput||l("cls",[t])})}function a(t){var e=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(e)return e.type&&(t["net-type"]=e.type),e.effectiveType&&(t["net-etype"]=e.effectiveType),e.rtt&&(t["net-rtt"]=e.rtt),e.downlink&&(t["net-dlink"]=e.downlink),t}function s(t){if(t instanceof w&&!y){var e=Math.round(t.timeStamp),n={type:t.type};a(n),e<=h.now()?n.fid=h.now()-e:e>h.offset&&e<=Date.now()?(e-=h.offset,n.fid=h.now()-e):e=h.now(),y=!0,l("timing",["fi",e,n])}}function c(t){"hidden"===t&&(f=h.now(),l("pageHide",[f]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var f,u,d,p,l=t("handle"),h=t("loader"),m=t(30),v=t(23),w=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){u=new PerformanceObserver(r);try{u.observe({entryTypes:["paint"]})}catch(g){}d=new PerformanceObserver(o);try{d.observe({entryTypes:["largest-contentful-paint"]})}catch(g){}p=new PerformanceObserver(i);try{p.observe({type:"layout-shift",buffered:!0})}catch(g){}}if("addEventListener"in document){var y=!1,x=["click","keydown","mousedown","pointerdown","touchstart"];x.forEach(function(t){document.addEventListener(t,s,v(!1))})}m(c)}},{}],28:[function(t,e,n){function r(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(e=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){return a(16)}function i(){return a(32)}function a(t){function e(){return n?15&n[r++]:16*Math.random()|0}var n=null,r=0,o=window.crypto||window.msCrypto;o&&o.getRandomValues&&Uint8Array&&(n=o.getRandomValues(new Uint8Array(t)));for(var i=[],a=0;a<t;a++)i.push(e().toString(16));return i.join("")}e.exports={generateUuid:r,generateSpanId:o,generateTraceId:i}},{}],29:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}e.exports={agent:o,version:i,match:r}},{}],30:[function(t,e,n){function r(t){function e(){t(s&&document[s]?document[s]:document[i]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,o(!1))}var o=t(23);e.exports=r;var i,a,s;"undefined"!=typeof document.hidden?(i="hidden",a="visibilitychange",s="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",a="webkitvisibilitychange",s="webkitVisibilityState")},{}],31:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],32:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],33:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?f(t,c,a):a()}function n(n,r,o,i,a){if(a!==!1&&(a=!0),!l.aborted||i){t&&a&&t(n,r,o);for(var s=e(o),c=m(n),f=c.length,u=0;u<f;u++)c[u].apply(s,r);var p=d[y[n]];return p&&p.push([x,n,r,s]),s}}function i(t,e){g[t]=m(t).concat(e)}function h(t,e){var n=g[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return g[t]||[]}function v(t){return p[t]=p[t]||o(n)}function w(t,e){l.aborted||u(t,function(t,n){e=e||"feature",y[n]=e,e in d||(d[e]=[])})}var g={},y={},x={on:i,addEventListener:i,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:w,abort:s,aborted:!1};return x}function i(t){return f(t,c,a)}function a(){return new r}function s(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var c="nr@context",f=t("gos"),u=t(31),d={},p={},l=e.exports=o();e.exports.getOrSetContext=i,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!T++){var t=O.info=NREUM.info,e=m.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();c(E,function(e,n){t[e]||(t[e]=n)});var n=a();s("mark",["onload",n+O.offset],null,"api"),s("timing",["load",n]);var r=m.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=l+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function o(){"complete"===m.readyState&&i()}function i(){s("mark",["domContent",a()+O.offset],null,"api")}var a=t(26),s=t("handle"),c=t(31),f=t("ee"),u=t(29),d=t(21),p=t(23),l=d.getConfiguration("ssl")===!1?"http":"https",h=window,m=h.document,v="addEventListener",w="attachEvent",g=h.XMLHttpRequest,y=g&&g.prototype,x=!1;NREUM.o={ST:setTimeout,SI:h.setImmediate,CT:clearTimeout,XHR:g,REQ:h.Request,EV:h.Event,PR:h.Promise,MO:h.MutationObserver};var b=""+location,E={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1216.min.js"},R=g&&y&&y[v]&&!/CriOS/.test(navigator.userAgent),O=e.exports={offset:a.getLastTimestamp(),now:a,origin:b,features:{},xhrWrappable:R,userAgent:u,disabled:x};if(!x){t(20),t(27),m[v]?(m[v]("DOMContentLoaded",i,p(!1)),h[v]("load",r,p(!1))):(m[w]("onreadystatechange",o),h[w]("onload",r)),s("mark",["firstbyte",a.getLastTimestamp()],null,"api");var T=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,c,f){function nrWrapper(){var i,a,u,p;try{a=this,i=d(arguments),u="function"==typeof r?r(i,a):r||{}}catch(l){o([l,"",[i,a,c],u],t)}s(n+"start",[i,a,c],u,f);try{return p=e.apply(a,i)}catch(h){throw s(n+"err",[i,a,h],u,f),h}finally{s(n+"end",[i,a,p],u,f)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,i(e,nrWrapper,t),nrWrapper)}function r(t,e,r,o,i){r||(r="");var s,c,f,u="-"===r.charAt(0);for(f=0;f<e.length;f++)c=e[f],s=t[c],a(s)||(t[c]=n(s,u?c+r:r,o,c,i))}function s(n,r,i,a){if(!h||e){var s=h;h=!0;try{t.emit(n,r,i,e,a)}catch(c){o([c,n,r,i],t)}h=s}}return t||(t=u),n.inPlace=r,n.flag=p,n}function o(t,e){e||(e=u);try{e.emit("internal-error",t)}catch(n){}}function i(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(i){o([i],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function s(t,e){var n=e(t);return n[p]=t,i(t,n,u),n}function c(t,e,n){var r=t[e];t[e]=s(r,n)}function f(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var u=t("ee"),d=t(32),p="nr@original",l=Object.prototype.hasOwnProperty,h=!1;e.exports=r,e.exports.wrapFunction=s,e.exports.wrapInPlace=c,e.exports.argsToArray=f},{}]},{},["loader",2,17,5,3,4]);</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8" />
+<link rel="canonical" href="https://penntoday.upenn.edu/news/microbes-cause-cavities-can-form-superorganisms-able-crawl-and-spread-teeth" />
+<meta name="google" content="0M1KqyRf8FC09Q7XlhtYTPWB9RaXwOWJZtC8SU2VI7M" />
+<meta name="description" content="These multicellular, cross-kingdom assemblages were more resistant to antimicrobials and removal and caused more extensive tooth decay than their single-species equivalents, according to research led by School of Dental Medicine scientists." />
+<meta property="fb:pages" content="98508878775" />
+<meta property="og:site_name" content="Penn Today" />
+<meta property="og:url" content="https://penntoday.upenn.edu/news/microbes-cause-cavities-can-form-superorganisms-able-crawl-and-spread-teeth" />
+<meta property="og:title" content="Microbes that cause cavities can form superorganisms able to ‘crawl’ and spread on teeth | Penn Today" />
+<meta property="og:description" content="These multicellular, cross-kingdom assemblages were more resistant to antimicrobials and removal and caused more extensive tooth decay than their single-species equivalents, according to research led by School of Dental Medicine scientists." />
+<meta property="og:image" content="https://penntoday.upenn.edu/sites/default/files/2022-10/leaping-like%20motio-social.png" />
+<meta property="og:image" content="https://penntoday.upenn.edu/sites/default/files/2018-11/penntoday1200x800.jpg" />
+<meta property="og:image:width" content="1300" />
+<meta property="og:image:height" content="865" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@penn_today" />
+<meta name="twitter:description" content="These multicellular, cross-kingdom assemblages were more resistant to antimicrobials and removal and caused more extensive tooth decay than their single-species equivalents, according to research led by School of Dental Medicine scientists." />
+<meta name="twitter:title" content="Microbes that cause cavities can form superorganisms able to ‘crawl’ and spread on teeth | Penn Today" />
+<meta name="twitter:url" content="https://penntoday.upenn.edu/news/microbes-cause-cavities-can-form-superorganisms-able-crawl-and-spread-teeth" />
+<meta name="twitter:image" content="https://penntoday.upenn.edu/sites/default/files/2022-10/leaping-like%20motio-social.png" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/sites/default/files/favicon-96x96_1.jpg" type="image/jpeg" />
+<script src="/sites/default/files/google_tag/penn_today_container/google_tag.script.js?rjtwvw" defer></script>
+
+    <title>Microbes that cause cavities can form superorganisms able to ‘crawl’ and spread on teeth | Penn Today</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_WY8rAxrNwinq5eRHAaP8vlCEk_23BYTx04TvqdSmOzc.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_uz0prjG16t58mRwdxzKnj_4DubO6AuR55nfh80KKLQI.css" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/168642","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"user":{"uid":0,"permissionsHash":"3fc2945d1fd490f4e2e12b3e67f7ea949458317bf99217ac7ec24a67f4b592bc"}}</script>
+<script src="/sites/default/files/js/js_iUtKfZZkyfW0rjfXvEQSOmI0OiKwr1h-uMTwvdDhwVg.js"></script>
+
+  </head>
+  <body class="header--in-view">
+  <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NMGZBSS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <a href="#content" class="skip-to-content">
+      Skip to main content
+    </a>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <header class="header">
+  <div class="menu__wrapper">
+    <div class="menu__content">
+      <button class="search-bar__open js-search-bar-toggle" name="Searchbar Toggle" title="Search">
+        <span class="visually-hidden">Open Search Bar</span>
+        <svg class="search-bar__header-svg" xmlns="http://www.w3.org/2000/svg" width="33" height="33"
+          viewBox="0 0 33 33">
+          <path fill="#000127" fill-rule="evenodd"
+            d="M1305.99318,316.019425 C1309.10677,316.019425 1312.01799,314.966024 1314.36394,313.226228 L1322.12809,321 L1325,318.124526 L1317.23585,310.391651 C1318.97511,308.042878 1320.02559,305.169186 1320.02559,302.010522 C1320.02559,294.276027 1313.75733,288 1306.03241,288 C1298.30911,288 1292,294.317328 1292,302.010522 C1292,309.703717 1298.30951,316.019425 1305.99318,316.019425 Z M1306,292 C1311.52882,292 1316,296.471181 1316,302 C1316,307.528819 1311.52882,312 1306,312 C1300.47118,312 1296,307.528819 1296,302 C1296,296.471181 1300.51264,292 1306,292 Z"
+            transform="translate(-1292 -288)" />
+        </svg>
+        <span class="visually-hidden">Close</span>
+        <svg class="search-bar__close-svg" xmlns="http://www.w3.org/2000/svg" width="25" height="25"
+          viewBox="0 0 25 25">
+          <polygon fill="#000127" fill-rule="evenodd"
+            points="40.712 455.057 51.114 465.459 49.459 467.114 39.057 456.712 28.655 467.112 27 465.457 37.402 455.057 27.002 444.655 28.658 443 39.057 453.402 49.459 443 51.114 444.655"
+            transform="translate(-27 -443)" />
+        </svg>
+        <span class="menu__text js-search-text">Search</span>
+      </button>
+      <a class="masthead" href="/" tabindex="0">
+  <span class="visually-hidden">Penn Today Logo</span>
+  <svg viewBox="0 0 139 36">
+    <path d="M23.44,22.62c0,2.34.56,3,2.14,3v.56H18.8v-.56c1.32,0,2.14-.43,2.14-2.93V10.86c0-2.31-.56-3-2.14-3V7.3h6.89c5.21,0,7.31,2.77,7.31,5.37,0,3.13-2.37,4.88-6.66,4.88a21.82,21.82,0,0,1-2.9-.2Zm0-6.13a6,6,0,0,0,2.34.33c2.8,0,4.58-1.52,4.58-4.09A4.4,4.4,0,0,0,25.78,8H23.44Z" fill="#fff"/>
+    <path d="M33.43,19.07c-.07,5.24,3.06,6.56,4.65,6.56s2.44-.56,4.12-2.44V24a5.52,5.52,0,0,1-4.81,2.5,6,6,0,0,1-6.29-6.06A6,6,0,0,1,37,14.19c2.7,0,5.21,2.17,5,4.88Zm6.36-.56a3.16,3.16,0,0,0-3.13-3.62c-1.94,0-3.1,1.45-3.23,3.62Z" fill="#fff"/>
+    <path d="M54.64,23.64c0,1.52.33,2,2,2v.56H50.39v-.56c1.58,0,2-.36,2-1.45v-6.1a2.5,2.5,0,0,0-2.6-2.67c-1.15,0-2.17.72-3.33,2.27v5.7c0,1.78.23,2.24,2,2.24v.56H42.29v-.56c1.55,0,1.94-.13,1.94-2.24V16.83c0-1.42-.36-1.71-1.94-1.71v-.56l3.62-.36h.56v2.34c1.38-1.58,2.74-2.34,4.22-2.34a3.92,3.92,0,0,1,4,4.18Z" fill="#fff"/>
+    <path d="M68.91,23.64c0,1.52.33,2,2,2v.56H64.66v-.56c1.58,0,2-.36,2-1.45v-6.1a2.5,2.5,0,0,0-2.6-2.67c-1.15,0-2.17.72-3.33,2.27v5.7c0,1.78.23,2.24,2,2.24v.56H56.55v-.56c1.55,0,1.94-.13,1.94-2.24V16.83c0-1.42-.36-1.71-1.94-1.71v-.56l3.62-.36h.56v2.34c1.38-1.58,2.73-2.34,4.22-2.34a3.92,3.92,0,0,1,4,4.18Z" fill="#fff"/>
+    <path d="M.19,7.36H17v8.39c-.11,6.84-7.78,10.44-8.74,10.4S.17,22.61.19,15.72C.19,15.6.19,7.36.19,7.36Z" fill="#fff"/>
+    <path d="M.25,12.49s0-5.07,0-5.07H16.92v5.07Z" fill="#900"/>
+    <path d="M17,12.55H.25v-.06h0c0-.13,0-3.69,0-5.06V7.36H17ZM.3,12.43H16.86v-5H.31C.32,11.16.32,12.16.3,12.43Z" fill="#900"/><path d="M12.74,8.68h.45c.33-.08.45-.27.79-.27s.36.16.54.16.39-.17.64-.17.39.16.56.23a1.51,1.51,0,0,0,.56.06c0,.15,0,.24,0,.37s.17.08.17.29-.23.18-.23.27v.83c0,.1.22.12.22.27s-.23.15-.22.34,0,.42,0,.42l-3.47,0a2.32,2.32,0,0,1,.07-.44c0-.12-.26-.19-.26-.39s.16-.13.17-.26V9.59c0-.11-.25-.16-.24-.32s.23-.16.23-.29S12.75,8.73,12.74,8.68Z" fill="#fff"/>
+    <path d="M16.37,10.51l-.07-.05V9.63l0,0a.25.25,0,0,0,.19-.25.25.25,0,0,0-.13-.23s0,0,0-.06,0-.08,0-.12,0-.15,0-.25V8.64h-.09a1.37,1.37,0,0,1-.51-.06l-.15-.08a.77.77,0,0,0-.44-.15,1.14,1.14,0,0,0-.42.11.72.72,0,0,1-.22.07.46.46,0,0,1-.2-.07.71.71,0,0,0-.34-.1,1,1,0,0,0-.48.14,1.37,1.37,0,0,1-.32.13h-.51v.06s0,.13,0,.21,0,.08,0,.1,0,0-.06.06a.26.26,0,0,0-.16.22.29.29,0,0,0,.16.24s.08.06.08.08v.82s0,.05-.07.08a.22.22,0,0,0-.11.18.39.39,0,0,0,.18.29s.09.07.08.1a.45.45,0,0,1,0,.11,1.08,1.08,0,0,0,0,.33v.06H16.3v-.06s0-.29,0-.43,0-.06.07-.09a.25.25,0,0,0,.15-.24A.26.26,0,0,0,16.37,10.51ZM14.79,8.56a1.05,1.05,0,0,1,.38-.1.66.66,0,0,1,.38.14l.16.09.14,0c0,.23,0,1.56,0,2.12l-.28,0a1.59,1.59,0,0,1-.46,0l-.15,0a2.16,2.16,0,0,0-.39-.1h0v-2A1,1,0,0,0,14.79,8.56Zm-1.59.18a1.43,1.43,0,0,0,.36-.14A.84.84,0,0,1,14,8.47a.61.61,0,0,1,.29.08l.18.07v2h0a2.15,2.15,0,0,0-.39.1l-.15,0a1.59,1.59,0,0,1-.46,0h-.25c0-.54,0-1.85,0-2.1Zm3.1,2.13a.19.19,0,0,0-.12.2c0,.1,0,.27,0,.36H12.84a.85.85,0,0,1,0-.24.57.57,0,0,0,0-.14c0-.08-.06-.14-.12-.19s-.14-.12-.14-.2,0-.06.06-.09a.23.23,0,0,0,.11-.17V9.59c0-.07-.07-.12-.13-.17s-.12-.09-.11-.14,0-.09.1-.13.12-.07.12-.16,0-.05,0-.09,0-.11,0-.16h.25c0,.25,0,1.59,0,2.12h0V11H14.3a.22.22,0,0,0,.43,0H16V11c0-.44,0-1.91,0-2.23h.27c0,.07,0,.13,0,.19s0,.08,0,.12a.17.17,0,0,0,.1.15.13.13,0,0,1,.08.14c0,.1-.05.12-.12.15s-.11,0-.11.12v.83c0,.07.07.11.12.15s.1.07.1.12S16.37,10.84,16.31,10.87Z" fill="#011f5b"/>
+    <path d="M5.2,11.73A.38.38,0,0,0,5.6,12a1.93,1.93,0,0,0,1-.47A.67.67,0,0,0,7,11l0,.11s.32-.31,1.09-.07c.22.07,1.14.59,1.34.67a2.49,2.49,0,0,0,1.72.34,1.32,1.32,0,0,0,1.12-1.68c-.23-1.06-.16-1.13-.07-1.47,0,0-.88-.21-.86,1-.37,0-.83.31-.53,1a.69.69,0,0,1,.52-.38c.14,0,.3.21.3.36,0,.37-.35.53-.81.46-.23,0-.45-.3-.77-.53.06,0,.11-.22.11-.29s-.16-.27-.27-.34A.8.8,0,0,0,9.92,10c0-.15-.21-.14-.29-.2s0,0,0-.09,0-.34-.41-.33c0-.21,0-.35-.16-.41l-.33,0c-.2,0,0-.11-.19-.29s-.44,0-.44,0a.26.26,0,0,0-.28-.27.7.7,0,0,0-.28,0l-.14.11c-.17,0-.21-.15-.41-.15s-.27.15-.35.25c-.13-.06-.15-.17-.33-.17s-.14.11-.18.16-.11.26-.29.33L5.82,8.8v0a4.3,4.3,0,0,0-.86,1.77c0,.27.23.15.23.43s-.25.29-.25.43.21.27.39.27Z" fill="#fff"/>
+    <path d="M5.85,10.53h0a.25.25,0,0,0-.24.23.39.39,0,0,0,0,.14s0,0,0,.13l0,.07h.27L6,11c.11-.08.2-.14.2-.23S6.18,10.66,5.85,10.53Z" fill="#011f5b"/>
+    <path d="M.88,8.7h.45c.33-.08.45-.27.79-.27s.36.16.54.16.39-.17.64-.17.39.16.56.23a1.51,1.51,0,0,0,.56.06c0,.15,0,.24,0,.37s.17.08.17.29-.23.18-.23.27v.83c0,.1.22.12.22.27s-.23.15-.22.34,0,.42,0,.42H1c0-.31,0-.26,0-.41s-.26-.19-.26-.39.16-.13.17-.26V9.61c0-.11-.25-.16-.24-.32S.88,9.13.88,9,.88,8.75.88,8.7Z" fill="#fff"/>
+    <path d="M4.51,10.52l-.07-.05V9.65l0,0a.25.25,0,0,0,.18-.25.25.25,0,0,0-.13-.23s0,0,0-.06S4.5,9,4.5,9s0-.15,0-.25V8.65H4.41a1.42,1.42,0,0,1-.51-.06l-.15-.08a.77.77,0,0,0-.44-.15,1.14,1.14,0,0,0-.42.11.72.72,0,0,1-.22.07.46.46,0,0,1-.2-.07.71.71,0,0,0-.34-.1,1,1,0,0,0-.48.14,1.37,1.37,0,0,1-.32.13H.82V8.7s0,.13,0,.21,0,.08,0,.1,0,0-.06.06a.26.26,0,0,0-.16.22.29.29,0,0,0,.16.24s.08.06.08.08v.82s0,.05-.07.08a.22.22,0,0,0-.11.18A.39.39,0,0,0,.84,11s.09.07.08.1a1.33,1.33,0,0,0,0,.15s0,.11,0,.27v.06H4.44V11.5s0-.29,0-.43,0-.06.07-.09a.25.25,0,0,0,.15-.24A.26.26,0,0,0,4.51,10.52ZM2.93,8.57a1,1,0,0,1,.38-.1.66.66,0,0,1,.38.13l.16.09.14,0C4,9,4,10.29,4,10.86l-.28,0a1.58,1.58,0,0,1-.46,0l-.15,0a2.15,2.15,0,0,0-.39-.1h0v-2A1,1,0,0,0,2.93,8.57Zm-1.58.18a1.43,1.43,0,0,0,.36-.14.84.84,0,0,1,.43-.13.61.61,0,0,1,.29.08l.18.07v2h0a2.15,2.15,0,0,0-.39.1l-.15,0a1.58,1.58,0,0,1-.46,0H1.31c0-.54,0-1.85,0-2.1Zm3.1,2.13a.19.19,0,0,0-.12.2c0,.1,0,.27,0,.36H1c0-.12,0-.17,0-.21a1.26,1.26,0,0,1,0-.14C1,11,1,11,.91,10.89s-.14-.12-.14-.2,0-.06.06-.09A.23.23,0,0,0,1,10.43V9.6c0-.07-.07-.12-.13-.17S.71,9.34.71,9.29s0-.09.1-.13S.93,9.09.93,9s0-.05,0-.09,0-.11,0-.16h.25c0,.25,0,1.59,0,2.12h0V11H2.44a.19.19,0,0,0,.21.17.19.19,0,0,0,.21-.17H4.11V11c0-.44,0-1.91,0-2.23h.27c0,.07,0,.13,0,.19s0,.08,0,.12a.17.17,0,0,0,.1.15.13.13,0,0,1,.08.14c0,.1-.05.12-.11.15s-.11,0-.11.12v.84c0,.07.07.11.12.15s.1.07.1.12S4.51,10.85,4.45,10.88Z" fill="#011f5b"/>
+    <path d="M12.29,10.36c-.21-1-.17-1.1-.09-1.36l0-.13,0,0a.74.74,0,0,0-.58.08,1,1,0,0,0-.36.89.75.75,0,0,0-.54.33.85.85,0,0,0,0,.78l0,.1.06-.09c.11-.17.26-.35.47-.35s.24.18.25.3a.33.33,0,0,1-.11.28.79.79,0,0,1-.64.11,1.13,1.13,0,0,1-.46-.29l-.24-.2a.69.69,0,0,0,.08-.28.42.42,0,0,0-.26-.36h0A.53.53,0,0,0,10,10c0-.14-.14-.18-.23-.21h0a.25.25,0,0,0,0-.06v0a.33.33,0,0,0-.06-.26.47.47,0,0,0-.33-.09.35.35,0,0,0-.22-.41l-.32,0H8.72a.17.17,0,0,1,0,0,.28.28,0,0,0-.11-.24.4.4,0,0,0-.43,0,.32.32,0,0,0-.33-.24.68.68,0,0,0-.32.06l-.12.1a.28.28,0,0,1-.14-.06A.41.41,0,0,0,7,8.29a.44.44,0,0,0-.36.23h0l-.06,0a.33.33,0,0,0-.25-.11.23.23,0,0,0-.2.14l0,0A.73.73,0,0,0,6,8.7a.32.32,0,0,1-.12.14l0-.09h0V8.69l-.06,0a4.23,4.23,0,0,0-.9,1.82A.27.27,0,0,0,5,10.8a.17.17,0,0,1,.09.18.35.35,0,0,1-.12.2.39.39,0,0,0-.13.24.33.33,0,0,0,.27.3v0a.43.43,0,0,0,.45.34,1.88,1.88,0,0,0,1-.45l0,0A.8.8,0,0,0,7,11.12a1.16,1.16,0,0,1,1,0c.12,0,.51.24.82.41l.52.26.09,0a2.5,2.5,0,0,0,1.22.33,2.47,2.47,0,0,0,.43,0,1.58,1.58,0,0,0,1-.59A1.43,1.43,0,0,0,12.29,10.36ZM6.13,8.75a.63.63,0,0,1,.08-.13l0-.06c0-.06.06-.09.1-.09a.22.22,0,0,1,.17.08.5.5,0,0,0,.13.09l0,0,0,0,0,0A.33.33,0,0,1,7,8.41a.3.3,0,0,1,.19.07.37.37,0,0,0,.22.08h0l.14-.12a.63.63,0,0,1,.25,0,.2.2,0,0,1,.23.21v.1l.09-.05s.24-.14.37,0a.17.17,0,0,1,.07.15c0,.08,0,.13.15.15l.31,0c.08,0,.16.1.12.35v.07h.07c.17,0,.28,0,.32.05s0,.08,0,.17v0s0,0,0,0l0,0,0,0,0,0a.42.42,0,0,0,.13,0c.11,0,.14,0,.14.1a.46.46,0,0,1,0,.14l0,.06v.05l0,0c.1.06.23.13.23.28a.55.55,0,0,1,0,.15c-.18-.21-.36-.43-.48-.59s-.21-.27-.25-.29a.85.85,0,0,1-.16-.16,2.29,2.29,0,0,0-1.65-.86A2.91,2.91,0,0,0,6,9.09L6,8.94A.42.42,0,0,0,6.13,8.75Zm.79,2.35a.7.7,0,0,1-.34.4l0,0a1.79,1.79,0,0,1-1,.43.32.32,0,0,1-.32-.2l.07,0h0a1.36,1.36,0,0,0,.63-.1c.08,0,.46-.25.54-.45l-.11,0a1.26,1.26,0,0,1-.49.39,1.28,1.28,0,0,1-.6.09h0c-.13,0-.33-.06-.33-.21s0-.1.1-.16A.44.44,0,0,0,5.24,11a.28.28,0,0,0-.14-.27A.16.16,0,0,1,5,10.54a4.84,4.84,0,0,1,.78-1.68l0,.07.12.25a1.41,1.41,0,0,1,.22.63c0,.13-.2.32-.28.4l0,0,.07.09.13-.1c.12-.11.3-.26.41-.26a.49.49,0,0,1,.4.17l.09.12a2.1,2.1,0,0,0,.23.27s0,0,0,0-.2.18-.44.28v0l0,0h0c-.06,0-.1.06-.1.11v0h.31l0,.08Zm5.09.35a1.49,1.49,0,0,1-.92.54,2.31,2.31,0,0,1-1.58-.28l-.1-.05-.51-.26A9.3,9.3,0,0,0,8.07,11a1.88,1.88,0,0,0-.57-.1,1,1,0,0,0-.44.09c0-.07-.1-.08-.22-.08.21-.08.43-.21.46-.34a.14.14,0,0,0,0-.14A2,2,0,0,1,7,10.17L7,10.09A.39.39,0,0,0,7.06,10a.15.15,0,0,1,.16-.1.47.47,0,0,1,.23.07.53.53,0,0,0,.26.08.42.42,0,0,0,.2-.06.43.43,0,0,1,.21-.07.27.27,0,0,1,.18.1.39.39,0,0,1,.1.31v.09l.09,0a.45.45,0,0,1,.35,0,.38.38,0,0,1,.11.33v.08l.08,0a.32.32,0,0,1,.26,0c.07,0,.09.16.1.26s0,.08,0,.11a.22.22,0,0,0,.17.15c.09,0,.15.05.12.23h.12c0-.27-.11-.32-.2-.35s-.09,0-.09-.07,0-.06,0-.1a.44.44,0,0,0-.15-.34.36.36,0,0,0-.28,0,.44.44,0,0,0-.16-.35.5.5,0,0,0-.38-.07.51.51,0,0,0-.13-.32.38.38,0,0,0-.27-.14.53.53,0,0,0-.26.08.33.33,0,0,1-.14.05.42.42,0,0,1-.21-.07.58.58,0,0,0-.29-.09A.26.26,0,0,0,7,9.93.25.25,0,0,1,6.9,10a.6.6,0,0,0-.44-.17.4.4,0,0,0-.2.07.3.3,0,0,0,0-.1,1.33,1.33,0,0,0-.19-.6c.07-.2,1-.34,1.39-.32A2.18,2.18,0,0,1,9,9.71a.76.76,0,0,0,.2.18,2.81,2.81,0,0,1,.21.25c.13.17.32.41.51.63l-.07,0,.08.06.29.23a1.19,1.19,0,0,0,.51.31.88.88,0,0,0,.73-.14.45.45,0,0,0,.15-.37c0-.18-.18-.41-.36-.41a.66.66,0,0,0-.5.32.68.68,0,0,1,0-.58.66.66,0,0,1,.51-.28h.05V9.87A.94.94,0,0,1,11.64,9a.62.62,0,0,1,.44-.1V9c-.08.28-.12.44.09,1.41A1.32,1.32,0,0,1,12,11.46Z" fill="#011f5b"/>
+    <path d="M.13,7.31v.11s0,8.18,0,8.3c0,6.94,7.16,10.46,8.11,10.49h0a12.22,12.22,0,0,0,5.31-3.16A10.4,10.4,0,0,0,17,15.76V7.31Zm16.68.23v4.93H.36c0-2,0-4.39,0-4.93ZM8.25,26h0a10.78,10.78,0,0,1-4.43-2.72l4.77-4.82,4.56,4.68A12,12,0,0,1,8.25,26Zm7.51-6.19L8.62,12.92l0,0L1.26,19.8a9.44,9.44,0,0,1-.9-4.07c0-.05,0-1.48,0-3.15H16.81v3.18A9,9,0,0,1,15.77,19.8Z" fill="#011f5b"/>
+    <path d="M85.48,8.31H82.62V22.78a4.35,4.35,0,0,0,.42,2.3,1.86,1.86,0,0,0,1.62.59v.55H78v-.55A1.87,1.87,0,0,0,79.69,25a4.41,4.41,0,0,0,.45-2.3V8.31H77.41a5,5,0,0,0-2.85.63,2.62,2.62,0,0,0-1,2.07H73V6.69h.56a4.2,4.2,0,0,0,2.82.71h9.87a4.77,4.77,0,0,0,3-.71h.59V11h-.37A3.2,3.2,0,0,0,88.2,8.88,5.19,5.19,0,0,0,85.48,8.31Z" fill="#fff"/>
+    <path d="M99.15,20.44a5.85,5.85,0,0,1-1.82,4.39,6.77,6.77,0,0,1-9.1,0,5.85,5.85,0,0,1-1.82-4.39A5.9,5.9,0,0,1,88.23,16a6.79,6.79,0,0,1,9.11,0A5.9,5.9,0,0,1,99.15,20.44Zm-2.42,0a6.91,6.91,0,0,0-1.06-4,3.52,3.52,0,0,0-5.78,0,6.88,6.88,0,0,0-1.06,4,6.83,6.83,0,0,0,1.05,4,3.54,3.54,0,0,0,5.79,0A6.84,6.84,0,0,0,96.73,20.45Z" fill="#fff"/>
+    <path d="M112,5.58h.55V24A1.73,1.73,0,0,0,113,25.3a2.35,2.35,0,0,0,1.52.37v.55h-6.77a6.92,6.92,0,0,1-4.95-1.72A5.7,5.7,0,0,1,101,20.17a5.93,5.93,0,0,1,1.6-4.18,5.07,5.07,0,0,1,3.86-1.72,7.14,7.14,0,0,1,3.91,1.41V8.54a2.89,2.89,0,0,0-.3-1.59,1.46,1.46,0,0,0-1.24-.42h-.66V6Zm-1.68,18.34v-7a5.15,5.15,0,0,0-1.58-1.44,3.6,3.6,0,0,0-1.8-.52,3.06,3.06,0,0,0-2.57,1.31,5.54,5.54,0,0,0-1,3.41A6.72,6.72,0,0,0,104.73,24a4.55,4.55,0,0,0,3.75,1.65,2,2,0,0,0,1.41-.42A1.8,1.8,0,0,0,110.33,23.92Z" fill="#fff"/>
+    <path d="M119.33,26.59a3.33,3.33,0,0,1-2.34-.91,2.88,2.88,0,0,1-1-2.19,2.65,2.65,0,0,1,.84-2A8.81,8.81,0,0,1,120.27,20a11,11,0,0,0,2.18-.77v-.87a2.93,2.93,0,0,0-.71-2,2.43,2.43,0,0,0-1.89-.78,3,3,0,0,0-1.91.67A3.56,3.56,0,0,0,116.77,18l-.59-.16a4.51,4.51,0,0,1,1.53-2.6,4.15,4.15,0,0,1,7,3.29v5a5,5,0,0,0,.14,1.44.52.52,0,0,0,.52.38.5.5,0,0,0,.42-.22,3.4,3.4,0,0,0,.37-.91h.56a2.74,2.74,0,0,1-.68,1.73,2.07,2.07,0,0,1-1.58.64,2,2,0,0,1-2-1.65,6.1,6.1,0,0,1-1.54,1.3A3.38,3.38,0,0,1,119.33,26.59Zm3.13-2.73V19.91q-.5.21-1.44.53a5.33,5.33,0,0,0-2.24,1.18,2.39,2.39,0,0,0-.49,1.58,2.29,2.29,0,0,0,.52,1.5,1.56,1.56,0,0,0,1.24.63,2.73,2.73,0,0,0,1.38-.43A2.51,2.51,0,0,0,122.45,23.86Z" fill="#fff"/>
+    <path d="M131.66,14.62v.55q-1,.15-1,1a2,2,0,0,0,.18.76l2.79,6.58,2-6.15a4.26,4.26,0,0,0,.24-1.21q0-.94-1.17-1v-.55h4.12v.55a2.05,2.05,0,0,0-1.54.63,5.72,5.72,0,0,0-1.11,2.1l-4.63,13.72a8.73,8.73,0,0,1-1.72,3.09,3,3,0,0,1-2.14,1.14,2.83,2.83,0,0,1-1.45-.5l.76-2a2.8,2.8,0,0,0,1.13.27,2.4,2.4,0,0,0,1.73-.66,5.73,5.73,0,0,0,1.23-2.2l1.49-4.22-4.18-9.63a3.54,3.54,0,0,0-.92-1.39,2.5,2.5,0,0,0-1.44-.36v-.55Z" fill="#fff"/>
+    <ellipse cx="8.57" cy="16" rx="1.39" ry="1.34" fill="#fff"/>
+    <ellipse cx="4.57" cy="19.35" rx="1.39" ry="1.34" fill="#fff"/>
+    <ellipse cx="12.35" cy="19.35" rx="1.39" ry="1.34" fill="#fff"/>
+  </svg>
+</a>
+      <button class="menu__open js-menu-toggle" name="Menu Toggle" title="Menu" tabindex="0">
+        <span class="visually-hidden">Open Navigation</span>
+        <svg class="menu__open-icon" width="28" height="11">
+          <path fill="none" stroke="#FFF" stroke-width="3" d="M1.5 1.5h24.515M1.5 9.5h24.515" stroke-linecap="square" />
+        </svg>
+        <span class="menu__text">Menu</span>
+      </button>
+
+    </div>
+
+    <nav class="menu__topics-nav">
+      <ul class="topics-nav-list">
+        <li class="topics-nav-item">
+          <a href="/topic/arts-humanities-and-social-sciences" class="topics-nav-link" tabindex="0">Arts, Humanities,
+            &amp; Social&nbsp;Sciences</a>
+        </li>
+        <li class="topics-nav-item">
+          <a href="/topic/sports" class="topics-nav-link" tabindex="0">Sports</a>
+        </li>
+        <li class="topics-nav-item">
+          <a href="/topic/campus-and-community" class="topics-nav-link" tabindex="0">Campus &amp; Community</a>
+        </li>
+        <li class="topics-nav-item">
+          <a href="/topic/education-business-and-law" class="topics-nav-link" tabindex="0">Education, Business, &
+            Law</a>
+        </li>
+        <li class="topics-nav-item">
+          <a href="/topic/health-sciences" class="topics-nav-link" tabindex="0">Health Sciences</a>
+        </li>
+        <li class="topics-nav-item">
+          <a href="/topic/science-and-technology" class="topics-nav-link" tabindex="0">Science & Technology</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+  <div class="search-bar">
+    <form action="/search" role="search" method="get" class="search-bar__header-form">
+      <fieldset class="search-bar__wrapper">
+        <input id="search-bar-input" name="terms" type="search" placeholder="Search the site"
+          class="js-search-bar-input search__header-input">
+        <label for="search-bar-input" class="visually-hidden">Search</label>
+        <button type="submit" class="js-search-bar-button search-bar__header-icon">
+          <p class="visually-hidden">Search Icon</p>
+          <svg class="search__header-svg" xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 33 33">
+            <path fill="#000127" fill-rule="evenodd"
+              d="M1305.99318,316.019425 C1309.10677,316.019425 1312.01799,314.966024 1314.36394,313.226228 L1322.12809,321 L1325,318.124526 L1317.23585,310.391651 C1318.97511,308.042878 1320.02559,305.169186 1320.02559,302.010522 C1320.02559,294.276027 1313.75733,288 1306.03241,288 C1298.30911,288 1292,294.317328 1292,302.010522 C1292,309.703717 1298.30951,316.019425 1305.99318,316.019425 Z M1306,292 C1311.52882,292 1316,296.471181 1316,302 C1316,307.528819 1311.52882,312 1306,312 C1300.47118,312 1296,307.528819 1296,302 C1296,296.471181 1300.51264,292 1306,292 Z"
+              transform="translate(-1292 -288)" />
+          </svg>
+        </button>
+      </fieldset>
+    </form>
+  </div>
+</header>
+<div class="search-bar__overlay"></div>
+<div class="menu__overlay">
+  <div class="menu__overlay-scroll">
+    <div class="menu__overlay-content">
+      <nav class="menu__main-nav">
+        <div class="menu__main-nav-wrapper menu__scroll-pane menu__scroll-pane--left" id="scroll-pane-left">
+          <h6 class="menu__heading">Topics</h6>
+          <ul class="menu__topic-list">
+            <li class="menu__topic-list-item">
+              <a href="/topic/arts-humanities-and-social-sciences" class="topics-nav-link" tabindex="0">Arts,
+                Humanities, &amp; Social&nbsp;Sciences</a>
+            </li>
+            <li class="menu__topic-list-item">
+              <a href="/topic/sports" class="menu__topic-list-link" tabindex="0">Sports</a>
+            </li>
+            <li class="menu__topic-list-item">
+              <a href="/topic/campus-and-community" class="menu__topic-list-link" tabindex="0">Campus &amp;
+                Community</a>
+            </li>
+            <li class="menu__topic-list-item">
+              <a href="/topic/education-business-and-law" class="menu__topic-list-link" tabindex="0">Education,
+                Business, & Law</a>
+            </li>
+            <li class="menu__topic-list-item">
+              <a href="/topic/health-sciences" class="menu__topic-list-link" tabindex="0">Health Sciences</a>
+            </li>
+            <li class="menu__topic-list-item">
+              <a href="/topic/science-and-technology" class="menu__topic-list-link" tabindex="0">Science &
+                Technology</a>
+            </li>
+          </ul>
+          <div class="l-menu-subgroups">
+            <div class="menu-subgroup news-subgroup">
+              <h6 class="menu__heading">News</h6>
+              <ul class="menu__list">
+                <li class="menu__list-item">
+                  <a href="/news/archives" class="menu__inline-link" tabindex="0">News Archive</a>
+                </li>
+                <li class="menu__list-item">
+                  <a href="/penn-in-the-news/archives" class="menu__inline-link" tabindex="0">Penn in the News</a>
+                </li>
+                <li class="menu__list-item">
+                  <a href="/newsletters/sign-up" class="menu__inline-link" tabindex="0">Newsletters</a>
+                </li>
+                <li class="menu__list-item">
+                  <a href="/announcements" class="menu__inline-link" tabindex="0">Announcements</a>
+                </li>
+              </ul>
+            </div>
+
+            <div class="menu-subgroup media-subgroup">
+              <h6 class="menu__heading">University Communications</h6>
+              <ul class="menu__list">
+                <li class="menu__list-item">
+                  <a href="/about-contact-us" class="menu__inline-link" tabindex="0">About / Contact Us</a>
+                </li>
+                <li class="menu__list-item">
+                  <a href="/staff" class="menu__inline-link" tabindex="0">Staff</a>
+                </li>
+                <li class="menu__list-item">
+                  <a href="/photo-video-and-social-media" class="menu__inline-link" tabindex="0">Photo, Video, & Social
+                    Media</a>
+                </li>
+                <li class="menu__list-item">
+                  <a href="https://university-communications.upenn.edu" class="menu__inline-link" tabindex="0">University Communications website</a>
+                </li>
+              </ul>
+            </div>
+
+          </div>
+     
+          <ul class="menu__penn-utilities-list">
+            <li class="menu__penn-utilities-item">
+              <a href="http://www.upenn.edu" class="menu__penn-utilities-link" tabindex="0">Penn Home</a>
+            </li>
+            <li class="menu__penn-utilities-item">
+              <a href="http://www.upenn.edu/penna-z" class="menu__penn-utilities-link" tabindex="0">A-Z</a>
+            </li>
+            <li class="menu__penn-utilities-item">
+              <a href="http://www.upenn.edu/directories" class="menu__penn-utilities-link" tabindex="0">Directory</a>
+            </li>
+            <li class="menu__penn-utilities-item">
+              <a href="http://www.upenn.edu/calendar/" class="menu__penn-utilities-link" tabindex="0">Calendar</a>
+            </li>
+            <li class="menu__penn-utilities-item">
+              <a href="http://www.facilities.upenn.edu/maps" class="menu__penn-utilities-link" tabindex="0">Maps</a>
+            </li>
+            <li class="menu__penn-utilities-item">
+              <a href="http://www.upenn.edu/services" class="menu__penn-utilities-link" tabindex="0">Offices and
+                Services</a>
+            </li>
+            <li class="menu__penn-utilities-item">
+              <a href="http://www.upenn.edu/computing/webmail/" class="menu__penn-utilities-link"
+                tabindex="0">Webmail</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </div>
+    <div class="l-site-nav__events menu__scroll-pane menu__scroll-pane--right" id="scroll-pane-right">
+      <h6 class="menu__heading menu-heading__events">
+        <a class="menu__heading__link" href="/events">Events<span class="see-all__link">See all →</span></a>
+      </h6>
+        <div class="site-nav__event">
+  <article class="site-nav__event-content">
+    <div class="site-nav-event__date-container">
+              <p class="site-nav-event__date">10/14</p>
+          </div>
+    <div class="site-nav-event__text">
+                    
+        <a class="site-nav-event__link" href="/events/public-service-time-polarization" tabindex="0">
+              <h3 class="site-nav-event__head"><span class="field field--name-title field--type-string field--label-hidden">Public Service in a Time of Polarization</span>
+</h3>
+        <div class="site-nav-event__img-container">
+          
+  <img src="/sites/default/files/styles/event_small/public/2022-08/20160428-Yph_Lelkes_2016_Faculty_Official_aL1042277.jpg?h=237962f4&amp;itok=R8GxC41Q"  alt="Yphtach Lelkes" />
+
+
+        </div>
+                
+          <div class="site-nav-event__dek"><div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
+      <div class="field__item">As part of a series of Annenberg Conversations, Yphtach Lelkes of the Annenberg School for Communication and Andrew M. Guess of Princeton discuss the worries of low-quality, fake, and biased news.</div>
+</div></div>
+                          <p class="site-nav-event__time">12:15 p.m. - 1:15 p.m.</p>
+                        
+          <p class="site-nav-event__location">Hybrid; Room 500 inside the Annenberg School for Communication</p>
+                      
+        </a>
+            
+    </div>
+  </article>
+</div>
+
+  <div class="site-nav__event">
+  <article class="site-nav__event-content">
+    <div class="site-nav-event__date-container">
+              <p class="site-nav-event__date">10/15</p>
+          </div>
+    <div class="site-nav-event__text">
+                    
+        <a class="site-nav-event__link" href="/events/archaeology-lenapehoking" tabindex="0">
+              <h3 class="site-nav-event__head"><span class="field field--name-title field--type-string field--label-hidden">Archaeology of Lenapehoking</span>
+</h3>
+        <div class="site-nav-event__img-container">
+          
+  <img src="/sites/default/files/styles/event_small/public/2022-09/Penn%20Museum.jpeg?h=252f27fa&amp;itok=qsM3RpQT"  alt="Exterior of Penn Museum." />
+
+
+        </div>
+                
+          <div class="site-nav-event__dek"><div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
+      <div class="field__item">Justin Reamer, a Ph.D. candidate in the Anthropology Department, discusses the 12,000-year history of the Lenape in Lenapehoking, which refers to the traditional and spiritual homeland of the Lenape.</div>
+</div></div>
+                          <p class="site-nav-event__time">2:00 p.m. - 3:00 p.m.</p>
+                        
+          <p class="site-nav-event__location">Penn Museum, 3260 South St.</p>
+                      
+        </a>
+            
+    </div>
+  </article>
+</div>
+
+  <div class="site-nav__event">
+  <article class="site-nav__event-content">
+    <div class="site-nav-event__date-container">
+              <p class="site-nav-event__through">Through</p>
+        <p class="site-nav-event__date">10/21</p>
+          </div>
+    <div class="site-nav-event__text">
+                    
+        <a class="site-nav-event__link" href="/events/global-career-week" tabindex="0">
+              <h3 class="site-nav-event__head"><span class="field field--name-title field--type-string field--label-hidden">Global Career Week</span>
+</h3>
+        <div class="site-nav-event__img-container">
+          
+  <img src="/sites/default/files/styles/event_small/public/2022-10/PerryWorldHouse.jpeg?h=90f557b8&amp;itok=fCGHpMrU"  alt="Exterior of Perry World House." />
+
+
+        </div>
+                
+          <div class="site-nav-event__dek"><div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
+      <div class="field__item">Perry World House presents Global Career Week 2022, bringing together experts to discuss their career journeys and experiences working across the national security and foreign policy landscape, human rights, and international fellowships. The career week is a four-day event also featuring opportunities from the Penn Study Abroad program. </div>
+</div></div>
+                          <p class="site-nav-event__time">All Day</p>
+                        
+          <p class="site-nav-event__location">3803 Locust Walk</p>
+                      
+        </a>
+            
+    </div>
+  </article>
+</div>
+
+  <div class="site-nav__event">
+  <article class="site-nav__event-content">
+    <div class="site-nav-event__date-container">
+              <p class="site-nav-event__date">10/17</p>
+          </div>
+    <div class="site-nav-event__text">
+                    
+        <a class="site-nav-event__link" href="/events/lisa-nakamura" tabindex="0">
+              <h3 class="site-nav-event__head"><span class="field field--name-title field--type-string field--label-hidden">Lisa Nakamura</span>
+</h3>
+        <div class="site-nav-event__img-container">
+          
+  <img src="/sites/default/files/styles/event_small/public/2022-09/lisan.jpeg?h=2500911c&amp;itok=zoe9zGXu"  alt="Lisa Nakamura." />
+
+
+        </div>
+                
+          <div class="site-nav-event__dek"><div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items">
+      <div class="field__item">Kelly Writers House welcomes Lisa Nakamura, author of “Racist Zoombombing, Technopercarious, and Digitizing Race: Visual Cultures of the Internet,” to speak about her work on race and gender in online spaces. She'll speak alongside Whitney Trettien of the English Department and Amanda Licastro, an instructional designer at Penn Libraries. </div>
+</div></div>
+                          <p class="site-nav-event__time">6:00 p.m. - 7:30 p.m.</p>
+                        
+          <p class="site-nav-event__location">Hybrid</p>
+                      
+        </a>
+            
+    </div>
+  </article>
+</div>
+
+
+
+
+    </div>
+  </div>
+  <div class="menu__close-bar">
+    <button class="js-menu-toggle menu__close">
+      <span class="visually-hidden">Close</span>
+      <svg class="menu__close-icon" xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+        <polygon fill="#000127" fill-rule="evenodd"
+          points="40.712 455.057 51.114 465.459 49.459 467.114 39.057 456.712 28.655 467.112 27 465.457 37.402 455.057 27.002 444.655 28.658 443 39.057 453.402 49.459 443 51.114 444.655"
+          transform="translate(-27 -443)" />
+      </svg>
+    </button>
+  </div>
+</div>
+<header class="header-condensed  header-condensed--article">
+  <div class="menu__wrapper">
+    <div class="menu__content">
+      <button class="search-bar__open js-search-bar-toggle" name="Searchbar Toggle" title="Search">
+        <span class="visually-hidden">Open Search Bar</span>
+        <svg class="search-bar__header-svg" xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 33 33">
+          <path fill="#000127" fill-rule="evenodd" d="M1305.99318,316.019425 C1309.10677,316.019425 1312.01799,314.966024 1314.36394,313.226228 L1322.12809,321 L1325,318.124526 L1317.23585,310.391651 C1318.97511,308.042878 1320.02559,305.169186 1320.02559,302.010522 C1320.02559,294.276027 1313.75733,288 1306.03241,288 C1298.30911,288 1292,294.317328 1292,302.010522 C1292,309.703717 1298.30951,316.019425 1305.99318,316.019425 Z M1306,292 C1311.52882,292 1316,296.471181 1316,302 C1316,307.528819 1311.52882,312 1306,312 C1300.47118,312 1296,307.528819 1296,302 C1296,296.471181 1300.51264,292 1306,292 Z" transform="translate(-1292 -288)"/>
+        </svg>
+        <span class="visually-hidden">Close</span>
+        <svg class="search-bar__close-svg" xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+        <polygon fill="#000127" fill-rule="evenodd" points="40.712 455.057 51.114 465.459 49.459 467.114 39.057 456.712 28.655 467.112 27 465.457 37.402 455.057 27.002 444.655 28.658 443 39.057 453.402 49.459 443 51.114 444.655" transform="translate(-27 -443)"/>
+        </svg>
+        <span class="menu__text js-search-text">Search</span>
+      </button>
+              <div class="article-nav">
+          <a href="" class="article-nav__logo"><span class="visually-hidden">Penn Today Logo</span></a>
+          <div class="article-nav__h-group">
+            <span class="article-nav__h">Microbes that cause cavities can form superorganisms able to ‘crawl’ and spread on teeth</span>
+          </div>
+        </div>
+                <a class="masthead" href="/" tabindex="0">
+  <span class="visually-hidden">Penn Today Logo</span>
+  <svg viewBox="0 0 139 36">
+    <path d="M23.44,22.62c0,2.34.56,3,2.14,3v.56H18.8v-.56c1.32,0,2.14-.43,2.14-2.93V10.86c0-2.31-.56-3-2.14-3V7.3h6.89c5.21,0,7.31,2.77,7.31,5.37,0,3.13-2.37,4.88-6.66,4.88a21.82,21.82,0,0,1-2.9-.2Zm0-6.13a6,6,0,0,0,2.34.33c2.8,0,4.58-1.52,4.58-4.09A4.4,4.4,0,0,0,25.78,8H23.44Z" fill="#fff"/>
+    <path d="M33.43,19.07c-.07,5.24,3.06,6.56,4.65,6.56s2.44-.56,4.12-2.44V24a5.52,5.52,0,0,1-4.81,2.5,6,6,0,0,1-6.29-6.06A6,6,0,0,1,37,14.19c2.7,0,5.21,2.17,5,4.88Zm6.36-.56a3.16,3.16,0,0,0-3.13-3.62c-1.94,0-3.1,1.45-3.23,3.62Z" fill="#fff"/>
+    <path d="M54.64,23.64c0,1.52.33,2,2,2v.56H50.39v-.56c1.58,0,2-.36,2-1.45v-6.1a2.5,2.5,0,0,0-2.6-2.67c-1.15,0-2.17.72-3.33,2.27v5.7c0,1.78.23,2.24,2,2.24v.56H42.29v-.56c1.55,0,1.94-.13,1.94-2.24V16.83c0-1.42-.36-1.71-1.94-1.71v-.56l3.62-.36h.56v2.34c1.38-1.58,2.74-2.34,4.22-2.34a3.92,3.92,0,0,1,4,4.18Z" fill="#fff"/>
+    <path d="M68.91,23.64c0,1.52.33,2,2,2v.56H64.66v-.56c1.58,0,2-.36,2-1.45v-6.1a2.5,2.5,0,0,0-2.6-2.67c-1.15,0-2.17.72-3.33,2.27v5.7c0,1.78.23,2.24,2,2.24v.56H56.55v-.56c1.55,0,1.94-.13,1.94-2.24V16.83c0-1.42-.36-1.71-1.94-1.71v-.56l3.62-.36h.56v2.34c1.38-1.58,2.73-2.34,4.22-2.34a3.92,3.92,0,0,1,4,4.18Z" fill="#fff"/>
+    <path d="M.19,7.36H17v8.39c-.11,6.84-7.78,10.44-8.74,10.4S.17,22.61.19,15.72C.19,15.6.19,7.36.19,7.36Z" fill="#fff"/>
+    <path d="M.25,12.49s0-5.07,0-5.07H16.92v5.07Z" fill="#900"/>
+    <path d="M17,12.55H.25v-.06h0c0-.13,0-3.69,0-5.06V7.36H17ZM.3,12.43H16.86v-5H.31C.32,11.16.32,12.16.3,12.43Z" fill="#900"/><path d="M12.74,8.68h.45c.33-.08.45-.27.79-.27s.36.16.54.16.39-.17.64-.17.39.16.56.23a1.51,1.51,0,0,0,.56.06c0,.15,0,.24,0,.37s.17.08.17.29-.23.18-.23.27v.83c0,.1.22.12.22.27s-.23.15-.22.34,0,.42,0,.42l-3.47,0a2.32,2.32,0,0,1,.07-.44c0-.12-.26-.19-.26-.39s.16-.13.17-.26V9.59c0-.11-.25-.16-.24-.32s.23-.16.23-.29S12.75,8.73,12.74,8.68Z" fill="#fff"/>
+    <path d="M16.37,10.51l-.07-.05V9.63l0,0a.25.25,0,0,0,.19-.25.25.25,0,0,0-.13-.23s0,0,0-.06,0-.08,0-.12,0-.15,0-.25V8.64h-.09a1.37,1.37,0,0,1-.51-.06l-.15-.08a.77.77,0,0,0-.44-.15,1.14,1.14,0,0,0-.42.11.72.72,0,0,1-.22.07.46.46,0,0,1-.2-.07.71.71,0,0,0-.34-.1,1,1,0,0,0-.48.14,1.37,1.37,0,0,1-.32.13h-.51v.06s0,.13,0,.21,0,.08,0,.1,0,0-.06.06a.26.26,0,0,0-.16.22.29.29,0,0,0,.16.24s.08.06.08.08v.82s0,.05-.07.08a.22.22,0,0,0-.11.18.39.39,0,0,0,.18.29s.09.07.08.1a.45.45,0,0,1,0,.11,1.08,1.08,0,0,0,0,.33v.06H16.3v-.06s0-.29,0-.43,0-.06.07-.09a.25.25,0,0,0,.15-.24A.26.26,0,0,0,16.37,10.51ZM14.79,8.56a1.05,1.05,0,0,1,.38-.1.66.66,0,0,1,.38.14l.16.09.14,0c0,.23,0,1.56,0,2.12l-.28,0a1.59,1.59,0,0,1-.46,0l-.15,0a2.16,2.16,0,0,0-.39-.1h0v-2A1,1,0,0,0,14.79,8.56Zm-1.59.18a1.43,1.43,0,0,0,.36-.14A.84.84,0,0,1,14,8.47a.61.61,0,0,1,.29.08l.18.07v2h0a2.15,2.15,0,0,0-.39.1l-.15,0a1.59,1.59,0,0,1-.46,0h-.25c0-.54,0-1.85,0-2.1Zm3.1,2.13a.19.19,0,0,0-.12.2c0,.1,0,.27,0,.36H12.84a.85.85,0,0,1,0-.24.57.57,0,0,0,0-.14c0-.08-.06-.14-.12-.19s-.14-.12-.14-.2,0-.06.06-.09a.23.23,0,0,0,.11-.17V9.59c0-.07-.07-.12-.13-.17s-.12-.09-.11-.14,0-.09.1-.13.12-.07.12-.16,0-.05,0-.09,0-.11,0-.16h.25c0,.25,0,1.59,0,2.12h0V11H14.3a.22.22,0,0,0,.43,0H16V11c0-.44,0-1.91,0-2.23h.27c0,.07,0,.13,0,.19s0,.08,0,.12a.17.17,0,0,0,.1.15.13.13,0,0,1,.08.14c0,.1-.05.12-.12.15s-.11,0-.11.12v.83c0,.07.07.11.12.15s.1.07.1.12S16.37,10.84,16.31,10.87Z" fill="#011f5b"/>
+    <path d="M5.2,11.73A.38.38,0,0,0,5.6,12a1.93,1.93,0,0,0,1-.47A.67.67,0,0,0,7,11l0,.11s.32-.31,1.09-.07c.22.07,1.14.59,1.34.67a2.49,2.49,0,0,0,1.72.34,1.32,1.32,0,0,0,1.12-1.68c-.23-1.06-.16-1.13-.07-1.47,0,0-.88-.21-.86,1-.37,0-.83.31-.53,1a.69.69,0,0,1,.52-.38c.14,0,.3.21.3.36,0,.37-.35.53-.81.46-.23,0-.45-.3-.77-.53.06,0,.11-.22.11-.29s-.16-.27-.27-.34A.8.8,0,0,0,9.92,10c0-.15-.21-.14-.29-.2s0,0,0-.09,0-.34-.41-.33c0-.21,0-.35-.16-.41l-.33,0c-.2,0,0-.11-.19-.29s-.44,0-.44,0a.26.26,0,0,0-.28-.27.7.7,0,0,0-.28,0l-.14.11c-.17,0-.21-.15-.41-.15s-.27.15-.35.25c-.13-.06-.15-.17-.33-.17s-.14.11-.18.16-.11.26-.29.33L5.82,8.8v0a4.3,4.3,0,0,0-.86,1.77c0,.27.23.15.23.43s-.25.29-.25.43.21.27.39.27Z" fill="#fff"/>
+    <path d="M5.85,10.53h0a.25.25,0,0,0-.24.23.39.39,0,0,0,0,.14s0,0,0,.13l0,.07h.27L6,11c.11-.08.2-.14.2-.23S6.18,10.66,5.85,10.53Z" fill="#011f5b"/>
+    <path d="M.88,8.7h.45c.33-.08.45-.27.79-.27s.36.16.54.16.39-.17.64-.17.39.16.56.23a1.51,1.51,0,0,0,.56.06c0,.15,0,.24,0,.37s.17.08.17.29-.23.18-.23.27v.83c0,.1.22.12.22.27s-.23.15-.22.34,0,.42,0,.42H1c0-.31,0-.26,0-.41s-.26-.19-.26-.39.16-.13.17-.26V9.61c0-.11-.25-.16-.24-.32S.88,9.13.88,9,.88,8.75.88,8.7Z" fill="#fff"/>
+    <path d="M4.51,10.52l-.07-.05V9.65l0,0a.25.25,0,0,0,.18-.25.25.25,0,0,0-.13-.23s0,0,0-.06S4.5,9,4.5,9s0-.15,0-.25V8.65H4.41a1.42,1.42,0,0,1-.51-.06l-.15-.08a.77.77,0,0,0-.44-.15,1.14,1.14,0,0,0-.42.11.72.72,0,0,1-.22.07.46.46,0,0,1-.2-.07.71.71,0,0,0-.34-.1,1,1,0,0,0-.48.14,1.37,1.37,0,0,1-.32.13H.82V8.7s0,.13,0,.21,0,.08,0,.1,0,0-.06.06a.26.26,0,0,0-.16.22.29.29,0,0,0,.16.24s.08.06.08.08v.82s0,.05-.07.08a.22.22,0,0,0-.11.18A.39.39,0,0,0,.84,11s.09.07.08.1a1.33,1.33,0,0,0,0,.15s0,.11,0,.27v.06H4.44V11.5s0-.29,0-.43,0-.06.07-.09a.25.25,0,0,0,.15-.24A.26.26,0,0,0,4.51,10.52ZM2.93,8.57a1,1,0,0,1,.38-.1.66.66,0,0,1,.38.13l.16.09.14,0C4,9,4,10.29,4,10.86l-.28,0a1.58,1.58,0,0,1-.46,0l-.15,0a2.15,2.15,0,0,0-.39-.1h0v-2A1,1,0,0,0,2.93,8.57Zm-1.58.18a1.43,1.43,0,0,0,.36-.14.84.84,0,0,1,.43-.13.61.61,0,0,1,.29.08l.18.07v2h0a2.15,2.15,0,0,0-.39.1l-.15,0a1.58,1.58,0,0,1-.46,0H1.31c0-.54,0-1.85,0-2.1Zm3.1,2.13a.19.19,0,0,0-.12.2c0,.1,0,.27,0,.36H1c0-.12,0-.17,0-.21a1.26,1.26,0,0,1,0-.14C1,11,1,11,.91,10.89s-.14-.12-.14-.2,0-.06.06-.09A.23.23,0,0,0,1,10.43V9.6c0-.07-.07-.12-.13-.17S.71,9.34.71,9.29s0-.09.1-.13S.93,9.09.93,9s0-.05,0-.09,0-.11,0-.16h.25c0,.25,0,1.59,0,2.12h0V11H2.44a.19.19,0,0,0,.21.17.19.19,0,0,0,.21-.17H4.11V11c0-.44,0-1.91,0-2.23h.27c0,.07,0,.13,0,.19s0,.08,0,.12a.17.17,0,0,0,.1.15.13.13,0,0,1,.08.14c0,.1-.05.12-.11.15s-.11,0-.11.12v.84c0,.07.07.11.12.15s.1.07.1.12S4.51,10.85,4.45,10.88Z" fill="#011f5b"/>
+    <path d="M12.29,10.36c-.21-1-.17-1.1-.09-1.36l0-.13,0,0a.74.74,0,0,0-.58.08,1,1,0,0,0-.36.89.75.75,0,0,0-.54.33.85.85,0,0,0,0,.78l0,.1.06-.09c.11-.17.26-.35.47-.35s.24.18.25.3a.33.33,0,0,1-.11.28.79.79,0,0,1-.64.11,1.13,1.13,0,0,1-.46-.29l-.24-.2a.69.69,0,0,0,.08-.28.42.42,0,0,0-.26-.36h0A.53.53,0,0,0,10,10c0-.14-.14-.18-.23-.21h0a.25.25,0,0,0,0-.06v0a.33.33,0,0,0-.06-.26.47.47,0,0,0-.33-.09.35.35,0,0,0-.22-.41l-.32,0H8.72a.17.17,0,0,1,0,0,.28.28,0,0,0-.11-.24.4.4,0,0,0-.43,0,.32.32,0,0,0-.33-.24.68.68,0,0,0-.32.06l-.12.1a.28.28,0,0,1-.14-.06A.41.41,0,0,0,7,8.29a.44.44,0,0,0-.36.23h0l-.06,0a.33.33,0,0,0-.25-.11.23.23,0,0,0-.2.14l0,0A.73.73,0,0,0,6,8.7a.32.32,0,0,1-.12.14l0-.09h0V8.69l-.06,0a4.23,4.23,0,0,0-.9,1.82A.27.27,0,0,0,5,10.8a.17.17,0,0,1,.09.18.35.35,0,0,1-.12.2.39.39,0,0,0-.13.24.33.33,0,0,0,.27.3v0a.43.43,0,0,0,.45.34,1.88,1.88,0,0,0,1-.45l0,0A.8.8,0,0,0,7,11.12a1.16,1.16,0,0,1,1,0c.12,0,.51.24.82.41l.52.26.09,0a2.5,2.5,0,0,0,1.22.33,2.47,2.47,0,0,0,.43,0,1.58,1.58,0,0,0,1-.59A1.43,1.43,0,0,0,12.29,10.36ZM6.13,8.75a.63.63,0,0,1,.08-.13l0-.06c0-.06.06-.09.1-.09a.22.22,0,0,1,.17.08.5.5,0,0,0,.13.09l0,0,0,0,0,0A.33.33,0,0,1,7,8.41a.3.3,0,0,1,.19.07.37.37,0,0,0,.22.08h0l.14-.12a.63.63,0,0,1,.25,0,.2.2,0,0,1,.23.21v.1l.09-.05s.24-.14.37,0a.17.17,0,0,1,.07.15c0,.08,0,.13.15.15l.31,0c.08,0,.16.1.12.35v.07h.07c.17,0,.28,0,.32.05s0,.08,0,.17v0s0,0,0,0l0,0,0,0,0,0a.42.42,0,0,0,.13,0c.11,0,.14,0,.14.1a.46.46,0,0,1,0,.14l0,.06v.05l0,0c.1.06.23.13.23.28a.55.55,0,0,1,0,.15c-.18-.21-.36-.43-.48-.59s-.21-.27-.25-.29a.85.85,0,0,1-.16-.16,2.29,2.29,0,0,0-1.65-.86A2.91,2.91,0,0,0,6,9.09L6,8.94A.42.42,0,0,0,6.13,8.75Zm.79,2.35a.7.7,0,0,1-.34.4l0,0a1.79,1.79,0,0,1-1,.43.32.32,0,0,1-.32-.2l.07,0h0a1.36,1.36,0,0,0,.63-.1c.08,0,.46-.25.54-.45l-.11,0a1.26,1.26,0,0,1-.49.39,1.28,1.28,0,0,1-.6.09h0c-.13,0-.33-.06-.33-.21s0-.1.1-.16A.44.44,0,0,0,5.24,11a.28.28,0,0,0-.14-.27A.16.16,0,0,1,5,10.54a4.84,4.84,0,0,1,.78-1.68l0,.07.12.25a1.41,1.41,0,0,1,.22.63c0,.13-.2.32-.28.4l0,0,.07.09.13-.1c.12-.11.3-.26.41-.26a.49.49,0,0,1,.4.17l.09.12a2.1,2.1,0,0,0,.23.27s0,0,0,0-.2.18-.44.28v0l0,0h0c-.06,0-.1.06-.1.11v0h.31l0,.08Zm5.09.35a1.49,1.49,0,0,1-.92.54,2.31,2.31,0,0,1-1.58-.28l-.1-.05-.51-.26A9.3,9.3,0,0,0,8.07,11a1.88,1.88,0,0,0-.57-.1,1,1,0,0,0-.44.09c0-.07-.1-.08-.22-.08.21-.08.43-.21.46-.34a.14.14,0,0,0,0-.14A2,2,0,0,1,7,10.17L7,10.09A.39.39,0,0,0,7.06,10a.15.15,0,0,1,.16-.1.47.47,0,0,1,.23.07.53.53,0,0,0,.26.08.42.42,0,0,0,.2-.06.43.43,0,0,1,.21-.07.27.27,0,0,1,.18.1.39.39,0,0,1,.1.31v.09l.09,0a.45.45,0,0,1,.35,0,.38.38,0,0,1,.11.33v.08l.08,0a.32.32,0,0,1,.26,0c.07,0,.09.16.1.26s0,.08,0,.11a.22.22,0,0,0,.17.15c.09,0,.15.05.12.23h.12c0-.27-.11-.32-.2-.35s-.09,0-.09-.07,0-.06,0-.1a.44.44,0,0,0-.15-.34.36.36,0,0,0-.28,0,.44.44,0,0,0-.16-.35.5.5,0,0,0-.38-.07.51.51,0,0,0-.13-.32.38.38,0,0,0-.27-.14.53.53,0,0,0-.26.08.33.33,0,0,1-.14.05.42.42,0,0,1-.21-.07.58.58,0,0,0-.29-.09A.26.26,0,0,0,7,9.93.25.25,0,0,1,6.9,10a.6.6,0,0,0-.44-.17.4.4,0,0,0-.2.07.3.3,0,0,0,0-.1,1.33,1.33,0,0,0-.19-.6c.07-.2,1-.34,1.39-.32A2.18,2.18,0,0,1,9,9.71a.76.76,0,0,0,.2.18,2.81,2.81,0,0,1,.21.25c.13.17.32.41.51.63l-.07,0,.08.06.29.23a1.19,1.19,0,0,0,.51.31.88.88,0,0,0,.73-.14.45.45,0,0,0,.15-.37c0-.18-.18-.41-.36-.41a.66.66,0,0,0-.5.32.68.68,0,0,1,0-.58.66.66,0,0,1,.51-.28h.05V9.87A.94.94,0,0,1,11.64,9a.62.62,0,0,1,.44-.1V9c-.08.28-.12.44.09,1.41A1.32,1.32,0,0,1,12,11.46Z" fill="#011f5b"/>
+    <path d="M.13,7.31v.11s0,8.18,0,8.3c0,6.94,7.16,10.46,8.11,10.49h0a12.22,12.22,0,0,0,5.31-3.16A10.4,10.4,0,0,0,17,15.76V7.31Zm16.68.23v4.93H.36c0-2,0-4.39,0-4.93ZM8.25,26h0a10.78,10.78,0,0,1-4.43-2.72l4.77-4.82,4.56,4.68A12,12,0,0,1,8.25,26Zm7.51-6.19L8.62,12.92l0,0L1.26,19.8a9.44,9.44,0,0,1-.9-4.07c0-.05,0-1.48,0-3.15H16.81v3.18A9,9,0,0,1,15.77,19.8Z" fill="#011f5b"/>
+    <path d="M85.48,8.31H82.62V22.78a4.35,4.35,0,0,0,.42,2.3,1.86,1.86,0,0,0,1.62.59v.55H78v-.55A1.87,1.87,0,0,0,79.69,25a4.41,4.41,0,0,0,.45-2.3V8.31H77.41a5,5,0,0,0-2.85.63,2.62,2.62,0,0,0-1,2.07H73V6.69h.56a4.2,4.2,0,0,0,2.82.71h9.87a4.77,4.77,0,0,0,3-.71h.59V11h-.37A3.2,3.2,0,0,0,88.2,8.88,5.19,5.19,0,0,0,85.48,8.31Z" fill="#fff"/>
+    <path d="M99.15,20.44a5.85,5.85,0,0,1-1.82,4.39,6.77,6.77,0,0,1-9.1,0,5.85,5.85,0,0,1-1.82-4.39A5.9,5.9,0,0,1,88.23,16a6.79,6.79,0,0,1,9.11,0A5.9,5.9,0,0,1,99.15,20.44Zm-2.42,0a6.91,6.91,0,0,0-1.06-4,3.52,3.52,0,0,0-5.78,0,6.88,6.88,0,0,0-1.06,4,6.83,6.83,0,0,0,1.05,4,3.54,3.54,0,0,0,5.79,0A6.84,6.84,0,0,0,96.73,20.45Z" fill="#fff"/>
+    <path d="M112,5.58h.55V24A1.73,1.73,0,0,0,113,25.3a2.35,2.35,0,0,0,1.52.37v.55h-6.77a6.92,6.92,0,0,1-4.95-1.72A5.7,5.7,0,0,1,101,20.17a5.93,5.93,0,0,1,1.6-4.18,5.07,5.07,0,0,1,3.86-1.72,7.14,7.14,0,0,1,3.91,1.41V8.54a2.89,2.89,0,0,0-.3-1.59,1.46,1.46,0,0,0-1.24-.42h-.66V6Zm-1.68,18.34v-7a5.15,5.15,0,0,0-1.58-1.44,3.6,3.6,0,0,0-1.8-.52,3.06,3.06,0,0,0-2.57,1.31,5.54,5.54,0,0,0-1,3.41A6.72,6.72,0,0,0,104.73,24a4.55,4.55,0,0,0,3.75,1.65,2,2,0,0,0,1.41-.42A1.8,1.8,0,0,0,110.33,23.92Z" fill="#fff"/>
+    <path d="M119.33,26.59a3.33,3.33,0,0,1-2.34-.91,2.88,2.88,0,0,1-1-2.19,2.65,2.65,0,0,1,.84-2A8.81,8.81,0,0,1,120.27,20a11,11,0,0,0,2.18-.77v-.87a2.93,2.93,0,0,0-.71-2,2.43,2.43,0,0,0-1.89-.78,3,3,0,0,0-1.91.67A3.56,3.56,0,0,0,116.77,18l-.59-.16a4.51,4.51,0,0,1,1.53-2.6,4.15,4.15,0,0,1,7,3.29v5a5,5,0,0,0,.14,1.44.52.52,0,0,0,.52.38.5.5,0,0,0,.42-.22,3.4,3.4,0,0,0,.37-.91h.56a2.74,2.74,0,0,1-.68,1.73,2.07,2.07,0,0,1-1.58.64,2,2,0,0,1-2-1.65,6.1,6.1,0,0,1-1.54,1.3A3.38,3.38,0,0,1,119.33,26.59Zm3.13-2.73V19.91q-.5.21-1.44.53a5.33,5.33,0,0,0-2.24,1.18,2.39,2.39,0,0,0-.49,1.58,2.29,2.29,0,0,0,.52,1.5,1.56,1.56,0,0,0,1.24.63,2.73,2.73,0,0,0,1.38-.43A2.51,2.51,0,0,0,122.45,23.86Z" fill="#fff"/>
+    <path d="M131.66,14.62v.55q-1,.15-1,1a2,2,0,0,0,.18.76l2.79,6.58,2-6.15a4.26,4.26,0,0,0,.24-1.21q0-.94-1.17-1v-.55h4.12v.55a2.05,2.05,0,0,0-1.54.63,5.72,5.72,0,0,0-1.11,2.1l-4.63,13.72a8.73,8.73,0,0,1-1.72,3.09,3,3,0,0,1-2.14,1.14,2.83,2.83,0,0,1-1.45-.5l.76-2a2.8,2.8,0,0,0,1.13.27,2.4,2.4,0,0,0,1.73-.66,5.73,5.73,0,0,0,1.23-2.2l1.49-4.22-4.18-9.63a3.54,3.54,0,0,0-.92-1.39,2.5,2.5,0,0,0-1.44-.36v-.55Z" fill="#fff"/>
+    <ellipse cx="8.57" cy="16" rx="1.39" ry="1.34" fill="#fff"/>
+    <ellipse cx="4.57" cy="19.35" rx="1.39" ry="1.34" fill="#fff"/>
+    <ellipse cx="12.35" cy="19.35" rx="1.39" ry="1.34" fill="#fff"/>
+  </svg>
+</a>
+        <button class="menu__open js-menu-toggle" name="Menu Toggle" title="Menu">
+          <span class="visually-hidden">Open Navigation</span>
+          <svg class="menu__open-icon" width="28" height="11">
+            <path fill="none" stroke="#FFF" stroke-width="3" d="M1.5 1.5h24.515M1.5 9.5h24.515" stroke-linecap="square"/>
+          </svg>
+          <span class="menu__text">Menu</span>
+        </button>
+    </div>
+  </div>
+          <div class="article-nav__progress">
+        <div class="article-nav__progress-bar js--progress-bar">
+          <span class="visually-hidden" aria-label="Article Reading Progress"></span>
+        </div>
+      </div>
+        <div class="search-bar search-bar--condensed">
+    <form role="search" class="search-bar__header-form">
+      <fieldset class="search-bar__wrapper">
+        <input id="search-bar--condensed-input" type="search" placeholder="Search the site" class="js-search-bar-input search__header-input">
+        <label for="search-bar--condensed-input" class="visually-hidden">Search</label>
+        <button type="submit" class="js-search-bar-button search-bar__header-icon">
+          <p class="visually-hidden">Search Icon</p>
+          <svg class="search__header-svg" xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 33 33">
+            <path fill="#000127" fill-rule="evenodd" d="M1305.99318,316.019425 C1309.10677,316.019425 1312.01799,314.966024 1314.36394,313.226228 L1322.12809,321 L1325,318.124526 L1317.23585,310.391651 C1318.97511,308.042878 1320.02559,305.169186 1320.02559,302.010522 C1320.02559,294.276027 1313.75733,288 1306.03241,288 C1298.30911,288 1292,294.317328 1292,302.010522 C1292,309.703717 1298.30951,316.019425 1305.99318,316.019425 Z M1306,292 C1311.52882,292 1316,296.471181 1316,302 C1316,307.528819 1311.52882,312 1306,312 C1300.47118,312 1296,307.528819 1296,302 C1296,296.471181 1300.51264,292 1306,292 Z" transform="translate-1292 -288"/>
+          </svg>
+        </button>
+      </fieldset>
+    </form>
+  </div>
+</header>
+<main id="content" role="main">
+<div class="page">
+      
+            <div data-drupal-messages-fallback class="hidden"></div><article class="article">
+  <div class="article__wrapper">
+    <div class="article__header-wrapper">
+      <section class="article__header">
+        <span class="article__category">
+  <p class="simple-tease__category">
+  <a href="/topic/health-sciences" class="simple-tease__category__link">  Health Sciences
+</a>
+</p>
+
+</span>
+        <div class="article__title">
+          <h1 class="article__h"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Microbes that cause cavities can form superorganisms able to ‘crawl’ and spread on teeth</span>
+</h1>
+                      <h2 class="article__subhead">
+              These multicellular, cross-kingdom assemblages were more resistant to antimicrobials and removal and caused more extensive tooth decay than their single-species equivalents, according to research led by School of Dental Medicine scientists. 
+            </h2>
+                  </div>
+      </section>
+    </div>
+    <div class="article__content-wrapper">
+            <div class="article__content">
+        <section class="article__body">
+          <div data-embed-button="media_entity_embed" data-entity-embed-display="view_mode:media.column" data-entity-type="media" data-entity-uuid="29231515-136c-4803-a58f-9796a4dd98c0" data-langcode="en" class="embedded-entity">
+<figure class="img-container img-container--column"><img src="/sites/default/files/2022-10/Koo-assemblage-1.jpg" alt="Microscopie image of a group of microbes clumped together, labeled in red, blue, yellow, and green" /><figcaption class="caption">
+        Real-time microscopy enabled researchers to track the movement and behavior of a grouping of fungi and bacteria in the saliva of children with severe tooth decay. The interspecies cluster took on new functions and caused more severe decay than either species alone. (Image: Penn Dental Medicine)
+
+    </figcaption></figure></div>
+<p>A cross-kingdom partnership between bacteria and fungi can result in the two joining to form a “superorganism” with unusual strength and resilience. It may sound like the stuff of science fiction, but these microbial groupings are very much part of the here and now.</p>
+
+<p>Found in the saliva of toddlers with severe childhood tooth decay, these assemblages can effectively colonize teeth. They were stickier, more resistant to antimicrobials, and more difficult to remove from teeth than either the bacteria or the fungi alone, according to the research team, led by <a href="https://www.upenn.edu/">University of Pennsylvania</a> <a href="https://www.dental.upenn.edu/">School of Dental Medicine</a> scientists.</p>
+
+<p>What’s more, the assemblages unexpectedly sprout “limbs” that propel them to “walk” and “leap” to quickly spread on the tooth surface, despite each microbe on its own being non-motile, the team reported in the journal <a href="https://doi.org/10.1073/pnas.2209699119"><i>Proceedings of the National Academy of Sciences</i></a><i>. </i></p>
+
+<p>“This started with a very simple, almost accidental discovery, while looking at saliva samples from toddlers who develop aggressive tooth decay,” says <a href="https://www.dental.upenn.edu/faculty/hyun-michel-koo/">Hyun (Michel) Koo</a>, a professor at Penn Dental Medicine and a co-corresponding author on the paper. “Looking under the microscope, we noticed the bacteria and fungi forming these assemblages and developing motions we never thought they would possess: a ‘walking-like’ and ‘leaping-like’ mobility. They have a lot of what we call ‘emergent functions’ that bring new benefits to this assemblage that they could not achieve on their own. It’s almost like a new organism—a superorganism—with new functions.”</p>
+
+<h2><b>Better (or worse) together</b></h2>
+
+<p>In the past, Koo’s lab has focused on the dental biofilm, or plaque, present in children with severe tooth decay, discovering that both bacteria—<i>Streptococcus mutans</i>—and fungi—<i>Candida albicans</i>—<a href="https://penntoday.upenn.edu/news/penn-study-suggests-cause-severe-tooth-decay-toddlers">contribute to the disease</a>. Caries, commonly known as cavities, arise when sugars in the diet linger to feed bacteria and fungi in the mouth, leading to acid-producing dental plaque that destroys enamel.</p>
+
+<p>The new set of discoveries came about when <a href="https://www.dental.upenn.edu/news-events/2022/05/02/center-for-innovation-precision-dentistry-welcomes-inaugural-class-to-training-program/">Zhi Ren</a>, a postdoctoral fellow in Koo’s group, was using microscopy that allows scientists to visualize the behavior of living microbes in real time. The technique “opens new possibilities to investigate the dynamics of complex biological processes,” says Ren, a first author on the paper and part of the first cohort of the NIDCR T90R90 postdoctoral training program within Penn’s <a href="https://www.dental.upenn.edu/research/center-for-innovation-precision-dentistry/">Center for Innovation &amp; Precision Dentistry</a>.</p>
+
+<p>After seeing the bacterial-fungal clusters present in the saliva samples, Ren, Koo, and colleagues were curious how the groupings might behave once attached to the surface of a tooth. Thus began a series of experiments using real-time live microscopy to observe the process of attachment and eventual growth.</p>
+
+<div data-embed-button="media_entity_embed" data-entity-embed-display="view_mode:media.featured" data-entity-type="media" data-entity-uuid="762b65a4-dec1-41e0-b1c6-947da89403c6" data-langcode="en" class="embedded-entity"><div class="article__featured-img">
+  <figure class="img-container img-container--full-width"><img src="/sites/default/files/2022-10/leaping-like%20motion.png" alt="Three microscopic images labeled with green and blue show a group of microbes changing shape and moving" /><figcaption class="caption">
+                          As the assemblage grew, it also began to move, the researchers found. Fungal projections (in blue) propelled the bacteria (in green) along a tooth’s surface in a leaping-like motion. (Image: Penn Dental Medicine)
+
+                  </figcaption></figure></div>
+</div>
+<p>They created a laboratory system to recreate the formation of these assemblages, using the bacteria, fungi, and a tooth-like material, all incubated in human saliva. The platform enabled the researchers to watch the groupings come together and to analyze the structure of the resulting assemblages. They found a highly organized structure with bacterial clusters attached in a complex network of fungal yeast and filament-like projections called hyphae, all enmeshed in an extracellular polymer, a glue-like material.</p>
+
+<p>Next the team tested the properties of these cross-kingdom assemblages once they had colonized the tooth surface and found “surprising behaviors and emergent properties,” says Ren, “including enhanced surface adhesion, making them very sticky, and increased mechanical and antimicrobial tolerance, making them tough to remove or kill.”</p>
+
+<p>Perhaps the most intriguing characteristic of the assemblages, the researchers say, was their mobility. “They displayed ‘leaping-like’ and ‘walking-like’ motions while continuously growing,” Ren says.</p>
+
+<p>While some bacteria can propel themselves using appendages like flagella, the microbial species in the current study are both non-motile. And differing from any known microbial motility, the assemblages used the fungal hyphae to anchor on the surface and then propel the whole superorganism forward, transporting the attached bacteria across the surface, Koo says, “like bacteria hitchhiking on the fungi.”</p>
+
+<div data-embed-button="media_entity_embed" data-entity-embed-display="view_mode:media.left_align" data-entity-type="media" data-entity-uuid="783bd3b2-00c4-455c-b315-325da913e665" data-langcode="en" class="embedded-entity"><figure class="img-container img-container--leftalign"><img src="/sites/default/files/2018-04/koo.JPG" alt="Koo, Hyun Michel.2018" /><figcaption class="caption">
+                  Hyun (Michel) Koo
+
+            </figcaption></figure></div>
+<p>The microbial groupings moved fast and far, the researchers found. On the tooth-like surface, the team measured velocities of more than 40 microns per hour, similar to the speed of fibroblasts, a type of cell in the human body involved in wound healing. Within the first hours of growth, the scientists observed the assemblages “leaping” more than 100 microns across the surface. “That is more than 200 times their own body length,” says Ren, “making them even better than most vertebrates, relative to body size. For example, tree frogs and grasshoppers can leap forward about 50 times and 20 times their own body length, respectively.”</p>
+
+<p>Although the exact mechanisms are unknown, the assemblages’ ability to “move as they grow,” the researchers say, has one clear consequence: It enables them to quickly colonize and spread to new surfaces. When the research team allowed the assemblages to attach to and grow on real human teeth in a laboratory model, they found more extensive tooth decay as a result of a rapidly spreading biofilm.</p>
+
+<h2><b>Disease treatment and biology at large</b></h2>
+
+<p>Because these assemblages are found in saliva, targeting them early on could be a therapeutic strategy to prevent childhood tooth decay, says Koo. “If you block this binding or disrupt the assemblage before it arrives on the tooth and causes damage, that could be a preventive strategy.”</p>
+
+<p>And beyond the applications for treating this specific disease, the researchers say, the new findings might be applicable in microbial biology in general. For example, aggregated organisms found in other biological fluids or aquatic ecosystems may similarly enhance surface colonization and growth to cause infectious diseases or environmental contamination.</p>
+
+<p>“We saw that these two distinct organisms assemble together as a new organismal entity that gave each one additional benefits and functions that single cells did not have on their own,” says Koo. The findings could even shed light on the evolution of mutualism and multicellularity that enhances the survival and grow of single organisms when they unite and work together as a unit in a given environment, the team notes.</p>
+
+<p>“This discovery of a ‘bad guy’ superorganism is really ground-breaking and unanticipated,” says <a href="https://drescherlab.org/">Knut Drescher</a> of the <a href="https://www.unibas.ch/en.html">University of Basel</a>, a co-corresponding author on the paper. “No one would have predicted this. Zhi accidentally stumbled across this by keeping an open mind.”</p>
+
+<p><i>Hyun (Michel) Koo is a professor in the Department of Orthodontics and the divisions of Community Oral Health and Pediatric Dentistry in the School of Dental Medicine, and co-founder of the Center for Innovation &amp; Precision Dentistry (CiPD) at the University of Pennsylvania.</i></p>
+
+<p><i>Zhi Ren is a fellow in the National Institute of Dental and Craniofacial Research T90/R90 postdoctoral training program Advanced Training at the Interface of Engineering &amp; Oral-Craniofacial Sciences within CiPD at Penn’s School of Dental Medicine and School of Engineering &amp; Applied Science. Ren was also a Colgate-Palmolive Pediatric Dentistry Fellow (2019-21).</i></p>
+
+<p><i>Knut Drescher is an associate professor at the University of Basel’s Biozentrum in Switzerland. </i></p>
+
+<p><i>Koo and Ren’s coauthors on the paper were Penn Dental Medicine’s Aurea Simon-Soro, Zhenting Xiang, Yuan Liu, and Indira M. Cavalcanti; Philipps-Universität Marburg’s Hannah Jeckel; the University of Rochester Medical Center’s Jin Xiao; Indiana University’s Nyi-Nyi Tin and Anderson Hara; and the University of Basel’s Knut Drescher. Ren and Jeckel shared first authorship, and Drescher and Koo were co-corresponding authors. </i></p>
+
+<p><i>This work was supported in part by the National Institute for Dental and Craniofacial Research (grants DE025220 and DE031532), the Budesministerium für Bildung und Forschung (Grant TARGET-Biofilm), and the European Research Council (Grant 716743).</i></p>
+
+        </section>
+          <aside class="article__authors">
+            <div class="author-credits">
+                          <div class="author-credits__section">
+                <dt class="author-credits__dt">
+                  <h4 class="author-credits__h">Credits</h4>
+                </dt>
+              <dl class="author-credits__dl">
+                <ul class="author-credits__list">
+                                      <li class="author-credits__list-item">
+                      <span class="author-credits__text">
+                                                  <a class="author-credits__link" href="/people/katherine-unger-baillie">Katherine Unger Baillie</a>                                              </span>
+                      <span class="author-credits__title">Writer</span>
+                    </li>
+                                                                                                          </ul>
+              </dl>
+              </div>
+                                        <div class="author-credits__section">
+                  <dt class="author-credits__dt">
+                  <h4 class="author-credits__h">Date</h4>
+                  </dt>
+                  <dl class="author-credits__dl">
+                    <span class="author-credits__text"><div class="field field--name-field-date field--type-datetime field--label-hidden field__items">
+      <div class="field__item"><time datetime="2022-10-04T12:00:00Z" class="datetime">October 4, 2022</time>
+</div>
+</div></span>
+                  </dl>
+                </div>
+                                    <div class="author-credits__section">
+            <dt class="author-credits__dt">
+            <h4 class="author-credits__h">Subtopics</h4>
+            </dt>
+            <dl class="author-credits__dl">
+            <ul class="article__topics-list">
+                            <li class="article__topics-list-item">
+                <a href="/subtopic/dental-medicine" class="article__topics-link">Dental Medicine</a>,               </li>
+                            <li class="article__topics-list-item">
+                <a href="/subtopic/biology" class="article__topics-link">Biology</a>,               </li>
+                            <li class="article__topics-list-item">
+                <a href="/subtopic/infectious-diseases" class="article__topics-link">Infectious Diseases</a>,               </li>
+                            <li class="article__topics-list-item">
+                <a href="/subtopic/research" class="article__topics-link">Research</a>              </li>
+                          </ul>
+            </dl>
+            </div>
+                                    <div class="author-credits__section">
+            <dt class="author-credits__dt">
+            <h4 class="author-credits__h">Schools</h4>
+            </dt>
+            <dl class="author-credits__dl">
+            <ul class="article__topics-list">
+                            <li class="article__topics-list-item">
+                <a href="/schools/school-dental-medicine" class="article__topics-link">School of Dental Medicine</a>              </li>
+                          </ul>
+            </dl>
+            </div>
+                                    <div class="author-credits__section">
+            <dt class="author-credits__dt">
+            <h4 class="author-credits__h">Share</h4>
+            </dt>
+            <dl class="author-credits__dl">
+            <ul class="article__social-list">
+              <li class="article__social-list-item">
+                <a href="http://twitter.com/share?text=Microbes that cause cavities can form superorganisms able to ‘crawl’ and spread on teeth
+&url=https://penntoday.upenn.edu/news/microbes-cause-cavities-can-form-superorganisms-able-crawl-and-spread-teeth" title="Share - Twitter" class="article__social-link article__social-link--twitter">Twitter</a>
+              </li>
+              <li class="article__social-list-item">
+                <a href="https://www.facebook.com/sharer/sharer.php?u=https://penntoday.upenn.edu/news/microbes-cause-cavities-can-form-superorganisms-able-crawl-and-spread-teeth" title="Share - Facebook" class="article__social-link article__social-link--facebook">Facebook</a>
+              </li>
+            </ul>
+            </dl>
+            </div>
+            </div>
+          </aside>
+      </div>
+    </div>
+</div>
+<div class="article__share-tool js-share-tool">
+  <ul class="article__social-list">
+    <li class="article__socifal-list-item">
+      <a href="http://twitter.com/share?text=Microbes that cause cavities can form superorganisms able to ‘crawl’ and spread on teeth
+&url=https://penntoday.upenn.edu/news/microbes-cause-cavities-can-form-superorganisms-able-crawl-and-spread-teeth" title="Share - Twitter" class="article__social-link article__social-link--twitter">Twitter</a>
+    </li>
+    <li class="article__social-list-item">
+      <a href="https://www.facebook.com/sharer/sharer.php?u=https://penntoday.upenn.edu/news/microbes-cause-cavities-can-form-superorganisms-able-crawl-and-spread-teeth" title="Share - Facebook" class="article__social-link article__social-link--facebook">Facebook</a>
+    </li>
+  </ul>
+</div>
+</article>
+
+
+            <section class="article__related">
+  <section class="related-feature">
+        <div><style>
+.related-feature__img {
+  background-image: url('/sites/default/files/2022-10/college-hall-blue-sky.jpg');
+}
+</style>
+  <a class="related-feature__link" href="/news/penn-plans-tomorrow-together-president-magill">
+    <div class="related-feature__img-wrapper">
+      <div class="related-feature__img"></div>
+      <article class="related-feature__tease">
+        <h4 class="related-feature-heading">Read Next</h4>
+        <h3 class="related-feature__title"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Penn plans for Tomorrow, Together</span>
+</h3>
+      </article>
+    </div>
+  </a>
+</section></div>
+
+  </section>
+  <div class="tease--4-col related-tease-list">
+    <div class="container-width">
+      <div class="l-article-stream">
+          <article class="tease">
+  <div class="tease__inner-content">
+  <div class="tease__img-wrapper">
+    
+    <a class="tease__link" href="/news/keys-knowledge-penn-presidential-inaugural-traditions">
+    <img class="tease__img" 
+     loading="lazy" src="/sites/default/files/styles/teaser/public/2022-10/P-101327-Master-V1-006X%20%281%29.jpg?h=56d0ca2e&amp;itok=1aFYhpEj" alt="Archival parchments and ephemera from Archives on a table." typeof="foaf:Image"
+
+
+
+
+ />
+    </a>
+  </div>
+    </a>
+    <div class="tease__content">
+      <p class="tease__category">
+  Campus &amp; Community
+</p>
+      <a class="tease__link" href="/news/keys-knowledge-penn-presidential-inaugural-traditions">
+        <h3 class="tease__head"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Keys to knowledge: Penn presidential inaugural traditions </span>
+</h3>
+        <p class="tease__dek">The inauguration ceremony for Penn’s ninth president Liz Magill on Oct. 21 will incorporate decades-long traditions and centuries-old University symbols. </p>
+      </a>
+    </div>
+  </div>
+</article>
+  <article class="tease">
+  <div class="tease__inner-content">
+  <div class="tease__img-wrapper">
+    
+    <a class="tease__link" href="/news/bolstering-environmental-education-cobbs-creek-stem-projects-progress">
+    <img class="tease__img" 
+     loading="lazy" src="/sites/default/files/styles/teaser/public/2022-09/P-101068-Master-V1-034X%20%281%29.jpg?h=56d0ca2e&amp;itok=XUt7IQdI" alt="A group of students working on a project at Cobbs Creek." typeof="foaf:Image"
+
+
+
+
+ />
+    </a>
+  </div>
+    </a>
+    <div class="tease__content">
+      <p class="tease__category">
+  Science &amp; Technology
+</p>
+      <a class="tease__link" href="/news/bolstering-environmental-education-cobbs-creek-stem-projects-progress">
+        <h3 class="tease__head"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Bolstering environmental education in Cobbs Creek</span>
+</h3>
+        <p class="tease__dek">Through a Projects for Progress award and other University support, students in West Philadelphia are gaining greater access to STEM learning resources at the Cobbs Creek Community Environmental Center.</p>
+      </a>
+    </div>
+  </div>
+</article>
+  <article class="tease">
+  <div class="tease__inner-content">
+  <div class="tease__img-wrapper">
+    
+    <a class="tease__link" href="/news/annenberg-center-50-years-experimentation">
+    <img class="tease__img" 
+     loading="lazy" src="/sites/default/files/styles/teaser/public/2022-09/050.jpg?h=733e6470&amp;itok=JRJjGdlE" alt="philadanco dance on a blue stage" typeof="foaf:Image"
+
+
+
+
+ />
+    </a>
+  </div>
+    </a>
+    <div class="tease__content">
+      <p class="tease__category">
+  Arts, Humanities, &amp; Social Sciences
+</p>
+      <a class="tease__link" href="/news/annenberg-center-50-years-experimentation">
+        <h3 class="tease__head"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">At the Annenberg Center, 50 years of experimentation</span>
+</h3>
+        <p class="tease__dek">The Annenberg Center for the Performing Arts celebrates its 50th anniversary with a new season and a planned building expansion. Penn Today looks back at the Center’s history—and where it’s going under Penn Live Arts.</p>
+      </a>
+    </div>
+  </div>
+</article>
+  <article class="tease">
+  <div class="tease__inner-content">
+  <div class="tease__img-wrapper">
+    
+    <a class="tease__link" href="/news/decade-advancing-working-dogs-greater-good-penn-vet">
+    <img class="tease__img" 
+     loading="lazy" src="/sites/default/files/styles/teaser/public/2022-09/P-100823-Master-V1-025X.jpg?h=56d0ca2e&amp;itok=j9n_ifCL" alt="new litter of penn working dogs" typeof="foaf:Image"
+
+
+
+
+ />
+    </a>
+  </div>
+    </a>
+    <div class="tease__content">
+      <p class="tease__category">
+  Campus &amp; Community
+</p>
+      <a class="tease__link" href="/news/decade-advancing-working-dogs-greater-good-penn-vet">
+        <h3 class="tease__head"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">A decade of advancing working dogs for the greater good</span>
+</h3>
+        <p class="tease__dek">Inspired by her experience caring for working dogs following 9/11 at Ground Zero, Penn Vet Working Dog Center Director Cynthia Otto’s initial vision has grown into a thriving organization with a mission to use science to improve the breeding, training, care, and effectiveness of working dogs.</p>
+      </a>
+    </div>
+  </div>
+</article>
+
+
+
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+    </div>
+</main>
+<footer class="footer">
+  <div class="container-width">
+    <div class="prefooter">
+      <div class="prefooter__logo">
+        <span class="visually-hidden">Penn Today Logo</span>
+        <a href="https://www.upenn.edu">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 266.78 87.45">
+          <defs>
+            <style>
+              .cls-1 {
+                fill: #fff;
+              }
+
+              .cls-2 {
+                fill: #900;
+              }
+
+              .cls-3 {
+                fill: #011f5b;
+              }
+            </style>
+          </defs>
+          <title>logo-new-2</title>
+          <g id="Mark">
+            <path class="cls-1"
+              d="M99.79,34.58A21.08,21.08,0,0,0,108,35.74c9.86,0,16.12-5.33,16.12-14.38,0-7.07-3.94-16.58-16.12-16.58H99.79v29.8Zm0,21.57c0,8.24,2,10.55,7.54,10.55v2H83.44v-2c4.64,0,7.54-1.5,7.54-10.32V14.75C91,6.64,89,4.2,83.44,4.2v-2h24.24c18.32,0,25.74,9.74,25.74,18.9,0,11-8.35,17.16-23.42,17.16a76.69,76.69,0,0,1-10.21-.69V56.15Z" />
+            <path class="cls-1"
+              d="M157.31,41.66c.35-9-5.8-12.76-11-12.76-6.84,0-10.9,5.1-11.36,12.76Zm-22.38,2c-.23,18.44,10.78,23.07,16.35,23.07s8.58-2,14.49-8.58v3c-5,6.38-9.74,8.81-16.93,8.81C136,70,126.7,61,126.7,48.61s9-22.14,20.64-22.14c9.51,0,18.32,7.65,17.74,17.16Z" />
+            <path class="cls-1"
+              d="M209.61,59.75c0,5.33,1.16,7,6.95,7v2H194.65v-2c5.56,0,7.07-1.27,7.07-5.1V40.15c0-6.61-4.75-9.39-9.16-9.39-4.06,0-7.65,2.55-11.71,8V58.82c0,6.26.81,7.88,7,7.88v2H166.12v-2c5.45,0,6.84-.46,6.84-7.88V35.74c0-5-1.27-6-6.84-6v-2l12.76-1.27h2V34.7c4.87-5.57,9.62-8.23,14.84-8.23,6.84,0,13.92,4.87,13.92,14.72V59.75Z" />
+            <path class="cls-1"
+              d="M259.82,59.75c0,5.33,1.16,7,7,7v2H244.86v-2c5.56,0,7.07-1.27,7.07-5.1V40.15c0-6.61-4.75-9.39-9.16-9.39-4.06,0-7.65,2.55-11.71,8V58.82c0,6.26.81,7.88,7,7.88v2H216.33v-2c5.45,0,6.84-.46,6.84-7.88V35.74c0-5-1.27-6-6.84-6v-2l12.76-1.27h2V34.7c4.87-5.57,9.62-8.23,14.84-8.23,6.84,0,13.92,4.87,13.92,14.72V59.75Z" />
+          </g>
+          <g id="Logotype">
+            <path class="cls-1"
+              d="M85.8,80.47c0,1.84.5,3.25,2.46,3.25,1.8,0,2.75-1.21,2.75-3.32V76.75a6.58,6.58,0,0,0-.08-.72c-.07-.47-.52-.65-1.13-.72V75h3.1v.34c-.63.07-1.06.25-1.13.72a4.79,4.79,0,0,0-.08.72v3.7c0,2.83-1.8,3.89-3.5,3.89-2.8,0-3.67-1.43-3.67-3.81V76.61c0-1.22,0-1.15-1.13-1.3V75h3.54v.34c-1.19.15-1.13.08-1.13,1.3v3.86Z" />
+            <path class="cls-1"
+              d="M100.35,84.18l-4.94-5.86v4.49a3.86,3.86,0,0,0,.06.54c0,.37.39.51,1.06.56v.27H94.05v-.27c.48,0,.82-.19.87-.56a3.86,3.86,0,0,0,.06-.54V78a1.41,1.41,0,0,0-1.18-.69v-.27h1.85c1.51,1.84,3.09,3.71,4.6,5.54h0V78.44a4.21,4.21,0,0,0-.06-.55c0-.36-.4-.5-1.07-.55v-.27h2.49v.27c-.48,0-.82.19-.87.55a2.94,2.94,0,0,0-.07.55v5.74Z" />
+            <path class="cls-1"
+              d="M105.56,82.91c0,.94,0,.89.87,1v.27H103.7v-.27c.91-.11.87-.06.87-1V78.34c0-.94,0-.89-.87-1v-.27h2.73v.27c-.91.11-.87.06-.87,1v4.57Z" />
+            <path class="cls-1"
+              d="M110.75,77.34c-.55,0-1,.16-.63,1.13.4,1.2,1,3,1.52,4.49.65-1.55,1.27-3.12,1.9-4.67.25-.64,0-1-.71-1v-.27H115v.27a.86.86,0,0,0-.85.61c-.85,2.08-1.71,4.15-2.56,6.23h-.52c-.62-1.76-1.31-3.72-1.93-5.44-.38-1.09-.69-1.4-1.18-1.4v-.27h2.76v.27Z" />
+            <path class="cls-1"
+              d="M116.59,83.91c.91-.11.87-.06.87-1V78.34c0-.94,0-.89-.87-1v-.27h4.54v1.64h-.27c-.1-.75-.3-1.31-1-1.31h-1.38v2.9h.85c.64,0,.91-.25.93-.88h.27v2.16h-.27c0-.6-.25-1-.93-1h-.85v2.3c0,.86.39.93,1.31.93,1.47,0,1.4-.41,1.87-1.5h.26l-.31,1.83h-5v-.27Z" />
+            <path class="cls-1"
+              d="M125.3,80.71h.84c.89,0,1.29-.67,1.29-1.82s-.61-1.49-1.35-1.49h-.78v3.31Zm-1.86-3.64h3a1.82,1.82,0,0,1,2,1.73A2.18,2.18,0,0,1,127,80.87l1,1.51a7.26,7.26,0,0,0,1.43,1.67v.13h-1c-.6,0-.93-1.11-2.16-3.15h-1v1.88c0,.94,0,.89.87,1v.27h-2.73v-.27c.92-.11.87-.06.87-1V78.34c0-.94,0-.89-.87-1v-.27Z" />
+            <path class="cls-1"
+              d="M134.48,78.58a1.27,1.27,0,0,0-1.28-1.27,1,1,0,0,0-1.12,1c0,.71.71,1.14,1.73,1.9s1.42,1.32,1.42,2.16c0,1.21-1.24,1.88-2.46,1.88A4.72,4.72,0,0,1,131,84a.15.15,0,0,1-.08-.15V82.37h.27a1.57,1.57,0,0,0,1.63,1.57,1.28,1.28,0,0,0,1.31-1.28c0-.66-.35-1.2-1.88-2.21a2.07,2.07,0,0,1-1.22-1.87c0-.91,1-1.63,2.18-1.63a4.86,4.86,0,0,1,1.42.19.1.1,0,0,1,.07.11v1.33Z" />
+            <path class="cls-1"
+              d="M138.91,82.91c0,.94,0,.89.87,1v.27h-2.73v-.27c.92-.11.88-.06.88-1V78.34c0-.94,0-.89-.88-1v-.27h2.73v.27c-.91.11-.87.06-.87,1v4.57Z" />
+            <path class="cls-1"
+              d="M144.8,82.91c0,.94,0,.89.87,1v.27h-2.73v-.27c.92-.11.87-.06.87-1V77.4h-.91c-.88,0-1.09.56-1.42,1.23h-.25l.27-1.56h5.61l.28,1.56h-.26c-.33-.67-.53-1.23-1.42-1.23h-.91v5.51Z" />
+            <path class="cls-1"
+              d="M150.34,83.91c.91-.11.88-.06.88-1V81.35l-1.57-3.1c-.33-.66-.62-.91-1.08-.91v-.27h2.58v.27c-.77,0-.7.38-.44.91l1.23,2.55,1.4-2.55c.34-.62,0-.91-.58-.91v-.27h2.09v.27c-.29,0-.56.13-.83.62L152.32,81a1.77,1.77,0,0,0-.12.74v1.14c0,.94,0,.89.87,1v.27h-2.73v-.27Z" />
+            <path class="cls-1"
+              d="M164.07,79.18c0-1.37-.82-1.42-1-1.42-1.43,0-2.36,2.55-2.36,4.26,0,.68.12,1.92,1.09,1.92,1.5,0,2.3-2.47,2.3-4.76Zm-4.6,2.57c0-1.73,1.49-4.31,3.68-4.31,1.75,0,2.13,1.19,2.13,2.37,0,1.45-1.15,4.53-3.67,4.53-1.68,0-2.14-1.36-2.14-2.59Z" />
+            <path class="cls-1"
+              d="M171.9,77.88l-.31.27h-1.73a77.91,77.91,0,0,1-2.44,9.3h-.6l1.89-9.3h-1.25l.11-.55h1.24a3.77,3.77,0,0,1,3.57-3.09,2.19,2.19,0,0,1,1.13.24l-.16.86-.33.16a1.37,1.37,0,0,0-1.16-.76c-.79,0-1.38.54-1.7,2l-.14.63H172l-.06.28Z" />
+            <path class="cls-1"
+              d="M179.93,82.53c0,1.23-.06,1.16,1.13,1.31v.34h-3.54v-.34c1.18-.15,1.13-.08,1.13-1.31V76.61c0-1.22,0-1.15-1.13-1.3V75H181c2.18,0,3.26.87,3.26,2.45,0,1.89-1.71,2.92-3.72,2.8V80a2.16,2.16,0,0,0,2.4-2.41,1.9,1.9,0,0,0-2.18-2.16h-.8v7.14Z" />
+            <path class="cls-1"
+              d="M186,83.91c.92-.11.88-.06.88-1V78.34c0-.94,0-.89-.88-1v-.27h4.54v1.64h-.26c-.11-.75-.31-1.31-1-1.31H187.9v2.9h.85c.64,0,.92-.25.94-.88H190v2.16h-.26c0-.6-.26-1-.94-1h-.85v2.3c0,.86.4.93,1.31.93,1.47,0,1.4-.41,1.87-1.5h.26l-.3,1.83h-5v-.27Z" />
+            <path class="cls-1"
+              d="M199.4,84.18l-4.94-5.86v4.49a3.86,3.86,0,0,0,.06.54c0,.37.39.51,1.06.56v.27H193.1v-.27c.48,0,.82-.19.87-.56a3.86,3.86,0,0,0,.06-.54V78a1.41,1.41,0,0,0-1.18-.69v-.27h1.85c1.51,1.84,3.09,3.71,4.6,5.54h0V78.44a4.21,4.21,0,0,0-.06-.55c0-.36-.4-.5-1.07-.55v-.27h2.49v.27c-.48,0-.82.19-.87.55a4.11,4.11,0,0,0-.07.55v5.74Z" />
+            <path class="cls-1"
+              d="M208.5,84.18c-1.62-1.91-3.29-3.91-4.95-5.86v4.49a3.86,3.86,0,0,0,.06.54c0,.37.4.51,1.07.56v.27h-2.49v-.27c.49,0,.82-.19.87-.56a2.73,2.73,0,0,0,.07-.54V78a1.42,1.42,0,0,0-1.18-.69v-.27h1.85c1.51,1.84,3.08,3.71,4.59,5.54h0V78.44a4.11,4.11,0,0,0-.07-.55c0-.36-.39-.5-1.06-.55v-.27h2.48v.27c-.47,0-.82.19-.87.55a4.21,4.21,0,0,0-.06.55v5.74Z" />
+            <path class="cls-1"
+              d="M215.1,78.58a1.26,1.26,0,0,0-1.28-1.27,1,1,0,0,0-1.11,1c0,.71.71,1.14,1.72,1.9s1.43,1.32,1.43,2.16c0,1.21-1.24,1.88-2.46,1.88a4.81,4.81,0,0,1-1.74-.32.17.17,0,0,1-.07-.15V82.37h.27a1.57,1.57,0,0,0,1.63,1.57,1.28,1.28,0,0,0,1.31-1.28c0-.66-.35-1.2-1.88-2.21a2.06,2.06,0,0,1-1.23-1.87c0-.91,1-1.63,2.18-1.63a4.89,4.89,0,0,1,1.43.19.1.1,0,0,1,.07.11v1.33Z" />
+            <path class="cls-1"
+              d="M219.19,83.91c.92-.11.88-.06.88-1V81.35l-1.57-3.1c-.33-.66-.61-.91-1.08-.91v-.27H220v.27c-.77,0-.7.38-.45.91l1.23,2.55,1.4-2.55c.34-.62,0-.91-.58-.91v-.27h2.09v.27c-.28,0-.56.13-.83.62L221.17,81a1.77,1.77,0,0,0-.12.74v1.14c0,.94,0,.89.87,1v.27h-2.73v-.27Z" />
+            <path class="cls-1"
+              d="M225.36,83.91c.92-.11.88-.06.88-1V78.34c0-.94,0-.89-.88-1v-.27h2.74v.27c-.92.11-.88.06-.88,1v4.73c0,.71.4.78,1.3.78,1.47,0,1.41-.41,1.88-1.5h.26l-.31,1.83h-5v-.27Z" />
+            <path class="cls-1"
+              d="M234.2,77.34c-.56,0-1,.16-.63,1.13.39,1.2,1,3,1.51,4.49.65-1.55,1.27-3.12,1.9-4.67.25-.64,0-1-.7-1v-.27h2.19v.27a.85.85,0,0,0-.84.61c-.86,2.08-1.72,4.15-2.57,6.23h-.52c-.62-1.76-1.31-3.72-1.93-5.44-.37-1.09-.69-1.4-1.17-1.4v-.27h2.76v.27Z" />
+            <path class="cls-1"
+              d="M242.61,81.44l-1.07-3.3h0l-1.21,3.3Zm-2.45.38-.47,1.36a.51.51,0,0,0,.51.73v.27h-1.85v-.27a.84.84,0,0,0,.73-.5c.44-.9,1.62-4.22,2.47-6.46h.57c.69,2,1.72,5.17,2.07,6.07.22.57.38.89.82.89v.27h-2.37v-.27c.64,0,.7-.33.54-.78l-.44-1.31Z" />
+            <path class="cls-1"
+              d="M252.82,84.18l-4.94-5.86v4.49a3.86,3.86,0,0,0,.06.54c.05.37.4.51,1.07.56v.27h-2.49v-.27c.49,0,.82-.19.87-.56a3.86,3.86,0,0,0,.06-.54V78a1.39,1.39,0,0,0-1.17-.69v-.27h1.84c1.52,1.84,3.09,3.71,4.6,5.54h0V78.44a4.21,4.21,0,0,0-.06-.55c-.05-.36-.39-.5-1.06-.55v-.27h2.48v.27c-.47,0-.82.19-.87.55a4.21,4.21,0,0,0-.06.55v5.74Z" />
+            <path class="cls-1"
+              d="M257.62,82.91c0,.94,0,.89.88,1v.27h-2.73v-.27c.91-.11.87-.06.87-1V78.34c0-.94,0-.89-.87-1v-.27h2.73v.27c-.91.11-.88.06-.88,1v4.57Z" />
+            <path class="cls-1"
+              d="M264.32,81.44l-1.07-3.3h0L262,81.44Zm-2.45.38-.47,1.36a.51.51,0,0,0,.51.73v.27h-1.85v-.27a.84.84,0,0,0,.73-.5c.44-.9,1.63-4.22,2.47-6.46h.57c.69,2,1.72,5.17,2.07,6.07.22.57.38.89.82.89v.27h-2.36v-.27c.63,0,.69-.33.53-.78l-.43-1.31Z" />
+          </g>
+          <g id="Shield">
+            <g id="Shield-2" data-name="Shield">
+              <path class="cls-1"
+                d="M75.38,0H0V37.57C0,53.93,9,65.78,16.63,72.84,25,80.6,34.23,85.07,37.31,85.75l.38.08.38-.09c3.08-.67,12.31-5.14,20.68-12.9,7.61-7.06,16.68-18.91,16.63-35.27V0Z" />
+              <path class="cls-2"
+                d="M70.74,15.73h0a1.42,1.42,0,0,1,.3.3.78.78,0,0,1,0,.86,1.42,1.42,0,0,1-.3.3c-.17.13-.33.26-.33.48V19H54.6V17.67c0-.22-.16-.35-.33-.48a1.47,1.47,0,0,1-.31-.3A.83.83,0,0,1,54,16a1.47,1.47,0,0,1,.31-.3c.17-.13.33-.26.33-.48V10.88c0-.22-.16-.34-.33-.48a1.22,1.22,0,0,1-.31-.29.75.75,0,0,1-.12-.44A.74.74,0,0,1,54,9.24,1.22,1.22,0,0,1,54.27,9c.17-.13.33-.26.33-.48V7.09h.2a6.41,6.41,0,0,0,2.3-.26,4.55,4.55,0,0,0,.67-.38,3.29,3.29,0,0,1,1.85-.64,4.93,4.93,0,0,1,1.82.46,3.28,3.28,0,0,0,1,.3h.11a3.35,3.35,0,0,0,1-.3,4.83,4.83,0,0,1,1.81-.46,3.28,3.28,0,0,1,1.86.65,4.38,4.38,0,0,0,.67.37,6.32,6.32,0,0,0,2.29.26h.21V8.47c0,.22.16.35.33.48a1.37,1.37,0,0,1,.3.29.76.76,0,0,1,.13.44.75.75,0,0,1-.13.43,1.18,1.18,0,0,1-.3.29c-.17.14-.33.26-.33.48v4.37c0,.22.16.35.33.48ZM51.36,18a6.08,6.08,0,0,1-3.68,2.45,8.42,8.42,0,0,1-1.42.12h0c-2.46,0-4.74-1.07-7-2.26l-.86-.47c-1.47-.8-3.53-1.93-5.27-1.93a3,3,0,0,0-1.42.32l-.07,0v.08a2.2,2.2,0,0,1-.12.64,5.15,5.15,0,0,1-1.63,1.85A6.53,6.53,0,0,1,26,20.33a1.83,1.83,0,0,1-.64-.1,1.5,1.5,0,0,1-.7-.48,2.22,2.22,0,0,1-.21-.37,1.79,1.79,0,0,1-.09-.35v-.09l-.09,0a1.16,1.16,0,0,1-1-1.05,1.65,1.65,0,0,1,.53-1c.4-.48.74-.89.18-1.42l-.18-.14a1.43,1.43,0,0,1-.23-.2c-.49-.53-.2-1.63,0-2.29l0-.08a11.67,11.67,0,0,1,.9-2.28,9.73,9.73,0,0,1,2.16-3.14l.07,0s.05,0,.06,0l.27.43.16.27.09-.29a2.24,2.24,0,0,1,1.29-1.51,1.66,1.66,0,0,1,1.51.31l.12.09.09-.13a1.33,1.33,0,0,1,1.11-.7,2,2,0,0,1,1.42.67l.09.09.1-.08a2.57,2.57,0,0,1,1.78-.69,1.34,1.34,0,0,1,1.06,1l0,.16.15-.08a1.64,1.64,0,0,1,1.6,0,1,1,0,0,1,.41,1l0,.19.18,0a2.1,2.1,0,0,1,1.81.38,1.52,1.52,0,0,1,.37,1.29l0,.18.18,0a1.21,1.21,0,0,1,1.23.44,1.28,1.28,0,0,1,.06,1l0,.14.14,0a1,1,0,0,1,.77.54,2,2,0,0,1-.08,1.14l0,.13.11.05a1.46,1.46,0,0,1,.78.68,1.7,1.7,0,0,1,0,1.43l0,.09.07.07c.53.46,1.06.89,1.58,1.27,1,.76,2.69,1.17,3.8.25a1.56,1.56,0,0,0,.47-1.57,1.24,1.24,0,0,0-.95-1c-.85-.19-1.51.61-2.06,1.42a.09.09,0,0,1-.08,0,.13.13,0,0,1-.07-.06A3.24,3.24,0,0,1,46.17,13a2.81,2.81,0,0,1,2-1.24l.12,0v-.12a4,4,0,0,1,1-3.06,2.9,2.9,0,0,1,2.46-.62.08.08,0,0,1,.06,0,.11.11,0,0,1,0,.08,6,6,0,0,0-.19,5c0,.16.09.34.14.52h0A5.51,5.51,0,0,1,51.36,18ZM21.11,15.73h0a1.47,1.47,0,0,1,.31.3.83.83,0,0,1,0,.86,1.47,1.47,0,0,1-.31.3c-.17.13-.33.26-.33.48V19H5V17.67c0-.22-.16-.35-.33-.48a1.42,1.42,0,0,1-.3-.3.78.78,0,0,1,0-.86,1.42,1.42,0,0,1,.3-.3c.17-.13.33-.26.33-.48V10.88c0-.22-.16-.34-.33-.48a1.18,1.18,0,0,1-.3-.29.76.76,0,0,1-.13-.44.75.75,0,0,1,.13-.43A1.37,1.37,0,0,1,4.64,9c.17-.13.33-.26.33-.48V7.09h.21a6.32,6.32,0,0,0,2.29-.26,3.72,3.72,0,0,0,.67-.38A3.35,3.35,0,0,1,10,5.81a4.83,4.83,0,0,1,1.81.46,3.35,3.35,0,0,0,1,.3h.11a3.4,3.4,0,0,0,1-.3,4.83,4.83,0,0,1,1.81-.46,3.22,3.22,0,0,1,1.85.65,5.58,5.58,0,0,0,.67.37,6.41,6.41,0,0,0,2.3.26h.2V8.47c0,.22.16.35.33.48a1.22,1.22,0,0,1,.31.29.75.75,0,0,1,.12.44.74.74,0,0,1-.12.43,1.22,1.22,0,0,1-.31.29c-.17.14-.33.26-.33.48v4.37c0,.22.16.35.33.48ZM1.91,2s.1,21.84,0,21.74H73.48V2Z" />
+              <path class="cls-3"
+                d="M26.56,14.79a1.13,1.13,0,0,1,.73.26,2,2,0,0,1,.21.19.38.38,0,0,1,0,.56c-.18.15-.38.29-.51.38-.29.2-.79.56-1.13.28-.18-.15.17-.39,0-1s.34-.68.7-.68Z" />
+              <path class="cls-3"
+                d="M26.68,7.75a10.16,10.16,0,0,0-1.89,2.86,11,11,0,0,0-.87,2.22l0,.08c-.14.51-.43,1.59,0,2a1.6,1.6,0,0,0,.19.16,1.56,1.56,0,0,1,.2.16c.78.74.24,1.38-.16,1.85a1.48,1.48,0,0,0-.45.78c0,.55.67.74.87.79a.22.22,0,0,1,.18.2,1.3,1.3,0,0,0,.08.41,1.17,1.17,0,0,0,.17.29,1.21,1.21,0,0,0,.55.39A1.8,1.8,0,0,0,26,20a6.27,6.27,0,0,0,3.63-1.42,4.63,4.63,0,0,0,1.51-1.7,1.79,1.79,0,0,0,.11-.47l-1-.17h0A.27.27,0,0,1,30,16c0-.21.15-.33.51-.58l.33-.23c.53-.39,1-.71,1.22-.88a8.32,8.32,0,0,1-.73-1,5.24,5.24,0,0,0-.4-.57,1.73,1.73,0,0,0-2.13-.42A6.32,6.32,0,0,0,28,13a6.44,6.44,0,0,1-.7.57.23.23,0,0,1-.29-.35l.12-.1c.33-.32,1.1-1.05,1.1-1.56a9.84,9.84,0,0,0-1.55-3.83Zm6.42,7.86c1.78,0,3.81,1.11,5.4,2l.85.46c2.72,1.4,5.39,2.62,8.27,2.11a5.83,5.83,0,0,0,3.48-2.31,5.28,5.28,0,0,0,.39-4.23l-.15-.52a6.35,6.35,0,0,1,.1-4.89,2.51,2.51,0,0,0-1.91.57,3.74,3.74,0,0,0-.9,3,.24.24,0,0,1-.2.24,2.55,2.55,0,0,0-2,1.11,2.67,2.67,0,0,0-.06,2.27c.44-.6,1.18-1.41,2.13-1.2a1.57,1.57,0,0,1,1.19,1.23,1.9,1.9,0,0,1-.57,1.89c-1.24,1-3,.59-4.19-.25a26.17,26.17,0,0,1-4.1-3.81c-.24-.28-.49-.56-.72-.84a20.59,20.59,0,0,0-2.9-2.93A7.94,7.94,0,0,0,32.08,8,9.55,9.55,0,0,0,27.94,9.1a6.44,6.44,0,0,1,.75,2.48,1.33,1.33,0,0,1-.07.38,2.17,2.17,0,0,1,2.66.53,5.63,5.63,0,0,1,.45.62,6,6,0,0,0,.85,1.1.26.26,0,0,1,.07.18.23.23,0,0,1-.1.17s-.59.42-1.42,1l-.34.24-.06,0,.73.12a3.31,3.31,0,0,1,1.64-.39Zm13.16,5.12c-2.47,0-4.78-1.07-7.11-2.28L38.28,18c-1.88-1-4.71-2.58-6.55-1.61a2.49,2.49,0,0,1-.14.68A5.14,5.14,0,0,1,29.91,19,6.65,6.65,0,0,1,26,20.47a2.17,2.17,0,0,1-.69-.1,1.66,1.66,0,0,1-.76-.54,1.74,1.74,0,0,1-.23-.4,1.78,1.78,0,0,1-.1-.38,1.3,1.3,0,0,1-1.06-1.19,1.73,1.73,0,0,1,.56-1.07c.44-.53.64-.8.19-1.23l-.16-.13a1.55,1.55,0,0,1-.25-.21c-.55-.59-.25-1.74-.06-2.43l0-.07a11.35,11.35,0,0,1,.9-2.32,10.07,10.07,0,0,1,2.2-3.18.24.24,0,0,1,.18,0,.25.25,0,0,1,.16.1c0,.05.42.64.82,1.42a10.28,10.28,0,0,1,4.33-1.12A8.29,8.29,0,0,1,37.5,9.15a20.46,20.46,0,0,1,3,3l.72.82a25.3,25.3,0,0,0,4,3.75c1,.74,2.58,1.13,3.63.26a1.43,1.43,0,0,0,.42-1.43,1.13,1.13,0,0,0-.84-.89c-.76-.16-1.39.6-1.91,1.37a.24.24,0,0,1-.21.1.25.25,0,0,1-.19-.14,3.35,3.35,0,0,1-.06-3.07,3,3,0,0,1,2.12-1.31,4,4,0,0,1,1-3.17,3.08,3.08,0,0,1,2.58-.65A.21.21,0,0,1,52,7.9a.24.24,0,0,1,0,.2,5.87,5.87,0,0,0-.2,4.88c0,.17.1.34.14.52a5.6,5.6,0,0,1-.44,4.59,6.22,6.22,0,0,1-3.78,2.52,8.75,8.75,0,0,1-1.44.12Z" />
+              <path class="cls-3"
+                d="M25.14,19.16a4.82,4.82,0,0,1-.65,0,.22.22,0,0,1-.2-.25.23.23,0,0,1,.25-.2A4.46,4.46,0,0,0,28.4,17.3a.25.25,0,0,1,.33,0,.24.24,0,0,1,0,.33,4.92,4.92,0,0,1-3.59,1.54Z" />
+              <path class="cls-3"
+                d="M43.39,15.75l-.09,0a.23.23,0,0,1-.11-.28,1.58,1.58,0,0,0,.1-1.34,1.25,1.25,0,0,0-.79-.6.26.26,0,0,1-.14-.11.25.25,0,0,1,0-.17,2.27,2.27,0,0,0,.15-1.15c-.1-.27-.61-.38-.77-.4a.23.23,0,0,1-.18-.3,1.22,1.22,0,0,0,.05-.93c-.34-.53-1.22-.27-1.23-.27a.2.2,0,0,1-.21-.06.19.19,0,0,1,0-.21,1.44,1.44,0,0,0-.24-1.31C39.28,8,38,8.35,38,8.36a.2.2,0,0,1-.21-.06.19.19,0,0,1,0-.21s.21-.69-.23-1A1.48,1.48,0,0,0,36,7.25a.22.22,0,0,1-.21,0,.19.19,0,0,1-.12-.17s-.12-.9-.89-1a2.53,2.53,0,0,0-1.7.74.19.19,0,0,1-.16.06.21.21,0,0,1-.16-.08,1.79,1.79,0,0,0-1.31-.72,1.19,1.19,0,0,0-1,.75.18.18,0,0,1-.15.13.21.21,0,0,1-.2-.05,1.53,1.53,0,0,0-1.42-.41c-.9.33-1.15,1.43-1.24,1.79v0a.21.21,0,0,1-.25.15.2.2,0,0,1-.16-.25h0a2.76,2.76,0,0,1,1.51-2.1,1.77,1.77,0,0,1,1.64.33,1.54,1.54,0,0,1,1.24-.78A2.11,2.11,0,0,1,33,6.39a2.7,2.7,0,0,1,1.89-.72A1.48,1.48,0,0,1,36,6.75a1.73,1.73,0,0,1,1.73,0,1.13,1.13,0,0,1,.48,1.12,2.2,2.2,0,0,1,1.93.42,1.67,1.67,0,0,1,.41,1.41,1.35,1.35,0,0,1,1.37.51A1.34,1.34,0,0,1,42,11.3a1.19,1.19,0,0,1,.87.63,2.34,2.34,0,0,1-.08,1.24,1.64,1.64,0,0,1,.85.74,2,2,0,0,1-.09,1.71.21.21,0,0,1-.19.13Z" />
+              <path class="cls-3"
+                d="M42.33,18.68h0a.2.2,0,0,1-.18-.23c.09-.82-.38-1-.81-1.1a1,1,0,0,1-.28-.11c-.23-.13-.23-.4-.24-.68a1.36,1.36,0,0,0-.25-.91c-.4-.44-1.18-.15-1.19-.15a.23.23,0,0,1-.21,0,.2.2,0,0,1-.07-.2A1.61,1.61,0,0,0,38.7,14a2,2,0,0,0-1.49-.21.2.2,0,0,1-.18,0,.22.22,0,0,1-.08-.18,1.31,1.31,0,0,0-.58-1.25,1.05,1.05,0,0,0-1.09-.08,1.61,1.61,0,0,1-2.18-.15,1,1,0,0,0-.87-.2,1.58,1.58,0,0,0-.92.89.22.22,0,0,1-.29.1.22.22,0,0,1-.1-.28,2,2,0,0,1,1.21-1.13,1.47,1.47,0,0,1,1.22.27c.78.56,1,.54,1.73.12a1.51,1.51,0,0,1,1.52.1,1.76,1.76,0,0,1,.78,1.38,2.12,2.12,0,0,1,1.59.34A1.76,1.76,0,0,1,39.51,15a1.4,1.4,0,0,1,1.34.35,1.68,1.68,0,0,1,.36,1.17,1,1,0,0,0,0,.34l.19.07a1.31,1.31,0,0,1,1.1,1.55.22.22,0,0,1-.21.18Z" />
+              <path class="cls-3"
+                d="M21.24,16.47a.37.37,0,0,1-.07.25,1.06,1.06,0,0,1-.24.23.91.91,0,0,0-.45.72v1H5.28v-1A.91.91,0,0,0,4.83,17a.88.88,0,0,1-.24-.23.38.38,0,0,1-.08-.25h0a.42.42,0,0,1,.08-.26A.86.86,0,0,1,4.83,16a.91.91,0,0,0,.45-.72V10.88a.89.89,0,0,0-.45-.71,1.06,1.06,0,0,1-.24-.23.4.4,0,0,1-.08-.26h0a.42.42,0,0,1,.08-.26.86.86,0,0,1,.24-.22.91.91,0,0,0,.45-.72v-1h0c.39,0,.78,0,1.14,0v10H12a.92.92,0,0,0,1.78,0h5.54v-10c.36,0,.74,0,1.14,0h0v1a.91.91,0,0,0,.45.72,1,1,0,0,1,.24.22.41.41,0,0,1,.07.26h0a.39.39,0,0,1-.07.26,1.33,1.33,0,0,1-.24.23.89.89,0,0,0-.45.71v4.37a.91.91,0,0,0,.45.72,1,1,0,0,1,.24.22.41.41,0,0,1,.07.26h0ZM7.62,7.16a4.57,4.57,0,0,0,.72-.4A2.91,2.91,0,0,1,10,6.17a4.49,4.49,0,0,1,1.67.44,4.66,4.66,0,0,0,1,.31V15.7h-.05a9.59,9.59,0,0,0-1.72.45l-.67.21a7.31,7.31,0,0,1-2,.21A8,8,0,0,0,7,16.64V7.36a2.89,2.89,0,0,0,.67-.2Zm6.46-.55a4.54,4.54,0,0,1,1.68-.44,3,3,0,0,1,1.66.59,4.57,4.57,0,0,0,.72.4,2.89,2.89,0,0,0,.67.2v9.28a8,8,0,0,0-1.23-.06,7.35,7.35,0,0,1-2-.21l-.67-.21a9.59,9.59,0,0,0-1.72-.45h0V6.91a4.14,4.14,0,0,0,.93-.3Zm7.12,9c-.17-.14-.27-.23-.27-.37V10.88c0-.14.1-.22.27-.36a1.33,1.33,0,0,0,.34-.33,1,1,0,0,0,0-1,1.33,1.33,0,0,0-.34-.33c-.17-.13-.27-.22-.27-.36V7h-.35a6.38,6.38,0,0,1-2.24-.25,5.37,5.37,0,0,1-.65-.37,3.44,3.44,0,0,0-1.93-.67,5.1,5.1,0,0,0-1.87.47,3.13,3.13,0,0,1-1,.29h-.11a3.13,3.13,0,0,1-1-.29A5,5,0,0,0,10,5.66a3.41,3.41,0,0,0-1.93.67,5.37,5.37,0,0,1-.65.37A6.41,6.41,0,0,1,5.18,7H4.83V8.47c0,.14-.1.23-.28.36a1.47,1.47,0,0,0-.33.33.8.8,0,0,0-.15.52.79.79,0,0,0,.15.51,1.47,1.47,0,0,0,.33.33c.18.14.28.22.28.36v4.37c0,.14-.1.23-.28.37a1.66,1.66,0,0,0-.33.32.81.81,0,0,0-.15.52.79.79,0,0,0,.15.51,1.47,1.47,0,0,0,.33.33c.18.14.28.22.28.37v1.48H20.94V17.67c0-.15.1-.23.27-.37a1.33,1.33,0,0,0,.34-.33.92.92,0,0,0,.15-.51,1,1,0,0,0-.15-.52,1.47,1.47,0,0,0-.34-.32Z" />
+              <path class="cls-3"
+                d="M70.87,16.47a.38.38,0,0,1-.08.25.88.88,0,0,1-.24.23.91.91,0,0,0-.45.72v1H54.9v-1a.91.91,0,0,0-.45-.72,1.06,1.06,0,0,1-.24-.23.37.37,0,0,1-.07-.25h0a.41.41,0,0,1,.07-.26,1,1,0,0,1,.24-.22.91.91,0,0,0,.45-.72V10.88a.89.89,0,0,0-.45-.71,1.33,1.33,0,0,1-.24-.23.39.39,0,0,1-.07-.26h0a.41.41,0,0,1,.07-.26,1,1,0,0,1,.24-.22.91.91,0,0,0,.45-.72v-1h0c.4,0,.78,0,1.15,0v10h5.53a.93.93,0,0,0,1.79,0h5.53v-10c.36,0,.75,0,1.14,0h0v1a.91.91,0,0,0,.45.72.86.86,0,0,1,.24.22.42.42,0,0,1,.08.26h0a.4.4,0,0,1-.08.26,1.06,1.06,0,0,1-.24.23.89.89,0,0,0-.45.71v4.37a.91.91,0,0,0,.45.72.86.86,0,0,1,.24.22.42.42,0,0,1,.08.26h0ZM57.24,7.16a4.57,4.57,0,0,0,.72-.4,3,3,0,0,1,1.66-.59,4.54,4.54,0,0,1,1.68.44,4.42,4.42,0,0,0,1,.31V15.7h0a9.74,9.74,0,0,0-1.71.45l-.68.21a7.27,7.27,0,0,1-2,.21,8.11,8.11,0,0,0-1.23.06V7.36a2.89,2.89,0,0,0,.67-.2Zm6.47-.55a4.49,4.49,0,0,1,1.67-.44A2.91,2.91,0,0,1,67,6.76a5.07,5.07,0,0,0,.72.4,3,3,0,0,0,.68.2v9.28a8.11,8.11,0,0,0-1.23-.06,7.27,7.27,0,0,1-2-.21l-.68-.21a9.74,9.74,0,0,0-1.71-.45h0V6.91a4.38,4.38,0,0,0,.94-.3Zm7.12,9c-.18-.14-.28-.23-.28-.37V10.88c0-.14.1-.22.28-.36a1.47,1.47,0,0,0,.33-.33.79.79,0,0,0,.15-.51.8.8,0,0,0-.15-.52,1.47,1.47,0,0,0-.33-.33c-.18-.13-.28-.22-.28-.36V7H70.2A6.41,6.41,0,0,1,68,6.7a5.37,5.37,0,0,1-.65-.37,3.44,3.44,0,0,0-1.93-.67,5,5,0,0,0-1.86.47,3.13,3.13,0,0,1-1,.29h-.11a3.13,3.13,0,0,1-1-.29,5.1,5.1,0,0,0-1.87-.47,3.44,3.44,0,0,0-1.93.67A5.37,5.37,0,0,1,57,6.7,6.38,6.38,0,0,1,54.8,7h-.35V8.47c0,.14-.1.23-.27.36a1.33,1.33,0,0,0-.34.33,1,1,0,0,0,0,1,1.33,1.33,0,0,0,.34.33c.17.14.27.22.27.36v4.37c0,.14-.1.23-.27.37a1.47,1.47,0,0,0-.34.32,1,1,0,0,0-.15.52.92.92,0,0,0,.15.51,1.33,1.33,0,0,0,.34.33c.17.14.27.22.27.37v1.48H70.56V17.67c0-.15.1-.23.28-.37a1.47,1.47,0,0,0,.33-.33.79.79,0,0,0,.15-.51.81.81,0,0,0-.15-.52,1.66,1.66,0,0,0-.33-.32Z" />
+              <path class="cls-3"
+                d="M68.92,55.31,37.69,25.18,6.46,55.31a40.57,40.57,0,0,1-4-17.73V24.22h70.5V37.58a40.57,40.57,0,0,1-4,17.73ZM59,58.45a6.21,6.21,0,1,1,0-8.78,6.2,6.2,0,0,1,0,8.78ZM31.48,38.65a6.21,6.21,0,1,1,6.21,6.21,6.21,6.21,0,0,1-6.21-6.21Zm25.61,32.4C48.71,78.82,40,82.74,37.69,83.33c-2.33-.59-11-4.51-19.4-12.28l-.62-.58,20-21.25,20,21.25-.62.58ZM16.43,58.45a6.21,6.21,0,1,1,8.78,0,6.2,6.2,0,0,1-8.78,0Zm56.51-56V23.21H2.44V2.44Zm1-1H1.43V37.58C1.38,53.42,10.2,64.92,17.6,71.79c8.07,7.48,17.16,11.94,20,12.56h.14c2.86-.62,12-5.08,20-12.56C65.18,64.92,74,53.42,74,37.58V1.43Z" />
+            </g>
+          </g>
+        </svg>
+        </a>
+      </div>
+      <div class="prefooter__content">
+        <p class="prefooter__about">If there’s news at Penn, you’ll find it here. We strive to bring you faculty, staff,
+          and student profiles, research updates, and the latest happenings on campus.</p>
+        <div class="prefooter__contact">
+          <address>
+            <span class="addressee">Office of University Communications</span>
+            <span class="suite-no">Suite 200</span>
+            <span class="street-address">3901 Walnut Street</span>
+            <span class="city">Philadelphia, <abbr class="state" title="Pennsylvania">PA </abbr><span
+                class="zip">19104-3608</span></span>
+          </address>
+          <span class="phone" itemprop="telephone"><a href="tel:+12158988721 ">215.898.8721</a></span>
+          <span class="email"><a href="mailto:upnews@pobox.upenn.edu">upnews@pobox.upenn.edu</a></span>
+        </div>
+      </div>
+    </div>
+    <div class="footer__content">
+      <nav class="footer__social">
+        <ul class="footer__social-list">
+          <li class="footer__social-list-item">
+            <a href="https://www.facebook.com/UnivPennsylvania"
+              class="footer__social-link footer__social-link--facebook" rel="noopener">Facebook</a>
+          </li>
+          <li class="footer__social-list-item">
+            <a href="https://www.instagram.com/uofpenn/" class="footer__social-link footer__social-link--instagram"
+              rel="noopener">Instagram</a>
+          </li>
+          <li class="footer__social-list-item">
+            <a href="https://twitter.com/penn_today" class="footer__social-link footer__social-link--twitter"
+              rel="noopener">Twitter</a>
+          </li>
+          <li class="footer__social-list-item">
+            <a href="https://www.linkedin.com/school/3165/" class="footer__social-link footer__social-link--linkedin"
+              rel="noopener">LinkedIn</a>
+          </li>
+          <li class="footer__social-list-item">
+            <a href="https://www.flickr.com/photos/universityofpennsylvania"
+              class="footer__social-link footer__social-link--flickr" rel="noopener">Flickr</a>
+          </li>
+          <li class="footer__social-list-item">
+            <a href="https://www.youtube.com/user/univpennsylvania"
+              class="footer__social-link footer__social-link--youtube" rel="noopener">YouTube</a>
+          </li>
+        </ul>
+      </nav>
+      <div class="footer__copyright">
+        © 2022 Penn Today, University of Pennsylvania
+                <nav class="menu__legal-nav">
+          <ul class="legal-nav-list">
+                        <li class="legal-nav-item">
+              <a href="https://www.upenn.edu">Penn Homepage</a>
+            </li>
+                        <li class="legal-nav-item">
+              <a href="https://www.upenn.edu/about/disclaimer">Disclaimer</a>
+            </li>
+                        <li class="legal-nav-item">
+              <a href="https://www.publicsafety.upenn.edu/contact/">Emergency Services</a>
+            </li>
+                        <li class="legal-nav-item">
+              <a href="https://www.upenn.edu/about/privacy_policy">Privacy Policy</a>
+            </li>
+                        <li class="legal-nav-item">
+              <a href="https://accessibility.web-resources.upenn.edu/get-help">Report Accessibility Issues and Get Help</a>
+            </li>
+                        <li class="legal-nav-item">
+              <a href="https://www.upenn.edu/about/report-copyright-infringement">Report Copyright Infringement</a>
+            </li>
+                      </ul>
+        </nav>
+      </div>
+    </div>
+  </div>
+</footer>
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_OEfPbkWkFRQQjtnbuPxErsmzOMg0oztSMOhKUVn0Nyg.js"></script>
+
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"NRJS-84eec7dc84a640ade4f","applicationID":"1047940427","transactionName":"blxaZUFQX0QFU0ddClcWeVJHWF5ZS0BSUwBmWllSW1Q=","queueTime":0,"applicationTime":13,"atts":"QhtZEwlKTEo=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

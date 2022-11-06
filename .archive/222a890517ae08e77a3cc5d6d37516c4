@@ -1,0 +1,988 @@
+
+
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+    <head  prefix="og: http://ogp.me/ns#">
+        
+
+        
+        <meta charset="utf-8" />
+        
+            
+
+
+	<meta name="description" content="With many recent forecasts indicating a likely recession ahead, software entrepreneurs and investors alike are preparing for impact to their businesses. We believe that in uncertain times, technology buyers will consolidate IT spend with trusted mission-critical solutions that have a clearly defined ROI. Because of this, vertical software has a compelling reason to be resilient even in a slowdown.">
+    
+    
+    <meta name="twitter:site:id" content="19720395"> 
+    
+        <title>Vertical Software Wins in Bull and Bear Markets | by Nina Achadjian, Paris Heymann | Index Ventures</title>
+    
+    
+        <meta property="og:title" content="Vertical Software Wins in Bull and Bear Markets | by Nina Achadjian, Paris Heymann | Index Ventures">
+        
+        
+        <meta property="og:description" content="With many recent forecasts indicating a likely recession ahead, software entrepreneurs and investors alike are preparing for impact to their businesses. We believe that in uncertain times, technology buyers will consolidate IT spend with trusted mission-critical solutions that have a clearly defined ROI. Because of this, vertical software has a compelling reason to be resilient even in a slowdown.">
+        
+        
+            <meta property="og:image" content="https://www.indexventures.com/media/images/Vertical_SaaS.2e16d0ba.fill-1200x630.png">
+            <meta property="og:image:width" content="1200">
+            <meta property="og:image:height" content="630">
+            
+        
+        <meta property="og:type" content="Website">
+        
+        <meta property="og:site_name" content="Index Ventures">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+    
+        <meta name="twitter:domain" content="www.indexventures.com">
+        <meta name="twitter:card" content="summary_large_image">
+        
+        <meta name="twitter:title" content="Vertical Software Wins in Bull and Bear Markets | by Nina Achadjian, Paris Heymann | Index Ventures">
+        
+        
+        <meta name="twitter:description" content="With many recent forecasts indicating a likely recession ahead, software entrepreneurs and investors alike are preparing for impact to their businesses. We believe that in uncertain times, technology buyers will consolidate IT spend with trusted mission-critical solutions that have a clearly defined ROI. Because of this, vertical software has a compelling reason to be resilient even in a slowdown.">
+        
+        <meta name="twitter:image" content="https://www.indexventures.com/media/images/Vertical_SaaS.2e16d0ba.fill-1024x512.png">
+        <meta name="twitter:creator" content="@IndexVentures">
+        <meta name="twitter:site" content="@IndexVentures">
+        
+    
+
+
+
+        
+        
+        <link rel="shortcut icon" href="https://www.indexventures.com/static/images/favicon.13cf3a9377aa.ico" type="image/x-icon">
+        <link rel="icon" href="https://www.indexventures.com/static/images/favicon.13cf3a9377aa.ico" type="image/x-icon">
+        <link rel="apple-touch-icon" sizes="180x180" href="https://www.indexventures.com/static/images/apple-touch-icon.334e2c0ca650.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://www.indexventures.com/static/images/favicon-32x32.2b1079167528.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://www.indexventures.com/static/images/favicon-16x16.dfffa4654b02.png">
+        <link rel="manifest" href="https://www.indexventures.com/static/images/site.27419fc6affa.webmanifest">
+        <link rel="mask-icon" href="https://www.indexventures.com/static/images/safari-pinned-tab.394df958a54e.svg" color="#e1251b">
+        <link rel="shortcut icon" href="https://www.indexventures.com/static/images/favicon.13cf3a9377aa.ico">
+        <meta name="msapplication-TileColor" content="#e1251b">
+        <meta name="msapplication-config" content="https://www.indexventures.com/static/images/browserconfig.ba5ae8f0ed89.xml">
+        <meta name="theme-color" content="#ffffff">
+        <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+
+        
+        <link type="text/css" href="https://www.indexventures.com/static/css/app.301cec6c315b.css" rel="stylesheet" />
+
+        
+            
+        
+        <script src="https://whole-holiday.indexventures.com/script.js" data-spa="auto" data-site="ZRICNWPA" defer></script>
+        
+
+    </head>
+
+    <body class="template-article-post">
+        
+
+        <div data-barba="wrapper">
+            
+            <a href="#main-content" class="-visually-hidden skip-link js-skip-link" data-barba-prevent>Skip to main content</a>
+            
+                
+
+<nav class="navigation js-navigation">
+    <div class="navigation__wrapper row row-xs--between row-xs--middle">
+        <div class="navigation__logo-wrapper">
+            <a href="/" class="navigation__logo-anchor js-header-logo" aria-label="Index Ventures Logo Home Link">
+                <svg class="navigation__icon" width="40" height="33" viewBox="0 0 40 33" fill="#e42313" 
+    xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#header_logo)">
+        <path d="M18.185 0H0V3.63008H18.185V0Z"/>
+        <path d="M36.4044 7.26016H10.9247V10.8902H36.4044V7.26016Z"/>
+        <path d="M40.0345 14.5549H10.9247V18.185H40.0345V14.5549Z"/>
+        <path d="M36.4044 21.8151H10.9247V25.4451H36.4044V21.8151Z"/>
+        <path d="M29.1096 29.1097H10.9247V32.7398H29.1096V29.1097Z"/>
+    </g>
+    <defs>
+        <clipPath id="header_logo">
+            <rect width="40" height="32.7398"/>
+        </clipPath>
+    </defs>
+</svg>
+            </a>
+        </div>
+        <ul class="navigation__list js-navigation__list row row-xs--middle">
+            
+                
+                    <li data-link="/team/" class="navigation__item js-navigation__item">
+                        
+                            <a href="/team/" class="navigation__anchor js-navigation__anchor" role="tab">
+                                Team
+                            </a>
+                        
+                    </li>
+                
+                    <li data-link="/philosophy/" class="navigation__item js-navigation__item">
+                        
+                            <a href="/philosophy/" class="navigation__anchor js-navigation__anchor" role="tab">
+                                Philosophy
+                            </a>
+                        
+                    </li>
+                
+                    <li data-link="/companies/" class="navigation__item js-navigation__item">
+                        
+                            <a href="/companies/" class="navigation__anchor js-navigation__anchor" role="tab">
+                                Companies
+                            </a>
+                        
+                    </li>
+                
+                    <li data-link="/perspectives/" class="navigation__item js-navigation__item">
+                        
+                            <a href="/perspectives/" class="navigation__anchor js-navigation__anchor" role="tab">
+                                Perspectives
+                            </a>
+                        
+                    </li>
+                
+                    <li data-link="/resources/" class="navigation__item js-navigation__item">
+                        
+                            <a href="/resources/" class="navigation__anchor js-navigation__anchor" role="tab">
+                                Resources
+                            </a>
+                        
+                    </li>
+                
+            
+            <li class="navigation__item">
+                <span class="js-search-icon" aria-label="Search">
+                    <span class="navigation__search-wrapper">
+                        <svg class="navigation__icon" width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M11.7306 11.6666L17.0639 17M13.4445 7.22232C13.4445 3.78591 10.6587 1 7.22232 1C3.78572 1 1 3.78591 1 7.22232C1 10.6587 3.78572 13.4445 7.22232 13.4445C10.6587 13.4445 13.4445 10.6587 13.4445 7.22232Z" />
+</svg>
+
+                    </span>
+                </span>
+            </li>
+            <li class="navigation__item-wrapper">
+                <button class="navigation__anchor js-nav-menu-link" aria-label="Open Menu" aria-expanded="false">
+                    <span class="navigation__menu-icon-wrapper">
+                        <i class="navigation__menu-icon"></i>
+                    </span>
+                </button>
+            </li>
+        </ul>
+    </div>
+
+    <div class="navigation__menu js-nav-menu" aria-hidden="true">
+        <div class="navigation__menu-primary-link-wrapper">
+            <ul>
+                
+                <li class="navigation__menu-primary-link">
+                    
+                        <a href="/team/">
+                            Team
+                        </a>
+                    
+                </li>
+                
+                <li class="navigation__menu-primary-link">
+                    
+                        <a href="/philosophy/">
+                            Philosophy
+                        </a>
+                    
+                </li>
+                
+                <li class="navigation__menu-primary-link">
+                    
+                        <a href="/companies/">
+                            Companies
+                        </a>
+                    
+                </li>
+                
+                <li class="navigation__menu-primary-link">
+                    
+                        <a href="/perspectives/">
+                            Perspectives
+                        </a>
+                    
+                </li>
+                
+                <li class="navigation__menu-primary-link">
+                    
+                        <a href="/resources/">
+                            Resources
+                        </a>
+                    
+                </li>
+                
+            </ul>
+        </div>
+        <div class="navigation__menu-secondary-link-wrapper row row-xs--between">
+            <ul class="col-xs-10">
+                
+                    <li class="navigation__menu-secondary-link">
+                        
+                            <a href="/contact-us/">
+                                Contact Us
+                            </a>
+                        
+                    </li>
+                
+                    <li class="navigation__menu-secondary-link">
+                        
+                            <a href="/disclaimer/">
+                                Disclaimer
+                            </a>
+                        
+                    </li>
+                
+                    <li class="navigation__menu-secondary-link">
+                        
+                            <a href="/privacy-policy/">
+                                Privacy Policy
+                            </a>
+                        
+                    </li>
+                
+                    <li class="navigation__menu-secondary-link">
+                        
+                            <a href="/lp-login/">
+                                LP Login
+                            </a>
+                        
+                    </li>
+                
+                
+                <li class="navigation__menu-secondary-link">
+                    <a rel="noopener" href="https://www.indexventures.com/startup-jobs">
+                        Startup Jobs
+                    </a>
+                </li>
+                
+            </ul>
+            <ul class="col-xs-8">
+                <li class="navigation__menu-secondary-link">
+                    <a rel="noopener" href="https://twitter.com/IndexVentures" target="_blank">
+                        Twitter
+                        <span class="-off-screen">Opens in a new window</span>
+                    </a>
+                </li>
+                <li class="navigation__menu-secondary-link">
+                    <a rel="noopener" href="https://www.linkedin.com/company/index-ventures/" target="_blank">
+                        LinkedIn
+                        <span class="-off-screen">Opens in a new window</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+</nav>
+
+    <div class="navigation__search js-search-wrapper">
+        
+
+
+<div class="search-page">
+    <div class="search-page__wrapper real-time-search__wrapper">
+        <div class="navigation__search-inner-wrapper">
+            <div class="search-page__header">
+                <div class="row row-xs--center">
+                    <div class="col-xs-20 col-md-18">
+                        <form class="search-form row row-xs--center" action="/perspectives/vertical-software-wins-in-bull-and-bear-markets/" method="get" autocomplete="off">
+                            <input type="hidden" name="csrfmiddlewaretoken" value="sBjJ0Ga903hscVi3ASVQsBmoXAwjJt59Y0cl1hR4BbcUBdNhz7D6KiGJm2QijL6V">
+                            <label class="search-form__input-wrapper col-xs-20 col-md-18" for="query">
+                                <input class="search-form__input js-search-input" type="text" name="search" placeholder="Search" value="">
+                                <span class="-visually-hidden">Search</span>
+                            </label>
+                            <button type="submit" class="search-form__button" aria-label="Submit">
+                                <svg class="search-form__button__icon" width="45" height="22" viewBox="0 0 45 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+	<path d="M-1.13474e-07 11C11.0715 11 31.3451 11 42.4166 11M31 1L43 11L31 21" stroke="#181818" stroke-width="2" stroke-miterlimit="10"/>
+</svg>
+                                <span class="-visually-hidden">Submit Search</span>
+                            </button>
+                        </form>
+                        <div class="navigation__search__label" data-default="Find a team member, company, or Perspectives piece">
+                            Find a team member, company, or Perspectives piece
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="real-time-search">
+                <div class="search-title">
+                    <div class="row row-xs--center row-xs--grow">
+                        <div class="col-xs-20 col-md-18">
+                            <div class="search-title-inner">
+                                <div class="search-back-button">
+                                    <span class="search-back-icon"><svg width="9" height="16" viewBox="0 0 9 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8 1L1 8L8 15" stroke="#181818"/>
+</svg>
+</span>
+                                    <span class="search-back-text">Back</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="search-in-progress">
+                    <div class="index-ventures-hand">
+                        <div><span></span></div>
+                        <div><span></span></div>
+                        <div><span></span></div>
+                        <div><span></span></div>
+                        <div><span></span></div>
+                    </div>
+                </div>
+
+                <div class="search-results">
+                    <div class="row row-xs--center">
+                        <div class="col-xs-20 col-md-18">
+                            <div class="content-type-sections">
+                                <div class="content-type-section" data-section="perspectives.PerspectivesDetailPage" data-search-title="@total Perspectives" data-section-name="Perspectives" data-show-all-text="See All @total Perspectives">
+                                    <div class="content-type-name">Perspectives</div>
+                                    <div class="content-type-results">
+                                        <ul class="simple-list"></ul>
+                                    </div>
+                                </div>
+                                <div class="content-type-section" data-section="companies.Company" data-search-title="@total Companies" data-section-name="Companies" data-show-all-text="See All @total Companies">
+                                    <div class="content-type-name">Companies</div>
+                                    <div class="content-type-results">
+                                        <ul class="simple-list"></ul>
+                                    </div>
+                                </div>
+                                <div class="content-type-section" data-section="resources.ResourcesDetailPage" data-search-title="@total Resources" data-section-name="Resources" data-show-all-text="See All @total Resources">
+                                    <div class="content-type-name">Resources</div>
+                                    <div class="content-type-results">
+                                        <ul class="simple-list"></ul>
+                                    </div>
+                                </div>
+                                <div class="content-type-section" data-section="team.TeamMember" data-search-title="@total Team Members" data-section-name="Team Members" data-show-all-text="See All @total Team Members">
+                                    <div class="content-type-name">Team</div>
+                                    <div class="content-type-results">
+                                        <ul class="simple-list"></ul>
+                                    </div>
+                                </div>
+                                <div class="content-type-section" data-section="startup_jobs.JobModel" data-search-title="@total Jobs" data-section-name="Jobs" data-show-all-text="See All @total Jobs">
+                                    <div class="content-type-name">Startup Jobs</div>
+                                    <div class="content-type-results">
+                                        <ul class="simple-list"></ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row row-xs--center">
+                    <div class="col-xs-20 col-md-18">
+                        <div id="real-time-search-pager" class="item-list">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+    </div>
+            
+            <div id="main-content" class="content-container close-during-search" data-barba="container" data-barba-namespace="main">
+                <article role="main">
+                
+    <div class='article-detail'>
+        
+
+<header class="article-post-hero">
+    <div class="row row-xs--center">
+        <div class="col-xs-20">
+            <div class="article-post-hero__wrapper js-scroll-target">
+                
+                    
+
+<div class="breadcrumbs">
+    <a href="/perspectives/" class="breadcrumbs__breadcrumb"><span class="-visually-hidden">Navigate back to</span>
+            Perspectives
+        </a><img src="/static/svg/arrow_right.svg" class="svg breadcrumbs__arrow" alt="" role="presentation"><a href="/perspectives/category/insights/" class="breadcrumbs__breadcrumb"><span class="-visually-hidden">Navigate back to</span>
+            Insights
+        </a>
+</div>
+
+                
+                <h1 class="article-post-hero__headline">Vertical Software Wins in Bull and Bear Markets</h1>
+                
+                    <p class="article-post-hero__author">by
+                    
+                        <a href="/team/nina-achadjian/" class="article-post-hero__author-anchor">Nina Achadjian</a>, 
+                    
+                        <a href="/team/paris-heymann/" class="article-post-hero__author-anchor">Paris Heymann</a>
+                    
+                    </p>
+                
+            </div>
+        </div>
+    </div>
+</header>
+
+        
+            <div class="article-detail__image-section">
+                
+                    
+
+<div class="image-block js-scroll-target image-block--no-caption">
+    <div class="row row-xs--center">
+        <div class="col-xs-20">
+            <div class="row ">
+                <div class="image-block__image-wrapper col-md-16">
+                    
+
+    
+
+    
+        <picture>
+            
+                
+                    <source srcset="https://www.indexventures.com/media/images/Vertical_SaaS.width-360.jpegquality-60.png 360w" media="(max-width: 360px)"/>
+                
+                    <source srcset="https://www.indexventures.com/media/images/Vertical_SaaS.width-720.jpegquality-60.png 720w" media="(max-width: 720px)"/>
+                
+                    <source srcset="https://www.indexventures.com/media/images/Vertical_SaaS.width-1440.jpegquality-60.png 1440w" media="(max-width: 1440px)"/>
+                
+                    <source srcset="https://www.indexventures.com/media/images/Vertical_SaaS.original.jpegquality-60.png 1600w" media="(max-width: 1600px)"/>
+                
+                
+                    <img src="https://www.indexventures.com/media/images/Vertical_SaaS.original.jpegquality-60.png" class="image-base image-block__image image-13770" alt="Vertical SaaS.png" />
+                
+        </picture>
+    
+
+                    
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+                
+            </div>
+        
+
+        <div class="article-detail__body-content">
+            
+
+
+
+    
+
+<div class="body-copy -bg-color-charcoal">
+    <div class="row row-xs--center">
+        <div class="col-xs-20">
+            <div class="row-md--baseline row row-xs--center">
+            	
+                <div class="col-xs-20 col-md-14">
+                    <div class="rich-text"><p data-block-key="jcyqp"><i>With many recent forecasts indicating a likely recession ahead, software entrepreneurs and investors alike are preparing for impact to their businesses. We believe that in uncertain times, technology buyers will consolidate IT spend with trusted mission-critical solutions that have a clearly defined ROI. Because of this, vertical software has a compelling reason to be resilient even in a slowdown.</i></p></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+
+<div class="body-copy -bg-color-transparent">
+    <div class="row row-xs--center">
+        <div class="col-xs-20">
+            <div class="row-md--baseline row row-xs--center">
+            	
+                <div class="col-xs-20 col-md-14">
+                    <div class="rich-text"><p data-block-key="jcyqp">For decades, Vertical Software often was considered too niche for entrepreneurs and investors who wanted to achieve massive venture-style outcomes. Many wondered how large a business could become building software only for one type of customer. As a result, some of the world’s largest industries remained in the software stone age despite incredible technological advancements over the past several decades. Sectors like dining, education, energy, healthcare, industrials, home services, parts of financial services, real estate, and others have historically had to work sometimes literally with pen and paper or in outdated, legacy technology systems. However, in recent years, several key trends have opened up the potential for greater adoption of next generation software within these and other end markets.</p><p data-block-key="b808d">First, cloud software has made it possible for owners and executives to run their businesses from the palm of their hands. Second, every business has had to adapt to the “Amazon effect” where customers have come to expect an Amazon-like ease of use for all facets of their life, whether booking a doctor appointment, fixing a car, or signing a child in for school. Lastly, the ability to integrate with financial infrastructure platforms like Stripe has enabled software vendors to generate more diverse revenue streams like payments and become even more essential for their customers.</p><p data-block-key="fo8lp">These factors have created opportunity for an emerging category of vertical SaaS (vSaaS) leaders. Cloud-based and mobile-first, vertical SaaS is built to serve unique workflows of particular industries. From the restaurant managing orders and inventory, to the construction company building a large new office building, businesses of all shapes and sizes are looking to partner with technology vendors who deeply understand their core day-to-day workflows and provide highly tailored software solutions built for them, by people like them.</p><p data-block-key="5541c">Because of these powerful long-term secular trends, we believe vSaaS is well-positioned to win in both bull and bear markets.</p><h3 data-block-key="2cot5"><b>Three Reasons We’re Bullish on vSaaS</b></h3><p data-block-key="40joe"><b>1. vSaaS is mission critical</b></p><p data-block-key="50elf">In uncertain economic environments, software spend shifts to the must-haves, away from the nice-to-haves. vSaaS often serves as the operating system for customers, becoming the single source of truth for critical activities like CRM, payments, scheduling, and reporting. <a href="https://mybrightwheel.com/" target="_blank" rel="noopener noreferrer">Brightwheel</a>, for example, provides software to daycare centers to automate billing and payments, send real-time messages to teachers and families, and streamlines classroom check-ins, admissions, reports and lesson planning. <a href="https://www.sesolabor.com/" target="_blank" rel="noopener noreferrer">Seso</a> provides some of the largest agricultural growers in the US the ability to hire and schedule seasonal workers during harvest season. Companies like these are providing mission critical, must-have solutions for important industries like child care and agriculture.</p><p data-block-key="avetb"><b>2. vSaaS helps customers operate more efficiently</b></p><p data-block-key="cuni3">Ultimately customers adopt software because they want to run their businesses better. Because vertical solutions are built with specific industry needs in mind, they often effectively drive value by helping customers either increase revenues, decrease costs, or both. Residential HVAC and plumbing shops who use <a href="https://www.servicetitan.com/" target="_blank" rel="noopener noreferrer">ServiceTitan</a>, for example, typically see 25% YoY revenue growth in the year after they implement the software, versus an industry average growth rate in line with GDP growth. <a href="https://www.benchling.com/" target="_blank" rel="noopener noreferrer">Benchling</a> helps life sciences customers accelerate their workflow cycle time by 38%. vSaaS has a compelling value proposition across diverse industries, from residential home services to biotech research.</p><p data-block-key="erhl2"><b>3. vSaaS vendors can continue to sell new products into an existing customer base</b></p><p data-block-key="6810a">The best vSaaS companies start by solving one specific pain-point and then expand once they gain trust with customers, who will then begin to ask for more features and capabilities over time. For example, <a href="https://www.shopify.com/" target="_blank" rel="noopener noreferrer">Shopify</a> started by offering retailers a website with payments and a shopping cart integration. Today Shopify is a full commerce platform with an app store, lending, installment payments, offline POS, email marketing services, a merchant card, and fulfillment services. <a href="https://pos.toasttab.com/" target="_blank" rel="noopener noreferrer">Toast</a> originally offered restaurants a better, cloud-based POS system but today has 15 unique products including digital ordering and delivery, payroll and team management, lending, inventory management, marketing, gift cards, and reporting. 60% of Toast customers currently use more than 4 of their products. From a starting position of one fantastic wedge into their customer base, vSaaS vendors have a continuous upsell and cross-sell opportunity with existing customers. During difficult economic times it can be more cost effective to bundle software purchasing with your trusted, go-to vendor who can provide a lower price than a standalone point solution can.</p><h3 data-block-key="351j3"><b>vSaaS in a Downturn</b></h3><p data-block-key="5dfgm">While we’ve highlighted three reasons, among many, to be bullish on vSaaS, we also acknowledge that not all vSaaS companies will thrive during a downturn.</p><p data-block-key="83fk7">End customer health is critical during periods of macroeconomic uncertainty. vSaaS companies which serve more discretionary categories are likely to feel a crunch within existing customers. We also expect revenue streams from embedded FinTech, like payments and lending, to face difficult comparisons in 2022 as they lap robust spending in the back half of 2020 through 2021.</p><p data-block-key="9for4">Lastly, vSaaS often requires some degree of implementation as customers change their behaviors from analog to digital. For vendors that have a more complex implementation motion but offer slower time to value, it’s likely that their potential customers will push out purchases to a later date and therefore reduce net new ARR growth.</p><p data-block-key="q28a">Despite these risks we continue to be enthusiastic about the broader vSaaS ecosystem. As we recently observed, <a href="https://www.indexventures.com/perspectives/how-startups-should-handle-the-downturn/" target="_blank" rel="noopener noreferrer">great businesses have been built and flourished through some of the most difficult times</a>. We expect that strong vSaaS companies will emerge stronger and continue to lead with innovation in the years to come.</p><h3 data-block-key="b0kme"><b>30 Private vSaaS Companies We’re Watching</b></h3><p data-block-key="9h9jk">We’re tracking these 30 vSaaS companies closely, which represent a combination of portfolio companies as well as other private companies which are leading the way forward for vSaaS, in both good times and bad.</p><p data-block-key="8qvbj">Which vSaaS companies are you following? We’d love to hear from you <a href="https://twitter.com/IndexVentures" target="_blank" rel="noopener noreferrer">@IndexVentures</a>.</p></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+
+<div class="post-image-block">
+    <div class="post-image-block__image-wrapper">
+
+        
+            
+
+    
+
+    
+        <picture>
+            
+                
+                    <source srcset="https://www.indexventures.com/media/images/Vertical_SaaS_Private.width-360.jpegquality-60.png 360w" media="(max-width: 360px)"/>
+                
+                    <source srcset="https://www.indexventures.com/media/images/Vertical_SaaS_Private.width-720.jpegquality-60.png 720w" media="(max-width: 720px)"/>
+                
+                    <source srcset="https://www.indexventures.com/media/images/Vertical_SaaS_Private.width-1440.jpegquality-60.png 1440w" media="(max-width: 1440px)"/>
+                
+                    <source srcset="https://www.indexventures.com/media/images/Vertical_SaaS_Private.original.jpegquality-60.png 1600w" media="(max-width: 1600px)"/>
+                
+                
+                    <img src="https://www.indexventures.com/media/images/Vertical_SaaS_Private.original.jpegquality-60.png" class="image-base image-block__image image-13774" alt="Vertical SaaS Private.png" />
+                
+        </picture>
+    
+
+        
+
+        
+    </div>
+</div>
+
+
+        </div>
+
+        
+
+        <div class="row row-xs--center">
+            <div class="col-xs-20 col-md-14">
+                <div class="article-detail__published-date">
+                Published — July 22, 2022
+                </div>
+            </div>
+        </div>
+
+        
+            
+
+<div class="featured-posts">
+    <div class="row row-xs--center">
+        <div class="col-xs-20 col-md-18">
+            <ul class="featured-posts__list row row-md--between row-md--top featured-posts__list--double js-scroll-target">
+                
+                    
+                        <li class="featured-posts__post">
+                            <a href="/perspectives/honesty-is-the-key-when-you-want-to-harness-the-lightning-in-a-bottle/" class="featured-posts__image-link">
+                                <span class="featured-posts__image-wrapper">
+                                    
+                                        
+
+    
+
+    
+        <picture>
+            
+                
+                    <source srcset="https://www.indexventures.com/media/images/Why_an_economic_downturn_may_be.width-360.jpegquality-60.png 360w" media="(max-width: 360px)"/>
+                
+                    <source srcset="https://www.indexventures.com/media/images/Why_an_economic_downturn_may_be.width-720.jpegquality-60.png 720w" media="(max-width: 720px)"/>
+                
+                    <source srcset="https://www.indexventures.com/media/images/Why_an_economic_downturn_may_b.width-1440.jpegquality-60.png 1440w" media="(max-width: 1440px)"/>
+                
+                    <source srcset="https://www.indexventures.com/media/images/Why_an_economic_downturn_may_b.width-1800.jpegquality-60.png 1800w" media="(max-width: 1800px)"/>
+                
+                    <source srcset="https://www.indexventures.com/media/images/Why_an_economic_downturn_may_be_.original.jpegquality-60.png 1800w" media="(max-width: 1800px)"/>
+                
+                
+                    <img src="https://www.indexventures.com/media/images/Why_an_economic_downturn_may_be_.original.jpegquality-60.png" class="image-base featured-posts__image  featured-posts__image-with_caption image-13939" alt="Why an economic downturn may be the perfect time to invest in technology _ Business _ The Times-4.png" aria-hidden="true" />
+                
+        </picture>
+    
+
+                                    
+                                    <span class="-off-screen"> This link opens the post, ""</span>
+                                </span>
+                                <span class="featured-posts__content-wrapper">
+                                    <h3 class="featured-posts__post-title">Honesty is the Key When You Want to Harness the Lightning in a Bottle</h3>
+                                    
+                                    
+                                        <p class="featured-posts__post-author">by Index Ventures</p>
+                                    
+                                </span>
+                            </a>
+                        </li>
+                    
+                
+                    
+                        <li class="featured-posts__post">
+                            <a href="/perspectives/10-learnings-from-the-index-gaming-summit/" class="featured-posts__image-link">
+                                <span class="featured-posts__image-wrapper">
+                                    
+                                        
+
+    
+
+    
+        <picture>
+            
+                
+                    <source srcset="https://www.indexventures.com/media/images/Index_Gaming_Summit_10_Learning.width-360.jpegquality-60.png 360w" media="(max-width: 360px)"/>
+                
+                    <source srcset="https://www.indexventures.com/media/images/Index_Gaming_Summit_10_Learning.width-720.jpegquality-60.png 720w" media="(max-width: 720px)"/>
+                
+                    <source srcset="https://www.indexventures.com/media/images/Index_Gaming_Summit_10_Learnin.width-1440.jpegquality-60.png 1440w" media="(max-width: 1440px)"/>
+                
+                    <source srcset="https://www.indexventures.com/media/images/Index_Gaming_Summit_10_Learnin.width-1800.jpegquality-60.png 1800w" media="(max-width: 1800px)"/>
+                
+                    <source srcset="https://www.indexventures.com/media/images/Index_Gaming_Summit_10_Learnings.original.jpegquality-60.png 1800w" media="(max-width: 1800px)"/>
+                
+                
+                    <img src="https://www.indexventures.com/media/images/Index_Gaming_Summit_10_Learnings.original.jpegquality-60.png" class="image-base featured-posts__image  featured-posts__image-with_caption image-13846" alt="Index Gaming Summit_10 Learnings.png" aria-hidden="true" />
+                
+        </picture>
+    
+
+                                    
+                                    <span class="-off-screen"> This link opens the post, ""</span>
+                                </span>
+                                <span class="featured-posts__content-wrapper">
+                                    <h3 class="featured-posts__post-title">10 learnings from the Index Gaming Summit</h3>
+                                    
+                                    
+                                        <p class="featured-posts__post-author">by Index Ventures</p>
+                                    
+                                </span>
+                            </a>
+                        </li>
+                    
+                
+            </ul>
+        </div>
+    </div>
+    
+
+    
+</div>
+        
+    </div>
+
+                </article>
+
+                
+                    
+                        
+                    
+                
+
+                
+
+                
+                  
+
+<footer class="footer">
+    <div class="footer__upper-wrapper">
+        <a href="/" class="footer__brand">
+            <svg class="footer__brand-icon" width="40" height="33" viewBox="0 0 40 33" fill="#e42313" 
+    xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#footer_logo)">
+        <path d="M18.185 0H0V3.63008H18.185V0Z"/>
+        <path d="M36.4044 7.26016H10.9247V10.8902H36.4044V7.26016Z"/>
+        <path d="M40.0345 14.5549H10.9247V18.185H40.0345V14.5549Z"/>
+        <path d="M36.4044 21.8151H10.9247V25.4451H36.4044V21.8151Z"/>
+        <path d="M29.1096 29.1097H10.9247V32.7398H29.1096V29.1097Z"/>
+    </g>
+    <defs>
+        <clipPath id="footer_logo">
+            <rect width="40" height="32.7398"/>
+        </clipPath>
+    </defs>
+</svg>
+            <span class="footer__brand-text">Index Ventures</span>
+            <span class="footer__brand-tooltip footer__lower">We chose the hand as our mark symbolizing the humility, care and effort of entrepreneurs building their businesses. It also stands for our commitment to them as partners in realizing their vision.</span>
+        </a>
+
+        <a href="/contact-us/" class="footer__clocks-wrapper">
+        
+            
+                <span class="footer__clock-item">
+                    <span class="footer__clock-item-svg-wrapper">
+                        <svg class="footer__clock-item-svg js-clock" data-timezone="America/Los_Angeles" viewBox="0 0 136 136" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(4.000000, 4.000000)" stroke-width="8">
+            <circle cx="64" cy="64" r="64"></circle>
+            <path class="hand" d="M64,64 L64,12" data-hand="minuteHand" stroke-linecap="square"></path>
+            <path class="hand" d="M64,64 L64,38" data-hand="hourHand" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>
+
+                    </span>
+                    <span class="footer__clock-item-country-name"> San Francisco </span>
+                </span>
+            
+        
+            
+                <span class="footer__clock-item">
+                    <span class="footer__clock-item-svg-wrapper">
+                        <svg class="footer__clock-item-svg js-clock" data-timezone="Europe/London" viewBox="0 0 136 136" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(4.000000, 4.000000)" stroke-width="8">
+            <circle cx="64" cy="64" r="64"></circle>
+            <path class="hand" d="M64,64 L64,12" data-hand="minuteHand" stroke-linecap="square"></path>
+            <path class="hand" d="M64,64 L64,38" data-hand="hourHand" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>
+
+                    </span>
+                    <span class="footer__clock-item-country-name"> London </span>
+                </span>
+            
+        
+            
+        
+            
+        
+            
+                <span class="footer__clock-item">
+                    <span class="footer__clock-item-svg-wrapper">
+                        <svg class="footer__clock-item-svg js-clock" data-timezone="America/New_York" viewBox="0 0 136 136" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(4.000000, 4.000000)" stroke-width="8">
+            <circle cx="64" cy="64" r="64"></circle>
+            <path class="hand" d="M64,64 L64,12" data-hand="minuteHand" stroke-linecap="square"></path>
+            <path class="hand" d="M64,64 L64,38" data-hand="hourHand" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>
+
+                    </span>
+                    <span class="footer__clock-item-country-name"> New York </span>
+                </span>
+            
+        
+        </a>
+    </div>
+
+    <div class="footer__lower-wrapper">
+        <div class="footer__lower row row-md--between">
+            <div class="footer__links col-xs-10 col-md-lg-15">
+                <ul class="footer__links-list">
+                    
+                        
+                            
+                                <li class="footer__links-item">
+                                    <a href="/contact-us/"
+                                        class="footer__links-link">Contact Us</a>
+                                </li>
+                            
+                        
+                    
+                        
+                            
+                                <li class="footer__links-item">
+                                    <a href="/disclaimer/"
+                                        class="footer__links-link">Disclaimer</a>
+                                </li>
+                            
+                        
+                    
+                        
+                            
+                                <li class="footer__links-item">
+                                    <a href="/privacy-policy/"
+                                        class="footer__links-link">Privacy Policy</a>
+                                </li>
+                            
+                        
+                    
+                        
+                            
+                                <li class="footer__links-item">
+                                    <a href="/lp-login/"
+                                        class="footer__links-link">LP Login</a>
+                                </li>
+                            
+                        
+                    
+                    
+                    <li class="footer__links-item">
+                        <a href="https://www.indexventures.com/startup-jobs" target="_blank"
+                            class="footer__links-link">Startup Jobs</a>
+                    </li>
+                    
+                </ul>
+            </div>
+
+            <div class="footer__social col-xs-10 col-md-lg-5">
+                <ul class="footer__social-list">
+                    <li class="footer__links-item">
+                        <a rel="noopener" href="https://twitter.com/IndexVentures"
+                            class="footer__links-link--social" target="_blank">
+                            <span class="footer__links-link">Twitter</span> <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="3" width="9" height="1" fill="currentColor"/>
+<rect x="12" width="9" height="1" transform="rotate(90 12 0)" fill="currentColor"/>
+<rect x="11.7422" y="0.960938" width="15.6047" height="1" transform="rotate(135 11.7422 0.960938)" fill="currentColor"/>
+</svg>
+
+
+                            <span class="-off-screen">Opens in a new window</span>
+                        </a>
+                    </li>
+                    <li class="footer__links-item">
+                        <a rel="noopener" href="https://www.linkedin.com/company/index-ventures/"
+                            class="footer__links-link--social" target="_blank">
+                            <span class="footer__links-link">LinkedIn</span> <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="3" width="9" height="1" fill="currentColor"/>
+<rect x="12" width="9" height="1" transform="rotate(90 12 0)" fill="currentColor"/>
+<rect x="11.7422" y="0.960938" width="15.6047" height="1" transform="rotate(135 11.7422 0.960938)" fill="currentColor"/>
+</svg>
+
+
+                            <span class="-off-screen">Opens in a new window</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer__copyright">
+        Copyright &copy;2022 Index Ventures
+    </div>
+</footer>
+
+                
+            </div>
+        </div>
+        <div class="search-scrim js-search-scrim"></div>
+
+        
+
+
+    <div class="wtm_cookie_bar_wrapper">
+        <div id="wtm_cookie_bar" class="cleanslate hidden">
+            <div class="inner col-xs-20">
+                <div class="content-container">
+                    <div class="icon-and-title">
+                        <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" height="24px" viewBox="0 0 24 24" width="24px" fill="#fff"><rect fill="none" height="24" width="24"/><path d="M10.5,13H8v-3h2.5V7.5h3V10H16v3h-2.5v2.5h-3V13z M12,2L4,5v6.09c0,5.05,3.41,9.76,8,10.91c4.59-1.15,8-5.86,8-10.91V5L12,2 z M18,11.09c0,4-2.55,7.7-6,8.83c-3.45-1.13-6-4.82-6-8.83v-4.7l6-2.25l6,2.25V11.09z"/></svg>
+                        <h4>This website uses cookies</h4>
+                    </div>
+                    
+                        <p>
+                            This website uses cookies and other tracking technologies for
+                                    functional and analytical purposes.
+                                    To improve your browsing experience on our site,
+                                    we would also like to place tracking cookies.
+                        </p>
+                    
+                </div>
+
+                <div class="action-container">
+                    <form class="form" action="/wtm/manage/" method="POST">
+                        <input type="hidden" name="csrfmiddlewaretoken" value="sBjJ0Ga903hscVi3ASVQsBmoXAwjJt59Y0cl1hR4BbcUBdNhz7D6KiGJm2QijL6V">
+                        <input id="declaration-checkbox" type="checkbox" name="checkbox"/>
+                        
+                            <label id="wtm_cookie_bar_manage" class="button button-label" role="button" for="declaration-checkbox" aria-label="Manage cookies" tabindex="0">
+                                <span>Manage cookies</span>
+                            </label>
+
+
+                            <div class="declaration-container-outer">
+                                <div class="declaration-container">
+                                    
+
+                                    
+                                        <div class="accordion is-open ">
+                                            <div id="accordion-header-necessary" class="accordion-header">
+                                                <svg class="accordion-arrow" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#FFFFFF">
+                                                    <path d="M0 0h24v24H0V0z" fill="none"/>
+                                                    <path d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14l-6-6z"/>
+                                                </svg>
+                                                <h4 class="accordion-title">Necessary</h4>
+                                                <input type="checkbox" name="necessary" required disabled id="id_necessary" checked>
+                                            </div>
+
+                                            <div class="accordion-content">
+                                                <table id="necessary-table" class="declaration-table"><thead><tr><th>Name</th><th>Domain</th><th>Purpose</th><th>Expiration</th><th>Security</th></tr></thead><tbody><tr><td data-label="Name">Homepage Popup</td><td data-label="Domain">indexventures.com</td><td data-label="Purpose">We set a cookie to prevent showing you the home screen overlay more than once.</td><td data-label="Expiration">None</td><td data-label="Security">HTTPS</td></tr><tr><td data-label="Name">Index</td><td data-label="Domain">indexventures.com</td><td data-label="Purpose">We store your cookie preferences</td><td data-label="Expiration">None</td><td data-label="Security">HTTPS</td></tr></tbody></table>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="accordion ">
+                                            <div id="accordion-header-media" class="accordion-header">
+                                                <svg class="accordion-arrow" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#FFFFFF">
+                                                    <path d="M0 0h24v24H0V0z" fill="none"/>
+                                                    <path d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14l-6-6z"/>
+                                                </svg>
+                                                <h4 class="accordion-title">Media</h4>
+                                                <input type="checkbox" name="media" id="id_media">
+                                            </div>
+
+                                            <div class="accordion-content">
+                                                <table id="media-table" class="declaration-table"><thead><tr><th>Name</th><th>Domain</th><th>Purpose</th><th>Expiration</th><th>Security</th></tr></thead><tbody><tr><td data-label="Name">Vimeo</td><td data-label="Domain">vimeo.com</td><td data-label="Purpose">If enabled we will embed vimeo videos directly on the site, if not we&#39;ll display a thumbnail.</td><td data-label="Expiration">None</td><td data-label="Security">HTTPS</td></tr><tr><td data-label="Name">Youtube</td><td data-label="Domain">youtube.com</td><td data-label="Purpose">If enabled we will embed youtube videos directly on the site, if not we&#39;ll display a thumbnail.</td><td data-label="Expiration">None</td><td data-label="Security">HTTPS</td></tr></tbody></table>
+                                            </div>
+                                        </div>
+                                    
+                                        <div class="accordion ">
+                                            <div id="accordion-header-analytics" class="accordion-header">
+                                                <svg class="accordion-arrow" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#FFFFFF">
+                                                    <path d="M0 0h24v24H0V0z" fill="none"/>
+                                                    <path d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14l-6-6z"/>
+                                                </svg>
+                                                <h4 class="accordion-title">Analytics</h4>
+                                                <input type="checkbox" name="analytics" id="id_analytics">
+                                            </div>
+
+                                            <div class="accordion-content">
+                                                <table id="analytics-table" class="declaration-table"><thead><tr><th>Name</th><th>Domain</th><th>Purpose</th><th>Expiration</th><th>Security</th></tr></thead><tbody><tr><td data-label="Name">Google Analytics</td><td data-label="Domain">google.com</td><td data-label="Purpose">To help us provide the best quality content we monitor the most popular pages on our site.</td><td data-label="Expiration">None</td><td data-label="Security">HTTPS</td></tr><tr><td data-label="Name">Hubspot</td><td data-label="Domain">hubspot.com</td><td data-label="Purpose">We use hubspot for managing our newsletter</td><td data-label="Expiration">None</td><td data-label="Security">HTTPS</td></tr></tbody></table>
+                                            </div>
+                                        </div>
+                                    
+                                    <div class="buttons-right">
+                                        <input id="wtm_cookie_bar_submit" type="submit" class="button" value="Save preferences" aria-label="Save preferences" tabindex="0"/>
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        <button id="wtm_cookie_bar_accept_all" type="button" class="button" aria-label="Accept all cookies" tabindex="0">Accept all cookies</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div id="wtm_cookie_bar_open_button">
+            <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" height="24px" viewBox="0 0 24 24" width="24px" fill="#666"><rect fill="none" height="24" width="24"/><path d="M10.5,13H8v-3h2.5V7.5h3V10H16v3h-2.5v2.5h-3V13z M12,2L4,5v6.09c0,5.05,3.41,9.76,8,10.91c4.59-1.15,8-5.86,8-10.91V5L12,2 z M18,11.09c0,4-2.55,7.7-6,8.83c-3.45-1.13-6-4.82-6-8.83v-4.7l6-2.25l6,2.25V11.09z"/></svg>
+        </div>
+    </div>
+
+
+
+        
+        
+            <script type="text/javascript" src="https://www.indexventures.com/static/js/app.bundle.bd8b244d8ad6.js" ></script>
+        
+
+
+        
+
+        
+
+
+        
+
+
+
+<script>
+    window.wtm = {'config_url': '/wtm/config/', 'lazy_url': '/wtm/lazy/'}
+</script>
+
+
+    <script src="https://www.indexventures.com/static/wagtail_tag_manager/wtm.bundle.61fb5d3775b0.js"></script>
+
+
+
+        
+
+        <!-- Build: v1.82.0 : 2022-09-12 10:24:40
+ -->
+    </body>
+</html>

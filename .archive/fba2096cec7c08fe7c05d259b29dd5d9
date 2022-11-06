@@ -1,0 +1,507 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>The anomaly of cheap complexity</title><meta name='robots' content='noindex, nofollow' />
+<link rel='dns-prefetch' href='//freedom-to-tinker.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Freedom to Tinker &raquo; Feed" href="https://freedom-to-tinker.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Freedom to Tinker &raquo; Comments Feed" href="https://freedom-to-tinker.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Freedom to Tinker &raquo; The anomaly of cheap complexity Comments Feed" href="https://freedom-to-tinker.com/2022/08/03/the-anomaly-of-cheap-complexity/feed/" />
+<link rel="canonical" href="https://freedom-to-tinker.com/2022/08/03/the-anomaly-of-cheap-complexity/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/freedom-to-tinker.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='validate-engine-css-css'  href='https://freedom-to-tinker.com/wp-content/plugins/wysija-newsletters/css/validationEngine.jquery.css?ver=2.21' type='text/css' media='all' />
+<link rel='stylesheet' id='education-theme-css'  href='https://freedom-to-tinker.com/wp-content/themes/education/style.css?ver=2.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://freedom-to-tinker.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='eeb-css-frontend-css'  href='https://freedom-to-tinker.com/wp-content/plugins/email-encoder-bundle/core/includes/assets/css/style.css?ver=221007-105236' type='text/css' media='all' />
+<link rel='stylesheet' id='wpt-twitter-feed-css'  href='https://freedom-to-tinker.com/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=6.0.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://freedom-to-tinker.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://freedom-to-tinker.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://freedom-to-tinker.com/wp-content/plugins/email-encoder-bundle/core/includes/assets/js/custom.js?ver=221007-105236' id='eeb-js-frontend-js'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://freedom-to-tinker.com/wp-content/themes/genesis/lib/js/html5shiv.min.js?ver=3.7.3' id='html5shiv-js'></script>
+<![endif]-->
+<link rel="https://api.w.org/" href="https://freedom-to-tinker.com/wp-json/" /><link rel="alternate" type="application/json" href="https://freedom-to-tinker.com/wp-json/wp/v2/posts/16767" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://freedom-to-tinker.com/xmlrpc.php?rsd" />
+<link rel="alternate" type="application/json+oembed" href="https://freedom-to-tinker.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffreedom-to-tinker.com%2F2022%2F08%2F03%2Fthe-anomaly-of-cheap-complexity%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://freedom-to-tinker.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ffreedom-to-tinker.com%2F2022%2F08%2F03%2Fthe-anomaly-of-cheap-complexity%2F&#038;format=xml" />
+<link rel="icon" href="https://freedom-to-tinker.s3.amazonaws.com/favicon.ico" />
+<style type="text/css">
+.avatar {vertical-align:middle; margin-right:5px;}
+.credit {font-size: 50%;}
+</style>
+				<style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+#sidebar widget-area {
+display:none}
+.sidebar-alt {
+display:none}
+
+#content-sidebar-wrap {
+    width: 960px;
+    margin: 0;
+    padding: 0;
+    float: left;}
+
+#content {
+    background: #FFFFFF url(images/content-split-top.png) top no-repeat;
+    width: 660px;
+    float: left;
+    margin: 0;
+    padding: 9px 9px 4px 9px;
+    border: 1px solid #DDDDDD;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif}
+
+.post-meta {
+	font-family: 'Open Sans', sans-serif}
+
+#content h1 {
+	font-family: 'arvo', serif;
+	font-weight: bold;
+	font-size: 2.7em !important;
+  line-height: 1.25 !important;
+}
+
+#content h2 {
+	font-family: 'arvo', serif;
+	font-weight: bold;
+	font-size: 2.5em !important;
+  line-height: 1.25 !important;
+}
+
+#content h3 {
+	font-family: 'arvo', serif; 
+	font-weight:bold; 
+	font-size:2.4em;
+	line-height:1.25
+}
+
+#content h4 {
+	font-family: 'arvo', serif;
+	font-weight: bold;
+	font-size:2.2em
+}
+
+#content h5 {
+	font-family: 'arvo', serif;
+	font-weight: bold;
+	font-size:2em;
+}
+
+
+#content h6 {
+	font-family: 'arvo', serif;
+	font-weight: bold;
+	font-size:14px
+}
+
+.post-info {
+    font-size: 1.1em !important;
+    margin: 0 0 10px 0;
+    padding: 5px 0 0 0 !important;
+    text-transform: uppercase;
+    border-top: 1px dotted #CCCCCC;
+}
+
+#content .post p {
+    margin: 0;
+    padding: 15px 0px !important;
+    font-size: 1.3em !important;
+    line-height: 1.4em !important;
+}
+
+/*citp info side bar*/
+ #text-2 .textwidget {
+    font-size: 1.2em;
+    line-height: 1.4em;
+}
+
+div#search-3 input.s.search-input {
+    font-size: 1.3em;
+}
+
+.searchsubmit, .enews #subbutton, .gform_footer .button, .reply a, .reply a:visited {
+    background: #004679 !important;
+    color: #FFFFFF;
+    font-family: Arial, Tahoma, Verdana;
+    font-size: 1.2em;
+    font-weight: normal !important;
+    text-decoration: none;
+    margin: 0;
+    padding: 6px 5px;
+    border: 1px solid #00294B;
+}
+
+/*
+#sidebar h4 {
+	font-family: 'arvo', serif;
+	font-weight: bold;}
+
+.s{
+	font-family: 'Open Sans', sans-serif}
+
+#submit, .searchsubmit, .enews #subbutton, .gform_footer .button, .reply a, .reply a:visited {font-family: 'Open Sans', sans-serif}
+*/
+		</style>
+		</head>
+
+<body class="post-template-default single single-post postid-16767 single-format-standard header-full-width nolayout"><div id="wrap"><div id="topnav">
+	<div class="topnav-left">
+		<p>October 8, 2022</p>
+	</div><!-- end .topnav-left -->
+	<div class="topnav-right">
+		<p>
+			<a class="rss-topnav" rel="nofollow" href="https://freedom-to-tinker.com/feed/rss/">Posts</a>
+			<a class="rss-topnav" rel="nofollow" href="https://freedom-to-tinker.com/comments/feed/">Comments</a>
+		</p>
+	</div><!-- end .topnav-right -->
+</div><!-- end #topnav --><div id="header"><div class="wrap"><div id="title-area"><p id="title"><a href="https://freedom-to-tinker.com/">Freedom to Tinker</a></p><p id="description">Research and expert commentary on digital technologies in public life</p></div></div></div><div id="inner"><div class="wrap">
+<div id="content-sidebar-wrap"><div id="content" class="hfeed"><div class="post-16767 post type-post status-publish format-standard hentry category-privacy-security category-uncategorized tag-security entry"><div class="avatar-left"></div><h1 class="entry-title">The anomaly of cheap complexity</h1> 
+<div class="post-info"><span class="date published time" title="2022-08-03T14:09:51-04:00">August 3, 2022</span>  by <span class="author vcard"><span class="fn"><a href="https://freedom-to-tinker.com/author/appel/" rel="author">Andrew Appel</a></span></span> <span class="post-comments"><a href="https://freedom-to-tinker.com/2022/08/03/the-anomaly-of-cheap-complexity/#comments">1 Comment</a></span> </div><div class="entry-content">
+<p>Why are our computer systems so complex and so insecure?&nbsp; For years I’ve been trying to explain my understanding of this question. Here’s one explanation–which happens to be in the context of voting computers, but it’s a general phenomenon about all our computers:</p>
+
+
+
+<blockquote class="wp-block-quote"><p>There are many layers between the application software that implements an electoral function and the transistors inside the computers that ultimately carry out computations. These layers include the election application itself (e.g., for voter registration or vote tabulation); the user interface; the application runtime system; the operating system (e.g., Linux or Windows); the system bootloader (e.g., BIOS or UEFI); the microprocessor firmware (e.g., Intel Management Engine); disk drive firmware; system-on-chip firmware; and the microprocessor’s microcode. For this reason, it is difficult to know for certain whether a system has been compromised by malware. One might inspect the application-layer software and confirm that it is present on the system’s hard drive, but any one of the layers listed above, if hacked, may substitute a fraudulent application layer (e.g., vote-counting software) at the time that the application is supposed to run. As a result, there is no technical mechanism that can ensure that every layer in the system is unaltered and thus no technical mechanism that can ensure that a computer application will produce accurate results. </p><cite><a href="https://nap.nationalacademies.org/catalog/25120/securing-the-vote-protecting-american-democracy">[<em>Securing the Vote, </em>page 89-90]</a></cite></blockquote>
+
+
+
+<p>So, computers are insecure because they have so many complex layers.</p>
+
+
+
+<p><strong>But that doesn’t explain </strong><strong><em>why</em></strong><strong> there are so many layers</strong>, and why those layers are so complex–even for what “should be a simple thing” like counting up votes.</p>
+
+
+
+<p><strong>Recently I came across a really good explanation:</strong> a keynote talk by Thomas Dullien entitled “Security, Moore’s law, and the anomaly of cheap complexity” at CyCon 2018, the 10th International Conference on Cyber Conflict, organized by NATO.</p>
+
+
+
+<p><a href="https://www.youtube.com/watch?v=q98foLaAfX8">Thomas Dullien&#8217;s talk video is here</a>, but if you want to <a href="http://rule11.tech/papers/2018-complexitysecuritysec-dullien.pdf">just read the slides, they are here</a>.</p>
+
+
+
+<p>As Dullien explains,</p>
+
+
+
+<p>A modern 2018-vintage CPU contains a thousand times more transistors than a 1989-vintage microprocessor.&nbsp; Peripherals (GPUs, NICs, etc.) are <strong>objectively</strong><strong><em> </em></strong>getting more complicated at a superlinear rate. In his experience as a cybersecurity expert, the only thing that ever yielded real security gains was controlling complexity.&nbsp; His talk examines the relationship between complexity and failure of security, and discusses the underlying forces that drive both.</p>
+
+
+
+<p>Transistors-per-chip is still increasing every year; there are 3 new CPUs per human per year.&nbsp; Device manufacturers are now developing their software even before the new hardware is released.&nbsp; Insecurity in computing is growing faster than security is improving.</p>
+
+
+
+<p><strong>The anomaly of cheap complexity.</strong>&nbsp; For most of human history, a more complex device was more expensive to build than a simpler device.&nbsp; This is not the case in modern computing.<strong> It is often more cost-effective to take a very complicated device, and make it simulate simplicity,</strong> than to make a simpler device.&nbsp; This is because of economies of scale: complex general-purpose CPUs are cheap.&nbsp; On the other hand, custom-designed, <strong><em>simpler</em></strong>, application-specific devices, which could in principle be much more secure, are very expensive.&nbsp;&nbsp;</p>
+
+
+
+<p>This is driven by two fundamental principles in computing: <em>Universal computation, </em>meaning that any computer can simulate any other; and <em>Moore’s law</em>, predicting that each year the number of transistors on a chip will grow exponentially.&nbsp; ARM Cortex-M0 CPUs cost pennies, though they are more powerful than some supercomputers of the 20th century.</p>
+
+
+
+<p>The same is true in the software layers.&nbsp; A (huge and complex) general-purpose operating system is <em>free, </em>but a simpler, custom-designed, perhaps more secure OS would be very expensive to build.&nbsp; Or as Dullien asks, “How did this research code someone wrote in two weeks 20 years ago end up in a billion devices?”</p>
+
+
+
+<p>Then he discusses hardware supply-chain issues: “Do I have to trust my CPU vendor?”&nbsp; He discusses remote-management infrastructures (such as the “Intel Management Engine” referred to above):&nbsp; “In the real world, ‘possession’ usually implies ‘control’. In IT, ‘possession’ and ‘control’ are decoupled. Can I establish with certainty who is in control of a given device?”</p>
+
+
+
+<p>He says, “Single bitflips can make a machine spin out of control, and the attacker can carefully control the escalating error to his advantage.”&nbsp; (Indeed, <a href="https://doi.org/10.1109/SECPRI.2003.1199334">I’ve studied that issue myself!</a>)</p>
+
+
+
+<p>Dullien quotes the science-fiction author Robert A. Heinlein:</p>
+
+
+
+<blockquote class="wp-block-quote"><p>“How does one design an electric motor? Would you attach a bathtub to it, simply because one was available? Would a bouquet of flowers help? A heap of rocks? No, you would use just those elements necessary to its purpose and make it no larger than needed &#8212; and you would incorporate safety factors. Function controls design.” </p><cite> Heinlein, <em>The Moon Is A Harsh Mistress</em></cite></blockquote>
+
+
+
+<p>and adds, “Software makes adding bathtubs, bouquets of flowers, and rocks, almost free. So that’s what we get.”</p>
+
+
+
+<p>Dullien concludes his talk by saying, “When I showed the first [draft of this talk] to some coworkers they said, ‘you really need to end on a more optimistic note.”  So Dullien gives optimism a try, discussing possible advances in cybersecurity research; but still he gives us only a 10% chance that society can get this right.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p><strong>Postscript: </strong> Voting machines are computers of this kind.  Does their inherent insecurity mean that we cannot use them for counting votes?  No. The consensus of election-security experts, as presented in the <a href="https://nap.nationalacademies.org/catalog/25120/securing-the-vote-protecting-american-democracy">National Academies study</a>, is: we should use optical-scan voting machines to count paper ballots, because those computers, <em>when they are not hacked,</em> are much more accurate than humans.  But we must protect against bugs, against misconfigurations, against hacking, by always performing <em>risk-limiting audits, </em>by hand, of an appropriate sample of the paper ballots that the voters marked themselves.</p>
+</div><div class="post-meta"><span class="categories">Filed Under: <a href="https://freedom-to-tinker.com/category/privacy-security/" rel="category tag">Privacy &amp; Security</a>, <a href="https://freedom-to-tinker.com/category/uncategorized/" rel="category tag">Uncategorized</a></span> <span class="tags">Tagged With: <a href="https://freedom-to-tinker.com/tag/security/" rel="tag">Security</a></span></div></div><div id="comments"><h3>Comments</h3><ol class="comment-list">
+	<li class="comment even thread-even depth-1" id="comment-38621">
+
+		
+		<div class="comment-header">
+			<div class="comment-author vcard">
+								<cite class="fn">Leon Theremin</cite> <span class="says">says:</span>		 	</div>
+
+			<div class="comment-meta commentmetadata">
+				<a href="https://freedom-to-tinker.com/2022/08/03/the-anomaly-of-cheap-complexity/#comment-38621">August 26, 2022 at 3:48 pm</a>
+							</div>
+		</div>
+
+		<div class="comment-content">
+			
+			<p>Eric Schmidt, the former Google chairman, told Reuters in a recent interview that high-end processors should have kill-switches.</p>
+<p>“Knowing where the chips go is probably a very good thing. You could for example, on every chip put in essentially a public private key pair, which authenticates it and allows it to work”.</p>
+<p>hxxps://www.reuters.com/technology/chip-challenge-keeping-western-semiconductors-out-russian-weapons-2022-04-01/</p>
+<p>What he won’t tell is that this is already a reality, as I learned after having my air-gapped system and Pixel phone wiped remotely for researching “silent speech interfaces”, which goes against Google&#8217;s interest for the public to know about. There is no security when silicon trojans are inside of every CPU.</p>
+		</div>
+
+		<div class="reply">
+			<a rel='nofollow' class='comment-reply-link' href='https://freedom-to-tinker.com/2022/08/03/the-anomaly-of-cheap-complexity/?replytocom=38621#respond' data-commentid="38621" data-postid="16767" data-belowelement="comment-38621" data-respondelement="respond" data-replyto="Reply to Leon Theremin" aria-label='Reply to Leon Theremin'>Reply</a>		</div>
+
+		</li><!-- #comment-## -->
+</ol></div>	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Speak Your Mind <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2022/08/03/the-anomaly-of-cheap-complexity/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://freedom-to-tinker.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p class="comment-form-comment"><textarea id="comment" name="comment" cols="45" rows="8" tabindex="4" aria-required="true"></textarea></p><p class="comment-form-author"><input id="author" name="author" type="text" value="" size="30" tabindex="1" aria-required="true" /><label for="author">Name</label> <span class="required">*</span></p>
+<p class="comment-form-email"><input id="email" name="email" type="text" value="" size="30" tabindex="2" aria-required="true" /><label for="email">Email</label> <span class="required">*</span></p>
+<p class="comment-form-url"><input id="url" name="url" type="text" value="" size="30" tabindex="3" /><label for="url">Website</label></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='16767' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="33496d4bd3" /></p><p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="122"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+	</div><div id="sidebar" class="sidebar widget-area"><div id="text-2" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget">Freedom to Tinker is hosted by Princeton's <a href="https://citp.princeton.edu">Center for Information Technology Policy</a>, a research center that studies digital technologies in public life. Here you'll find comment and analysis from the digital frontier, written by the Center's faculty, students, and friends.
+
+<a href="https://citp.princeton.edu"><img src="https://ftt-uploads.s3.amazonaws.com/wp-content/uploads/2019/09/13111525/FtT-CITP-Logo.png" style="clear:both"></a></div>
+		</div></div>
+<div id="search-3" class="widget widget_search"><div class="widget-wrap"><form method="get" class="searchform search-form" action="https://freedom-to-tinker.com/" role="search" ><input type="text" value="Search this website &#x2026;" name="s" class="s search-input" onfocus="if (&#039;Search this website &#x2026;&#039; === this.value) {this.value = &#039;&#039;;}" onblur="if (&#039;&#039; === this.value) {this.value = &#039;Search this website &#x2026;&#039;;}" /><input type="submit" class="searchsubmit search-submit" value="Search" /></form></div></div>
+<div id="tag_cloud-2" class="widget widget_tag_cloud"><div class="widget-wrap"><h4 class="widget-title widgettitle">What We Discuss</h4>
+<div class="tagcloud"><a href="https://freedom-to-tinker.com/tag/aacs/" class="tag-cloud-link tag-link-68 tag-link-position-1" style="font-size: 9.1748251748252pt;" aria-label="AACS (16 items)">AACS</a>
+<a href="https://freedom-to-tinker.com/tag/bitcoin/" class="tag-cloud-link tag-link-257 tag-link-position-2" style="font-size: 12.797202797203pt;" aria-label="bitcoin (39 items)">bitcoin</a>
+<a href="https://freedom-to-tinker.com/tag/cd-copy-protection/" class="tag-cloud-link tag-link-59 tag-link-position-3" style="font-size: 12.699300699301pt;" aria-label="CD Copy Protection (38 items)">CD Copy Protection</a>
+<a href="https://freedom-to-tinker.com/tag/censorship/" class="tag-cloud-link tag-link-89 tag-link-position-4" style="font-size: 9.4685314685315pt;" aria-label="censorship (17 items)">censorship</a>
+<a href="https://freedom-to-tinker.com/tag/citp/" class="tag-cloud-link tag-link-110 tag-link-position-5" style="font-size: 9.6643356643357pt;" aria-label="CITP (18 items)">CITP</a>
+<a href="https://freedom-to-tinker.com/tag/competition/" class="tag-cloud-link tag-link-66 tag-link-position-6" style="font-size: 13.972027972028pt;" aria-label="Competition (52 items)">Competition</a>
+<a href="https://freedom-to-tinker.com/tag/computing-in-the-cloud/" class="tag-cloud-link tag-link-74 tag-link-position-7" style="font-size: 8pt;" aria-label="Computing in the Cloud (12 items)">Computing in the Cloud</a>
+<a href="https://freedom-to-tinker.com/tag/copyright/" class="tag-cloud-link tag-link-9 tag-link-position-8" style="font-size: 20.237762237762pt;" aria-label="Copyright (230 items)">Copyright</a>
+<a href="https://freedom-to-tinker.com/tag/cross-border-issues/" class="tag-cloud-link tag-link-67 tag-link-position-9" style="font-size: 8pt;" aria-label="Cross-Border Issues (12 items)">Cross-Border Issues</a>
+<a href="https://freedom-to-tinker.com/tag/cybersecurity-policy/" class="tag-cloud-link tag-link-186 tag-link-position-10" style="font-size: 8.8811188811189pt;" aria-label="cybersecurity policy (15 items)">cybersecurity policy</a>
+<a href="https://freedom-to-tinker.com/tag/dmca/" class="tag-cloud-link tag-link-3 tag-link-position-11" style="font-size: 15.734265734266pt;" aria-label="DMCA (78 items)">DMCA</a>
+<a href="https://freedom-to-tinker.com/tag/drm/" class="tag-cloud-link tag-link-10 tag-link-position-12" style="font-size: 19.748251748252pt;" aria-label="DRM (205 items)">DRM</a>
+<a href="https://freedom-to-tinker.com/tag/education/" class="tag-cloud-link tag-link-50 tag-link-position-13" style="font-size: 10.937062937063pt;" aria-label="Education (25 items)">Education</a>
+<a href="https://freedom-to-tinker.com/tag/ethics/" class="tag-cloud-link tag-link-288 tag-link-position-14" style="font-size: 8.3916083916084pt;" aria-label="ethics (13 items)">ethics</a>
+<a href="https://freedom-to-tinker.com/tag/events/" class="tag-cloud-link tag-link-62 tag-link-position-15" style="font-size: 10.643356643357pt;" aria-label="Events (23 items)">Events</a>
+<a href="https://freedom-to-tinker.com/tag/facebook/" class="tag-cloud-link tag-link-130 tag-link-position-16" style="font-size: 9.4685314685315pt;" aria-label="Facebook (17 items)">Facebook</a>
+<a href="https://freedom-to-tinker.com/tag/fcc/" class="tag-cloud-link tag-link-121 tag-link-position-17" style="font-size: 9.1748251748252pt;" aria-label="FCC (16 items)">FCC</a>
+<a href="https://freedom-to-tinker.com/tag/government/" class="tag-cloud-link tag-link-31 tag-link-position-18" style="font-size: 9.8601398601399pt;" aria-label="Government (19 items)">Government</a>
+<a href="https://freedom-to-tinker.com/tag/government-transparency/" class="tag-cloud-link tag-link-75 tag-link-position-19" style="font-size: 12.503496503497pt;" aria-label="Government transparency (36 items)">Government transparency</a>
+<a href="https://freedom-to-tinker.com/tag/grokster-case/" class="tag-cloud-link tag-link-54 tag-link-position-20" style="font-size: 9.6643356643357pt;" aria-label="Grokster Case (18 items)">Grokster Case</a>
+<a href="https://freedom-to-tinker.com/tag/humor/" class="tag-cloud-link tag-link-42 tag-link-position-21" style="font-size: 10.937062937063pt;" aria-label="Humor (25 items)">Humor</a>
+<a href="https://freedom-to-tinker.com/tag/innovation-policy/" class="tag-cloud-link tag-link-14 tag-link-position-22" style="font-size: 13.874125874126pt;" aria-label="Innovation Policy (50 items)">Innovation Policy</a>
+<a href="https://freedom-to-tinker.com/tag/law/" class="tag-cloud-link tag-link-102 tag-link-position-23" style="font-size: 10.839160839161pt;" aria-label="Law (24 items)">Law</a>
+<a href="https://freedom-to-tinker.com/tag/managing-the-internet/" class="tag-cloud-link tag-link-53 tag-link-position-24" style="font-size: 15.048951048951pt;" aria-label="Managing the Internet (67 items)">Managing the Internet</a>
+<a href="https://freedom-to-tinker.com/tag/media/" class="tag-cloud-link tag-link-47 tag-link-position-25" style="font-size: 14.363636363636pt;" aria-label="Media (56 items)">Media</a>
+<a href="https://freedom-to-tinker.com/tag/nsa/" class="tag-cloud-link tag-link-291 tag-link-position-26" style="font-size: 10.055944055944pt;" aria-label="NSA (20 items)">NSA</a>
+<a href="https://freedom-to-tinker.com/tag/online-communities/" class="tag-cloud-link tag-link-16 tag-link-position-27" style="font-size: 10.251748251748pt;" aria-label="Online Communities (21 items)">Online Communities</a>
+<a href="https://freedom-to-tinker.com/tag/peer-to-peer/" class="tag-cloud-link tag-link-55 tag-link-position-28" style="font-size: 12.503496503497pt;" aria-label="Peer-to-Peer (36 items)">Peer-to-Peer</a>
+<a href="https://freedom-to-tinker.com/tag/predictions/" class="tag-cloud-link tag-link-51 tag-link-position-29" style="font-size: 10.937062937063pt;" aria-label="Predictions (25 items)">Predictions</a>
+<a href="https://freedom-to-tinker.com/tag/princeton/" class="tag-cloud-link tag-link-29 tag-link-position-30" style="font-size: 14.363636363636pt;" aria-label="Princeton (56 items)">Princeton</a>
+<a href="https://freedom-to-tinker.com/tag/privacy/" class="tag-cloud-link tag-link-15 tag-link-position-31" style="font-size: 20.237762237762pt;" aria-label="Privacy (229 items)">Privacy</a>
+<a href="https://freedom-to-tinker.com/tag/publishing/" class="tag-cloud-link tag-link-52 tag-link-position-32" style="font-size: 11.72027972028pt;" aria-label="Publishing (30 items)">Publishing</a>
+<a href="https://freedom-to-tinker.com/tag/recommended-reading/" class="tag-cloud-link tag-link-56 tag-link-position-33" style="font-size: 10.937062937063pt;" aria-label="Recommended Reading (25 items)">Recommended Reading</a>
+<a href="https://freedom-to-tinker.com/tag/secrecy/" class="tag-cloud-link tag-link-17 tag-link-position-34" style="font-size: 9.1748251748252pt;" aria-label="Secrecy (16 items)">Secrecy</a>
+<a href="https://freedom-to-tinker.com/tag/security/" class="tag-cloud-link tag-link-6 tag-link-position-35" style="font-size: 22pt;" aria-label="Security (343 items)">Security</a>
+<a href="https://freedom-to-tinker.com/tag/spam/" class="tag-cloud-link tag-link-8 tag-link-position-36" style="font-size: 12.895104895105pt;" aria-label="Spam (40 items)">Spam</a>
+<a href="https://freedom-to-tinker.com/tag/super-dmca/" class="tag-cloud-link tag-link-48 tag-link-position-37" style="font-size: 10.643356643357pt;" aria-label="Super-DMCA (23 items)">Super-DMCA</a>
+<a href="https://freedom-to-tinker.com/tag/surveillance/" class="tag-cloud-link tag-link-124 tag-link-position-38" style="font-size: 10.839160839161pt;" aria-label="surveillance (24 items)">surveillance</a>
+<a href="https://freedom-to-tinker.com/tag/techlawpolicy-blogs/" class="tag-cloud-link tag-link-41 tag-link-position-39" style="font-size: 12.20979020979pt;" aria-label="Tech/Law/Policy Blogs (34 items)">Tech/Law/Policy Blogs</a>
+<a href="https://freedom-to-tinker.com/tag/technology-and-freedom/" class="tag-cloud-link tag-link-23 tag-link-position-40" style="font-size: 21.118881118881pt;" aria-label="Technology and Freedom (284 items)">Technology and Freedom</a>
+<a href="https://freedom-to-tinker.com/tag/transparency/" class="tag-cloud-link tag-link-7 tag-link-position-41" style="font-size: 9.1748251748252pt;" aria-label="transparency (16 items)">transparency</a>
+<a href="https://freedom-to-tinker.com/tag/virtual-worlds/" class="tag-cloud-link tag-link-58 tag-link-position-42" style="font-size: 8pt;" aria-label="Virtual Worlds (12 items)">Virtual Worlds</a>
+<a href="https://freedom-to-tinker.com/tag/voting/" class="tag-cloud-link tag-link-49 tag-link-position-43" style="font-size: 19.454545454545pt;" aria-label="Voting (190 items)">Voting</a>
+<a href="https://freedom-to-tinker.com/tag/wiretapping/" class="tag-cloud-link tag-link-65 tag-link-position-44" style="font-size: 10.447552447552pt;" aria-label="Wiretapping (22 items)">Wiretapping</a>
+<a href="https://freedom-to-tinker.com/tag/wpm/" class="tag-cloud-link tag-link-323 tag-link-position-45" style="font-size: 10.251748251748pt;" aria-label="WPM (21 items)">WPM</a></div>
+</div></div>
+		<div id="authors-2" class="widget widget_authors"><div class="widget-wrap">			<h4 class="widget-title widgettitle">Contributors</h4>
+			<select onchange="window.location=this.options[this.selectedIndex].value">
+<option value="#">Select Author...</option>
+<option value="https://freedom-to-tinker.com/author/aleecia/">Aleecia M. McDonald</option>
+<option value="https://freedom-to-tinker.com/author/haldermanheninger/">Alex Halderman and Nadia Heninger</option>
+<option value="https://freedom-to-tinker.com/author/amigi/">Alex Migicovsky</option>
+<option value="https://freedom-to-tinker.com/author/amy-winecoff/">Amy Winecoff</option>
+<option value="https://freedom-to-tinker.com/author/appel/">Andrew Appel</option>
+<option value="https://freedom-to-tinker.com/author/angelina-wang/">Angelina Wang</option>
+<option value="https://freedom-to-tinker.com/author/abridy/">Annemarie Bridy</option>
+<option value="https://freedom-to-tinker.com/author/annettez/">Annette Zimmermann</option>
+<option value="https://freedom-to-tinker.com/author/annee/">Annie Edmundson</option>
+<option value="https://freedom-to-tinker.com/author/amathur/">Arunesh Mathur</option>
+<option value="https://freedom-to-tinker.com/author/randomwalker/">Arvind Narayanan</option>
+<option value="https://freedom-to-tinker.com/author/axel/">Axel Arnbak</option>
+<option value="https://freedom-to-tinker.com/author/aylin/">Aylin Caliskan-Islam</option>
+<option value="https://freedom-to-tinker.com/author/bhuffman/">Bart Huffman</option>
+<option value="https://freedom-to-tinker.com/author/bgellman/">Barton Gellman</option>
+<option value="https://freedom-to-tinker.com/author/ben-kaiser/">Ben Kaiser</option>
+<option value="https://freedom-to-tinker.com/author/bzevenbergen/">Bendert Zevenbergen</option>
+<option value="https://freedom-to-tinker.com/author/wzeller/">Bill Zeller</option>
+<option value="https://freedom-to-tinker.com/author/blakereid/">Blake Reid</option>
+<option value="https://freedom-to-tinker.com/author/bfrischmann/">Brett Frischmann</option>
+<option value="https://freedom-to-tinker.com/author/bford/">Bryan Ford</option>
+<option value="https://freedom-to-tinker.com/author/chong/">Chong Xiang</option>
+<option value="https://freedom-to-tinker.com/author/christelle-tessono/">Christelle Tessono</option>
+<option value="https://freedom-to-tinker.com/author/dwallach/">Dan Wallach</option>
+<option value="https://freedom-to-tinker.com/author/danielchowe/">Daniel Howe</option>
+<option value="https://freedom-to-tinker.com/author/davelevine/">Dave Levine</option>
+<option value="https://freedom-to-tinker.com/author/dlukens/">David Lukens</option>
+<option value="https://freedom-to-tinker.com/author/dgr/">David Robinson</option>
+<option value="https://freedom-to-tinker.com/author/vicentin/">Diego Vicentin</option>
+<option value="https://freedom-to-tinker.com/author/dreisman/">Dillon Reisman</option>
+<option value="https://freedom-to-tinker.com/author/felten/">Ed Felten</option>
+<option value="https://freedom-to-tinker.com/author/kollarssmith/">Eric Smith and Nina Kollars</option>
+<option value="https://freedom-to-tinker.com/author/ethanh/">Ethan Heilman</option>
+<option value="https://freedom-to-tinker.com/author/gem/">Gary McGraw</option>
+<option value="https://freedom-to-tinker.com/author/gneff/">Gina Neff</option>
+<option value="https://freedom-to-tinker.com/author/grayson/">Grayson Barber</option>
+<option value="https://freedom-to-tinker.com/author/gacar/">Gunes Acar</option>
+<option value="https://freedom-to-tinker.com/author/harlanyu/">Harlan Yu</option>
+<option value="https://freedom-to-tinker.com/author/hkalodner/">Harry Kalodner</option>
+<option value="https://freedom-to-tinker.com/author/henry-birge-lee/">Henry Birge-Lee</option>
+<option value="https://freedom-to-tinker.com/author/hooman/">Hooman Mohajeri Moghaddam</option>
+<option value="https://freedom-to-tinker.com/author/idavey/">Ian Davey</option>
+<option value="https://freedom-to-tinker.com/author/ilundberg/">Ian Lundberg</option>
+<option value="https://freedom-to-tinker.com/author/jhalderm/">J. Alex Halderman</option>
+<option value="https://freedom-to-tinker.com/author/jake-shapiro/">Jake Shapiro</option>
+<option value="https://freedom-to-tinker.com/author/jgrimmelmann/">James Grimmelmann</option>
+<option value="https://freedom-to-tinker.com/author/jaredho/">Jared Ho</option>
+<option value="https://freedom-to-tinker.com/author/peled/">Jasmine Peled</option>
+<option value="https://freedom-to-tinker.com/author/jbryson/">Joanna Bryson</option>
+<option value="https://freedom-to-tinker.com/author/jdlasica/">JD Lasica</option>
+<option value="https://freedom-to-tinker.com/author/jtignor/">Jeffrey Tignor</option>
+<option value="https://freedom-to-tinker.com/author/jrex/">Jennifer Rexford</option>
+<option value="https://freedom-to-tinker.com/author/jeremyepstein/">Jeremy Epstein</option>
+<option value="https://freedom-to-tinker.com/author/jerry/">Jerry Brito</option>
+<option value="https://freedom-to-tinker.com/author/jessicasu/">Jessica Su</option>
+<option value="https://freedom-to-tinker.com/author/jcalandr/">Joe Calandrino</option>
+<option value="https://freedom-to-tinker.com/author/reidenberg/">Joel Reidenberg</option>
+<option value="https://freedom-to-tinker.com/author/jpenney/">Jon Penney</option>
+<option value="https://freedom-to-tinker.com/author/jrmayer/">Jonathan Mayer</option>
+<option value="https://freedom-to-tinker.com/author/jbonneau/">Joseph Bonneau</option>
+<option value="https://freedom-to-tinker.com/author/joehall/">Joseph Lorenzo Hall</option>
+<option value="https://freedom-to-tinker.com/author/goldstein/">Joshua Goldstein</option>
+<option value="https://freedom-to-tinker.com/author/kroll/">Joshua Kroll</option>
+<option value="https://freedom-to-tinker.com/author/jstoyanovich/">Julia Stoyanovich</option>
+<option value="https://freedom-to-tinker.com/author/keltis/">Karen Eltis</option>
+<option value="https://freedom-to-tinker.com/author/khaenschen/">Katherine Haenschen</option>
+<option value="https://freedom-to-tinker.com/author/kchen/">Kelvin Chen</option>
+<option value="https://freedom-to-tinker.com/author/kennypeng/">Kenny Peng</option>
+<option value="https://freedom-to-tinker.com/author/kevinlee/">Kevin Lee</option>
+<option value="https://freedom-to-tinker.com/author/klaudia/">Klaudia Jaźwińska</option>
+<option value="https://freedom-to-tinker.com/author/lcumming/">Laura Cummings-Abdo</option>
+<option value="https://freedom-to-tinker.com/author/reyzin/">Leonid Reyzin</option>
+<option value="https://freedom-to-tinker.com/author/liza/">Liza Paudel</option>
+<option value="https://freedom-to-tinker.com/author/luis/">Luis Villa</option>
+<option value="https://freedom-to-tinker.com/author/lukasz/">Lukasz Olejnik</option>
+<option value="https://freedom-to-tinker.com/author/madelyns/">Madelyn R Sanfilippo</option>
+<option value="https://freedom-to-tinker.com/author/masomel/">Marcela Melara</option>
+<option value="https://freedom-to-tinker.com/author/mbraverm/">Mark Braverman</option>
+<option value="https://freedom-to-tinker.com/author/mhass/">Mark Hass</option>
+<option value="https://freedom-to-tinker.com/author/mchetty/">Marshini Chetty</option>
+<option value="https://freedom-to-tinker.com/author/matheus/">Matheus Ferreira</option>
+<option value="https://freedom-to-tinker.com/author/mjs3/">Matthew Salganik</option>
+<option value="https://freedom-to-tinker.com/author/mkshirsagar/">Mihir Kshirsagar</option>
+<option value="https://freedom-to-tinker.com/author/mfreed/">Mike Freedman</option>
+<option value="https://freedom-to-tinker.com/author/mcarlsten/">Miles Carlsten</option>
+<option value="https://freedom-to-tinker.com/author/golden/">Mitch Golden</option>
+<option value="https://freedom-to-tinker.com/author/nadiah/">Nadia Heninger</option>
+<option value="https://freedom-to-tinker.com/author/nmatias/">Nathan Matias</option>
+<option value="https://freedom-to-tinker.com/author/feamster/">Nick Feamster</option>
+<option value="https://freedom-to-tinker.com/author/nickyr/">Nicky Robinson</option>
+<option value="https://freedom-to-tinker.com/author/paulellenbogen/">Paul Ellenbogen</option>
+<option value="https://freedom-to-tinker.com/author/paul/">Paul Ohm</option>
+<option value="https://freedom-to-tinker.com/author/pborsook/">Paulina Borsook</option>
+<option value="https://freedom-to-tinker.com/author/peterz/">Pete Zimmerman</option>
+<option value="https://freedom-to-tinker.com/author/pnhoward/">Philip N. Howard</option>
+<option value="https://freedom-to-tinker.com/author/pwinter/">Philipp Winter</option>
+<option value="https://freedom-to-tinker.com/author/pmittal/">Prateek Mittal</option>
+<option value="https://freedom-to-tinker.com/author/pkumar/">Priya Kumar</option>
+<option value="https://freedom-to-tinker.com/author/rmackinnon/">Rebecca MacKinnon</option>
+<option value="https://freedom-to-tinker.com/author/ronhedges/">Ron Hedges</option>
+<option value="https://freedom-to-tinker.com/author/rlemos/">Ronaldo Lemos</option>
+<option value="https://freedom-to-tinker.com/author/ryan-amos/">Ryan Amos</option>
+<option value="https://freedom-to-tinker.com/author/sransbotham/">Sam Ransbotham</option>
+<option value="https://freedom-to-tinker.com/author/sg/">SG</option>
+<option value="https://freedom-to-tinker.com/author/sjs/">Stephen Schultze</option>
+<option value="https://freedom-to-tinker.com/author/sroosa/">Steve Roosa</option>
+<option value="https://freedom-to-tinker.com/author/englehardt/">Steven Englehardt</option>
+<option value="https://freedom-to-tinker.com/author/stevenag/">Steven Goldfeder</option>
+<option value="https://freedom-to-tinker.com/author/shmat/">Suman Jana</option>
+<option value="https://freedom-to-tinker.com/author/tiffanyli/">Tiffany Li</option>
+<option value="https://freedom-to-tinker.com/author/tblee/">Timothy B. Lee</option>
+<option value="https://freedom-to-tinker.com/author/teaguehalderman/">Vanessa Teague and J. Alex Halderman</option>
+<option value="https://freedom-to-tinker.com/author/vitaly/">Vitaly Shmatikov</option>
+<option value="https://freedom-to-tinker.com/author/wseltzer/">Wendy Seltzer</option>
+<option value="https://freedom-to-tinker.com/author/wclarkso/">Will Clarkson</option>
+<option value="https://freedom-to-tinker.com/author/yan/">Yan Shvartzshnaider</option>
+<option value="https://freedom-to-tinker.com/author/yoshi/">Yoshi Kohno</option>
+<option value="https://freedom-to-tinker.com/author/ydahl/">Yusuf Dahl</option>
+<option value="https://freedom-to-tinker.com/author/zeynep/">Zeynep Tufekci</option>
+</select>					</div></div>
+	<div id="wpb-caw-widget-2" class="widget wpb_caw_widget"><div class="widget-wrap"><h4 class="widget-title widgettitle">Archives by Month</h4>
+		<ul class="compact-archives" style="text-transform: uppercase;" >
+			<li><strong><a href="https://freedom-to-tinker.com/2022/">2022</a>: </strong> <span class="emptymonth">J</span> <a href="https://freedom-to-tinker.com/2022/02/" title="February 2001">F</a> <a href="https://freedom-to-tinker.com/2022/03/" title="March 2001">M</a> <a href="https://freedom-to-tinker.com/2022/04/" title="April 2001">A</a> <a href="https://freedom-to-tinker.com/2022/05/" title="May 2001">M</a> <a href="https://freedom-to-tinker.com/2022/06/" title="June 2001">J</a> <a href="https://freedom-to-tinker.com/2022/07/" title="July 2001">J</a> <a href="https://freedom-to-tinker.com/2022/08/" title="August 2001">A</a> <a href="https://freedom-to-tinker.com/2022/09/" title="September 2001">S</a> <span class="emptymonth">O</span> <span class="emptymonth">N</span> <span class="emptymonth">D</span> </li>
+<li><strong><a href="https://freedom-to-tinker.com/2021/">2021</a>: </strong> <a href="https://freedom-to-tinker.com/2021/01/" title="January 2001">J</a> <a href="https://freedom-to-tinker.com/2021/02/" title="February 2001">F</a> <a href="https://freedom-to-tinker.com/2021/03/" title="March 2001">M</a> <a href="https://freedom-to-tinker.com/2021/04/" title="April 2001">A</a> <a href="https://freedom-to-tinker.com/2021/05/" title="May 2001">M</a> <a href="https://freedom-to-tinker.com/2021/06/" title="June 2001">J</a> <a href="https://freedom-to-tinker.com/2021/07/" title="July 2001">J</a> <a href="https://freedom-to-tinker.com/2021/08/" title="August 2001">A</a> <a href="https://freedom-to-tinker.com/2021/09/" title="September 2001">S</a> <a href="https://freedom-to-tinker.com/2021/10/" title="October 2001">O</a> <a href="https://freedom-to-tinker.com/2021/11/" title="November 2001">N</a> <span class="emptymonth">D</span> </li>
+<li><strong><a href="https://freedom-to-tinker.com/2020/">2020</a>: </strong> <a href="https://freedom-to-tinker.com/2020/01/" title="January 2001">J</a> <a href="https://freedom-to-tinker.com/2020/02/" title="February 2001">F</a> <a href="https://freedom-to-tinker.com/2020/03/" title="March 2001">M</a> <a href="https://freedom-to-tinker.com/2020/04/" title="April 2001">A</a> <a href="https://freedom-to-tinker.com/2020/05/" title="May 2001">M</a> <a href="https://freedom-to-tinker.com/2020/06/" title="June 2001">J</a> <a href="https://freedom-to-tinker.com/2020/07/" title="July 2001">J</a> <a href="https://freedom-to-tinker.com/2020/08/" title="August 2001">A</a> <a href="https://freedom-to-tinker.com/2020/09/" title="September 2001">S</a> <a href="https://freedom-to-tinker.com/2020/10/" title="October 2001">O</a> <a href="https://freedom-to-tinker.com/2020/11/" title="November 2001">N</a> <a href="https://freedom-to-tinker.com/2020/12/" title="December 2001">D</a> </li>
+<li><strong><a href="https://freedom-to-tinker.com/2019/">2019</a>: </strong> <a href="https://freedom-to-tinker.com/2019/01/" title="January 2001">J</a> <a href="https://freedom-to-tinker.com/2019/02/" title="February 2001">F</a> <a href="https://freedom-to-tinker.com/2019/03/" title="March 2001">M</a> <a href="https://freedom-to-tinker.com/2019/04/" title="April 2001">A</a> <a href="https://freedom-to-tinker.com/2019/05/" title="May 2001">M</a> <span class="emptymonth">J</span> <a href="https://freedom-to-tinker.com/2019/07/" title="July 2001">J</a> <a href="https://freedom-to-tinker.com/2019/08/" title="August 2001">A</a> <a href="https://freedom-to-tinker.com/2019/09/" title="September 2001">S</a> <a href="https://freedom-to-tinker.com/2019/10/" title="October 2001">O</a> <a href="https://freedom-to-tinker.com/2019/11/" title="November 2001">N</a> <a href="https://freedom-to-tinker.com/2019/12/" title="December 2001">D</a> </li>
+<li><strong><a href="https://freedom-to-tinker.com/2018/">2018</a>: </strong> <a href="https://freedom-to-tinker.com/2018/01/" title="January 2001">J</a> <a href="https://freedom-to-tinker.com/2018/02/" title="February 2001">F</a> <a href="https://freedom-to-tinker.com/2018/03/" title="March 2001">M</a> <a href="https://freedom-to-tinker.com/2018/04/" title="April 2001">A</a> <a href="https://freedom-to-tinker.com/2018/05/" title="May 2001">M</a> <a href="https://freedom-to-tinker.com/2018/06/" title="June 2001">J</a> <a href="https://freedom-to-tinker.com/2018/07/" title="July 2001">J</a> <span class="emptymonth">A</span> <a href="https://freedom-to-tinker.com/2018/09/" title="September 2001">S</a> <a href="https://freedom-to-tinker.com/2018/10/" title="October 2001">O</a> <a href="https://freedom-to-tinker.com/2018/11/" title="November 2001">N</a> <a href="https://freedom-to-tinker.com/2018/12/" title="December 2001">D</a> </li>
+<li><strong><a href="https://freedom-to-tinker.com/2017/">2017</a>: </strong> <a href="https://freedom-to-tinker.com/2017/01/" title="January 2001">J</a> <a href="https://freedom-to-tinker.com/2017/02/" title="February 2001">F</a> <a href="https://freedom-to-tinker.com/2017/03/" title="March 2001">M</a> <a href="https://freedom-to-tinker.com/2017/04/" title="April 2001">A</a> <a href="https://freedom-to-tinker.com/2017/05/" title="May 2001">M</a> <a href="https://freedom-to-tinker.com/2017/06/" title="June 2001">J</a> <a href="https://freedom-to-tinker.com/2017/07/" title="July 2001">J</a> <a href="https://freedom-to-tinker.com/2017/08/" title="August 2001">A</a> <a href="https://freedom-to-tinker.com/2017/09/" title="September 2001">S</a> <a href="https://freedom-to-tinker.com/2017/10/" title="October 2001">O</a> <a href="https://freedom-to-tinker.com/2017/11/" title="November 2001">N</a> <a href="https://freedom-to-tinker.com/2017/12/" title="December 2001">D</a> </li>
+<li><strong><a href="https://freedom-to-tinker.com/2016/">2016</a>: </strong> <a href="https://freedom-to-tinker.com/2016/01/" title="January 2001">J</a> <a href="https://freedom-to-tinker.com/2016/02/" title="February 2001">F</a> <a href="https://freedom-to-tinker.com/2016/03/" title="March 2001">M</a> <a href="https://freedom-to-tinker.com/2016/04/" title="April 2001">A</a> <a href="https://freedom-to-tinker.com/2016/05/" title="May 2001">M</a> <span class="emptymonth">J</span> <a href="https://freedom-to-tinker.com/2016/07/" title="July 2001">J</a> <a href="https://freedom-to-tinker.com/2016/08/" title="August 2001">A</a> <a href="https://freedom-to-tinker.com/2016/09/" title="September 2001">S</a> <a href="https://freedom-to-tinker.com/2016/10/" title="October 2001">O</a> <a href="https://freedom-to-tinker.com/2016/11/" title="November 2001">N</a> <a href="https://freedom-to-tinker.com/2016/12/" title="December 2001">D</a> </li>
+<li><strong><a href="https://freedom-to-tinker.com/2015/">2015</a>: </strong> <a href="https://freedom-to-tinker.com/2015/01/" title="January 2001">J</a> <a href="https://freedom-to-tinker.com/2015/02/" title="February 2001">F</a> <a href="https://freedom-to-tinker.com/2015/03/" title="March 2001">M</a> <a href="https://freedom-to-tinker.com/2015/04/" title="April 2001">A</a> <a href="https://freedom-to-tinker.com/2015/05/" title="May 2001">M</a> <a href="https://freedom-to-tinker.com/2015/06/" title="June 2001">J</a> <a href="https://freedom-to-tinker.com/2015/07/" title="July 2001">J</a> <a href="https://freedom-to-tinker.com/2015/08/" title="August 2001">A</a> <a href="https://freedom-to-tinker.com/2015/09/" title="September 2001">S</a> <a href="https://freedom-to-tinker.com/2015/10/" title="October 2001">O</a> <a href="https://freedom-to-tinker.com/2015/11/" title="November 2001">N</a> <a href="https://freedom-to-tinker.com/2015/12/" title="December 2001">D</a> </li>
+<li><strong><a href="https://freedom-to-tinker.com/2014/">2014</a>: </strong> <a href="https://freedom-to-tinker.com/2014/01/" title="January 2001">J</a> <a href="https://freedom-to-tinker.com/2014/02/" title="February 2001">F</a> <a href="https://freedom-to-tinker.com/2014/03/" title="March 2001">M</a> <a href="https://freedom-to-tinker.com/2014/04/" title="April 2001">A</a> <a href="https://freedom-to-tinker.com/2014/05/" title="May 2001">M</a> <a href="https://freedom-to-tinker.com/2014/06/" title="June 2001">J</a> <a href="https://freedom-to-tinker.com/2014/07/" title="July 2001">J</a> <a href="https://freedom-to-tinker.com/2014/08/" title="August 2001">A</a> <a href="https://freedom-to-tinker.com/2014/09/" title="September 2001">S</a> <a href="https://freedom-to-tinker.com/2014/10/" title="October 2001">O</a> <a href="https://freedom-to-tinker.com/2014/11/" title="November 2001">N</a> <a href="https://freedom-to-tinker.com/2014/12/" title="December 2001">D</a> </li>
+<li><strong><a href="https://freedom-to-tinker.com/2013/">2013</a>: </strong> <a href="https://freedom-to-tinker.com/2013/01/" title="January 2001">J</a> <a href="https://freedom-to-tinker.com/2013/02/" title="February 2001">F</a> <a href="https://freedom-to-tinker.com/2013/03/" title="March 2001">M</a> <a href="https://freedom-to-tinker.com/2013/04/" title="April 2001">A</a> <a href="https://freedom-to-tinker.com/2013/05/" title="May 2001">M</a> <a href="https://freedom-to-tinker.com/2013/06/" title="June 2001">J</a> <a href="https://freedom-to-tinker.com/2013/07/" title="July 2001">J</a> <a href="https://freedom-to-tinker.com/2013/08/" title="August 2001">A</a> <a href="https://freedom-to-tinker.com/2013/09/" title="September 2001">S</a> <a href="https://freedom-to-tinker.com/2013/10/" title="October 2001">O</a> <a href="https://freedom-to-tinker.com/2013/11/" title="November 2001">N</a> <a href="https://freedom-to-tinker.com/2013/12/" title="December 2001">D</a> </li>
+<li><strong><a href="https://freedom-to-tinker.com/2012/">2012</a>: </strong> <a href="https://freedom-to-tinker.com/2012/01/" title="January 2001">J</a> <a href="https://freedom-to-tinker.com/2012/02/" title="February 2001">F</a> <a href="https://freedom-to-tinker.com/2012/03/" title="March 2001">M</a> <a href="https://freedom-to-tinker.com/2012/04/" title="April 2001">A</a> <a href="https://freedom-to-tinker.com/2012/05/" title="May 2001">M</a> <a href="https://freedom-to-tinker.com/2012/06/" title="June 2001">J</a> <a href="https://freedom-to-tinker.com/2012/07/" title="July 2001">J</a> <span class="emptymonth">A</span> <a href="https://freedom-to-tinker.com/2012/09/" title="September 2001">S</a> <a href="https://freedom-to-tinker.com/2012/10/" title="October 2001">O</a> <a href="https://freedom-to-tinker.com/2012/11/" title="November 2001">N</a> <a href="https://freedom-to-tinker.com/2012/12/" title="December 2001">D</a> </li>
+<li><strong><a href="https://freedom-to-tinker.com/2011/">2011</a>: </strong> <a href="https://freedom-to-tinker.com/2011/01/" title="January 2001">J</a> <a href="https://freedom-to-tinker.com/2011/02/" title="February 2001">F</a> <a href="https://freedom-to-tinker.com/2011/03/" title="March 2001">M</a> <a href="https://freedom-to-tinker.com/2011/04/" title="April 2001">A</a> <a href="https://freedom-to-tinker.com/2011/05/" title="May 2001">M</a> <a href="https://freedom-to-tinker.com/2011/06/" title="June 2001">J</a> <a href="https://freedom-to-tinker.com/2011/07/" title="July 2001">J</a> <a href="https://freedom-to-tinker.com/2011/08/" title="August 2001">A</a> <a href="https://freedom-to-tinker.com/2011/09/" title="September 2001">S</a> <a href="https://freedom-to-tinker.com/2011/10/" title="October 2001">O</a> <a href="https://freedom-to-tinker.com/2011/11/" title="November 2001">N</a> <a href="https://freedom-to-tinker.com/2011/12/" title="December 2001">D</a> </li>
+<li><strong><a href="https://freedom-to-tinker.com/2010/">2010</a>: </strong> <a href="https://freedom-to-tinker.com/2010/01/" title="January 2001">J</a> <a href="https://freedom-to-tinker.com/2010/02/" title="February 2001">F</a> <a href="https://freedom-to-tinker.com/2010/03/" title="March 2001">M</a> <a href="https://freedom-to-tinker.com/2010/04/" title="April 2001">A</a> <a href="https://freedom-to-tinker.com/2010/05/" title="May 2001">M</a> <a href="https://freedom-to-tinker.com/2010/06/" title="June 2001">J</a> <a href="https://freedom-to-tinker.com/2010/07/" title="July 2001">J</a> <a href="https://freedom-to-tinker.com/2010/08/" title="August 2001">A</a> <a href="https://freedom-to-tinker.com/2010/09/" title="September 2001">S</a> <a href="https://freedom-to-tinker.com/2010/10/" title="October 2001">O</a> <a href="https://freedom-to-tinker.com/2010/11/" title="November 2001">N</a> <a href="https://freedom-to-tinker.com/2010/12/" title="December 2001">D</a> </li>
+<li><strong><a href="https://freedom-to-tinker.com/2009/">2009</a>: </strong> <a href="https://freedom-to-tinker.com/2009/01/" title="January 2001">J</a> <a href="https://freedom-to-tinker.com/2009/02/" title="February 2001">F</a> <a href="https://freedom-to-tinker.com/2009/03/" title="March 2001">M</a> <a href="https://freedom-to-tinker.com/2009/04/" title="April 2001">A</a> <a href="https://freedom-to-tinker.com/2009/05/" title="May 2001">M</a> <a href="https://freedom-to-tinker.com/2009/06/" title="June 2001">J</a> <a href="https://freedom-to-tinker.com/2009/07/" title="July 2001">J</a> <a href="https://freedom-to-tinker.com/2009/08/" title="August 2001">A</a> <a href="https://freedom-to-tinker.com/2009/09/" title="September 2001">S</a> <a href="https://freedom-to-tinker.com/2009/10/" title="October 2001">O</a> <a href="https://freedom-to-tinker.com/2009/11/" title="November 2001">N</a> <a href="https://freedom-to-tinker.com/2009/12/" title="December 2001">D</a> </li>
+<li><strong><a href="https://freedom-to-tinker.com/2008/">2008</a>: </strong> <a href="https://freedom-to-tinker.com/2008/01/" title="January 2001">J</a> <a href="https://freedom-to-tinker.com/2008/02/" title="February 2001">F</a> <a href="https://freedom-to-tinker.com/2008/03/" title="March 2001">M</a> <a href="https://freedom-to-tinker.com/2008/04/" title="April 2001">A</a> <a href="https://freedom-to-tinker.com/2008/05/" title="May 2001">M</a> <a href="https://freedom-to-tinker.com/2008/06/" title="June 2001">J</a> <a href="https://freedom-to-tinker.com/2008/07/" title="July 2001">J</a> <a href="https://freedom-to-tinker.com/2008/08/" title="August 2001">A</a> <a href="https://freedom-to-tinker.com/2008/09/" title="September 2001">S</a> <a href="https://freedom-to-tinker.com/2008/10/" title="October 2001">O</a> <a href="https://freedom-to-tinker.com/2008/11/" title="November 2001">N</a> <a href="https://freedom-to-tinker.com/2008/12/" title="December 2001">D</a> </li>
+<li><strong><a href="https://freedom-to-tinker.com/2007/">2007</a>: </strong> <a href="https://freedom-to-tinker.com/2007/01/" title="January 2001">J</a> <a href="https://freedom-to-tinker.com/2007/02/" title="February 2001">F</a> <a href="https://freedom-to-tinker.com/2007/03/" title="March 2001">M</a> <a href="https://freedom-to-tinker.com/2007/04/" title="April 2001">A</a> <a href="https://freedom-to-tinker.com/2007/05/" title="May 2001">M</a> <a href="https://freedom-to-tinker.com/2007/06/" title="June 2001">J</a> <a href="https://freedom-to-tinker.com/2007/07/" title="July 2001">J</a> <a href="https://freedom-to-tinker.com/2007/08/" title="August 2001">A</a> <a href="https://freedom-to-tinker.com/2007/09/" title="September 2001">S</a> <a href="https://freedom-to-tinker.com/2007/10/" title="October 2001">O</a> <a href="https://freedom-to-tinker.com/2007/11/" title="November 2001">N</a> <a href="https://freedom-to-tinker.com/2007/12/" title="December 2001">D</a> </li>
+<li><strong><a href="https://freedom-to-tinker.com/2006/">2006</a>: </strong> <a href="https://freedom-to-tinker.com/2006/01/" title="January 2001">J</a> <a href="https://freedom-to-tinker.com/2006/02/" title="February 2001">F</a> <a href="https://freedom-to-tinker.com/2006/03/" title="March 2001">M</a> <a href="https://freedom-to-tinker.com/2006/04/" title="April 2001">A</a> <a href="https://freedom-to-tinker.com/2006/05/" title="May 2001">M</a> <a href="https://freedom-to-tinker.com/2006/06/" title="June 2001">J</a> <a href="https://freedom-to-tinker.com/2006/07/" title="July 2001">J</a> <a href="https://freedom-to-tinker.com/2006/08/" title="August 2001">A</a> <a href="https://freedom-to-tinker.com/2006/09/" title="September 2001">S</a> <a href="https://freedom-to-tinker.com/2006/10/" title="October 2001">O</a> <a href="https://freedom-to-tinker.com/2006/11/" title="November 2001">N</a> <a href="https://freedom-to-tinker.com/2006/12/" title="December 2001">D</a> </li>
+<li><strong><a href="https://freedom-to-tinker.com/2005/">2005</a>: </strong> <a href="https://freedom-to-tinker.com/2005/01/" title="January 2001">J</a> <a href="https://freedom-to-tinker.com/2005/02/" title="February 2001">F</a> <a href="https://freedom-to-tinker.com/2005/03/" title="March 2001">M</a> <a href="https://freedom-to-tinker.com/2005/04/" title="April 2001">A</a> <a href="https://freedom-to-tinker.com/2005/05/" title="May 2001">M</a> <a href="https://freedom-to-tinker.com/2005/06/" title="June 2001">J</a> <a href="https://freedom-to-tinker.com/2005/07/" title="July 2001">J</a> <a href="https://freedom-to-tinker.com/2005/08/" title="August 2001">A</a> <a href="https://freedom-to-tinker.com/2005/09/" title="September 2001">S</a> <a href="https://freedom-to-tinker.com/2005/10/" title="October 2001">O</a> <a href="https://freedom-to-tinker.com/2005/11/" title="November 2001">N</a> <a href="https://freedom-to-tinker.com/2005/12/" title="December 2001">D</a> </li>
+<li><strong><a href="https://freedom-to-tinker.com/2004/">2004</a>: </strong> <a href="https://freedom-to-tinker.com/2004/01/" title="January 2001">J</a> <a href="https://freedom-to-tinker.com/2004/02/" title="February 2001">F</a> <a href="https://freedom-to-tinker.com/2004/03/" title="March 2001">M</a> <a href="https://freedom-to-tinker.com/2004/04/" title="April 2001">A</a> <a href="https://freedom-to-tinker.com/2004/05/" title="May 2001">M</a> <a href="https://freedom-to-tinker.com/2004/06/" title="June 2001">J</a> <a href="https://freedom-to-tinker.com/2004/07/" title="July 2001">J</a> <a href="https://freedom-to-tinker.com/2004/08/" title="August 2001">A</a> <a href="https://freedom-to-tinker.com/2004/09/" title="September 2001">S</a> <a href="https://freedom-to-tinker.com/2004/10/" title="October 2001">O</a> <a href="https://freedom-to-tinker.com/2004/11/" title="November 2001">N</a> <a href="https://freedom-to-tinker.com/2004/12/" title="December 2001">D</a> </li>
+<li><strong><a href="https://freedom-to-tinker.com/2003/">2003</a>: </strong> <a href="https://freedom-to-tinker.com/2003/01/" title="January 2001">J</a> <a href="https://freedom-to-tinker.com/2003/02/" title="February 2001">F</a> <a href="https://freedom-to-tinker.com/2003/03/" title="March 2001">M</a> <a href="https://freedom-to-tinker.com/2003/04/" title="April 2001">A</a> <a href="https://freedom-to-tinker.com/2003/05/" title="May 2001">M</a> <a href="https://freedom-to-tinker.com/2003/06/" title="June 2001">J</a> <a href="https://freedom-to-tinker.com/2003/07/" title="July 2001">J</a> <a href="https://freedom-to-tinker.com/2003/08/" title="August 2001">A</a> <a href="https://freedom-to-tinker.com/2003/09/" title="September 2001">S</a> <a href="https://freedom-to-tinker.com/2003/10/" title="October 2001">O</a> <a href="https://freedom-to-tinker.com/2003/11/" title="November 2001">N</a> <a href="https://freedom-to-tinker.com/2003/12/" title="December 2001">D</a> </li>
+<li><strong><a href="https://freedom-to-tinker.com/2002/">2002</a>: </strong> <span class="emptymonth">J</span> <span class="emptymonth">F</span> <span class="emptymonth">M</span> <span class="emptymonth">A</span> <span class="emptymonth">M</span> <span class="emptymonth">J</span> <a href="https://freedom-to-tinker.com/2002/07/" title="July 2001">J</a> <a href="https://freedom-to-tinker.com/2002/08/" title="August 2001">A</a> <a href="https://freedom-to-tinker.com/2002/09/" title="September 2001">S</a> <a href="https://freedom-to-tinker.com/2002/10/" title="October 2001">O</a> <a href="https://freedom-to-tinker.com/2002/11/" title="November 2001">N</a> <a href="https://freedom-to-tinker.com/2002/12/" title="December 2001">D</a> </li>
+		</ul>
+		</div></div>
+<div id="text-3" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><a href="/wp-admin/">author log in</a></div>
+		</div></div>
+</div></div><div id="sidebar-alt" class="sidebar widget-area"></div></div><!-- end .wrap --></div><div id="footer" class="footer"><div class="wrap"><div class="gototop"><p><a href="#wrap" rel="nofollow">Return to top of page</a></p></div><div class="creds"><p>Copyright &#x000A9;&nbsp;2022 &#x000B7;<a href="http://www.studiopress.com/themes/education">Education Theme</a> on <a href="http://my.studiopress.com/themes/genesis/">Genesis Framework</a> &middot; <a href="http://wordpress.org/">WordPress</a> &middot; <a href="https://freedom-to-tinker.com/wp-login.php">Log in</a></p></div></div></div></div><script type='text/javascript' id='eeb-js-ajax-ef-js-extra'>
+/* <![CDATA[ */
+var eeb_ef = {"ajaxurl":"https:\/\/freedom-to-tinker.com\/wp-admin\/admin-ajax.php","security":"31a33354ea"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://freedom-to-tinker.com/wp-content/plugins/email-encoder-bundle/core/includes/assets/js/encoder-form.js?ver=221007-105236' id='eeb-js-ajax-ef-js'></script>
+<script type='text/javascript' src='https://freedom-to-tinker.com/wp-includes/js/comment-reply.min.js?ver=6.0.2' id='comment-reply-js'></script>
+</body>
+</html>

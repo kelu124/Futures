@@ -1,0 +1,1120 @@
+<!doctype html>
+<!--[if lt IE 7]><html lang="en-US" class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html lang="en-US" class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html lang="en-US" class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US" class="no-js"><!--<![endif]-->
+    <head>
+<!-- Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
+<script type="text/javascript" async=true>
+(function() {
+  var host = window.location.hostname;
+  var element = document.createElement('script');
+  var firstScript = document.getElementsByTagName('script')[0];
+  var url = 'https://cmp.quantcast.com'
+    .concat('/choice/', 'DG4C2cGjKDCuu', '/', host, '/choice.js');
+  var uspTries = 0;
+  var uspTriesLimit = 3;
+  element.async = true;
+  element.type = 'text/javascript';
+  element.src = url;
+
+  firstScript.parentNode.insertBefore(element, firstScript);
+
+  function makeStub() {
+    var TCF_LOCATOR_NAME = '__tcfapiLocator';
+    var queue = [];
+    var win = window;
+    var cmpFrame;
+
+    function addFrame() {
+      var doc = win.document;
+      var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+
+      if (!otherCMP) {
+        if (doc.body) {
+          var iframe = doc.createElement('iframe');
+
+          iframe.style.cssText = 'display:none';
+          iframe.name = TCF_LOCATOR_NAME;
+          doc.body.appendChild(iframe);
+        } else {
+          setTimeout(addFrame, 5);
+        }
+      }
+      return !otherCMP;
+    }
+
+    function tcfAPIHandler() {
+      var gdprApplies;
+      var args = arguments;
+
+      if (!args.length) {
+        return queue;
+      } else if (args[0] === 'setGdprApplies') {
+        if (
+          args.length > 3 &&
+          args[2] === 2 &&
+          typeof args[3] === 'boolean'
+        ) {
+          gdprApplies = args[3];
+          if (typeof args[2] === 'function') {
+            args[2]('set', true);
+          }
+        }
+      } else if (args[0] === 'ping') {
+        var retr = {
+          gdprApplies: gdprApplies,
+          cmpLoaded: false,
+          cmpStatus: 'stub'
+        };
+
+        if (typeof args[2] === 'function') {
+          args[2](retr);
+        }
+      } else {
+        if(args[0] === 'init' && typeof args[3] === 'object') {
+          args[3] = { ...args[3], tag_version: 'V2' };
+        }
+        queue.push(args);
+      }
+    }
+
+    function postMessageEventHandler(event) {
+      var msgIsString = typeof event.data === 'string';
+      var json = {};
+
+      try {
+        if (msgIsString) {
+          json = JSON.parse(event.data);
+        } else {
+          json = event.data;
+        }
+      } catch (ignore) {}
+
+      var payload = json.__tcfapiCall;
+
+      if (payload) {
+        window.__tcfapi(
+          payload.command,
+          payload.version,
+          function(retValue, success) {
+            var returnMsg = {
+              __tcfapiReturn: {
+                returnValue: retValue,
+                success: success,
+                callId: payload.callId
+              }
+            };
+            if (msgIsString) {
+              returnMsg = JSON.stringify(returnMsg);
+            }
+            if (event && event.source && event.source.postMessage) {
+              event.source.postMessage(returnMsg, '*');
+            }
+          },
+          payload.parameter
+        );
+      }
+    }
+
+    while (win) {
+      try {
+        if (win.frames[TCF_LOCATOR_NAME]) {
+          cmpFrame = win;
+          break;
+        }
+      } catch (ignore) {}
+
+      if (win === window.top) {
+        break;
+      }
+      win = win.parent;
+    }
+    if (!cmpFrame) {
+      addFrame();
+      win.__tcfapi = tcfAPIHandler;
+      win.addEventListener('message', postMessageEventHandler, false);
+    }
+  };
+
+  makeStub();
+
+  var uspStubFunction = function() {
+    var arg = arguments;
+    if (typeof window.__uspapi !== uspStubFunction) {
+      setTimeout(function() {
+        if (typeof window.__uspapi !== 'undefined') {
+          window.__uspapi.apply(window.__uspapi, arg);
+        }
+      }, 500);
+    }
+  };
+
+  var checkIfUspIsReady = function() {
+    uspTries++;
+    if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+      console.warn('USP is not accessible');
+    } else {
+      clearInterval(uspInterval);
+    }
+  };
+
+  if (typeof window.__uspapi === 'undefined') {
+    window.__uspapi = uspStubFunction;
+    var uspInterval = setInterval(checkIfUspIsReady, 6000);
+  }
+})();
+</script>
+<!-- End Quantcast Choice. Consent Manager Tag v2.0 (for TCF 2.0) -->
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-5S8NS5M');</script>
+        <!-- End Google Tag Manager -->
+                <meta charset="utf-8">
+
+                <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+        <title>The real reasons young people are choosing sobriety</title>
+
+                <meta name="HandheldFriendly" content="True">
+        <meta name="MobileOptimized" content="320">
+
+
+                <link rel="apple-touch-icon" href="https://huckmedia-725c.kxcdn.com/wp-content/themes/huck2013/library/images/apple-icon-touch.png?x61317">
+        <link rel="icon" href="/favicon.ico?x61317">
+        <!--[if IE]>
+                <link rel="shortcut icon" href="https://huckmedia-725c.kxcdn.com/wp-content/themes/huck2013/favicon.ico?x61317">
+        <![endif]-->
+                <meta name="msapplication-TileColor" content="#f01d4f">
+        <meta name="msapplication-TileImage" content="https://huckmedia-725c.kxcdn.com/wp-content/themes/huck2013/library/images/win8-tile-icon.png?x61317">
+
+        <link rel="pingback" href="https://www.huckmag.com/wp/xmlrpc.php">
+
+                <script>(function(d, s, id){
+				 var js, fjs = d.getElementsByTagName(s)[0];
+				 if (d.getElementById(id)) {return;}
+				 js = d.createElement(s); js.id = id;
+				 js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+				 fjs.parentNode.insertBefore(js, fjs);
+			   }(document, 'script', 'facebook-jssdk'));</script>
+	<!-- This site is optimized with the Yoast SEO plugin v19.5.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="Their drinking habits have seen them derided as ‘generation sensible’, but this overlooks the complex and nuanced reasons people are turning their back on alcohol, writes Eve Upton-Clark." />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://www.huckmag.com/perspectives/the-real-reasons-young-people-are-choosing-sobriety/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="The real reasons young people are choosing sobriety" />
+	<meta property="og:description" content="Their drinking habits have seen them derided as ‘generation sensible’, but this overlooks the complex and nuanced reasons people are turning their back on alcohol, writes Eve Upton-Clark." />
+	<meta property="og:url" content="https://www.huckmag.com/perspectives/the-real-reasons-young-people-are-choosing-sobriety/" />
+	<meta property="og:site_name" content="Huck Magazine" />
+	<meta property="article:publisher" content="https://www.facebook.com/HUCKmagazine" />
+	<meta property="article:published_time" content="2022-09-16T10:49:29+00:00" />
+	<meta property="og:image" content="https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/09/HUCK_SOBRIETY_01.jpg" />
+	<meta property="og:image:width" content="1280" />
+	<meta property="og:image:height" content="559" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="author" content="Daisy Schofield" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@huckmagazine" />
+	<meta name="twitter:site" content="@huckmagazine" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Daisy Schofield" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="7 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.huckmag.com/perspectives/the-real-reasons-young-people-are-choosing-sobriety/","url":"https://www.huckmag.com/perspectives/the-real-reasons-young-people-are-choosing-sobriety/","name":"The real reasons young people are choosing sobriety","isPartOf":{"@id":"https://www.huckmag.com/#website"},"primaryImageOfPage":{"@id":"https://www.huckmag.com/perspectives/the-real-reasons-young-people-are-choosing-sobriety/#primaryimage"},"image":{"@id":"https://www.huckmag.com/perspectives/the-real-reasons-young-people-are-choosing-sobriety/#primaryimage"},"thumbnailUrl":"https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/09/HUCK_SOBRIETY_01.jpg","datePublished":"2022-09-16T10:49:29+00:00","dateModified":"2022-09-16T10:49:29+00:00","author":{"@id":"https://www.huckmag.com/#/schema/person/9df639fd6145fe284a6b096097ebb812"},"description":"Their drinking habits have seen them derided as ‘generation sensible’, but this overlooks the complex and nuanced reasons people are turning their back on alcohol, writes Eve Upton-Clark.","breadcrumb":{"@id":"https://www.huckmag.com/perspectives/the-real-reasons-young-people-are-choosing-sobriety/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.huckmag.com/perspectives/the-real-reasons-young-people-are-choosing-sobriety/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.huckmag.com/perspectives/the-real-reasons-young-people-are-choosing-sobriety/#primaryimage","url":"https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/09/HUCK_SOBRIETY_01.jpg","contentUrl":"https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/09/HUCK_SOBRIETY_01.jpg","width":1280,"height":559},{"@type":"BreadcrumbList","@id":"https://www.huckmag.com/perspectives/the-real-reasons-young-people-are-choosing-sobriety/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.huckmag.com/"},{"@type":"ListItem","position":2,"name":"The real reasons young people are choosing sobriety"}]},{"@type":"WebSite","@id":"https://www.huckmag.com/#website","url":"https://www.huckmag.com/","name":"Huck Magazine","description":"Stories from the fringes.","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.huckmag.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Person","@id":"https://www.huckmag.com/#/schema/person/9df639fd6145fe284a6b096097ebb812","name":"Daisy Schofield","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.huckmag.com/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/4d984930cffe1ed32684d6993675b041?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/4d984930cffe1ed32684d6993675b041?s=96&d=mm&r=g","caption":"Daisy Schofield"},"url":"https://www.huckmag.com/author/daisy-schofield/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//ws.sharethis.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Huck Magazine &raquo; Feed" href="https://www.huckmag.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Huck Magazine &raquo; Comments Feed" href="https://www.huckmag.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.huckmag.com\/wp\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.huckmag.com/wp/wp-includes/css/dist/block-library/style.min.css?x61317' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://huckmedia-725c.kxcdn.com/wp-content/plugins/contact-form-7/includes/css/styles.css?x61317' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-share-buttons-adder-font-awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wpba_front_end_styles-css'  href='https://huckmedia-725c.kxcdn.com/wp-content/plugins/wp-better-attachments/assets/css/wpba-frontend.css?x61317' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='https://huckmedia-725c.kxcdn.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?x61317' type='text/css' media='all' />
+<link rel='stylesheet' id='bones-stylesheet-css'  href='https://huckmedia-725c.kxcdn.com/wp-content/themes/huck2013/library/css/style2.css?x61317' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='bones-ie-only-css'  href='https://huckmedia-725c.kxcdn.com/wp-content/themes/huck2013/library/css/ie.css?x61317' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='bones-override-stylesheet-css'  href='https://huckmedia-725c.kxcdn.com/wp-content/themes/huck2013/library/css/override.css?x61317' type='text/css' media='all' />
+<link rel='stylesheet' id='googlefonts-libre-baskerville-css'  href='//fonts.googleapis.com/css?family=Libre+Baskerville%3A400%2C400italic%2C700' type='text/css' media='all' />
+<link rel='stylesheet' id='bones-genericons-css'  href='https://huckmedia-725c.kxcdn.com/wp-content/themes/huck2013/library/css/genericons.css?x61317' type='text/css' media='all' />
+<script type='text/javascript' src='https://huckmedia-725c.kxcdn.com/wp/wp-includes/js/jquery/jquery.js?x61317'></script>
+<script type='text/javascript' src='https://huckmedia-725c.kxcdn.com/wp/wp-includes/js/jquery/jquery-migrate.min.js?x61317'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var return_child_categories = {"ajaxurl":"https:\/\/www.huckmag.com\/wp\/wp-admin\/admin-ajax.php","returnChildCategoriesNonce":"d36c61839b"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://huckmedia-725c.kxcdn.com/wp-content/themes/huck2013/library/js/returnChildCategories.js?x61317'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var get_filtered_posts = {"ajaxurl":"https:\/\/www.huckmag.com\/wp\/wp-admin\/admin-ajax.php","getMorePostsNonce":"fd653ff2e2"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://huckmedia-725c.kxcdn.com/wp-content/themes/huck2013/library/js/getFilteredPosts.js?x61317'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var load_more_posts = {"ajaxurl":"https:\/\/www.huckmag.com\/wp\/wp-admin\/admin-ajax.php","loadMorePostsNonce":"7af8fd6316"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://huckmedia-725c.kxcdn.com/wp-content/themes/huck2013/library/js/loadMorePosts-cache-bust.js?x61317'></script>
+<script id='st_insights_js' type='text/javascript' src='https://ws.sharethis.com/button/st_insights.js?publisher=4d48b7c5-0ae3-43d4-bfbe-3ff8c17a8ae6&#038;product=simpleshare'></script>
+<script type='text/javascript' src='https://huckmedia-725c.kxcdn.com/wp-content/themes/huck2013/library/js/libs/modernizr.custom.min.js?x61317'></script>
+<script type='text/javascript' src='https://huckmedia-725c.kxcdn.com/wp-content/themes/huck2013/library/js/libs/jquery.simpleselect2.min.js?x61317'></script>
+<link rel='https://api.w.org/' href='https://www.huckmag.com/wp-json/' />
+<link rel='shortlink' href='https://www.huckmag.com/?p=465159' />
+<link rel="alternate" type="application/json+oembed" href="https://www.huckmag.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.huckmag.com%2Fperspectives%2Fthe-real-reasons-young-people-are-choosing-sobriety%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.huckmag.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.huckmag.com%2Fperspectives%2Fthe-real-reasons-young-people-are-choosing-sobriety%2F&#038;format=xml" />
+<link rel="stylesheet" type="text/css" href="https://huckmedia-725c.kxcdn.com/wp-content/plugins/microkids-related-posts/microkids-related-posts-default.css?x61317" /><script type="text/javascript">
+	window._se_plugin_version = '8.1.9';
+</script>
+        <script>
+            jQuery(document).ready(function($) {
+                $(".quantcast-window").on("click", function(e){
+                    e.preventDefault();
+                    window.__tcfapi('displayConsentUi', 2, function() {} );
+                });
+            });
+        </script>
+    <link rel="icon" href="https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2021/05/cropped-logodigital-2-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2021/05/cropped-logodigital-2-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2021/05/cropped-logodigital-2-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2021/05/cropped-logodigital-2-270x270.jpg" />
+        
+                        <link rel="icon" type="image/x-icon" href="https://huckmag.com/favicon.ico?x61317" />
+        <meta name="viewport" content="width=device-width">
+        <script type="text/javascript">if (jQuery(window).width() < 768) {
+
+                if ((navigator.userAgent.match(/iPhone/i)) ||
+                        (navigator.userAgent.match(/iPod/i))) {
+                    jQuery('meta[name=viewport]').attr('content', 'width=device-width, initial-scale=1, user-scalable=0, minimum-scale=1, maximum-scale=10');
+                } else {
+                    jQuery('meta[name=viewport]').attr('content', 'width=device-width, height=device-height, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0');
+                }
+            } else if (jQuery(window).width() > 767) {
+                jQuery('meta[name=viewport]').attr('content', '');
+            }</script>
+        <!-- Facebook Pixel Code -->
+        <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window,document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+         fbq('init', '181922859038530');
+        fbq('track', 'PageView');
+        </script>
+        <noscript>
+         <img height="1" width="1"
+        src="https://www.facebook.com/tr?id=181922859038530&ev=PageView
+        &noscript=1"/>
+        </noscript>
+        <!-- End Facebook Pixel Code -->
+        <!-- Twitter universal website tag code -->
+        <script>
+          !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+          },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+          a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+          // Insert Twitter Pixel ID and Standard Event data below
+          twq('init','o8c81');
+          twq('track','PageView');
+        </script>
+        <!-- End Twitter universal website tag code -->
+        <!-- Global site tag (gtag.js) - Google Ads: 972225099 --> <script async src='https://www.googletagmanager.com/gtag/js?id=AW-972225099'></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-972225099'); </script>
+                <script async src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>        <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+        <script>
+          window.googletag = window.googletag || {cmd: []};
+          googletag.cmd.push(function() {
+                        var billboardMapping = googletag.sizeMapping()
+                        .addSize([0,0],[320,50])
+                        .addSize([780,0],[728,90])
+                        .addSize([1020,0],[[728,90],[970,90],[970,250]])
+                        .build();
+                        var mpuMapping = googletag.sizeMapping()
+                        .addSize([0,0],[300,250])
+                        .addSize([780,0],[728,90])
+                        .addSize([1020,0],[[728,90],[970,90],[970,250]])
+                        .build();
+            googletag.defineSlot('/154725070,22693467215/www.huckmag.com', [320, 50], 'top-banner').defineSizeMapping(billboardMapping).addService(googletag.pubads()).setTargeting("pos","lb").setCollapseEmptyDiv(true);
+            googletag.defineSlot('/154725070,22693467215/www.huckmag.com', [[300, 600], [300, 250]], 'mpu1').addService(googletag.pubads()).setTargeting("pos","mpu1").setCollapseEmptyDiv(true);
+            googletag.defineSlot('/154725070,22693467215/www.huckmag.com', [300, 250], 'mpu2').addService(googletag.pubads()).setTargeting("pos","mpu2").setCollapseEmptyDiv(true);
+            googletag.defineSlot('/154725070,22693467215/www.huckmag.com', [300, 250], 'mpu3').addService(googletag.pubads()).setTargeting("pos","mpu3").setCollapseEmptyDiv(true);
+            googletag.defineSlot('/154725070,22693467215/www.huckmag.com', [300, 250], 'mpu4').addService(googletag.pubads()).setTargeting("pos","mpu4").setCollapseEmptyDiv(true);
+            googletag.defineSlot('/154725070,22693467215/www.huckmag.com', [300, 250], 'mid-banner').defineSizeMapping(mpuMapping).addService(googletag.pubads()).setTargeting("pos","mid-banner").setCollapseEmptyDiv(true);
+            googletag.defineSlot('/154725070,22693467215/www.huckmag.com', [300, 250], 'bottom-banner').defineSizeMapping(mpuMapping).addService(googletag.pubads()).setTargeting("pos","bottom-banner").setCollapseEmptyDiv(true);
+            googletag.defineSlot('/154725070,22693467215/www.huckmag.com', [300, 250], 'bottom-banner1').defineSizeMapping(mpuMapping).addService(googletag.pubads()).setTargeting("pos","bottom-banner1").setCollapseEmptyDiv(true);
+            googletag.defineSlot('/154725070,22693467215/www.huckmag.com', [2, 1], 'teads').addService(googletag.pubads()).setTargeting("pos","teads").setCollapseEmptyDiv(true);
+            googletag.pubads().setTargeting('url', window.location.pathname);
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+          });
+        </script>
+
+    </head>
+        <body class="post-template-default single single-post postid-465159 single-format-standard sub_category">
+                <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5S8NS5M"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+        
+
+        <div id="container" class="clearfix">
+
+            <header class="header twelvecol first" role="banner">
+
+                <div id="inner-header" class="wrap clearfix">
+                    <nav class="nav-contain" role="navigation">
+
+                        <div class="nav logo-nav">
+
+                            <ul><li id="logo"><a href="https://www.huckmag.com" rel="nofollow"></a>
+                                    <img src="https://huckmedia-725c.kxcdn.com/wp-content/themes/huck2013/library/images/huck-icon-dropdown.svg?x61317"
+                                         class="mobile-hide touch-hide svg-replace huck-logo-dropdown-arrow"
+                                         />
+                                    <ul class="sub-menu mobile-hide touch-hide">
+                                        <li id="menu-item-lwl" class="menu-item title-little-white-lies"><a href="https://lwlies.com/" target="_blank">Little White Lies</a></li>
+
+                                        <li id="menu-item-hucktv" class="menu-item title-hucktv"><a href="http://www.youtube.com/user/huckmagazine" target="_blank">Huck Film</a></li>
+                                        <li id="menu-item-hucktv" class="menu-item title-hucktv"><a href="http://www.71alondon.com" target="_blank">71a</a></li>
+                                    </ul>
+                                </li></ul>
+
+                        </div>
+
+
+                        <input type='checkbox' id='toggle' name="nav-group-menu" data-toggle-group="nav-group"/>
+                        <label for='toggle' class='toggle svg-replace'></label>
+                        <input type='checkbox' id='toggle-search' name="nav-group-search" data-toggle-group="nav-group"/>
+                        <label for='toggle-search' class='toggle-search svg-replace'></label>
+                        <form role="search" method="get" id="searchform" action="https://www.huckmag.com/" class="svg-replace">
+	<label class="screen-reader-text" for="s">Search</label>
+	<input type="text" placeholder="search" value="" name="s" id="s" />
+	<input type="submit" id="searchsubmit" value="" />
+	</form>
+                        <ul id="menu-main" class="nav top-nav clearfix"><li id="menu-item-10157" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-10157 title-art-culture"><a title="Art &#038; Culture" href="https://www.huckmag.com/category/art-and-culture/">Art &#038; Culture</a>
+<ul class="sub-menu">
+	<li id="menu-item-10253" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10253 title-photography"><a href="https://www.huckmag.com/category/art-and-culture/photography-2/">Photography</a></li>
+	<li id="menu-item-10252" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10252 title-music"><a href="https://www.huckmag.com/category/art-and-culture/music-2/">Music</a></li>
+	<li id="menu-item-407055" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-407055 title-film"><a href="https://www.huckmag.com/category/art-and-culture/film-2/">Film</a></li>
+	<li id="menu-item-10250" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10250 title-art"><a href="https://www.huckmag.com/category/art-and-culture/art-2/">Art</a></li>
+	<li id="menu-item-10254" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10254 title-books-zines"><a href="https://www.huckmag.com/category/art-and-culture/print/">Books &#038; Zines</a></li>
+</ul>
+</li>
+<li id="menu-item-10321" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-10321 title-news-politics"><a title="News &#038; Politics" href="https://www.huckmag.com/category/perspectives/">News &#038; Politics</a>
+<ul class="sub-menu">
+	<li id="menu-item-10318" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10318 title-activism"><a href="https://www.huckmag.com/category/perspectives/activism-2/">Activism</a></li>
+	<li id="menu-item-10320" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-10320 title-reportage"><a href="https://www.huckmag.com/category/perspectives/reportage-2/">Reportage</a></li>
+	<li id="menu-item-10414" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10414 title-opinion"><a href="https://www.huckmag.com/category/perspectives/opinion-perspectives/">Opinion</a></li>
+</ul>
+</li>
+<li id="menu-item-10311" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-10311 title-sport"><a title="Outdoor" href="https://www.huckmag.com/category/outdoor/">Sport</a>
+<ul class="sub-menu">
+	<li id="menu-item-10312" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10312 title-bikes"><a href="https://www.huckmag.com/category/outdoor/bikes/">Bikes</a></li>
+	<li id="menu-item-10313" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10313 title-skate"><a href="https://www.huckmag.com/category/outdoor/skate/">Skate</a></li>
+	<li id="menu-item-10314" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10314 title-snow"><a href="https://www.huckmag.com/category/outdoor/snow-2/">Snow</a></li>
+	<li id="menu-item-10315" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10315 title-surf"><a href="https://www.huckmag.com/category/outdoor/surf/">Surf</a></li>
+	<li id="menu-item-10158" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10158 title-travel"><a href="https://www.huckmag.com/category/places/">Travel</a></li>
+</ul>
+</li>
+<li id="menu-item-450654" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-450654 title-the-outsiders-project"><a href="https://www.huckmag.com/category/outsiders-project/">The Outsiders Project</a>
+<ul class="sub-menu">
+	<li id="menu-item-452855" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452855 title-features"><a href="https://www.huckmag.com/category/outsiders-project/features/">Features</a></li>
+</ul>
+</li>
+<li id="menu-item-369444" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-369444 title-huck-video"><a href="https://www.huckmag.com/category/huck-tv/">Huck Video</a></li>
+<li id="menu-item-10328" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10328 title-buy-the-mag"><a href="https://huck.imbmsubscriptions.com/back-issues/">Buy the Mag</a>
+<ul class="sub-menu">
+	<li id="menu-item-420384" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-420384 title-current-issue"><a href="https://huck.imbmsubscriptions.com/current-issues-75/">Current Issue</a></li>
+	<li id="menu-item-420385" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-420385 title-subscribe"><a href="https://huck.imbmsubscriptions.com/">Subscribe</a></li>
+	<li id="menu-item-420383" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-420383 title-books-gifts"><a href="https://lwlies-shop.myshopify.com/">Books &#038; Gifts</a></li>
+</ul>
+</li>
+<li id="menu-item-412662" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-412662 title-contact"><a href="https://www.huckmag.com/art-and-culture/submissions-guidelines/">Contact</a></li>
+</ul>
+                    </nav>
+
+                </div>
+
+            </header>
+
+                            <div id="main-billboard">
+                    <!-- ADSLOT | top - all devices -->
+                    <div id='top-banner'>
+                    <script>
+                        googletag.cmd.push(function() { googletag.display('top-banner'); });
+                    </script>
+                    </div>
+                    <!-- END ADSLOT -->
+                </div>
+                                                    
+                <div id="breadcrumbs" class="wrap clearfix">
+
+
+                    <div class="single-post-page-width centered single-page-breadcrumbs"><a href="https://www.huckmag.com/category/perspectives/">News &amp; Politics</a><span class="seperator">&nbsp;/&nbsp;</span><span class="current-post-breadcrumb">The real reasons young people are choosing sobriety</span></div>                </div><!-- breadcrumbs -->
+                        <div class="wrap preSlides clearfix">
+             <div class="sticky-container single-post-page-width centered" id="slideshow">
+            <div id="cycleslide" class="items">
+        <div class="panel single-slide single-image single-post-page-width centered bgContain">
+        <img src="https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/09/HUCK_SOBRIETY_01-958x559.jpg">
+        </div>
+             </div>
+        </div>
+        </div>
+
+    <!--    <div class="panel overlay cycle-overlay">
+        <div class="cycle-caption">
+            <h3>The real reasons young people are choosing sobriety</h3>
+                            <span class="subtitle">Beyond booze</span>
+                    </div> cycle-caption
+    </div> cycle-overlay -->
+
+
+<div id="content">
+
+    <div id="inner-content" class="wrap clearfix">
+
+        <div id="main" class="single-post-page-width clearfix centered" role="main">
+            <div class="single-page-top">
+                <header class="article-header">
+
+                             <h1 class="h2"><a href="https://www.huckmag.com/perspectives/the-real-reasons-young-people-are-choosing-sobriety/" rel="bookmark" title="The real reasons young people are choosing sobriety">The real reasons young people are choosing sobriety</a></h1>
+                            <div class="post-subtitle">
+    <h2>
+        <a href="https://www.huckmag.com/perspectives/the-real-reasons-young-people-are-choosing-sobriety/" title="The real reasons young people are choosing sobriety">Beyond booze</a>
+    </h2>
+</div><!-- post-subtitle -->
+
+
+                        </header>
+            </div>
+            <div class="single-page-left first">
+            
+                    <article id="post-465159" class="clearfix post-465159 post type-post status-publish format-standard has-post-thumbnail hentry category-perspectives category-reportage-2 tag-alcohol tag-eve-upton-clark tag-student tag-united-kingdom" role="article" itemscope itemtype="http://schema.org/BlogPosting">
+<div class="post-meta desktop-hide">
+                        <p class="byline vcard date">Posted <time class="updated" datetime="2022-09-16" pubdate>Friday 16th September 2022 /</time></p>                        <div class="author">Text By <span>Eve Upton-Clark</span></div>
+                                                <div class="social-share">
+            <div class="share-this entry-content">Share this</div>
+            <div class="share-buttons">
+            <!-- Simple Share Buttons Adder (7.7.1) simplesharebuttons.com --><div class="ssba-classic-2 ssba ssbp-wrap left ssbp--theme-1"><div style="text-align:left"><span class="ssba-share-text">Share this...</span><br/><a data-site="" class="ssba_facebook_share" href="http://www.facebook.com/sharer.php?u=https://www.huckmag.com/perspectives/the-real-reasons-young-people-are-choosing-sobriety/"  target="_blank" ><img src="https://www.huckmag.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/facebook.png?x61317" style="width: 35px;" title="Facebook" class="ssba ssba-img" alt="Share on Facebook" /><div title="Facebook" class="ssbp-text">Facebook</div></a><a data-site='pinterest' class='ssba_pinterest_share' href='javascript:void((function()%7Bvar%20e=document.createElement(&apos;script&apos;);e.setAttribute(&apos;type&apos;,&apos;text/javascript&apos;);e.setAttribute(&apos;charset&apos;,&apos;UTF-8&apos;);e.setAttribute(&apos;src&apos;,&apos;//assets.pinterest.com/js/pinmarklet.js?r=&apos;+Math.random()*99999999);document.body.appendChild(e)%7D)());'><img src="https://www.huckmag.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/pinterest.png?x61317" style="width: 35px;" title="Pinterest" class="ssba ssba-img" alt="Pin on Pinterest" /><div title="Pinterest" class="ssbp-text">Pinterest</div></a><a data-site="" class="ssba_twitter_share" href="http://twitter.com/share?url=https://www.huckmag.com/perspectives/the-real-reasons-young-people-are-choosing-sobriety/&amp;text=The%20real%20reasons%20young%20people%20are%20choosing%20sobriety%20"  target=&quot;_blank&quot; ><img src="https://www.huckmag.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/twitter.png?x61317" style="width: 35px;" title="Twitter" class="ssba ssba-img" alt="Tweet about this on Twitter" /><div title="Twitter" class="ssbp-text">Twitter</div></a><a data-site="linkedin" class="ssba_linkedin_share ssba_share_link" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.huckmag.com/perspectives/the-real-reasons-young-people-are-choosing-sobriety/"  target=&quot;_blank&quot; ><img src="https://www.huckmag.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/linkedin.png?x61317" style="width: 35px;" title="LinkedIn" class="ssba ssba-img" alt="Share on LinkedIn" /><div title="Linkedin" class="ssbp-text">Linkedin</div></a></div></div>            </div>
+        </div>
+</div><!-- post-meta -->
+<section class="entry-content shortStandfirst desktop-hide">
+    <p>
+        Their drinking habits have seen them derided as ‘generation sensible’, but this overlooks the complex and nuanced reasons people are turning their back on alcohol.</p>
+</section>
+<section class="entry-content longStandfirst mobile-hide">
+    <p>Their drinking habits have seen them derided as ‘generation sensible’, but this overlooks the complex and nuanced reasons people are turning their back on alcohol, writes Eve Upton-Clark. </p>
+</section>
+
+                        <section class="entry-content clearfix dropcaps-word single-content" itemprop="articleBody">
+
+                            <p><span style="font-weight: 400;">In 2022, the idea that young people are going sober is nothing new. While this trend has been bubbling away for a while now, over the past year, it seems to have accelerated: in fact, almost 150,000 university students have stopped drinking since last September alone, according to new research by </span><a href="https://www.studentbeans.com/blog/uk/navigating-university-as-a-sober-student/"><span style="font-weight: 400;">Student Beans</span></a><span style="font-weight: 400;">. This means a third of university students in the UK identify as sober, joining the ranks of 800,000 teetotal young Brits. Undoubtedly, sobriety is having a moment, rising by 22 per cent from Freshers 2021.</span></p>
+<p><span style="font-weight: 400;">It’s a trend which has often been viewed with wariness and judgment. Some have put it down to <a href="https://www.tcsnetwork.co.uk/gen-z-leading-the-sobriety-revolution/">productivity culture</a>, while a recent </span><a href="https://www.theguardian.com/society/2022/aug/19/why-generation-z-should-give-up-striving-to-be-their-best-self"><span style="font-weight: 400;">opinion piece</span></a><span style="font-weight: 400;"> in </span><i><span style="font-weight: 400;">the Guardian</span></i><span style="font-weight: 400;"> chastised “generation sensible” for trying to “self-maximise </span><i><span style="font-weight: 400;">all the time</span></i><span style="font-weight: 400;">”. The article goes on, “all the joy in life, all the beauty, is going to come from sex, fellowship, revolution and the life of the mind. You know where all those things start? They start in a pub.” Questionable, if not slightly patronising, advice. </span></p>
+<p><a href="https://www.bloomberg.com/news/articles/2018-05-02/australian-brewers-make-weaker-beer-to-attract-younger-drinkers#xj4y7vzkg"><span style="font-weight: 400;">Numerous r</span><span style="font-weight: 400;">eports</span></a><span style="font-weight: 400;"> have put this shift in drinking habits down to self-consciousness. Thanks to social media surveillance, the chances of your sloppy antics being captured on camera and potentially going viral is now at an all-time high. While there might be some truth to this, this explanation paints a picture of a generation overly concerned with their self-image. And, it tends to flatten the complex and often nuanced reasons young people are putting down their drinks.  </span></p>
+<p><span style="font-weight: 400;">For Leilani, a 20-year-old psychology student who is also president of Queen Mary’s Sober Society, gender played a part in her decision to cut back almost entirely on booze. She points to how the media has often demonised drunk women over the years. “It’s terrifying to be a woman and you get a harsher punishment for poor decisions,” Leilani explains. “Think on a small scale: if you cheat then it’s usually presented as the woman’s fault. Then on a more dangerous scale, there’s the case of predatory men.” It’s a sad truth that staying sober is a safety precaution many women have to factor in.</span></p>
+<p><span style="font-weight: 400;">While Leilani exercises booze with caution, limiting herself to a glass or two of wine at dinner, others avoid it entirely. Irina, a 22-year-old music student from London, drank throughout the first few years of university. She was going through a dark time in her life, and looking back, she feels she drank as a way to cope. “I wasn’t really dealing with the problem,” she says, “I was just kind of postponing it.” </span></p>
+<p><span style="font-weight: 400;">Irina has been sober since January. “One thing that has kept me sober is finding faith,” she explains. “I wouldn’t say I’m religious, I’m more spiritual. As I started developing my spiritual side, when I would drink, I would feel really negative and clouded. I saw that as a sign to just stop drinking altogether. I feel a lot more connected with spirituality when I’m sober.” </span></p>
+<p><span style="font-weight: 400;">Unsurprisingly, alcohol and mental health are an unhealthy mix. Recently, there have been widespread warnings of a mental health crisis among students, with <a href="https://www.theguardian.com/society/2022/jun/28/warnings-of-mental-health-crisis-among-covid-generation-of-students">nearly half </a></span><span style="font-weight: 400;">of students saying mental health difficulties had a negative impact on their university experience. “Literally the only reasons I was drinking was because I was feeling sad, and because other people were doing it – which aren’t really good reasons,” Irina explains. “When I’m sad I now turn to journaling or writing music or anything that’s not drinking basically.”</span></p>
+<p><span style="font-weight: 400;">Andrew Misell, from the charity</span><a href="https://alcoholchange.org.uk/"><span style="font-weight: 400;"> Alcohol Change UK</span></a><span style="font-weight: 400;">, says that in general, people are more aware of the consequences of drinking. “It’s also possible that there is a kind of rebellion here, and that young people are looking at their parents&#8217; habits and thinking, ‘I don’t want to actually live like that’,” Misell says. Another factor Misell points to is the changing population in the UK. “The population of the UK is more diverse than it was, say 50 years ago. More of us are part of or familiar with cultures in which alcohol doesn&#8217;t play a part.”</span></p>
+<p><span style="font-weight: 400;">AJ, a second-year International Relations student and the current President of the </span><a href="https://lancastersu.co.uk/groups/sober-society-843d"><span style="font-weight: 400;">Lancaster University Sober Society</span></a><span style="font-weight: 400;">, echoes Misell’s point, noting religion as a factor for not drinking for a handful of people in the society she runs. However, AJ made the decision to go sober for similar reasons to Irina. “I think mental health is a big thing in our current generation. There’s a lot of pressure on us with how the world is. I guess it can go either way, as people can turn to alcohol as stress relief. Then, on the other hand, there are people turning away from it, as it doesn’t really contribute to self-improvement.” Having struggled with her mental health growing up, AJ had promised herself she would only drink when she wasn’t already feeling anxious or negative before making the decision to go tee-total earlier this year. </span></p>
+<p><span style="font-weight: 400;">Less repressed than previous generations, young people like AJ are turning to more mindful methods to cope. “People tend to turn to drink as a way to forget,” she says. “But then when you sober up it just comes back. It starts a cycle. For me personally, I want to deal with my issues head-on. I try to self-reflect, think why am I feeling like this, and find resources to help.” </span></p>
+<p><span style="font-weight: 400;">Despite the sober movement sweeping the UK, alcohol remains part of the fabric of many people’s social lives, from mimosas at brunch to post-work beers to boozy dinner parties. However, more and more, in-person groups and online communities are offering alcohol-free alternatives to going out on the piss. “You can go on a walk, or bowling, or mini golf,” suggests AJ. “There’s plenty of things to do sober if you just look.” In fact, seven out of 10 say they felt they did not need to drink as much because they have a better choice of hobbies than their parents’ generation.</span></p>
+<p><span style="font-weight: 400;">And to state the obvious, students are skint. A student </span><a href="https://www.nus.org.uk/resources/cost-of-living-research-june-2022-students-and-apprentices"><span style="font-weight: 400;">cost of living survey</span></a><span style="font-weight: 400;"> conducted by the National Union of Students (NUS) in June found a third had less than £50 a month left after paying rent and bills and one in 10 reported using food banks. University is the traditional training ground for drinking to excess but with a cost-of-living crisis, buying a round may have you living off beans on toast for the rest of the week. </span></p>
+<p><span style="font-weight: 400;">When Leuan, a 22-year-old Masters student at Queen Mary’s University, moved to London from Gibraltar, the alcohol prices in the city came as a shock. “In Gibraltar, I could get two litres of vodka for £4,” he says. “London alone is very expensive, and then drinking on top was getting very pricey. I could spend up to £90 on one-night of drinking. It was something I could easily cut off and save a lot of money.” </span></p>
+<p><span style="font-weight: 400;">Tom, 30, also noticed his drinking habits impacting him financially. “I often would sacrifice things that I perhaps need or things that would be more beneficial to me,” he explains. “I would rather buy the cheapest washing detergent or skip dinner out to go drinking instead.” While he isn’t teetotal, Tom has consciously cut down on drinking, opting for cheaper options along the way. “I also try and do stuff that doesn’t involve alcohol, “ he explains. “If I’m having dinner out I’ll try to stick to one drink only or just go for tap water.”</span></p>
+<p><span style="font-weight: 400;">The reasons why young people are turning away from alcohol are multifaceted. Sober societies at universities and alcohol-free events offer spaces free from the pressure to drink, or simply a break, rather than a replacement, from other alcohol-fuelled events. “I would always say don&#8217;t let other people tell you how to drink,” says Misell. “I think it&#8217;s great to take information and advice from people, but if you decide within yourself that you would like to significantly reduce or stop drinking because alcohol isn&#8217;t really working for you in a good way, it&#8217;s a positive choice and can be quite empowering.”</span></p>
+<p><span style="font-weight: 400;">Rather than virtue-signaling, the decline in drinking among young adults is driven by the unique conditions of their lives – particularly economic and health factors. Becoming more intentional about one’s relationship with alcohol can only ever be a good thing. “It&#8217;s a myth really that you are boring if you&#8217;re not drinking,” Misell says. “As anyone who&#8217;s ever been sober with a drunk friend will know that when people are drunk, that can be extremely boring too.”</span></p>
+<p><strong>Follow Eve Upton-Clark on <a href="https://twitter.com/eveuptonclark">Twitter</a>.</strong></p>
+<p><strong><b>Enjoyed this article? Like <em>Huck</em> on </b><a href="https://www.facebook.com/HUCKmagazine" target="_blank" rel="noopener noreferrer"><b>Facebook</b></a><b> or follow us on </b><a href="http://twitter.com/huckmagazine" target="_blank" rel="noopener noreferrer"><b>Twitter</b></a><b>.</b></strong></p>
+                        </section>
+
+                        <footer class="article-footer">
+                            <div class="extra-social">
+                            <div class="social-share">
+            <div class="share-this entry-content">Share this</div>
+            <div class="share-buttons">
+            <!-- Simple Share Buttons Adder (7.7.1) simplesharebuttons.com --><div class="ssba-classic-2 ssba ssbp-wrap left ssbp--theme-1"><div style="text-align:left"><span class="ssba-share-text">Share this...</span><br/><a data-site="" class="ssba_facebook_share" href="http://www.facebook.com/sharer.php?u=https://www.huckmag.com/perspectives/the-real-reasons-young-people-are-choosing-sobriety/"  target="_blank" ><img src="https://www.huckmag.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/facebook.png?x61317" style="width: 35px;" title="Facebook" class="ssba ssba-img" alt="Share on Facebook" /><div title="Facebook" class="ssbp-text">Facebook</div></a><a data-site='pinterest' class='ssba_pinterest_share' href='javascript:void((function()%7Bvar%20e=document.createElement(&apos;script&apos;);e.setAttribute(&apos;type&apos;,&apos;text/javascript&apos;);e.setAttribute(&apos;charset&apos;,&apos;UTF-8&apos;);e.setAttribute(&apos;src&apos;,&apos;//assets.pinterest.com/js/pinmarklet.js?r=&apos;+Math.random()*99999999);document.body.appendChild(e)%7D)());'><img src="https://www.huckmag.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/pinterest.png?x61317" style="width: 35px;" title="Pinterest" class="ssba ssba-img" alt="Pin on Pinterest" /><div title="Pinterest" class="ssbp-text">Pinterest</div></a><a data-site="" class="ssba_twitter_share" href="http://twitter.com/share?url=https://www.huckmag.com/perspectives/the-real-reasons-young-people-are-choosing-sobriety/&amp;text=The%20real%20reasons%20young%20people%20are%20choosing%20sobriety%20"  target=&quot;_blank&quot; ><img src="https://www.huckmag.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/twitter.png?x61317" style="width: 35px;" title="Twitter" class="ssba ssba-img" alt="Tweet about this on Twitter" /><div title="Twitter" class="ssbp-text">Twitter</div></a><a data-site="linkedin" class="ssba_linkedin_share ssba_share_link" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.huckmag.com/perspectives/the-real-reasons-young-people-are-choosing-sobriety/"  target=&quot;_blank&quot; ><img src="https://www.huckmag.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/linkedin.png?x61317" style="width: 35px;" title="LinkedIn" class="ssba ssba-img" alt="Share on LinkedIn" /><div title="Linkedin" class="ssbp-text">Linkedin</div></a></div></div>            </div>
+        </div>
+                            </div><!-- desktop-hide extra-social -->
+                                <div class="network-links">
+                                                                    <div class="h3 explore-more"><div class="explore-more-text entry-content">Explore More:</div></div>
+                                <ul>
+                                    <li><a href="https://www.huckmag.com/topics/alcohol/" rel="tag">Alcohol </a></li><li><a href="https://www.huckmag.com/topics/eve-upton-clark/" rel="tag">eve upton-clark </a></li><li><a href="https://www.huckmag.com/topics/student/" rel="tag">student </a></li><li><a href="https://www.huckmag.com/topics/united-kingdom/" rel="tag">United Kingdom </a></li>                                </ul>
+
+                            </div>
+                        </footer>
+
+                        
+                    </article>
+
+                
+                        </div>
+            <div class="single-page-sidebar first">
+            <div id="sidebar1" class="sidebar mobile-hide fourcol last clearfix" role="complementary">
+      <p class="entry-content byline vcard entry-by">Posted <time class="updated" datetime="16-09-2022" pubdate>Friday 16th September, 2022</time><br />Text by <span class="author">Eve Upton-Clark</span>            <br />Illustration &copy Tertia Nash<br />    </p>
+
+    <div class="social-share">
+            <div class="share-this entry-content">Share this</div>
+            <div class="share-buttons">
+            <!-- Simple Share Buttons Adder (7.7.1) simplesharebuttons.com --><div class="ssba-classic-2 ssba ssbp-wrap left ssbp--theme-1"><div style="text-align:left"><span class="ssba-share-text">Share this...</span><br/><a data-site="" class="ssba_facebook_share" href="http://www.facebook.com/sharer.php?u=https://www.huckmag.com/perspectives/the-real-reasons-young-people-are-choosing-sobriety/"  target="_blank" ><img src="https://www.huckmag.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/facebook.png?x61317" style="width: 35px;" title="Facebook" class="ssba ssba-img" alt="Share on Facebook" /><div title="Facebook" class="ssbp-text">Facebook</div></a><a data-site='pinterest' class='ssba_pinterest_share' href='javascript:void((function()%7Bvar%20e=document.createElement(&apos;script&apos;);e.setAttribute(&apos;type&apos;,&apos;text/javascript&apos;);e.setAttribute(&apos;charset&apos;,&apos;UTF-8&apos;);e.setAttribute(&apos;src&apos;,&apos;//assets.pinterest.com/js/pinmarklet.js?r=&apos;+Math.random()*99999999);document.body.appendChild(e)%7D)());'><img src="https://www.huckmag.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/pinterest.png?x61317" style="width: 35px;" title="Pinterest" class="ssba ssba-img" alt="Pin on Pinterest" /><div title="Pinterest" class="ssbp-text">Pinterest</div></a><a data-site="" class="ssba_twitter_share" href="http://twitter.com/share?url=https://www.huckmag.com/perspectives/the-real-reasons-young-people-are-choosing-sobriety/&amp;text=The%20real%20reasons%20young%20people%20are%20choosing%20sobriety%20"  target=&quot;_blank&quot; ><img src="https://www.huckmag.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/twitter.png?x61317" style="width: 35px;" title="Twitter" class="ssba ssba-img" alt="Tweet about this on Twitter" /><div title="Twitter" class="ssbp-text">Twitter</div></a><a data-site="linkedin" class="ssba_linkedin_share ssba_share_link" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.huckmag.com/perspectives/the-real-reasons-young-people-are-choosing-sobriety/"  target=&quot;_blank&quot; ><img src="https://www.huckmag.com/wp-content/plugins/simple-share-buttons-adder/buttons/somacro/linkedin.png?x61317" style="width: 35px;" title="LinkedIn" class="ssba ssba-img" alt="Share on LinkedIn" /><div title="Linkedin" class="ssbp-text">Linkedin</div></a></div></div>            </div>
+        </div>
+</div>
+<div class="ad" style="margin-bottom:20px;">
+  <div id='mpu1'>
+    <script>
+      googletag.cmd.push(function() {
+        googletag.display('mpu1');
+      });
+    </script>
+  </div>
+</div>
+<div class="related-articles">
+		<div class="h2 related-header">
+			RELATED ARTICLES
+		</div>
+                <div class="row row-1"><article data-id="post-464251" id="post-464251" class=" post related-thumb loop-count-0 clearfix category-453 fourcol first col-count-1 post-464251 type-post status-publish format-standard has-post-thumbnail hentry category-playlist-archive category-music-2 tag-al-horner tag-cover-profile tag-huck-77 tag-huck-issue-77 tag-mitski tag-music tag-profile tag-tom-jamieson" role="article"
+         data-count="0" data-post-categories="[453,312]">
+    <header class="article-header">
+        <div class="post-thumbnail-contain">
+<a href="https://www.huckmag.com/playlist-archive/mitski-interview-laurel-hell-huck-issue-77/" rel="bookmark" title="Mitski is tired of working for the knife">
+<img width="313" height="207" src="https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/08/HUCK_Mitski1668-313x207.jpg" class="attachment-related-article-thumb size-related-article-thumb wp-post-image" alt="" srcset="https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/08/HUCK_Mitski1668-313x207.jpg 313w, https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/08/HUCK_Mitski1668-402x267.jpg 402w" sizes="(max-width: 313px) 100vw, 313px" />              <div class="overlay hidden new-overlay">
+
+            <div class='read-more' style='height:22px'><div class='line line-left'></div><div class='line line-right'></div><div class='top'><p>Read More</p></div></div>
+        </div><!-- overlay hidden -->
+    </a>
+</div><!-- post-thumbnail-contain -->
+                    <div class="breadcrumbs desktop-hide"><a href="https://www.huckmag.com/category/playlist-archive/">Issue Archive</a></div><!-- breadcrumbs -->
+             
+        <div class="post-titles"style="border:0;">
+             <h1 class="h2"><a href="https://www.huckmag.com/playlist-archive/mitski-interview-laurel-hell-huck-issue-77/" rel="bookmark" title="Mitski is tired of working for the knife">Mitski is tired of working for the knife</a></h1>
+            <div class="post-subtitle">
+    <h2>
+        <a href="https://www.huckmag.com/playlist-archive/mitski-interview-laurel-hell-huck-issue-77/" title="Mitski is tired of working for the knife">Jobless Monday </a>
+    </h2>
+</div><!-- post-subtitle -->
+                    </div><!-- post-titles -->
+    </header>
+    
+        <footer class="article-footer">
+            </footer>
+    </article>
+</div><!-- row row-1--></div>
+<div class="ad" style="margin-bottom:20px;">
+  <div id='mpu2'>
+    <script>
+      googletag.cmd.push(function() {
+        googletag.display('mpu2');
+      });
+    </script>
+  </div>
+</div>
+<div class="ad" style="margin-bottom:20px;">
+  <div id='mpu3'>
+    <script>
+      googletag.cmd.push(function() {
+        googletag.display('mpu3');
+      });
+    </script>
+  </div>
+</div>
+
+
+</div>
+            </div>
+
+        </div>
+
+    </div>
+    <div id="outer-content" class="wrap clearfix">
+        <div class="mobile-hide">
+        <div class="ad-block fourcol " id="">
+    <div class="ad empty size-" id="">
+            
+    </div>
+</div>
+        </div>
+        <!-- ADSLOT | in-content - all devices -->
+<!-- //MPU_TAG -->
+<div style='text-align: center;margin-bottom:60px;float: left;width: 100%;'>
+    <div id='mid-banner'>
+        <script>
+            googletag.cmd.push(function() {
+                googletag.display('mid-banner');
+            });
+        </script>
+    </div>
+</div>
+<!-- END ADSLOT -->
+<div class="twelvecol first other-articles">
+<div class="sub-cat-name h2 large-sub-heading">
+        <div class="sub-cat-absolute-box">
+            <div class="sub-cat-header">
+                OTHER ARTICLES
+            </div>
+        </div>
+            </div>
+</div>
+        <div class="row row-1"><article data-id="post-465319" id="post-465319" class=" post small-thumb loop-count-0 clearfix category-416 fourcol first col-count-1 post-465319 type-post status-publish format-standard has-post-thumbnail hentry category-activism-2 category-photography-2 tag-benjamin-brooks tag-bike tag-bikestormz tag-london tag-protest tag-sport" role="article"
+         data-count="0" data-post-categories="[416,324]">
+    <header class="article-header">
+        <div class="post-thumbnail-contain">
+<a href="https://www.huckmag.com/art-and-culture/photography-2/photos-of-the-london-ride-out-in-protest-of-knife-crime/" rel="bookmark" title="Photos of the London ride out in protest of knife crime">
+<img width="402" height="267" src="https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/09/20220901-Untitled-16-copy-5-2-402x267.jpg" class="attachment-article-thumb size-article-thumb wp-post-image" alt="" srcset="https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/09/20220901-Untitled-16-copy-5-2-402x267.jpg 402w, https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/09/20220901-Untitled-16-copy-5-2-313x207.jpg 313w" sizes="(max-width: 402px) 100vw, 402px" />              <div class="overlay hidden new-overlay">
+
+            <div class='read-more' style='height:22px'><div class='line line-left'></div><div class='line line-right'></div><div class='top'><p>Read More</p></div></div>
+        </div><!-- overlay hidden -->
+    </a>
+</div><!-- post-thumbnail-contain -->
+                    <div class="breadcrumbs"><a href="https://www.huckmag.com/category/perspectives/">News &amp; Politics</a> &nbsp;>&nbsp; <a href="https://www.huckmag.com/category/perspectives/activism-2/">Activism</a></div><!-- breadcrumbs -->
+             
+        <div class="post-titles">
+             <h1 class="h2"><a href="https://www.huckmag.com/art-and-culture/photography-2/photos-of-the-london-ride-out-in-protest-of-knife-crime/" rel="bookmark" title="Photos of the London ride out in protest of knife crime">Photos of the London ride out in protest of knife crime</a></h1>
+            <div class="post-subtitle">
+    <h2>
+        <a href="https://www.huckmag.com/art-and-culture/photography-2/photos-of-the-london-ride-out-in-protest-of-knife-crime/" title="Photos of the London ride out in protest of knife crime">BikeStormz 2022</a>
+    </h2>
+</div><!-- post-subtitle -->
+                    </div><!-- post-titles -->
+    </header>
+    
+    <section class="entry-content clearfix">
+    Thousands attended the annual event this year to wheelie through the city and call for ‘knives down, bikes up’. <p></p></section>
+    <footer class="article-footer">
+            </footer>
+    </article>
+<article data-id="post-465417" id="post-465417" class=" post small-thumb loop-count-1 clearfix category-443 fourcol col-count-2 post-465417 type-post status-publish format-standard has-post-thumbnail hentry category-art-and-culture category-photography-2 tag-documentary-photography tag-new-york-2 tag-nightlife tag-photography" role="article"
+         data-count="1" data-post-categories="[443,324]">
+    <header class="article-header">
+        <div class="post-thumbnail-contain">
+<a href="https://www.huckmag.com/art-and-culture/a-heady-glimpse-into-new-yorks-underground-scene/" rel="bookmark" title="A heady glimpse into New York’s underground scene">
+<img width="402" height="267" src="https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/09/Huck_dominique-misrahi5-402x267.jpg" class="attachment-article-thumb size-article-thumb wp-post-image" alt="" srcset="https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/09/Huck_dominique-misrahi5-402x267.jpg 402w, https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/09/Huck_dominique-misrahi5-313x207.jpg 313w" sizes="(max-width: 402px) 100vw, 402px" />              <div class="overlay hidden new-overlay">
+
+            <div class='read-more' style='height:22px'><div class='line line-left'></div><div class='line line-right'></div><div class='top'><p>Read More</p></div></div>
+        </div><!-- overlay hidden -->
+    </a>
+</div><!-- post-thumbnail-contain -->
+                    <div class="breadcrumbs"><a href="https://www.huckmag.com/category/art-and-culture/">Art &amp; Culture</a></div><!-- breadcrumbs -->
+             
+        <div class="post-titles">
+             <h1 class="h2"><a href="https://www.huckmag.com/art-and-culture/a-heady-glimpse-into-new-yorks-underground-scene/" rel="bookmark" title="A heady glimpse into New York’s underground scene">A heady glimpse into New York’s underground scene</a></h1>
+            <div class="post-subtitle">
+    <h2>
+        <a href="https://www.huckmag.com/art-and-culture/a-heady-glimpse-into-new-yorks-underground-scene/" title="A heady glimpse into New York’s underground scene">Street life</a>
+    </h2>
+</div><!-- post-subtitle -->
+                    </div><!-- post-titles -->
+    </header>
+    
+    <section class="entry-content clearfix">
+    Dominique Misrahi discusses her unlikely start as a photographer capturing intimate scenes of the city's youth and subcultures. <p></p></section>
+    <footer class="article-footer">
+            </footer>
+    </article>
+<article data-id="post-465131" id="post-465131" class=" post small-thumb loop-count-2 clearfix category-416 fourcol col-count-3 post-465131 type-post status-publish format-standard has-post-thumbnail hentry category-activism-2 category-perspectives tag-housing tag-jess-holland tag-london tag-rent tag-united-kingdom" role="article"
+         data-count="2" data-post-categories="[416,462]">
+    <header class="article-header">
+        <div class="post-thumbnail-contain">
+<a href="https://www.huckmag.com/perspectives/whats-going-on-with-the-london-rental-market/" rel="bookmark" title="What’s going on with the London rental market?">
+<img width="402" height="267" src="https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/09/istockphoto-1251937580-612x612-1-1-402x267.jpg" class="attachment-article-thumb size-article-thumb wp-post-image" alt="" srcset="https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/09/istockphoto-1251937580-612x612-1-1-402x267.jpg 402w, https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/09/istockphoto-1251937580-612x612-1-1-313x207.jpg 313w" sizes="(max-width: 402px) 100vw, 402px" />              <div class="overlay hidden new-overlay">
+
+            <div class='read-more' style='height:22px'><div class='line line-left'></div><div class='line line-right'></div><div class='top'><p>Read More</p></div></div>
+        </div><!-- overlay hidden -->
+    </a>
+</div><!-- post-thumbnail-contain -->
+                    <div class="breadcrumbs"><a href="https://www.huckmag.com/category/perspectives/">News &amp; Politics</a> &nbsp;>&nbsp; <a href="https://www.huckmag.com/category/perspectives/activism-2/">Activism</a></div><!-- breadcrumbs -->
+             
+        <div class="post-titles">
+             <h1 class="h2"><a href="https://www.huckmag.com/perspectives/whats-going-on-with-the-london-rental-market/" rel="bookmark" title="What’s going on with the London rental market?">What’s going on with the London rental market?</a></h1>
+            <div class="post-subtitle">
+    <h2>
+        <a href="https://www.huckmag.com/perspectives/whats-going-on-with-the-london-rental-market/" title="What’s going on with the London rental market?">Flat broke</a>
+    </h2>
+</div><!-- post-subtitle -->
+                    </div><!-- post-titles -->
+    </header>
+    
+    <section class="entry-content clearfix">
+    With skyrocketing rents, packed out viewings, bidding wars and more, renting in London has never been harder. <p></p></section>
+    <footer class="article-footer">
+            </footer>
+    </article>
+</div><!-- row row-1--><!-- ADSLOT | in-content lower - all devices -->
+<!-- //MPU_TAG -->
+<div style='text-align: center;margin-bottom:60px;float: left;width: 100%;'>
+    <div id='bottom-banner'>
+        <script>
+            googletag.cmd.push(function() {
+                googletag.display('bottom-banner');
+            });
+        </script>
+    </div>
+</div>
+<!-- END ADSLOT -->
+<div class="row row-2"><article data-id="post-465392" id="post-465392" class=" post small-thumb loop-count-3 clearfix category-416 fourcol first col-count-1 post-465392 type-post status-publish format-standard has-post-thumbnail hentry category-activism-2 category-perspectives tag-black-lives-matter tag-guy-smallman tag-protest" role="article"
+         data-count="3" data-post-categories="[416,462]">
+    <header class="article-header">
+        <div class="post-thumbnail-contain">
+<a href="https://www.huckmag.com/perspectives/activism-2/the-fight-for-justice-for-chris-kaba-in-photos/" rel="bookmark" title="The fight for justice for Chris Kaba – in photos">
+<img width="402" height="267" src="https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/09/ChrisKaba-Madix-Demo10-9-22fb-3-402x267.jpg" class="attachment-article-thumb size-article-thumb wp-post-image" alt="" srcset="https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/09/ChrisKaba-Madix-Demo10-9-22fb-3-402x267.jpg 402w, https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/09/ChrisKaba-Madix-Demo10-9-22fb-3-735x489.jpg 735w, https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/09/ChrisKaba-Madix-Demo10-9-22fb-3-768x511.jpg 768w, https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/09/ChrisKaba-Madix-Demo10-9-22fb-3-313x207.jpg 313w, https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/09/ChrisKaba-Madix-Demo10-9-22fb-3.jpg 1400w" sizes="(max-width: 402px) 100vw, 402px" />              <div class="overlay hidden new-overlay">
+
+            <div class='read-more' style='height:22px'><div class='line line-left'></div><div class='line line-right'></div><div class='top'><p>Read More</p></div></div>
+        </div><!-- overlay hidden -->
+    </a>
+</div><!-- post-thumbnail-contain -->
+                    <div class="breadcrumbs"><a href="https://www.huckmag.com/category/perspectives/">News &amp; Politics</a> &nbsp;>&nbsp; <a href="https://www.huckmag.com/category/perspectives/activism-2/">Activism</a></div><!-- breadcrumbs -->
+             
+        <div class="post-titles">
+             <h1 class="h2"><a href="https://www.huckmag.com/perspectives/activism-2/the-fight-for-justice-for-chris-kaba-in-photos/" rel="bookmark" title="The fight for justice for Chris Kaba – in photos">The fight for justice for Chris Kaba – in photos</a></h1>
+            <div class="post-subtitle">
+    <h2>
+        <a href="https://www.huckmag.com/perspectives/activism-2/the-fight-for-justice-for-chris-kaba-in-photos/" title="The fight for justice for Chris Kaba – in photos">Black lives matter</a>
+    </h2>
+</div><!-- post-subtitle -->
+                    </div><!-- post-titles -->
+    </header>
+    
+    <section class="entry-content clearfix">
+    Thousands of protestors gathered in Westminster to express their sadness and fury at the fatal police shooting of a young Black man in Brixton. <p></p></section>
+    <footer class="article-footer">
+            </footer>
+    </article>
+<article data-id="post-465207" id="post-465207" class=" post small-thumb loop-count-4 clearfix category-462 fourcol col-count-2 post-465207 type-post status-publish format-standard has-post-thumbnail hentry category-perspectives category-opinion-perspectives tag-cost-of-living-crisis tag-opinion tag-sarah-woolley tag-tv" role="article"
+         data-count="4" data-post-categories="[462,573]">
+    <header class="article-header">
+        <div class="post-thumbnail-contain">
+<a href="https://www.huckmag.com/perspectives/the-cost-of-living-crisis-is-not-a-game/" rel="bookmark" title="The cost of living crisis is not a game">
+<img width="402" height="267" src="https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/09/Screen-Shot-2022-09-07-at-10.51.14-scaled-e1662544817699-402x267.jpg" class="attachment-article-thumb size-article-thumb wp-post-image" alt="" srcset="https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/09/Screen-Shot-2022-09-07-at-10.51.14-scaled-e1662544817699-402x267.jpg 402w, https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/09/Screen-Shot-2022-09-07-at-10.51.14-scaled-e1662544817699-313x207.jpg 313w" sizes="(max-width: 402px) 100vw, 402px" />              <div class="overlay hidden new-overlay">
+
+            <div class='read-more' style='height:22px'><div class='line line-left'></div><div class='line line-right'></div><div class='top'><p>Read More</p></div></div>
+        </div><!-- overlay hidden -->
+    </a>
+</div><!-- post-thumbnail-contain -->
+                    <div class="breadcrumbs"><a href="https://www.huckmag.com/category/perspectives/">News &amp; Politics</a></div><!-- breadcrumbs -->
+             
+        <div class="post-titles">
+             <h1 class="h2"><a href="https://www.huckmag.com/perspectives/the-cost-of-living-crisis-is-not-a-game/" rel="bookmark" title="The cost of living crisis is not a game">The cost of living crisis is not a game</a></h1>
+            <div class="post-subtitle">
+    <h2>
+        <a href="https://www.huckmag.com/perspectives/the-cost-of-living-crisis-is-not-a-game/" title="The cost of living crisis is not a game">Dystopian TV</a>
+    </h2>
+</div><!-- post-subtitle -->
+                    </div><!-- post-titles -->
+    </header>
+    
+    <section class="entry-content clearfix">
+    By turning a real-life crisis into daytime television fodder, TV bosses have once again shown themselves to be completely out of touch with audiences.<p></p></section>
+    <footer class="article-footer">
+            </footer>
+    </article>
+<article data-id="post-465333" id="post-465333" class=" post small-thumb loop-count-5 clearfix category-443 fourcol col-count-3 post-465333 type-post status-publish format-standard has-post-thumbnail hentry category-art-and-culture category-photography-2 tag-books tag-miss-rosen tag-music tag-photography tag-punk" role="article"
+         data-count="5" data-post-categories="[443,324]">
+    <header class="article-header">
+        <div class="post-thumbnail-contain">
+<a href="https://www.huckmag.com/art-and-culture/photos-paying-tribute-to-fans-and-clubbers-of-the-80s-90s/" rel="bookmark" title="Photos paying tribute to fans and clubbers of the ‘80s &#038; ‘90s">
+<img width="402" height="267" src="https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/09/Break-Dancers-03-1200-pix-402x267.jpg" class="attachment-article-thumb size-article-thumb wp-post-image" alt="" srcset="https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/09/Break-Dancers-03-1200-pix-402x267.jpg 402w, https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/09/Break-Dancers-03-1200-pix-738x489.jpg 738w, https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/09/Break-Dancers-03-1200-pix-768x509.jpg 768w, https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/09/Break-Dancers-03-1200-pix-313x207.jpg 313w, https://dch81km8r5tow.cloudfront.net/wp-content/uploads/2022/09/Break-Dancers-03-1200-pix.jpg 1200w" sizes="(max-width: 402px) 100vw, 402px" />              <div class="overlay hidden new-overlay">
+
+            <div class='read-more' style='height:22px'><div class='line line-left'></div><div class='line line-right'></div><div class='top'><p>Read More</p></div></div>
+        </div><!-- overlay hidden -->
+    </a>
+</div><!-- post-thumbnail-contain -->
+                    <div class="breadcrumbs"><a href="https://www.huckmag.com/category/art-and-culture/">Art &amp; Culture</a></div><!-- breadcrumbs -->
+             
+        <div class="post-titles">
+             <h1 class="h2"><a href="https://www.huckmag.com/art-and-culture/photos-paying-tribute-to-fans-and-clubbers-of-the-80s-90s/" rel="bookmark" title="Photos paying tribute to fans and clubbers of the ‘80s &#038; ‘90s">Photos paying tribute to fans and clubbers of the ‘80s &#038; ‘90s</a></h1>
+            <div class="post-subtitle">
+    <h2>
+        <a href="https://www.huckmag.com/art-and-culture/photos-paying-tribute-to-fans-and-clubbers-of-the-80s-90s/" title="Photos paying tribute to fans and clubbers of the ‘80s &#038; ‘90s">Youthquake</a>
+    </h2>
+</div><!-- post-subtitle -->
+                    </div><!-- post-titles -->
+    </header>
+    
+    <section class="entry-content clearfix">
+    Photographer David Corio’s archive offers a glimpse inside a revolutionary era of music and nightlife. <p></p></section>
+    <footer class="article-footer">
+            </footer>
+    </article>
+</div><!-- row row-2-->    </div>
+</div>
+
+<div style="min-width:100%;max-width: none;background-color: white;text-align: center;padding-bottom:60px;float: left;width: 100%;">
+	<div id="bottom-banner1">
+	<script>
+		googletag.cmd.push(function() { googletag.display('bottom-banner1'); });
+	</script>
+	</div>
+</div>
+<div class="footer social-footer" role="contentinfo">
+	<div class="wrap clearfix inner-footer">
+        <div class="twocol first">
+            <div class="social-bar">
+				<div id="social-controls" class="desktop-hide">
+    				<div id="shareToggle">
+						<span class="icon-share"></span>
+					</div>
+	    			<div id="anchorTop">
+						<a href="#container"><span class="genericon genericon-collapse"></span></a>
+					</div>
+				</div>
+                <div class="social-links-wrap">
+					<div class="social-links">
+    <a href="http://instagram.com/huckmagazine" target="_blank" class="genericon genericon-instagram"></a>
+     <a href="https://www.facebook.com/HUCKmagazine" target="_blank" class="genericon genericon-facebook-alt"></a>
+      <a href="https://twitter.com/huckmagazine" target="_blank" class="genericon genericon-twitter"></a>
+       <a href="http://www.youtube.com/user/huckmagazine" target="_blank" class="genericon genericon-youtube"></a>
+</div><!-- social-links -->
+                </div>
+            </div>
+		</div><!-- twocol -->
+
+		<div class="eightcol mobile-hide social-menu">
+	    	<ul id="menu-social-footer-menu" class="nav social-footer-nav clearfix"><li id="menu-item-430528" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-430528 title-privacy-policy"><a href="https://www.huckmag.com/art-and-culture/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-448117" class="quantcast-window menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-448117 title-privacy-settings"><a href="https://www.huckmag.com/">Privacy Settings</a></li>
+</ul>		</div><!-- eightcol -->
+
+		<div class="twocol mobile-hide lwl-logo">
+			<!--    <a href="http://www.littlewhitelies.co.uk/"><img src="/admin/wp-content/themes/huck2013/library/images/lwl-logo.gif?x61317" alt="Little White Lies" /></a>-->
+		</div><!-- twocol -->
+	</div>
+</div>
+
+<footer class="footer" id="main-footer" role="contentinfo">
+	<div id="inner-footer" class="wrap clearfix">
+        <div class="twocol first">
+			<span id="footer-logo" class="svg-replace"><a href="https://www.huckmag.com" rel="nofollow"></a></span>
+			<div class="clear">
+				<div role="form" class="wpcf7" id="wpcf7-f10083-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/perspectives/the-real-reasons-young-people-are-choosing-sobriety/#wpcf7-f10083-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="10083" />
+<input type="hidden" name="_wpcf7_version" value="5.6.2" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f10083-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</div>
+<p>newsletter sign up<br />
+    <span class="wpcf7-form-control-wrap" data-name="your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="email address" /></span> </p>
+<p><input type="submit" value="Send" class="wpcf7-form-control has-spinner wpcf7-submit" /></p>
+<p><span class="wpcf7-form-control-wrap" data-name="mc-signup"><span class="wpcf7-form-control wpcf7-checkbox"><span class="wpcf7-list-item first last"><input type="checkbox" name="mc-signup[]" value="subscribe" checked="checked" /><span class="wpcf7-list-item-label">subscribe</span></span></span></span></p>
+<div class="wpcf7-response-output" aria-hidden="true"></div></form></div>			</div><!-- clear -->
+		</div><!-- twocol -->
+
+		<div class="tencol mobile-hide">
+			<nav role="navigation">
+				<ul id="menu-footer-menu" class="nav footer-nav clearfix"><li id="menu-item-10270" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-10270 title-art-culture"><a href="https://www.huckmag.com/category/art-and-culture/">Art &#038; Culture</a>
+<ul class="sub-menu">
+	<li id="menu-item-10271" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10271 title-art"><a href="https://www.huckmag.com/category/art-and-culture/art-2/">Art</a></li>
+	<li id="menu-item-10272" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10272 title-film"><a href="https://www.huckmag.com/category/art-and-culture/film-2/">Film</a></li>
+	<li id="menu-item-10273" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10273 title-music"><a href="https://www.huckmag.com/category/art-and-culture/music-2/">Music</a></li>
+	<li id="menu-item-10274" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10274 title-photography"><a href="https://www.huckmag.com/category/art-and-culture/photography-2/">Photography</a></li>
+	<li id="menu-item-10275" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10275 title-print"><a href="https://www.huckmag.com/category/art-and-culture/print/">Print</a></li>
+</ul>
+</li>
+<li id="menu-item-10322" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-10322 title-news-politics"><a title="News &#038; Politics" href="https://www.huckmag.com/category/perspectives/">News &#038; Politics</a>
+<ul class="sub-menu">
+	<li id="menu-item-10326" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10326 title-activism"><a title="Activism" href="https://www.huckmag.com/category/perspectives/activism-2/">Activism</a></li>
+	<li id="menu-item-138040" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-138040 title-opinion"><a href="https://www.huckmag.com/category/perspectives/opinion-perspectives/">Opinion</a></li>
+	<li id="menu-item-10324" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-10324 title-reportage"><a href="https://www.huckmag.com/category/perspectives/reportage-2/">Reportage</a></li>
+</ul>
+</li>
+<li id="menu-item-10306" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-10306 title-outdoor"><a href="https://www.huckmag.com/category/outdoor/">Outdoor</a>
+<ul class="sub-menu">
+	<li id="menu-item-10307" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10307 title-bikes"><a href="https://www.huckmag.com/category/outdoor/bikes/">Bikes</a></li>
+	<li id="menu-item-10308" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10308 title-snow"><a href="https://www.huckmag.com/category/outdoor/snow-2/">Snow</a></li>
+	<li id="menu-item-10309" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10309 title-surf"><a href="https://www.huckmag.com/category/outdoor/surf/">Surf</a></li>
+	<li id="menu-item-10310" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10310 title-skate"><a href="https://www.huckmag.com/category/outdoor/skate/">Skate</a></li>
+	<li id="menu-item-450655" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-450655 title-the-outsiders-project"><a href="https://www.huckmag.com/category/outsiders-project/">The Outsiders Project</a></li>
+</ul>
+</li>
+<li id="menu-item-10277" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10277 title-travel"><a href="https://www.huckmag.com/category/places/">Travel</a></li>
+<li id="menu-item-10284" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10284 title-events"><a href="http://71alondon.com">Events</a></li>
+<li id="menu-item-10285" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10285 title-our-network"><a>Our Network</a>
+<ul class="sub-menu">
+	<li id="menu-item-10286" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10286 title-tcolondon-publishing"><a href="http://www.tcolondon.com">TCOLondon Publishing</a></li>
+	<li id="menu-item-10287" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10287 title-little-white-lies"><a href="http://www.littlewhitelies.co.uk">Little White Lies</a></li>
+	<li id="menu-item-10288" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10288 title-71a"><a href="http://71alondon.com">71a</a></li>
+</ul>
+</li>
+<li id="menu-item-10526" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10526 title-subscribe"><a href="https://huck.imbmsubscriptions.com/">Subscribe</a></li>
+<li id="menu-item-449363" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-449363 title-find-the-mag"><a target="_blank" rel="noopener noreferrer" href="http://services.marketforce.co.uk/storelocator/search.aspx?magCode=10613&#038;showmap=1">Find The Mag</a></li>
+</ul>			</nav>
+		</div><!-- tencol -->
+
+		<div class="mobile-show mobile-privacy-policy">
+			<ul id="menu-social-footer-menu-1" class="nav social-footer-nav clearfix"><li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-430528 title-privacy-policy"><a href="https://www.huckmag.com/art-and-culture/privacy-policy/">Privacy Policy</a></li>
+<li class="quantcast-window menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-448117 title-privacy-settings"><a href="https://www.huckmag.com/">Privacy Settings</a></li>
+</ul>		</div>
+
+	</div>
+</footer>
+
+</div>
+
+<!-- ADSLOT | 1x1 - all devices -->
+<div id='div-gpt-ad-1x1'>
+</div>
+<!-- END ADSLOT -->
+
+
+<link rel='stylesheet' id='simple-share-buttons-adder-ssba-css'  href='https://www.huckmag.com/wp-content/plugins/simple-share-buttons-adder/css/ssba.css?x61317' type='text/css' media='all' />
+<style id='simple-share-buttons-adder-ssba-inline-css' type='text/css'>
+	.ssba {
+									
+									
+									
+									
+								}
+								.ssba img
+								{
+									width: 35px !important;
+									padding: 6px;
+									border:  0;
+									box-shadow: none !important;
+									display: inline !important;
+									vertical-align: middle;
+									box-sizing: unset;
+								}
+
+								.ssba-classic-2 .ssbp-text {
+									display: none!important;
+								}
+
+								.ssba .fb-save
+								{
+								padding: 6px;
+								line-height: 30px; }
+								.ssba, .ssba a
+								{
+									text-decoration:none;
+									background: none;
+									
+									font-size: 12px;
+									
+									
+								}
+								
+
+			   #ssba-bar-2 .ssbp-bar-list {
+					max-width: 48px!important;;
+			   }
+			   #ssba-bar-2 .ssbp-bar-list li a {height: 48px!important; width: 48px!important; 
+				}
+				#ssba-bar-2 .ssbp-bar-list li a:hover {
+				}
+
+				#ssba-bar-2 .ssbp-bar-list li a::before {line-height: 48px!important;; font-size: 18px;}
+				#ssba-bar-2 .ssbp-bar-list li a:hover::before {}
+				#ssba-bar-2 .ssbp-bar-list li {
+				margin: 0px 0!important;
+				}@media only screen and ( max-width: 750px ) {
+				#ssba-bar-2 {
+				display: block;
+				}
+			}
+@font-face {
+				font-family: 'ssbp';
+				src:url('https://www.huckmag.com/wp-content/plugins/simple-share-buttons-adder/fonts/ssbp.eot?xj3ol1');
+				src:url('https://www.huckmag.com/wp-content/plugins/simple-share-buttons-adder/fonts/ssbp.eot?#iefixxj3ol1') format('embedded-opentype'),
+					url('https://www.huckmag.com/wp-content/plugins/simple-share-buttons-adder/fonts/ssbp.woff?xj3ol1') format('woff'),
+					url('https://www.huckmag.com/wp-content/plugins/simple-share-buttons-adder/fonts/ssbp.ttf?xj3ol1') format('truetype'),
+					url('https://www.huckmag.com/wp-content/plugins/simple-share-buttons-adder/fonts/ssbp.svg?xj3ol1#ssbp') format('svg');
+				font-weight: normal;
+				font-style: normal;
+
+				/* Better Font Rendering =========== */
+				-webkit-font-smoothing: antialiased;
+				-moz-osx-font-smoothing: grayscale;
+			}
+</style>
+<script type='text/javascript' src='https://www.huckmag.com/wp/wp-includes/js/dist/vendor/wp-polyfill.min.js?x61317'></script>
+<script type='text/javascript'>
+( 'fetch' in window ) || document.write( '<script src="https://www.huckmag.com/wp/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?x61317&amp;ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://www.huckmag.com/wp/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?x61317&amp;ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://www.huckmag.com/wp/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?x61317&amp;ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://www.huckmag.com/wp/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?x61317&amp;ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://www.huckmag.com/wp/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?x61317&amp;ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://www.huckmag.com/wp/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?x61317&amp;ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.huckmag.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://huckmedia-725c.kxcdn.com/wp-content/plugins/contact-form-7/includes/js/index.js?x61317'></script>
+<script type='text/javascript' src='https://huckmedia-725c.kxcdn.com/wp-content/plugins/simple-share-buttons-adder/js/ssba.js?x61317'></script>
+<script type='text/javascript'>
+Main.boot( [] );
+</script>
+<script type='text/javascript' src='https://huckmedia-725c.kxcdn.com/wp-content/themes/huck2013/library/js/mobile-nav.js?x61317'></script>
+<script type='text/javascript' src='https://huckmedia-725c.kxcdn.com/wp-content/themes/huck2013/library/js/libs/jquery.cycle2.min.js?x61317'></script>
+<script type='text/javascript' src='https://huckmedia-725c.kxcdn.com/wp-content/themes/huck2013/library/js/libs/jquery.cycle2.swipe.min.js?x61317'></script>
+<script type='text/javascript' src='https://huckmedia-725c.kxcdn.com/wp-content/themes/huck2013/library/js/libs/jquery.cycle2.caption2.min.js?x61317'></script>
+<script type='text/javascript' src='https://huckmedia-725c.kxcdn.com/wp-content/themes/huck2013/library/js/libs/jcarousel.js?x61317'></script>
+<script type='text/javascript' src='https://huckmedia-725c.kxcdn.com/wp-content/themes/huck2013/library/js/libs/jquery.waypoints.js?x61317'></script>
+<script type='text/javascript' src='https://huckmedia-725c.kxcdn.com/wp-content/themes/huck2013/library/js/libs/jquery.tinyscrollbar.js?x61317'></script>
+<script type='text/javascript' src='https://huckmedia-725c.kxcdn.com/wp-content/themes/huck2013/library/js/scripts.js?x61317'></script>
+<script type='text/javascript' src='https://huckmedia-725c.kxcdn.com/wp/wp-includes/js/wp-embed.min.js?x61317'></script>
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-DG4C2cGjKDCuu",
+uid:"__INSERT_EMAIL_HERE__"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-DG4C2cGjKDCuu.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+	</body>
+
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Page Caching using disk: enhanced 
+Content Delivery Network via huckmedia-725c.kxcdn.com
+
+Served from: www.huckmag.com @ 2022-09-16 11:50:12 by W3 Total Cache
+-->

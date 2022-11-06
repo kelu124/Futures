@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"><!--<![endif]-->
+<head>
+<meta charset="UTF-8">
+<title>  In the Mind of a Whale | Hakai Magazine</title>
+<meta name="Description" content="How can we make sense of the biggest brains on the planet?" />
+<link rel="pingback" href="https://hakaimagazine.com/xmlrpc.php">
+<meta name="author" content="Hakai Magazine">
+<link rel="dns-prefetch" href="//hakaimagazine.com" />
+<link rel="dns-prefetch" href="//s.w.org" />
+<link rel="dns-prefetch" href="//ajax.googleapis.com" />
+<meta name="robots"
+          content="max-image-preview:large"
+    />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta property="fb:app_id" content="1589030751357251" />
+<meta property="og:site_name" content="Hakai Magazine" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://hakaimagazine.com/features/in-the-mind-of-a-whale/" />
+<meta property="og:title" content="  In the Mind of a Whale | Hakai Magazine" />
+<meta property="og:description" content="How can we make sense of the biggest brains on the planet?" />
+<meta property="og:image" content="https://hakaimagazine.com/wp-content/uploads/facebook-how-to-speak-whale.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@hakaimagazine" />
+<meta name="twitter:creator:id" content="2752775016" />
+<meta name="twitter:url" content="https://hakaimagazine.com/features/in-the-mind-of-a-whale/" />
+<meta name="twitter:title" content="  In the Mind of a Whale | Hakai Magazine" />
+<meta name="twitter:description" content="How can we make sense of the biggest brains on the planet?" />
+<meta name="twitter:image" content="https://hakaimagazine.com/wp-content/uploads/twitter-how-to-speak-whale.jpg" />
+<link rel="stylesheet" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/styles/fonts.processed.css">
+<link rel="stylesheet" href="https://use.typekit.net/osp1zba.css">
+<link rel="manifest" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/manifest.json">
+<meta name="application-name" content="Hakai Magazine"/>
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Hakai Magazine">
+<meta name="theme-color" content="#1e5d6f">
+<meta name="msapplication-TileImage" content="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/mstile-144x144.png"/>
+<meta name="msapplication-starturl" content="https://www.hakaimagazine.com">
+<meta name="msapplication-square70x70logo" content="/favicons/mstile-144x144.png"/>
+<meta name="msapplication-square150x150logo" content="/favicons/mstile-144x144.png"/>
+<meta name="msapplication-wide310x150logo" content="/favicons/mstile-144x144.png"/>
+<meta name="msapplication-square310x310logo" content="/favicons/mstile-144x144.png"/>
+<meta name="msapplication-TileColor" content="#1e5d6f"/>
+<meta name="msapplication-notification" content="frequency=30;polling-uri=https://www.hakaimagazine.com/feed/&amp;id=1;polling-uri2http://notifications.buildmypinnedsite.com/?feed=http://notifications.buildmypinnedsite.com/?feed=http://notifications.buildmypinnedsite.com/?feed=http://notifications.buildmypinnedsite.com/?feed=http://notifications.buildmypinnedsite.com/?feed=http://notifications.buildmypinnedsite.com/?feed=http://notifications.buildmypinnedsite.com/?feed=https://www.hakaimagazine.com/feed/&amp;id=2;polling-uri3=http://notifications.buildmypinnedsite.com/?feed=https://www.hakaimagazine.com/feed/&amp;id=3;polling-uri4=http://notifications.buildmypinnedsite.com/?feed=https://www.hakaimagazine.com/feed/&amp;id=4;polling-uri5=http://notifications.buildmypinnedsite.com/?feed=https://www.hakaimagazine.com/feed/&amp;id=5; cycle=1"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, maximum-scale=1, user-scalable=0"/>
+<meta name="google-site-verification" content="OeWXD6rAN7IJpuvPRmrANsbH4Fx-Oawh--GHaAri-Ok" />
+<meta name=“facebook-domain-verification” content=“ymcngavfalr7favgloil6rjjqdm31e” />
+<link rel="icon" type="image/png" sizes="57x57" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" type="image/png" sizes="57x57" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/apple-touch-icon-57x57.png">
+<link rel="icon" type="image/png" sizes="60x60" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" type="image/png" sizes="60x60" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/apple-touch-icon-60x60.png">
+<link rel="icon" type="image/png" sizes="72x72" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" type="image/png" sizes="72x72" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/apple-touch-icon-72x72.png">
+<link rel="icon" type="image/png" sizes="76x76" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" type="image/png" sizes="76x76" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/apple-touch-icon-76x76.png">
+<link rel="icon" type="image/png" sizes="114x114" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" type="image/png" sizes="114x114" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/apple-touch-icon-114x114.png">
+<link rel="icon" type="image/png" sizes="120x120" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" type="image/png" sizes="120x120" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/apple-touch-icon-120x120.png">
+<link rel="icon" type="image/png" sizes="144x144" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" type="image/png" sizes="144x144" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/apple-touch-icon-144x144.png">
+<link rel="icon" type="image/png" sizes="152x152" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" type="image/png" sizes="152x152" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/apple-touch-icon-152x152.png">
+<link rel="icon" type="image/png" sizes="180x180" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/apple-touch-icon-180x180.png">
+<link rel="apple-touch-icon" type="image/png" sizes="180x180" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/favicon-32x32.png">
+<link rel="apple-touch-icon" type="image/png" sizes="32x32" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="194x194" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/favicon-194x194.png">
+<link rel="apple-touch-icon" type="image/png" sizes="194x194" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/favicon-194x194.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/favicon-96x96.png">
+<link rel="apple-touch-icon" type="image/png" sizes="96x96" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="192x192" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/android-chrome-192x192.png">
+<link rel="apple-touch-icon" type="image/png" sizes="192x192" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/android-chrome-192x192.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/favicon-16x16.png">
+<link rel="apple-touch-icon" type="image/png" sizes="16x16" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="144x144" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/mstile-144x144.png">
+<link rel="apple-touch-icon" type="image/png" sizes="144x144" href="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/favicons/mstile-144x144.png">
+<meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" type="application/rss+xml" title="Hakai Magazine &raquo; Feed" href="https://hakaimagazine.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Hakai Magazine &raquo; Comments Feed" href="https://hakaimagazine.com/comments/feed/" />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://hakaimagazine.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='hakaimagazine-style-css'  href='https://hakaimagazine.com/wp-content/themes/HakaiMagazine/style.css?ver=1637263309' type='text/css' media='all' />
+<link rel='stylesheet' id='hakaimagazine-style-sheet-css'  href='https://hakaimagazine.com/wp-content/themes/HakaiMagazine/css/style.css?ver=1637263309' type='text/css' media='all' />
+<link rel='stylesheet' id='hakaimagazine-font-awesome-css'  href='https://hakaimagazine.com/wp-content/themes/HakaiMagazine/fonts/font-awesome.min.css?ver=1637263309' type='text/css' media='all' />
+<link rel='stylesheet' id='hakaimagazine-fancybox-css-css'  href='https://hakaimagazine.com/wp-content/themes/HakaiMagazine/js/fancybox/jquery.fancybox-3.5.7.css?ver=6.0.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://hakaimagazine.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://hakaimagazine.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://hakaimagazine.com/wp-json/" /><link rel="alternate" type="application/json" href="https://hakaimagazine.com/wp-json/wp/v2/features/39874" /><link rel="canonical" href="https://hakaimagazine.com/features/in-the-mind-of-a-whale/" />
+<link rel='shortlink' href='https://hakaimagazine.com/?p=39874' />
+<link rel="alternate" type="application/json+oembed" href="https://hakaimagazine.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhakaimagazine.com%2Ffeatures%2Fin-the-mind-of-a-whale%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://hakaimagazine.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhakaimagazine.com%2Ffeatures%2Fin-the-mind-of-a-whale%2F&#038;format=xml" />
+<!--[if lt IE 9]>
+<script src="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/js/html5shiv.js"></script>
+<![endif]-->
+		<style type="text/css" id="wp-custom-css">
+			.factedited {
+	display:none; }
+.socialgallery {
+	margin:0 auto;
+     display: flex;
+     justify-content: space-between;
+	    font-size: .8em;
+    color: #4faabd;
+	width:300px
+}
+.socialgallery:hover{color:#959591}
+
+.socialgallery img {width:30px;height:30px;filter: grayscale(0%);}
+
+
+.socialgallery img:hover {filter: grayscale(100%);}
+
+.timeline__nav ul li {
+    width: 2.5em;
+}		</style>
+		</head>
+<body class="custom_features-template-default single single-custom_features postid-39874 single-format-standard">    
+ 
+<h1 class="invis">Hakai Magazine</h1>  
+<a class="skip-link screen-reader-text tagmanager" id="AccesibilitySkipLink" href="#content">Skip to content</a>
+<header class="mainnav"> 
+  <section class="header row"> 
+          <a href="https://hakaimagazine.com/" class="tagmanager" id="MagazineHomeLinkLogo" title="Hakai Magazine"><img class="logo" src="https://hakaimagazine.com/wp-content/themes/HakaiMagazine/images/hakai_magazine.svg" alt="Hakai Magazine" width="130" /></a> 
+        <h2>Coastal science and societies</h2>
+  </section>
+  <aside class="nav-text-links main-nav row">
+    <h3 class="invis">Main navigation and search</h3>
+    <nav id="main_navigation">
+      <h4 class="invis">Main navigation</h4>
+      <div class="menu-donate-container"><ul id="menu-donate" class="menu"><li id="menu-item-29583" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29583"><a href="/">Home</a></li>
+<li id="menu-item-29584" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29584"><a href="https://hakaimagazine.com/features/">Features</a></li>
+<li id="menu-item-29585" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29585"><a href="https://hakaimagazine.com/news/">News &#038; Views</a></li>
+<li id="menu-item-29586" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29586"><a href="https://hakaimagazine.com/article-short/">Quick Reads</a></li>
+<li id="menu-item-29587" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29587"><a href="https://hakaimagazine.com/videos-visuals/">Videos &#038; Visuals</a></li>
+</ul></div>    </nav>
+    <section>
+      <h4 class="invis">Search</h4>
+      <form role="search" action="https://hakaimagazine.com/" method="get" class="topsearch" >
+        <label><span class="invis">Search</span>
+          <input type="search" placeholder="Search" name="s"  value="" title="Search for:"/>
+        </label>
+        <button value="Search" class="icons icon-icons_search-button"><span class="invis">Search</span></button>
+      </form>
+    </section>
+    <section class="headericons topbar">
+      <h4 class="invis">Other ways to engage with Hakai Magazine</h4>
+      <ul>
+        <li><a href="https://www.youtube.com/hakaimagazine" id="youtube_header" class="tagmanager icons icon-youtube last"><span >Youtube</span></a></li>
+        <li><a href="https://twitter.com/hakaimagazine" id="twitter_header" class="tagmanager icons icon-icons_twitter-share"><span>Twitter</span></a></li>
+        <li><a href="https://www.facebook.com/hakaimagazine/" id="facebook_header" class="tagmanager icons icon-icons_facebook-share"><span>Facebook</span></a></li>
+        <li><a href="/newsletter-sign/" class="tagmanager icons icon-icons_email-share" id="email_header"><span>Sign up for a weekly newsletter</span></a></li>
+        <li><a href="/rss-feeds/" class="tagmanager icons icon-rss" id="rss_header"><span>RSS feed</span></a></li>
+        <li><a href="/audio-edition/" class="tagmanager icons icon-audio-edition" id="audio_header"><span>Audio edition</span></a></li>
+      </ul>
+    </section>
+  </aside>
+</header>
+<header class="mobilenav">  
+  <div class="topbar"><a href="javascript:void(0);" class="togglemenu"><span>menu</span></a></div>
+  <section class="menudropdown">
+    <nav>
+      <div class="menu-mobile-menu-container"><ul id="menu-mobile-menu" class="menu"><li id="menu-item-21301" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21301"><a href="/">Home</a></li>
+<li id="menu-item-21302" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21302"><a href="https://hakaimagazine.com/features/">Features</a></li>
+<li id="menu-item-21303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21303"><a href="https://hakaimagazine.com/news/">News &#038; Views</a></li>
+<li id="menu-item-21304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21304"><a href="https://hakaimagazine.com/article-short/">Quick Reads</a></li>
+<li id="menu-item-21305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-21305"><a href="https://hakaimagazine.com/videos-visuals/">Videos &#038; Visuals</a>
+<ul class="sub-menu">
+	<li id="menu-item-21306" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21306"><a href="https://hakaimagazine.com/about-us/">About Us</a></li>
+	<li id="menu-item-30277" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30277"><a href="https://hakaimagazine.com/internship-and-followship/">Internships</a></li>
+	<li id="menu-item-21308" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21308"><a href="https://hakaimagazine.com/contact-us/">Contact Us</a></li>
+	<li id="menu-item-21307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21307"><a href="https://hakaimagazine.com/audio-edition/">Audio Edition</a></li>
+	<li id="menu-item-21311" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21311"><a href="https://hakaimagazine.com/submission-guidelines/">Submission Guidelines</a></li>
+	<li id="menu-item-21309" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-21309"><a href="https://hakaimagazine.com/privacy-policy/">Privacy Policy</a></li>
+	<li id="menu-item-21310" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21310"><a href="https://hakaimagazine.com/reproduction-rights/">Reproduction Rights</a></li>
+</ul>
+</li>
+</ul></div>    </nav>
+    <form role="search" action="https://hakaimagazine.com/" method="get" class="topsearch" >
+      <label><span class="invis">Search</span>
+        <input type="search" placeholder="Search" name="s"  value="" title="Search for:"/>
+      </label>
+      <button value="Search" class="icons icon-icons_search-button"><span class="invis">Search</span></button>
+    </form>
+    <h4 class="invis">Other ways to engage with Hakai Magazine</h4>
+    <ul id="menu-additional" class="menu mobilemenuicons">
+      <li><a href="https://www.youtube.com/hakaimagazine" class="tagmanager mobilemenu icons icon-youtube last" id="youtube_mobile"><span >Youtube</span></a></li>
+      <li><a href="https://twitter.com/hakaimagazine" class="tagmanager  mobilemenu icons icon-icons_twitter-share" id="twitter_mobile"><span>Twitter</span></a></li>
+      <li><a href="https://www.facebook.com/hakaimagazine/" class="tagmanager  mobilemenu icons icon-icons_facebook-share" id="facebook_mobile"><span>Facebook</span></a></li>
+      <li><a href="/newsletter-sign/" class="tagmanager  mobilemenu icons icon-icons_email-share" id="email_mobile"><span>Sign up for a weekly newsletter</span></a></li>
+      <li><a href="/rss-feeds/" class="tagmanager  mobilemenu icons icon-rss" id="rss_mobile"><span>RSS feed</span></a></li>
+      <li><a href="/audio-edition/" class="tagmanager  mobilemenu icons icon-audio-edition" id="audio_mobile"><span>Audio edition</span></a></li>
+    </ul>
+    </section>
+  </header>
+
+   
+  <span id="content"></span>
+  <main>
+        
+            <img width="2500" height="1201" src="https://hakaimagazine.com/wp-content/uploads/header-how-to-speak-whale.jpg" class="singlepostthumb wp-post-image" alt="humpback whale" srcset="https://hakaimagazine.com/wp-content/uploads/header-how-to-speak-whale.jpg 2500w, https://hakaimagazine.com/wp-content/uploads/header-how-to-speak-whale-520x250.jpg 520w, https://hakaimagazine.com/wp-content/uploads/header-how-to-speak-whale-1200x576.jpg 1200w, https://hakaimagazine.com/wp-content/uploads/header-how-to-speak-whale-768x369.jpg 768w, https://hakaimagazine.com/wp-content/uploads/header-how-to-speak-whale-1536x738.jpg 1536w, https://hakaimagazine.com/wp-content/uploads/header-how-to-speak-whale-2048x984.jpg 2048w, https://hakaimagazine.com/wp-content/uploads/header-how-to-speak-whale-900x432.jpg 900w" sizes="(max-width: 2500px) 100vw, 2500px" /><div class="post-thumbnail-caption">A humpback dives beneath the ocean surface off the coast of the Caribbean island Dominica. In the tropics, humpbacks mainly rest and move little, conserving strength for the long journey back north to their feeding grounds. Their annual migrations are the longest of any mammal, spanning entire oceans. Photo by Tom Mustill</div>      <article class="main container col4">
+                <header class="maincol">
+                    <h1 class="pagetitle">In the Mind of a Whale</h1>
+                    <h2 class="dek singlepagecontainer">How can we make sense of the biggest brains on the planet?</h2>
+                    <section class="singlebyline singlepagecontainer">
+            <h3 class="invis">Authored by</h3>
+            by Tom Mustill                 <br/>
+                        </section>
+           
+          <aside class="singlebydatewords singlepagecontainer">
+            <h3 class="invis">Wordcount</h3>
+            September 6, 2022 | 4,200 words, about 21 minutes          </aside>
+        </header>
+
+        <aside class="shareicons">
+          <h3 class="invis">Share this article</h3>
+                              <p>Share this:</p>
+          <ul>
+            <!-- <li><a class="icons icon-icons_email-top-share" href="mailto:?&subject=Check%20out%20this%20site!&body=https://hakaimagazine.com/features/in-the-mind-of-a-whale/%20-%20How+can+we+make+sense+of+the+biggest+brains+on+the+planet%3F%0A"><span>Share using email</span></a></li> -->
+            <li><a class="icons icon-flipboard tagmanager" id="share_flipboard_top" href="https://share.flipboard.com/bookmarklet/popout?v=2&title=In the Mind of a Whale&url=https%3A%2F%2Fhakaimagazine.com%2Ffeatures%2Fin-the-mind-of-a-whale%2F"><span>Share on Flipboard</span></a></li>
+            <li><a class="icons icon-icons_facebook-top-share tagmanager" id="share_facebook_top" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhakaimagazine.com%2Ffeatures%2Fin-the-mind-of-a-whale%2F"><span>Share on Facebook</span></a></li>
+            <li><a class="icons icon-icons_twitter-top-share tagmanager" id="share_twitter_top" href="http://twitter.com/share/?text=How+can+we+make+sense+of+the+biggest+brains+on+the+planet%3F%0A&url=https%3A%2F%2Fhakaimagazine.com%2Ffeatures%2Fin-the-mind-of-a-whale%2F&via=hakaimagazine"><span>Share on Twitter</span></a></li>
+          </ul>
+        </aside>
+                                                <section class="maincontent singlepagecontainer">
+          <h3 class="invis">Article body copy</h3>
+          <div class="descriptive-text">
+<p>On September 12, 2015, Tom Mustill and a friend were on a guided kayak tour in Monterey Bay, off the coast of California. There was so much food in the rich waters of the bay that whales were engaged in an unprecedented feeding frenzy. As kayaks and boats shared the water with the whales, a humpback breached and came down on the two friends. They survived, but the episode sent Mustill—a biologist by training—on a journey: what if we could communicate with whales and other animals? The following excerpt is from Mustill’s first book, <a href="https://www.grandcentralpublishing.com/titles/tom-mustill/how-to-speak-whale/9781538739136/"><em>How to Speak Whale: A Voyage into the Future of Animal Communication</em></a>.</p>
+</div>
+<p>Brains are complex and delicate organs—and whale brains especially so. Few whales are in good condition when they beach. Fewer still are reached in time to extract the brain before it decomposes. It’s the first organ to go because the sensitive tissues are pressure-cooked deep inside the dying animal’s skull by body heat the whale cannot release. And rare are the people with the skills to extract and preserve them. Cetaceans were long thought to have simple, undeveloped brains, because whenever scientists would get inside a dead dolphin’s head, it had often already turned to sloppy mush. A good-quality whale brain is gold dust.</p>
+<p>To obtain a whale brain for examination, the stars have to align: the whale must be freshly dead, and a good anatomist must cut its head off and refrigerate it quickly. Given that most whales are bigger than most industrial freezers, which aren’t easy to drive to the sea and pop a whale head into, this doesn’t happen often. I had long given up hope of ever seeing such a thing. But in 2018, my friend Joy Reidenberg at the Icahn School of Medicine at Mount Sinai in New York, called me to say she had two on the way. She had been given the chance to dissect a stillborn baby sperm whale, as well as the head of a young minke whale—which is a kind of baleen whale, like a thinner, smaller humpback.</p>
+<p>Both had been recovered some time before, and stored deep in the Smithsonian Institution’s freezers. A refrigerated truck was to drive them the few hundred kilometers to New York, where Reidenberg and her neuroanatomist colleague, Patrick Hof, would be waiting at their lab in Manhattan. And if I wanted, I could come and peer into a cetacean mind.</p>
+<p>In Reidenberg’s and Hof’s domain, rooms for human dissection and the teaching of anatomy do double duty for dolphins, and in the depths of the hospital, powerful machines for investigating human brains are used for exploring cetacean anatomy, too. With Reidenberg’s help, Hof has built up one of the world’s most extensive marine mammal brain collections, with about 700 specimens of 60 kinds of whales and dolphins. Out the window, the orange light of the morning reflected off the high-rises around us, and joggers chugged through Central Park beneath. The smell from the cadavers was sweet and almost pleasant, until you remembered what it was.</p>
+<p>Reidenberg and Hof use the hospital’s advanced scanning machines—MRI and CT scanners—to take 3D pictures inside the heads of dead whales without having to cut them open and risk ruining the brains. Some scientists have even managed to scan the brains of living dolphins, showing them “lighting up” as their brains worked (likely wondering what the hell was going on).</p>
+<div id="attachment_39878" class="wp-caption alignnone" ><img loading="lazy" class="size-large wp-image-39878" src="https://hakaimagazine.com/wp-content/uploads/dolphin-mri-how-to-speak-whale-1200x576.jpg" alt="dolphin in MRI machine" width="1200" height="576" srcset="https://hakaimagazine.com/wp-content/uploads/dolphin-mri-how-to-speak-whale-1200x576.jpg 1200w, https://hakaimagazine.com/wp-content/uploads/dolphin-mri-how-to-speak-whale-520x250.jpg 520w, https://hakaimagazine.com/wp-content/uploads/dolphin-mri-how-to-speak-whale-768x369.jpg 768w, https://hakaimagazine.com/wp-content/uploads/dolphin-mri-how-to-speak-whale-1536x737.jpg 1536w, https://hakaimagazine.com/wp-content/uploads/dolphin-mri-how-to-speak-whale-900x432.jpg 900w, https://hakaimagazine.com/wp-content/uploads/dolphin-mri-how-to-speak-whale.jpg 2000w" sizes="(max-width: 1200px) 100vw, 1200px" /><p class="wp-caption-text">A dolphin undergoing rehabilitation has its brain scanned. (Activity conducted under a stranding agreement between NMFS and TMMSN under the MMPA.) Photo courtesy of Heidi Whitehead/Texas Marine Mammal Stranding Network</p></div>
+<p>There are many scans of dolphin brains, but very few of whale brains. This makes sense given that the biggest hospital scanners can scarcely accommodate a very large human, let alone an animal the size of a small hospital ward. Fitting an adult humpback into an MRI would be like trying to get a melon through the hole of a bagel. The two baby whales Reidenberg had procured were just small enough to fit.</p>
+<p>Access to Mount Sinai’s scanners during the daytime was for patients only, and dead whales had to come in before the scanning department opened to the public. Seeing the decapitated, frozen head of a minke whale being carted past might be disconcerting for patients, so the whales were wrapped in plastic sheets on their gurneys. As we wheeled through various brightly lit corridors, down service elevators, past waiting rooms and sleepy patients walking alongside their IVs, none suspected our strange cargo—at most, a passing speed-walking doctor turned to look for the source of the strangely marine smell. In the MRI suite, there was a door with many warning signs and a window latticed with fine wire mesh. In the next room was the MRI, which resembles a giant white doughnut with a platform that a patient (or baby whale head) could be placed on and gently moved through the machine. Reidenberg told the technician, Jonny, that he was the first person ever to scan a sperm whale in an MRI.</p>
+<p>The atmosphere was quiet as the team grunted and lifted the tiny sperm whale onto the platform. Its dark skin was damp and cool. Hof moved laser crosses along it to align the sensors as the machine whirred to life. Inch by inch, the baby whale progressed through the scanner, its head itself a huge and powerful scanning machine capable of discerning the densities of different tissues. For two hours the whale heads were scanned and turned. As they heated up, their juices dripped onto the platform and the floor. Then it was time for humans to reclaim their hospital, and the juices were mopped, the data saved, and the whales wheeled away.</p>
+<p>Upstairs, Reidenberg and Hof had no time to lose. The brains were defrosting fast and had to be removed from the animals’ skulls in the next few hours. In a room the size of two badminton courts, one end full of two dozen human cadavers, I watched as Hof, a competitive épée fencer, and a mean hand with a scalpel, too, cut through the muscles and tissue around the back of the minke’s skull. As the sun rose higher, the New York skyline brightened behind him as he used a saw to slice into the bone surrounding the brain, releasing a smell like burned hair. He cut a neat panel in the skull, like a burglar piercing the glass of a museum window, and teased the porridge-colored organ through the gap and into a jar of preservative fluid.</p>
+<p>Another whale brain to join its fellows in a vault, with all their pickled, unknowable thoughts.</p>
+<p>The brain would be preserved and later dissected. Sometimes it would be cut into millimeter-thin slices and stained to discover and trace the routes of individual nerves. Or it would be kept intact to compare its shapes, grooves, and bulges with those of other specimens, including humans. Measuring and mapping, trying to see which structures resembled those in our brains and which parts were totally different, Hof and Reidenberg made a good double act. It would take days to thoroughly examine the hugely complex scans. But Hof brought up some of the images on his screen. Using a computer program, he could whiz through the whale’s brain. It was mesmerizing to watch: the circle on his monitor like a porthole on a ship, the whorls and knots of brain being revealed as he sped through them, adjusting the controls to highlight blood vessels, denser tissue, connections, and convolutions. Although I was fascinated, it was difficult to identify the differences between the brain areas and tissue types that Hof paused to point out. The Latin names for brain regions, one after the other, passed through my skull like CT scan rays, leaving little trace in my mind.</p>
+<div id="attachment_39879" class="wp-caption alignnone" ><img loading="lazy" class="size-large wp-image-39879" src="https://hakaimagazine.com/wp-content/uploads/mri-image-how-to-speak-whale-1200x874.jpg" alt="MRI image of whale brain" width="1200" height="874" srcset="https://hakaimagazine.com/wp-content/uploads/mri-image-how-to-speak-whale-1200x874.jpg 1200w, https://hakaimagazine.com/wp-content/uploads/mri-image-how-to-speak-whale-520x379.jpg 520w, https://hakaimagazine.com/wp-content/uploads/mri-image-how-to-speak-whale-768x559.jpg 768w, https://hakaimagazine.com/wp-content/uploads/mri-image-how-to-speak-whale-1536x1118.jpg 1536w, https://hakaimagazine.com/wp-content/uploads/mri-image-how-to-speak-whale-2048x1491.jpg 2048w, https://hakaimagazine.com/wp-content/uploads/mri-image-how-to-speak-whale-900x655.jpg 900w" sizes="(max-width: 1200px) 100vw, 1200px" /><p class="wp-caption-text">Researcher Patrick Hof studies the scan of a whale’s brain at the Icahn School of Medicine at Mount Sinai in New York. Photo by Tom Mustill</p></div>
+<hr />
+<p>I’d learned by this point that comparing brains is a difficult business in general. In explaining how clever humans are, we often point out the extraordinarily large size of our thinking organs. Their bulk is the bane of childbirth and consumes 90 percent of the glucose in our blood. But size itself is not a clear guide for comparing animal intelligences, as some bigger animals with larger brains seem to lack the cognitive abilities of smaller ones. Size, as the saying goes, isn’t everything. Relative brain-to-body size, how wrinkled and complex brains are, the thickness of their layers, the structures within them, and the types of neurons these are made of are all helpful—though our human brains are, naturally, the yardstick that other brains are measured against. And yet it is impossible to look at a whale brain and not be surprised by its size. When Hof first saw one, despite knowing they were big, its mass still shocked him. The human brain is about 1,350 grams, three times larger than our big-brained relative, the chimpanzee. A sperm whale or killer whale brain can be 10 kilograms. These are the biggest brains on Earth and possibly the biggest brains ever, anywhere. It’s perhaps not a fair comparison: in relation to the size of our bodies, our brains are bigger than those of whales. Ours are similar in proportion to our body mass, as are the brains of some rodents; mice and men both invest a lot of themselves in their thinking organs. But we both lag far behind small birds and ants, which have much bigger brains compared to their body size than any big animals.</p>
+<p>The outer layer of a mammal’s brain is called the cerebral cortex. In cross section, it looks a little like a wraparound bicycle helmet sitting on top of the other parts of the brain. This is the most recently evolved part of our brains, and it was by using their own cerebral cortexes that brain scientists have learned that this area is responsible for rational, conscious thought.</p>
+<p>It handles tasks like perceiving senses, thinking, movement, figuring out how you relate to the space around you, and language. You are using yours now to read and think about this sentence. Many biologists define “intelligence” as something along the lines of the mental and behavioral flexibility of an organism to solve problems and come up with novel solutions. In humans, the cerebral cortex, acting with other bits of the brain (the basal ganglia, basal forebrain, and dorsal thalamus), appears to be the seat of this form of “intelligence.” The more cortex you have and the more wrinkled it is, the more surface area available for making connections—and voila! More thinking.</p>
+<p>Humans have a really large neocortex surface area, but it’s still just over half that of a common dolphin, and miles behind the sperm whale. Even if you divide the cortex area by the total weight of the brain to remove the cetacean size advantage, humans still lag behind dolphins and killer whales. But there are other measurements in the cortex that seem to be associated with intelligence, and here, dolphins and whales lag behind humans.</p>
+<p>The more neurons are packed in, how closely and effectively they are wired, and how fast they transmit impulses are also extremely important in brain function. Just as the composition and layout of the chipset in your tiny, cheap cellphone allows it to pack more computing power than a five-tonne room-sized 1970s supercomputer. Both cetaceans and elephants, the biggest mammals on sea and land, seem to have large distances between their neurons and slower conduction speeds. In raw numbers of neurons, humans here, too, have the edge, with a human cortex containing an estimated 15 billion neurons. Given the larger size of cetacean brains, you’d think they’d have more, but in fact their cerebral cortex is thinner, and the neurons are fatter, taking up more room.</p>
+<p>Nevertheless, some cetaceans such as the false killer whale are close behind human levels with 10.5 billion cerebral neurons, about the same as an elephant. Chimps have 6.2 billion and gorillas 4.3 billion. Further complicating comparisons, whales have huge numbers of other kinds of cells, called glia, packing their cortexes. Until recently, we believed these glial cells to be an unthinking filler, but we’ve now discovered that they actually seem important for cognition, too. I don’t know about you, but all this cortex measurement and comparison makes my own feeble organ hurt.</p>
+<div id="attachment_39880" class="wp-caption alignnone" ><img loading="lazy" class="size-column-width wp-image-39880" src="https://hakaimagazine.com/wp-content/uploads/brains-how-to-speak-whale-900x324.jpg" alt="brains of wild pig, bottlenose dolphin, and human" width="900" height="324" srcset="https://hakaimagazine.com/wp-content/uploads/brains-how-to-speak-whale-900x324.jpg 900w, https://hakaimagazine.com/wp-content/uploads/brains-how-to-speak-whale-520x187.jpg 520w, https://hakaimagazine.com/wp-content/uploads/brains-how-to-speak-whale-768x276.jpg 768w, https://hakaimagazine.com/wp-content/uploads/brains-how-to-speak-whale.jpg 1200w" sizes="(max-width: 900px) 100vw, 900px" /><p class="wp-caption-text">The brain of a bottlenose dolphin (center) flanked by that of a wild pig (left) and a human (right). Note the thicker gap between the hemispheres in the dolphin brain. This may be related to something called “unihemispheric” sleep, when one half of a dolphin’s brain rests at a time, allowing it to keep swimming up to breathe and to keep one eye open to stay vigilant. Photo by Boris Dimitrov/Public Domain</p></div>
+<p>Hof moved through the scans, the one hundredth marine mammal they had analyzed this way, zooming and measuring, exploring through symmetries and fractal patterns as if flying through a monochrome kaleidoscope. Questions spilled out of me: Could the brains tell us if whales or dolphins might have the capacity for consciousness? Could they allow these creatures to conceive of others? Hof would not be drawn into discussing these matters. He felt that we simply did not know enough. Many others, however, have been more opinionated.</p>
+<p>One study concluded that humans have five times the information-processing capacity of cetaceans, whom they placed beneath chimps, monkeys, and some birds. But in the same study, horses—with smaller brains than chimps—were found to have five times the number of cortical neurons. Does this mean horses are smarter than chimps? A major confounding factor in these types of comparisons appears to be that every factor is itself quite confounding. Estimating numbers of neurons is a very rough science, so the raw number comparisons are crude. There are lots of different kinds of neurons, and they are arranged in different configurations and proportions in different species. We know all these variations mean something, that they will determine what brains are capable of, but we don’t know yet quite what, or how that might change from one moment to the next in different parts of the brain. There are a lot of assumptions at play, and it can be misleading to extrapolate from one brain to another.</p>
+<p>This also applies to comparing cognitive ability. Trying to infer from brains and their structures which animals are “better” at cognition and ranking animal brains in order of “intelligence” is as treacherous as it is tempting. Stan Kuczaj, who spent his lifetime studying the cognition and behavior of different animals, put it bluntly: “We suck at being able to validly measure intelligence in humans. We’re even worse when we try to compare species.” Intelligence is a slippery concept and perhaps unmeasurable. As mentioned earlier, many biologists conceive of it as an animal’s ability to solve problems. But because different animals live in different environments with different problems, you can’t really translate scores of how well their brains perform. A brain attribute is not simply “good” or “bad” for thinking, but rather varies depending on the situation and the thinking that brain needs to undertake. Intelligence is a moving target.</p>
+<p>What confounds this dilemma further is that individual animals within a species have varying cognitive abilities. To quote the Yosemite National Park ranger who, when asked why it was proving so hard to make a garbage can that bears couldn’t break into, said, “There is considerable overlap between the intelligence of the smartest bears and the dumbest tourists.”</p>
+<div id="attachment_39881" class="wp-caption alignnone" ><img loading="lazy" class="size-column-width wp-image-39881" src="https://hakaimagazine.com/wp-content/uploads/comic-how-to-speak-whale-900x944.jpg" alt="comic of two birds discussing intelligence" width="900" height="944" srcset="https://hakaimagazine.com/wp-content/uploads/comic-how-to-speak-whale-900x944.jpg 900w, https://hakaimagazine.com/wp-content/uploads/comic-how-to-speak-whale-520x545.jpg 520w, https://hakaimagazine.com/wp-content/uploads/comic-how-to-speak-whale-768x805.jpg 768w, https://hakaimagazine.com/wp-content/uploads/comic-how-to-speak-whale.jpg 1200w" sizes="(max-width: 900px) 100vw, 900px" /><p class="wp-caption-text">A comic by False Knees skewering the anthropocentric concept of intelligence. Illustration by False Knees</p></div>
+<p>We know little of the problems that the brains of cetaceans must contend with. They have evolved to process the challenges of very different lives—some solitary, some members of groups of hundreds, from giant hunters of the deep to tiny river dolphins. Faced with all these caveats and uncertainties, I began to see the wisdom in Hof’s hesitancy to infer too much from this terra incognita.</p>
+<p>I had an odd thought as I had watched Hof and Reidenberg scan the whale brains. Perhaps from lack of sleep, I found myself imagining scanning <em>their</em> heads, stripping past the skin and muscles and bones, and looking at them as sense organs, eyeballs, ear canals, smell and taste receptors, floating in space and connecting back, via nerves, to the strangely bland organ, the hyperconnected fatty bolus where their thoughts and personalities and memories lived. If I looked at these floating brains, peering within, would I know them better? The human brain is often referred to as “the most complicated thing in the universe”—by scientists, spiritual leaders, and journalists alike. It is indeed a very complicated thing. But as whale brains also seemed, well, pretty damn fancy, I asked Hof a simple question: do whales have thoughts? He paused for a long moment. “Whether they have thoughts that are constructed in the same manner? Very possible. There’s no reason that the same networks of nerves that served consciousness and memories in us cannot also exist the same way in whales.”</p>
+<p>Encouraged, I leapt ahead. Might whales think like us, then? With consciousness? Was there any indication they might have the brains to speak to each other like we do? “You know, there’s potentially a lot of wishful thinking in all of this,” he replied.</p>
+<p>Wishful or not, Hof had fueled a fair bit of this thinking himself. In 2006, he and his colleague Estel Van der Gucht published a <a href="https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.20407">paper</a> in <em>Anatomical Record</em> that set the brains of neuroscientists fizzing across the world. When examining preserved slices of human brain, he encountered an unusual-looking neuron. Instead of being shaped like a branch, cone, or star, it was long and thin and very big. He realized he was seeing a von Economo neuron (VEN), a type of brain cell that was first described more than a century before but had been long ignored. These special nerves had been thought uniquely human. Then, in San Diego, California, his colleagues found them in the great apes (our close relatives the chimpanzee, gorilla, orangutan, and bonobo) but not in more distant relatives like lemurs. Hof and others began to hunt for the cells, looking through the brains of more than 100 species, but only a few seemed to have them: humans, the great apes, elephants, and cetaceans. We are distant relatives to elephants and whales, with our common ancestor evolving around the time the dinosaurs went extinct, over 60 million years ago.</p>
+<p>Apes, elephants, and whales have much in common: we live a long time, are highly social, very intelligent, extremely communicative, and possess large brains. The VENs appeared to have evolved independently in these three groups, after our ancestors had split into different species, via convergent evolution, a process in which the pressures of natural selection lead to the same features developing in unrelated creatures.</p>
+<p>The VENs seemed to be found only in certain areas of the human brain: the frontal insula and cingulate cortex. These regions are used when we feel pain, or notice that we’ve made a mistake, and when we feel things relating to others. A VEN lights up when we feel love, when parents hear their babies cry, when someone attempts to ascertain another’s intentions. In humans, the parts of the brain that relate to high-level cognitive functions, such as attention, intuition, and social awareness, are larger than in most other mammals. This is true for whales, too. And VENs are present in both species. As Hof put it, “The cells that make human integrative experience quite unique are also present in large whales.”</p>
+<div id="attachment_39882" class="wp-caption alignnone" ><img loading="lazy" class="size-column-width wp-image-39882" src="https://hakaimagazine.com/wp-content/uploads/humpback-facing-how-to-speak-whale-900x1200.jpg" alt="humpback whale" width="900" height="1200" srcset="https://hakaimagazine.com/wp-content/uploads/humpback-facing-how-to-speak-whale-900x1200.jpg 900w, https://hakaimagazine.com/wp-content/uploads/humpback-facing-how-to-speak-whale-520x693.jpg 520w, https://hakaimagazine.com/wp-content/uploads/humpback-facing-how-to-speak-whale-768x1024.jpg 768w, https://hakaimagazine.com/wp-content/uploads/humpback-facing-how-to-speak-whale.jpg 1125w" sizes="(max-width: 900px) 100vw, 900px" /><p class="wp-caption-text">Fitting an adult humpback into an MRI would be like trying to get a melon through the hole of a bagel. Photo by Gregory Sherman</p></div>
+<p>While we still don’t know precisely what these cells do, there are some intriguing interpretations. In both whales and humans, the neocortex appears to have special “integrative centers” that process and integrate the information coming in from the sensory and motor areas. They chew over the signals they’ve received and communicate with one another in networks.</p>
+<p>This ability to integrate information from different brain regions is vital: it adds complexity to our perceptions and allows us to carry out advanced cognitive processes such as artistic creation, decision-making, and language learning. Hof and his coresearcher John Allman speculated that the VEN cells evolved in response to a need. To send signals quickly between their integrative centers, brains need highways, and VENs, according to Hof, “are like the ‘express trains’ of the nervous system.” Considering the functions of the regions that house these neurons, and the social nature of the species that have them, these high-speed brain links could be used when thinking about others—for empathy and social intelligence. Some are skeptical of this suggestion, believing that large, complex whale brains with VENs are simply necessary for coordinating enormous bodies in a 3D sea environment. Others say these impressive brains are required to process all the sophisticated information involved in echolocation: their brains have evolved these structures because of how they sense, not because they are actually mulling over the results.</p>
+<p>In 2014, Hof and colleagues found VENs in more species than was previously thought, discovering the neurons or similar cells in the brains of cows, sheep, deer, horses, and pigs. This information was interpreted by some as evidence that VENs didn’t herald any particularly impressive cognitive functions. To me, this story mirrors so many in biology. We discover something we think is unique to us. Then we find it in other animals and begin to question whether it is special anymore. But if you’ve spent time with cows and pigs, it’s not surprising to think they might have neural hardware for thinking about others and social intelligence. This is all very recent information, and scientists like Hof are explorers of a new frontier. It may turn out that a VEN in one beast might do something very different from a VEN in another, just as a piece of electrical cable can send both a signal to turn on a light bulb and a passionate email to your lover’s computer. For Hof, VENs are only a small piece in the sophisticated wiring diagram of the brains of some species, a diagram that is still very much in the process of being filled in.</p>
+<p>Discoveries, comparisons, hypotheses, and extrapolations connect and interweave, and will hopefully, eventually, build a clearer picture. We are at a frustrating moment; all this discovery without knowing what it means. In the words of one neuroscientist: “we don’t even understand the brain of a worm.” Perhaps that is simply a hazard that comes with poking around in the most complicated, gloopy mush in the universe.</p>
+<p>Reidenberg made a helpful comparison: if you were an alien explorer in the seas of Earth and you came across a bottlenose dolphin and a similar-sized shark, you might be puzzled. The animals live in the same sea, may hunt the same fish, and need to survive the same conditions, but the bottlenose has a far bigger brain. A brain that seems in many ways very similar in composition and structure to that of the highest mental achievers on the planet, and in other ways very different. Why would there be such a discrepancy between the dolphin and shark?</p>
+<p>In 2007, Lori Marino, along with Reidenberg, Hof, and many other biologists, published a <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0050139">paper</a> called “Cetaceans Have Complex Brains for Complex Cognition.” They reached their conclusion by assessing all the current research, but also by looking back in time at the fossil record. Neurons and cortexes don’t preserve well for millions of years, but skulls do, and skulls reveal brain size. Cetacean brains suddenly got bigger about 10 million years after they had already moved into the sea. This surprised some scientists who had previously linked cetacean brain evolution to adaptations to water and cold. Logically, any brain adaptation related to aquatic life would have happened sooner. The coauthors theorized that the leap in brain size took place as cetacean behavior became more complex, more social.</p>
+<div id="attachment_39883" class="wp-caption alignnone" ><img loading="lazy" class="size-large wp-image-39883" src="https://hakaimagazine.com/wp-content/uploads/dolphin-pod-how-to-speak-whale-1200x800.jpg" alt="pod of dolphins" width="1200" height="800" srcset="https://hakaimagazine.com/wp-content/uploads/dolphin-pod-how-to-speak-whale-1200x800.jpg 1200w, https://hakaimagazine.com/wp-content/uploads/dolphin-pod-how-to-speak-whale-520x347.jpg 520w, https://hakaimagazine.com/wp-content/uploads/dolphin-pod-how-to-speak-whale-768x512.jpg 768w, https://hakaimagazine.com/wp-content/uploads/dolphin-pod-how-to-speak-whale-1536x1024.jpg 1536w, https://hakaimagazine.com/wp-content/uploads/dolphin-pod-how-to-speak-whale-2048x1366.jpg 2048w, https://hakaimagazine.com/wp-content/uploads/dolphin-pod-how-to-speak-whale-900x600.jpg 900w" sizes="(max-width: 1200px) 100vw, 1200px" /><p class="wp-caption-text">Like humans, dolphins and whales need a social group to survive. Photo by Kammeran Gonzalez-Keola</p></div>
+<p>For many whales and dolphins, the challenges of life are impossible outside of a social group. To successfully live in a social group, to compete and cooperate, requires thinking you don’t need to do as a loner. Hof elaborated: “They communicate through huge song repertoires, recognize their own songs, and make up new ones. They also form coalitions to plan hunting strategies and teach these to younger individuals, and have evolved social networks similar to those of apes and humans.” A social animal needs more brain hardware on which to run the software of culture.</p>
+<p>I tried a final time: what could he tell about whales definitively from investigating their brains? Hof said it was absolutely clear that whales were extremely intelligent, with impressive neural systems, components of which we had previously thought existed only in humans. Like so many scientists I’ve met who studied whales, Hof would mention an exciting whale attribute—something relatable to human existence—and then immediately caution: we should not anthropomorphize. But he insisted that we could not consider whales completely inferior to ourselves: “There are many people who think they are sort of stupid, big fish, right?” he said. “And no, they are not, definitely not.” Trying to figure out whether whales might think like us was both more complicated and more compelling than I had anticipated, every answered question a doorway into a further mystery.</p>
+<p>It was late in the day now. The whales had been scanned and their brains saved—and everyone was exhausted. Hof had medical students to teach and Reidenberg whale faces to deflesh. I left the hospital and walked out into the streets of Manhattan, picking up on the moods of the people I passed from their gaits, overhearing their conversations, judging how to weave among them, avoiding the eyes of the strange man on the subway, laughing at a joke with a friend at dinner, feeling warm when I hugged them goodbye. I thought about the neurons firing within me, the brain centers integrating these sensations and thoughts. In the waters off New York City, just miles from where I stood, humpback, fin, and sei whales can be found. Did their brains also flash with complex thoughts, articulated by strange aquatic voices, heard by sensitive hidden ears?</p>
+<p><em><img loading="lazy" class="alignleft wp-image-39908 size-medium" src="https://hakaimagazine.com/wp-content/uploads/cover-how-to-speak-whale-520x785.jpg" alt="cover of How to Speak Whale" width="520" height="785" srcset="https://hakaimagazine.com/wp-content/uploads/cover-how-to-speak-whale-520x785.jpg 520w, https://hakaimagazine.com/wp-content/uploads/cover-how-to-speak-whale-768x1160.jpg 768w, https://hakaimagazine.com/wp-content/uploads/cover-how-to-speak-whale-900x1359.jpg 900w, https://hakaimagazine.com/wp-content/uploads/cover-how-to-speak-whale.jpg 994w" sizes="(max-width: 520px) 100vw, 520px" />Adapted from </em><a href="https://www.grandcentralpublishing.com/titles/tom-mustill/how-to-speak-whale/9781538739136/">HOW TO SPEAK WHALE</a><em> by Tom Mustill, published on September 6, 2022. Copyright © 2022 by Tom Mustill. Used by arrangement with Grand Central Publishing. All rights reserved. </em></p>
+        </section>
+        <footer class="singlepagecontainer">
+          <h3 class="invis">Article footer and bottom matter</h3>
+          <hr class="fullwidth" />
+                    <aside class="postarticle_shareicons">
+            <h3 class="invis">Share this article on social media</h3>
+            <div class="col3 container">
+              <div class="col"><a class="icons icon-icons_facebook-top-share tagmanager" id="share_facebook_bottom"  href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhakaimagazine.com%2Ffeatures%2Fin-the-mind-of-a-whale%2F"><span>Share this</span></a></div>
+              <!-- <div class="col"><a class="icons icon-icons_email-top-share" href="mailto:?&subject=Check%20out%20this%20site!&body=https://hakaimagazine.com/features/in-the-mind-of-a-whale/%20-%20How+can+we+make+sense+of+the+biggest+brains+on+the+planet%3F%0A"><span>Email this</span></a></div> -->
+              <div class="col"><a class="icons icon-icons_twitter-top-share tagmanager" id="share_twitter_bottom"  href="http://twitter.com/share/?text=How+can+we+make+sense+of+the+biggest+brains+on+the+planet%3F%0A&url=https%3A%2F%2Fhakaimagazine.com%2Ffeatures%2Fin-the-mind-of-a-whale%2F&via=hakaimagazine"><span>Tweet this</span></a></div>
+              <div class="col"><a class="icons icon-flipboard tagmanager" id="share_flipboard_bottom"  href="https://share.flipboard.com/bookmarklet/popout?v=2&title=In the Mind of a Whale&url=https%3A%2F%2Fhakaimagazine.com%2Ffeatures%2Fin-the-mind-of-a-whale%2F"><span>Flip this</span></a></div>
+            </div>
+          </aside>
+                    <aside class="main newssignup">
+            <h3 class="invis">Sign up for the weekly newslstter</h3>
+            <div class="main newssignup">
+	<h3>Sign up for our free weekly newsletter</h3>
+	<div id="mc_signup">
+		<form action="https://hakaimagazine.us10.list-manage.com/subscribe/post?u=0d0536b81692b63f44ab7c7c9&amp;id=0fc1967411" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate">
+			<input type="hidden" id="mc_submit_type" name="mc_submit_type" value="html" />
+			<input type="hidden" name="mcsf_action" value="mc_submit_signup_form" />
+			<input type="hidden" id="_mc_submit_signup_form_nonce" name="_mc_submit_signup_form_nonce" value="ce2c35ea93" />		
+			<div class="mc_form_inside">
+				<div class="updated" id="mc_message"></div>
+				<div class="mc_merge_var">
+					<label for="mce-EMAIL" class="mc_var_label mc_header mc_header_email">Email Address</label>
+					<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+					<div style="position: absolute; left: -5000px; display:none;" aria-hidden="true"><label>spam catch<input type="text" name="b_0d0536b81692b63f44ab7c7c9_0fc1967411" tabindex="-1" value=""></label></div>
+				</div><!-- /mc_merge_var -->
+				<div class="mc_signup_submit">
+					<button type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">subscribe</button>
+				</div><!-- /mc_signup_submit -->	
+			</div><!-- /mc_form_inside -->
+		</form><!-- /mc_signup_form -->
+	</div><!-- /mc_signup_container -->
+</div>          </aside>
+          <hr class="fullwidth" />
+                                
+                      <section class="main bio authorbio">
+              <h3 class="invis">Author bio</h3>
+                                                        </section>
+                    <hr class="fullwidth" />
+                    <section class="metadata main">
+            <h3 class="invis">Tags</h3>
+            <h4>Topic:</h4><ul class="articlecategories"><li><a href="https://hakaimagazine.com/topic/ideas/" rel="tag">Ideas</a>, </li><li><a href="https://hakaimagazine.com/topic/living-things/" rel="tag">Living Things</a></li></ul>                                    <h4>Species:</h4><ul class="articlecategories"><li><a href="https://hakaimagazine.com/species/marine-mammals/" rel="tag">Marine Mammals</a></li></ul>                                              </section> 
+                    <section class="main cite printonly">
+            <h3 class="invis">Cite this Article:</h3>
+            <p>Cite this Article: 
+                                                                                                              “In the Mind of a Whale,” <em>Hakai Magazine</em>, Sep 6, 2022, accessed October 7th, 2022, <a href="https://hakaimagazine.com/features/in-the-mind-of-a-whale/">https://hakaimagazine.com/features/in-the-mind-of-a-whale/</a>.
+            </p>
+          </section>
+
+
+        </footer>
+      </article>
+                   
+              <aside class="main relatedcontent">
+          <hr class="container" />
+          <h1 class="container col2 relatedcontentheader">Related Content</h1>
+          <div class="container col2">
+                                        <article class="col insidepagethumbholder rotator ">
+                <a href="https://hakaimagazine.com/features/are-we-on-the-verge-of-chatting-with-whales/" class="tagmanager" id="Related_article_36611" >
+                <img width="900" height="432" src="https://hakaimagazine.com/wp-content/uploads/header-whale-linguistics.jpg" class="insidepagethumb wp-post-image" alt="Three Sperm whale calves" loading="lazy" srcset="https://hakaimagazine.com/wp-content/uploads/header-whale-linguistics.jpg 2500w, https://hakaimagazine.com/wp-content/uploads/header-whale-linguistics-520x250.jpg 520w, https://hakaimagazine.com/wp-content/uploads/header-whale-linguistics-1200x576.jpg 1200w, https://hakaimagazine.com/wp-content/uploads/header-whale-linguistics-768x369.jpg 768w, https://hakaimagazine.com/wp-content/uploads/header-whale-linguistics-1536x738.jpg 1536w, https://hakaimagazine.com/wp-content/uploads/header-whale-linguistics-2048x984.jpg 2048w, https://hakaimagazine.com/wp-content/uploads/header-whale-linguistics-900x432.jpg 900w" sizes="(max-width: 900px) 100vw, 900px" />                <header class="insidepagethumbinfo">
+                  <h2>Are We on the Verge of Chatting with Whales?</h2>
+                  <h3>An ambitious project is attempting to interpret sperm whale clicks with artificial intelligence, then talk back to them.</h3>
+                  <p class="insidepagethumbinfodate">Oct 26, 2021 | 2,400 words, about 12 minutes</p>
+                </header>
+                </a>
+              </article>
+                                        <article class="col insidepagethumbholder rotator ">
+                <a href="https://hakaimagazine.com/features/power-compassion/" class="tagmanager" id="Related_article_16125" >
+                <img width="900" height="432" src="https://hakaimagazine.com/wp-content/uploads/header-hardwared-compassion.jpg" class="insidepagethumb wp-post-image" alt="Humpback whale saviors? They’re often observed coming to the rescue of other marine life, from sunfish to seals. Photo obtained under NMFS permit 0753-1599. Photo by Flip Nicklen/Minden Pictures" loading="lazy" srcset="https://hakaimagazine.com/wp-content/uploads/header-hardwared-compassion.jpg 2500w, https://hakaimagazine.com/wp-content/uploads/header-hardwared-compassion-520x250.jpg 520w, https://hakaimagazine.com/wp-content/uploads/header-hardwared-compassion-768x369.jpg 768w, https://hakaimagazine.com/wp-content/uploads/header-hardwared-compassion-1200x576.jpg 1200w" sizes="(max-width: 900px) 100vw, 900px" />                <header class="insidepagethumbinfo">
+                  <h2>The Power of Compassion</h2>
+                  <h3>Why humpback whales rescue seals and why volunteering for beach cleanups improves your health.</h3>
+                  <p class="insidepagethumbinfodate">Aug 15, 2017 | 2,200 words, about 11 minutes</p>
+                </header>
+                </a>
+              </article>
+                      </div>
+        </aside>
+                    </main>
+
+
+	<footer class="footer main">
+		<section class="left">
+			<h4 class="invis">Copyright information</h4>
+			<p>Made next to the <span class="waveicon">🌊</span> in Victoria, Canada - ISSN 2371-5790</p>
+			<p>Part of the <a href="http://www.tula.org/" class="footer_tula">Tula Foundation</a> and <a href="https://www.hakai.org/" class="footer_hakaiinstitute">Hakai Institute</a> family.</p>
+		</section>
+		<section class="right">
+			<aside class="headericons">
+				<h4 class="invis">Links to Hakai Magazine social media sites</h4>
+				<ul>
+		        	<li><a href="https://www.youtube.com/hakaimagazine" class="tagmanager icons icon-youtube last" id="youtube_footer"><span>Youtube</span></a></li>
+			        <li><a href="https://twitter.com/hakaimagazine" class="tagmanager icons icon-icons_twitter-share" id="twitter_footer"><span>Twitter</span></a></li>
+			        <li><a href="https://www.facebook.com/hakaimagazine/" class="tagmanager icons icon-icons_facebook-share" id="facebook_footer"><span>Facebook</span></a></li>
+			        <li><a href="/newsletter-sign/" class="tagmanager icons icon-icons_email-share" id="email_footer"><span>Sign up for a weekly newsletter</span></a></li>
+			        <li><a href="/rss-feeds/" class="tagmanager icons icon-rss" id="rss_footer"><span>RSS feed</span></a></li>
+			        <li><a href="/audio-edition/" class="tagmanager icons icon-audio-edition" id="audio_footer"><span>Audio edition</span></a></li>
+		    	</ul>
+	        </aside>
+		    <nav class="footermenu">
+		    	<h4 class="invis">Links to supporting pages and information</h4>
+				<a href="https://hakaimagazine.com/about-us/">About Us</a>
+<a href="https://hakaimagazine.com/internship-and-followship/">Internships</a>
+<a href="https://hakaimagazine.com/contact-us/">Contact Us</a>
+<a href="https://hakaimagazine.com/submission-guidelines/">Submission Guidelines</a>
+<a href="https://hakaimagazine.com/privacy-policy/">Privacy Policy</a>
+<a href="https://hakaimagazine.com/reproduction-rights/">Reproduction Rights</a>
+			</nav>
+		</section>	
+	</footer>
+	<!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com :: Campaign Title: Newsletter Campaign Long desktop -->
+<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,75253,'mmxsxiypy50zhj05ngli');</script>
+<!-- / OptinMonster --><!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com :: Campaign Title: Newsletter Campaign 2022 A - Mobile -->
+<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,75253,'lspordtyttcvo1m9ybgz');</script>
+<!-- / OptinMonster --><!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com :: Campaign Title: Abandonment Testing Round 4 C -->
+<script>(function(d,u,ac){var s=d.createElement('script');s.type='text/javascript';s.src='https://a.omappapi.com/app/js/api.min.js';s.async=true;s.dataset.user=u;s.dataset.campaign=ac;d.getElementsByTagName('head')[0].appendChild(s);})(document,75253,'qbmewfaogys41k0bdj2u');</script>
+<!-- / OptinMonster -->		<script type="text/javascript">
+		var mmxsxiypy50zhj05ngli_shortcode = true;var lspordtyttcvo1m9ybgz_shortcode = true;var qbmewfaogys41k0bdj2u_shortcode = true;		</script>
+		<script type='text/javascript' src='https://hakaimagazine.com/wp-content/themes/HakaiMagazine/js/analytics.js?ver=6.0.2' id='hakaimagazine-analytics-js'></script>
+<script type='text/javascript' src='https://hakaimagazine.com/wp-content/themes/HakaiMagazine/js/oembed.js?ver=6.0.2' id='hakaimagazine-oembed-js'></script>
+<script type='text/javascript' defer="defer" src='https://hakaimagazine.com/wp-content/themes/HakaiMagazine/js/menu.js?ver=6.0.2' id='hakaimagazine-navigation-js'></script>
+<script type='text/javascript' defer="defer" src='https://hakaimagazine.com/wp-content/themes/HakaiMagazine/js/fancybox/jquery.fancybox-3.5.7.min.js?ver=6.0.2' id='hakaimagazine-fancybox-3-js'></script>
+<script type='text/javascript' defer="defer" src='https://hakaimagazine.com/wp-content/themes/HakaiMagazine/js/fancysettings.js?ver=6.0.2' id='hakaimagazine-fancybox-4-js'></script>
+<script>(function(d){var s=d.createElement("script");s.type="text/javascript";s.src="https://a.omappapi.com/app/js/api.min.js";s.async=true;s.id="omapi-script";d.getElementsByTagName("head")[0].appendChild(s);})(document);</script><script type='text/javascript' src='https://hakaimagazine.com/wp-content/plugins/optinmonster/assets/dist/js/helper.min.js?ver=2.9.0' id='optinmonster-wp-helper-js'></script>
+		<script type="text/javascript">var omapi_localized = {
+			ajax: 'https://hakaimagazine.com/wp-admin/admin-ajax.php?optin-monster-ajax-route=1',
+			nonce: '8245bb7ab8',
+			slugs:
+			{"mmxsxiypy50zhj05ngli":{"slug":"mmxsxiypy50zhj05ngli","mailpoet":false},"lspordtyttcvo1m9ybgz":{"slug":"lspordtyttcvo1m9ybgz","mailpoet":false},"qbmewfaogys41k0bdj2u":{"slug":"qbmewfaogys41k0bdj2u","mailpoet":false}}		};</script>
+				<script type="text/javascript">var omapi_data = {"wc_cart":[],"object_id":39874,"object_key":"custom_features","object_type":"post","term_ids":[81,150,151,117],"wp_json":"https:\/\/hakaimagazine.com\/wp-json"};</script>
+		</body>
+</html>
+
+<!-- Cache served by breeze CACHE - Last modified: Fri, 07 Oct 2022 21:12:45 GMT -->

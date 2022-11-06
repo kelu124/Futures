@@ -1,0 +1,20 @@
+<head>
+<noscript><meta http-equiv="Refresh" content="0;URL=http://opg.optica.org:80/viewmedia.cfm?r=1&rwjcode=boe&uri=boe-13-9-4684&html=true" /></noscript>
+<title>Optica Publishing Group</title>
+</head>
+<body>
+<script src="/js/vendor/jquery-1.10.2.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+jQuery.ajax({
+url: '/checkjs.cfm?s=96P8MHD',
+complete: function (result) {
+window.location.replace('http://opg.optica.org:80/viewmedia.cfm?r=1&rwjcode=boe&uri=boe-13-9-4684&html=true');
+},
+async: false,
+timeout: 2500 // sets timeout to 2.5 seconds
+});
+});
+</script>
+Please wait...
+</body>

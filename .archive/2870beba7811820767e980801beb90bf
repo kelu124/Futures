@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>The Lifecycle of Software Objects - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"54c37c34-68cf-453b-ae58-587fb4634ca8","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"The_Lifecycle_of_Software_Objects","wgTitle":"The Lifecycle of Software Objects","wgCurRevisionId":1089285306,"wgRevisionId":1089285306,"wgArticleId":30156771,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with short description","Short description matches Wikidata","All articles with unsourced statements","Articles with unsourced statements from May 2022","American novellas","2010 American novels",
+"Hugo Award for Best Novella winning works","Works by Ted Chiang","Chinese-American novels","Subterranean Press books"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"The_Lifecycle_of_Software_Objects","wgRelevantArticleId":30156771,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":7000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage",
+"wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q7747230","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.3"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/a/a5/The_Lifecycle_of_Software_Objects_-_bookcover.jpg"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="1600"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/a/a5/The_Lifecycle_of_Software_Objects_-_bookcover.jpg"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="1067"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="853"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="The Lifecycle of Software Objects - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/The_Lifecycle_of_Software_Objects"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=The_Lifecycle_of_Software_Objects&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/The_Lifecycle_of_Software_Objects"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-The_Lifecycle_of_Software_Objects rootpage-The_Lifecycle_of_Software_Objects skin-vector action-view skin-vector-legacy vector-toc-not-collapsed vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-language-alert-in-sidebar-enabled vector-feature-sticky-header-disabled vector-feature-sticky-header-edit-disabled vector-feature-table-of-contents-disabled vector-feature-visual-enhancement-next-disabled"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><i>The Lifecycle of Software Objects</i></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">2010 novella by Ted Chiang</div>
+<style data-mw-deduplicate="TemplateStyles:r1066479718">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}</style><table class="infobox vcard"><caption class="infobox-title" style="font-size:125%; font-style:italic; padding-bottom:0.2em;">The Lifecycle of Software Objects <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Lifecycle+of+Software+Objects&amp;rft.author=%5B%5BTed+Chiang%5D%5D&amp;rft.date=2010&amp;rft.pub=%5B%5BSubterranean+Press%5D%5D&amp;rft.pages=150+pp+%28first+edition%2C+hardback%29&amp;rft_id=info:oclcnum/567188308"></span></caption><tbody><tr><td colspan="2" class="infobox-image"><a href="/wiki/File:The_Lifecycle_of_Software_Objects_-_bookcover.jpg" class="image"><img alt="The Lifecycle of Software Objects - bookcover.jpg" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a5/The_Lifecycle_of_Software_Objects_-_bookcover.jpg/220px-The_Lifecycle_of_Software_Objects_-_bookcover.jpg" decoding="async" width="220" height="293" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/a/a5/The_Lifecycle_of_Software_Objects_-_bookcover.jpg 1.5x" data-file-width="273" data-file-height="364" /></a><div class="infobox-caption">Hardcover edition</div></td></tr><tr><th scope="row" class="infobox-label">Author</th><td class="infobox-data"><a href="/wiki/Ted_Chiang" title="Ted Chiang">Ted Chiang</a></td></tr><tr><th scope="row" class="infobox-label">Original&#160;title</th><td class="infobox-data"><i>The Lifecycle of Software Objects</i></td></tr><tr><th scope="row" class="infobox-label">Cover&#160;artist</th><td class="infobox-data">Christian Pearce</td></tr><tr><th scope="row" class="infobox-label">Country</th><td class="infobox-data">United States</td></tr><tr><th scope="row" class="infobox-label">Language</th><td class="infobox-data">English</td></tr><tr><th scope="row" class="infobox-label">Genre</th><td class="infobox-data"><a href="/wiki/Science_fiction" title="Science fiction">Science fiction</a> <a href="/wiki/Novella" title="Novella">novella</a></td></tr><tr><th scope="row" class="infobox-label">Publisher</th><td class="infobox-data"><a href="/wiki/Subterranean_Press" title="Subterranean Press">Subterranean Press</a></td></tr><tr><th scope="row" class="infobox-label"><div style="display: inline-block; line-height: 1.2em; padding: .1em 0;">Publication date</div></th><td class="infobox-data">2010</td></tr><tr><th scope="row" class="infobox-label">Media&#160;type</th><td class="infobox-data">Print (<a href="/wiki/Hardcover" title="Hardcover">Hardcover</a>)</td></tr><tr><th scope="row" class="infobox-label">Pages</th><td class="infobox-data">150 pp (first edition, hardback)</td></tr><tr><th scope="row" class="infobox-label"><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a></th><td class="infobox-data"><style data-mw-deduplicate="TemplateStyles:r1067248974">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#3a3;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><a href="/wiki/Special:BookSources/978-1-59606-317-4" title="Special:BookSources/978-1-59606-317-4">978-1-59606-317-4</a> (first edition, hardback)</td></tr><tr><th scope="row" class="infobox-label"><a href="/wiki/OCLC_(identifier)" class="mw-redirect" title="OCLC (identifier)"><abbr title="Online Computer Library Center number">OCLC</abbr></a></th><td class="infobox-data"><a rel="nofollow" class="external text" href="https://www.worldcat.org/oclc/567188308">567188308</a></td></tr></tbody></table>
+<p>"<b>The Lifecycle of Software Objects</b>" is a <a href="/wiki/Novella" title="Novella">novella</a> by American writer  <a href="/wiki/Ted_Chiang" title="Ted Chiang">Ted Chiang</a>, originally published in 2010 by <a href="/wiki/Subterranean_Press" title="Subterranean Press">Subterranean Press</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> It focuses on the creation of digital entities and their growth as they are raised by human trainers over the course of many years. The novella received critical praise, winning the 2011 Locus Award for Best Novella and the 2011 Hugo Award for Best Novella.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Plot"><span class="tocnumber">1</span> <span class="toctext">Plot</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Major_Themes"><span class="tocnumber">2</span> <span class="toctext">Major Themes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Style"><span class="tocnumber">3</span> <span class="toctext">Style</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Background"><span class="tocnumber">4</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Reception_and_Awards"><span class="tocnumber">5</span> <span class="toctext">Reception and Awards</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Plot">Plot</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Lifecycle_of_Software_Objects&amp;action=edit&amp;section=1" title="Edit section: Plot">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ana, a former <a href="/wiki/Zookeeper" title="Zookeeper">zookeeper</a>, begins working for software firm Blue Gamma. The firm is creating “digients”, or digital entities. The digients are designed by another Blue Gamma employee, Derek. They are relatively intelligent and have rudimentary speech; Blue Gamma begins to sell them as virtual pets.
+</p><p>Over the course of many years, Ana grows close to a digient named Jax. The digients become more intelligent and develop their own personalities and quirks. Eventually, Blue Gamma goes bankrupt. The digients are cut off from the wider internet. Derek and Ana disagree on the best way to raise funds to transfer the digients to a new system. Options include modifying their brain structures to serve as sexual companions for humans, using the digients as employees, or raising funds from sympathetic donors. Derek and Ana debate the nature of consent, experience, adulthood, and personhood with respect to the digients. With the consent of his digient, Derek sells the rights to a sex toy company. Ana plans to continue raising Jax, promising to discover what "adulthood" means for a digital being alongside him.
+</p>
+<h2><span class="mw-headline" id="Major_Themes">Major Themes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Lifecycle_of_Software_Objects&amp;action=edit&amp;section=2" title="Edit section: Major Themes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Writing for the <i>Los Angeles Review of Books</i>, Joan Gordon writes that the novella explores interesting ethical questions including the meaning of <a href="/wiki/Consciousness" title="Consciousness">consciousness</a>. She also writes that the story explores the way in which "subjects – human or non-human – become enmeshed in and trapped by the <a href="/wiki/Capitalism" title="Capitalism">capitalist</a> system". The story explores this theme with digients who are treated both as company property and as individuals.<sup id="cite_ref-gordon_2-0" class="reference"><a href="#cite_note-gordon-2">&#91;2&#93;</a></sup>
+</p><p>Elizabeth Bear compared the raising of the digients to <a href="/wiki/Parenting" title="Parenting">parenthood</a> and <a href="/wiki/Pet" title="Pet">pet</a> ownership. The human caretakers must balance the digients' right to <a href="/wiki/Self-determination" title="Self-determination">self-determination</a> and choose how many mistakes that the digients should be allowed to make.<sup id="cite_ref-bear_3-0" class="reference"><a href="#cite_note-bear-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Style">Style</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Lifecycle_of_Software_Objects&amp;action=edit&amp;section=3" title="Edit section: Style">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Joan Gordon wrote that the tone of the novel is cool and that emotions are tamped down. This emotional distance allows the reader to take the novella's ethical questions more seriously.<sup id="cite_ref-gordon_2-1" class="reference"><a href="#cite_note-gordon-2">&#91;2&#93;</a></sup> Elizabeth Bear felt that the story's lack of physical grounding contributed to the feeling that it takes place in a virtual setting.<sup id="cite_ref-bear_3-1" class="reference"><a href="#cite_note-bear-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Lifecycle_of_Software_Objects&amp;action=edit&amp;section=4" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This is Chiang's first novella to be published originally in hardcover.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2022)">citation needed</span></a></i>&#93;</sup> It is the second written work by Chiang that is long enough to stand alone, after <i><a href="/wiki/The_Merchant_and_the_Alchemist%27s_Gate" title="The Merchant and the Alchemist&#39;s Gate">The Merchant and the Alchemist's Gate</a></i>.<sup id="cite_ref-pw_4-0" class="reference"><a href="#cite_note-pw-4">&#91;4&#93;</a></sup> The tale was later included in Chiang's second collection, <i><a href="/wiki/Exhalation:_Stories" title="Exhalation: Stories">Exhalation: Stories</a></i>, released in 2019.
+</p><p>The Subterreanean Press edition of the novella features ten internal paintings and cover art by <a href="/wiki/Weta_Workshop" class="mw-redirect" title="Weta Workshop">Weta Workshop</a> artist Christian Pearce.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> Each of the novella's ten chapters is preceded by a map designed by Jacob McMurray.
+</p>
+<h2><span class="mw-headline" id="Reception_and_Awards">Reception and Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Lifecycle_of_Software_Objects&amp;action=edit&amp;section=5" title="Edit section: Reception and Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Author <a href="/wiki/Elizabeth_Bear" title="Elizabeth Bear">Elizabeth Bear</a> praised the work for its discussion of complex topics relating to artificial intelligence, calling it "very peculiar ... in the absolute best way possible".<sup id="cite_ref-bear_3-2" class="reference"><a href="#cite_note-bear-3">&#91;3&#93;</a></sup> Writing for <i>Publishers Weekly</i>, author <a href="/wiki/Charles_Stross" title="Charles Stross">Charles Stross</a> praised the work, calling it a "very rare thing: a science fictional novel of ideas that delivers a real human impact".<sup id="cite_ref-pw_4-1" class="reference"><a href="#cite_note-pw-4">&#91;4&#93;</a></sup>
+</p><p>“The Lifecycle of Software Objects” won the 2011 <a href="/wiki/Locus_Award_for_Best_Novella" title="Locus Award for Best Novella">Locus Award for Best Novella</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> and the 2011 <a href="/wiki/Hugo_Award_for_Best_Novella" title="Hugo Award for Best Novella">Hugo Award for Best Novella</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Lifecycle_of_Software_Objects&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.subterraneanpress.com">[1]</a>   <a rel="nofollow" class="external text" href="https://web.archive.org/web/20101211140337/http://www.subterraneanpress.com/">Archived</a> December 11, 2010, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-gordon-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-gordon_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-gordon_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFJoan_Gordon2012" class="citation web cs1">Joan Gordon (27 Apr 2012). <a rel="nofollow" class="external text" href="https://lareviewofbooks.org/article/winsome-ghosts-in-the-machine-joan-gordons-the-lifecycle-of-software-objects/">"Winsome Ghosts in the Machine: Joan Gordon's "The Lifecycle of Software Objects"<span class="cs1-kern-right"></span>"</a>. Los Angeles Review of Books<span class="reference-accessdate">. Retrieved <span class="nowrap">13 May</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Winsome+Ghosts+in+the+Machine%3A+Joan+Gordon%E2%80%99s+%E2%80%9CThe+Lifecycle+of+Software+Objects%E2%80%9D&amp;rft.pub=Los+Angeles+Review+of+Books&amp;rft.date=2012-04-27&amp;rft.au=Joan+Gordon&amp;rft_id=https%3A%2F%2Flareviewofbooks.org%2Farticle%2Fwinsome-ghosts-in-the-machine-joan-gordons-the-lifecycle-of-software-objects%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Lifecycle+of+Software+Objects" class="Z3988"></span></span>
+</li>
+<li id="cite_note-bear-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-bear_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bear_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-bear_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFElizabeth_Bear2010" class="citation web cs1">Elizabeth Bear (1 Sep 2010). <a rel="nofollow" class="external text" href="https://www.tor.com/2010/09/01/your-tamagotchi-misses-you-being-a-review-of-ted-chiangs-the-lifecycle-of-software-objects/">"Your Tamagotchi misses you. (Being a review of Ted Chiang's The Lifecycle of Software Objects)"</a>. Tor.com<span class="reference-accessdate">. Retrieved <span class="nowrap">13 May</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Your+Tamagotchi+misses+you.+%28Being+a+review+of+Ted+Chiang%E2%80%99s+The+Lifecycle+of+Software+Objects%29&amp;rft.pub=Tor.com&amp;rft.date=2010-09-01&amp;rft.au=Elizabeth+Bear&amp;rft_id=https%3A%2F%2Fwww.tor.com%2F2010%2F09%2F01%2Fyour-tamagotchi-misses-you-being-a-review-of-ted-chiangs-the-lifecycle-of-software-objects%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Lifecycle+of+Software+Objects" class="Z3988"></span></span>
+</li>
+<li id="cite_note-pw-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-pw_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pw_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite id="CITEREFCharles_Stross2010" class="citation web cs1">Charles Stross (21 June 2010). <a rel="nofollow" class="external text" href="https://www.publishersweekly.com/9781596063174">"Fiction Book Review: The Lifecycle of Software Objects by Ted Chiang"</a>. Publishers Weekly<span class="reference-accessdate">. Retrieved <span class="nowrap">13 May</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Fiction+Book+Review%3A+The+Lifecycle+of+Software+Objects+by+Ted+Chiang&amp;rft.pub=Publishers+Weekly&amp;rft.date=2010-06-21&amp;rft.au=Charles+Stross&amp;rft_id=https%3A%2F%2Fwww.publishersweekly.com%2F9781596063174&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Lifecycle+of+Software+Objects" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.christianpearce.net/index.html=10">"Christian Pearce"</a>. Christian Pearce<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Christian+Pearce&amp;rft.pub=Christian+Pearce&amp;rft_id=http%3A%2F%2Fwww.christianpearce.net%2Findex.html%3D10&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Lifecycle+of+Software+Objects" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.tor.com/blogs/2011/06/announcing-the-2011-locus-award-winners">"Announcing the 2011 Locus Award Winners"</a>. Tor.com. 25 June 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">16 Feb</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Announcing+the+2011+Locus+Award+Winners&amp;rft.pub=Tor.com&amp;rft.date=2011-06-25&amp;rft_id=http%3A%2F%2Fwww.tor.com%2Fblogs%2F2011%2F06%2Fannouncing-the-2011-locus-award-winners&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Lifecycle+of+Software+Objects" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1067248974"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.tor.com/2011/08/21/announcing-the-2011-hugo-award-winners/">"Announcing the 2011 Hugo Award Winners!"</a>. Tor.com. 21 Aug 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">13 May</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Announcing+the+2011+Hugo+Award+Winners%21&amp;rft.pub=Tor.com&amp;rft.date=2011-08-21&amp;rft_id=https%3A%2F%2Fwww.tor.com%2F2011%2F08%2F21%2Fannouncing-the-2011-hugo-award-winners%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThe+Lifecycle+of+Software+Objects" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=The_Lifecycle_of_Software_Objects&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130306030242/http://subterraneanpress.com/magazine/fall_2010/fiction_the_lifecycle_of_software_objects_by_ted_chiang">Online text edition of the novella at the Subterranean Press website</a></li></ul>
+<div class="navbox-styles nomobile"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Hugo_Award_for_Best_Novella" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Hugo_Award_Best_Novella" title="Template:Hugo Award Best Novella"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Hugo_Award_Best_Novella" title="Template talk:Hugo Award Best Novella"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Hugo_Award_Best_Novella&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Hugo_Award_for_Best_Novella" style="font-size:114%;margin:0 4em"><a href="/wiki/Hugo_Award" title="Hugo Award">Hugo Award</a> for <a href="/wiki/Hugo_Award_for_Best_Novella" title="Hugo Award for Best Novella">Best Novella</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Hugo_Award_for_Best_Novella#Retro_Hugos" title="Hugo Award for Best Novella">Retro Hugos</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Who_Goes_There%3F" title="Who Goes There?">Who Goes There?</a></i> by <a href="/wiki/John_W._Campbell" title="John W. Campbell">Don A. Stuart</a> (1939)</li>
+<li><i><a href="/wiki/If_This_Goes_On%E2%80%94" class="mw-redirect" title="If This Goes On—">If This Goes On—</a></i> by <a href="/wiki/Robert_A._Heinlein" title="Robert A. Heinlein">Robert A. Heinlein</a> (1941)</li>
+<li><i><a href="/wiki/Waldo_(short_story)" title="Waldo (short story)">Waldo</a></i> by <a href="/wiki/Robert_A._Heinlein" title="Robert A. Heinlein">Robert A. Heinlein</a> (1943)</li>
+<li><i><a href="/wiki/The_Little_Prince" title="The Little Prince">The Little Prince</a></i> by <a href="/wiki/Antoine_de_Saint-Exup%C3%A9ry" title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</a> (1944)</li>
+<li><i><a href="/wiki/Killdozer!_(short_story)" title="Killdozer! (short story)">Killdozer!</a></i> by <a href="/wiki/Theodore_Sturgeon" title="Theodore Sturgeon">Theodore Sturgeon</a> (1945)</li>
+<li><i><a href="/wiki/Animal_Farm" title="Animal Farm">Animal Farm</a></i> by <a href="/wiki/George_Orwell" title="George Orwell">George Orwell</a> (1946)</li>
+<li><i><a href="/wiki/The_Man_Who_Sold_the_Moon" title="The Man Who Sold the Moon">The Man Who Sold the Moon</a></i> by <a href="/wiki/Robert_A._Heinlein" title="Robert A. Heinlein">Robert A. Heinlein</a> (1951)</li>
+<li><i><a href="/wiki/A_Case_of_Conscience" title="A Case of Conscience">A Case of Conscience</a></i> by <a href="/wiki/James_Blish" title="James Blish">James Blish</a> (1954)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">1968–1980</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Riders_of_the_Purple_Wage" title="Riders of the Purple Wage">Riders of the Purple Wage</a></i> by <a href="/wiki/Philip_Jos%C3%A9_Farmer" title="Philip José Farmer">Philip José Farmer</a> /<i><a href="/wiki/Dragonflight" title="Dragonflight">Weyr Search</a></i> by <a href="/wiki/Anne_McCaffrey" title="Anne McCaffrey">Anne McCaffrey</a> (1968)</li>
+<li><i><a href="/wiki/Nightwings_(novella)" title="Nightwings (novella)">Nightwings</a></i> by <a href="/wiki/Robert_Silverberg" title="Robert Silverberg">Robert Silverberg</a> (1969)</li>
+<li><i>Ship of Shadows</i> by <a href="/wiki/Fritz_Leiber" title="Fritz Leiber">Fritz Leiber</a> (1970)</li>
+<li><i><a href="/wiki/Ill_Met_in_Lankhmar" title="Ill Met in Lankhmar">Ill Met in Lankhmar</a></i> by <a href="/wiki/Fritz_Leiber" title="Fritz Leiber">Fritz Leiber</a> (1971)</li>
+<li><i><a href="/wiki/The_Queen_of_Air_and_Darkness_(novella)" title="The Queen of Air and Darkness (novella)">The Queen of Air and Darkness</a></i> by <a href="/wiki/Poul_Anderson" title="Poul Anderson">Poul Anderson</a> (1972)</li>
+<li><i><a href="/wiki/The_Word_for_World_Is_Forest" title="The Word for World Is Forest">The Word for World Is Forest</a></i> by <a href="/wiki/Ursula_K._Le_Guin" title="Ursula K. Le Guin">Ursula K. Le Guin</a> (1973)</li>
+<li><i><a href="/wiki/The_Girl_Who_Was_Plugged_In" title="The Girl Who Was Plugged In">The Girl Who Was Plugged In</a></i> by <a href="/wiki/James_Tiptree_Jr." title="James Tiptree Jr.">James Tiptree Jr.</a> (1974)</li>
+<li><i>A Song for Lya</i> by <a href="/wiki/George_R._R._Martin" title="George R. R. Martin">George R. R. Martin</a> (1975)</li>
+<li><i><a href="/wiki/My_Name_Is_Legion_(Zelazny_stories)" class="mw-redirect" title="My Name Is Legion (Zelazny stories)">Home Is the Hangman</a></i> by <a href="/wiki/Roger_Zelazny" title="Roger Zelazny">Roger Zelazny</a> (1976)</li>
+<li><i>By Any Other Name</i> by <a href="/wiki/Spider_Robinson" title="Spider Robinson">Spider Robinson</a> / <i><a href="/wiki/Houston,_Houston,_Do_You_Read%3F" title="Houston, Houston, Do You Read?">Houston, Houston, Do You Read?</a></i> by <a href="/wiki/James_Tiptree_Jr." title="James Tiptree Jr.">James Tiptree Jr.</a> (1977)</li>
+<li><i><a href="/wiki/Stardance" title="Stardance">Stardance</a></i> by <a href="/wiki/Spider_Robinson" title="Spider Robinson">Spider Robinson</a> and <a href="/wiki/Jeanne_Robinson" title="Jeanne Robinson">Jeanne Robinson</a> (1978)</li>
+<li><i><a href="/wiki/The_Persistence_of_Vision_(short_story)" class="mw-redirect" title="The Persistence of Vision (short story)">The Persistence of Vision</a></i> by <a href="/wiki/John_Varley_(author)" title="John Varley (author)">John Varley</a> (1979)</li>
+<li><i><a href="/wiki/Enemy_Mine_(novella)" title="Enemy Mine (novella)">Enemy Mine</a></i> by <a href="/wiki/Barry_B._Longyear" title="Barry B. Longyear">Barry B. Longyear</a> (1980)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">1981–1990</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Lost_Dorsai" title="Lost Dorsai">Lost Dorsai</a></i> by <a href="/wiki/Gordon_R._Dickson" title="Gordon R. Dickson">Gordon R. Dickson</a> (1981)</li>
+<li><i><a href="/wiki/The_Saturn_Game" title="The Saturn Game">The Saturn Game</a></i> by <a href="/wiki/Poul_Anderson" title="Poul Anderson">Poul Anderson</a> (1982)</li>
+<li><i><a href="/wiki/Souls_(story)" title="Souls (story)">Souls</a></i> by <a href="/wiki/Joanna_Russ" title="Joanna Russ">Joanna Russ</a> (1983)</li>
+<li><i>Cascade Point</i> by <a href="/wiki/Timothy_Zahn" title="Timothy Zahn">Timothy Zahn</a> (1984)</li>
+<li><i><a href="/wiki/Press_Enter" title="Press Enter">Press Enter</a></i> by <a href="/wiki/John_Varley_(author)" title="John Varley (author)">John Varley</a> (1985)</li>
+<li><i><a href="/wiki/24_Views_of_Mt._Fuji,_by_Hokusai" title="24 Views of Mt. Fuji, by Hokusai">24 Views of Mt. Fuji, by Hokusai</a></i> by <a href="/wiki/Roger_Zelazny" title="Roger Zelazny">Roger Zelazny</a> (1986)</li>
+<li><i><a href="/wiki/Gilgamesh_in_the_Outback" title="Gilgamesh in the Outback">Gilgamesh in the Outback</a></i> by <a href="/wiki/Robert_Silverberg" title="Robert Silverberg">Robert Silverberg</a> (1987)</li>
+<li><i><a href="/wiki/Eye_for_Eye" title="Eye for Eye">Eye for Eye</a></i> by <a href="/wiki/Orson_Scott_Card" title="Orson Scott Card">Orson Scott Card</a> (1988)</li>
+<li><i><a href="/wiki/The_Last_of_the_Winnebagos" title="The Last of the Winnebagos">The Last of the Winnebagos</a></i> by <a href="/wiki/Connie_Willis" title="Connie Willis">Connie Willis</a> (1989)</li>
+<li><i><a href="/wiki/Vorkosigan_Saga" title="Vorkosigan Saga">The Mountains of Mourning</a></i> by <a href="/wiki/Lois_McMaster_Bujold" title="Lois McMaster Bujold">Lois McMaster Bujold</a> (1990)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">1991–2000</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/The_Hemingway_Hoax" title="The Hemingway Hoax">The Hemingway Hoax</a></i> by <a href="/wiki/Joe_Haldeman" title="Joe Haldeman">Joe Haldeman</a> (1991)</li>
+<li><i><a href="/wiki/Beggars_in_Spain" title="Beggars in Spain">Beggars in Spain</a></i> by <a href="/wiki/Nancy_Kress" title="Nancy Kress">Nancy Kress</a> (1992)</li>
+<li><i>Barnacle Bill the Spacer</i> by <a href="/wiki/Lucius_Shepard" title="Lucius Shepard">Lucius Shepard</a> (1993)</li>
+<li><i><a href="/wiki/Down_in_the_Bottomlands" title="Down in the Bottomlands">Down in the Bottomlands</a></i> by <a href="/wiki/Harry_Turtledove" title="Harry Turtledove">Harry Turtledove</a> (1994)</li>
+<li><i><a href="/wiki/Seven_Views_of_Olduvai_Gorge" title="Seven Views of Olduvai Gorge">Seven Views of Olduvai Gorge</a></i> by <a href="/wiki/Mike_Resnick" title="Mike Resnick">Mike Resnick</a> (1995)</li>
+<li><i><a href="/wiki/Captain_Future#&quot;The_Death_of_Captain_Future&quot;" title="Captain Future">The Death of Captain Future</a></i> by <a href="/wiki/Allen_Steele" title="Allen Steele">Allen Steele</a> (1996)</li>
+<li><i><a href="/wiki/Blood_of_the_Dragon_(novella)" class="mw-redirect" title="Blood of the Dragon (novella)">Blood of the Dragon</a></i> by <a href="/wiki/George_R._R._Martin" title="George R. R. Martin">George R. R. Martin</a> (1997)</li>
+<li><i>...Where Angels Fear to Tread</i> by <a href="/wiki/Allen_Steele" title="Allen Steele">Allen Steele</a> (1998)</li>
+<li><i><a href="/wiki/Oceanic_(novella)" title="Oceanic (novella)">Oceanic</a></i> by <a href="/wiki/Greg_Egan" title="Greg Egan">Greg Egan</a> (1999)</li>
+<li><i>The Winds of Marble Arch</i> by <a href="/wiki/Connie_Willis" title="Connie Willis">Connie Willis</a> (2000)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2001–2010</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i>The Ultimate Earth</i> by <a href="/wiki/Jack_Williamson" title="Jack Williamson">Jack Williamson</a> (2001)</li>
+<li><i><a href="/wiki/The_Collected_Stories_of_Vernor_Vinge#&quot;Fast_Times_at_Fairmont_High&quot;" title="The Collected Stories of Vernor Vinge">Fast Times at Fairmont High</a></i> by <a href="/wiki/Vernor_Vinge" title="Vernor Vinge">Vernor Vinge</a> (2002)</li>
+<li><i><a href="/wiki/Coraline" title="Coraline">Coraline</a></i> by <a href="/wiki/Neil_Gaiman" title="Neil Gaiman">Neil Gaiman</a> (2003)</li>
+<li><i><a href="/wiki/The_Cookie_Monster_(novella)" title="The Cookie Monster (novella)">The Cookie Monster</a></i> by <a href="/wiki/Vernor_Vinge" title="Vernor Vinge">Vernor Vinge</a> (2004)</li>
+<li><i><a href="/wiki/The_Atrocity_Archives" class="mw-redirect" title="The Atrocity Archives">The Concrete Jungle</a></i> by <a href="/wiki/Charles_Stross" title="Charles Stross">Charles Stross</a> (2005)</li>
+<li><i><a href="/wiki/Inside_Job_(novella)" title="Inside Job (novella)">Inside Job</a></i> by <a href="/wiki/Connie_Willis" title="Connie Willis">Connie Willis</a> (2006)</li>
+<li><i>A Billion Eves</i> by <a href="/wiki/Robert_Reed_(author)" title="Robert Reed (author)">Robert Reed</a> (2007)</li>
+<li><i><a href="/wiki/All_Seated_on_the_Ground" title="All Seated on the Ground">All Seated on the Ground</a></i> by <a href="/wiki/Connie_Willis" title="Connie Willis">Connie Willis</a> (2008)</li>
+<li><i>The Erdmann Nexus</i> by <a href="/wiki/Nancy_Kress" title="Nancy Kress">Nancy Kress</a> (2009)</li>
+<li><i><a href="/wiki/Palimpsest_(novella)" title="Palimpsest (novella)">Palimpsest</a></i> by <a href="/wiki/Charles_Stross" title="Charles Stross">Charles Stross</a> (2010)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2011–2020</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a class="mw-selflink selflink">The Lifecycle of Software Objects</a></i> by <a href="/wiki/Ted_Chiang" title="Ted Chiang">Ted Chiang</a> (2011)</li>
+<li><i><a href="/wiki/The_Man_Who_Bridged_the_Mist" title="The Man Who Bridged the Mist">The Man Who Bridged the Mist</a></i> by <a href="/wiki/Kij_Johnson" title="Kij Johnson">Kij Johnson</a> (2012)</li>
+<li><i><a href="/wiki/The_Emperor%27s_Soul" title="The Emperor&#39;s Soul">The Emperor's Soul</a></i> by <a href="/wiki/Brandon_Sanderson" title="Brandon Sanderson">Brandon Sanderson</a> (2013)</li>
+<li><i>Equoid</i> by <a href="/wiki/Charles_Stross" title="Charles Stross">Charles Stross</a> (2014)</li>
+<li>(No award given) (2015)</li>
+<li><i><a href="/wiki/Binti_(novella)" title="Binti (novella)">Binti</a></i> by <a href="/wiki/Nnedi_Okorafor" title="Nnedi Okorafor">Nnedi Okorafor</a> (2016)</li>
+<li><i><a href="/wiki/Every_Heart_a_Doorway" title="Every Heart a Doorway">Every Heart a Doorway</a></i> by <a href="/wiki/Seanan_McGuire" title="Seanan McGuire">Seanan McGuire</a> (2017)</li>
+<li><i><a href="/wiki/All_Systems_Red" title="All Systems Red">All Systems Red</a></i> by <a href="/wiki/Martha_Wells" title="Martha Wells">Martha Wells</a> (2018)</li>
+<li><i><a href="/wiki/The_Murderbot_Diaries" title="The Murderbot Diaries">Artificial Condition</a></i> by <a href="/wiki/Martha_Wells" title="Martha Wells">Martha Wells</a> (2019)</li>
+<li><i><a href="/wiki/This_Is_How_You_Lose_the_Time_War" title="This Is How You Lose the Time War">This Is How You Lose the Time War</a></i> by <a href="/wiki/Amal_El-Mohtar" title="Amal El-Mohtar">Amal El-Mohtar</a> and <a href="/wiki/Max_Gladstone" title="Max Gladstone">Max Gladstone</a> (2020)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2021–present</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/The_Empress_of_Salt_and_Fortune" title="The Empress of Salt and Fortune">The Empress of Salt and Fortune</a></i> by <a href="/wiki/Nghi_Vo" title="Nghi Vo">Nghi Vo</a> (2021)</li>
+<li><i><a href="/wiki/A_Psalm_for_the_Wild-Built" title="A Psalm for the Wild-Built">A Psalm for the Wild-Built</a></i> by <a href="/wiki/Becky_Chambers" title="Becky Chambers">Becky Chambers</a> (2022)</li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1330
+Cached time: 20220927064926
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.329 seconds
+Real time usage: 0.436 seconds
+Preprocessor visited node count: 1592/1000000
+Post‐expand include size: 44839/2097152 bytes
+Template argument size: 2857/2097152 bytes
+Highest expansion depth: 19/100
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 24982/5000000 bytes
+Lua time usage: 0.189/10.000 seconds
+Lua memory usage: 5252081/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  383.778      1 -total
+ 35.69%  136.978      1 Template:Infobox_book
+ 30.61%  117.464      1 Template:Infobox
+ 25.73%   98.747      1 Template:Reflist
+ 18.22%   69.909      6 Template:Cite_web
+ 15.44%   59.267      1 Template:ISBNT
+ 14.52%   55.723      1 Template:Short_description
+ 12.45%   47.768      1 Template:Hugo_Award_Best_Novella
+ 11.47%   44.029      1 Template:Navbox
+  9.77%   37.483      1 Template:Citation_needed
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:30156771-0!canonical and timestamp 20220927064925 and revision id 1089285306.
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=The_Lifecycle_of_Software_Objects&amp;oldid=1089285306">https://en.wikipedia.org/w/index.php?title=The_Lifecycle_of_Software_Objects&amp;oldid=1089285306</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:American_novellas" title="Category:American novellas">American novellas</a></li><li><a href="/wiki/Category:2010_American_novels" title="Category:2010 American novels">2010 American novels</a></li><li><a href="/wiki/Category:Hugo_Award_for_Best_Novella_winning_works" title="Category:Hugo Award for Best Novella winning works">Hugo Award for Best Novella winning works</a></li><li><a href="/wiki/Category:Works_by_Ted_Chiang" title="Category:Works by Ted Chiang">Works by Ted Chiang</a></li><li><a href="/wiki/Category:Chinese-American_novels" title="Category:Chinese-American novels">Chinese-American novels</a></li><li><a href="/wiki/Category:Subterranean_Press_books" title="Category:Subterranean Press books">Subterranean Press books</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2022" title="Category:Articles with unsourced statements from May 2022">Articles with unsourced statements from May 2022</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		
+
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="The user page for the IP address you are editing as">Not logged in</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=The+Lifecycle+of+Software+Objects" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=The+Lifecycle+of+Software+Objects" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/The_Lifecycle_of_Software_Objects" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/Talk:The_Lifecycle_of_Software_Objects" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Change language variant"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">English</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/The_Lifecycle_of_Software_Objects"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=The_Lifecycle_of_Software_Objects&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=The_Lifecycle_of_Software_Objects&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">More</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Search</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Special:Search">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	
+
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation"  >
+	<h3
+		id="p-interaction-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/The_Lifecycle_of_Software_Objects" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/The_Lifecycle_of_Software_Objects" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=The_Lifecycle_of_Software_Objects&amp;oldid=1089285306" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=The_Lifecycle_of_Software_Objects&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=The_Lifecycle_of_Software_Objects&amp;id=1089285306&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7747230" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</nav>
+
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=The_Lifecycle_of_Software_Objects&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=The_Lifecycle_of_Software_Objects&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/El_ciclo_de_vida_de_los_objetos_de_software" title="El ciclo de vida de los objetos de software – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Il_ciclo_di_vita_degli_oggetti_software" title="Il ciclo di vita degli oggetti software – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7747230#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 22 May 2022, at 23:09<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License 3.0</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=The_Lifecycle_of_Software_Objects&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.329","walltime":"0.436","ppvisitednodes":{"value":1592,"limit":1000000},"postexpandincludesize":{"value":44839,"limit":2097152},"templateargumentsize":{"value":2857,"limit":2097152},"expansiondepth":{"value":19,"limit":100},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":24982,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  383.778      1 -total"," 35.69%  136.978      1 Template:Infobox_book"," 30.61%  117.464      1 Template:Infobox"," 25.73%   98.747      1 Template:Reflist"," 18.22%   69.909      6 Template:Cite_web"," 15.44%   59.267      1 Template:ISBNT"," 14.52%   55.723      1 Template:Short_description"," 12.45%   47.768      1 Template:Hugo_Award_Best_Novella"," 11.47%   44.029      1 Template:Navbox","  9.77%   37.483      1 Template:Citation_needed"]},"scribunto":{"limitreport-timeusage":{"value":"0.189","limit":"10.000"},"limitreport-memusage":{"value":5252081,"limit":52428800}},"cachereport":{"origin":"mw1330","timestamp":"20220927064926","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"The Lifecycle of Software Objects","url":"https:\/\/en.wikipedia.org\/wiki\/The_Lifecycle_of_Software_Objects","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7747230","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7747230","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-12-22T17:02:16Z","dateModified":"2022-05-22T23:09:12Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/The_Lifecycle_of_Software_Objects_-_bookcover.jpg","headline":"2010 novella by Ted Chiang"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"The Lifecycle of Software Objects","url":"https:\/\/en.wikipedia.org\/wiki\/The_Lifecycle_of_Software_Objects","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7747230","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7747230","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-12-22T17:02:16Z","dateModified":"2022-05-22T23:09:12Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a5\/The_Lifecycle_of_Software_Objects_-_bookcover.jpg","headline":"2010 novella by Ted Chiang"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":128,"wgHostname":"mw1372"});});</script>
+</body>
+</html>

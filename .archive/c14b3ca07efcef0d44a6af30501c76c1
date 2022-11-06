@@ -1,0 +1,512 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+			<meta name="robots" content="noodp,noydir" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/><title>The Epic Story of Container Shipping</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="ribbonfarm &raquo; Feed" href="https://www.ribbonfarm.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="ribbonfarm &raquo; Comments Feed" href="https://ribbonfarm.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="ribbonfarm &raquo; The Epic Story of Container Shipping Comments Feed" href="https://www.ribbonfarm.com/2009/07/07/the-epic-story-of-container-shipping/feed/" />
+<link rel="canonical" href="https://www.ribbonfarm.com/2009/07/07/the-epic-story-of-container-shipping/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.ribbonfarm.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='orgseries-default-css-css'  href='https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/plugins/organize-series/orgSeries.css?ver=6.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='prose_minified_stylesheet-css'  href='https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/uploads/prose/minified.css?ver=1645655703' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-social-icons-font-css'  href='https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/plugins/simple-social-icons/css/style.css?ver=3.0.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/themes/genesis/lib/js/html5shiv.min.js?ver=3.7.3' id='html5shiv-js'></script>
+<![endif]-->
+<script type='text/javascript' src='https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.4' id='ga-external-tracking-js'></script>
+<link rel="https://api.w.org/" href="https://www.ribbonfarm.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.ribbonfarm.com/wp-json/wp/v2/posts/1092" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ribbonfarm.com/xmlrpc.php?rsd" />
+<link rel="alternate" type="application/json+oembed" href="https://www.ribbonfarm.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ribbonfarm.com%2F2009%2F07%2F07%2Fthe-epic-story-of-container-shipping%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.ribbonfarm.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ribbonfarm.com%2F2009%2F07%2F07%2Fthe-epic-story-of-container-shipping%2F&#038;format=xml" />
+<meta name="verify-v1" content="munh/UIYqzu0QOldaAsyEhZk22YTPDEJxt/f8A5reP0=" ><style type="text/css">#header { background: url(https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/uploads/2022/02/sloganblue150dpi.png) no-repeat !important; }</style>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link rel="icon" href="https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/uploads/2022/02/cropped-rfsquare-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/uploads/2022/02/cropped-rfsquare-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/uploads/2022/02/cropped-rfsquare-180x180.png" />
+<meta name="msapplication-TileImage" content="https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/uploads/2022/02/cropped-rfsquare-270x270.png" />
+<!-- Google Analytics Tracking by Google Analyticator 6.5.4: http://www.videousermanuals.com/google-analyticator/ -->
+<script type="text/javascript">
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'enabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+  
+	_gaq.push(['_setAccount', 'UA-2155437-1']);
+    _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+</head>
+<body class="post-template-default single single-post postid-1092 single-format-standard custom-background custom-header header-image header-full-width content-sidebar"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.498039215686" /><feFuncG type="table" tableValues="0 0.498039215686" /><feFuncB type="table" tableValues="0 0.498039215686" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.549019607843 0.988235294118" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.717647058824 0.254901960784" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.278431372549" /><feFuncB type="table" tableValues="0.592156862745 0.278431372549" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.647058823529" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.780392156863 1" /><feFuncG type="table" tableValues="0 0.949019607843" /><feFuncB type="table" tableValues="0.352941176471 0.470588235294" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.650980392157 0.403921568627" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.447058823529 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.0980392156863 1" /><feFuncG type="table" tableValues="0 0.662745098039" /><feFuncB type="table" tableValues="0.847058823529 0.419607843137" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><div id="wrap"><div id="nav"><div class="wrap"><ul id="menu-primary" class="menu genesis-nav-menu menu-primary"><li id="menu-item-5026" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-5026"><a href="https://www.ribbonfarm.com/">Home</a></li>
+<li id="menu-item-7503" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7503"><a href="https://www.ribbonfarm.com/studio/">Studio</a></li>
+<li id="menu-item-6217" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6217"><a href="https://www.ribbonfarm.com/for-new-readers/">For New Readers</a></li>
+<li id="menu-item-5472" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5472"><a href="https://www.ribbonfarm.com/now-reading/">Now Reading</a></li>
+<li id="menu-item-5019" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5019"><a href="https://www.ribbonfarm.com/about/">About</a></li>
+<li id="menu-item-6220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6220"><a href="https://www.ribbonfarm.com/books/">Books</a></li>
+</ul></div></div><div id="header"><div class="wrap"><div id="title-area"><p id="title"><a href="https://www.ribbonfarm.com/">ribbonfarm</a></p><p id="description">constructions in magical thinking</p></div></div></div><div id="inner"><div id="content-sidebar-wrap"><div id="content" class="hfeed"><div class="post-1092 post type-post status-publish format-standard hentry category-bookreviews category-innovation category-culture category-economics category-technology entry"><h1 class="entry-title">The Epic Story of Container Shipping</h1>
+<div class="post-info"><span class="date published time" title="2009-07-07T20:15:54-07:00">July 7, 2009</span>  By <span class="author vcard"><span class="fn"><a href="https://www.ribbonfarm.com/author/admin/" rel="author">Venkatesh Rao</a></span></span> </div><div class="entry-content"><p>If you read only one book about globalization, make it <a href="http://www.amazon.com/gp/product/0691136408?ie=UTF8&amp;tag=ribbonfarmcom-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0691136408">The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger</a><img style="border:none !important; margin:0px !important;" src="http://www.assoc-amazon.com/e/ir?t=ribbonfarmcom-20&amp;l=as2&amp;o=1&amp;a=0691136408" border="0" alt="" width="1" height="1" />, by Marc Levinson (2006). If your expectations in this space have been set to &#8220;low&#8221; by the mostly obvious, lightweight and mildly entertaining stuff from the likes of Tom Friedman, be prepared to be blown away.  Levinson is a heavyweight (former finance and economics editor at the <em>Economist</em>), and the book has won a bagful of prizes. And with good reason: the story of an unsung star of globalization, the shipping container, is an extraordinarily gripping one, and it is practically a crime that it wasn&#8217;t properly told till 2006.</p>
+<div id="attachment_1093" style="width: 160px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1093" loading="lazy" class="size-thumbnail wp-image-1093" title="container_01_kmj" src="https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/uploads/2009/07/container_01_kmj-150x150.jpg" alt="(From Wikimedia Commons, GFDL license)" width="150" height="150" /><p id="caption-attachment-1093" class="wp-caption-text">40 foot container (from Wikimedia Commons, GFDL license)</p></div>
+<p>There are no strained metaphors (like Friedman&#8217;s &#8220;Flat&#8221;) or attempts to dazzle with overworked, right-brained high concepts (Gladwell&#8217;s books come to mind). This is an  important story of the modern world, painstakingly researched, and masterfully narrated with the sort of balanced and detached passion one would expect from an <em>Economist</em> writer.  It isn&#8217;t a narrow tale though. Even though the Internet revolution, spaceflight, GPS and biotechnology don&#8217;t feature in this book, the story teases out the DNA of globalization in a way grand sweeping syntheses never could. Think of the container story as the radioactive tracer in the body politic of globalization.</p>
+<p><span id="more-1092"></span></p>
+<h3>The Big Story</h3>
+<p>(<strong>Note</strong>: I&#8217;ve tried to make this more than a book review/summary, so a BIG thank-you is due to <a href="http://twitter.com/otoburb">@otoburb</a>, aka Davison Avery, a dazzlingly well-informed regular reader who provided me with a lot of the additional material for this piece.)</p>
+<p>What is amazing about <em>The Box</em> is that despite being told from a finance/economics perspective, the story has an edge-of-the-seat quality of excitement to it. This book could (in fact, <em>should</em>) become a movie; a cinematic <em>uber-</em>human counterpoint to Brando&#8217;s <em><a href="http://en.wikipedia.org/wiki/On_the_Waterfront">On the Waterfront</a>. </em>The tale would definitely be one of epic proportions, larger than any one character; comparable to <em><a href="http://en.wikipedia.org/wiki/How_the_West_Was_Won_(film)">How the West Was Won</a>, </em>or <em>Lord of the Rings. </em>The <em>Box Movie </em>could serve as the origin-myth for the world that <em><a href="http://en.wikipedia.org/wiki/Syriana">Syriana</a> </em>captured with impressionistic strokes.</p>
+<p>The movie would probably begin with a montage of views of containerships sounding their whistles in h0mage around the world on the morning of May 30, 2001. That was the morning of the funeral of the colorful character at the center of this story, Malcolm McLean. McLean was a hard-driving self-made American trucking magnate who charged into the world of shipping in the 1950s, knowing nothing about the industry, and proceeded, over the course of four decades, to turn that world upside down. He did that by relentlessly envisioning and driving through an agenda that made ships, railroads and trucks subservient to the intermodal container, and in the process, made globalization possible. In doing so, he destroyed not only an old economic order while creating a new one, he also destroyed a backward-looking schoolboy romanticism anchored in ships, trucks and steam engines. In its place, he created a new, adult romanticism, based on an aesthetic of networks, boxes, speed and scale. Reading this story was a revelation: McLean clearly belongs in the top five list of the true titans of the second half of the twentieth century. Easily ahead of the likes of Bill Gates or even Jack Welch.</p>
+<p>Levinson is too sophisticated a writer to construct simple-minded origin myths. He is careful not to paint McLean as an original visionary or Biblical patriarch. From an engineering and business point of view, the container was a somewhat obvious idea, and many attempts had been made before McLean to realize some version of the concept. While he did contribute some technological ideas to the mix (marked more by simplicity and daring than technical ingenuity), McLean&#8217;s is the central plot line because of his personality. He brought to a tradition-bound, self-romanticizing industry a mix of high-risk, opportunistic drive and a relentless focus on abstractions like cost and utilization. He seems to have simultaneously had a thoroughly bean-counterish side to his personality, and a supremely right-brained sense of design and architecture. Starting with the idea of a single coastal route, McLean navigated and took full advantage of the world of regulated transport, leveraged his company to the hilt, swung multi-million dollar deals risking only tens of thousands of his own money, manipulated New-York-New-Jersey politics like a Judo master and made intermodal shipping a reality. He dealt with the nitty-gritty of crane design, turned the Vietnam war logistical nightmare into a catalyst for organizing the Japan-Pacific coast trade, and finally, sold the company he built, Sea-Land, just in time to escape the first of many slow cyclic shocks to hit container shipping. His encore though, wasn&#8217;t as successful (an attempt to make an easterly round-the-world route feasible, to get around the problem of empty westbound container capacity created by trade imbalances). The entire story is one of ready-fire-aim audacity; <a href="http://www.everypoet.com/archive/poetry/Rudyard_Kipling/kipling_if.htm">Kipling</a> would have loved McLean for his ability to repeatedly make a heap of all his winnings and risk it on one turn of pitch-and-toss. He walked away from his first trucking empire to build a shipping empire. And then repeated the move several times.</p>
+<p>McLean&#8217;s story, spanning a half-century, doesn&#8217;t overwhelm the plot though; it merely functions as a spinal cord. A story this complex necessarily has many important subplots, which I&#8217;ll cover briefly in a minute, but the overall story (which McLean&#8217;s personal story manifests, in a Forrest Gumpish way) also has an overarching shape. On one end, you have four fragmented and heavily regulated industries in post World-War II mode (railroads, trucking, shipping and port operations). It is a world of breakbulk shipping  (mixed discrete cargo), when swaggering, Brando-like longshoremen unloaded trucks packed with an assortment of items, ranging from baskets of fruit and bales of cotton to machine parts and sacks of coffee. These they then transferred to dockside warehouses and again into the holds of ships whose basic geometric design had survived the transitions from sail to steam and steam to diesel. It was a system that was costly, inefficient, almost designed for theft, and mind-numbingly slow, keeping transportation systems stationary and losing money for far too much of their useful lives.</p>
+<p>On the other end of the big story (with a climactic moment in the Vietnam war), is the world we now live in: where romantic old-world waterfronts have disappeared and goods move, practically untouched by humans, from anywhere in the world to anywhere else, with an orchestrated elegance that rivals that of the Internet&#8217;s packet switching systems. Along the way the container did to distribution what the assembly line had done earlier to manufacturing: it made mass distribution possible. The fortunes of port cities old and new swung wildly, railroads clawed back into prominence, regulation fell apart, and supply chains got globally integrated as manufacturing got distributed. And yes, last but not the least, the vast rivers of material pouring through the world&#8217;s container-based plumbing created the quintessential security threat of our age: terror sneaking through security nets struggling to monitor more than a percent or two of the world&#8217;s container traffic.</p>
+<p>Now if you tell me that isn&#8217;t an exciting story, I have to conclude you have no imagination. Let&#8217;s sample some of the subplots.</p>
+<h3>The Top Five Subplots</h3>
+<p>There are at least a dozen intricate subplots here, and I picked out the top five.</p>
+<h4>One: The Financial/Business Subplot</h4>
+<p>At heart, containerization is a financial story, and nothing illustrates this better than some stark numbers. At the beginning of the story, total port costs ate up a whopping 48% (or $1163 of $2386) of an illustrative shipment of one truckload of medicine from Chicago to Nancy, France, in 1960. In more comprehensible terms, an expert quoted in the book explains: &#8220;a four thousand mile shipment might consume 50 percent of its costs in covering just the two ten-mile movements through two ports.&#8221; For many goods then, shipping accounted for nearly 25% of total cost for a product sold beyond its local market. Fast forward to today: the book quotes economists Edward Glaeser and Janet Kohlhase: &#8220;It is better to assume that moving goods is essentially costless than to assume that moving goods is an important component of the production process.&#8221; At this moment in time, <a href="http://www.telegraph.co.uk/finance/4229198/Shipping-rates-hit-zero-as-trade-sinks.html">this is almost literally true</a>: due to the recession. These sort of odd dynamics  are due to the fact that world shipping infrastructure changes very slowly but inexorably (and cyclically) towards higher, more aggregated capacity, and lower costs. This is due to the highly capital-intensive nature of the business, and the extreme economies of scale (leading to <a href="http://online.wsj.com/article/SB123292489602813689.html">successively larger ships in every generation</a>). Ships, though they are moving vehicles, are better thought of as somewhere between pieces of civic infrastructure (due to the large legacy impact of government regulation and subsidies) and fabs in the semiconductor industry (which, like shipping, undergoes a serious extinction event and consolidation with every trough in the business cycle). Currently the top 10 companies pretty much account for 100% of the capacity, as this visualization from <a href="http://gcaptain.com/maritime/blog/the-ten-largest-container-shipping-companies-visualized/">from gcaptain.com</a> shows, which tells us that today there are over 6048 container ships afloat, with a total capacity of around 13 million TEU (twenty-foot equivalent).</p>
+<p><img loading="lazy" class="aligncenter size-medium wp-image-1097" title="container-shipping-companies" src="https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/uploads/2009/07/container-shipping-companies-300x265.png" alt="container-shipping-companies" width="300" height="265" srcset="https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/uploads/2009/07/container-shipping-companies-300x265.png 300w, https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/uploads/2009/07/container-shipping-companies.png 517w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+<p>The mortgaging and financial arrangements dictate that ships absolutely must be kept moving at all costs, so long as the revenue can at least make up port costs and service debt.  As the most financially constrained part of the system, ships dominate the equation over trains and trucks.  One tidbit about the gradual consolidation: as of the book&#8217;s writing, McLean&#8217;s original company, Sea-Land, is now part of Maersk.</p>
+<p>How this came to be is the most important (though not the most fun) subplot. Things didn&#8217;t proceed smoothly, as you might expect. All sorts of forces, from regulation, to misguided attempts to mix breakbulk and containers, to irrationallities and tariffs deliberately engineered in to keep longshoremen employed, held back the emergence of the true efficiencies of containerization. But finally, by the mid-seventies, today&#8217;s business dynamics had been created.</p>
+<h4>Two: The Technology Subplot</h4>
+<p>If the dollar figures and percentages tell the financial story, the heart of the technology action is in the operations research. While McLean and Sea-Land were improvising on the East Coast, a West Coast pioneer, Matson, involved primarily in the 60s Hawaii-California trade, drove this storyline forward. The cautious company hired university researchers to throw operations research at the problem, to figure out optimal container sizes and other system parameters, based on a careful analysis of goods mixes on their routes. Today, container shipping, technically speaking, is primarily this sort of operations research domain, where systems are so optimized that an added second of delay in handling a container can translate to tens of thousands of dollars lost per ship per year.</p>
+<p>If you are wondering how port operations involving longshore labor could have been that expensive before containerization, the book provides an illuminating sample manifest from a 1954 voyage of a C-2 type cargo ship, the <em>S. S. Warrior. </em>The contents: 74,903 cases, 71,726 cartons, 24,0336 bags, 10,671 boxes, 2,880 bundles, 2,877 packages, 2,634 pieces, 1,538 drums, 888 cans, 815 barrels, 53 wheeled vehicles, 21 crates, 10 transporters, 5 reels and 1,525 &#8220;undetermined.&#8221; That&#8217;s a total of <em>194,582 pieces, each of which had to be manually handled!</em> The total was just 5,015 long tons of cargo (about 5,095 metric tons). By contrast,  the gigantic <a href="http://gcaptain.com/maritime/blog/interesting-ship-msc-daniela/">MSC Daniela</a>, which made its maiden voyage in 2009, carries 13,800 containers, with a deadweight tonnage of 165,000 tons. That&#8217;s a 30x improvement in tonnage and a 15x reduction in number of pieces for a single port call. Or in other words, a change from 0.02 tons (20 kg) per &#8220;handling&#8221; to about 12 tons per &#8220;handling&#8221;, or a 465X improvement in handling efficiency (somebody check my arithmetic&#8230; but I think I did this right). And of course, every movement in the MSC Daniela&#8217;s world is precisely choreographed and monitered by computer. Back in 1954, Brando time, experienced longshoremen decided how to pack a hold, and if they got it wrong, loading and unloading would take vastly longer. And of course there was no end-to-end coordination, let alone global coordination.</p>
+<p>That&#8217;s not to say the mechanical engineering part of the story is uninteresting. The plain big box itself is simple: thin corrugated sheet aluminum with load-bearing corner posts capable of supporting a stack about 6-containers high (not sure of this figure), with locking mechanisms to link the boxes. But this arrangement teems with subtleties, from questions of swing control of ship-straddling cranes, to path-planning for automated port transporters, to the problem of ensuring the stability of a 6-high stack of containers in high seas, with the ship pitching and rolling violently up to 30 degrees away from the vertical. Here is a picture of the &#8220;twist-lock&#8221; mechanism that holds containers together and to the ship/train/truck-bed and endures enormous stresses, to makes this magic possible:</p>
+<div id="attachment_1099" style="width: 310px" class="wp-caption aligncenter"><img aria-describedby="caption-attachment-1099" loading="lazy" class="size-medium wp-image-1099" title="800px-twistlock_and_lashing_rods" src="https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/uploads/2009/07/800px-twistlock_and_lashing_rods-300x240.jpg" alt="Twistlock mechanism" width="300" height="240" srcset="https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/uploads/2009/07/800px-twistlock_and_lashing_rods-300x240.jpg 300w, https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/uploads/2009/07/800px-twistlock_and_lashing_rods.jpg 629w" sizes="(max-width: 300px) 100vw, 300px" /><p id="caption-attachment-1099" class="wp-caption-text">Twistlock mechanism (Wikimedia Commons, GFDL)</p></div>
+<p>I am probably a little biased in my interest here, since I am fascinated by the blend of OR, planning and mechanical engineering (particularly stability and control) problems represented by container handling operations. I actually wrote a little simulator for my students to use as the basis for their term project when I taught a graduate course on complex engineering systems at Cornell in 2006 (it is basically a Matlab visualization and domain model with swinging cranes and stacking logic; if you are interested, email me and I&#8217;ll send you the code). But if you are interested in this aspect, try to get hold of the Rotterdam and Singapore port episodes of the National Geographic Channel <a href="http://shop.nationalgeographic.com/product/crossell/3061.html"><em>Megastructures</em></a> show.</p>
+<p>There is a third thread to this subplot, that is probably the dullest part of the book: the story of how American and International standards bodies under heavy pressure from various business and political interests struggled and eventually reached a set of compromises that allowed the container to reach its full potential as an interoperability mechanism. The story was probably a lot more interesting than Levinson was able to make it sound, but that&#8217;s probably because it would take an engineering eye, rather than an economist&#8217;s eye, to bring out the richness underneath the apparently dull deliberations of standards bodies. There are also less important, but entertaining threads that have to do with the technical challenges of getting containers on and off trains and trucks, the sideshow battle between trucking and railroads, the design of &#8220;cells&#8221; in the ships themselves, the relationship between a ship&#8217;s speed/capacity tradeoffs and oil prices, and so forth.</p>
+<h4>Three: The Labor and Politics Subplot</h4>
+<p>This is the subplot that most of us would instinctively associate with the story of shipping, thanks to Marlon Brando. The big picture has a story with two big swings. First, in the early part of the century, dock labor was a truly Darwinian world of competition, since there were spikes of demand for longshore labor followed by long periods of no work. Since it was a low-skill job, requiring little formal education and a lot of muscle, there was a huge oversupply of willing labor. Stevedoring companies &#8212; general contractors for port operations &#8212;  picked crews for loading and unloading operations through a highly corrupt system of mustering, favors, bribes, kickbacks and loansharking. The longshoremen, for their part, formed close brotherhoods, usually along ethnic lines (Irish, Italian, Black in the US) that systematically kept out outsiders, and maintained a tightly territorial system of controls over individual piers. This capitalist exploitation system then gave way to organized labor, but a very different sort of labor movement than in other industries. Where other workers fought for steady work and regular hours and pay, longshoremen fought to keep their free-agent/social-network driven labor model alive, and resist systematization. This local, highly clannish and tribal labor movement had a very different kind of DNA from that of the inland labor movements, and as containerization proceeded, the two sides fought each other as much as they fought management, politicians and automation. Though longshore labor is at the center of this subplot, it is important not to forget the labor movements in the railroad and trucking worlds. Those stories played out equally messily.</p>
+<p>East and West coast labor reacted and responded differently, as did other parts of the world, but ultimately, the forces were much too large for labor to handle. Still, the labor movement won possibly its most significant victory in this industry, and came to be viewed as a model by labor movements in other industries.</p>
+<p>The labor story is essentially a human one, and it has to be read in detail to be appreciated, for all its drama. The story has its bizarre moments (at one point, West Coast labor had to actual fight management to advocate faster mechanization and containerization, for reasons too complex to go into in this post), and is overall the part that will interest the most people. It is important though, not to lose sight of the grand epic story, within which labor was just one thread.</p>
+<p>The other big part of this subplot, inextricably intertwined with the labor thread, is the politics thread. And here I mean primarily the politics of regulation and deregulation, not local/urban. To those of us who have no rich memory of regulated economies, the labyrinthine complexities of regulation-era industrial organization are simply incomprehensible. The star of this thread was the all-powerful Interstate Commerce Commission of the US (ICC), and its sidekicks, the government-legitimized price-fixing cartels of shipping lines on major routes. The ICC controlled the world of transport at a bizarre level of detail, ranging from commodity-level pricing, to dictating route-level access, to carefully managing competition between rail, road and sea, to keep each sector viable and stable.  And of course, there was a massive money-chest of subsidies, loans and direct government infrastructure investment in ports to be fought over.  The half-century long story can in fact be read as the McLean bull in the china shop of  brittle and insane ICC regulations, simultaneously smashing the system to pieces, and taking advantage of it.</p>
+<h4>Four: The Urban Geography and History Subplot</h4>
+<p>This is the subplot that interested me the most. Containerization represented a technological force that old-style manual-labor-intensive ports and their cities simply were not capable of handling.  The case of New York vs. Newark/Elizabeth is instructive. New York, the greatest port of the previous era of shipping, was an economy that practically lived off shipping, with hundreds of thousands employed directly or indirectly by the sector. Other industries ranging from garments to meatpacking inhabited New York primarily because the inefficiencies of shipping made it crucial to gain any possible efficiency through close location.</p>
+<p>Containerization changed all that. While New York local politics around ports was struggling with irrelevant issues, it was about to be blindsided by containers. The bistate Port Authority, finding itself cut out of New York power games, saw an opportunity when McLean shipping was looking to build the first northeastern container handling wharf. This required clean sheet design (parallel parking wharfs instead of piers perpendicular to shore), and plenty of room for stacking and cranes. While nominally supposed to work towards the interests of both states, the Port Authority essentially bet on Newark, and later, the first modern container port at Elizabeth. The result was drastic: New York cargo traffic collapsed over just a decade, while Newark went from nothing to gigantic. Today, you can see signs of this: if you ever fly into Newark, look out the window at the enormous maze of rail, truck and sea traffic. The story repeated itself around the US and the world. Famous old ports like London, Liverpool and San Francisco declined. In their place arose fewer and far larger ports in oddball places: Felixstowe in the UK, Rotterdam, Seattle, Charleston, Singapore, and so forth.</p>
+<p>This geographic churn had a pattern. Not only did old displace new, but there were far fewer new ports, and they were far larger and with a different texture. Since container ports are efficient, industry didn&#8217;t need to locate near them, and they became vast box parking lots in otherwise empty areas. The &#8220;left-behind&#8221; cities not only faced a loss of their port-based economies, but also saw their industrial base flee to the hinterland. Cities like New York and San Francisco had to rethink their entire <em>raison d&#8217;etre, </em>figure out what to do with abandoned shorelines, and reinvent themselves as centers of culture and information work.</p>
+<p>There is a historical texture here: the rise of Japan, Vietnam, the Suez Crisis, oil shocks, and the Panama Canal all played a role. Just one example: McLean, through his Vietnam contract, found himself with fully-paid up, return-trip empty containers making their way back across the Pacific. Anything he could fill his boxes with was pure profit, and Japan provided the contents. With that, the stage was set for the Western US to rapidly outpace the East Coast in shipping. Entire country-sized economies had their histories shaped by big bets on container shipping (Singapore being the most obvious example). At the time the book was written, 3 of the top 5 ports (Hong Kong, Singapore, Shanghai, Shenzen and Busan, Korea) were in China. Los Angeles had displaced Newark/New York as the top port in the US. London and Liverpool, the heart of the great maritime empire of the Colonial British, did not make the top 20 list.</p>
+<h4>Five: The Broad Impact Subplot</h4>
+<p>Let&#8217;s wrap up by looking at how the narrow world of container shipping ended up disrupting the rest of the world. The big insight here is not just that shipping costs dropped precipitously, but that shipping became vastly more <em>reliable</em> and<em> simple</em> as a consequence. The 25% transportation fraction of global goods in 1960 is almost certainly an understatement because most producers simply could not ship long distances at all: stuff got broken, stolen and lost, and it took nightmarish levels of effort to even make <em>that</em> happen. Instead of end-to-end shipping with central consolidation, you had shipping departments orchestrating <em>ad hoc</em> journeys, dealing with dozens of carriers, forwarding agents, transport lines and border controls.</p>
+<p>Today, shipping has gotten to a level of point-to-point packet-switched efficiency, where the shipper needs to do a hundredth of the work <em>and</em> can expect vastly higher reliability, on-time performance, far lower insurance costs, and lower inventories. That means a qualitatively new level of thinking, one driven by the axiom that realistically, the entire world is your market, no matter what you make. The dependability of the container-plumbing makes you rethink every business.</p>
+<p>In short, container shipping, through its efficiency, was a big cause of the disaggregation of vertically integrated industry structures and the globalization of supply chains along Toyota-like just-in-time models. Just as the Web (1.0 and 2.0) sparked a whole new world of business models, container shipping did as well.</p>
+<p>The deepest insight about this is captured in one startling point made in the book. Before container shipping, most cargo transport involved either raw materials or completely finished products. After container shipping, the center of gravity shifted to intermediate (supply chain) goods: parts and subassemblies. Multinationals learned the art of sourcing production in real time to take advantage of supply chain and currency conditions, and moving components for assembly and delivery at the right levels of disaggregation. Thanks to container shipping, manufacturers of things as messy and complicated as refrigerators, computers and airplanes are able to manage their material flows with almost the same level of ease that the power sector manages power flows on the electric grid through near real-time commodity trading and load-balancing.</p>
+<p>My clever-phrase-coinage of the day. The container did not only make <em>just-in-time</em> possible. It made <em>just-in-place</em> possible.</p>
+<h3>Conclusion: Towards <em>Box: The Movie</em></h3>
+<p>I wasn&#8217;t kidding: I think this story deserves a big, epic-scale movie.  Not some schmaltzy piece-of-crap story about a single longshoreman facing down adversity and succeeding or failing in the container world, but one that tells the tale in all its austere, beyond-human grandeur; one that acknowledges and celebrates the drama of forces far larger than any individual human.</p>
+<p><em>An end-note: this is my first post in a deliberate attempt to steer my business/management posts and book reviews 90 degrees: from a focus on general management topics like leadership, and functional topics like HR and marketing, towards &#8220;vertical&#8221; topics. I have felt for some time that business writing is facing diminishing returns from horizontal and functional foci, and while I&#8217;ll return to those views when I find good material, my pipeline is mainly full of this kind of stuff now. Hope you guys like the change in direction: steering a major theme of a very wordy, high-inertia blog like this one is as hard as steering a fully-laden container ship. It is going to take some time to overcome the directional inertia. Some verticals on my radar, besides shipping, include the garbage/trash industry, healthcare, and infrastructure. If you are interested in particular verticals, holler &#8217;em out, along with suggested books.</em></p>
+</div><div class="post-meta"> </div><div class="after-post widget-area"><div id="enews-ext-5" class="widget enews-widget"><div class="widget-wrap"><div class="enews"><h4 class="widget-title widgettitle">Get Ribbonfarm in your inbox</h4>
+<p>Get new post updates by email</p>
+			<form id="subscribeenews-ext-5" class="enews-form" action="//ribbonfarm.us1.list-manage.com/subscribe/post?u=78cbbb7f2882629a5157fa593&amp;id=01cc783c85" method="post"
+				 target="_blank" 				name="enews-ext-5"
+			>
+												<input type="text" value="" id="subbox" class="enews-email" aria-label="E-Mail Address" placeholder="E-Mail Address" name="EMAIL"
+																	 />
+								<input type="submit" value="Go" id="subbutton" class="enews-submit" />
+			</form>
+		<p>New post updates are sent out once a week</p>
+</div></div></div></div></div><div class="author-box"><div><img alt='' src='https://secure.gravatar.com/avatar/07d1d1b93d48f50f75959590076e61a4?s=70&#038;d=blank&#038;r=g' srcset='https://secure.gravatar.com/avatar/07d1d1b93d48f50f75959590076e61a4?s=140&#038;d=blank&#038;r=g 2x' class='avatar avatar-70 photo' height='70' width='70' loading='lazy'/> <strong>About Venkatesh Rao</strong><br /><p>Venkat is the founder and editor-in-chief of ribbonfarm. Follow him <a href="http://twitter.com/vgr">on Twitter</a></p>
+</div></div><div id="comments"><h3>Comments</h3><ol class="comment-list">
+	<li class="comment even thread-even depth-1" id="comment-2469">
+
+		
+		<div class="comment-header">
+			<div class="comment-author vcard">
+				<img alt='' src='https://secure.gravatar.com/avatar/7aaabf0d71933f976c55b0f4b1bd9f88?s=48&#038;d=blank&#038;r=g' srcset='https://secure.gravatar.com/avatar/7aaabf0d71933f976c55b0f4b1bd9f88?s=96&#038;d=blank&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' loading='lazy'/>				<cite class="fn"><a href='http://deepak.jois.name' rel='external nofollow ugc' class='url'>Deepak Jois</a></cite>
+				<span class="says">
+				says				</span>
+			</div>
+
+			<div class="comment-meta commentmetadata">
+				<a href="https://www.ribbonfarm.com/2009/07/07/the-epic-story-of-container-shipping/#comment-2469">July 8, 2009 at 11:46 am</a>
+							</div>
+		</div>
+
+		<div class="comment-content">
+			
+			<p>Thank you for this great review/summary. Now I dont need to read the book!</p>
+		</div>
+
+		<div class="reply">
+					</div>
+
+		</li><!-- #comment-## -->
+
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-2470">
+
+		
+		<div class="comment-header">
+			<div class="comment-author vcard">
+				<img alt='' src='https://secure.gravatar.com/avatar/4131e96c4371ad6a2ef338fb847a3bdd?s=48&#038;d=blank&#038;r=g' srcset='https://secure.gravatar.com/avatar/4131e96c4371ad6a2ef338fb847a3bdd?s=96&#038;d=blank&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' loading='lazy'/>				<cite class="fn">Barrett Cunningham</cite>
+				<span class="says">
+				says				</span>
+			</div>
+
+			<div class="comment-meta commentmetadata">
+				<a href="https://www.ribbonfarm.com/2009/07/07/the-epic-story-of-container-shipping/#comment-2470">July 8, 2009 at 2:58 pm</a>
+							</div>
+		</div>
+
+		<div class="comment-content">
+			
+			<p>Excellent post! I didn&#8217;t expect to read the whole thing, but I&#8217;m glad I did. That is a fascinating story.</p>
+		</div>
+
+		<div class="reply">
+					</div>
+
+		</li><!-- #comment-## -->
+
+	<li class="comment even thread-even depth-1" id="comment-2471">
+
+		
+		<div class="comment-header">
+			<div class="comment-author vcard">
+				<img alt='' src='https://secure.gravatar.com/avatar/ed290a2b1445f22ee37156b6b2d20caf?s=48&#038;d=blank&#038;r=g' srcset='https://secure.gravatar.com/avatar/ed290a2b1445f22ee37156b6b2d20caf?s=96&#038;d=blank&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' loading='lazy'/>				<cite class="fn">Manju</cite>
+				<span class="says">
+				says				</span>
+			</div>
+
+			<div class="comment-meta commentmetadata">
+				<a href="https://www.ribbonfarm.com/2009/07/07/the-epic-story-of-container-shipping/#comment-2471">July 8, 2009 at 10:28 pm</a>
+							</div>
+		</div>
+
+		<div class="comment-content">
+			
+			<p>Venkat &#8211; riveting story!! Post reverberates with energy &amp; makes for a compelling read. I will pick this book up, for high-intensity drama, if not anything else :)</p>
+<p>Manju</p>
+		</div>
+
+		<div class="reply">
+					</div>
+
+		</li><!-- #comment-## -->
+
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-2473">
+
+		
+		<div class="comment-header">
+			<div class="comment-author vcard">
+				<img alt='' src='https://secure.gravatar.com/avatar/c499a3526cefbc31559e008245db37e8?s=48&#038;d=blank&#038;r=g' srcset='https://secure.gravatar.com/avatar/c499a3526cefbc31559e008245db37e8?s=96&#038;d=blank&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' loading='lazy'/>				<cite class="fn"><a href='http://None' rel='external nofollow ugc' class='url'>Sharad</a></cite>
+				<span class="says">
+				says				</span>
+			</div>
+
+			<div class="comment-meta commentmetadata">
+				<a href="https://www.ribbonfarm.com/2009/07/07/the-epic-story-of-container-shipping/#comment-2473">July 10, 2009 at 11:01 am</a>
+							</div>
+		</div>
+
+		<div class="comment-content">
+			
+			<p>Grrr..</p>
+<p>That was the exhaustive summary of the book. It seems like one of the few business books I have come across that are worth reading. Will pick it up sometime, thanks. </p>
+<p>Hope you are doing well.</p>
+<p>Sharad</p>
+		</div>
+
+		<div class="reply">
+					</div>
+
+		</li><!-- #comment-## -->
+
+	<li class="comment even thread-even depth-1" id="comment-2480">
+
+		
+		<div class="comment-header">
+			<div class="comment-author vcard">
+				<img alt='' src='https://secure.gravatar.com/avatar/cec6986fccdf73f78031def7a680ad48?s=48&#038;d=blank&#038;r=g' srcset='https://secure.gravatar.com/avatar/cec6986fccdf73f78031def7a680ad48?s=96&#038;d=blank&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' loading='lazy'/>				<cite class="fn"><a href='http://www.voicesage.com' rel='external nofollow ugc' class='url'>PaulSweeney</a></cite>
+				<span class="says">
+				says				</span>
+			</div>
+
+			<div class="comment-meta commentmetadata">
+				<a href="https://www.ribbonfarm.com/2009/07/07/the-epic-story-of-container-shipping/#comment-2480">July 14, 2009 at 5:47 am</a>
+							</div>
+		</div>
+
+		<div class="comment-content">
+			
+			<p>I just thoroughly enjoy your blogs,  and twits. A guy called Martin Geddes, not Head of Strategy at BT Design, used this metaphor at Telco2 Conference, london , to explain the role that the Telco&#8217;s need to play in the future. Keep up the good work.</p>
+		</div>
+
+		<div class="reply">
+					</div>
+
+		</li><!-- #comment-## -->
+
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-2482">
+
+		
+		<div class="comment-header">
+			<div class="comment-author vcard">
+				<img alt='' src='https://secure.gravatar.com/avatar/46341c325a1b44ccfa800580da86ec7d?s=48&#038;d=blank&#038;r=g' srcset='https://secure.gravatar.com/avatar/46341c325a1b44ccfa800580da86ec7d?s=96&#038;d=blank&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' loading='lazy'/>				<cite class="fn"><a href='https://www.ribbonfarm.com' rel='external nofollow ugc' class='url'>Venkat</a></cite>
+				<span class="says">
+				says				</span>
+			</div>
+
+			<div class="comment-meta commentmetadata">
+				<a href="https://www.ribbonfarm.com/2009/07/07/the-epic-story-of-container-shipping/#comment-2482">July 15, 2009 at 3:58 am</a>
+							</div>
+		</div>
+
+		<div class="comment-content">
+			
+			<p>Thanks for your comments folks! Glad you liked it.</p>
+<p>Deepak: don&#8217;t let the review stop you from reading the book. I have not captured more than 1% of the story, so the full read is worth it.</p>
+<p>Paul: Yes, the analogy between telecom infrastructure and shipping is very close. Maybe at some level, even the math models are the same. But I suspect there are important differences too,  that makes the industries different, and I hope to figure them out some day. </p>
+<p>Venkat</p>
+		</div>
+
+		<div class="reply">
+					</div>
+
+		</li><!-- #comment-## -->
+
+	<li class="comment even thread-even depth-1" id="comment-2485">
+
+		
+		<div class="comment-header">
+			<div class="comment-author vcard">
+				<img alt='' src='https://secure.gravatar.com/avatar/af0bea3c3011f06a0c5108e27bf82085?s=48&#038;d=blank&#038;r=g' srcset='https://secure.gravatar.com/avatar/af0bea3c3011f06a0c5108e27bf82085?s=96&#038;d=blank&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' loading='lazy'/>				<cite class="fn"><a href='http://www.tonymarinomarketing.com' rel='external nofollow ugc' class='url'>Tony Marino Phoenix Strategic Internet Marketing</a></cite>
+				<span class="says">
+				says				</span>
+			</div>
+
+			<div class="comment-meta commentmetadata">
+				<a href="https://www.ribbonfarm.com/2009/07/07/the-epic-story-of-container-shipping/#comment-2485">July 16, 2009 at 3:16 pm</a>
+							</div>
+		</div>
+
+		<div class="comment-content">
+			
+			<p>Excellent article. You mention &#8220;just in time&#8221; and &#8220;just in place.&#8221; Please keep in mind that all it takes is one piece of code out of place, a single digit and possibly a single byte of data and the system will malfunction. And it&#8217;s no longer &#8220;just in time&#8221; it&#8217;s &#8220;oh my gosh we&#8217;re out of materials.&#8221;  It&#8217;s the digital Murphy&#8217;s Law as applied to container logistics.<br />
+Thanks.</p>
+		</div>
+
+		<div class="reply">
+					</div>
+
+		</li><!-- #comment-## -->
+
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-3171">
+
+		
+		<div class="comment-header">
+			<div class="comment-author vcard">
+				<img alt='' src='https://secure.gravatar.com/avatar/7e3f044be7c67b8fb46f538dbe308954?s=48&#038;d=blank&#038;r=g' srcset='https://secure.gravatar.com/avatar/7e3f044be7c67b8fb46f538dbe308954?s=96&#038;d=blank&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' loading='lazy'/>				<cite class="fn">Suhail</cite>
+				<span class="says">
+				says				</span>
+			</div>
+
+			<div class="comment-meta commentmetadata">
+				<a href="https://www.ribbonfarm.com/2009/07/07/the-epic-story-of-container-shipping/#comment-3171">October 15, 2009 at 1:05 am</a>
+							</div>
+		</div>
+
+		<div class="comment-content">
+			
+			<p>Absolutely rivetting post. Stumbled across to this page from your &#8216;Office&#8217; post linked on HN (which I haven&#8217;t read in full because of the awesomeness I encountered in the first few paragraphs, and having never watched the series &#8211; I&#8217;ve decided to push it for later to enjoy it fully). I just want to say thanks for writing this. I&#8217;ve had a great fascination in all things shipping, railroads, NatGeo supertructures etc..(doesn&#8217;t mean I have a whole lot of knowledge on it) and I really enjoyed this so much. I&#8217;ll come back to you later probably with a detailed email once I&#8217;ve read the book and &#8216;Office&#8217; post.</p>
+		</div>
+
+		<div class="reply">
+					</div>
+
+		</li><!-- #comment-## -->
+
+	<li class="comment even thread-even depth-1" id="comment-3730">
+
+		
+		<div class="comment-header">
+			<div class="comment-author vcard">
+				<img alt='' src='https://secure.gravatar.com/avatar/67255ef238c3e9534bf9b9e464de9be9?s=48&#038;d=blank&#038;r=g' srcset='https://secure.gravatar.com/avatar/67255ef238c3e9534bf9b9e464de9be9?s=96&#038;d=blank&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' loading='lazy'/>				<cite class="fn">Robert Ratelle</cite>
+				<span class="says">
+				says				</span>
+			</div>
+
+			<div class="comment-meta commentmetadata">
+				<a href="https://www.ribbonfarm.com/2009/07/07/the-epic-story-of-container-shipping/#comment-3730">December 4, 2009 at 6:17 am</a>
+							</div>
+		</div>
+
+		<div class="comment-content">
+			
+			<p>I would like to have information about the container model # IRO-25/0T.  How can I unload that container from the train and how I can empty it .   Do you have video or catalog about it ?<br />
+Thanks,</p>
+<p>Robert Ratelle<br />
+<a href="mailto:fermedelapresquile@qc.aira.com">fermedelapresquile@qc.aira.com</a></p>
+		</div>
+
+		<div class="reply">
+					</div>
+
+		</li><!-- #comment-## -->
+
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-10566">
+
+		
+		<div class="comment-header">
+			<div class="comment-author vcard">
+				<img alt='' src='https://secure.gravatar.com/avatar/83d8d40ef92fcc97729401489470a7e9?s=48&#038;d=blank&#038;r=g' srcset='https://secure.gravatar.com/avatar/83d8d40ef92fcc97729401489470a7e9?s=96&#038;d=blank&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' loading='lazy'/>				<cite class="fn">TLP</cite>
+				<span class="says">
+				says				</span>
+			</div>
+
+			<div class="comment-meta commentmetadata">
+				<a href="https://www.ribbonfarm.com/2009/07/07/the-epic-story-of-container-shipping/#comment-10566">June 20, 2011 at 11:44 am</a>
+							</div>
+		</div>
+
+		<div class="comment-content">
+			
+			<p>Season 2 of The Wire could be part of your Box movie.</p>
+		</div>
+
+		<div class="reply">
+					</div>
+
+		</li><!-- #comment-## -->
+
+	<li class="comment even thread-even depth-1" id="comment-10920">
+
+		
+		<div class="comment-header">
+			<div class="comment-author vcard">
+				<img alt='' src='https://secure.gravatar.com/avatar/1d35345369b6f348abd3b53c268cf475?s=48&#038;d=blank&#038;r=g' srcset='https://secure.gravatar.com/avatar/1d35345369b6f348abd3b53c268cf475?s=96&#038;d=blank&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' loading='lazy'/>				<cite class="fn">Hag</cite>
+				<span class="says">
+				says				</span>
+			</div>
+
+			<div class="comment-meta commentmetadata">
+				<a href="https://www.ribbonfarm.com/2009/07/07/the-epic-story-of-container-shipping/#comment-10920">July 29, 2011 at 1:34 pm</a>
+							</div>
+		</div>
+
+		<div class="comment-content">
+			
+			<p>there was a box docu called &#8220;The Box That Changed Britain&#8221; <a href="http://vimeo.com/21395880" rel="nofollow ugc">http://vimeo.com/21395880</a>  &#8211; you can probably finde the full show on download still.<br />
+mostly about britain but still interesting to see how a box could change so much.</p>
+		</div>
+
+		<div class="reply">
+					</div>
+
+		</li><!-- #comment-## -->
+
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-22872">
+
+		
+		<div class="comment-header">
+			<div class="comment-author vcard">
+				<img alt='' src='https://secure.gravatar.com/avatar/6d5c33b0d0ae8b35d218e0afcc965228?s=48&#038;d=blank&#038;r=g' srcset='https://secure.gravatar.com/avatar/6d5c33b0d0ae8b35d218e0afcc965228?s=96&#038;d=blank&#038;r=g 2x' class='avatar avatar-48 photo' height='48' width='48' loading='lazy'/>				<cite class="fn">John Jones</cite>
+				<span class="says">
+				says				</span>
+			</div>
+
+			<div class="comment-meta commentmetadata">
+				<a href="https://www.ribbonfarm.com/2009/07/07/the-epic-story-of-container-shipping/#comment-22872">August 8, 2012 at 5:16 pm</a>
+							</div>
+		</div>
+
+		<div class="comment-content">
+			
+			<p>Thanks for the blog. On the back of this I&#8217;ve just ordered the book!</p>
+		</div>
+
+		<div class="reply">
+					</div>
+
+		</li><!-- #comment-## -->
+</ol></div></div><div id="sidebar" class="sidebar widget-area"><div id="latestseries-2" class="widget widget_latestseries"><div class="widget-wrap"><h4 class="widget-title widgettitle">Blogchains</h4>
+			<ul>
+				<div class="latest-series"><ul><li><a href="https://www.ribbonfarm.com/series/annual-roundups/" class="series-178" title="Annual Roundups">Annual Roundups</a></li><li><a href="https://www.ribbonfarm.com/series/book-notes/" class="series-184" title="Book Notes">Book Notes</a></li><li><a href="https://www.ribbonfarm.com/series/captains-log/" class="series-179" title="Captain's Log">Captain's Log</a></li><li><a href="https://www.ribbonfarm.com/series/clockmaking/" class="series-185" title="Clockmaking">Clockmaking</a></li><li><a href="https://www.ribbonfarm.com/series/domestic-cozy/" class="series-144" title="Domestic Cozy">Domestic Cozy</a></li><li><a href="https://www.ribbonfarm.com/series/elderblog-sutra/" class="series-133" title="Elderblog Sutra">Elderblog Sutra</a></li><li><a href="https://www.ribbonfarm.com/series/fiction/" class="series-186" title="Fiction">Fiction</a></li><li><a href="https://www.ribbonfarm.com/series/into-the-pluriverse/" class="series-190" title="Into the Pluriverse">Into the Pluriverse</a></li><li><a href="https://www.ribbonfarm.com/series/lexicon/" class="series-189" title="Lexicon">Lexicon</a></li><li><a href="https://www.ribbonfarm.com/series/mansionism/" class="series-183" title="Mansionism">Mansionism</a></li></ul></div>			</ul>
+			</div></div>
+<div id="enews-ext-4" class="widget enews-widget"><div class="widget-wrap"><div class="enews"><h4 class="widget-title widgettitle">Subscribe</h4>
+<p>Get new post updates by email</p>
+			<form id="subscribeenews-ext-4" class="enews-form" action="//ribbonfarm.us1.list-manage.com/subscribe/post?u=78cbbb7f2882629a5157fa593&amp;id=01cc783c85" method="post"
+				 target="_blank" 				name="enews-ext-4"
+			>
+												<input type="text" value="" id="subbox" class="enews-email" aria-label="E-Mail Address" placeholder="E-Mail Address" name="EMAIL"
+																	 />
+								<input type="submit" value="Go" id="subbutton" class="enews-submit" />
+			</form>
+		</div></div></div>
+<div id="simple-social-icons-2" class="widget simple-social-icons"><div class="widget-wrap"><h4 class="widget-title widgettitle">Connect</h4>
+<ul class="alignleft"><li class="ssi-email"><a href="http://eepurl.com/cD23aP" ><svg role="img" class="social-email" aria-labelledby="social-email-2"><title id="social-email-2">Email</title><use xlink:href="https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-email"></use></svg></a></li><li class="ssi-facebook"><a href="http://www.facebook.com/pages/ribbonfarm/368137805946" ><svg role="img" class="social-facebook" aria-labelledby="social-facebook-2"><title id="social-facebook-2">Facebook</title><use xlink:href="https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-facebook"></use></svg></a></li><li class="ssi-rss"><a href="http://ribbonfarm.com/feed" ><svg role="img" class="social-rss" aria-labelledby="social-rss-2"><title id="social-rss-2">RSS</title><use xlink:href="https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-rss"></use></svg></a></li><li class="ssi-twitter"><a href="http://twitter.com/ribbonfarm" ><svg role="img" class="social-twitter" aria-labelledby="social-twitter-2"><title id="social-twitter-2">Twitter</title><use xlink:href="https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li></ul></div></div>
+<div id="search-2" class="widget widget_search"><div class="widget-wrap"><form method="get" class="searchform search-form" action="https://www.ribbonfarm.com/" role="search" ><input type="text" value="Search this website &#x02026;" name="s" class="s search-input" onfocus="if ('Search this website &#x2026;' === this.value) {this.value = '';}" onblur="if ('' === this.value) {this.value = 'Search this website &#x2026;';}" /><input type="submit" class="searchsubmit search-submit" value="Search" /></form></div></div>
+<div id="text-215322526" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Crash Early, Crash Often</h4>
+			<div class="textwidget"><a href="http://amzn.to/2urEgEQ"><img src="https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/uploads/2017/07/ceco-e1499998501423.jpg" width="150"></a></div>
+		</div></div>
+<div id="text-215322521" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Be Slightly Evil</h4>
+			<div class="textwidget"><p><a href="http://www.amazon.com/gp/product/B00F8JTYH8/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00F8JTYH8&linkCode=as2&tag=ribbonfarmcom-20"><img src="https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/uploads/2013/09/bsethumb.png"></a></p>
+</div>
+		</div></div>
+<div id="text-215322520" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Gervais Principle</h4>
+			<div class="textwidget"><p><a href="http://www.amazon.com/gp/product/B00F9IV64W/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00F9IV64W&linkCode=as2&tag=ribbonfarmcom-20"><img src="https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/uploads/2013/09/gpthumb.png"></a></p>
+</div>
+		</div></div>
+<div id="text-215322517" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Tempo</h4>
+			<div class="textwidget"><a href="http://tempobook.com"><img src="https://206hwf3fj4w52u3br03fi242-wpengine.netdna-ssl.com/wp-content/uploads/2011/02/frontSidebar.png"></a></div>
+		</div></div>
+</div></div></div><div id="footer-widgets" class="footer-widgets"><div class="wrap"><div class="widget-area footer-widgets-1 footer-widget-area"><div id="meta-2" class="widget widget_meta"><div class="widget-wrap"><h4 class="widget-title widgettitle">Meta</h4>
+
+		<ul>
+						<li><a href="https://www.ribbonfarm.com/wp-login.php">Log in</a></li>
+			<li><a href="https://www.ribbonfarm.com/feed/">Entries feed</a></li>
+			<li><a href="https://ribbonfarm.com/comments/feed/">Comments feed</a></li>
+
+			<li><a href="https://wordpress.org/">WordPress.org</a></li>
+		</ul>
+
+		</div></div>
+</div></div></div></div><div id="footer" class="footer"><div class="wrap"><div class="gototop"><p><a href="#wrap" rel="nofollow">Return to top of page</a></p></div><div class="creds"><p>Copyright &#x000A9;&nbsp;2022 &#x000B7; <a href="http://www.studiopress.com/themes/prose">Prose</a> on <a href="https://www.studiopress.com/">Genesis Framework</a> &#x000B7; <a href="https://wordpress.org/">WordPress</a> &#x000B7; <a href="https://www.ribbonfarm.com/wp-login.php">Log in</a></p></div></div></div>				<script type='text/javascript'><!--
+			var seriesdropdown = document.getElementById("orgseries_dropdown");
+			if (seriesdropdown) {
+			 function onSeriesChange() {
+					if ( seriesdropdown.options[seriesdropdown.selectedIndex].value != ( 0 || -1 ) ) {
+						location.href = "https://www.ribbonfarm.com/series/"+seriesdropdown.options[seriesdropdown.selectedIndex].value;
+					}
+				}
+				seriesdropdown.onchange = onSeriesChange;
+			}
+			--></script>
+			<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-2155437-1");
+pageTracker._trackPageview();
+</script>
+<style type="text/css" media="screen">#simple-social-icons-2 ul li a, #simple-social-icons-2 ul li a:hover, #simple-social-icons-2 ul li a:focus { background-color: #1b55a0 !important; border-radius: 3px; color: #fbfbfb !important; border: 0px #ffffff solid !important; font-size: 18px; padding: 9px; }  #simple-social-icons-2 ul li a:hover, #simple-social-icons-2 ul li a:focus { background-color: #3f7ccb !important; border-color: #690223 !important; color: #f6d7a9 !important; }  #simple-social-icons-2 ul li a:focus { outline: 1px dotted #3f7ccb !important; }</style></body></html>

@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>HydraUSB3 v1.0 Specifications | HydraBus</title>
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://hydrabus.com/xmlrpc.php">
+<!--[if lt IE 9]>
+<script src="https://hydrabus.com/wp-content/themes/twentytwelve/js/html5.js?ver=3.7.0" type="text/javascript"></script>
+<![endif]-->
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//static.addtoany.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="HydraBus &raquo; Feed" href="https://hydrabus.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="HydraBus &raquo; Comments Feed" href="https://hydrabus.com/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/hydrabus.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wc-blocks-checkout-style-css'  href='https://hydrabus.com/wp-content/plugins/woocommerce-payments/dist/upe-blocks-checkout.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://hydrabus.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.2' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}
+</style>
+<link rel='stylesheet' id='wc-blocks-vendors-style-css'  href='https://hydrabus.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-blocks-style-css'  href='https://hydrabus.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.3.3' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #fff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--blue: #21759b;--wp--preset--color--dark-gray: #444;--wp--preset--color--medium-gray: #9f9f9f;--wp--preset--color--light-gray: #e6e6e6;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://hydrabus.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=6.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://hydrabus.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=6.9.4' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://hydrabus.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=6.9.4' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='wp-polls-css'  href='https://hydrabus.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.77.0' type='text/css' media='all' />
+<style id='wp-polls-inline-css' type='text/css'>
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background-image: url('https://hydrabus.com/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400italic%2C700italic%2C400%2C700&#038;subset=latin%2Clatin-ext&#038;display=fallback' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='https://hydrabus.com/wp-content/themes/twentytwelve/style.css?ver=20190507' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-block-style-css'  href='https://hydrabus.com/wp-content/themes/twentytwelve/css/blocks.css?ver=20190406' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='https://hydrabus.com/wp-content/themes/twentytwelve/css/ie.css?ver=20150214' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='addtoany-css'  href='https://hydrabus.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.16' type='text/css' media='all' />
+<link rel='stylesheet' id='wcmmq-front-style-css'  href='https://hydrabus.com/wp-content/plugins/woo-min-max-quantity-step-control-single/assets/css/wcmmq-front.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cwginstock_frontend_css-css'  href='https://hydrabus.com/wp-content/plugins/back-in-stock-notifier-for-woocommerce/assets/css/frontend.min.css?ver=3.0' type='text/css' media='' />
+<link rel='stylesheet' id='cwginstock_bootstrap-css'  href='https://hydrabus.com/wp-content/plugins/back-in-stock-notifier-for-woocommerce/assets/css/bootstrap.min.css?ver=3.0' type='text/css' media='' />
+<script type='text/javascript' id='addtoany-core-js-before'>
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+</script>
+<script type='text/javascript' async src='https://static.addtoany.com/menu/page.js' id='addtoany-core-js'></script>
+<script type='text/javascript' src='https://hydrabus.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://hydrabus.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' async src='https://hydrabus.com/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1' id='addtoany-jquery-js'></script>
+<link rel="https://api.w.org/" href="https://hydrabus.com/wp-json/" /><link rel="alternate" type="application/json" href="https://hydrabus.com/wp-json/wp/v2/pages/1856" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://hydrabus.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://hydrabus.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 6.0.2" />
+<meta name="generator" content="WooCommerce 6.9.4" />
+<link rel="canonical" href="https://hydrabus.com/hydrausb3-v1-0-specifications/" />
+<link rel='shortlink' href='https://hydrabus.com/?p=1856' />
+<link rel="alternate" type="application/json+oembed" href="https://hydrabus.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhydrabus.com%2Fhydrausb3-v1-0-specifications%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://hydrabus.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhydrabus.com%2Fhydrausb3-v1-0-specifications%2F&#038;format=xml" />
+<style type="text/css">
+span.wcmmq_prefix {
+    float: left;
+    padding: 10px;
+    margin: 0;
+}
+</style><!-- Analytics by WP Statistics v13.2.6 - https://wp-statistics.com/ -->
+<script>var WP_Statistics_http = new XMLHttpRequest();WP_Statistics_http.open('GET', 'https://hydrabus.com/wp-json/wp-statistics/v2/hit?_=1665219269&_wpnonce=5822e2d622&wp_statistics_hit_rest=yes&referred=https%3A%2F%2Fhydrabus.com&exclusion_match=yes&exclusion_reason=CrawlerDetect&track_all=1&current_page_type=page&current_page_id=1856&search_query&page_uri=/hydrausb3-v1-0-specifications/?v=11aedd0e4327', true);WP_Statistics_http.setRequestHeader("Content-Type", "application/json;charset=UTF-8");WP_Statistics_http.send(null);</script>
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<link rel="icon" href="https://hydrabus.com/wp-content/uploads/2014/10/cropped-HydraBus_logo1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://hydrabus.com/wp-content/uploads/2014/10/cropped-HydraBus_logo1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://hydrabus.com/wp-content/uploads/2014/10/cropped-HydraBus_logo1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://hydrabus.com/wp-content/uploads/2014/10/cropped-HydraBus_logo1-270x270.png" />
+</head>
+
+<body class="page-template-default page page-id-1856 wp-embed-responsive theme-twentytwelve woocommerce-no-js custom-font-enabled">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><div id="page" class="hfeed site">
+	<header id="masthead" class="site-header">
+		<hgroup>
+			<h1 class="site-title"><a href="https://hydrabus.com/" title="HydraBus" rel="home">HydraBus</a></h1>
+			<h2 class="site-description">Open source multi-tool hardware</h2>
+		</hgroup>
+
+		<nav id="site-navigation" class="main-navigation">
+			<button class="menu-toggle">Menu</button>
+			<a class="assistive-text" href="#content" title="Skip to content">Skip to content</a>
+			<div class="menu-main-menu-container"><ul id="menu-main-menu" class="nav-menu"><li id="menu-item-193" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-193"><a href="https://hydrabus.com">Blog</a></li>
+<li id="menu-item-1564" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1564"><a target="_blank" rel="noopener" href="https://hydrabus.com/shop">Shop</a>
+<ul class="sub-menu">
+	<li id="menu-item-1559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1559"><a href="https://hydrabus.com/shop/">The HydraBus Store</a></li>
+	<li id="menu-item-204" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-204"><a href="https://hydrabus.com/buy-online/">Official Sellers / Resellers</a></li>
+</ul>
+</li>
+<li id="menu-item-1394" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1394"><a href="https://hydrabus.com/products/">Products</a>
+<ul class="sub-menu">
+	<li id="menu-item-1984" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1856 current_page_item menu-item-1984"><a href="https://hydrabus.com/hydrausb3-v1-0-specifications/" aria-current="page">HydraUSB3 v1</a></li>
+	<li id="menu-item-1391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1391"><a href="https://hydrabus.com/hydrabus-1-0-specifications/">HydraBus v1</a></li>
+	<li id="menu-item-1385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1385"><a href="https://hydrabus.com/hydranfc-shield-v2-specifications/">HydraNFC Shield v2</a></li>
+</ul>
+</li>
+<li id="menu-item-972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-972"><a href="https://hydrabus.com/contact/">Contact</a></li>
+</ul></div>		</nav><!-- #site-navigation -->
+
+			</header><!-- #masthead -->
+
+	<div id="main" class="wrapper">
+
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+							
+	<article id="post-1856" class="post-1856 page type-page status-publish hentry">
+		<header class="entry-header">
+													<h1 class="entry-title">HydraUSB3 v1.0 Specifications</h1>
+		</header>
+
+		<div class="entry-content">
+			
+<p>HydraUSB3 V1 is an open source developer kit for the <a href="http://www.wch-ic.com/products/CH569.html" target="_blank" rel="noreferrer noopener">WCH CH569 MCU</a> to experiment with streaming / high-speed protocols like HSPI and SerDes through USB3.<br>It allows to test and discover the MCU main features, like:</p>
+
+
+
+<ul><li>USB3 SS built-in PHY (5Gbps) and USB2 built-in PHY FS/LS/HS (480Mbps)<ul><li>Can be used as Device or Host.</li><li>HydraUSB3 dedicated test firmware support USB2 HS and USB3 SS (in a transparent way) basic/bare metal stack in Device Bulk mode with Burst for USB3 Super Speed best performances.<ul><li>HydraUSB3 example firmware support streaming/transfer (with <a rel="noreferrer noopener" href="https://github.com/libusb/libusb" target="_blank">libusb</a>) at more than 330MBytes/s (from HydraUSB3 &lt;=&gt; PC Host).</li><li>HydraUSB3 test firmware for USB2 &amp; USB3 does not requires any driver for Windows (using native WinUSB <a rel="noreferrer noopener" href="https://github.com/pbatard/libwdi/wiki/WCID-Devices#wcid-for-manufacturers" target="_blank">WCID</a> descriptors in firmware) or GNU/Linux and is supported with <a rel="noreferrer noopener" href="https://github.com/libusb/libusb" target="_blank">libusb</a> open source example codes.</li><li>See <a rel="noreferrer noopener" href="https://github.com/hydrausb3/hydrausb3_fw/tree/main/HydraUSB3_USB" target="_blank">https://github.com/hydrausb3/hydrausb3_fw/tree/main/HydraUSB3_USB</a></li></ul></li></ul></li><li>High Speed Parallel Interface (HSPI) up to 3.8Gbps with unique fast bidirectional parallel bus 8, 16 &amp; 32bits up to 120MHz<ul><li>Can be interfaced with an FPGA to be used as USB3 Super Speed / HSPI bridge.</li><li>Can be used to interface two HydraUSB3 boards for ultra fast communication/transfer of data.</li><li>See <a rel="noreferrer noopener" href="https://github.com/hydrausb3/hydrausb3_fw/tree/main/HydraUSB3_DualBoard_HSPI" target="_blank">https://github.com/hydrausb3/hydrausb3_fw/tree/main/HydraUSB3_DualBoard_HSPI</a></li></ul></li><li>SerDes (up to 1.20Gbps officially, up to 1.38Gbps non officially)<ul><li>Can be interfaced with an FPGA to be used as USB3 Super Speed / SerDes bridge.</li><li>Can be used to interface two HydraUSB3 boards for ultra fast communication or output some traces in real-time with latency &lt; 1us.</li><li>See <a rel="noreferrer noopener" href="https://github.com/hydrausb3/hydrausb3_fw/tree/main/HydraUSB3_DualBoard_SerDes" target="_blank">https://github.com/hydrausb3/hydrausb3_fw/tree/main/HydraUSB3_DualBoard_SerDes</a></li></ul></li><li>eMMC / SDCard / SDIO (up to 96MHz 8bits mode with option/extension) <ul><li>Can be used over USB3 SS for ultra fast communication/transfer of data.</li></ul></li></ul>
+
+
+
+<p>HydraUSB3 V1 Evaluation Board / Dev Kit and test firmware are not linked to HydraBus v1 hardware/firmware projects and will not replace it.<br><br>HydraUSB3 support natively dual board connection (without requiring any wire/cable except for SerDes connection which requires 2 wires for GXP/GXM)</p>
+
+
+
+<ul><li>The aim is to connect two HydraUSB3 V1 boards together (one on top of another) for multi CPU communication / special streaming features and to use the different supported protocols between 2 boards (one board can act as device and the other as host with the help of PB24 jumper to identify host or device&#8230;).<br><img width="750" height="575" class="wp-image-1906" style="width: 450px;" src="https://hydrabus.com/wp-content/uploads/2022/07/2xHydraUSB3_Plugged_TopView.jpg" alt="" srcset="https://hydrabus.com/wp-content/uploads/2022/07/2xHydraUSB3_Plugged_TopView.jpg 750w, https://hydrabus.com/wp-content/uploads/2022/07/2xHydraUSB3_Plugged_TopView-200x153.jpg 200w, https://hydrabus.com/wp-content/uploads/2022/07/2xHydraUSB3_Plugged_TopView-300x230.jpg 300w, https://hydrabus.com/wp-content/uploads/2022/07/2xHydraUSB3_Plugged_TopView-624x478.jpg 624w" sizes="(max-width: 750px) 100vw, 750px" /></li></ul>
+
+
+
+<p><strong>HydraUSB3 V1 Board</strong><br><img loading="lazy" width="1803" height="900" class="wp-image-1859" style="width: 750px;" src="https://hydrabus.com/wp-content/uploads/2022/07/HydraUSB3_Top_Bottom_lowres.jpg" alt="" srcset="https://hydrabus.com/wp-content/uploads/2022/07/HydraUSB3_Top_Bottom_lowres.jpg 1803w, https://hydrabus.com/wp-content/uploads/2022/07/HydraUSB3_Top_Bottom_lowres-200x100.jpg 200w, https://hydrabus.com/wp-content/uploads/2022/07/HydraUSB3_Top_Bottom_lowres-300x150.jpg 300w, https://hydrabus.com/wp-content/uploads/2022/07/HydraUSB3_Top_Bottom_lowres-1024x511.jpg 1024w, https://hydrabus.com/wp-content/uploads/2022/07/HydraUSB3_Top_Bottom_lowres-768x383.jpg 768w, https://hydrabus.com/wp-content/uploads/2022/07/HydraUSB3_Top_Bottom_lowres-1536x767.jpg 1536w, https://hydrabus.com/wp-content/uploads/2022/07/HydraUSB3_Top_Bottom_lowres-624x311.jpg 624w" sizes="(max-width: 1803px) 100vw, 1803px" /></p>
+
+
+
+<p class="has-text-align-center"><img loading="lazy" width="1435" height="958" class="wp-image-1860" style="width: 480px;" src="https://hydrabus.com/wp-content/uploads/2022/07/HydraUSB3_Front.jpg" alt="" srcset="https://hydrabus.com/wp-content/uploads/2022/07/HydraUSB3_Front.jpg 1435w, https://hydrabus.com/wp-content/uploads/2022/07/HydraUSB3_Front-200x134.jpg 200w, https://hydrabus.com/wp-content/uploads/2022/07/HydraUSB3_Front-300x200.jpg 300w, https://hydrabus.com/wp-content/uploads/2022/07/HydraUSB3_Front-1024x684.jpg 1024w, https://hydrabus.com/wp-content/uploads/2022/07/HydraUSB3_Front-768x513.jpg 768w, https://hydrabus.com/wp-content/uploads/2022/07/HydraUSB3_Front-624x417.jpg 624w" sizes="(max-width: 1435px) 100vw, 1435px" /></p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="983" height="676" src="https://hydrabus.com/wp-content/uploads/2022/09/HydraUSB3_V1_PinAssignment.png" alt="HydraUSB3 v1 Pin Assignment" class="wp-image-2081" srcset="https://hydrabus.com/wp-content/uploads/2022/09/HydraUSB3_V1_PinAssignment.png 983w, https://hydrabus.com/wp-content/uploads/2022/09/HydraUSB3_V1_PinAssignment-300x206.png 300w, https://hydrabus.com/wp-content/uploads/2022/09/HydraUSB3_V1_PinAssignment-768x528.png 768w, https://hydrabus.com/wp-content/uploads/2022/09/HydraUSB3_V1_PinAssignment-624x429.png 624w, https://hydrabus.com/wp-content/uploads/2022/09/HydraUSB3_V1_PinAssignment-200x138.png 200w" sizes="(max-width: 983px) 100vw, 983px" /></figure>
+
+
+
+<p><strong>HydraUSB3 V1</strong> in stock at <a rel="noreferrer noopener" href="https://www.digikey.com/en/products/detail/benjamin-vernoux/HYDRAUSB3-V1/16651677" target="_blank"><strong>digikey.com HYDRAUSB3_V1 / 3792-HYDRAUSB3_V1-ND</strong></a>, Pack of <a rel="noreferrer noopener" href="https://hydrabus.com/product/2x-hydrausb3-v1?v=11aedd0e4327" target="_blank">2x HydraUSB3 v1 boards are available also on HydraBus Store</a><br>HydraUSB3 V1 is produced using components with Operating Temperature -40°C / +85°C (or more), the MCU WCH CH569W Operating Temperature is -20°C / + 85°C.<br>Caution <strong>HydraUSB3 V1</strong> is an <a rel="noreferrer noopener" href="https://en.wikipedia.org/wiki/Electrostatic-sensitive_device" target="_blank">Electrostatic Sensitive Devices</a> Do Not Handle Except at a Static Free Workstation.</p>
+
+
+
+<p>HydraUSB3 open source test firmware / API:<br>See github: <a href="https://github.com/hydrausb3/hydrausb3_fw" target="_blank" rel="noreferrer noopener">https://github.com/hydrausb3/hydrausb3_fw</a><br>For more info on open test firmware or hardware for HydraUSB3 see<br><a href="https://github.com/hydrausb3/hydrausb3_fw/wiki/Getting-Started-with-HydraUSB3" target="_blank" rel="noreferrer noopener">https://github.com/hydrausb3/hydrausb3_fw/wiki/Getting-Started-with-HydraUSB3</a></p>
+
+
+
+<p><strong>HydraUSB3 V1 package content:</strong></p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><a href="https://www.digikey.com/en/products/detail/benjamin-vernoux/HYDRAUSB3-V1/16651677" target="_blank" rel="noreferrer noopener"><img loading="lazy" src="https://hydrabus.com/wp-content/uploads/2022/07/HydraUSB3_v1_package_top_bottom-1024x1024.jpg" alt="" class="wp-image-1949" width="256" height="256" srcset="https://hydrabus.com/wp-content/uploads/2022/07/HydraUSB3_v1_package_top_bottom-1024x1024.jpg 1024w, https://hydrabus.com/wp-content/uploads/2022/07/HydraUSB3_v1_package_top_bottom-200x200.jpg 200w, https://hydrabus.com/wp-content/uploads/2022/07/HydraUSB3_v1_package_top_bottom-100x100.jpg 100w, https://hydrabus.com/wp-content/uploads/2022/07/HydraUSB3_v1_package_top_bottom-300x300.jpg 300w, https://hydrabus.com/wp-content/uploads/2022/07/HydraUSB3_v1_package_top_bottom-150x150.jpg 150w, https://hydrabus.com/wp-content/uploads/2022/07/HydraUSB3_v1_package_top_bottom-768x768.jpg 768w, https://hydrabus.com/wp-content/uploads/2022/07/HydraUSB3_v1_package_top_bottom-1536x1536.jpg 1536w, https://hydrabus.com/wp-content/uploads/2022/07/HydraUSB3_v1_package_top_bottom-624x624.jpg 624w, https://hydrabus.com/wp-content/uploads/2022/07/HydraUSB3_v1_package_top_bottom.jpg 1803w" sizes="(max-width: 256px) 100vw, 256px" /></a></figure>
+
+
+
+<ul><li>Pack of <a rel="noreferrer noopener" href="https://hydrabus.com/product/2x-hydrausb3-v1" target="_blank">2x HydraUSB3 v1 boards are available now on HydraBus Store</a></li><li>1x HydraUSB3 V1 board (fully tested) <ul><li>Available on <a rel="noreferrer noopener" href="https://www.digikey.com/en/products/detail/benjamin-vernoux/HYDRAUSB3-V1/16651677" target="_blank">Digi-Key (PN 3792-HYDRAUSB3_V1-ND)</a></li></ul><ul><li>The board have 3 Jumpers populated on <strong>P4(SHUNT)</strong>, <strong>PB22/ULED</strong>, <strong>PB23/UBTN</strong><ul><li>Additional jumpers are required for other mode like <strong>Flash Mode P3</strong>, <strong>ENABLE 3V3_EXT</strong>, <strong>PB24</strong></li><li>Note: For <strong>Flash Mode P3 </strong>you can also just short the 2 pins during boot/power ON to Enter WCH ISP Flash Bootloader</li></ul></li></ul><ul><li>HydraUSB3 V1 board has been designed, produced &amp; validated to meet the best possible performances <ul><li>Each board has been validated with impedance tests on SerDes (Zdiff 100 Ohms+/-10%), USB2 &amp; USB3 signals (Zdiff 90 Ohms+/-10%)</li></ul><ul><li>Each board use high quality Industrial Grade components<ul><li>Including +/-10ppm 30MHz Crystal (Operating Temperature -40℃~+85℃)</li><li>The MCU WCH CH569W Operating Temperature is -20°C / + 85°C</li></ul></li></ul></li></ul></li><li>USB A Male to USB A male cable is <strong>NOT</strong> included (required to flash the WCH CH569 MCU or to communicate over USB2 or USB3 with the MCU).<ul><li><strong>Warning </strong>It is <strong>MANDATORY </strong>to buy a “USB 3 Type A male to USB 3 Type A male cable” (the cable shall have Power+Data with USB2 and USB3 SS signals)</li><li>Recommended “USB A Male to USB A male cable” (not included with <strong>HydraUSB3 v1</strong> board)<ul><li>Manufacturer <strong>deleyCON</strong><ul><li>Model No: MK744 (2m blue/black)</li></ul><ul><li>Model No: MK743 (1.5m blue/black)</li><li>Model No: MK742 (1m blue/black)</li><li>Model No: MK741 (0.5m blue/black)</li></ul></li></ul><ul><li>Manufacturer <strong>Stewart Connector </strong>(Available at Digi-Key…)<ul><li>USB 3.2 Gen 1 (USB 3.1 Gen 1, Superspeed (USB 3.0)) Cable A Male to A Male 3.00&#8242; (914.4mm) Shielded</li><li>Manufacturer Product Number SC-3AAK003F</li><li><a rel="noreferrer noopener" href="https://www.digikey.com/en/products/detail/stewart-connector/SC-3AAK003F/8544561" target="_blank">Digi-Key Part Number 380-1415-ND</a></li></ul></li></ul></li></ul></li><li>It is <strong>highly recommended</strong> to buy <strong>2x HydraUSB3 V1 boards</strong> to evaluate the full potential of <strong>HydraUSB3 V1</strong> (WCH CH569 MCU) especially with high speed peripherals like USB3 SS(5Gbps), HSPI(up to 3.8Gbps), SerDes(&gt;1Gbps) or even slower peripherals.<br><img loading="lazy" width="750" height="575" class="wp-image-1906" style="width: 300px;" src="https://hydrabus.com/wp-content/uploads/2022/07/2xHydraUSB3_Plugged_TopView.jpg" alt="" srcset="https://hydrabus.com/wp-content/uploads/2022/07/2xHydraUSB3_Plugged_TopView.jpg 750w, https://hydrabus.com/wp-content/uploads/2022/07/2xHydraUSB3_Plugged_TopView-200x153.jpg 200w, https://hydrabus.com/wp-content/uploads/2022/07/2xHydraUSB3_Plugged_TopView-300x230.jpg 300w, https://hydrabus.com/wp-content/uploads/2022/07/2xHydraUSB3_Plugged_TopView-624x478.jpg 624w" sizes="(max-width: 750px) 100vw, 750px" /><ul><li>It is recommended to use high quality &#8220;Jumper Wire Female to Female standard-pitch 0.1&#8243; (2.54mm)&#8221; for prototyping (or to connect SerDes between 2 boards&#8230;) like <a rel="noreferrer noopener" href="https://www.digikey.com/en/products/detail/adafruit-industries-llc/1951/6827085" target="_blank">Premium Female/Female Jumper Wires &#8211; 20x 3&#8243; (75mm) 28 AWG from Adafruit Industries Digi-Key Part Number LLC 1528-1962-ND</a></li><li>It is also recommended to buy some additional CONN JUMPER SHORTING (for  <strong>Flash Mode P3</strong>, <strong>PB24</strong>, <strong>ENABLE 3V3 EXT</strong> &#8230;) &#8220;2 (1 x 2) Position Shunt Connector Black Closed Top 0.100&#8243; (2.54mm)&#8221; like <a rel="noreferrer noopener" href="https://www.digikey.com/en/products/detail/sullins-connector-solutions/STC02SYAN/76372" target="_blank">https://www.digikey.com/en/products/detail/sullins-connector-solutions/STC02SYAN/76372</a></li></ul></li></ul>
+
+
+
+<h2>Overview:</h2>
+
+
+
+<ul><li>Very small board size 60mm x 60mm.<ul><li>Including 4 holes (3.2mm for M3 bolt) to mount screws or even a case (not included).</li></ul></li><li>Features of the <strong>HydraUSB3 V1</strong> board:<ul><li><a rel="noreferrer noopener" href="http://www.wch-ic.com/products/CH569.html" target="_blank">WCH CH569W MCU</a> RISC-V 32-bit (RISC-V3A based on <strong><a rel="noreferrer noopener" href="https://en.wikipedia.org/wiki/RISC-V" data-type="URL" data-id="https://en.wikipedia.org/wiki/RISC-V" target="_blank">RV32IMAC</a></strong>) up to 120MHz &amp; 448KB Embedded Flash.<ul><li>For more details about RISC-V3A see <a rel="noreferrer noopener" href="http://www.wch-ic.com/downloads/CH32V103DS0_PDF.html" data-type="URL" data-id="http://www.wch-ic.com/downloads/CH32V103DS0_PDF.html" target="_blank">CH32V103 datasheet</a> (which is based also on RISC-V3A with more details)</li><li>See RISC-V ISA Doc: <a rel="noreferrer noopener" href="https://github.com/msyksphinz-self/riscv-isadoc" target="_blank">https://github.com/msyksphinz-self/riscv-isadoc</a></li><li>RISC-V features:<ul><li>RV32I = Base Integer Instruction Set, 32-bit</li><li>M = Standard Extension for Integer Multiplication and Division</li><li>A = Standard Extension for Atomic Instructions</li><li>C = Standard Extension for Compressed Instruction</li><li>Fast Interrupt (do automatic save/restore of registers in interrupt when IRQ function use <strong>attribute</strong>((interrupt(&#8220;WCH-Interrupt-fast&#8221;))))</li><li>64 bits SysTick (which can be used to count CPU cycles too)</li></ul></li></ul></li></ul><ul><li>Free multi-platform Eclipse RISC-V IDE (Community)  (to build project/source code) supporting WCH CH569 on Linux &amp; Windows<ul><li>See MounRiver_Studio_Community <a rel="noreferrer noopener" href="http://www.mounriver.com/download" target="_blank">http://www.mounriver.com/download</a></li></ul></li></ul><ul><li>Ultra fast programming through USB2 HS bootloader/flasher (requires a jumper on <strong>P3/Flash Mode</strong>)<ul><li>Supported officially with <strong>wch-isp</strong> open source native multi-platform C tool<ul><li>See <a rel="noreferrer noopener" href="https://github.com/hydrausb3/wch-isp" target="_blank">https://github.com/hydrausb3/wch-isp</a></li></ul></li></ul></li><li>1x USB Type A female connector (with USB2 and USB3 SS signals) with ESD protections.<ul><li>USB VBUS (5V) protections with ESD protection and 1A resettable fuse</li></ul></li></ul><ul><li>1x Reset (<strong>3V3_DISABLE</strong>) &amp; 1x User Button (<strong>PB23/UBTN</strong>) with 1x User <a href="https://en.wikipedia.org/wiki/Light-emitting_diode" data-type="URL" data-id="https://en.wikipedia.org/wiki/Light-emitting_diode">LED</a> (<strong>PB22/ULED</strong>)<ul><li>Such feature can be disabled to reuse I/O for other purpose.</li><li>There is also a 2pins 2.54mm (<strong>P5</strong>) connector to disable the LDO / 3V3 Output(MCU power) with a Jumper.</li></ul></li><li>1x Shunt (<strong>P4/SHUNT</strong>) (2 pins 2.54mm) connector with Jumper can be used to measure accurately WCH CH569 power consumption with an external multimeter.</li><li>1x GND 3V3 (<strong>P2 </strong>with 2 pins 2.54mm) connector can be used to power externally the WCH CH569 MCU (it is recommended to remove the <strong>P4/SHUNT</strong> in that case it is not mandatory as the the 3V3 LDO <strong>IC1</strong> is protected against reverse current)<ul><li>3V3 LDO <strong>IC1 </strong>features:<ul><li>Input voltage range up to 16V</li><li>500mA Low-Noise LDO Voltage Regulator</li><li>Low Noise: 40µV Possible</li><li>High Accuracy: 1%</li><li>Reverse Battery Protection</li><li>Low Dropout: 340mV at Full Load</li><li>Low Quiescent Current: 90µA</li></ul></li></ul></li></ul><ul><li>1x ENABLE 3V3 EXT (2 pins 2.54mm) connector (<strong>P7</strong>) to connect the 3V3 power from LDO (<strong>IC1</strong>) to <strong>J5 </strong>connector pin <strong>3V3 EXT</strong></li><li>Breakout of all 49 I/O.</li><li>Debug/Programming through low cost RISC-V Debugger (not included)<ul><li>DEBUG WCH-Link (2-wire SWDIO/SWCLK)</li><li><strong>WARNING</strong> Debug/Flashing with 2-wire is not recommended as it can permanently brick the WCH CH569 MCU.</li><li>It is advised to use log/traces and/or GPIOs (with Oscilloscope/Logic Analyzer) for debug purposes<ul><li>See <a rel="noreferrer noopener" href="https://github.com/hydrausb3/hydrausb3_fw/blob/main/SRC/Peripheral/inc/CH56x_debug_log.h" target="_blank">CH56x_debug_log.h</a> for log traces API<ul><li>log traces are possible over UART / SerDes / HSPI for real-time debug/traces of fast protocols like USB2, USB3, SerDes, HSPI, eMMC …</li></ul></li><li>See <a rel="noreferrer noopener" href="https://github.com/hydrausb3/hydrausb3_fw/blob/main/SRC/Peripheral/inc/CH56x_hydrausb3.h" target="_blank">CH56x_hydrausb3.h</a> &amp; <a rel="noreferrer noopener" href="https://github.com/hydrausb3/hydrausb3_fw/blob/main/SRC/Peripheral/inc/CH56x_gpio.h" target="_blank">CH56x_gpio.h</a> for GPIOs API</li></ul></li></ul></li></ul><ul><li>The hardware support different protocols<ul><li>USB3 SS built-in PHY (5Gbps) and USB2 built-in PHY FS/LS/HS (480Mbps)</li><li>High Speed Parallel Interface (HSPI) up to 3.8Gbps with unique fast bidirectional parallel bus 8, 16 &amp; 32bits up to 120MHz</li><li>SerDes (up to 1.20Gbps and even up to 1.38Gbps non officially)</li><li>Gigabit Ethernet controller (with option/extension).<ul><li>The hardware provide RGMII and RMII PHY interface for 10/100/1000Mbps transfer rate.</li></ul></li><li>eMMC / SDCard / SDIO (up to 96MHz 8bits mode with option/extension).<ul><li>The hardware provide a Built-in EMMC controller. Support single-wire/4-wire/8-wire data communication mode. Comply to EMMC Specification Rev. 4.4 and Rev. 4.5.1, compatible with Specification Rev. 5.0.</li></ul></li><li>Support AES/SM4 algorithm. 8 types of combinations for encryption/decryption modes. Support encryption/decryption of SRAM/EMMC/HSPI data.</li><li>SPI (exceed 50MHz).</li><li>UART (up to 6Mbauds and 12Mbauds non officially).</li><li>GPIO (In/Out/Open-Drain with internal pull-up/pull down).</li><li>Active parallel port: 8-bit data, 15-bit address bus.</li></ul></li><li>Hardware documentation is available on github: <a rel="noreferrer noopener" href="https://github.com/hydrausb3/hydrausb3_hw" target="_blank">https://github.com/hydrausb3/hydrausb3_hw</a><ul><li>For more details on HydraUSB3 v1 (first version is V1 R1) the schematic is available in PDF see <a href="https://github.com/hydrausb3/hydrausb3_hw/blob/main/HydraUSB3_V1R1_schematic.pdf">https://github.com/hydrausb3/hydrausb3_hw/blob/main/HydraUSB3_V1R1_schematic.pdf</a></li></ul></li></ul></li><li>Features of the HydraUSB3 test firmware / examples (<a rel="noreferrer noopener" href="https://github.com/hydrausb3/hydrausb3_fw" target="_blank">hydrausb3_fw</a>):<ul><li>Fully open source test firmware with examples <a rel="noreferrer noopener" href="http://www.apache.org/licenses/LICENSE-2.0" target="_blank">Licensed under the Apache License, Version 2.0</a><ul><li>It is based on official WCH CH569 Examples <a rel="noreferrer noopener" href="https://github.com/openwch/ch569/tree/main/EVT/EXAM" target="_blank">https://github.com/openwch/ch569/tree/main/EVT/EXAM</a></li></ul></li><li>The test firmware / examples with host tools (using libusb) allow to do real-time streaming / data exchange over USB2 HS or USB3 SS mainly for HSPI and SerDes protocols (between 2x HydraUSB3 V1 boards connected together).<ul><li><a rel="noreferrer noopener" href="https://github.com/hydrausb3/hydrausb3_fw/tree/main/HydraUSB3_USB" target="_blank">See https://github.com/hydrausb3/hydrausb3_fw/tree/main/HydraUSB3_USB</a></li></ul></li></ul></li></ul>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="https://hydrabus.com/hydrausb3-v1-0-specifications/" data-a2a-title="HydraUSB3 v1.0 Specifications"><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fhydrabus.com%2Fhydrausb3-v1-0-specifications%2F&amp;linkname=HydraUSB3%20v1.0%20Specifications" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fhydrabus.com%2Fhydrausb3-v1-0-specifications%2F&amp;linkname=HydraUSB3%20v1.0%20Specifications" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>					</div><!-- .entry-content -->
+		<footer class="entry-meta">
+					</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+				
+<div id="comments" class="comments-area">
+
+	
+	
+	
+</div><!-- #comments .comments-area -->
+			
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="woocommerce_widget_cart-3" class="widget woocommerce widget_shopping_cart"><h3 class="widget-title">Cart</h3><div class="hide_cart_widget_if_empty"><div class="widget_shopping_cart_content"></div></div></aside><aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="https://hydrabus.com/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></aside>
+		<aside id="recent-posts-2" class="widget widget_recent_entries">
+		<h3 class="widget-title">Recent Posts</h3>
+		<ul>
+											<li>
+					<a href="https://hydrabus.com/2022/08/21/hydrausb3_usb-open-source-firmware-and-host-tools/">HydraUSB3_USB open source Firmware and Host Tools</a>
+									</li>
+											<li>
+					<a href="https://hydrabus.com/2022/08/17/hydrausb3-v1-in-stock-on-digi-key-electronics/">HydraUSB3 v1 are now in stock on Digi-Key Electronics</a>
+									</li>
+											<li>
+					<a href="https://hydrabus.com/2022/08/13/special-offer-limited-to-10-pack-2x-hydrausb3-v1-1x-usb3-cable-high-quality/">Special Offer limited to 10 pack 2x HydraUSB3 v1 + 1x USB3 Cable (High Quality)</a>
+									</li>
+											<li>
+					<a href="https://hydrabus.com/2022/07/30/new-product-hydrausb3-v1/">New Product HydraUSB3 v1</a>
+									</li>
+											<li>
+					<a href="https://hydrabus.com/2022/06/25/hydrabus-workshop-today-in-paris-http-lehack-org-lehack2022-by-nicolas-oberli-baldanos-karim-sudki-_az0x_/">HydraBus Workshop today in Paris leHACK by Nicolas Oberli (Balda) &#038; Karim Sudki (Az0x)</a>
+									</li>
+											<li>
+					<a href="https://hydrabus.com/2022/05/27/poll-about-mcurisc-v-extensible-dev-board-with-usb3-super-speed-5gbit-s-high-speed-peripherals-and-open-source-bare-metal-firmware/">Poll about MCU(RISC-V) Extensible Dev Board with USB3 Super Speed (5Gbit/s) / High Speed peripherals and open source bare-metal firmware</a>
+									</li>
+											<li>
+					<a href="https://hydrabus.com/2022/05/05/hydrabus-are-back-in-stock-on-digi-key/">HydraBus are back in stock on Digi-Key</a>
+									</li>
+											<li>
+					<a href="https://hydrabus.com/2021/11/15/hydrabus-v1-is-now-available-on-digikey-usa-wordlwide/">HydraBus v1 is now available on DigiKey (USA &#038; Wordlwide)</a>
+									</li>
+											<li>
+					<a href="https://hydrabus.com/2021/08/17/hydrabus-v1-are-back-in-stock-on-amazon/">HydraBus v1 are back in stock on Amazon</a>
+									</li>
+											<li>
+					<a href="https://hydrabus.com/2021/07/05/hydrabus-v1-hydranfc-shield-v2-firmware-v0-2-1-beta-has-been-released/">HydraBus v1 + HydraNFC Shield v2 firmware v0.2.1 Beta has been released</a>
+									</li>
+					</ul>
+
+		</aside>		</div><!-- #secondary -->
+		</div><!-- #main .wrapper -->
+	<footer id="colophon" role="contentinfo">
+		<div class="site-info">
+						<a class="privacy-policy-link" href="https://hydrabus.com/privacy-policy/">Privacy Policy</a><span role="separator" aria-hidden="true"></span>			<a href="https://wordpress.org/" class="imprint" title="Semantic Personal Publishing Platform">
+				Proudly powered by WordPress			</a>
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script type='text/javascript' src='https://hydrabus.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.6.9.4' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/hydrabus.com\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://hydrabus.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=6.9.4' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' id='wc-geolocation-js-extra'>
+/* <![CDATA[ */
+var wc_geolocation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","home_url":"https:\/\/hydrabus.com"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://hydrabus.com/wp-content/plugins/woocommerce/assets/js/frontend/geolocation.min.js?ver=6.9.4' id='wc-geolocation-js'></script>
+<script type='text/javascript' src='https://hydrabus.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.6.9.4' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://hydrabus.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=6.9.4' id='woocommerce-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_594d064dc63817c3bec6b02ef364bd8a","fragment_name":"wc_fragments_594d064dc63817c3bec6b02ef364bd8a","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://hydrabus.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=6.9.4' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' id='wp-polls-js-extra'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"https:\/\/hydrabus.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://hydrabus.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.77.0' id='wp-polls-js'></script>
+<script type='text/javascript' src='https://hydrabus.com/wp-content/themes/twentytwelve/js/navigation.js?ver=20141205' id='twentytwelve-navigation-js'></script>
+<script type='text/javascript' src='https://hydrabus.com/wp-content/plugins/woo-min-max-quantity-step-control-single/assets/js/custom.js?ver=1.0.0' id='wcmmq-custom-script-js'></script>
+<script type='text/javascript' id='cwginstock_js-js-extra'>
+/* <![CDATA[ */
+var cwginstock = {"ajax_url":"https:\/\/hydrabus.com\/wp-admin\/admin-ajax.php","default_ajax_url":"https:\/\/hydrabus.com\/wp-admin\/admin-ajax.php","security":"cc6b7937ca","user_id":"0","security_error":"Something went wrong, please try after sometime","empty_name":"Name cannot be empty","empty_email":"Email Address cannot be empty","invalid_email":"Please enter valid Email Address","is_popup":"no","phone_field":"2","phone_field_error":["Please enter valid Phone Number","Please enter valid Phone Number","Phone number is too short","Phone number is too long","Please enter valid Phone Number"],"phone_utils_js":"","is_phone_field_optional":"2","default_country_code":"","custom_country_placeholder":"","enable_recaptcha":"2","recaptcha_site_key":"","enable_recaptcha_verify":"2","recaptcha_secret_present":"no","is_v3_recaptcha":"no","is_iagree_enable":"1","iagree_error":"Please accept our terms and privacy policy"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://hydrabus.com/wp-content/plugins/back-in-stock-notifier-for-woocommerce/assets/js/frontend-dev.min.js?ver=3.0' id='cwginstock_js-js'></script>
+<script type='text/javascript' src='https://hydrabus.com/wp-content/plugins/back-in-stock-notifier-for-woocommerce/assets/js/sweetalert2.min.js?ver=3.0' id='sweetalert2-js'></script>
+<script type='text/javascript' src='https://hydrabus.com/wp-content/plugins/back-in-stock-notifier-for-woocommerce/assets/js/cwg-popup.min.js?ver=3.0' id='cwginstock_popup-js'></script>
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.266 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2022-10-08 10:54:29 -->

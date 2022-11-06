@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+	<meta name="theme-color" content="#333333">
+	<link rel="manifest" href="https://www.foreground.com.au/app/themes/foreground/manifest.json">
+	<link rel="apple-touch-icon" href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/apple-touch-icon-fe525a246c.png">
+	
+	<!-- This site is optimized with the Yoast SEO plugin v15.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Designing without depletion: Joseph Grima’s non-extractive architecture</title>
+	<meta name="description" content="It is time to move away from the depletion of our finite resources, argues British architect and writer Joseph Grima." />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://www.foreground.com.au/environment/designing-without-depletion-joseph-grima/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Designing without depletion: Joseph Grima’s non-extractive architecture" />
+	<meta property="og:description" content="It is time to move away from the depletion of our finite resources, argues British architect and writer Joseph Grima." />
+	<meta property="og:url" content="https://www.foreground.com.au/environment/designing-without-depletion-joseph-grima/" />
+	<meta property="og:site_name" content="Foreground" />
+	<meta property="article:published_time" content="2022-07-07T01:27:32+00:00" />
+	<meta property="article:modified_time" content="2022-07-10T23:32:40+00:00" />
+	<meta property="og:image" content="https://www.foreground.com.au/app/uploads/2022/07/picfair-09751668-iron-ore-mine-scaled.jpg" />
+	<meta property="og:image:width" content="2560" />
+	<meta property="og:image:height" content="1440" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:label1" content="Written by">
+	<meta name="twitter:data1" content="Foreground editor">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.foreground.com.au/#website","url":"https://www.foreground.com.au/","name":"Foreground","description":"Cities, places and the people who make them","potentialAction":[{"@type":"SearchAction","target":"https://www.foreground.com.au/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.foreground.com.au/environment/designing-without-depletion-joseph-grima/#primaryimage","inLanguage":"en-US","url":"https://www.foreground.com.au/app/uploads/2022/07/picfair-09751668-iron-ore-mine-scaled.jpg","width":2560,"height":1440,"caption":"Australia's exploitation of its finite resources is unsustainable. Iron Ore Mine, Pilbara, Western Australia. Image: Ian Waldie/Bloomberg"},{"@type":"WebPage","@id":"https://www.foreground.com.au/environment/designing-without-depletion-joseph-grima/#webpage","url":"https://www.foreground.com.au/environment/designing-without-depletion-joseph-grima/","name":"Designing without depletion: Joseph Grima\u2019s non-extractive architecture","isPartOf":{"@id":"https://www.foreground.com.au/#website"},"primaryImageOfPage":{"@id":"https://www.foreground.com.au/environment/designing-without-depletion-joseph-grima/#primaryimage"},"datePublished":"2022-07-07T01:27:32+00:00","dateModified":"2022-07-10T23:32:40+00:00","author":{"@id":"https://www.foreground.com.au/#/schema/person/fa4b011b08962ad497757f15bbbd6263"},"description":"It is time to move away from the depletion of our finite resources, argues British architect and writer Joseph Grima.","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.foreground.com.au/environment/designing-without-depletion-joseph-grima/"]}]},{"@type":"Person","@id":"https://www.foreground.com.au/#/schema/person/fa4b011b08962ad497757f15bbbd6263","name":"Foreground editor","image":{"@type":"ImageObject","@id":"https://www.foreground.com.au/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/940e470a538698dd1fb52bb8db36c711?s=96&d=mm&r=g","caption":"Foreground editor"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='preconnect' href='//www.gstatic.com' />
+<link rel='stylesheet' id='foreground-fonts-css'  href='//fonts.googleapis.com/css?family=Literata:400,400i,700|Space+Mono:400,400i,700,700i|Work+Sans:300,400,500,600,700' type='text/css' media='all' />
+<link rel='stylesheet' id='foreground-styles-css'  href='https://www.foreground.com.au/app/themes/foreground/assets/dist/styles/theme-7b7569b109.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.foreground.com.au/wp/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.foreground.com.au/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+    <script type="text/javascript">
+        function nxsPostToFav(obj){ obj.preventDefault;
+            var k = obj.target.split("-"); var nt = k[0]; var ii = k[1];  var pid = k[2];
+            var data = {  action:'nxs_snap_aj', nxsact: 'manPost', nt:nt, id: pid, nid: ii, et_load_builder_modules:1, _wpnonce: 'cc235bddf2'};
+            jQuery('#nxsFavNoticeCnt').html('<p> Posting... </p>'); jQuery('#nxsFavNotice').modal({ fadeDuration: 50 });
+            jQuery.post('https://www.foreground.com.au/wp/wp-admin/admin-ajax.php', data, function(response) { if (response=='') response = 'Message Posted';
+                jQuery('#nxsFavNoticeCnt').html('<p> ' + response + '</p>' +'<input type="button"  onclick="jQuery.modal.close();" class="bClose" value="Close" />');
+            });
+        }
+    </script><style type="text/css">0</style>	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-5RXX4PS');</script>
+	<!-- End Google Tag Manager -->
+	<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"NewsArticle","headline":"Designing without depletion: Joseph Grima\u2019s non-extractive architecture","description":"","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.foreground.com.au\/environment\/designing-without-depletion-joseph-grima\/"},"publisher":{"@type":"Organization","name":"Foreground","logo":{"@type":"ImageObject","url":"https:\/\/www.foreground.com.au\/app\/themes\/foreground\/assets\/dist\/images\/foreground-amp-846a696b4d.png","width":115,"height":60}},"datePublished":"2022-07-07T12:27:32+11:00","dateModified":"2022-07-11T10:32:40+11:00","image":["https:\/\/www.foreground.com.au\/app\/uploads\/2022\/07\/picfair-09751668-iron-ore-mine-scaled.jpg"],"author":{"@type":"Organization","name":"Foreground"}}</script>	<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+	<script>
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+	</script>
+		<script>
+	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+	n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+	document,'script','https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '1045867915549731');
+	fbq('track', 'PageView');
+	</script>
+	</head>
+<body class="theme--stories">
+		<noscript>
+		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5RXX4PS" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+		<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1045867915549731&ev=PageView&noscript=1"/>
+	</noscript>
+		<header class="header" id="header" role="banner">
+		<div class="section">
+			<nav class="navbar" id="navbar">
+				<div class="navbar-logos">
+					<div class="navbar-masthead" id="navbar-masthead"><a href="https://www.foreground.com.au/"><img src="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/foreground-f00ff5a135.svg" alt="Foreground" /></a></div>					<button id="navbar-burger" class="navbar-burger" aria-controls="navbar-wrapper" aria-expanded="false">
+						<span class="screenReaderText">Open Menu</span>
+						<span class="navbar-burger-patty"></span>
+					</button>
+					<a class="navbar-ailaLogo-wrapper" href="https://www.aila.org.au" target="_blank">
+						<img class="navbar-ailaLogo" src="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/aila-107a3b638d.svg" alt="">
+					</a>
+				</div>
+				<div class="navbar-wrapper" id="navbar-wrapper" aria-hidden="true">
+					<ul id="navMain" class="navMain"><li><a href="https://www.foreground.com.au/parks-places/">parks &#038; places</a></li>
+<li><a href="https://www.foreground.com.au/agriculture-environment/">agriculture &#038; environment</a></li>
+<li><a href="https://www.foreground.com.au/planning-policy/">planning &#038; policy</a></li>
+<li><a href="https://www.foreground.com.au/transport/">transport</a></li>
+<li><a href="https://www.foreground.com.au/culture/">culture</a></li>
+<li><a href="https://www.foreground.com.au/technology/">technology</a></li>
+</ul>					<div class="navbar-search" id="navbar-search">
+						<form role="search" method="get" action="/">
+							<label for="searchBar-input" class="navbar-search-toggle" id="navbar-search-toggle" aria-controls="searchBar" aria-expanded="false" role="button">
+								<svg class="svgIcon svgIcon--search" aria-labelledby="title-62d11add-849c-4692-95a1-3ad7c8394b01"><title id="title-62d11add-849c-4692-95a1-3ad7c8394b01">search</title><use xlink:href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/sprite-e8cc671f4a.symbol.svg#search" /></svg>							</label>
+							<div class="searchBar section" id="searchBar" aria-hidden="true">
+								<div class="searchBar-wrapper container container--norule">
+									<div class="searchBar-formGroup">
+										<input type="text" name="s" class="searchBar-input" id="searchBar-input" placeholder="What are you looking for?">
+									</div>
+									<button class="btnNaked searchBar-submit">Search</button>
+									<button type="button" class="btnNaked searchBar-close" aria-controls="searchBar" aria-expanded="false"><svg class="svgIcon svgIcon--close" aria-labelledby="title-b9e2ba91-8121-44d6-902a-b3293fef6ad6"><title id="title-b9e2ba91-8121-44d6-902a-b3293fef6ad6">close</title><use xlink:href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/sprite-e8cc671f4a.symbol.svg#close" /></svg></button>
+								</div>
+							</div>
+						</form>
+						<div class="navbar-search-overlay"></div>
+					</div>
+					<div class="navbar-wrapper-footer">
+						<div class="subscribeMobile">
+							<button id="signupNudgeButton">Subscribe to Enews</button>
+						</div>
+						<div class="socialLinks">
+							<a href="https://twitter.com/foregroundnews" target="_blank" rel="noopener"><svg class="svgIcon svgIcon--twitter" aria-labelledby="title-b220c507-4281-43a6-a757-f13e916befe2"><title id="title-b220c507-4281-43a6-a757-f13e916befe2">twitter</title><use xlink:href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/sprite-e8cc671f4a.symbol.svg#twitter" /></svg></a>
+							<a href="https://www.facebook.com/ForegroundNews/" target="_blank" rel="noopener"><svg class="svgIcon svgIcon--facebook" aria-labelledby="title-0a5365c1-4c1e-48df-a19f-a26352bea2d7"><title id="title-0a5365c1-4c1e-48df-a19f-a26352bea2d7">facebook</title><use xlink:href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/sprite-e8cc671f4a.symbol.svg#facebook" /></svg></a>
+							<a href="https://www.instagram.com/ForegroundNews/" target="_blank" rel="noopener"><svg class="svgIcon svgIcon--instagram" aria-labelledby="title-1921fd6e-8971-4d70-825b-4d67a2129fdc"><title id="title-1921fd6e-8971-4d70-825b-4d67a2129fdc">instagram</title><use xlink:href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/sprite-e8cc671f4a.symbol.svg#instagram" /></svg></a>
+						</div>
+						<button for="searchBar-input" class="navbar-mobileSearchToggle" aria-controls="searchBar" aria-expanded="false">
+							<svg class="svgIcon svgIcon--search" aria-labelledby="title-66128956-c95c-418f-8007-7e2d876e2233"><title id="title-66128956-c95c-418f-8007-7e2d876e2233">search</title><use xlink:href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/sprite-e8cc671f4a.symbol.svg#search" /></svg>						</button>
+						<div class="siteLinks">
+							<a href="/events">Events</a>
+							<a href="/about">About</a>
+						</div>
+					</div>
+				</div>
+			</nav>
+		</div>
+	</header>
+	<main class="main" id="main">
+
+		<div class="story">
+			<div class="section">
+				<div class="container">
+					<div class="story-header row">
+						<figure class="story-featureImage">
+							<img width="1024" height="576" src="https://www.foreground.com.au/app/uploads/2022/07/picfair-09751668-iron-ore-mine-1024x576.jpg" class="lazyload wp-post-image" alt="Australia&#039;s exploitation of its finite resources is unsustainable. Iron Ore Mine, Pilbara, Western Australia. Image: Ian Waldie/Bloomberg" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" sizes="(max-width: 1024px) 100vw, 1024px" data-srcset="https://www.foreground.com.au/app/uploads/2022/07/picfair-09751668-iron-ore-mine-1024x576.jpg 1024w, https://www.foreground.com.au/app/uploads/2022/07/picfair-09751668-iron-ore-mine-300x169.jpg 300w, https://www.foreground.com.au/app/uploads/2022/07/picfair-09751668-iron-ore-mine-768x432.jpg 768w, https://www.foreground.com.au/app/uploads/2022/07/picfair-09751668-iron-ore-mine-1536x864.jpg 1536w, https://www.foreground.com.au/app/uploads/2022/07/picfair-09751668-iron-ore-mine-2048x1152.jpg 2048w, https://www.foreground.com.au/app/uploads/2022/07/picfair-09751668-iron-ore-mine-390x220.jpg 390w, https://www.foreground.com.au/app/uploads/2022/07/picfair-09751668-iron-ore-mine-780x438.jpg 780w" /><figcaption class="story-featureImage-caption caption">Australia&#039;s exploitation of its finite resources is unsustainable. Iron Ore Mine, Pilbara, Western Australia.  Image: Ian Waldie/Bloomberg</figcaption>						</figure>
+						<div class="story-body">
+														<div class="story-tag">
+								<a class="tag" href="https://www.foreground.com.au/environment/" style="background-color:">Environment</a>							</div>
+							<h1 class="story-title heading1">Designing without depletion: Joseph Grima’s non-extractive architecture</h1>
+														<div class="story-excerpt lead">
+								<p>If we priced in the full cost of the materials most cities are built from—for people and the planet—then the way we design and build would be very different, argues architect Joseph Grima.</p>
+							</div>
+													</div>
+												<div class="story-meta">
+							<dl class="details info story-meta-item">
+								<dt class="details-title">Imagery</dt><dd class="details-item">Various</dd><dt class="details-title">Posted on</dt><dd class="details-item">July 7, 2022</dd>							</dl>
+							<div class="story-share">
+								<button class="story-share-toggle story-meta-item btnNaked" id="story-share-toggle" aria-controls="story-share-nav" aria-expanded="false">Share this article</button>
+								<ul class="socialShare" id="story-share-nav" aria-hidden="true">
+									<li><a href="https://twitter.com/intent/tweet?text=Designing%20without%20depletion%3A%20Joseph%20Grima%E2%80%99s%20non-extractive%20architecture&#038;url=https://www.foreground.com.au/environment/designing-without-depletion-joseph-grima/"><svg class="svgIcon svgIcon--twitter" aria-labelledby="title-2ed1357e-e593-42fe-948b-140110ea4e13"><title id="title-2ed1357e-e593-42fe-948b-140110ea4e13">twitter</title><use xlink:href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/sprite-e8cc671f4a.symbol.svg#twitter" /></svg></a></li>
+									<li><a href=""><svg class="svgIcon svgIcon--facebook" aria-labelledby="title-f6d0a6d3-6afd-40e6-97cb-1f49d90b0301"><title id="title-f6d0a6d3-6afd-40e6-97cb-1f49d90b0301">facebook</title><use xlink:href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/sprite-e8cc671f4a.symbol.svg#facebook" /></svg></a></li>
+									<li><a href="mailto:?subject=Designing%20without%20depletion%3A%20Joseph%20Grima%E2%80%99s%20non-extractive%20architecture&#038;body=Article:%20https://www.foreground.com.au/environment/designing-without-depletion-joseph-grima/"><svg class="svgIcon svgIcon--mail" aria-labelledby="title-5d0a3059-94fe-40a8-aca7-8dee9154a720"><title id="title-5d0a3059-94fe-40a8-aca7-8dee9154a720">mail</title><use xlink:href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/sprite-e8cc671f4a.symbol.svg#mail" /></svg></a></li>
+								</ul>
+							</div>
+						</div>
+											</div>
+				</div>
+			</div>
+			<div class="section">
+				<div class="container">
+					<div class="row row--justifyEnd">
+						<div class="story-body">
+							<div id="articleAd" class="adunit adunit--article lazyload" data-zone="fg_article"></div>
+							<div class="story-media">
+	<p><span style="color: #7e7e72;font-family: 'Work Sans', sans-serif;text-decoration: none;font-size: 16px;font-style: italic;margin-bottom: 16px;padding: 8px 0;border-bottom: #f8ef00 2px solid;display: block">This article is part of our <a href="http://www.foreground.com.au/tag/living-cities/"><strong>Living Cities</strong></a> special series, in advance of this year&#8217;s Living Cities Forum on 21 July in Melbourne. It is made possible through the support of the Naomi Milgrom Foundation. You can <a href="https://www.eventbrite.com.au/e/living-cities-forum-2022-tickets-337740620287/"><strong>buy tickets here</strong></a></span></p>
+</div>
+
+<div class="story-text content content--story">
+	<p>Mining remains Australia&#8217;s largest single GDP sector by value and dominates Australian exports. Last year, amid the chaos of COVID and lock-downs, mining exports surged, accounting for no less than 68 percent to total Australian export revenue.</p>
+<p>The top five minerals by economic value are iron ore, coal, gas, gold and aluminium ore, much of which feeds directly into the manufacturing of materials and products used in construction. Yet the carbon emissions and climate damage caused by extractive industries is becoming increasingly and urgently evident.</p>
+<p>Meanwhile the boomerang of value-added goods manufactured from those exported minerals, which typically flood into Melbourne and Sydney’s ports every day, has stalled. Global supply chains are a mess, ports are half empty and building materials are both scarce and expensive.</p>
+<p>A perfect storm of cost escalations and material delays are leading to project delivery hell. The construction company Probuild was plunged into administration in February, leaving unfinished projects worth billions of dollars in limbo. Fire Services Australia folded in June, as many more failures are projected for the months ahead.</p>
+<p>What if there was a way forward that both mitigated the impacts of extractive industries and reset our dependence on global markets?</p>
+<figure id="attachment_15647" aria-describedby="caption-attachment-15647" class="wp-caption size-full alignleft"><a href="https://bookshopbyuro.com/products/non-extractive-architecture?_pos=1&amp;_psq=extractive&amp;_ss=e&amp;_v=1.0"><img class="lazyload wp-image-15647 " src="https://www.foreground.com.au/app/uploads/2022/07/Non-Extractive-Architecture_sml.jpg" alt="Non-Extractive Architecture cover" width="723" height="1024" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-srcset="https://www.foreground.com.au/app/uploads/2022/07/Non-Extractive-Architecture_sml.jpg 723w, https://www.foreground.com.au/app/uploads/2022/07/Non-Extractive-Architecture_sml-212x300.jpg 212w" sizes="(max-width: 723px) 100vw, 723px" /></a><figcaption id="caption-attachment-15647" class="wp-caption-text"><a href="https://bookshopbyuro.com/products/non-extractive-architecture?_pos=1&amp;_psq=extractive&amp;_ss=e&amp;_v=1.0" target="_blank" rel="noopener"><em>Non-Extractive Architecture</em></a> by Joseph Grima&#8217;s Space Caviar</figcaption></figure>
+<p>Joseph Grima’s new book <a href="https://bookshopbyuro.com/products/non-extractive-architecture?_pos=1&amp;_psq=non-e&amp;_ss=e&amp;_v=1.0" target="_blank" rel="noopener"><em>Non-Extractive Architecture</em></a> sets out to present just such an alternative picture for our built environment. The book is intended as the first of two books documenting a research program that explores alternatives to extractive practices within the built environment.</p>
+<p><em>Foreground</em> spoke to Grima in advance of his participation at the <a href="https://livingcitiesforum.org/">2022 Living Cities Forum</a>.</p>
+<p>&nbsp;</p>
+</div>
+<div class="story-text content content--story">
+	<p>***</p>
+<p><strong>Foreground:</strong> In your book you look closely at supply chains and the great carbon cost our current global supply chains impose on the planet. It is also clear that the distance between a material’s source and its use has also historically resulted in reduced accountability, in relation to environmental and social impacts. Is there a case for greater local production of construction materials?</p>
+<p><strong>Joseph Grima:</strong> There definitely is. The marketplace as it exists and operates today depends entirely on the invisibility of the consequences of production and manufacturing, often located on distant landscapes. Making these consequences visible again and rethinking the supply chain is going to be one of the great challenge of the 21st century.</p>
+<p>A fantastic book to read in relation to this is <em>The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger</em>. It describes how the invention of the shipping container fundamentally transformed the global economy and produced much of today’s prosperity. The shipping container led to the highly sophisticated supply chains we see today, which has been extremely efficient in making, exploiting and creating a form of global labour and material arbitrage.</p>
+<p>It is vital to the relocating and offshoring of production to places where the costs are far lower. But even more importantly it makes the consequences, or ‘externalities’, of production completely invisible to Western consumers.</p>
+<p>What if we suddenly decided that we&#8217;re going to stop pretending those things don&#8217;t happen? What if we embrace the consequences of what it means to manufacture products and to build, and to price its full cost? If the sticker price included the full cost of everything we build, then suddenly making things locally and sourcing materials locally would become much more attractive.</p>
+</div>
+<div class="story-quote">
+	<blockquote class="twitterQuote">
+		<a href="https://twitter.com/intent/tweet?text=%22If%20the%20sticker%20price%20included%20the%20full%20cost%20of%20everything%20we%20build%2C%20then%20suddenly%20making%20things%20locally%20and%20sourcing%20materials%20locally%20would%20become%20much%20more%20attractive.%22%E2%80%94Joseph%20Grima%2C%20%40joseph_grima&#038;url=https://www.foreground.com.au/environment/designing-without-depletion-joseph-grima/" class="js-popup" data-width="600" data-height="280">
+			<p>&#8220;If the sticker price included the full cost of everything we build, then suddenly making things locally and sourcing materials locally would become much more attractive.&#8221;—Joseph Grima, @joseph_grima</p>
+			<svg class="svgIcon svgIcon--twitter" aria-labelledby="title-26b9d569-25ef-47fe-932a-15b34d0aedd0"><title id="title-26b9d569-25ef-47fe-932a-15b34d0aedd0">twitter</title><use xlink:href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/sprite-e8cc671f4a.symbol.svg#twitter" /></svg>		</a>
+	</blockquote>
+</div>
+<div class="story-text content content--story">
+	<p><strong>FG.</strong> The book presents architecture within an expanded realm of expertise that overlaps with material science, ecology and engineering. Is there a need to fundamentally rethink the competencies and requirements of professional practice?</p>
+<p><strong>JG.</strong> This question points to the central thesis of the book, which is the misalignment between architecture as taught in schools and what is needed in the real world. The built environment is shaped by many factors, including economic forces and regulatory frameworks. Architects typically have very little to say within these frameworks, which significantly reduces their capacity to actually shape the built environment. The book argues that, as we&#8217;re not producing the kind of cities that we need, perhaps architects should embrace the opportunity to expand their agency.</p>
+<p>Architecture is often considered, within the popular imagination, to be a field of aesthetic, compositional and artistic understanding. As architects, why not become more ambitious and propose ourselves as advocates, with architecture at a point of intersection between actors that make up the production of the built environment. This proposes a fundamentally different role to our current self-image, as exclusively engaged in compositional aesthetics but rather more about managing budgets. By budgets I don&#8217;t just mean financial budgets. I mean budgets of energy, materials, externalities, and stakeholder interest.</p>
+<p>We need to take a step back and really embrace the need to impose far stricter limitations on what and how we build. We really need to understand the externalities that are created by building as we do it today and explore what we can do about those externalities. That&#8217;s a fantastic thing for us to do, because architects have the ability to work in broad teams through an extraordinary breadth of disciplines and fields of knowledge.</p>
+<p>The rhetoric of the heroic architect has put us in the extremely sticky situation that we&#8217;re in now, where architects may have the license to create highly visible trophy buildings but are not taken seriously. We have very little opportunity to actually define the quality of life in the city and the quality of life in the places where the materials that their city is built of are from. That needs to change.</p>
+<p><strong>FG.</strong> Architecture is closely linked to economic and political regimes that significantly influence what is possible. Presumably any transformation within architecture requires a corollary transformations in those fields. Are you optimistic that this is possible?</p>
+<p><strong>JG.</strong> Absolutely. Until the marketplace is levelled, we&#8217;re never going to make any significant progress. Living as we supposedly do in an age of free markets, liberalisation and deregulation, everybody assumes that we are living in the heyday of the free, open, balanced market. But that&#8217;s not the case. The way that we build today is only economically viable because we leave off our budget sheets a whole list of items related to how materials are produced, sourced, transported, sold and purchased and then used to make a building.</p>
+<p>Think of concrete as an obvious example, which has incredible plasticity and strength. It became a kind of miracle material for modernist architects, and it still underwrites much of the world’s infrastructure. Yet concrete produces enormous CO2 emissions. Also, vast landscapes are being depredated for the production and sourcing of the sand. As a material we&#8217;re all accustomed to seeing it all around us all the time, concrete is a very good example of how deep this problem runs.</p>
+<p>But even timber, considered sustainable by many people, is often sourced from forests that are not replanted. In Siberia trees that are often hundreds of years old are being forested, and therefore not easy to replenish. To use timber as one example, it&#8217;s going to be near impossible to convince clients that they should source local, more expensive timber, that may be part of a long-term reforestation programme, until all the so-called externalities associated with the status quo are scrupulously audited, listed and budgeted. We need regulations in place that demand these externalities are taken into consideration when the budget for a building is constructed.</p>
+<p>The shift in thinking that we need is only going to occur at scale when we begin to understand these questions on a systemic level. This might seem rather frightening to some, but I would argue that it can become an incredible opportunity to make our building’s and cities more interesting and make our planet more diverse. So that when we travel, we experience cities that are responsive to their location, built from what is possible to produce locally and has a deeper connexion with the culture of a place.</p>
+</div>
+<div class="story-gallery">
+	<div class="gallery js-gallery">
+		<div class="gallery-image"><img width="780" height="438" src="https://www.foreground.com.au/app/uploads/2022/07/2B0XN0W-780x438.jpg" class="lazyload" alt="Destruction of forests in Siberia." srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" sizes="(max-width: 780px) 100vw, 780px" data-srcset="https://www.foreground.com.au/app/uploads/2022/07/2B0XN0W-780x438.jpg 780w, https://www.foreground.com.au/app/uploads/2022/07/2B0XN0W-390x220.jpg 390w, https://www.foreground.com.au/app/uploads/2022/07/2B0XN0W-1024x576.jpg 1024w" /><p class="gallery-image-caption caption">Even the apparently sustainable use of timber needs rethinking, as the destruction of the Siberian forests makes clear.</p></div>	</div>
+</div>
+<div class="story-quote">
+	<blockquote class="twitterQuote">
+		<a href="https://twitter.com/intent/tweet?text=%22Our%20house%20is%20burning%20and%20now%20is%20not%20the%20time%20to%20be%20worrying%20about%20the%20pitch%20of%20the%20roof%20and%20the%20tone%20of%20the%20paint%20on%20the%20facade%22%E2%80%94%20Joseph%20Grima%2C%20%40joseph_grima%20&#038;url=https://www.foreground.com.au/environment/designing-without-depletion-joseph-grima/" class="js-popup" data-width="600" data-height="280">
+			<p>&#8220;Our house is burning and now is not the time to be worrying about the pitch of the roof and the tone of the paint on the facade&#8221;— Joseph Grima, @joseph_grima </p>
+			<svg class="svgIcon svgIcon--twitter" aria-labelledby="title-d47de748-6914-4ea3-ad3b-dbb2f7db4c97"><title id="title-d47de748-6914-4ea3-ad3b-dbb2f7db4c97">twitter</title><use xlink:href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/sprite-e8cc671f4a.symbol.svg#twitter" /></svg>		</a>
+	</blockquote>
+</div>
+<div class="story-text content content--story">
+	<p><strong>FG.</strong> You mentioned the hero architect, and indeed much of the public’s appreciation of architecture is dominated by heroic form. There is an expectation that important architecture is always somehow iconic. To the extent that iconic architecture is often also materially extravagant, is the non-extractive approach conceived as an antidote to this, or even a challenge of this very visible architectural paradigm within the public imagination?</p>
+<p><strong>JG.</strong> The present understanding of what architects do is a huge problem, both on the part of the architects and the public.</p>
+<p>For architects there is an expectation that success equals being becoming the author of iconic sculptural presences within the city. This idea needs to be completely reframed, to reposition the architect as the guardian of the landscape and the guardian of the environment. This means finding ways to produce beauty in a way that is much more about the creation of a pleasant and liveable environment, in the sense that Christopher Alexander often wrote about. Something other than just creating something that&#8217;s going to be photographed the day it&#8217;s finished and have its 15 minutes of fame on the design blogs. After which it lingers in the environment for another x number of decades, often just half-dead, until it gets dismantled and/or refurbished.</p>
+<p>One example of a strategy that would facilitate a change in thinking is to approach buildings as intended to be modified by their occupants. This would recognize that certain aspects of living in a place take time to make the space compatible with the way that they live in it. Another strategy is to think about buildings as modular structures that can be configured and reconfigured as necessary. Another is to think about buildings in the very long term and the very short term. Contrary to the idea that everything needs to last for thousands of years like a roman temple, buildings can also be like frames that are temporarily filled and adapted for a period of time, and then that frame is occupied and lived in, in a completely different way.</p>
+<p>Our house is burning and now is not the time to be worrying about the pitch of the roof and the tone of the paint on the facade. There are much more urgent things that we need to be thinking about. So it&#8217;s about loosening up our canons in aesthetic terms. All of these things need to be advocated by and understood by architects themselves, and then understood by the public and then somehow translated into legislature that can reconfigure the design process and the permit process. All of which leads to a completely reformulated role of the architect.</p>
+<p><strong>FG.</strong> Sustainability is an inherently slippery term. In broad terms however there has been a clear divide in how sustainability has been practiced in high-income economies compared to low-income economies. The former has invested significantly in technological solutions whereas the latter tends towards lo-tech and labour intensive solutions. Will the idea of non-extractive architecture result in different outcomes in, say, Germany and Ghana?</p>
+<p><strong>JG.</strong> In a way, you could say that this whole project started from a certain frustration with the word sustainability, which is overused and has become threadbare. Our first intuition was reflect for a moment on what we actually mean when we say sustainability.</p>
+<p>The expression non-extractive architecture came from an understanding of what actually needs to be done if we&#8217;re going to live in a way that is equitable at a planetary scale. It reflects how individuals and societies need to rethink our existential practices to be able to live in a way that is not the predatory practices that our current societies do, especially Western developed economies.</p>
+<p>This idea of extraction points to a couple of critical aspects of the current construction industry. The first being the practice of extracting finite materials from the soil and using them extensively in the construction of our built environment. Then the same kind of attitudes apply to non-material assets, such as labor. So the term is descriptive of an attitude rather than a specific practice. It describes an ideology of extraction that is completely ingrained in the way that we think about the built environment industry. So ingrained in fact that we fail to recognise it.</p>
+<p>This is perhaps one way to talk about sustainability, as the management of resources, material and immaterial, within a closed ecosystem that is clearly finite with very clear boundaries. The dominate paradigm today is to treat these resources as though they were not finite.</p>
+<p>As to how it plays out in different parts of the world, in developed nations our expectations, in terms of comfort levels and quality of life, are extreme. But these are clearly not universally applicable to everybody on planet Earth. We have to rethink those expectations.</p>
+<p>This is something that absolutely can be done without having to necessarily sacrifice the quality of life that we hope to achieve. We just need to think about it in a much less predatory way. Not solving our short-term problems by plundering the natural environment, simply because we have the technological means to do so. We need to think about this in the very long term, noting that this is something we can really learn from prior civilisations and from existing First Nations cultures.</p>
+<p>Therefore, the question regarding developed economies and the less developed is a double-edged sword. It is complicated trying to convince the citizens of developed nations to rethink their practices and expectations. The idea of prosperity has a different resonance compared to those who live in a country that is perhaps only really recently able to look towards a horizon of prosperity, or indeed those that might live in deep discomfort as a consequence of having been plundered by others. In that context, any kind of improvement is a gain.</p>
+<p><strong>FG.</strong> <a href="https://bookshopbyuro.com/products/non-extractive-architecture?_pos=1&amp;_psq=non-e&amp;_ss=e&amp;_v=1.0" target="_blank" rel="noopener"><em>Non-Extractive Architecture Volume One</em></a> presents a theoretical framework for thinking about this question. Volume Two will be a much more practical, case-study approach. Can you provide a specific example of how non-extractive architecture can approach the challenge of using materials more responsibly?</p>
+<p><strong>JG.</strong> The next book will be, as you say, focused on what non-extractive architecture actually translates into in practical terms. Some examples in the book are purely policy focused, while others are dealing with very specific material challenges. It is important to recognize here that there is no single solution, and non-extractive architecture should not be understood as a dogma. It is more a question of being responsive to a certain set of conditions or needs in a given place and time. It&#8217;s very much a philosophy rather than a specific method or practice.</p>
+<p>One example relates to our own practice Space Caviar, which is working on the exhibition design for the 23rd Triennial in Milan, which will be titled &#8220;Unknown Unknowns: An Introduction to Mysteries&#8221;. It is curated by Ersilia Vaudo, an astrophysicist, and the Chief Diversity Officer at the European Space Agency. It is looking towards the cosmos and the future of our species. The production of cultural events of this kind are one of the greatest sources of waste because they are temporary, so we have decided to rethink the formal expectations of how an exhibition display is produced.</p>
+<p>Working with the Italian 3D printing company WASP we have brought their printers into the space and printed the entire exhibition display using clay. The material is produced by another local company that uses a binder for the soil that&#8217;s a by-product in the production of rice for risotto. As you know, northern Italy is famous for its risotto and a by-product of that is rice husks, which are typically thrown away. But they can produce an excellent binder when combined with the soil, which then becomes a 3D printable material.</p>
+<p>Nothing has ever been printed at this scale before, certainly not indoors, inside an exhibition space. At the end of the day, the exhibition and the whole display system can just be broken down and thrown back into the fields because it&#8217;s all completely organic material.</p>
+<p>This for us is a test, to think about exhibition design based on local production and embracing advanced technologies. 3D printing like this at full scale is something that we&#8217;re hoping to use in various upcoming projects but it is still in the early stages of development. It hasn&#8217;t really been done with organic materials. There&#8217;s lots of experiments with concrete printing and so on, but that&#8217;s something we&#8217;re interested in.</p>
+<p>What is core to this kind of cross-disciplinary work is the need to work in teams and networks rather than the idea of the architect as heroic, centralized figure.</p>
+</div>
+<div class="story-gallery">
+	<div class="gallery js-gallery">
+		<div class="gallery-image"><img width="584" height="438" src="https://www.foreground.com.au/app/uploads/2022/07/DSC1419-Modifica.jpg" class="lazyload" alt="recyclable clay walls at the 23rd Triennial in Milan, designed by Space Caviar with the Italian 3D printing company WASP" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" sizes="(max-width: 584px) 100vw, 584px" data-srcset="https://www.foreground.com.au/app/uploads/2022/07/DSC1419-Modifica.jpg 8448w, https://www.foreground.com.au/app/uploads/2022/07/DSC1419-Modifica-300x225.jpg 300w, https://www.foreground.com.au/app/uploads/2022/07/DSC1419-Modifica-1024x768.jpg 1024w, https://www.foreground.com.au/app/uploads/2022/07/DSC1419-Modifica-768x576.jpg 768w" /></div><div class="gallery-image"><img width="780" height="438" src="https://www.foreground.com.au/app/uploads/2022/07/DSC1377-Modifica-780x438.jpg" class="lazyload" alt="" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" sizes="(max-width: 780px) 100vw, 780px" data-srcset="https://www.foreground.com.au/app/uploads/2022/07/DSC1377-Modifica-780x438.jpg 780w, https://www.foreground.com.au/app/uploads/2022/07/DSC1377-Modifica-390x220.jpg 390w" /><p class="gallery-image-caption caption">Recyclable clay walls at the 23rd Triennial in Milan, designed by Space Caviar with the Italian 3D printing company WASP</p></div><div class="gallery-image"><img width="657" height="438" src="https://www.foreground.com.au/app/uploads/2022/07/DSC1366-Modifica.jpg" class="lazyload" alt="" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" sizes="(max-width: 657px) 100vw, 657px" data-srcset="https://www.foreground.com.au/app/uploads/2022/07/DSC1366-Modifica.jpg 9504w, https://www.foreground.com.au/app/uploads/2022/07/DSC1366-Modifica-300x200.jpg 300w, https://www.foreground.com.au/app/uploads/2022/07/DSC1366-Modifica-1024x683.jpg 1024w, https://www.foreground.com.au/app/uploads/2022/07/DSC1366-Modifica-768x512.jpg 768w" /></div><div class="gallery-image"><img width="780" height="438" src="https://www.foreground.com.au/app/uploads/2022/07/DSC1364-Modifica-780x438.jpg" class="lazyload" alt="" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" sizes="(max-width: 780px) 100vw, 780px" data-srcset="https://www.foreground.com.au/app/uploads/2022/07/DSC1364-Modifica-780x438.jpg 780w, https://www.foreground.com.au/app/uploads/2022/07/DSC1364-Modifica-390x220.jpg 390w, https://www.foreground.com.au/app/uploads/2022/07/DSC1364-Modifica-1024x576.jpg 1024w" /></div><div class="gallery-image"><img width="780" height="438" src="https://www.foreground.com.au/app/uploads/2022/07/DSC1397-Modifica-780x438.jpg" class="lazyload" alt="" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" sizes="(max-width: 780px) 100vw, 780px" data-srcset="https://www.foreground.com.au/app/uploads/2022/07/DSC1397-Modifica-780x438.jpg 780w, https://www.foreground.com.au/app/uploads/2022/07/DSC1397-Modifica-390x220.jpg 390w" /></div><div class="gallery-image"><img width="780" height="438" src="https://www.foreground.com.au/app/uploads/2022/07/DSC1343-Modifica-780x438.jpg" class="lazyload" alt="" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" sizes="(max-width: 780px) 100vw, 780px" data-srcset="https://www.foreground.com.au/app/uploads/2022/07/DSC1343-Modifica-780x438.jpg 780w, https://www.foreground.com.au/app/uploads/2022/07/DSC1343-Modifica-390x220.jpg 390w" /></div>	</div>
+</div>
+<div class="story-text content content--story">
+	<p><strong>FG.</strong> If there was an Olympics of non-extractive architecture, which country would sit at the top of the medals tally, and why?</p>
+<p><strong>JG.</strong> If those Olympics were to take place today then I suspect Antarctica would win.</p>
+<p>Our ideas and expectations around the built environment are so deeply entangled with the practice of extraction that it&#8217;s going to take quite some time before we can really retool our economies and our industries to become truly non-extractive. I think that really goes back to one of the key points here, that we really need to question the idea that building is the answer to many of our needs. Instead we need to think far more creatively and flexibly about how we can adapt existing environments to our future needs.</p>
+<p>As Cedric Price once famously said, “No one should be interested in building bridges – they should be interested in how to get to the other side”.</p>
+<p>—</p>
+<p><em>Space Caviar is an architecture and research studio operating at the intersection of design, technology, politics and the public realm. Founded by Joseph Grima and Tamar Shafrir, the office uses built work, exhibitions, publishing, writing and film to investigate and document contemporary modes of habitation and the spatialisation of social and political practice. He will be speaking at the <a href="https://www.eventbrite.com.au/e/living-cities-forum-2022-tickets-337740620287">Living Cities Forum</a> on 21 July at Melbourne&#8217;s Federation Square. </em></p>
+</div>
+							<div class="story-tags"><a class="btn btn--tag" href="https://www.foreground.com.au/tag/circular-economy/">circular economy</a><a class="btn btn--tag" href="https://www.foreground.com.au/tag/living-cities/">Living Cities</a><a class="btn btn--tag" href="https://www.foreground.com.au/tag/non-extractive-architecture/">non-extractive architecture</a><a class="btn btn--tag" href="https://www.foreground.com.au/tag/sustainability/">Sustainability</a></div>						</div>
+					</div>
+						<div class="story-related">
+		<div class="row row--noGutters row--md-padBottom-20 u-borderLeftRightMiddleThird">
+			<h2 class="postGrid-title heading4">Related articles</h2>
+							<div class="col-md-4">
+					<div class="postPreview blockLink">
+		<div class="postPreview-image u-ratio u-ratio--preview">
+		<img width="390" height="220" src="https://www.foreground.com.au/app/uploads/2021/10/Penny_4-390x220.jpg" class="lazyload wp-post-image" alt="A tiny spider builds its web in the author&#039;s unmowed yard. Image: Penny Dunstan" srcset="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" sizes="(max-width: 390px) 100vw, 390px" data-srcset="https://www.foreground.com.au/app/uploads/2021/10/Penny_4-390x220.jpg 390w, https://www.foreground.com.au/app/uploads/2021/10/Penny_4-780x438.jpg 780w, https://www.foreground.com.au/app/uploads/2021/10/Penny_4-1024x576.jpg 1024w" />	</div>
+	<div class="postPreview-tag">
+		<a class="tag" href="https://www.foreground.com.au/environment/" style="background-color:">Environment</a>	</div>
+	<h2 class="postPreview-title heading3"><a href="https://www.foreground.com.au/environment/unmowing/" class="blockLink-url">Unmowing</a></h2>
+	<p class="postPreview-meta postMeta info">
+		<span class="postMeta-contributor"><em>by </em><a href="https://www.foreground.com.au/contributors/penny-dunstan/" rel="tag">Penny Dunstan</a></span>—October 12, 2021	</p>
+</div>
+				</div>
+							</div>
+		</div>
+					</div>
+			</div>
+		</div>
+			</main>
+	<footer class="footer">
+		<div class="section footer-links">
+			<div class="container">
+				<div class="navFooter">
+					<div class="navFooter-item">
+						<h4 class="navFooter-item-title">Stay up to date</h4>
+					</div>
+					<div class="navFooter-item">
+						<button class="signupFooter-toggle btnNaked navFooter-item-title" id="signupFooter-toggle" aria-controls="signupFooter" aria-expanded="false"><span>Newsletter</span></button>
+						<div class="signupFooter" id="signupFooter" aria-hidden="true" aria-labelledby="signupFooter-toggle">
+							<form action="https://www.foreground.com.au/wp-json/superbia-signup/v1/subscribe/" method="post" data-sitekey="6LcM7ZMUAAAAAPW2U2Tr1kpruyKlgERtmZ2Dd18o">
+								<label for="signupFooter-email" class="screenReaderText">Email</label>
+								<input type="email" name="email" class="signupFooter-input inputRuled" id="signupFooter-email" placeholder="Your email" required />
+								<div class="formGroup formGroup--checkbox caption">
+									<input type="checkbox" name="consent" id="signupFooter-consent" required />
+									<label for="signupFooter-consent">I consent to the use of my details as outlined in the <a href="https://www.foreground.com.au/privacy-policy/">Privacy Policy</a>.</label>
+								</div>
+								<button class="btnNaked signupFooter-submit" id="signupFooter-submit">Subscribe</button>
+							</form>
+							<button class="btnNaked signupFooter-close" aria-controls="signupFooter" aria-expanded="false"><svg class="svgIcon svgIcon--close" aria-labelledby="title-6924a95d-5d1e-441a-8150-d78f8f385016"><title id="title-6924a95d-5d1e-441a-8150-d78f8f385016">close</title><use xlink:href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/sprite-e8cc671f4a.symbol.svg#close" /></svg></button>
+						</div>
+					</div>
+					<div class="navFooter-item navFooter-item--social">
+						<a class="navFooter-item-title" href="https://twitter.com/foregroundnews" target="_blank" rel="noopener"><span>Twitter</span></a>
+					</div>
+					<div class="navFooter-item navFooter-item--social">
+						<a class="navFooter-item-title" href="https://www.facebook.com/ForegroundNews/" target="_blank" rel="noopener"><span>Facebook</span></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="section footer-branding">
+			<div class="container container--norule">
+				<div class="row row--alignMiddle">
+					<div class="col-sm-4">
+						<a href="https://www.foreground.com.au/">
+							<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/foreground-white-cdd3c14ea6.svg" class="footer-logo lazyload" alt="Foreground" />
+						</a>
+					</div>
+					<div class="col-sm-8">
+						<p class="footer-policyLinks">
+							<a href="https://www.foreground.com.au/privacy-policy/">Privacy policy</a>
+							<a href="https://www.foreground.com.au/cookie-policy/">Cookie policy</a>
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<div class="signupNudge" id="signupNudge" aria-hidden="true">
+		<div class="container">
+			<div class="row">
+				<div class="signupNudge-content">
+					<div class="row signupNudge-header">
+						<div class="col-sm-3">
+							<h2 class="signupNudge-title">Stay up to date</h2>
+						</div>
+						<div class="col-sm-7 signupNudge-intro">
+							<p>News and analysis on cities, places and the people who make them delivered direct to your inbox</p>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-sm-7 col-sm-offset-3">
+							<form action="https://www.foreground.com.au/wp-json/superbia-signup/v1/subscribe/" method="post" data-sitekey="6LcM7ZMUAAAAAPW2U2Tr1kpruyKlgERtmZ2Dd18o">
+								<label for="signupNudge-email" class="screenReaderText">Email</label>
+								<input type="email" name="email" class="signupNudge-email signup-input inputRuled" id="signupNudge-email" placeholder="Your email" required />
+								<div class="formGroup formGroup--checkbox caption">
+									<input type="checkbox" name="consent" id="signupNudge-consent" required />
+									<label for="signupNudge-consent">I consent to the use of my details as outlined in the <a href="https://www.foreground.com.au/privacy-policy/">Privacy Policy</a>.</label>
+								</div>
+								<button class="btnNaked signupNudge-submit">Subscribe</button>
+							</form>
+						</div>
+					</div>
+					<button class="btnNaked signupNudge-close" aria-controls="signupNudge" aria-expanded="false"><svg class="svgIcon svgIcon--close" aria-labelledby="title-f42b7958-7a48-4781-8b46-a0885c34aed9"><title id="title-f42b7958-7a48-4781-8b46-a0885c34aed9">close</title><use xlink:href="https://www.foreground.com.au/app/themes/foreground/assets/dist/images/sprite-e8cc671f4a.symbol.svg#close" /></svg></button>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div style="display: none;" id="nxsFavNotice"><div id="nxsFavNoticeCnt">Posting....</div></div><link rel='stylesheet' id='modal-css'  href='https://www.foreground.com.au/app/plugins/social-networks-auto-poster-facebook-twitter-g/js-css/jquery.modal.min.css?ver=4.3.26' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.foreground.com.au/app/plugins/speedrunner/assets/dist/scripts/lazysizes.min.js?ver=0.7.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_tptn_tracker = {"ajax_url":"https:\/\/www.foreground.com.au\/","top_ten_id":"15623","top_ten_blog_id":"1","activate_counter":"11","top_ten_debug":"0","tptn_rnd":"273278127"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.foreground.com.au/app/plugins/top-10/includes/js/top-10-tracker.min.js?ver=1.0'></script>
+<script type='text/javascript' src='https://www.foreground.com.au/app/themes/foreground/assets/dist/scripts/theme.bundle-7fd6cfee3d.js'></script>
+<script type='text/javascript' async defer src='https://www.google.com/recaptcha/api.js'></script>
+<script type='text/javascript' src='https://www.foreground.com.au/app/plugins/social-networks-auto-poster-facebook-twitter-g/js-css/jquery.modal.min.js?ver=4.3.26'></script>
+</body>
+</html>

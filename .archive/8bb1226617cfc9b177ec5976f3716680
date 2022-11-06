@@ -1,0 +1,1457 @@
+<!DOCTYPE html>
+<html  >
+<head id="head"><title>
+	Lensless camera creates 3D images from single exposure | News Releases  | Optica
+</title><meta name="description" content="Researchers have developed a camera that uses a thin microlens array and new image processing algorithms to capture 3D information about objects in a scene with a single exposure. The camera could be useful for a variety of applications such as industrial part inspection, gesture recognition and collecting data for 3D display systems." /> 
+<meta charset="UTF-8" /> 
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M2ZC33M');</script>
+<!-- End Google Tag Manager -->
+<meta name="google-site-verification" content="O8GQM5c8kWiX8AlBF0x___NvqBslQHkS5fU89l7_lFE" />
+<meta name="google-site-verification" content="7O342y8sdwfisgna77OFVUnjk_I7b_7TPJSF6cY8O5w" />
+<meta name="google-site-verification" content="lFCb00qSSgOFRJPRNVs7uUFxoUJzHBMnDOxBPnuA4qA" />
+<meta name="facebook-domain-verification" content="mfx4ntf75cih86ugui5adb5sb913if" />
+    <script type="application/ld+json">
+    {
+	"@context": "https://schema.org",
+	"@type": "Organization",
+	"name":"Optica",
+	"url": "http://www.optica.org",
+	"logo": "https://www.optica.org/osaorg/media/optica/about/newsroom/logos/Optica_transition_logo_black@2x.png"
+
+	"founder":"Perley G. Nutting",
+	"sameAs": [
+		"https://www.facebook.com/opticaworldwide",
+		"https://www.twitter.com/opticaworldwide/",
+		"https://www.linkedin.com/company/optica-worldwide",
+		"https://www.youtube.com/OpticaWorldwide",
+		"https://www.instagram.com/optica.worldwide/",
+		"https://en.wikipedia.org/wiki/Optica_(society)"
+	]
+    }
+    </script>
+<script type="application/ld+json">
+{
+	"@context": "https://schema.org/",
+	"@type": "WebSite",
+	"name": "Optica",
+	"url": "https://optica.org/",
+	"potentialAction": {
+	"@type": "SearchAction",
+		"target": "https://www.optica.org/search/?searchtext={search_term_string}",
+		"query-input": "required name=search_term_string"
+	}
+}
+</script> 
+<link href="/osaorg/media/optica/brand/icons/favicon.ico" type="image/x-icon" rel="shortcut icon"/>
+<link href="/osaorg/media/optica/brand/icons/favicon.ico" type="image/x-icon" rel="icon"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<meta name="msapplication-TileColor" content="#603cba" />
+<meta name="theme-color" content="#771bc9" />
+<link rel="apple-touch-icon" sizes="180x180" href="/osaorg/media/optica/brand/icons/apple-touch-icon.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="/osaorg/media/optica/brand/icons/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="/osaorg/media/optica/brand/icons/favicon-16x16.png" />
+<link rel="mask-icon" href="/osaorg/media/optica/brand/icons/safari-pinned-tab.svg" color="#5bbad5" />
+<link rel="shortcut icon" href="/osaorg/media/optica/brand/icons/favicon.ico" />
+<link href="https://cdn.materialdesignicons.com/5.3.45/css/materialdesignicons.min.css" rel="stylesheet" />
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-iKbFRxucmOHIcpWdX9NTZ5WETOPm0Goy0WmfyNcl52qSYtc2Buk0NCe6jU1sWWNB" crossorigin="anonymous">
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Archivo:400,400italic,700,700italic:latin' , 'Karla:400,400italic,700,700italic:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
+
+<script type="text/javascript">(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document);
+</script>
+<script src="/osaorg/js/vendor/modernizr-2.6.1-respond-1.1.0.min.js?v=07012013"></script>
+<link rel="stylesheet" href="/osaorg/css/optica/style.min.css?d=2022-10-06T11%3a52%3a00" type="text/css" />
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css" />
+<style>
+[data-toggle="collapse"] .fal:before {  
+  content: "\f067";
+}
+
+[data-toggle="collapse"].collapsed .fal:before {
+  content: "\f068";
+}
+</style><link rel="canonical" href="https://www.optica.org/en-us/about/newsroom/news_releases/2022/september/lensless_camera_creates_3d_images_from_single_expo/">
+
+<link href="/CMSPages/GetResource.ashx?_webparts=677" type="text/css" rel="stylesheet"/>
+<link href="/CMSPages/GetResource.ashx?_webpartlayouts=136;140" type="text/css" rel="stylesheet"/>
+</head>
+<body class="LTR Chrome ENUS ContentBody" >
+     <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M2ZC33M"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <form method="post" action="/en-us/about/newsroom/news_releases/2022/september/lensless_camera_creates_3d_images_from_single_expo/" onsubmit="javascript:return WebForm_OnSubmit();" id="form">
+<div class="aspNetHidden">
+<input type="hidden" name="__CMSCsrfToken" id="__CMSCsrfToken" value="QhfnSay6WBDkRtDYajGtH+Yna9aH6YbV+4dh41HXnlhbi4dFCh7eLTMrT1sRUI+2MWHZ4LvADijzykzR5i4a7LLdqnI=" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="MokkWZiE7J/dTzpXYTwi6uK6fMKebWQv+s1moGuzqyiKCXoc8MFXqnaBwnn2bvVK9cj5aZf1vwHgSIOyAdLx2BSvX9Bf6S/iUgIW8mhvyWXqr3obwf4EyA+pL+wuBonvxc3/tA9Twugnv99TBp+ezOvL65ZcH2d9PjVX3xUoDakZWODNol73DdP/sp1hVMOJWnNw7sNdN60QUX/askpwdYNwVHzdBPFKYIpU9jXTcrgFQFRFSS2zJKQy/p3dLJLAh7OJlimqoX6pYQhxnB/s8keIDnGYgh9xBu5/8H50Enpt7P61g0vytcRSBETe9pHgvKIbgaQ2KFPiTo1Tci3H68R331wIZ+WOmYL1t5suEdYO5P5zcWXekGBaCtiA7mSXQPBRL8I6vVAKI0ltFXnuSRrHzLWwyM0c2Qn8gn19/Hpd1iKqGlxlJczGBKR489pToqaCk3f4GkN+idstZH1s9KaJng1ZnwJd1m7O9lfqnybobYP+7Qx9BJR793n+igeHPzfsejhcZ8Cof9f8evL48xsEGbcqP06Yut7kYfr34uZLpvZnqEuO0hx8qB2fmBw8ZXOkSaIUPstfiCyKJSKjT9ALjk4JhVOhfnVtBu2+xrM35GSu7JklR6lRVw4YNNxiATDpfSNzvc0N3wTlvpnOmt313jqXku3NAy9B/fdDwjrTRHU3b1u+XfBLm7TH0h06VA82eCfbxBI66s5JQv3RpS7OowA5T7A0tjO0tsS0iRbPjJoifXKKLQMSEfua8ytmK01XNzAT8z2WBFM2q3gOc5VYvFEAEL4CLEOjV7Sawks77GBugzQFkIAYbd1JtMDAuel8FaG92r7EY+kcIOudWjwydMw9DjoAkschVLIBFVY6AAhALXIJcLmcG7ApaDLQadUyJ07mR+ovEQIbdq+5+2qfm2XibAMXe0zo4MGSD1H+WwKsYIcpKnuiIOCZnkA+cJB6LAIb2BsKkBB7PhC6fBm5F8iHRtCxY9vrUvpUN1JA6/V5O/1nYEK8zt0wEZ9nGIJzQaCVMT2QKrMSdqF+cZD6GM0iqcDDHswyXU/bMJNmvOsAc9pskbXFCjY6SXwLakmFW9PCZn+iGcX2SKVeeuChRVuHdFmW1rihGD648RGEyjNnZz75WhYDlvVM1wnUWI0LqhgbGTIVFMDK7T9BiFiWTcMpaoL/CdJotNQHaeCkA0lS9PCTe77tO+LkskAyvMIjUFeBlEYUWE8ihCYhUMNVCCc6msZnPKzi66BfYqHLfCcwEpBq/GB7qN2qy/0mwrx2o+MsxTiDCmWcj0CPLc8ecwQvEwfcBPY6EDNhSaZ2BBELHfBkVYQuRXu5k7D5jCvDrjtk7vi77QragPx/v98kpzrm7YrP08nHp6sIqql8KOPslg+j2P6OyY5+JfyDvqM9XnuTszcTmghvUvU9NJO90xuu7KiIjV/Ix4He7eWcWu4IHP4U/mRBx+KJgqNwDfIyFKAhApTeOYcCSDxlqPKCkYB/rZ4se3OHNgYG9EFTKvjNN6lGqI6BSJlLw5HFkEXqpOdSMU0nuvou/k0ahiilj+t5ce9fIeX1RDvUpULPSep7h/hJWhYJ+0PuWnhV4PaZvy1B7lBOHMiUd0jDWbZH1e596neBjs0Sidk0/ZddgiJ1Z62lah8kv5d0ueL1Eu4PxVC3HSNJdpxg0NfZ+xr7c6LoSOM1hqkhOnqhMyu4O05Abt8Ku6mOQ2RBRRgWN4ldHVknEZfUqSDPtz29fU6DTZ31Q06XCQ7asB8eThD3g3rB+2IY8NjpC+jkiKA/g1GJek9h5S36wujpABHVx9tWA0cOOF5mJyLoyQcXkIbkt6eTO/i9g0Dyv/SqKRlM0tI7pctb0DVoO/wDOgichjEvvr095CzAvhudtm1LfRtVwuygHie3DSNDzXQ717EWMe55qkF/PdXis8qH/0fbeER4O3ya4c8pupGk7mzQbB+H41ItqULnem8+mJ6+yeaaUjhUAcquG9gBcs9cjTBO7XWgbXxvhpirhltuq5+rH9DQDKrrDoGDBXWRxHOdJ1NoOBphvuhcfkACXbT4kPCVtShVIBW/OnXVde2fMB8uPOBDIMbZY9AtQGDGajzChXNnUECuIE7SGA2z4uY0QfBd5YwbVzzEQxQuxMwdzSqV3K+EBULT7e6fruixFN9sYbN1Gc1izIpZD5j1A7tCdJFU0OPag9Q2m3gJZ0cjRhJnDuu6QrAotU6BRARnIWcY41Ys96ZXMqavTOg01qqrzQn08BwFQxIXH9u7qIZl7InNKGh33BZoDR8c4nKu8cc3D0hGxNsgMpgkotulJdlT0m7q09F0WytReBs2He22V60BLw+iD2bChv19mntLNI5vNFzCgIoVXt0Z4xtVS+TDC1wTukb6szXlZOrMQHRWF7TB1lYBa/kTHLtsUjrQMEVNIIJGHYmBJeNMNQa0Ok4KXiwvRjj5wIMQbUiFo4QUAV9lo2qMijMKv20LN+kphQw1Qk9CqCyORxcmX1aRq+1p5Q1ZMf8Bhl6Lo6lGSFyt1PqAjacXSBnbqTp4vlCAShy4fcKBeA9mmPUyVY21FYMsfcmnUnhYpWqcNeD7hDuKLzyl0MB3XxbNe1NlNs4wo2rjrqZDtOHRXPON9yew6i7y6/1Lwy/s9iDAhbcSUTd4gbyhzqHPNZJoVnBs+BPZlC86Z4hv3+WwJpJy/Jw1SWrNQkgh2XCspNI=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form'];
+if (!theForm) {
+    theForm = document.form;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZMZ-s-w684bcjNqy6X4bkQjoV1OT-tQJX_DovYIKvcRGZnYyvQ2&amp;t=637814473746327080" type="text/javascript"></script>
+
+<input type="hidden" name="lng" id="lng" value="en-US" />
+<script type="text/javascript">
+	//<![CDATA[
+
+function PM_Postback(param) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); } if(window.CMSContentManager) { CMSContentManager.allowSubmit = true; }; __doPostBack('m$am',param); }
+function PM_Callback(param, callback, ctx) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }if (window.CMSContentManager) { CMSContentManager.storeContentChangedStatus(); };WebForm_DoCallback('m$am',param,callback,ctx,null,true); }
+//]]>
+</script>
+<script src="/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvs0W1Ix2xi-8_qp16oGgDe_3MWqPPNs_CvKU6oStWgIpv1pCvLitK3S7m0SPMltvSNd6q6n88fIx-sn2hmnHZF7hogIEBPp2rkNHyQ-qwqDyJ5YvYUqzdbJlFX6zmAz0LmYe-1I1&amp;t=49337fe8" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OPFoGBsbr_fIaEhBANWRx1-bIG-hKq4IMwusmYR_5caNC6SQg377dovT7BDRgzAvEZzUFZXc_pZNoQdxSrQW3KIBiP4YY8ceQO-p_K7SLDGlqWcJjIIyhHas9MeRJa_VNk9Ooqs1&amp;t=49337fe8" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=eE6V8nDbUVn0gtG6hKNX_LyxWvVloAb9bGJffLPfjJfbVM1--P4c7cOpDGg380zDTYyq-vAZpfDXzxP-Cymcj1_bsQ9X2Xmj9Hdqn5YivEb0o8z30&amp;t=27679117" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=mcAASOSteirJeuV-3by3UWDKa65JhO-XQ_Sye3-31uJjKZDbnZOz0sxKlHlvomtBs4vDisS5_vZQm0yf6ais3EuqxCA1&amp;t=27679117" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=jwf4VSQi7LeShc44FJ-gAfaAuNVZPqN08cYgTOD3mA4v8SBvJwOI4XL2PYQ2rWovgVl_2KAS4LIkCZJeegZAjsDoUHq0C8WgADczjv168WJAPw4K0&amp;t=27679117" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=HEFpVKbnoeQjkjHkFKu3MFriWsCc-Q3tKFqWrLZ5n74yg5mar6lg1fqqpVkkL8CYl0N9nwSxCZ3b_7viSrELL8u2sS-Hnls05UuJFfLWsKea-OXb0&amp;t=27679117" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=X6kQKInQS5YQqruiTh57iHZFrCLi9MzRys-6GrDNFClfF9XzYD3BVdJa8o7UxMHFOFAciqJYEkC0glq2kZj21NM88eUbv1JWbTYmkYB69kev72U_0&amp;t=27679117" type="text/javascript"></script>
+<script type="text/javascript">
+	//<![CDATA[
+
+var CMS = CMS || {};
+CMS.Application = {
+  "language": "en",
+  "imagesUrl": "/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2f",
+  "isDebuggingEnabled": false,
+  "applicationUrl": "/",
+  "isDialog": false,
+  "isRTL": "false"
+};
+
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+null;
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A5343185" />
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0" />
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0" />
+</div>
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tctxM',''], [], [], 90, '');
+//]]>
+</script>
+
+    <div id="ctxM">
+
+</div>
+    
+<a href="#page-content" class="sr-only sr-only-focusable"> Skip to main content </a>
+<!-- Header -->
+    <div class="alert alert-primary maintenance-popup hidden mb-0" role="alert"><div class="container">
+<div class="CookieConsent">
+    <span id="p_lt_zoneSiteNotice_CookieLawConsent_lblText" class="ConsentText"><p>This website uses cookies to deliver some of our products and services as well as for analytics and to provide you a more personalized experience. <a href="/cookienotice">Visit our Cookie Notice</a> to learn more.</p> 
+<p>By continuing to use this site, you agree to our use of cookies. We’ve also updated our <a href="/privacypolicy">Privacy Notice</a>. <a href="/privacypolicy">Visit our Privacy Policy</a> to see what’s new. </p></span>
+    <div id="p_lt_zoneSiteNotice_CookieLawConsent_pnlTrackingConsent" class="TrackingConsent">
+	
+        <div class="ShortText">
+            
+        </div>
+        
+    
+</div>
+    <span class="ConsentButtons">
+        
+        
+        <input type="submit" name="p$lt$zoneSiteNotice$CookieLawConsent$btnAllowAll" value="Allow all cookies" id="p_lt_zoneSiteNotice_CookieLawConsent_btnAllowAll" class="ConsentButton btn btn-default" />
+    </span>
+</div>
+</div></div>
+    <header class="bg-black">
+        <div class="container navbar justify-content-center navbar-dark py-2 py-lg-5">        <a class="navbar-brand mr-lg-auto" href="/">
+          <span class="sr-only">Optica | Formerly OSA</span>
+          <svg viewBox="0 0 266 32" fill="currentColor">
+            <path
+              d="M31.718 15.987A15.951 15.951 0 010 18.433h4.731a11.294 11.294 0 10.062-5.155H.047a15.951 15.951 0 0131.671 2.709zm72.996 15.435h4.869V.553h-4.869v30.87zM54.303.553H38.704v30.87h4.868V5.087h9.86c4.396 0 6.624 1.462 6.624 4.469 0 3.477-3.6 4.343-6.624 4.343h-4.7v4.533h5.699c2.992 0 5.57-.767 7.459-2.22 2.039-1.57 3.117-3.96 3.117-6.656C65.005 4.135 60.704.553 54.303.553zm26.689 30.87h4.866V9.024h-4.866v22.397zM69.824.552h27.204v4.535H69.825V.553zm99.436 0h-4.478l-14.929 30.865h5.252l11.908-24.631 5.647 11.646h-6.12l-2.186 4.535h10.518l4.076 8.45h5.254L169.26.553zm-25.312 18.959a11.291 11.291 0 01-19.22 3.918 11.292 11.292 0 016.398-18.543 11.295 11.295 0 0112.685 7.178h4.871A15.977 15.977 0 00131.123.14a15.977 15.977 0 00-13.903 16.038 15.978 15.978 0 0014.296 15.69 15.976 15.976 0 0017.258-12.356h-4.826zM204.21 0h-.71v31.988h.71V0zm16.142.338h3.995v.767h-3.096v1.892h2.902v.767h-2.902v2.685h-.89l-.009-6.11zm8.777 3.859c0 1.3-.753 2.349-2.129 2.349-1.301 0-2.082-.991-2.082-2.333 0-1.341.774-2.351 2.129-2.351 1.261 0 2.082.93 2.082 2.335zm-3.326 0c0 .958.473 1.634 1.23 1.634s1.211-.645 1.211-1.63c0-.984-.435-1.637-1.23-1.637-.795 0-1.211.634-1.211 1.64v-.007zm4.299-1.014V1.969h.846c.012.12.026.49.026.887a1.552 1.552 0 011.493-.994v.852c-.915.017-1.493.45-1.493 1.6v2.128h-.863l-.009-3.26zm3.074-.06V1.97h.83c.014.13.036.442.033.657a1.384 1.384 0 011.292-.764 1.217 1.217 0 011.221.779 1.528 1.528 0 011.419-.779c.736 0 1.419.44 1.419 1.642V6.45h-.844V3.611c0-.497-.18-1.015-.842-1.015-.663 0-.982.508-.982 1.282v2.571h-.847V3.637c0-.554-.154-1.039-.821-1.039-.667 0-1.003.528-1.003 1.363v2.488h-.854l-.021-3.326zm8.038 1.247c0 .842.428 1.468 1.162 1.468a.97.97 0 001.022-.65h.866c-.173.568-.653 1.358-1.914 1.358-1.42 0-2.006-1.136-2.006-2.29 0-1.344.679-2.394 2.055-2.394 1.46 0 1.943 1.15 1.943 2.129v.371l-3.128.007zm2.255-.587c0-.693-.348-1.256-1.079-1.256s-1.076.52-1.147 1.256h2.226zm1.843-.601V1.97h.847c0 .12.024.49.024.887a1.55 1.55 0 011.493-.994v.852c-.913.017-1.493.45-1.493 1.6v2.128h-.861l-.01-3.26zm3.145 3.269V0h.861v6.451h-.861zm2.58-4.482c.672 2.025 1.071 3.25 1.183 3.697.134-.497.442-1.516 1.135-3.697h.868l-1.587 4.662c-.45 1.306-.79 1.656-1.737 1.656-.167 0-.335-.01-.501-.028v-.745c.119.014.239.021.36.021.546 0 .764-.237 1.007-.927l-1.656-4.64h.928zm-16.311 27.219a9.014 9.014 0 01-12.578 0 8.413 8.413 0 01-2.581-6.15 8.502 8.502 0 012.581-6.186 9.072 9.072 0 0112.578 0 8.567 8.567 0 012.602 6.186 8.437 8.437 0 01-2.602 6.15zm-1.999-10.579a5.89 5.89 0 00-4.28-1.812 5.987 5.987 0 00-4.3 1.812 6.386 6.386 0 000 8.812 5.976 5.976 0 008.58 0 6.316 6.316 0 000-8.812zm7.674 8.371c.395 1.488 1.51 2.278 3.208 2.278 1.628 0 2.628-.974 2.628-2.462 0-1.628-1.232-2.023-2.954-2.86-2.953-1.443-4.58-2.558-4.58-5.07 0-2.673 1.977-4.556 4.998-4.556 2.465 0 4.161 1 4.791 2.744l-2.129 1.093c-.651-1.024-1.42-1.511-2.463-1.511-1.464 0-2.366.837-2.366 2.09 0 1.605 1.304 2.094 3.163 2.953 2.929 1.35 4.301 2.536 4.301 4.93 0 3.092-2.07 5.138-5.51 5.138-2.838 0-4.695-1.348-5.254-3.766l2.167-1zm17.305-7.756l-5.231 12.207h-2.838l8.043-17.27 8.043 17.27h-2.86l-5.157-12.207z"
+            />
+            <path d="M260.568 26.787l-4.715-2.261-.142 4.175 4.857-1.914z" />
+          </svg>
+        </a><div style=" height: 94px;"><div class="d-none d-lg-flex"><div id="searchForm" class="collapse"><div id="p_lt_zoneHeader_WebPartZone_WebPartZone_zone_WebPartZone3_WebPartZone3_zone_MainSearch_pnlSearch" class="d-inline-block mr-1" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;p_lt_zoneHeader_WebPartZone_WebPartZone_zone_WebPartZone3_WebPartZone3_zone_MainSearch_btnSearch&#39;)">
+	
+    
+    <input type="hidden" name="p$lt$zoneHeader$WebPartZone$WebPartZone_zone$WebPartZone3$WebPartZone3_zone$MainSearch$txtWord_exWatermark_ClientState" id="p_lt_zoneHeader_WebPartZone_WebPartZone_zone_WebPartZone3_WebPartZone3_zone_MainSearch_txtWord_exWatermark_ClientState" /><input name="p$lt$zoneHeader$WebPartZone$WebPartZone_zone$WebPartZone3$WebPartZone3_zone$MainSearch$txtWord" type="text" maxlength="1000" id="p_lt_zoneHeader_WebPartZone_WebPartZone_zone_WebPartZone3_WebPartZone3_zone_MainSearch_txtWord" class="navbar-search form-control rounded-0 border-0 shadow-none" />
+    <input type="submit" name="p$lt$zoneHeader$WebPartZone$WebPartZone_zone$WebPartZone3$WebPartZone3_zone$MainSearch$btnSearch" value="Search" id="p_lt_zoneHeader_WebPartZone_WebPartZone_zone_WebPartZone3_WebPartZone3_zone_MainSearch_btnSearch" class="d-none btn btn-default" />
+    
+    <div id="p_lt_zoneHeader_WebPartZone_WebPartZone_zone_WebPartZone3_WebPartZone3_zone_MainSearch_pnlPredictiveResultsHolder" class="predictiveSearchHolder">
+
+	</div>
+
+</div>
+</div>
+<button
+  class="btn btn-icon rounded-circle align-self-center mr-1"
+  type="button"
+  data-toggle="collapse"
+  data-target="#searchForm"
+  aria-expanded="false"
+  aria-controls="searchForm">
+  <span class="sr-only">Search</span>
+  <i class="mdi mdi-magnify h5" aria-hidden="true"></i>
+</button><a class="btn btn-primary mr-1" href="/membership/join/" target="_blank">Join Optica</a>
+<a class="btn btn-outline-primary mr-1" href="/account/login/?returnUrl=%2fen-us%2fabout%2fnewsroom%2fnews_releases%2f2022%2fseptember%2flensless_camera_creates_3d_images_from_single_expo%2f">Log In</a><div class="dropdown d-inline-block"><button aria-expanded="false" aria-haspopup="true" class="btn btn-icon rounded-circle align-self-center" data-toggle="dropdown" id="sitesMenuButton"><span class="sr-only">Other Optica Sites</span> <svg fill="currentColor" height="24" width="24"> <path d="M4 6a2 2 0 104 0 2 2 0 00-4 0zm6 12a2 2 0 104 0 2 2 0 00-4 0zm-4 2a2 2 0 110-4 2 2 0 010 4zm-2-8a2 2 0 104 0 2 2 0 00-4 0zm8 2a2 2 0 110-4 2 2 0 010 4zm6-10a2 2 0 100 4 2 2 0 000-4zm-6 4a2 2 0 110-4 2 2 0 010 4zm4 4a2 2 0 104 0 2 2 0 00-4 0zm2 8a2 2 0 110-4 2 2 0 010 4z"></path> </svg></button>
+
+<div aria-labelledby="sitesMenuButton" class="bg-black border-gray-200 dropdown-menu dropdown-menu-right mt-1 p-0"><b class="d-block text-white text-uppercase text-center my-1">Other Optica Sites</b>
+
+<ul class="app-menu list-unstyled row row-cols-3 justify-content-center">
+	<li class="col embed-responsive embed-responsive-1by1"><a class="dropdown-item" href="https://opg.optica.org">Optica Publishing Group </a></li>
+	<li class="col embed-responsive embed-responsive-1by1"><a class="dropdown-item" href="https://opticastore.org">Optica Store</a></li>
+	<li class="col embed-responsive embed-responsive-1by1"><a class="dropdown-item" href="https://prism.optica.org">Prism </a></li>
+	<li class="col embed-responsive embed-responsive-1by1"><a class="dropdown-item" href="https://www.optica-opn.org">OPN</a></li>
+	<li class="col embed-responsive embed-responsive-1by1"><a class="dropdown-item" href="https://awards.optica.org">BEAM </a></li>
+	<li class="col embed-responsive embed-responsive-1by1"><a class="dropdown-item" href="https://www.frontiersinoptics.com">FIO+LS </a></li>
+	<li class="col embed-responsive embed-responsive-1by1"><a class="dropdown-item" href="https://www.cleoconference.org">CLEO </a></li>
+	<li class="col embed-responsive embed-responsive-1by1"><a class="dropdown-item" href="https://www.ofcconference.org">OFC </a></li>
+	<li class="col embed-responsive embed-responsive-1by1"><a class="dropdown-item" href="https://www.optics4kids.org">Optics 4 Kids </a></li>
+	<li class="col embed-responsive embed-responsive-1by1"><a class="dropdown-item" href="https://jobs.workinoptics.com/">Work in Optics </a></li>
+	<li class="col embed-responsive embed-responsive-1by1"><a class="dropdown-item" href="/history">Living History </a></li>
+	<li class="col embed-responsive embed-responsive-1by1"><a class="dropdown-item" href="https://www.gemminitiative.org">GEMM Initiative</a></li>
+	<li class="col embed-responsive embed-responsive-1by1"><a class="dropdown-item" href="https://www.lightourfuture.org">NPI</a></li>
+</ul>
+</div>
+</div>
+</div></div></div>      <div class="border-top border-dark d-none d-lg-block">
+        <nav class="container navbar navbar-expand-lg navbar-dark p-0 z-100">
+
+<ul class="navbar-nav d-flex justify-content-between flex-fill">
+
+<li class="nav-item">  
+  <a class="nav-link" href="/Publications">Publications</a>
+    <div class="nav-menu">
+      <div class="row">
+      
+      
+      
+          
+       
+        
+        
+               
+        
+        <a class="col btn btn-outline-primary nav-cta mx-1" href="https://prism.optica.org/">
+  Submit a paper to Optica Publishing Group's world-class journals.
+  <span class="mt-1 d-block text-uppercase">Submit a Paper ></span>
+</a><a class="col btn btn-outline-primary nav-cta mx-1" href="https://opg.optica.org/submit/review/open-access-policy-statement.cfm?source=authorhomeguide">
+  Learn more about our Open Access options.
+  <span class="mt-1 d-block text-uppercase">Open Access Overview ></span>
+</a><a class="col btn btn-outline-primary nav-cta mx-1" href="https://opg.optica.org/library/">
+  Discover how to provide access to our content at your institution.
+  <span class="mt-1 d-block text-uppercase">Library Subscriptions ></span>
+</a>
+      </div>
+    </div>
+</li>        
+
+<li class="nav-item">  
+  <a class="nav-link" href="/events">Events</a>
+    <div class="nav-menu">
+      <div class="row">
+      
+      
+        
+          <ul class="col list-unstyled mx-1">
+            <li><a class="d-inline-block pb-1" href="/meetings#EventSearch">Event Calendar</a></li>
+            <li><a class="d-inline-block pb-1" href="/meetings/meeting_opportunities/">Exhibits &amp; Sponsorships</a></li>
+            <li><a class="d-inline-block pb-1" href="/meetings/meeting_opportunities/">Services</a></li>
+           <li><a class="d-inline-block pb-1" href="/meetings/osa_meeting_archives/">Archives</a></li>  
+          </ul>        
+      
+      
+          
+       
+        
+        
+               
+        
+        <a class="col btn btn-outline-primary nav-cta mx-1" href="/en-us/meetings/focus/">
+  Keep current with events and meetings information.
+  <span class="mt-1 d-block text-uppercase">Sign up for email notifications ></span>
+</a><a class="col btn btn-outline-primary nav-cta mx-1" href="/en-us/meetings/meeting_opportunities/request_an_endorsement/">
+  We recognize meetings that enhance the optics and photonics community.
+  <span class="mt-1 d-block text-uppercase">Request an endorsement ></span>
+</a>
+      </div>
+    </div>
+</li>        
+
+<li class="nav-item">  
+  <a class="nav-link" href="/Membership">Membership</a>
+    <div class="nav-menu">
+      <div class="row">
+      
+      
+      
+        
+          <ul class="col list-unstyled mx-1">
+            <li><a class="d-inline-block pb-1" href="/membership/join/">Join Optica</a></li>
+            <li><a class="d-inline-block pb-1" href="/membership/benefits_and_services/">Benefits & Services</a></li>
+            <li><a class="d-inline-block pb-1" href="/membership/member_programs/">Member Programs</a></li>
+            <li><a class="d-inline-block pb-1" href="/membership/member_resources/">Member Resources</a></li>
+            <li><a class="d-inline-block pb-0" href="/membership/distinguished_honorary/">Distinguished & Honorary</a></li>
+          </ul>
+      
+          
+       
+        
+        
+               
+        
+        <a class="col btn btn-outline-primary nav-cta mx-1" href="/en-us/membership/join/">
+  Connect with an unparalleled global network of leading optics and photonics professionals.
+  <span class="mt-1 d-block text-uppercase">Join Optica ></span>
+</a><a class="col btn btn-outline-primary nav-cta mx-1" href="/en-us/membership/benefits_and_services/">
+  Exclusive access to an industry network, cutting-edge information and valuable resources to enhance your career and grow your business.
+  <span class="mt-1 d-block text-uppercase">Benefits & Services ></span>
+</a>
+      </div>
+    </div>
+</li>        
+
+<li class="nav-item">  
+  <a class="nav-link" href="/industry">Industry</a>
+    <div class="nav-menu">
+      <div class="row">
+      
+      
+      
+      
+        
+          <ul class="col list-unstyled mx-1">
+            <li><a class="d-inline-block pb-1" href="/industry/corporate_membership/">Corporate Membership</a></li>
+            <li><a class="d-inline-block pb-1" href="/industry/industry_intelligence/">Industry Intelligence</a></li>
+          </ul>
+          <ul class="col list-unstyled mx-1">
+            <li><a class="d-inline-block pb-1" href="/industry/events_programs/">Industry Events</a></li>
+            <li><a class="d-inline-block pb-1" href="/industry/exhibitions/">Promotional Opportunities</a></li>
+          </ul>
+          
+       
+        
+        
+               
+        
+        <a class="col btn btn-outline-primary nav-cta mx-1" href="/en-us/industry/industry_intelligence/">
+  Make better business decisions with trusted industry intelligence from Optica.
+  <span class="mt-1 d-block text-uppercase">Industry Intelligence ></span>
+</a><a class="col btn btn-outline-primary nav-cta mx-1" href="/en-us/industry/events_programs/">
+  Grow your business network at an Optica industry event.
+  <span class="mt-1 d-block text-uppercase">Industry Events ></span>
+</a>
+      </div>
+    </div>
+</li>        
+
+<li class="nav-item">  
+  <a class="nav-link" href="/careers">Careers</a>
+    <div class="nav-menu">
+      <div class="row">
+      
+      
+      
+          
+       
+        
+        
+      
+        
+          <ul class="col list-unstyled mx-1">
+            <li><a class="d-inline-block pb-1" href="/careers/explore_careers/">Explore Careers</a></li>
+            <li><a class="d-inline-block pb-1" href="/careers/for_employers/">For Employers</a></li>
+            <li><a class="d-inline-block pb-1" href="/careers/professional_development/">Professional Development</a></li>
+          </ul>
+               
+        
+        <a class="col btn btn-outline-primary nav-cta mx-1" href="/en-us/careers/for_employers/">
+  Submit your job listing to Work in Optics
+  <span class="mt-1 d-block text-uppercase">Add a job listing ></span>
+</a><a class="col btn btn-outline-primary nav-cta mx-1" href="/en-us/careers/professional_development/webinar_series/">
+  Career Webinars 
+  <span class="mt-1 d-block text-uppercase">Career Programming ></span>
+</a>
+      </div>
+    </div>
+</li>        
+
+<li class="nav-item">  
+  <a class="nav-link" href="/Foundation">Foundation</a>
+    <div class="nav-menu">
+      <div class="row">
+      
+      
+      
+          
+      
+        
+         <ul class="col list-unstyled mx-1">
+            <li><a class="d-inline-block pb-1" href="/foundation/donate/">Donate</a></li>
+            <li><a class="d-inline-block pb-1" href="/foundation/opportunities/">Opportunities</a></li>
+            <li><a class="d-inline-block pb-1" href="/foundation/nextgen_institute/">NextGen Institute</a></li>
+            <li><a class="d-inline-block pb-1" href="/foundation/about-osaf/">About</a></li>       
+        </ul>
+          <!--ul class="col list-unstyled mx-1">
+            <li><a class="d-inline-block pb-1" href="/foundation/opportunities/">Opportunities</a></li>
+            <li><a class="d-inline-block pb-1" href="/foundation/annual_program_grants/">Annual Fund</a></li>
+            <!--li><a class="d-inline-block pb-1" href="/foundation/tributes/">Tributes</a></li-->
+          </ul-->
+       
+        
+        
+               
+        
+        <a class="col btn btn-outline-primary nav-cta mx-1" href="https://account.osa.org/eweb/DynamicPage.aspx?site=osac&webcode=donate">
+  Support and recognize the next generation of optics and photonics
+  <span class="mt-1 d-block text-uppercase">Donate ></span>
+</a><a class="col btn btn-outline-primary nav-cta mx-1" href="/en-us/foundation/about-osaf/highlights/">
+  Read our annual report and highlights from 2020
+  <span class="mt-1 d-block text-uppercase">Explore our impact ></span>
+</a>
+      </div>
+    </div>
+</li>        
+
+<li class="nav-item">  
+  <a class="nav-link" href="/get_involved">Get Involved</a>
+    <div class="nav-menu">
+      <div class="row">
+      
+      
+      
+          
+       
+
+        
+          <ul class="col list-unstyled mx-1">
+            <li><a class="d-inline-block pb-1" href="/get_involved/awards_and_honors/">Awards & Honors</a></li>
+            <li><a class="d-inline-block pb-1" href="/get_involved/diversity_inclusion/">Diversity, Equity and Inclusion</a></li>
+            <li><a class="d-inline-block pb-1" href="/get_involved/earlycareer/">Early Career</a></li>
+            <li><a class="d-inline-block pb-1" href="/get_involved/education_outreach/">Education Outreach</a></li>
+            <li><a class="d-inline-block pb-1" href="/get_involved/public_policy/">Global Policy & Affairs</a></li>
+          </ul>      
+          <ul class="col list-unstyled mx-1">
+            <li><a class="d-inline-block pb-1" href="/get_involved/local_section/">Local Sections</a></li>
+            <li><a class="d-inline-block pb-1" href="/get_involved/students/">Students</a></li>
+            <li><a class="d-inline-block pb-1" href="/get_involved/technical_groups/">Technical Groups</a></li>    
+             <li><a class="d-inline-block pb-1" href="/get_involved/volunteer/">Volunteer </a></li>
+          </ul>
+
+              
+        
+               
+        
+        <a class="col btn btn-outline-primary nav-cta mx-1" href="/get_involved/technical_groups/">
+  Expand your network and discover tailored events and activities
+  <span class="mt-1 d-block text-uppercase">Join a Technical Group ></span>
+</a><a class="col btn btn-outline-primary nav-cta mx-1" href="/en-us/get_involved/awards_and_honors/">
+  Several of Optica's awards and honors are accepting nominations. Learn more.
+  <span class="mt-1 d-block text-uppercase">Nominate a colleague ></span>
+</a>
+      </div>
+    </div>
+</li>        
+
+<li class="nav-item">  
+  <a class="nav-link" href="/About">About</a>
+    <div class="nav-menu">
+      <div class="row">
+      
+      
+      
+          
+       
+        
+      
+        
+          <ul class="col list-unstyled mx-1">
+            <li><a class="d-inline-block pb-1" href="/about/optica_community/">Optica Community</a></li>
+            <li><a class="d-inline-block pb-1" href="/about/about_our_brand/">About Our Brand</a></li>
+            <li><a class="d-inline-block pb-1" href="/about_osa/strategy">Strategy</a></li>
+            <li><a class="d-inline-block pb-1" href="/about_osa/leadership_and_volunteers/">Leadership and Volunteers</a></li>
+          </ul>
+          <ul class="col list-unstyled mx-1">
+            <li><a class="d-inline-block pb-1" href="/about_osa/newsroom/">Newsroom</a></li>
+           <!--<li><a class="d-inline-block pb-1" href="/about_osa/about_optics/"></a></li>-->
+            <li><a class="d-inline-block pb-1" href="/history/">Living History</a></li>
+            <li><a class="d-inline-block pb-1" href="/about_osa/jobs_at_osa/">Work at Optica</a></li>
+          </ul>
+          <ul class="col list-unstyled mx-1">
+            <li><a class="d-inline-block pb-1" href="/media_library/">Video Library</a></li>
+            <li><a class="d-inline-block pb-1" href="/about_osa/contact_osa/">Contact Us</a></li>
+            <li><a class="d-inline-block pb-1" href="/about/policies/">Policies</a></li>
+          </ul>
+        
+               
+        
+        
+      </div>
+    </div>
+</li>        
+
+</ul>
+
+        </nav>
+      </div><!-- Mobile Navigation Bar -->
+<div class="navbar navbar-mobile navbar-dark bg-black w-100 d-lg-none px-1 py-2">
+  <button
+  class="btn btn-icon rounded-circle"
+  data-toggle="modal"
+  data-dismiss="modal"
+  data-target="#mobileSitesMenu"
+  type="button"
+  >
+    <span class="sr-only">Other Optica Sites</span>
+    <svg width="24" height="24" fill="currentColor">
+      <path
+      d="M4 6a2 2 0 104 0 2 2 0 00-4 0zm6 12a2 2 0 104 0 2 2 0 00-4 0zm-4 2a2 2 0 110-4 2 2 0 010 4zm-2-8a2 2 0 104 0 2 2 0 00-4 0zm8 2a2 2 0 110-4 2 2 0 010 4zm6-10a2 2 0 100 4 2 2 0 000-4zm-6 4a2 2 0 110-4 2 2 0 010 4zm4 4a2 2 0 104 0 2 2 0 00-4 0zm2 8a2 2 0 110-4 2 2 0 010 4z"
+      />
+    </svg>
+  </button>
+  <button
+  class="btn btn-icon rounded-circle"
+  data-toggle="modal"
+  data-dismiss="modal"
+  data-target="#mobileSearchMenu"
+  type="button"
+  >
+    <span class="sr-only">Search</span>
+    <i class="mdi mdi-magnify h5" aria-hidden="true"></i>
+  </button>
+  <button
+  class="btn btn-icon rounded-circle"
+  data-toggle="modal"
+  data-dismiss="modal"
+  data-target="#mobileNavMenu"
+  type="button"
+  >
+    <span class="sr-only">Menu</span>
+    <i class="mdi mdi-menu h5" aria-hidden="true"></i>
+  </button>
+</div>
+<!-- Mobile Navigation Bar --><!-- Mobile Sites Menu -->
+<div
+	class="modal bg-black d-lg-none fade"
+	id="mobileSitesMenu"
+	data-keyboard="false"
+	data-backdrop="false"
+	tabindex="-1"
+	role="dialog"
+	aria-labelledby="mobileSitesMenuLabel"
+	aria-hidden="true"
+>
+	<div class="modal-dialog mw-100 m-0">
+		<div class="modal-header text-uppercase justify-content-center">
+			<b class="modal-title" id="mobileSitesMenuLabel">Other Optica Sites</b>
+		</div>
+		<div class="modal-content bg-transparent">
+			<div class="modal-body px-1 py-0 pb-4">
+				<ul class="app-menu list-unstyled row row-cols-3 justify-content-center">
+					<li class="col embed-responsive embed-responsive-1by1">
+						<a class="dropdown-item" href="https://opg.optica.org">
+							Optica Publishing Group
+							<i class="mdi mdi-call-made" aria-hidden="true"></i>
+						</a>
+					</li>
+					<li class="col embed-responsive embed-responsive-1by1">
+						<a class="dropdown-item" href="https://prism.optica.org">
+							PRISM
+							<i class="mdi mdi-call-made" aria-hidden="true"></i>
+						</a>
+					</li>
+					<li class="col embed-responsive embed-responsive-1by1">
+						<a class="dropdown-item" href="https://awards.optica.org">
+							BEAM
+							<i class="mdi mdi-call-made" aria-hidden="true"></i>
+						</a>
+					</li>
+					<li class="col embed-responsive embed-responsive-1by1">
+						<a class="dropdown-item" href="https://www.frontiersinoptics.com">
+							FIO+LS
+							<i class="mdi mdi-call-made" aria-hidden="true"></i>
+						</a>
+					</li>
+					<li class="col embed-responsive embed-responsive-1by1">
+						<a class="dropdown-item" href="https://www.cleoconference.org">
+							CLEO
+							<i class="mdi mdi-call-made" aria-hidden="true"></i>
+						</a>
+					</li>
+					<li class="col embed-responsive embed-responsive-1by1">
+						<a class="dropdown-item" href="https://www.ofcconference.org">
+							OFC
+							<i class="mdi mdi-call-made" aria-hidden="true"></i>
+						</a>
+					</li>
+					<li class="col embed-responsive embed-responsive-1by1">
+						<a class="dropdown-item" href="https://www.optics4kids.org">
+							Optics 4 Kids
+							<i class="mdi mdi-call-made" aria-hidden="true"></i>
+						</a>
+					</li>
+					<!--li class="col embed-responsive embed-responsive-1by1">
+						<a class="dropdown-item" href="https://www.opticseducation.org">
+							Optics Education
+							<i class="mdi mdi-call-made" aria-hidden="true"></i>
+						</a>
+					</li-->
+					<li class="col embed-responsive embed-responsive-1by1">
+						<a class="dropdown-item" href="https://www.optica.org/history">
+							Living History
+							<i class="mdi mdi-call-made" aria-hidden="true"></i>
+						</a>
+					</li>
+					<li class="col embed-responsive embed-responsive-1by1">
+						<a class="dropdown-item" href="https://www.gemminitiative.org">
+							GEMM
+							<i class="mdi mdi-call-made" aria-hidden="true"></i>
+						</a>
+					</li>
+					<li class="col embed-responsive embed-responsive-1by1">
+						<a class="dropdown-item" href="https://www.lightourfuture.org">
+							NPI
+							<i class="mdi mdi-call-made" aria-hidden="true"></i>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Mobile Sites Menu -->
+  <div class="modal bg-black d-lg-none fade"id="mobileSearchMenu" data-keyboard="false" data-backdrop="false" tabindex="-1" role="dialog" aria-hidden="true">
+  	<div class="modal-dialog mw-100 h-100 m-0">
+      <div class="modal-content bg-transparent h-100">
+        <div class="modal-body d-flex align-items-center justify-content-center px-2 py-0">
+          <div id="p_lt_zoneHeader_MobileNav_MobileNav_zone_SmartSearchBox_pnlSearch" class="w-100" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;p_lt_zoneHeader_MobileNav_MobileNav_zone_SmartSearchBox_btnSearch&#39;)">
+	
+            <!--<label for="p_lt_zoneHeader_MobileNav_MobileNav_zone_SmartSearchBox_txtWord" id="p_lt_zoneHeader_MobileNav_MobileNav_zone_SmartSearchBox_lblSearch">Search for:</label> -->
+            <input type="hidden" name="p$lt$zoneHeader$MobileNav$MobileNav_zone$SmartSearchBox$txtWord_exWatermark_ClientState" id="p_lt_zoneHeader_MobileNav_MobileNav_zone_SmartSearchBox_txtWord_exWatermark_ClientState" /><input name="p$lt$zoneHeader$MobileNav$MobileNav_zone$SmartSearchBox$txtWord" type="text" maxlength="1000" id="p_lt_zoneHeader_MobileNav_MobileNav_zone_SmartSearchBox_txtWord" class="form-control-lg mb-1 bg-transparent border-top-0 border-right-0 border-left-0 rounded-0 shadow-none text-white px-0 form-control" />
+            <input type="submit" name="p$lt$zoneHeader$MobileNav$MobileNav_zone$SmartSearchBox$btnSearch" value="Search" id="p_lt_zoneHeader_MobileNav_MobileNav_zone_SmartSearchBox_btnSearch" class="col btn btn-primary p-1 btn-default" />
+            
+            <div id="p_lt_zoneHeader_MobileNav_MobileNav_zone_SmartSearchBox_pnlPredictiveResultsHolder" class="predictiveSearchHolder">
+
+	</div>
+          
+</div>
+        </div>
+      </div>
+  </div>
+      </div>
+      
+      <!-- Mobile Navigation Menu -->
+<div
+	class="modal bg-black d-lg-none fade"
+	id="mobileNavMenu"
+	data-keyboard="false"
+	data-backdrop="false"
+	tabindex="-1"
+	role="dialog"
+	aria-labelledby="mobileNavMenuLabel"
+	aria-hidden="true"
+>
+	<div class="modal-dialog mw-100 m-0">
+		<div class="modal-header text-uppercase justify-content-center">
+			<b class="modal-title" id="mobileNavMenuLabel">Menu</b>
+		</div>
+		<div class="modal-content bg-transparent">
+			<div class="modal-body px-1 py-0 pb-4">
+				<div class="navbar accordion p-0" id="mobileNavMenuAccordion">
+					<ul class="navbar-nav d-flex text-left justify-content-between flex-fill">
+						<li class="nav-item border-gray-700 border-bottom">
+							<div class="d-flex justify-content-between align-items-center">
+								<a class="nav-link" href="/pubs">Publications</a>
+							</div>
+						</li>
+						<li class="nav-item border-gray-700 border-bottom">
+							<div class="d-flex justify-content-between align-items-center">
+								<a class="nav-link" href="/meetings">Events</a>
+								<button
+									class="btn btn-link p-1"
+									type="button"
+									data-toggle="collapse"
+									data-target="#mobileNavMenuEvents"
+									aria-expanded="false"
+									aria-controls="mobileNavMenuEvents"
+								>
+									<i class="mdi mdi-chevron-right h5 m-0" aria-hidden="true"></i>
+								</button>
+							</div>
+							<div id="mobileNavMenuEvents" class="collapse">
+								<ul class="list-unstyled text-left mx-1 pb-2">
+                                   <li><a class="d-inline-block pb-1" href="/meetings/">Event Search</a></li>
+									<li><a class="d-inline-block pb-1" href="/meetings/meeting_opportunities/">Event Services</a></li>
+                                    <li><a class="d-inline-block pb-1" href="/meetings/osa_meeting_archives/">Archives</a></li>
+								</ul>
+							</div>
+						</li>
+						<li class="nav-item border-gray-700 border-bottom">
+							<div class="d-flex justify-content-between align-items-center">
+								<a class="nav-link" href="/membership">Membership</a>
+								<button
+									class="btn btn-link p-1"
+									type="button"
+									data-toggle="collapse"
+									data-target="#mobileNavMenuMembership"
+									aria-expanded="false"
+									aria-controls="mobileNavMenuMembership"
+								>
+									<i class="mdi mdi-chevron-right h5 m-0" aria-hidden="true"></i>
+								</button>
+							</div>
+							<div id="mobileNavMenuMembership" class="collapse">
+								<ul class="list-unstyled text-left mx-1 pb-2">
+									<li><a class="d-inline-block pb-1" href="/membership/join/">Join Optica</a></li>
+            <li><a class="d-inline-block pb-1" href="/membership/benefits_and_services/">Benefits & Services</a></li>
+            <li><a class="d-inline-block pb-1" href="/membership/member_programs/">Member Programs</a></li>
+            <li><a class="d-inline-block pb-1" href="/membership/member_resources/">Member Resources</a></li>
+            <li><a class="d-inline-block pb-0" href="/membership/distinguished_honorary/">Distinguished & Honorary</a></li>
+								</ul>
+							</div>
+						</li>
+						<li class="nav-item border-gray-700 border-bottom">
+							<div class="d-flex justify-content-between align-items-center">
+								<a class="nav-link" href="/industry">Industry</a>
+								<button
+									class="btn btn-link p-1"
+									type="button"
+									data-toggle="collapse"
+									data-target="#mobileNavMenuIndustry"
+									aria-expanded="false"
+									aria-controls="mobileNavMenuIndustry"
+								>
+									<i class="mdi mdi-chevron-right h5 m-0" aria-hidden="true"></i>
+								</button>
+							</div>
+							<div id="mobileNavMenuIndustry" class="collapse">
+								<ul class="list-unstyled text-left mx-1 pb-2">
+									<li><a class="d-inline-block pb-1" href="/industry/corporate_membership/">Corporate Membership</a></li>
+            <li><a class="d-inline-block pb-1" href="/industry/industry_intelligence/">Industry Intelligence</a></li>
+
+            <li><a class="d-inline-block pb-1" href="/industry/events_programs/">Industry Events</a></li>
+            <li><a class="d-inline-block pb-1" href="/industry/exhibitions/">Promotional Opportunities</a></li>
+                                  </ul>
+							</div>
+						</li>
+						<li class="nav-item border-gray-700 border-bottom">
+							<div class="d-flex justify-content-between align-items-center">
+								<a class="nav-link" href="/careers">Careers</a>
+								<button
+									class="btn btn-link p-1"
+									type="button"
+									data-toggle="collapse"
+									data-target="#mobileNavMenuCareers"
+									aria-expanded="false"
+									aria-controls="mobileNavMenuCareers"
+								>
+									<i class="mdi mdi-chevron-right h5 m-0" aria-hidden="true"></i>
+								</button>
+							</div>
+							<div id="mobileNavMenuCareers" class="collapse">
+								<ul class="list-unstyled text-left mx-1 pb-2">
+									<li><a class="d-inline-block pb-1" href="/careers/explore_careers/">Explore Careers</a></li>
+            <li><a class="d-inline-block pb-1" href="/careers/for_employers/">For Employers</a></li>
+            <li><a class="d-inline-block pb-1" href="/careers/professional_development/">Professional Development</a></li>
+								</ul>
+							</div>
+						</li>
+						<li class="nav-item border-gray-700 border-bottom">
+							<div class="d-flex justify-content-between align-items-center">
+								<a class="nav-link" href="/foundation">Foundation</a>
+								<button
+									class="btn btn-link p-1"
+									type="button"
+									data-toggle="collapse"
+									data-target="#mobileNavMenuFoundation"
+									aria-expanded="false"
+									aria-controls="mobileNavMenuFoundation"
+								>
+									<i class="mdi mdi-chevron-right h5 m-0" aria-hidden="true"></i>
+								</button>
+							</div>
+							<div id="mobileNavMenuFoundation" class="collapse">
+								<ul class="list-unstyled text-left mx-1 pb-2">
+			<li><a class="d-inline-block pb-1" href="/foundation/donate/">Donate</a></li>
+            <li><a class="d-inline-block pb-1" href="/foundation/opportunities/">Opportunities</a></li>
+            <li><a class="d-inline-block pb-1" href="/foundation/nextgen_institute/">NextGen Institute</a></li>
+            <li><a class="d-inline-block pb-1" href="/foundation/about-osaf/">About</a></li>                           
+                                                                           
+								</ul>
+							</div>
+						</li>
+						<li class="nav-item border-gray-700 border-bottom">
+							<div class="d-flex justify-content-between align-items-center">
+								<a class="nav-link" href="/about">About</a>
+								<button
+									class="btn btn-link p-1"
+									type="button"
+									data-toggle="collapse"
+									data-target="#mobileNavMenuAbout"
+									aria-expanded="false"
+									aria-controls="mobileNavMenuAbout"
+								>
+									<i class="mdi mdi-chevron-right h5 m-0" aria-hidden="true"></i>
+								</button>
+							</div>
+							<div id="mobileNavMenuAbout" class="collapse">
+								<ul class="list-unstyled text-left mx-1 pb-2">
+                             <li><a class="d-inline-block pb-1" href="/about/optica_community/">Optica Community</a></li>
+									<li><a class="d-inline-block pb-1" href="/about/about_our_brand/">About Our Brand</a></li>
+            <li><a class="d-inline-block pb-1" href="/about_osa/strategy">Strategy</a></li>
+            <li><a class="d-inline-block pb-1" href="/about_osa/leadership_and_volunteers/">Leadership and Volunteers</a></li>
+            <li><a class="d-inline-block pb-1" href="/about_osa/newsroom/">Newsroom</a></li>
+          
+
+            <li><a class="d-inline-block pb-1" href="/about_osa/about_optics/">What are Optics & Photonics?</a></li>
+            <li><a class="d-inline-block pb-1" href="/history/">Living History</a></li>
+            <li><a class="d-inline-block pb-1" href="/about_osa/jobs_at_osa/">Work at Optica</a></li>
+    
+            <li><a class="d-inline-block pb-1" href="/about_osa/contact_osa/">Contact Us</a></li>
+            <li><a class="d-inline-block pb-1" href="/about/policies/">Policies</a></li>
+								</ul>
+							</div>
+						</li>
+						<li class="nav-item border-gray-700 border-bottom">
+							<div class="d-flex justify-content-between align-items-center">
+								<a class="nav-link" href="/involved">Get Involved</a>
+								<button
+									class="btn btn-link p-1"
+									type="button"
+									data-toggle="collapse"
+									data-target="#mobileNavMenuGetInvolved"
+									aria-expanded="false"
+									aria-controls="mobileNavMenuGetInvolved"
+								>
+									<i class="mdi mdi-chevron-right h5 m-0" aria-hidden="true"></i>
+								</button>
+							</div>
+							<div id="mobileNavMenuGetInvolved" class="collapse">
+								<ul class="list-unstyled text-left mx-1 pb-2">
+									<li><a class="d-inline-block pb-1" href="/get_involved/awards_and_honors/">Awards & Honors</a></li>
+            <li><a class="d-inline-block pb-1" href="/get_involved/diversity_inclusion/">Diversity, Equity and Inclusion</a></li>
+            <li><a class="d-inline-block pb-1" href="/get_involved/earlycareer/">Early Career</a></li>
+            <li><a class="d-inline-block pb-1" href="/get_involved/education_outreach/">Education Outreach</a></li>
+            <li><a class="d-inline-block pb-1" href="/get_involved/public_policy/">Global Policy & Affairs</a></li>
+
+            <li><a class="d-inline-block pb-1" href="/get_involved/local_section/">Local Sections</a></li>
+            <li><a class="d-inline-block pb-1" href="/get_involved/students/">Students</a></li>
+            <li><a class="d-inline-block pb-1" href="/get_involved/technical_groups/">Technical Groups</a></li>    
+             <li><a class="d-inline-block pb-1" href="/get_involved/volunteer/">Volunteer </a></li>
+                                  </ul>
+							</div>
+						</li>
+					</ul>
+				</div>
+				<div class="row mt-2">
+                  
+					<a class="col btn btn-primary p-1 mx-1" href="https://account.optica.org/eweb/dynamicpage.aspx?webcode=member&amp;mbr_src_code=mbr3">Join Optica</a>
+                  
+                  
+					<a class="col btn btn-outline-primary p-1 mx-1" href="/account/login/?returnUrl=%2fen-us%2fabout%2fnewsroom%2fnews_releases%2f2022%2fseptember%2flensless_camera_creates_3d_images_from_single_expo%2f">Log In</a>
+                  
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Mobile Navigation Menu -->
+    </header>
+    <!-- Header -->
+
+    <main role="main">
+        <div class="breadcrumb mb-0"><div class="container"><a href="/home">Home</a>&nbsp;&nbsp;<span class="divider"> /</span>&nbsp;&nbsp;<a href="/en-us/about/" title="About" class="CMSBreadCrumbsLink">About</a> &nbsp;&nbsp;<span class="divider"> / </span>&nbsp;&nbsp; <a href="/en-us/about/newsroom/" title="Newsroom" class="CMSBreadCrumbsLink">Newsroom</a> &nbsp;&nbsp;<span class="divider"> / </span>&nbsp;&nbsp; <a href="/en-us/about/newsroom/news_releases/" title="News Releases" class="CMSBreadCrumbsLink">News Releases</a> 
+</div></div>
+
+
+
+<div class="container">
+  <div class="row py-3">
+    <div class="col-lg-3">
+      <div class="dropdown d-lg-none">
+  <button
+    class="btn btn-outline-primary dropdown-toggle px-1 mb-3 w-100"
+    type="button"
+    id="subNavButton"
+    data-toggle="dropdown"
+    aria-haspopup="true"
+    aria-expanded="false"
+  >
+    Menu
+  </button>
+  <div class="dropdown-menu px-0 py-1 w-100" aria-labelledby="subNavButton">
+  <ul class="nav nav-pills flex-column">    
+<li class="nav-item"><a class="nav-link d-inline-flex mr-0 pr-0 " href="/en-us/about/optica_community/">Optica Community</a>
+
+</li><li class="nav-item"><a class="nav-link d-inline-flex mr-0 pr-0 " href="/en-us/about/about_our_brand/">About Our Brand</a>
+
+<button type="button" data-toggle="collapse" data-target="#item-1" class="d-none d-sm-inline-block btn btn-link " aria-expanded="false" aria-controls="item-2"><i class="fal" aria-hidden="true"></i></button>  
+  <div id="item-1" class="collapse ">
+  <ul class="nav nav-pills flex-column ml-3">
+    <li><a class="nav-item nav-link " href="/en-us/about/about_our_brand/guiding_principles/">Guiding Principles</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/about_our_brand/optica_logos_and_guidelines/">Logos and Use Guidelines</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/about_our_brand/faces_of_optica/">Faces of Optica</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/about_our_brand/frequently_asked_questions/">Frequently Asked Questions</a></li>
+
+
+  </ul>
+  </div>
+  
+</li><li class="nav-item"><a class="nav-link d-inline-flex mr-0 pr-0 " href="/en-us/about/strategy/">Strategy</a>
+
+</li><li class="nav-item"><a class="nav-link d-inline-flex mr-0 pr-0 " href="/en-us/about/leadership_and_volunteers/">Leadership & Volunteers</a>
+
+<button type="button" data-toggle="collapse" data-target="#item-7" class="d-none d-sm-inline-block btn btn-link " aria-expanded="false" aria-controls="item-8"><i class="fal" aria-hidden="true"></i></button>  
+  <div id="item-7" class="collapse ">
+  <ul class="nav nav-pills flex-column ml-3">
+    <li><a class="nav-item nav-link " href="/en-us/about/leadership_and_volunteers/board/">Board of Directors</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/leadership_and_volunteers/volunteer_opportunities/">Volunteer Opportunities</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/leadership_and_volunteers/past_officers/">Past Officers</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/leadership_and_volunteers/councils/">Councils and Committees</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/leadership_and_volunteers/executive_staff/">Executive Staff</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/leadership_and_volunteers/election_for_2023_offices/">Election for 2023 Offices</a></li>
+
+
+  </ul>
+  </div>
+  
+</li><li class="nav-item"><a class="nav-link d-inline-flex mr-0 pr-0 font-weight-bold" href="/en-us/about/newsroom/">Newsroom</a>
+
+<button type="button" data-toggle="collapse" data-target="#item-14" class="d-none d-sm-inline-block btn btn-link collapsed" aria-expanded="false" aria-controls="item-15"><i class="fal" aria-hidden="true"></i></button>  
+  <div id="item-14" class="collapse show">
+  <ul class="nav nav-pills flex-column ml-3">
+    <li><a class="nav-item nav-link font-weight-bold" href="/en-us/about/newsroom/news_releases/">News Releases</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/newsroom/optica_in_the_news/">Optica in the News</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/newsroom/corporate_member_news/">Corporate Member News</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/newsroom/member_news/">Member News</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/newsroom/the_optical_society_blog/">Discover Optica Blog</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/newsroom/obituaries/">Obituaries</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/newsroom/optica_press_kit/">Optica Press Kit</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/newsroom/optica_logos_guidelines/">Logos and Use Guidelines</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/newsroom/media_relations/">Media Relations</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/newsroom/socialmediahub/">Social Media Hub</a></li>
+
+
+  </ul>
+  </div>
+  
+</li><li class="nav-item"><a class="nav-link d-inline-flex mr-0 pr-0 " href="/en-us/about/about_optics/">What are Optics & Photonics?</a>
+
+</li><li class="nav-item"><a class="nav-link d-inline-flex mr-0 pr-0 " href="/en-us/about/history/">Living History</a>
+
+</li><li class="nav-item"><a class="nav-link d-inline-flex mr-0 pr-0 " href="/en-us/about/work_at_optica/">Work at Optica</a>
+
+</li><li class="nav-item"><a class="nav-link d-inline-flex mr-0 pr-0 " href="/en-us/about/contact/">Contact Us</a>
+
+<button type="button" data-toggle="collapse" data-target="#item-28" class="d-none d-sm-inline-block btn btn-link " aria-expanded="false" aria-controls="item-29"><i class="fal" aria-hidden="true"></i></button>  
+  <div id="item-28" class="collapse ">
+  <ul class="nav nav-pills flex-column ml-3">
+    <li><a class="nav-item nav-link " href="/en-us/about/contact/global_headquarters/">Global Headquarters</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/contact/visit/">Visit Optica</a></li>
+
+
+  </ul>
+  </div>
+  
+</li><li class="nav-item"><a class="nav-link d-inline-flex mr-0 pr-0 " href="/en-us/about/policies/">Policies</a>
+
+<button type="button" data-toggle="collapse" data-target="#item-31" class="d-none d-sm-inline-block btn btn-link " aria-expanded="false" aria-controls="item-32"><i class="fal" aria-hidden="true"></i></button>  
+  <div id="item-31" class="collapse ">
+  <ul class="nav nav-pills flex-column ml-3">
+    <li><a class="nav-item nav-link " href="/en-us/about/policies/code_of_conduct/">Code of Conduct</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/policies/event_policies_and_terms/">Event Policies and Terms</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/policies/privacy_policy/">Privacy Policy</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/policies/terms_of_use/">Terms of Use</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/policies/cookie_notice/">Cookie Notice</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/policies/health_and_safety_practices/">Health and Safety Practices</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/policies/registration_waivers_for_emerging_economies/">Registration Waivers for Eme...</a></li>
+
+
+  </ul>
+  </div>
+  
+</li>
+</ul>
+</div>
+</div><div class="d-none d-lg-block">
+  <h6 class="font-weight-bold mb-2">About</h6>
+  <ul class="list-unstyled">
+<li class="nav-item"><a class="nav-link d-inline-flex mr-0 pr-0 " href="/en-us/about/optica_community/">Optica Community</a>
+
+</li><li class="nav-item"><a class="nav-link d-inline-flex mr-0 pr-0 " href="/en-us/about/about_our_brand/">About Our Brand</a>
+
+<button type="button" data-toggle="collapse" data-target="#item-1" class="d-none d-sm-inline-block btn btn-link " aria-expanded="false" aria-controls="item-2"><i class="fal" aria-hidden="true"></i></button>  
+  <div id="item-1" class="collapse ">
+  <ul class="nav nav-pills flex-column ml-3">
+    <li><a class="nav-item nav-link " href="/en-us/about/about_our_brand/guiding_principles/">Guiding Principles</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/about_our_brand/optica_logos_and_guidelines/">Logos and Use Guidelines</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/about_our_brand/faces_of_optica/">Faces of Optica</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/about_our_brand/frequently_asked_questions/">Frequently Asked Questions</a></li>
+
+
+  </ul>
+  </div>
+  
+</li><li class="nav-item"><a class="nav-link d-inline-flex mr-0 pr-0 " href="/en-us/about/strategy/">Strategy</a>
+
+</li><li class="nav-item"><a class="nav-link d-inline-flex mr-0 pr-0 " href="/en-us/about/leadership_and_volunteers/">Leadership & Volunteers</a>
+
+<button type="button" data-toggle="collapse" data-target="#item-7" class="d-none d-sm-inline-block btn btn-link " aria-expanded="false" aria-controls="item-8"><i class="fal" aria-hidden="true"></i></button>  
+  <div id="item-7" class="collapse ">
+  <ul class="nav nav-pills flex-column ml-3">
+    <li><a class="nav-item nav-link " href="/en-us/about/leadership_and_volunteers/board/">Board of Directors</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/leadership_and_volunteers/volunteer_opportunities/">Volunteer Opportunities</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/leadership_and_volunteers/past_officers/">Past Officers</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/leadership_and_volunteers/councils/">Councils and Committees</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/leadership_and_volunteers/executive_staff/">Executive Staff</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/leadership_and_volunteers/election_for_2023_offices/">Election for 2023 Offices</a></li>
+
+
+  </ul>
+  </div>
+  
+</li><li class="nav-item"><a class="nav-link d-inline-flex mr-0 pr-0 font-weight-bold" href="/en-us/about/newsroom/">Newsroom</a>
+
+<button type="button" data-toggle="collapse" data-target="#item-14" class="d-none d-sm-inline-block btn btn-link collapsed" aria-expanded="false" aria-controls="item-15"><i class="fal" aria-hidden="true"></i></button>  
+  <div id="item-14" class="collapse show">
+  <ul class="nav nav-pills flex-column ml-3">
+    <li><a class="nav-item nav-link font-weight-bold" href="/en-us/about/newsroom/news_releases/">News Releases</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/newsroom/optica_in_the_news/">Optica in the News</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/newsroom/corporate_member_news/">Corporate Member News</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/newsroom/member_news/">Member News</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/newsroom/the_optical_society_blog/">Discover Optica Blog</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/newsroom/obituaries/">Obituaries</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/newsroom/optica_press_kit/">Optica Press Kit</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/newsroom/optica_logos_guidelines/">Logos and Use Guidelines</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/newsroom/media_relations/">Media Relations</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/newsroom/socialmediahub/">Social Media Hub</a></li>
+
+
+  </ul>
+  </div>
+  
+</li><li class="nav-item"><a class="nav-link d-inline-flex mr-0 pr-0 " href="/en-us/about/history/">Living History</a>
+
+</li><li class="nav-item"><a class="nav-link d-inline-flex mr-0 pr-0 " href="/en-us/about/work_at_optica/">Work at Optica</a>
+
+</li><li class="nav-item"><a class="nav-link d-inline-flex mr-0 pr-0 " href="/en-us/about/contact/">Contact Us</a>
+
+<button type="button" data-toggle="collapse" data-target="#item-27" class="d-none d-sm-inline-block btn btn-link " aria-expanded="false" aria-controls="item-28"><i class="fal" aria-hidden="true"></i></button>  
+  <div id="item-27" class="collapse ">
+  <ul class="nav nav-pills flex-column ml-3">
+    <li><a class="nav-item nav-link " href="/en-us/about/contact/global_headquarters/">Global Headquarters</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/contact/visit/">Visit Optica</a></li>
+
+
+  </ul>
+  </div>
+  
+</li><li class="nav-item"><a class="nav-link d-inline-flex mr-0 pr-0 " href="/en-us/about/policies/">Policies</a>
+
+<button type="button" data-toggle="collapse" data-target="#item-30" class="d-none d-sm-inline-block btn btn-link " aria-expanded="false" aria-controls="item-31"><i class="fal" aria-hidden="true"></i></button>  
+  <div id="item-30" class="collapse ">
+  <ul class="nav nav-pills flex-column ml-3">
+    <li><a class="nav-item nav-link " href="/en-us/about/policies/code_of_conduct/">Code of Conduct</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/policies/event_policies_and_terms/">Event Policies and Terms</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/policies/privacy_policy/">Privacy Policy</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/policies/terms_of_use/">Terms of Use</a></li>
+
+<li><a class="nav-item nav-link " href="/en-us/about/policies/cookie_notice/">Cookie Notice</a></li>
+
+
+  </ul>
+  </div>
+  
+</li>
+</ul>
+</div>
+    </div>
+    <div class="col-lg-8" id="BodyContent">
+      
+
+
+
+
+
+
+<p>7&nbsp;September 2022</p>
+<h2 class="text-center h4">Lensless camera creates 3D images from single exposure</h2>
+<p class="lead text-center"><small><em>Real-time 3D imaging method could improve robot navigation and content for 3D displays</em></small></p>
+
+
+
+<p><p>WASHINGTON&mdash;Researchers have developed a camera that uses a thin microlens array and new image processing algorithms to capture 3D information about objects in a scene with a single exposure. The camera could be useful for a variety of applications such as industrial part inspection, gesture recognition and collecting data for 3D display systems.</p>
+
+<div class="float-right col-5 ml-1">
+<p><img alt="" class="img-fluid" src="/osaorg/media/optica/about/newsroom/2022/weijian-yang_52299413478_o.jpg" /></p>
+
+<p><small><strong>Caption: </strong>Weijian Yang and Feng Tian developed a camera that uses a thin microlens array and new image processing algorithms to capture 3D information about multiple objects in single exposure. The raw sub-images from the microarray are displayed on the monitor. </small></p>
+
+<p><small><strong>Image Credit:&nbsp;</strong>Savannah Luy, University of California - Davis </small></p>
+</div>
+
+<p>&ldquo;We consider our camera lensless because it replaces the bulk lenses used in conventional cameras with a thin, lightweight microlens array made of flexible polymer,&rdquo; said research team leader Weijian Yang from the University of California, Davis. &ldquo;Because each microlens can observe objects from different viewing angles, it can accomplish complex imaging tasks such as acquiring 3D information from objects partially obscured by objects closer to the camera.&rdquo;</p>
+
+<p>In the Optica Publishing Group journal <a href="https://opg.optica.org/oe/home.cfm"><em>Optics Express</em>,</a> Yang and first author Feng Tian, a doctoral student in Yang&rsquo;s lab, describe the new 3D camera. Because the camera learns from existing data how to digitally reconstruct a 3D scene, it can produce 3D images in real time.</p>
+
+<p>&ldquo;This 3D camera could be used to give robots 3D vision, which could help them navigate 3D space or enable complex tasks such as manipulation of fine objects,&rdquo; said Yang. &ldquo;It could also be used to acquire rich 3D information that could provide content for 3D displays used in gaming, entertainment or many other applications.&rdquo;</p>
+
+<p><strong>A camera that learns</strong></p>
+
+<p>The new camera grew out of previous work in which the researchers developed a compact microscope that can image 3D microscopic structures for biomedical applications. &ldquo;We built the microscope using a microlens array and thought that a similar concept could be applied for imaging macroscopic objects,&rdquo; said Yang.</p>
+
+<p>The individual lenses in the new camera allow it to see objects from different angles or perspectives, which provides depth information. Although other research groups have developed cameras based on single layer microlens arrays, it has been difficult to make them practical because of extensive calibration processes and slow reconstruction speeds.&nbsp;</p>
+
+<p>&ldquo;Many existing neural networks can perform designated tasks, but the underlying mechanism is difficult to explain and understand,&rdquo; said Yang. &ldquo;Our neural network is based on a physical model of image reconstruction. This makes the learning process much easier and results in high quality reconstructions.&rdquo;</p>
+
+<p>Once the learning process is complete, it can reconstruct images containing objects that are at different distances away from the camera at a very high speed. The new camera doesn&rsquo;t need calibration and can be used to map the 3D locations and spatial profiles&mdash;or outlines&mdash;of objects.</p>
+
+<p><strong>Seeing through objects</strong></p>
+
+<div class="float-right col-5 ml-1">
+<p><img alt="" class="img-fluid" src="/osaorg/media/optica/about/newsroom/2022/0818txtps.gif" /></p>
+
+<p><small><strong>Caption: </strong>The single-shot image acquired by the new camera can be refocused and reconstructed to reveal object scenes at different distances. </small></p>
+
+<p><small><strong>Image Credit:&nbsp;</strong>: Feng Tian, University of California &ndash; Davis </small></p>
+</div>
+
+<p>After performing numerical simulations to verify the camera&rsquo;s performance, the researchers performed 2D imaging that showed perceptually pleasing results. They then tested the camera&rsquo;s ability to perform 3D imaging of objects at different depths. The resulting 3D reconstruction could be refocused to different depths or distances. The camera also created a depth map that agreed with the actual object arrangement.</p>
+
+<p>&ldquo;In a final demonstration we showed that our camera could image objects behind the opaque obstacles,&rdquo; said Yang. &ldquo;To the best of our knowledge, this is the first demonstration of imaging objects behind opaque obstacles using a lensless camera.&rdquo;</p>
+
+<p>The researchers are currently working to reduce artifacts, or errors, that appear in the 3D reconstructions and to improve the algorithms to gain even higher quality and speed. They also want to miniaturize the overall device footprint so it could fit into a cellphone, which would make it more portable and enable more applications.</p>
+
+<p>&ldquo;Our lensless 3D camera uses computational imaging, an emerging approach that jointly optimizes imaging hardware and object reconstruction algorithms to achieve desired imaging tasks and quality,&rdquo; said Yang. &ldquo;With the recent development of low-cost, advanced micro-optics manufacturing techniques as well as advancements in machine learning and computational resources, computational imaging will enable many new imaging systems with advanced functionality.&rdquo;&nbsp;</p>
+
+<p><strong>Paper</strong>: F. Tian, W. Yang, &ldquo;Learned lensless 3D camera,&rdquo; <em>Opt. Express</em>, 30, 19, 34479-34496&nbsp;(2022).</p>
+
+<p>DOI: <a href="https://doi.org/10.1364/OE.465933">https://doi.org/10.1364/OE.465933</a></p>
+</p>
+
+
+
+
+
+<p><strong>About Optics Express</strong></p>
+<p>
+  <em>Optics Express</em> reports on scientific and technology innovations in all aspects of optics and photonics. The bi-weekly journal provides rapid publication of original, peer-reviewed papers. It is published by Optica Publishing Group and led by Editor-in-Chief James Leger of the University of Minnesota, USA. Optics Express is an open-access journal and is available at no cost to readers online.  For more information, visit <a href="https://opg.optica.org/oe/home.cfm"><em>Optics Express</em></a>.
+</p>
+ 
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  <p><strong>About Optica Publishing Group (formerly OSA)</strong></p><p><a href="https://opg.optica.org">Optica Publishing Group </a> is a division of the society, <a href="https:/optica.org">Optica</a> (formerly OSA), Advancing Optics and Photonics Worldwide. It publishes the largest collection of peer-reviewed and most-cited content in optics and photonics, including 18 prestigious journals, the society’s flagship member magazine, and papers and videos from more than 835 conferences. With over 400,000 journal articles, conference papers and videos to search, discover and access, our publications portfolio represents the full range of research in the field from around the globe.</p>
+
+
+
+
+
+
+
+
+<p><strong>Media Contact</strong></p>
+<p><a href="mailto:mediarelations@optica.org?Subject= Lensless camera creates 3D images from single exposure">mediarelations@optica.org</a></p>
+
+
+
+
+
+<div class="pull-right"><span class="lead">Share: </span>
+  
+  <a href="https://twitter.com/intent/tweet?text=&via=OpticaWorldwide&url=http%3a%2f%2fwww.optica.org%2fen-us%2fabout%2fnewsroom%2fnews_releases%2f2022%2fseptember%2flensless_camera_creates_3d_images_from_single_expo%2f&related=OpticaWorldwide" target="_blank" aria-label="Share on Twitter"><i class="fab fa-twitter-square fa-3x" aria-hidden="true"></i></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fwww.optica.org%2fen-us%2fabout%2fnewsroom%2fnews_releases%2f2022%2fseptember%2flensless_camera_creates_3d_images_from_single_expo%2f" target="_blank" aria-label="Share on Facebook"><i class="fab fa-facebook-square fa-3x" aria-hidden="true"></i></a> 
+  <a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3a%2f%2fwww.optica.org%2fen-us%2fabout%2fnewsroom%2fnews_releases%2f2022%2fseptember%2flensless_camera_creates_3d_images_from_single_expo%2f&title=&source=Optica" target="_blank" aria-label="Share on LinkedIn"><i class="fab fa-linkedin fa-3x" aria-hidden="true"></i></a> 
+  <a href="http://www.reddit.com/submit?url=http%3a%2f%2fwww.optica.org%2fen-us%2fabout%2fnewsroom%2fnews_releases%2f2022%2fseptember%2flensless_camera_creates_3d_images_from_single_expo%2f" target="_blank" aria-label="Share on Reddit"><i class="fab fa-reddit-square fa-3x" aria-hidden="true"></i></a>
+  
+          </div>
+          
+          <script type="application/ld+json">
+            {
+              "@context": "http://schema.org",
+                "@type": "NewsArticle",
+                  "mainEntityOfPage": {
+                    "@type": "WebPage",
+                      "@id": "https://www.optica.org/press-release#Lensless_camera_creates_3D_images_from_single_expo"
+                        },
+                          "headline": "Lensless camera creates 3D images from single exposure",
+                            "image": "https://www.optica.org/osaorg/media/optica/about/newsroom/2022/OpEx_Lensless_Camera_WebCard.jpg",
+                            
+                            "author": {
+                              "@type": "Organization",
+                                "name": "Optica"
+                                  },
+                                    "datePublished": "2022-09-07T0:00:00-04:00",
+                                      "dateModified": "2022-10-06T11:51:37-04:00",
+                                        "publisher": {
+                                          "@type": "Organization",
+                                            "name": "Optica",
+                                              "logo": {
+                                                "@type": "ImageObject",
+                                                  "url": "https://www.optica.org/osaorg/media/optica/brand/logos/Optica_logo_nodescriptor_black_rgb.png"
+                                                    }
+                                        },
+                                          "description": "Researchers have developed a camera that uses a thin microlens array and new image processing algorithms to capture 3D information about objects in a scene with a single exposure. The camera could be useful for a variety of applications such as industrial part inspection, gesture recognition and collecting data for 3D display systems."
+                                            
+                                            }
+          </script>
+
+
+     
+
+
+
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer bg-black pb-4">
+         <div class="container py-2">
+        <div class="row">
+          <div class="col-md-3 py-1 py-lg-2">
+            <h6 class="small text-uppercase font-weight-bold mb-2">Optica.org</h6>
+            <ul class="small list-unstyled">
+              <li>
+                <a class="d-inline-block pb-1" href="/publications" role="button">Publications</a>
+              </li>
+              <li>
+                <a class="d-inline-block pb-1" href="/meetings" role="button">Events</a>
+              </li>
+              <li>
+                <a class="d-inline-block pb-1" href="/membership" role="button">Membership</a>
+              </li>
+              <li>
+                <a class="d-inline-block pb-1" href="/industry" role="button">Industry</a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-md-3 py-1 py-lg-2">
+            <h6 class="small text-uppercase font-weight-bold mb-2">Information</h6>
+            <ul class="small list-unstyled">
+              <li>
+                <a class="d-inline-block pb-1" href="/help" role="button">Help</a>
+              </li>
+              <li>
+                <a class="d-inline-block pb-1" href="/about/contact_osa/" role="button">Contact Us</a>
+              </li>
+             <li>
+                <a class="d-inline-block pb-1" href="/about/policies/" role="button">Policies & Legal</a>
+              </li>              
+            </ul>
+          </div>
+          <div class="col-md-3 py-1 py-lg-2">
+            <h6 class="small text-uppercase font-weight-bold mb-2">Helpful Links</h6>
+            <ul class="small list-unstyled">
+              <li>
+                <a class="d-inline-block pb-1" href="https://account.osa.org/eweb/dynamicpage.aspx?webcode=member&mbr_src_code=OSAWEBS&utm_source=osaHome&utm_campaign=StudentMembership_SignUpLink&utm_medium=footer&utm_content=footerLink" role="button">Join Optica or Renew</a>
+              </li>
+              <li>
+                <a class="d-inline-block pb-1" href="https://opticastore.org" role="button">Store</a>
+              </li>
+              <!--li>
+                <a class="d-inline-block pb-1" href="#" role="button">Latest Research</a>
+              </li-->
+              <li>
+                <a class="d-inline-block pb-1" href="/meetings" role="button">Find an Event</a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-md-3 py-1 py-lg-2">
+            <h6 class="small text-uppercase font-weight-bold mb-2">About Us</h6>
+            <p class="small">
+              Optica, advancing optics and photonics worldwide.
+            </p>
+
+            <svg class="my-2" viewBox="0 0 255 48" style="max-width: 255px;">
+              <path
+                d="M1.596 44.238l-.653 1.84H0l2.26-6.398h1.176l2.355 6.398H4.784l-.676-1.84H1.596zm2.28-.805c-.58-1.61-.907-2.507-1.05-3.011-.156.562-.52 1.627-.988 3.011h2.037zm6.726-4.116v6.755h-.87a6.299 6.299 0 01-.043-.63c-.23.46-.69.74-1.449.74-1.2 0-1.943-.973-1.943-2.408s.798-2.502 2.102-2.502c.8 0 1.168.317 1.29.57v-2.53l.913.005zm-3.36 4.43c0 1.09.504 1.681 1.22 1.681 1.057 0 1.27-.798 1.27-1.757 0-.996-.197-1.645-1.213-1.645-.798-.004-1.277.633-1.277 1.721zm5.132-2.364c.596 1.853 1.04 3.279 1.173 3.859.118-.57.61-1.976 1.256-3.859h.92l-1.706 4.689h-.982l-1.629-4.689h.968zm7.571 3.629c-.003.354.019.707.064 1.058h-.865a2.396 2.396 0 01-.073-.584c-.166.304-.529.69-1.424.69-1.111 0-1.585-.725-1.585-1.44 0-1.051.831-1.532 2.22-1.532h.775v-.379c0-.398-.129-.867-.955-.867-.736 0-.867.359-.947.718h-.872c.065-.69.488-1.415 1.84-1.41 1.169 0 1.813.476 1.813 1.552l.009 2.194zm-.872-1.196h-.713c-.906 0-1.366.253-1.366.874 0 .46.31.8.867.8 1.069 0 1.212-.722 1.212-1.529v-.145zm2.228-1.25c0-.405 0-.821-.012-1.182h.879c.023.136.036.596.036.736.182-.382.564-.847 1.454-.847s1.564.557 1.564 1.79v3.01h-.904v-2.9c0-.674-.258-1.131-.945-1.131-.821 0-1.169.6-1.169 1.522v2.507h-.903v-3.505zm9.028 2.058c-.193.801-.741 1.56-1.973 1.56-1.323 0-2.114-.946-2.114-2.429 0-1.336.771-2.482 2.174-2.482 1.402 0 1.858.996 1.913 1.587h-.904a.982.982 0 00-1.035-.844c-.784 0-1.228.674-1.228 1.709s.437 1.72 1.203 1.72c.559 0 .881-.303 1.058-.821h.906zm1.007-5.308h.904v1.04h-.904v-1.04zm0 2.07h.904v4.69h-.904v-4.69zm2.254 1.18v-1.182h.878c.023.136.035.596.035.736.182-.382.563-.847 1.453-.847s1.564.557 1.564 1.79v3.01h-.904v-2.9c0-.674-.257-1.131-.945-1.131-.821 0-1.168.6-1.168 1.522v2.507h-.904l-.009-3.505zm9.195 3.055c0 1.504-.607 2.378-2.187 2.378-1.477 0-1.895-.828-1.973-1.444h.92c.128.476.508.738 1.09.738 1.023 0 1.267-.644 1.267-1.693v-.359c-.248.504-.672.792-1.44.792-1.168 0-1.939-.955-1.939-2.3 0-1.518.888-2.463 2.029-2.463.878 0 1.249.411 1.35.706 0-.196.03-.502.039-.596h.856c0 .299-.014.902-.014 1.352l.002 2.889zm-3.323-1.925c0 .954.492 1.587 1.221 1.587.968 0 1.247-.651 1.247-1.645 0-.993-.251-1.61-1.219-1.61-.808-.006-1.249.668-1.249 1.668zm12.769-.855c0 1.762-1.003 3.323-3.029 3.323-1.909 0-2.96-1.456-2.96-3.291s1.09-3.291 3.036-3.291c1.815 0 2.953 1.346 2.953 3.259zm-4.998 0c0 1.357.679 2.53 2.008 2.53 1.438 0 1.999-1.189 1.999-2.514s-.637-2.47-2.001-2.47-2.006 1.115-2.006 2.459v-.005zm7.029 2.686v2.383h-.899v-6.534h.879c.022.235.032.472.03.708a1.586 1.586 0 011.499-.819c1.079 0 1.872.904 1.872 2.335 0 1.672-.903 2.576-2.04 2.576-.759.009-1.145-.295-1.341-.649zm2.445-1.881c0-.968-.432-1.61-1.198-1.61-.92 0-1.286.586-1.286 1.688s.299 1.711 1.226 1.711c.814 0 1.249-.674 1.249-1.789h.009zm1.363-2.261h.794v-1.362h.904v1.362h1.012v.722h-1.012v2.663c0 .437.11.651.526.651a1.81 1.81 0 00.389-.034v.664a2.29 2.29 0 01-.736.088c-.766 0-1.083-.398-1.083-1.187v-2.845h-.794v-.722zm3.539-2.069h.904v1.04h-.904v-1.04zm0 2.07h.904v4.69h-.904v-4.69zm6.017 3.238c-.193.801-.738 1.56-1.971 1.56-1.325 0-2.116-.946-2.116-2.429 0-1.336.771-2.482 2.173-2.482 1.403 0 1.859.996 1.914 1.587h-.892a.989.989 0 00-1.038-.844c-.784 0-1.228.674-1.228 1.709s.437 1.72 1.203 1.72c.559 0 .881-.303 1.058-.821h.897zm1.521.095c.129.485.492.77 1.099.77.649 0 .902-.274.902-.671 0-.398-.214-.601-1.065-.808-1.38-.336-1.651-.756-1.651-1.398s.487-1.339 1.734-1.339c1.246 0 1.743.716 1.801 1.364h-.872c-.062-.276-.269-.69-.968-.69-.614 0-.798.292-.798.58 0 .329.184.49 1.023.69 1.451.343 1.723.83 1.723 1.525 0 .812-.64 1.432-1.859 1.432-1.255 0-1.84-.627-1.966-1.464l.897.009zm9.813.293c-.002.354.019.707.065 1.058h-.865a2.447 2.447 0 01-.074-.584c-.165.304-.529.69-1.423.69-1.111 0-1.585-.725-1.585-1.44 0-1.051.83-1.532 2.22-1.532h.775v-.379c0-.398-.129-.867-.955-.867-.736 0-.867.359-.947.718h-.872c.064-.69.487-1.415 1.84-1.41 1.168 0 1.812.476 1.812 1.552l.009 2.194zm-.883-1.198h-.713c-.906 0-1.366.253-1.366.874 0 .46.311.8.867.8 1.07 0 1.212-.722 1.212-1.529v-.145zm2.235-1.248v-1.182h.879c.021.136.035.596.035.736.181-.382.563-.847 1.453-.847s1.564.557 1.564 1.79v3.01h-.904v-2.9c0-.674-.257-1.131-.945-1.131-.821 0-1.168.6-1.168 1.522v2.507h-.904l-.01-3.505zm9.238-3.249v6.755h-.87a5.78 5.78 0 01-.043-.63c-.23.46-.69.74-1.449.74-1.201 0-1.946-.973-1.946-2.408s.8-2.502 2.105-2.502c.8 0 1.168.317 1.29.57v-2.53l.913.005zm-3.36 4.43c0 1.09.501 1.681 1.219 1.681 1.058 0 1.271-.798 1.271-1.757 0-.996-.197-1.645-1.214-1.645-.798-.004-1.276.633-1.276 1.721zm7.169-4.071h2.461c1.268 0 2.132.708 2.132 1.883 0 1.275-.92 1.932-2.178 1.932h-1.469v2.583h-.946v-6.398zm.946 3.038h1.4c.833 0 1.274-.393 1.274-1.12s-.522-1.12-1.239-1.12h-1.435v2.24zm5.515-3.398v2.73c.144-.25.36-.455.61-.592s.54-.2.83-.183c.78 0 1.58.433 1.58 1.803v2.99h-.9v-2.842c0-.762-.32-1.18-.97-1.18-.82 0-1.152.552-1.152 1.481v2.548h-.904v-6.755h.906zm8.46 4.404c0 1.364-.79 2.464-2.23 2.464-1.37 0-2.19-1.04-2.19-2.447 0-1.408.82-2.464 2.24-2.464 1.32 0 2.18.98 2.18 2.447zm-3.49 0c0 1.003.49 1.712 1.29 1.712s1.27-.676 1.27-1.709-.46-1.716-1.29-1.716-1.27.667-1.27 1.723v-.01zm3.93-2.335h.79v-1.362h.9v1.362h1.02v.722h-1.02v2.663c0 .437.11.651.53.651.13.003.26-.009.39-.034v.664c-.24.069-.49.099-.74.088-.76 0-1.08-.398-1.08-1.187v-2.845h-.79v-.722zm7.6 2.335c0 1.364-.78 2.464-2.23 2.464-1.36 0-2.18-1.04-2.18-2.447 0-1.408.81-2.464 2.24-2.464 1.31 0 2.17.98 2.17 2.447zm-3.48 0c0 1.003.48 1.712 1.29 1.712.8 0 1.27-.676 1.27-1.709s-.46-1.716-1.29-1.716-1.27.667-1.27 1.723v-.01zm4.51-1.154v-1.182h.88c.02.136.03.596.03.736.18-.382.57-.847 1.46-.847s1.56.557 1.56 1.79v3.01h-.9v-2.9c0-.674-.26-1.131-.95-1.131-.82 0-1.17.6-1.17 1.522v2.507h-.9l-.01-3.505zm5.25-3.25h.9v1.04h-.9v-1.04zm0 2.07h.9v4.69h-.9v-4.69zm6.02 3.238c-.19.801-.74 1.56-1.97 1.56-1.33 0-2.11-.946-2.11-2.429 0-1.336.76-2.482 2.17-2.482 1.4 0 1.86.996 1.91 1.587h-.89a.98.98 0 00-.36-.624.97.97 0 00-.68-.22c-.78 0-1.23.674-1.23 1.709s.44 1.72 1.2 1.72c.56 0 .89-.303 1.06-.821h.9zm1.52.095c.13.485.49.77 1.1.77.65 0 .9-.274.9-.671 0-.398-.21-.601-1.06-.808-1.38-.336-1.66-.756-1.66-1.398s.49-1.339 1.74-1.339c1.24 0 1.74.716 1.8 1.364h-.87c-.07-.276-.27-.69-.97-.69-.62 0-.8.292-.8.58 0 .329.18.49 1.02.69 1.46.343 1.73.83 1.73 1.525 0 .812-.64 1.432-1.86 1.432-1.26 0-1.84-.627-1.97-1.464l.9.009zm7.47 1.355l-1.7-6.398h1c.52 2.256 1.13 4.648 1.24 5.375.18-.893 1.01-3.758 1.42-5.375h.91c.37 1.38 1.2 4.496 1.36 5.336.2-1.164 1.05-4.083 1.38-5.336h.93l-1.84 6.398h-1.01c-.38-1.46-1.15-4.326-1.32-5.154-.2.989-.98 3.719-1.38 5.154h-.99zm11.11-2.354c0 1.364-.79 2.464-2.23 2.464-1.37 0-2.19-1.04-2.19-2.447 0-1.408.81-2.464 2.24-2.464 1.33 0 2.18.98 2.18 2.447zm-3.49 0c0 1.003.49 1.712 1.29 1.712s1.27-.676 1.27-1.709-.46-1.716-1.29-1.716-1.27.667-1.27 1.723v-.01zm4.51-1.062v-1.274h.89c.01.127.03.513.03.92.12-.314.33-.583.62-.77.28-.186.61-.281.94-.272v.89c-.96.019-1.56.474-1.56 1.679v2.231h-.91l-.01-3.404zm3.3 3.413v-6.755h.9v6.755h-.9zm6.22-6.754v6.755h-.87c-.02-.209-.04-.42-.04-.63-.23.46-.69.74-1.45.74-1.2 0-1.94-.973-1.94-2.408s.8-2.502 2.1-2.502c.8 0 1.17.317 1.29.57v-2.53l.91.005zm-3.36 4.43c0 1.09.51 1.681 1.22 1.681 1.06 0 1.27-.798 1.27-1.757 0-.996-.19-1.645-1.21-1.645-.8-.004-1.28.633-1.28 1.721zm5.13-2.364c.56 2.139.87 3.36.95 3.861h.02c.08-.46.38-1.538 1.02-3.861h.88c.68 2.587.9 3.339.97 3.779.11-.5.29-1.203.99-3.779h.92l-1.43 4.689h-.98c-.44-1.722-.85-3.18-.95-3.709-.08.526-.47 1.883-.98 3.709h-1l-1.36-4.689h.95zm6.62-2.067h.91v1.04h-.91v-1.04zm0 2.07h.91v4.69h-.91v-4.69zm6.21-2.069v6.755H173c-.02-.209-.04-.42-.04-.63-.23.46-.69.74-1.45.74-1.2 0-1.94-.973-1.94-2.408s.8-2.502 2.1-2.502c.8 0 1.17.317 1.29.57v-2.53l.9.005zm-3.36 4.43c0 1.09.51 1.681 1.22 1.681 1.06 0 1.28-.798 1.28-1.757 0-.996-.2-1.645-1.22-1.645-.8-.004-1.28.633-1.28 1.721zm5.29.153c0 .88.46 1.538 1.22 1.538.69 0 .92-.349 1.07-.69h.92c-.18.596-.69 1.424-2.01 1.424-1.49 0-2.1-1.189-2.1-2.401 0-1.41.71-2.509 2.15-2.509 1.54 0 2.04 1.205 2.04 2.238 0 .13 0 .26-.01.39l-3.28.01zm2.37-.617c0-.727-.37-1.315-1.14-1.315s-1.12.545-1.2 1.315h2.34zM30.834 15.533a15.51 15.51 0 01-14.315 15.473A15.51 15.51 0 010 17.911h4.6a10.978 10.978 0 10.06-5.014H.037a15.508 15.508 0 0130.79 2.636h.007zM101.8 30.537h4.74V.528h-4.74v30.009zM52.791.528H37.626v30.009h4.733V4.935h9.586c4.273 0 6.44 1.423 6.44 4.344 0 3.383-3.501 4.223-6.44 4.223h-4.581v4.409h5.54c2.909 0 5.416-.748 7.252-2.16 1.982-1.525 3.031-3.85 3.031-6.472C63.196 4.01 59.015.53 52.791.53zm25.945 30.009h4.736V8.764h-4.736v21.773zM67.878.528h26.449v4.406H67.878V.528zm96.672 0h-4.35l-14.52 30.007h5.11l11.59-23.947 5.5 11.323h-5.98l-2.13 4.409H170l3.96 8.215h5.11L164.55.528zM139.94 18.96a10.919 10.919 0 01-4.67 5.92 10.976 10.976 0 01-14.01-2.111 10.937 10.937 0 01-2.72-7.036 10.98 10.98 0 018.94-10.992 10.974 10.974 0 0112.33 6.979h4.74a15.54 15.54 0 00-6.33-9.039 15.528 15.528 0 00-20.46 2.675 15.512 15.512 0 00-3.79 10.363 15.548 15.548 0 004.05 10.265 15.519 15.519 0 0020.51 2.168 15.542 15.542 0 006.11-9.192h-4.7zM195.04.023h-.69V47.84h.69V.023zm15.42.373h4.22v.812h-3.28v1.998h3.07v.812h-3.07v2.84h-.94V.397zm9.29 4.071c0 1.38-.8 2.489-2.26 2.489-1.38 0-2.21-1.05-2.21-2.47s.82-2.482 2.27-2.482c1.33 0 2.2.977 2.2 2.463zm-3.53 0c0 1.014.5 1.73 1.3 1.73.82 0 1.29-.69 1.29-1.725 0-1.035-.46-1.734-1.3-1.734-.85 0-1.29.673-1.29 1.738v-.009zm4.55-1.073V2.106h.9c.01.129.03.52.03.94a1.641 1.641 0 011.58-1.05v.899c-.97.018-1.58.476-1.58 1.692v2.257h-.92l-.01-3.45zm3.26-.064V2.107h.88c.01.138.04.46.04.69a1.47 1.47 0 011.35-.794c.27-.019.54.05.78.199.23.148.41.367.51.625a1.61 1.61 0 011.5-.823c.78 0 1.49.46 1.49 1.736v3.112h-.89V3.845c0-.527-.19-1.074-.89-1.074-.71 0-1.04.538-1.04 1.357v2.718h-.9V3.875c0-.587-.16-1.1-.87-1.1s-1.06.56-1.06 1.445v2.626h-.91l.01-3.517zm8.51 1.319c0 .89.46 1.554 1.23 1.554.71 0 .94-.354 1.08-.69h.92c-.18.6-.69 1.438-2.03 1.438-1.5 0-2.12-1.2-2.12-2.426 0-1.422.72-2.53 2.18-2.53 1.54 0 2.06 1.214 2.06 2.258 0 .132-.01.264-.02.396h-3.3zm2.39-.621c0-.736-.37-1.33-1.15-1.33s-1.14.55-1.21 1.33h2.36zm1.95-.634V2.106h.89c.02.129.03.52.03.94a1.64 1.64 0 011.58-1.05v.899c-.97.018-1.58.476-1.58 1.692v2.256h-.92v-3.45zm3.33 3.453V.023h.92v6.824h-.92zm2.73-4.737c.71 2.145 1.13 3.45 1.25 3.91.14-.525.47-1.61 1.2-3.91h.92l-1.68 4.937c-.48 1.38-.84 1.744-1.84 1.744a4.57 4.57 0 01-.53-.033v-.772c.12.015.25.022.38.023.58 0 .81-.244 1.06-.983l-1.76-4.912 1-.005zm-19.08 26.222a8.8 8.8 0 01-12.29 0c-.81-.777-1.45-1.712-1.89-2.748s-.65-2.15-.64-3.273a8.232 8.232 0 01.65-3.283 8.23 8.23 0 011.89-2.761 8.857 8.857 0 0112.29 0 8.412 8.412 0 012.55 6.047c0 1.124-.22 2.238-.66 3.273s-1.08 1.969-1.9 2.745zm-1.95-10.349a5.748 5.748 0 00-4.18-1.773 5.787 5.787 0 00-2.28.459c-.73.305-1.38.751-1.93 1.314a6.262 6.262 0 00-1.72 4.306c0 1.605.62 3.147 1.72 4.307a5.862 5.862 0 004.2 1.773c.78 0 1.55-.157 2.27-.462.72-.304 1.37-.75 1.92-1.311a6.184 6.184 0 001.75-4.307c0-1.608-.63-3.154-1.75-4.306zm7.5 8.187c.39 1.454 1.48 2.227 3.14 2.227 1.59 0 2.57-.955 2.57-2.408 0-1.592-1.21-1.978-2.89-2.797-2.89-1.408-4.48-2.5-4.48-4.954 0-2.613 1.93-4.455 4.89-4.455 2.41 0 4.07.978 4.68 2.682l-2.07 1.069c-.64-1-1.38-1.478-2.41-1.478-1.43 0-2.32.818-2.32 2.046 0 1.569 1.28 2.045 3.1 2.887 2.86 1.317 4.2 2.477 4.2 4.816 0 3.024-2.02 5.023-5.39 5.023-2.77 0-4.6-1.318-5.13-3.68l2.11-.978zm16.91-7.59l-5.11 11.944h-2.77l7.86-16.898 7.86 16.898h-2.8l-5.04-11.944z"
+                fill="#fff"
+              />
+              <path d="M249.12 25.978l-4.61-2.21-.13 4.084 4.74-1.874z" fill="#fff" />
+            </svg>
+
+            <div>
+              <a class="btn btn-icon rounded-circle mr-1" href="https://www.facebook.com/opticaworldwide">
+                <span class="sr-only">Facebook</span>
+                <i class="fab fa-facebook fa-2x" aria-hidden="true"></i>
+              </a>
+              <a class="btn btn-icon rounded-circle mr-1" href="https://www.twitter.com/opticaworldwide/">
+                <span class="sr-only">Twitter</span>
+                <i class="fab fa-twitter fa-2x" aria-hidden="true"></i>
+              </a>
+              <a class="btn btn-icon rounded-circle" href="https://www.linkedin.com/company/optica-worldwide">
+                <span class="sr-only">LinkedIn</span>
+                <i class="fab fa-linkedin fa-2x" aria-hidden="true"></i>
+              </a>
+              <a class="btn btn-icon rounded-circle" href="https://www.youtube.com/OpticaWorldwide">
+                <span class="sr-only">YouTube</span>
+                <i class="fab fa-youtube fa-2x" aria-hidden="true"></i>
+              </a>
+              <a class="btn btn-icon rounded-circle" href="https://www.instagram.com/optica.worldwide/">
+                <span class="sr-only">Instagram</span>
+                <i class="fab fa-instagram fa-2x" aria-hidden="true"></i>
+              </a>              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="border-top border-dark">
+        <div class="container small">
+          <div class="d-md-flex justify-content-between py-2">
+            <p>Copyright &copy; 2022 Optica</p>
+            <p>www.optica.org</p>
+          </div>
+        </div>
+      </div><div id="slackModal" class="modal fade" role="dialog" tabindex="-1" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-body">
+        <div class="d-flex flex-row">
+          <div class="d-flex flex-center w-20 text-center">
+            <i class="fa fa-4x fa-slack" role="presentation">&nbsp;</i>
+          </div>
+          <div class="w-80 pl-3">
+            <p class="lead text-black">You are navigating to the Optica Events Slack Workspace.</p>
+            <p class="mb-3 text-black">
+              If you are not already logged into your free Slack account, you will be asked to create one. Please note that this is different from your Optica account. 
+            </p>
+            <div class="text-center"><a class="btn btn-success btn-lg" href="" id="continueToSlack">Continue to Slack ></a></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    </footer>
+    <!-- Footer -->
+    
+    
+
+<script type="text/javascript">
+//<![CDATA[
+
+WebForm_InitCallback();//]]>
+</script>
+<script src="https://cdn.jsdelivr.net/combine/npm/jquery@3.5.1/dist/jquery.slim.min.js,npm/popper.js@1.16.1,npm/bootstrap@4.5.0,npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js"></script>
+<script src="/osaorg/js/index.min.js?d=2022-10-06T11%3a52%3a00"></script>
+<script src="https://cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.min.js"></script>
+<script src="/osaorg/js/CustomDatePicker.js?d=20220118001"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.TextBoxWatermarkBehavior, {"ClientStateFieldID":"p_lt_zoneHeader_WebPartZone_WebPartZone_zone_WebPartZone3_WebPartZone3_zone_MainSearch_txtWord_exWatermark_ClientState","id":"p_lt_zoneHeader_WebPartZone_WebPartZone_zone_WebPartZone3_WebPartZone3_zone_MainSearch_txtWord_exWatermark","watermarkText":"Search"}, null, null, $get("p_lt_zoneHeader_WebPartZone_WebPartZone_zone_WebPartZone3_WebPartZone3_zone_MainSearch_txtWord"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.TextBoxWatermarkBehavior, {"ClientStateFieldID":"p_lt_zoneHeader_MobileNav_MobileNav_zone_SmartSearchBox_txtWord_exWatermark_ClientState","id":"p_lt_zoneHeader_MobileNav_MobileNav_zone_SmartSearchBox_txtWord_exWatermark","watermarkText":"Search Optica..."}, null, null, $get("p_lt_zoneHeader_MobileNav_MobileNav_zone_SmartSearchBox_txtWord"));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>

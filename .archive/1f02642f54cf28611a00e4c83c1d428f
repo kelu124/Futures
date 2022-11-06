@@ -1,0 +1,1967 @@
+<!doctype html><html i-amphtml-layout i-amphtml-no-boilerplate lang=it transformed="google;v=8" ⚡><head><meta charset=utf-8><meta content="width=device-width,minimum-scale=1,initial-scale=1" name=viewport><style amp-runtime i-amphtml-version=012209142312000>html{overflow-x:hidden!important}html.i-amphtml-fie{height:100%!important;width:100%!important}html:not([amp4ads]),html:not([amp4ads]) body{height:auto!important}html:not([amp4ads]) body{margin:0!important}body{-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;text-size-adjust:100%}html.i-amphtml-singledoc.i-amphtml-embedded{-ms-touch-action:pan-y pinch-zoom;touch-action:pan-y pinch-zoom}html.i-amphtml-fie>body,html.i-amphtml-singledoc>body{overflow:visible!important}html.i-amphtml-fie:not(.i-amphtml-inabox)>body,html.i-amphtml-singledoc:not(.i-amphtml-inabox)>body{position:relative!important}html.i-amphtml-ios-embed-legacy>body{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important}html.i-amphtml-ios-embed{overflow-y:auto!important;position:static}#i-amphtml-wrapper{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;margin:0!important;display:block!important}html.i-amphtml-ios-embed.i-amphtml-ios-overscroll,html.i-amphtml-ios-embed.i-amphtml-ios-overscroll>#i-amphtml-wrapper{-webkit-overflow-scrolling:touch!important}#i-amphtml-wrapper>body{position:relative!important;border-top:1px solid transparent!important}#i-amphtml-wrapper+body{visibility:visible}#i-amphtml-wrapper+body .i-amphtml-lightbox-element,#i-amphtml-wrapper+body[i-amphtml-lightbox]{visibility:hidden}#i-amphtml-wrapper+body[i-amphtml-lightbox] .i-amphtml-lightbox-element{visibility:visible}#i-amphtml-wrapper.i-amphtml-scroll-disabled,.i-amphtml-scroll-disabled{overflow-x:hidden!important;overflow-y:hidden!important}amp-instagram{padding:54px 0px 0px!important;background-color:#fff}amp-iframe iframe{box-sizing:border-box!important}[amp-access][amp-access-hide]{display:none}[subscriptions-dialog],body:not(.i-amphtml-subs-ready) [subscriptions-action],body:not(.i-amphtml-subs-ready) [subscriptions-section]{display:none!important}amp-experiment,amp-live-list>[update]{display:none}amp-list[resizable-children]>.i-amphtml-loading-container.amp-hidden{display:none!important}amp-list [fetch-error],amp-list[load-more] [load-more-button],amp-list[load-more] [load-more-end],amp-list[load-more] [load-more-failed],amp-list[load-more] [load-more-loading]{display:none}amp-list[diffable] div[role=list]{display:block}amp-story-page,amp-story[standalone]{min-height:1px!important;display:block!important;height:100%!important;margin:0!important;padding:0!important;overflow:hidden!important;width:100%!important}amp-story[standalone]{background-color:#000!important;position:relative!important}amp-story-page{background-color:#757575}amp-story .amp-active>div,amp-story .i-amphtml-loader-background{display:none!important}amp-story-page:not(:first-of-type):not([distance]):not([active]){transform:translateY(1000vh)!important}amp-autocomplete{position:relative!important;display:inline-block!important}amp-autocomplete>input,amp-autocomplete>textarea{padding:0.5rem;border:1px solid rgba(0,0,0,0.33)}.i-amphtml-autocomplete-results,amp-autocomplete>input,amp-autocomplete>textarea{font-size:1rem;line-height:1.5rem}[amp-fx^=fly-in]{visibility:hidden}amp-script[nodom],amp-script[sandboxed]{position:fixed!important;top:0!important;width:1px!important;height:1px!important;overflow:hidden!important;visibility:hidden}
+/*# sourceURL=/css/ampdoc.css*/[hidden]{display:none!important}.i-amphtml-element{display:inline-block}.i-amphtml-blurry-placeholder{transition:opacity 0.3s cubic-bezier(0.0,0.0,0.2,1)!important;pointer-events:none}[layout=nodisplay]:not(.i-amphtml-element){display:none!important}.i-amphtml-layout-fixed,[layout=fixed][width][height]:not(.i-amphtml-layout-fixed){display:inline-block;position:relative}.i-amphtml-layout-responsive,[layout=responsive][width][height]:not(.i-amphtml-layout-responsive),[width][height][heights]:not([layout]):not(.i-amphtml-layout-responsive),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-layout-responsive){display:block;position:relative}.i-amphtml-layout-intrinsic,[layout=intrinsic][width][height]:not(.i-amphtml-layout-intrinsic){display:inline-block;position:relative;max-width:100%}.i-amphtml-layout-intrinsic .i-amphtml-sizer{max-width:100%}.i-amphtml-intrinsic-sizer{max-width:100%;display:block!important}.i-amphtml-layout-container,.i-amphtml-layout-fixed-height,[layout=container],[layout=fixed-height][height]:not(.i-amphtml-layout-fixed-height){display:block;position:relative}.i-amphtml-layout-fill,.i-amphtml-layout-fill.i-amphtml-notbuilt,[layout=fill]:not(.i-amphtml-layout-fill),body noscript>*{display:block;overflow:hidden!important;position:absolute;top:0;left:0;bottom:0;right:0}body noscript>*{position:absolute!important;width:100%;height:100%;z-index:2}body noscript{display:inline!important}.i-amphtml-layout-flex-item,[layout=flex-item]:not(.i-amphtml-layout-flex-item){display:block;position:relative;-ms-flex:1 1 auto;flex:1 1 auto}.i-amphtml-layout-fluid{position:relative}.i-amphtml-layout-size-defined{overflow:hidden!important}.i-amphtml-layout-awaiting-size{position:absolute!important;top:auto!important;bottom:auto!important}i-amphtml-sizer{display:block!important}@supports (aspect-ratio:1/1){i-amphtml-sizer.i-amphtml-disable-ar{display:none!important}}.i-amphtml-blurry-placeholder,.i-amphtml-fill-content{display:block;height:0;max-height:100%;max-width:100%;min-height:100%;min-width:100%;width:0;margin:auto}.i-amphtml-layout-size-defined .i-amphtml-fill-content{position:absolute;top:0;left:0;bottom:0;right:0}.i-amphtml-replaced-content,.i-amphtml-screen-reader{padding:0!important;border:none!important}.i-amphtml-screen-reader{position:fixed!important;top:0px!important;left:0px!important;width:4px!important;height:4px!important;opacity:0!important;overflow:hidden!important;margin:0!important;display:block!important;visibility:visible!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:8px!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:12px!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:16px!important}.i-amphtml-unresolved{position:relative;overflow:hidden!important}.i-amphtml-select-disabled{-webkit-user-select:none!important;-ms-user-select:none!important;user-select:none!important}.i-amphtml-notbuilt,[layout]:not(.i-amphtml-element),[width][height][heights]:not([layout]):not(.i-amphtml-element),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element){position:relative;overflow:hidden!important;color:transparent!important}.i-amphtml-notbuilt:not(.i-amphtml-layout-container)>*,[layout]:not([layout=container]):not(.i-amphtml-element)>*,[width][height][heights]:not([layout]):not(.i-amphtml-element)>*,[width][height][sizes]:not([layout]):not(.i-amphtml-element)>*{display:none}amp-img:not(.i-amphtml-element)[i-amphtml-ssr]>img.i-amphtml-fill-content{display:block}.i-amphtml-notbuilt:not(.i-amphtml-layout-container),[layout]:not([layout=container]):not(.i-amphtml-element),[width][height][heights]:not([layout]):not(.i-amphtml-element),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element){color:transparent!important;line-height:0!important}.i-amphtml-ghost{visibility:hidden!important}.i-amphtml-element>[placeholder],[layout]:not(.i-amphtml-element)>[placeholder],[width][height][heights]:not([layout]):not(.i-amphtml-element)>[placeholder],[width][height][sizes]:not([layout]):not(.i-amphtml-element)>[placeholder]{display:block;line-height:normal}.i-amphtml-element>[placeholder].amp-hidden,.i-amphtml-element>[placeholder].hidden{visibility:hidden}.i-amphtml-element:not(.amp-notsupported)>[fallback],.i-amphtml-layout-container>[placeholder].amp-hidden,.i-amphtml-layout-container>[placeholder].hidden{display:none}.i-amphtml-layout-size-defined>[fallback],.i-amphtml-layout-size-defined>[placeholder]{position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;z-index:1}amp-img[i-amphtml-ssr]:not(.i-amphtml-element)>[placeholder]{z-index:auto}.i-amphtml-notbuilt>[placeholder]{display:block!important}.i-amphtml-hidden-by-media-query{display:none!important}.i-amphtml-element-error{background:red!important;color:#fff!important;position:relative!important}.i-amphtml-element-error:before{content:attr(error-message)}i-amp-scroll-container,i-amphtml-scroll-container{position:absolute;top:0;left:0;right:0;bottom:0;display:block}i-amp-scroll-container.amp-active,i-amphtml-scroll-container.amp-active{overflow:auto;-webkit-overflow-scrolling:touch}.i-amphtml-loading-container{display:block!important;pointer-events:none;z-index:1}.i-amphtml-notbuilt>.i-amphtml-loading-container{display:block!important}.i-amphtml-loading-container.amp-hidden{visibility:hidden}.i-amphtml-element>[overflow]{cursor:pointer;position:relative;z-index:2;visibility:hidden;display:initial;line-height:normal}.i-amphtml-layout-size-defined>[overflow]{position:absolute}.i-amphtml-element>[overflow].amp-visible{visibility:visible}template{display:none!important}.amp-border-box,.amp-border-box *,.amp-border-box :after,.amp-border-box :before{box-sizing:border-box}amp-pixel{display:none!important}amp-analytics,amp-auto-ads,amp-story-auto-ads{position:fixed!important;top:0!important;width:1px!important;height:1px!important;overflow:hidden!important;visibility:hidden}amp-story{visibility:hidden!important}html.i-amphtml-fie>amp-analytics{position:initial!important}[visible-when-invalid]:not(.visible),form [submit-error],form [submit-success],form [submitting]{display:none}amp-accordion{display:block!important}@media (min-width:1px){:where(amp-accordion>section)>:first-child{margin:0;background-color:#efefef;padding-right:20px;border:1px solid #dfdfdf}:where(amp-accordion>section)>:last-child{margin:0}}amp-accordion>section{float:none!important}amp-accordion>section>*{float:none!important;display:block!important;overflow:hidden!important;position:relative!important}amp-accordion,amp-accordion>section{margin:0}amp-accordion:not(.i-amphtml-built)>section>:last-child{display:none!important}amp-accordion:not(.i-amphtml-built)>section[expanded]>:last-child{display:block!important}
+/*# sourceURL=/css/ampshared.css*/</style><meta content=amp-ad name=amp-consent-blocking><meta content=noindex name=robots><meta content=no-referrer-when-downgrade name=referrer><meta content=domusweb.it name=amp-cookie-scope><meta content="10=2,11=2" name=amp-usqp><script id=__AMP_EXP type=text/json>{"flexible-bitrate":0.1,"amp-story-first-page-max-bitrate":0.3,"story-disable-animations-first-page":1,"story-load-first-page-only":1,"story-load-inactive-outside-viewport":1,"story-ad-page-outlink":0.02,"amp-geo-ssr":1,"story-remote-localization":1,"amp-story-subscriptions":1}</script><script async nomodule src=https://cdn.ampproject.org/rtv/012209142312000/v0.js></script><script async crossorigin=anonymous src=https://cdn.ampproject.org/rtv/012209142312000/v0.mjs type=module></script><script async custom-element=amp-accordion nomodule src=https://cdn.ampproject.org/rtv/012209142312000/v0/amp-accordion-0.1.js></script><script async crossorigin=anonymous custom-element=amp-accordion src=https://cdn.ampproject.org/rtv/012209142312000/v0/amp-accordion-0.1.mjs type=module></script><script async custom-element=amp-ad nomodule src=https://cdn.ampproject.org/rtv/012209142312000/v0/amp-ad-0.1.js></script><script async crossorigin=anonymous custom-element=amp-ad src=https://cdn.ampproject.org/rtv/012209142312000/v0/amp-ad-0.1.mjs type=module></script><script async custom-element=amp-analytics nomodule src=https://cdn.ampproject.org/rtv/012209142312000/v0/amp-analytics-0.1.js></script><script async crossorigin=anonymous custom-element=amp-analytics src=https://cdn.ampproject.org/rtv/012209142312000/v0/amp-analytics-0.1.mjs type=module></script><script async custom-element=amp-consent nomodule src=https://cdn.ampproject.org/rtv/012209142312000/v0/amp-consent-latest.js></script><script async crossorigin=anonymous custom-element=amp-consent src=https://cdn.ampproject.org/rtv/012209142312000/v0/amp-consent-latest.mjs type=module></script><script async custom-element=amp-facebook-comments nomodule src=https://cdn.ampproject.org/rtv/012209142312000/v0/amp-facebook-comments-0.1.js></script><script async crossorigin=anonymous custom-element=amp-facebook-comments src=https://cdn.ampproject.org/rtv/012209142312000/v0/amp-facebook-comments-0.1.mjs type=module></script><script async custom-element=amp-form nomodule src=https://cdn.ampproject.org/rtv/012209142312000/v0/amp-form-0.1.js></script><script async crossorigin=anonymous custom-element=amp-form src=https://cdn.ampproject.org/rtv/012209142312000/v0/amp-form-0.1.mjs type=module></script><script async custom-element=amp-lightbox nomodule src=https://cdn.ampproject.org/rtv/012209142312000/v0/amp-lightbox-0.1.js></script><script async crossorigin=anonymous custom-element=amp-lightbox src=https://cdn.ampproject.org/rtv/012209142312000/v0/amp-lightbox-0.1.mjs type=module></script><script async custom-element=amp-social-share nomodule src=https://cdn.ampproject.org/rtv/012209142312000/v0/amp-social-share-0.1.js></script><script async crossorigin=anonymous custom-element=amp-social-share src=https://cdn.ampproject.org/rtv/012209142312000/v0/amp-social-share-0.1.mjs type=module></script><script async custom-element=amp-video nomodule src=https://cdn.ampproject.org/rtv/012209142312000/v0/amp-video-0.1.js></script><script async crossorigin=anonymous custom-element=amp-video src=https://cdn.ampproject.org/rtv/012209142312000/v0/amp-video-0.1.mjs type=module></script><link href=https://www-domusweb-it.cdn.ampproject.org/i/s/www.domusweb.it/favicon.ico rel=icon><style amp-custom>
+
+			/**
+			 * Font: Tiempos
+			 */
+			@font-face {
+				font-family: 'Tiempos';
+				src: url('https://www-domusweb-it.cdn.ampproject.org/r/s/www.domusweb.it/etc/designs/domusweb20/amp/fonts/tiempos/TiemposTextWeb-Regular.woff2') format('woff2'),
+					url('https://www-domusweb-it.cdn.ampproject.org/r/s/www.domusweb.it/etc/designs/domusweb20/amp/fonts/tiempos/TiemposTextWeb-Regular.woff') format('woff'),
+					url('https://www-domusweb-it.cdn.ampproject.org/r/s/www.domusweb.it/etc/designs/domusweb20/amp/fonts/tiempos/TiemposTextWeb-Regular.svg') format('svg');
+				font-weight: normal;
+				font-style: normal;
+			}
+
+			@font-face {
+				font-family: 'Tiempos';
+				src: url('https://www-domusweb-it.cdn.ampproject.org/r/s/www.domusweb.it/etc/designs/domusweb20/amp/fonts/tiempos/TiemposHeadlineWeb-Bold.woff2') format('woff2'),
+					url('https://www-domusweb-it.cdn.ampproject.org/r/s/www.domusweb.it/etc/designs/domusweb20/amp/fonts/tiempos/TiemposHeadlineWeb-Bold.woff') format('woff'),
+					url('https://www-domusweb-it.cdn.ampproject.org/r/s/www.domusweb.it/etc/designs/domusweb20/amp/fonts/tiempos/TiemposHeadlineWeb-Bold.svg') format('svg');
+				font-weight: bold;
+				font-style: normal;
+			}
+
+			/**
+			 * Font: FormaDJRText
+			 */
+			@font-face {
+				font-family: 'FormaDJRText';
+				src: url('https://www-domusweb-it.cdn.ampproject.org/r/s/www.domusweb.it/etc/designs/domusweb20/amp/fonts/formadjrtext/FormaDJRText-Light.woff2') format('woff2'),
+					url('https://www-domusweb-it.cdn.ampproject.org/r/s/www.domusweb.it/etc/designs/domusweb20/amp/fonts/formadjrtext/FormaDJRText-Light.woff') format('woff'),
+					url('https://www-domusweb-it.cdn.ampproject.org/r/s/www.domusweb.it/etc/designs/domusweb20/amp/fonts/formadjrtext/FormaDJRText-Light.svg') format('svg');
+				font-weight: 300;
+				font-style: normal;
+			}
+
+			@font-face {
+				font-family: 'FormaDJRText';
+				src: url('https://www-domusweb-it.cdn.ampproject.org/r/s/www.domusweb.it/etc/designs/domusweb20/amp/fonts/formadjrtext/FormaDJRText-Regular.woff2') format('woff2'),
+					url('https://www-domusweb-it.cdn.ampproject.org/r/s/www.domusweb.it/etc/designs/domusweb20/amp/fonts/formadjrtext/FormaDJRText-Regular.woff') format('woff'),
+					url('https://www-domusweb-it.cdn.ampproject.org/r/s/www.domusweb.it/etc/designs/domusweb20/amp/fonts/formadjrtext/FormaDJRText-Regular.svg') format('svg');
+				font-weight: normal;
+				font-style: normal;
+			}
+
+			@font-face {
+				font-family: 'FormaDJRText';
+				src: url('https://www-domusweb-it.cdn.ampproject.org/r/s/www.domusweb.it/etc/designs/domusweb20/amp/fonts/formadjrtext/FormaDJRText-Medium.woff2') format('woff2'),
+					url('https://www-domusweb-it.cdn.ampproject.org/r/s/www.domusweb.it/etc/designs/domusweb20/amp/fonts/formadjrtext/FormaDJRText-Medium.woff') format('woff'),
+					url('https://www-domusweb-it.cdn.ampproject.org/r/s/www.domusweb.it/etc/designs/domusweb20/amp/fonts/formadjrtext/FormaDJRText-Medium.svg') format('svg');
+				font-weight: 500;
+				font-style: normal;
+			}
+
+			@font-face {
+				font-family: 'FormaDJRText';
+				src: url('https://www-domusweb-it.cdn.ampproject.org/r/s/www.domusweb.it/etc/designs/domusweb20/amp/fonts/formadjrtext/FormaDJRText-Bold.woff2') format('woff2'),
+					url('https://www-domusweb-it.cdn.ampproject.org/r/s/www.domusweb.it/etc/designs/domusweb20/amp/fonts/formadjrtext/FormaDJRText-Bold.woff') format('woff'),
+					url('https://www-domusweb-it.cdn.ampproject.org/r/s/www.domusweb.it/etc/designs/domusweb20/amp/fonts/formadjrtext/FormaDJRText-Bold.svg') format('svg');
+				font-weight: bold;
+				font-style: normal;
+			}
+
+			/**
+			 * Font: Domsuweb1 icons
+			 */
+			@font-face {
+				font-family: 'domusweb1';
+				src:
+					url('https://www-domusweb-it.cdn.ampproject.org/r/s/www.domusweb.it/etc/designs/domusweb20/amp/fonts/domusweb1/domusweb1.ttf') format('truetype'),
+					url('https://www-domusweb-it.cdn.ampproject.org/r/s/www.domusweb.it/etc/designs/domusweb20/amp/fonts/domusweb1/domusweb1.woff') format('woff'),
+					url('https://www-domusweb-it.cdn.ampproject.org/r/s/www.domusweb.it/etc/designs/domusweb20/amp/fonts/domusweb1/domusweb1.svg') format('svg');
+				font-weight: normal;
+				font-style: normal;
+				font-display: block;
+			}
+
+			/**
+			 * CUSTOM CSS
+			 * You must inline and compress the custom CSS and append it below this comment.
+			 * (https://www.cleancss.com/css-minify/)
+			 */
+			/* (append the inlined CSS here) */
+			:root {font-size: 62.5%;}*:not([class*="i-amphtml"]) {box-sizing: border-box;}h1, h2, h3, h4, h5, h6, p, hr, ul, ol, li, figure, figcaption, blockquote, button {background: none;outline: 0;border: 0;padding: 0;margin: 0;}:root {--color-white1: #FFF;--color-white2: #F4F4F4;--color-black1: #545454;--color-black2: #3C3E3B;--color-black4: #494c52;--color-black5: #282828;--color-grey1: #D2D2D2;--color-grey2: #A8A8A8;--color-grey3: #999999;--color-domus-azure: #378dbc;--color-domus-azure2: #7dabcf;--color-domus-green: #00a06e;--color-domus-green2: #008259;--color-domus-yellow: #FFD34E;--color-domus-orange: #F7A600;--color-social-facebook: #2C83B3;--color-social-twitter: #55ACEE;--color-social-pinterest: #F6354A;--color-social-instagram: #FA7E1E;--color-social-whatsapp: #25D366;--font2: "Helvetica Neue", Helvetica, Arial, sans-serif;--font1: "FormaDJRText", var(--font2);--font3: "Tiempos", var(--font1);--header-h: 70px;}[class^="domusweb1icon-"], [class*=" domusweb1icon-"] {font-family: 'domusweb1';speak: none;font-style: normal;font-weight: normal;font-variant: normal;text-transform: none;line-height: 1;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}.domusweb1icon-domuslogo1:before {content: "\e900";}.domusweb1icon-arrow1right:before {content: "\e901";}.domusweb1icon-burger:before {content: "\e902";}.domusweb1icon-camera:before {content: "\e903";}.domusweb1icon-cross:before {content: "\e904";}.domusweb1icon-magnify:before {content: "\e905";}.domusweb1icon-socialfacebook:before {content: "\e906";}.domusweb1icon-socialpinterest:before {content: "\e907";}.domusweb1icon-socialtwitter:before {content: "\e908";}.domusweb1icon-socialwhatsapp:before {content: "\e909";}.domusweb1icon-socialinstagram:before {content: "\e90a";}main {padding-top: var(--header-h);}body {font-family: var(--font1);background: var(--color-white2);-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}a, a:hover, a:focus, a:active, a:visited {text-decoration: none;}.d-block {display: block;}.float-left {float: left;}.float-right {float: right;}.clearfix:before, .clearfix:after {content: " ";display: table;}.clearfix:after {clear: both;}.text-left {text-align: left;}.text-center {text-align: center;}.text-right {text-align: right;}.sr-only {position: absolute;width: 1px;height: 1px;padding: 0;margin: -1px;overflow: hidden;clip: rect(0,0,0,0);white-space: nowrap;border: 0;}.row {display: flex;flex-wrap: wrap;margin-right: -7.5px;margin-left: -7.5px;}.row > [class^="col-"], .row > [class*=" col-"] {position: relative;width: 100%;padding-right: 7.5px;padding-left: 7.5px;}.col-1 {flex: 0 0 8.333333%;max-width: 8.333333%;}.col-2 {flex: 0 0 16.666667%;max-width: 16.666667%;}.col-3 {flex: 0 0 25%;max-width: 25%;}.col-4 {flex: 0 0 33.333333%;max-width: 33.333333%;}.col-5 {flex: 0 0 41.666667%;max-width: 41.666667%;}.col-6 {flex: 0 0 50%;max-width: 50%;}.col-7 {flex: 0 0 58.333333%;max-width: 58.333333%;}.col-8 {flex: 0 0 66.666667%;max-width: 66.666667%;}.col-9 {flex: 0 0 75%;max-width: 75%;}.col-10 {flex: 0 0 83.333333%;max-width: 83.333333%;}.col-11 {flex: 0 0 91.666667%;max-width: 91.666667%;}.col-12 {flex: 0 0 100%;max-width: 100%;}.row--g20 {margin-right: -10px;margin-left: -10px;}.row--g20 > [class^="col-"], .row--g20 > [class*=" col-"] {padding-right: 10px;padding-left: 10px;}.ls-005 {letter-spacing: 0.05rem;}.pt-5 {padding-top: 5px;}.pt-10 {padding-top: 10px;}.pt-15 {padding-top: 15px;}.pt-20 {padding-top: 20px;}.pt-30 {padding-top: 30px;}.pt-35 {padding-top: 35px;}.mt-n5 {margin-top: -5px;}.mt-n10 {margin-top: -10px;}.mt-n15 {margin-top: -15px;}.mb-5 {margin-bottom: 5px;}.mb-10 {margin-bottom: 10px;}.mb-15 {margin-bottom: 15px;}.mb-20 {margin-bottom: 20px;}.mb-25 {margin-bottom: 25px;}.mb-30 {margin-bottom: 30px;}.mb-35 {margin-bottom: 35px;}.mb-40 {margin-bottom: 40px;}.c-header {position: fixed;top: 0;left: 0;z-index: 10;width: 100%;height: var(--header-h);background: var(--color-white1);border-top: 3px solid var(--color-black1);}.c-header [class*="c-wrapper"] {padding-top: 16px;}.c-header [class*="__right"] {padding-top: 7px;}.c-header__logo-wrapper, .c-header__logo-wrapper:hover, .c-header__logo-wrapper:focus, .c-header__logo-wrapper:active .c-header__logo-wrapper:visited {font-size: 30px;text-decoration: none;color: var(--color-black2);}.c-header__btn-search-open, .c-header__btn-search-close, .c-header__btn-menu-open, .c-header__btn-menu-close {font-size: 20px;color: var(--color-black1);margin-left: 20px;}[class*="c-wrapper--"] {position: relative;}.c-wrapper--s1 {padding-left: 20px;padding-right: 20px;}[class*="c-wrapper--"] [class*="c-wrapper"] {padding-left: 0;padding-right: 0;}.c-accordion1__head:after {transition: transform 300ms ease;position: absolute;top: 10px;right: 0;display: block;font-family: 'domusweb1';content: "\e904";font-size: 12px;color: var(--color-grey2);transform: rotateZ(45deg);transform-origin: 50% 50%;}.c-accordion1 [expanded] .c-accordion1__head:after {transform: rotate(360deg);}.c-accordion1 [expanded] .c-accordion1__content {padding-top: 15px;}.c-btn1 {display: inline-block;width: 100%;min-width: 164px;max-width: 264px;min-height: 48px;border: 2px solid transparent;padding: 7px 0;font: normal normal 500 1.1rem/1.3rem var(--font1);color: var(--color-black2);padding: 16px 16px 0 16px;text-transform: uppercase;letter-spacing: 0.06rem;text-align: center;}.c-btn1:hover, .c-btn1:focus, .c-btn1:active, .c-btn1:visited {color: var(--color-black2);}.c-btn1--ico-arrow1right:after {float: right;display: block;font-family: 'domusweb1';content: "\e901";font-size: 16px;color: var(--color-grey2);}[class*="c-btn1"][class*="--azure"] {border-color: var(--color-domus-azure);}.c-cta1 {border-top: 1px solid var(--color-grey1);border-bottom: 1px solid var(--color-grey1);padding: 7px 0;}.c-cta1__title {font: normal normal bold 1.8rem/2.6rem var(--font1);letter-spacing: 0.04rem;}.c-cta1__title, .c-cta1__title:hover, .c-cta1__title:focus, .c-cta1__title:active, .c-cta1__title:visited {color: var(--color-domus-azure);}.c-cta1__title:hover {text-decoration: underline;}.c-share [class*="__item"] {position: relative;}.c-share amp-social-share {position: absolute;top: 0;left: 0;opacity: 0;z-index: 11;}.c-details__head {background-color: transparent;border: 0;min-height: 12px;}.c-details__item {margin-bottom: 10px;list-style-type: none;}.c-details--inline .c-details__item {display: inline;}.c-details__value {font: normal normal bold 1.3rem/1.5rem var(--font1);letter-spacing: 0.05rem;color: var(--color-black2);top: -2px;}.c-details__value a {line-height: 1;}.c-details__value a, .c-details__value a:hover, .c-details__value a:focus, .c-details__value a:active, .c-details__value a:visited {color: var(--color-black2);}.c-details__value a:hover {text-decoration: underline;}.c-details--s1 .c-details__label, .c-details--s1 .c-details__value {font: normal normal normal 1.338rem/2.0rem var(--font1);color: var(--color-black4);top: 0;letter-spacing: 0.04rem;}.c-details--s1 .c-details__label {font-weight: bold;}.c-vspace {visibility: hidden;border: 0;padding: 0;height: 0px;}.c-typo1--extra h1, .c-typo1--extra .h1 {font: normal normal bold 2.7rem/2.6rem var(--font3);letter-spacing: -0.04rem;color: var(--color-black4);}.c-typo1--extra h1:not(:last-child), .c-typo1--extra .h1:not(:last-child) {margin-bottom: 20px;}.c-typo1--extra h2, .c-typo1--extra .h2 {font: normal normal normal 2.1rem/2.4rem var(--font1);letter-spacing: 0.04rem;color: var(--color-black2);}.c-typo1--extra h2:not(:last-child), .c-typo1--extra .h2:not(:last-child) {margin-bottom: 20px;}.c-typo1--s1 h1, .c-typo1--s1 .h1 {font: normal normal bold 2.7rem/3.0rem var(--font1);letter-spacing: -0.04rem;color: var(--color-black2);margin-bottom: 25px;}.c-typo1--s1 h2, .c-typo1--s1 .h2 {font: normal normal bold 2.2rem/2.5rem var(--font1);color: var(--color-black2);margin-bottom: 20px;}.c-typo1--s1 h3, .c-typo1--s1 .h3 {font: normal normal bold 2.0rem/2.4rem var(--font1);color: var(--color-black2);margin-bottom: 20px;}.c-typo1--s1 h4, .c-typo1--s1 .h4 {font: normal normal bold 1.625rem/2.1rem var(--font1);color: var(--color-black2);margin-bottom: 15px;}.c-typo1--s1 h5, .c-typo1--s1 .h5, .c-typo1--s1 h6, .c-typo1--s1 .h6 {font: normal normal bold 1.4rem/1.8rem var(--font1);color: var(--color-black2);margin-bottom: 10px;}.c-typo1--s1 p, .c-typo1--s1 .p {font: normal normal normal 1.625rem/2.7rem var(--font1);letter-spacing: 0.03rem;margin-bottom: 20px;color: var(--color-black2);}.c-typo1--s1 blockquote, .c-typo1--s1 .blockquote {padding-top: 5px;font: normal normal bold 2.2rem/2.2rem var(--font3);letter-spacing: -0.04rem;margin-bottom: 30px;color: var(--color-black2);}.c-typo1--s1 blockquote:before, .c-typo1--s1 .blockquote:before {content: "\0201C";margin-right: -.2em;}.c-typo1--s1 blockquote:after, .c-typo1--s1 .blockquote:after {content: "\0201D";margin-left: -.2em;}.c-typo1--s1-var1 blockquote, .c-typo1--s1-var1 .blockquote {font: normal normal 500 2.153rem/2.422rem var(--font1);letter-spacing: 0;color: var(--color-black2);}[class*="c-typo"][class*="--azure"] blockquote, [class*="c-typo"][class*="--azure"] .blockquote, [class*="c-typo"][class*="--azure"] a, [class*="c-typo"][class*="--azure"] a:hover, [class*="c-typo"][class*="--azure"] a:focus, [class*="c-typo"][class*="--azure"] a:active, [class*="c-typo"][class*="--azure"] a:visited {color: var(--color-domus-azure);}[class*="c-typo"][class*="--azure2"] blockquote, [class*="c-typo"][class*="--azure2"] .blockquote, [class*="c-typo"][class*="--azure2"] a, [class*="c-typo"][class*="--azure2"] a:hover, [class*="c-typo"][class*="--azure2"] a:focus, [class*="c-typo"][class*="--azure2"] a:active, [class*="c-typo"][class*="--azure2"] a:visited {color: var(--color-domus-azure2);}[class*="c-typo"][class*="--green"] blockquote, [class*="c-typo"][class*="--green"] .blockquote {color: var(--color-domus-green2);}[class*="c-typo"][class*="--green"] a, [class*="c-typo"][class*="--green"] a:hover, [class*="c-typo"][class*="--green"] a:focus, [class*="c-typo"][class*="--green"] a:active, [class*="c-typo"][class*="--green"] a:visited {color: var(--color-domus-green);}[class*="c-typo"][class*="--orange"] blockquote, [class*="c-typo"][class*="--orange"] .blockquote, [class*="c-typo"][class*="--orange"] a, [class*="c-typo"][class*="--orange"] a:hover, [class*="c-typo"][class*="--orange"] a:focus, [class*="c-typo"][class*="--orange"] a:active, [class*="c-typo"][class*="--orange"] a:visited {color: var(--color-domus-orange);}[class*="c-typo"].c-typo1--s1-var1 blockquote, [class*="c-typo"].c-typo1--s1-var1 .blockquote {color: var(--color-black4);}.c-typo1--mini p, .c-typo1--mini .p {font: normal normal normal 1.1rem/1.8rem var(--font1);letter-spacing: 0.04rem;margin-bottom: 20px;color: var(--color-white1);}.c-typo1--mini a:hover, .c-typo1--mini a:hover {text-decoration: underline;}.c-typo1--mini a, .c-typo1--mini a:hover, .c-typo1--mini a:focus, .c-typo1--mini a:active, .c-typo1--mini a:visited {color: var(--color-white1);}.c-avatar {position: relative;width: 80px;height: 80px;display: inline-block;}.c-avatar img {display: block;border-radius: 50%;width: 100%;height: 100%;object-fit: cover;}.c-gallery__trigger {display: block;width: 100%;}.c-gallery__media-wrapper {display: block;position: relative;}.c-gallery__trigger-btn {position: absolute;top: 50%;left: 50%;width: 75px;height: 75px;transform: translate(-50%, -50%);border-radius: 50%;text-align: center;background-color:rgba(84,84,84,.6);}.c-gallery__trigger-btn {color: var(--color-white1);padding-top: 13px;}.c-gallery__trigger-btn i[class*="icon-"] {font-size: 22px;}.c-gallery__trigger-btn-label {font: normal normal normal 1.1rem/1.2rem var(--font1);padding-top: 5px;display: block;}.c-modal1 {background: rgba(255,255,255, 1);}.c-modal1__head .c-modal1__btn--close {font-size: 20px;color: var(--color-black1);}.c-modal1__content {padding-top: calc( var(--header-h) );max-height: 100%;overflow: scroll;}.c-search {background: rgba(40,40,40, 0.96);position: absolute;width: 100%;font: normal normal normal 1.4rem/1.8rem var(--font1);color: var(--color-white1);}.c-search__head {background: transparent;border-top: 0;}.c-search__head .c-header__btn-search-close {color: var(--color-white1);margin-top: 3px;margin-right: 2px;}.c-search__txt {background: none;height: 42px;margin: 0;padding: 0;border: 0;outline: 0;border-bottom: 1px solid var(--color-domus-azure);width: 100%;color: var(--color-white1);font: normal normal bold 2.1rem/2.5rem var(--font2);}input[type="search"]::-webkit-search-decoration, input[type="search"]::-webkit-search-cancel-button, input[type="search"]::-webkit-search-results-button, input[type="search"]::-webkit-search-results-decoration {display: none;}.c-search__content [class*="c-wrapper"] {position: absolute;width: 100%;top: 50%;margin-top: -10%;}.c-search__content button[type="submit"] {display: block;background: none;margin: 0;padding: 0;border: 0;outline: 0;float: right;font-size: 30px;color: var(--color-grey1);margin: -40px 0 0 0;position: relative;z-index: 20;}.c-navmain {background: rgba(255,255,255,1.0);position: absolute;width: 100%;font: normal normal normal 1.4rem/1.8rem var(--font1);color: var(--color-black2);}.c-navmain__content {padding-top: calc( var(--header-h) );max-height: 100%;overflow: scroll;}.c-navmain a, .c-navmain a:hover, .c-navmain a:focus, .c-navmain a:active, .c-navmain a:visited {color: var(--color-black2);}.c-navmain a:hover {text-decoration: underline;}.c-navlang {font-size: 0;}.c-navlang__item {list-style-type: none;border-radius: 50%;border: 1.25px solid transparent;display: inline-block;font: normal normal bold 1.1rem/1.2rem var(--font1);width: 20px;height: 20px;text-align: center;}.c-navlang__item:not(:last-child) {margin-right: 3px;}.c-navlang__item a {display: block;padding-top: 20%;}.c-navlang__item a, .c-navlang__item a:hover, .c-navlang__item a:focus, .c-navlang__item a:active, .c-navlang__item a:visited {color: var(--color-black2);opacity: 0.5;}.c-navlang__item a:hover {text-decoration: underline;}.c-navlang__item[aria-current="true"] {border-color: var(--color-domus-azure);}.c-navlang__item[aria-current="true"] a, .c-navlang__item[aria-current="true"] a:hover, .c-navlang__item[aria-current="true"] a:focus, .c-navlang__item[aria-current="true"] a:active, .c-navlang__item[aria-current="true"] a:visited {opacity: 1;}.c-navlang__item[aria-current="true"] a:hover {text-decoration: none;}.c-social1 {font-size: 0;}.c-social1__item {list-style-type: none;border-radius: 50%;display: inline-block;border: 1.25px solid transparent;}.c-social1__item:not(:last-child) {margin-right: 7px;}.c-social1__item > a {display: block;width: 32px;height: 32px;position: relative;text-align: center;}.c-social1__item i[class*="icon"] {display: block;font-size: 16px;position: relative;top: 50%;float: left;width: 100%;margin-top: -25%;}.c-social1__item[class*="--facebook"] {border-color: var(--color-social-facebook);}.c-social1__item[class*="--facebook"] a, .c-social1__item[class*="--facebook"] a:hover, .c-social1__item[class*="--facebook"] a:focus, .c-social1__item[class*="--facebook"] a:active, .c-social1__item[class*="--facebook"] a:visited {color: var(--color-social-facebook);}.c-social1__item[class*="--twitter"] {border-color: var(--color-social-twitter);}.c-social1__item[class*="--twitter"] i[class*="icon"] {transform: scale(0.75);}.c-social1__item[class*="--twitter"] a, .c-social1__item[class*="--twitter"] a:hover, .c-social1__item[class*="--twitter"] a:focus, .c-social1__item[class*="--twitter"] a:active, .c-social1__item[class*="--twitter"] a:visited {color: var(--color-social-twitter);}.c-social1__item[class*="--pinterest"] {border-color: var(--color-social-pinterest);}.c-social1__item[class*="--pinterest"] a, .c-social1__item[class*="--pinterest"] a:hover, .c-social1__item[class*="--pinterest"] a:focus, .c-social1__item[class*="--pinterest"] a:active, .c-social1__item[class*="--pinterest"] a:visited {color: var(--color-social-pinterest);}.c-social1__item[class*="--instagram"] {border-color: var(--color-social-instagram);}.c-social1__item[class*="--instagram"] a, .c-social1__item[class*="--instagram"] a:hover, .c-social1__item[class*="--instagram"] a:focus, .c-social1__item[class*="--instagram"] a:active, .c-social1__item[class*="--instagram"] a:visited {color: var(--color-social-instagram);}.c-social1__item[class*="--whatsapp"] {border-color: var(--color-social-whatsapp);}.c-social1__item[class*="--whatsapp"] a, .c-social1__item[class*="--whatsapp"] a:hover, .c-social1__item[class*="--whatsapp"] a:focus, .c-social1__item[class*="--whatsapp"] a:active, .c-social1__item[class*="--whatsapp"] a:visited {color: var(--color-social-whatsapp);}.c-list1 [class*="__item"] {font: normal normal 500 1.5rem/1.7rem var(--font1);list-style-type: none;display: inline-block;color: var(--color-black2);letter-spacing: 0.05rem;}.c-list1 [class*="__item"]:not(:last-child):after {content: " / ";display: inline-block;margin: 0 5px;}.c-list1 [class*="__item"] a:hover {text-decoration: underline;}.c-list1 [class*="__item"] a, .c-list1 [class*="__item"] a:hover, .c-list1 [class*="__item"] a:focus, .c-list1 [class*="__item"] a:active, .c-list1 [class*="__item"] a:visited {color: var(--color-black2);}.c-list1--azure [class*="__item"]:after, .c-list1--azure [class*="__item"] a, .c-list1--azure [class*="__item"] a:hover, .c-list1--azure [class*="__item"] a:focus, .c-list1--azure [class*="__item"] a:active, .c-list1--azure [class*="__item"] a:visited {color: var(--color-domus-azure);}[class*="c-list1"][class*="--azure"] [class*="__item"]:after, [class*="c-list1"][class*="--azure"] [class*="__item"] a, [class*="c-list1"][class*="--azure"] [class*="__item"] a:hover, [class*="c-list1"][class*="--azure"] [class*="__item"] a:focus, [class*="c-list1"][class*="--azure"] [class*="__item"] a:active, [class*="c-list1"][class*="--azure"] [class*="__item"] a:visited {color: var(--color-domus-azure);}[class*="c-list1"][class*="--green"] [class*="__item"]:after, [class*="c-list1"][class*="--green"] [class*="__item"] a, [class*="c-list1"][class*="--green"] [class*="__item"] a:hover, [class*="c-list1"][class*="--green"] [class*="__item"] a:focus, [class*="c-list1"][class*="--green"] [class*="__item"] a:active, [class*="c-list1"][class*="--green"] [class*="__item"] a:visited {color: var(--color-domus-green);}[class*="c-list1"][class*="--orange"] [class*="__item"]:after, [class*="c-list1"][class*="--orange"] [class*="__item"] a, [class*="c-list1"][class*="--orange"] [class*="__item"] a:hover, [class*="c-list1"][class*="--orange"] [class*="__item"] a:focus, [class*="c-list1"][class*="--orange"] [class*="__item"] a:active, [class*="c-list1"][class*="--orange"] [class*="__item"] a:visited {color: var(--color-domus-orange);}.c-divider--s1 {background: transparent;border: 0;border-top: 4px solid var(--color-grey1);}.c-divider--s2 {background: transparent;border: 0;border-top: 1px solid var(--color-grey1);}.c-divider--s3 {background: transparent;border: 0;border-top: 2px solid var(--color-grey1);}[class*="c-divider--"][class*="--azure"] {border-top-color: var(--color-domus-azure);}[class*="c-divider--"][class*="--azure2"] {border-top-color: var(--color-domus-azure2);}[class*="c-divider--"][class*="--green"] {border-top-color: var(--color-domus-green);}[class*="c-divider--"][class*="--green2"] {border-top-color: var(--color-domus-green2);}[class*="c-divider--"][class*="--yellow"] {border-top-color: var(--color-domus-yellow);}.c-intro {border-bottom: 1px solid var(--color-grey1);}.c-intro__caption {font: normal normal bold 1.8rem/2.4rem var(--font1);color: var(--color-black2);margin-bottom: 15px;}.c-intro__image {margin-bottom: 15px;}.c-intro p {font: normal normal normal 1.8rem/2.4rem var(--font1);color: var(--color-black2);margin-bottom: 20px;}.c-intro--s1 .c-intro__caption {font: normal normal normal 1.4rem/1.8rem var(--font1);}.c-listpreview1__inner {border-top: 1px solid var(--color-grey1);}.c-listpreview1__inner > [class*="__item"] {font: normal normal bold 1.6rem/2.1rem var(--font1);color: var(--color-black2);padding: 15px 0;list-style-position: inside;}.c-listpreview1__inner > [class*="__item"]:not(:last-child) {border-bottom: 1px solid var(--color-grey1);}.c-listpreview1__inner a, .c-listpreview1__inner a:hover, .c-listpreview1__inner a:focus, .c-listpreview1__inner a:active, .c-listpreview1__inner a:visited {color: var(--color-black2);}.c-boxpreview1__item-title {font: normal normal bold 1.651rem/1.8rem var(--font1);color: var(--color-black2);}.c-boxpreview1__item-title a, .c-boxpreview1__item-title a:hover, .c-boxpreview1__item-title a:focus, .c-boxpreview1__item-title a:active, .c-boxpreview1__item-title a:visited {color: var(--color-black4);}.c-boxpreview1__item-title a:hover {text-decoration: underline;}.c-boxpreview1__meta li {font: normal normal 500 1.5rem/1.8rem var(--font1);list-style-type: none;display: inline-block;}.c-boxpreview1__meta li:not(:last-child):after {content: " / ";display: inline-block;margin: 0 5px;}.c-boxpreview1.--azure li, .c-boxpreview1.--azure li a, .c-boxpreview1.--azure li a:hover, .c-boxpreview1.--azure li a:focus, .c-boxpreview1.--azure li a:active, .c-boxpreview1.--azure li a:visited {color: var(--color-domus-azure);}.c-boxpreview1.--azure2 li, .c-boxpreview1.--azure2 li a, .c-boxpreview1.--azure2 li a:hover, .c-boxpreview1.--azure2 li a:focus, .c-boxpreview1.--azure2 li a:active, .c-boxpreview1.--azure2 li a:visited {color: var(--color-domus-azure2);}.c-boxpreview1.--green li, .c-boxpreview1.--green li a, .c-boxpreview1.--green li a:hover, .c-boxpreview1.--green li a:focus, .c-boxpreview1.--green li a:active, .c-boxpreview1.--green li a:visited {color: var(--color-domus-green);}.c-boxpreview1.--yellow li, .c-boxpreview1.--yellow li a, .c-boxpreview1.--yellow li a:hover, .c-boxpreview1.--yellow li a:focus, .c-boxpreview1.--yellow li a:active, .c-boxpreview1.--yellow li a:visited {color: var(--color-domus-orange);}.c-nav1__title1 {font: normal normal bold 2.2rem/2.4rem var(--font1);color: var(--color-black2);border-bottom: 3px solid var(--color-domus-azure);padding-bottom: 3px;}.c-nav1__item {font: normal normal normal 1.6rem/2.1rem var(--font1);color: var(--color-black2);list-style-type: none;}.c-nav1__item > * {display: block;border-top: 1px solid transparent;}.c-nav1__item:not(.--ignore-rules) > * > * {display: block;padding: 4px 0;}.c-nav1__item a, .c-nav1__item a:hover, .c-nav1__item a:focus, .c-nav1__item a:active, .c-nav1__item a:visited {color: var(--color-black2);}.c-nav1__item a:hover {text-decoration: underline;}.c-nav1--s1 .c-nav1__item > * {font: normal normal normal 1.4rem/1.8rem var(--font1);border-top: 1px solid var(--color-grey1);}.c-nav1--s1 .c-nav1__item > * > * {padding: 10px 0;}.c-nav1--s2 .c-nav1__item > * {font: normal normal normal 1.4rem/1.8rem var(--font1);border-top: 1px solid var(--color-domus-azure2);letter-spacing: 0.04rem;}.c-nav1--s2 .c-nav1__item > * > * {padding: 8px 0;}.c-nav1--s2 .c-nav1__item, .c-nav1--s2 .c-nav1__item a, .c-nav1--s2 .c-nav1__item a:hover, .c-nav1--s2 .c-nav1__item a:focus, .c-nav1--s2 .c-nav1__item a:active, .c-nav1--s2 .c-nav1__item a:visited {color: var(--color-white1);}.c-footer {color: var(--color-white1);background-color: var(--color-black2);}.c-footer .c-social1__item[class*="--facebook"] a, .c-footer .c-social1__item[class*="--facebook"] a:hover, .c-footer .c-social1__item[class*="--facebook"] a:focus, .c-footer .c-social1__item[class*="--facebook"] a:active, .c-footer .c-social1__item[class*="--facebook"] a:visited {color: var(--color-social-facebook);}.c-footer .c-social1__item[class*="--twitter"] a, .c-footer .c-social1__item[class*="--twitter"] a:hover, .c-footer .c-social1__item[class*="--twitter"] a:focus, .c-footer .c-social1__item[class*="--twitter"] a:active, .c-footer .c-social1__item[class*="--twitter"] a:visited {color: var(--color-social-twitter);}.c-footer .c-social1__item[class*="--pinterest"] a, .c-footer .c-social1__item[class*="--pinterest"] a:hover, .c-footer .c-social1__item[class*="--pinterest"] a:focus, .c-footer .c-social1__item[class*="--pinterest"] a:active, .c-footer .c-social1__item[class*="--pinterest"] a:visited {color: var(--color-social-pinterest);}.c-footer .c-social1__item[class*="--instagram"] a, .c-footer .c-social1__item[class*="--instagram"] a:hover, .c-footer .c-social1__item[class*="--instagram"] a:focus, .c-footer .c-social1__item[class*="--instagram"] a:active, .c-footer .c-social1__item[class*="--instagram"] a:visited {color: var(--color-social-instagram);}figcaption.c-img__caption, p.c-img__caption {font: normal normal bold 1.525rem/1.974rem var(--font1);letter-spacing: 0.04rem;color: var(--color-black5);}.zaux-title1 {font: normal normal bold 2.2rem/2.2rem var(--font3);letter-spacing: -0.04rem;color: var(--color-black2);}.zaux-title1.--green2 {color: var(--color-domus-green2);}.zaux-title2 {font: normal normal bold 2.2rem/2.5rem var(--font1);color: var(--color-black2);}.zaux-label1 {font: normal normal normal 1.1rem/1.1rem var(--font1);color: var(--color-black4);text-transform: uppercase;letter-spacing: 0.20rem;}.zaux-linetop1 {border-top: 1px solid var(--color-grey1);padding-top: 10px;}.zaux-underline1.--azure {background: linear-gradient(0deg,var(--color-domus-azure) 3px,transparent 0,transparent);}.zaux-underline1.--azure2 {background: linear-gradient(0deg,var(--color-domus-azure2) 3px,transparent 0,transparent);}.zaux-underline1.--green {background: linear-gradient(0deg,var(--color-domus-green) 3px,transparent 0,transparent);}.zaux-underline1.--green2 {background: linear-gradient(0deg,var(--color-domus-green2) 3px,transparent 0,transparent);}.zaux-underline1.--yellow {background: linear-gradient(0deg,var(--color-domus-yellow) 3px,transparent 0,transparent);}.zaux-demo {background: #F2E2FFAA;border: 1px solid #70707044;color: #333333AA;text-align: center;padding: 10% 20px 20px 20px;font-size: 1.6rem;min-height: 100px;}
+			.readall_border_green{
+				border-color:var(--color-domus-green) ;
+            }
+			.fixed-height-container {
+     			position: relative;
+     			width: 100%;
+     			height: 300px;
+   			}
+
+  			amp-img.contain img {
+    			object-fit: contain;
+  			}
+  			
+  			.popupOverlay {
+	            position: fixed;
+	            top: 0;
+	            bottom: 0;
+	            left: 0;
+	            right: 0;
+	        }
+	        amp-iframe {
+	            margin: 0;
+	        }
+	        .iubenda-tp-btn {
+		        position: fixed;
+		        z-index: 2147483647;
+		        background-image: url('data:image/svg+xml,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' width=\'32\' height=\'32\' viewBox=\'0 0 32 32\'%3E%3Cpath fill=\'%231CC691\' fill-rule=\'evenodd\' d=\'M16 7a4 4 0 0 1 2.627 7.016L19.5 25h-7l.873-10.984A4 4 0 0 1 16 7z\'/%3E%3C/svg%3E');
+		        background-repeat: no-repeat;
+		        background-size: 32px 32px;
+		        background-position: top .5px left 1px;
+		        width: 34px;
+		        height: 34px;
+		        border: none;
+		        cursor: pointer;
+		        margin: 16px;
+		        padding: 0;
+		        box-shadow: 0 0 0 1px rgba(0, 0, 0, .15);
+		        background-color: #fff;
+		        display: inline-block;
+		        height: 34px;
+		        min-width: 34px;
+		        border-radius: 4px;
+		        bottom: 0;
+		        right: 0;
+		    }
+		    .iubenda-tp-btn--top-left {
+		        top: 0;
+		        left: 0;
+		    }
+		    .iubenda-tp-btn--top-right {
+		        top: 0;
+		        right: 0;
+		    }
+		    .iubenda-tp-btn--bottom-left {
+		        bottom: 0;
+		        left: 0;
+		    }
+		    .iubenda-tp-btn--bottom-right {
+		        bottom: 0;
+		        right: 0;
+		    }
+	  			
+		</style><title> </title><link href=https://www.domusweb.it/en/architecture/2022/07/26/is-artificial-intelligence-the-architect-of-the-future.html rel=canonical><meta content=2 name=runtime-type></head><body>
+	
+
+
+
+
+<script type=application/ld+json>
+   {
+   		"@context": "https://schema.org",
+   		"@type": "NewsArticle",
+        "mainEntityOfPage": {
+			"@type": "WebPage",
+			"@id": "https://www.domusweb.it/en/architecture/2022/07/26/is-artificial-intelligence-the-architect-of-the-future.html"
+		},
+   		"headline": "Is artificial intelligence the architect of the future?",
+   		"image": [
+				"https://www.domusweb.it/content/domusweb20/en/architecture/archive/2022/07/26/la-intelligenza-artificiale-e-architetto-del-futuro/jcr:content/image-preview.img.rmedium.jpg/1658827829594.jpg"
+				],
+   		"datePublished": "2022-07-26",
+		"dateModified": "2022-07-26",
+  		"author": {
+			"@type": "Person",
+			"name": "Andrea Daniele Signorelli"
+			},
+   		"publisher": {
+			"@type": "Organization",
+			"name": "Domusweb",
+			"logo": {
+				"@type": "ImageObject",
+				"url": "https://www.domusweb.it/etc/designs/domusweb20/dem/logo1.png"
+			}
+		},
+		"description": "&lt;span&gt;A new generation of increasingly sophisticated AI &ndash; such as Midjourney &ndash; unveils new possibilities for design: we have tried to figure out whether&nbsp;and how they will replace humans and their work.&lt;/span&gt;
+"
+   }
+</script>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<amp-analytics class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" i-amphtml-layout=fixed style=width:1px;height:1px; type=webtrekk_v2>
+    <script type=application/json> 
+        {
+            "requests": {
+            	"parameterSuffix": "&pu=https://www.domusweb.it/en/architecture/2022/07/26/is-artificial-intelligence-the-architect-of-the-future.html&eor=1"
+            },
+            "vars": {
+                "trackDomain": "edidomus01.webtrekk.net",
+                "trackId": ["778835614863159"],
+                "contentId": "https://www.domusweb.it/en/architecture/2022/07/26/is-artificial-intelligence-the-architect-of-the-future.amp.html"
+            },
+            "extraUrlParams": {
+                "contentGroup1": "Edidomus",
+           		"contentGroup2": "domusweb.it",
+           		"contentGroup3": "ARCHITECTURE",
+                    
+                "contentGroup5": "",
+                    
+                "pageParameter15": "Non Loggato",
+           		"pageParameter23": "DOMMOBILE_ARCHITECTURE_ALTRO",
+           		"pageParameter36": "amp",
+                "pageParameter55": "https://www.domusweb.it/en/architecture/2022/07/26/is-artificial-intelligence-the-architect-of-the-future"
+            },
+            "triggers": {
+                "trackPageview" : {
+                    "on" : "visible",
+                    "request": "pageview"
+                }
+            }
+        }
+    </script>
+</amp-analytics>
+
+<amp-analytics class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" i-amphtml-layout=fixed style=width:1px;height:1px; type=webtrekk_v2>
+    <script type=application/json> 
+        {
+            "requests": {
+            	"parameterSuffix": "&pu=https://www.domusweb.it/en/architecture/2022/07/26/is-artificial-intelligence-the-architect-of-the-future.html&eor=1"
+            },
+            "vars": {
+                "trackDomain": "edidomus01.webtrekk.net",
+                "trackId": ["778835614863159"],
+                "contentId": "https://www.domusweb.it/en/architecture/2022/07/26/is-artificial-intelligence-the-architect-of-the-future.amp.gallery.html"
+            },
+            "extraUrlParams": {
+                "contentGroup1": "Edidomus",
+           		"contentGroup2": "domusweb.it"
+				
+					, "contentGroup3" : "ARCHITECTURE"
+               		, "contentGroup4" : "PHOTO GALLERY"
+                
+                        
+                        ,"pageParameter3": "en"
+                        
+                ,"pageParameter15": "Non Loggato",
+           		"pageParameter23": "DOMMOBILE_ARCHITECTURE_ALTRO",
+                "pageParameter30": "6",
+           		"pageParameter36": "amp",
+                "pageParameter55":"https://www.domusweb.it/en/architecture/2022/07/26/is-artificial-intelligence-the-architect-of-the-future"
+            },
+            "triggers": {
+
+                
+                    "pageView1": {
+    				"on": "visible",
+    				"request": "pageview",
+                        
+					"selector": "#nolisticle_img1",  
+                    "extraUrlParams":{ "pageParameter27": "gallery 1"}
+                     
+
+                }
+				
+                    ,"pageView2": {
+    				"on": "visible",
+    				"request": "pageview",
+                        
+					"selector": "#nolisticle_img2",  
+                    "extraUrlParams":{ "pageParameter27": "gallery 2"}
+                     
+
+                }
+				
+                    ,"pageView3": {
+    				"on": "visible",
+    				"request": "pageview",
+                        
+					"selector": "#nolisticle_img3",  
+                    "extraUrlParams":{ "pageParameter27": "gallery 3"}
+                     
+
+                }
+				
+                    ,"pageView4": {
+    				"on": "visible",
+    				"request": "pageview",
+                        
+					"selector": "#nolisticle_img4",  
+                    "extraUrlParams":{ "pageParameter27": "gallery 4"}
+                     
+
+                }
+				
+                    ,"pageView5": {
+    				"on": "visible",
+    				"request": "pageview",
+                        
+					"selector": "#nolisticle_img5",  
+                    "extraUrlParams":{ "pageParameter27": "gallery 5"}
+                     
+
+                }
+				
+                    ,"pageView6": {
+    				"on": "visible",
+    				"request": "pageview",
+                        
+					"selector": "#nolisticle_img6",  
+                    "extraUrlParams":{ "pageParameter27": "gallery 6"}
+                     
+
+                }
+				
+            }
+        }
+    </script>
+</amp-analytics>
+
+	<header class=c-header>
+	<div class="c-wrapper--s1 clearfix">
+		<div class="c-header__left float-left">
+			<a class=c-header__logo-wrapper href=https://www.domusweb.it/ target=_blank>
+				<i aria-hidden=true class=domusweb1icon-domuslogo1></i>
+			</a>
+		</div>
+		
+		<div class="c-header__right float-right">
+			<button class=c-header__btn-search-open on=tap:search-overlay title="Apri ricerca">
+				<i aria-hidden=true class=domusweb1icon-magnify></i>
+			</button>
+			<button class=c-header__btn-menu-open on=tap:navmain-overlay title="Apri men�">
+				<i aria-hidden=true class=domusweb1icon-burger></i>
+			</button>
+		</div>
+		
+	</div>
+	
+</header>
+
+
+
+
+
+<amp-lightbox class="c-navmain i-amphtml-layout-nodisplay" hidden=hidden i-amphtml-layout=nodisplay id=navmain-overlay layout=nodisplay>
+	<div class="c-navmain__head c-header">
+		<div class="c-wrapper--s1 clearfix">
+			<div class="c-header__left float-left">
+				<div class=c-header__logo-wrapper>
+					<i aria-hidden=true class=domusweb1icon-domuslogo1></i>
+				</div>
+			</div>
+			
+			<div class="c-header__right float-right">
+				<button class=c-header__btn-menu-close on=tap:navmain-overlay.close title="Chiudi men�">
+					<i aria-hidden=true class=domusweb1icon-cross></i>
+				</button>
+			</div>
+			
+		</div>
+		
+	</div>
+	
+	<div class=c-navmain__content>
+		<div class="c-wrapper--s1 clearfix">
+			<div class="text-right mb-10 ls-005">
+				<a href=#>Sign up</a>   /   <a href=#>Log in</a>
+			</div>
+			<div class="c-nav1 c-navmain__section mb-20">
+				<h6 class="c-nav1__title1 mb-10">
+					Sections
+				</h6>
+				<ul class=row>
+					
+						<li class="c-nav1__item col-6">
+							<span>
+								<a href=https://www.domusweb.it/en/news.html target=_top>
+									
+                    				News
+								</a>
+							</span>
+						</li>
+                    
+						<li class="c-nav1__item col-6">
+							<span>
+								<a href=https://www.domusweb.it/en/architecture.html target=_top>
+									
+                    				Architecture
+								</a>
+							</span>
+						</li>
+                    
+						<li class="c-nav1__item col-6">
+							<span>
+								<a href=https://www.domusweb.it/en/interiors.html target=_top>
+									
+                    				Interiors
+								</a>
+							</span>
+						</li>
+                    
+						<li class="c-nav1__item col-6">
+							<span>
+								<a href=https://www.domusweb.it/en/design.html target=_top>
+									
+                    				Design
+								</a>
+							</span>
+						</li>
+                    
+						<li class="c-nav1__item col-6">
+							<span>
+								<a href=https://www.domusweb.it/en/art.html target=_top>
+									
+                    				Art
+								</a>
+							</span>
+						</li>
+                    
+						<li class="c-nav1__item col-6">
+							<span>
+								<a href=https://www.domusweb.it/en/from-the-archive.html target=_top>
+									
+                    				Archive
+								</a>
+							</span>
+						</li>
+                    
+						<li class="c-nav1__item col-6">
+							<span>
+								<a href=https://www.domusweb.it/en/product-news.html target=_top>
+									
+                    				Products
+								</a>
+							</span>
+						</li>
+                    
+						<li class="c-nav1__item col-6">
+							<span>
+								<a href=https://www.domusweb.it/en/cover.html target=_top>
+									
+                    				Covers
+								</a>
+							</span>
+						</li>
+                    
+						<li class="c-nav1__item col-6">
+							<span>
+								<a href=https://www.domusweb.it/en/biographies.html target=_top>
+									
+                    				Biographies
+								</a>
+							</span>
+						</li>
+                    
+						<li class="c-nav1__item col-6">
+							<span>
+								<a href=https://www.domusweb.it/en/speciali/architecture-firms.html target=_top>
+									
+                    				Architecture Firms
+								</a>
+							</span>
+						</li>
+                    
+						
+                    
+						<li class="c-nav1__item col-6">
+							<span>
+								<a href=https://www.domusweb.it/en/sustainable-cities.html target=_top>
+									
+                    				Sustainable Cities
+								</a>
+							</span>
+						</li>
+                    
+						<li class="c-nav1__item col-6">
+							<span>
+								<a href=https://www.domusweb.it/en/gallery.html target=_top>
+									
+                    				Gallery
+								</a>
+							</span>
+						</li>
+                    
+						<li class="c-nav1__item col-6">
+							<span>
+								<a href=https://www.domusweb.it/en/speciali/domusfordesign.html target=_top>
+									
+                    				Domus for Design
+								</a>
+							</span>
+						</li>
+                    
+				</ul>
+			</div>
+			
+			<div class="c-nav1 c-navmain__section mb-20">
+				<h6 class="c-nav1__title1 mb-10">
+					Specials
+				</h6>
+				<ul class=row>
+                    
+						<li class="c-nav1__item col-6"><span><a href=https://www.domusweb.it/en/speciali/design-essentials.html target=_top>Design Essentials</a></span></li>
+                    
+						<li class="c-nav1__item col-6"><span><a href=https://www.domusweb.it/en/speciali/modern-work.html target=_top>Modern Work</a></span></li>
+                    
+						<li class="c-nav1__item col-6"><span><a href=https://www.domusweb.it/en/speciali/venice-art-biennale.html target=_top>Venice Architecture Biennale</a></span></li>
+                    
+						<li class="c-nav1__item col-6"><span><a href=https://www.domusweb.it/en/speciali/domus-air.html target=_top>DomusAir</a></span></li>
+                    
+						<li class="c-nav1__item col-6"><span><a href=https://www.domusweb.it/en/events/salone-del-mobile.html target=_top>Milan Design Week</a></span></li>
+                    
+				</ul>
+			</div>
+		
+		<div class="c-nav1 c-navmain__section mb-20">
+			<h6 class="c-nav1__title1 mb-10">
+				Magazine
+			</h6>
+			<ul class=row>
+                
+					<li class="c-nav1__item col-6"><span><a href=https://www.shoped.it/shop/en/product-category/subscriptions/domus-subscriptions/ target=_top>Subscriptions</a></span></li>
+				
+					<li class="c-nav1__item col-6"><span><a href="https://abbonati.shoped.it/digitale/acquista?title=domus" target=_top>Digital Edition</a></span></li>
+				
+					<li class="c-nav1__item col-6"><span><a href=https://www.domusweb.it/en/news/gallery/2022/01/03/domus-1064-is-on-newsstands-an-issue-dedicated-to-the-character.html target=_top>Current Issue</a></span></li>
+				
+					<li class="c-nav1__item col-6"><span><a href=https://www.domusweb.it/en/speciali/guest-editor/jean-nouvel.html target=_top>Guest Editor</a></span></li>
+				
+					<li class="c-nav1__item col-6"><span><a href=https://www.domusweb.it/en/shop/digital_archive.html target=_top>Digital Archive</a></span></li>
+				
+			</ul>
+		</div>
+		
+		<div class="c-nav1 c-nav1--s1 c-navmain__section">
+			<div class=row>
+				<div class="c-nav1__item col-6">
+					<div>
+						<div>
+							<div class=mb-10>
+								Seguici su
+							</div>
+							<div class=c-social1>
+								<ul>
+									<li class="c-social1__item c-social1__item--facebook">
+										<a href=# title=Facebook>
+											<i aria-hidden=true class=domusweb1icon-socialfacebook><span class=sr-only>Facebook</span></i>
+										</a>
+									</li>
+									<li class="c-social1__item c-social1__item--twitter">
+										<a href=# title=Twitter>
+											<i aria-hidden=true class=domusweb1icon-socialtwitter><span class=sr-only>Twitter</span></i>
+										</a>
+									</li>
+									<li class="c-social1__item c-social1__item--pinterest">
+										<a href=# title=Pinterest>
+											<i aria-hidden=true class=domusweb1icon-socialpinterest><span class=sr-only>Pinterest</span></i>
+										</a>
+									</li>
+									<li class="c-social1__item c-social1__item--instagram">
+										<a href=# title=Instagram>
+											<i aria-hidden=true class=domusweb1icon-socialinstagram><span class=sr-only>Instagram</span></i>
+										</a>
+									</li>
+								</ul>
+							</div>
+							
+						</div>
+					</div>
+				</div>
+				<div class="c-nav1__item col-6">
+					<div>
+						<div>
+							<div class=row>
+								<div class=col-6>
+									Lingua
+								</div>
+								<div class="col-6 text-right">
+									
+                					<ul class=c-navlang>
+                						<li aria-current=false class=c-navlang__item data-language=it>
+
+                							<a href=https://www.domusweb.it/it/architettura/2022/07/26/la-intelligenza-artificiale-e-architetto-del-futuro.amp.html target=_top>it</a>
+                						</li>
+                					
+                						<li aria-current=true class=c-navlang__item data-language=en>
+
+                							<a href=https://www.domusweb.it/en/architecture/2022/07/26/is-artificial-intelligence-the-architect-of-the-future.amp.html target=_top>en</a>
+                						</li>
+                					</ul>
+									
+								</div>
+							</div>
+							
+						</div>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+		
+	</div>
+	
+	</div>
+	
+</amp-lightbox>
+
+
+
+<amp-lightbox class="c-search i-amphtml-layout-nodisplay" hidden=hidden i-amphtml-layout=nodisplay id=search-overlay layout=nodisplay>
+	<div class="c-search__head c-header">
+		<div class="c-wrapper--s1 clearfix">
+			<div class="c-header__right float-right">
+				<button class=c-header__btn-search-close on=tap:search-overlay.close title="Chiudi ricerca">
+					<i aria-hidden=true class=domusweb1icon-cross></i>
+				</button>
+			</div>
+			
+		</div>
+		
+	</div>
+	
+
+	<div class=c-search__content>
+		<div class="c-wrapper--s1 clearfix">
+			<form action=#search_endpoint class=c-form method=get name=search target=_top>
+				<div class=c-form__group>
+					<div class="c-form__item c-form__item--search">
+						<label class=c-form__item-wrapper>
+							<input aria-label="Cerca nel sito" autocomplete=on class="c-search__txt form-control" id=search_txt name=s placeholder="Cerca nel sito" type=search>
+						</label>
+					</div>
+
+					<button aria-label=Cerca class="c-form__item c-form__item--btn" type=submit>
+						<i aria-hidden=true class=domusweb1icon-magnify></i>
+					</button>
+
+				</div>
+				
+			</form>
+			
+		</div>
+		
+	</div>
+	
+</amp-lightbox>
+	<main>
+		
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+<article>
+	<hr aria-hidden=true class="c-vspace mb-30" role=presentation>
+	
+
+
+
+
+
+
+
+
+
+
+    
+    	<div class="c-typo1--s1 --azure">
+        	<div class="c-wrapper--s1 clearfix">
+            	<h1>
+                	<span class="zaux-underline1 --azure">Is artificial intelligence the architect of the future?</span>
+                </h1>
+            </div>
+            
+        </div>
+        
+		<div class="c-typo1--extra --azure mb-25">
+        	<div class="c-wrapper--s1 clearfix">
+            	<h2>A new generation of increasingly sophisticated AI – such as Midjourney – unveils new possibilities for design: we have tried to figure out whether and how they will replace humans and their work.
+</h2>
+            </div>
+            
+        </div>
+        
+    	
+    	
+			<figure class="c-img mb-25">
+				<div class="c-wrapper--s1 clearfix">
+					
+
+
+	<amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=731 i-amphtml-layout=responsive i-amphtml-ssr layout=responsive src=https://www-domusweb-it.cdn.ampproject.org/i/s/www.domusweb.it/content/dam/domusweb/en/architecture/2022/07/26/la-intelligenza-artificiale-e-architetto-del-futuro/domus-ai1-1.jpg.foto.rmedium.jpg width=1088><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:67.1875%;></i-amphtml-sizer><img class=i-amphtml-blurry-placeholder placeholder src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns=&#39;http%3A//www.w3.org/2000/svg&#39; xmlns%3Axlink=&#39;http%3A//www.w3.org/1999/xlink&#39; viewBox=&#39;0 0 9 6&#39;%3E%3Cfilter id=&#39;b&#39; color-interpolation-filters=&#39;sRGB&#39;%3E%3CfeGaussianBlur stdDeviation=&#39;.5&#39;%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA type=&#39;discrete&#39; tableValues=&#39;1 1&#39;%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage filter=&#39;url(%23b)&#39; x=&#39;0&#39; y=&#39;0&#39; height=&#39;100%25&#39; width=&#39;100%25&#39; xlink%3Ahref=&#39;data%3Aimage/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAGAAkDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAIRAAAQIEBwAAAAAAAAAAAAAAAQACAwQGERYhYoGCktH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABURAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIRAxEAPwDGlaomIZe4lwDjcguMQW5HLZUYt0P6j1EQaG//2Q==&#39;%3E%3C/image%3E%3C/svg%3E"><img class="i-amphtml-fill-content i-amphtml-replaced-content" decoding=async src=https://www-domusweb-it.cdn.ampproject.org/i/s/www.domusweb.it/content/dam/domusweb/en/architecture/2022/07/26/la-intelligenza-artificiale-e-architetto-del-futuro/domus-ai1-1.jpg.foto.rmedium.jpg></amp-img>
+
+
+    				<figcaption class="c-img__caption sr-only">
+						
+        			</figcaption>
+    			</div>
+    			
+			</figure>
+    	
+    
+
+	
+
+	
+		
+    
+
+    <div class=section><div class=new></div>
+</div><div class=iparys_inherited><div class="left-side-top iparsys parsys"><div class="article-info parbase section">
+
+
+
+<div class="c-details c-accordion1 mb-25">
+	<div class="c-wrapper--s1 clearfix">
+    	<amp-accordion animate class=i-amphtml-layout-container disable-session-states i-amphtml-layout=container>
+        	<section>
+            	<h6 class="c-details__head c-accordion1__head zaux-label1 zaux-linetop1">
+                	View Article details
+                </h6>
+                
+                <div class="c-details__content c-accordion1__content">
+					<ul>
+						<li class="c-details__item row">
+							<span aria-hidden=true class="c-details__label col-4 zaux-label1">
+								Author
+                            </span>
+                            <span aria-label=Author class="c-details__value col-8">
+								<a href=https://www.domusweb.it/en/authors/s/andrea-daniele-signorelli.html target=_top>
+									Andrea Daniele Signorelli
+                                </a>
+                            </span>
+                        </li>
+                        <li class="c-details__item row">
+							<span aria-hidden=true class="c-details__label col-4 zaux-label1">
+								Published
+                            </span>
+                            <span aria-label=Published class="c-details__value col-8">
+								26 July 2022
+                            </span>
+                        </li>
+
+                        
+
+                        
+
+                        
+
+                        
+
+                        
+
+                    </ul>
+                </div>
+                
+            </section>
+        </amp-accordion>
+    </div>
+    
+</div>
+</div>
+<div class="article-social parbase section">
+
+
+<div class="c-share mb-30">					
+	<div class="c-wrapper--s1 clearfix">
+		<h6 class="zaux-label1 mb-10 zaux-linetop1">
+			Share
+        </h6>
+        <div class=c-social1>
+			<ul>
+				<li class="c-social1__item c-social1__item--facebook">
+					
+                    <amp-social-share class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" data-param-app_id={{WEBSITE_FB_APP_ID}} height=32 i-amphtml-layout=fixed style=width:32px;height:32px; type=facebook width=32></amp-social-share>
+                    <a href=# title=Facebook>
+						<i aria-hidden=true class=domusweb1icon-socialfacebook><span class=sr-only>Facebook</span></i>
+                    </a>
+                </li>
+                <li class="c-social1__item c-social1__item--twitter">
+					<amp-social-share class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" height=32 i-amphtml-layout=fixed style=width:32px;height:32px; type=twitter width=32></amp-social-share>
+                    <a href=# title=Twitter>
+						<i aria-hidden=true class=domusweb1icon-socialtwitter><span class=sr-only>Twitter</span></i>
+                    </a>
+                </li>
+                <li class="c-social1__item c-social1__item--pinterest">
+					<amp-social-share class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" height=32 i-amphtml-layout=fixed style=width:32px;height:32px; type=pinterest width=32></amp-social-share>
+                    <a href=# title=Pinterest>
+						<i aria-hidden=true class=domusweb1icon-socialpinterest><span class=sr-only>Pinterest</span></i>
+                    </a>
+                </li>
+                <li class="c-social1__item c-social1__item--whatsapp">
+					<amp-social-share class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" height=32 i-amphtml-layout=fixed style=width:32px;height:32px; type=whatsapp width=32></amp-social-share>
+                    <a href=# title=WhatsApp>
+						<i aria-hidden=true class=domusweb1icon-socialwhatsapp><span class=sr-only>WhatsApp</span></i>
+                    </a>
+                </li>
+            </ul>
+		</div>
+        
+    </div>
+    
+</div>
+ </div>
+</div>
+</div>
+
+
+    <div class="c-wrapper--s1 clearfix">            
+		<amp-ad class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-pid=117145 height=1 i-amphtml-layout=responsive layout=responsive type=teads width=300><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:0.3333%;></i-amphtml-sizer></amp-ad>
+	</div>
+
+    
+
+
+    <div class="c-typo1--s1 c-typo1--s1-var1 --azure">
+    	<div class="c-wrapper--s1 clearfix">
+			<div class="article-text text parbase section">
+
+
+
+<article class="c-typo1--s1 ">
+<p>Unless you have completely abandoned social networks, you have surely seen Dall-E working in the last few weeks. It is one of the latest and well-known AI algorithms, developed by the OpenAI research lab and capable of producing images based on our text input. Although the original version is limited access, its “mini” version is available online, and it is precisely the one used to create the most unlikely images – “Spiderman in the style of Picasso”, “a cowboy in space” – that are invading your feeds. 
+</p>
+</article>
+</div>
+<div class="article-text text parbase section">
+
+
+
+<article class="c-typo1--s1 ">
+<p>However, other algorithms – with a similar mechanism – are being employed in a more reasoned and less chaotic way, aiming at uses that in some cases go beyond mere experimentation or fun. It is the case, for instance, of Midjourney, which – among its other uses – is rapidly intriguing and fascinating the world of architecture. This field is paying more and more attention to the possible uses of deep learning, as shown also by the latest Architectural Design monograph entitled <i>Machine Hallucination</i> entirely dedicated to this topic.  
+</p>
+</article>
+</div>
+<div class="article-gallery-nolisticle parbase section">
+
+
+
+
+
+<div data-title="Midjourney, Architectural Design, Machine Hallucination, Mario Coppola">
+
+
+<div class="c-gallery mb-40">
+	<div class="c-wrapper--s1 clearfix">
+		<button class=c-gallery__trigger on=tap:gallery_id_1-overlay role=button>
+        	<figure class="c-img text-left">
+				<span class=c-gallery__media-wrapper>
+					<amp-img alt="alternative text" class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=988 i-amphtml-layout=responsive layout=responsive src=https://www-domusweb-it.cdn.ampproject.org/i/s/www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2022/07/25/mario-coppola/gallery/domus-ai3.JPG.img.png/1658758656084.png width=988><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer><img class=i-amphtml-blurry-placeholder placeholder src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns=&#39;http%3A//www.w3.org/2000/svg&#39; xmlns%3Axlink=&#39;http%3A//www.w3.org/1999/xlink&#39; viewBox=&#39;0 0 7 7&#39;%3E%3Cfilter id=&#39;b&#39; color-interpolation-filters=&#39;sRGB&#39;%3E%3CfeGaussianBlur stdDeviation=&#39;.5&#39;%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA type=&#39;discrete&#39; tableValues=&#39;1 1&#39;%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage filter=&#39;url(%23b)&#39; x=&#39;0&#39; y=&#39;0&#39; height=&#39;100%25&#39; width=&#39;100%25&#39; xlink%3Ahref=&#39;data%3Aimage/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAHAAcDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAT/xAAcEAACAgIDAAAAAAAAAAAAAAABAwARAgQFEmH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABsRAAIBBQAAAAAAAAAAAAAAAAACARESEyFR/9oADAMBAAIRAxEAPwC5nL7LWpajMGgbV1q/TERAvbpZjSNUP//Z&#39;%3E%3C/image%3E%3C/svg%3E"></amp-img>
+                    <span class=c-gallery__trigger-btn>
+                    	<i aria-hidden=true class=domusweb1icon-camera></i>
+                        	<span class=c-gallery__trigger-btn-label>
+                            	View gallery
+                            </span>
+                    </span>
+                    
+                </span>
+                
+				<figcaption class="c-img__caption pt-10">
+
+                </figcaption>
+            </figure>
+		</button>
+        
+    </div>
+    
+</div>
+
+
+<amp-lightbox class="c-modal1 i-amphtml-layout-nodisplay" hidden=hidden i-amphtml-layout=nodisplay id=gallery_id_1-overlay layout=nodisplay>
+	<div class="c-modal1__head c-header">
+		<div class="c-wrapper--s1 clearfix" style=padding-left:20px;padding-right:20px;>
+        	<div class="c-header__left float-left">
+            	<div class=c-header__logo-wrapper>
+                	<i aria-hidden=true class=domusweb1icon-domuslogo1></i>
+                </div>
+            </div>
+            
+            <div class="c-header__right float-right">
+            	<button class=c-modal1__btn--close on=tap:gallery_id_1-overlay.close title="Chiudi ricerca">
+                	<i aria-hidden=true class=domusweb1icon-cross></i>
+                 </button>
+            </div>
+            
+         </div>
+         
+     </div>
+     
+     <div class=c-modal1__content>
+     	<div class="c-wrapper--s1 clearfix" style=padding-left:20px;padding-right:20px;>
+     		<div class="c-intro pt-20 mb-30">
+				
+					<figure class=c-intro__image>
+						
+						
+	                    	<amp-img alt class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=988 i-amphtml-layout=responsive id=nolisticle_img1 layout=responsive src=https://www-domusweb-it.cdn.ampproject.org/i/s/www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2022/07/25/mario-coppola/gallery/domus-ai3.JPG.foto.rmedium.png width=988><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer><img class=i-amphtml-blurry-placeholder placeholder src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns=&#39;http%3A//www.w3.org/2000/svg&#39; xmlns%3Axlink=&#39;http%3A//www.w3.org/1999/xlink&#39; viewBox=&#39;0 0 7 7&#39;%3E%3Cfilter id=&#39;b&#39; color-interpolation-filters=&#39;sRGB&#39;%3E%3CfeGaussianBlur stdDeviation=&#39;.5&#39;%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA type=&#39;discrete&#39; tableValues=&#39;1 1&#39;%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage filter=&#39;url(%23b)&#39; x=&#39;0&#39; y=&#39;0&#39; height=&#39;100%25&#39; width=&#39;100%25&#39; xlink%3Ahref=&#39;data%3Aimage/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAHAAcDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAT/xAAcEAACAgIDAAAAAAAAAAAAAAABAwARAgQFEmH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABsRAAIBBQAAAAAAAAAAAAAAAAACARESEyFR/9oADAMBAAIRAxEAPwC5nL7LWpajMGgbV1q/TERAvbpZjSNUP//Z&#39;%3E%3C/image%3E%3C/svg%3E"></amp-img>
+                         
+                     	<figcaption class="c-intro__caption pt-15">
+                        	Midjourney, Architectural Design, Machine Hallucination
+                        	
+                        	Mario Coppola
+
+                        </figcaption>
+                        </figure>
+						<p>
+                        	
+                        	
+                        </p>
+				
+				
+					<figure class=c-intro__image>
+						
+						
+	                    	<amp-img alt class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=988 i-amphtml-layout=responsive id=nolisticle_img2 layout=responsive src=https://www-domusweb-it.cdn.ampproject.org/i/s/www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2022/07/25/mario-coppola/gallery/domus-ai1.JPG.foto.rmedium.png width=989><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:99.8989%;></i-amphtml-sizer><img class=i-amphtml-blurry-placeholder placeholder src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns=&#39;http%3A//www.w3.org/2000/svg&#39; xmlns%3Axlink=&#39;http%3A//www.w3.org/1999/xlink&#39; viewBox=&#39;0 0 7 7&#39;%3E%3Cfilter id=&#39;b&#39; color-interpolation-filters=&#39;sRGB&#39;%3E%3CfeGaussianBlur stdDeviation=&#39;.5&#39;%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA type=&#39;discrete&#39; tableValues=&#39;1 1&#39;%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage filter=&#39;url(%23b)&#39; x=&#39;0&#39; y=&#39;0&#39; height=&#39;100%25&#39; width=&#39;100%25&#39; xlink%3Ahref=&#39;data%3Aimage/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAHAAcDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAT/xAAdEAACAQQDAAAAAAAAAAAAAAAAAQIDBBEhBoGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEQMRAD8Agt+U3EotVqTnvOGk2u9eAAUTr//Z&#39;%3E%3C/image%3E%3C/svg%3E"></amp-img>
+                         
+                     	<figcaption class="c-intro__caption pt-15">
+                        	Midjourney, Architectural Design, Machine Hallucination
+                        	
+                        	Mario Coppola
+
+                        </figcaption>
+                        </figure>
+						<p>
+                        	
+                        	
+                        </p>
+				
+				
+					<figure class=c-intro__image>
+						
+						
+	                    	<amp-img alt class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=988 i-amphtml-layout=responsive id=nolisticle_img3 layout=responsive src=https://www-domusweb-it.cdn.ampproject.org/i/s/www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2022/07/25/mario-coppola/gallery/domus-ai2.JPG.foto.rmedium.png width=988><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.0000%;></i-amphtml-sizer><img class=i-amphtml-blurry-placeholder placeholder src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns=&#39;http%3A//www.w3.org/2000/svg&#39; xmlns%3Axlink=&#39;http%3A//www.w3.org/1999/xlink&#39; viewBox=&#39;0 0 7 7&#39;%3E%3Cfilter id=&#39;b&#39; color-interpolation-filters=&#39;sRGB&#39;%3E%3CfeGaussianBlur stdDeviation=&#39;.5&#39;%3E%3C/feGaussianBlur%3E%3CfeComponentTransfer%3E%3CfeFuncA type=&#39;discrete&#39; tableValues=&#39;1 1&#39;%3E%3C/feFuncA%3E%3C/feComponentTransfer%3E%3C/filter%3E%3Cimage filter=&#39;url(%23b)&#39; x=&#39;0&#39; y=&#39;0&#39; height=&#39;100%25&#39; width=&#39;100%25&#39; xlink%3Ahref=&#39;data%3Aimage/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAHAAcDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAX/xAAeEAABBAEFAAAAAAAAAAAAAAABAAIDEQQFEiJRcf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/xAAWEQADAAAAAAAAAAAAAAAAAAAAARL/2gAMAwEAAhEDEQA/AJEuq4Ax2GMSM3Hk0AWR7XdIiJ2wSj//2Q==&#39;%3E%3C/image%3E%3C/svg%3E"></amp-img>
+                         
+                     	<figcaption class="c-intro__caption pt-15">
+                        	Midjourney, Architectural Design, Machine Hallucination
+                        	
+                        	Mario Coppola
+
+                        </figcaption>
+                        </figure>
+						<p>
+                        	
+                        	
+                        </p>
+				
+				
+					<figure class=c-intro__image>
+						
+						
+	                    	<amp-img alt class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=987 i-amphtml-layout=responsive id=nolisticle_img4 layout=responsive src=https://www-domusweb-it.cdn.ampproject.org/i/s/www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2022/07/25/mario-coppola/gallery/domus-ai4.JPG.foto.rmedium.png width=988><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:99.8988%;></i-amphtml-sizer></amp-img>
+                         
+                     	<figcaption class="c-intro__caption pt-15">
+                        	Midjourney, Architectural Design, Machine Hallucination
+                        	
+                        	Mario Coppola
+
+                        </figcaption>
+                        </figure>
+						<p>
+                        	
+                        	
+                        </p>
+				
+				
+					<figure class=c-intro__image>
+						
+						
+	                    	<amp-img alt class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=987 i-amphtml-layout=responsive id=nolisticle_img5 layout=responsive src=https://www-domusweb-it.cdn.ampproject.org/i/s/www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2022/07/25/mario-coppola/gallery/domus-ai5.JPG.foto.rmedium.png width=990><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:99.6970%;></i-amphtml-sizer></amp-img>
+                         
+                     	<figcaption class="c-intro__caption pt-15">
+                        	Midjourney, Architectural Design, Machine Hallucination
+                        	
+                        	Mario Coppola
+
+                        </figcaption>
+                        </figure>
+						<p>
+                        	
+                        	
+                        </p>
+				
+				
+					<figure class=c-intro__image>
+						
+						
+	                    	<amp-img alt class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=988 i-amphtml-layout=responsive id=nolisticle_img6 layout=responsive src=https://www-domusweb-it.cdn.ampproject.org/i/s/www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2022/07/25/mario-coppola/gallery/domus-ai6.JPG.foto.rmedium.png width=990><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:99.7980%;></i-amphtml-sizer></amp-img>
+                         
+                     	<figcaption class="c-intro__caption pt-15">
+                        	Midjourney, Architectural Design, Machine Hallucination
+                        	
+                        	Mario Coppola
+
+                        </figcaption>
+                        </figure>
+						<p>
+                        	
+                        	
+                        </p>
+				</div>
+                 
+     	</div>
+     </div>
+</amp-lightbox></div>
+</div>
+<div class="article-text text parbase section">
+
+
+
+<article class="c-typo1--s1 ">
+<p>  
+</p>
+</article>
+</div>
+<div class="article-separator-wt parbase section"></div>
+<div class="article-text text parbase section">
+
+
+
+<article class="c-typo1--s1 ">
+<p>“Midjourney is perfect for creating architectural evocations and fascinations,” Mario Coppola – architect and founder of Ecosistema Studio and also author of the Villa Postumana project, exhibited at the last Venice Biennale – tells <i>Domus</i>. “Until recently, the most challenging part of the creative and design process was precisely the concept. Instead, through a set of keywords – for example, “villa filled with vegetation” – Midjourney succeeds in presenting a range of alternatives, and then you can develop your own project from one or more of these options. Generally, to get good results you have to go through a number of iterations, even seven or eight, but in the end what you get is in some cases very impressive.” 
+</p>
+</article>
+</div>
+<div class="article-text text parbase section">
+
+
+
+<article class="c-typo1--s1 ">
+<p>Looking at some of the results produced through Midjourney – traceable on Instagram through the hashtag of the same name – it is easy to think we are in front of artistic experiments that are somewhat distant from concrete architectural projects. However, things are not quite like that: “In most cases, these results should be considered as starting points and suggestions the designer would struggle to achieve without an AI,” Niccolò Casas explains, architect and researcher at Bartlett UCL (University College of London) and author of <i>Plasticity</i>. “There would probably need to be a whole studio of collaborators selecting which ideas to keep and which to discard: artificial intelligence thus gives even microstudies the ability to create entire catalogs of architectural situations.”
+</p>
+</article>
+</div>
+<div class="article-image image parbase section">
+<figure class="c-img pt-20 mb-40">
+	
+
+
+	<amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=987 i-amphtml-layout=responsive layout=responsive src=https://www-domusweb-it.cdn.ampproject.org/i/s/www.domusweb.it/content/dam/domusweb/it/architecture/2022/07/26/la-intelligenza-artificiale-e-architetto-del-futuro/domus-ai4.JPG.foto.rmedium.jpg width=988><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:99.8988%;></i-amphtml-sizer></amp-img>
+
+
+	<figcaption class="c-img__caption pt-15">Midjourney, Architectural Design, Machine Hallucination, Mario Coppola</figcaption>
+</figure></div>
+<div class="article-separator-wt parbase section"></div>
+<div class="article-text text parbase section">
+
+
+
+<article class="c-typo1--s1 ">
+<p>However, as anyone who has tried to use any “artistic” algorithm will have noticed, the results often have a very peculiar and homogeneous aesthetic among them. Isn’t there a risk of a generalised flattening on the style being the hallmark of the single algorithm? “Yes and no, because this is actually a problem that was already there,” Casas explains. “Among insiders, the moment we see a design we already know what software was used to make it. I originally thought that the initial commands determined much of the outcome, instead it is the subsequent iterations that do that. This allows you to have a differentiated spectrum, but it is critical to have several iterations of the process.”
+</p>
+</article>
+</div>
+<div class="article-text text parbase section">
+
+
+
+<article class="c-typo1--s1 ">
+<p>“In organic architecture, we do not search for pure authorship”, Mario Coppola continues. “We are aiming to hybridise, to bring unknown things as biology or the human body into this new world. In the search for hybridisation, artificial intelligence is really an innovative tool that naturally mixes what it finds. It works a bit like sedimentary rocks: everything it encounters becomes part of the layering.”
+</p>
+</article>
+</div>
+<div class="article-gallery-nolisticle parbase section">
+
+
+
+
+    <div>
+
+
+
+<div class="c-wrapper--s1 clearfix pt-10 mb-20">
+	<div class="c-cta1 mb-15">
+		
+       	<a href=https://www.domusweb.it/en/profile/newsletter.html target=_top>
+       		Sign up for our newsletter and get domus in your inbox
+       	</a>
+    </div>
+    
+</div>
+</div>
+
+
+<div data-title="Midjourney, Architectural Design, Machine Hallucination, Niccolò Casas">
+
+
+<div class="c-gallery mb-40">
+	<div class="c-wrapper--s1 clearfix">
+		<button class=c-gallery__trigger on=tap:gallery_id_1-overlay role=button>
+        	<figure class="c-img text-left">
+				<span class=c-gallery__media-wrapper>
+					<amp-img alt="alternative text" class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=988 i-amphtml-layout=responsive layout=responsive src=https://www-domusweb-it.cdn.ampproject.org/i/s/www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2022/07/25/niccol-casas/gallery/domus-ai8.JPG.img.png/1658759043540.png width=990><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:99.7980%;></i-amphtml-sizer></amp-img>
+                    <span class=c-gallery__trigger-btn>
+                    	<i aria-hidden=true class=domusweb1icon-camera></i>
+                        	<span class=c-gallery__trigger-btn-label>
+                            	View gallery
+                            </span>
+                    </span>
+                    
+                </span>
+                
+				<figcaption class="c-img__caption pt-10">
+
+                </figcaption>
+            </figure>
+		</button>
+        
+    </div>
+    
+</div>
+
+
+<amp-lightbox class="c-modal1 i-amphtml-layout-nodisplay" hidden=hidden i-amphtml-layout=nodisplay id=gallery_id_1-overlay layout=nodisplay>
+	<div class="c-modal1__head c-header">
+		<div class="c-wrapper--s1 clearfix" style=padding-left:20px;padding-right:20px;>
+        	<div class="c-header__left float-left">
+            	<div class=c-header__logo-wrapper>
+                	<i aria-hidden=true class=domusweb1icon-domuslogo1></i>
+                </div>
+            </div>
+            
+            <div class="c-header__right float-right">
+            	<button class=c-modal1__btn--close on=tap:gallery_id_1-overlay.close title="Chiudi ricerca">
+                	<i aria-hidden=true class=domusweb1icon-cross></i>
+                 </button>
+            </div>
+            
+         </div>
+         
+     </div>
+     
+     <div class=c-modal1__content>
+     	<div class="c-wrapper--s1 clearfix" style=padding-left:20px;padding-right:20px;>
+     		<div class="c-intro pt-20 mb-30">
+				
+					<figure class=c-intro__image>
+						
+						
+	                    	<amp-img alt class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=988 i-amphtml-layout=responsive id=nolisticle_img1 layout=responsive src=https://www-domusweb-it.cdn.ampproject.org/i/s/www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2022/07/25/niccol-casas/gallery/domus-ai8.JPG.foto.rmedium.png width=990><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:99.7980%;></i-amphtml-sizer></amp-img>
+                         
+                     	<figcaption class="c-intro__caption pt-15">
+                        	Midjourney, Architectural Design, Machine Hallucination
+                        	
+                        	Niccolò Casas
+
+                        </figcaption>
+                        </figure>
+						<p>
+                        	
+                        	
+                        </p>
+				
+				
+					<figure class=c-intro__image>
+						
+						
+	                    	<amp-img alt class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=986 i-amphtml-layout=responsive id=nolisticle_img2 layout=responsive src=https://www-domusweb-it.cdn.ampproject.org/i/s/www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2022/07/25/niccol-casas/gallery/domus-ai7.JPG.foto.rmedium.png width=988><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:99.7976%;></i-amphtml-sizer></amp-img>
+                         
+                     	<figcaption class="c-intro__caption pt-15">
+                        	Midjourney, Architectural Design, Machine Hallucination
+                        	
+                        	Niccolò Casas
+
+                        </figcaption>
+                        </figure>
+						<p>
+                        	
+                        	
+                        </p>
+				
+				
+					<figure class=c-intro__image>
+						
+						
+	                    	<amp-img alt class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=988 i-amphtml-layout=responsive id=nolisticle_img3 layout=responsive src=https://www-domusweb-it.cdn.ampproject.org/i/s/www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2022/07/25/niccol-casas/gallery/domus-ai9.JPG.foto.rmedium.png width=990><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:99.7980%;></i-amphtml-sizer></amp-img>
+                         
+                     	<figcaption class="c-intro__caption pt-15">
+                        	Midjourney, Architectural Design, Machine Hallucination
+                        	
+                        	Niccolò Casas
+
+                        </figcaption>
+                        </figure>
+						<p>
+                        	
+                        	
+                        </p>
+				
+				
+					<figure class=c-intro__image>
+						
+						
+	                    	<amp-img alt class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=989 i-amphtml-layout=responsive id=nolisticle_img4 layout=responsive src=https://www-domusweb-it.cdn.ampproject.org/i/s/www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2022/07/25/niccol-casas/gallery/domus-ai10.JPG.foto.rmedium.png width=988><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:100.1012%;></i-amphtml-sizer></amp-img>
+                         
+                     	<figcaption class="c-intro__caption pt-15">
+                        	Midjourney, Architectural Design, Machine Hallucination
+                        	
+                        	Niccolò Casas
+
+                        </figcaption>
+                        </figure>
+						<p>
+                        	
+                        	
+                        </p>
+				
+				
+					<figure class=c-intro__image>
+						
+						
+	                    	<amp-img alt class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=988 i-amphtml-layout=responsive id=nolisticle_img5 layout=responsive src=https://www-domusweb-it.cdn.ampproject.org/i/s/www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2022/07/25/niccol-casas/gallery/domus-ai11.JPG.foto.rmedium.png width=989><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:99.8989%;></i-amphtml-sizer></amp-img>
+                         
+                     	<figcaption class="c-intro__caption pt-15">
+                        	Midjourney, Architectural Design, Machine Hallucination
+                        	
+                        	Niccolò Casas
+
+                        </figcaption>
+                        </figure>
+						<p>
+                        	
+                        	
+                        </p>
+				
+				
+					<figure class=c-intro__image>
+						
+						
+	                    	<amp-img alt class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=984 i-amphtml-layout=responsive id=nolisticle_img6 layout=responsive src=https://www-domusweb-it.cdn.ampproject.org/i/s/www.domusweb.it/content/dam/domusweb/it/architecture/gallery/2022/07/25/niccol-casas/gallery/domus-ai12.JPG.foto.rmedium.png width=988><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:99.5951%;></i-amphtml-sizer></amp-img>
+                         
+                     	<figcaption class="c-intro__caption pt-15">
+                        	Midjourney, Architectural Design, Machine Hallucination
+                        	
+                        	Niccolò Casas
+
+                        </figcaption>
+                        </figure>
+						<p>
+                        	
+                        	
+                        </p>
+				</div>
+                 
+     	</div>
+     </div>
+</amp-lightbox></div>
+</div>
+<div class="article-text text parbase section">
+
+
+
+<article class="c-typo1--s1 ">
+<p>  
+</p>
+</article>
+</div>
+<div class="article-separator-wt parbase section"></div>
+<div class="article-text text parbase section">
+
+
+
+<article class="c-typo1--s1 ">
+<p>“In organic architecture, we do not search for pure authorship”, Mario Coppola continues. “We are aiming to hybridise, to bring unknown things as biology or the human body into this new world. In the search for hybridisation, artificial intelligence is really an innovative tool that naturally mixes what it finds. It works a bit like sedimentary rocks: everything it encounters becomes part of the layering.”
+</p>
+</article>
+</div>
+<div class="article-text text parbase section">
+
+
+
+<article class="c-typo1--s1 ">
+<p>This is most likely a limitation that will be overcome over time, thanks in part to the architects themselves who help train the machine by selecting the results that are best fitted to meeting their needs. For now, however, there are ways of getting around the most obvious obstacles: “It is difficult to adapt the qualities of AI to a single specific architectural case,” Casas continues. “The solution might be to break down the several elements, instead of working on the total result.”
+</p>
+</article>
+</div>
+<div class="article-image image parbase section">
+<figure class="c-img pt-20 mb-40">
+	
+
+
+	<amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=984 i-amphtml-layout=responsive layout=responsive src=https://www-domusweb-it.cdn.ampproject.org/i/s/www.domusweb.it/content/dam/domusweb/it/architecture/2022/07/26/la-intelligenza-artificiale-e-architetto-del-futuro/domus-ai12.JPG.foto.rmedium.jpg width=988><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:99.5951%;></i-amphtml-sizer></amp-img>
+
+
+	<figcaption class="c-img__caption pt-15">Midjourney, Architectural Design, Machine Hallucination, Niccolò Casas</figcaption>
+</figure></div>
+<div class="article-separator-wt parbase section"></div>
+<div class="article-text text parbase section">
+
+
+
+<article class="c-typo1--s1 ">
+<p>A compromise situation which also refers to another consideration: although it is inevitable that the automation of several processes will have an impact on the number of jobs available – also in this article, the work of the AI has been compared to a “team of assistants” – the strongest feeling is that the collaboration between human being and artificial intelligence is one both can get the best out of it. A kind of fusion? “It is something I personally feel very much,” Coppola confirms. “I still need a sketchbook, but I realise now that I feel the need to see the 3D model take shape.” 
+</p>
+</article>
+</div>
+<div class="article-text text parbase section">
+
+
+
+<article class="c-typo1--s1 ">
+<p>The relationship between architect – or, more generally, creative – and artificial intelligence is not peaceful anyway: “We are as excited as we are terrified,” Casas concludes. “The role of the architect and designer, after all, is to show something that was not there before. Then it is the engineers and surveyors who take care of materialising this intuition. Clearly, artificial intelligence works on this very part: on intuition and visualisation. This does not mean that there will be no more work for us in the future, but that it will certainly change dramatically.
+</p>
+</article>
+</div>
+<div class="article-cta parbase section">
+
+
+
+<div class="c-wrapper--s1 clearfix pt-10">
+	<div class="c-cta1 mb-30">
+    	<a class=c-cta1__title href=https://www.domusweb.it/en/art/2022/05/02/would-you-buy-a-work-of-art-created-by-artificial-intelligence.html target=_top>
+        	<span>Read also:</span> Would you buy a work of art created by artificial intelligence?
+        </a>
+    </div>
+    
+</div>
+</div>
+
+
+			<div>
+
+
+
+       </div>
+
+			<div class="c-wrapper--s1 clearfix text-center mb-20">
+    			<a class="c-btn1 c-btn1--ico-arrow1right --azure" href=https://www.domusweb.it/en/architecture/2022/07/26/is-artificial-intelligence-the-architect-of-the-future.html target=_top>
+    				Leggi tutto
+                </a>                
+            </div>
+            
+
+		</div>
+    </div>
+
+</article>
+<div class="c-wrapper--s1 clearfix pt-20">
+	<div class=section><div class=new></div>
+</div><div class=iparys_inherited><div class="left-side iparsys parsys"><div class="article-most-popular parbase section">
+
+<div class="c-wrapper--s1 clearfix pt-20">
+	<aside class="c-listpreview1 mb-15">
+		<h6 class="zaux-label1 zaux-linetop1 mb-15">
+			Most popular
+		</h6>
+        <figure class=c-img>
+        	<a href=https://www.domusweb.it/en/architecture/gallery/2021/11/04/brutalism-without-borders-20-architectures-around-the-world.html target=_top>
+        	
+			
+            </a>
+            <figcaption class="c-img__caption sr-only">
+            	
+            </figcaption>
+       	</figure>
+        
+		<ol class=c-listpreview1__inner>
+        	<li class=c-listpreview1__item>
+            	<a href=https://www.domusweb.it/en/architecture/gallery/2021/11/04/brutalism-without-borders-20-architectures-around-the-world.html target=_top>
+                	Brutalism, 20 iconic buildings around the world
+                </a>
+            </li>
+      	
+        	<li class=c-listpreview1__item>
+            	<a href=https://www.domusweb.it/en/architecture/gallery/2022/06/14/7-railway-stations-among-futurism-sustainability-and-territorial-revitalisation.html target=_top>
+                	7 new railway stations, from Rome to Hong Kong, from Calatrava to Zaha Hadid
+                </a>
+            </li>
+      	
+        	<li class=c-listpreview1__item>
+            	<a href=https://www.domusweb.it/en/architecture/gallery/2022/08/25/14-signature-wineries-for-signature-wines.html target=_top>
+                	14 signature European wineries, designed by great architects
+                </a>
+            </li>
+      	
+        	<li class=c-listpreview1__item>
+            	<a href=https://www.domusweb.it/en/architecture/gallery/2022/03/30/7-architectures-by-zaha-hadid-still-under-construction.html target=_top>
+                	7 architectures designed by Zaha Hadid still under construction
+                </a>
+            </li>
+      	
+        	<li class=c-listpreview1__item>
+            	<a href=https://www.domusweb.it/en/architecture/gallery/2022/07/03/casa-namora-a-brutalist-flirt.html target=_top>
+                	In Portugal, the extension of a rural building as a brutalist flirt
+                </a>
+            </li>
+      	
+        	<li class=c-listpreview1__item>
+            	<a href=https://www.domusweb.it/en/architecture/gallery/2022/04/14/living-on-the-margins-11-symbolic-places-in-the-italian-periphery.html target=_top>
+                	Living on the margins: 11 symbolic places in the Italian periphery
+                </a>
+            </li>
+      	
+        	<li class=c-listpreview1__item>
+            	<a href=https://www.domusweb.it/en/architecture/gallery/2022/09/05/a-series-of-prefabricated-holiday-cabins-immersed-in-the-portuguese-nature.html target=_top>
+                	Prefab tiny houses in the forests of Portugal
+                </a>
+            </li>
+      	
+        	<li class=c-listpreview1__item>
+            	<a href=https://www.domusweb.it/en/architecture/2022/09/29/the-environmentalist-turn-of-portuguese-architecture.html target=_top>
+                	The environmentalist turn of Portuguese architecture
+                </a>
+            </li>
+      	</ol>
+        
+	</aside>
+      
+</div></div>
+<div class="adv parbase section"></div>
+</div>
+</div>
+
+
+
+    
+	
+
+<aside class="c-list1 c-list1--azure mb-30">
+	<h6 class="zaux-label1 zaux-linetop1 mb-10">
+    	Sections
+    </h6>
+    <ul>
+    	<li class=c-list1__item>
+        	<a href=https://www.domusweb.it/en/architecture.html target=_top>Architecture</a>
+        </li>
+    </ul>
+</aside>
+
+
+
+	
+
+    
+
+    
+
+
+<div class="c-share mb-30">					
+	<div class="c-wrapper--s1 clearfix">
+		<h6 class="zaux-label1 mb-10 zaux-linetop1">
+			Share
+        </h6>
+        <div class=c-social1>
+			<ul>
+				<li class="c-social1__item c-social1__item--facebook">
+					
+                    <amp-social-share class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" data-param-app_id={{WEBSITE_FB_APP_ID}} height=32 i-amphtml-layout=fixed style=width:32px;height:32px; type=facebook width=32></amp-social-share>
+                    <a href=# title=Facebook>
+						<i aria-hidden=true class=domusweb1icon-socialfacebook><span class=sr-only>Facebook</span></i>
+                    </a>
+                </li>
+                <li class="c-social1__item c-social1__item--twitter">
+					<amp-social-share class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" height=32 i-amphtml-layout=fixed style=width:32px;height:32px; type=twitter width=32></amp-social-share>
+                    <a href=# title=Twitter>
+						<i aria-hidden=true class=domusweb1icon-socialtwitter><span class=sr-only>Twitter</span></i>
+                    </a>
+                </li>
+                <li class="c-social1__item c-social1__item--pinterest">
+					<amp-social-share class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" height=32 i-amphtml-layout=fixed style=width:32px;height:32px; type=pinterest width=32></amp-social-share>
+                    <a href=# title=Pinterest>
+						<i aria-hidden=true class=domusweb1icon-socialpinterest><span class=sr-only>Pinterest</span></i>
+                    </a>
+                </li>
+                <li class="c-social1__item c-social1__item--whatsapp">
+					<amp-social-share class="i-amphtml-layout-fixed i-amphtml-layout-size-defined" height=32 i-amphtml-layout=fixed style=width:32px;height:32px; type=whatsapp width=32></amp-social-share>
+                    <a href=# title=WhatsApp>
+						<i aria-hidden=true class=domusweb1icon-socialwhatsapp><span class=sr-only>WhatsApp</span></i>
+                    </a>
+                </li>
+            </ul>
+		</div>
+        
+    </div>
+    
+</div>
+ 
+
+    
+    
+    <hr aria-hidden=true class="c-divider--s1 --azure mb-30">
+
+    
+	
+
+<div class="c-fbcomments mb-25">
+	<div class=c-fbcomments__inner>
+    	<amp-facebook-comments class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" data-href=https://www.domusweb.it/en/architecture/2022/07/26/is-artificial-intelligence-the-architect-of-the-future.amp.html height=310 i-amphtml-layout=responsive layout=responsive width=552><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:56.1594%;></i-amphtml-sizer>
+        </amp-facebook-comments>
+    </div>
+    
+</div>
+
+
+    <div class=section><div class=new></div>
+</div><div class=iparys_inherited><div class="extra-content iparsys parsys"><div class="adv parbase section"></div>
+<div class="article-related parbase section">
+
+
+
+
+
+
+	
+
+
+
+<aside class="c-boxpreview1 --azure mb-30">
+	<h3 class="zaux-title2 mb-30">
+		<span class="zaux-underline1 --azure">
+			Latest on Architecture
+        </span>
+    </h3>
+    <div class=row>
+		
+
+<article class="col-6 mb-30 c-boxpreview1__item">
+
+		<figure class="c-img mb-10">
+			<a href=https://www.domusweb.it/en/architecture/2022/10/07/jeanne-gang-i-will-take-relevance-over-autonomy.html target=_top>
+				
+				
+					
+						
+
+
+	<amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=168 i-amphtml-layout=responsive layout=responsive src=https://www-domusweb-it.cdn.ampproject.org/i/s/www.domusweb.it/content/dam/domusweb/it/architecture/2022/10/07/jeanne-gang-tra-valore-e-autonomia-scelgo-il-valore/domus-jeanne-gang2.jpg.foto.tbig.jpg width=248><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:67.7419%;></i-amphtml-sizer></amp-img>
+
+
+			 			
+			 		
+			 		
+			 	
+        	</a>
+        	<figcaption class="c-img__caption sr-only">
+        	</figcaption>
+    	</figure>
+		
+    
+    
+	<h4 class="c-boxpreview1__item-title mb-15">
+    	<a href=https://www.domusweb.it/en/architecture/2022/10/07/jeanne-gang-i-will-take-relevance-over-autonomy.html target=_top>Jeanne Gang: “The value of collaborating”</a>
+    </h4>
+	<div class=c-boxpreview1__meta>
+    	<ul>
+        	<li aria-label=Published>07 October 2022</li>
+            <li aria-label=Section><a href=https://www.domusweb.it/en/architecture.html target=_top>Architecture</a></li>
+        </ul>
+    </div>
+</article>
+
+        
+
+<article class="col-6 mb-30 c-boxpreview1__item">
+
+		<figure class="c-img mb-10">
+			<a href=https://www.domusweb.it/en/architecture/gallery/2022/09/27/atelier-gardens-ton-1-a-combination-of-business-and-sustainable-change.html target=_top>
+				
+				
+					
+						
+
+
+
+			 			
+			 		
+			 		
+			 	
+        	</a>
+        	<figcaption class="c-img__caption sr-only">
+        	</figcaption>
+    	</figure>
+		
+    
+    
+	<h4 class="c-boxpreview1__item-title mb-15">
+    	<a href=https://www.domusweb.it/en/architecture/gallery/2022/09/27/atelier-gardens-ton-1-a-combination-of-business-and-sustainable-change.html target=_top>Atelier Gardens, TON 1: MVRDV’s project in Berlin changes the face of Tempelhof </a>
+    </h4>
+	<div class=c-boxpreview1__meta>
+    	<ul>
+        	<li aria-label=Published>06 October 2022</li>
+            <li aria-label=Section><a href=https://www.domusweb.it/en/architecture.html target=_top>Architecture</a></li>
+        </ul>
+    </div>
+</article>
+
+		
+
+<article class="col-6 mb-30 c-boxpreview1__item">
+
+		<figure class="c-img mb-10">
+			<a href=https://www.domusweb.it/en/architecture/gallery/2022/09/05/madeiguincho-atelier-cassiopeia-cascais-portugal-2021-photo-joo-carranca.html target=_top>
+				
+				
+					
+						
+
+
+	<amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=168 i-amphtml-layout=responsive layout=responsive src=https://www-domusweb-it.cdn.ampproject.org/i/s/www.domusweb.it/content/dam/domusweb/en/architecture/gallery/2022/09/05/una-casa-sullalbero-senza-lalbero/domus-casa-albero.jpg.foto.tbig.jpg width=248><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:67.7419%;></i-amphtml-sizer></amp-img>
+
+
+			 			
+			 		
+			 		
+			 	
+        	</a>
+        	<figcaption class="c-img__caption sr-only">
+        	</figcaption>
+    	</figure>
+		
+    
+    
+	<h4 class="c-boxpreview1__item-title mb-15">
+    	<a href=https://www.domusweb.it/en/architecture/gallery/2022/09/05/madeiguincho-atelier-cassiopeia-cascais-portugal-2021-photo-joo-carranca.html target=_top>A tree house without the tree</a>
+    </h4>
+	<div class=c-boxpreview1__meta>
+    	<ul>
+        	<li aria-label=Published>03 October 2022</li>
+            <li aria-label=Section><a href=https://www.domusweb.it/en/architecture.html target=_top>Architecture</a></li>
+        </ul>
+    </div>
+</article>
+
+		
+
+<article class="col-6 mb-30 c-boxpreview1__item">
+
+		<figure class="c-img mb-10">
+			<a href=https://www.domusweb.it/en/architecture/2022/09/29/the-environmentalist-turn-of-portuguese-architecture.html target=_top>
+				
+				
+					
+						
+
+
+	<amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=168 i-amphtml-layout=responsive layout=responsive src=https://www-domusweb-it.cdn.ampproject.org/i/s/www.domusweb.it/content/dam/domusweb/it/architecture/2022/09/29/la-svolta-ambientalista-dellarchitettura-portoghese/domus-gadanho1.jpeg.foto.tbig.jpg width=248><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:67.7419%;></i-amphtml-sizer></amp-img>
+
+
+			 			
+			 		
+			 		
+			 	
+        	</a>
+        	<figcaption class="c-img__caption sr-only">
+        	</figcaption>
+    	</figure>
+		
+    
+    
+	<h4 class="c-boxpreview1__item-title mb-15">
+    	<a href=https://www.domusweb.it/en/architecture/2022/09/29/the-environmentalist-turn-of-portuguese-architecture.html target=_top>The environmentalist turn of Portuguese architecture</a>
+    </h4>
+	<div class=c-boxpreview1__meta>
+    	<ul>
+        	<li aria-label=Published>01 October 2022</li>
+            <li aria-label=Section><a href=https://www.domusweb.it/en/architecture.html target=_top>Architecture</a></li>
+        </ul>
+    </div>
+</article>
+
+    </div>
+    
+</aside>
+</div>
+<div class="article-related parbase section">
+
+
+
+
+
+
+	
+
+
+
+<aside class="c-boxpreview1 --azure mb-30">
+	<h3 class="zaux-title2 mb-30">
+		<span class="zaux-underline1 --azure">
+			Latest on Domus
+        </span>
+    </h3>
+    <div class=row>
+		
+
+<article class="col-6 mb-30 c-boxpreview1__item">
+
+		<figure class="c-img mb-10">
+			<a href=https://www.domusweb.it/en/news/gallery/2022/10/06/domus-1072-is-on-newsstands-an-issue-dedicated-to-memory.html target=_top>
+				
+				
+					
+						
+
+
+	<amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=168 i-amphtml-layout=responsive layout=responsive src=https://www-domusweb-it.cdn.ampproject.org/i/s/www.domusweb.it/content/dam/domusweb/en/news/gallery/2022/10/06/domus-1072--in-edicola-un-numero-dedicato-alla-memoria/domus-ottobre.jpg.foto.tbig.jpg width=248><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:67.7419%;></i-amphtml-sizer></amp-img>
+
+
+			 			
+			 		
+			 		
+			 	
+        	</a>
+        	<figcaption class="c-img__caption sr-only">
+        	</figcaption>
+    	</figure>
+		
+    
+    
+	<h4 class="c-boxpreview1__item-title mb-15">
+    	<a href=https://www.domusweb.it/en/news/gallery/2022/10/06/domus-1072-is-on-newsstands-an-issue-dedicated-to-memory.html target=_top>Domus 1072 is on newsstands, an issue dedicated to memory</a>
+    </h4>
+	<div class=c-boxpreview1__meta>
+    	<ul>
+        	<li aria-label=Published>08 October 2022</li>
+            <li aria-label=Section><a href=https://www.domusweb.it/en/news.html target=_top>News</a></li>
+        </ul>
+    </div>
+</article>
+
+        
+
+<article class="col-6 mb-30 c-boxpreview1__item">
+
+		<figure class="c-img mb-10">
+			<a href=https://www.domusweb.it/en/sustainable-cities/2022/10/05/mobility-and-safety-new-york-pays-you-to-report-illegal-parkers.html target=_top>
+				
+				
+					
+						
+
+
+	<amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=168 i-amphtml-layout=responsive layout=responsive src=https://www-domusweb-it.cdn.ampproject.org/i/s/www.domusweb.it/content/dam/domusweb/en/sustainable-cities/2022/10/05/mobilit-e-sicurezza-new-york-ti-paga-per-segnalare-i-parcheggiatori-abusivi/domus-new-york.jpg.foto.tbig.jpg width=248><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:67.7419%;></i-amphtml-sizer></amp-img>
+
+
+			 			
+			 		
+			 		
+			 	
+        	</a>
+        	<figcaption class="c-img__caption sr-only">
+        	</figcaption>
+    	</figure>
+		
+    
+    
+	<h4 class="c-boxpreview1__item-title mb-15">
+    	<a href=https://www.domusweb.it/en/sustainable-cities/2022/10/05/mobility-and-safety-new-york-pays-you-to-report-illegal-parkers.html target=_top>Mobility and safety: New York pays you to report illegal parkers</a>
+    </h4>
+	<div class=c-boxpreview1__meta>
+    	<ul>
+        	<li aria-label=Published>07 October 2022</li>
+            <li aria-label=Section><a href=https://www.domusweb.it/en/sustainable-cities.html target=_top>Sustainable Cities</a></li>
+        </ul>
+    </div>
+</article>
+
+		
+
+<article class="col-6 mb-30 c-boxpreview1__item">
+
+		<figure class="c-img mb-10">
+			<a href=https://www.domusweb.it/en/news/gallery/2022/10/06/factory-international-announced-to-open-in-2023.html target=_top>
+				
+				
+					
+						
+
+
+	<amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=168 i-amphtml-layout=responsive layout=responsive src=https://www-domusweb-it.cdn.ampproject.org/i/s/www.domusweb.it/content/dam/domusweb/it/news/gallery/2022/10/06/annunciata-lapertura-della-factory-international-nel-2023/domus-factoryinternationaloma-1.jpeg.foto.tbig.jpg width=248><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:67.7419%;></i-amphtml-sizer></amp-img>
+
+
+			 			
+			 		
+			 		
+			 	
+        	</a>
+        	<figcaption class="c-img__caption sr-only">
+        	</figcaption>
+    	</figure>
+		
+    
+    
+	<h4 class="c-boxpreview1__item-title mb-15">
+    	<a href=https://www.domusweb.it/en/news/gallery/2022/10/06/factory-international-announced-to-open-in-2023.html target=_top>UK′s largest cultural landmark since Tate Modern to open in Manchester</a>
+    </h4>
+	<div class=c-boxpreview1__meta>
+    	<ul>
+        	<li aria-label=Published>07 October 2022</li>
+            <li aria-label=Section><a href=https://www.domusweb.it/en/news.html target=_top>News</a></li>
+        </ul>
+    </div>
+</article>
+
+		
+
+<article class="col-6 mb-30 c-boxpreview1__item">
+
+		<figure class="c-img mb-10">
+			<a href=https://www.domusweb.it/en/art/2022/10/07/the-battle-of-lepanto.html target=_top>
+				
+				
+					
+						
+
+
+	<amp-img class="i-amphtml-layout-responsive i-amphtml-layout-size-defined" height=168 i-amphtml-layout=responsive layout=responsive src=https://www-domusweb-it.cdn.ampproject.org/i/s/www.domusweb.it/content/dam/domusweb/it/art/2022/10/07/la-battaglia-di-lepanto/domus-lepanto-0.jpg.foto.tbig.jpg width=248><i-amphtml-sizer slot=i-amphtml-svc style=display:block;padding-top:67.7419%;></i-amphtml-sizer></amp-img>
+
+
+			 			
+			 		
+			 		
+			 	
+        	</a>
+        	<figcaption class="c-img__caption sr-only">
+        	</figcaption>
+    	</figure>
+		
+    
+    
+	<h4 class="c-boxpreview1__item-title mb-15">
+    	<a href=https://www.domusweb.it/en/art/2022/10/07/the-battle-of-lepanto.html target=_top>The Battle of Lepanto</a>
+    </h4>
+	<div class=c-boxpreview1__meta>
+    	<ul>
+        	<li aria-label=Published>07 October 2022</li>
+            <li aria-label=Section><a href=https://www.domusweb.it/en/art.html target=_top>Art</a></li>
+        </ul>
+    </div>
+</article>
+
+    </div>
+    
+</aside>
+</div>
+<div class="adv parbase section"></div>
+</div>
+</div>
+
+</div>
+	</main>
+
+	<amp-consent class=i-amphtml-layout-nodisplay hidden=hidden i-amphtml-layout=nodisplay id=iubenda layout=nodisplay type=iubenda>
+    <script type=application/json>
+        {
+            "promptUISrc": "https://www.edidomus.it/iubenda-amp.html",
+            "postPromptUI": "post-consent-ui"
+        }
+    </script>
+</amp-consent>
+
+
+<footer class=c-footer>
+	<div class="c-wrapper--s1 clearfix pt-35">
+		<div class="c-nav1 c-nav1--s2 mb-5">
+			<ul class="row mb-20">
+    			
+					<li class="c-nav1__item col-6"><span><a href=https://www.domusweb.it/en/news.html target=_top>News</a></span></li>
+    			
+					<li class="c-nav1__item col-6"><span><a href=https://www.domusweb.it/en/architecture.html target=_top>Architecture</a></span></li>
+    			
+					<li class="c-nav1__item col-6"><span><a href=https://www.domusweb.it/en/design.html target=_top>Design</a></span></li>
+    			
+					<li class="c-nav1__item col-6"><span><a href=https://www.domusweb.it/en/art.html target=_top>Art</a></span></li>
+    			
+					<li class="c-nav1__item col-6"><span><a href=https://www.domusweb.it/en/opinion.html target=_top>Opinion</a></span></li>
+    			
+					<li class="c-nav1__item col-6"><span><a href=https://www.domusweb.it/en/from-the-archive.html target=_top>Archive</a></span></li>
+    			
+					<li class="c-nav1__item col-6"><span><a href=https://www.domusweb.it/en/product-news.html target=_top>Products</a></span></li>
+    			
+					<li class="c-nav1__item col-6"><span><a href=https://www.domusweb.it/en/local-editions.html target=_top>Foreign Editions</a></span></li>
+    			
+    			
+					<li class="c-nav1__item col-6"><span><a href=https://www.domusweb.it/en/contacts.html target=_top>Contacts</a></span></li>
+    			
+					<li class="c-nav1__item col-6"><span><a href=https://www.domusweb.it/en/biographies.html target=_top>Biographies</a></span></li>
+    			
+					<li class="c-nav1__item col-6"><span><a href=https://www.domusweb.it/en/movements.html target=_top>Architectural movements</a></span></li>
+    			
+					<li class="c-nav1__item col-6"><span><a href=https://www.domusweb.it/en/buildings.html target=_top>Buildings</a></span></li>
+    			
+					<li class="c-nav1__item col-6"><span><a href=https://www.domusweb.it/en/speciali/best-architecture-firms.html target=_top>Architecture Firms</a></span></li>
+    			
+					<li class="c-nav1__item col-6"><span><a href=https://www.domusweb.it/en/speciali/design-essentials.html target=_top>Design Essentials</a></span></li>
+    			
+					<li class="c-nav1__item col-6"><span><a href=http://urbanstories.domusweb.it/ target=_top>Urban stories</a></span></li>
+    			
+					<li class="c-nav1__item col-6"><span><a href=https://www.domusweb.it/en/gio-ponti.html target=_top>Gio Ponti</a></span></li>
+    			
+			</ul>
+			<ul class=row>
+				<li class="c-nav1__item --ignore-rules col-12">
+					<div>
+						<div class=row>
+							<div class=col-4>
+								Follow us
+							</div>
+							<div class="col-8 pt-5">
+								<div class="c-social1 text-right">
+									<ul>
+										<li class="c-social1__item c-social1__item--facebook">
+											<a href=https://www.facebook.com/Domus/ target=_top title=Facebook>
+												<i aria-hidden=true class=domusweb1icon-socialfacebook><span class=sr-only>Facebook</span></i>
+											</a>
+										</li>
+										<li class="c-social1__item c-social1__item--twitter">
+											<a href=https://twitter.com/DomusWeb target=_top title=Twitter>
+												<i aria-hidden=true class=domusweb1icon-socialtwitter><span class=sr-only>Twitter</span></i>
+											</a>
+										</li>
+										<li class="c-social1__item c-social1__item--pinterest">
+											<a href=https://it.pinterest.com/domusweb/ target=_top title=Pinterest>
+												<i aria-hidden=true class=domusweb1icon-socialpinterest><span class=sr-only>Pinterest</span></i>
+											</a>
+										</li>
+										<li class="c-social1__item c-social1__item--instagram">
+											<a title=Instagram>
+												<i aria-hidden=true class=domusweb1icon-socialinstagram><span class=sr-only>Instagram</span></i>
+											</a>
+										</li>
+									</ul>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+				</li>
+			</ul>
+		</div>
+		
+		<hr aria-hidden=true class="c-divider--s2 --azure2 mb-15">
+		<div class=c-typo1--mini>
+			<amp-img alt="Editorial Domus" class="mb-10 i-amphtml-layout-fixed i-amphtml-layout-size-defined" height=33 i-amphtml-layout=fixed src=https://www-domusweb-it.cdn.ampproject.org/i/s/www.domusweb.it/etc/designs/domusweb20/assets/images/ED-white.svg srcset="https://www-domusweb-it.cdn.ampproject.org/ii/w180/s/www.domusweb.it/etc/designs/domusweb20/assets/images/ED-white.svg 180w, https://www-domusweb-it.cdn.ampproject.org/ii/w330/s/www.domusweb.it/etc/designs/domusweb20/assets/images/ED-white.svg 330w, https://www-domusweb-it.cdn.ampproject.org/ii/w560/s/www.domusweb.it/etc/designs/domusweb20/assets/images/ED-white.svg 560w" style=width:165px;height:33px; width=165></amp-img>
+			<p>Editoriale Domus Spa<br>Via G. Mazzocchi, 1/3<br>20089 Rozzano (Mi) -<br>Codice fiscale, partita IVA e iscrizione al Registro delle Imprese di Milano<br>n. 07835550158<br>R.E.A. di Milano n. 1186124<br>Capitale sociale versato € 5.000.000,00 - All rights reserved - <a href=https://www.edidomus.it/en/policy/disclaimer.html rel=nofollow target=_blank>Privacy</a> - <a href=http://www.edidomus.it/policy/index.php rel=nofollow target=_blank>Informativa cookie completa</a> - <a class=iubenda-advertising-preferences-link href=# id=post-consent-ui>Gestione Cookies</a></p>
+		</div>
+		
+	</div>
+	
+</footer>
+
+</body></html>

@@ -1,0 +1,776 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" >
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	  
+	  <meta name="viewport" content="width=device-width, initial-scale=1">
+	  
+		<!-- This is Squarespace. --><!-- eugene-wei -->
+<base href="">
+<meta charset="utf-8" />
+<title>Invisible asymptotes &mdash; Remains of the Day</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/4ff36e51e4b0d277e953e394/1346363603733-WLPVGNB0R1OBKEPLU5WC/favicon.ico"/>
+<link rel="canonical" href="https://www.eugenewei.com/blog/2018/5/21/invisible-asymptotes"/>
+<meta property="og:site_name" content="Remains of the Day"/>
+<meta property="og:title" content="Invisible asymptotes &mdash; Remains of the Day"/>
+<meta property="og:latitude" content="37.7774511"/>
+<meta property="og:longitude" content="-122.3958897"/>
+<meta property="og:locality" content=""/>
+<meta property="og:url" content="https://www.eugenewei.com/blog/2018/5/21/invisible-asymptotes"/>
+<meta property="og:type" content="article"/>
+<meta property="og:description" content="&quot;It is said that if you know your enemies and know yourself, you will not be imperiled in a hundred battles; if you do not know your enemies but do know yourself, you will win one and lose one; if you do not know your enemies nor yourself, you will be imperiled in every single battle.&quot; -  "/>
+<meta property="og:image" content="http://static1.squarespace.com/static/4ff36e51e4b0d277e953e394/t/5b035c3d03ce64928f55dfe3/1526946884121/cerebro.jpg?format=1500w"/>
+<meta property="og:image:width" content="1500"/>
+<meta property="og:image:height" content="627"/>
+<meta itemprop="name" content="Invisible asymptotes — Remains of the Day"/>
+<meta itemprop="url" content="https://www.eugenewei.com/blog/2018/5/21/invisible-asymptotes"/>
+<meta itemprop="description" content="&quot;It is said that if you know your enemies and know yourself, you will not be imperiled in a hundred battles; if you do not know your enemies but do know yourself, you will win one and lose one; if you do not know your enemies nor yourself, you will be imperiled in every single battle.&quot; -  "/>
+<meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/4ff36e51e4b0d277e953e394/t/5b035c3d03ce64928f55dfe3/1526946884121/cerebro.jpg?format=1500w"/>
+<link rel="image_src" href="http://static1.squarespace.com/static/4ff36e51e4b0d277e953e394/t/5b035c3d03ce64928f55dfe3/1526946884121/cerebro.jpg?format=1500w" />
+<meta itemprop="image" content="http://static1.squarespace.com/static/4ff36e51e4b0d277e953e394/t/5b035c3d03ce64928f55dfe3/1526946884121/cerebro.jpg?format=1500w"/>
+<meta itemprop="author" content="Eugene Wei"/>
+<meta itemprop="datePublished" content="2018-05-22T10:17:00-0700"/>
+<meta itemprop="dateModified" content="2019-02-19T12:52:34-0800"/>
+<meta itemprop="headline" content="Invisible asymptotes"/>
+<meta itemprop="publisher" content="Remains of the Day"/>
+<meta name="twitter:title" content="Invisible asymptotes — Remains of the Day"/>
+<meta name="twitter:image" content="http://static1.squarespace.com/static/4ff36e51e4b0d277e953e394/t/5b035c3d03ce64928f55dfe3/1526946884121/cerebro.jpg?format=1500w"/>
+<meta name="twitter:url" content="https://www.eugenewei.com/blog/2018/5/21/invisible-asymptotes"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="&quot;It is said that if you know your enemies and know yourself, you will not be imperiled in a hundred battles; if you do not know your enemies but do know yourself, you will win one and lose one; if you do not know your enemies nor yourself, you will be imperiled in every single battle.&quot; -  "/>
+<meta name="description" content="" />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<script type="text/javascript" src="//use.typekit.com/uil7uty.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,700;1,400;1,700&family=Maven+Pro:wght@&family=Ubuntu:wght@">
+<script type="text/javascript" crossorigin="anonymous" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-0bde5bda52bbe699008d5-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-0bde5bda52bbe699008d5-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-98bddc81dc37f44faa7b2-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-98bddc81dc37f44faa7b2-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-83b0e6eb9a2c7557ad4c0-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-83b0e6eb9a2c7557ad4c0-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-9b2a74c45b27271fd111d-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-9b2a74c45b27271fd111d-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-42bd3badf3779aeaa3ae4-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-42bd3badf3779aeaa3ae4-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-a45ba193ce59a133209bd-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-a45ba193ce59a133209bd-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-7532c45b5785b33eab5ea-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-7532c45b5785b33eab5ea-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-dcf64e8ca0c4d41b13b10-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-702bf18174efe0acaa8ce-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-7360fd40b834da21842f4-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-b44b4108e3cadfeb3bb28-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-8140ced63ef8d98391b9e-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-67e44b6bcbaf1abeab39b-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-91e23fb14e407e3111565-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-e0b98e516641dfe5f0877-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-89b254b5c87045b9e1360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-4a56f16be9cb0b782bdce-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-2795015878c04f14cc572-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-b108989970e734597c3c1-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-4a16a8a8c965386db2173-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-c8f2c01a315e90f3cb7c2-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-a275e058377feac127abb-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-8804675084a3982b022e3-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-7817bbf3299a0b654acc4-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-130ab1c5ce4515f9417c8-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-948192219c3257f767ec5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-264c3668b222a83e92d33-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-5d6c4f164c4ab5457107a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-09368d6c8c218d92ececb-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-8804675084a3982b022e3-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-d2779aad412d222e98a95-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-8804675084a3982b022e3-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-68e682b0629ed86541771-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-9a228640531b170289ab7-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-46e11810a59e11b7e4b49-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-599ed48f406bb7fd00d1a-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-1bbb33b7960a74025a462-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-67520d5a2d1dd60226f6a-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-7cecc648f858e6f692130-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-388a0f74a2ec4f75378a6-min.en-US.js"}},"pageType":50,"website":{"id":"4ff36e51e4b0d277e953e394","identifier":"eugene-wei","websiteType":1,"contentModifiedOn":1600419232889,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"US/Pacific","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"Remains of the Day","fullSiteTitle":"Invisible asymptotes \u2014 Remains of the Day","siteDescription":"","location":{"mapZoom":9.0,"mapLat":37.650345115192074,"mapLng":-121.99420207792969,"markerLat":37.7774511,"markerLng":-122.3958897,"addressTitle":"","addressLine1":"1 Bluxome St.","addressLine2":"SF, CA, 94107","addressCountry":"United States"},"logoImageId":"503fdf4be4b0c285641c3758","shareButtonOptions":{"8":true,"6":true,"2":true,"3":true,"1":true,"7":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/4ff36e51e4b0d277e953e394/1346363211875-J9I9EM1FA7C1ML3P4PJA/logo.png","authenticUrl":"https://www.eugenewei.com","internalUrl":"https://eugene-wei.squarespace.com","baseUrl":"https://www.eugenewei.com","primaryDomain":"www.eugenewei.com","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":2,"userId":"2543281","userName":"eugenewei","screenname":"Eugene Wei","addedOn":1359629073282,"profileUrl":"http://www.facebook.com/2543281","iconUrl":"http://graph.facebook.com/2543281/picture?type=square","metaData":{"service":"facebook"},"iconEnabled":true,"serviceName":"facebook"},{"serviceId":4,"userId":"1547221","userName":"eugenewei","screenname":"Eugene Wei","addedOn":1359629080911,"profileUrl":"https://twitter.com/eugenewei","iconUrl":"http://a0.twimg.com/profile_images/2787466262/758b3e02786ac7300e38c665eb12289d_normal.jpeg","collectionId":"510a4b18e4b03384be725437","iconEnabled":true,"serviceName":"twitter"},{"serviceId":1,"userId":"92236","userName":"eugene@eugenewei.com","screenname":"Eugene Wei","addedOn":1359629106405,"profileUrl":"https://foursquare.com/user/92236","iconUrl":"https://is0.4sqi.net/userpix_thumbs/5RTTSOBHCZG54JDT.jpg","collectionId":"510a4b32e4b0086d33c417ab","iconEnabled":true,"serviceName":"foursquare"},{"serviceId":10,"userId":"57803","userName":"eugenewei","screenname":"Eugene Wei","addedOn":1359629167747,"profileUrl":"http://instagram.com/eugenewei","iconUrl":"http://images.instagram.com/profiles/profile_57803_75sq_1350076798.jpg","collectionId":"510a4b6fe4b08fd84ce4af53","iconEnabled":true,"serviceName":"instagram"},{"serviceId":3,"userId":"41894171397@N01","userName":"eugene","screenname":"eugene","addedOn":1359629176887,"profileUrl":"http://www.flickr.com/people/eugene/","iconUrl":"http://farm1.staticflickr.com/1/buddyicons/41894171397@N01.jpg","collectionId":"510a4b78e4b03021f766bc6d","iconEnabled":true,"serviceName":"flickr"}],"typekitId":"uil7uty","statsMigrated":true,"imageMetadataProcessingEnabled":false,"screenshotId":"966699af4c463a0d3e4d9fd0a8460936428ebef0048ebb5abe76c39e1e27c038","showOwnerLogin":false},"websiteSettings":{"id":"4ff36e51e4b0d277e953e395","websiteId":"4ff36e51e4b0d277e953e394","type":"Personal","subjects":[{"systemSubject":"other","otherSubject":"Architecture Services"}],"country":"US","state":"CA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":false,"commentThreaded":true,"commentApprovalRequired":true,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":true,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["CHF","HKD","MXN","EUR","DKK","USD","CAD","MYR","NOK","THB","AUD","SGD","ILS","PLN","GBP","CZK","SEK","NZD","PHP","RUB"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":true,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":false,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Blog","id":"500b1e27e4b02864db9ad532","fullUrl":"/","publicCommentCount":0,"type":1,"permissionType":1},"item":{"title":"Invisible asymptotes","id":"5b03537e2b6a28682786e6e4","fullUrl":"/blog/2018/5/21/invisible-asymptotes","publicCommentCount":18,"commentState":1,"recordType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","gallery-arrow-style":"Round Corners","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-design":"Slideshow","gallery-info-overlay":"Always Show","gallery-loop":"false","gallery-navigation":"Thumbnails","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","gridSize":"350px","gridSpacing":"20px","product-gallery-auto-crop":"true","product-image-auto-crop":"true","tweak-v1-related-products-title-spacing":"50px"},"templateId":"4f6a1392e4b07090d46e7ec9","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/ta/4f6798afe4b097349e410d49/1600/scripts/","betaFeatureFlags":["campaigns_discount_section_in_blasts","fluid_engine_filtered_catalog_endpoints","campaigns_global_uc_ab","fluid_engine","customer_account_creation_recaptcha","fluid_engine_block_resizing_indicator","scheduling_block_schema_editor","marketing_landing_page","crm_use_new_import_modal_profiles","commerce_restock_notifications","block_annotations_revamp","campaigns_new_image_layout_picker","commerce_clearpay","campaigns_asset_picker","send_local_pickup_ready_email","commerce_etsy_product_import","commerce_etsy_shipping_import","crm_default_newsletter_block_to_campaigns","product_composer_feedback_form_on_save","commerce_site_visitor_metrics","reduce_general_search_api_traffic","nested_categories_migration_enabled","campaigns_new_subscriber_search","campaigns_content_editing_survey","background_art_onboarding","block_duplication","campaigns_thumbnail_layout","asset_uploader_refactor","fluid_engine_clean_up_grid_contextual_change","member_areas_schedule_interview","member_areas_spanish_interviews","crm_remove_subscriber","customer_accounts_email_verification","crm_retention_segment","viewer-role-contributor-invites"],"videoAssetsFeatureFlags":["hls-playback","mux-data-video-collection"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.eugenewei.com/blog?format=rss" />
+<script type="application/ld+json">{"url":"https://www.eugenewei.com","name":"Remains of the Day","description":"","image":"//images.squarespace-cdn.com/content/v1/4ff36e51e4b0d277e953e394/1346363211875-J9I9EM1FA7C1ML3P4PJA/logo.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"legalName":"","address":"1 Bluxome St.\nSF, CA, 94107\nUnited States","email":"eugene@eugenewei.com","sameAs":["http://www.facebook.com/2543281","https://twitter.com/eugenewei","https://foursquare.com/user/92236","http://instagram.com/eugenewei","http://www.flickr.com/people/eugene/"],"@context":"http://schema.org","@type":"Organization"}</script><script type="application/ld+json">{"address":"1 Bluxome St.\nSF, CA, 94107\nUnited States","image":"https://static1.squarespace.com/static/4ff36e51e4b0d277e953e394/t/503fdf4be4b0c285641c3758/1600419232889/","name":"","@context":"http://schema.org","@type":"LocalBusiness"}</script><script type="application/ld+json">{"name":"Invisible asymptotes \u2014 Remains of the Day","url":"https://www.eugenewei.com/blog/2018/5/21/invisible-asymptotes","datePublished":"2018-05-22T10:17:00-0700","dateModified":"2019-02-19T12:52:34-0800","headline":"Invisible asymptotes","author":"Eugene Wei","publisher":{"name":"Remains of the Day","logo":{"@type":"ImageObject","url":"https://static1.squarespace.com/static/4ff36e51e4b0d277e953e394/t/503fdf4be4b0c285641c3758/1600419232889/"},"@context":"http://schema.org","@type":"Organization"},"image":"http://static1.squarespace.com/static/4ff36e51e4b0d277e953e394/t/5b035c3d03ce64928f55dfe3/1526946884121/cerebro.jpg?format=1500w","@context":"http://schema.org","@type":"Article"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/sitecss/4ff36e51e4b0d277e953e394/90/4f6a1392e4b07090d46e7ec9/500b2366e4b0e4a25024fdce/1600/site.css"/><meta name="google-site-verification" content="JJ32nwVjK_AQ4vbECupYTc8kSr7TTEprT8eqi5flv-Y" />
+<link rel="stylesheet" type="text/css" href="/s/bigfoot-default.css">
+<!-- disabled for now link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/tufte-css/1.7.2/tufte.min.css" /-->
+<style type="text/css">
+  button.bigfoot-footnote__button {
+    background-color: #0479b4;
+	color: white;
+	vertical-align: middle;
+	font-size: 18px;
+  }
+</style><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=$GA_TRACKING_ID$"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('set', 'developer_id.dZjQwMz', true);gtag('config', 'UA-24324964-1');</script><!-- End of Squarespace Headers -->
+
+	</head>
+	
+	<body class="blog-meta-data-bottom  hide-author   social-icon-style-round       event-thumbnails event-thumbnail-size-32-standard event-date-label event-date-label-time event-list-show-cats event-list-date event-list-time event-list-address   event-icalgcal-links  event-excerpts  event-item-back-link    gallery-design-slideshow aspect-ratio-auto lightbox-style-dark gallery-navigation-thumbnails gallery-info-overlay-always-show gallery-aspect-ratio-32-standard gallery-arrow-style-round-corners gallery-transitions-fade gallery-show-arrows gallery-auto-crop   product-list-titles-under product-list-alignment-center product-item-size-11-square product-image-auto-crop product-gallery-size-11-square product-gallery-auto-crop show-product-price show-product-item-nav product-social-sharing tweak-v1-related-products-image-aspect-ratio-11-square tweak-v1-related-products-details-alignment-center newsletter-style-dark  opentable-style-light small-button-style-solid small-button-shape-square medium-button-style-solid medium-button-shape-square large-button-style-solid large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-default button-corner-style-square tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-500b1e27e4b02864db9ad532 view-item collection-type-blog collection-layout-default mobile-style-available" id="item-5b03537e2b6a28682786e6e4">
+
+	<div id="site">
+		<div id="canvas">
+
+			<div id="headerWrapper">
+				<header id="header">
+
+					<div id="headerInfo">
+						
+						<h1 class="logo image">
+							<a href="/" title="Remains of the Day" role="bookmark" data-content-field="site-title">
+							  <span class="placed-logo-image"><img src="//images.squarespace-cdn.com/content/v1/4ff36e51e4b0d277e953e394/1346363211875-J9I9EM1FA7C1ML3P4PJA/logo.png?format=1500w" alt="Remains of the Day" /></span>
+							  
+							</a>
+						</h1>
+						
+		      	<script type="module">
+			        Y.use('squarespace-ui-base', function(Y) {
+			          	Y.one("h1.logo").plug(Y.Squarespace.TextShrink, {
+			            	parentEl: Y.one('#header'),
+			            	minFontSize: 16
+			          	});
+			          	if (Y.one('p.site-tagline')){
+				          	Y.one("p.site-tagline").plug(Y.Squarespace.TextShrink, {
+				            	parentEl: Y.one('#header'),
+				            	minFontSize: 12
+				          	});
+				          }
+			        });
+		      	</script>
+						
+						
+						<div id="navBlock" role="navigation">
+							
+<nav class="main-nav" data-content-field="navigation">
+
+  <ul>
+  
+    
+      
+        <li class="page-collection">
+          <a href="/info">About</a>
+        </li>
+      
+      
+    
+  
+    
+      
+        <li class="blog-collection active-link">
+          <a href="/">Blog</a>
+        </li>
+      
+      
+    
+  
+    
+      
+        <li class="page-collection">
+          <a href="/newsletter">Newsletter</a>
+        </li>
+      
+      
+    
+  
+    
+      
+        <li class="blog-collection">
+          <a href="/imported-mt-blog">Archive</a>
+        </li>
+      
+      
+    
+  
+  </ul>
+
+  <select id="mobileSelect" name="mobileSelect">
+    <option class="mobile-select-label" value="">Navigation</option>
+    
+      
+        
+          <option class="page-collection" value="/info">About</option>
+        
+        
+      
+    
+      
+        
+          <option class="blog-collection" value="/" selected="selected">Blog</option>
+        
+        
+      
+    
+      
+        
+          <option class="page-collection" value="/newsletter">Newsletter</option>
+        
+        
+      
+    
+      
+        
+          <option class="blog-collection" value="/imported-mt-blog">Archive</option>
+        
+        
+      
+    
+  </select>
+
+</nav>
+
+
+					  </div>
+
+						<!-- CATEGORY NAV -->
+						
+
+					</div>
+
+				</header>
+			</div><!-- / headerWrapper -->
+
+			<div id="pageWrapper" class="hfeed" role="main">
+				<section id="page" data-content-field="main-content">
+					<article class="hentry tag-amazon tag-product tag-business tag-facebook tag-instagram tag-snapchat tag-twitter author-eugene-wei post-type-text" id="article-5b03537e2b6a28682786e6e4" data-item-id="5b03537e2b6a28682786e6e4">
+
+	<div class="content-wrapper">
+  <!--SPECIAL CONTENT-->
+
+    
+
+    <div class="post">
+
+    <!--POST HEADER-->
+
+			<header>
+				<h1 class="entry-title" data-content-field="title" itemprop="headline"><a href="/blog/2018/5/21/invisible-asymptotes">Invisible asymptotes</a></h1>
+				<div class="article-meta-top">
+          <div class="location"></div>
+          <span class="date"><a href="/blog/2018/5/21/invisible-asymptotes"><time class="published" datetime="2018-05-22" itemprop="datePublished">May 22, 2018</time></a></span>
+           <span class="author"><a href="/?author=4ff36e51e4b0d277e953e396" rel="author">by Eugene Wei</a></span>
+          
+        </div>
+			</header>
+
+    <!--POST BODY-->
+
+      <div class="body entry-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1526944688618" id="item-5b03537e2b6a28682786e6e4"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-c53bfd9948a9dcbc34a0"><div class="sqs-block-content">
+
+<blockquote><p style="white-space:pre-wrap;">"It is said that if you know your enemies and know yourself, you will not be imperiled in a hundred battles; if you do not know your enemies but do know yourself, you will win one and lose one; if you do not know your enemies nor yourself, you will be imperiled in every single battle." - <a href="https://en.wikiquote.org/wiki/Sun_Tzu" target="_blank">Sun Tzu</a><br></p></blockquote><p style="white-space:pre-wrap;">My first job at Amazon was as the first analyst in strategic planning, the forward-looking counterpart to accounting, which records what already happened. We maintained several time horizons for our forward forecasts, from granular monthly forecasts to quarterly and annual forecasts to even five and ten year forecasts for the purposes of fund-raising and, well, strategic planning.</p><p style="white-space:pre-wrap;">One of the most difficult things to forecast was our adoption rate. We were a public company, though, and while Jeff would say, publicly, that "in the short run, the stock market is a voting machine, in the long run, it's a scale," that doesn't provide any air cover for strategic planning. It's your job to know what's going to happen in the future as best as possible, and every CFO of a public company will tell you that they take the forward guidance portion of their job seriously. Because of information asymmetry, analysts who cover your company depend quite a bit on guidance on quarterly earnings calls to shape their forecasts and coverage for their clients. It's not just that giving the wrong guidance might lead to a correction in your stock price but that it might indicate that you really have no idea where your business is headed, a far more damaging long-run reveal.</p><p style="white-space:pre-wrap;">It didn't take long for me to see that our visibility out a few months, quarters, and even a year was really accurate (and precise!). What was more of a puzzle, though, was the long-term outlook. Every successful business goes through the famous S-curve, and most companies, and their investors, spend a lot of time looking for that inflection point towards hockey-stick growth. But just as important, and perhaps less well studied, is that unhappy point later in the S-curve, when you hit a shoulder and experience a flattening of growth.</p><p style="white-space:pre-wrap;">One of the huge advantages for us at Amazon was that we always had a fairly good proxy for our total addressable market (TAM). It was easy to pull the statistics for the size of the global book market. Just as a rule of thumb, one could say that if we took 10% of the global book market it would mean our annual revenues would be X. One could be really optimistic and say that we might even expand the TAM, but finance tends to be the conservative group in the company by nature (only the paranoid survive and all that).</p><p style="white-space:pre-wrap;">When I joined Amazon I was thrown almost immediately into working with a bunch of MBA's on business plans for music, video, packaged software, magazines, and international. I came to think of our long-term TAM as a straightforward layer cake of different retail markets.</p><p style="white-space:pre-wrap;">Still, the gradient of adoption was somewhat of a mystery. I could, in my model, understand that one side of it was just exposure. That is, we could not obtain customers until they'd heard of us, and I could segment all of those paths of exposure into fairly reliable buckets: referrals from affiliate sites (we called them Associates), referrals from portals (AOL, Excite, Yahoo, etc.), and word-of-mouth (this was pre-social networking but post-email so the velocity of word-of-mouth was slower than it is today). Awareness is also readily trackable through any number of well-tested market research methodologies.</p><p style="white-space:pre-wrap;">Still, for every customer who heard of Amazon, how could I forecast whether they'd make a purchase or not? Why would some people use the service while others decided to pass?</p><p style="white-space:pre-wrap;">For so many startups and even larger tech incumbents, the point at which they hit the shoulder in the S-curve is a mystery, and I suspect the failure to see it occurs much earlier. The good thing is that identifying the enemy sooner allows you to address it. We focus so much on product-market fit, but once companies have achieved some semblance of it, most should spend much more time on the problem of product-market unfit.</p><p style="white-space:pre-wrap;">For me, in strategic planning, the question in building my forecast was to flush out what I call the <strong>invisible asymptote</strong>: a ceiling that our growth curve would bump its head against if we continued down our current path. It's an important concept to understand for many people in a company, whether a CEO, a product person, or, as I was back then, a planner in finance.</p><h3 style="white-space:pre-wrap;">Amazon's invisible asymptote</h3><p style="white-space:pre-wrap;">Fortunately for Amazon, and perhaps critical to much of its growth over the years, perhaps the single most important asymptote was one we identified very early on. Where our growth would flatten if we did not change our path was, in large part, due to this single factor.</p><p style="white-space:pre-wrap;">We had two ways we were able to flush out this enemy. For people who did shop with us, we had, for some time, a pop-up survey that would appear right after you'd placed your order, at the end of the shopping cart process. It was a single question, asking why you didn't purchase more often from Amazon. For people who'd never shopped with Amazon, we had a third party firm conduct a market research survey where we'd ask those people why they did not shop from Amazon.</p><p style="white-space:pre-wrap;">Both converged, without any ambiguity, on one factor. You don't even need to rewind to that time to remember what that factor is because I suspect it's the same asymptote governing e-commerce and many other related businesses today.</p><p style="white-space:pre-wrap;"><strong>Shipping fees</strong>.</p><p style="white-space:pre-wrap;">People hate paying for shipping. They despise it. It may sound banal, even self-evident, but understanding that was, I'm convinced, so critical to much of how we unlocked growth at Amazon over the years.</p><p style="white-space:pre-wrap;">People don't just hate paying for shipping, they hate it to literally an irrational degree. We know this because our first attempt to address this was to show, in the shopping cart and checkout process, that even after paying shipping, customers were saving money over driving to their local bookstore to buy a book because, at the time, most Amazon customers did not have to pay sales tax. That wasn't even factoring in the cost of getting to the store, the depreciation costs on the car, and the value of their time.</p><p style="white-space:pre-wrap;">People didn't care about this rational math. People, in general, are terrible at valuing their time, perhaps because for most people monetary compensation for one's time is so detached from the event of spending one's time. Most time we spend isn't like deliberate practice, with immediate feedback.</p><p style="white-space:pre-wrap;">Wealthy people tend to receive a much more direct and immediate payoff for their time which is why they tend to be better about valuing it. This is why the first thing that most ultra-wealthy people I know do upon becoming ultra-wealthy is to hire a driver and start to fly private. For most normal people, the opportunity cost of their time is far more difficult to ascertain moment to moment.</p><p style="white-space:pre-wrap;">You can't imagine what a relief it is to have a single overarching obstacle to focus on as a product person. It's the same for anyone trying to solve a problem. Half the comfort of diets that promise huge weight loss in exchange for cutting out sugar or carbs or whatever is feeling like there's a really simple solution or answer to a hitherto intractable, multi-dimensional problem.</p><p style="white-space:pre-wrap;">Solving people's distaste for paying shipping fees became a multi-year effort at Amazon. Our next crack at this was Super Saver Shipping: if you placed an order of $25 or more of qualified items, which included mostly products in stock at Amazon, you'd receive free standard shipping.</p><p style="white-space:pre-wrap;">The problem with this program, of course, was that it caused customers to reduce their order frequency, waiting until their orders qualified for the free shipping. In select cases, forcing customers to minimize consumption of your product-service is the right long-term strategy, but this wasn't one of those.</p><p style="white-space:pre-wrap;">That brings us to Amazon Prime. This is a good time to point out that shipping physical goods isn't free. Again, self-evident, but it meant that modeling Amazon Prime could lead to widely diverging financial outcomes depending on what you thought it would do to the demand curve and average order composition.</p><p style="white-space:pre-wrap;">To his credit, Jeff decided to forego testing and just go for it. It's not so uncommon in technology to focus on growth to the exclusion of all other things and then solve for monetization in the long run, but it's easier to do so for a social network than a retail business with real unit economics. The more you sell, the more you lose is not and has never been a sustainable business model (<a href="http://www.eugenewei.com/blog/2013/10/25/amazon-and-the-profitless-business-model-narrative" target="_blank">people confuse this for Amazon's business model all the time</a>, and still do, which ¯\_(ツ)_/¯).</p><p style="white-space:pre-wrap;">The rest, of course, is history. Or at least near-term history. It turns out that you can have people pre-pay for shipping through a program like Prime and they're incredibly happy to make the trade. And yes, on some orders, and for some customers, the financial trade may be a lossy one for the business, but on net, the dramatic shift in the demand curve is stunning and game-changing.</p><p style="white-space:pre-wrap;">And, as Jeff always noted, you can make micro-adjustments in the long run to tweak the profit leaks. For some really large, heavy items, you can tack on shipping surcharges or just remove them from qualifying for Prime. These days, some items in Amazon are marked as "Add-on items" and you can only order them in conjunction with enough other items such that they can be shipped with those items rather than in isolation.</p><p style="white-space:pre-wrap;">[Jeff counseled the same "fix it later" strategy in the early days when we didn't have good returns tracking. For a window of time in the early days of Amazon, if you shipped us a box of books for returns, we couldn't easily tell if you'd purchase them at Amazon and so we'd credit you for them, no questions asked. One woman took advantage of this loophole and shipped us boxes and boxes of books. Given our limited software resources, Jeff said to just ignore the lady and build a way to solve for that later. It was really painful, though, so eventually customer service representatives all shared, amongst themselves, the woman's name so they could look out for it in return requests even before such systems were built. Like a mugshot pinned to every monitor saying "Beware this customer." A tip of the hat to you, maam, wherever you are, for your enterprising spirit in exploiting that loophole!]</p><p style="white-space:pre-wrap;">Prime is a type of scale moat for Amazon because it isn't easy for other retailers to match from a sheer economic and logistical standpoint. As noted before, shipping isn't actually free when you have to deliver physical goods. The really challenging unit economics of delivery businesses like Postmates, when paired with people's aversion for paying for shipping, makes for tough sledding, at least until the cost of delivering such goods can be lowered drastically, perhaps by self-driving cars or drones or some such technology shift.</p><p style="white-space:pre-wrap;">Furthermore, very few customers shop enough with retailers other than Amazon to make a pre-pay program like Prime worthwhile to them. Even if they did, it's very likely Amazon's economies of scale in shipping and deep knowledge of how to distribute their inventory optimally means their unit economics on delivery are likely superior.</p><p style="white-space:pre-wrap;">The net of it is that long before Amazon hit what would've been an invisible asymptote on its e-commerce growth it had already erased it.</p><p style="white-space:pre-wrap;">Know thine enemy.</p><h3 style="white-space:pre-wrap;"><strong>Invisible asymptotes are...invisible</strong></h3><p style="white-space:pre-wrap;">An obvious problem for many companies, however, is that they are creating new types of businesses and services that don't lend themselves to easily identifying such invisible asymptotes. Many are not like Amazon where there are readily tracked metrics like the size of the global book market with which to peg their TAM.</p><p style="white-space:pre-wrap;">Take social networks, for example. What's the shoulder of the curve for something like Facebook? Twitter? Instagram? Snapchat?</p><p style="white-space:pre-wrap;">Some of the limits to their growth are easier to spot than others. For messaging and some more general social networking apps, for example, in many cases network effects are geographical. Since these apps build on top of real-world social graphs, and many of those are geographically clustered, there are winner-take-all dynamics such that in many countries one messaging app dominates, like Kakao in Korea or Line in Taiwan. There can be geo-political considerations, too, that help ensure that that WeChat will dominate in China to the exclusion of all competitors, for example.</p><p style="white-space:pre-wrap;">For others, though, it takes a bit more product insight, and some might say intuition, to see the ceiling before you bump into it. For both employees and investors, understanding product-market unfit follows very closely on identifying product-market fit as an existential challenge.</p><p style="white-space:pre-wrap;">Without direct access to internal metrics and research, it's difficult to use much other than public information and my own product intuition to analyze potential asymptotes for many companies, but let's take a quick survey of several more prominent companies and consider some of their critical asymptotes (these companies are large enough that they likely have many, but I'll focus on the macro). You can apply this to startups, too, but there are some differences between achieving initial product market fit and avoiding the shoulder in the S-curve after already having found it.</p><p style="white-space:pre-wrap;"><strong>Twitter</strong></p><p style="white-space:pre-wrap;">Let's start with Twitter, for many in tech the most frustrating product from the perspective of the gap between the actual and the potential. Its user growth has been flat for quite some time, and so it can be said to have already run full speed into an invisible asymptote. In quarterly earnings calls, it's apparent management often have no idea if or when or how that might shift because their guidance is often a collective shrug.</p><p style="white-space:pre-wrap;">One popular early school of thought on Twitter, a common pattern with most social networks, is that more users need to experience what the power users or early adopters are experiencing and they'll turn into active users. Many a story of social networks who've continued to grow point to certain keystone metrics as pivotal to unlocking product-market fit. For example, once you've friended 30 people on Facebook, you're hooked. For Twitter, an equivalent may be following enough people to generate an interesting feed.</p><p style="white-space:pre-wrap;">Pattern-matching moves more quickly through Silicon Valley than almost any other place I've lived, so stories like that are passed around through employees and Board meetings and other places where the rich and famous tech elite hobnob, and so it's not surprising that this theory is raised for every social network that hits the shoulder in their S-curve.</p><p style="white-space:pre-wrap;">There's more than a whiff of Geoffrey Moore's <a href="https://amzn.to/2IDhph6" target="_blank">Crossing the Chasm</a>&nbsp;in this idea, some sense that moving from early adopters to the mainstream involves convincing more users to use the same product/service as early adopters do.</p><p style="white-space:pre-wrap;">In the case of Twitter, I think the theory is wrong. Given the current configuration of the product, I don't think any more meaningful user growth is possible, and tweaking the product as it is now won't unlock any more growth. The longer they don't acknowledge this, the longer they'll be stuck in a <a href="https://www.fs.blog/2012/10/the-red-queen-effect/" target="_blank">Red Queen</a> loop of their own making.</p><p style="white-space:pre-wrap;">Sometimes, the product-market fit with early adopters is only that. The product won't go mainstream because other people don't want or need that product. In these cases, the key to unlocking growth is usually customer segmentation, creating different products for different users.</p><p style="white-space:pre-wrap;">Mistaking one type of business for the other can be a deadly mistake because the strategies for addressing them are so different. A common symptom of this mistake is not seeing the shoulder in the S-curve coming at all, not understanding the nature of your product-market unfit.</p><p style="white-space:pre-wrap;">I believe the core experience of Twitter has reached most everyone in the world who likes it. Let's examine the core attributes of Twitter the product (which I treat as distinct from Twitter the service, the public messaging protocol).</p><p style="white-space:pre-wrap;">It is heavily text-based, with 140 and now 280 character limit snippets of text from people you've followed presented in a vertical scrolling feed in some algorithmic order, which, for the purposes of this exercise, I'll just consider roughly chronological.</p><p style="white-space:pre-wrap;">For fans, most of whom are infovores, the nature of product-market fit is, as with many of our tech products today, one of addiction. Because the chunks of text are short, if one tweet is of no interest, you can quickly scan and scroll to another with little effort. Discovering tweets of interest in what appears to be a largely random order rewards the user with dopamine hits on that time-tested Skinner box variable frequency. Instead of rats hitting levers for pellets of food, power Twitter user push or pull on their phone screens for the next tasty pellet of text.</p><p style="white-space:pre-wrap;">For infovores, text, in contrast to photos or videos or music, is the medium of choice from a velocity standpoint. There is deep satisfaction in quickly decoding the textual information, the scan rate is self-governed on the part of the reader, unlike other mediums which unfold at their own pace (this is especially the case with video, which infovores hate for its low scannability).</p><p style="white-space:pre-wrap;">Over time, this loop tightens and accelerates through the interaction of all the users on Twitter. Likes and retweets and other forms of feedback guide people composing tweets to create more of the type that receive positive feedback. The ideal tweet (which I mean one that will receive maximum positive feedback) combines some number of the following attributes:</p><ul data-rte-list="default"><li><p style="white-space:pre-wrap;">Is pithy. Sounds like a fortune cookie. The character limit encourages this type of compression.</p></li><li><p style="white-space:pre-wrap;">Is slightly surprising. This can be a contrarian idea or just a cliche encoded in a semi-novel way.</p></li><li><p style="white-space:pre-wrap;">Rewards some set of readers' priors, injecting a pleasing dose of confirmation bias directly into the bloodstream.</p></li><li><p style="white-space:pre-wrap;">Blasts someone that some set of people dislike intensely. This is closely related to the previous point.</p></li><li><p style="white-space:pre-wrap;">Is composed by someone famous, preferably someone a lot of people like but don't consider to be a full-time Tweeter, like Chrissy Teigen or Kanye West.</p></li><li><p style="white-space:pre-wrap;">Is on a topic that most people think they understand or on which they have an opinion.</p></li></ul><p style="white-space:pre-wrap;">Of course, the set of ideal qualities varies by subgroup on Twitter. Black Twitter differs from rationalist Twitter which differs from NBA Twitter. The meta point is that the flywheel spins more and more quickly over time within each group.</p><p style="white-space:pre-wrap;">The problem is that for those who don't use Twitter, almost all of its ideal attributes among the early adopter cohort are those which other people find bewildering and unattractive. Many people find the text-heavy nature of Twitter to be a turn-off. The majority of people, actually.</p><p style="white-space:pre-wrap;">The naturally random sort order of ideas that comes from the structure of Twitter, one which pings the pleasure centers of the current heavy user cohort when they find an interesting tweet, is utterly perplexing to those who don't get the service. Why should they hunt and peck for something of interest? Why are conversations so difficult to follow (actually, this is a challenge even for those who enjoy Twitter)? Why do people have to work so hard to parse the context of tweets?</p><p style="white-space:pre-wrap;">Falling into the trap of thinking other users will be like you is especially pernicious because the people building the product are usually among that early adopter cohort. The easiest north star for a product person is their own intuition. But if they're working on a product that requires customer segmentation, being in the early adopter cohort means one's instincts will keep guiding you towards the wrong North star and the company will just keep bumping into the invisible asymptote without any idea why.</p><p style="white-space:pre-wrap;">This points to an important qualifier to the "crossing the chasm" idea of technology diffusion. If the chasm is large enough, the same product can't cross it. Instead, on the other side of the gaping chasm is just a different country altogether, with different constituents with different needs.</p><p style="white-space:pre-wrap;">I use Twitter a lot (I recently received a notification I'd passed my 11-year anniversary of joining the service) but almost everyone in my family, from my parents to my siblings to my girlfriend to my nieces and nephews has tried and given up on Twitter. It doesn't fulfill any deep-seated need for any of them.</p><p style="white-space:pre-wrap;">It's not surprising to me that Twitter is populated heavily by journalists and a certain cohort of techies and intellectuals who all, to me, are part of a broader species of infovore. For them, opening Twitter must feel as if they've donned Cerebro and have global contact with thousands of brains all over the world, as if the fabric of their brain had been flattened and stretched out wide and laid on top of that of millions of others brains all over the world.</p>
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1526937704932_59194"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1877px;"
+        >
+          
+        
+        
+
+        
+          
+            <button
+                class="
+                  sqs-block-image-button
+                  lightbox
+                  
+          
+        
+                "
+                data-description="&lt;p&gt;Quiet, I am reading the tweets.&lt;/p&gt;"
+                data-lightbox-theme="dark"
+            >
+              <span class="v6-visually-hidden">View fullsize</span>
+              
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:41.822059631347656%;
+                
+                overflow: hidden;
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/4ff36e51e4b0d277e953e394/1526946877910-GDOEYQ15YYXL9ZV2XJCP/cerebro.jpg" alt="Quiet, I am reading the tweets." /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/4ff36e51e4b0d277e953e394/1526946877910-GDOEYQ15YYXL9ZV2XJCP/cerebro.jpg" data-image="https://images.squarespace-cdn.com/content/v1/4ff36e51e4b0d277e953e394/1526946877910-GDOEYQ15YYXL9ZV2XJCP/cerebro.jpg" data-image-dimensions="1877x785" data-image-focal-point="0.5,0.5" alt="Quiet, I am reading the tweets." data-load="false" data-image-id="5b035c3d03ce64928f55dfe3" data-type="image" />
+            </div>
+          </div>
+        
+            </button>
+          
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <div class="image-caption"><p>Quiet, I am reading the tweets.</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1526937704932_59475"><div class="sqs-block-content">
+
+<p style="white-space:pre-wrap;">Mastering Twitter is already something this group of people do all the time in their lives and jobs, only Twitter accelerates it, like a bicycle for intellectual conversation and preening. Twitter, at its best, can provide a feeling of near real-time communal knowledge sharing that satisfies some of the same needs as something like SoulCycle or Peloton. A feeling of communion that also feels like it's productive.</p><p style="white-space:pre-wrap;">If my instincts are right, then all the iterating around the margins on Twitter won't do much of anything to change the growth curve of the service. It might improve the experience for the current cohort of users and increase usage (for example, curbing abuse and trolls is an immediate and obvious win for those who experience all sorts of terrible harassment on the service), but it doesn't change the fact that this core Twitter product isn't for all the people who left the club long ago, soon after they walked in and realized it was just a bunch of nerds who'd ordered La Croix bottle service and were sitting around talking about Bitcoin and stoicism and transcendental meditation.</p><p style="white-space:pre-wrap;">The good news is that the Twitter service, that public messaging protocol with a one-way follow model, could be the basis for lots of products that might appeal to other people in the world. Knowing the enemy can prevent wasting time chasing the wrong strategy.</p><p style="white-space:pre-wrap;">Unfortunately, one of the main paths towards coming up with new products built on top of that protocol was the third party developer program, and, well, Twitter has treated its third party developers like unwanted stepchildren for a long time. For whatever reason, it's difficult to speculate without having been there, Twitter's rate of product development internally has been glacial. A vibrant third party-developer program could have helped by massively increasing the vectors of development on Twitter's very elegant public messaging protocol and datasets.</p><p style="white-space:pre-wrap;">[Note, however, that I'm sympathetic to tech companies that restrict building clones of their service using their API's. No company owes it to others to allow people to build direct competitors to their own product. Most people don't remember, but Amazon's first web services offering was for affiliates to build sites to sell things. Some sites started building massive Amazon clones and so Amazon's web services evolved into other forms, eventually settling on what most people know it as today.]</p><p style="white-space:pre-wrap;">In addition, I've long wondered if the shutting out of third party developers on Twitter was an attempt to aggregate and own all their own ad inventory. Both these problems could've been solved by tweaking the Twitter third party development program. Developers could be offered two paths.</p><p style="white-space:pre-wrap;">One option is that for every X number of tweets a developer pulled, they'd have to carry and display a Twitter-inserted ad unit. This would make it possible for Twitter to support third-party clients like Tweetbot that compete somewhat with Twitter's own clients. Maybe one of these developers would come up with improvements on top of Twitter's own client apps, but in doing so they'd increase Twitter's ad inventory.</p><p style="white-space:pre-wrap;">The second option would be to pay some fixed fee for every X tweets pulled. That would force the developer to come up with some monetization scheme on their own to cover their usage, but at least the option would exist. I don't doubt that some enterprising developers might come up with some way to monetize a particular use case, for example for business research.</p><p style="white-space:pre-wrap;">Twitter the product/app has hit its invisible asymptote. Twitter the protocol still has untapped potential.</p><p style="white-space:pre-wrap;"><strong>Snapchat</strong></p><p style="white-space:pre-wrap;">Snapchat is another example of a company that's hit a shoulder in its growth curve. Unlike Twitter, though, I suspect its invisible asymptote is less an issue of its feature set and more one of a generational divide.</p><p style="white-space:pre-wrap;">That's not to say that making the interface less inscrutable earlier on wouldn't have helped a bit, but I suspect only at the margins. In fact, the opaque nature of the interface probably served Snapchat incredibly well when the product came along, regardless of whether or not it was intended that way. Snapchat came along at a moment when kids' parents were joining Facebook, and when Facebook had been around long enough for the paper trail of its early, younger users to come back and bite some of them.</p><p style="white-space:pre-wrap;">Along comes a service that not only wipes out content by default after a short period of time but is inscrutable to the very parents who might crash the party. In fact, there's an entire class of products for which I believe an Easter Egg-like interface is actually preferable to an elegant, self-describing interface, long seen as the apex of UI design (more on that another day).</p><p style="white-space:pre-wrap;">I've written before about <a href="http://www.eugenewei.com/blog/2017/9/14/selfies-as-a-second-language" target="_blank">selfies as a second language</a>. At the root of that phenomenon is the idea that a generation of kids raised with smartphones with a camera front and back have found the most efficient way to communicate is with the camera, not the keyboard. That's not the case for an older cohort of users who almost never send selfies as a first resort. The very default of Snapchat to the camera screen is such a bold choice that it will probably never be the messaging app of choice for old folks, no matter how Snapchat moves around and re-arranges its other panes.</p><p style="white-space:pre-wrap;">More than that, I suspect every generation needs spaces of its own, places to try on and leave behind identities at low cost and on short, finite time horizons. That applies to social virtual spaces as much as it does to physical spaces.</p><p style="white-space:pre-wrap;">Look at how old people use Snapchat and you'll see lots of use of Stories. Watch a young person use Snapchat and it's predominantly one-to-one messaging using the camera (yes, I know some of the messages I receive on Snap are the same ones that person is sending to everyone one-to-one, but the hidden nature of that behavior allows me to indulge an egocentric rather than Copernican model of the universe). Now, it's possible for one app to serve multiple audiences that way, but it will either have to compromise all or some of its user experience to do so.</p><p style="white-space:pre-wrap;">At a deeper level, I think a person's need for ephemeral content varies across one's lifetime. It's of much higher value when one is young, especially in formative years. As one ages, and time's counter starts to run low, one turns nostalgic, and the value of permanent content, especially from long bygone days, increases, serving as beautifully aged relics of another era. One also tends to be more adept at managing one's public image the more time passes, lessening the need for ephemerality.</p><p style="white-space:pre-wrap;">All this is to say that I don't think making the interface of Snapchat easier to use is going to move it off of the shoulder on its S-curve. That's addressing a different underlying cause than the one that lies behind its invisible asymptote.</p><p style="white-space:pre-wrap;">The good news for Snapchat is that I don't think Facebook is going to be able to attract the youngsters. I don't care if Facebook copies Snapchat's exact app one for one, it's not going to happen. The bad news for Snapchat is that it probably isn't going to attract the oldies either. The most interesting question is whether Snapchat's cohort stays with it for life, and the next interesting question is who attracts the next generation of kids to get their first smartphones. Will they, like every generation of youth before them, demand a social network of their own? Sometimes I think they will just to claim a namespace that isn't already spoken for. Who wants to be joesmith43213 when you can be joesmith on some new sexy social network?</p><p style="white-space:pre-wrap;">As a competitor, however, Instagram is more worrisome than Facebook. It came along after Facebook, as Snapchat did, and so it had the opportunity to be a social network that a younger generation could roam as pioneers, mining so much social capital yet to be claimed. It is also largely an audio-visual network which is appealing to a more visually literate generation.</p><p style="white-space:pre-wrap;">When Messenger incorporated Stories into its app, it felt like a middle-aged couple dressing in cowboy chic and attending Coachella. When Instagram cribbed Stories, though, it addressed a real supply-side content creation issue for the same young'uns who used Snapchat. That is, people were being too precious about what they shared on Instagram, decreasing usage frequency. By adding Stories, they created a mechanism that wouldn't force content into the feed and whose ephemerality encouraged more liberal capture and sharing without the associated guilt.</p><p style="white-space:pre-wrap;">This is a general pattern among social networks and products in general: to broaden their appeal they tend to broaden their use cases. It's rare to see a product adhere strictly to its early specificity and still avoid hitting a shoulder in their adoption S-curve. Look at Facebook today compared to Facebook in its early days. Look at Amazon's product selection now compared to when it first launched.</p><p style="white-space:pre-wrap;">It takes internal fortitude for a product team to make such concessions (I would say courage but we need to sprinkle that term around <a href="https://www.theringer.com/2016/9/7/16038622/why-did-apple-remove-the-headphone-jack-courage-592a412412b5" target="_blank">less liberally in tech</a>). The stronger the initial product market fit, the more vociferously your early adopters will protest when you make any changes. Like a band that is accused of selling out, there is an inevitable sense that a certain sharpness of flavor, of choice, has seeped out as more and more people join up and as a service loosens up and accommodates more more use cases.</p><p style="white-space:pre-wrap;">I remember seeing so many normally level-headed people on Twitter threaten to abandon the service when they announced they were increasing the character limit from 140 to 280. The irony, of course, was that the character-limit increase likely improved the service for its current users while doing nothing to attract people who didn't use the service, even though the move was addressed mostly to heathen.</p><p style="white-space:pre-wrap;">Back to Snapchat. I wrote a long time ago that <a href="http://www.eugenewei.com/blog/2015/9/1/when-the-network-is-mature" target="_blank">the power of social networks lies in their graph</a>. That means many things, and in Snapchat's case it holds a particularly fiendish double bind. That Snapchat is the social network claimed by the young is both a blessing and a curse. Were a bunch of old folks to suddenly flock to Snapchat, it might induce a case of Groucho Marx's, "I don't care to belong to a club that accepts people like me as members."</p><p style="white-space:pre-wrap;"><strong>Facebook</strong></p><p style="white-space:pre-wrap;">On the dimension of utility, Facebook's network effects continue to be pure and unbounded. The more people that are on Facebook, the more it's useful for certain things for which a global directory is useful. Even though many folks don't use Facebook a lot, it's rare I can't find them on Messenger if I don't have their email address or phone number. The complexity of analyzing Facebook is that it serves different needs in different countries and markets, social network having strong path dependency in their usage patterns. In many countries, Facebook is the internet; it's odd as an American to travel to countries where businesses' only presence online is a Facebook page, so accustomed I am to searching for American businesses on the web or Yelp first.</p><p style="white-space:pre-wrap;">When it comes to the "social" aspect of social networking, the picture is less clear-cut. Here I'll focus on the U.S. market since it's the one I'm most familiar with. Because Facebook is the largest social network in history, it may be encountering scaling challenges few other entities have ever seen.</p><p style="white-space:pre-wrap;">The power of a social network lies in its graph, and that is a conundrum in many ways. One is that a massive graph is a blessing until it's a curse. For social creatures like humans who've long lived&nbsp; in smaller networks and tribes, a graph that conflates everyone you know is intimidating to broadcast to, except for those who have no compulsion about performing no matter the audience size:&nbsp;famous people, marketers, and those monstrous people who share everything about their lives. You know who you are.</p><p style="white-space:pre-wrap;">This is one of the diseconomies of scale for social networks that Facebook is first to run into because of its unprecedented size. Imagine you're in a room with all your family, friends, coworkers, casual acquaintances, and a lot of people you met just once but felt guilty about rejecting a friend request from. It's hundreds, maybe even thousands of people. What would you say to them? We know people maintain multiple identities for different audiences in their lives. Very few of us have to cultivate an identity for that entire blob of everyone we know. It's a situation one might encounter in the real world only a few times in life, perhaps at one's wedding, and later one's funeral. Online, though? It happens to be the default mode on Facebook's News Feed.</p><p style="white-space:pre-wrap;">It's no coincidence that public figures, those who have the most practice at having to deal with this problem, are so guarded. As your audience grows larger, the chance that you'll offend someone deeply with something you say approaches 1.</p><p style="white-space:pre-wrap;">When I scan my Facebook feed, I see fewer and fewer people I know sharing anything at all. Map one's sharing frequency with the size of one's friend list on Facebook and I highly suspect it looks like this:</p>
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1526950383433_77225"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1904px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:64.7583999633789%;
+                
+                overflow: hidden;
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/4ff36e51e4b0d277e953e394/1526959233112-5P31C42JAN7VR7KD1LQP/friend-post-frequency-facebook.png" alt="friend-post-frequency-facebook.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/4ff36e51e4b0d277e953e394/1526959233112-5P31C42JAN7VR7KD1LQP/friend-post-frequency-facebook.png" data-image="https://images.squarespace-cdn.com/content/v1/4ff36e51e4b0d277e953e394/1526959233112-5P31C42JAN7VR7KD1LQP/friend-post-frequency-facebook.png" data-image-dimensions="1904x1233" data-image-focal-point="0.5,0.5" alt="friend-post-frequency-facebook.png" data-load="false" data-image-id="5b038c800e2e72164db32e07" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1526950383433_77505"><div class="sqs-block-content">
+
+<p style="white-space:pre-wrap;">Again, not everyone is like this, some psychopaths who are comfortable sharing their thoughts no matter the size of the audience, but these people are often annoying, the type who dive right into politics at Thanksgiving before you've even spooned gravy over your turkey. This leads to a form of adverse selection where a few over-sharers take over your News Feed.</p><p style="white-space:pre-wrap;">[Not everything one shares gets distributed to one's entire friend graph given the algorithmic feed. But you as the one sharing something have no idea who will see it so you have to assume that any and every person in your graph will see it. The chilling effect is the same.]</p><p style="white-space:pre-wrap;">Another form of diseconomy of scale is behind the flight to Snapchat among the young, as outlined earlier. A sure way to empty a club or a dance floor is to have the parents show up; few things are more traumatic then seeing your Dad pretend-grind on your Mom when "Yeah" by Usher comes on. Having your parents in your graph on Facebook means you have to assume they're listening, and there isn't some way to turn on the radio very loudly or run the water as in a spy movie when you're trying to pass secrets to someone in a room that's bugged. The best you can do is communicate in code to which your parents don't own the decryption key; usually this takes the form of memes. Or you take the communication over to Snapchat.</p><p style="white-space:pre-wrap;">Another diseconomy of scale is the increasing returns to trolling. Facebook is more immune to this thanks to its bi-directional friending model than, say, Twitter, with its one-way follow model and public messaging framework. On Facebook, those wishing to sow dissension need to be a bit more devious, and as revelations from the last election showed, there are means to a person's heart, to reach them directly or indirectly, through confirmation bias and flattery. The Iago playbook from Othello. On Twitter, there's no need for such scheming, you can just nuke people from your keyboard without their consent.</p><p style="white-space:pre-wrap;">All of this is to say I suspect many of Facebook's more fruitful vectors for rekindling their value for socializing lie in breaking up the surface area of their service. News Feed is so monolithic a surface as to be subject to all the diseconomies of scale of social networking, even as it makes it such an attractive advertising landscape.</p><p style="white-space:pre-wrap;">The most obvious path to this is Groups, which can subdivide large graphs into ones more unified in purpose or ideology. Google+ was onto something with Circles, but since they hadn't actually achieved any scale they were solving a problem they didn't have yet.</p><p style="white-space:pre-wrap;"><strong>Instagram</strong></p><p style="white-space:pre-wrap;">Where is Instagram's invisible asymptote? This is one of the trickier ones to contemplate as it continues to grow without any obvious end in sight.</p><p style="white-space:pre-wrap;">One of the advantages to Instagram is that it came about when Facebook was broadening its acceptable media types from text to photos and video. Instagram began with just square photos with a simple caption, no links allowed, no resharing.</p><p style="white-space:pre-wrap;">This had a couple of advantages. One is that it's harder to troll or be insufferable in photos than it is in text. Photos tend to soften the edge of boasts and provocations. More people are more skilled at being hurtful in text than photos. Instagram has tended to be more aggressive than other networks at policing the emotional tenor of its network, especially in contrast to, say Twitter, turning its attention most recently to addressing trolls in the comment sections.</p><p style="white-space:pre-wrap;">Of course photos are not immune to this phenomenon. The "look at my perfect life" boasting of Instagram is many people's chief complaint about the app and likely the primary driver of people feeling lousy after looking through their feed there. Still, outright antagonism with Instagram, given it isn't an open public graph like Twitter, is harder. The one direct vector is comments and Instagram is working on that issue.</p><p style="white-space:pre-wrap;">In being a pure audio-visual network at a time when Facebook and most other networks were mixed-media, Instagram siphoned off many people for whom the best part of Facebook was just the photos and videos; again, we often, as with Twitter, over-estimate the product-market fit and TAM of text. If Facebook just showed photos and videos for a week I suspect their usage would grow, but since they own Instagram...</p><p style="white-space:pre-wrap;">As with other social networks that grow, Instagram broadened its formats early on to head off several format-based asymptotes. Non-square photos and videos with gradually lengthening time limits have broadened the use cases and, more importantly, removed some level of production friction.</p><p style="white-space:pre-wrap;">The move to copy Snapchat's Stories format was the next giant asymptote avoided. The precious nature of sharing on Instagram was a drag on posting frequency. Stories solves the supply-side issue for content several ways. One is that since it requires you to explicitly tap into viewing it from the home feed screen, it shifts the onus for viewing the content entirely to the audience. This frees the content creator from much of the guilt of polluting someone else's feed. The expiring nature of the content further removes another of a publisher's inhibitions about littering the digital landscape. It unlocked so much content that I now regularly fail to make it through more than a tiny fraction of Stories on Instagram. Even friends who don't publish a lot now often put their content in Stories rather than posting to the main feed.</p><p style="white-space:pre-wrap;">The very format of Stories, with its full-screen vertical orientation, cues the user that this format is meant for the native way we hold our devices as smartphone photographers, rather than accommodating the more natural landscape way that audiences view the world, with eyes side-by-side in one's head. Stories includes accoutrements like gaudy stickers and text overlays and face filters that aren't in the toolset for Instagram's main feed photo/video composer, perhaps to preserve some aesthetic separation between the main feed and Stories.</p><p style="white-space:pre-wrap;">There is a purity about Instagram which makes even its ads perfectly native: everything on the service is an audio-visual advertisement. I see people complain about the ad load in Instagram, but if you really look at your feed, it's always had an ad load of 100%.</p><p style="white-space:pre-wrap;">I just opened my feed and looked through the first twenty posts, and I'd classify them all as ads: about how great my meal was, for beautiful travel destinations, for the exquisite craft of various photographers and cinematographers, for an actor's upcoming film, for Rihanna's new lingerie line or makeup drop, for an elaborate dish a friend cooked, for a current concert tour, for how funny someone is, for someone's gorgeous new headshot, and for a few sporting events and teams. And yes, a few of them were official Instagram ads.</p><p style="white-space:pre-wrap;">I don't mean this in a negative way. One might lobby this accusation at all social networks, but the visual nature of Instagram absorbs the signaling function of social media in the most elegant and unified way. For example, messaging apps consist of a lot of communication that isn't advertising. But that's exactly why a messaging app like Messenger isn't as lucrative an ad platform as Instagram is and will be. If ads weren't marked explicitly, and if they weren't so obviously from accounts I don't follow, it's not clear to me that they'd be so jarringly different in nature than all the other content in the feed.</p><p style="white-space:pre-wrap;">The irony is that, as Facebook broadened its use cases and supported media types to continue to expand, the purity of Instagram may have made it more scalable a network in some ways.</p><p style="white-space:pre-wrap;">Of course, every product or service has some natural ceiling. To take one example, messaging with other folks is still somewhat clunky on Instagram, it feels tacked on. Considering how much young people use Snapchat as a messaging app of choice, there's likely attractive headroom for Instagram here.</p><p style="white-space:pre-wrap;">Rumors Instagram is contemplating a separate messaging app make sense. It would be ironic if Instagram separated out the more broadcast nature of its core app from the messaging use case in two different apps before Snapchat did. As noted earlier, it feels as if Snapchat is constantly fighting to balance the messaging parts of its app with the more broadcast elements like Stories and Discover, and separate apps might be one way to solve that more effectively.</p><p style="white-space:pre-wrap;">As with all social networks which are mobile-phone dominant, there are limits to what can be optimized for in a single app, when all you have to work with is a single rectangular phone screen. The mobile phone revolution forced a focus in design which created billions of dollars in value, but Instagram, like all phone apps, will run into the asymptote that is the limits of how much you can jam into one app.</p><p style="white-space:pre-wrap;">Instagram has already had some experience in dealing with this conundrum, creating separate apps like Boomerang or Hyperlapse that keep a lid on the complexity of the Instagram app itself and which bring additional composition techniques to the top level of one's phone. I often hear people counsel against launching separate apps because of the difficulty of getting adoption of even a single app, but that doesn't mean that separate apps aren't sometimes the most elegant way to deal with the spatial design constraints of mobile.</p><p style="white-space:pre-wrap;">On Instagram, content is still largely short in nature so longer narratives aren't common or well-supported. The very structure, oriented around a main feed algorithmically compiling a variety of content from all the account you follow, isn't optimized towards a deep dive into a particular subject matter or narrative like, say, a television or a streaming video app. The closest to long-form on Instagram is Live, but most of what I see of that is only loosely narrative, resembling more an extended selfie than a considered narrative. Rather than pursue long-form narrative, it may be that a more on-brand way to tackle the challenge of lengthening usage of the app is better stringing together of existing content, similar to how Snapchat can aggregate content from one location into a feed of sorts. That can be useful for things like concerts and sporting events and breaking news events like natural disasters, protests, and marches.</p><p style="white-space:pre-wrap;">In addition, perhaps there is a general limit to how far a single feed of random content arranged algorithmically can go before we suffer pure consumption exhaustion. Perhaps seeing curated snapshots from everyone will finally push us all to the breaking point of jealousy and FOMO and, across a large enough number of users, an asymptote will emerge.</p><p style="white-space:pre-wrap;">However, I suspect we've moved into an age where the upper bound on vanity fatigue has shifted much higher in a way that an older generation might find unseemly. Just as we've moved into a post-scarcity age of information, I believe we've moved into a post-scarcity age of identity as well. And in this world, it's more acceptable to be yourself and leverage social media for maximal distribution of yourself in a way that ties to the fundamental way in which the topology of culture has shifted from a series of massive centralized hub and spokes to a more uniform mesh.</p><p style="white-space:pre-wrap;">A last possible asymptote relates to my general sense that massive networks like Facebook and Instagram will, at some point, require more structured interactions and content units (for example, a list is a structured content unit, as is a check-in) to continue scaling. Doing so always imposes some additional friction on the content creator, but the benefit is breaking one monolithic feed into more distinct units, allowing users the ability to shift gears mentally by seeing and anticipating the structure, much like how a magazine is organized.</p><p style="white-space:pre-wrap;">To fill gaps in a person's free time, an endless feed is like an endless jar of liquid, able to be poured into any crevice in one's schedule and flow of attention. To demand a person's time, on the other hand, is a higher order task, and more structured content seems to do better on that front. People set aside dedicated time to play games like Fortnite or to watch Netflix, but less so to browse feeds. The latter happens on the fly. But ambition in software-driven Silicon Valley is endless and so at some point every tech company tries to obtain the full complement of Infinity Stones, whether by building them or buying them, like Facebook did with Instagram and Whatsapp.</p><h3 style="white-space:pre-wrap;">Amazon's next invisible asymptote?</h3><p style="white-space:pre-wrap;">I started with Amazon, but it is worth revisiting as it is hardly done with its own ambitions. After having made such massive progress on the shipping fee asymptote, what other barriers to growth might remain?</p><p style="white-space:pre-wrap;">On that same topic of shipping, the next natural barrier is shipping speed. Yes, it's great that I don't have to pay for shipping, but in time customer expectations inflate. Per Jeff's latest <a href="https://www.sec.gov/Archives/edgar/data/1018724/000119312518121161/d456916dex991.htm" target="_blank">annual letter to shareholders</a>:</p><blockquote><p style="white-space:pre-wrap;">One thing I love about customers is that they are divinely discontent. Their expectations are never static – they go up. It’s human nature. We didn’t ascend from our hunter-gatherer days by being satisfied. People have a voracious appetite for a better way, and yesterday’s ‘wow’ quickly becomes today’s ‘ordinary’. I see that cycle of improvement happening at a faster rate than ever before. It may be because customers have such easy access to more information than ever before – in only a few seconds and with a couple taps on their phones, customers can read reviews, compare prices from multiple retailers, see whether something’s in stock, find out how fast it will ship or be available for pick-up, and more. These examples are from retail, but I sense that the same customer empowerment phenomenon is happening broadly across everything we do at Amazon and most other industries as well. You cannot rest on your laurels in this world. Customers won’t have it.<br></p></blockquote><p style="white-space:pre-wrap;">Why only two-day shipping for free? What if I want my package tomorrow, or today, or right now?</p><p style="white-space:pre-wrap;">Amazon has already been working on this problem for over a decade, building out a higher density network of smaller distribution centers over its previous strategy of fewer, gargantuan distribution hubs. Drone delivery may have sounded like a joke when first announced on an episode of 60 Minutes, but it addresses the same problem, as does a strategy like Amazon lockers in local retail stores.</p><p style="white-space:pre-wrap;">Another asymptote may be that while Amazon is great at being the site of first resort to fulfill customer demands for products, it is less capable when it comes to generating desire ex nihilo, the kind of persuasion typically associated more with a tech company like Apple or any number of luxury retailers.</p><p style="white-space:pre-wrap;">At Amazon we referred to the dominant style of shopping on the service as spear-fishing. People come in, type a search for the thing they want, and 1-click it. In contrast, if you've ever gone to a mall with someone who loves shopping for shopping's sake, a clotheshorse for example, you'll see a method of shopping more akin to the gathering half of hunting and gathering. Many outfits are picked off the rack and gazed at, held up against oneself in a mirror, turned around and around in the hand for contemplation. Hands brush across racks of clothing, fingers feeling fabric in search of something unknown even to the shopper.</p><p style="white-space:pre-wrap;">This is browsing, and Amazon's interface has only solved some aspects of this mode of shopping. If you have some idea what you want, similarities carousels can guide one in some comparison shopping, and customer reviews serve as a voice on the shoulder, but it still feels somewhat utilitarian.</p><p style="white-space:pre-wrap;">Amazon's first attempts at physical stores reflect this bias in its retail style. I visited an Amazon physical bookstore in University Village the last time I was in Seattle, and it struck me as the website turned into 3-dimensional space, just with a lot less inventory. Amazon Go sounds more interesting, and I can't wait to try it out, but again, its primary selling point is the self-serve, low-friction aspect of the experience.</p><p style="white-space:pre-wrap;">When I think of creating desire, I think of my last and only visit to Milan, when a woman at an Italian luxury brand store talked me into buying a sportcoat I had no idea I wanted when I walked into the store. In fact, it wasn't even on display, so minimal was the inventory when I walked in.</p><p style="white-space:pre-wrap;">She looked at me, asked me some questions, then went to the back and walked back out with a single option. She talked me into trying it on, then flattered me with how it made me look, as well as pointing out some of its most distinctive qualities. Slowly, I began to nod in agreement, and eventually I knew I had to be the man this sportcoat would turn me into when it sat on my shoulders.</p><p style="white-space:pre-wrap;">This challenge isn't unique to Amazon. Tech companies in general have been mining the scalable ROI of machine learning and algorithms for many years now. More data, better recommendations, better matching of customer to goods, or so the story goes. But what I appreciate about luxury retail, or even Hollywood, is its skill for making you believe that something is the right thing for you, absent previous data. Seduction is a gift, and most people in technology vastly overestimate how much of customer happiness is solvable by data-driven algorithms while underestimating the ROI of seduction.</p><p style="white-space:pre-wrap;">Netflix spent $1 million on a prize to improve its recommendation algorithms, and yet it's a daily ritual that millions of people stare at their Netflix home screen, scrolling around for a long time, trying to decide what to watch. It's not just Netflix, open any streaming app. The AppleTV, a media viewing device, is most often praised for its screensaver! That's like admitting you couldn't find anything to eat on a restaurant menu but the typeface was pleasing to the eye. It's not that data can't guide a user towards the right general neighborhood, but more than one tech company will find the gradient of return on good old seduction to be much steeper than they might realize.</p><p style="white-space:pre-wrap;">Still, for Amazon, this may not be as dangerous a weakness as it would be for another retailer. Much of what Amazon sells is commodities, and desire generation can be offloaded to other channels who then see customers leak to Amazon for fulfillment. Amazon's logistical and customer service supremacy is a devastatingly powerful advantage because it directly precedes and follows the act of payment in the shopping value chain, allowing it to capture almost all the financial return of commodity retail.</p><p style="white-space:pre-wrap;">And, as Jeff's annual letter to shareholders has emphasized from the very first instance, Amazon's mission is to be the world's most customer-centric company. One way to continue to find vectors for growth is to stay attached at the hip to the fickle nature of customer unhappiness, which they're always quite happy to share under the right circumstances, one happy consequence of this age of outrage. There is such a thing as a price umbrella, but there's also one for customer happiness.</p><h3 style="white-space:pre-wrap;">How to identify your invisible asymptotes</h3><p style="white-space:pre-wrap;">One way to identify your invisible asymptotes is to simply ask your customers. As I noted at the start of this piece, at Amazon we honed in on how shipping fees were a brake on our business by simply asking customers and non-customers.</p><p style="white-space:pre-wrap;">Here's where the oft-cited quote from Henry Ford is brought up as an objection: “If I had asked people what they wanted, they would have said faster horses," <a href="https://hbr.org/2011/08/henry-ford-never-said-the-fast" target="_blank">he is reputed to have said</a>. Like most truisms in business, it is snappy and lossy all at once.</p><p style="white-space:pre-wrap;">True, it's often difficult for customers to articulate what they want. But what's missed is that they're often much better at pinpointing what they don't want or like. What you should hear when customers say they want a faster horse is not the literal but instead that they find travel by horse to be too slow. The savvy product person can generalize that to the broader need of traveling more quickly, and that problem can be solved any number of ways that don't involve cloning Secretariat or shooting their current horse up with steroids.</p><p style="white-space:pre-wrap;">This isn't a foolproof strategy. Sometimes customers lie about what they don't like, and sometimes they can't even articulate their discontent with any clarity, but if you match their feedback with good analysis of customer behavior data and even some well-designed tests, you can usually land on a more accurate picture of the actual problem to solve.</p><p style="white-space:pre-wrap;">A popular sentiment in Silicon Valley is that B2C businesses are more difficult product challenges than B2B because products and services for the business customer can be specified merely by talking to the customer while the consumer market is inarticulate about its needs, per the Henry Ford quote. Again, that's only partially true, and so many consumer companies I've been advising recently haven't pushed enough yet on understanding or empathizing with the objections of its non-adopters.</p><p style="white-space:pre-wrap;">We speak often of the economics concept of the demand curve, but in product there is another form of demand curve, and that is the contour of the customers' demands of your product or service. How comforting it would be if it were flat, but as Bezos noted in his annual letter to shareholders, the arc of customer demands is long, but it bends ever upwards. It's the job of each company, especially its product team, to continue to be in tune with the topology of this "demand curve."</p><p style="white-space:pre-wrap;">I see many companies spend time analyzing funnels and seeing who emerges out the bottom. As a company grows, though, and from the start, it's just as important to look at those who never make it through the funnel, or who jump out of it at the very top. If the product market fit gradient likely differs for each of your current and potential customer segments, and understanding how and why is a never-ending job.</p><p style="white-space:pre-wrap;">When companies run focus groups on their products, they often show me the positive feedback. I'm almost invariably more interested in the folks who've registered negative feedback, though I sense many product teams find watching that material to be stomach-churning. Sometimes the feedback isn't useful in the moment; perhaps you have such strong product-market fit with a different cohort that it isn't useful. Still, it's never not a bit of a prick to the ego.</p><p style="white-space:pre-wrap;">However, all honest negative feedback forms the basis of some asymptote in some customer segment, even if the constraint isn't constricting yet. Even if companies I meet with don't yet have an idea of how to deal with a problem, I'm always curious to see if they have a good explanation for what that problem is.</p><p style="white-space:pre-wrap;">One important sidenote on this topic is that I'm often invited to give product feedback, more than I can find time for these days. When I'm doing so in person, some product teams can't help but jump in as soon as I raise any concerns, just to show they've already anticipated my objections.</p><p style="white-space:pre-wrap;">I advise just listening all the way through the first time, to hear the why of someone's feedback, before cutting them off. You'll never be there in person with each customer to talk them out of their reasoning, your product or service has to do that work. The batting average of product people who try to explain to their customers why they're wrong is...not good. It's a sure way to put them off of giving you feedback in the future, too.</p><p style="white-space:pre-wrap;">Even absent external feedback, it's possible to train yourself to spot the limits to your product. One approach I've taken when talking to companies who are trying to achieve initial or new product-market fit is to ask them why every person in the world doesn't use their product or service. If you ask yourself that, you'll come up with all sorts of clear answers, and if you keep walking that road you'll find the borders of your TAM taking on greater and greater definition.</p><p style="white-space:pre-wrap;">[It's true that you also need the flip side, an almost irrational positivity, to be able to survive the difficult task of product development, or to be an entrepreneur, but selection bias is such that most such people start with a surplus of optimism.]</p><p style="white-space:pre-wrap;">Lastly, though I hesitate to share this, it is possible to avoid invisible asymptotes through sheer genius of product intuition. I balk for the same reason I cringe when I meet CEO's in the valley who idolize Steve Jobs. In many ways, a product intuition that is consistently accurate across time is, like Steve Jobs, a unicorn. It's so rare an ability that to lean entirely on it is far more dangerous and high risk than blending it with a whole suite of more accessible strategies.</p><p style="white-space:pre-wrap;">It's difficult for product people to hear this because there's something romantic and heroic about the Steve Jobs mythology of creation, brilliant ideas springing from the mind of the mad genius and inventor. However, just to read a biography of Jobs is to understand how rare a set of life experiences and choices shaped him into who he was. Despite that, we've spawned a whole bunch of CEO's who wear the same outfit every day and drive their design teams crazy with nitpick design feedback as if the outward trappings of the man were the essence of his skill. We vastly underestimate the path dependence of his particular style of product intuition.</p><p style="white-space:pre-wrap;">Jobs' gift is so rare that it's likely even Apple hasn't been able to replace it. It's not a coincidence that the Apple products that frustrate me the most right now are all the ones with "Pro" in the name. The MacBook Pro, with its flawed keyboard and bizarre Touch Bar (I'm still using the old 13" MacBook Pro with the old keyboard, hoping beyond hope that Apple will come to its senses before it becomes obsolete). The Mac Pro, which took on the unfortunately apropos shape of a trash can in its last incarnation and whose replacement hasn't shipped in years (I'm still typing this at home on an ancient cheese grater Mac Pro tower and ended up building a PC tower to run VR and to do photo and video editing). Final Cut Pro, which I learned on in film editing school, and which got zapped in favor of Final Cut X just when FCP was starting to steal meaningful share in Hollywood from Avid. The iMac Pro, which isn't easily upgradable but great if you're a gazillionaire.</p><p style="white-space:pre-wrap;">Pro customers are typically ones with the most clearly specified needs and workflows. Thus, their products are ones for whom listening to them articulate what they want is a reliable path to establishing and maintaining product-market fit. But that's not something Apple seems to enjoy doing, and so the mis-steps they've made on these lines are exactly the types of mistakes you'd expect of them.</p><p style="white-space:pre-wrap;">[I was overjoyed to read that Apple's next Mac Pro is being built using <a href="https://techcrunch.com/2018/04/05/apples-2019-imac-pro-will-be-shaped-by-workflows/" target="_blank">extensive feedback from media professionals</a>. It's disappointing that it won't arrive until 2019 now but at least Apple has descended from the ivory tower to talk to the actual future users. It's some of the best news out of Apple I've heard in forever.]</p><p style="white-space:pre-wrap;">Live by intuition, die by it. It's not surprising that Snapchat, another company that lives by the product intuition of one person, stumbled with a recent redesign. That a company's strengths are its weaknesses is simply the result of tight adherence to methodology. Apple and Snapchat's deus ex machina style of handing down products also rid us of CD-ROM drives and produced the iPhone, AirPods, the camera-first messaging app, and the Story format, among many other breakthroughs which a product person could hang a career on.</p><p style="white-space:pre-wrap;">Because products and services live in an increasingly dynamic world, especially those targeted at consumers, they aren't governed by the immutable, timeless truths of a field like mathematics. The reason I recommend a healthy mix of intuition informed by data and feedback is that most product people I know have a product view that is slower moving than the world itself. If they've achieved any measure of success, it's often because their view of some consumer need was the right one at the right time. Product-market fit as tautology. Selection bias in looking at these people might confuse some measure of luck with some enduring product intuition.</p><p style="white-space:pre-wrap;">However, just as a VC might have gotten lucky once with some investment and be seen as a genius for life (and the returns to a single buff of a VC brand name is shockingly durable), just because a given person's product intuition might hit on the right moment at the right point in history to create a smash hit, it's rare that a single person's frame will move in lock step with that of the world. How many creatives are relevant for a lifetime?</p><p style="white-space:pre-wrap;">This is one reason sustained competitive advantage is so difficult. In the long run, endogenous variance in the quality of product leadership in a company always seems to be in the negative direction. But perhaps we are too focused on management quality and not focused enough on exogenous factors. In "<a href="https://stratechery.com/2018/divine-discontent-disruptions-antidote/" target="_blank">Divine Discontent: Disruption’s Antidote</a>," Ben Thompson writes:</p><blockquote><p style="white-space:pre-wrap;">Bezos’s letter, though, reveals another advantage of focusing on customers: it makes it impossible to overshoot. When I wrote that piece five years ago, I was thinking of the opportunity provided by a focus on the user experience as if it were an asymptote: one could get ever closer to the ultimate user experience, but never achieve it:<br></p></blockquote>
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1526950383433_45379"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1300px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:60.84615707397461%;
+                
+                overflow: hidden;
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/4ff36e51e4b0d277e953e394/1526951731759-13XTY6SAAL0KBCO7K5F6/stratechery-disruption-diagram-1.png" alt="stratechery-disruption-diagram-1.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/4ff36e51e4b0d277e953e394/1526951731759-13XTY6SAAL0KBCO7K5F6/stratechery-disruption-diagram-1.png" data-image="https://images.squarespace-cdn.com/content/v1/4ff36e51e4b0d277e953e394/1526951731759-13XTY6SAAL0KBCO7K5F6/stratechery-disruption-diagram-1.png" data-image-dimensions="1300x791" data-image-focal-point="0.5,0.5" alt="stratechery-disruption-diagram-1.png" data-load="false" data-image-id="5b036f33758d46ba385a7a59" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1526950383433_45660"><div class="sqs-block-content">
+
+<blockquote><p style="white-space:pre-wrap;">In fact, though, consumer expectations are not static: they are, as Bezos’ memorably states, “divinely discontent”. What is amazing today is table stakes tomorrow, and, perhaps surprisingly, that makes for a tremendous business opportunity: if your company is predicated on delivering the best possible experience for consumers, then your company will never achieve its goal.<br></p></blockquote>
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1526950383433_50519"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1300px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:60.84615707397461%;
+                
+                overflow: hidden;
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/4ff36e51e4b0d277e953e394/1526951754457-5FF7JLZ1GL1QZUIZEGA2/stratechery-disruption-diagram-2.png" alt="stratechery-disruption-diagram-2.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/4ff36e51e4b0d277e953e394/1526951754457-5FF7JLZ1GL1QZUIZEGA2/stratechery-disruption-diagram-2.png" data-image="https://images.squarespace-cdn.com/content/v1/4ff36e51e4b0d277e953e394/1526951754457-5FF7JLZ1GL1QZUIZEGA2/stratechery-disruption-diagram-2.png" data-image-dimensions="1300x791" data-image-focal-point="0.5,0.5" alt="stratechery-disruption-diagram-2.png" data-load="false" data-image-id="5b036f4a03ce64928f58c4ce" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1526950383433_50799"><div class="sqs-block-content">
+
+<blockquote><p style="white-space:pre-wrap;">In the case of Amazon, that this unattainable and ever-changing objective is embedded in the company’s culture is, in conjunction with the company’s demonstrated ability to spin up new businesses on the profits of established ones, a sort of perpetual motion machine; I’m not sure that Amazon will beat Apple to $1 trillion, but they surely have the best shot at two.<br></p></blockquote><p style="white-space:pre-wrap;">Pattern recognition is the default operation mode of much of Silicon Valley and other fields, but it is almost always, by its very nature, backwards-looking. One can hardly blame most people for resorting to it because it's a way of minimizing blame, and the economic returns of the Valley are so amplified by the structural advantages of winners that even matching market beta makes for a comfortable living.</p><p style="white-space:pre-wrap;">However, if consumer desires are shifting, it's always just a matter of time before pattern recognition leads to an invisible asymptote. One reason startups are often the tip of the spear for innovation in technology is that they can't rely on market beta to just roll along. Achieving product-market fit for them is an existential challenge, and they have no backup plans. Imagine an investor who has to achieve alpha to even survive.</p><p style="white-space:pre-wrap;">Companies can stay nimble by turning over its product leaders, but as a product professional, staying relevant to the marketplace is a never-ending job, even if your own life is irreversible and linear. I find the best way to unmoor myself from my most strongly held product beliefs is to increase my inputs. Besides, the older I get, the more I've grown to enjoy that strange dance with the customer. Leading a partner in a dance may give you a feeling of control, but it's a world of difference from dancing by yourself.</p><p style="white-space:pre-wrap;">One of my favorite Ben Thompson posts is "<a href="https://stratechery.com/2013/clayton-christensen-got-wrong/" target="_blank">What Clayton Christensen Got Wrong</a>" in which he built on Christensen's theory of disruption to note that low end disruption can be avoided if you can differentiate on user experience. It is difficult and perhaps even impossible to over-serve on that axis. Tesla came into the electric car market with a car that was way more expensive than internal combustion engine cars (this definitely wasn't low-end disruption), had shorter range, and required really slow charging at a time when very few public chargers existed yet.</p><p style="white-space:pre-wrap;">However, Tesla got an interesting foothold because on another axis it really delivered. Yes, the range allowed for more commuting without having to charge twice a day, but more importantly, for the wealthy, it was a way to signal one's environmental consciousness in a package that was much, much sexier than the Prius, the previous electric car of choice of celebrities in LA. It will be hard for Tesla to continue to rely on that in the long run as the most critical dimension of user experience will likely evolve, but it's a good reminder that "user experience" is broad enough to encompass many things, some less measurable than others.</p><p style="white-space:pre-wrap;">You can't overserve on user experience, Thompson argues; as a product person, I'd argue, in parallel, that it is difficult and likely impossible to understand your customer too deeply. Amazon's mission to the be the world's most customer-centric company is inherently a long-term strategy because it is a one with an infinite time scale and no asymptote to its slope.</p><p style="white-space:pre-wrap;">In my experience, the most successful people I know are much more conscious of their own personal asymptotes at a much earlier age than others. They ruthlessly and expediently flush them out. One successful person I know determined in grade school that she'd never be a world-class tennis player or pianist. Another mentioned to me how, in their freshman year of college, they realized they'd never be the best mathematician in their own dorm, let alone in the world. Another knew a year into a job that he wouldn't be the best programmer at his company and so he switched over into management; he rose to become CEO.</p><p style="white-space:pre-wrap;">By discovering their own limitations early, they are also quicker to discover vectors on which they're personally unbounded. Product development will always be a multi-dimensional problem, often frustratingly so, but the value of reducing that dimensionality often costs so little that it should be more widely employed.</p><p style="white-space:pre-wrap;">This isn't to say a person needs to aspire to be the best at everything they do. I'm at peace with the fact that I'll likely always be a middling cook, that I won't win the Tour de France, and that I'm destined to be behind a camera and not in front of it. When it comes to business, however, and surviving in the ruthless Hobbesian jungle, where much more is winner-take-all than it once was, the idea that you can be whatever you want to be, or build whatever you want to build, is a sure path to a short, unhappy existence.</p>
+
+
+</div></div></div></div></div></div>
+
+    <!--POST FOOTER-->
+
+      <footer class="article-meta">
+
+      	<span class="date"><a href="/blog/2018/5/21/invisible-asymptotes"><i class="icon-calendar"></i><time class="published" datetime="2018-05-22" itemprop="datePublished">May 22, 2018</time></a></span>
+        <span class="author"><span class="delimiter">/</span><a href="/?author=4ff36e51e4b0d277e953e396" rel="author"><i class="icon-user"></i>Eugene Wei</a></span>
+        
+        <div class="tags"><i class="icon-tag"></i><a href="/blog/tag/amazon" rel="tag">amazon</a>, <a href="/blog/tag/product" rel="tag">product</a>, <a href="/blog/tag/business" rel="tag">business</a>, <a href="/blog/tag/facebook" rel="tag">facebook</a>, <a href="/blog/tag/instagram" rel="tag">instagram</a>, <a href="/blog/tag/snapchat" rel="tag">snapchat</a>, <a href="/blog/tag/twitter" rel="tag">twitter</a></div>
+        
+
+        <div class="shareLoveButtons">
+          
+  <span class="sqs-simple-like" data-item-id="5b03537e2b6a28682786e6e4" data-like-count="600">
+    <span class="like-icon"></span>
+    <span class="like-count"></span>
+  </span>
+
+          <span class="squarespace-social-buttons inline-style" data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/4ff36e51e4b0d277e953e394/500b1e27e4b02864db9ad532/5b03537e2b6a28682786e6e4/1550609554340/" data-record-type="1" data-full-url="/blog/2018/5/21/invisible-asymptotes" data-title="Invisible asymptotes"></span>
+        </div>
+
+        
+
+      </footer>
+
+    </div><!-- /post -->
+
+  </div><!-- /content-wrapper -->
+  </article>
+
+
+
+
+<!--PAGINATION-->
+
+
+<nav class="item pagination">
+  <div class="content-wrapper">
+    <ul>
+      <li class="prev"><a href="/blog/2019/2/19/status-as-a-service" title="Status as a Service (StaaS)" id="prevLink"><i class="icon-chevron-left"></i>Newer</a></li>
+      
+      <li class="next"><a href="/blog/2018/5/11/taipei-alley" title="What I learned from a Taipei alley" id="nextLink">Older<i class="icon-chevron-right"></i></a></li>
+      
+    </ul>
+  </div>
+</nav>
+
+
+<!--COMMENTS-->
+
+
+  
+  <div class="content-wrapper">
+    <section id="comments-5b03537e2b6a28682786e6e4" class="comments-wrapper">
+      
+  <div class="squarespace-comments" id="comments-5b03537e2b6a28682786e6e4" data-item-id="5b03537e2b6a28682786e6e4" data-public-comment-count="18" data-comment-state="1"></div>
+
+    </section>
+  </div>
+				</section>
+			</div><!-- / pageWrapper -->
+
+			<div id="footerWrapper">
+				<footer id="footer">
+			   
+					  
+					    <div id="sqs-social" class="social-links sqs-svg-icon--list" data-content-field="connected-accounts">
+					      
+
+
+  <a href="http://www.facebook.com/2543281" target="_blank" class="sqs-svg-icon--wrapper facebook">
+    <div>
+      <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+        <use class="sqs-use--icon" xlink:href="#facebook-icon"></use>
+        <use class="sqs-use--mask" xlink:href="#facebook-mask"></use>
+      </svg>
+    </div>
+  </a>
+
+  <a href="https://twitter.com/eugenewei" target="_blank" class="sqs-svg-icon--wrapper twitter">
+    <div>
+      <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+        <use class="sqs-use--icon" xlink:href="#twitter-icon"></use>
+        <use class="sqs-use--mask" xlink:href="#twitter-mask"></use>
+      </svg>
+    </div>
+  </a>
+
+  <a href="https://foursquare.com/user/92236" target="_blank" class="sqs-svg-icon--wrapper foursquare">
+    <div>
+      <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+        <use class="sqs-use--icon" xlink:href="#foursquare-icon"></use>
+        <use class="sqs-use--mask" xlink:href="#foursquare-mask"></use>
+      </svg>
+    </div>
+  </a>
+
+  <a href="http://instagram.com/eugenewei" target="_blank" class="sqs-svg-icon--wrapper instagram">
+    <div>
+      <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+        <use class="sqs-use--icon" xlink:href="#instagram-icon"></use>
+        <use class="sqs-use--mask" xlink:href="#instagram-mask"></use>
+      </svg>
+    </div>
+  </a>
+
+  <a href="http://www.flickr.com/people/eugene/" target="_blank" class="sqs-svg-icon--wrapper flickr">
+    <div>
+      <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+        <use class="sqs-use--icon" xlink:href="#flickr-icon"></use>
+        <use class="sqs-use--mask" xlink:href="#flickr-mask"></use>
+      </svg>
+    </div>
+  </a>
+
+
+					    </div>
+					  
+					
+					<div class="sqs-layout sqs-grid-12 columns-12 empty" data-layout-label="Footer Content" data-type="block-field" id="footerBlock"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+				</footer>
+			</div><!-- / footerWrapper -->
+
+		</div><!-- / canvas -->
+	</div><!-- / site -->
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script src="/s/bigfootmin.js"></script>
+
+
+<script type="text/javascript">
+$.bigfoot(
+  {
+    activateOnHover: false,
+    buttonMarkup: "<div class='bigfoot-footnote__container'>" +
+                              "<button class=\"bigfoot-footnote__button\"" +
+                              "  id=\"{{SUP:data-footnote-backlink-ref}}\"" +
+                              "  data-footnote-number=\"{{FOOTNOTENUM}}\"" +
+                              "  data-footnote-identifier=\"{{FOOTNOTEID}}\"" +
+                              "  alt=\"See Footnote {{FOOTNOTENUM}}\"" +
+                              "  rel=\"footnote\"" +
+                              "  data-bigfoot-footnote=\"{{FOOTNOTECONTENT}}\">" +
+                              "    <svg class=\"bigfoot-footnote__button__circle\" viewbox=\"0 0 6 6\" preserveAspectRatio=\"xMinYMin\"><circle r=\"3\" cx=\"3\" cy=\"3\" fill=\"white\"></circle></svg>" +
+                              "</button></div>"
+  }
+);
+</script><script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script><svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="facebook-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"/></symbol><symbol id="facebook-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"/></symbol><symbol id="twitter-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></symbol><symbol id="twitter-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"/></symbol><symbol id="foursquare-icon" viewBox="0 0 64 64"><path d="M41.5,17c0,0-14.3,0-16.5,0c-2.3,0-3,1.7-3,2.8c0,1.1,0,26.3,0,26.3c0,1.2,0.7,1.7,1,1.8 c0.4,0.1,1.4,0.3,2-0.4c0,0,7.8-9.1,7.9-9.2c0.2-0.2,0.2-0.2,0.4-0.2c0.4,0,3.4,0,5.1,0c2.1,0,2.5-1.5,2.7-2.4 c0.2-0.7,2.3-11.3,2.9-14.7C44.6,18.4,43.9,17,41.5,17z M41.1,35.7c0.2-0.7,2.3-11.3,2.9-14.7 M40.5,21.5l-0.7,3.6 c-0.1,0.4-0.6,0.8-1,0.8c-0.5,0-6.4,0-6.4,0c-0.7,0-1.2,0.5-1.2,1.2v0.8c0,0.7,0.5,1.2,1.2,1.2c0,0,5,0,5.5,0c0.5,0,1,0.6,0.9,1.1 c-0.1,0.5-0.6,3.3-0.7,3.6c-0.1,0.3-0.4,0.8-1,0.8c-0.5,0-4.5,0-4.5,0c-0.8,0-1.1,0.1-1.6,0.8c-0.5,0.7-5.4,6.5-5.4,6.5 c0,0.1-0.1,0-0.1,0V21.4c0-0.5,0.4-1,1-1c0,0,12.8,0,13.3,0C40.2,20.4,40.6,20.9,40.5,21.5z"/></symbol><symbol id="foursquare-mask" viewBox="0 0 64 64"><path d="M39.7,20.4c-0.5,0-13.3,0-13.3,0c-0.6,0-1,0.5-1,1v20.5c0,0.1,0,0.1,0.1,0c0,0,4.9-5.9,5.4-6.5 c0.5-0.7,0.8-0.8,1.6-0.8c0,0,3.9,0,4.5,0c0.6,0,1-0.5,1-0.8c0.1-0.3,0.6-3,0.7-3.6c0.1-0.5-0.4-1.1-0.9-1.1c-0.5,0-5.5,0-5.5,0 c-0.7,0-1.2-0.5-1.2-1.2v-0.8c0-0.7,0.5-1.2,1.2-1.2c0,0,6,0,6.4,0c0.5,0,0.9-0.4,1-0.8l0.7-3.6C40.6,20.9,40.2,20.4,39.7,20.4z  M0,0v64h64V0H0z M44,20.9l-1,5.2c-0.8,4.2-1.8,9-1.9,9.5c-0.2,0.9-0.6,2.4-2.7,2.4h-5.1c-0.2,0-0.2,0-0.4,0.2 c-0.1,0.1-7.9,9.2-7.9,9.2c-0.6,0.7-1.6,0.6-2,0.4c-0.4-0.1-1-0.6-1-1.8c0,0,0-25.2,0-26.3c0-1.1,0.7-2.8,3-2.8c2.3,0,16.5,0,16.5,0 C43.9,17,44.6,18.4,44,20.9z"/></symbol><symbol id="instagram-icon" viewBox="0 0 64 64"><path d="M46.91,25.816c-0.073-1.597-0.326-2.687-0.697-3.641c-0.383-0.986-0.896-1.823-1.73-2.657c-0.834-0.834-1.67-1.347-2.657-1.73c-0.954-0.371-2.045-0.624-3.641-0.697C36.585,17.017,36.074,17,32,17s-4.585,0.017-6.184,0.09c-1.597,0.073-2.687,0.326-3.641,0.697c-0.986,0.383-1.823,0.896-2.657,1.73c-0.834,0.834-1.347,1.67-1.73,2.657c-0.371,0.954-0.624,2.045-0.697,3.641C17.017,27.415,17,27.926,17,32c0,4.074,0.017,4.585,0.09,6.184c0.073,1.597,0.326,2.687,0.697,3.641c0.383,0.986,0.896,1.823,1.73,2.657c0.834,0.834,1.67,1.347,2.657,1.73c0.954,0.371,2.045,0.624,3.641,0.697C27.415,46.983,27.926,47,32,47s4.585-0.017,6.184-0.09c1.597-0.073,2.687-0.326,3.641-0.697c0.986-0.383,1.823-0.896,2.657-1.73c0.834-0.834,1.347-1.67,1.73-2.657c0.371-0.954,0.624-2.045,0.697-3.641C46.983,36.585,47,36.074,47,32S46.983,27.415,46.91,25.816z M44.21,38.061c-0.067,1.462-0.311,2.257-0.516,2.785c-0.272,0.7-0.597,1.2-1.122,1.725c-0.525,0.525-1.025,0.85-1.725,1.122c-0.529,0.205-1.323,0.45-2.785,0.516c-1.581,0.072-2.056,0.087-6.061,0.087s-4.48-0.015-6.061-0.087c-1.462-0.067-2.257-0.311-2.785-0.516c-0.7-0.272-1.2-0.597-1.725-1.122c-0.525-0.525-0.85-1.025-1.122-1.725c-0.205-0.529-0.45-1.323-0.516-2.785c-0.072-1.582-0.087-2.056-0.087-6.061s0.015-4.48,0.087-6.061c0.067-1.462,0.311-2.257,0.516-2.785c0.272-0.7,0.597-1.2,1.122-1.725c0.525-0.525,1.025-0.85,1.725-1.122c0.529-0.205,1.323-0.45,2.785-0.516c1.582-0.072,2.056-0.087,6.061-0.087s4.48,0.015,6.061,0.087c1.462,0.067,2.257,0.311,2.785,0.516c0.7,0.272,1.2,0.597,1.725,1.122c0.525,0.525,0.85,1.025,1.122,1.725c0.205,0.529,0.45,1.323,0.516,2.785c0.072,1.582,0.087,2.056,0.087,6.061S44.282,36.48,44.21,38.061z M32,24.297c-4.254,0-7.703,3.449-7.703,7.703c0,4.254,3.449,7.703,7.703,7.703c4.254,0,7.703-3.449,7.703-7.703C39.703,27.746,36.254,24.297,32,24.297z M32,37c-2.761,0-5-2.239-5-5c0-2.761,2.239-5,5-5s5,2.239,5,5C37,34.761,34.761,37,32,37z M40.007,22.193c-0.994,0-1.8,0.806-1.8,1.8c0,0.994,0.806,1.8,1.8,1.8c0.994,0,1.8-0.806,1.8-1.8C41.807,22.999,41.001,22.193,40.007,22.193z"/></symbol><symbol id="instagram-mask" viewBox="0 0 64 64"><path d="M43.693,23.153c-0.272-0.7-0.597-1.2-1.122-1.725c-0.525-0.525-1.025-0.85-1.725-1.122c-0.529-0.205-1.323-0.45-2.785-0.517c-1.582-0.072-2.056-0.087-6.061-0.087s-4.48,0.015-6.061,0.087c-1.462,0.067-2.257,0.311-2.785,0.517c-0.7,0.272-1.2,0.597-1.725,1.122c-0.525,0.525-0.85,1.025-1.122,1.725c-0.205,0.529-0.45,1.323-0.516,2.785c-0.072,1.582-0.087,2.056-0.087,6.061s0.015,4.48,0.087,6.061c0.067,1.462,0.311,2.257,0.516,2.785c0.272,0.7,0.597,1.2,1.122,1.725s1.025,0.85,1.725,1.122c0.529,0.205,1.323,0.45,2.785,0.516c1.581,0.072,2.056,0.087,6.061,0.087s4.48-0.015,6.061-0.087c1.462-0.067,2.257-0.311,2.785-0.516c0.7-0.272,1.2-0.597,1.725-1.122s0.85-1.025,1.122-1.725c0.205-0.529,0.45-1.323,0.516-2.785c0.072-1.582,0.087-2.056,0.087-6.061s-0.015-4.48-0.087-6.061C44.143,24.476,43.899,23.682,43.693,23.153z M32,39.703c-4.254,0-7.703-3.449-7.703-7.703s3.449-7.703,7.703-7.703s7.703,3.449,7.703,7.703S36.254,39.703,32,39.703z M40.007,25.793c-0.994,0-1.8-0.806-1.8-1.8c0-0.994,0.806-1.8,1.8-1.8c0.994,0,1.8,0.806,1.8,1.8C41.807,24.987,41.001,25.793,40.007,25.793z M0,0v64h64V0H0z M46.91,38.184c-0.073,1.597-0.326,2.687-0.697,3.641c-0.383,0.986-0.896,1.823-1.73,2.657c-0.834,0.834-1.67,1.347-2.657,1.73c-0.954,0.371-2.044,0.624-3.641,0.697C36.585,46.983,36.074,47,32,47s-4.585-0.017-6.184-0.09c-1.597-0.073-2.687-0.326-3.641-0.697c-0.986-0.383-1.823-0.896-2.657-1.73c-0.834-0.834-1.347-1.67-1.73-2.657c-0.371-0.954-0.624-2.044-0.697-3.641C17.017,36.585,17,36.074,17,32c0-4.074,0.017-4.585,0.09-6.185c0.073-1.597,0.326-2.687,0.697-3.641c0.383-0.986,0.896-1.823,1.73-2.657c0.834-0.834,1.67-1.347,2.657-1.73c0.954-0.371,2.045-0.624,3.641-0.697C27.415,17.017,27.926,17,32,17s4.585,0.017,6.184,0.09c1.597,0.073,2.687,0.326,3.641,0.697c0.986,0.383,1.823,0.896,2.657,1.73c0.834,0.834,1.347,1.67,1.73,2.657c0.371,0.954,0.624,2.044,0.697,3.641C46.983,27.415,47,27.926,47,32C47,36.074,46.983,36.585,46.91,38.184z M32,27c-2.761,0-5,2.239-5,5s2.239,5,5,5s5-2.239,5-5S34.761,27,32,27z"/></symbol><symbol id="flickr-icon" viewBox="0 0 64 64"><path d="M32,16c-8.8,0-16,7.2-16,16s7.2,16,16,16s16-7.2,16-16S40.8,16,32,16z M26,37c-2.8,0-5-2.2-5-5 s2.2-5,5-5s5,2.2,5,5S28.8,37,26,37z M38,37c-2.8,0-5-2.2-5-5s2.2-5,5-5s5,2.2,5,5S40.8,37,38,37z"/></symbol><symbol id="flickr-mask" viewBox="0 0 64 64"><path d="M38,27c-2.8,0-5,2.2-5,5s2.2,5,5,5s5-2.2,5-5S40.8,27,38,27z M0,0v64h64V0H0z M32,48c-8.8,0-16-7.2-16-16 s7.2-16,16-16s16,7.2,16,16S40.8,48,32,48z M26,27c-2.8,0-5,2.2-5,5s2.2,5,5,5s5-2.2,5-5S28.8,27,26,27z"/></symbol></svg>
+	<script type="text/javascript" src="https://static1.squarespace.com/static/ta/4f6798afe4b097349e410d49/1600/scripts/combo/?site.js"></script>
+
+	
+
+	</body>
+</html>

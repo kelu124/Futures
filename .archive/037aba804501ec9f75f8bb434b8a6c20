@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="/favicon.ico" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<script nonce="swyx">
+			// On page load or when changing themes, best to add inline in `head` to avoid FOUC
+			if (
+				localStorage.theme === 'dark' ||
+				(!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)
+			) {
+				document.documentElement.classList.add('dark');
+			} else {
+				document.documentElement.classList.remove('dark');
+			}
+		</script>
+		<title>Learn In Public</title><link rel="canonical" href="https://www.swyx.io/learn-in-public" data-svelte="svelte-1xz2gaa"><meta property="og:url" content="https://www.swyx.io/learn-in-public" data-svelte="svelte-1xz2gaa"><meta property="og:type" content="article" data-svelte="svelte-1xz2gaa"><meta property="og:title" content="Learn In Public: The fastest way to learn" data-svelte="svelte-1xz2gaa"><meta name="Description" content="The fastest way to build your expertise, network, and second brain." data-svelte="svelte-1xz2gaa"><meta property="og:description" content="The fastest way to build your expertise, network, and second brain." data-svelte="svelte-1xz2gaa"><meta name="twitter:card" content="summary" data-svelte="svelte-1xz2gaa"><meta name="twitter:creator" content="@swyx" data-svelte="svelte-1xz2gaa"><meta name="twitter:title" content="Learn In Public: The fastest way to learn" data-svelte="svelte-1xz2gaa"><meta name="twitter:description" content="The fastest way to build your expertise, network, and second brain." data-svelte="svelte-1xz2gaa">
+	<link rel="stylesheet" href="/_app/assets/pages/__layout.svelte-53f000f3.css">
+	<link rel="stylesheet" href="/_app/assets/pages/_slug_.svelte-86b1bb68.css">
+	<link rel="modulepreload" href="/_app/start-c77e7260.js">
+	<link rel="modulepreload" href="/_app/chunks/vendor-206ae110.js">
+	<link rel="modulepreload" href="/_app/pages/__layout.svelte-4532426e.js">
+	<link rel="modulepreload" href="/_app/chunks/siteConfig-e91db799.js">
+	<link rel="modulepreload" href="/_app/pages/_slug_.svelte-a5f0d38c.js">
+	<link rel="modulepreload" href="/_app/chunks/Newsletter-d2ed0aef.js">
+			<script type="module">
+				import { start } from "/_app/start-c77e7260.js";
+				start({
+					target: document.querySelector("#svelte"),
+					paths: {"base":"","assets":""},
+					session: {},
+					route: true,
+					spa: false,
+					trailing_slash: "never",
+					hydrate: {
+						status: 200,
+						error: null,
+						nodes: [
+							import("/_app/pages/__layout.svelte-4532426e.js"),
+						import("/_app/pages/_slug_.svelte-a5f0d38c.js")
+						],
+						url: new URL("http://prerender/learn-in-public"),
+						params: {slug:"learn-in-public"}
+					}
+				});
+			</script>
+			<script>
+				if ('serviceWorker' in navigator) {
+					navigator.serviceWorker.register('/service-worker.js');
+				}
+			</script>
+	</head>
+	<body class="vsc-initialized bg-white text-white dark:bg-gray-900 dark:text-black">
+		<div id="svelte">
+
+
+<link rel="webmention" href="https://webmention.io/www.swyx.io/webmention">
+<link rel="pingback" href="https://webmention.io/www.swyx.io/xmlrpc">
+<div class="flex flex-col justify-center bg-gray-50 px-4 dark:bg-gray-900 sm:px-8"><nav class="relative mx-auto flex w-full max-w-4xl items-center justify-between border-gray-200 bg-gray-50 bg-opacity-60 py-8 text-gray-900 dark:border-gray-700 dark:bg-gray-900 dark:text-gray-100 sm:pb-16"><a href="#skip" class="skip-nav svelte-9r3h5r">Skip to content</a>
+	<div class="ml-[-0.60rem] md:hidden"><button class="burger visible svelte-1rlob1h" aria-label="Toggle menu" type="button"><svg class="absolute h-5 w-5 text-gray-900 dark:text-gray-100 svelte-1rlob1h" width="20" height="20" viewBox="0 0 20 20" fill="none"><path d="M2.5 7.5H17.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path d="M2.5 12.5H17.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></button>
+	
+</div>
+	<ul class="ml-[-0.60rem] flex"><li><a class="hidden rounded-lg p-1 text-gray-800 transition-all hover:bg-yellow-200 dark:text-gray-200 dark:hover:bg-yellow-800 sm:px-3 sm:py-2 md:inline-block" href="/"><span class="capsize">Home</span></a></li>
+		<li><a class="hidden rounded-lg p-1 text-gray-800 transition-all hover:bg-yellow-200 dark:text-gray-200 dark:hover:bg-yellow-800 sm:px-3 sm:py-2 md:inline-block" href="/ideas"><span class="capsize">Ideas</span></a></li>
+		<li><a class="hidden rounded-lg p-1 text-gray-800 transition-all hover:bg-yellow-200 dark:text-gray-200 dark:hover:bg-yellow-800 sm:px-3 sm:py-2 md:inline-block" href="/about"><span class="capsize">About</span></a></li>
+		<li><a class="hidden rounded-lg p-1 text-gray-800 transition-all hover:bg-yellow-200 dark:text-gray-200 dark:hover:bg-yellow-800 sm:px-3 sm:py-2 md:inline-block" href="/subscribe"><span class="capsize">Subscribe</span></a></li></ul>
+	<div class="flex items-center space-x-4">
+		
+		
+		<a href="https://youtube.com/swyxTV?sub_confirmation=1" title="youtube" target="_blank" rel="me noopener" class="mr-2 rounded-lg text-gray-700 hover:bg-yellow-200 dark:text-gray-200 dark:hover:bg-yellow-800"><span class="sr-only">YouTube</span>
+			<svg class="h-6 w-6" fill="currentColor" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>YouTube icon</title><path d="M23.495 6.205a3.007 3.007 0 0 0-2.088-2.088c-1.87-.501-9.396-.501-9.396-.501s-7.507-.01-9.396.501A3.007 3.007 0 0 0 .527 6.205a31.247 31.247 0 0 0-.522 5.805 31.247 31.247 0 0 0 .522 5.783 3.007 3.007 0 0 0 2.088 2.088c1.868.502 9.396.502 9.396.502s7.506 0 9.396-.502a3.007 3.007 0 0 0 2.088-2.088 31.247 31.247 0 0 0 .5-5.783 31.247 31.247 0 0 0-.5-5.805zM9.609 15.601V8.408l6.264 3.602z"></path></svg></a>
+		
+		<a href="https://twitter.com/intent/user?screen_name=swyx" title="twitter" target="_blank" rel="me noopener" class="rounded-lg text-gray-700 hover:bg-yellow-200 dark:text-gray-200 dark:hover:bg-yellow-800"><span class="sr-only">Twitter</span>
+			<svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24"><path d="M8.29 20.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.072 4.072 0 012.8 9.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84"></path></svg></a>
+		
+		
+		<button aria-label="Toggle Dark Mode" class="ml-1 flex h-9 w-9 items-center justify-center rounded-lg bg-yellow-400 ring-yellow-400 transition-all hover:ring-2 dark:bg-yellow-800"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" class="w-5 h-5 text-gray-800 dark:text-gray-200"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"></path></svg></button></div>
+</nav></div>
+<main class="flex flex-col justify-center bg-gray-50 px-4 dark:bg-gray-900 sm:px-8">
+
+<article class="mx-auto mb-16 flex w-full max-w-4xl flex-col items-start justify-center px-4 sm:px-8"><h1 class="mb-8 text-3xl font-bold tracking-tight text-black dark:text-white md:text-5xl ">Learn In Public</h1>
+	<p class="mb-4 italic tracking-tight text-black dark:text-white md:text-xl">The fastest way to learn</p>
+	<div class="bg mt-2 flex w-full justify-between sm:flex-col sm:items-start md:flex-row md:items-center"><p class="flex items-center text-sm text-gray-700 dark:text-gray-300">swyx</p>
+		<p class="min-w-32 flex items-center text-sm text-gray-600 dark:text-gray-400 md:mt-0"><a href="https://github.com/sw-yx/swyxdotio/issues/103" rel="external" class="no-underline" target="_blank"><span class="font-mono text-xs text-gray-700 text-opacity-70 dark:text-gray-300">8 reactions
+				</span></a>
+			
+			<span class="ml-4">2018-06-19</span></p></div>
+	<div class="-mx-8 my-2 flex h-1 w-[calc(100%+4rem)] bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 sm:mx-0 sm:w-full"></div>
+
+	
+	<div class="prose mt-16 mb-16 w-full max-w-none dark:prose-invert"><!-- HTML_TAG_START -->
+<blockquote>
+<p>Translations welcome! (<a
+  href="https://velog.io/@kwanwooi/%EA%B3%B5%EA%B0%9C%EC%A0%81%EC%9C%BC%EB%A1%9C-%ED%95%99%EC%8A%B5%ED%95%98%EB%9D%BC"
+  rel="nofollow"
+>한국어</a>, <a href="https://note.com/shyamady/n/n2646ce5d6622" rel="nofollow">日本語</a>, <a
+  href="https://ricardoerl.com/blog/aprender-en-publico"
+  rel="nofollow"
+>Español 1</a>, <a href="https://farland.vip/2022/04/29/learn-in-public" rel="nofollow">中文</a>, <a
+  href="https://gist.github.com/sw-yx/70d3ab5e9b18ff2ebdddcf45cd74ca47"
+  rel="nofollow"
+>Español 2</a>, <a
+  href="https://www.soysoliscarlos.com/aprender-en-publico-y-sus-beneficios/"
+  rel="nofollow"
+>Español 3</a>, <a href="https://juejin.im/post/6855456536056037389" rel="nofollow">中文</a>, <a
+  href="https://blog.zhiheng.io/posts/2022/08/learn-in-public/"
+  rel="nofollow"
+>中文 2</a>, <a href="https://segredo.dev/aprenda-em-publico/" rel="nofollow">Português 1</a>, <a
+  href="https://mfgonzalez.github.io/aprendendo-em-publico"
+  rel="nofollow"
+>Português 2</a> <a
+  href="https://meleu.github.io/artigos-traduzidos/aprenda-em-publico.html"
+  rel="nofollow"
+>Português 3</a>, <a href="https://idkshite.com/posts/learn-in-public" rel="nofollow">Deutsch</a>, <a href="https://blog.damien.link/posts/learninpublic" rel="nofollow">Français</a>, <a
+  href="https://mahdi.majidzadeh.ir/notes/learn-in-public/"
+  rel="nofollow"
+>فارسی</a>. <a
+  href="https://github.com/sw-yx/swyxdotio/issues/103"
+  rel="nofollow"
+>Add yours here!</a>)</p>
+</blockquote>
+<p>If there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule <a
+  href="https://github.com/sw-yx/swyxdotio/issues/1"
+>#1</a>.</p>
+<p>You already know that you will never be done learning. But most people “learn in private”, and lurk. They consume content without creating any themselves. Again, that’s fine, but we’re here to talk about being in the top quintile. What you do here is to have <strong>a habit of creating learning exhaust</strong>:</p>
+<ul>
+<li>Write blogs and tutorials and cheatsheets.</li>
+<li>Speak at meetups and conferences.</li>
+<li>Ask and answer things on Stackoverflow or Reddit. <strong>Avoid</strong> the walled gardens like Slack and Discord, they’re not public.</li>
+<li>Make Youtube videos or Twitch streams.</li>
+<li>Start a newsletter.</li>
+<li>Draw cartoons (<a href="https://code-cartoons.com/" rel="nofollow">people</a> <a href="https://wizardzines.com/" rel="nofollow">loooove</a> <a
+  href="https://arkwright.github.io/scaling-react-server-side-rendering.html"
+  rel="nofollow"
+>cartoons</a>!).</li>
+</ul>
+<p>Whatever your thing is, <strong>make the thing you wish you had found</strong> when you were learning. <strong>Don’t judge</strong> your results by “claps” or retweets or stars or upvotes - just talk to yourself from 3 months ago. I keep an almost-daily dev blog written for no one else but me.</p>
+<p>Guess what? It’s not about reaching as many people as possible with your content. If you can do that, great, remember me when you’re famous. But chances are that <em>by far</em> the biggest beneficiary of you trying to help past you is <em>future you</em>. If others benefit, that’s icing.</p>
+<p>Oh you think you’re done? Don’t stop there:</p>
+<ul>
+<li>Enjoyed a coding video? Reach out to the speaker/instructor and thank them, and ask questions.</li>
+<li>Make PR’s to libraries you use.</li>
+<li>Make your own libraries no one will ever use.</li>
+<li><strong>Clone stuff you like, from scratch, to see how they work</strong>.</li>
+<li>Teach workshops.</li>
+<li>Go to conferences and summarize what you learned.</li>
+</ul>
+<p>If you’re tired of creating one-off things, start building a persistent knowledge base that grows over time. <a
+  href="https://www.swyx.io/ideas/?filter=open%20source%20your&show=Talks"
+  rel="nofollow"
+>Open Source your Knowledge</a>! At every step of the way: <em>Document what you did and the problems you solved.</em></p>
+<p>The subheading under this rule would be: <strong>Try your best to be right, but don’t worry when you’re wrong.</strong> Repeatedly. If you feel uncomfortable, or like an impostor, good. You’re pushing yourself. Don’t assume you know everything, but try your best anyway, and let the internet correct you when you are inevitably wrong. Wear your noobyness on your sleeve.</p>
+<p><strong>People think you suck?</strong> Good. You agree. Ask them to explain, in detail, why you suck. You want to just feel good or you want to <strong>be</strong> good? No objections, no hurt feelings. Then go away and prove them wrong. Of course, if they get abusive block them.</p>
+<p>Did I mention that teaching is the best way to learn? <strong>Talk while you code</strong>. It can be stressful and I haven’t done it all that much but my best technical interviews have been where I ended up talking like I teach instead of desperately trying to prove myself. We’re animals, we’re attracted to confidence and can smell desperation.</p>
+<p>At some point you’ll get some support behind you. People notice genuine learners. They’ll want to help you. Don’t tell them, but they just became your mentors. <strong>This is very important: <a
+  href="https://www.swyx.io/writing/learn-in-public-hack"
+  rel="nofollow"
+>Pick up what they put down</a></strong>. Think of them as offering up quests for you to complete. When they say “Anyone willing to help with <strong>__</strong> <strong>__</strong>?” you’re that kid in the first row with your hand already raised. These are senior engineers, some of the most in-demand people in tech. They’ll spend time with you, 1 on 1, if you help them out (p.s. and there’s always something they want help on). You can’t pay for this stuff. They’ll teach you for free. Most people don’t see what’s right in front of them. But not you.</p>
+<p>“With so many junior devs out there, why will they help <em>me</em>?”, you ask.</p>
+<p><strong>Because you learn in public.</strong> By teaching you, they teach many. You amplify them. You have one thing they don’t: a beginner’s mind. You see how this works?</p>
+<p>At some point people will start asking you for help because of all the stuff you put out. 80% of developers are “dark”, they dont write or speak or participate in public tech discourse. But you do. You must be an expert, right? Don’t tell them you aren’t. Answer best as you can, and when you’re stuck or wrong pass it up to your mentors.</p>
+<p>Eventually you run out of mentors, and just solve things on your own. You’re still putting out content though. You see how this works?</p>
+<p>Learn in public.</p>
+<p>p.s. Eventually, they’ll want to pay you for your help too. A lot more than you think.</p>
+<hr>
+<blockquote>
+<p>Author’s Note: I have written an expanded version of this essay and its related canon (below) in <a
+  href="http://learninpublic.org/?from=swyxdotio-LIP"
+  rel="nofollow"
+>The Coding Career Handbook</a>.</p>
+<p>Read this next: <a
+  href="https://www.swyx.io/puwtpd/"
+  rel="nofollow"
+>The Ultimate Hack for Learning In Public</a> (expanding on “Pick Up What They Put Down”)</p>
+<ul>
+<li>Then learn about <a
+  href="https://www.swyx.io/learning-gears/"
+  rel="nofollow"
+>Learning Gears</a></li>
+<li>Not everything must be public: <a
+  href="https://www.swyx.io/learn-in-private"
+  rel="nofollow"
+>How To Learn In Private</a></li>
+<li>A mathematical intuition for why LIP works: <a
+  href="https://www.swyx.io/big-l-notation"
+  rel="nofollow"
+>Big L Notation</a></li>
+<li>Learn how to turn ignorance to power: <a
+  href="https://swyx.io/lampshading"
+  rel="nofollow"
+>The Power of Lampshading</a></li>
+</ul>
+<p>This essay was <em>originally drafted <a
+  href="https://gist.github.com/sw-yx/9720bd4a30606ca3ffb8d407113c0fe5"
+  rel="nofollow"
+>in a gist</a> and republished in <a
+  href="https://letterstoanewdeveloper.com/2020/12/14/learn-in-public/"
+  rel="nofollow"
+>Letters to a New Developer</a></em>. </p>
+</blockquote>
+<p>I continue to talk about it on podcasts even in 2022 - see the live updating list here: <a
+  href="https://www.swyx.io/ideas/?filter=learn%20in%20public"
+  rel="nofollow"
+>https://www.swyx.io/ideas/?filter=learn%20in%20public</a></p>
+<hr>
+<h2 id="related-links"><a
+  class="hover:text-yellow-100 no-underline"
+  href="#related-links"
+>Related links</a></h2>
+<ul>
+<li>
+<p>Patio11: <a
+  href="https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing"
+  rel="nofollow"
+>Do not end the week with nothing</a></p>
+</li>
+<li>
+<p>Chris Coyier: <a
+  href="https://chriscoyier.net/2013/10/18/mediocre-ideas-showing-up-and-persistence/"
+  rel="nofollow"
+>Showing up and Persistence</a> and <a
+  href="https://chriscoyier.net/2012/09/23/working-in-public/"
+  rel="nofollow"
+>Working in Public</a></p>
+</li>
+<li>
+<p>Cory House: <a
+  href="https://vimeo.com/97415346"
+  rel="nofollow"
+>Becoming an Outlier</a> and <a
+  href="https://www.bitnative.com/2013/12/14/programming-your-brain-the-art-of-learning-in-three-steps/"
+  rel="nofollow"
+>The Art of Learning</a> and <a
+  href="https://www.infoq.com/presentations/lifestyle-software-developer/"
+  rel="nofollow"
+>Lifestyle Systems</a> and <a
+  href="https://www.youtube.com/watch?v=Nks_Fb5TUjs&feature=emb_title"
+  rel="nofollow"
+>The 7 Pillar Developer</a></p>
+</li>
+<li>
+<p>Jeff Atwood: <a
+  href="https://blog.codinghorror.com/how-to-stop-sucking-and-be-awesome-instead/"
+  rel="nofollow"
+>How to stop sucking and be awesome instead</a></p>
+</li>
+<li>
+<p>Rachel Thomas: <a
+  href="https://medium.com/@racheltho/why-you-yes-you-should-blog-7d2544ac1045"
+  rel="nofollow"
+>Why You (yes, you!) Should Blog</a></p>
+</li>
+<li>
+<p>Kent C Dodds: <a
+  href="https://kentcdodds.com/blog/intentional-career-building"
+  rel="nofollow"
+>Intentional Career Building</a></p>
+</li>
+<li>
+<p>Julia Evans: <a
+  href="https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/"
+  rel="nofollow"
+>Blog about what you’ve struggled with</a></p>
+</li>
+<li>
+<p>Joshua Branchaud: Learning In Public by <a
+  href="https://github.com/jbranchaud/til"
+  rel="nofollow"
+>posting daily TIL’s for 5 years</a></p>
+</li>
+<li>
+<p>Patrick O’Shaughnessy: <a
+  href="https://twitter.com/david_perell/status/1214559294273683456?s=20"
+  rel="nofollow"
+>Learn, Build, Share, Repeat</a></p>
+<blockquote>
+<p>Learn in public, fanatically. Find something you can’t stop thinking about and know it better than anyone, and share everything you learn along the way. Once deep enough, start building something too. Make something you have to sell as early as possible. - <a
+  href="https://twitter.com/drkraft/status/1268194548343279616"
+  rel="nofollow"
+>Patrick in David Perell’s Twitter course</a></p>
+</blockquote>
+</li>
+<li>
+<p>LadyBug Podcast: <a
+  href="https://www.ladybug.dev/episodes/blogging-101"
+  rel="nofollow"
+>Blogging 101</a> (esp <a
+  href="https://dev.to/aspittel/my-blog-post-workflow-from-topic-to-publication-4n78"
+  rel="nofollow"
+>Ali Spittel’s Blog Post Workflow</a>)</p>
+</li>
+<li>
+<p>GitHub ReadME project: <a
+  href="https://github.com/readme/guides/publishing-your-work"
+  rel="nofollow"
+>Publishing your work increases your luck</a> (see <a
+  href="https://news.ycombinator.com/item?id=32071137"
+  rel="nofollow"
+>HN comments</a>)</p>
+</li>
+<li>
+<p>Quincy Larson: <a
+  href="https://twitter.com/ossia/status/1079942716480344065?s=12"
+  rel="nofollow"
+>Build your Skills, Build your Reputation, Build your Network</a></p>
+</li>
+<li>
+<p><a
+  href="https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5wb2R0cmFjLmNvbS9WR0F1bHBON01ZMVU&episode=aHR0cHM6Ly9tZWRpYS5ibHVicnJ5LmNvbS9hcnJlc3RlZGRldm9wcy9jb250ZW50LmJsdWJycnkuY29tL2FycmVzdGVkZGV2b3BzL2FycmVzdGVkLWRldm9wcy1wb2RjYXN0LWVwaXNvZGUxNDMubXAz&hl=en&ved=2ahUKEwiFwevO-KvnAhUwFzQIHdd-Dn4QjrkEegQICBAI&ep=6"
+  rel="nofollow"
+>Ali Spittel on syndicating content</a> on the Arrested DevOps podcast</p>
+</li>
+<li>
+<p>Reid Hoffman: <a
+  href="https://medium.com/@reidhoffman/those-who-teach-can-do-98a30e9a74ea"
+  rel="nofollow"
+>Those Who Teach, Can Do</a></p>
+</li>
+<li>
+<p>Shu Omi <a
+  href="https://www.youtube.com/watch?v=JpzTYxzcF8I"
+  rel="nofollow"
+>did LIP on YouTube</a> and gained 5k subscribers in 8 months!</p>
+</li>
+<li>
+<p>Kei Watanabe: <a
+  href="https://medium.com/glasp/why-we-should-learn-in-public-aa3c5d3b9249"
+  rel="nofollow"
+>https://twitter.com/rainar_angelo/status/1519530337285869568</a></p>
+</li>
+<li>
+<p>Gift Egwuenu on <a
+  href="https://www.youtube.com/watch?v=8VGoj8mrMnY"
+  rel="nofollow"
+>Learning in Public</a></p>
+</li>
+<li>
+<p><a
+  href="https://www.govloop.com/community/blog/how-do-rocket-scientists-learn-aka-knowledge-management-lessons-learned-at-goddard-nasa/"
+  rel="nofollow"
+>How do Rocket Scientists Learn? (Knowledge Management Lessons learned at Goddard, NASA)</a></p>
+</li>
+</ul>
+<blockquote>
+<p>In some places, Knowledge Management is about creating systems that get around people’s knowledge deficiencies. At Goddard, it really seems like it is about empowering people to share and reflect on what they know best. It’s a subtle distinction, but I really like that they put people in the center of this work, and start from a place of abundant knowledge in people rather than a lack of information in systems.
+Social media has a lot of potential, but you need to think about how to facilitate different kinds of (online and offline) relationships between people so that their thinking is improved, innovation occurs, they can get quick answers to complex problems, in order to enhance and accelerate business outcomes.
+One of the great benefits of using social media as a KM tool is that you are creating and capturing the knowledge at the same time. However, in order for this to truly work people have to be willing to collaborate in the open throughout the project lifecycle. “Learning in Public” is scary for many reasons – people can find and cling to outdated information and users are exposing their knowledge during a vulnerable time in the project (i.e. when they don’t yet have all the answers). However, during this part of the process is when learning can be most valuable. If you share what you know and what you don’t know in the middle of a project, you give people an opportunity to share specific knowledge that can help you in the moment. If it works, this can help save time and money.</p>
+</blockquote>
+<ul>
+<li>Nathan Barry in his book Authority:</li>
+</ul>
+<blockquote>
+<p>Back in 2007 Chris Coyier launched a site called css-tricks.com. It was a site dedi- cated to teaching people how to code websites. (CSS is the language that describes how websites should look.) When CSS-Tricks first came out I remember reading a tutorial and arrogantly thinking, “I know that already.” Chris and I were at about the same skill level, so I didn’t learn anything new from him.
+This continued for a while as he kept putting out new tutorials. But over time, as friends started asking me CSS questions, I found it easier to link to one of Chris’s articles (since they were really well written) than explain everything myself.
+Years later Chris ran a Kickstarter campaign to redesign his site. Those who con- tributed would get behind-the-scenes access to additional tutorials and content re- lated to the redesign.
+The goal was set fairly low at $3,500. He quickly blew past the goal and by the end of the campaign had raised $89,697.
+Incredible.
+The point is that he did it with relative ease, all because he had built up an audi- ence who loved his work.
+<strong>He and I started at the same point and our skills progressed at about the same rate. The difference was that he taught and shared, whereas I kept what I was learning to myself. That made the difference between being able to make tens of thousands of dollars on a new project versus releasing to no one.</strong></p>
+</blockquote>
+<p>Nathan in general has a lot of riffs on LIP:</p>
+<ul>
+<li><a
+  href="https://nathanbarry.com/4-ideas/"
+  rel="nofollow"
+>https://nathanbarry.com/4-ideas/</a></li>
+<li><a
+  href="https://nathanbarry.com/consumer-to-creator/"
+  rel="nofollow"
+>https://nathanbarry.com/consumer-to-creator/</a></li>
+<li><a
+  href="https://www.smashingmagazine.com/2013/06/how-to-launch-anything/"
+  rel="nofollow"
+>https://www.smashingmagazine.com/2013/06/how-to-launch-anything/</a></li>
+</ul>
+<!-- HTML_TAG_END --></div></article>
+<div class="mx-0 sm:mx-auto max-w-4xl break-all"><section class="mb-16 w-full" id="newsletter"><div class="my-4 w-full border-y border-blue-200 bg-blue-50 p-6 dark:border-gray-600 dark:bg-gray-800 sm:rounded sm:border-x"><div class="flex items-center justify-between space-x-4 text-gray-900 dark:text-gray-100"><p class="text-lg font-bold md:text-xl">Get updates on new posts and projects
+			</p>
+
+			<button aria-label="Toggle Newsletter CTA" class="flex h-9 w-9 items-center justify-center rounded-lg ring-gray-300 transition-all hover:ring-2"><svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg></button></div>
+		
+
+			<div id="revue-embed"><form class="relative my-4" action="https://www.getrevue.co/profile/swyx/add_subscriber" method="post" id="revue-form" name="revue-form" target="_blank"><div class="revue-form-group formkit-field sm:flex"><input class="formkit-input mt-1 block w-full appearance-none rounded-lg border-gray-300 bg-white px-4 py-2 pr-32 text-gray-900 placeholder-gray-400 focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-700 dark:text-gray-100" aria-label="Email Address" placeholder="your@email.com" type="email" name="member[email]" id="member_email">
+						<div class="revue-form-actions"><input type="submit" class="absolute flex right-0 top-0 sm:hidden items-center justify-center rounded-r-lg bg-zinc-100 px-4 py-2 font-medium text-gray-900 hover:text-gray-700 dark:bg-zinc-700 dark:text-gray-100 hover:dark:text-yellow-200" value="Subscribe" name="member[subscribe]" id="member_submit">
+							<input type="submit" class="absolute hidden right-0 top-1 sm:flex items-center justify-center rounded-r-lg bg-zinc-100 px-4 py-2 font-medium text-gray-900 hover:text-gray-700 dark:bg-zinc-700 dark:text-gray-100 hover:dark:text-yellow-200" value="Subscribe again why not" name="member[subscribe]" id="member_submit"></div></div>
+					<div class="revue-form-footer hidden">By subscribing, you agree with Revue’s <a target="_blank" href="https://www.getrevue.co/terms">Terms of Service</a>
+						and <a target="_blank" href="https://www.getrevue.co/privacy">Privacy Policy</a>.
+					</div>
+
+					</form></div>
+			<p class="mt-2 text-sm text-gray-800 dark:text-gray-200">3000+ subscribers including my Mom – <a href="https://www.getrevue.co/profile/swyx">see past issues</a></p></div></section>
+	<div class="prose mb-12 border-t border-b border-blue-800 p-4 dark:prose-invert">Reactions: <a href="https://github.com/sw-yx/swyxdotio/issues/103#issuecomment-new" class="no-underline"><span class="reaction-button"><span class="space-x-1 rounded border-blue-800 p-2"><span class="reaction-button-emoji">❤️</span>
+					<span class="reaction-button-count">8</span></span>
+			</span></a></div>
+	<div class="mb-8"><div class="prose mb-8 w-full dark:prose-invert"></div>
+<a href="https://github.com/sw-yx/swyxdotio/issues/103#issuecomment-new" rel="external" target="_blank" class="flex justify-center border-y border-blue-700 p-4 no-underline hover:text-yellow-700 dark:hover:text-yellow-200 sm:inline sm:rounded-xl sm:border-x">Leave a new comment!
+</a>
+
+
+</div>
+
+	<div id="WebMentions" class="prose dark:prose-invert svelte-xd5tcw"><div class="myflexresponsive justify-between"><div><span font-family="system" font-size="4" font-weight="bold" class="text-2xl font-bold">Webmentions
+			</span>
+			<a aria-label="Clientside Webmentions" target="_blank" title="What is this?" rel="noopener" href="http://swyx.io/writing/clientside-webmentions" color="blue"><svg xmlns="http://www.w3.org/2000/svg" width="0.75em" height="0.75em" viewBox="0 0 24 24" fill="none" stroke="#999" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svelte-xd5tcw"><circle cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12" y2="17"></line></svg></a></div></div>
+	<div class="WebMentionsContainer mytext svelte-xd5tcw"><div class="WebMentionsHeader svelte-xd5tcw">
+				<div>Loading...</div>
+			</div>
+		<div></div></div>
+</div></div></main>
+
+<footer class="mx-auto mb-8 flex w-full max-w-4xl flex-col items-start justify-center"><hr class="border-1 mb-8 w-full border-gray-200 dark:border-gray-800">
+	
+	<div class="grid w-full max-w-4xl grid-cols-1 gap-4 px-4 pb-16 sm:grid-cols-2 sm:px-8"><div class="flex flex-col space-y-4"><a class="text-gray-500 transition hover:text-gray-300" href="/">Home</a><a class="text-gray-500 transition hover:text-gray-300" href="/about">About</a>
+			<a class="text-gray-500 transition hover:text-gray-300" href="/subscribe">Newsletter</a>
+			<a class="text-gray-500 transition hover:text-gray-300" href="/api/rss.xml" rel="external">RSS</a></div>
+		<div class="flex flex-col space-y-4"><a class="text-gray-500 transition hover:text-gray-300" target="_blank" rel="noopener noreferrer" href="https://twitter.com/intent/follow?screen_name=swyx">Twitter</a><a class="text-gray-500 transition hover:text-gray-300" target="_blank" rel="noopener noreferrer" href="https://github.com/sw-yx/swyxdotio">GitHub</a><a class="text-gray-500 transition hover:text-gray-300" target="_blank" rel="noopener noreferrer" href="https://youtube.com/swyxTV?sub_confirmation=1">YouTube</a></div>
+		</div></footer>
+
+<script type="application/json" data-type="svelte-data" data-url="/api/blog/learn-in-public.json">{"status":200,"statusText":"","headers":{"cache-control":"max-age=0, s-max-age=60","content-type":"application/json; charset=utf-8"},"body":"{\"data\":\"{\\\"type\\\":\\\"essay\\\",\\\"content\\\":\\\"\\\\n\u003Cblockquote\u003E\\\\n\u003Cp\u003ETranslations welcome! (\u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fvelog.io\u002F@kwanwooi\u002F%EA%B3%B5%EA%B0%9C%EC%A0%81%EC%9C%BC%EB%A1%9C-%ED%95%99%EC%8A%B5%ED%95%98%EB%9D%BC\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003E한국어\u003C\u002Fa\u003E, \u003Ca href=\\\\\\\"https:\u002F\u002Fnote.com\u002Fshyamady\u002Fn\u002Fn2646ce5d6622\\\\\\\" rel=\\\\\\\"nofollow\\\\\\\"\u003E日本語\u003C\u002Fa\u003E, \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fricardoerl.com\u002Fblog\u002Faprender-en-publico\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EEspañol 1\u003C\u002Fa\u003E, \u003Ca href=\\\\\\\"https:\u002F\u002Ffarland.vip\u002F2022\u002F04\u002F29\u002Flearn-in-public\\\\\\\" rel=\\\\\\\"nofollow\\\\\\\"\u003E中文\u003C\u002Fa\u003E, \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fgist.github.com\u002Fsw-yx\u002F70d3ab5e9b18ff2ebdddcf45cd74ca47\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EEspañol 2\u003C\u002Fa\u003E, \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fwww.soysoliscarlos.com\u002Faprender-en-publico-y-sus-beneficios\u002F\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EEspañol 3\u003C\u002Fa\u003E, \u003Ca href=\\\\\\\"https:\u002F\u002Fjuejin.im\u002Fpost\u002F6855456536056037389\\\\\\\" rel=\\\\\\\"nofollow\\\\\\\"\u003E中文\u003C\u002Fa\u003E, \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fblog.zhiheng.io\u002Fposts\u002F2022\u002F08\u002Flearn-in-public\u002F\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003E中文 2\u003C\u002Fa\u003E, \u003Ca href=\\\\\\\"https:\u002F\u002Fsegredo.dev\u002Faprenda-em-publico\u002F\\\\\\\" rel=\\\\\\\"nofollow\\\\\\\"\u003EPortuguês 1\u003C\u002Fa\u003E, \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fmfgonzalez.github.io\u002Faprendendo-em-publico\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EPortuguês 2\u003C\u002Fa\u003E \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fmeleu.github.io\u002Fartigos-traduzidos\u002Faprenda-em-publico.html\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EPortuguês 3\u003C\u002Fa\u003E, \u003Ca href=\\\\\\\"https:\u002F\u002Fidkshite.com\u002Fposts\u002Flearn-in-public\\\\\\\" rel=\\\\\\\"nofollow\\\\\\\"\u003EDeutsch\u003C\u002Fa\u003E, \u003Ca href=\\\\\\\"https:\u002F\u002Fblog.damien.link\u002Fposts\u002Flearninpublic\\\\\\\" rel=\\\\\\\"nofollow\\\\\\\"\u003EFrançais\u003C\u002Fa\u003E, \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fmahdi.majidzadeh.ir\u002Fnotes\u002Flearn-in-public\u002F\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003Eفارسی\u003C\u002Fa\u003E. \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fgithub.com\u002Fsw-yx\u002Fswyxdotio\u002Fissues\u002F103\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EAdd yours here!\u003C\u002Fa\u003E)\u003C\u002Fp\u003E\\\\n\u003C\u002Fblockquote\u003E\\\\n\u003Cp\u003EIf there’s a golden rule, it’s this one, so I put it first. All the other rules are more or less elaborations of this rule \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fgithub.com\u002Fsw-yx\u002Fswyxdotio\u002Fissues\u002F1\\\\\\\"\\\\n\u003E#1\u003C\u002Fa\u003E.\u003C\u002Fp\u003E\\\\n\u003Cp\u003EYou already know that you will never be done learning. But most people “learn in private”, and lurk. They consume content without creating any themselves. Again, that’s fine, but we’re here to talk about being in the top quintile. What you do here is to have \u003Cstrong\u003Ea habit of creating learning exhaust\u003C\u002Fstrong\u003E:\u003C\u002Fp\u003E\\\\n\u003Cul\u003E\\\\n\u003Cli\u003EWrite blogs and tutorials and cheatsheets.\u003C\u002Fli\u003E\\\\n\u003Cli\u003ESpeak at meetups and conferences.\u003C\u002Fli\u003E\\\\n\u003Cli\u003EAsk and answer things on Stackoverflow or Reddit. \u003Cstrong\u003EAvoid\u003C\u002Fstrong\u003E the walled gardens like Slack and Discord, they’re not public.\u003C\u002Fli\u003E\\\\n\u003Cli\u003EMake Youtube videos or Twitch streams.\u003C\u002Fli\u003E\\\\n\u003Cli\u003EStart a newsletter.\u003C\u002Fli\u003E\\\\n\u003Cli\u003EDraw cartoons (\u003Ca href=\\\\\\\"https:\u002F\u002Fcode-cartoons.com\u002F\\\\\\\" rel=\\\\\\\"nofollow\\\\\\\"\u003Epeople\u003C\u002Fa\u003E \u003Ca href=\\\\\\\"https:\u002F\u002Fwizardzines.com\u002F\\\\\\\" rel=\\\\\\\"nofollow\\\\\\\"\u003Eloooove\u003C\u002Fa\u003E \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Farkwright.github.io\u002Fscaling-react-server-side-rendering.html\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003Ecartoons\u003C\u002Fa\u003E!).\u003C\u002Fli\u003E\\\\n\u003C\u002Ful\u003E\\\\n\u003Cp\u003EWhatever your thing is, \u003Cstrong\u003Emake the thing you wish you had found\u003C\u002Fstrong\u003E when you were learning. \u003Cstrong\u003EDon’t judge\u003C\u002Fstrong\u003E your results by “claps” or retweets or stars or upvotes - just talk to yourself from 3 months ago. I keep an almost-daily dev blog written for no one else but me.\u003C\u002Fp\u003E\\\\n\u003Cp\u003EGuess what? It’s not about reaching as many people as possible with your content. If you can do that, great, remember me when you’re famous. But chances are that \u003Cem\u003Eby far\u003C\u002Fem\u003E the biggest beneficiary of you trying to help past you is \u003Cem\u003Efuture you\u003C\u002Fem\u003E. If others benefit, that’s icing.\u003C\u002Fp\u003E\\\\n\u003Cp\u003EOh you think you’re done? Don’t stop there:\u003C\u002Fp\u003E\\\\n\u003Cul\u003E\\\\n\u003Cli\u003EEnjoyed a coding video? Reach out to the speaker\u002Finstructor and thank them, and ask questions.\u003C\u002Fli\u003E\\\\n\u003Cli\u003EMake PR’s to libraries you use.\u003C\u002Fli\u003E\\\\n\u003Cli\u003EMake your own libraries no one will ever use.\u003C\u002Fli\u003E\\\\n\u003Cli\u003E\u003Cstrong\u003EClone stuff you like, from scratch, to see how they work\u003C\u002Fstrong\u003E.\u003C\u002Fli\u003E\\\\n\u003Cli\u003ETeach workshops.\u003C\u002Fli\u003E\\\\n\u003Cli\u003EGo to conferences and summarize what you learned.\u003C\u002Fli\u003E\\\\n\u003C\u002Ful\u003E\\\\n\u003Cp\u003EIf you’re tired of creating one-off things, start building a persistent knowledge base that grows over time. \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fwww.swyx.io\u002Fideas\u002F?filter=open%20source%20your&show=Talks\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EOpen Source your Knowledge\u003C\u002Fa\u003E! At every step of the way: \u003Cem\u003EDocument what you did and the problems you solved.\u003C\u002Fem\u003E\u003C\u002Fp\u003E\\\\n\u003Cp\u003EThe subheading under this rule would be: \u003Cstrong\u003ETry your best to be right, but don’t worry when you’re wrong.\u003C\u002Fstrong\u003E Repeatedly. If you feel uncomfortable, or like an impostor, good. You’re pushing yourself. Don’t assume you know everything, but try your best anyway, and let the internet correct you when you are inevitably wrong. Wear your noobyness on your sleeve.\u003C\u002Fp\u003E\\\\n\u003Cp\u003E\u003Cstrong\u003EPeople think you suck?\u003C\u002Fstrong\u003E Good. You agree. Ask them to explain, in detail, why you suck. You want to just feel good or you want to \u003Cstrong\u003Ebe\u003C\u002Fstrong\u003E good? No objections, no hurt feelings. Then go away and prove them wrong. Of course, if they get abusive block them.\u003C\u002Fp\u003E\\\\n\u003Cp\u003EDid I mention that teaching is the best way to learn? \u003Cstrong\u003ETalk while you code\u003C\u002Fstrong\u003E. It can be stressful and I haven’t done it all that much but my best technical interviews have been where I ended up talking like I teach instead of desperately trying to prove myself. We’re animals, we’re attracted to confidence and can smell desperation.\u003C\u002Fp\u003E\\\\n\u003Cp\u003EAt some point you’ll get some support behind you. People notice genuine learners. They’ll want to help you. Don’t tell them, but they just became your mentors. \u003Cstrong\u003EThis is very important: \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fwww.swyx.io\u002Fwriting\u002Flearn-in-public-hack\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EPick up what they put down\u003C\u002Fa\u003E\u003C\u002Fstrong\u003E. Think of them as offering up quests for you to complete. When they say “Anyone willing to help with \u003Cstrong\u003E__\u003C\u002Fstrong\u003E \u003Cstrong\u003E__\u003C\u002Fstrong\u003E?” you’re that kid in the first row with your hand already raised. These are senior engineers, some of the most in-demand people in tech. They’ll spend time with you, 1 on 1, if you help them out (p.s. and there’s always something they want help on). You can’t pay for this stuff. They’ll teach you for free. Most people don’t see what’s right in front of them. But not you.\u003C\u002Fp\u003E\\\\n\u003Cp\u003E“With so many junior devs out there, why will they help \u003Cem\u003Eme\u003C\u002Fem\u003E?”, you ask.\u003C\u002Fp\u003E\\\\n\u003Cp\u003E\u003Cstrong\u003EBecause you learn in public.\u003C\u002Fstrong\u003E By teaching you, they teach many. You amplify them. You have one thing they don’t: a beginner’s mind. You see how this works?\u003C\u002Fp\u003E\\\\n\u003Cp\u003EAt some point people will start asking you for help because of all the stuff you put out. 80% of developers are “dark”, they dont write or speak or participate in public tech discourse. But you do. You must be an expert, right? Don’t tell them you aren’t. Answer best as you can, and when you’re stuck or wrong pass it up to your mentors.\u003C\u002Fp\u003E\\\\n\u003Cp\u003EEventually you run out of mentors, and just solve things on your own. You’re still putting out content though. You see how this works?\u003C\u002Fp\u003E\\\\n\u003Cp\u003ELearn in public.\u003C\u002Fp\u003E\\\\n\u003Cp\u003Ep.s. Eventually, they’ll want to pay you for your help too. A lot more than you think.\u003C\u002Fp\u003E\\\\n\u003Chr\u003E\\\\n\u003Cblockquote\u003E\\\\n\u003Cp\u003EAuthor’s Note: I have written an expanded version of this essay and its related canon (below) in \u003Ca\\\\n  href=\\\\\\\"http:\u002F\u002Flearninpublic.org\u002F?from=swyxdotio-LIP\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EThe Coding Career Handbook\u003C\u002Fa\u003E.\u003C\u002Fp\u003E\\\\n\u003Cp\u003ERead this next: \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fwww.swyx.io\u002Fpuwtpd\u002F\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EThe Ultimate Hack for Learning In Public\u003C\u002Fa\u003E (expanding on “Pick Up What They Put Down”)\u003C\u002Fp\u003E\\\\n\u003Cul\u003E\\\\n\u003Cli\u003EThen learn about \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fwww.swyx.io\u002Flearning-gears\u002F\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003ELearning Gears\u003C\u002Fa\u003E\u003C\u002Fli\u003E\\\\n\u003Cli\u003ENot everything must be public: \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fwww.swyx.io\u002Flearn-in-private\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EHow To Learn In Private\u003C\u002Fa\u003E\u003C\u002Fli\u003E\\\\n\u003Cli\u003EA mathematical intuition for why LIP works: \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fwww.swyx.io\u002Fbig-l-notation\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EBig L Notation\u003C\u002Fa\u003E\u003C\u002Fli\u003E\\\\n\u003Cli\u003ELearn how to turn ignorance to power: \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fswyx.io\u002Flampshading\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EThe Power of Lampshading\u003C\u002Fa\u003E\u003C\u002Fli\u003E\\\\n\u003C\u002Ful\u003E\\\\n\u003Cp\u003EThis essay was \u003Cem\u003Eoriginally drafted \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fgist.github.com\u002Fsw-yx\u002F9720bd4a30606ca3ffb8d407113c0fe5\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003Ein a gist\u003C\u002Fa\u003E and republished in \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fletterstoanewdeveloper.com\u002F2020\u002F12\u002F14\u002Flearn-in-public\u002F\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003ELetters to a New Developer\u003C\u002Fa\u003E\u003C\u002Fem\u003E. \u003C\u002Fp\u003E\\\\n\u003C\u002Fblockquote\u003E\\\\n\u003Cp\u003EI continue to talk about it on podcasts even in 2022 - see the live updating list here: \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fwww.swyx.io\u002Fideas\u002F?filter=learn%20in%20public\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003Ehttps:\u002F\u002Fwww.swyx.io\u002Fideas\u002F?filter=learn%20in%20public\u003C\u002Fa\u003E\u003C\u002Fp\u003E\\\\n\u003Chr\u003E\\\\n\u003Ch2 id=\\\\\\\"related-links\\\\\\\"\u003E\u003Ca\\\\n  class=\\\\\\\"hover:text-yellow-100 no-underline\\\\\\\"\\\\n  href=\\\\\\\"#related-links\\\\\\\"\\\\n\u003ERelated links\u003C\u002Fa\u003E\u003C\u002Fh2\u003E\\\\n\u003Cul\u003E\\\\n\u003Cli\u003E\\\\n\u003Cp\u003EPatio11: \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Ftraining.kalzumeus.com\u002Fnewsletters\u002Farchive\u002Fdo-not-end-the-week-with-nothing\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EDo not end the week with nothing\u003C\u002Fa\u003E\u003C\u002Fp\u003E\\\\n\u003C\u002Fli\u003E\\\\n\u003Cli\u003E\\\\n\u003Cp\u003EChris Coyier: \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fchriscoyier.net\u002F2013\u002F10\u002F18\u002Fmediocre-ideas-showing-up-and-persistence\u002F\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EShowing up and Persistence\u003C\u002Fa\u003E and \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fchriscoyier.net\u002F2012\u002F09\u002F23\u002Fworking-in-public\u002F\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EWorking in Public\u003C\u002Fa\u003E\u003C\u002Fp\u003E\\\\n\u003C\u002Fli\u003E\\\\n\u003Cli\u003E\\\\n\u003Cp\u003ECory House: \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fvimeo.com\u002F97415346\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EBecoming an Outlier\u003C\u002Fa\u003E and \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fwww.bitnative.com\u002F2013\u002F12\u002F14\u002Fprogramming-your-brain-the-art-of-learning-in-three-steps\u002F\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EThe Art of Learning\u003C\u002Fa\u003E and \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fwww.infoq.com\u002Fpresentations\u002Flifestyle-software-developer\u002F\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003ELifestyle Systems\u003C\u002Fa\u003E and \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fwww.youtube.com\u002Fwatch?v=Nks_Fb5TUjs&feature=emb_title\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EThe 7 Pillar Developer\u003C\u002Fa\u003E\u003C\u002Fp\u003E\\\\n\u003C\u002Fli\u003E\\\\n\u003Cli\u003E\\\\n\u003Cp\u003EJeff Atwood: \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fblog.codinghorror.com\u002Fhow-to-stop-sucking-and-be-awesome-instead\u002F\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EHow to stop sucking and be awesome instead\u003C\u002Fa\u003E\u003C\u002Fp\u003E\\\\n\u003C\u002Fli\u003E\\\\n\u003Cli\u003E\\\\n\u003Cp\u003ERachel Thomas: \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fmedium.com\u002F@racheltho\u002Fwhy-you-yes-you-should-blog-7d2544ac1045\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EWhy You (yes, you!) Should Blog\u003C\u002Fa\u003E\u003C\u002Fp\u003E\\\\n\u003C\u002Fli\u003E\\\\n\u003Cli\u003E\\\\n\u003Cp\u003EKent C Dodds: \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fkentcdodds.com\u002Fblog\u002Fintentional-career-building\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EIntentional Career Building\u003C\u002Fa\u003E\u003C\u002Fp\u003E\\\\n\u003C\u002Fli\u003E\\\\n\u003Cli\u003E\\\\n\u003Cp\u003EJulia Evans: \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fjvns.ca\u002Fblog\u002F2021\u002F05\u002F24\u002Fblog-about-what-you-ve-struggled-with\u002F\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EBlog about what you’ve struggled with\u003C\u002Fa\u003E\u003C\u002Fp\u003E\\\\n\u003C\u002Fli\u003E\\\\n\u003Cli\u003E\\\\n\u003Cp\u003EJoshua Branchaud: Learning In Public by \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fgithub.com\u002Fjbranchaud\u002Ftil\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003Eposting daily TIL’s for 5 years\u003C\u002Fa\u003E\u003C\u002Fp\u003E\\\\n\u003C\u002Fli\u003E\\\\n\u003Cli\u003E\\\\n\u003Cp\u003EPatrick O’Shaughnessy: \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Ftwitter.com\u002Fdavid_perell\u002Fstatus\u002F1214559294273683456?s=20\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003ELearn, Build, Share, Repeat\u003C\u002Fa\u003E\u003C\u002Fp\u003E\\\\n\u003Cblockquote\u003E\\\\n\u003Cp\u003ELearn in public, fanatically. Find something you can’t stop thinking about and know it better than anyone, and share everything you learn along the way. Once deep enough, start building something too. Make something you have to sell as early as possible. - \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Ftwitter.com\u002Fdrkraft\u002Fstatus\u002F1268194548343279616\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EPatrick in David Perell’s Twitter course\u003C\u002Fa\u003E\u003C\u002Fp\u003E\\\\n\u003C\u002Fblockquote\u003E\\\\n\u003C\u002Fli\u003E\\\\n\u003Cli\u003E\\\\n\u003Cp\u003ELadyBug Podcast: \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fwww.ladybug.dev\u002Fepisodes\u002Fblogging-101\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EBlogging 101\u003C\u002Fa\u003E (esp \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fdev.to\u002Faspittel\u002Fmy-blog-post-workflow-from-topic-to-publication-4n78\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EAli Spittel’s Blog Post Workflow\u003C\u002Fa\u003E)\u003C\u002Fp\u003E\\\\n\u003C\u002Fli\u003E\\\\n\u003Cli\u003E\\\\n\u003Cp\u003EGitHub ReadME project: \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fgithub.com\u002Freadme\u002Fguides\u002Fpublishing-your-work\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EPublishing your work increases your luck\u003C\u002Fa\u003E (see \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fnews.ycombinator.com\u002Fitem?id=32071137\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EHN comments\u003C\u002Fa\u003E)\u003C\u002Fp\u003E\\\\n\u003C\u002Fli\u003E\\\\n\u003Cli\u003E\\\\n\u003Cp\u003EQuincy Larson: \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Ftwitter.com\u002Fossia\u002Fstatus\u002F1079942716480344065?s=12\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EBuild your Skills, Build your Reputation, Build your Network\u003C\u002Fa\u003E\u003C\u002Fp\u003E\\\\n\u003C\u002Fli\u003E\\\\n\u003Cli\u003E\\\\n\u003Cp\u003E\u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fpodcasts.google.com\u002F?feed=aHR0cHM6Ly9mZWVkcy5wb2R0cmFjLmNvbS9WR0F1bHBON01ZMVU&episode=aHR0cHM6Ly9tZWRpYS5ibHVicnJ5LmNvbS9hcnJlc3RlZGRldm9wcy9jb250ZW50LmJsdWJycnkuY29tL2FycmVzdGVkZGV2b3BzL2FycmVzdGVkLWRldm9wcy1wb2RjYXN0LWVwaXNvZGUxNDMubXAz&hl=en&ved=2ahUKEwiFwevO-KvnAhUwFzQIHdd-Dn4QjrkEegQICBAI&ep=6\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EAli Spittel on syndicating content\u003C\u002Fa\u003E on the Arrested DevOps podcast\u003C\u002Fp\u003E\\\\n\u003C\u002Fli\u003E\\\\n\u003Cli\u003E\\\\n\u003Cp\u003EReid Hoffman: \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fmedium.com\u002F@reidhoffman\u002Fthose-who-teach-can-do-98a30e9a74ea\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EThose Who Teach, Can Do\u003C\u002Fa\u003E\u003C\u002Fp\u003E\\\\n\u003C\u002Fli\u003E\\\\n\u003Cli\u003E\\\\n\u003Cp\u003EShu Omi \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fwww.youtube.com\u002Fwatch?v=JpzTYxzcF8I\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003Edid LIP on YouTube\u003C\u002Fa\u003E and gained 5k subscribers in 8 months!\u003C\u002Fp\u003E\\\\n\u003C\u002Fli\u003E\\\\n\u003Cli\u003E\\\\n\u003Cp\u003EKei Watanabe: \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fmedium.com\u002Fglasp\u002Fwhy-we-should-learn-in-public-aa3c5d3b9249\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003Ehttps:\u002F\u002Ftwitter.com\u002Frainar_angelo\u002Fstatus\u002F1519530337285869568\u003C\u002Fa\u003E\u003C\u002Fp\u003E\\\\n\u003C\u002Fli\u003E\\\\n\u003Cli\u003E\\\\n\u003Cp\u003EGift Egwuenu on \u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fwww.youtube.com\u002Fwatch?v=8VGoj8mrMnY\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003ELearning in Public\u003C\u002Fa\u003E\u003C\u002Fp\u003E\\\\n\u003C\u002Fli\u003E\\\\n\u003Cli\u003E\\\\n\u003Cp\u003E\u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fwww.govloop.com\u002Fcommunity\u002Fblog\u002Fhow-do-rocket-scientists-learn-aka-knowledge-management-lessons-learned-at-goddard-nasa\u002F\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003EHow do Rocket Scientists Learn? (Knowledge Management Lessons learned at Goddard, NASA)\u003C\u002Fa\u003E\u003C\u002Fp\u003E\\\\n\u003C\u002Fli\u003E\\\\n\u003C\u002Ful\u003E\\\\n\u003Cblockquote\u003E\\\\n\u003Cp\u003EIn some places, Knowledge Management is about creating systems that get around people’s knowledge deficiencies. At Goddard, it really seems like it is about empowering people to share and reflect on what they know best. It’s a subtle distinction, but I really like that they put people in the center of this work, and start from a place of abundant knowledge in people rather than a lack of information in systems.\\\\nSocial media has a lot of potential, but you need to think about how to facilitate different kinds of (online and offline) relationships between people so that their thinking is improved, innovation occurs, they can get quick answers to complex problems, in order to enhance and accelerate business outcomes.\\\\nOne of the great benefits of using social media as a KM tool is that you are creating and capturing the knowledge at the same time. However, in order for this to truly work people have to be willing to collaborate in the open throughout the project lifecycle. “Learning in Public” is scary for many reasons – people can find and cling to outdated information and users are exposing their knowledge during a vulnerable time in the project (i.e. when they don’t yet have all the answers). However, during this part of the process is when learning can be most valuable. If you share what you know and what you don’t know in the middle of a project, you give people an opportunity to share specific knowledge that can help you in the moment. If it works, this can help save time and money.\u003C\u002Fp\u003E\\\\n\u003C\u002Fblockquote\u003E\\\\n\u003Cul\u003E\\\\n\u003Cli\u003ENathan Barry in his book Authority:\u003C\u002Fli\u003E\\\\n\u003C\u002Ful\u003E\\\\n\u003Cblockquote\u003E\\\\n\u003Cp\u003EBack in 2007 Chris Coyier launched a site called css-tricks.com. It was a site dedi- cated to teaching people how to code websites. (CSS is the language that describes how websites should look.) When CSS-Tricks first came out I remember reading a tutorial and arrogantly thinking, “I know that already.” Chris and I were at about the same skill level, so I didn’t learn anything new from him.\\\\nThis continued for a while as he kept putting out new tutorials. But over time, as friends started asking me CSS questions, I found it easier to link to one of Chris’s articles (since they were really well written) than explain everything myself.\\\\nYears later Chris ran a Kickstarter campaign to redesign his site. Those who con- tributed would get behind-the-scenes access to additional tutorials and content re- lated to the redesign.\\\\nThe goal was set fairly low at $3,500. He quickly blew past the goal and by the end of the campaign had raised $89,697.\\\\nIncredible.\\\\nThe point is that he did it with relative ease, all because he had built up an audi- ence who loved his work.\\\\n\u003Cstrong\u003EHe and I started at the same point and our skills progressed at about the same rate. The difference was that he taught and shared, whereas I kept what I was learning to myself. That made the difference between being able to make tens of thousands of dollars on a new project versus releasing to no one.\u003C\u002Fstrong\u003E\u003C\u002Fp\u003E\\\\n\u003C\u002Fblockquote\u003E\\\\n\u003Cp\u003ENathan in general has a lot of riffs on LIP:\u003C\u002Fp\u003E\\\\n\u003Cul\u003E\\\\n\u003Cli\u003E\u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fnathanbarry.com\u002F4-ideas\u002F\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003Ehttps:\u002F\u002Fnathanbarry.com\u002F4-ideas\u002F\u003C\u002Fa\u003E\u003C\u002Fli\u003E\\\\n\u003Cli\u003E\u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fnathanbarry.com\u002Fconsumer-to-creator\u002F\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003Ehttps:\u002F\u002Fnathanbarry.com\u002Fconsumer-to-creator\u002F\u003C\u002Fa\u003E\u003C\u002Fli\u003E\\\\n\u003Cli\u003E\u003Ca\\\\n  href=\\\\\\\"https:\u002F\u002Fwww.smashingmagazine.com\u002F2013\u002F06\u002Fhow-to-launch-anything\u002F\\\\\\\"\\\\n  rel=\\\\\\\"nofollow\\\\\\\"\\\\n\u003Ehttps:\u002F\u002Fwww.smashingmagazine.com\u002F2013\u002F06\u002Fhow-to-launch-anything\u002F\u003C\u002Fa\u003E\u003C\u002Fli\u003E\\\\n\u003C\u002Ful\u003E\\\\n\\\",\\\"data\\\":{\\\"title\\\":\\\"Learn In Public\\\",\\\"slug\\\":\\\"learn-in-public\\\",\\\"subtitle\\\":\\\"The fastest way to learn\\\",\\\"category\\\":\\\"essay\\\",\\\"tags\\\":[\\\"Advice\\\",\\\"Principles\\\",\\\"Learn In Public\\\"],\\\"date\\\":\\\"2018-06-19T00:00:00.000Z\\\",\\\"description\\\":\\\"The fastest way to build your expertise, network, and second brain.\\\"},\\\"title\\\":\\\"Learn In Public\\\",\\\"subtitle\\\":\\\"The fastest way to learn\\\",\\\"description\\\":\\\"The fastest way to build your expertise, network, and second brain.\\\",\\\"tags\\\":[\\\"advice\\\",\\\"principles\\\",\\\"learn in public\\\"],\\\"slug\\\":\\\"learn-in-public\\\",\\\"date\\\":\\\"2018-06-19T00:00:00.000Z\\\",\\\"ghMetadata\\\":{\\\"issueUrl\\\":\\\"https:\u002F\u002Fgithub.com\u002Fsw-yx\u002Fswyxdotio\u002Fissues\u002F103\\\",\\\"commentsUrl\\\":\\\"https:\u002F\u002Fapi.github.com\u002Frepos\u002Fsw-yx\u002Fswyxdotio\u002Fissues\u002F103\u002Fcomments\\\",\\\"title\\\":\\\"Learn in Public\\\",\\\"created_at\\\":\\\"2022-01-17T20:23:34Z\\\",\\\"updated_at\\\":\\\"2022-09-23T19:13:14Z\\\",\\\"reactions\\\":{\\\"url\\\":\\\"https:\u002F\u002Fapi.github.com\u002Frepos\u002Fsw-yx\u002Fswyxdotio\u002Fissues\u002F103\u002Freactions\\\",\\\"total_count\\\":8,\\\"+1\\\":0,\\\"-1\\\":0,\\\"laugh\\\":0,\\\"hooray\\\":0,\\\"confused\\\":0,\\\"heart\\\":8,\\\"rocket\\\":0,\\\"eyes\\\":0}}}\"}"}</script></div>
+	</body>
+</html>

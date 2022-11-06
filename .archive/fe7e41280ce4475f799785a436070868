@@ -1,0 +1,1329 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Who Is Collecting Data from Your Car? – The Markup</title>
+    <meta name="description" content="A firehose of sensitive data from your vehicle is flowing to a group of companies you’ve probably never heard of " />
+    <link rel="stylesheet" href="https://mrkp-static-production.themarkup.org/static/dist/main.577dddbf.css">
+    <link rel="shortcut icon" href="https://mrkp-static-production.themarkup.org/static/img/social-icons/favicon.png" />
+    <link rel="apple-touch-icon" href="https://mrkp-static-production.themarkup.org/static/img/social-icons/apple-touch-icon.png" />
+    <link rel="alternate" type="application/rss+xml" href="/feeds/rss.xml" />
+    <link rel="alternate" type="application/atom+xml" href="/feeds/atom.xml" />
+    <link rel="canonical" href="https://themarkup.org/the-breakdown/2022/07/27/who-is-collecting-data-from-your-car" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Who Is Collecting Data from Your Car? – The Markup" />
+    <meta property="og:description" content="A firehose of sensitive data from your vehicle is flowing to a group of companies you’ve probably never heard of " />
+    <meta property="og:image" content="https://mrkp-static-production.themarkup.org/uploads/2022/07/Rraphael_markup0722_ver3_reduced-1200x628.jpg" />
+
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:site" content="@themarkup">
+    <meta name="twitter:creator" content="@themarkup"/>
+    <meta name="twitter:title" content="Who Is Collecting Data from Your Car? – The Markup"/>
+    <meta name="twitter:image" content="https://mrkp-static-production.themarkup.org/uploads/2022/07/Rraphael_markup0722_ver3_reduced-1200x600.jpg"/>
+    <meta name="twitter:description" content="A firehose of sensitive data from your vehicle is flowing to a group of companies you’ve probably never heard of "/>
+    <meta property="article:section" content="The Breakdown">
+    
+
+    
+    <script type="text/javascript">
+    var STRIPE_PUBLISHABLE_KEY = "pk_live_N1jzERrJAAx1c1H4ab6yG8T600Ku2TXda4";
+    var SCRIPT_ROOT = "";
+    var VARIANTS = {"js": []};
+    </script>
+</head>
+<body>
+
+  <div class="wrapper " id="top">
+      
+
+<section id="menu" class="site-menu js-site-menu" aria-hidden="true">
+  <div class="site-menu-inner">
+    <nav class="menu-list menu-list--content" aria-label="Series">
+      <ul class='menu-nav'>
+        
+          
+            <li class="menu-nav__item">
+              
+      <a href="/series/amazons-advantage" class="menu-nav__link site-header-link">Amazon’s Advantage</a>
+    
+            </li>
+          
+            <li class="menu-nav__item">
+              
+      <a href="/series/locked-out" class="menu-nav__link site-header-link">Locked Out</a>
+    
+            </li>
+          
+            <li class="menu-nav__item">
+              
+      <a href="/series/blacklight" class="menu-nav__link site-header-link">Blacklight</a>
+    
+            </li>
+          
+            <li class="menu-nav__item">
+              
+      <a href="https://themarkup.org/series/machine-learning" class="menu-nav__link site-header-link">Machine Learning</a>
+    
+            </li>
+          
+            <li class="menu-nav__item">
+              
+      <a href="/series/citizen-browser" class="menu-nav__link site-header-link">Citizen Browser</a>
+    
+            </li>
+          
+            <li class="menu-nav__item">
+              
+      <a href="/series/pixel-hunt/" class="menu-nav__link site-header-link">Pixel Hunt</a>
+    
+            </li>
+          
+            <li class="menu-nav__item">
+              
+      <a href="/series/denied" class="menu-nav__link site-header-link">Denied</a>
+    
+            </li>
+          
+            <li class="menu-nav__item">
+              
+      <a href="https://themarkup.org/series/prediction-bias" class="menu-nav__link site-header-link">Prediction: Bias</a>
+    
+            </li>
+          
+            <li class="menu-nav__item">
+              
+      <a href="/series/google-the-giant" class="menu-nav__link site-header-link">Google the Giant</a>
+    
+            </li>
+          
+            <li class="menu-nav__item">
+              
+      <a href="https://themarkup.org/series/working-for-an-algorithm" class="menu-nav__link site-header-link">Working for an Algorithm</a>
+    
+            </li>
+          
+        
+      </ul>
+      
+        <form id="search-form" class="site-search site-search--navy js-site-search search-is-empty" action="/search" role="search">
+    <label for="search" class="visually-hidden" aria-hidden="true">Search term</label>
+    <div class='site-search__input-wrapper'>
+    <input name="s" type="search" id="search" class="site-search__input js-search-input" placeholder="Search" aria-label="Search input">
+    </div>
+    <div class='button button--navy'>
+      <button class="site-search__submit button__label" type="submit" aria-controls="search" aria-label="Submit">
+        <svg><use xlink:href="#icon-search"></use></svg>
+      </button>
+    </div>
+</form>
+      
+    </nav>
+
+    <nav class="menu-list menu-list--information" aria-label="Pages">
+      <ul class="menu-nav">
+        
+          
+            <li class="menu-nav__item">
+              
+      
+      
+      <a href="/about" class="menu-nav__link site-header-link">About Us</a>
+    
+            </li>
+          
+            <li class="menu-nav__item">
+              
+      <a href="/donate/" class="menu-nav__link site-header-link">Donate</a>
+    
+            </li>
+          
+            <li class="menu-nav__item">
+              
+      
+      
+      <a href="/announcements" class="menu-nav__link site-header-link">Announcements</a>
+    
+            </li>
+          
+            <li class="menu-nav__item">
+              
+      
+      
+      <a href="/tips" class="menu-nav__link site-header-link">Have a Tip?</a>
+    
+            </li>
+          
+            <li class="menu-nav__item">
+              
+      <a href="/team/" class="menu-nav__link site-header-link">Team</a>
+    
+            </li>
+          
+            <li class="menu-nav__item">
+              
+      <a href="https://themarkup.org/series/show-your-work" class="menu-nav__link site-header-link">Show Your Work</a>
+    
+            </li>
+          
+            <li class="menu-nav__item">
+              
+      <a href="https://boards.greenhouse.io/themarkup" class="menu-nav__link site-header-link">Jobs</a>
+    
+            </li>
+          
+            <li class="menu-nav__item">
+              
+      <a href="/newsletter" class="menu-nav__link site-header-link">Newsletters</a>
+    
+            </li>
+          
+            <li class="menu-nav__item">
+              
+      <a href="/events" class="menu-nav__link site-header-link">Events</a>
+    
+            </li>
+          
+        
+      </ul>
+    </nav>
+
+    <nav class="menu-list menu-list--follow" aria-label="Social media">
+      <ul class='menu-nav'>
+        <li class='menu-nav__item'>
+          <a href="https://www.facebook.com/teammarkup/" target="_blank" class="site-header-link menu-nav__link menu-nav__link--facebook">
+            <svg><use xlink:href='#icon-facebook'></use></svg>Facebook
+          </a>
+        </li>
+        <li class='menu-nav__item'>
+          <a href="https://www.twitter.com/themarkup/" target="_blank" class="site-header-link menu-nav__link menu-nav__link--twitter">
+            <svg><use xlink:href='#icon-twitter'></use></svg>Twitter
+          </a>
+        </li>
+        <li class='menu-nav__item'>
+          <a href="https://www.instagram.com/the.markup/" target="_blank" class="site-header-link menu-nav__link menu-nav__link--instagram">
+            <svg><use xlink:href='#icon-instagram'></use></svg>Instagram
+          </a>
+        </li>
+        <li class='menu-nav__item'>
+          <a href='/feeds/rss.xml' target="_blank" class="site-header-link menu-nav__link menu-nav__link--rss">
+            <svg><use xlink:href='#icon-rss'></use></svg>RSS Feed
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</section>
+      <svg display="none" width="0" height="0" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <symbol id="icon-facebook" viewBox="0 0 16 32">
+      <path d="M9.959 32H3.318V15.998H0v-5.514h3.318v-3.31C3.318 2.676 5.191 0 10.515 0h4.431v5.516h-2.77c-2.073 0-2.21.771-2.21 2.209l-.009 2.76h5.019l-.587 5.514H9.958v16.002h.001z"/>
+    </symbol>
+    <symbol id="icon-twitter" viewBox="0 0 36 32">
+      <path d="M35.005.564a14.425 14.425 0 01-4.691 1.867C28.97.934 27.049.001 24.924.001c-4.078 0-7.383 3.445-7.383 7.694 0 .603.061 1.191.188 1.752-6.136-.321-11.577-3.381-15.222-8.04a7.921 7.921 0 00-.999 3.87c0 2.668 1.304 5.024 3.286 6.406a7.193 7.193 0 01-3.347-.962v.095c0 3.729 2.544 6.84 5.927 7.545a6.935 6.935 0 01-1.948.271c-.475 0-.94-.046-1.388-.137.938 3.056 3.666 5.284 6.899 5.343-2.529 2.065-5.714 3.293-9.173 3.293-.596 0-1.185-.033-1.762-.106 3.269 2.182 7.151 3.456 11.322 3.456 13.587 0 21.012-11.725 21.012-21.894 0-.335-.004-.667-.019-.995a15.312 15.312 0 003.685-3.985 14.29 14.29 0 01-4.241 1.211A7.65 7.65 0 0035.007.563z"/>
+    </symbol>
+    <symbol id="icon-instagram" viewBox="0 0 16 16">
+      <path d="M8 0c2.173 0 2.445.01 3.298.048.852.039 1.433.174 1.942.372a3.92 3.92 0 011.417.923c.445.444.719.89.923 1.417.198.509.333 1.09.372 1.942C15.99 5.555 16 5.827 16 8s-.01 2.445-.048 3.298c-.039.852-.174 1.433-.372 1.942a3.921 3.921 0 01-.923 1.417c-.444.445-.89.719-1.417.923-.509.198-1.09.333-1.942.372C10.445 15.99 10.173 16 8 16s-2.445-.01-3.298-.048c-.852-.039-1.433-.174-1.942-.372a3.922 3.922 0 01-1.417-.923A3.921 3.921 0 01.42 13.24c-.198-.509-.333-1.09-.372-1.942C.01 10.445 0 10.173 0 8s.01-2.445.048-3.298C.087 3.85.222 3.269.42 2.76c.204-.526.478-.973.923-1.417.444-.445.89-.719 1.417-.923C3.269.222 3.85.087 4.702.048 5.555.01 5.827 0 8 0zm0 1.441c-2.136 0-2.39.009-3.233.047-.78.036-1.203.166-1.485.276-.374.145-.64.318-.92.598-.28.28-.453.546-.598.92-.11.282-.24.705-.276 1.485-.038.844-.047 1.097-.047 3.233s.009 2.39.047 3.233c.036.78.166 1.203.276 1.485.145.374.318.64.598.92.28.28.546.453.92.598.282.11.705.24 1.485.276.844.038 1.097.047 3.233.047s2.39-.009 3.233-.047c.78-.036 1.203-.166 1.485-.276.374-.145.64-.318.92-.598.28-.28.453-.546.598-.92.11-.282.24-.705.276-1.485.038-.844.047-1.097.047-3.233s-.009-2.39-.047-3.233c-.036-.78-.166-1.203-.276-1.485a2.48 2.48 0 00-.598-.92 2.479 2.479 0 00-.92-.598c-.282-.11-.705-.24-1.485-.276-.844-.038-1.097-.047-3.233-.047zm0 9.226a2.667 2.667 0 100-5.334 2.667 2.667 0 000 5.334zm0-6.775a4.108 4.108 0 110 8.216 4.108 4.108 0 010-8.216zm5.23-.162a.96.96 0 11-1.92 0 .96.96 0 011.92 0z"/>
+    </symbol>
+    <symbol id="icon-chevron" viewBox="0 0 14 8">
+      <path d="M14 1.3L12.6 0 7 5.3 1.4 0 0 1.3l5.6 5.4L7 8l1.4-1.3z"/>
+    </symbol>
+    <symbol id="icon-left-arrow" viewBox="0 0 36.6 16">
+      <path d="M36.6 8L22.7 0v6.4H0v3.2h22.7V16z"/>
+    </symbol>
+    <symbol id="icon-right-arrow" viewBox="0 0 36.6 16">
+      <path d="M0 8l13.9 8V9.6h22.7V6.4H13.9V0z"/>
+    </symbol>
+    <symbol id="icon-menu" viewBox="0 0 25 19">
+      <path d="M11 0h14v3H11V0zM0 8h25v3H0V8zm5 8h20v3H5v-3z"/>
+    </symbol>
+    <symbol id="icon-search" viewBox="0 0 21 21">
+      <path d="M21 18.94l-5.473-5.43a8.426 8.426 0 001.638-4.996C17.165 3.819 13.315 0 8.582 0 3.85 0 0 3.82 0 8.514c0 4.695 3.85 8.514 8.582 8.514 1.794 0 3.46-.55 4.84-1.486L18.924 21 21 18.94zM2.517 8.514c0-3.318 2.721-6.018 6.066-6.018 3.345 0 6.066 2.7 6.066 6.018 0 3.318-2.721 6.017-6.066 6.017-3.346 0-6.066-2.7-6.066-6.017z"/>
+    </symbol>
+    <symbol id="markup-logo" viewBox="0 0 538.7 98">
+      <path d="M150.4 72.2c-9.2 0-15.3-7.8-15.3-24.2v-2.8H167v-.5c0-16.6-8.6-25.2-22.2-25.2-12.8 0-26.2 12.1-26.2 31 0 19.7 10.8 30 25.5 30 11 0 20.5-8 24.9-17.3l-1.5-.9c-4.4 5.6-11.3 9.9-17.1 9.9zm-5.9-49.4c4 0 7 2.3 7 13.3v5.5h-16.2c.9-12.9 4.5-18.8 9.2-18.8zm-26.9 54.6l2 .6v1.5h-29V78l2-.6c3.3-1 4-2.7 4-8.3V36.9c0-7.1-2.7-10.1-8.1-10.1-2.5 0-5 .7-7.2 2.2v40.1c0 5.6.7 7.3 4 8.3l2 .6v1.5h-29V78l2-.6c4.2-1.3 5-2.7 5-8.3V13.9c0-5.5-1.6-7-6.9-7H45.8v62.2c0 5.6.8 7 5 8.3l2 .6v1.5h-31V78l2-.6c4.2-1.3 5-2.7 5-8.3V6.9h-3.7C13 6.9 9.7 10 3.4 23.9l-1.9 4.2H0L1 3.5h61.3l19-3.5v25.4c3.7-3.6 9.2-5.9 15.2-5.9 9.9 0 16.1 7 16.1 20v29.6c0 5.6.8 7 5 8.3zM459.8 81l-.4-6.8c-3.7 3.8-9.4 6.3-15.6 6.3-9.9 0-16.1-7-16.1-20V32.9c0-6.5-2.4-9.2-6.6-9.2-2.2 0-4.4.8-8.8 5.4l-9.5 10 16.5 28.8c3.8 6.6 5.6 8.2 8.5 9.1v1.5c-3 1.1-8.5 2-11.9 2-6.9 0-10.5-2.6-15.3-12.3l-8.8-17.8-4.2 4.3v14.4c0 5.6.8 7 5 8.3l2 .6v1.5h-30V78l2-.6c4.2-1.3 5-2.7 5-8.3V13.9c0-5.6-.8-7-4.4-8.1l-2.6-.8V3.5l23-3.5v50.5L401.3 36c3.7-4 3.6-9.6-2.1-12.4l-3.3-1.6v-1.5h31.8l16-1.5v44.1c0 7.1 2.7 10.1 8.1 10.1 2.5 0 5-.7 7.2-2.2V32.9c0-5.6-.8-7-4.4-8.1L452 24v-1.5l23-3.5v48.1c0 5.6.8 7 4.4 8.1l2.6.8v1.5L459.8 81zm-187.6-3.8l1.9.8v1.5h-32V78l1.9-.8c4.3-1.8 5.3-3.1 4.9-10L246 14.8l-23.9 64.9h-1.8l-23.4-64.3-2.6 45.3c-.4 7.4 1.2 10.7 7.9 15.4l2.7 1.9v1.5h-24V78l1.9-1.8c6.1-5.7 7.5-8.3 7.9-15.7l2.7-45.6c.3-5-.8-6.8-5.5-8.9l-2.3-1V3.5h25.5l17.4 47.9 17.6-47.9h25.1V5l-2.3 1c-4.7 2.1-5.8 3.9-5.5 8.9l3 51.1c.4 7.6 1.3 9.3 5.8 11.2zM349.6 31c4.2 0 7.7 3.4 11.2 3.4 4.2 0 6.5-3.5 6.5-10.2 0-2.6-.7-3.7-2.4-4.2-.6-.2-2.2-.5-3.4-.5-4.7 0-10.1 4.3-13.6 9.3l-.5-9.8-22.2 3.5V24l2.6.8c3.6 1.1 4.4 2.5 4.4 8.1v36.2c0 5.2-1.7 7.4-6.2 7.4-4.4 0-6.2-2.2-6.2-7.4V40.5c0-14.7-7.8-21-21.7-21-9.6 0-17.1 5.4-21.1 13.1-.5.9-.6 2.2.5 3.2 2.6 2.3 5.8 3.7 8 3.7 3.9 0 6.5-2.3 7.7-8.8 1.2-6.6 2.4-8 4.9-8 3.7 0 5.7 2.2 5.7 9.7V48c-3.1-1.1-6.5-1.8-9.6-1.8-11.9 0-20.5 7.3-20.5 17.4 0 9.8 7.9 16.9 17.3 16.9 6 0 11.3-2.6 14.6-6.7 2.1 4.3 6.2 5.7 13.2 5.7h37.9V78l-2.2-.6c-5.7-1.6-6.3-2.7-6.3-8.3v-38c.5-.1 1-.1 1.4-.1zm-51.2 42.7c-5.2 0-8.6-3.8-8.6-11.8s3.4-11.8 8.6-11.8c1.7 0 3.5.3 5.4 1v11.6c0 3.5.3 6.3.9 8.6-2.1 1.6-4.3 2.4-6.3 2.4zm218.2-54.2c-5 0-10 2.3-13.6 5.9l-.3-6.4-22.2 3.5V24l2.6.8c3.6 1.1 4.4 2.5 4.4 8.1v54.7c0 5.6-.8 7-5 8.3l-2 .6V98h30v-1.5l-2-.6c-4.2-1.3-5-2.7-5-8.3v-8.3c2.4.8 5 1.2 7.7 1.2 13.8 0 27.5-11.7 27.5-31 0-18.7-10.3-30-22.1-30zM511 77c-2.6 0-5.2-1.2-7.5-3.6V28.7c2.3-2.4 5-3.7 7.5-3.7 6.6 0 11 6.6 11 26s-4.4 26-11 26z"/>
+    </symbol>
+    <symbol id="icon-cross" viewBox="0 0 100 100">
+      <path d="M9.341 80.052l70.71-70.71 10.607 10.606-70.71 70.71z"/>
+      <path d="M9.341 19.948L19.948 9.342l70.71 70.71L80.05 90.658z"/>
+    </symbol>
+    <symbol id="icon-rss" viewBox="0 0 192 192">
+      <circle cx="32" cy="160" r="32"/>
+      <path d="M0 96c53 0 96 43 96 96h32C128 121.3 70.7 64 0 64v32z"/>
+      <path d="M0 32c88.4 0 160 71.6 160 160h32C192 86 106 0 0 0v32z"/>
+    </symbol>
+  </defs>
+</svg>
+  
+    
+    
+<a href="#content" class="visually-hidden focusable">Skip navigation</a>
+<header class="site-header site-header--full" role="banner">
+  <div class='site-header__nav'>
+    <div class="site-header__nav-inner">
+      <a class='site-header__link site-header__link--menu js-MenuToggle' role="button" aria-controls="menu" aria-label="Site menu">Menu
+        <svg class='site-header__link-icon'><use xlink:href='#icon-chevron'></use></svg>
+      </a>
+
+      <a href="/" class="site-header__branding">
+        <svg viewBox='0 0 538.7 98' class='site-header__logo'><use xlink:href="#markup-logo"></use></svg>
+        <span class="visually-hidden">The Markup</span>
+      </a>
+
+      <a href='/donate' class='site-header__link site-header__link--donate' data-utm-source="header">Donate
+      </a>
+
+      <ul class='site-header__links'>
+        
+          
+            <li class="site-header__links-item">
+              
+      
+      
+      <a href="/about" class="site-header__link">About Us</a>
+    
+            </li>
+          
+            <li class="site-header__links-item">
+              
+      <a href="/donate" class="site-header__link button">
+        <span class="button__label">Donate</span>
+      </a>
+    
+            </li>
+          
+        
+      </ul>
+    </div>
+  </div><p class='site-header__statement'>Big Tech Is Watching You. We’re Watching Big&nbsp;Tech.</p></header>
+  
+
+    
+
+<div class="print-only">
+  <div class="print-logo">
+    <svg viewBox="0 0 538.7 98" class="site-header__logo"><use xlink:href="#markup-logo"></use></svg>
+  </div>
+  <h1 class="article-title">Who Is Collecting Data from Your&nbsp;Car?</h1>
+  <div class="article-byline">By Jon Keegan and Alfred Ng </div>
+  <div class="article-date">July 27, 2022 08:00 ET</div>
+  <div class="article-link">Viewable online at<br><a href="https://themarkup.org/the-breakdown/2022/07/27/who-is-collecting-data-from-your-car">https://themarkup.org/the-breakdown/2022/07/27/who-is-collecting-data-from-your-car</a></div>
+</div><article id="content" class="article-single article-single--investigation article-single--larger-topper" role="main">
+  
+    <div class="article-single-inner">
+
+      
+        <header class="article-header">
+  <div class='article-art__wrapper'>
+    <div class="article-art">
+      <figure class="article-figure">
+        
+          
+            <picture>
+  <source media="(min-width: 491px)" srcset="https://mrkp-static-production.themarkup.org/uploads/2022/07/Rraphael_markup0722_ver3_reduced-1440x810.jpg, https://mrkp-static-production.themarkup.org/uploads/2022/07/Rraphael_markup0722_ver3_reduced.jpg 2x">
+  <source media="(max-width: 490px)" srcset="https://mrkp-static-production.themarkup.org/uploads/2022/07/Rraphael_markup0722_ver3_reduced-750x422.jpg, https://mrkp-static-production.themarkup.org/uploads/2022/07/Rraphael_markup0722_ver3_reduced-1280x720.jpg 3x">
+  <img src="https://mrkp-static-production.themarkup.org/uploads/2022/07/Rraphael_markup0722_ver3_reduced-1440x810.jpg" alt="Illustration of a person driving a car, with data flowing out of it. The car is surrounded by maps, various icons and shapes." class="article-img">
+</picture>
+          
+        </figure>
+    </div>
+    <figcaption class="article-caption print-only">
+      <span class="article-caption-label"></span>
+      
+      <span class="article-source">
+        <a href="https://rraphael.com/" target="_blank" class="article-source__link">Ryan Raphael</a>
+      </span>
+      
+    </figcaption>
+  </div>
+  <div class="article-titles ">
+    <div class="article-titles__inner print-hidden"><p class="article-type"><a href="/series/the-breakdown" class="article-type__link article-type__link--type">The Breakdown</a></p><h1 class="article-title">Who Is Collecting Data from Your&nbsp;Car?</h1>
+      <p class="article-subhead">
+        
+          A firehose of sensitive data from your vehicle is flowing to a group of companies you’ve probably never heard of 
+        
+        
+          
+<span class="article-author">
+  <span>By </span>
+  
+
+    
+
+      <a class="article-author__link" href="https://themarkup.org/people/jon-keegan/">Jon Keegan</a> and 
+
+      <a class="article-author__link" href="https://themarkup.org/people/alfred-ng/">Alfred Ng</a> 
+</span>
+
+        
+      </p>
+      <div class="article-date">
+        <time datetime="2022-07-27T08:00:00">July 27, 2022 08:00 ET</time></div>
+
+      
+        <figcaption class='article-caption'>
+          <span class='article-caption-label'></span>
+          
+          <span class="article-source">
+            <a href="https://rraphael.com/" target="_blank" class="article-source__link">Ryan Raphael</a>
+          </span>
+          
+        </figcaption>
+      
+    </div>
+  </div>
+</header>
+      
+
+      <div class="article-body">
+        <div class="article-meta">
+          <div class='article-meta__share' role="complementary" aria-labelledby="article-meta__share__heading">
+            <h3 id="article-meta__share__heading" class='article-meta__title' aria-hidden="true">Share This Article</h3>
+            
+              <a  class='button  article-meta__button js-CopyLink' >
+    <span class='button__label button__label--main'>
+        
+        Copy Link
+    </span></a>
+            
+            
+              
+                <a  class='button  article-meta__button js-open-republisher' >
+    <span class='button__label button__label--main'>
+        
+        Republish
+    </span></a>
+              
+            
+          </div></div>
+        <p>Today’s cars are akin to smartphones, with apps connected to the internet that <a href="https://www.washingtonpost.com/technology/2019/12/17/what-does-your-car-know-about-you-we-hacked-chevy-find-out/" target="_blank">collect huge amounts of data</a>, some of which is highly personal.</p>
+
+
+
+<p>Most drivers <a href="https://www.documentcloud.org/documents/22120767-capgeminiinvent_vehicledatamonetization_pov_sep2020#document/p10/a2130251" target="_blank">have no idea</a> what data is being transmitted from their vehicles, let alone who exactly is collecting, analyzing, and sharing that data, and with whom. A <a href="https://www.aiacanada.com/products.html/product/view/id/281" target="_blank">recent survey</a> of drivers by the Automotive Industries Association of Canada found that only 28 percent of respondents had a clear understanding of the types of data their vehicle produced, and the same percentage said they had a clear understanding of who had access to that data.  </p>
+
+
+<div class="downloads downloads--left " role="complementary">
+  <div class="downloads__content">
+    
+      <h3 class="downloads__heading">See information on the 37 companies we identified.</h3>
+    
+    <div class="downloads__buttons">
+      
+        
+          <a href='https://github.com/the-markup/vehicle-data-collection' class='button  ' >
+    <span class='button__label button__label--main'>
+        
+        GitHub
+    </span></a>
+        
+      
+    </div>
+  </div>
+</div>
+
+
+<p>Welcome to the world of connected vehicle data, an ecosystem of dozens of businesses you never knew existed.</p>
+
+
+
+<p>The Markup <a href="https://github.com/the-markup/vehicle-data-collection" target="_blank">has identified 37 companies</a> that are part of the rapidly growing connected vehicle data industry that seeks to monetize such data in an environment with few regulations governing its sale or use.</p>
+
+
+
+<p>While many of these companies stress they are using aggregated or anonymized data, the unique nature of location and movement data increases the potential for violations of user privacy.</p>
+
+
+<div id="the-markup-identified-37-companies-that-are-part-of-the-connected-vehicle-data-industry" class="datawrapper datawrapper--alignwide  print-hidden ">
+  <a href="#the-markup-identified-37-companies-that-are-part-of-the-connected-vehicle-data-industry" class="heading__link">&#x21a9;&#xFE0E; link</a><div class="datawrapper-iframe" aria-hidden="true">
+    <iframe title="The Markup identified 37 companies that are part of the connected vehicle data industry" aria-label="Interactive area chart" id="datawrapper-chart-wZN99" src="https://datawrapper.dwcdn.net/wZN99/22/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1590"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+  </div>
+</div>
+
+
+<p>The connected vehicle data market is still in its early days, but analysts predict it will be worth anywhere from $300 billion to <a href="https://www.documentcloud.org/documents/22120767-capgeminiinvent_vehicledatamonetization_pov_sep2020#document/p5/a2130948" target="_blank">$800 billion by 2030</a>.</p>
+
+
+
+<p>This nascent industry faces challenges, as it is under pressure to reap profits in order to attract and satisfy investors; at the same time, the disclosure of sensitive and potentially identifying information from smartphones has prompted U.S. lawmakers to threaten <a href="https://www.warren.senate.gov/newsroom/press-releases/warren-wyden-murray-whitehouse-sanders-introduce-legislation-to-ban-data-brokers-from-selling-americans-location-and-health-data" target="_blank">sweeping crackdowns</a> on the collection, <a href="https://themarkup.org/privacy/2021/09/30/theres-a-multibillion-dollar-market-for-your-phones-location-data">transfer, and sale of location data</a>, an effort that could create barriers for the industry as it grows. </p>
+
+
+
+<p>Nevertheless, the race is on to gather massive amounts of data points about drivers to feed the growing market for this information. </p>
+
+
+<div class="heading heading--level2 ">
+	
+	<a href="#how-the-data-flows" class="heading__link">&#x21a9;&#xFE0E; link</a>
+	<h2 id="how-the-data-flows" class="heading__text">How the Data&nbsp;Flows</h2>
+</div>
+
+
+<p>The following is a typical data flow scenario for a vehicle with a factory-installed cellular connection. </p>
+
+
+
+<p>Once a driver gets into a car, dozens of sensors emit data points that flow to the car’s computer: The driver door is unlocked; a passenger is in the driver’s seat; the internal cabin temperature is 86° F; the sunroof is opened; the ignition button is pressed; a trip has started from this location. </p>
+
+
+
+<p>These data points are processed by the car’s computers and transmitted via cellular radio back to the car manufacturer’s servers. </p>
+
+
+
+<p>As the trip continues, additional information is collected: the vehicle location and speed, whether the brakes are applied, which song is playing on the entertainment system, whether the headlights are on or the oil level is low. </p>
+
+
+
+<p>The data then begins its own journey from the car manufacturer to companies known as “vehicle data hubs” and on through the connected vehicle data marketplace. </p>
+
+
+<div class="heading heading--level2 ">
+	
+	<a href="#the-players" class="heading__link">&#x21a9;&#xFE0E; link</a>
+	<h2 id="the-players" class="heading__text">The&nbsp;Players</h2>
+</div>
+
+
+<p>The 37 companies identified by the Markup do not make up the total universe of industry players. But the products they create and services they provide illustrate how the industry works and the breadth of its reach. </p>
+
+
+
+<p>The companies each play a unique role and some play multiple roles. They fall into several categories:</p>
+
+
+<div id="2022-car-data-industry-players_graphic" class="graphics graphics--2022-car-data-industry-players_graphic graphics--wide ">
+  
+    <a href="#2022-car-data-industry-players_graphic" class="graphics__link">&#x21a9;&#xFE0E; link</a>
+  
+  
+  <div class="graphics__content print-hidden" aria-hidden="true">
+    <div class="graphic-container">
+    <div class="flex-container">
+        <div class="flex-item">
+            <div class="explainer__image">
+                <img src="https://mrkp-static-production.themarkup.org/graphics/2022-car-data-industry-players_graphic/1658869733136/assets/spot_1.jpg" alt="Spot illustration of a car on top of a robot with two hands">
+            </div>
+            <p><span class="player-text_bold">Car manufacturers, also known as OEMs</span> (original equipment manufacturers) are directly responsible for and control the collection of most vehicle data used to sell maintenance, emergency roadside assistance, and other driver convenience services.
+</p>
+        </div>
+        <div class="flex-item">
+            <div class="explainer__image">
+                <img src="https://mrkp-static-production.themarkup.org/graphics/2022-car-data-industry-players_graphic/1658869733136/assets/spot_2.jpg" alt="Spot illustration of 4 cars circling a hole with eyes peering out of it">
+            </div>
+            <p><span class="player-text_bold">Vehicle data hubs</span> ingest vehicle and movement data from multiple sources: from car manufacturers, other connected vehicle data providers, directly from vehicles using aftermarket hardware such as “onboard diagnostics” (OBD) dongles, or from smartphone apps. The data is then consolidated and normalized in one place for analysis and insights.</p>
+        </div>
+        <div class="flex-item">
+            <div class="explainer__image">
+                <img src="https://mrkp-static-production.themarkup.org/graphics/2022-car-data-industry-players_graphic/1658869733136/assets/spot_3.jpg" alt="Spot illustration of a purple play icon with four holes behind it with eyes peering out of each hole">
+            </div>
+            <p><span class="player-text_bold">Navigation and in-vehicle infotainment companies</span> provide dashboards with driving directions, music, and third-party apps. </p>
+        </div>
+        <div class="flex-item">
+            <div class="explainer__image">
+                <img src="https://mrkp-static-production.themarkup.org/graphics/2022-car-data-industry-players_graphic/1658869733136/assets/spot_4.jpg" alt="Spot illustration of a purple shield with data behind it">
+            </div>
+            <p><span class="player-text_bold">Insurance companies</span> create “usage-based” insurance and other products that offer discounts, or premium increases, based on actual driving data.</p>
+        </div>
+        <div class="flex-item">
+            <div class="explainer__image">
+                <img src="https://mrkp-static-production.themarkup.org/graphics/2022-car-data-industry-players_graphic/1658869733136/assets/spot_5.jpg" alt="Spot illustration of a purple dongle with eyes">
+            </div>
+            <p><span class="player-text_bold">Telecom operators</span> offer car manufacturers connectivity solutions both integrated into the vehicle or in the form of a dongle that plugs into the car’s OBD port, acting as a WiFi hotspot while also tapping into the car’s telematic data.</p>
+        </div>
+        <div class="flex-item">
+            <div class="explainer__image">
+                <img src="https://mrkp-static-production.themarkup.org/graphics/2022-car-data-industry-players_graphic/1658869733136/assets/spot_6.jpg" alt="Spot illustration of a magnet drawing in a truck that is melting">
+            </div>
+            <p><span class="player-text_bold">Telematics providers</span> make aftermarket tracking hardware and software that collect data directly from cars. They cater to commercial fleet operators and also to OEMs.</p>
+        </div>
+    </div>
+</div>
+
+  </div>
+  
+    <img src="https://mrkp-static-production.themarkup.org/uploads/2022/07/car-data-players-graphic-screenshot-final.png" class="print-only" alt="">
+  
+    <div class="visually-hidden">Drawings representing each kind of company involved in automotive data collection, with explanations below: Car manufacturers (OEMs), Vehicle data hubs, Navigation and in-vehicle infotainment companies, Insurance companies, Telecom operators, and Telematics providers.</div>
+  
+    <div class="graphics__source">
+      <span style="font-weight: 400;">Gabriel Hongsdusit</span>
+    </div>
+  
+  
+    <style>
+    
+.graphic-container {
+  max-width: 1000px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.flex-container {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: space-around;
+}
+
+.player-text_bold {
+  font-weight: 700;
+}
+
+@media (min-width: 650px) and (max-width: 1000px) {
+  .flex-container {
+    flex-flow: row wrap;
+  }
+
+  .flex-item {
+    max-width: 250px;
+  }
+}
+@media (min-width: 1000px) {
+  .flex-container {
+    flex-flow: row wrap;
+    justify-content: space-around;
+  }
+
+  .flex-item {
+    max-width: 300px;
+  }
+}
+    </style>
+  
+  
+    
+    <script src="https://mrkp-static-production.themarkup.org/graphics/2022-car-data-industry-players_graphic/1658869733136/main.js"></script>
+    
+  
+</div>
+
+<div class="heading heading--level2 ">
+	
+	<a href="#vehicle-data-hubs" class="heading__link">&#x21a9;&#xFE0E; link</a>
+	<h2 id="vehicle-data-hubs" class="heading__text">Vehicle Data&nbsp;Hubs&nbsp;</h2>
+</div>
+
+
+<p>Awash in vehicle data, most car manufacturers, or OEMs—original equipment manufacturers—found themselves in an unfamiliar role. “What has given rise to the industry is that most OEMs have recognized that they are better at making cars than they are at processing and handling data,” said Andrew Jackson, research director at PTOLEMUS Consulting Group, which studies the connected vehicle industry. </p>
+
+
+
+<p>This created an opening for a new kind of third-party data company, vehicle data hubs, which are at the center of the connected vehicle data market. </p>
+
+
+
+<p>Vehicle data hubs ingest vehicle and movement data from several different sources: from OEMs, from other connected vehicle data providers, directly from vehicles using aftermarket hardware (such as an onboard diagnostic [OBD] dongle), or from smartphone apps. The companies normalize the data and offer it to customers in the form of a dashboard or insights derived from analysis or other data products. </p>
+
+
+
+<p>In the case of car manufacturers, each captures and stores data differently, creating obstacles to analyzing data across the industry. Hubs solve this problem by gathering data from dozens of car manufacturers and other sources and consolidating it in one place for analysis. </p>
+
+
+
+<p>Andrea Amico is founder and CEO of Privacy4Cars, an automotive data privacy company. Amico said of vehicle data hubs, “So, there’s many sources out there. Their business proposition is collect all this data, create massive databases, try to standardize this data as much as possible and then literally sell it. So that’s their business model.”  </p>
+
+
+
+<p>Many vehicle data hubs market their massive troves of data for applications including insurance, traffic management, electric vehicle infrastructure planning, fleet management, advertising, mapping, city planning, and location intelligence. Many also <a href="https://www.wejo.com/for-automotive" target="_blank">promote their data</a> as crucial to the future application of autonomous vehicles.  </p>
+
+
+
+<p>When used to produce insights, the data is usually aggregated. The vehicle data may also  be made available through an application programming interface (API), which allows customers to integrate the data into their own apps and services. </p>
+
+
+<div class="sidebar js-sidebar  sidebar--right  " role="complementary">
+  <div class="sidebar__content"><h3 class="sidebar__title">How Insurers Use Vehicle&nbsp;Data</h3><div class="sidebar__body">
+      
+  <ul class="list ">
+
+  <li class="list__item">Insurers partner with vehicle data hubs or OEMs, or collect data from smartphone apps or “onboard diagnostics” (OBD) dongles in the car.</li>
+  
+  <li class="list__item">They create “usage-based insurance” (UBI) products priced on driver data.</li>
+  
+  <li class="list__item"><a href="https://www.allstate.com/drive-wise.aspx">Allstate</a>, <a href="https://www.libertymutual.com/righttrack">Liberty Mutual</a>, <a href="https://www.farmers.com/signal/">Farmer’s Insurance</a>, <a href="https://www.geico.com/driveeasy/">Geico</a>, and <a href="https://www.statefarm.com/insurance/auto/discounts/drive-safe-save">State Farm</a> all offer UBI products. The companies did not respond to requests for comment.</li>
+  
+  <li class="list__item">UBI coverage is “pay as you drive,” based on mileage, or “pay how you drive,” where safe drivers get a discount and risky drivers pay a higher premium. Progressive Insurance’s “<a href="https://www.progressive.com/auto/discounts/snapshot/">Snapshot</a>” UBI program, for example, which draws data from a phone app or plug-in dongle in the OBD port, suggests annual savings of $156, with the caveat that there may be a rate increase once Progressive sees actual driver data.</li>
+  
+  <li class="list__item">Snapshot drivers can get discounts by not slamming on brakes, avoiding late night travel, avoiding phone use while driving, and driving less.* </li>
+  
+  <li class="list__item">*Allstate owns Arity, which collects data from apps and OBD devices. <a href="https://www.arity.com/solutions/data-origination/">Arity claims</a> to have data covering 150 million users, and says it “captures nearly 2M trips every hour across multiple sources, generating a massive amount of driving data.”&nbsp;</li>
+  
+  <li class="list__item">*One of Arity’s mobile app sources is family safety app Life360. A <a href="https://themarkup.org/privacy/2021/12/06/the-popular-family-safety-app-life360-is-selling-precise-location-data-on-its-tens-of-millions-of-user">Markup investigation revealed</a> that Life360 was selling precise location data to about a dozen companies; it has since ended those data sales agreements, with the <a href="https://themarkup.org/privacy/2022/01/27/life360-says-it-will-stop-selling-precise-location-data">exception of Placer.AI and Arity</a>.&nbsp;</li>
+  
+</ul>
+  </ul>
+ <p><em>*Progressive spokesperson Ron Davis told The Markup, “Data security is paramount to us and we’re committed to protecting the privacy of our customers participating in our voluntary UBI program Snapshot.”&nbsp;</em></p> 
+    </div>
+    <div class="sidebar__button">
+      <a class="button">
+        <span class="button__label">
+          Read more
+        </span>
+      </a>
+    </div>
+  </div>
+</div>
+
+
+<p>Among the notable companies in the vehicle data hub space are INRIX, CARUSO, Verisk, LexisNexis, Otonomo, and Wejo.</p>
+
+
+
+<p>INRIX has been around since 2005 and offers parking, traffic, and navigation data to transportation agencies, OEMs, and software developers looking to add mobility features. </p>
+
+
+
+<p>INRIX CTO and data protection officer Mark Daymond disputed the vehicle data hub categorization.“INRIX does not transfer or exchange raw data to data customers. We analyze anonymous and aggregated data and create products out of it, then distribute those products to customers. Identities of individuals are irrelevant for our business,” Daymond said in an email to The Markup. </p>
+
+
+
+<p>CARUSO offers a data marketplace for European vehicle data. Its “data catalog” section of its <a href="https://dev.caruso-dataplace.com/api/consumer/page/data-catalog/" target="_blank">API documentation</a> lists 245 distinct vehicle data points. The company did not respond to a request for comment. </p>
+
+
+
+<p>Verisk and data giant LexisNexis, both of which have their own <a href="https://risk.lexisnexis.com/products/telematics-exchange" target="_blank">vehicle data</a> <a href="https://www.verisk.com/insurance/capabilities/telematics/" target="_blank">exchanges</a>, are established players, pitching their services to both OEMs and insurance companies. </p>
+
+
+
+<p>Verisk spokesperson Alberto Canal said that the data in the Verisk Data Exchange “… is subject to advance safeguards and entails consumer consent at multiple points of the process.” Canal said that vehicle data is only shared with insurers for underwriting purposes after consent is granted by the consumer. </p>
+
+
+
+<p>Jennifer Grigas Richman, director, external communications, at LexisNexis Risk Solutions, said “LexisNexis Risk Solutions prides itself on the responsible use of data and devotes enormous resources and time to protecting consumers’ privacy and their personal information.”</p>
+
+
+
+<p>A closer look at Otonomo and Wejo illustrates the huge amount of data under their control and the potential value of the information. </p>
+
+
+
+<p>Otonomo is a publicly traded company based in Tel Aviv. Founded in 2015, it was <a href="https://otonomo.io/press-releases/otonomo-saii-spac/" target="_blank">valued at $1.4 billion</a> at the time of its initial public offering (via a SPAC) in August 2021. It boasts on its <a href="https://otonomo.io/" target="_blank">website</a> that it draws data from 50 million vehicles, “tracking” 330 billion miles and ingests 4.1 billion data points per day. </p>
+
+
+
+<p>In its Q1 2022 financial results, Otonomo <a href="https://www.documentcloud.org/documents/22120770-otonomo-reports-first-quarter-2022-financial-results#document/p1/a2130256" target="_blank">said it has contracts with 23 OEMs</a>, and in April it <a href="https://otonomo.io/press-releases/acquisition-of-the-floow/" target="_blank">acquired</a> The Floow, a “connected insurance technology” provider. Otonomo reported revenue of just over $1 million for the quarter, with a <a href="https://www.documentcloud.org/documents/22120770-otonomo-reports-first-quarter-2022-financial-results#document/p1/a2130259" target="_blank">$15 million loss</a>.  </p>
+
+
+
+<p>Wejo, founded in 2014, is a publicly traded vehicle data hub based in Manchester, England. Wejo claims that <a href="https://scag.ca.gov/sites/main/files/file-attachments/mtf052621-wejo.pdf?1621980584" target="_blank">its data represents</a> “one in every 28 vehicles in the USA” and contains <a href="https://www.wejo.com/traffic-and-transportation-agencies" target="_blank">16.2 trillion data points and 76.7 billion journeys </a>with accuracy down to 3 meters, with a “1-3 second capture rate.” </p>
+
+
+
+<p>Wejo says it has partnerships with 24 OEMs and fleet providers and <a href="https://wejo.gcs-web.com/news-releases/news-release-details/wejo-announces-first-quarter-2022-results" target="_blank">reported revenue</a> of $568,000 with a loss of $40 million in Q1 2022.</p>
+
+
+
+<p>Wejo’s investors include GM, Microsoft, and defense and intelligence contractor Palantir. </p>
+
+
+
+<p>Wejo declined to comment. </p>
+
+
+
+	
+
+	
+<div class="heading heading--level2 ">
+	
+	<a href="#privacy-challenges" class="heading__link">&#x21a9;&#xFE0E; link</a>
+	<h2 id="privacy-challenges" class="heading__text">Privacy&nbsp;Challenges</h2>
+</div>
+
+
+<p>Many of these companies stress the steps they take to protect driver privacy. These protections generally come in two forms: anonymizing or aggregating driver data and clear consent controls. But due to the sensitive nature of movement and location data, <a href="https://www.nature.com/articles/srep01376" target="_blank">risks are high</a> for violating user privacy.</p>
+
+
+
+<p>High Mobility is a vehicle data hub that “enables data connections from cars to services, with user consent,” according to Risto Vahtra, CEO and founder. </p>
+
+
+
+<p>The company lists <a href="https://www.high-mobility.com/car-data/overview" target="_blank">57 categories of data points</a> including “Trips,” “Seats,” “Driver Fatigue,” and “Heart Rate” among the items available in its data catalog. Its API documentation describes <a href="https://airtable.com/shry3EDO6lLiBunTm/tblCBBV23F1zBOnhI" target="_blank">660 distinct data points</a>, though not all of these data points are used by all OEMs. </p>
+
+
+
+<p>Vahtra told The Markup in an email, “Out of about 660 data items, perhaps half are supported in a production environment and not from all OEMs that we have agreements with.”</p>
+
+
+
+<figure class="wp-block-pullquote alignleft"><blockquote><p>… it seems like a match made in privacy hell.</p><cite>Bennett Cyphers, Electronic Frontier Foundation</cite></blockquote></figure><p>Vahtra said that the company does not collect vehicle data. “High Mobility does not collect, store, manipulate or store vehicle data. Our solution instead is designed to securely link services, cars and people.”</p>
+
+
+
+<p>Bennett Cyphers, a staff technologist at the Electronic Frontier Foundation, said, “The more different ways you’re being measured in your vehicle, the more likely it is that someone can take a stream of data and use the characteristics of all of those different data points to fingerprint a particular user or a particular vehicle.”</p>
+
+
+
+<p>Vahtra agreed about this potential risk. “This is definitely a risk for anonymized data. For personalized data this may be true, but not all this data is shared with neutral platforms and third parties.” He said that the one party who does have access to this granular data is the car manufacturers. “The OEMs themselves indeed have access to this vast amount of data points.”</p>
+
+
+
+<p>Cyphers said the amount of personal data collected in combination with a lack of regulations for its sale and use is troubling. “When you see the volume of data that’s up for sale, and the lack of regulation in the vast majority of American states regarding how companies can use data, it seems like a match made in privacy hell.”</p>
+
+
+<div class="heading heading--level2 ">
+	
+	<a href="#anonymization-and-aggregation" class="heading__link">&#x21a9;&#xFE0E; link</a>
+	<h2 id="anonymization-and-aggregation" class="heading__text">Anonymization and&nbsp;Aggregation&nbsp;</h2>
+</div>
+
+
+<p>Otonomo is one example of the dozens of companies that market their attempts at keeping information anonymous. Otonomo describes its platform as having “privacy and security by design” and notes the use of patented “<a href="https://info.otonomo.io/hubfs/PDF/OOOO-Otonomo-Dynamic-Blurring-Engine.pdf" target="_blank">data blurring</a>” technology to protect user privacy. It says it is in compliance with the EU’s General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA). It also has an “<a href="https://otonomo.io/driver-pledge/" target="_blank">Otonomo Driver Pledge</a>” page promising drivers the ability to easily grant or <a href="https://otonomo.io/driver-privacy-portal/" target="_blank">revoke access to personal data</a>, customer transparency about sharing data, and adherence to security best practices. </p>
+
+
+
+<p>Despite those assurances, in 2021 <a href="https://www.vice.com/en/article/4avagd/car-location-data-not-anonymous-otonomo" target="_blank">Motherboard discovered precise</a>, individual vehicle data in free samples on Otonomo’s site. Recently, Otonomo found itself the target of a <a href="https://www.vice.com/en/article/y3v95k/car-location-data-otonomo-class-action-lawsuit" target="_blank">class action lawsuit</a> filed in California Superior Court for the County of San Francisco by a California BMW owner who alleged in the lawsuit that he never granted permission to the company to collect and sell his personal data. Otonomo had the suit <a href="https://storage.courtlistener.com/recap/gov.uscourts.cand.395563/gov.uscourts.cand.395563.1.0.pdf" target="_blank">removed</a> to federal district court in California and <a href="https://www.documentcloud.org/documents/22121328-otonomo_dismissal" target="_blank">sought to have the case dismissed</a>, arguing that the plaintiff <a href="https://www.documentcloud.org/documents/22121328-otonomo_dismissal#document/p17/a2130795" target="_blank">did grant permission for the car manufacturer</a> to collect vehicle data and that Otonomo did not <a href="https://www.documentcloud.org/documents/22121328-otonomo_dismissal#document/p15/a2130787" target="_blank">attach any device</a> to his vehicle as alleged in his lawsuit. Otonomo also argued that <a href="https://www.documentcloud.org/documents/22121328-otonomo_dismissal#document/p11/a2130791" target="_blank">tracking people and vehicles were not the same thing</a>. The lawsuit is pending.</p>
+
+
+
+  <div id="block11" class="promotion print-hidden js-promotion promotion--donate  promotion--has-image promotion--right " data-promotion="donate-report-deeply-and-fix-things-1-202205">
+    <div class="promotion__inner" data-href="/donate-202205">
+        <h2 class="promotion__heading"><a href="/donate-202205" class="promotion__link js-promotion-link">Report Deeply and Fix Things</a></h2>
+      
+        <a href="/donate-202205" class="js-promotion-link">
+          <figure class="promotion__figure">
+            
+              <picture>
+  <source media="(min-width: 491px)" srcset="https://mrkp-static-production.themarkup.org/uploads/2021/11/support_woman_16-9-360x203.jpg, https://mrkp-static-production.themarkup.org/uploads/2021/11/support_woman_16-9-750x422.jpg 2x">
+  <source media="(max-width: 490px)" srcset="https://mrkp-static-production.themarkup.org/uploads/2021/11/support_woman_16-9-750x422.jpg, https://mrkp-static-production.themarkup.org/uploads/2021/11/support_woman_16-9-1140x641.jpg 3x">
+  <img src="https://mrkp-static-production.themarkup.org/uploads/2021/11/support_woman_16-9-360x203.jpg" alt="" class="promotion__img">
+</picture>
+            
+          </figure>
+        </a>
+      
+      <div class="promotion__content">
+          <p class="promotion__description">Because it turns out moving fast and breaking things broke some super important things.</p>
+          
+            <a href='/donate-202205' class='button button--important js-promotion-link' >
+    <span class='button__label button__label--main'>
+        
+        Give Now
+    </span></a>
+          
+        
+        
+      </div>
+    </div>
+  </div>
+
+
+
+<p>Otonomo did not respond to The Markup’s requests for comment, but in a response to <a href="https://www.vice.com/en/article/4avagd/car-location-data-not-anonymous-otonomo" target="_blank">Motherboard’s coverage</a> of individual vehicle data in its free samples, Otonomo spokesperson Jodi Joseph Asiag said, “Privacy is at the core of our platform, technology and vision.” </p>
+
+
+
+<p>Regarding assurances of anonymized location data, Cyphers noted, “It is not possible to minimize individualized location data traces whenever you have several different data points about a person’s location or a vehicle’s location over time. It doesn’t matter what else you do to the data, it’s not going to be anonymized because people’s location traces are extremely unique.”</p>
+
+
+
+<p>Aggregated data can be safer, but the specific methods used in the process matter. “It’s still very difficult to expose aggregated location data that you know is reflective of the movements of real people in a way that’s privacy safe. But it’s possible. It can be done,” Cyphers said.</p>
+
+
+<div class="heading heading--level2 ">
+	
+	<a href="#consent-control" class="heading__link">&#x21a9;&#xFE0E; link</a>
+	<h2 id="consent-control" class="heading__text">Consent&nbsp;Control&nbsp;</h2>
+</div>
+
+
+<p>One area where the car-as-smartphone metaphor breaks down is users’ ability to grant or revoke permissions for apps to access personal data. Both Apple and Google have built fine-grained controls to review and grant permissions and have strengthened prompts to explain what data will be shared with third parties. </p>
+
+
+
+<p>For most cars, progress toward this level of controls is lagging. Comparing the privacy control panels found on smartphones to the typical car, “[t]hat stuff does not exist,” said Privacy4Cars’s Amico. Users must consent to a number of different terms of service, either on the OEM’s smartphone app or on the car dashboard.</p>
+
+
+
+<p>Amico said there should be a clear division of consent controls for optional features, versus essential features. “Whenever the data is necessary for the safe function of the vehicle, you should disclose it, you should get consent.”</p>
+
+
+
+<p>EFF’s Cyphers echoed this concern, saying that drivers should know exactly what data they are granting permission for and how it will be used. “If you opted into sharing location data for the purpose of accessing a navigation program on your car’s screen, your location data should only be used for the purpose of delivering that service. You can’t grant consent for one thing that you want and then have the car company use that for something else, like selling it to a data broker.”</p>
+
+
+
+<p>A new federal privacy bill known as the American Data Privacy and Protection Act was <a href="https://energycommerce.house.gov/newsroom/press-releases/bipartisan-ec-leaders-hail-committee-passage-of-the-american-data-privacy" target="_blank">voted out of the House Committee on Energy &amp; Commerce last week</a>. It would <a href="https://twitter.com/viaCristiano/status/1549387395354824712/photo/1" target="_blank">ensure</a> that clear user consent is obtained for each data processing purpose, for services offered through “nontraditional devices such as cars.” </p>
+
+
+<div class="heading heading--level2 ">
+	
+	<a href="#privacy-as-a-feature" class="heading__link">&#x21a9;&#xFE0E; link</a>
+	<h2 id="privacy-as-a-feature" class="heading__text">Privacy as a&nbsp;Feature</h2>
+</div>
+
+
+<p>Apple has embraced <a href="https://themarkup.org/the-breakdown/2021/03/16/whats-up-with-the-apple-app-stores-privacy-changes">strengthened privacy controls</a> on the iPhone as a marketing tool. A recent Apple ad shows an iPhone user aghast that <a href="https://www.youtube.com/watch?v=NOXK4EVFmJY" target="_blank">her personal data is being auctioned off</a> to the highest bidder. </p>
+
+
+
+<p>There are signs that car manufacturers are following Apple’s path. </p>
+
+
+
+<p>Recently, <a href="https://www.wsj.com/articles/porsche-rolls-out-board-approved-privacy-strategy-11653039001" target="_blank">Porsche announced </a>it was rolling out new fine-grained privacy controls in its luxury Taycan SUV model. In a<a href="https://newsroom.porsche.com/en_US/2021/company/porsche-data-protection-competitive-advantage-christian-voelkel-26810.html" target="_blank"> press release</a> announcing the strategic elevation of user privacy, Porsche’s chief privacy officer and director of group privacy Christian Völkel wrote, “The customer is given full transparency and control over data processing in the vehicle, with simple controls for privacy settings. ‘The customer is in the driver’s seat.’ ”</p></div>
+        <div class="article-donate js-promotion print-hidden">
+          <div class="article-donate__content"><div class='article-donate__body'>
+                  <figure class="article-donate__visual video-loop-wrapper">
+                    
+                      <picture>
+  <source media="(min-width: 491px)" srcset="https://mrkp-static-production.themarkup.org/uploads/2021/11/banner-720x113.jpg, https://mrkp-static-production.themarkup.org/uploads/2021/11/banner-1280x200.jpg 2x">
+  <source media="(max-width: 490px)" srcset="https://mrkp-static-production.themarkup.org/uploads/2021/11/banner-720x113.jpg, https://mrkp-static-production.themarkup.org/uploads/2021/11/banner-1280x200.jpg 3x">
+  <img src="https://mrkp-static-production.themarkup.org/uploads/2021/11/banner-720x113.jpg" alt="" class="">
+</picture>
+                    
+                      <div class="js-video-loop article-donate__video uses-motion" data-desktop="https://mrkp-static-production.themarkup.org/uploads/2021/11/banner-1152.mp4"  data-mobile="https://mrkp-static-production.themarkup.org/uploads/2021/11/banner-688.mp4" data-href="/donate-footer"></div>
+                    </figure>
+                <p>How did we do that? It was thanks to you.</p>
+<p>Reader support is an essential piece of The Markup equation. Your gift lets us report the stories that help to build a better future. Give today.</p>
+
+              
+                <a href='/donate-footer' class='button button--important ' >
+    <span class='button__label button__label--main'>
+        
+        Donate Now
+    </span></a>
+              
+            </div>
+          </div>
+        </div>
+      <footer class="article-footer print-hidden">
+        <div class="article-footer-titles">
+          <h2 class="article-footer-titles__overline">You just read</h2>
+          <p class="article-footer-titles__title">Who Is Collecting Data from Your Car?</p><p class="article-footer-titles__series">From the series —
+    
+
+      <a href="/series/the-breakdown">The Breakdown</a></p><div class="article-footer-titles__share">
+            <h2 class='article-footer-titles__overline'>Share This Article</h2>
+            
+              <a  class='button  js-CopyLink' >
+    <span class='button__label button__label--main'>
+        
+        Copy Link
+    </span></a>
+            
+            
+              
+                <a  class='button  js-open-republisher' >
+    <span class='button__label button__label--main'>
+        
+        Republish
+    </span></a>
+              
+            
+          </div>
+        </div>
+
+        <div class="article-footer__details print-hidden">
+          
+          <h3 class="article-details__overline">Credits</h3>
+          <div class="article-authors">
+            
+            <ul class="article__author-list">
+            
+              <li class="article__author-list-item">
+                
+                <div class='article__author-headshot'>
+                  
+                    <picture>
+  <source media="(min-width: 491px)" srcset="https://mrkp-static-production.themarkup.org/uploads/2020/02/0011_Jon-60x60.jpg, https://mrkp-static-production.themarkup.org/uploads/2020/02/0011_Jon-120x120.jpg 2x">
+  <source media="(max-width: 490px)" srcset="https://mrkp-static-production.themarkup.org/uploads/2020/02/0011_Jon-120x120.jpg, https://mrkp-static-production.themarkup.org/uploads/2020/02/0011_Jon-240x240.jpg 3x">
+  <img src="https://mrkp-static-production.themarkup.org/uploads/2020/02/0011_Jon-60x60.jpg" alt="" class="article__author-image">
+</picture>
+                  
+                </div>
+                
+                <p class="article__author-description">
+                  
+                    <a href="https://themarkup.org/people/jon-keegan/" class="article__author-link">Jon Keegan</a>
+                    <span class='article__author-non-link'>Investigative Data Journalist </span>
+                  </p>
+              </li><li class="article__author-list-item">
+                
+                <div class='article__author-headshot'>
+                  
+                    <picture>
+  <source media="(min-width: 491px)" srcset="https://mrkp-static-production.themarkup.org/uploads/2021/01/Alfred-60x60.jpeg, https://mrkp-static-production.themarkup.org/uploads/2021/01/Alfred-120x120.jpeg 2x">
+  <source media="(max-width: 490px)" srcset="https://mrkp-static-production.themarkup.org/uploads/2021/01/Alfred-120x120.jpeg, https://mrkp-static-production.themarkup.org/uploads/2021/01/Alfred-240x240.jpeg 3x">
+  <img src="https://mrkp-static-production.themarkup.org/uploads/2021/01/Alfred-60x60.jpeg" alt="Headshot of Alfred Ng" class="article__author-image">
+</picture>
+                  
+                </div>
+                
+                <p class="article__author-description">
+                  
+                    <a href="https://themarkup.org/people/alfred-ng/" class="article__author-link">Alfred Ng</a>
+                    <span class='article__author-non-link'>Reporter</span>
+                  </p>
+              </li>
+            </ul>
+
+            
+            
+          </div>
+          
+
+        </div>
+
+      </footer>
+    </div>
+  
+</article>
+
+<section id="republisher" class="republish-section" data-id="46351" aria-hidden="true">
+  <div class='republish-button-wrapper'>
+    
+      <a  class='button button--navy republish-button js-close-republisher' >
+    <span class='button__label button__label--main'>
+        
+        Close
+    </span></a>
+    
+  </div>
+
+  <div class="republish-inner">
+    <div class="republish-details">
+      <div class='republish-overline'>Republish</div>
+      <h2 class="republish-heading">
+        Who Is Collecting Data from Your Car?
+      </h2>
+      <div class="republish-instructions">
+        <p>We’re happy to make this story available to republish for free under the conditions of an <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Attribution–NonCommercial–No Derivatives Creative Commons</a> license. Please adhere to the following:</p>
+<ul>
+<li><strong>Notify us:</strong> Please email us at <a href="mailto:republish@themarkup.org">republish@themarkup.org</a> to let us know if you’ve republished the story.</li>
+<li><strong>Give prominent credit to The Markup and its journalists</strong>: Credit our authors at the top of the article and any other byline areas of your publication.</li>
+<li><strong>Do not edit the article:</strong> The complete, unaltered article text must be published. If you wish to translate the article, please contact us for approval.</li>
+<li><strong>Access to the article must remain free:</strong> Do not sell access to this article or place it behind a paywall, but you can republish our articles on sites with ads.</li>
+<li><strong>Images may not be available for republication:</strong> Not all of the imagery used in articles published on our site are licensed under Creative Commons. Some images are from commercial providers who do not allow their images to be republished without permission or payment. If you wish to use any image from our articles, email us at <a href="mailto:republish@themarkup.org">republish@themarkup.org</a> for guidance.</li>
+<li><strong>Use the provided HTML to republish this article on your site:</strong> Simply copy the HTML that we have provided and publish it as is on your website. The provided HTML snippet includes all text formatting and hyperlinks, the author byline, and credit to The Markup. If the HTML code for The Markup credit image is incompatible with your CMS, let us know if you remove it.</li>
+</ul>
+
+      </div>
+    </div>
+
+    <div class="republish-content">
+      <div class="republish-content-inner">
+        <textarea class="republish-markup" id="republisher-markup" readonly resize="false">Some placeholder text</textarea>
+      </div>
+      
+        <a  class='button button--navy republish-copy-button js-copy-republishing' >
+    <span class='button__label button__label--main'>
+        
+        Copy HTML
+    </span></a>
+      
+    </div>
+  </div>
+</section>
+
+
+  <section class="article-footer__latest print-hidden">
+    
+      
+        <div class='section-label section-label--center '>
+    <h2 class='section-label__text'>The Latest</h2>
+</div>
+      
+
+      <div class="latest-articles__list article-cards--3up">
+        
+          <article class="article-card  article-card--has-image "
+  >
+  <a href="https://themarkup.org/amazons-advantage/2022/10/06/the-markup-wins-loeb-award-for-amazons-advantage" class="article-card__link">
+    
+      <div class="article-card__art">
+        <figure class="article-card__figure">
+          
+            <picture>
+  <source media="(min-width: 491px)" srcset="https://mrkp-static-production.themarkup.org/uploads/2021/10/amazon-brand-lead-art-scooted-360x203.png, https://mrkp-static-production.themarkup.org/uploads/2021/10/amazon-brand-lead-art-scooted-750x422.png 2x">
+  <source media="(max-width: 490px)" srcset="https://mrkp-static-production.themarkup.org/uploads/2021/10/amazon-brand-lead-art-scooted-750x422.png, https://mrkp-static-production.themarkup.org/uploads/2021/10/amazon-brand-lead-art-scooted-1140x641.png 3x">
+  <img src="https://mrkp-static-production.themarkup.org/uploads/2021/10/amazon-brand-lead-art-scooted-360x203.png" alt="Illustration of an Amazon logo and a ray of light shining on a ukulele placed on a column. In the background there are several ukuleles on lower columns." class="article-card__img">
+</picture>
+          
+        </figure>
+      </div>
+    
+    <div class="article-card__content">
+      <div class="article-card__content-inner">
+            <p class="article-card-type"><span class="article-card-type__series">Amazon’s Advantage</span></p>
+          <h3 class="article-card__headline ">
+
+          
+            The Markup Wins Loeb Award for Amazon’s Advantage
+          
+        </h3><p class="article-card__subhead">Our series revealed that Amazon placed its own in-house and exclusive products ahead of third-party items with more reviews and higher&nbsp;ratings</p><time class="article-card__date" datetime="2022-10-06T08:00:00">October 6, 2022 08:00 ET</time></div>
+    </div>
+  </a>
+</article>
+        
+          <article class="article-card  article-card--has-image "
+  >
+  <a href="https://themarkup.org/data-is-plural/2022/10/05/grid-emissions-restaurants-wildfire-smoke-and-a-decade-of-tasks" class="article-card__link">
+    
+      <div class="article-card__art">
+        <figure class="article-card__figure">
+          
+            <picture>
+  <source media="(min-width: 491px)" srcset="https://mrkp-static-production.themarkup.org/uploads/2022/05/data-is-plural-3200x1800-final-360x203.png, https://mrkp-static-production.themarkup.org/uploads/2022/05/data-is-plural-3200x1800-final-750x422.png 2x">
+  <source media="(max-width: 490px)" srcset="https://mrkp-static-production.themarkup.org/uploads/2022/05/data-is-plural-3200x1800-final-750x422.png, https://mrkp-static-production.themarkup.org/uploads/2022/05/data-is-plural-3200x1800-final-1140x641.png 3x">
+  <img src="https://mrkp-static-production.themarkup.org/uploads/2022/05/data-is-plural-3200x1800-final-360x203.png" alt="Illustration of an open envelope, with arrows coming out from within. The arrows are pointing to various spreadsheets. Behind the spreadsheets are data visualizations, clouds and strings of numbers." class="article-card__img">
+</picture>
+          
+        </figure>
+      </div>
+    
+    <div class="article-card__content">
+      <div class="article-card__content-inner">
+            <p class="article-card-type"><span class="article-card-type__series">Data Is Plural</span></p>
+          <h3 class="article-card__headline ">
+
+          
+            Grid Emissions, Restaurants, Wildfire Smoke, and a Decade of Tasks
+          
+        </h3><p class="article-card__subhead">This week&#x27;s roundup of notable&nbsp;data</p><time class="article-card__date" datetime="2022-10-05T13:00:00">October 5, 2022 13:00 ET</time></div>
+    </div>
+  </a>
+</article>
+        
+          <article class="article-card  article-card--has-image "
+  >
+  <a href="https://themarkup.org/data-is-plural/2022/09/28/fda-inspections-academic-citations-university-endowments-and-tech-products" class="article-card__link">
+    
+      <div class="article-card__art">
+        <figure class="article-card__figure">
+          
+            <picture>
+  <source media="(min-width: 491px)" srcset="https://mrkp-static-production.themarkup.org/uploads/2022/05/data-is-plural-3200x1800-final-360x203.png, https://mrkp-static-production.themarkup.org/uploads/2022/05/data-is-plural-3200x1800-final-750x422.png 2x">
+  <source media="(max-width: 490px)" srcset="https://mrkp-static-production.themarkup.org/uploads/2022/05/data-is-plural-3200x1800-final-750x422.png, https://mrkp-static-production.themarkup.org/uploads/2022/05/data-is-plural-3200x1800-final-1140x641.png 3x">
+  <img src="https://mrkp-static-production.themarkup.org/uploads/2022/05/data-is-plural-3200x1800-final-360x203.png" alt="Illustration of an open envelope, with arrows coming out from within. The arrows are pointing to various spreadsheets. Behind the spreadsheets are data visualizations, clouds and strings of numbers." class="article-card__img">
+</picture>
+          
+        </figure>
+      </div>
+    
+    <div class="article-card__content">
+      <div class="article-card__content-inner">
+            <p class="article-card-type"><span class="article-card-type__series">Data Is Plural</span></p>
+          <h3 class="article-card__headline ">
+
+          
+            FDA Inspections, Academic Citations, University Endowments, and Tech Products
+          
+        </h3><p class="article-card__subhead">This week’s roundup of notable&nbsp;data</p><time class="article-card__date" datetime="2022-09-28T13:00:00">September 28, 2022 13:00 ET</time></div>
+    </div>
+  </a>
+</article>
+        
+      </div>
+    
+  </section>
+
+
+
+
+  </div>
+
+  
+
+<footer class="site-footer js-Footer">
+  <div class="site-footer-inner">
+
+    <a href='/' class='footer-logo'>
+      <span class="visually-hidden">Return to The Markup's homepage</span>
+      <svg><use xlink:href="#markup-logo"></use></svg>
+    </a>
+
+    <div class='footer-donate'>
+      <p class='footer-donate__description'>
+        Your contributions help us investigate how technology influences our&nbsp;society.
+      </p>
+
+      <div class='footer-donate__arrow'></div>
+
+      
+        <a href='/donate' class='button button--navy ' >
+    <span class='button__label button__label--main'>
+        
+        Donate
+    </span></a>
+      
+    </div>
+
+    <div class="footer-list footer-list--information">
+      <ul class="footer-nav">
+        
+          
+            <li class="footer-nav__item">
+              
+      
+      
+      <a href="/about" class="footer-nav__link">About Us</a>
+    
+            </li>
+          
+            <li class="footer-nav__item">
+              
+      
+      
+      <a href="/donors" class="footer-nav__link">Our Donors</a>
+    
+            </li>
+          
+            <li class="footer-nav__item">
+              
+      
+      
+      <a href="/ethics" class="footer-nav__link">Ethics Policy</a>
+    
+            </li>
+          
+            <li class="footer-nav__item">
+              
+      <a href="/events/" class="footer-nav__link">Events</a>
+    
+            </li>
+          
+            <li class="footer-nav__item">
+              
+      
+      
+      <a href="/board-of-directors" class="footer-nav__link">Board of Directors</a>
+    
+            </li>
+          
+            <li class="footer-nav__item">
+              
+      <a href="https://boards.greenhouse.io/themarkup" class="footer-nav__link">Jobs</a>
+    
+            </li>
+          
+            <li class="footer-nav__item">
+              
+      <a href="/team" class="footer-nav__link">Team</a>
+    
+            </li>
+          
+            <li class="footer-nav__item">
+              
+      
+      
+      <a href="/tips" class="footer-nav__link">Have a Tip?</a>
+    
+            </li>
+          
+            <li class="footer-nav__item">
+              
+      <a href="/newsletter" class="footer-nav__link">Newsletters</a>
+    
+            </li>
+          
+            <li class="footer-nav__item">
+              
+      <a href="/2020/02/25/editor-letter-julia-angwin" class="footer-nav__link">A Letter from the Editor</a>
+    
+            </li>
+          
+            <li class="footer-nav__item">
+              
+      
+      
+      <a href="/privacy" class="footer-nav__link">Privacy Policy</a>
+    
+            </li>
+          
+            <li class="footer-nav__item">
+              
+      <a href="/2020/02/25/president-letter-nabiha-syed" class="footer-nav__link">A Letter from the President</a>
+    
+            </li>
+          
+            <li class="footer-nav__item">
+              
+      
+      
+      <a href="/terms" class="footer-nav__link">Terms of Use</a>
+    
+            </li>
+          
+            <li class="footer-nav__item">
+              
+      
+      
+      <a href="/announcements" class="footer-nav__link">Announcements</a>
+    
+            </li>
+          
+        
+      </ul>
+    </div>
+
+    <div class="footer-list footer-list--follow">
+      <ul class='footer-nav'>
+        <li class='footer-nav__item'>
+          <a href="https://www.facebook.com/teammarkup/" target="_blank" class="footer-nav__link footer-nav__link--facebook">
+            <svg><use xlink:href='#icon-facebook'></use></svg>Facebook
+          </a>
+        </li>
+        <li class='footer-nav__item'>
+          <a href="https://www.twitter.com/themarkup/" target="_blank" class="footer-nav__link footer-nav__link--twitter">
+            <svg><use xlink:href='#icon-twitter'></use></svg>Twitter
+          </a>
+        </li>
+        <li class='footer-nav__item'>
+          <a href="https://www.instagram.com/the.markup/" target="_blank" class="footer-nav__link footer-nav__link--instagram">
+            <svg><use xlink:href='#icon-instagram'></use></svg>Instagram
+          </a>
+        </li>
+        <li class='footer-nav__item'>
+          <a href='/feeds/rss.xml' target="_blank" class="footer-nav__link footer-nav__link--rss">
+            <svg><use xlink:href='#icon-rss'></use></svg>RSS Feed
+          </a>
+        </li>
+      </ul>
+    </div>
+      <div class="footer-newsletter">
+        <p class="footer-newsletter__description">
+          Sign up to get the Hello World newsletter in your inbox every&nbsp;Saturday.
+        </p>
+        
+          
+	<form action="/_submit-subscribe" method="post" class="subscribe js-subscribe  subscribe--navy">
+		<input type="hidden" name="list_id" value="89ee961b-dac6-11ec-9258-0241b9615763">
+		<input type="hidden" name="token" value="">
+		<div class="subscribe__inner">
+			<div class="subscribe__input-wrapper">
+				<label class="visually-hidden" for="subscribe-email">Enter your email address</label>
+				<input placeholder="Email address" type="email" name="email" class="subscribe__input" id="subscribe-email">
+			</div>
+			<div class="button button--navy">
+				<button type="submit" value="Subscribe" class="subscribe__submit button__label">
+					<div class="button__label--default">Subscribe</div>
+					<span class="button__label--loading">
+						<span class="subscribe__loading-dot subscribe__loading-dot--1"></span>
+						<span class="subscribe__loading-dot subscribe__loading-dot--2"></span>
+						<span class="subscribe__loading-dot subscribe__loading-dot--3"></span>
+					</span>
+				</button>
+			</div>
+		</div>
+		<div class="subscribe__hcaptcha">
+			Please complete this CAPTCHA to help us ensure our subscription list is not abused.
+			<div class="h-captcha" data-sitekey="a607cdae-5fa6-44bc-b9f4-f6ff92620958"></div>
+			<div class="h-captcha-accessibility">
+				<a href="https://www.hcaptcha.com/accessibility" target="_blank">hCaptcha accessibility</a>
+			</div>
+		</div>
+		<div class="subscribe__feedback subscribe__feedback--hidden"></div>
+	</form>
+
+        
+      </div>
+    </div>
+</footer>
+
+  <script src="https://mrkp-static-production.themarkup.org/static/dist/main.0e42aa98.js"></script>
+</body>
+</html>

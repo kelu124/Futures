@@ -1,0 +1,1421 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+
+<head>
+	<meta charset='UTF-8'>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+			<link rel="pingback" href="https://www.technollama.co.uk/xmlrpc.php">
+		<title>DALL·E goes commercial, but what about copyright? &#8211; TechnoLlama</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel='dns-prefetch' href='//widgets.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//0.gravatar.com' />
+<link rel='dns-prefetch' href='//1.gravatar.com' />
+<link rel='dns-prefetch' href='//2.gravatar.com' />
+<link rel='dns-prefetch' href='//jetpack.wordpress.com' />
+<link rel='dns-prefetch' href='//public-api.wordpress.com' />
+<link rel='dns-prefetch' href='//c0.wp.com' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="TechnoLlama &raquo; Feed" href="https://www.technollama.co.uk/feed" />
+<link rel="alternate" type="application/rss+xml" title="TechnoLlama &raquo; Comments Feed" href="https://www.technollama.co.uk/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="TechnoLlama &raquo; DALL·E goes commercial, but what about copyright? Comments Feed" href="https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright/feed" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.technollama.co.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='openid-css'  href='https://www.technollama.co.uk/wp-content/plugins/openid/f/openid.css?ver=519' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://c0.wp.com/c/6.0.2/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='mediaelement-css'  href='https://c0.wp.com/c/6.0.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://c0.wp.com/c/6.0.2/wp-includes/js/mediaelement/wp-mediaelement.min.css' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--accent: #e91e63;--wp--preset--color--secondary: #2d3359;--wp--preset--color--background-color: #E5E5E5;--wp--preset--color--header-gradient: #0c00ff;--wp--preset--color--body-color: #020202;--wp--preset--color--header-overlay-color: rgba(0,0,0,0.5);--wp--preset--color--header-text-color: #fffffe;--wp--preset--color--navbar-background: #fffffd;--wp--preset--color--navbar-text-color: #555555;--wp--preset--color--navbar-text-color-hover: #e91e63;--wp--preset--color--navbar-transparent-text-color: #fffffc;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='bootstrap-css'  href='https://www.technollama.co.uk/wp-content/themes/hestia-pro/assets/bootstrap/css/bootstrap.min.css?ver=1.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='hestia-font-sizes-css'  href='https://www.technollama.co.uk/wp-content/themes/hestia-pro/assets/css/font-sizes.min.css?ver=3.0.24' type='text/css' media='all' />
+<link rel='stylesheet' id='hestia_style-css'  href='https://www.technollama.co.uk/wp-content/themes/hestia-pro/style.min.css?ver=3.0.24' type='text/css' media='all' />
+<style id='hestia_style-inline-css' type='text/css'>
+.hestia-top-bar,.hestia-top-bar .widget.widget_shopping_cart .cart_list{background-color:#363537}.hestia-top-bar .widget .label-floating input[type=search]:-webkit-autofill{-webkit-box-shadow:inset 0 0 0 9999px #363537}.hestia-top-bar,.hestia-top-bar .widget .label-floating input[type=search],.hestia-top-bar .widget.widget_search form.form-group:before,.hestia-top-bar .widget.widget_product_search form.form-group:before,.hestia-top-bar .widget.widget_shopping_cart:before{color:#fff}.hestia-top-bar .widget .label-floating input[type=search]{-webkit-text-fill-color:#fff !important}.hestia-top-bar div.widget.widget_shopping_cart:before,.hestia-top-bar .widget.widget_product_search form.form-group:before,.hestia-top-bar .widget.widget_search form.form-group:before{background-color:#fff}.hestia-top-bar a,.hestia-top-bar .top-bar-nav li a{color:#fff}.hestia-top-bar ul li a[href*="mailto:"]:before,.hestia-top-bar ul li a[href*="tel:"]:before{background-color:#fff}.hestia-top-bar a:hover,.hestia-top-bar .top-bar-nav li a:hover{color:#eee}.hestia-top-bar ul li:hover a[href*="mailto:"]:before,.hestia-top-bar ul li:hover a[href*="tel:"]:before{background-color:#eee}
+@media(min-width:769px){.page-header.header-small .hestia-title,.page-header.header-small .title,h1.hestia-title.title-in-content,.main article.section .has-title-font-size{font-size:42px}}
+@media(min-width:992px){.blog-sidebar-wrapper:not(.no-variable-width){width:25%;display:inline-block}.single-post-container,.blog-posts-wrap,.archive-post-wrap{width:66.66666667%}.page-content-wrap{width:75%}.blog-sidebar-wrapper:not(.no-variable-width){width:25%}}
+a,.navbar .dropdown-menu li:hover>a,.navbar .dropdown-menu li:focus>a,.navbar .dropdown-menu li:active>a,.navbar .navbar-nav>li .dropdown-menu li:hover>a,body:not(.home) .navbar-default .navbar-nav>.active:not(.btn)>a,body:not(.home) .navbar-default .navbar-nav>.active:not(.btn)>a:hover,body:not(.home) .navbar-default .navbar-nav>.active:not(.btn)>a:focus,a:hover,.card-blog a.moretag:hover,.card-blog a.more-link:hover,.widget a:hover,.has-text-color.has-accent-color,p.has-text-color a{color:#e91e63}.svg-text-color{fill:#e91e63}.pagination span.current,.pagination span.current:focus,.pagination span.current:hover{border-color:#e91e63}button,button:hover,.woocommerce .track_order button[type="submit"],.woocommerce .track_order button[type="submit"]:hover,div.wpforms-container .wpforms-form button[type=submit].wpforms-submit,div.wpforms-container .wpforms-form button[type=submit].wpforms-submit:hover,input[type="button"],input[type="button"]:hover,input[type="submit"],input[type="submit"]:hover,input#searchsubmit,.pagination span.current,.pagination span.current:focus,.pagination span.current:hover,.btn.btn-primary,.btn.btn-primary:link,.btn.btn-primary:hover,.btn.btn-primary:focus,.btn.btn-primary:active,.btn.btn-primary.active,.btn.btn-primary.active:focus,.btn.btn-primary.active:hover,.btn.btn-primary:active:hover,.btn.btn-primary:active:focus,.btn.btn-primary:active:hover,.hestia-sidebar-open.btn.btn-rose,.hestia-sidebar-close.btn.btn-rose,.hestia-sidebar-open.btn.btn-rose:hover,.hestia-sidebar-close.btn.btn-rose:hover,.hestia-sidebar-open.btn.btn-rose:focus,.hestia-sidebar-close.btn.btn-rose:focus,.label.label-primary,.hestia-work .portfolio-item:nth-child(6n+1) .label,.nav-cart .nav-cart-content .widget .buttons .button,.has-accent-background-color[class*="has-background"]{background-color:#e91e63}@media(max-width:768px){.navbar-default .navbar-nav>li>a:hover,.navbar-default .navbar-nav>li>a:focus,.navbar .navbar-nav .dropdown .dropdown-menu li a:hover,.navbar .navbar-nav .dropdown .dropdown-menu li a:focus,.navbar button.navbar-toggle:hover,.navbar .navbar-nav li:hover>a i{color:#e91e63}}body:not(.woocommerce-page) button:not([class^="fl-"]):not(.hestia-scroll-to-top):not(.navbar-toggle):not(.close),body:not(.woocommerce-page) .button:not([class^="fl-"]):not(hestia-scroll-to-top):not(.navbar-toggle):not(.add_to_cart_button):not(.product_type_grouped):not(.product_type_external),div.wpforms-container .wpforms-form button[type=submit].wpforms-submit,input[type="submit"],input[type="button"],.btn.btn-primary,.widget_product_search button[type="submit"],.hestia-sidebar-open.btn.btn-rose,.hestia-sidebar-close.btn.btn-rose,.everest-forms button[type=submit].everest-forms-submit-button{-webkit-box-shadow:0 2px 2px 0 rgba(233,30,99,0.14),0 3px 1px -2px rgba(233,30,99,0.2),0 1px 5px 0 rgba(233,30,99,0.12);box-shadow:0 2px 2px 0 rgba(233,30,99,0.14),0 3px 1px -2px rgba(233,30,99,0.2),0 1px 5px 0 rgba(233,30,99,0.12)}.card .header-primary,.card .content-primary,.everest-forms button[type=submit].everest-forms-submit-button{background:#e91e63}body:not(.woocommerce-page) .button:not([class^="fl-"]):not(.hestia-scroll-to-top):not(.navbar-toggle):not(.add_to_cart_button):hover,body:not(.woocommerce-page) button:not([class^="fl-"]):not(.hestia-scroll-to-top):not(.navbar-toggle):not(.close):hover,div.wpforms-container .wpforms-form button[type=submit].wpforms-submit:hover,input[type="submit"]:hover,input[type="button"]:hover,input#searchsubmit:hover,.widget_product_search button[type="submit"]:hover,.pagination span.current,.btn.btn-primary:hover,.btn.btn-primary:focus,.btn.btn-primary:active,.btn.btn-primary.active,.btn.btn-primary:active:focus,.btn.btn-primary:active:hover,.hestia-sidebar-open.btn.btn-rose:hover,.hestia-sidebar-close.btn.btn-rose:hover,.pagination span.current:hover,.everest-forms button[type=submit].everest-forms-submit-button:hover,.everest-forms button[type=submit].everest-forms-submit-button:focus,.everest-forms button[type=submit].everest-forms-submit-button:active{-webkit-box-shadow:0 14px 26px -12px rgba(233,30,99,0.42),0 4px 23px 0 rgba(0,0,0,0.12),0 8px 10px -5px rgba(233,30,99,0.2);box-shadow:0 14px 26px -12px rgba(233,30,99,0.42),0 4px 23px 0 rgba(0,0,0,0.12),0 8px 10px -5px rgba(233,30,99,0.2);color:#fff}.form-group.is-focused .form-control{background-image:-webkit-gradient(linear,left top,left bottom,from(#e91e63),to(#e91e63)),-webkit-gradient(linear,left top,left bottom,from(#d2d2d2),to(#d2d2d2));background-image:-webkit-linear-gradient(linear,left top,left bottom,from(#e91e63),to(#e91e63)),-webkit-linear-gradient(linear,left top,left bottom,from(#d2d2d2),to(#d2d2d2));background-image:linear-gradient(linear,left top,left bottom,from(#e91e63),to(#e91e63)),linear-gradient(linear,left top,left bottom,from(#d2d2d2),to(#d2d2d2))}.navbar:not(.navbar-transparent) li:not(.btn):hover>a,.navbar li.on-section:not(.btn)>a,.navbar.full-screen-menu.navbar-transparent li:not(.btn):hover>a,.navbar.full-screen-menu .navbar-toggle:hover,.navbar:not(.navbar-transparent) .nav-cart:hover,.navbar:not(.navbar-transparent) .hestia-toggle-search:hover{color:#e91e63}.header-filter-gradient{background:linear-gradient(45deg,rgba(12,0,255,1) 0,rgb(78,28,234) 100%)}.has-text-color.has-header-gradient-color{color:#0c00ff}.has-header-gradient-background-color[class*="has-background"]{background-color:#0c00ff}.has-text-color.has-background-color-color{color:#E5E5E5}.has-background-color-background-color[class*="has-background"]{background-color:#E5E5E5}
+.title,.title a,.card-title,.card-title a,.card-title a:hover,.info-title,.info-title a,.footer-brand,.footer-brand a,.media .media-heading,.media .media-heading a,.hestia-info .info-title,.card-blog a.moretag,.card-blog a.more-link,.card .author a,.hestia-about:not(.section-image) h1,.hestia-about:not(.section-image) h2,.hestia-about:not(.section-image) h3,.hestia-about:not(.section-image) h4,.hestia-about:not(.section-image) h5,aside .widget h5,aside .widget a,.woocommerce ul.products[class*="columns-"] li.product-category h2,.woocommerce #reviews #comments ol.commentlist li .comment-text p.meta .woocommerce-review__author,.has-text-color.has-secondary-color{color:#2d3359}.has-secondary-background-color[class*="has-background"]{background-color:#2d3359}.description,.card-description,.footer-big,.hestia-features .hestia-info p,.text-gray,.hestia-about:not(.section-image) p,.hestia-about:not(.section-image) h6,.has-text-color.has-body-color-color{color:#020202}.has-body-color-background-color[class*="has-background"]{background-color:#020202}.header-filter:before,.has-header-overlay-color-background-color[class*="has-background"]{background-color:rgba(0,0,0,0.5)}.has-text-color.has-header-overlay-color-color{color:rgba(0,0,0,0.5)}.page-header,.page-header .hestia-title,.page-header .sub-title,.has-text-color.has-header-text-color-color{color:#fff}.has-header-text-color-background-color[class*="has-background"]{background-color:#fff}@media( max-width:768px){.header>.navbar,.navbar.navbar-fixed-top .navbar-collapse{background-color:#fff}}.navbar:not(.navbar-transparent),.navbar .dropdown-menu,.nav-cart .nav-cart-content .widget,.has-navbar-background-background-color[class*="has-background"]{background-color:#fff}@media( min-width:769px){.navbar.full-screen-menu .nav.navbar-nav{background-color:rgba(255,255,255,0.9)}}.has-navbar-background-color[class*="has-background"]{color:#fff}@media( min-width:769px){.navbar.navbar-transparent .navbar-brand,.navbar.navbar-transparent .navbar-nav>li:not(.btn)>a,.navbar.navbar-transparent .navbar-nav>.active>a,.navbar.navbar-transparent.full-screen-menu .navbar-toggle,.navbar.navbar-transparent:not(.full-screen-menu) .nav-cart-icon,.navbar.navbar-transparent.full-screen-menu li.responsive-nav-cart>a.nav-cart-icon,.navbar.navbar-transparent .hestia-toggle-search,.navbar.navbar-transparent .header-widgets-wrapper ul li a[href*="mailto:"],.navbar.navbar-transparent .header-widgets-wrapper ul li a[href*="tel:"]{color:#fff}}.navbar.navbar-transparent .hestia-toggle-search svg{fill:#fff}.has-text-color.has-navbar-transparent-text-color-color{color:#fff}.has-navbar-transparent-text-color-background-color[class*="has-background"],.navbar.navbar-transparent .header-widgets-wrapper ul li a[href*="mailto:"]:before,.navbar.navbar-transparent .header-widgets-wrapper ul li a[href*="tel:"]:before{background-color:#fff}@media( min-width:769px){.menu-open .navbar.full-screen-menu.navbar-transparent .navbar-toggle,.navbar:not(.navbar-transparent) .navbar-brand,.navbar:not(.navbar-transparent) li:not(.btn)>a,.navbar.navbar-transparent.full-screen-menu li:not(.btn):not(.nav-cart)>a,.navbar.navbar-transparent .dropdown-menu li:not(.btn)>a,.hestia-mm-heading,.hestia-mm-description,.navbar:not(.navbar-transparent) .navbar-nav>.active>a,.navbar:not(.navbar-transparent).full-screen-menu .navbar-toggle,.navbar .nav-cart-icon,.navbar:not(.navbar-transparent) .hestia-toggle-search,.navbar.navbar-transparent .nav-cart .nav-cart-content .widget li a,.navbar .navbar-nav>li .dropdown-menu li.active>a{color:#555}}@media( max-width:768px){.navbar.navbar-default .navbar-brand,.navbar.navbar-default .navbar-nav li:not(.btn).menu-item>a,.navbar.navbar-default .navbar-nav .menu-item.active>a,.navbar.navbar-default .navbar-toggle,.navbar.navbar-default .navbar-toggle,.navbar.navbar-default .responsive-nav-cart a,.navbar.navbar-default .nav-cart .nav-cart-content a,.navbar.navbar-default .hestia-toggle-search,.hestia-mm-heading,.hestia-mm-description{color:#555}.navbar .navbar-nav .dropdown:not(.btn) a .caret svg{fill:#555}.navbar .navbar-nav .dropdown:not(.btn) a .caret{border-color:#555}}.has-text-color.has-navbar-text-color-color{color:#555}.has-navbar-text-color-background-color[class*="has-background"]{background-color:#555}.navbar:not(.navbar-transparent) .header-widgets-wrapper ul li a[href*="mailto:"]:before,.navbar:not(.navbar-transparent) .header-widgets-wrapper ul li a[href*="tel:"]:before{background-color:#555}.hestia-toggle-search svg{fill:#555}.navbar.navbar-default:not(.navbar-transparent) li:not(.btn):hover>a,.navbar.navbar-default.navbar-transparent .dropdown-menu:not(.btn) li:not(.btn):hover>a,.navbar.navbar-default:not(.navbar-transparent) li:not(.btn):hover>a i,.navbar.navbar-default:not(.navbar-transparent) .navbar-toggle:hover,.navbar.navbar-default:not(.full-screen-menu) .nav-cart-icon .nav-cart-content a:hover,.navbar.navbar-default:not(.navbar-transparent) .hestia-toggle-search:hover,.navbar.navbar-transparent .nav-cart .nav-cart-content .widget li:hover a,.has-text-color.has-navbar-text-color-hover-color{color:#e91e63}.navbar.navbar-default li.on-section:not(.btn)>a{color:#e91e63!important}@media( max-width:768px){.navbar.navbar-default.navbar-transparent li:not(.btn):hover>a,.navbar.navbar-default.navbar-transparent li:not(.btn):hover>a i,.navbar.navbar-default.navbar-transparent .navbar-toggle:hover,.navbar.navbar-default .responsive-nav-cart a:hover .navbar.navbar-default .navbar-toggle:hover{color:#e91e63 !important}}.has-navbar-text-color-hover-background-color[class*="has-background"]{background-color:#e91e63}.navbar:not(.navbar-transparent) .header-widgets-wrapper ul li:hover a[href*="mailto:"]:before,.navbar:not(.navbar-transparent) .header-widgets-wrapper ul li:hover a[href*="tel:"]:before{background-color:#e91e63}.hestia-toggle-search:hover svg{fill:#e91e63}.form-group.is-focused .form-control,div.wpforms-container .wpforms-form .form-group.is-focused .form-control,.nf-form-cont input:not([type=button]):focus,.nf-form-cont select:focus,.nf-form-cont textarea:focus{background-image:-webkit-gradient(linear,left top,left bottom,from(#e91e63),to(#e91e63)),-webkit-gradient(linear,left top,left bottom,from(#d2d2d2),to(#d2d2d2));background-image:-webkit-linear-gradient(linear,left top,left bottom,from(#e91e63),to(#e91e63)),-webkit-linear-gradient(linear,left top,left bottom,from(#d2d2d2),to(#d2d2d2));background-image:linear-gradient(linear,left top,left bottom,from(#e91e63),to(#e91e63)),linear-gradient(linear,left top,left bottom,from(#d2d2d2),to(#d2d2d2))}.navbar.navbar-transparent.full-screen-menu .navbar-collapse .navbar-nav>li:not(.btn)>a:hover{color:#e91e63}.hestia-ajax-loading{border-color:#e91e63}
+.btn.btn-primary:not(.colored-button):not(.btn-left):not(.btn-right):not(.btn-just-icon):not(.menu-item),input[type="submit"]:not(.search-submit),body:not(.woocommerce-account) .woocommerce .button.woocommerce-Button,.woocommerce .product button.button,.woocommerce .product button.button.alt,.woocommerce .product #respond input#submit,.woocommerce-cart .blog-post .woocommerce .cart-collaterals .cart_totals .checkout-button,.woocommerce-checkout #payment #place_order,.woocommerce-account.woocommerce-page button.button,.woocommerce .track_order button[type="submit"],.nav-cart .nav-cart-content .widget .buttons .button,.woocommerce a.button.wc-backward,body.woocommerce .wccm-catalog-item a.button,body.woocommerce a.wccm-button.button,form.woocommerce-form-coupon button.button,div.wpforms-container .wpforms-form button[type=submit].wpforms-submit,div.woocommerce a.button.alt,div.woocommerce table.my_account_orders .button,.btn.colored-button,.btn.btn-left,.btn.btn-right,.btn:not(.colored-button):not(.btn-left):not(.btn-right):not(.btn-just-icon):not(.menu-item):not(.hestia-sidebar-open):not(.hestia-sidebar-close){padding-top:15px;padding-bottom:15px;padding-left:33px;padding-right:33px}
+.btn.btn-primary:not(.colored-button):not(.btn-left):not(.btn-right):not(.btn-just-icon):not(.menu-item),input[type="submit"]:not(.search-submit),body:not(.woocommerce-account) .woocommerce .button.woocommerce-Button,.woocommerce .product button.button,.woocommerce .product button.button.alt,.woocommerce .product #respond input#submit,.woocommerce-cart .blog-post .woocommerce .cart-collaterals .cart_totals .checkout-button,.woocommerce-checkout #payment #place_order,.woocommerce-account.woocommerce-page button.button,.woocommerce .track_order button[type="submit"],.nav-cart .nav-cart-content .widget .buttons .button,.woocommerce a.button.wc-backward,body.woocommerce .wccm-catalog-item a.button,body.woocommerce a.wccm-button.button,form.woocommerce-form-coupon button.button,div.wpforms-container .wpforms-form button[type=submit].wpforms-submit,div.woocommerce a.button.alt,div.woocommerce table.my_account_orders .button,input[type="submit"].search-submit,.hestia-view-cart-wrapper .added_to_cart.wc-forward,.woocommerce-product-search button,.woocommerce-cart .actions .button,#secondary div[id^=woocommerce_price_filter] .button,.woocommerce div[id^=woocommerce_widget_cart].widget .buttons .button,.searchform input[type=submit],.searchform button,.search-form:not(.media-toolbar-primary) input[type=submit],.search-form:not(.media-toolbar-primary) button,.woocommerce-product-search input[type=submit],.btn.colored-button,.btn.btn-left,.btn.btn-right,.btn:not(.colored-button):not(.btn-left):not(.btn-right):not(.btn-just-icon):not(.menu-item):not(.hestia-sidebar-open):not(.hestia-sidebar-close){border-radius:3px}
+.btn:hover{background-color:#858585}
+.hestia-top-bar li a[href*="facebook.com"]{font-size:0}.hestia-top-bar li a[href*="facebook.com"]:before{content:""}.hestia-top-bar li a[href*="facebook.com"]:hover:before{color:#3b5998}.hestia-top-bar li a[href*="twitter.com"]{font-size:0}.hestia-top-bar li a[href*="twitter.com"]:before{content:""}.hestia-top-bar li a[href*="twitter.com"]:hover:before{color:#55acee}.hestia-top-bar li a[href*="pinterest.com"]{font-size:0}.hestia-top-bar li a[href*="pinterest.com"]:before{content:""}.hestia-top-bar li a[href*="pinterest.com"]:hover:before{color:#cc2127}.hestia-top-bar li a[href*="google.com"]{font-size:0}.hestia-top-bar li a[href*="google.com"]:before{content:""}.hestia-top-bar li a[href*="google.com"]:hover:before{color:#dd4b39}.hestia-top-bar li a[href*="linkedin.com"]{font-size:0}.hestia-top-bar li a[href*="linkedin.com"]:before{content:""}.hestia-top-bar li a[href*="linkedin.com"]:hover:before{color:#0976b4}.hestia-top-bar li a[href*="dribbble.com"]{font-size:0}.hestia-top-bar li a[href*="dribbble.com"]:before{content:""}.hestia-top-bar li a[href*="dribbble.com"]:hover:before{color:#ea4c89}.hestia-top-bar li a[href*="github.com"]{font-size:0}.hestia-top-bar li a[href*="github.com"]:before{content:""}.hestia-top-bar li a[href*="github.com"]:hover:before{color:#000}.hestia-top-bar li a[href*="youtube.com"]{font-size:0}.hestia-top-bar li a[href*="youtube.com"]:before{content:""}.hestia-top-bar li a[href*="youtube.com"]:hover:before{color:#e52d27}.hestia-top-bar li a[href*="instagram.com"]{font-size:0}.hestia-top-bar li a[href*="instagram.com"]:before{content:""}.hestia-top-bar li a[href*="instagram.com"]:hover:before{color:#125688}.hestia-top-bar li a[href*="reddit.com"]{font-size:0}.hestia-top-bar li a[href*="reddit.com"]:before{content:""}.hestia-top-bar li a[href*="reddit.com"]:hover:before{color:#ff4500}.hestia-top-bar li a[href*="tumblr.com"]{font-size:0}.hestia-top-bar li a[href*="tumblr.com"]:before{content:""}.hestia-top-bar li a[href*="tumblr.com"]:hover:before{color:#35465c}.hestia-top-bar li a[href*="behance.com"]{font-size:0}.hestia-top-bar li a[href*="behance.com"]:before{content:""}.hestia-top-bar li a[href*="behance.com"]:hover:before{color:#1769ff}.hestia-top-bar li a[href*="snapchat.com"]{font-size:0}.hestia-top-bar li a[href*="snapchat.com"]:before{content:""}.hestia-top-bar li a[href*="snapchat.com"]:hover:before{color:#fffc00}.hestia-top-bar li a[href*="deviantart.com"]{font-size:0}.hestia-top-bar li a[href*="deviantart.com"]:before{content:""}.hestia-top-bar li a[href*="deviantart.com"]:hover:before{color:#05cc47}.hestia-top-bar li a[href*="vimeo.com"]{font-size:0}.hestia-top-bar li a[href*="vimeo.com"]:before{content:""}.hestia-top-bar li a[href*="vimeo.com"]:hover:before{color:#1ab7ea}.aos-init[data-aos]{transition-duration:1.25s;-webkit-transition-duration:1.25s;-moz-transition-duration:1.25s;transition-timing-function:ease-out;-webkit-transition-timing-function:ease-out;-moz-transition-timing-function:ease-out;will-change:transform,opacity}.aos-init[data-aos].hestia-table-two{transition-duration:1s;-webkit-transition-duration:1s;-moz-transition-duration:1s}.aos-init[data-aos^=fade][data-aos^=fade]{opacity:0;transition-property:opacity,transform}.aos-init[data-aos^=fade][data-aos^=fade].aos-animate{opacity:1;transform:translate3d(0,0,0)}.aos-init[data-aos=fade-up]{transform:translate3d(0,35px,0)}.aos-init[data-aos=fade-down]{transform:translate3d(0,-35px,0)}.aos-init[data-aos=fade-right]{transform:translate3d(-35px,0,0)}.aos-init[data-aos=fade-left]{transform:translate3d(35px,0,0)}
+</style>
+<link rel='stylesheet' id='hestia_fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A300%2C400%2C500%2C700%7CRoboto+Slab%3A400%2C700&#038;subset=latin%2Clatin-ext&#038;ver=3.0.24' type='text/css' media='all' />
+<link rel='stylesheet' id='social-logos-css'  href='https://c0.wp.com/p/jetpack/11.4/_inc/social-logos/social-logos.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://c0.wp.com/p/jetpack/11.4/css/jetpack.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://c0.wp.com/c/6.0.2/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.0.2/wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://www.technollama.co.uk/wp-content/plugins/openid/f/openid.js?ver=519' id='openid-js'></script>
+
+<!-- Google Analytics snippet added by Site Kit -->
+<script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=UA-844818-3' id='google_gtagjs-js' async></script>
+<script type='text/javascript' id='google_gtagjs-js-after'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["www.technollama.co.uk"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-844818-3", {"anonymize_ip":true});
+gtag("config", "G-6WX2880Z5F");
+</script>
+
+<!-- End Google Analytics snippet added by Site Kit -->
+<link rel="https://api.w.org/" href="https://www.technollama.co.uk/wp-json/" /><link rel="alternate" type="application/json" href="https://www.technollama.co.uk/wp-json/wp/v2/posts/12988" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.technollama.co.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.technollama.co.uk/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 6.0.2" />
+<link rel="canonical" href="https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright" />
+<link rel='shortlink' href='https://wp.me/pwh3D-3nu' />
+<link rel="alternate" type="application/json+oembed" href="https://www.technollama.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.technollama.co.uk%2Fdall%25c2%25b7e-goes-commercial-but-what-about-copyright" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.technollama.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.technollama.co.uk%2Fdall%25c2%25b7e-goes-commercial-but-what-about-copyright&#038;format=xml" />
+<meta name="generator" content="Site Kit by Google 1.84.0" /><script type="text/javascript">//<![CDATA[
+  function external_links_in_new_windows_loop() {
+    if (!document.links) {
+      document.links = document.getElementsByTagName('a');
+    }
+    var change_link = false;
+    var force = '';
+    var ignore = '';
+
+    for (var t=0; t<document.links.length; t++) {
+      var all_links = document.links[t];
+      change_link = false;
+      
+      if(document.links[t].hasAttribute('onClick') == false) {
+        // forced if the address starts with http (or also https), but does not link to the current domain
+        if(all_links.href.search(/^http/) != -1 && all_links.href.search('www.technollama.co.uk') == -1 && all_links.href.search(/^#/) == -1) {
+          // console.log('Changed ' + all_links.href);
+          change_link = true;
+        }
+          
+        if(force != '' && all_links.href.search(force) != -1) {
+          // forced
+          // console.log('force ' + all_links.href);
+          change_link = true;
+        }
+        
+        if(ignore != '' && all_links.href.search(ignore) != -1) {
+          // console.log('ignore ' + all_links.href);
+          // ignored
+          change_link = false;
+        }
+
+        if(change_link == true) {
+          // console.log('Changed ' + all_links.href);
+          document.links[t].setAttribute('onClick', 'javascript:window.open(\'' + all_links.href.replace(/'/g, '') + '\', \'_blank\', \'noopener\'); return false;');
+          document.links[t].removeAttribute('target');
+        }
+      }
+    }
+  }
+  
+  // Load
+  function external_links_in_new_windows_load(func)
+  {  
+    var oldonload = window.onload;
+    if (typeof window.onload != 'function'){
+      window.onload = func;
+    } else {
+      window.onload = function(){
+        oldonload();
+        func();
+      }
+    }
+  }
+
+  external_links_in_new_windows_load(external_links_in_new_windows_loop);
+  //]]></script>
+
+<!-- Enter your scripts here --><style>img#wpstats{display:none}</style>
+	
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="DALL·E goes commercial, but what about copyright?" />
+<meta property="og:url" content="https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright" />
+<meta property="og:description" content="Artificial intelligence generated art is here to stay. In recent weeks OpenAI has given wider access to its AI graphics tool called DALL·E, and that has been followed by an explosion of imaginative…" />
+<meta property="article:published_time" content="2022-07-25T14:53:21+00:00" />
+<meta property="article:modified_time" content="2022-08-10T07:01:40+00:00" />
+<meta property="og:site_name" content="TechnoLlama" />
+<meta property="og:image" content="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/cyberpunk-llama2.png?fit=860%2C860&#038;ssl=1" />
+<meta property="og:image:width" content="860" />
+<meta property="og:image:height" content="860" />
+<meta property="og:image:alt" content="" />
+<meta property="og:locale" content="en_GB" />
+<meta name="twitter:creator" content="@technollama" />
+<meta name="twitter:site" content="@technollama" />
+<meta name="twitter:text:title" content="DALL·E goes commercial, but what about copyright?" />
+<meta name="twitter:image" content="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/cyberpunk-llama2.png?fit=860%2C860&#038;ssl=1&#038;w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2019/06/llama.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2019/06/llama.png?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2019/06/llama.png?fit=180%2C180&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2019/06/llama.png?fit=200%2C200&#038;ssl=1" />
+<style type="text/css" id="wp-custom-css">.home .page-header{
+min-height: 60vh !important;
+}
+
+.post .main {
+    background-color: #fff;
+    color: #000;
+}</style></head>
+
+<body data-rsssl=1 class="post-template-default single single-post postid-12988 single-format-standard blog-post header-layout-default">
+	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.498039215686" /><feFuncG type="table" tableValues="0 0.498039215686" /><feFuncB type="table" tableValues="0 0.498039215686" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.549019607843 0.988235294118" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.717647058824 0.254901960784" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.278431372549" /><feFuncB type="table" tableValues="0.592156862745 0.278431372549" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.647058823529" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.780392156863 1" /><feFuncG type="table" tableValues="0 0.949019607843" /><feFuncB type="table" tableValues="0.352941176471 0.470588235294" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.650980392157 0.403921568627" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.447058823529 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.0980392156863 1" /><feFuncG type="table" tableValues="0 0.662745098039" /><feFuncB type="table" tableValues="0.847058823529 0.419607843137" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>	<div class="wrapper post-12988 post type-post status-publish format-standard has-post-thumbnail hentry category-artificial-intelligence category-nfts tag-artificial-intelligence tag-nfts default ">
+		<header class="header header-with-topbar">
+			<div style="display: none"></div><div class="hestia-top-bar">		<div class="container">
+			<div class="row">
+									<div class="pull-right col-md-6">
+						<div id="search-3" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://www.technollama.co.uk/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></div>					</div>
+									<div class="pull-left col-md-6 top-widgets-placeholder">
+					<div id="top-bar-navigation" class="menu-socials-top-menu-container"><ul id="menu-socials-top-menu" class="nav top-bar-nav"><li id="menu-item-11200" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11200"><a title="Facebook" href="https://www.facebook.com/TechnoLlamaBlog/">Facebook</a></li>
+<li id="menu-item-11201" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11201"><a title="Twitter" href="https://twitter.com/technollama">Twitter</a></li>
+<li id="menu-item-11203" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11203"><a title="Linkedin" href="https://www.linkedin.com/in/andres-guadamuz/">Linkedin</a></li>
+<li id="menu-item-11204" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11204"><a title="Instagram" href="https://www.instagram.com/technollama/">Instagram</a></li>
+</ul></div>				</div>
+			</div><!-- /.row -->
+		</div><!-- /.container -->
+		</div>		<nav class="navbar navbar-default navbar-fixed-top  hestia_left header-with-topbar navbar-not-transparent">
+						<div class="container">
+						<div class="navbar-header">
+			<div class="title-logo-wrapper">
+				<a class="navbar-brand" href="https://www.technollama.co.uk/"
+						title="TechnoLlama">
+					<p>TechnoLlama</p></a>
+			</div>
+								<div class="navbar-toggle-wrapper">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navigation">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="sr-only">Toggle Navigation</span>
+			</button>
+					</div>
+				</div>
+		<div id="main-navigation" class="collapse navbar-collapse"><ul id="menu-main" class="nav navbar-nav"><li id="menu-item-9756" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-9756"><a title="Home" href="https://www.technollama.co.uk/">Home</a></li>
+<li id="menu-item-5599" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5599"><a title="Book" href="https://www.technollama.co.uk/book">Book</a></li>
+<li id="menu-item-5600" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5600"><a title="Publications" href="https://www.technollama.co.uk/publications">Publications</a></li>
+<li id="menu-item-5601" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5601"><a title="About" href="https://www.technollama.co.uk/about">About</a></li>
+<li id="menu-item-5602" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5602"><a title="Español" href="https://www.technollama.co.uk/category/espanol">Español</a></li>
+</ul></div>			</div>
+					</nav>
+				</header>
+<div id="primary" class="boxed-layout-header page-header header-small" data-parallax="active" ><div class="container"><div class="row"><div class="col-md-10 col-md-offset-1 text-center"><h1 class="hestia-title entry-title">DALL·E goes commercial, but what about copyright?</h1><h4 class="author">Published by <a href="https://www.technollama.co.uk/author/andres" class="vcard author"><strong class="fn">Andres Guadamuz</strong></a> on <time class="entry-date published" datetime="2022-07-25T15:53:21+01:00" content="2022-07-25">July 25, 2022</time><time class="updated hestia-hidden" datetime="2022-08-10T08:01:40+01:00">July 25, 2022</time></h4></div></div></div><div class="header-filter" style="background-image: url(https://www.technollama.co.uk/wp-content/uploads/2022/07/cyberpunk-llama2.png);"></div></div>
+<div class="main  main-raised ">
+	<div class="blog-post blog-post-wrapper">
+		<div class="container">
+			<article id="post-12988" class="section section-text">
+	<div class="row">
+				<div class="col-md-8 single-post-container" data-layout="sidebar-right">
+
+			<div class="single-post-wrap entry-content"><div id="attachment_12991" style="width: 607px" class="wp-caption alignnone"><a href="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/avocado-llama.png?ssl=1"><img aria-describedby="caption-attachment-12991" data-attachment-id="12991" data-permalink="https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright/avocado-llama" data-orig-file="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/avocado-llama.png?fit=860%2C860&amp;ssl=1" data-orig-size="860,860" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="avocado-llama" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/avocado-llama.png?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/avocado-llama.png?fit=750%2C750&amp;ssl=1" src="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/avocado-llama.png?resize=597%2C597&#038;ssl=1" alt="llama toast" class="wp-image-12991" width="597" height="597" srcset="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/avocado-llama.png?w=860&amp;ssl=1 860w, https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/avocado-llama.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/avocado-llama.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/avocado-llama.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/avocado-llama.png?resize=50%2C50&amp;ssl=1 50w" sizes="(max-width: 597px) 100vw, 597px" data-recalc-dims="1" /></a><p id="caption-attachment-12991" class="wp-caption-text">A llama wearing a beret eating avocado on toast at a Parisian cafe, in the style of Van Gogh.</p></div>
+<p>Artificial intelligence generated art is here to stay. In recent weeks OpenAI has given wider access to its AI graphics tool called <a href="https://openai.com/blog/dall-e/">DALL·E</a>, and that has been followed by an explosion of imaginative, wacky, baffling, bizarre, and sometimes beautiful art being shared with the wider public. The success of the tool has been such that OpenAI has announced that it will <a href="https://openai.com/blog/dall-e-now-available-in-beta/">be commercialising</a> its image generation platform, so you if you want to create some AI art you will be able to purchase credits that can be used to make prompts to generate art, beta testers have been given 100 credits as a token of appreciation.</p>
+<p>This announcement is very interesting for many reasons. For starters, it is becoming clear that we are starting to witness some of the business models that are being implemented using AI, some of the companies involved will be trying to recover some of their investment by selling access to the tools they have developed. This is also perhaps a preview of the future of creativity, where humans will be relying more and more on AI in the creative process. We may be about to see a new type of creative worker, the AI whisperer, a person who has a talent of getting the AI to produce a worthy piece of work.</p>
+<p>But from my perspective one of the most interesting elements, and one that I have been <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2981304">writing</a> for many years now, and it is the copyright status of all of these creations. Who owns these DALL·E outputs? Is it OpenAI? The person who writes the prompts? Or is it nobody at all?</p>
+<p>The first place to go to answer these questions is DALL·E&#8217;s own <a href="https://labs.openai.com/policies/terms">terms of use</a>. One thing you need to know first is that when using the tool, you have two options, you can upload your own image to have it modified by the AI, or you can write a prompt to generate your own image. These are referred to in the terms of use as <em>Uploads</em>, <em>Prompts</em>, and <em>Generations</em> respectively.  OpenAI allows for commercial use of the Generations here:</p>
+<blockquote><p>&#8220;<b>Use of Images.</b> Subject to your compliance with these terms and our Content Policy, you may use Generations for any legal purpose, including for commercial use. This means you may sell your rights to the Generations you create, incorporate them into works such as books, websites, and presentations, and otherwise commercialize them.&#8221;</p></blockquote>
+<p>So far so good, you can use the Generations you have created in other media (such as using my Generations in this blogpost). But doesn&#8217;t that imply that they own the Generations? If they&#8217;re allowing me to make commercial use of the generated content, it means they own it, right? This appears to be what they&#8217;re claiming. Here&#8217;s the paragraph relating to ownership of the generated images:</p>
+<blockquote><p>&#8220;<b>Ownership of Generations.</b> To the extent allowed by law and as between you and OpenAI, you own your Prompts and Uploads, and you agree that OpenAI owns all Generations (including Generations with Uploads but not the Uploads themselves), and you hereby make any necessary assignments for this. OpenAI grants you the exclusive rights to reproduce and display such Generations and will not resell Generations that you have created, or assert any copyright in such Generations against you or your end users, all provided that you comply with these terms and our Content Policy. If you violate our terms or Content Policy, you will lose rights to use Generations, but we will provide you written notice and a reasonable opportunity to fix your violation, unless it was clearly illegal or abusive. You understand and acknowledge that similar or identical Generations may be created by other people using their own Prompts, and your rights are only to the specific Generation that you have created.&#8221;</p></blockquote>
+<p>That is some really interesting wording, and I find this paragraph to be a work of art. Firstly, you own your own Uploads and Prompts to the extent allowed by law. This is because a prompt may be too short to have any sort of protection. So let&#8217;s say I just type &#8220;Cyberpunk llamas&#8221;, I don&#8217;t think that prompt is worthy of protection, but &#8220;a llama wearing a spacesuit in a futuristic city scape with flying cars flying above, digital art&#8221;, is detailed enough that it just might have protection in its own right (more on that later). By the way, here is the image:</p>
+<p><a href="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/cyberpunk-llama.png?ssl=1"><img data-attachment-id="12995" data-permalink="https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright/cyberpunk-llama" data-orig-file="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/cyberpunk-llama.png?fit=860%2C860&amp;ssl=1" data-orig-size="860,860" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="cyberpunk-llama" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/cyberpunk-llama.png?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/cyberpunk-llama.png?fit=750%2C750&amp;ssl=1" loading="lazy" src="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/cyberpunk-llama.png?resize=511%2C511&#038;ssl=1" alt="" class="alignnone wp-image-12995" width="511" height="511" srcset="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/cyberpunk-llama.png?w=860&amp;ssl=1 860w, https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/cyberpunk-llama.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/cyberpunk-llama.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/cyberpunk-llama.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/cyberpunk-llama.png?resize=50%2C50&amp;ssl=1 50w" sizes="(max-width: 511px) 100vw, 511px" data-recalc-dims="1" /></a></p>
+<p>But what about the generated image itself? Here is the interesting part, OpenAI owns the image, but you will notice that they do not claim any copyright ownership over the image, just that they own it by means of contract. The wording is clever, it says &#8220;you agree that OpenAI owns all Generations&#8221;. So by using the service, you agree to the terms of use, and the terms of use state that you agree that OpenAI owns the images, regardless of whether those images have copyright or not. OpenAI grant you the permission to reproduce and display Generations (as I&#8217;m doing right here). They also state that they will not make any copyright claims against the user, which is nice as there may not be a copyright claim to begin with.</p>
+<p>The final sentence in that section is quite interesting as it recognises the possibility of people coming up with similar generated images based on similar prompts. This is an elegant way of bypassing independent creation, but also of tackling the idea/expression dichotomy.</p>
+<p>So are there any copyright issues? At the moment OpenAI seems to cleverly bypass most copyright questions through contract, making only oblique references to ownership in an IP sense. This is a large conglomerate with extremely capable lawyers, so I&#8217;m certain they must be aware that these images have a tricky copyright path ahead of them. For the most part, the legal consensus appears to be that the images do not have any copyright whatsoever, and that they&#8217;re all in the public domain. If that was the case, then we are now presented with an endless trove of public domain images featuring <a href="https://labs.openai.com/s/M5SSGE4dPFYE4wVXZC3A7pR1">llamas</a>, <a href="https://labs.openai.com/s/yJuKaepJ9xouVI2ohp2ExVbm">robots</a>, and <a href="https://labs.openai.com/s/TJVPXb5bs9oB61UJfsaj3ghh">heavy metal cats</a>. This is precisely why OpenAI is asserting its ownership of the images based on contract law, and not on copyright. The question may come at some point as to whether they can impose this obligation regarding ownership of an image that is in the public domain.</p>
+<p>The situation may be different in the UK, where copyright law allows copyright on a computer-generated work, the author of which is the person who made the arrangements necessary for the work to be created. This, in my opinion, is the user, as we come up with the prompt and initiate the creation of the specific work. I think that there may be a good case to be made that I own the images I create in the UK. In this case, what is happening with DALL·E&#8217;s terms and conditions is that I am agreeing to transfer that copyright to them, this is why they specify that &#8220;you hereby make any necessary assignments&#8221; regarding their ownership of the images. Clever!</p>
+<p>The same thing would apply to EU copyright law, where copyright exists on any original work, and the work is original if it is an intellectual creation. I would argue that this is true for some more complex prompts, for example, “a llama playing poker in a blue room, with a painting on the wall, and a window with the sun shining in” [<a href="https://labs.openai.com/s/YwQhQtsuEWP7X9PvCSwZGFC7">picture here</a>]. But I would also argue that a more basic prompt would not be an intellectual creation, and therefore not original, and thus not having copyright. Take for example &#8220;<a href="https://labs.openai.com/s/6VuLz0cQ78S45QLBh7gSQmGG">a llama recording a podcast</a>&#8220;.</p>
+<p><strong>Concluding</strong></p>
+<p>The commercialisation of AI works is here to stay. I have started noticing a marked increase in AI-generated artworks popping up all over NFT marketplaces, some of it I will admit, is quite beautiful. For example, I just bought <a href="https://objkt.com/asset/KT1XAKJfEjHCUqQDFZMSpz2pszKamybnRStj/2">a very stunning AI work</a> for about $3 USD (2 TEZ), I am perfectly aware that this work may not have copyright, but I thought it was quite pretty, so why not? I even minted one of my AI llamas <a href="https://objkt.com/asset/KT1CFiA9D2NwJiqVR25MGaWGXu5GVRPcz3mG/4">here</a>, all in the name of research (it can be yours for 2 TEZ).</p>
+<p>All of this commercial action will inevitably lead to litigation, perhaps a commercial company will try to challenge OpenAI&#8217;s property claims, or perhaps OpenAI itself will sue. On the meantime, I leave you with a picture of a llama in the metaverse.<strong></strong></p>
+<p><a href="https://labs.openai.com/s/brKLAXBYjeKwwMRmWNqAbPn5"><img data-attachment-id="12997" data-permalink="https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright/metaverse" data-orig-file="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/metaverse.png?fit=860%2C860&amp;ssl=1" data-orig-size="860,860" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="metaverse" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/metaverse.png?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/metaverse.png?fit=750%2C750&amp;ssl=1" loading="lazy" src="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/metaverse.png?resize=505%2C505&#038;ssl=1" alt="" class="alignnone wp-image-12997" width="505" height="505" srcset="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/metaverse.png?w=860&amp;ssl=1 860w, https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/metaverse.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/metaverse.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/metaverse.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/metaverse.png?resize=50%2C50&amp;ssl=1 50w" sizes="(max-width: 505px) 100vw, 505px" data-recalc-dims="1" /></a></p>
+<p>&nbsp;</p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon no-text" href="mailto:?subject=%5BShared%20Post%5D%20DALL%C2%B7E%20goes%20commercial%2C%20but%20what%20about%20copyright%3F&body=https%3A%2F%2Fwww.technollama.co.uk%2Fdall%25c2%25b7e-goes-commercial-but-what-about-copyright&share=email" target="_blank" title="Click to email a link to a friend" data-email-share-error-title="Do you have email set up?" data-email-share-error-text="If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself." data-email-share-nonce="4951cc4cbd" data-email-share-track-url="https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright?share=email"><span></span><span class="sharing-screen-reader-text">Click to email a link to a friend (Opens in new window)</span></a></li><li class="share-print"><a rel="nofollow noopener noreferrer" data-shared="" class="share-print sd-button share-icon no-text" href="https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright#print" target="_blank" title="Click to print" ><span></span><span class="sharing-screen-reader-text">Click to print (Opens in new window)</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon no-text" href="https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright?share=reddit" target="_blank" title="Click to share on Reddit" ><span></span><span class="sharing-screen-reader-text">Click to share on Reddit (Opens in new window)</span></a></li><li class="share-tumblr"><a rel="nofollow noopener noreferrer" data-shared="" class="share-tumblr sd-button share-icon no-text" href="https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright?share=tumblr" target="_blank" title="Click to share on Tumblr" ><span></span><span class="sharing-screen-reader-text">Click to share on Tumblr (Opens in new window)</span></a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-12988" class="share-facebook sd-button share-icon no-text" href="https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright?share=facebook" target="_blank" title="Click to share on Facebook" ><span></span><span class="sharing-screen-reader-text">Click to share on Facebook (Opens in new window)</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-12988" class="share-linkedin sd-button share-icon no-text" href="https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright?share=linkedin" target="_blank" title="Click to share on LinkedIn" ><span></span><span class="sharing-screen-reader-text">Click to share on LinkedIn (Opens in new window)</span></a></li><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-12988" class="share-twitter sd-button share-icon no-text" href="https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright?share=twitter" target="_blank" title="Click to share on Twitter" ><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-7692069-12988-63413b16f0084' data-src='https://widgets.wp.com/likes/#blog_id=7692069&amp;post_id=12988&amp;origin=www.technollama.co.uk&amp;obj_id=7692069-12988-63413b16f0084' data-name='like-post-frame-7692069-12988-63413b16f0084' data-title='Like or Reblog'><h3 class="sd-title">Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Like</span></span> <span class="loading">Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div></div>
+		<div class="section section-blog-info">
+			<div class="row">
+				<div class="col-md-6">
+					<div class="entry-categories">Categories:						<span class="label label-primary"><a href="https://www.technollama.co.uk/category/artificial-intelligence">Artificial intelligence</a></span><span class="label label-primary"><a href="https://www.technollama.co.uk/category/nfts">NFTs</a></span>					</div>
+					<div class="entry-tags">Tags: <span class="entry-tag"><a href="https://www.technollama.co.uk/tag/artificial-intelligence" rel="tag">Artificial Intelligence</a></span><span class="entry-tag"><a href="https://www.technollama.co.uk/tag/nfts" rel="tag">NFTs</a></span></div>				</div>
+				
+        <div class="col-md-6">
+            <div class="entry-social">
+                <a target="_blank" rel="tooltip"
+                   data-original-title="Share on Facebook"
+                   class="btn btn-just-icon btn-round btn-facebook"
+                   href="https://www.facebook.com/sharer.php?u=https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright">
+                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" width="20" height="17"><path fill="currentColor" d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z"></path></svg>
+                </a>
+                
+                <a target="_blank" rel="tooltip"
+                   data-original-title="Share on Twitter"
+                   class="btn btn-just-icon btn-round btn-twitter"
+                   href="http://twitter.com/share?url=https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright&#038;text=DALL%C2%B7E%20goes%20commercial%2C%20but%20what%20about%20copyright%3F">
+                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="20" height="17"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>
+                </a>
+                
+                <a rel="tooltip"
+                   data-original-title=" Share on Email"
+                   class="btn btn-just-icon btn-round"
+                   href="mailto:?subject=DALL·E%20goes%20commercial,%20but%20what%20about%20copyright?&#038;body=https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="20" height="17"><path fill="currentColor" d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"></path></svg>
+               </a>
+            </div>
+		</div>			</div>
+			<hr>
+			
+<div id="comments" class="section section-comments">
+	<div class="row">
+		<div class="col-md-12">
+			<div class="media-area">
+				<h3 class="hestia-title text-center">
+					26 Comments				</h3>
+						<div class="comment even thread-even depth-1 parent media"				id="comment-123422">
+							<a class="pull-left" href="http://gravatar.com/andrewducker ">
+					<div class="comment-author avatar vcard">
+						<img src="https://secure.gravatar.com/avatar/576e56f374266a21e1bddefac405df3a?s=64&#038;d=https%3A%2F%2Fi0.wp.com%2Fwww.technollama.co.uk%2Fwp-content%2Fuploads%2F2022%2F05%2Favatar.png%3Ffit%3D59%252C64%26ssl%3D1&#038;r=pg" width="59" height="64" alt="Avatar" class="avatar avatar-64wp-user-avatar wp-user-avatar-64 alignnone photo avatar-default" />					</div>
+				</a>
+						<div class="media-body">
+				<h4 class="media-heading">
+					<a href='http://gravatar.com/andrewducker' rel='external nofollow ugc' class='url'>andrewducker</a>					<small>
+						&#183; July 26, 2022 at 3:32 pm					</small>
+				</h4>
+				<p>Is there anything to be concerned here with the ownership of the inputs that went into creating the DALL-E system in the first place?  It&#8217;s unlikely to be as blatant as with Github replicating people&#8217;s code verbatim, but if it produces someone&#8217;s pre-existing art then who is responsible, if anyone?</p>
+				<div class="media-footer">
+					<a rel='nofollow' class='comment-reply-link' href='https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright?replytocom=123422#respond' data-commentid="123422" data-postid="12988" data-belowelement="comment-123422" data-respondelement="respond" data-replyto="Reply to andrewducker" aria-label='Reply to andrewducker'><svg class="svg-text-color" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="12px" height="12px"><path d="M8.309 189.836L184.313 37.851C199.719 24.546 224 35.347 224 56.015v80.053c160.629 1.839 288 34.032 288 186.258 0 61.441-39.581 122.309-83.333 154.132-13.653 9.931-33.111-2.533-28.077-18.631 45.344-145.012-21.507-183.51-176.59-185.742V360c0 20.7-24.3 31.453-39.687 18.164l-176.004-152c-11.071-9.562-11.086-26.753 0-36.328z"></path></svg>
+ Reply</a>				</div>
+			</div>
+		</div>
+		<ul class="children">
+		<div class="comment odd alt depth-2 parent media"				id="comment-123424">
+							<a class="pull-left" href="http://gravatar.com/bexsentance ">
+					<div class="comment-author avatar vcard">
+						<img src="https://secure.gravatar.com/avatar/5fda29665afeb70ccda2677943148d2c?s=64&#038;d=https%3A%2F%2Fi0.wp.com%2Fwww.technollama.co.uk%2Fwp-content%2Fuploads%2F2022%2F05%2Favatar.png%3Ffit%3D59%252C64%26ssl%3D1&#038;r=pg" width="59" height="64" alt="Avatar" class="avatar avatar-64wp-user-avatar wp-user-avatar-64 alignnone photo avatar-default" />					</div>
+				</a>
+						<div class="media-body">
+				<h4 class="media-heading">
+					<a href='http://gravatar.com/bexsentance' rel='external nofollow ugc' class='url'>Bex</a>					<small>
+						&#183; July 27, 2022 at 11:29 am					</small>
+				</h4>
+				<p>I was pretty sure that that was the biggest copyright question as well. You can declare that Dall-E&#8217;s works are in the public domain all you like, but OpenAI is still making a profit from them, and if it&#8217;s trained on imagery scraped from the internet&#8230; that&#8217;s hella shaky legal ground.</p>
+				<div class="media-footer">
+					<a rel='nofollow' class='comment-reply-link' href='https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright?replytocom=123424#respond' data-commentid="123424" data-postid="12988" data-belowelement="comment-123424" data-respondelement="respond" data-replyto="Reply to Bex" aria-label='Reply to Bex'><svg class="svg-text-color" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="12px" height="12px"><path d="M8.309 189.836L184.313 37.851C199.719 24.546 224 35.347 224 56.015v80.053c160.629 1.839 288 34.032 288 186.258 0 61.441-39.581 122.309-83.333 154.132-13.653 9.931-33.111-2.533-28.077-18.631 45.344-145.012-21.507-183.51-176.59-185.742V360c0 20.7-24.3 31.453-39.687 18.164l-176.004-152c-11.071-9.562-11.086-26.753 0-36.328z"></path></svg>
+ Reply</a>				</div>
+			</div>
+		</div>
+		<ul class="children">
+		<div class="comment even depth-3 parent media"				id="comment-123435">
+							<a class="pull-left" href="http://gravatar.com/matchateanice ">
+					<div class="comment-author avatar vcard">
+						<img src="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/05/avatar.png?fit=59%2C64&#038;ssl=1" width="59" height="64" alt="Avatar" class="avatar avatar-64wp-user-avatar wp-user-avatar-64 alignnone photo avatar-default" />					</div>
+				</a>
+						<div class="media-body">
+				<h4 class="media-heading">
+					<a href='http://gravatar.com/matchateanice' rel='external nofollow ugc' class='url'>matchateanice</a>					<small>
+						&#183; July 30, 2022 at 11:19 am					</small>
+				</h4>
+				<p>but is it working with images scraped from the net or creating them all from scratch? How can we know for sure? I was told that it was the latter. If not, that is indeed hella shaky legal ground and very worrying.</p>
+				<div class="media-footer">
+					<a rel='nofollow' class='comment-reply-link' href='https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright?replytocom=123435#respond' data-commentid="123435" data-postid="12988" data-belowelement="comment-123435" data-respondelement="respond" data-replyto="Reply to matchateanice" aria-label='Reply to matchateanice'><svg class="svg-text-color" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="12px" height="12px"><path d="M8.309 189.836L184.313 37.851C199.719 24.546 224 35.347 224 56.015v80.053c160.629 1.839 288 34.032 288 186.258 0 61.441-39.581 122.309-83.333 154.132-13.653 9.931-33.111-2.533-28.077-18.631 45.344-145.012-21.507-183.51-176.59-185.742V360c0 20.7-24.3 31.453-39.687 18.164l-176.004-152c-11.071-9.562-11.086-26.753 0-36.328z"></path></svg>
+ Reply</a>				</div>
+			</div>
+		</div>
+		<ul class="children">
+		<div class="comment odd alt depth-4 media"				id="comment-123436">
+							<a class="pull-left" href="http://andrew.ducker.org.uk ">
+					<div class="comment-author avatar vcard">
+						<img src="https://secure.gravatar.com/avatar/576e56f374266a21e1bddefac405df3a?s=64&#038;d=https%3A%2F%2Fi0.wp.com%2Fwww.technollama.co.uk%2Fwp-content%2Fuploads%2F2022%2F05%2Favatar.png%3Ffit%3D59%252C64%26ssl%3D1&#038;r=pg" width="59" height="64" alt="Avatar" class="avatar avatar-64wp-user-avatar wp-user-avatar-64 alignnone photo avatar-default" />					</div>
+				</a>
+						<div class="media-body">
+				<h4 class="media-heading">
+					<a href='http://andrew.ducker.org.uk' rel='external nofollow ugc' class='url'>andrewducker</a>					<small>
+						&#183; July 30, 2022 at 6:49 pm					</small>
+				</h4>
+				<p>It&#8217;s trained on images scraped from the internet, and uses that training to then create them from scratch.</p>
+				<div class="media-footer">
+									</div>
+			</div>
+		</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<div class="comment byuser comment-author-andres bypostauthor even depth-2 media"				id="comment-123427">
+							<a class="pull-left" href=" ">
+					<div class="comment-author avatar vcard">
+						<img src="https://secure.gravatar.com/avatar/8aa3a3f99a977a6761bdc05f0bdf1e26?s=64&#038;d=https%3A%2F%2Fi0.wp.com%2Fwww.technollama.co.uk%2Fwp-content%2Fuploads%2F2022%2F05%2Favatar.png%3Ffit%3D59%252C64%26ssl%3D1&#038;r=pg" width="59" height="64" alt="Avatar" class="avatar avatar-64wp-user-avatar wp-user-avatar-64 alignnone photo avatar-default" />					</div>
+				</a>
+						<div class="media-body">
+				<h4 class="media-heading">
+					Andres Guadamuz					<small>
+						&#183; July 28, 2022 at 9:28 am					</small>
+				</h4>
+				<p>That&#8217;s a great question, stay tuned, writing an article about this.</p>
+				<div class="media-footer">
+					<a rel='nofollow' class='comment-reply-link' href='https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright?replytocom=123427#respond' data-commentid="123427" data-postid="12988" data-belowelement="comment-123427" data-respondelement="respond" data-replyto="Reply to Andres Guadamuz" aria-label='Reply to Andres Guadamuz'><svg class="svg-text-color" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="12px" height="12px"><path d="M8.309 189.836L184.313 37.851C199.719 24.546 224 35.347 224 56.015v80.053c160.629 1.839 288 34.032 288 186.258 0 61.441-39.581 122.309-83.333 154.132-13.653 9.931-33.111-2.533-28.077-18.631 45.344-145.012-21.507-183.51-176.59-185.742V360c0 20.7-24.3 31.453-39.687 18.164l-176.004-152c-11.071-9.562-11.086-26.753 0-36.328z"></path></svg>
+ Reply</a>				</div>
+			</div>
+		</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<div class="comment odd alt thread-odd thread-alt depth-1 media"				id="comment-123425">
+							<a class="pull-left" href="https://www.youtube.com/ ">
+					<div class="comment-author avatar vcard">
+						<img src="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/05/avatar.png?fit=59%2C64&#038;ssl=1" width="59" height="64" alt="Avatar" class="avatar avatar-64wp-user-avatar wp-user-avatar-64 alignnone photo avatar-default" />					</div>
+				</a>
+						<div class="media-body">
+				<h4 class="media-heading">
+					<a href='https://www.youtube.com/' rel='external nofollow ugc' class='url'>Henr</a>					<small>
+						&#183; July 27, 2022 at 9:35 pm					</small>
+				</h4>
+				<p>Intellectual Property laws should be renewed to deal with these datamining-based machines. Leaving the question of mass-scraped uncredited works aside, If OpenAI &#8220;owns&#8221; any image they reproduce but do not enforce clear copyright over it, while also allowing commercial use for NFTs, blogs, books and such, I could make NFTs based on existing fictional/real characters and sell them just like it charged me to reproduce their images.</p>
+<p>Also the UK laws open up to some horrible long term consequences. If I had money to make an AI with enough computing power to generate pictures really fast through randomised prompts, eventually I would own copyright to every previously-unused combination of pixels possible in a 2k/4k/8k&#8230; canvas. You&#8217;re signing up to an era of digital hell.</p>
+				<div class="media-footer">
+					<a rel='nofollow' class='comment-reply-link' href='https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright?replytocom=123425#respond' data-commentid="123425" data-postid="12988" data-belowelement="comment-123425" data-respondelement="respond" data-replyto="Reply to Henr" aria-label='Reply to Henr'><svg class="svg-text-color" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="12px" height="12px"><path d="M8.309 189.836L184.313 37.851C199.719 24.546 224 35.347 224 56.015v80.053c160.629 1.839 288 34.032 288 186.258 0 61.441-39.581 122.309-83.333 154.132-13.653 9.931-33.111-2.533-28.077-18.631 45.344-145.012-21.507-183.51-176.59-185.742V360c0 20.7-24.3 31.453-39.687 18.164l-176.004-152c-11.071-9.562-11.086-26.753 0-36.328z"></path></svg>
+ Reply</a>				</div>
+			</div>
+		</div>
+		</li><!-- #comment-## -->
+		<div class="comment even thread-even depth-1 parent media"				id="comment-123429">
+							<a class="pull-left" href=" ">
+					<div class="comment-author avatar vcard">
+						<img src="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/05/avatar.png?fit=59%2C64&#038;ssl=1" width="59" height="64" alt="Avatar" class="avatar avatar-64wp-user-avatar wp-user-avatar-64 alignnone photo avatar-default" />					</div>
+				</a>
+						<div class="media-body">
+				<h4 class="media-heading">
+					Andy J					<small>
+						&#183; July 28, 2022 at 7:02 pm					</small>
+				</h4>
+				<p>I&#8217;m not so sure that the contract approach really is that smart. The problem with a contract is that it only binds the actual parties to the contract. So if a third party (say a reader of this blog) takes you image of a llama in the metaverse and exploits it economically, neither you (the author and owner of the prompts) nor Open AI have any cause of action against that reader.</p>
+<p>And I would also suggest that the situation in the UK is not quite as benevolent towards OpenAI as you suggest. Yes, section 9(3) makes the prompter the first owner of copyright in the generated image, but OpenAi&#8217;s contract terms cannot be deemed to assign ownership to them because section 90(3) CDPA specifically requires that this is done in writing and signed by the first owner, and a click-through agreement alone isn&#8217;t going to meet that criterion.</p>
+<p>Interesting issue, though. And far too early to talk about changes to the law, in my view. We need a few more test cases (like the DABUS litigation) to see the extent of the problem.</p>
+				<div class="media-footer">
+					<a rel='nofollow' class='comment-reply-link' href='https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright?replytocom=123429#respond' data-commentid="123429" data-postid="12988" data-belowelement="comment-123429" data-respondelement="respond" data-replyto="Reply to Andy J" aria-label='Reply to Andy J'><svg class="svg-text-color" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="12px" height="12px"><path d="M8.309 189.836L184.313 37.851C199.719 24.546 224 35.347 224 56.015v80.053c160.629 1.839 288 34.032 288 186.258 0 61.441-39.581 122.309-83.333 154.132-13.653 9.931-33.111-2.533-28.077-18.631 45.344-145.012-21.507-183.51-176.59-185.742V360c0 20.7-24.3 31.453-39.687 18.164l-176.004-152c-11.071-9.562-11.086-26.753 0-36.328z"></path></svg>
+ Reply</a>				</div>
+			</div>
+		</div>
+		<ul class="children">
+		<div class="comment byuser comment-author-andres bypostauthor odd alt depth-2 media"				id="comment-123430">
+							<a class="pull-left" href=" ">
+					<div class="comment-author avatar vcard">
+						<img src="https://secure.gravatar.com/avatar/8aa3a3f99a977a6761bdc05f0bdf1e26?s=64&#038;d=https%3A%2F%2Fi0.wp.com%2Fwww.technollama.co.uk%2Fwp-content%2Fuploads%2F2022%2F05%2Favatar.png%3Ffit%3D59%252C64%26ssl%3D1&#038;r=pg" width="59" height="64" alt="Avatar" class="avatar avatar-64wp-user-avatar wp-user-avatar-64 alignnone photo avatar-default" />					</div>
+				</a>
+						<div class="media-body">
+				<h4 class="media-heading">
+					Andres Guadamuz					<small>
+						&#183; July 29, 2022 at 11:13 am					</small>
+				</h4>
+				<p>Excellent points. I&#8217;d probably argue that OpenAI could intervene with third party rights, but that could be very jurisdiction dependent.</p>
+<p>As to 90(3), absolutely true, but the terms and conditions place the onus on you to make that assignment, it is cleverly worded. Will it stand up in court? There&#8217;s only way to find out.</p>
+				<div class="media-footer">
+					<a rel='nofollow' class='comment-reply-link' href='https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright?replytocom=123430#respond' data-commentid="123430" data-postid="12988" data-belowelement="comment-123430" data-respondelement="respond" data-replyto="Reply to Andres Guadamuz" aria-label='Reply to Andres Guadamuz'><svg class="svg-text-color" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="12px" height="12px"><path d="M8.309 189.836L184.313 37.851C199.719 24.546 224 35.347 224 56.015v80.053c160.629 1.839 288 34.032 288 186.258 0 61.441-39.581 122.309-83.333 154.132-13.653 9.931-33.111-2.533-28.077-18.631 45.344-145.012-21.507-183.51-176.59-185.742V360c0 20.7-24.3 31.453-39.687 18.164l-176.004-152c-11.071-9.562-11.086-26.753 0-36.328z"></path></svg>
+ Reply</a>				</div>
+			</div>
+		</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<div class="comment even thread-odd thread-alt depth-1 parent media"				id="comment-123432">
+							<a class="pull-left" href=" ">
+					<div class="comment-author avatar vcard">
+						<img src="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/05/avatar.png?fit=59%2C64&#038;ssl=1" width="59" height="64" alt="Avatar" class="avatar avatar-64wp-user-avatar wp-user-avatar-64 alignnone photo avatar-default" />					</div>
+				</a>
+						<div class="media-body">
+				<h4 class="media-heading">
+					Kenee					<small>
+						&#183; July 30, 2022 at 12:18 am					</small>
+				</h4>
+				<p>Are DALL-E users legally allowed to modify images generated by DALL-E?</p>
+				<div class="media-footer">
+					<a rel='nofollow' class='comment-reply-link' href='https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright?replytocom=123432#respond' data-commentid="123432" data-postid="12988" data-belowelement="comment-123432" data-respondelement="respond" data-replyto="Reply to Kenee" aria-label='Reply to Kenee'><svg class="svg-text-color" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="12px" height="12px"><path d="M8.309 189.836L184.313 37.851C199.719 24.546 224 35.347 224 56.015v80.053c160.629 1.839 288 34.032 288 186.258 0 61.441-39.581 122.309-83.333 154.132-13.653 9.931-33.111-2.533-28.077-18.631 45.344-145.012-21.507-183.51-176.59-185.742V360c0 20.7-24.3 31.453-39.687 18.164l-176.004-152c-11.071-9.562-11.086-26.753 0-36.328z"></path></svg>
+ Reply</a>				</div>
+			</div>
+		</div>
+		<ul class="children">
+		<div class="comment byuser comment-author-andres bypostauthor odd alt depth-2 media"				id="comment-123433">
+							<a class="pull-left" href=" ">
+					<div class="comment-author avatar vcard">
+						<img src="https://secure.gravatar.com/avatar/8aa3a3f99a977a6761bdc05f0bdf1e26?s=64&#038;d=https%3A%2F%2Fi0.wp.com%2Fwww.technollama.co.uk%2Fwp-content%2Fuploads%2F2022%2F05%2Favatar.png%3Ffit%3D59%252C64%26ssl%3D1&#038;r=pg" width="59" height="64" alt="Avatar" class="avatar avatar-64wp-user-avatar wp-user-avatar-64 alignnone photo avatar-default" />					</div>
+				</a>
+						<div class="media-body">
+				<h4 class="media-heading">
+					Andres Guadamuz					<small>
+						&#183; July 30, 2022 at 10:54 am					</small>
+				</h4>
+				<p>The terms do not specify, but as you have permission to reuse the images, I think that you should be able to.</p>
+				<div class="media-footer">
+					<a rel='nofollow' class='comment-reply-link' href='https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright?replytocom=123433#respond' data-commentid="123433" data-postid="12988" data-belowelement="comment-123433" data-respondelement="respond" data-replyto="Reply to Andres Guadamuz" aria-label='Reply to Andres Guadamuz'><svg class="svg-text-color" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="12px" height="12px"><path d="M8.309 189.836L184.313 37.851C199.719 24.546 224 35.347 224 56.015v80.053c160.629 1.839 288 34.032 288 186.258 0 61.441-39.581 122.309-83.333 154.132-13.653 9.931-33.111-2.533-28.077-18.631 45.344-145.012-21.507-183.51-176.59-185.742V360c0 20.7-24.3 31.453-39.687 18.164l-176.004-152c-11.071-9.562-11.086-26.753 0-36.328z"></path></svg>
+ Reply</a>				</div>
+			</div>
+		</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<div class="comment even thread-even depth-1 parent media"				id="comment-123434">
+							<a class="pull-left" href="http://gravatar.com/matchateanice ">
+					<div class="comment-author avatar vcard">
+						<img src="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/05/avatar.png?fit=59%2C64&#038;ssl=1" width="59" height="64" alt="Avatar" class="avatar avatar-64wp-user-avatar wp-user-avatar-64 alignnone photo avatar-default" />					</div>
+				</a>
+						<div class="media-body">
+				<h4 class="media-heading">
+					<a href='http://gravatar.com/matchateanice' rel='external nofollow ugc' class='url'>matchateanice</a>					<small>
+						&#183; July 30, 2022 at 11:16 am					</small>
+				</h4>
+				<p>Great article. Am I able to use the DALLE images for print on demand? I&#8217;m sure that a lot of people will be wondering the same thing&#8230;</p>
+				<div class="media-footer">
+					<a rel='nofollow' class='comment-reply-link' href='https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright?replytocom=123434#respond' data-commentid="123434" data-postid="12988" data-belowelement="comment-123434" data-respondelement="respond" data-replyto="Reply to matchateanice" aria-label='Reply to matchateanice'><svg class="svg-text-color" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="12px" height="12px"><path d="M8.309 189.836L184.313 37.851C199.719 24.546 224 35.347 224 56.015v80.053c160.629 1.839 288 34.032 288 186.258 0 61.441-39.581 122.309-83.333 154.132-13.653 9.931-33.111-2.533-28.077-18.631 45.344-145.012-21.507-183.51-176.59-185.742V360c0 20.7-24.3 31.453-39.687 18.164l-176.004-152c-11.071-9.562-11.086-26.753 0-36.328z"></path></svg>
+ Reply</a>				</div>
+			</div>
+		</div>
+		<ul class="children">
+		<div class="comment byuser comment-author-andres bypostauthor odd alt depth-2 parent media"				id="comment-123437">
+							<a class="pull-left" href=" ">
+					<div class="comment-author avatar vcard">
+						<img src="https://secure.gravatar.com/avatar/8aa3a3f99a977a6761bdc05f0bdf1e26?s=64&#038;d=https%3A%2F%2Fi0.wp.com%2Fwww.technollama.co.uk%2Fwp-content%2Fuploads%2F2022%2F05%2Favatar.png%3Ffit%3D59%252C64%26ssl%3D1&#038;r=pg" width="59" height="64" alt="Avatar" class="avatar avatar-64wp-user-avatar wp-user-avatar-64 alignnone photo avatar-default" />					</div>
+				</a>
+						<div class="media-body">
+				<h4 class="media-heading">
+					Andres Guadamuz					<small>
+						&#183; July 31, 2022 at 10:21 am					</small>
+				</h4>
+				<p>The images you have generated? Yes. For other people&#8217;s generations you need permission from OpenAI.</p>
+				<div class="media-footer">
+					<a rel='nofollow' class='comment-reply-link' href='https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright?replytocom=123437#respond' data-commentid="123437" data-postid="12988" data-belowelement="comment-123437" data-respondelement="respond" data-replyto="Reply to Andres Guadamuz" aria-label='Reply to Andres Guadamuz'><svg class="svg-text-color" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="12px" height="12px"><path d="M8.309 189.836L184.313 37.851C199.719 24.546 224 35.347 224 56.015v80.053c160.629 1.839 288 34.032 288 186.258 0 61.441-39.581 122.309-83.333 154.132-13.653 9.931-33.111-2.533-28.077-18.631 45.344-145.012-21.507-183.51-176.59-185.742V360c0 20.7-24.3 31.453-39.687 18.164l-176.004-152c-11.071-9.562-11.086-26.753 0-36.328z"></path></svg>
+ Reply</a>				</div>
+			</div>
+		</div>
+		<ul class="children">
+		<div class="comment even depth-3 parent media"				id="comment-123459">
+							<a class="pull-left" href="http://gravatar.com/matchateanice ">
+					<div class="comment-author avatar vcard">
+						<img src="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/05/avatar.png?fit=59%2C64&#038;ssl=1" width="59" height="64" alt="Avatar" class="avatar avatar-64wp-user-avatar wp-user-avatar-64 alignnone photo avatar-default" />					</div>
+				</a>
+						<div class="media-body">
+				<h4 class="media-heading">
+					<a href='http://gravatar.com/matchateanice' rel='external nofollow ugc' class='url'>matchateanice</a>					<small>
+						&#183; August 10, 2022 at 4:02 pm					</small>
+				</h4>
+				<p>Thanks so much for the reply. The last post makes a really good point. How does someone apply the appropriate credit for these images? I&#8217;m not even sure that, for example, on RedBubble it would be possible to credit as Open AI / your brand name. Knowing how to credit would help many print on demand creators like myself. Any advice would be greatly appreciated. 🙂</p>
+				<div class="media-footer">
+					<a rel='nofollow' class='comment-reply-link' href='https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright?replytocom=123459#respond' data-commentid="123459" data-postid="12988" data-belowelement="comment-123459" data-respondelement="respond" data-replyto="Reply to matchateanice" aria-label='Reply to matchateanice'><svg class="svg-text-color" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="12px" height="12px"><path d="M8.309 189.836L184.313 37.851C199.719 24.546 224 35.347 224 56.015v80.053c160.629 1.839 288 34.032 288 186.258 0 61.441-39.581 122.309-83.333 154.132-13.653 9.931-33.111-2.533-28.077-18.631 45.344-145.012-21.507-183.51-176.59-185.742V360c0 20.7-24.3 31.453-39.687 18.164l-176.004-152c-11.071-9.562-11.086-26.753 0-36.328z"></path></svg>
+ Reply</a>				</div>
+			</div>
+		</div>
+		<ul class="children">
+		<div class="comment odd alt depth-4 media"				id="comment-123472">
+							<a class="pull-left" href=" ">
+					<div class="comment-author avatar vcard">
+						<img src="https://secure.gravatar.com/avatar/483c3e391439f4feb40c03913503605c?s=64&#038;d=https%3A%2F%2Fi0.wp.com%2Fwww.technollama.co.uk%2Fwp-content%2Fuploads%2F2022%2F05%2Favatar.png%3Ffit%3D59%252C64%26ssl%3D1&#038;r=pg" width="59" height="64" alt="Avatar" class="avatar avatar-64wp-user-avatar wp-user-avatar-64 alignnone photo avatar-default" />					</div>
+				</a>
+						<div class="media-body">
+				<h4 class="media-heading">
+					Yurix					<small>
+						&#183; August 15, 2022 at 10:03 am					</small>
+				</h4>
+				<p>You shouldn’t be using and selling these images for profit they’re made by piecing together art from artists that have not been compensated in any way by openai it’s straight up plagiarism and should be illiegal</p>
+				<div class="media-footer">
+									</div>
+			</div>
+		</div>
+		</li><!-- #comment-## -->
+		<div class="comment even depth-4 media"				id="comment-123473">
+							<a class="pull-left" href="http://gravatar.com/matchateanice ">
+					<div class="comment-author avatar vcard">
+						<img src="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/05/avatar.png?fit=59%2C64&#038;ssl=1" width="59" height="64" alt="Avatar" class="avatar avatar-64wp-user-avatar wp-user-avatar-64 alignnone photo avatar-default" />					</div>
+				</a>
+						<div class="media-body">
+				<h4 class="media-heading">
+					<a href='http://gravatar.com/matchateanice' rel='external nofollow ugc' class='url'>matchateanice</a>					<small>
+						&#183; August 15, 2022 at 10:41 am					</small>
+				</h4>
+				<p>Thanks Andres. I will credit Open AI / my brand as you have done in your post here. My brother opened a print on demand store just a month ago and has already made hundreds of dollars. This is great tech!! It&#8217;s going to change the art industry. We will no longer need to hire artists. Looking forward to your next post.</p>
+				<div class="media-footer">
+									</div>
+			</div>
+		</div>
+		</li><!-- #comment-## -->
+		<div class="comment byuser comment-author-andres bypostauthor odd alt depth-4 media"				id="comment-123474">
+							<a class="pull-left" href=" ">
+					<div class="comment-author avatar vcard">
+						<img src="https://secure.gravatar.com/avatar/8aa3a3f99a977a6761bdc05f0bdf1e26?s=64&#038;d=https%3A%2F%2Fi0.wp.com%2Fwww.technollama.co.uk%2Fwp-content%2Fuploads%2F2022%2F05%2Favatar.png%3Ffit%3D59%252C64%26ssl%3D1&#038;r=pg" width="59" height="64" alt="Avatar" class="avatar avatar-64wp-user-avatar wp-user-avatar-64 alignnone photo avatar-default" />					</div>
+				</a>
+						<div class="media-body">
+				<h4 class="media-heading">
+					Andres Guadamuz					<small>
+						&#183; August 15, 2022 at 3:02 pm					</small>
+				</h4>
+				<p>&#8220;You shouldn’t be using and selling these images for profit they’re made by piecing together art from artists that have not been compensated in any way by openai it’s straight up plagiarism and should be illiegal&#8221;</p>
+<p>Read my latest blog post in response to that.</p>
+				<div class="media-footer">
+									</div>
+			</div>
+		</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<div class="comment even depth-3 media"				id="comment-123489">
+							<a class="pull-left" href=" ">
+					<div class="comment-author avatar vcard">
+						<img src="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/05/avatar.png?fit=59%2C64&#038;ssl=1" width="59" height="64" alt="Avatar" class="avatar avatar-64wp-user-avatar wp-user-avatar-64 alignnone photo avatar-default" />					</div>
+				</a>
+						<div class="media-body">
+				<h4 class="media-heading">
+					ryan					<small>
+						&#183; August 16, 2022 at 10:57 pm					</small>
+				</h4>
+				<p>@matchateanice where can i visit your brothers store? do you have a link or search typo to your brothers store?</p>
+				<div class="media-footer">
+					<a rel='nofollow' class='comment-reply-link' href='https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright?replytocom=123489#respond' data-commentid="123489" data-postid="12988" data-belowelement="comment-123489" data-respondelement="respond" data-replyto="Reply to ryan" aria-label='Reply to ryan'><svg class="svg-text-color" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="12px" height="12px"><path d="M8.309 189.836L184.313 37.851C199.719 24.546 224 35.347 224 56.015v80.053c160.629 1.839 288 34.032 288 186.258 0 61.441-39.581 122.309-83.333 154.132-13.653 9.931-33.111-2.533-28.077-18.631 45.344-145.012-21.507-183.51-176.59-185.742V360c0 20.7-24.3 31.453-39.687 18.164l-176.004-152c-11.071-9.562-11.086-26.753 0-36.328z"></path></svg>
+ Reply</a>				</div>
+			</div>
+		</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<div class="comment odd alt thread-odd thread-alt depth-1 media"				id="comment-123438">
+							<a class="pull-left" href="http://gravatar.com/forbiddenera ">
+					<div class="comment-author avatar vcard">
+						<img src="https://secure.gravatar.com/avatar/168745e03a87cea5fecdcca931edb07a?s=64&#038;d=https%3A%2F%2Fi0.wp.com%2Fwww.technollama.co.uk%2Fwp-content%2Fuploads%2F2022%2F05%2Favatar.png%3Ffit%3D59%252C64%26ssl%3D1&#038;r=pg" width="59" height="64" alt="Avatar" class="avatar avatar-64wp-user-avatar wp-user-avatar-64 alignnone photo avatar-default" />					</div>
+				</a>
+						<div class="media-body">
+				<h4 class="media-heading">
+					<a href='http://gravatar.com/forbiddenera' rel='external nofollow ugc' class='url'>forbiddenera</a>					<small>
+						&#183; July 31, 2022 at 5:53 pm					</small>
+				</h4>
+				<p>&#8216;the person who made the arrangements necessary for the work to be created&#8217; to me also sounds like the software developer(s) so potentially could maybe be argued that both the author of the prompt and the developers might have rights. But then again, Photoshop doesn&#8217;t (and probably couldn&#8217;t, assuming it was their goal) assert any rights over anything created with their software by someone.</p>
+<p>DALL-E is a program; it may have been trained on previous inputs but that simply produced differential equations akin to those used in say, a blur effect in Photoshop. The inputs it requires to create an output, the prompt, to me, would be akin to any inputs Photoshop would require to create an output. If you treat it like any other computer program that takes your inputs to create outputs, which is exactly what it is, the outputs should be 100% entirely your creation and copyright, whether &#8216;generated&#8217; or not. Plenty of computer programs &#8216;generate&#8217; some sort of output with various forms of input &#8211; just because the equations here are magnitudes of order larger and more complex, IMHO, does not change what it is.</p>
+<p>Definitely an interesting topic. I feel like, perhaps that aside, with their contract saying basically you can do whatever and we will never assert a (C) claim could potentially void any ability to make such a claim, if not by written law perhaps by precedent set by a case.</p>
+				<div class="media-footer">
+					<a rel='nofollow' class='comment-reply-link' href='https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright?replytocom=123438#respond' data-commentid="123438" data-postid="12988" data-belowelement="comment-123438" data-respondelement="respond" data-replyto="Reply to forbiddenera" aria-label='Reply to forbiddenera'><svg class="svg-text-color" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="12px" height="12px"><path d="M8.309 189.836L184.313 37.851C199.719 24.546 224 35.347 224 56.015v80.053c160.629 1.839 288 34.032 288 186.258 0 61.441-39.581 122.309-83.333 154.132-13.653 9.931-33.111-2.533-28.077-18.631 45.344-145.012-21.507-183.51-176.59-185.742V360c0 20.7-24.3 31.453-39.687 18.164l-176.004-152c-11.071-9.562-11.086-26.753 0-36.328z"></path></svg>
+ Reply</a>				</div>
+			</div>
+		</div>
+		</li><!-- #comment-## -->
+		<div class="comment even thread-even depth-1 parent media"				id="comment-123449">
+							<a class="pull-left" href=" ">
+					<div class="comment-author avatar vcard">
+						<img src="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/05/avatar.png?fit=59%2C64&#038;ssl=1" width="59" height="64" alt="Avatar" class="avatar avatar-64wp-user-avatar wp-user-avatar-64 alignnone photo avatar-default" />					</div>
+				</a>
+						<div class="media-body">
+				<h4 class="media-heading">
+					Matt					<small>
+						&#183; August 7, 2022 at 10:29 am					</small>
+				</h4>
+				<p>Just want to double check. If I got this right, images created from a prompt can be sold on POD sites as prints, t-shirts etc. ?  So if that&#8217;s the case who should be stated as creator ? Is it legal to list the product under your name ?</p>
+<p>It also says: &#8220;You must clearly indicate that images are AI-generated &#8211; or which portions of them are &#8211; by attributing to OpenAI when sharing, whether in public or private.&#8221;  How do one do that and is that mandatory ?</p>
+<p>Also what if someone just takes a screenshot and starts selling your generated images, you can probably not do anything about that or I&#8217;m missing something ?</p>
+<p>Thanks in advance</p>
+				<div class="media-footer">
+					<a rel='nofollow' class='comment-reply-link' href='https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright?replytocom=123449#respond' data-commentid="123449" data-postid="12988" data-belowelement="comment-123449" data-respondelement="respond" data-replyto="Reply to Matt" aria-label='Reply to Matt'><svg class="svg-text-color" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="12px" height="12px"><path d="M8.309 189.836L184.313 37.851C199.719 24.546 224 35.347 224 56.015v80.053c160.629 1.839 288 34.032 288 186.258 0 61.441-39.581 122.309-83.333 154.132-13.653 9.931-33.111-2.533-28.077-18.631 45.344-145.012-21.507-183.51-176.59-185.742V360c0 20.7-24.3 31.453-39.687 18.164l-176.004-152c-11.071-9.562-11.086-26.753 0-36.328z"></path></svg>
+ Reply</a>				</div>
+			</div>
+		</div>
+		<ul class="children">
+		<div class="comment odd alt depth-2 media"				id="comment-123460">
+							<a class="pull-left" href="http://gravatar.com/matchateanice ">
+					<div class="comment-author avatar vcard">
+						<img src="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/05/avatar.png?fit=59%2C64&#038;ssl=1" width="59" height="64" alt="Avatar" class="avatar avatar-64wp-user-avatar wp-user-avatar-64 alignnone photo avatar-default" />					</div>
+				</a>
+						<div class="media-body">
+				<h4 class="media-heading">
+					<a href='http://gravatar.com/matchateanice' rel='external nofollow ugc' class='url'>matchateanice</a>					<small>
+						&#183; August 10, 2022 at 4:03 pm					</small>
+				</h4>
+				<p>Yeah, I would really like to know what others think about these questions too. Would be brilliant to have some answers. Greatly appreciated in advance.</p>
+				<div class="media-footer">
+					<a rel='nofollow' class='comment-reply-link' href='https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright?replytocom=123460#respond' data-commentid="123460" data-postid="12988" data-belowelement="comment-123460" data-respondelement="respond" data-replyto="Reply to matchateanice" aria-label='Reply to matchateanice'><svg class="svg-text-color" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="12px" height="12px"><path d="M8.309 189.836L184.313 37.851C199.719 24.546 224 35.347 224 56.015v80.053c160.629 1.839 288 34.032 288 186.258 0 61.441-39.581 122.309-83.333 154.132-13.653 9.931-33.111-2.533-28.077-18.631 45.344-145.012-21.507-183.51-176.59-185.742V360c0 20.7-24.3 31.453-39.687 18.164l-176.004-152c-11.071-9.562-11.086-26.753 0-36.328z"></path></svg>
+ Reply</a>				</div>
+			</div>
+		</div>
+		</li><!-- #comment-## -->
+		<div class="comment byuser comment-author-andres bypostauthor even depth-2 media"				id="comment-123461">
+							<a class="pull-left" href=" ">
+					<div class="comment-author avatar vcard">
+						<img src="https://secure.gravatar.com/avatar/8aa3a3f99a977a6761bdc05f0bdf1e26?s=64&#038;d=https%3A%2F%2Fi0.wp.com%2Fwww.technollama.co.uk%2Fwp-content%2Fuploads%2F2022%2F05%2Favatar.png%3Ffit%3D59%252C64%26ssl%3D1&#038;r=pg" width="59" height="64" alt="Avatar" class="avatar avatar-64wp-user-avatar wp-user-avatar-64 alignnone photo avatar-default" />					</div>
+				</a>
+						<div class="media-body">
+				<h4 class="media-heading">
+					Andres Guadamuz					<small>
+						&#183; August 10, 2022 at 9:05 pm					</small>
+				</h4>
+				<p>Sorry, had to delete the previous answer as it pertained to the API itself.</p>
+<ul>
+<li>&#8220;Is it legal to list the product under your name ?&#8221;</li>
+</ul>
+<p>You don&#8217;t own the images according to their own terms, so while you can say that you wrote the prompts (and you may own them), the image itself is not yours, you get a licence.</p>
+<ul>
+<li>“You must clearly indicate that images are AI-generated – or which portions of them are – by attributing to OpenAI when sharing, whether in public or private.” How do one do that and is that mandatory ?&#8221;</li>
+</ul>
+<p>It&#8217;s in their terms, you have to comply with the terms to use the service.</p>
+<p>&#8220;Also what if someone just takes a screenshot and starts selling your generated images, you can probably not do anything about that or I’m missing something ?&#8221;</p>
+<p>You can tell OpenAI that someone is using their image, but remember, the images may not even have copyright to begin with.</p>
+				<div class="media-footer">
+					<a rel='nofollow' class='comment-reply-link' href='https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright?replytocom=123461#respond' data-commentid="123461" data-postid="12988" data-belowelement="comment-123461" data-respondelement="respond" data-replyto="Reply to Andres Guadamuz" aria-label='Reply to Andres Guadamuz'><svg class="svg-text-color" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="12px" height="12px"><path d="M8.309 189.836L184.313 37.851C199.719 24.546 224 35.347 224 56.015v80.053c160.629 1.839 288 34.032 288 186.258 0 61.441-39.581 122.309-83.333 154.132-13.653 9.931-33.111-2.533-28.077-18.631 45.344-145.012-21.507-183.51-176.59-185.742V360c0 20.7-24.3 31.453-39.687 18.164l-176.004-152c-11.071-9.562-11.086-26.753 0-36.328z"></path></svg>
+ Reply</a>				</div>
+			</div>
+		</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<div class="comment odd alt thread-odd thread-alt depth-1 media"				id="comment-123470">
+							<a class="pull-left" href=" ">
+					<div class="comment-author avatar vcard">
+						<img src="https://secure.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=64&#038;d=https%3A%2F%2Fi0.wp.com%2Fwww.technollama.co.uk%2Fwp-content%2Fuploads%2F2022%2F05%2Favatar.png%3Ffit%3D59%252C64%26ssl%3D1&#038;r=pg" width="59" height="64" alt="Avatar" class="avatar avatar-64wp-user-avatar wp-user-avatar-64 alignnone photo avatar-default" />					</div>
+				</a>
+						<div class="media-body">
+				<h4 class="media-heading">
+					Anonymous					<small>
+						&#183; August 13, 2022 at 7:11 pm					</small>
+				</h4>
+				<p>Wikipedia scratches their head in confusion</p>
+				<div class="media-footer">
+					<a rel='nofollow' class='comment-reply-link' href='https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright?replytocom=123470#respond' data-commentid="123470" data-postid="12988" data-belowelement="comment-123470" data-respondelement="respond" data-replyto="Reply to Anonymous" aria-label='Reply to Anonymous'><svg class="svg-text-color" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="12px" height="12px"><path d="M8.309 189.836L184.313 37.851C199.719 24.546 224 35.347 224 56.015v80.053c160.629 1.839 288 34.032 288 186.258 0 61.441-39.581 122.309-83.333 154.132-13.653 9.931-33.111-2.533-28.077-18.631 45.344-145.012-21.507-183.51-176.59-185.742V360c0 20.7-24.3 31.453-39.687 18.164l-176.004-152c-11.071-9.562-11.086-26.753 0-36.328z"></path></svg>
+ Reply</a>				</div>
+			</div>
+		</div>
+		</li><!-- #comment-## -->
+		<div class="comment even thread-even depth-1 parent media"				id="comment-123628">
+							<a class="pull-left" href="http://gravatar.com/juliansalvador11 ">
+					<div class="comment-author avatar vcard">
+						<img src="https://secure.gravatar.com/avatar/cdb42bd5b3ea2f2a0b62c6e934f15a32?s=64&#038;d=https%3A%2F%2Fi0.wp.com%2Fwww.technollama.co.uk%2Fwp-content%2Fuploads%2F2022%2F05%2Favatar.png%3Ffit%3D59%252C64%26ssl%3D1&#038;r=pg" width="59" height="64" alt="Avatar" class="avatar avatar-64wp-user-avatar wp-user-avatar-64 alignnone photo avatar-default" />					</div>
+				</a>
+						<div class="media-body">
+				<h4 class="media-heading">
+					<a href='http://gravatar.com/juliansalvador11' rel='external nofollow ugc' class='url'>Julián Ravelo Amaro</a>					<small>
+						&#183; September 26, 2022 at 1:19 pm					</small>
+				</h4>
+				<p>Puedo utilizar las imagenes que genere DALL-E para subirlas a redes sociales?</p>
+				<div class="media-footer">
+					<a rel='nofollow' class='comment-reply-link' href='https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright?replytocom=123628#respond' data-commentid="123628" data-postid="12988" data-belowelement="comment-123628" data-respondelement="respond" data-replyto="Reply to Julián Ravelo Amaro" aria-label='Reply to Julián Ravelo Amaro'><svg class="svg-text-color" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="12px" height="12px"><path d="M8.309 189.836L184.313 37.851C199.719 24.546 224 35.347 224 56.015v80.053c160.629 1.839 288 34.032 288 186.258 0 61.441-39.581 122.309-83.333 154.132-13.653 9.931-33.111-2.533-28.077-18.631 45.344-145.012-21.507-183.51-176.59-185.742V360c0 20.7-24.3 31.453-39.687 18.164l-176.004-152c-11.071-9.562-11.086-26.753 0-36.328z"></path></svg>
+ Reply</a>				</div>
+			</div>
+		</div>
+		<ul class="children">
+		<div class="comment byuser comment-author-andres bypostauthor odd alt depth-2 media"				id="comment-123629">
+							<a class="pull-left" href=" ">
+					<div class="comment-author avatar vcard">
+						<img src="https://secure.gravatar.com/avatar/8aa3a3f99a977a6761bdc05f0bdf1e26?s=64&#038;d=https%3A%2F%2Fi0.wp.com%2Fwww.technollama.co.uk%2Fwp-content%2Fuploads%2F2022%2F05%2Favatar.png%3Ffit%3D59%252C64%26ssl%3D1&#038;r=pg" width="59" height="64" alt="Avatar" class="avatar avatar-64wp-user-avatar wp-user-avatar-64 alignnone photo avatar-default" />					</div>
+				</a>
+						<div class="media-body">
+				<h4 class="media-heading">
+					Andres Guadamuz					<small>
+						&#183; September 26, 2022 at 1:20 pm					</small>
+				</h4>
+				<p>Si, claro se puede.</p>
+				<div class="media-footer">
+					<a rel='nofollow' class='comment-reply-link' href='https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright?replytocom=123629#respond' data-commentid="123629" data-postid="12988" data-belowelement="comment-123629" data-respondelement="respond" data-replyto="Reply to Andres Guadamuz" aria-label='Reply to Andres Guadamuz'><svg class="svg-text-color" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="12px" height="12px"><path d="M8.309 189.836L184.313 37.851C199.719 24.546 224 35.347 224 56.015v80.053c160.629 1.839 288 34.032 288 186.258 0 61.441-39.581 122.309-83.333 154.132-13.653 9.931-33.111-2.533-28.077-18.631 45.344-145.012-21.507-183.51-176.59-185.742V360c0 20.7-24.3 31.453-39.687 18.164l-176.004-152c-11.071-9.562-11.086-26.753 0-36.328z"></path></svg>
+ Reply</a>				</div>
+			</div>
+		</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<div class="pingback even thread-even depth-1 media"				id="comment-123592">
+						<div class="media-body">
+				<h4 class="media-heading">
+					<a href='https://resbla.com/2022/08/31/la-buena-ia/' rel='external nofollow ugc' class='url'>La buena IA - @resbla</a>					<small>
+						&#183; August 31, 2022 at 9:19 am					</small>
+				</h4>
+				<p>[&#8230;] soy experto, pero leyendo artículos cómo este o este, está claro que estamos ante un momento que definirá el futuro de los derechos de autor y [&#8230;]</p>
+				<div class="media-footer">
+					<a rel='nofollow' class='comment-reply-link' href='https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright?replytocom=123592#respond' data-commentid="123592" data-postid="12988" data-belowelement="comment-123592" data-respondelement="respond" data-replyto="Reply to La buena IA - @resbla" aria-label='Reply to La buena IA - @resbla'><svg class="svg-text-color" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="12px" height="12px"><path d="M8.309 189.836L184.313 37.851C199.719 24.546 224 35.347 224 56.015v80.053c160.629 1.839 288 34.032 288 186.258 0 61.441-39.581 122.309-83.333 154.132-13.653 9.931-33.111-2.533-28.077-18.631 45.344-145.012-21.507-183.51-176.59-185.742V360c0 20.7-24.3 31.453-39.687 18.164l-176.004-152c-11.071-9.562-11.086-26.753 0-36.328z"></path></svg>
+ Reply</a>				</div>
+			</div>
+		</div>
+		</li><!-- #comment-## -->
+		<div class="pingback odd alt thread-odd thread-alt depth-1 media"				id="comment-123611">
+						<div class="media-body">
+				<h4 class="media-heading">
+					<a href='https://ingo-hoffmann.com/transformers/' rel='external nofollow ugc' class='url'>Transformers | Ingo Hoffmann</a>					<small>
+						&#183; September 6, 2022 at 11:21 am					</small>
+				</h4>
+				<p>[&#8230;] example, what about copyright rights when systems like DALL-E generate images that use company logos or other protected [&#8230;]</p>
+				<div class="media-footer">
+					<a rel='nofollow' class='comment-reply-link' href='https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright?replytocom=123611#respond' data-commentid="123611" data-postid="12988" data-belowelement="comment-123611" data-respondelement="respond" data-replyto="Reply to Transformers | Ingo Hoffmann" aria-label='Reply to Transformers | Ingo Hoffmann'><svg class="svg-text-color" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="12px" height="12px"><path d="M8.309 189.836L184.313 37.851C199.719 24.546 224 35.347 224 56.015v80.053c160.629 1.839 288 34.032 288 186.258 0 61.441-39.581 122.309-83.333 154.132-13.653 9.931-33.111-2.533-28.077-18.631 45.344-145.012-21.507-183.51-176.59-185.742V360c0 20.7-24.3 31.453-39.687 18.164l-176.004-152c-11.071-9.562-11.086-26.753 0-36.328z"></path></svg>
+ Reply</a>				</div>
+			</div>
+		</div>
+		</li><!-- #comment-## -->
+			</div>
+			<div class="media-body">
+				
+		<div id="respond" class="comment-respond">
+							<h3 id="reply-title" class="comment-reply-title">Leave a Reply					<small><a rel="nofollow" id="cancel-comment-reply-link" href="/dall%C2%B7e-goes-commercial-but-what-about-copyright?utm_source=pocket_mylist#respond" style="display:none;">Cancel reply</a></small>
+				</h3>
+						<form autocomplete="off"  id="commentform" class="comment-form">
+				<iframe
+					title="Comment Form"
+					src="https://jetpack.wordpress.com/jetpack-comment/?blogid=7692069&#038;postid=12988&#038;comment_registration=0&#038;require_name_email=0&#038;stc_enabled=1&#038;stb_enabled=1&#038;show_avatars=1&#038;avatar_default=wp_user_avatar&#038;greeting=Leave+a+Reply&#038;jetpack_comments_nonce=82e3337089&#038;greeting_reply=Leave+a+Reply+to+%25s&#038;color_scheme=light&#038;lang=en_GB&#038;jetpack_version=11.4&#038;show_cookie_consent=10&#038;has_cookie_consent=0&#038;token_key=%3Bnormal%3B&#038;sig=349197fea9a1959841c29cf19060a9bbe2516938#parent=https%3A%2F%2Fwww.technollama.co.uk%2Fdall%25C2%25B7e-goes-commercial-but-what-about-copyright%3Futm_source%3Dpocket_mylist"
+											name="jetpack_remote_comment"
+						style="width:100%; height: 430px; border:0;"
+										class="jetpack_remote_comment"
+					id="jetpack_remote_comment"
+					sandbox="allow-same-origin allow-top-navigation allow-scripts allow-forms allow-popups"
+				>
+									</iframe>
+									<!--[if !IE]><!-->
+					<script>
+						document.addEventListener('DOMContentLoaded', function () {
+							var commentForms = document.getElementsByClassName('jetpack_remote_comment');
+							for (var i = 0; i < commentForms.length; i++) {
+								commentForms[i].allowTransparency = false;
+								commentForms[i].scrolling = 'no';
+							}
+						});
+					</script>
+					<!--<![endif]-->
+							</form>
+		</div>
+
+		
+		<input type="hidden" name="comment_parent" id="comment_parent" value="" />
+
+		<p class="akismet_comment_form_privacy_notice">This site uses Akismet to reduce spam. <a href="https://akismet.com/privacy/" target="_blank" rel="nofollow noopener">Learn how your comment data is processed</a>.</p>							</div>
+		</div>
+	</div>
+</div>
+		</div>
+		</div>	<div class="col-md-3 blog-sidebar-wrapper col-md-offset-1">
+		<aside id="secondary" class="blog-sidebar" role="complementary">
+						<div id="search-1" class="widget widget_search"><h5>Search</h5><form role="search" method="get" class="search-form" action="https://www.technollama.co.uk/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></div><div id="blog_subscription-1" class="widget widget_blog_subscription jetpack_subscription_widget"><h5>Subscribe to Blog via Email</h5>
+			<div class="wp-block-jetpack-subscriptions__container">
+			<form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-1">
+									<div id="subscribe-text"><p>Enter your email address to subscribe to this blog and receive notifications of new posts by email.</p>
+</div>
+																			<p id="subscribe-email">
+						<label id="jetpack-subscribe-label"
+							class="screen-reader-text"
+							for="subscribe-field-blog_subscription-1">
+							Email Address						</label>
+						<input type="email" name="email" required="required"
+																					value=""
+							id="subscribe-field-blog_subscription-1"
+							placeholder="Email Address"
+						/>
+					</p>
+
+					<p id="subscribe-submit"
+											>
+						<input type="hidden" name="action" value="subscribe"/>
+						<input type="hidden" name="source" value="https://www.technollama.co.uk/dall%C2%B7e-goes-commercial-but-what-about-copyright?utm_source=pocket_mylist"/>
+						<input type="hidden" name="sub-type" value="widget"/>
+						<input type="hidden" name="redirect_fragment" value="subscribe-blog-blog_subscription-1"/>
+												<button type="submit"
+															class="wp-block-button__link"
+																					name="jetpack_subscriptions_widget"
+						>
+							Subscribe						</button>
+					</p>
+							</form>
+							<div class="wp-block-jetpack-subscriptions__subscount">
+					Join 10,195 other subscribers.				</div>
+						</div>
+			
+</div><div id="top-posts-2" class="widget widget_top-posts"><h5>Top Posts</h5><div class='widgets-grid-layout no-grav'>
+<div class="widget-grid-view-image"><a href="https://www.technollama.co.uk/dall%c2%b7e-goes-commercial-but-what-about-copyright" title="DALL·E goes commercial, but what about copyright?" class="bump-view" data-bump-view="tp" aria-current="page"><img width="200" height="200" src="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/07/cyberpunk-llama2.png?fit=860%2C860&#038;ssl=1&#038;resize=200%2C200" alt="DALL·E goes commercial, but what about copyright?" data-pin-nopin="true"/></a></div><div class="widget-grid-view-image"><a href="https://www.technollama.co.uk/copyright-infringement-in-artificial-intelligence-art" title="Copyright infringement in artificial intelligence art" class="bump-view" data-bump-view="tp"><img width="200" height="200" src="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/08/kiss.png?fit=512%2C512&#038;ssl=1&#038;resize=200%2C200" alt="Copyright infringement in artificial intelligence art" data-pin-nopin="true"/></a></div><div class="widget-grid-view-image"><a href="https://www.technollama.co.uk/the-ai-revolution-is-now-open-source" title="The AI revolution is now open source" class="bump-view" data-bump-view="tp"><img width="200" height="200" src="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/09/swordartonlineep25pic01.jpg?fit=1200%2C675&#038;ssl=1&#038;resize=200%2C200" alt="The AI revolution is now open source" data-pin-nopin="true"/></a></div><div class="widget-grid-view-image"><a href="https://www.technollama.co.uk/do-bored-apes-have-a-copyright-problem" title="Do Bored Apes have a copyright problem?" class="bump-view" data-bump-view="tp"><img width="200" height="200" src="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/08/bored-apes.jpeg?fit=1200%2C800&#038;ssl=1&#038;resize=200%2C200" alt="Do Bored Apes have a copyright problem?" data-pin-nopin="true"/></a></div><div class="widget-grid-view-image"><a href="https://www.technollama.co.uk/the-curious-case-of-technoviking" title="The curious case of Technoviking" class="bump-view" data-bump-view="tp"><img width="200" height="200" src="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2015/03/1358863093-techno-viking.jpg?fit=640%2C579&#038;ssl=1&#038;resize=200%2C200" alt="The curious case of Technoviking" data-pin-nopin="true"/></a></div></div>
+</div><div id="rss_links-3" class="widget widget_rss_links"><h5>RSS</h5><ul><li><a target="_self" href="https://www.technollama.co.uk/feed" title="Subscribe to posts">RSS – Posts</a></li></ul>
+</div>					</aside><!-- .sidebar .widget-area -->
+	</div>
+			</div>
+</article>
+
+		</div>
+	</div>
+</div>
+
+			<div class="section related-posts">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<h2 class="hestia-title text-center">Related Posts</h2>
+							<div class="row">
+																	<div class="col-md-4">
+										<div class="card card-blog">
+																							<div class="card-image">
+													<a href="https://www.technollama.co.uk/the-ai-revolution-is-now-open-source" title="The AI revolution is now open source">
+														<img width="360" height="240" src="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/09/swordartonlineep25pic01.jpg?resize=360%2C240&amp;ssl=1" class="attachment-hestia-blog size-hestia-blog wp-post-image" alt="" loading="lazy" srcset="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/09/swordartonlineep25pic01.jpg?resize=360%2C240&amp;ssl=1 360w, https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/09/swordartonlineep25pic01.jpg?zoom=2&amp;resize=360%2C240&amp;ssl=1 720w, https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/09/swordartonlineep25pic01.jpg?zoom=3&amp;resize=360%2C240&amp;ssl=1 1080w" sizes="(max-width: 360px) 100vw, 360px" data-attachment-id="13132" data-permalink="https://www.technollama.co.uk/the-ai-revolution-is-now-open-source/swordartonlineep25pic01" data-orig-file="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/09/swordartonlineep25pic01.jpg?fit=1280%2C720&amp;ssl=1" data-orig-size="1280,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="swordartonlineep25pic01" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/09/swordartonlineep25pic01.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/09/swordartonlineep25pic01.jpg?fit=750%2C422&amp;ssl=1" />													</a>
+												</div>
+																						<div class="content">
+												<h6 class="category text-info"><a href="https://www.technollama.co.uk/category/artificial-intelligence" title="View all posts in Artificial intelligence" >Artificial intelligence</a> </h6>
+												<h4 class="card-title">
+													<a class="blog-item-title-link" href="https://www.technollama.co.uk/the-ai-revolution-is-now-open-source" title="The AI revolution is now open source" rel="bookmark">
+														The AI revolution is now open source													</a>
+												</h4>
+												<p class="card-description">One of my favourite anime series of all time is the first season of Sword Art Online. It&#8217;s a story about your typical massive multiplayer online role-playing game (MMORPG), an earlier Metaverse to all of<a class="moretag" href="https://www.technollama.co.uk/the-ai-revolution-is-now-open-source"> Read more&hellip;</a></p>
+											</div>
+										</div>
+									</div>
+																	<div class="col-md-4">
+										<div class="card card-blog">
+																							<div class="card-image">
+													<a href="https://www.technollama.co.uk/do-bored-apes-have-a-copyright-problem" title="Do Bored Apes have a copyright problem?">
+														<img width="360" height="240" src="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/08/bored-apes.jpeg?resize=360%2C240&amp;ssl=1" class="attachment-hestia-blog size-hestia-blog wp-post-image" alt="" loading="lazy" srcset="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/08/bored-apes.jpeg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/08/bored-apes.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/08/bored-apes.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/08/bored-apes.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/08/bored-apes.jpeg?resize=360%2C240&amp;ssl=1 360w" sizes="(max-width: 360px) 100vw, 360px" data-attachment-id="13105" data-permalink="https://www.technollama.co.uk/do-bored-apes-have-a-copyright-problem/bored-apes" data-orig-file="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/08/bored-apes.jpeg?fit=1200%2C800&amp;ssl=1" data-orig-size="1200,800" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="bored-apes" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/08/bored-apes.jpeg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/08/bored-apes.jpeg?fit=750%2C500&amp;ssl=1" />													</a>
+												</div>
+																						<div class="content">
+												<h6 class="category text-info"><a href="https://www.technollama.co.uk/category/nfts" title="View all posts in NFTs" >NFTs</a> </h6>
+												<h4 class="card-title">
+													<a class="blog-item-title-link" href="https://www.technollama.co.uk/do-bored-apes-have-a-copyright-problem" title="Do Bored Apes have a copyright problem?" rel="bookmark">
+														Do Bored Apes have a copyright problem?													</a>
+												</h4>
+												<p class="card-description">I&#8217;ve been catching up with the ongoing case of Yuga Labs v Ryder Ripps. This case involves conceptual artist Ryder Ripps, and Yuga Labs, the makers of the Bored Ape Yacht Club (BAYC) NFT collection,<a class="moretag" href="https://www.technollama.co.uk/do-bored-apes-have-a-copyright-problem"> Read more&hellip;</a></p>
+											</div>
+										</div>
+									</div>
+																	<div class="col-md-4">
+										<div class="card card-blog">
+																							<div class="card-image">
+													<a href="https://www.technollama.co.uk/copyright-infringement-in-artificial-intelligence-art" title="Copyright infringement in artificial intelligence art">
+														<img width="360" height="240" src="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/08/kiss.png?resize=360%2C240&amp;ssl=1" class="attachment-hestia-blog size-hestia-blog wp-post-image" alt="" loading="lazy" data-attachment-id="13042" data-permalink="https://www.technollama.co.uk/copyright-infringement-in-artificial-intelligence-art/kiss" data-orig-file="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/08/kiss.png?fit=512%2C512&amp;ssl=1" data-orig-size="512,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="kiss" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/08/kiss.png?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/www.technollama.co.uk/wp-content/uploads/2022/08/kiss.png?fit=512%2C512&amp;ssl=1" />													</a>
+												</div>
+																						<div class="content">
+												<h6 class="category text-info"><a href="https://www.technollama.co.uk/category/artificial-intelligence" title="View all posts in Artificial intelligence" >Artificial intelligence</a> </h6>
+												<h4 class="card-title">
+													<a class="blog-item-title-link" href="https://www.technollama.co.uk/copyright-infringement-in-artificial-intelligence-art" title="Copyright infringement in artificial intelligence art" rel="bookmark">
+														Copyright infringement in artificial intelligence art													</a>
+												</h4>
+												<p class="card-description">As AI creative tools are becoming widespread, the question of copyright of AI creations has also taken centre-stage. But while copyright nerds obsess over the authorship question, the issue that is getting more attention from<a class="moretag" href="https://www.technollama.co.uk/copyright-infringement-in-artificial-intelligence-art"> Read more&hellip;</a></p>
+											</div>
+										</div>
+									</div>
+																							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="footer-wrapper">
+						<footer class="footer footer-black footer-big">
+						<div class="container">
+								
+		<div class="content">
+			<div class="row">
+				<div class="col-md-4"><div id="text-16" class="widget widget_text"><h5>Licence</h5>			<div class="textwidget"><p><span style="color: white;"><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license"><img style="border-width: 0;" src="https://i0.wp.com/i.creativecommons.org/l/by-nc-sa/4.0/88x31.png?w=750&#038;ssl=1" alt="Creative Commons License" data-recalc-dims="1" /></a><br />
+TechnoLlama by <a href="https://www.technollama.co.uk" rel="cc:attributionURL">Andres Guadamuz</a> is licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.</span></p>
+</div>
+		</div></div><div class="col-md-4"><div id="text-14" class="widget widget_text">			<div class="textwidget"><p><span id="siteseal"><script async type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=NODLyzyrk2LKBeuurDs0znnOa1ovSqHSuBhrkU9qvQzzrEL5LpAwt9Us6Itm"></script></span></p>
+</div>
+		</div></div><div class="col-md-4"><div id="meta-2" class="widget widget_meta"><h5>Meta</h5>
+		<ul>
+						<li><a href="https://www.technollama.co.uk/wp-login.php">Log in</a></li>
+			<li><a href="https://www.technollama.co.uk/feed">Entries feed</a></li>
+			<li><a href="https://www.technollama.co.uk/comments/feed">Comments feed</a></li>
+
+			<li><a href="https://en-gb.wordpress.org/">WordPress.org</a></li>
+		</ul>
+
+		</div></div>			</div>
+		</div>
+		<hr/>
+										<div class="hestia-bottom-footer-content"><ul class="footer-menu pull-left"><li class="page_item page-item-2"><a href="https://www.technollama.co.uk/about">About</a></li>
+<li class="page_item page-item-4643"><a href="https://www.technollama.co.uk/book">Book</a></li>
+<li class="page_item page-item-10265"><a href="https://www.technollama.co.uk/gallery">Gallery</a></li>
+<li class="page_item page-item-1311"><a href="https://www.technollama.co.uk/publications">Publications</a></li>
+</ul>
+<div class="copyright pull-right">Hestia | Developed by <a href="https://themeisle.com" rel="nofollow">ThemeIsle</a></div></div>			</div>
+					</footer>
+				</div>
+	</div>
+<!-- Enter your scripts here -->	<div style="display:none">
+			<div class="grofile-hash-map-576e56f374266a21e1bddefac405df3a">
+		</div>
+		<div class="grofile-hash-map-5fda29665afeb70ccda2677943148d2c">
+		</div>
+		<div class="grofile-hash-map-ec4973ad9274df4a219174fda2382c16">
+		</div>
+		<div class="grofile-hash-map-8aa3a3f99a977a6761bdc05f0bdf1e26">
+		</div>
+		<div class="grofile-hash-map-75acd56984d1bb21d80987d0a7b53b01">
+		</div>
+		<div class="grofile-hash-map-1f5ec89d9b09f200bc2251e09d8ed755">
+		</div>
+		<div class="grofile-hash-map-73abc981fa6a17ccf85990339276d123">
+		</div>
+		<div class="grofile-hash-map-e7ec23c44ee0e7e499390ac244dd8772">
+		</div>
+		<div class="grofile-hash-map-8c4d3ce25a4ee0e4d3ff0d37f8cca757">
+		</div>
+		<div class="grofile-hash-map-168745e03a87cea5fecdcca931edb07a">
+		</div>
+		<div class="grofile-hash-map-77cc48fd08ded8182d9f875e00edf3f3">
+		</div>
+		<div class="grofile-hash-map-ad516503a11cd5ca435acc9bb6523536">
+		</div>
+		<div class="grofile-hash-map-cdb42bd5b3ea2f2a0b62c6e934f15a32">
+		</div>
+		</div>
+				<div id="jp-carousel-loading-overlay">
+			<div id="jp-carousel-loading-wrapper">
+				<span id="jp-carousel-library-loading">&nbsp;</span>
+			</div>
+		</div>
+		<div class="jp-carousel-overlay" style="display: none;">
+
+		<div class="jp-carousel-container">
+			<!-- The Carousel Swiper -->
+			<div
+				class="jp-carousel-wrap swiper-container jp-carousel-swiper-container jp-carousel-transitions"
+				itemscope
+				itemtype="https://schema.org/ImageGallery">
+				<div class="jp-carousel swiper-wrapper"></div>
+				<div class="jp-swiper-button-prev swiper-button-prev">
+					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<mask id="maskPrev" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="9" height="12">
+							<path d="M16.2072 16.59L11.6496 12L16.2072 7.41L14.8041 6L8.8335 12L14.8041 18L16.2072 16.59Z" fill="white"/>
+						</mask>
+						<g mask="url(#maskPrev)">
+							<rect x="0.579102" width="23.8823" height="24" fill="#FFFFFF"/>
+						</g>
+					</svg>
+				</div>
+				<div class="jp-swiper-button-next swiper-button-next">
+					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<mask id="maskNext" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="8" height="12">
+							<path d="M8.59814 16.59L13.1557 12L8.59814 7.41L10.0012 6L15.9718 12L10.0012 18L8.59814 16.59Z" fill="white"/>
+						</mask>
+						<g mask="url(#maskNext)">
+							<rect x="0.34375" width="23.8822" height="24" fill="#FFFFFF"/>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<!-- The main close buton -->
+			<div class="jp-carousel-close-hint">
+				<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<mask id="maskClose" mask-type="alpha" maskUnits="userSpaceOnUse" x="5" y="5" width="15" height="14">
+						<path d="M19.3166 6.41L17.9135 5L12.3509 10.59L6.78834 5L5.38525 6.41L10.9478 12L5.38525 17.59L6.78834 19L12.3509 13.41L17.9135 19L19.3166 17.59L13.754 12L19.3166 6.41Z" fill="white"/>
+					</mask>
+					<g mask="url(#maskClose)">
+						<rect x="0.409668" width="23.8823" height="24" fill="#FFFFFF"/>
+					</g>
+				</svg>
+			</div>
+			<!-- Image info, comments and meta -->
+			<div class="jp-carousel-info">
+				<div class="jp-carousel-info-footer">
+					<div class="jp-carousel-pagination-container">
+						<div class="jp-swiper-pagination swiper-pagination"></div>
+						<div class="jp-carousel-pagination"></div>
+					</div>
+					<div class="jp-carousel-photo-title-container">
+						<h2 class="jp-carousel-photo-caption"></h2>
+					</div>
+					<div class="jp-carousel-photo-icons-container">
+						<a href="#" class="jp-carousel-icon-btn jp-carousel-icon-info" aria-label="Toggle photo metadata visibility">
+							<span class="jp-carousel-icon">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="maskInfo" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="21" height="20">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M12.7537 2C7.26076 2 2.80273 6.48 2.80273 12C2.80273 17.52 7.26076 22 12.7537 22C18.2466 22 22.7046 17.52 22.7046 12C22.7046 6.48 18.2466 2 12.7537 2ZM11.7586 7V9H13.7488V7H11.7586ZM11.7586 11V17H13.7488V11H11.7586ZM4.79292 12C4.79292 16.41 8.36531 20 12.7537 20C17.142 20 20.7144 16.41 20.7144 12C20.7144 7.59 17.142 4 12.7537 4C8.36531 4 4.79292 7.59 4.79292 12Z" fill="white"/>
+									</mask>
+									<g mask="url(#maskInfo)">
+										<rect x="0.8125" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+							</span>
+						</a>
+												<a href="#" class="jp-carousel-icon-btn jp-carousel-icon-comments" aria-label="Toggle photo comments visibility">
+							<span class="jp-carousel-icon">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="maskComments" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="21" height="20">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M4.3271 2H20.2486C21.3432 2 22.2388 2.9 22.2388 4V16C22.2388 17.1 21.3432 18 20.2486 18H6.31729L2.33691 22V4C2.33691 2.9 3.2325 2 4.3271 2ZM6.31729 16H20.2486V4H4.3271V18L6.31729 16Z" fill="white"/>
+									</mask>
+									<g mask="url(#maskComments)">
+										<rect x="0.34668" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+
+								<span class="jp-carousel-has-comments-indicator" aria-label="This image has comments."></span>
+							</span>
+						</a>
+											</div>
+				</div>
+				<div class="jp-carousel-info-extra">
+					<div class="jp-carousel-info-content-wrapper">
+						<div class="jp-carousel-photo-title-container">
+							<h2 class="jp-carousel-photo-title"></h2>
+						</div>
+						<div class="jp-carousel-comments-wrapper">
+															<div id="jp-carousel-comments-loading">
+									<span>Loading Comments...</span>
+								</div>
+								<div class="jp-carousel-comments"></div>
+								<div id="jp-carousel-comment-form-container">
+									<span id="jp-carousel-comment-form-spinner">&nbsp;</span>
+									<div id="jp-carousel-comment-post-results"></div>
+																														<form id="jp-carousel-comment-form">
+												<label for="jp-carousel-comment-form-comment-field" class="screen-reader-text">Write a Comment...</label>
+												<textarea
+													name="comment"
+													class="jp-carousel-comment-form-field jp-carousel-comment-form-textarea"
+													id="jp-carousel-comment-form-comment-field"
+													placeholder="Write a Comment..."
+												></textarea>
+												<div id="jp-carousel-comment-form-submit-and-info-wrapper">
+													<div id="jp-carousel-comment-form-commenting-as">
+																													<fieldset>
+																<label for="jp-carousel-comment-form-email-field">Email</label>
+																<input type="text" name="email" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-email-field" />
+															</fieldset>
+															<fieldset>
+																<label for="jp-carousel-comment-form-author-field">Name</label>
+																<input type="text" name="author" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-author-field" />
+															</fieldset>
+															<fieldset>
+																<label for="jp-carousel-comment-form-url-field">Website</label>
+																<input type="text" name="url" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-url-field" />
+															</fieldset>
+																											</div>
+													<input
+														type="submit"
+														name="submit"
+														class="jp-carousel-comment-form-button"
+														id="jp-carousel-comment-form-button-submit"
+														value="Post Comment" />
+												</div>
+											</form>
+																											</div>
+													</div>
+						<div class="jp-carousel-image-meta">
+							<div class="jp-carousel-title-and-caption">
+								<div class="jp-carousel-photo-info">
+									<h3 class="jp-carousel-caption" itemprop="caption description"></h3>
+								</div>
+
+								<div class="jp-carousel-photo-description"></div>
+							</div>
+							<ul class="jp-carousel-image-exif" style="display: none;"></ul>
+							<a class="jp-carousel-image-download" target="_blank" style="display: none;">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="3" y="3" width="19" height="18">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M5.84615 5V19H19.7775V12H21.7677V19C21.7677 20.1 20.8721 21 19.7775 21H5.84615C4.74159 21 3.85596 20.1 3.85596 19V5C3.85596 3.9 4.74159 3 5.84615 3H12.8118V5H5.84615ZM14.802 5V3H21.7677V10H19.7775V6.41L9.99569 16.24L8.59261 14.83L18.3744 5H14.802Z" fill="white"/>
+									</mask>
+									<g mask="url(#mask0)">
+										<rect x="0.870605" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+								<span class="jp-carousel-download-text"></span>
+							</a>
+							<div class="jp-carousel-image-map" style="display: none;"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		</div>
+		
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/www.technollama.co.uk\/dall%c2%b7e-goes-commercial-but-what-about-copyright":12988};
+	</script>
+				<link rel='stylesheet' id='font-awesome-5-all-css'  href='https://www.technollama.co.uk/wp-content/themes/hestia-pro/assets/font-awesome/css/all.min.css?ver=1.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css'  href='https://www.technollama.co.uk/wp-content/themes/hestia-pro/assets/font-awesome/css/v4-shims.min.css?ver=1.0.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/11.4/_inc/build/photon/photon.min.js' id='jetpack-photon-js'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=202240' id='grofiles-cards-js'></script>
+<script type='text/javascript' id='wpgroho-js-extra'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/11.4/modules/wpgroho.js' id='wpgroho-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.0.2/wp-includes/js/comment-reply.min.js' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://www.technollama.co.uk/wp-content/themes/hestia-pro/assets/bootstrap/js/bootstrap.min.js?ver=1.0.2' id='jquery-bootstrap-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/6.0.2/wp-includes/js/jquery/ui/core.min.js' id='jquery-ui-core-js'></script>
+<script type='text/javascript' id='hestia_scripts-js-extra'>
+/* <![CDATA[ */
+var requestpost = {"ajaxurl":"https:\/\/www.technollama.co.uk\/wp-admin\/admin-ajax.php","disable_autoslide":"","masonry":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.technollama.co.uk/wp-content/themes/hestia-pro/assets/js/script.min.js?ver=3.0.24' id='hestia_scripts-js'></script>
+<script type='text/javascript' id='jetpack-carousel-js-extra'>
+/* <![CDATA[ */
+var jetpackSwiperLibraryPath = {"url":"https:\/\/www.technollama.co.uk\/wp-content\/plugins\/jetpack\/_inc\/build\/carousel\/swiper-bundle.min.js"};
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/www.technollama.co.uk\/wp-admin\/admin-ajax.php","nonce":"b0cade98dd","display_exif":"1","display_comments":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"0","login_url":"https:\/\/www.technollama.co.uk\/wp-login.php?redirect_to=https%3A%2F%2Fwww.technollama.co.uk%2Fdall%25c2%25b7e-goes-commercial-but-what-about-copyright","blog_id":"1","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/11.4/_inc/build/carousel/jetpack-carousel.min.js' id='jetpack-carousel-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/11.4/_inc/build/likes/queuehandler.min.js' id='jetpack_likes_queuehandler-js'></script>
+<script defer type='text/javascript' src='https://www.technollama.co.uk/wp-content/plugins/akismet/_inc/akismet-frontend.js?ver=1664393457' id='akismet-frontend-js'></script>
+<script type='text/javascript' id='sharing-js-js-extra'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/11.4/_inc/build/sharedaddy/sharing.min.js' id='sharing-js-js'></script>
+<script type='text/javascript' id='sharing-js-js-after'>
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-tumblr' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-tumblr' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomtumblr', 'menubar=1,resizable=1,width=450,height=450' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-facebook' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-facebook' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-linkedin' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-linkedin' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomlinkedin', 'menubar=1,resizable=1,width=580,height=450' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-twitter' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-twitter' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+						return false;
+					}
+				} );
+			} )();
+</script>
+	<iframe src='https://widgets.wp.com/likes/master.html?ver=202240#ver=202240&#038;lang=en-gb' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+	<div id='likes-other-gravatars'><div class="likes-text"><span>%d</span> bloggers like this:</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+	
+		<!--[if IE]>
+		<script type="text/javascript">
+			if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+				// window.location.reload() doesn't respect the Hash in IE
+				window.location.hash = window.location.hash;
+			}
+		</script>
+		<![endif]-->
+		<script type="text/javascript">
+			(function () {
+				var comm_par_el = document.getElementById( 'comment_parent' ),
+					comm_par = ( comm_par_el && comm_par_el.value ) ? comm_par_el.value : '',
+					frame = document.getElementById( 'jetpack_remote_comment' ),
+					tellFrameNewParent;
+
+				tellFrameNewParent = function () {
+					if ( comm_par ) {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=7692069&postid=12988&comment_registration=0&require_name_email=0&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=wp_user_avatar&greeting=Leave+a+Reply&jetpack_comments_nonce=82e3337089&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_GB&jetpack_version=11.4&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=349197fea9a1959841c29cf19060a9bbe2516938#parent=https%3A%2F%2Fwww.technollama.co.uk%2Fdall%25C2%25B7e-goes-commercial-but-what-about-copyright%3Futm_source%3Dpocket_mylist" + '&replytocom=' + parseInt( comm_par, 10 ).toString();
+					} else {
+						frame.src = "https://jetpack.wordpress.com/jetpack-comment/?blogid=7692069&postid=12988&comment_registration=0&require_name_email=0&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=wp_user_avatar&greeting=Leave+a+Reply&jetpack_comments_nonce=82e3337089&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en_GB&jetpack_version=11.4&show_cookie_consent=10&has_cookie_consent=0&token_key=%3Bnormal%3B&sig=349197fea9a1959841c29cf19060a9bbe2516938#parent=https%3A%2F%2Fwww.technollama.co.uk%2Fdall%25C2%25B7e-goes-commercial-but-what-about-copyright%3Futm_source%3Dpocket_mylist";
+					}
+				};
+
+				
+				if ( 'undefined' !== typeof addComment ) {
+					addComment._Jetpack_moveForm = addComment.moveForm;
+
+					addComment.moveForm = function ( commId, parentId, respondId, postId ) {
+						var returnValue = addComment._Jetpack_moveForm( commId, parentId, respondId, postId ),
+							cancelClick, cancel;
+
+						if ( false === returnValue ) {
+							cancel = document.getElementById( 'cancel-comment-reply-link' );
+							cancelClick = cancel.onclick;
+							cancel.onclick = function () {
+								var cancelReturn = cancelClick.call( this );
+								if ( false !== cancelReturn ) {
+									return cancelReturn;
+								}
+
+								if ( ! comm_par ) {
+									return cancelReturn;
+								}
+
+								comm_par = 0;
+
+								tellFrameNewParent();
+
+								return cancelReturn;
+							};
+						}
+
+						if ( comm_par == parentId ) {
+							return returnValue;
+						}
+
+						comm_par = parentId;
+
+						tellFrameNewParent();
+
+						return returnValue;
+					};
+				}
+
+				
+				// Do the post message bit after the dom has loaded.
+				document.addEventListener( 'DOMContentLoaded', function () {
+					var iframe_url = "https:\/\/jetpack.wordpress.com";
+					if ( window.postMessage ) {
+						if ( document.addEventListener ) {
+							window.addEventListener( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								frame.style.height = event.data + 'px';
+							});
+						} else if ( document.attachEvent ) {
+							window.attachEvent( 'message', function ( event ) {
+								var origin = event.origin.replace( /^http:\/\//i, 'https://' );
+								if ( iframe_url.replace( /^http:\/\//i, 'https://' ) !== origin ) {
+									return;
+								}
+								frame.style.height = event.data + 'px';
+							});
+						}
+					}
+				})
+
+			})();
+		</script>
+
+		<script src='https://stats.wp.com/e-202240.js' defer></script>
+<script>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:11.4',blog:'7692069',post:'12988',tz:'1',srv:'www.technollama.co.uk'} ]);
+	_stq.push([ 'clickTrackerInit', '7692069', '12988' ]);
+</script>
+</body>
+<script>'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'},{'ap':'cpsh'},{'server':'n3plcpnl0300'},{'dcenter':'n3'},{'id':'5825491'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src='https://img1.wsimg.com/traffic-assets/js/tccl.min.js'></script><script src='https://img1.wsimg.com/traffic-assets/js/tccl-tti.min.js' onload='window.tti.calculateTTI()'></script></html>
+
+<!-- Dynamic page generated in 0.284 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2022-10-08 09:55:51 -->

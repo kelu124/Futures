@@ -1,0 +1,1302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+        <!-- Basic Page Needs ================================================== -->
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+        <!-- title is about 20 percent of search results, most important element. Include keywords to provide search context -->
+	<title>DEF CON&reg; Hacking Conference Home</title>
+
+        <!-- Description is next most imporatant at about 15 percent of search, also include keywords. Shos up under title sometimes -->
+	<meta name="description" content="The largest hacking and security conference with presentations, workshops, contests, villages and the premier Capture The Flag Contest." />
+
+        <meta name="author" content="The Dark Tangent" />
+
+	<meta name="copyright" content="DEF CON and related logos are Registered Trade Marks of DEF CON Communications, Inc." />
+
+        <!-- Mobile Specific Metas ================================================== -->
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        <!-- Favicons ================================================== -->
+        <link rel="icon" href="/favicon.ico" />
+
+        <!-- Open Graph https://ogp.me/================================================== -->
+        <meta property="og:locale" content="en_US" />
+        <meta property="og:title" content="defcon.org" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://defcon.org/" />
+        <meta property="og:image" content="https://defcon.org/images/logos/DEFCON-logo.webp" />
+        <meta property="og:image:secure_url" content="https://defcon.org/images/logos/DEFCON-logo.webp" />
+        <meta property="og:image:type" content="image/webp" />
+        <meta property="og:image:width" content="200" />
+        <meta property="og:image:height" content="200" />
+        <meta property="og:image:alt" content="The DEF CON logo" />
+        <meta property="og:description" content="The largest hacking and security conference with presentations, workshops, contests, villages and the premier Capture The Flag Contest." />
+
+        <!-- Twitter =============================================================================== -->
+        <!-- https://developer.twitter.com/en/docs/twitter-for-websites/cards/guides/getting-started -->
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@defcon" />
+        <meta name="twitter:creator" content="@thedarktangent" />
+        <!-- Valid card types are 'app', 'player', 'summary' and 'summary_large_image'. -->
+
+        <!-- Bing =============================================================================== -->
+        <!-- max-snippet -1 unlimited, max characters in a text snippit. 0 disables, no snippets  -->
+        <!-- max-image-preview none = no image preview, standard, large. Large implies standard   -->
+        <!-- max-video-preview -1 = any length preview, 0 disables preview, in seconds            -->
+        <!-- noindex = don't index the page. nofollow = do not follow out links from the site     -->
+        <!-- noarchive or nocache = Do not store a cached copy of what was indexed                -->
+        <!-- noodg = Don't use description extracted from OpenDirectory Project (http://dmoz.org) -->
+        <!-- nosnippet = Do not show a description nor a preview thumbnail (were applicable)      -->
+
+        <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1, index, follow" />
+
+
+
+	<!-- CSS ================================================== -->
+	<link rel="stylesheet" href="html/dc-css/base.css">
+	<link rel="stylesheet" href="html/dc-css/skeleton.css">
+	<link rel="stylesheet" href="html/dc-css/layout.css">
+
+	<!-- Favicons ================================================== -->
+	<link rel="icon" href="/images/favicon.ico" />
+	<link rel="apple-touch-icon" href="/images/apple-touch-icon.png" /> 
+	<link rel="apple-touch-icon" sizes="72x72" href="/images/apple-touch-icon-72x72.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="/images/apple-touch-icon-114x114.png" />
+   	<link rel="apple-touch-icon" sizes="144x144" href="/images/apple-touch-icon-retina.png" /> 
+</head>
+<body>	
+
+
+<div class="container">
+
+
+    
+
+<div id="skiptocontent"><a href="#maincontent">skip to main content</a></div>
+
+<header class="sixteen columns header">
+
+ <h1>DEF CON Hacking Conference</h1>
+ <h2>Home</h2> 
+
+
+<nav class="sixteen columns navHolder alpha">
+    
+    <ul id="firstItem" class="nav">
+        <li><a href="/index.html">Home</a></li>
+    </ul>
+    <ul id="secItem" class="nav">
+        <li><a href="/html/links/dc-news.html">Recent News</a></li>
+    </ul>
+    <ul id="thirdItem" class="nav">
+        <li class="multi"><a href="#">Archives &raquo;</a>
+            <ul class="subNav">
+                <li><a href="/html/links/dc-archives.html">Archives By Show</a></li>
+                        <li><a href="/html/links/dc-ctf.html">CTF Archive</a></li>
+                		<li><a href="/html/links/dc-tools.html">Tools Released</a></li>
+                		<li><a href="/html/links/dc_press/dc_press.html">Press Archives</a></li>
+                		<li><a href="/html/links/dc-video.html">Other Video</a></li>
+            </ul>
+        </li>
+    </ul>
+     <ul id="fourthItem" class="nav"> 
+     	<li class="multi"><a href="/html/links/dc-about.html">About &raquo;</a>
+        	<ul class="subNav">
+     			<li><a href="/html/links/dtangent.html">The Dark Tangent</a></li>
+                <li><a href="/html/links/dc-goons.html">Goons</a></li>
+                <li><a href="/html/links/dc-goon-hof.html">Goon Hall of Fame</a></li>
+                <li><a href="/html/links/dc-faq/dc-faq.html">FAQ</a></li>
+                <li><a href="/html/links/dc-policy.html">Policies</a></li>
+                <li><a href="/html/links/dc-contact.html">Contact</a></li>
+                <li><a href="/html/links/dc-black-badge.html">Black Badge Hall of Fame</a></li>
+            </ul>
+        </li>
+    </ul>
+    <ul id="fifthItem" class="nav">
+        <li class="multi"><a href="#">Community &raquo;</a>
+        	<ul class="subNav">
+                <li><a href="https://discord.gg/DEFCON">DEF CON Discord</a></li>
+            	<li><a href="https://defcongroups.org/">DEF CON Groups</a></li>
+                <li><a href="https://forum.defcon.org/">DEF CON Forums</a></li>
+            </ul>
+      </li>
+    </ul>
+
+    <ul id="sixthItem" class="nav">
+        <li class="multi"><a href="#">Resources &raquo;</a>
+<ul class="subNav">
+
+                <li><a href="https://media.defcon.org/">Media Server</a></li>
+                <li><a href="/html/links/dc-torrent.html">File Downloads</a></li>
+                <li><a href="/html/links/dc-speakerscorner.html">Speaker's Corner</a></li>
+                <li><a href="/html/links/book-list.html">Reading List</a></li>
+                <li><a href="/html/links/movie-list.html">Movie List</a></li>
+                <li><a href="/html/links/mailing-lists.html">Hacker Mailing Lists</a></li>
+                <li><a href="/html/links/links-o-rama.html">Sites We Like</a></li>
+            </ul>
+        </li>
+    </ul>
+    <ul id="lastItem" class="nav">
+		<li class="multi"><a href=""><span class="callStatusPending">SUBMIT!</span> &raquo;</a>        	
+			<ul class="subNav">
+                <li><a href="/html/defcon-30/dc-30-cfp.html">Call for Papers</a></li>
+                <li><a href="/html/defcon-30/dc-30-cfw.html">Call for Workshops</a></li>
+                <li><a href="/html/defcon-30/dc-30-cfdl.html">Call for Demo Labs</a></li>
+                <li><a href="/html/defcon-30/dc-30-cfv.html">Call for Villages</a></li>
+                <li><a href="/html/defcon-30/dc-30-cfce.html">Call for Contests &amp; Events</a></li>
+            </ul>
+        </li>
+    </ul>
+    
+</nav>
+     
+  
+    
+    
+</header>
+
+	
+<div class="sixteen columns guideNav" id="maincontent">
+
+
+  
+  <ul class="four columns guide alpha">
+    <li class="guidelink">
+		<ul class="useCase" id="dcLogo">
+            <li>
+            <h3><a href="html/defcon-30/dc-30-cfi.html">DEF CON 31</a></h3>
+            
+            
+                <p><strong> Aug. 10-13, 2023 at Caesars Forum</strong><br>
+ + Flamingo, Harrah's and Linq in Las Vegas! <br><br><br>
+                    
+                    <!--<strong>Online Registration now closed!</strong><br>
+In-person registration will be $360 USD Cash at the door! Reg opens August 11 at 07:00!<br><br>-->
+                    <a href="html/defcon-30/dc-30-cfi.html">Call for Ideas!</a> | 
+            <a href="https://book.passkey.com/go/SHDEF3">Book a Room!</a> <!--| <a href="html/defcon-30/dc-30-cfp.html">Open Calls</a><br><br>
+                    <a href="https://defcontrainings.myshopify.com/"><strong><span class="updated">NEW!</span> DEF CON TRAINING</strong></a><br>
+                    Two day Courses Aug 15-16!-->
+            </p>
+           
+</li>
+        </ul>
+		
+	  </li></ul>
+		
+<ul class="four columns guide">
+	<li class="guidelink">
+		<ul class="useCase" id="start">
+        	<li>
+			<a href="#"><h3>Start Here.</h3></a>
+			<p>New to DEF CON?<br>
+			Find out what it's all about!</p>
+            
+            <p>DEF CON has been a part of the hacker community for over two decades. Pick up a bit of history and origin by watching <strong><a href="https://media.defcon.org/Hacking Related Documentaries/DEF CON 20 Documentary 1080p.mp4">DEF CON - The Documentary</a></strong>, and by checking out the <strong><a href="html/links/dc-about.html">About Page</a></strong>. The <strong><a href="html/links/dc-faq/dc-faq.html" title="DEF CON FAQ">DEF CON FAQ</a></strong> has the answers to most of the common questions you might have. </p>
+            <p></p>
+			</li>
+		</ul>
+    </li>
+</ul>
+	
+<ul class="four columns guide">
+    <li class="guidelink">
+		<ul class="useCase" id="educated">
+            <li>
+            <a href="#"><h3>Get Educated.</h3></a>
+            <p>A treasure trove of hacking knowledge<br>
+awaits in our past media!</p>
+            <div>
+            <a href="https://media.defcon.org/"><img class="guideIcon scale-with-grid" src="images/defcon-main/dc-media.png" alt="logo for DEF CON Media server" loading="lazy" decoding="async" /></a>
+            <p><strong><a href="https://media.defcon.org/" title="DEF CON Media Server">DEF CON Media Server</a></strong>. Speeches, music, art, and more! </p>
+            </div>
+            <div>
+            <img class="guideIcon scale-with-grid" src="images/defcon-main/dc-torrents.png" alt="Logo for DEF CON Torrents page" loading="lazy" decoding="async" />
+            <p>For the big downloaders, <strong><a href="html/links/dc-torrent.html" title="DEF CON Torrents Page">check out our Torrents</a></strong>.</p>
+            </div>
+            <div>
+            <img class="guideIcon scale-with-grid" src="images/defcon-main/infocon-logo.webp" alt="Logo for infocon.org" loading="lazy" decoding="async" />
+            <p><strong><a href="https://infocon.org" title="infocon.org">Infocon, the hacking con archive</a></strong>! Con video, podcasts, rainbow tables, and more!</p>
+            </div>
+            </li>
+        </ul>
+	</li>
+</ul>
+<ul class="four columns guide omega">    
+    <li class="guidelink">
+		<ul class="useCase" id="involved">            
+            <li>
+            <a href="#"><h3>Get Involved.</h3></a>
+            <p>Want to participate?<br>
+            There are a myriad of ways!</p>
+            
+            <p>DEF CON is what you make it. If you'd like to do more than just attend, have a look at our <strong><a href="html/links/get-involved.html" title="Get involved with DEF CON!">Get Involved page</a></strong> for ideas!<p>Year round, consider joining a local <strong><a href="https://defcongroups.org/" title="DEF CON Groups page">DEF CON Group</a></strong>, or get active on the <strong><a href="https://forum.defcon.org/" title="DEF CON Forums">DEF CON Forums</a></strong>!</p>
+            </li>
+		</ul>
+    </li>
+</ul>
+
+
+
+
+<div class="sixteen columns">
+
+	
+	
+<!--	<ul class="pageNav"><strong>DEF CON 27 Open Calls:</strong>
+
+        
+    	</ul>
+-->
+
+	<!-- Holiday Banner -->
+	
+	<section class="ten columns alpha">
+		
+	 <!--<article class="ten columns" >
+	<div class="ten columns alpha">
+	
+	<img class="postImage scale-with-grid" src="images/defcon-main/hny22.webp" alt="Happy New Year 2022 image" width="1000" height="350" loading="lazy" decoding="async"/>
+	</a><br>
+	
+	</div>
+    </article>-->
+    
+    <!-- Left Sidebar
+	================================================== -->
+    
+   
+    <aside class="three columns alpha leftSideBar">
+    
+    
+         <a href="html/links/dc-code-of-conduct.html"><h3 class="title link">Code of Conduct</h3></a><br>
+    
+    	<div class="social">
+        <a href="https://forum.defcon.org/" title="DEF CON forums"><img class="socIcon" src="images/defcon-main/dc-forums.png" alt="DEF CON forums" loading="lazy" decoding="async" /></a> 
+    	<a href="defconrss.xml" title="DEF CON RSS Feed"><img class="socIcon" src="images/defcon-main/sm-rss.png" alt="DEF CON RSS Feed" loading="lazy" decoding="async"  /></a>
+        <a href="https://discord.gg/defcon" title="DEF CON Discord Server"><img class="socIcon" src="images/defcon-main/discord-sm.webp" alt="DEF CON Discord Server" loading="lazy" decoding="async"/></a>
+        <a href="https://twitter.com/defcon" title="DEF CON Twitter Feed"><img class="socIcon" src="images/defcon-main/sm-twitter.webp" alt="DEF CON Twitter" loading="lazy" decoding="async" /></a>
+        <a href="https://www.facebook.com/defcon" title="DEF CON Facebook Fan Page"><img class="socIcon" src="images/defcon-main/sm-facebook.png" alt="DEF CON Facebook Page" loading="lazy" decoding="async" /></a>
+        <a href="https://www.youtube.com/user/DEFCONConference" title="DEF CON YouTube Page"><img class="socIcon" src="images/defcon-main/sm-youtube.webp" alt="DEF CON YouTube Page" loading="lazy" decoding="async" /></a>
+        <a href="https://www.instagram.com/wearedefcon/"><img class="socIcon" src="images/defcon-main/sm-instagram.png" alt="Instagram Logo" loading="lazy" decoding="async" /></a>
+        <a href="https://www.reddit.com/r/defcon" title="DEF CON Subreddit"><img class="socIcon" src="images/defcon-main/reddit.png" alt="Reddit logo" loading="lazy" decoding="async" /></a>       
+        <a href="/html/links/dc-canary.html"><img class="socIcon" src="/images/defcon-main/canary.png" alt="Canary logo" loading="lazy" decoding="async" /></a>
+		</div>
+		
+  	
+		<article id="onionlinks">
+		
+			<h3 class="title">.onion Links</h3>
+		<p><img class="imgFltRt scale-with-grid" src="images/defcon-main/onion.png" alt="The Onion Router logo" loading="lazy" decoding="async" /><a href="http://g7ejphhubv5idbbu3hb3wawrs5adw7tkx7yjabnf65xtzztgg4hcsqqd.onion/">defcon.org</a>
+		<a href="http://m6rqq6kocsyugo2laitup5nn32bwm3lh677chuodjfmggczoafzwfcad.onion/">media.defcon.org</a>
+		<a href="http://jrw32khnmfehvdsvwdf34mywoqj5emvxh4mzbkls6jk2cb3thcgz6nid.onion/">defcongroups.org</a><br></p>
+			
+		</article>
+
+   	
+
+
+
+<article>
+            <h3 class="title">Future Dates</h3>
+		 
+		
+    
+        <p><strong><a href="html/defcon-30/dc-30-cfi.html">DEF CON 31</a></strong><br>Aug. 10-13, 2023<br>
+        <a href="https://book.passkey.com/go/SHDEF3">Book a Room!</a><br>
+<a href="html/defcon-30/dc-30-cfi.html">Call for Ideas!</a></p>
+    
+        <!--<p><strong><a href="https://defcontrainings.myshopify.com/">DEF CON Training</a></strong><br>Aug. 15-16, 2022<br>
+        <a href="http://defcontrainings.myshopify.com/">Register Now!</a></p>-->
+         </article>  
+           
+        <!--<article>
+			
+			<a href="html/links/dc-news.html"><h3 class="title">Recent News</h3></a>
+            <p><a href="url">Link text</a></p>
+			
+			<p><a href="html/links/dc-news.html">More...</a></p>
+     	</article>-->
+
+		<article>
+            <h3 class="title">Speaker's Corner</h3>
+            
+            
+            <p><a href="html/links/dc-speakerscorner.html#nikita-dc24-cfp">DEF CON CFP: Thinking Back and Moving Forward</a><br>
+    by Nikita</p>  
+           <p><a href="html/links/dc-speakerscorner.html#sood-disperse-knowledge">Bridging the Gap: Dispersing Knowledge through Research Presented at DEFCON</a>
+<br>by Aditya K Sood, PhD</p>
+            
+            <p><a href="html/links/dc-speakerscorner.html#quaddi-r3plicant-healthcare">Hackers and Healthcare: A Call To Arms</a><br>
+           by Christian “quaddi” Dameff, MD and Jeff “r3plicant” Tully, MD</p>
+            
+            <p><a href="html/links/dc-speakerscorner.html#leah-cfp-process">The DEF CON CFP Process</a><br>
+           by Leah</p>
+            <p><a href="html/links/dc-speakerscorner.html#dt-p2p">DEF CON Bittorrent Configuration Guide Announcement</a><br>
+            by Dark Tangent</p>
+            <p><a href="html/links/dc-speakerscorner.html#renda-emp">Disrupting Robotic Homeostasis And Artificial Intelligent Systems With Electromagnetic Pulse</a>
+			<br>by Paul F. Renda</p>
+            <p><a href="html/links/dc-speakerscorner.html#fasel-sk">'Twas the week before DEF CON</a>
+           <br />By Zack Fasel</p>
+            <p><a href="html/links/dc-speakerscorner.html#sumner-qa">Don't Forget About the Q&amp;A Sessions</a>
+            <br />by The Suggmeister</p>
+
+           <p><a href="html/links/dc-speakerscorner.html#nikita-cfp">How Do I Make My CFP Stand Out?</a>
+           <br />By Nikita</p>
+
+           
+           
+        </article>
+		
+        
+	
+    </aside> <!-- /Left Sidebar -->
+    
+    
+    <!-- Main Content
+	================================================== -->
+
+	
+
+
+	<section class="seven columns alpha main"> 
+        
+    <!--<div class="seven columns"><a href="https://defcontrainings.myshopify.com/"><img class="postImageFloatLft scale-with-grid" src="images/defcon-main/post-images/traininglogo.webp" alt="DEF CON 30 logo screen image" loading="lazy" decoding="async" /></a>
+		
+    <h4><a href="https://defcontrainings.myshopify.com/"><span class="updated">&nbsp;NEW!&nbsp;</span> Two-day Courses</a> Aug. 15-16!</h4> </div> <br><br><br><br><br><br>-->
+        
+        
+    
+    <article class="seven columns feature" id="dc30cfi">    
+        
+    <a href="html/defcon-31/dc-31-cfi.html"><h2 class="title">DEF CON 31 Call for Ideas! Open Now!</h2></a>
+	<p class="byline"> Posted 9.14.22</p>
+        
+	<a href="html/defcon-31/dc-31-cfi.html"><img class="postImageFloat scale-with-grid" src="images/defcon-31/post-images/call-ideas.webp" alt="DEF CON 31 Call for Ideas artwork" width="300" height="300" loading="lazy" decoding="async"/></a>
+        
+    <p>Let’s get a jump on DC31 with a general <a href="html/defcon-31/dc-31-cfi.html">Call for Ideas</a>! We want to hear from current and aspiring content creators. Share ideas for contests, villages - anything. Creators get more feedback & time, we all get a better DC. Open NOW.</p>
+    
+    </article>    
+        
+        
+    <article class="seven columns feature" id="dc30vids">    
+    <h2 class="title">DEF CON 30 Videos are Coming!</h2>
+    <p class="byline"> Posted 9.30.22</p>
+
+    <img class="postImageFloat scale-with-grid" src="images/defcon-30/post-images/dc-30-vids.webp" alt="DEF CON 30 videos preview image" width="300" height="300" loading="lazy" decoding="async"/>
+
+    <p>Heads up- the DEF CON 30 videos are gonna hit YouTube a little early this year. You might want to block off some time in October. We apologize in advance for any effect on workplace productivity.</p>
+
+    </article>
+        
+        
+    <article class="seven columns feature" id="ctf22winners">    
+        <h2 class="title">DEF CON 30 CTF on the Books! Congrats to MMM!</h2>
+    <p class="byline"> Posted 9.21.22</p>
+
+    <img class="postImageFloat scale-with-grid" src="images/defcon-30/post-images/mmm.webp" alt="DEF CON CTF Organizer Nautilus image" width="300" height="200" loading="lazy" decoding="async"/>
+
+    <p>Congratulations to the DEF CON 30 CTF Winners, Maple Mallard Magistrates! <a href="https://www.cylab.cmu.edu/news/2022/08/14-cmu-wins-defcon-ctf.html">Read more about MMM</a>!<br>
+    <br>
+    They were closely followed by the teams Katzebin and Starbugs, in 2nd and 3rd places respectively.<br>
+    <br>
+    A big thank you to Nautilus Institute and all the CTF competing teams for a great game! Check out the <a href="https://media.defcon.org/DEF CON 30/DEF CON 30 ctf/">DEF CON 30 CTF section of the Media Server</a> for LiveCTF, PCAPS, and other interesting stuff as it becomes available!</p>
+
+    </article>
+        
+        
+    <article class="seven columns feature" id="dc30ersickcodes">    
+        
+    <a href="https://www.youtube.com/watch?v=z2_TLz9TpwY"><h2 class="title">Early Release Video - Hacking the Farm by Sick Codes!</h2></a>
+	<p class="byline"> Posted 9.14.22</p>
+        
+	<a href="https://www.youtube.com/watch?v=z2_TLz9TpwY"><img class="postImageFloat scale-with-grid" src="images/defcon-30/post-images/early-release-sick-codes.webp" alt="Screen shot of Sick Codes' talk at DEF CON 30" width="300" height="200" loading="lazy" decoding="async"/></a>
+        
+    <p>We've released <a href="https://www.youtube.com/watch?v=z2_TLz9TpwY">a talk from farm hacking pioneer Sick Codes</a> on the intricacies of agricultural equipment cyber security, and how to break and modify it.  Enjoy and share widely!</p>
+    
+    </article>
+        
+        
+    <article class="seven columns feature" id="dc30archive">    
+        
+    <a href="html/links/dc-archives/dc-30-archive.html"><h2 class="title">Archive Page is Live for DEF CON 30!</h2></a>
+	<p class="byline"> Posted 9.2.22</p>
+        
+	<a href="html/links/dc-archives/dc-30-archive.html"><img class="postImageFloat scale-with-grid" src="images/defcon-30/post-images/dc-30-comps.webp" alt="DEF CON 30 archive Page image" width="300" height="300" loading="lazy" decoding="async"/></a>
+        
+    <p>Missing DEF CON 30? We've updated our Conference Archive! Get your hands on <a href="html/links/dc-archives/dc-30-archive.html">a cornucopia of DC30 content</a> - the program, LiveCTF, photos, video and even a soundtrack to vibe with while you browse.  All for the low, low price of one internet click.<br><br>
+        
+    Keep an eye on it for even more coming soon; Contest results, talk videos, CTF packet caps, video of the music events and more! Happy weekend!</p>
+    
+    </article>
+        
+        
+    <article class="seven columns feature" id="dc30badgetalk">    
+        
+    <a href="https://www.youtube.com/watch?v=4Llav8BceRo"><h2 class="title">DEF CON 30 Badge talk Video!</h2></a>
+	<p class="byline"> Posted 8.29.22</p>
+        
+	<a href="https://www.youtube.com/watch?v=4Llav8BceRo"><img class="postImageFloat scale-with-grid" src="images/defcon-30/post-images/badge-talk.webp" alt="DEF CON 30 badge talk video image" width="300" height="300" loading="lazy" decoding="async"/></a>
+        
+    <p>In case you missed it: learn all about the magical mystery musical badge from DEF CON 30 in the <a href="https://www.youtube.com/watch?v=4Llav8BceRo">opening talk for DC30</a> with The Dark Tangent and MKFactor, the badge creators.</p>
+    
+    </article>
+        
+        
+    <article class="seven columns feature" id="dc30press">    
+        
+    <a href=""><h2 class="title">DEF CON 30 Press Roundup!</h2></a>
+	<p class="byline"> Posted 8.17.22</p>
+        
+	<a href=""><img class="postImageFloat scale-with-grid" src="images/defcon-30/post-images/press-roundup.webp" alt="DEF CON 30 Press roundup image" width="300" height="300" loading="lazy" decoding="async"/></a>
+        
+    <p>DEF CON 30 is in the books, and it looks like we made a little news. Here’s an early roundup of DEF CON 30 press mentions. We’ll update soon with more writeups and breakdowns as they appear.<br><br>
+
+    <a href="https://www.vice.com/en/article/88qxdz/hacker-conference-def-con-bans-pro-trump-outlet-oan">DEF CON Bans OAN</a> - Vice<br><br>
+
+    <a href="https://www.vice.com/en/article/wxnj49/this-string-of-emojis-is-actually-malware">This String of Emojis is Actually Malware</a> - Vice<br><br>
+
+    <a href="https://www.vice.com/en/article/y3pwqx/hackers-took-over-a-commercial-satellite-to-broadcast-hacker-movies">Hackers Took Over a Commercial Satellite to Broadcast Hacker Movies</a> - Vice<br><br>
+
+    <a href="https://www.darkreading.com/threat-intelligence/def-con-30-hackers-come-home-to-vibrant-community">Hackers Come Home to Vibrant Community</a> - Dark Reading<br><br>
+
+    <a href="https://hackaday.com/2022/08/14/starlink-ground-stations-successfully-hacked/">StarLink Ground Stations Successfully Hacked</a> - Hackaday<br><br>
+
+    <a href="https://www.theregister.com/2022/08/16/john_deere_doom/">John Deere Tractor Runs Doom
+    </a> - The Register<br><br>
+
+    <a href="https://www.theregister.com/2022/08/15/black_hat_covid/">Black Hat and DEF CON visitors differ on physical risk management</a> - The Register<br><br>
+
+    <a href="https://www.infosecurity-magazine.com/news/defcon-how-sanctions-impact/">How Sanctions Impact Internet Operators</a> - Infosecurity Magazine<br><br>
+
+    <a href="https://www.infosecurity-magazine.com/news/defcon-cisa-director/">#DEFCON: CISA Director Praises Congress and International Cybersecurity Cooperation</a> - Infosecurity Magazine<br><br>
+
+    <a href="https://gizmodo.com/john-deere-hacking-right-to-repair-1849412256">The Next Big Jailbreak in Tech: John Deere Tractors</a> - Gizmodo<br><br>
+
+    <a href="https://threatpost.com/black-hat-and-def-con-roundup/180409/">Black Hat and DEF CON Roundup</a> - Threatpost<br><br>
+
+    <a href="https://www.businesswire.com/news/home/20220815005484/en/Carnegie-Mellon-Team-Wins-DEF-CON-Hacking-Competition">Carnegie-Mellon Team Wins DEF CON Hacking Competition</a> - Business Wire<br><br>
+
+    <a href="https://arstechnica.com/information-technology/2022/08/zoom-patches-mac-auto-updater-vulnerability-that-granted-root-access/">Zoom Patches Mac Auto-Updater Vuln that Granted Root Access</a> - Ars Technica<br><br>
+
+    <a href="https://www.politico.com/newsletters/weekly-cybersecurity/2022/08/15/election-disinformation-fears-loom-over-hacker-confab-00051695">Election Disinformation Fears Loom Over Hacker Confab</a> - Politico<br><br>
+
+    <a href="https://www.fierceelectronics.com/sensors/sick-codes-jailbreaks-tractor-defcon-right-repair-move">Sick Codes Jailbreaks Tractor at DEF CON</a> - Fierce Electronics<br><br>
+
+    <a href="https://boingboing.net/2022/08/15/john-deere-jailbreak-shows-its-all-built-on-outdated-unpatched-hardware.html">John Deere Jailbreak Shows It’s All Built on Outdated, Unpatched Hardware</a> - Boing Boing<br><br>
+
+    <a href="https://www.wired.com/story/john-deere-tractor-jailbreak-defcon-2022/">A New Jailbreak for John Deere Tractors Rides the Right-to-Repair Wave</a> - Wired<br><br>
+
+    <a href="https://www.eff.org/deeplinks/2022/08/playing-all-jelly-beans-eff-benefit-poker-tournament-def-con">Playing for All the Jelly Beans at the EFF Benefit Poker Tournament at DEF CON</a> - EFF<br><br>
+
+    <a href="https://www.eff.org/event/reproductive-rights-age-surveillance-panel-def-con-30">Reproductive Justice in the Age of Surveillance: Panel at DEF CON 30</a> - EFF<br><br>
+
+    <a href="https://www.cyberscoop.com/cybersecurity-black-hat-defcon-geopolitics/">What to watch for as 'Hacker Summer Camp' gets underway in Las Vegas</a> - Cyberscoop<br><br>
+
+    <a href="https://www.techtarget.com/searchsecurity/news/252523787/Eclypsium-calls-out-Microsoft-over-bootloader-security-woes">Eclypsium Calls Out Microsoft Over Bootloader Security Woes</a> - Tech Target<br><br>
+
+    <a href="https://gizmodo.com/black-hat-2022-russian-hackers-ukraine-putin-zelensky-1849405033">Russian Hackers Are Escalating and Diversifying Their Attacks on Ukraine, Research Says</a> - Gizmodo<br><br>
+
+    <a href="https://securityboulevard.com/2022/08/us-emergency-alert-system-huge-flaw-broadcasters-must-patch-now/">US Emergency Alert System Has ‘Huge Flaw’ — Broadcasters Must Patch NOW</a> - Security Boulevard<br><br>
+
+    <a href="https://www.csoonline.com/article/3669876/new-exploits-can-bypass-secure-boot-and-modern-uefi-security-protections.html">New exploits can bypass Secure Boot and modern UEFI security protections</a> - CSO Online<br><br>
+
+    <a href="https://www.securitysystemsnews.com/article/def-con-30-comes-of-age-with-hacker-homecoming">DEF CON 30 Comes of Age with Hacker Homecoming</a> - Security Systems News<br><br>
+
+    <a href="https://www.muycomputer.com/2022/08/12/logran-hackear-starlink-por-solo-25-dolares/">Logran hackear Starlink por solo 25 dólares</a> Muy Computer<br><br>
+
+    <a href="https://www.pcmag.com/news/up-close-at-defcon-30-in-las-vegas">Up Close at DEF CON 30</a> - PC Mag<br><br>
+
+    <a href="https://www.politico.com/news/2022/08/15/hackers-election-disinformation-00051949">‘Hackers against conspiracies’: Cyber sleuths take aim at election disinformation</a> - Politico<br><br>
+
+    <a href="https://www.theverge.com/2022/8/12/23303411/zoom-defcon-root-access-privilege-escalation-hack-patrick-wardle">The Zoom installer let a researcher hack his way to root access on macOS</a> The Verge<br><br>
+
+    <a href="https://www.nextgov.com/cybersecurity/2022/08/white-house-cyber-director-defense-new-offense-cyber/375822/">White House Cyber Director: ‘Defense is the New Offense’ for Cyber</a> - Nextgov<br><br>
+
+    <a href="https://therecord.media/inglis-people-companies-need-to-replicate-collective-cyber-defense-seen-in-ukraine/">Inglis: People, companies need to replicate collective cyber defense seen in Ukraine</a> - The Record<br><br>
+
+    <a href="https://www.businessinsurance.com/article/20220815/NEWS06/912351802/Potential-hack-vulnerability-for-some-Boeing-planes-fixed-Researchers">Potential hack vulnerability for some Boeing planes fixed: Researchers</a> - Business Insurance<br><br>
+
+    <a href="https://es.digitaltrends.com/computadoras/zoom-corrige-falla-seguridad-mac/">Zoom acaba de corregir una falla de seguridad importante</a> - Digital Trends (Espagnol)<br><br>
+
+    <a href="https://www.wired.com/story/va-vista-medical-records-flaw/">A Flaw in the VA’s Medical Records Platform May Put Patients at Risk</a> - Wired<br><br>
+
+    <a href="https://youtu.be/XxHwBMPb7ts">DC30 Car Hacking Village Badge</a> - Intrepid Control Systems
+    (YouTube)<br><br>
+
+    <a href="https://youtu.be/bceoYgzvGu8">Designing the DEF CON 29 and 30 Badges (featuring MK Factor)</a> Hacker Hangouts (YouTube)<br><br>
+
+    <a href="https://youtu.be/mqWp4vfwTtc">DEF CON 30 OBD-Kill Badge First Flight</a> - Intrepid Control Systems
+    (YouTube)<br><br>
+
+    <a href="https://www.reddit.com/r/Defcon/comments/wm8lya/defcon_30_badge_release_the_patchfix_to_the_bug/?utm_source=share&utm_medium=web2x&context=3">Defcon 30 badge release the patch/fix to the bug of smoked badge.</a> - Reddit</p>
+    
+    </article>
+
+        
+        
+    <article class="seven columns feature" id="dc30china">    
+        
+    <a href=""><h2 class="title">DEF CON 30 China Virtual Party!</h2></a>
+	<p class="byline"> Posted 8.11.22</p>
+        
+	<a href=""><img class="postImageFloat scale-with-grid" src="images/defcon-30/post-images/dccn-30-party.webp" alt="DEF CON 30 china party image" width="300" height="300" loading="lazy" decoding="async"/></a>
+        
+    <p>Our hacker friends in China are having a VR party for DEF CON 30 with a big, beautiful virtual meeting space and media shared from the show. Big thanks to Baidu for putting that party together! The DEF CON spirit of discovery and community is a truly global thing and we’re grateful to all of you for making DEF CON what it is.</p>
+         
+    </article>
+        
+    
+    <article class="seven columns feature" id="dc30online">    
+        
+    <a href="https://discord.gg/defcon"><h2 class="title">Join us for DEF CON 30 online!</h2></a>
+	<p class="byline"> Posted 8.11.22</p>
+        
+	<a href="https://discord.gg/defcon"><img class="postImageFloat scale-with-grid" src="images/defcon-30/dc-30-logo-sq.webp" alt="DEF CON 30 logo image" width="300" height="300" loading="lazy" decoding="async"/></a>
+        
+    <p>The  DEF CON Discord is open (<a href="https://discord.gg/defcon">discord.gg/defcon</a>). You can hang out in virtual LineCon, try out the offerings of one of our hybrid villages and meet DEF CON family from around the world.<br><br>
+
+    The DEF CON Groups have a VR  hangout going on throughout DEF CON. Learn what DCGs across the globe are up to, maybe even find a group near you to join so you can keep that DEF CON vibe all year! The info you need to get involved is here: <a href="https://www.dcgvr.org/DEF_CON_Groups_AltspaceVR_-_Quick Guide_v1.6.pdf">https://www.dcgvr.org/DEF_CON_Groups_AltspaceVR_-_Quick Guide_v1.6.pdf</a> and you can join in on the fun with or without a VR headset. You can even watch the event live on Twitch: <a href="https://twitch.tv/defcon_groups">twitch.tv/defcon_groups</a>.<br><br>
+
+    Follow our YouTube channel (<a href="https://www.youtube.com/user/DEFCONConference">DEFCONConference</a>) for video updates from DC30 all weekend.  We’ve upped our content game this year and we’ll be sharing a bunch of interviews and contest content.<br><br>
+
+    So even if you’re not onsite, you can still get some DEF CON into your 2022, and we’ll save you a place in LineCon for 2023.</p>
+         
+    </article> 
+    
+        
+    <article class="seven columns feature" id="dc30hdainfo">    
+        
+    <a href="https://forum.defcon.org/node/242953"><h2 class="title">HDA Infopack is Live!</h2></a>
+	<p class="byline"> Posted 8.4.22</p>
+        
+	<a href="https://forum.defcon.org/node/242953"><img class="postImageFloat scale-with-grid" src="images/defcon-29/hda-logo.webp" alt="DEF CON HDA logo image" width="300" height="300" loading="lazy" decoding="async"/></a>
+        
+    <p>Many thanks to @A_P_Delchi for the <a href="https://forum.defcon.org/node/242953">DEF CON 30 HDA Infopack</a>! This helpful guide for Hackers with Disabilities has venue maps, tips for traveling between venues and a concise explanation of DEF CON's HDA provisions. Let's look out for each other, and if you see a way we can improve our accessibility, let us know!</p>
+         
+    </article> 
+        
+   <article class="seven columns feature" id="dc30trupdate">    
+        
+    <a href="html/links/dc-transparency.html"><h2 class="title">DEF&nbsp;CON Transparency Report Update</h2></a>
+	<p class="byline"> Posted 7.28.22</p>
+        
+	<a href="html/links/dc-transparency.html"><img class="postImageFloat scale-with-grid" src="images/defcon-main/post-images/transparency.jpg" alt="DEF CON transparency report image" width="300" height="300" loading="lazy" decoding="async"/></a>
+        
+    <p>In preparation for DEF CON 30, we’ve updated the <a href="html/links/dc-transparency.html">transparency report</a> on the DEF CON website. While you’re there, take a moment to re-familiarize yourself with the <a href="html/links/dc-code-of-conduct.html">code of conduct</a>. We don’t have a ton of rules, but we take the ones we have very seriously.</p>
+         
+    </article>     
+        
+    <article class="seven columns feature" id="dc30sched">    
+        
+    <a href="html/defcon-30/dc-30-schedule.html"><h2 class="title">DEF&nbsp;CON 30 Speaking Schedule is Live!</h2></a>
+	<p class="byline"> Posted 7.15.22</p>
+        
+	<a href="html/defcon-30/dc-30-schedule.html"><img class="postImageFloat scale-with-grid" src="images/defcon-30/post-images/30-schedule.webp" alt="DEF CON schedule web page image" width="300" height="211" loading="lazy" decoding="async"/></a>
+        
+    <p>‘Tis the season, hackerfolk. DEF CON is almost here and all four tracks of the main speaker schedule are live on the website! Visit the<a href="html/defcon-30/dc-30-schedule.html"> Schedule page</a> to start your planning. Our valiant CFP Review Board has put together a strong list of presentations over a wide array of subjects. We’re sure you’ll find plenty of interest. <br><br>
+
+    Feel free to tweet at us about the talks you want to see, and feel equally to free to get hyped. Less than a month now, people.</p>
+         
+    </article>    
+        
+        
+    <article class="seven columns feature" id="dc30rooms">    
+        
+    <a href="https://book.passkey.com/go/SHDEF2"><h2 class="title">Floorplan Maps are Live, Room Block discount Ends Soon!</h2></a>
+	<p class="byline"> Posted 7.7.22</p>
+        
+	<a href="https://book.passkey.com/go/SHDEF2"><img class="postImageFloat scale-with-grid" src="images/defcon-30/post-images/roomrate.webp" alt="DEF CON dinging service bell image" width="300" height="200" loading="lazy" decoding="async"/></a>
+        
+    <p>The <a href="html/defcon-30/dc-30-venue.html">floorplan maps for DEF CON 30</a> have been added to the Venue page of the DC30 website. Take a peek and plot your course, it's just a few short weeks now. </p>
+        
+    <p>The DEF CON 30 room rate discount closes July 15 - so book soon to take advantage of the price break! Our room block in Caesars is full, but many others still have price breaks available. <br><br>
+        
+    <a href="https://book.passkey.com/go/SHDEF2">Book a Room for DEF CON 30 Here</a>!</p>
+         
+    </article>
+        
+        
+    
+        
+    <article class="seven columns feature" id="dc30masks">    
+        
+    <a href="html/links/dc-news.html#dc30covid"><h2 class="title">COVID Clarification for DEF&nbsp;CON 30</h2></a>
+	<p class="byline"> Posted 6.22.22</p>
+        
+	<a href="html/links/dc-news.html#dc30covid"><img class="postImageFloat scale-with-grid" src="images/defcon-safemode/post-images/dcsm-spsch.webp" alt="DEF CON Masked Jack logo image" width="300" height="300" loading="lazy" decoding="async"/></a>
+        
+    <p>Just so there’s no confusion, DEF&nbsp;CON 30 will require masks, same as last year. We thank everyone for keeping each other safe last year, and we can’t wait to get the gang together responsibly just a few short weeks from now.<br><br>
+        
+    Original <a href="html/links/dc-news.html#dc30covid">DEF&nbsp;CON 30 Covid Policy</a> post from May.</p>
+         
+    </article>
+     
+        
+    <article class="seven columns feature" id="dc30speakers1">    
+        
+    <a href="https://forum.defcon.org/node/241811"><h2 class="title">First Batch of DEF CON 30 speakers is Live!</h2></a>
+	<p class="byline"> Posted 6.9.22</p>
+        
+	<a href="https://forum.defcon.org/node/241811"><img class="postImageFloat scale-with-grid" src="images/defcon-30/post-images/dc-30-comps.webp" alt="DEF CON 30 computer pattern image" width="300" height="300" loading="lazy" decoding="async"/></a>
+        
+    <p>Friendly DEF CON 30 announcement - <a href="https://forum.defcon.org/node/241811">the first bunch of speakers are selected</a> and available for your perusal on the DEF CON forums. Congrats to everyone already selected. Keep your eyes on this space for more selections!</p>
+         
+    </article>
+        
+        
+    <article class="seven columns feature" id="dc30traininglive">    
+        
+    <a href="https://defcontrainings.myshopify.com"><h2 class="title">DEF CON Training Site is Live!</h2></a>
+	<p class="byline"> Posted 5.31.22</p>
+        
+	<a href="https://defcontrainings.myshopify.com"><img class="postImageFloat scale-with-grid" src="images/defcon-30/post-images/training-board.webp" alt="DEF CON training whiteboard image" width="300" height="300" loading="lazy" decoding="async"/></a>
+        
+    <p>DEF CON Trainings registration is LIVE! Right after DEF CON 30, we're excited to offer these intensive 2 day classes with a certificate of completion. First come, first served so don't procrastinate.
+Class descriptions and reg information are at <a href="https://defcontrainings.myshopify.com">http://defcontrainings.myshopify.com</a>.</p>
+         
+    </article>     
+        
+        
+    <article class="seven columns feature" id="dc-30-weekendupdates">    
+        
+    <h2 class="title">Weekend Updates! CTF Quals news, and New SE Community Q&amp;A Today!</h2>
+	<p class="byline"> Posted 5.27.22</p>
+        
+	<a href="https://discord.com/channels/708208267699945503/710921230395637811"><img class="postImageFloat scale-with-grid" src="images/defcon-30/post-images/naut-chat.webp" alt="nautilus institute tweet image" width="300" height="242" loading="lazy" decoding="async"/></a>
+        
+   <p><strong>CTF News</strong><br>
+CTF Quals are almost here (May 28 at 0000 UTC) and the CTF Chat on the DEF CON discord is already open!<br>
+<br>
+From <a href="https://twitter.com/NautilusCTF">@NautilusCTF</a>:<br>
+        #defcon quals chat on the Defcon discord is open. Come visit us in <a href="https://discord.com/channels/708208267699945503/710921230395637811">#ctf-discussion-text</a> to ask all the important questions, like “when is web?” and “this challenge is too hard unlock another one”<br><br>
+        
+        Time is short to get to the <a href="https://nautilus.institute/">Nautilus Institute Website</a> and register your team for CTF quals!</p><br><br>
+        
+    <a href="https://twitch.tv/se_community"><img class="postImageFloat scale-with-grid" src="images/defcon-30/post-images/se-com.webp" alt="S E community promo image" width="300" height="300" loading="lazy" decoding="async"/>  </a>  
+    <p><strong>SE Community Q&amp;A Today!</strong><br>
+Join Social Engineering Community Village cofounders <a href="https://twitter.com/JC_SoCal">@JC_SoCal</a> and <a href="https://twitter.com/sn0ww">@sn0ww</a> to talk all about what kind of events the Social Engineering Community has in store for DEF CON 30. They'll be live on Twitch answering your questions at 5pm EDT Friday the 27th at <a href="https://twitch.tv/se_community">twitch.tv/se_community</a>. See you there!</p>
+         
+    </article> 
+     
+        
+    <article class="seven columns feature" id="dc-30-bwb">    
+        
+    <h2 class="title">The Black and White Ball is Back!</h2>
+	<p class="byline"> Posted 5.24.22</p>
+        
+	<img class="postImageFloat scale-with-grid" src="images/defcon-30/post-images/bwb.webp" alt="Black and white ball promo image" width="300" height="458" loading="lazy" decoding="async"/>
+        
+    <p>A little announcement about DEF CON 30's Black and White Ball: the best-dressed entrants will get some to enter early and enjoy a few free drinks before we let everyone else in. So look sharp - more details to come.
+         
+    </article> 
+        
+        
+    <article class="seven columns feature" id="dcmn-condor">    
+        
+    <a href="https://forum.defcon.org/node/241613"><h2 class="title">DEF CON Movie Night: 3 Days of the Condor</h2></a>
+	<p class="byline"> Posted 5.21.22</p>
+        
+	<a href="https://forum.defcon.org/node/241613"><img class="postImageFloat scale-with-grid" src="images/defcon-main/post-images/dcmn-3-days.webp" alt="3 days of the condor poster image" width="300" height="375" loading="lazy" decoding="async"/></a>
+        
+    <p>Join us Saturday the 21st at 8pm PDT for Sydney Pollack's 1975 spy thriller 'Three Days of the Condor'. Robert Redford plays a CIA researcher on the run and Ma Bell plays herself. We'll be hiding out in the DEF CON Discord (discord.gg/defcon) under the code name movie-night-text.</p>
+         
+    </article>    
+        
+        
+    <article class="seven columns feature" id="dcpolicy">    
+        
+    <a href="policy/index.html"><h2 class="title">Check out Policy @ DEF&nbsp;CON!</h2></a>
+	<p class="byline"> Posted 5.19.22</p>
+        
+	<a href="policy/index.html"><img class="postImageFloat scale-with-grid" src="images/defcon-main/post-images/policy.webp" alt="DEF CON 30 policy image" width="300" height="225" loading="lazy" decoding="async"/></a>
+        
+    <p>Policy matters. The world has never been so connected, and mighty forces contend for the right to shape our digital lives. DEF&nbsp;CON believes the hacker community needs a voice in that process. To help people learn, connect and get involved with the leading edge of tech policy, we offer ‘<a href="policy/index.html">Policy @ DEF&nbsp;CON</a>’. We’ll have presentations, panels, and off-the-record evening lounges. Get yourself up to speed on the issues, connect with some of the players and maybe even get involved. The future is what we make it!</p>
+         
+    </article>
+        
+        
+    <article class="seven columns feature" id="dc30site">    
+        
+    <a href="html/defcon-30/dc-30-index.html"><h2 class="title">The DEF&nbsp;CON&nbsp;30 Website is live!</h2></a>
+	<p class="byline"> Posted 5.13.22</p>
+        
+	<a href="html/defcon-30/dc-30-index.html"><img class="postImageFloat scale-with-grid" src="images/defcon-30/post-images/dc-30-site.webp" alt="DEF CON 30 website screen shot image" width="300" height="203" loading="lazy" decoding="async"/></a>
+        
+    <p>Good news, everyone! The <a href="html/defcon-30/dc-30-index.html">DEF&nbsp;CON&nbsp;30 official website is officially LIVE</a> and DEF&nbsp;CON season is officially IN EFFECT.  Bookmark it for a handy place to check out all of the DC30 infoz as they roll in. Check the calendar, jump into the forums, book a room - it’s all in one place.  <br><br>
+
+    Now that we’ve reached cruising altitude, you are free to shimmy excitedly around the cabin.<br><br>
+
+    Let’s GoOOoo!</p>
+         
+    </article>
+        
+        
+    <article class="seven columns feature" id="dc30covid">    
+        
+    <a href="html/links/dc-news.html#dc30covid"><h2 class="title">COVID Updates for DEF&nbsp;CON 30</h2></a>
+	<p class="byline"> Posted 5.3.22</p>
+        
+	<a href="html/links/dc-news.html#dc30covid"><img class="postImageFloat scale-with-grid" src="images/defcon-safemode/post-images/dcsm-spsch.webp" alt="DEF CON Masked Jack logo image" width="300" height="300" loading="lazy" decoding="async"/></a>
+        
+    <p>DEF CON 30 is getting closer, and that means we’re starting to get questions about Covid-19 protocols for the in-person event. Here’s the current state of play.<br><br>
+
+    Some things have changed since DC29. The US has largely stopped checking vaccine status for entry to indoor events, owing at least partly to the knowledge that the vaccines serve more to prevent severe disease than to curtail transmission. COVID-19 testing is now mostly done privately with widely available at-home kits.<br><br>
+
+    But most things haven’t changed. There are still new variants on the move. There are still spikes in transmission and hospitalization. Masks are still the most effective way to protect people in indoor events.<br><br>
+
+    Barring a major change in the situation, we will not check proof of vaccination, but we will keep last year's mask requirement in place for DEF CON 30. Protecting the community is our first priority, and we want to make sure that everyone is as safe as we can make them. Everyone includes the healthy, the vulnerable and those who have immune compromised loved ones they need to protect.<br><br>
+
+    Thank you for all you did to protect each other last year, and with your help we’ll do it again this year.</p>
+         
+    </article>
+        
+        
+    <article class="seven columns feature" id="dc30training">    
+        
+    <a href="html/defcon-30/dc-30-cft.html"><h2 class="title">Training Coming to DEF CON 30, Call for Training is Open!</h2></a>
+	<p class="byline"> Posted 4.14.22</p>
+        
+	<a href="html/defcon-30/dc-30-cft.html"><img class="postImageFloat scale-with-grid" src="images/defcon-30/post-images/cft.webp" alt="DEF CON Training logo image" width="300" height="203" loading="lazy" decoding="async"/></a>
+        
+    <p>The wait is over - we’re ready to announce the Call for Trainers! <br><br>
+
+    This year we’re adding DEF CON Training – intensive, two-day courses of study aimed at building specific skills. In some cases, these courses will even carry a certification. The Trainings will be held August 15-16, the Monday and Tuesday after DEF CON.<br><br>
+
+    We’re looking for unique, technical, and practical presentations from trainers with deep knowledge of their subject. If that’s you, we’re offering:<br><br>
+
+    - 50/50 split of the gross income.<br>
+    - Optional test where students demonstrate their skill for a certificate.<br><br>
+
+    All the info you need to apply is on the <a href="html/defcon-30/dc-30-cft.html">Call for Training</a> page.  Get your applications in early – we look forward to seeing what you’ve got to share.</p>
+         
+    </article>
+       
+        
+    <article class="seven columns feature" id="dc30tickets">    
+        
+    <a href="https://shop.defcon.org"><h2 class="title">New Payment Option for DEF CON 30!</h2></a>
+	<p class="byline"> Posted 3.25.22</p>
+        
+	<a href="https://shop.defcon.org"><img class="postImageFloat scale-with-grid" src="images/defcon-30/post-images/dc-30-ticket.webp" alt="DEF CON 30 logo image" width="300" height="300" loading="lazy" decoding="async"/></a>
+        
+    <p>DEF CON is a cash-at-the-door kind of conference. Paying in cash helps protect your privacy, and search warrants can't vacuum up PII we don't collect. You will always be able to lay down US dollars in the reg line and collect your badge.<br><br>
+
+    Still, the experience of DC29 taught us a few things. Some of our attendees work DEF CON into their business travel schedule, and the option to pre-reg with a credit card over the web made things much easier for them. Some of our attendees need to manage a group purchase, or want a more detailed receipt.<br><br>
+
+    For everyone who fits into those categories, we’re happy to announce that we’re keeping the option of online registration. Starting Monday, March 28th, you’ll be able to use <a href="https://shop.defcon.org">shop.defcon.org</a> to buy your ticket and get your receipt. We hope the online option makes the process more streamlined for those who need it. We thank people for their patience and feedback as we navigate the changing landscape.<br><br>
+
+    The price for DEF CON 30 is $360, with a processing fee of $9.66 added to online orders.<br><br>
+
+    <em>Fine print: Currently we cannot provide beachballs and pizza to the online purchasing experience. For that, you’re gonna need LineCon.</em></p>
+         
+    </article> 
+        
+        
+    <article class="seven columns feature" id="dcmndarkstar">    
+        
+    <a href="https://forum.defcon.org/node/240999"><h2 class="title">DEF CON Movie Night: Dark Star!</h2></a>
+	<p class="byline"> Posted 3.16.22</p>
+        
+	<a href="https://forum.defcon.org/node/240999"><img class="postImageFloat scale-with-grid" src="images/defcon-main/post-images/dcmn-darkstar.webp" alt="DEF CON Movie Night: Dark Star poster image" width="300" height="203" loading="lazy" decoding="async"/></a>
+        
+    <p>DEF CON Movie Night this Saturday will feature some more 70s sci-fi with John Carpenter’s ‘Dark Star’ from ’74. Join us 3-19 at 8pm PDT in the #defcon discord (<a href="https://discord.gg/defcon">discord.gg/defcon</a>). We’ll be in the movie-night-text channel.</p>
+         
+    </article>  
+    
+        
+    <article class="seven columns feature" id="dc30villann">    
+        
+    <a href="https://forum.defcon.org/node/239770"><h2 class="title">Villages for DEF CON 30!</h2></a>
+	<p class="byline"> Posted 3.15.22</p>
+        
+	<a href="https://forum.defcon.org/node/239770"><img class="postImageFloat scale-with-grid" src="images/defcon-30/post-images/dc-30-village-update.webp" alt="DEF CON 30 villages update image" width="300" height="203" loading="lazy" decoding="async"/></a>
+        
+    <p>The list of <a href="https://forum.defcon.org/node/239770">DEF CON 30 villages on the Forums</a> has been updated! Stop by to  check out the full complement of village goodness we're offering this year. Comment, like, subscribe, volunteer to help out - but mostly get amped. #defcon30approaches.</p>
+         
+    </article>  
+        
+        
+    <article class="seven columns feature" id="dc30cftann">    
+        
+    <a href="html/links/dc-news.html#dc30cftann"><h2 class="title">Coming soon: Call for Training!</h2></a>
+	<p class="byline"> Posted 3.11.22</p>
+        
+	<a href="html/links/dc-news.html#dc30cftann"><img class="postImageFloat scale-with-grid" src="images/defcon-30/post-images/dc-30-cft.webp" alt="DEF CON 30 logo image" width="300" height="203" loading="lazy" decoding="async"/></a>
+        
+    <p>We’re excited to announce something new on the menu for DC 30 - DEF CON Training! We’re launching a lineup of intense two-day trainings taking place August 15-16 in the same venue, and we’re looking for trainers!<br><br>
+
+    <strong>WHAT:</strong> DEF CON We’re seeking Trainers for two-day training sessions right after DEF CON 30. <br><br>
+
+    <strong>WHEN:</strong> August 15-16, the Monday and Tuesday after DEF CON 30.<br><br>
+
+    <strong>WHERE:</strong> Same location, the Caesars Forum.<br><br>
+
+    <strong>WHY:</strong> For DEF CON attendees  who love our free Workshop series but wish they could get an even deeper, more focused dive and maybe even a certificate. Like everything we do at DEF CON, we hope it will help to build and strengthen the hacker community and spread the kind of knowledge that makes the world more open and secure.<br><br>
+
+    DEF CON Training will offer two-day paid training courses in the $1-$3k price range. We’re looking for unique, technical, and practical presentations from trainers with deep knowledge of their subject. If that’s you, we’re offering:<br><br>
+
+
+    - 50/50 split of  the gross income.<br>
+    - Optional test where students demonstrate their skill for a certificate.<br><br>
+
+    Interested? We will launch the Trainer submission form later this month! If you have questions, drop us a line at info@defcon.org.<br><br>
+
+    The Dark Tangent</p>
+         
+    </article>    
+    
+        
+    <article class="seven columns feature" id="dc30calls2">    
+        
+    <a href="html/defcon-30/dc-30-cfopp.html"><h2 class="title">More DEF CON 30 Calls Opening!</h2></a>
+	<p class="byline"> Posted 2.15.22</p>
+        
+	<a href="html/defcon-30/dc-30-vendor-app.html"><img class="postImageFloat scale-with-grid" src="images/defcon-30/dc-30-logo-sq.webp" alt="DEF CON 30 logo image" width="300" height="300" loading="lazy" decoding="async"/></a>
+        
+    <p>Good news, everyone! We have more calls open for DEF CON 30!<br><br>
+
+    <strong>Call for Parties and Meetups</strong>: your dreams of throwing an epic party at DEF CON 30 are within your reach! If you have a solid concept to wrap some next level festivities around, get at us. The best ideas will get space and support. Details here: <a href="html/defcon-30/dc-30-cfopp.html">Call for Parties</a><br><br>
+
+    <strong>Call for Music</strong>: we’re gonna need some tunes. Lots of tunes. This call is for established acts and bedroom Beethovens alike. We’re looking for live performers, so if you’ve got the stuff that puts the dip in our hip and the glide in our stride, get to the <a href="html/defcon-30/dc-30-cfdl.html">Call for Music</a> and let us know.<br><br>
+
+    <strong>Call for Vendors</strong>: we’re always looking for new hacker gear and accessories to share with the community. Get your cool swag in front of a pretty savvy and curious audience by applying here at the <a href="html/defcon-30/dc-30-cfw.html">Vendor Application</a></p>
+         
+    </article>
+        
+        
+    <article class="seven columns feature" id="dc30calls1">    
+        
+    <a href="html/defcon-30/dc-30-cfp.html"><h2 class="title">New Calls Open for DEF CON 30!</h2></a>
+	<p class="byline"> Posted 2.1.22</p>
+        
+	<a href="html/defcon-30/dc-30-cfp.html"><img class="postImageFloat scale-with-grid" src="images/defcon-30/dc-30-logo.webp" alt="DEF CON 30 logo image" width="300" height="300" loading="lazy" decoding="async"/></a>
+        
+    <p>You know how you can tell it’s DEF CON season? The Calls. When you hear the distinctive warble of the DEF CON Content calls, you know what’s up. It’s like the first robin of spring, if robins were cooler and more hacker-focused.<br><br>
+
+    Today we’re opening three more DEF CON 30 Calls:<br><br>
+
+    <strong><a href="html/defcon-30/dc-30-cfp.html">Call for Papers</a></strong><br>
+
+    The big one. If you want to speak at DEF CON 30, it’s time to get your submission together. As always, we’re looking for fresh, technical content and the sooner you get it in, the better your chances.  We can offer suggestions to help you get over the finish line, time permitting. Fortune favors the bold, so don’t delay.<br><br>
+
+    <strong><a href="html/defcon-30/dc-30-cfw.html">Call for Workshops</a></strong><br>
+
+    The very popular workshop series is back for DEF CON 30. Some topics need a more time and involvement than a main-stage talk can offer. The workshops are an amazing way to share your in-depth, hands-on content with the DEF CON community.<br><br>
+
+    <strong><a href="html/defcon-30/dc-30-cfdl.html">Demo Labs</a></strong><br>
+
+    Get your open source project in front of the knowledgable, curious humans of DEF CON. Get valuable feedback, find accomplices and raise your project’s profile. We provide the floor space and the audience, you provide the timely submission.<br><br>
+
+    The DEF CON machine is revving up, and DC30 will be here before you know it. Don’t miss your chance to get involved. The community is waiting to see what you’ve got to share.</p>
+         
+    </article>
+    
+        
+    <article class="seven columns feature" id="ctfnautilus">    
+        
+    <a href="https://twitter.com/Nautilus_CTF"><h2 class="title">A Warm Welcome to the Next CTF Organizer Team: Nautilus Institute!</h2></a>
+	<p class="byline"> Posted 1.28.22</p>
+        
+	<a href="https://twitter.com/Nautilus_CTF"><img class="postImageFloat scale-with-grid" src="images/defcon-30/post-images/nautilus.webp" alt="DEF CON CTF Organizer Nautilus image" width="300" height="300" loading="lazy" decoding="async"/></a>
+        
+    <p>Big DEF CON 30 CTF update! Following several years of exemplary service by the Order of the Overflow, our world-famous Capture the Flag contest is  under new management. The care and feeding of this year’s CTF is in the worthy and capable hands of the Nautilus Institute!<br><br>
+        
+    From Nautilus Institute:<br><br>
+        
+    <strong>Ahoy DEF CON and CTF communities!<br><br>
+ 
+    We are the Nautilus Institute. We have been chosen, from a very respectable pool of applicants, to steer the DEF CON CTF ship starting in 2022. We are thankful for this honor, and hope to navigate straight and true no matter what waters lie ahead.<br><br>
+
+    We’re a bit light on details, while we prepare for this year’s DEF CON CTF Qualifiers May 28-29, but we hope to flag you down with more information soon! Please follow us on twitter at <a href="https://twitter.com/Nautilus_CTF">https://twitter.com/Nautilus_CTF</a> and keep a look out on our website at <a href="https://nautilus.institute">https://nautilus.institute</a>.<br><br>
+
+    Sea you soon,<br><br>
+
+    @•̂≈</strong><br><br>
+        
+    For the boldest and best prepared, glory awaits. Godspeed.</p>
+         
+    </article>
+        
+        
+    <article class="seven columns feature" id="dcmn-primer">    
+        
+    <a href="https://discord.gg/defcon"><h2 class="title">DEF CON Movie Night: Primer!</h2></a>
+	<p class="byline"> Posted 1.27.22</p>
+        
+	<a href="https://discord.gg/defcon"><img class="postImageFloat scale-with-grid" src="images/defcon-main/post-images/dcmn-primer.webp" alt="DEF CON movie night primer poster image" width="300" height="300" loading="lazy" decoding="async"/></a>
+        
+    <p>DEF CON movie night rolls on with ‘Primer’. Joins us on the <a href="https://discord.gg/defcon">DC discord</a> Saturday 8pm PST for what has to be the most brainmelting time travel movie that could possibly be shot for $7000. Bring a cork board and a few different colors of yarn. We’ll be waiting for you in the movie-night-text channel.</p>
+         
+    </article>
+        
+        
+    <article class="seven columns feature" id="dcmn-tankgirl">    
+        
+    <a href="https://discord.gg/defcon"><h2 class="title">DEF CON Movie Night: Tank Girl!</h2></a>
+	<p class="byline"> Posted 1.19.22</p>
+        
+	<a href="https://discord.gg/defcon"><img class="postImageFloat scale-with-grid" src="images/defcon-main/post-images/dcmn-tankgirl.webp" alt="DEF CON movie night tank girl poster image" width="300" height="400" loading="lazy" decoding="async"/></a>
+        
+    <p>This week’s DEF CON movie night will feature the very weird ‘Tank Girl’ from 1995. Join us Saturday, 8pm PST in the movie-night-text channel of the <a href="https://discord.gg/defcon">DEF CON discord</a> for a glimpse at what the apocalypse looked like from the more innocent viewpoint of the mid 90s. Bring your own water.</p>
+         
+    </article>
+        
+    
+    <article class="seven columns feature" id="dcnye22">    
+        
+    <a href="html/defcon-nye-2022/dc-nye-2022-index.html"><h2 class="title">DEF CON New Year's Eve!</h2></a>
+	<p class="byline"> Posted 12.23.21</p>
+        
+	<a href="html/defcon-nye-2022/dc-nye-2022-index.html"><img class="postImageFloat scale-with-grid" src="images/defcon-nye-2022/nye-22.webp" alt="DEF CON New Year's Eve image" width="400" height="160" loading="lazy" decoding="async"/></a>
+        
+    <p>DEF CON is doing a small <a href="html/defcon-nye-2022/dc-nye-2022-index.html">New Year's Eve event</a> on the DEF CON discord. There will be several hangouts and contests to participate in. We’ll have music, a Kubernetes CTF, A Ham radio CTF, some Hacker Karaoke, movie watchalongs and more. We’ll have the full rundown on defcon.org and we’ll update in the NYE Forum threads. Join us in welcoming 2022 - can't wait to see you!</p>
+         
+    </article>   
+        
+        
+    <article class="seven columns feature" id="dc29transparency">    
+        
+    <a href="html/links/dc-transparency.html"><h2 class="title">DEF CON 29 Transparency Report</h2></a>
+	<p class="byline"> Posted 12.6.21</p>
+        
+	<a href="html/links/dc-transparency.html"><img class="postImageFloat scale-with-grid" src="images/defcon-main/post-images/transparency.jpg" alt="DEF CON 29 Transparency Report image" width="300" height="300" loading="lazy" decoding="async"/></a>
+        
+    <p>The full DEF CON <a href="html/links/dc-transparency.html">Transparency Report for DEF CON 29</a> is now available. Our deepest thanks to everyone who reported issues to us and also to the people on staff who tracked down and handled those issues. It's a community effort, and it's good to see the progress we're making.</p>
+         
+    </article>
+        
+    
+        
+    <article class="seven columns feature" id="dc30artcon">    
+        
+    <a href="html/links/dc-news.html#dc30artcon"><h2 class="title">Enter the DEF CON 30 Artwork Contest!</h2></a>
+	<p class="byline"> Posted 11.17.21</p>
+        
+	<a href="images/defcon-30/30theme.webp"><img class="postImageFloat scale-with-grid" src="images/defcon-30/post-images/30theme.webp" alt="DEF CON 30 THEME image" width="300" height="125" loading="lazy" decoding="async"/></a>
+        
+    <p>Now that the DEF CON 30 Theme is out there in the world, it’s time to go pencils up on the DEF CON Art Contest!<br><br>
+
+    <a href="html/links/dc-news.html#dc30theme">This year’s theme is ‘Hacker Homecoming’</a>, and you can read all about it on the DEF CON Forums. It’s a theme meant to celebrate our community’s much awaited reunion next August. It’s also meant to reference the 30th Anniversary we’re celebrating, which is a pretty big deal for a hacker conference.<br><br>
+
+    So if you’ve got some art skills, you’ve got a luxurious 7+ months to get your take on the theme in to us. There’s so much time between now and the June 1 deadline that you could probably learn a brand new art style in which to make your submission. You can drop as many submissions to <strong>pictures@defcon.org</strong> as you want, so enter early and often.<br><br>
+
+    <strong>### Theme:</strong><br><br>
+
+
+    We are looking for artwork that reflects a spirit of community and reunion. We’re looking for art that combines the 90’s hacker aesthetic of DEF CON’s history and our tribe’s 21st century future. We’re looking for your vision and vibes. <br><br>
+
+    We hope you’ll take in the information in <a href="images/defcon-30/30theme.webp">the style guide</a>, but we hope that you’ll use that as a launching pad and not a set of limits. We want to see where you can take these ideas.<br><br>
+
+    <strong>### Guidelines:</strong><br><br>
+
+
+    300 DPI. Convert type to outlines where applicable. Trust your instincts - we’re looking for genuine energy, not technical perfection. We want to share and amplify the artists in our community. If tlhat’s you, get your ideas down. If that’s not you yet, could it be? You’ve got a few months to find out.
+    <br><br>
+    Entries will be placed on the DEF CON Forums for voting, and there will be prizes. There will also be gratitude, and opportunities to inspire others with your special way of seeing the world. We can’t wait to see what you’ll make!</p>
+         
+    </article>
+        
+        
+    <article class="seven columns feature" id="dc30theme">    
+        
+    <a href="html/links/dc-news.html#dc30theme"><h2 class="title">DEF CON 30 Theme: Hacker Homecoming</h2></a>
+	<p class="byline"> Posted 11.12.21</p>
+        
+	<a href="images/defcon-30/30theme.webp"><img class="postImageFloat scale-with-grid" src="images/defcon-30/post-images/30theme.webp" alt="DEF CON 30 THEME image" width="300" height="125" loading="lazy" decoding="async"/></a>
+	
+	<p>This has been a crazy couple of years.<br><br>
+
+    A global pandemic turned DEF CON 28 into DEF CON Safe Mode.  Some easing of the restrictions and some strict attendance rules gave us a hybrid con for DC29. An improvement, to be sure, but something short of a full DEF CON experience. <br><br>
+
+    We want  DEF CON 30 to have the energy of a reunion. We’ll be back togeher in a brand spanking new venue. We’ll be thirty years old - an amazing milestone for a hacker conference under any circumstances. In honor of all that, we’re calling DEF CON 30 ‘Hacker Homecoming’.<br><br>
+
+    The first reason is that it’s literally a return home. After two years of separation, we’re looking forward to having more of our family under one roof, under the Vegas late summer sun.<br><br>
+
+    There’s also a North American tradition called ‘Homecoming’.  Secondary schools and colleges invite luminary alums back for a big celebration of the school’s history and a toast to its future. We intend to do just that for DC30. We’ll have some surprise guests from DEF CON’s illustrious past on hand to talk about the amazing places their life has taken them since joining the DC Community. We’ll also be laying out some of the map forward from our 30th Anniversary.<br><br>
+
+    So please join us in the Caesar’s Forums if you can, and on the Discord if you can’t.  Maybe even pack a fancy outfit for the homecoming dance. It’s high time for a reunion.</p>
+   
+
+    <h3>Design Inspiration</h3>
+
+    <p>This year’s theme is about celebrating the past and getting geeked about the future, so we’re looking for smooth integration of old school hacker stylee with future vibes. <br><br>
+
+    We took the color palette inspiration from arguably the most iconic DEF CON image of all time: the rooftop photo from DEF CON 1.<br><br>
+
+    The photo is amazing for any number of reasons, but the most important is that even though it screams early 90s hacker culture, it also shows some of the essence of what DEF CON is even in the 2020s. It’s still a gathering of extraordinary digital misfits going Voltron in the Vegas night. <br><br>
+
+    The fonts were also selected to be like a homecoming celebration, with some reverence for the past, some excitement about the future. The past is represented by the very 90s CityPop and Geom and the future by the futristic minimalism of Open Sans.</p>
+    
+
+    <h3>Homework</h3>
+
+    <p>As always, we’ll be sharing movies, books, music and other random media to get you in the right frame of mind for maximum DEF CON. This year we’re even giving you an extra few months to get through the syllabus. Watch the DEF CON site for additions to all the lists. Pencils UP!<br><br>
+
+    <strong>Movies:</strong><br>
+
+    Sneakers<br>
+
+    The Imitation Game<br>
+
+    Zero Days<br><br>
+
+    <strong>Books:</strong><br>
+
+    The Shockwave Rider<br>
+
+    The Cuckoo’s Egg<br>
+
+    Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground<br>
+
+    The Cult of the Dead Cow
+    </p>
+        
+    </article>
+        
+        
+    <article class="seven columns feature" id="dc30c&ecall">    
+        
+    <a href="html/defcon-30/dc-30-cfce.html"><h2 class="title">The DEF CON 30 Call for Contests and Events is OPEN! </h2></a>
+	<p class="byline"> Posted 11.1.21</p>
+        
+	<a href="html/defcon-30/dc-30-cfce.html"><img class="postImageFloat scale-with-grid" src="images/defcon-30/post-images/call-ce.webp" alt="DEF CON 30 CTF call for contest and events image" width="300" height="125" loading="lazy" decoding="async"/></a>
+	
+	<p>DEF CON 30 is going to be a big deal, and we’re full speed ahead on planning. If you’ve got a stellar idea for a contest, this is your moment. Take advantage of the early opening to turn your idea into a real DEF CON Experience. The extra lead time helps us work with you to get the best ideas across the finish line, but only if you take advantage and get your submissions in.<br><br>
+
+    You can read the rules and requirements on the <a href="html/defcon-30/dc-30-cfce.html">Call for Contests Page</a>. You can check the <a href="https://forum.defcon.org/node/236370">DC29 Contest forum</a> for an idea of what we’ve accepted in the past. <br><br>
+
+    Let’s see what you’ve got percolating out there, DEF CON fam. Let’s take DC30 up a notch.
+    </p>
+        
+    </article>   
+        
+    
+        
+    <article class="seven columns feature" id="dc30villagereminder">    
+        
+    <a href=""><h2 class="title">DEF&nbsp;CON 30: Open and Upcoming Calls</h2></a>
+	<p class="byline"> Posted 10.26.21</p>
+        
+	<a href=""><img class="postImageFloat scale-with-grid" src="images/defcon-30/post-images/calls.webp" alt="DEF CON 30 Calls image" width="300" height="300" loading="lazy" decoding="async"/></a>
+	
+	<p>The DEF CON 30  Call for Villages is already open! To see if your fave is already accepted, check out the <a href="https://forum.defcon.org/node/239770">Villages forum for DEF CON 30</a>! Don't see what you want on the current list? Maybe that's your cue to <a href="html/defcon-30/dc-30-cfv.html">submit a proposal</a>!<br><br>
+        
+    For the truly ambitious, there is still a <a href="html/links/dc-ctf-cfo.html">call open for the coveted title of CTF organizers</a>! Only a little over two weeks left to put in your proposal to be the future of DEF CON Capture the Flag!<br><br>
+        
+    On the horizon very soon will be the Call for Contests! Polish those proposals for new DEF CON contests now and be ready for the call!<br><br>
+
+    We only turn 30 once. Let's do it big!</p>
+        
+    </article>
+        
+        
+    <article class="seven columns feature" id="dc30villagecall">    
+        
+    <a href="html/defcon-30/dc-30-cfv.html"><h2 class="title">DEF CON 30 Call for Villages has Opened!</h2></a>
+	<p class="byline"> Posted 10.1.21</p>
+        
+	<a href="html/defcon-30/dc-30-cfv.html"><img class="postImageFloat scale-with-grid" src="images/defcon-30/dc-30-cfv.webp" alt="DEF CON 30 CTF call for villages image" width="300" height="162" loading="lazy" decoding="async"/></a>
+	
+	<p>DEF CON 30 may seem a long way off, but it’s never too soon to start planning. Especially for something as close to the heart of the DEF CON experience as Villages.<br><br>
+
+    As always, we’re looking for new villages that will create welcoming, hands-on spaces for congoers to sharpen their skills, learn something new and maybe even find their newest obsession. <br><br>
+
+    Space (both physical and metaphorical) is limited. Early submissions have increased chances of success. If the concept is strong but needs work, we can help but only if we have enough time. <br><br>
+
+    You’ll want to famailiarize yourself with the requirements and submission guidelines at <a href="html/defcon-30/dc-30-cfv.html">https://defcon.org/html/defcon-30/dc-30-cfv.html</a> first.  If you can meet the preconditions, and you have a stellar idea to propose, that’s the universe telling you it’s go time. Rise to meet your moment.  <br><br>
+
+    We can’t wait to see what’s on your mind.</p>
+        
+    </article>    
+        
+        
+        
+    <article class="seven columns feature" id="dc30cfo">    
+        
+    <a href="html/links/dc-ctf-cfo.html"><h2 class="title">CTF Call for Organizers is Officially Open!</h2></a>
+	<p class="byline"> Posted 9.28.21</p>
+        
+	<a href="html/links/dc-ctf-cfo.html"><img class="postImageFloat scale-with-grid" src="images/defcon-30/dc-30-ctf-cfo-sm.webp" alt="DEF CON 30  CTF call for organizers image" width="300" height="152" loading="lazy" decoding="async"/></a>
+	
+	<p>The mighty and venerable Order of the Overflow is retiring from organizing the DEF CON CTF, and the torch must be passed.  This means a rare opportunity for you, CTF enthusiasts. <br><br>
+
+    Are you ready to create the next generation of elite CTF tournaments? Do you have the skill and creativity to elevate the game for the world’s best players? The drive to see your ideas through to completion?  If this is you, it’s time for us to talk.<br><br>
+
+    The lowdown is at <a href="html/links/dc-ctf-cfo.html">https://defcon.org/html/links/dc-ctf-cfo.html</a>. Get familiar, submit the CTF you want to see in the world. For the chosen, glory awaits.</p>
+        
+    </article> 
+        
+        
+    
+        
+        
+    
+        
+    
+   
+	   
+	
+	
+		
+	<p class="title"><a href="html/links/dc-news.html">More News...</a></p>
+		
+		
+	
+        
+        
+    
+        
+    
+    
+		
+		
+		
+		
+		
+	
+		
+	
+
+        
+</section> <!-- /Main Content -->
+   
+	</section>
+    
+    
+    <!-- Right Sidebar
+	================================================== -->
+    
+    <aside class="six columns alpha rightSideBar">
+        
+        
+
+		<div class="six columns"><a href="html/defcon-30/dc-30-index.html"><img class="lastCon" src="images/defcon-30/dc-30-logo.webp" alt="DEF CON 30 logo screen image" loading="lazy" decoding="async" /></a><br><br>
+		
+            <p class="raiseCenter"> 
+
+		<a href="html/defcon-30/dc-30-index.html">DEF CON 30</a> was August 11-14, 2022</p>
+                
+                
+                
+		</div>
+			
+		
+        
+    
+    
+    <article class="six columns">
+    <h3 class="title">Upcoming Dates</h3><br>
+		
+	<script src="https://forum.defcon.org/images/custom_event/get_upcoming_events_js.php?maxrow=10&HL=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20" type="application/javascript"></script>
+      <script type="application/javascript">
+          
+        for (i in threads)
+        {
+		// Row 2: Month like "May":
+		document.writeln("<div class='calendar-entry'><div class='start-date' style='background-color:" + threads[i].highlightcolorbg + ";'><span class='day'>" + threads[i].monthdaystart + "</span>" + threads[i].monthabbrstart + "</div><div class='event-info'><a href=https://forum.defcon.org/node/" + threads[i].nodeid + ">" + threads[i].title + "</a><br>");
+            
+		// Second column:
+		// Demo, format the date-time of an event: specify own field separations, change the date of event displayed depending: If an all-day event, then time does not matter:
+		if (threads[i].allday === 1) {
+			// If the start/end year,month,day are same, then we can set "end" to be text "(All Day)":
+			if (threads[i].yearstart4 === threads[i].yearend4 && threads[i].monthnumstart === threads[i].monthnumend &&
+            threads[i].monthdaystart === threads[i].monthdayend) {
+				document.writeln(threads[i].monthnumstart + "." + threads[i].monthdaystart + "." + threads[i].yearstart2 + " (All Day)");
+				} else {
+				// All-Day event over several days. Show start and end date:
+				document.writeln(threads[i].monthnumstart + "." + threads[i].monthdaystart + "." + threads[i].yearstart2 + " &rarr; " + threads[i].monthnumend + "." + threads[i].monthdayend + "." + threads[i].yearend2);
+				}
+		} else if (threads[i].yearstart4 === threads[i].yearend4 && threads[i].monthnumstart === threads[i].monthnumend &&
+            threads[i].monthdaystart === threads[i].monthdayend) {
+			// Case for not all-day event while start/end day is the same, so for "end" just show end time:
+			document.writeln(threads[i].monthnumstart + "." + threads[i].monthdaystart + "." + threads[i].yearstart2 + "<br>" + threads[i].timestart24 + " &rarr; " + threads[i].timeend24);
+        	} else {
+			// Case for not all-day event but the start and end date are different, so show end date *and* time:
+	        	document.writeln(threads[i].monthnumstart + "." + threads[i].monthdaystart + "." + threads[i].yearstart2 + " @ " + threads[i].timestart24 + " &rarr; " + threads[i].monthnumend + "." + threads[i].monthdayend + "." + threads[i].yearend2 + " @ " + threads[i].timeend24);
+                
+                
+		}
+	document.writeln("</div></div>");
+	}
+          
+      </script>
+       
+    
+        <noscript>Javascript is disabled on your browser. <br></noscript>
+
+        <p><center><a href="https://forum.defcon.org/calendar">Access the Con Calendar</a></center></p>
+      </article>
+        
+
+        <article class="six columns">
+            <h3 class="title">DEF CON Sites</h3>
+            <div class="resource">
+                <a href="https://forum.defcon.org/">
+                    <img class="icons scale-with-grid" src="images/defcon-main/dc-forums.png" alt="Link to DEF CON Forums" loading="lazy" decoding="async" /><br>
+                Forums</a>
+            <a href="https://defcongroups.org/">
+                    <img class="icons scale-with-grid" src="images/defcon-main/sm-groups.png" alt="Link to DEF CON Groups" loading="lazy" decoding="async" /><br>
+                Groups</a>
+            
+                <a href="https://media.defcon.org/">
+                    <img class="icons scale-with-grid" src="images/defcon-main/dc-media.png" alt="Link to DEF CON Media Server" loading="lazy" decoding="async" /><br>
+                Media Server</a>
+           
+                <a href="https://infocon.org/">
+                    <img class="icons scale-with-grid" src="images/defcon-main/infocon-logo.webp" alt="Link to Infocon Server" loading="lazy" decoding="async" /><br>
+                InfoCon.org</a>
+            </div>
+     	</article>
+        
+        <article class="six columns">
+            <h3 class="title">The Goods</h3>
+            <div class="three columns alpha resource">
+                <a href="https://shop.defcon.org"><img class="affiliate scale-with-grid" src="images/defcon-main/swag-banner.webp" alt="DEF CON Store Logo" loading="lazy" decoding="async" /></a>
+                <a href="https://shop.defcon.org">Official Swag</a>
+            </div>
+            <div class="three columns omega resource">
+                <a href="https://www.defcononline.com/"><img class="affiliate scale-with-grid" src="images/defcon-main/SOKLogo_2c.png" alt="Source of Knowledge Logo" loading="lazy" decoding="async" ></a>
+                <a href="https://www.defcononline.com/">Conference Recordings</a>
+            </div>
+        </article> 
+        
+        <article class="six columns">
+            <h3 class="title">Past Media</h3>
+                
+            <div class="two columns alpha resource"> <a href="/html/links/dc-torrent.html"><img class="icons" src="images/defcon-main/dc-torrents.png" alt="Link to DEF CON Pics"></a><a href="/html/links/dc-torrent.html">Torrents Page</a></div>
+            
+            <div class="two columns omega resource"><a href="https://media.defcon.org/"><img class="icons" src="images/defcon-main/dc-media.png" alt="Link to DEF CON Media Server"></a><a href="https://media.defcon.org/">DEF CON Media Server</a></div>
+            
+            <div class="two columns omega resource">
+                <a href="https://infocon.org/">
+                    <img class="icons scale-with-grid" src="images/defcon-main/infocon-logo.webp" alt="Link to Infocon Server" loading="lazy" decoding="async" />
+                </a>
+                <a href="https://infocon.org/">InfoCon.org</a>
+            </div>
+     	</article>       
+        
+
+	</aside> <!-- /Right Sidebar -->
+	
+    
+    
+    <!-- Footer
+	================================================== -->
+    
+<footer class="sixteen columns footer">
+	
+    
+    <div class="sixteen columns copyright"><p>&copy; 1992-2022 DEF CON Communications, Inc. All Rights Reserved | <a href="/html/links/dc-policy.html" title="DEF CON Policy">DEF CON Policies</a> | <a href="/html/links/dc-dmca.html" title="DEF CON DMCA Information">DMCA Information</a></p></div>
+
+</footer><!-- /footer -->	 
+
+</div>
+
+	</div><!-- /container -->
+
+<!-- End Document
+================================================== -->
+</body>
+</html>

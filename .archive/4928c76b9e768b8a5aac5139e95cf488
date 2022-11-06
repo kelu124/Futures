@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.socallinuxexpo.org/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>Registration | SCALE 20x</title>
+
+  <link type="text/css" rel="stylesheet" href="/media/scale/css/scale18.css" media="all" />
+
+  <style type="text/css" media="all">
+    /* SCALE specific styles, edit as needed */
+    ul.scale_horizontal_list li{display:inline;list-style-type:none;}
+    ul.scale_ul {padding-left:2em;}
+    .nobr { white-space:nowrap; }
+
+    td { padding: 4px; }
+
+    label { margin: 0px; }
+    .scale_kiosk_bordered {
+      background-color: #bbd9ea;
+      border: none;
+      color: #000000;
+      padding: 4px 8px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      border-radius: 4px;
+      -webkit-transition-duration: 0.4s;
+      transition-duration: 0.4s;
+      font-size: 100%;
+      font-family: Arial, Helvetica, Sans;
+    }
+    .scale_kiosk_bordered:hover {
+      background-color: #8cadcb;
+    }
+  </style>
+
+
+
+  <script src="//code.jquery.com/jquery-1.7.2.min.js"></script>
+  <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js?pe1bk8"></script>
+</head>
+
+<body class="html front not-logged-in one-sidebar sidebar-first page-scale page-scale-17x" >
+
+<div id="skip-link">
+  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+</div>
+<header role="banner" id="page-header">
+  <div class="container">
+    <div class="row">
+      <div class="visible-phone small-site-logo">
+        <a href="https://www.socallinuxexpo.org/"><img src="https://www.socallinuxexpo.org/sites/all/themes/custom/scale19x/img/scale_logo_lg.svg" alt="SCALE 19x logo"></a>
+      </div>
+      <div id="site-logo" class="span6 offset3 hidden-phone">
+        <a href="https://www.socallinuxexpo.org/"><img src="https://www.socallinuxexpo.org/sites/all/themes/custom/scale19x/img/scale_logo_lg.svg" alt="SCALE 19x logo"></a>
+      </div>
+    </div>
+  </div>
+</header>
+<div class="container">
+  <header id="navbar" class="navbar">
+    <div class="navbar-inner">
+      <div class="hidden-phone"></div>
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </a>
+
+      <div class="nav-collapse collapse">
+        <nav role="navigation">
+          <ul class="menu nav">
+            <li class="first expanded dropdown"><a href="https://www.socallinuxexpo.org/scale/16x" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Previous SCALEs <span class="caret"></span></a><ul class="dropdown-menu">
+            <li class="first leaf"><a href="https://www.socallinuxexpo.org/past/2002/">SCALE 1x</a></li>
+            <li class="leaf"><a href="https://www.socallinuxexpo.org/past/2003/">SCALE 2x</a></li>
+            <li class="leaf"><a href="https://www.socallinuxexpo.org/past/2005/">SCALE 3x</a></li>
+            <li class="leaf"><a href="https://www.socallinuxexpo.org/past/2006/">SCALE 4x</a></li>
+            <li class="leaf"><a href="https://www.socallinuxexpo.org/scale5x/">SCALE 5x</a></li>
+            <li class="leaf"><a href="https://www.socallinuxexpo.org/scale6x/">SCALE 6x</a></li>
+            <li class="leaf"><a href="https://www.socallinuxexpo.org/scale7x/">SCALE 7x</a></li>
+            <li class="leaf"><a href="https://www.socallinuxexpo.org/scale8x/">SCALE 8x</a></li>
+            <li class="leaf"><a href="https://www.socallinuxexpo.org/scale9x/">SCALE 9x</a></li>
+            <li class="leaf"><a href="https://www.socallinuxexpo.org/scale10x/">SCALE 10x</a></li>
+            <li class="leaf"><a href="https://www.socallinuxexpo.org/scale/11x">SCALE 11x</a></li>
+            <li class="leaf"><a href="https://www.socallinuxexpo.org/scale/12x">SCALE 12x</a></li>
+            <li class="leaf"><a href="https://www.socallinuxexpo.org/scale/13x">SCALE 13x</a></li>
+            <li class="leaf"><a href="https://www.socallinuxexpo.org/scale/14x">SCALE 14x</a></li>
+            <li class="leaf"><a href="https://www.socallinuxexpo.org/scale/15x">SCALE 15x</a></li>
+            <li class="leaf"><a href="https://www.socallinuxexpo.org/scale/16x">SCALE 16x</a></li>
+            <li class="leaf"><a href="https://www.socallinuxexpo.org/scale/17x">SCALE 17x</a></li>
+            <li class="leaf"><a href="https://www.socallinuxexpo.org/scale/18x">SCALE 18x</a></li>
+            <li class="last leaf"><a href="https://www.socallinuxexpo.org/scale/19x">SCALE 19x</a></li>
+          </ul></li>
+<!--
+          <li class="leaf"><a href="https://www.socallinuxexpo.org/scale/18x/speakers">Speakers</a></li>
+          <li class="expanded dropdown"><a href="https://www.socallinuxexpo.org/scale/18x/venue" class="dropdown-toggle" data-toggle="dropdown" data-target="#">Venue <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="https://www.socallinuxexpo.org/scale/18x/venue">Venue</a></li>
+          <li class="last leaf"><a href="https://www.socallinuxexpo.org/scale/18x/travel-information">Hotels</a></li>
+          </ul></li>
+          <li class="leaf"><a href="https://www.socallinuxexpo.org/scale/18x/schedule">Schedule</a></li>
+          <li class="leaf"><a href="https://www.socallinuxexpo.org/scale/18x/exhibitors">Exhibitors</a></li>
+          <li class="last leaf"><a href="https://www.socallinuxexpo.org/scale/18x/sponsors">Sponsors</a></li>
+          <li class="last leaf"><a href="https://www.socallinuxexpo.org/scale/19x/events">Co-Located Events</a></li>
+//-->
+          <li class="leaf"><a href="https://www.socallinuxexpo.org/scale/20x/cfp">Call for Papers</a></li>
+          <li class="leaf"><a href="https://register.socallinuxexpo.org/reg6/">Register</a></li>
+          <li class="last leaf"><a href="https://www.socallinuxexpo.org/scale/20x/venue">Venue</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </header> <!-- /#header -->
+</div>
+
+
+<div class="main-container container">
+  <div class="lower-section row-fluid">
+    <section class="main span9">
+      <a id="main-content"></a>
+
+
+
+<h1>Registration</h1>
+
+<div class="breadcrumbs">
+     
+     <p>
+     Step 1 of 7
+     </p>
+     
+</div>
+
+
+<div id="content-main">
+
+
+    <h4>
+    Registration is a two part process:
+    </h4>
+
+    <ol class="scale_ul">
+    <li><p><b>Registration</b>: Select ticket type, add optional items, input
+    attendee info.</p></li>
+
+    <li><p><b>Payment</b>: After you register, select one or more attendees to pay
+    for, then you will either be directed to pay with your credit card, or you
+    can redeem a payment coupon if you have one. Attendee registrations are not
+    valid until they have been paid for.</p>
+
+    <p>We accept VISA, Mastercard, American Express, and Discover.</p>
+    </li>
+    </ol>
+
+    <p>
+    To start the registration process, start by selecting a ticket type. There are several different types of tickets:
+    </p>
+
+    <ul class="scale_ul">
+    <li>Expo Pass - Provides access to the exhibit hall and free events.
+    The exhibit halls are open on Friday afternoon, Saturday and Sunday.</li>
+    <li>SCALE Pass - Provides access to all SCALE sessions, the exhibit hall,
+    and free events.<br />
+    A SCALE Pass also includes a Kids Companion Pass for 1 child under the age
+    of 18. You may request a Kids Companion Pass at the registration desk on
+    the day of the event. Please have your child with you.</li>
+    </ul>
+<!--
+    <p>If you are interested in attending
+    <a href="https://www.socallinuxexpo.org/scale/15x/ubucon-summit">UbuCon</a>,
+    please select the UbuCon version of the above to help us get a better head
+    count:</p>
+    <ul class="scale_ul">
+    <li>UbuCon Expo Pass - Special two day session on Friday. Also
+    includes an Expo Pass.</li>
+    <li>UbuCon SCALE Pass - Special two day session on Friday. Also
+    includes a SCALE Pass.</li>
+    </ul>
+    <p>Certain special events require their own Limited pass:</p>
+    <ul class="scale_ul">
+    <li>Open Source Legal Training Limited SCALE Pass - Special full day class
+    on Friday. Also includes a SCALE Pass. The<br />
+    See <a href="https://www.socallinuxexpo.org/scale/15x/open-source-legal-training">
+    the event page</a>
+    for details.</li>
+    </ul>
+//-->
+
+    <p>
+    Please select a ticket type below:
+    </p>
+
+    <form method="post" action="add_items/">
+    <p>
+    <table border="1">
+    <thead>
+    <tr>
+        <th>&nbsp;</th>
+        <th>Ticket</th>
+        <th>Price</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+        <tr>
+        <td><input type="radio" name="ticket"
+             id="ticket_EXPO" value="EXPO" /></td>
+        <td><label for="ticket_EXPO">Expo Pass</label></td>
+        <td><label for="ticket_EXPO">$20.00</label></td>
+        </tr>
+    
+        <tr>
+        <td><input type="radio" name="ticket"
+             id="ticket_FULL1" value="FULL1" /></td>
+        <td><label for="ticket_FULL1">SCALE Pass (early bird pricing)</label></td>
+        <td><label for="ticket_FULL1">$75.00</label></td>
+        </tr>
+    
+    </tbody>
+    </table>
+    </p>
+
+    
+    <p>
+    If you have a 1-5 character promo code, enter it here:
+    <input type="text" name="promo" maxlength="5" size="5" />
+    </p>
+    <p>
+    If you have a 10 character payment coupon code, please enter that later when
+    paying.
+    </p>
+
+<!--
+    <p>
+    Students and School Faculty may use STDNT to get 50% off on the non-Limited
+    SCALE passes.<br />
+    Please have a valid school ID with you during checkin on the day of the
+    event.
+    </p>
+//-->
+
+    <p>
+    Promo codes generally do not apply to Expo passes and Limited passes.
+    </p>
+    
+
+    <p>
+    <input type="submit" class="scale_kiosk_bordered" value="Start Registration" />
+    </p>
+    </form>
+
+    <h2>
+    Other Options:
+    </h2>
+
+    <h4>Pay For Previous Registration</h4>
+
+    <p>
+    If you already registered, and would like to pay for your registration,
+    or if you are paying for other registered attendees,
+    then click the "Pay For Previous Registration" button below.
+    </p>
+
+    <form method="get" action="start_payment/">
+    <p>
+    <input type="submit" class="scale_kiosk_bordered" value="Pay For Previous Registration" />
+    </p>
+    </form>
+
+    <h4>Upgrade Registration</h4>
+
+    <p>
+    If you already paid for your registration,
+    and would like to upgrade your registration,
+    then click the "Upgrade Registration" button below.
+    </p>
+
+    <form method="get" action="start_upgrade/">
+    <input type="submit" class="scale_kiosk_bordered" value="Upgrade Registration" />
+    </form>
+
+    
+
+</div>
+
+
+    </section>
+  </div>
+</div>
+
+
+<footer class="footer container">
+  <div class="region region-footer">
+<!--
+    <section id="block-menu-menu-17x-footer" class="block block-menu clearfix">
+      <ul class="menu nav">
+        <li class="first leaf"><a href="https://www.socallinuxexpo.org/scale/19x/about-scale">About SCALE</a></li>
+        <li class="leaf"><a href="https://www.socallinuxexpo.org/scale/19x/anti-harassment-policy">Code of Conduct</a></li>
+        <li class="leaf"><a href="https://www.socallinuxexpo.org/scale/19x/contact-us">Contact Us</a></li>
+        <li class="last leaf"><a href="https://www.socallinuxexpo.org/scale/19x/policies">Policies</a></li>
+      </ul>  
+    </section>
+//-->
+  </div>
+</footer>
+
+
+</body>
+</html>
