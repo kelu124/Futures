@@ -1,0 +1,2351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Yan tan tethera pethera pimp — an old system for counting sheep | Sentence first</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://stancarey.wordpress.com/xmlrpc.php" />
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//s.pubmine.com' />
+<link rel='dns-prefetch' href='//x.bidswitch.net' />
+<link rel='dns-prefetch' href='//static.criteo.net' />
+<link rel='dns-prefetch' href='//ib.adnxs.com' />
+<link rel='dns-prefetch' href='//aax.amazon-adsystem.com' />
+<link rel='dns-prefetch' href='//bidder.criteo.com' />
+<link rel='dns-prefetch' href='//cas.criteo.com' />
+<link rel='dns-prefetch' href='//gum.criteo.com' />
+<link rel='dns-prefetch' href='//ads.pubmatic.com' />
+<link rel='dns-prefetch' href='//gads.pubmatic.com' />
+<link rel='dns-prefetch' href='//tpc.googlesyndication.com' />
+<link rel='dns-prefetch' href='//ad.doubleclick.net' />
+<link rel='dns-prefetch' href='//googleads.g.doubleclick.net' />
+<link rel='dns-prefetch' href='//www.googletagservices.com' />
+<link rel='dns-prefetch' href='//cdn.switchadhub.com' />
+<link rel='dns-prefetch' href='//delivery.g.switchadhub.com' />
+<link rel='dns-prefetch' href='//delivery.swid.switchadhub.com' />
+<link rel='dns-prefetch' href='//a.teads.tv' />
+<link rel='dns-prefetch' href='//prebid.media.net' />
+<link rel='dns-prefetch' href='//adserver-us.adtech.advertising.com' />
+<link rel='dns-prefetch' href='//fastlane.rubiconproject.com' />
+<link rel='dns-prefetch' href='//prebid-server.rubiconproject.com' />
+<link rel='dns-prefetch' href='//hb-api.omnitagjs.com' />
+<link rel='dns-prefetch' href='//mtrx.go.sonobi.com' />
+<link rel='dns-prefetch' href='//apex.go.sonobi.com' />
+<link rel='dns-prefetch' href='//u.openx.net' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Sentence first &raquo; Feed" href="https://stancarey.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Sentence first &raquo; Comments Feed" href="https://stancarey.wordpress.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Sentence first &raquo; Yan tan tethera pethera pimp — an old system for counting&nbsp;sheep Comments Feed" href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s0.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1652185836h&ver=6.1.1-alpha-54813"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link crossorigin='anonymous' rel='stylesheet' id='all-css-0-1' href='https://s0.wp.com/_static/??-eJyNkdtSAjEMhl/IbsFBGS8cn6WHWAPpYdoU3Le3u8i6gizedPo3+ZI/qTwmYWJgCCw1RScSVYehyGPMVtkiHUWtqDOlPMh7uWPQJxaHxyvA1yl9B5yU2X9rmXK01TDGIH27ERSZgRSDFSkWvlBLhQn38FN+VEvpGN4xIPeSP8A3MFU9jXDFnSFXm9SQXYtkkIf1ptt2a6krkh22MjbWWeVeFu4JpkIYDFU7+CvSg0UF1LoOjmYikeohCwKnTN95DPfxFpvrX9Bt86PT2a5UHysLl9Fe2P53iawYgyu3pm4P0pAqBY047ftPp7PvGfbb3n1S10MuYEe0DvjU8HQXDJ/LSGpthNYpQyminR6rP7ts3Jt/XT9vV0+b1Xb1svsCMYc1aA==?cssminify=yes' type='text/css' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify {
+	text-align:justify;
+}
+.wp-block-cover__image-background.has-parallax {
+	background-size: cover;
+}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+</style>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-2-1' href='https://s1.wp.com/_static/??-eJx9i0EKhDAMRS80nSBU1IV4Fi2xVtKmmBSZ24+60o27/z7vwZ6N46SYFHTBiAK5THBdMSuI/gi/TuQDNzMWk6n4kAQ8siF2owZODzAzjWF7SzeciP0xPRzWDc9oiH1l687atqns+gfFSD2v?cssminify=yes' type='text/css' media='all' />
+<link crossorigin='anonymous' rel='stylesheet' id='print-css-3-1' href='https://s2.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1465851035h&cssminify=yes' type='text/css' media='print' />
+<style id='jetpack-global-styles-frontend-style-inline-css'>
+:root { --font-headings: unset; --font-base: unset; --font-headings-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; --font-base-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}
+</style>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-6-1' href='https://s0.wp.com/_static/??-eJyVjUEKwjAQRS9kHCo10IV4FImTkKROZkInQby9bXEjrty9B5/34VkNCrfADUo3lXrMrDCHVh0+Pg51Ed+xZWEoK1FQ0OSW4J33rx0zxyOqHuDf3i0zggpmR4Ykin7JT7OlUNb3NEIkuTvaBtdyGezZjqdpssP8Bj+XTks=?cssminify=yes' type='text/css' media='all' />
+<script id='jetpack_related-posts-js-extra'>
+var related_posts_js_options = {"post_heading":"h4"};
+</script>
+<script id='wpcom-actionbar-placeholder-js-extra'>
+var actionbardata = {"siteID":"3895763","siteURL":"http:\/\/stancarey.wordpress.com","xhrURL":"https:\/\/stancarey.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"ae515cb337","isLoggedIn":"","statusMessage":"","subsEmailDefault":"instantly","proxyScriptUrl":"https:\/\/s0.wp.com\/wp-content\/js\/wpcom-proxy-request.js?ver=20211021","shortlink":"https:\/\/wp.me\/pglsT-4rZ","i18n":{"followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/read\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar"}};
+</script>
+<script crossorigin='anonymous' type='text/javascript' src='https://s1.wp.com/_static/??-eJxdTlkKwjAQvZDTwaXVH/Eoks2SmGRCZkL19kYQ0X6+/eFSwFAWlwUDYyLto4PGrqq5c+DzjYbAG/zxpQYlttlnxuCkKHP/YCyVbDPiKePVZ4O6+WixuqjEWSjEwv9oSD6v6/uNGgV61+O51nSk+Tu+ULXKMpiomB2/gyYVYGm65y7pvJ3GaX84HXdjeAEE5FYc'></script>
+<script type='text/javascript'>
+	window.addEventListener( 'DOMContentLoaded', function() {
+		rltInitialize( {"token":null,"iframeOrigins":["https:\/\/widgets.wp.com"]} );
+	} );
+</script>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-0-2' href='https://s0.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1663315160h&cssminify=yes' type='text/css' media='all' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://stancarey.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/" />
+<link rel='shortlink' href='https://wp.me/pglsT-4rZ' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fstancarey.wordpress.com%2F2013%2F11%2F27%2Fyan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fstancarey.wordpress.com%2F2013%2F11%2F27%2Fyan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Yan tan tethera pethera pimp — an old system for counting sheep" />
+<meta property="og:url" content="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/" />
+<meta property="og:description" content="If any lightfoot Clod Dewvale was to hold me up, dicksturping me and marauding me of my rights to my onus, yan, tyan, tethera, methera, pimp, I&#8217;d let him have my best pair of galloper&#8217;s…" />
+<meta property="article:published_time" content="2013-11-27T12:13:36+00:00" />
+<meta property="article:modified_time" content="2022-10-03T06:56:45+00:00" />
+<meta property="og:site_name" content="Sentence first" />
+<meta property="og:image" content="https://stancarey.files.wordpress.com/2013/11/stan-carey-herd-of-sheep-in-ireland-spring-2009-yan-tan-tethera.jpg" />
+<meta property="og:image:width" content="400" />
+<meta property="og:image:height" content="300" />
+<meta property="og:image:alt" content="stan carey - herd of sheep in Ireland, spring 2009 - yan tan tethera" />
+<meta property="og:locale" content="en_US" />
+<meta property="fb:app_id" content="249643311490" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<meta name="twitter:creator" content="@StanCarey" />
+<meta name="twitter:site" content="@StanCarey" />
+<meta name="twitter:text:title" content="Yan tan tethera pethera pimp — an old system for counting&nbsp;sheep" />
+<meta name="twitter:image" content="https://stancarey.files.wordpress.com/2013/11/stan-carey-herd-of-sheep-in-ireland-spring-2009-yan-tan-tethera.jpg?w=640" />
+<meta name="twitter:image:alt" content="stan carey - herd of sheep in Ireland, spring 2009 - yan tan tethera" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="shortcut icon" type="image/x-icon" href="https://s1.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="icon" type="image/x-icon" href="https://s1.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="apple-touch-icon" href="https://s2.wp.com/i/webclip.png" />
+<link rel='openid.server' href='https://stancarey.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='https://stancarey.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="https://stancarey.wordpress.com/osd.xml" title="Sentence first" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>		<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<style type="text/css">
+.widget_twitter li {
+	word-wrap: break-word;
+}
+</style>
+<meta name="application-name" content="Sentence first" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="An Irishman&#039;s blog about the English language." /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://stancarey.wordpress.com/feed/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="description" content="If any lightfoot Clod Dewvale was to hold me up, dicksturping me and marauding me of my rights to my onus, yan, tyan, tethera, methera, pimp, I&#039;d let him have my best pair of galloper&#039;s heels in the creamsourer. —James Joyce, Finnegans Wake Though I grew up in the countryside, I’m not of direct farming&hellip;" />
+<style type="text/css">
+#headerimg{
+	background: url(https://stancarey.files.wordpress.com/2009/03/marapr08-184scr6.jpg) no-repeat;
+}
+#header h1 a, .description {
+	color:#e5e5f5;
+}
+</style>
+		<script type="text/javascript">
+
+			window.doNotSellCallback = function() {
+
+				var linkElements = [
+					'a[href="https://wordpress.com/?ref=footer_blog"]',
+					'a[href="https://wordpress.com/?ref=footer_website"]',
+					'a[href="https://wordpress.com/?ref=vertical_footer"]',
+					'a[href^="https://wordpress.com/?ref=footer_segment_"]',
+				].join(',');
+
+				var dnsLink = document.createElement( 'a' );
+				dnsLink.href = 'https://wordpress.com/advertising-program-optout/';
+				dnsLink.classList.add( 'do-not-sell-link' );
+				dnsLink.rel = 'nofollow';
+				dnsLink.style.marginLeft = '0.5em';
+				dnsLink.textContent = 'Do Not Sell or Share My Personal Information';
+
+				var creditLinks = document.querySelectorAll( linkElements );
+
+				if ( 0 === creditLinks.length ) {
+					return false;
+				}
+
+				Array.prototype.forEach.call( creditLinks, function( el ) {
+					el.insertAdjacentElement( 'afterend', dnsLink );
+				});
+
+				return true;
+			};
+
+		</script>
+		<script id="cmp-configuration" type="application/configuration">{"gvlVersion":"174","consentLanguage":"EN","locale":"en","vendorsAll":"BJdrv4__7a_t_z_f_T9ujzGr_v9e_dyGYcL5tn3gu5f635eC_-wnZou_VtXBUyPEl2pYJChto5k6gak2LVEiteY9jUmzlOZpRP4Mkk9jL2zrAwvt83NsfyBTPf_P7u7_Oyf_v_t_2_ue-_uu9-7vu_3-u58br_P_o_9_76P7fn5T_v_f3_F_n____-_73______v__8A","vendorsLegInterest":"BJcAkw1biALsyxwZtAwigRAjCsJCqBQAQUAwtEBgA4OCnZWAT6wgQAIBQBGBECHAFGBAIAABIAkIgAkCLBAAACIBAACABEIhAAwMAgsALAwCAAEA0DFEKAAQJCDIgIilMCAqBIICWyoQSgukNMIAqywAoJEbBQAIgkBFYAAgLBwDBEgJWLBAkxRvkAIwQoBRKhWopPQA","ajaxNonce":"c8a757a52d","modulePath":"https:\/\/s1.wp.com\/wp-content\/blog-plugins\/wordads-classes\/js\/","gvlPath":"https:\/\/public-api.wordpress.com\/wpcom\/v2\/sites\/3895763\/cmp\/vendors\/en\/","_":{"title":"Privacy & Cookies","intro":"We, WordPress.com, and our advertising partners store and\/or access information on your device and also process personal data, like unique identifiers, browsing activity, and other standard information sent by your device including your IP address. This information is collected over time and used for personalised ads, ad measurement, audience insights, and product development specific to our ads program. If this sounds good to you, select \"I Agree!\" below.  Otherwise, you can get more information, customize your consent preferences, or decline consent by selecting \"Learn More\". Note that your preferences apply to all websites in the <a href=\"https:\/\/automattic.com\/cookies\/#user-ads-consent\" target=\"_blank\">WordPress.com network<\/a>, and if you change your mind in the future you can update your preferences anytime by visiting the Privacy link displayed under each ad. One last thing, our partners may process some of your data based on legitimate interests instead of consent but you can object to that by choosing \"Learn More\" and then disabling the Legitimate Interests toggle under any listed Purpose or Partner.","config":"Learn More","accept":"I Agree!","viewPartners":"View Partners","error":"We're sorry but an unexpected error occurred. Please try again later."}}</script>		<script type="text/javascript">
+		function __ATA_CC() {var v = document.cookie.match('(^|;) ?personalized-ads-consent=([^;]*)(;|$)');return v ? 1 : 0;}
+		var __ATA_PP = { 'pt': 1, 'ht': 0, 'tn': 'contempt', 'uloggedin': 0, 'amp': false, 'consent': __ATA_CC(), 'gdpr_applies': true, 'ad': { 'label': { 'text': 'Advertisements' }, 'reportAd': { 'text': 'Report this ad' }, 'privacySettings': { 'text': 'Privacy', 'onClick': function() { window.__tcfapi && window.__tcfapi( 'showUi' ) } } }, 'siteid': 8982, 'blogid': 3895763, 'js_hint': 'tcf2_test', 'afp_ad_client': 'pub-3646451915804103' };
+		var __ATA = __ATA || {};
+		__ATA.cmd = __ATA.cmd || [];
+		__ATA.criteo = __ATA.criteo || {};
+		__ATA.criteo.cmd = __ATA.criteo.cmd || [];
+		</script>
+		<script type="text/javascript">
+		(function(){var g=Date.now||function(){return+new Date};function h(a,b){a:{for(var c=a.length,d="string"==typeof a?a.split(""):a,e=0;e<c;e++)if(e in d&&b.call(void 0,d[e],e,a)){b=e;break a}b=-1}return 0>b?null:"string"==typeof a?a.charAt(b):a[b]};function k(a,b,c){c=null!=c?"="+encodeURIComponent(String(c)):"";if(b+=c){c=a.indexOf("#");0>c&&(c=a.length);var d=a.indexOf("?");if(0>d||d>c){d=c;var e=""}else e=a.substring(d+1,c);a=[a.substr(0,d),e,a.substr(c)];c=a[1];a[1]=b?c?c+"&"+b:b:c;a=a[0]+(a[1]?"?"+a[1]:"")+a[2]}return a};var l=0;function m(a,b){var c=document.createElement("script");c.src=a;c.onload=function(){b&&b(void 0)};c.onerror=function(){b&&b("error")};a=document.getElementsByTagName("head");var d;a&&0!==a.length?d=a[0]:d=document.documentElement;d.appendChild(c)}function n(a){var b=void 0===b?document.cookie:b;return(b=h(b.split("; "),function(c){return-1!=c.indexOf(a+"=")}))?b.split("=")[1]:""}function p(a){return"string"==typeof a&&0<a.length}
+		function r(a,b,c){b=void 0===b?"":b;c=void 0===c?".":c;var d=[];Object.keys(a).forEach(function(e){var f=a[e],q=typeof f;"object"==q&&null!=f||"function"==q?d.push(r(f,b+e+c)):null!==f&&void 0!==f&&(e=encodeURIComponent(b+e),d.push(e+"="+encodeURIComponent(f)))});return d.filter(p).join("&")}function t(a,b){a||((window.__ATA||{}).config=b.c,m(b.url))}var u=Math.floor(1E13*Math.random()),v=window.__ATA||{};window.__ATA=v;window.__ATA.cmd=v.cmd||[];v.rid=u;v.createdAt=g();var w=window.__ATA||{},x="s.pubmine.com";
+		w&&w.serverDomain&&(x=w.serverDomain);var y="//"+x+"/conf",z=window.top===window,A=window.__ATA_PP&&window.__ATA_PP.gdpr_applies,B="boolean"===typeof A?Number(A):null,C=window.__ATA_PP||null,D=z?document.referrer?document.referrer:null:null,E=z?window.location.href:document.referrer?document.referrer:null,F,G=n("__ATA_tuuid");F=G?G:null;var H=window.innerWidth+"x"+window.innerHeight,I=n("usprivacy"),J=r({gdpr:B,pp:C,rid:u,src:D,ref:E,tuuid:F,vp:H,us_privacy:I?I:null},"",".");
+		(function(a){var b=void 0===b?"cb":b;l++;var c="callback__"+g().toString(36)+"_"+l.toString(36);a=k(a,b,c);window[c]=function(d){t(void 0,d)};m(a,function(d){d&&t(d)})})(y+"?"+J);}).call(this);
+		</script>	<script>
+		var sas_fallback = sas_fallback || [];
+		sas_fallback.push(
+			{ tag: "&lt;div id=&quot;atatags-26942-6394eccead5ca&quot;&gt;&lt;/div&gt;&lt;script&gt;__ATA.cmd.push(function() {__ATA.initDynamicSlot({id: \'atatags-26942-6394eccead5ca\',location: 120,formFactor: \'001\',label: {text: \'Advertisements\',},creative: {reportAd: {text: \'Report this ad\',},privacySettings: {text: \'Privacy\',onClick: function() { window.__tcfapi &amp;&amp; window.__tcfapi( \'showUi\' ); },}}});});&lt;/script&gt;", }
+		);
+	</script><script type="text/javascript">
+	window.google_analytics_uacct = "UA-52447-2";
+</script>
+
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-52447-2']);
+	_gaq.push(['_gat._anonymizeIp']);
+	_gaq.push(['_setDomainName', 'wordpress.com']);
+	_gaq.push(['_initData']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+	})();
+</script>
+</head>
+<body class="post-template-default single single-post postid-17111 single-format-standard customizer-styles-applied highlander-enabled highlander-light">
+
+<div id="page">
+
+<div id="header">
+	<div id="headerimg" onclick="location.href='https://stancarey.wordpress.com';" style="cursor: pointer;">
+		<h1><a href="https://stancarey.wordpress.com/">Sentence first</a></h1>
+		<div class="description">An Irishman&#039;s blog about the English language.</div>
+	</div>
+</div>
+
+<ul id="pagebar" class="menu pagebar"><li ><a href="https://stancarey.wordpress.com/">Home</a></li><li class="page_item page-item-2"><a href="https://stancarey.wordpress.com/about/">About</a></li>
+<li class="page_item page-item-18143"><a href="https://stancarey.wordpress.com/comments-policy/">Comments policy</a></li>
+<li class="page_item page-item-18920"><a href="https://stancarey.wordpress.com/editing-and-proofreading/">Editing and proofreading</a></li>
+</ul>
+
+<div id="grad" style="height: 65px; width: 100%; background: url(https://s2.wp.com/wp-content/themes/pub/contempt/images/blue_flower/topgrad.jpg);">&nbsp;</div>
+
+	<div id="content" class="widecolumn">
+
+  
+
+
+		<div class="post-17111 post type-post status-publish format-standard hentry category-dialect category-etymology category-language category-language-history category-nature category-philology category-poetry tag-british-history tag-celtic-languages tag-celts tag-counting tag-dialects tag-etymology tag-farming tag-history tag-jake-thackray tag-language tag-language-history tag-nature tag-number-systems tag-numbers tag-poetry tag-sheep tag-shepherding tag-wales tag-yan-tan-tethera" id="post-17111">
+			<h2>Yan tan tethera pethera pimp — an old system for counting&nbsp;sheep</h2>
+
+			<div class="entry">
+				<blockquote><p>If any lightfoot Clod Dewvale was to hold me up, dicksturping me and marauding me of my rights to my onus, yan, tyan, tethera, methera, pimp, I&#8217;d let him have my best pair of galloper&#8217;s heels in the creamsourer.<br />
+—James Joyce, <em>Finnegans Wake</em></p></blockquote>
+<p>Though I grew up in the countryside, I’m not of direct farming stock, which may be why I learned of &#8216;yan tan tethera&#8217; only quite recently. It’s an old counting system used traditionally by shepherds in parts of the UK, and also in knitting and fishing and so on, or by children for their own amusement.</p>
+<div data-shortcode="caption" id="attachment_17148" style="width: 410px" class="wp-caption aligncenter"><a href="https://stancarey.files.wordpress.com/2013/11/stan-carey-herd-of-sheep-in-ireland-spring-2009-yan-tan-tethera.jpg"><img aria-describedby="caption-attachment-17148" data-attachment-id="17148" data-permalink="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/stan-carey-herd-of-sheep-in-ireland-spring-2009-yan-tan-tethera/" data-orig-file="https://stancarey.files.wordpress.com/2013/11/stan-carey-herd-of-sheep-in-ireland-spring-2009-yan-tan-tethera.jpg" data-orig-size="400,300" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4&quot;,&quot;credit&quot;:&quot;stan carey&quot;,&quot;camera&quot;:&quot;Canon PowerShot S3 IS&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1234103189&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;23.2&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0.002&quot;,&quot;title&quot;:&quot;stan carey - herd of sheep in Ireland, spring 2009 - yan tan tethera&quot;}" data-image-title="stan carey &#8211; herd of sheep in Ireland, spring 2009 &#8211; yan tan tethera" data-image-description="" data-image-caption="" data-medium-file="https://stancarey.files.wordpress.com/2013/11/stan-carey-herd-of-sheep-in-ireland-spring-2009-yan-tan-tethera.jpg?w=300" data-large-file="https://stancarey.files.wordpress.com/2013/11/stan-carey-herd-of-sheep-in-ireland-spring-2009-yan-tan-tethera.jpg?w=400" class="size-full wp-image-17148" style="border:1px solid black;" src="https://stancarey.files.wordpress.com/2013/11/stan-carey-herd-of-sheep-in-ireland-spring-2009-yan-tan-tethera.jpg?w=450" alt="stan carey - herd of sheep in Ireland, spring 2009 - yan tan tethera" srcset="https://stancarey.files.wordpress.com/2013/11/stan-carey-herd-of-sheep-in-ireland-spring-2009-yan-tan-tethera.jpg 400w, https://stancarey.files.wordpress.com/2013/11/stan-carey-herd-of-sheep-in-ireland-spring-2009-yan-tan-tethera.jpg?w=150 150w, https://stancarey.files.wordpress.com/2013/11/stan-carey-herd-of-sheep-in-ireland-spring-2009-yan-tan-tethera.jpg?w=300 300w" sizes="(max-width: 400px) 100vw, 400px"   /></a><p id="caption-attachment-17148" class="wp-caption-text">Metheradik (=14) sheep in the west of Ireland (photo by Stan Carey)</p></div>
+<p><span id="more-17111"></span>The system seems to have been scattered around Britain, and its distribution and antiquity mean there’s a lot of variation in the forms it takes. The numbers&#8217; names come from a <a title="BBC: h2g2: A History of Modern and Extinct Celtic Languages" href="https://omniglot.com/language/celtic/comparison.htm" target="_blank" rel="noopener">Brythonic Celtic</a> language, and they vary with <a title="British Archaeology: Issue no. 46, July 1999: Rural dialects and surviving Britons" href="https://web.archive.org/web/20130112011032/https://www.archaeologyuk.org/ba/ba46/ba46int.html" target="_blank" rel="noopener">dialect</a>, geography, and other factors.</p>
+<p><a href="http://en.wikipedia.org/wiki/Yan_tan_tethera" target="_blank" rel="noopener">Wikipedia</a> has what looks like a reasonably well-sourced article with many examples of the system; here are a few, alongside Welsh for comparison:</p>
+<p><!--more--></p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="95"><strong> No.</strong></td>
+<td valign="top" width="95"> <strong>Wilts</strong></td>
+<td valign="top" width="95"> <strong>Scots</strong></td>
+<td valign="top" width="95"> <strong>Lakes</strong></td>
+<td valign="top" width="95"> <strong>Dales</strong></td>
+<td valign="top" width="95"> <strong>Welsh</strong></td>
+</tr>
+<tr>
+<td valign="top" width="95"> <strong>1</strong></td>
+<td valign="top" width="95"> Ain</td>
+<td valign="top" width="95"> Yan</td>
+<td valign="top" width="95"> Auna</td>
+<td valign="top" width="95"> Yain</td>
+<td valign="top" width="95"> Un</td>
+</tr>
+<tr>
+<td valign="top" width="95"> <strong>2</strong></td>
+<td valign="top" width="95"> Tain</td>
+<td valign="top" width="95"> Tyan</td>
+<td valign="top" width="95"> Peina</td>
+<td valign="top" width="95"> Tain</td>
+<td valign="top" width="95"> Dau</td>
+</tr>
+<tr>
+<td valign="top" width="95"> <strong>3</strong></td>
+<td valign="top" width="95"> Tethera</td>
+<td valign="top" width="95"> Tethera</td>
+<td valign="top" width="95"> Para</td>
+<td valign="top" width="95"> Edderoa</td>
+<td valign="top" width="95"> Tri</td>
+</tr>
+<tr>
+<td valign="top" width="95"> <strong>4</strong></td>
+<td valign="top" width="95"> Methera</td>
+<td valign="top" width="95"> Methera</td>
+<td valign="top" width="95"> Peddera</td>
+<td valign="top" width="95"> Peddero</td>
+<td valign="top" width="95"> Pedwar</td>
+</tr>
+<tr>
+<td valign="top" width="95"> <strong>5</strong></td>
+<td valign="top" width="95"> Mimp</td>
+<td valign="top" width="95"> Pimp</td>
+<td valign="top" width="95"> Pimp</td>
+<td valign="top" width="95"> Pitts</td>
+<td valign="top" width="95"> Pump</td>
+</tr>
+<tr>
+<td valign="top" width="95"> <strong>6</strong></td>
+<td valign="top" width="95"> Ayta</td>
+<td valign="top" width="95"> Sethera</td>
+<td valign="top" width="95"> Ithy</td>
+<td valign="top" width="95"> Tayter</td>
+<td valign="top" width="95"> Chwech</td>
+</tr>
+<tr>
+<td valign="top" width="95"> <strong>7</strong></td>
+<td valign="top" width="95"> Slayta</td>
+<td valign="top" width="95"> Lethera</td>
+<td valign="top" width="95"> Mithy</td>
+<td valign="top" width="95"> Leter</td>
+<td valign="top" width="95"> Saith</td>
+</tr>
+<tr>
+<td valign="top" width="95"> <strong>8</strong></td>
+<td valign="top" width="95"> Laura</td>
+<td valign="top" width="95"> Hovera</td>
+<td valign="top" width="95"> Owera</td>
+<td valign="top" width="95"> Overro</td>
+<td valign="top" width="95"> Wyth</td>
+</tr>
+<tr>
+<td valign="top" width="95"> <strong>9</strong></td>
+<td valign="top" width="95"> Dora</td>
+<td valign="top" width="95"> Dovera</td>
+<td valign="top" width="95"> Lowera</td>
+<td valign="top" width="95"> Coverro</td>
+<td valign="top" width="95"> Naw</td>
+</tr>
+<tr>
+<td valign="top" width="95"> <strong>10</strong></td>
+<td valign="top" width="95"> Dik</td>
+<td valign="top" width="95"> Dik</td>
+<td valign="top" width="95"> Dig</td>
+<td valign="top" width="95"> Dix</td>
+<td valign="top" width="95"> Deg</td>
+</tr>
+<tr>
+<td valign="top" width="95"> <strong>11</strong></td>
+<td valign="top" width="95"> Ain-a-dik</td>
+<td valign="top" width="95"> Yanadik</td>
+<td valign="top" width="95"> Ain-a-dig</td>
+<td valign="top" width="95"> Yain-dix</td>
+<td valign="top" width="95"> Un ar ddeg</td>
+</tr>
+<tr>
+<td valign="top" width="95"> <strong>12</strong></td>
+<td valign="top" width="95"> Tain-a-dik</td>
+<td valign="top" width="95"> Tyanadik</td>
+<td valign="top" width="95"> Pein-a-dig</td>
+<td valign="top" width="95"> Tain-dix</td>
+<td valign="top" width="95"> Deuddeg</td>
+</tr>
+<tr>
+<td valign="top" width="95"> <strong>13</strong></td>
+<td valign="top" width="95"> Tethera-a-dik</td>
+<td valign="top" width="95"> Tetheradik</td>
+<td valign="top" width="95"> Para-a-dig</td>
+<td valign="top" width="95"> Eddero-<br />
+dix</td>
+<td valign="top" width="95"> Tri ar ddeg</td>
+</tr>
+<tr>
+<td valign="top" width="95"> <strong>14</strong></td>
+<td valign="top" width="95"> Methera-a-dik</td>
+<td valign="top" width="95"> Metheradik</td>
+<td valign="top" width="95"> Peddaer-a-dig</td>
+<td valign="top" width="95"> Pedderp-<br />
+dix</td>
+<td valign="top" width="95"> Pedwar ar ddeg</td>
+</tr>
+<tr>
+<td valign="top" width="95"> <strong>15</strong></td>
+<td valign="top" width="95"> Mit</td>
+<td valign="top" width="95"> Bumfitt</td>
+<td valign="top" width="95"> Bunfit</td>
+<td valign="top" width="95"> Bumfitt</td>
+<td valign="top" width="95"> Pymtheg</td>
+</tr>
+<tr>
+<td valign="top" width="95"> <strong>16</strong></td>
+<td valign="top" width="95"> Ain-a-mit</td>
+<td valign="top" width="95"> Yanabumfitt</td>
+<td valign="top" width="95"> Aina-a-bumfit</td>
+<td valign="top" width="95"> Yain-o-bumfitt</td>
+<td valign="top" width="95"> Un ar bymtheg</td>
+</tr>
+<tr>
+<td valign="top" width="95"> <strong>17</strong></td>
+<td valign="top" width="95"> Tain-a-mit</td>
+<td valign="top" width="95"> Tyanabumfitt</td>
+<td valign="top" width="95"> Pein-a-bumfit</td>
+<td valign="top" width="95"> Tain-o-bumfitt</td>
+<td valign="top" width="95"> Dau ar bymtheg</td>
+</tr>
+<tr>
+<td valign="top" width="95"> <strong>18</strong></td>
+<td valign="top" width="95"> Tethera-mit</td>
+<td valign="top" width="95"> Tetherabumfitt</td>
+<td valign="top" width="95"> Par-a-bunfit</td>
+<td valign="top" width="95"> Eddero-bumfitt</td>
+<td valign="top" width="95"> Deunaw</td>
+</tr>
+<tr>
+<td valign="top" width="95"> <strong>19</strong></td>
+<td valign="top" width="95"> Gethera-mit</td>
+<td valign="top" width="95"> Metherabumfitt</td>
+<td valign="top" width="95"> Pedder-a-bumfit</td>
+<td valign="top" width="95"> Peddero-bumfitt</td>
+<td valign="top" width="95"> Pedwar ar bymtheg</td>
+</tr>
+<tr>
+<td valign="top" width="95"> <strong>20</strong></td>
+<td valign="top" width="95"> Ghet</td>
+<td valign="top" width="95"> Giggot</td>
+<td valign="top" width="95"> Giggy</td>
+<td valign="top" width="95"> Jiggit</td>
+<td valign="top" width="95"> Ugain</td>
+</tr>
+</tbody>
+</table>
+<p>The <a title="Lakeland Dialect Society: Counting Sheep" href="https://web.archive.org/web/20150318015319/http://www.lakelanddialectsociety.org/counting_sheep.htm" target="_blank" rel="noopener">Lakeland Dialect Society</a> has a useful article written by Ted Relph about the yan tan tethera system that includes a nice summary of how it works:</p>
+<blockquote><p>There would seem to be a clear connection with counting on the fingers, particularly after getting to 10, as the best known local examples then go 1 and 10, 2 and 10, etc up to 15, then 1 and 15, 2 and 15, etc up to 20. The count invariably ended at 20. This was a &#8216;score&#8217; and a scratch was then put in a stick or stone, and the count recommenced. In this way things were counted in scores. It is said that the shepherds, on reaching 20, would transfer a pebble or marble from one pocket to another, so as to keep a tally of the number of scores.</p></blockquote>
+<p>Several of the numbers are strongly suggestive of Welsh or Cornish, but their origins are complex, with the rhymes that were used as a mnemonic aid obscuring the derivation in some cases. <a title="Sheep and shepherding in the Isle of Man" href="http://www.isle-of-man.com/manxnotebook/fulltext/sheep.htm" target="_blank" rel="noopener">A letter</a> written by the great philologist Walter Skeat in 1907, and published in the <em>West Sussex Gazette</em>, gives some indication of the mixed etymology:</p>
+<blockquote><p>The original Celtic numerals were frequently forgotten, and their places supplied by words that were more or less founded on rhyme. And sometimes the Celtic words were supplemented by English ones. Owing to the corrupt forms that thus resulted, many of the formulae are of slight philological interest or value. That the original counting was in Celtic, chiefly appears from some forms that still remain. Thus the Welsh pump, five, explains the Eskdale pimp, and the Knaresborough pip, and others. The Welsh deg, ten, explains the forms dix, dec, dick, dik. But yan (whence yain, yaena, yah) is only a dialectal form of the English one. And tain, taena, tean are merely altered forms of two, whilst the rest of the word is made to rhyme: e.g. yain, tain, yaena, taena ; yan, tean ; yah, tiah ; and so on. The Welsh pedwar, four, has become first peddero (also pethera and pether) and afterwards meddera, methera, mether.</p></blockquote>
+<p><em>Yan tan tethera</em> has crept into all sorts of cultural corners, though not so much in Ireland; <em>Finnegans Wake </em>is a notable exception, the sequence a natural fit with that book&#8217;s poetic promiscuity. It also shows up in <a title="Kimmy Yeah: Yan Tan Tethera" href="http://stable.bandcamp.com/album/kimmy-yeah-yan-tan-tethera" target="_blank" rel="noopener">album titles</a>, <a title="Paul Bommer: Yan Tan Tethera" href="https://www.stjudesprints.co.uk/collections/all/products/yan-tan-tethera" target="_blank" rel="noopener">art works</a>, <a title="Flickr: Yan Tan Tethera" href="http://www.flickr.com/photos/bods/4845560751/" target="_blank" rel="noopener">house signs</a> and the like.</p>
+<p>Finally, here’s a charming clip of the English poet, singer and storyteller Jake Thackray introducing and performing <em>yan tan tethera</em> in an autobiographical vein. See if you don&#8217;t end up humming the melody for the rest of the day.</p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" width="450" height="254" src="https://www.youtube.com/embed/TiXINuf5nbI?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe></span>
+<p>And two further fine renditions, by folk singer Maz O&#8217;Connor:</p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" width="450" height="254" src="https://www.youtube.com/embed/9J3BXqQadA8?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe></span>
+<p>and vocal trio Yan Tan Tether:</p>
+<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" width="450" height="254" src="https://www.youtube.com/embed/miJDWoYO2UY?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe></span>
+<div id="atatags-370373-6394ecceb07a3">
+        <script type="text/javascript">
+            __ATA.cmd.push(function() {
+                __ATA.initVideoSlot('atatags-370373-6394ecceb07a3', {
+                    sectionId: '370373',
+                    format: 'inread'
+                });
+            });
+        </script>
+    </div>			<div id="atatags-26942-6394ecceb0af0"></div>
+			
+			<script>
+				__ATA.cmd.push(function() {
+					__ATA.initDynamicSlot({
+						id: 'atatags-26942-6394ecceb0af0',
+						location: 120,
+						formFactor: '001',
+						label: {
+							text: 'Advertisements',
+						},
+						creative: {
+							reportAd: {
+								text: 'Report this ad',
+							},
+							privacySettings: {
+								text: 'Privacy',
+								onClick: function() { window.__tcfapi && window.__tcfapi( 'showUi' ); },
+							}
+						}
+					});
+				});
+			</script><div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-17111" class="share-facebook sd-button share-icon no-text" href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?share=facebook" target="_blank" title="Click to share on Facebook" ><span></span><span class="sharing-screen-reader-text">Click to share on Facebook (Opens in new window)</span></a></li><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-17111" class="share-twitter sd-button share-icon no-text" href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?share=twitter" target="_blank" title="Click to share on Twitter" ><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-pinterest"><a rel="nofollow noopener noreferrer" data-shared="sharing-pinterest-17111" class="share-pinterest sd-button share-icon no-text" href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?share=pinterest" target="_blank" title="Click to share on Pinterest" ><span></span><span class="sharing-screen-reader-text">Click to share on Pinterest (Opens in new window)</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button share-icon no-text" href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?share=reddit" target="_blank" title="Click to share on Reddit" ><span></span><span class="sharing-screen-reader-text">Click to share on Reddit (Opens in new window)</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-17111" class="share-linkedin sd-button share-icon no-text" href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?share=linkedin" target="_blank" title="Click to share on LinkedIn" ><span></span><span class="sharing-screen-reader-text">Click to share on LinkedIn (Opens in new window)</span></a></li><li class="share-email"><a rel="nofollow noopener noreferrer" data-shared="" class="share-email sd-button share-icon no-text" href="mailto:?subject=%5BShared%20Post%5D%20Yan%20tan%20tethera%20pethera%20pimp%20%E2%80%94%20an%20old%20system%20for%20counting%20sheep&body=https%3A%2F%2Fstancarey.wordpress.com%2F2013%2F11%2F27%2Fyan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep%2F&share=email" target="_blank" title="Click to email a link to a friend" data-email-share-error-title="Do you have email set up?" data-email-share-error-text="If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself." data-email-share-nonce="fb904a8368" data-email-share-track-url="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?share=email"><span></span><span class="sharing-screen-reader-text">Click to email a link to a friend (Opens in new window)</span></a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-3895763-17111-6394ecceb15a2' data-src='//widgets.wp.com/likes/index.html?ver=20220105#blog_id=3895763&amp;post_id=17111&amp;origin=stancarey.wordpress.com&amp;obj_id=3895763-17111-6394ecceb15a2' data-name='like-post-frame-3895763-17111-6394ecceb15a2' data-title='Like or Reblog'><h3 class='sd-title'>Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Like</span></span> <span class="loading">Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div></div>
+				
+				<p class="postmetadata alt">
+					<small>
+					This entry was posted  on Wednesday, November 27th, 2013 at 1:13 pm and is filed under <a href="https://stancarey.wordpress.com/tag/dialect/" rel="category tag">dialect</a>, <a href="https://stancarey.wordpress.com/tag/etymology/" rel="category tag">etymology</a>, <a href="https://stancarey.wordpress.com/tag/language/" rel="category tag">language</a>, <a href="https://stancarey.wordpress.com/tag/language-history/" rel="category tag">language history</a>, <a href="https://stancarey.wordpress.com/tag/nature/" rel="category tag">nature</a>, <a href="https://stancarey.wordpress.com/tag/philology/" rel="category tag">philology</a>, <a href="https://stancarey.wordpress.com/tag/poetry/" rel="category tag">poetry</a>.					You can follow any responses to this entry through the <a href='https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/feed/'>RSS 2.0</a> feed.
+											You can <a href="#respond">leave a response</a>, or <a href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/trackback/" rel="trackback">trackback</a> from your own site.
+					
+					</small>
+				</p>
+
+				<nav id="nav-below">
+					<h3 class="assistive-text">Post navigation</h3>
+					<span class="nav-previous"><a href="https://stancarey.wordpress.com/2013/11/22/slang-bans-and-aphaeresis/" rel="prev">&laquo; Previous Post</a></span>
+					<span class="nav-next"><a href="https://stancarey.wordpress.com/2013/12/03/this-blog-post-is-cat-melodeon/" rel="next">Next Post &raquo;</a></span>
+				</nav><!-- #nav-below -->
+
+			</div>
+		</div>
+
+	<div id="comments">
+
+
+<h3 id="comments-title">27 Responses to <em>Yan tan tethera pethera pimp — an old system for counting&nbsp;sheep</em></h3>
+
+
+<ol class="commentlist">
+			<li class="comment byuser comment-author-richardsmyth even thread-even depth-1 parent highlander-comment" id="comment-57303">
+				<div id="div-comment-57303" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='https://0.gravatar.com/avatar/351bf9b39825380a02d7f17d61dbbc6b?s=32&#038;d=https%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">richardsmyth</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/#comment-57303">November 27, 2013 at 1:15 pm</a>		</div>
+
+		<p>Lovely post, Stan, and a terrific clip &#8211; but it&#8217;s Jake, not Jack, Thackray.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?replytocom=57303#respond' data-commentid="57303" data-postid="17111" data-belowelement="div-comment-57303" data-respondelement="respond" data-replyto="Reply to richardsmyth" aria-label='Reply to richardsmyth'>Reply</a></div>
+				</div>
+				<ul class="children">
+		<li class="comment byuser comment-author-stancarey bypostauthor odd alt depth-2 highlander-comment" id="comment-57305">
+				<div id="div-comment-57305" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='https://1.gravatar.com/avatar/1416ad5f6a6adaea3d80c1a0261e3fd9?s=32&#038;d=https%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32' class='avatar avatar-32' height='32' width='32' />			<cite class="fn"><a href='https://stancarey.wordpress.com/' rel='external nofollow ugc' class='url'>Stan</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/#comment-57305">November 27, 2013 at 2:25 pm</a>		</div>
+
+		<p>Fixed. Thanks, Richard.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?replytocom=57305#respond' data-commentid="57305" data-postid="17111" data-belowelement="div-comment-57305" data-respondelement="respond" data-replyto="Reply to Stan" aria-label='Reply to Stan'>Reply</a></div>
+				</div>
+				</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment even thread-odd thread-alt depth-1 highlander-comment" id="comment-57307">
+				<div id="div-comment-57307" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='https://2.gravatar.com/avatar/e68c5f291c67894acdd3f38c81a356ba?s=32&#038;d=https%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">Vinetta Bell</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/#comment-57307">November 27, 2013 at 2:32 pm</a>		</div>
+
+		<p>Good morning, (in the USA), Stan!  Good afternoon to you in Ireland.<br />
+Thanks for an interesting post.  For some reason, upon reading your chart comparing numbers in different dialects (the right term in this context?), I thought of biblical Hebrew, which I don&#8217;t know but with which I have a little familiarity due to my daily and considerable reading of the Bible, KJV 1611 version.  However, my quick Google search did not yield the answer to my inquiry.  You appear to be a linguist.  My one graduate level course in linguistics permits me to understand some of what you write about the technical nature (etymology) of language.  The short video you embedded is both entertaining and informative.  Thanks!  And, I wish you and your family a safe and happy Thanksgiving.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?replytocom=57307#respond' data-commentid="57307" data-postid="17111" data-belowelement="div-comment-57307" data-respondelement="respond" data-replyto="Reply to Vinetta Bell" aria-label='Reply to Vinetta Bell'>Reply</a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment odd alt thread-even depth-1 highlander-comment" id="comment-57308">
+				<div id="div-comment-57308" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='https://1.gravatar.com/avatar/a87a209bf0da965d7aadca0644b3c75c?s=32&#038;d=https%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32' class='avatar avatar-32' height='32' width='32' />			<cite class="fn"><a href='http://www.proz.com/profile/1096129' rel='external nofollow ugc' class='url'>Jenni Lukac</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/#comment-57308">November 27, 2013 at 4:40 pm</a>		</div>
+
+		<p>Lovely!</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?replytocom=57308#respond' data-commentid="57308" data-postid="17111" data-belowelement="div-comment-57308" data-respondelement="respond" data-replyto="Reply to Jenni Lukac" aria-label='Reply to Jenni Lukac'>Reply</a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment even thread-odd thread-alt depth-1 highlander-comment" id="comment-57309">
+				<div id="div-comment-57309" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='https://0.gravatar.com/avatar/93b8f84eec59143a9a0ac5e9d231579a?s=32&#038;d=https%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32' class='avatar avatar-32' height='32' width='32' />			<cite class="fn"><a href='http://www.languagehat.com/' rel='external nofollow ugc' class='url'>languagehat</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/#comment-57309">November 27, 2013 at 4:45 pm</a>		</div>
+
+		<p>There are some interesting comments in <a href="http://www.languagehat.com/archives/002031.php" rel="nofollow">this old LH thread</a>.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?replytocom=57309#respond' data-commentid="57309" data-postid="17111" data-belowelement="div-comment-57309" data-respondelement="respond" data-replyto="Reply to languagehat" aria-label='Reply to languagehat'>Reply</a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment byuser comment-author-stancarey bypostauthor odd alt thread-even depth-1 highlander-comment" id="comment-57310">
+				<div id="div-comment-57310" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='https://1.gravatar.com/avatar/1416ad5f6a6adaea3d80c1a0261e3fd9?s=32&#038;d=https%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32' class='avatar avatar-32' height='32' width='32' />			<cite class="fn"><a href='https://stancarey.wordpress.com/' rel='external nofollow ugc' class='url'>Stan</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/#comment-57310">November 27, 2013 at 5:06 pm</a>		</div>
+
+		<p><b>Vinetta</b>: Good morning and good afternoon to you further west (and good evening, since it&#8217;s turning dusky here already). I wouldn&#8217;t call them dialects, since each version of the system is a mixture of quite disparate dialects and languages. I&#8217;d call them versions or variations of an old counting system (that&#8217;s based chiefly on Celtic dialects). For the record, I&#8217;m not a linguist, though I have an abiding interest in the area; my educational background is in the life sciences. Happy Thanksgiving to you and your family too.</p>
+<p><b>Jenni</b>: Very! Thanks for stopping by.</p>
+<p><b>LH</b>: Ah yes. I should have searched your site for this – if any language blog was likely to&#8217;ve covered it, it&#8217;s yours. Of particular interest, and not mentioned in my post, are the folk song &#8216;<a href="http://mainlynorfolk.info/watersons/songs/thelincolnshireshepherd.html" rel="nofollow">The Lincolnshire Shepherd</a>&#8216;, this collection of <a href="https://web.archive.org/web/20070301141900/http://www.slaidburn.org.uk/counting_sheep.htm" rel="nofollow">regional variations</a>, and these beautiful <a href="http://www.specialcollections.mmu.ac.uk/big_view.php?img=bookd-5" rel="nofollow">wood engravings</a>.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?replytocom=57310#respond' data-commentid="57310" data-postid="17111" data-belowelement="div-comment-57310" data-respondelement="respond" data-replyto="Reply to Stan" aria-label='Reply to Stan'>Reply</a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="pingback even thread-odd thread-alt depth-1 highlander-comment" id="comment-57311">
+				<div id="div-comment-57311" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='https://secure.gravatar.com/blavatar/c7a8a7346e9dfa651e7fea1acd85e7f5?s=32' class='avatar avatar-32' height='32' width='32' />			<cite class="fn"><a href='http://curlewriver.wordpress.com/2013/11/27/yan-tan-tethera-and-the-rock-of-the-old-north/' rel='external nofollow ugc' class='url'>Yan tan tethera and the Rock of the Old North | Curlew River</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/#comment-57311">November 27, 2013 at 7:29 pm</a>		</div>
+
+		<p>[&#8230;] read this interesting post on the origins of the various, related counting systems used by shepherds in northern England, [&#8230;]</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?replytocom=57311#respond' data-commentid="57311" data-postid="17111" data-belowelement="div-comment-57311" data-respondelement="respond" data-replyto="Reply to Yan tan tethera and the Rock of the Old North | Curlew River" aria-label='Reply to Yan tan tethera and the Rock of the Old North | Curlew River'>Reply</a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment byuser comment-author-alexmccrae1546 odd alt thread-even depth-1 highlander-comment" id="comment-57312">
+				<div id="div-comment-57312" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='https://0.gravatar.com/avatar/922c85baace4a5e3a72ee0bddd05484f?s=32&#038;d=https%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">alexmccrae1546</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/#comment-57312">November 27, 2013 at 8:46 pm</a>		</div>
+
+		<p>Stan, thanks for this intriguing cross-cultural, (yet commonly rooted in Celtic dialect), comparison of related sheep counting methods in various British sheep rearing locales.</p>
+<p>Jake Thackery &#8216;s wonderful musings on counting sheep, even connecting w/ his ancestral roots in his brief account of the ill-fated shepherdess, Molly Metcalfe, was thoroughly engaging. </p>
+<p>Almost  immediately, I was struck by Thackery&#8217;s sonorous, fairly monotone, deep basso-baritone voice, as well as his heavy-lidded, eyes; as if he were about to drift off to beddy-byes. Which got me pondering as to the possible efficacy of using this lyrical Gaelic sheep count&#8230; Yan. tan, tethera&#8230;etc. as a viable method of helping one doze off to slumberland. </p>
+<p>Counting imaginary sheep was kind of an old-school option for insomniacs to fall asleep, back in the day; but w/ the array of readily available over-the-counter oral sleep aids such as melatonin, Lunestra*, Sominex, and the like, the sheep counting modality seems to have gone the way of the Dodo.</p>
+<p>Hmm&#8230; counting Dodos? Now there&#8217;s a concept. </p>
+<p>*Might need a prescription for that Lunestra.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?replytocom=57312#respond' data-commentid="57312" data-postid="17111" data-belowelement="div-comment-57312" data-respondelement="respond" data-replyto="Reply to alexmccrae1546" aria-label='Reply to alexmccrae1546'>Reply</a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment even thread-odd thread-alt depth-1 highlander-comment" id="comment-57320">
+				<div id="div-comment-57320" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='https://2.gravatar.com/avatar/5453b14a7b05b5f918afc77f6b76ea66?s=32&#038;d=https%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">Claude</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/#comment-57320">November 28, 2013 at 5:27 am</a>		</div>
+
+		<p>Fascinating article.Love the video!</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?replytocom=57320#respond' data-commentid="57320" data-postid="17111" data-belowelement="div-comment-57320" data-respondelement="respond" data-replyto="Reply to Claude" aria-label='Reply to Claude'>Reply</a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment byuser comment-author-stancarey bypostauthor odd alt thread-even depth-1 highlander-comment" id="comment-57327">
+				<div id="div-comment-57327" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='https://1.gravatar.com/avatar/1416ad5f6a6adaea3d80c1a0261e3fd9?s=32&#038;d=https%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32' class='avatar avatar-32' height='32' width='32' />			<cite class="fn"><a href='https://stancarey.wordpress.com/' rel='external nofollow ugc' class='url'>Stan</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/#comment-57327">November 28, 2013 at 1:11 pm</a>		</div>
+
+		<p>Alex: I found Thackray&#8217;s (note spelling) performance engaging too – even haunting, as a Twitter friend put it. It would be nice to think that people do actually count sheep to invite sleep.</p>
+<p>Claude: Thank you! The video is one I&#8217;ve returned to quite a few times. A perfect match of story, song, and rich history.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?replytocom=57327#respond' data-commentid="57327" data-postid="17111" data-belowelement="div-comment-57327" data-respondelement="respond" data-replyto="Reply to Stan" aria-label='Reply to Stan'>Reply</a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment byuser comment-author-alexmccrae1546 even thread-odd thread-alt depth-1 parent highlander-comment" id="comment-57328">
+				<div id="div-comment-57328" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='https://0.gravatar.com/avatar/922c85baace4a5e3a72ee0bddd05484f?s=32&#038;d=https%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">alexmccrae1546</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/#comment-57328">November 28, 2013 at 4:46 pm</a>		</div>
+
+		<p>Stan, thanks for Jake&#8217;s name clarification in your last reply. For me, (and I&#8217;m sure for scores of other readers), his surname immediately evoked the name of the much lauded Victorian era satirist, William Makepeace Thackeray&#8230; sans the &#8220;e&#8221;, of course. </p>
+<p>So in my earlier offering of my &#8216;two-cents-worth&#8217;, I wanted to be sure to spell this raconteur&#8217;s name in the attached video, correctly. And sure enough, I blew it on two counts w/ my erroneous &#8220;Thackery&#8221;&#8211; spelling both the late Vanity Fair parodist, and this basso-profundo gent, Jake&#8217;s last names, incorrectly. Oh well.</p>
+<p>I can appreciate your Twitter friend&#8217;s &#8220;haunting&#8221; take on Mr. Thackray&#8217;s subtly riveting performance. That bouncy, rhyming sheep-count does kind of linger in one&#8217;s noggin for a spell.</p>
+<p>P.S.:&#8212;Happy Thanksgiving to all those celebrants out there. We truly all have much to be thankful for&#8230; including our blogmeister Stan, who allows us to openly commune, and share in our mutual love of words, word usage, word origins, word play, and the infinite wonders of our ever-evolving English tongue. </p>
+<p>Stan, thanks for being there (and here&#8230; Ha!), and generously giving of yourself, each and every day.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?replytocom=57328#respond' data-commentid="57328" data-postid="17111" data-belowelement="div-comment-57328" data-respondelement="respond" data-replyto="Reply to alexmccrae1546" aria-label='Reply to alexmccrae1546'>Reply</a></div>
+				</div>
+				<ul class="children">
+		<li class="comment odd alt depth-2 highlander-comment" id="comment-57329">
+				<div id="div-comment-57329" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='https://2.gravatar.com/avatar/e68c5f291c67894acdd3f38c81a356ba?s=32&#038;d=https%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">Vinetta Bell</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/#comment-57329">November 28, 2013 at 5:22 pm</a>		</div>
+
+		<p>Thanks, Alex McCrae, for giving a &#8220;shout-out&#8221; to Stan.  He deserves it.  Thanks, Stan!</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?replytocom=57329#respond' data-commentid="57329" data-postid="17111" data-belowelement="div-comment-57329" data-respondelement="respond" data-replyto="Reply to Vinetta Bell" aria-label='Reply to Vinetta Bell'>Reply</a></div>
+				</div>
+				</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment even thread-even depth-1 highlander-comment" id="comment-57333">
+				<div id="div-comment-57333" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='https://0.gravatar.com/avatar/38015f074be8ec466497aef184c51d2b?s=32&#038;d=https%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32' class='avatar avatar-32' height='32' width='32' />			<cite class="fn"><a href='http:tetrapilotomie.blogspot.com' rel='external nofollow ugc' class='url'>Sean J.</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/#comment-57333">November 29, 2013 at 12:22 am</a>		</div>
+
+		<p>Immense joy to read, watch, listen and learn. Thanks a lot, Stan.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?replytocom=57333#respond' data-commentid="57333" data-postid="17111" data-belowelement="div-comment-57333" data-respondelement="respond" data-replyto="Reply to Sean J." aria-label='Reply to Sean J.'>Reply</a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="pingback odd alt thread-odd thread-alt depth-1 highlander-comment" id="comment-57335">
+				<div id="div-comment-57335" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='https://secure.gravatar.com/blavatar/661b25210dac6916ea1861d2adcddeaf?s=32' class='avatar avatar-32' height='32' width='32' />			<cite class="fn"><a href='http://alastairadversaria.wordpress.com/2013/11/29/links-17-291113/' rel='external nofollow ugc' class='url'>Links 17 – 29/11/13 | Alastair&#039;s Adversaria</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/#comment-57335">November 29, 2013 at 4:01 am</a>		</div>
+
+		<p>[&#8230;] 38. Yan Tan Tethera Pethera Pimp – An Old System For Counting Sheep [&#8230;]</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?replytocom=57335#respond' data-commentid="57335" data-postid="17111" data-belowelement="div-comment-57335" data-respondelement="respond" data-replyto="Reply to Links 17 – 29/11/13 | Alastair&#039;s Adversaria" aria-label='Reply to Links 17 – 29/11/13 | Alastair&#039;s Adversaria'>Reply</a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment byuser comment-author-stancarey bypostauthor even thread-even depth-1 parent highlander-comment" id="comment-57340">
+				<div id="div-comment-57340" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='https://1.gravatar.com/avatar/1416ad5f6a6adaea3d80c1a0261e3fd9?s=32&#038;d=https%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32' class='avatar avatar-32' height='32' width='32' />			<cite class="fn"><a href='https://stancarey.wordpress.com/' rel='external nofollow ugc' class='url'>Stan</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/#comment-57340">November 29, 2013 at 10:39 am</a>		</div>
+
+		<p>Alex, Vinetta, thanks very much, and many happy returns.</p>
+<p>Sean, I&#8217;m glad you enjoyed it. It would be nice to think that someone somewhere is still using the system for practical purposes out in the fields.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?replytocom=57340#respond' data-commentid="57340" data-postid="17111" data-belowelement="div-comment-57340" data-respondelement="respond" data-replyto="Reply to Stan" aria-label='Reply to Stan'>Reply</a></div>
+				</div>
+				<ul class="children">
+		<li class="comment odd alt depth-2 parent highlander-comment" id="comment-60936">
+				<div id="div-comment-60936" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='https://1.gravatar.com/avatar/7637cae7dafd5db616c8cd81fe4f4f7b?s=32&#038;d=https%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32' class='avatar avatar-32' height='32' width='32' />			<cite class="fn"><a href='http://www.amybogard.com/blog/' rel='external nofollow ugc' class='url'>Amy Bogard</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/#comment-60936">March 5, 2014 at 4:02 am</a>		</div>
+
+		<p>I have been contemplating this rhyming system for a long while as an illustrated book.  This song just nails it!!</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?replytocom=60936#respond' data-commentid="60936" data-postid="17111" data-belowelement="div-comment-60936" data-respondelement="respond" data-replyto="Reply to Amy Bogard" aria-label='Reply to Amy Bogard'>Reply</a></div>
+				</div>
+				<ul class="children">
+		<li class="comment byuser comment-author-stancarey bypostauthor even depth-3 highlander-comment" id="comment-60969">
+				<div id="div-comment-60969" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='https://1.gravatar.com/avatar/1416ad5f6a6adaea3d80c1a0261e3fd9?s=32&#038;d=https%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32' class='avatar avatar-32' height='32' width='32' />			<cite class="fn"><a href='https://stancarey.wordpress.com/' rel='external nofollow ugc' class='url'>Stan</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/#comment-60969">March 5, 2014 at 10:36 am</a>		</div>
+
+		<p>That sounds like a lovely idea, Amy. The melody is back in my head after I listened to Thackray&#8217;s version again yesterday.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?replytocom=60969#respond' data-commentid="60969" data-postid="17111" data-belowelement="div-comment-60969" data-respondelement="respond" data-replyto="Reply to Stan" aria-label='Reply to Stan'>Reply</a></div>
+				</div>
+				</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment odd alt thread-odd thread-alt depth-1 parent highlander-comment" id="comment-57353">
+				<div id="div-comment-57353" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='https://2.gravatar.com/avatar/bf36ffcbb0e93e6c2af3fdf47d251a6a?s=32&#038;d=https%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">Nurn</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/#comment-57353">November 30, 2013 at 1:40 am</a>		</div>
+
+		<p>Stan, quite apart from the very interesting post, thanks for introducing me to Jake Thackray, and Maz O&#8217;Connor.  That&#8217;s a very evocative song.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?replytocom=57353#respond' data-commentid="57353" data-postid="17111" data-belowelement="div-comment-57353" data-respondelement="respond" data-replyto="Reply to Nurn" aria-label='Reply to Nurn'>Reply</a></div>
+				</div>
+				<ul class="children">
+		<li class="comment byuser comment-author-stancarey bypostauthor even depth-2 highlander-comment" id="comment-57366">
+				<div id="div-comment-57366" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='https://1.gravatar.com/avatar/1416ad5f6a6adaea3d80c1a0261e3fd9?s=32&#038;d=https%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32' class='avatar avatar-32' height='32' width='32' />			<cite class="fn"><a href='https://stancarey.wordpress.com/' rel='external nofollow ugc' class='url'>Stan</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/#comment-57366">November 30, 2013 at 11:43 am</a>		</div>
+
+		<p>You&#8217;re most welcome, Nurn. I&#8217;ve become fond of the tune too.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?replytocom=57366#respond' data-commentid="57366" data-postid="17111" data-belowelement="div-comment-57366" data-respondelement="respond" data-replyto="Reply to Stan" aria-label='Reply to Stan'>Reply</a></div>
+				</div>
+				</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment odd alt thread-even depth-1 highlander-comment" id="comment-57421">
+				<div id="div-comment-57421" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='https://0.gravatar.com/avatar/9c6cdb337bc684e710843c0dad66eb8d?s=32&#038;d=https%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32' class='avatar avatar-32' height='32' width='32' />			<cite class="fn"><a href='http://wisewebwoman.blogspot.com' rel='external nofollow ugc' class='url'>wisewebwoman</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/#comment-57421">December 2, 2013 at 4:44 pm</a>		</div>
+
+		<p>I can&#8217;t get over &#8220;bumfitt&#8221; and will use it every chance I get. To hell with 15.</p>
+<p>XO<br />
+WWW</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?replytocom=57421#respond' data-commentid="57421" data-postid="17111" data-belowelement="div-comment-57421" data-respondelement="respond" data-replyto="Reply to wisewebwoman" aria-label='Reply to wisewebwoman'>Reply</a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment even thread-odd thread-alt depth-1 highlander-comment" id="comment-57423">
+				<div id="div-comment-57423" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='https://0.gravatar.com/avatar/c1ded0efd985c6c2f936a2ab41a070f1?s=32&#038;d=https%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32' class='avatar avatar-32' height='32' width='32' />			<cite class="fn"><a href='http://www.arrantpedantry.com' rel='external nofollow ugc' class='url'>Jonathon Owen</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/#comment-57423">December 2, 2013 at 7:13 pm</a>		</div>
+
+		<p>Thanks for sharing, Stan. It&#8217;s amazing to me that traces of Celtic have survived in English for so long.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?replytocom=57423#respond' data-commentid="57423" data-postid="17111" data-belowelement="div-comment-57423" data-respondelement="respond" data-replyto="Reply to Jonathon Owen" aria-label='Reply to Jonathon Owen'>Reply</a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment byuser comment-author-stancarey bypostauthor odd alt thread-even depth-1 highlander-comment" id="comment-57424">
+				<div id="div-comment-57424" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='https://1.gravatar.com/avatar/1416ad5f6a6adaea3d80c1a0261e3fd9?s=32&#038;d=https%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32' class='avatar avatar-32' height='32' width='32' />			<cite class="fn"><a href='https://stancarey.wordpress.com/' rel='external nofollow ugc' class='url'>Stan</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/#comment-57424">December 2, 2013 at 7:39 pm</a>		</div>
+
+		<p>WWW: <i>To hell with 15.</i> Ha ha. I&#8217;d love if it caught on.</p>
+<p>Jonathon: Testament to the system&#8217;s utility and catchiness, maybe. It deserves to survive in some shape or form.</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?replytocom=57424#respond' data-commentid="57424" data-postid="17111" data-belowelement="div-comment-57424" data-respondelement="respond" data-replyto="Reply to Stan" aria-label='Reply to Stan'>Reply</a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="pingback even thread-odd thread-alt depth-1 highlander-comment" id="comment-61703">
+				<div id="div-comment-61703" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href='https://stancarey.wordpress.com/2014/03/14/unlocking-the-language-with-robert-burchfield/' rel='external nofollow ugc' class='url'>Unlocking the language with Robert Burchfield | Sentence first</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/#comment-61703">March 14, 2014 at 1:18 pm</a>		</div>
+
+		<p>[&#8230;] classified; I was particularly struck by imberb “beardless”), obscure counting words like yan, tan, tethera, methera, pip, and miscellaneous [&#8230;]</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?replytocom=61703#respond' data-commentid="61703" data-postid="17111" data-belowelement="div-comment-61703" data-respondelement="respond" data-replyto="Reply to Unlocking the language with Robert Burchfield | Sentence first" aria-label='Reply to Unlocking the language with Robert Burchfield | Sentence first'>Reply</a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="pingback odd alt thread-even depth-1 highlander-comment" id="comment-61767">
+				<div id="div-comment-61767" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='https://secure.gravatar.com/blavatar/cdcd94faadc15367109c7965d1ddf189?s=32' class='avatar avatar-32' height='32' width='32' />			<cite class="fn"><a href='http://theproofangel.wordpress.com/2014/03/15/how-to-count-sheep/' rel='external nofollow ugc' class='url'>How to count sheep | The Proof Angel</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/#comment-61767">March 15, 2014 at 3:55 pm</a>		</div>
+
+		<p>[&#8230;] of old language will like this one.  Old numbering systems. There are some lovely words in there, but it isn&#8217;t hard to see how the modern equivalents [&#8230;]</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?replytocom=61767#respond' data-commentid="61767" data-postid="17111" data-belowelement="div-comment-61767" data-respondelement="respond" data-replyto="Reply to How to count sheep | The Proof Angel" aria-label='Reply to How to count sheep | The Proof Angel'>Reply</a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="pingback even thread-odd thread-alt depth-1 highlander-comment" id="comment-61850">
+				<div id="div-comment-61850" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href='http://philipjanderson.wordpress.com/2014/03/16/irish-influence/' rel='external nofollow ugc' class='url'>Irish Influence | Scribe of Theran</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/#comment-61850">March 17, 2014 at 4:43 am</a>		</div>
+
+		<p>[&#8230;] from a wide variety of sources. The following is a bit of Theran culture that developed from a blog post by linguist Stan Carey. (He&#8217;s Irish, so that&#8217;s where I made my [&#8230;]</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?replytocom=61850#respond' data-commentid="61850" data-postid="17111" data-belowelement="div-comment-61850" data-respondelement="respond" data-replyto="Reply to Irish Influence | Scribe of Theran" aria-label='Reply to Irish Influence | Scribe of Theran'>Reply</a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="pingback odd alt thread-even depth-1 highlander-comment" id="comment-269797">
+				<div id="div-comment-269797" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href='http://foolishmusings.com/2019/11/24/e005-labels-names-and-heuristics/' rel='external nofollow ugc' class='url'>E005 – Labels, names and heuristics – Foolish Musings</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/#comment-269797">November 24, 2019 at 1:03 pm</a>		</div>
+
+		<p>[&#8230;] Shepard counting systems in Britain,<br />
+<a href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep" rel="nofollow ugc">https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep</a> [&#8230;]</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?replytocom=269797#respond' data-commentid="269797" data-postid="17111" data-belowelement="div-comment-269797" data-respondelement="respond" data-replyto="Reply to E005 – Labels, names and heuristics – Foolish Musings" aria-label='Reply to E005 – Labels, names and heuristics – Foolish Musings'>Reply</a></div>
+				</div>
+				</li><!-- #comment-## -->
+		<li class="comment even thread-odd thread-alt depth-1 highlander-comment" id="comment-317498">
+				<div id="div-comment-317498" class="comment-body">
+				<div class="comment-author vcard">
+			<img alt='' src='https://0.gravatar.com/avatar/0e025177d440b8992d2fbf2d5cabd63a?s=32&#038;d=https%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32' class='avatar avatar-32' height='32' width='32' />			<cite class="fn">Maurits van Stralen</cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata">
+			<a href="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/#comment-317498">May 1, 2021 at 8:27 am</a>		</div>
+
+		<p>I’m wandering What zero (0) is in Scots</p>
+
+		<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/?replytocom=317498#respond' data-commentid="317498" data-postid="17111" data-belowelement="div-comment-317498" data-respondelement="respond" data-replyto="Reply to Maurits van Stralen" aria-label='Reply to Maurits van Stralen'>Reply</a></div>
+				</div>
+				</li><!-- #comment-## -->
+</ol>
+
+
+
+	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://stancarey.wordpress.com/wp-comments-post.php" method="post" id="commentform" class="comment-form"><input type="hidden" id="highlander_comment_nonce" name="highlander_comment_nonce" value="e35dfad4b2" /><input type="hidden" name="_wp_http_referer" value="/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/" />
+<input type="hidden" name="hc_post_as" id="hc_post_as" value="guest" />
+
+<div class="comment-form-field comment-textarea">
+	<label for="comment">Enter your comment here...</label>
+	<div id="comment-form-comment"><textarea id="comment" name="comment" title="Enter your comment here..."></textarea></div>
+</div>
+
+<div id="comment-form-identity">
+	<div id="comment-form-nascar">
+		<p>Fill in your details below or click an icon to log in:</p>
+		<ul>
+			<li class="selected" style="display:none;">
+				<a href="#comment-form-guest" id="postas-guest" class="nascar-signin-link"
+				 title="Login via Guest" 				>
+									</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:WordPress.com" id="postas-wordpress" class="nascar-signin-link"
+				 title="Login via WordPress.com" 				>
+					<svg xmlns="http://www.w3.org/2000/svg" role="presentation" viewBox="0 0 24 24" ><rect x="0" fill="none" width="24" height="24"/><g><path fill="#0087be" d="M12.158 12.786l-2.698 7.84c.806.236 1.657.365 2.54.365 1.047 0 2.05-.18 2.986-.51-.024-.037-.046-.078-.065-.123l-2.762-7.57zM3.008 12c0 3.56 2.07 6.634 5.068 8.092L3.788 8.342c-.5 1.117-.78 2.354-.78 3.658zm15.06-.454c0-1.112-.398-1.88-.74-2.48-.456-.74-.883-1.368-.883-2.11 0-.825.627-1.595 1.51-1.595.04 0 .078.006.116.008-1.598-1.464-3.73-2.36-6.07-2.36-3.14 0-5.904 1.613-7.512 4.053.21.008.41.012.58.012.94 0 2.395-.114 2.395-.114.484-.028.54.684.057.74 0 0-.487.058-1.03.086l3.275 9.74 1.968-5.902-1.4-3.838c-.485-.028-.944-.085-.944-.085-.486-.03-.43-.77.056-.742 0 0 1.484.114 2.368.114.94 0 2.397-.114 2.397-.114.486-.028.543.684.058.74 0 0-.488.058-1.03.086l3.25 9.665.897-2.997c.456-1.17.684-2.137.684-2.907zm1.82-3.86c.04.286.06.593.06.924 0 .912-.17 1.938-.683 3.22l-2.746 7.94c2.672-1.558 4.47-4.454 4.47-7.77 0-1.564-.4-3.033-1.1-4.314zM12 22C6.486 22 2 17.514 2 12S6.486 2 12 2s10 4.486 10 10-4.486 10-10 10z"/></g></svg>				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Twitter" id="postas-twitter" class="nascar-signin-link"
+				 title="Login via Twitter" 				>
+					<svg xmlns="http://www.w3.org/2000/svg" role="presentation" viewBox="0 0 24 24" ><rect x="0" fill="none" width="24" height="24"/><g><path fill="#1DA1F2" d="M22.23 5.924c-.736.326-1.527.547-2.357.646.847-.508 1.498-1.312 1.804-2.27-.793.47-1.67.812-2.606.996C18.325 4.498 17.258 4 16.078 4c-2.266 0-4.103 1.837-4.103 4.103 0 .322.036.635.106.935-3.41-.17-6.433-1.804-8.457-4.287-.353.607-.556 1.312-.556 2.064 0 1.424.724 2.68 1.825 3.415-.673-.022-1.305-.207-1.86-.514v.052c0 1.988 1.415 3.647 3.293 4.023-.344.095-.707.145-1.08.145-.265 0-.522-.026-.773-.074.522 1.63 2.038 2.817 3.833 2.85-1.404 1.1-3.174 1.757-5.096 1.757-.332 0-.66-.02-.98-.057 1.816 1.164 3.973 1.843 6.29 1.843 7.547 0 11.675-6.252 11.675-11.675 0-.178-.004-.355-.012-.53.802-.578 1.497-1.3 2.047-2.124z"/></g></svg>				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Facebook" id="postas-facebook" class="nascar-signin-link"
+				 title="Login via Facebook" 				>
+					<svg xmlns="http://www.w3.org/2000/svg" role="presentation" viewBox="0 0 24 24" ><rect x="0" fill="none" width="24" height="24"/><g><path fill="#3B5998" d="M20.007 3H3.993C3.445 3 3 3.445 3 3.993v16.013c0 .55.445.994.993.994h8.62v-6.97H10.27V11.31h2.346V9.31c0-2.325 1.42-3.59 3.494-3.59.993 0 1.847.073 2.096.106v2.43h-1.438c-1.128 0-1.346.537-1.346 1.324v1.734h2.69l-.35 2.717h-2.34V21h4.587c.548 0 .993-.445.993-.993V3.993c0-.548-.445-.993-.993-.993z"/></g></svg>				</a>
+			</li>
+		</ul>
+	</div>
+
+	<div id="comment-form-guest" class="comment-form-service selected">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+<a href="https://gravatar.com/site/signup/" target="_blank">				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25" alt="Gravatar" width="25" class="no-grav" />
+</a>			</div>
+
+				<div class="comment-form-fields">
+				<div class="comment-form-field comment-form-email">
+					<label for="email">Email <span class="required">(required)</span> <span class="nopublish">(Address never made public)</span></label>
+					<div class="comment-form-input"><input id="email" name="email" type="email" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-author">
+					<label for="author">Name <span class="required">(required)</span></label>
+					<div class="comment-form-input"><input id="author" name="author" type="text" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-url">
+					<label for="url">Website</label>
+					<div class="comment-form-input"><input id="url" name="url" type="url" value="" /></div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+
+	<div id="comment-form-wordpress" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25" alt="WordPress.com Logo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="wp_avatar" id="wordpress-avatar" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_user_id" id="wordpress-user_id" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_access_token" id="wordpress-access_token" class="comment-meta-wordpress" value="" />
+						<p class="comment-form-posting-as pa-wordpress">
+			<strong></strong>
+			You are commenting using your WordPress.com account.			<span class="comment-form-log-out">
+				(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'wordpress' );">Log&nbsp;Out</a>&nbsp;/&nbsp;
+				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)
+			</span>
+			<span class="pa-icon"><svg xmlns="http://www.w3.org/2000/svg" role="presentation" viewBox="0 0 24 24" ><rect x="0" fill="none" width="24" height="24"/><g><path fill="#0087be" d="M12.158 12.786l-2.698 7.84c.806.236 1.657.365 2.54.365 1.047 0 2.05-.18 2.986-.51-.024-.037-.046-.078-.065-.123l-2.762-7.57zM3.008 12c0 3.56 2.07 6.634 5.068 8.092L3.788 8.342c-.5 1.117-.78 2.354-.78 3.658zm15.06-.454c0-1.112-.398-1.88-.74-2.48-.456-.74-.883-1.368-.883-2.11 0-.825.627-1.595 1.51-1.595.04 0 .078.006.116.008-1.598-1.464-3.73-2.36-6.07-2.36-3.14 0-5.904 1.613-7.512 4.053.21.008.41.012.58.012.94 0 2.395-.114 2.395-.114.484-.028.54.684.057.74 0 0-.487.058-1.03.086l3.275 9.74 1.968-5.902-1.4-3.838c-.485-.028-.944-.085-.944-.085-.486-.03-.43-.77.056-.742 0 0 1.484.114 2.368.114.94 0 2.397-.114 2.397-.114.486-.028.543.684.058.74 0 0-.488.058-1.03.086l3.25 9.665.897-2.997c.456-1.17.684-2.137.684-2.907zm1.82-3.86c.04.286.06.593.06.924 0 .912-.17 1.938-.683 3.22l-2.746 7.94c2.672-1.558 4.47-4.454 4.47-7.77 0-1.564-.4-3.033-1.1-4.314zM12 22C6.486 22 2 17.514 2 12S6.486 2 12 2s10 4.486 10 10-4.486 10-10 10z"/></g></svg></span>
+		</p>
+					</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-twitter" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="https://1.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25" alt="Twitter picture" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="twitter_avatar" id="twitter-avatar" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_user_id" id="twitter-user_id" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_access_token" id="twitter-access_token" class="comment-meta-twitter" value="" />
+						<p class="comment-form-posting-as pa-twitter">
+			<strong></strong>
+			You are commenting using your Twitter account.			<span class="comment-form-log-out">
+				(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'twitter' );">Log&nbsp;Out</a>&nbsp;/&nbsp;
+				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)
+			</span>
+			<span class="pa-icon"><svg xmlns="http://www.w3.org/2000/svg" role="presentation" viewBox="0 0 24 24" ><rect x="0" fill="none" width="24" height="24"/><g><path fill="#1DA1F2" d="M22.23 5.924c-.736.326-1.527.547-2.357.646.847-.508 1.498-1.312 1.804-2.27-.793.47-1.67.812-2.606.996C18.325 4.498 17.258 4 16.078 4c-2.266 0-4.103 1.837-4.103 4.103 0 .322.036.635.106.935-3.41-.17-6.433-1.804-8.457-4.287-.353.607-.556 1.312-.556 2.064 0 1.424.724 2.68 1.825 3.415-.673-.022-1.305-.207-1.86-.514v.052c0 1.988 1.415 3.647 3.293 4.023-.344.095-.707.145-1.08.145-.265 0-.522-.026-.773-.074.522 1.63 2.038 2.817 3.833 2.85-1.404 1.1-3.174 1.757-5.096 1.757-.332 0-.66-.02-.98-.057 1.816 1.164 3.973 1.843 6.29 1.843 7.547 0 11.675-6.252 11.675-11.675 0-.178-.004-.355-.012-.53.802-.578 1.497-1.3 2.047-2.124z"/></g></svg></span>
+		</p>
+					</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-facebook" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="" alt="Facebook photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="fb_avatar" id="facebook-avatar" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_user_id" id="facebook-user_id" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_access_token" id="facebook-access_token" class="comment-meta-facebook" value="" />
+						<p class="comment-form-posting-as pa-facebook">
+			<strong></strong>
+			You are commenting using your Facebook account.			<span class="comment-form-log-out">
+				(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'facebook' );">Log&nbsp;Out</a>&nbsp;/&nbsp;
+				<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)
+			</span>
+			<span class="pa-icon"><svg xmlns="http://www.w3.org/2000/svg" role="presentation" viewBox="0 0 24 24" ><rect x="0" fill="none" width="24" height="24"/><g><path fill="#3B5998" d="M20.007 3H3.993C3.445 3 3 3.445 3 3.993v16.013c0 .55.445.994.993.994h8.62v-6.97H10.27V11.31h2.346V9.31c0-2.325 1.42-3.59 3.494-3.59.993 0 1.847.073 2.096.106v2.43h-1.438c-1.128 0-1.346.537-1.346 1.324v1.734h2.69l-.35 2.717h-2.34V21h4.587c.548 0 .993-.445.993-.993V3.993c0-.548-.445-.993-.993-.993z"/></g></svg></span>
+		</p>
+					</div>
+	
+		</div>
+	</div>
+
+
+	<div id="comment-form-load-service" class="comment-form-service">
+		<div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Cancel</a></div>
+		<p>Connecting to %s</p>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+var highlander_expando_javascript = function () {
+
+	function hide( sel ) {
+		var el = document.querySelector( sel );
+		if ( el ) {
+			el.style.setProperty( 'display', 'none' );
+		}
+	}
+
+	function show( sel ) {
+		var el = document.querySelector( sel );
+		if ( el ) {
+			el.style.removeProperty( 'display' );
+		}
+	}
+
+	var input = document.createElement( 'input' );
+	var comment = document.querySelector( '#comment' );
+
+	if ( input && comment && 'placeholder' in input ) {
+		var label = document.querySelector( '.comment-textarea label' );
+		if ( label ) {
+			var text = label.textContent;
+			label.parentNode.removeChild( label );
+			comment.setAttribute( 'placeholder', text );
+		}
+	}
+
+	// Expando Mode: start small, then auto-resize on first click + text length
+	hide( '#comment-form-identity' );
+	hide( '#comment-form-subscribe' );
+	hide( '#commentform .form-submit' );
+
+	if ( comment ) {
+		comment.style.height = '10px';
+
+		var handler = function () {
+			comment.style.height = HighlanderComments.initialHeight + 'px';
+			show( '#comment-form-identity' );
+			show( '#comment-form-subscribe' );
+			show( '#commentform .form-submit' );
+			HighlanderComments.resizeCallback();
+
+			comment.removeEventListener( 'focus', handler );
+		};
+
+		comment.addEventListener( 'focus', handler );
+	}
+}
+
+if ( document.readyState !== 'loading' ) {
+	highlander_expando_javascript();
+} else {
+	document.addEventListener( 'DOMContentLoaded', highlander_expando_javascript );
+}
+
+</script>
+
+<div id="comment-form-subscribe">
+	<p class="comment-subscription-form"><input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;"/> <label class="subscribe-label" id="subscribe-label" for="subscribe" style="display: inline;">Notify me of new comments via email.</label></p><p class="post-subscription-form"><input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto;"/> <label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog"  style="display: inline;">Notify me of new posts via email.</label></p></div>
+
+
+
+
+<p class="form-submit"><input name="submit" type="submit" id="comment-submit" class="submit button" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='17111' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="c8deb7b824" /></p>
+<input type="hidden" name="genseq" value="1670704334" />
+<p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="100"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+	<div style="clear: both"></div><p class="akismet_comment_form_privacy_notice">This site uses Akismet to reduce spam. <a href="https://akismet.com/privacy/" target="_blank" rel="nofollow noopener">Learn how your comment data is processed</a>.</p>
+</div><!-- #comments -->
+	
+	</div>
+
+
+
+	<div id="sidebar">
+				<ul>
+
+		<li id="text-3" class="widget widget_text"><h2 class="widgettitle">Elsewhere</h2>
+			<div class="textwidget"><a target="_blank" href="https://stancarey.com/" rel="noopener">Copy-editing &amp; proofreading</a> · <a rel="me noopener" target="_blank" href="https://mastodon.ie/@stancarey">Mastodon</a> · <a target="_blank" href="https://www.macmillandictionaryblog.com/author/stan-carey" rel="noopener">Macmillan Dictionary</a> · <a target="_blank" href="https://www.librarything.com/profile/stancarey" rel="noopener">LibraryThing</a> · <a target="_blank" href="https://twitter.com/StanCarey" rel="noopener">Twitter</a> · <a target="_blank" href="https://stancarey.tumblr.com/" rel="noopener">Tumblr</a> · <a target="_blank" href="https://stronglang.wordpress.com/author/stancarey/" rel="noopener">Strong Language</a></div>
+		</li>
+<li id="blog_subscription-3" class="widget widget_blog_subscription jetpack_subscription_widget"><h2 class="widgettitle"><label for="subscribe-field">Email Subscription</label></h2>
+
+
+			<div class="wp-block-jetpack-subscriptions__container">
+			<form
+				action="https://subscribe.wordpress.com"
+				method="post"
+				accept-charset="utf-8"
+				id="subscribe-blog"
+			>
+								<p id="subscribe-email">
+					<label
+						id="subscribe-field-label"
+						for="subscribe-field"
+						class="screen-reader-text"
+					>
+						Email Address:					</label>
+
+					<input
+							type="email"
+							name="email"
+							
+							style="width: 95%; padding: 1px 10px"
+							placeholder="Email Address"
+							value=""
+							id="subscribe-field"
+						/>				</p>
+
+				<p id="subscribe-submit"
+									>
+					<input type="hidden" name="action" value="subscribe"/>
+					<input type="hidden" name="blog_id" value="3895763"/>
+					<input type="hidden" name="source" value="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/"/>
+					<input type="hidden" name="sub-type" value="widget"/>
+					<input type="hidden" name="redirect_fragment" value="subscribe-blog"/>
+					<input type="hidden" id="_wpnonce" name="_wpnonce" value="23807205eb" />					<button type="submit"
+													class="wp-block-button__link"
+																	>
+						Subscribe to Sentence first					</button>
+				</p>
+			</form>
+						</div>
+			
+</li>
+<li id="twitter-416057081" class="widget widget_twitter"><h2 class="widgettitle"><a href='http://twitter.com/StanCarey'>@StanCarey on Twitter</a></h2>
+<ul class='tweets'>
+			<li>
+				A note on blogging, tweeting, and t̶o̶o̶t̶i̶n̶g̶ posting on Mastodon:
+<a href="https://stancarey.wordpress.com/2022/11/30/blogging-tweeting-and-tooting-on-mastodon/"> stancarey.wordpress.com/2022/11/30/blo…</a> 				<a href="http://twitter.com/StanCarey/statuses/1598364243832758276" class="timesince">1&nbsp;week&nbsp;ago</a>
+			</li>
+
+			
+			<li>
+				RT @<a href='http://twitter.com/mmdotcox'>mmdotcox</a>: trying to get through November like <a href="https://t.co/fNpPA8RufH" rel="nofollow">https://t.co/fNpPA8RufH</a> 				<a href="http://twitter.com/StanCarey/statuses/1597536695976873985" class="timesince">1&nbsp;week&nbsp;ago</a>
+			</li>
+
+			
+			<li>
+				Also the drinks are smaller but you can&#039;t quite figure out how <a href="https://twitter.com/ibogost/status/1595122086393303042"> twitter.com/ibogost/status…</a> 				<a href="http://twitter.com/StanCarey/statuses/1595130037627650048" class="timesince">2&nbsp;weeks&nbsp;ago</a>
+			</li>
+
+			
+			<li>
+				RT @<a href='http://twitter.com/fakedansavage'>fakedansavage</a>: It&#039;s not just that gay bars are supposed to be a safe space. 				<a href="http://twitter.com/StanCarey/statuses/1595044887287709696" class="timesince">2&nbsp;weeks&nbsp;ago</a>
+			</li>
+
+			</ul><a href="http://twitter.com/StanCarey"  class='twitter-follow-button' data-show-count='false' data-link-color='#0066cc' data-text-color='#333333'>Follow @StanCarey</a></li>
+<li id="recent-comments-2" class="widget widget_recent_comments"><h2 class="widgettitle">Recent Comments</h2>
+				<table class="recentcommentsavatar" cellspacing="0" cellpadding="0" border="0">
+					<tr><td title="Stan Carey" class="recentcommentsavatartop" style="height:16px; width:16px;"><a href="https://stancarey.wordpress.com/" rel="nofollow"><img alt='' src='https://1.gravatar.com/avatar/1416ad5f6a6adaea3d80c1a0261e3fd9?s=16&#038;d=https%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D16' class='avatar avatar-16' height='16' width='16' /></a></td><td class="recentcommentstexttop" style=""><a href="https://stancarey.wordpress.com/" rel="nofollow">Stan Carey</a> on <a href="https://stancarey.wordpress.com/2022/11/21/book-spine-poem-return-from-the-stars/#comment-368111">Book spine poem: Return from t&hellip;</a></td></tr><tr><td title="Louise Pare-Lobinske" class="recentcommentsavatarend" style="height:16px; width:16px;"><a href="http://louiseparelobinske.wordpress.com" rel="nofollow"><img alt='' src='https://2.gravatar.com/avatar/2e4f9ccea78d45b69f5abf1b159eab59?s=16&#038;d=https%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D16' class='avatar avatar-16' height='16' width='16' /></a></td><td class="recentcommentstextend" style=""><a href="http://louiseparelobinske.wordpress.com" rel="nofollow">Louise Pare-Lobinske</a> on <a href="https://stancarey.wordpress.com/2022/11/21/book-spine-poem-return-from-the-stars/#comment-368092">Book spine poem: Return from t&hellip;</a></td></tr><tr><td title="Stan Carey" class="recentcommentsavatarend" style="height:16px; width:16px;"><a href="https://stancarey.wordpress.com/" rel="nofollow"><img alt='' src='https://1.gravatar.com/avatar/1416ad5f6a6adaea3d80c1a0261e3fd9?s=16&#038;d=https%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D16' class='avatar avatar-16' height='16' width='16' /></a></td><td class="recentcommentstextend" style=""><a href="https://stancarey.wordpress.com/" rel="nofollow">Stan Carey</a> on <a href="https://stancarey.wordpress.com/2022/11/21/book-spine-poem-return-from-the-stars/#comment-368073">Book spine poem: Return from t&hellip;</a></td></tr><tr><td title="Louise Pare-Lobinske" class="recentcommentsavatarend" style="height:16px; width:16px;"><a href="http://louiseparelobinske.wordpress.com" rel="nofollow"><img alt='' src='https://2.gravatar.com/avatar/2e4f9ccea78d45b69f5abf1b159eab59?s=16&#038;d=https%3A%2F%2F2.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D16' class='avatar avatar-16' height='16' width='16' /></a></td><td class="recentcommentstextend" style=""><a href="http://louiseparelobinske.wordpress.com" rel="nofollow">Louise Pare-Lobinske</a> on <a href="https://stancarey.wordpress.com/2022/11/21/book-spine-poem-return-from-the-stars/#comment-368057">Book spine poem: Return from t&hellip;</a></td></tr>				</table>
+				</li>
+<li id="archives-2" class="widget widget_archive"><h2 class="widgettitle">Archives</h2>
+		<label class="screen-reader-text" for="archives-dropdown-2">Archives</label>
+		<select id="archives-dropdown-2" name="archive-dropdown">
+			
+			<option value="">Select Month</option>
+				<option value='https://stancarey.wordpress.com/2022/11/'> November 2022 </option>
+	<option value='https://stancarey.wordpress.com/2022/10/'> October 2022 </option>
+	<option value='https://stancarey.wordpress.com/2022/09/'> September 2022 </option>
+	<option value='https://stancarey.wordpress.com/2022/08/'> August 2022 </option>
+	<option value='https://stancarey.wordpress.com/2022/07/'> July 2022 </option>
+	<option value='https://stancarey.wordpress.com/2022/06/'> June 2022 </option>
+	<option value='https://stancarey.wordpress.com/2022/05/'> May 2022 </option>
+	<option value='https://stancarey.wordpress.com/2022/04/'> April 2022 </option>
+	<option value='https://stancarey.wordpress.com/2022/03/'> March 2022 </option>
+	<option value='https://stancarey.wordpress.com/2022/02/'> February 2022 </option>
+	<option value='https://stancarey.wordpress.com/2022/01/'> January 2022 </option>
+	<option value='https://stancarey.wordpress.com/2021/12/'> December 2021 </option>
+	<option value='https://stancarey.wordpress.com/2021/11/'> November 2021 </option>
+	<option value='https://stancarey.wordpress.com/2021/10/'> October 2021 </option>
+	<option value='https://stancarey.wordpress.com/2021/09/'> September 2021 </option>
+	<option value='https://stancarey.wordpress.com/2021/08/'> August 2021 </option>
+	<option value='https://stancarey.wordpress.com/2021/07/'> July 2021 </option>
+	<option value='https://stancarey.wordpress.com/2021/06/'> June 2021 </option>
+	<option value='https://stancarey.wordpress.com/2021/05/'> May 2021 </option>
+	<option value='https://stancarey.wordpress.com/2021/04/'> April 2021 </option>
+	<option value='https://stancarey.wordpress.com/2021/02/'> February 2021 </option>
+	<option value='https://stancarey.wordpress.com/2021/01/'> January 2021 </option>
+	<option value='https://stancarey.wordpress.com/2020/12/'> December 2020 </option>
+	<option value='https://stancarey.wordpress.com/2020/11/'> November 2020 </option>
+	<option value='https://stancarey.wordpress.com/2020/10/'> October 2020 </option>
+	<option value='https://stancarey.wordpress.com/2020/09/'> September 2020 </option>
+	<option value='https://stancarey.wordpress.com/2020/08/'> August 2020 </option>
+	<option value='https://stancarey.wordpress.com/2020/07/'> July 2020 </option>
+	<option value='https://stancarey.wordpress.com/2020/06/'> June 2020 </option>
+	<option value='https://stancarey.wordpress.com/2020/05/'> May 2020 </option>
+	<option value='https://stancarey.wordpress.com/2020/04/'> April 2020 </option>
+	<option value='https://stancarey.wordpress.com/2020/03/'> March 2020 </option>
+	<option value='https://stancarey.wordpress.com/2020/02/'> February 2020 </option>
+	<option value='https://stancarey.wordpress.com/2020/01/'> January 2020 </option>
+	<option value='https://stancarey.wordpress.com/2019/12/'> December 2019 </option>
+	<option value='https://stancarey.wordpress.com/2019/11/'> November 2019 </option>
+	<option value='https://stancarey.wordpress.com/2019/10/'> October 2019 </option>
+	<option value='https://stancarey.wordpress.com/2019/09/'> September 2019 </option>
+	<option value='https://stancarey.wordpress.com/2019/08/'> August 2019 </option>
+	<option value='https://stancarey.wordpress.com/2019/07/'> July 2019 </option>
+	<option value='https://stancarey.wordpress.com/2019/06/'> June 2019 </option>
+	<option value='https://stancarey.wordpress.com/2019/05/'> May 2019 </option>
+	<option value='https://stancarey.wordpress.com/2019/04/'> April 2019 </option>
+	<option value='https://stancarey.wordpress.com/2019/03/'> March 2019 </option>
+	<option value='https://stancarey.wordpress.com/2019/02/'> February 2019 </option>
+	<option value='https://stancarey.wordpress.com/2019/01/'> January 2019 </option>
+	<option value='https://stancarey.wordpress.com/2018/12/'> December 2018 </option>
+	<option value='https://stancarey.wordpress.com/2018/11/'> November 2018 </option>
+	<option value='https://stancarey.wordpress.com/2018/10/'> October 2018 </option>
+	<option value='https://stancarey.wordpress.com/2018/09/'> September 2018 </option>
+	<option value='https://stancarey.wordpress.com/2018/08/'> August 2018 </option>
+	<option value='https://stancarey.wordpress.com/2018/07/'> July 2018 </option>
+	<option value='https://stancarey.wordpress.com/2018/06/'> June 2018 </option>
+	<option value='https://stancarey.wordpress.com/2018/05/'> May 2018 </option>
+	<option value='https://stancarey.wordpress.com/2018/04/'> April 2018 </option>
+	<option value='https://stancarey.wordpress.com/2018/03/'> March 2018 </option>
+	<option value='https://stancarey.wordpress.com/2018/02/'> February 2018 </option>
+	<option value='https://stancarey.wordpress.com/2018/01/'> January 2018 </option>
+	<option value='https://stancarey.wordpress.com/2017/12/'> December 2017 </option>
+	<option value='https://stancarey.wordpress.com/2017/11/'> November 2017 </option>
+	<option value='https://stancarey.wordpress.com/2017/10/'> October 2017 </option>
+	<option value='https://stancarey.wordpress.com/2017/09/'> September 2017 </option>
+	<option value='https://stancarey.wordpress.com/2017/08/'> August 2017 </option>
+	<option value='https://stancarey.wordpress.com/2017/07/'> July 2017 </option>
+	<option value='https://stancarey.wordpress.com/2017/06/'> June 2017 </option>
+	<option value='https://stancarey.wordpress.com/2017/05/'> May 2017 </option>
+	<option value='https://stancarey.wordpress.com/2017/04/'> April 2017 </option>
+	<option value='https://stancarey.wordpress.com/2017/03/'> March 2017 </option>
+	<option value='https://stancarey.wordpress.com/2017/02/'> February 2017 </option>
+	<option value='https://stancarey.wordpress.com/2017/01/'> January 2017 </option>
+	<option value='https://stancarey.wordpress.com/2016/12/'> December 2016 </option>
+	<option value='https://stancarey.wordpress.com/2016/11/'> November 2016 </option>
+	<option value='https://stancarey.wordpress.com/2016/10/'> October 2016 </option>
+	<option value='https://stancarey.wordpress.com/2016/09/'> September 2016 </option>
+	<option value='https://stancarey.wordpress.com/2016/08/'> August 2016 </option>
+	<option value='https://stancarey.wordpress.com/2016/07/'> July 2016 </option>
+	<option value='https://stancarey.wordpress.com/2016/06/'> June 2016 </option>
+	<option value='https://stancarey.wordpress.com/2016/05/'> May 2016 </option>
+	<option value='https://stancarey.wordpress.com/2016/04/'> April 2016 </option>
+	<option value='https://stancarey.wordpress.com/2016/03/'> March 2016 </option>
+	<option value='https://stancarey.wordpress.com/2016/02/'> February 2016 </option>
+	<option value='https://stancarey.wordpress.com/2016/01/'> January 2016 </option>
+	<option value='https://stancarey.wordpress.com/2015/12/'> December 2015 </option>
+	<option value='https://stancarey.wordpress.com/2015/11/'> November 2015 </option>
+	<option value='https://stancarey.wordpress.com/2015/10/'> October 2015 </option>
+	<option value='https://stancarey.wordpress.com/2015/09/'> September 2015 </option>
+	<option value='https://stancarey.wordpress.com/2015/08/'> August 2015 </option>
+	<option value='https://stancarey.wordpress.com/2015/07/'> July 2015 </option>
+	<option value='https://stancarey.wordpress.com/2015/06/'> June 2015 </option>
+	<option value='https://stancarey.wordpress.com/2015/05/'> May 2015 </option>
+	<option value='https://stancarey.wordpress.com/2015/04/'> April 2015 </option>
+	<option value='https://stancarey.wordpress.com/2015/03/'> March 2015 </option>
+	<option value='https://stancarey.wordpress.com/2015/02/'> February 2015 </option>
+	<option value='https://stancarey.wordpress.com/2015/01/'> January 2015 </option>
+	<option value='https://stancarey.wordpress.com/2014/12/'> December 2014 </option>
+	<option value='https://stancarey.wordpress.com/2014/11/'> November 2014 </option>
+	<option value='https://stancarey.wordpress.com/2014/10/'> October 2014 </option>
+	<option value='https://stancarey.wordpress.com/2014/09/'> September 2014 </option>
+	<option value='https://stancarey.wordpress.com/2014/08/'> August 2014 </option>
+	<option value='https://stancarey.wordpress.com/2014/07/'> July 2014 </option>
+	<option value='https://stancarey.wordpress.com/2014/06/'> June 2014 </option>
+	<option value='https://stancarey.wordpress.com/2014/05/'> May 2014 </option>
+	<option value='https://stancarey.wordpress.com/2014/04/'> April 2014 </option>
+	<option value='https://stancarey.wordpress.com/2014/03/'> March 2014 </option>
+	<option value='https://stancarey.wordpress.com/2014/02/'> February 2014 </option>
+	<option value='https://stancarey.wordpress.com/2014/01/'> January 2014 </option>
+	<option value='https://stancarey.wordpress.com/2013/12/'> December 2013 </option>
+	<option value='https://stancarey.wordpress.com/2013/11/'> November 2013 </option>
+	<option value='https://stancarey.wordpress.com/2013/10/'> October 2013 </option>
+	<option value='https://stancarey.wordpress.com/2013/09/'> September 2013 </option>
+	<option value='https://stancarey.wordpress.com/2013/08/'> August 2013 </option>
+	<option value='https://stancarey.wordpress.com/2013/07/'> July 2013 </option>
+	<option value='https://stancarey.wordpress.com/2013/06/'> June 2013 </option>
+	<option value='https://stancarey.wordpress.com/2013/05/'> May 2013 </option>
+	<option value='https://stancarey.wordpress.com/2013/04/'> April 2013 </option>
+	<option value='https://stancarey.wordpress.com/2013/03/'> March 2013 </option>
+	<option value='https://stancarey.wordpress.com/2013/02/'> February 2013 </option>
+	<option value='https://stancarey.wordpress.com/2013/01/'> January 2013 </option>
+	<option value='https://stancarey.wordpress.com/2012/12/'> December 2012 </option>
+	<option value='https://stancarey.wordpress.com/2012/11/'> November 2012 </option>
+	<option value='https://stancarey.wordpress.com/2012/10/'> October 2012 </option>
+	<option value='https://stancarey.wordpress.com/2012/09/'> September 2012 </option>
+	<option value='https://stancarey.wordpress.com/2012/08/'> August 2012 </option>
+	<option value='https://stancarey.wordpress.com/2012/07/'> July 2012 </option>
+	<option value='https://stancarey.wordpress.com/2012/06/'> June 2012 </option>
+	<option value='https://stancarey.wordpress.com/2012/05/'> May 2012 </option>
+	<option value='https://stancarey.wordpress.com/2012/04/'> April 2012 </option>
+	<option value='https://stancarey.wordpress.com/2012/03/'> March 2012 </option>
+	<option value='https://stancarey.wordpress.com/2012/02/'> February 2012 </option>
+	<option value='https://stancarey.wordpress.com/2012/01/'> January 2012 </option>
+	<option value='https://stancarey.wordpress.com/2011/12/'> December 2011 </option>
+	<option value='https://stancarey.wordpress.com/2011/11/'> November 2011 </option>
+	<option value='https://stancarey.wordpress.com/2011/10/'> October 2011 </option>
+	<option value='https://stancarey.wordpress.com/2011/09/'> September 2011 </option>
+	<option value='https://stancarey.wordpress.com/2011/08/'> August 2011 </option>
+	<option value='https://stancarey.wordpress.com/2011/07/'> July 2011 </option>
+	<option value='https://stancarey.wordpress.com/2011/06/'> June 2011 </option>
+	<option value='https://stancarey.wordpress.com/2011/05/'> May 2011 </option>
+	<option value='https://stancarey.wordpress.com/2011/04/'> April 2011 </option>
+	<option value='https://stancarey.wordpress.com/2011/03/'> March 2011 </option>
+	<option value='https://stancarey.wordpress.com/2011/02/'> February 2011 </option>
+	<option value='https://stancarey.wordpress.com/2011/01/'> January 2011 </option>
+	<option value='https://stancarey.wordpress.com/2010/12/'> December 2010 </option>
+	<option value='https://stancarey.wordpress.com/2010/11/'> November 2010 </option>
+	<option value='https://stancarey.wordpress.com/2010/10/'> October 2010 </option>
+	<option value='https://stancarey.wordpress.com/2010/09/'> September 2010 </option>
+	<option value='https://stancarey.wordpress.com/2010/08/'> August 2010 </option>
+	<option value='https://stancarey.wordpress.com/2010/07/'> July 2010 </option>
+	<option value='https://stancarey.wordpress.com/2010/06/'> June 2010 </option>
+	<option value='https://stancarey.wordpress.com/2010/05/'> May 2010 </option>
+	<option value='https://stancarey.wordpress.com/2010/04/'> April 2010 </option>
+	<option value='https://stancarey.wordpress.com/2010/03/'> March 2010 </option>
+	<option value='https://stancarey.wordpress.com/2010/02/'> February 2010 </option>
+	<option value='https://stancarey.wordpress.com/2010/01/'> January 2010 </option>
+	<option value='https://stancarey.wordpress.com/2009/12/'> December 2009 </option>
+	<option value='https://stancarey.wordpress.com/2009/11/'> November 2009 </option>
+	<option value='https://stancarey.wordpress.com/2009/10/'> October 2009 </option>
+	<option value='https://stancarey.wordpress.com/2009/09/'> September 2009 </option>
+	<option value='https://stancarey.wordpress.com/2009/08/'> August 2009 </option>
+	<option value='https://stancarey.wordpress.com/2009/07/'> July 2009 </option>
+	<option value='https://stancarey.wordpress.com/2009/06/'> June 2009 </option>
+	<option value='https://stancarey.wordpress.com/2009/05/'> May 2009 </option>
+	<option value='https://stancarey.wordpress.com/2009/04/'> April 2009 </option>
+	<option value='https://stancarey.wordpress.com/2009/03/'> March 2009 </option>
+	<option value='https://stancarey.wordpress.com/2009/02/'> February 2009 </option>
+	<option value='https://stancarey.wordpress.com/2009/01/'> January 2009 </option>
+	<option value='https://stancarey.wordpress.com/2008/12/'> December 2008 </option>
+	<option value='https://stancarey.wordpress.com/2008/11/'> November 2008 </option>
+	<option value='https://stancarey.wordpress.com/2008/10/'> October 2008 </option>
+	<option value='https://stancarey.wordpress.com/2008/09/'> September 2008 </option>
+	<option value='https://stancarey.wordpress.com/2008/08/'> August 2008 </option>
+	<option value='https://stancarey.wordpress.com/2008/07/'> July 2008 </option>
+	<option value='https://stancarey.wordpress.com/2008/06/'> June 2008 </option>
+
+		</select>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "archives-dropdown-2" );
+	function onSelectChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value !== '' ) {
+			document.location.href = this.options[ this.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onSelectChange;
+})();
+/* ]]> */
+</script>
+			</li>
+<li id="categories-2" class="widget widget_categories"><h2 class="widgettitle">Categories</h2>
+<form action="https://stancarey.wordpress.com" method="get"><label class="screen-reader-text" for="cat">Categories</label><select  name='cat' id='cat' class='postform'>
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="521">advertising</option>
+	<option class="level-0" value="490">animals</option>
+	<option class="level-0" value="177">art</option>
+	<option class="level-0" value="36845">birds</option>
+	<option class="level-0" value="91">blogging</option>
+	<option class="level-0" value="3328">book reviews</option>
+	<option class="level-0" value="178">books</option>
+	<option class="level-0" value="36186">conlang</option>
+	<option class="level-0" value="87355">dialect</option>
+	<option class="level-0" value="11746">editing</option>
+	<option class="level-0" value="2523687">emoji</option>
+	<option class="level-0" value="63687">etymology</option>
+	<option class="level-0" value="524">film</option>
+	<option class="level-0" value="586">food</option>
+	<option class="level-0" value="27915">gender</option>
+	<option class="level-0" value="265531">gobbledygook</option>
+	<option class="level-0" value="13434">grammar</option>
+	<option class="level-0" value="2832116">Hiberno-English</option>
+	<option class="level-0" value="35">humour</option>
+	<option class="level-0" value="768">Ireland</option>
+	<option class="level-0" value="79351">jargon</option>
+	<option class="level-0" value="316">journalism</option>
+	<option class="level-0" value="1934">language</option>
+	<option class="level-0" value="9965984">language and gender</option>
+	<option class="level-0" value="1718962">language history</option>
+	<option class="level-0" value="159906">lexicography</option>
+	<option class="level-0" value="816">linguistics</option>
+	<option class="level-0" value="107704">link love</option>
+	<option class="level-0" value="34921487">literature</option>
+	<option class="level-0" value="25010">metaphor</option>
+	<option class="level-0" value="75246">morphology</option>
+	<option class="level-0" value="18">music</option>
+	<option class="level-0" value="95715">naming</option>
+	<option class="level-0" value="1099">nature</option>
+	<option class="level-0" value="103">news</option>
+	<option class="level-0" value="64">personal</option>
+	<option class="level-0" value="78637">philology</option>
+	<option class="level-0" value="424054">phonetics</option>
+	<option class="level-0" value="436">photography</option>
+	<option class="level-0" value="27577">phrases</option>
+	<option class="level-0" value="466552">plurals</option>
+	<option class="level-0" value="2060">podcasts</option>
+	<option class="level-0" value="422">poetry</option>
+	<option class="level-0" value="398">politics</option>
+	<option class="level-0" value="56954">pragmatics</option>
+	<option class="level-0" value="165960">punctuation</option>
+	<option class="level-0" value="1473">reading</option>
+	<option class="level-0" value="173">science</option>
+	<option class="level-0" value="13218">semantics</option>
+	<option class="level-0" value="14922">signs</option>
+	<option class="level-0" value="8138">slang</option>
+	<option class="level-0" value="12703">speech</option>
+	<option class="level-0" value="59467">spelling</option>
+	<option class="level-0" value="955">stories</option>
+	<option class="level-0" value="93280">syntax</option>
+	<option class="level-0" value="8349">translation</option>
+	<option class="level-0" value="19336">typography</option>
+	<option class="level-0" value="207824">typos</option>
+	<option class="level-0" value="30084">usage</option>
+	<option class="level-0" value="117095">wordplay</option>
+	<option class="level-0" value="4822">words</option>
+	<option class="level-0" value="16761">writers</option>
+	<option class="level-0" value="349">writing</option>
+</select>
+</form>
+<script type="text/javascript">
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			dropdown.parentNode.submit();
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+
+			</li>
+<li id="search-2" class="widget widget_search"><form method="get" id="searchform" action="https://stancarey.wordpress.com/">
+<div><label for="s" class="search-label">Search</label><input type="text" value="" name="s" id="s" />
+<input type="submit" id="searchsubmit" value="Search" />
+</div>
+</form></li>
+<li id="meta-2" class="widget widget_meta"><h2 class="widgettitle">RSS</h2>
+
+		<ul>
+			<li><a href="https://wordpress.com/start?ref=wplogin">Register</a></li>			<li><a href="https://stancarey.wordpress.com/wp-login.php">Log in</a></li>
+			<li><a href="https://stancarey.wordpress.com/feed/">Entries feed</a></li>
+			<li><a href="https://stancarey.wordpress.com/comments/feed/">Comments feed</a></li>
+
+			<li><a href="https://wordpress.com/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.com</a></li>
+		</ul>
+
+		</li>
+<li id="freshly_pressed-2" class="widget widget_freshly_pressed"><a href="http://discover.wordpress.com/" title="Featured on Freshly Pressed"><img src="https://s0.wp.com/i/badges/freshly-pressed-rectangle.png" width="200px" height="62px" /></a>
+</li>
+<li id="wp_tag_cloud-2" class="widget wp_widget_tag_cloud"><h2 class="widgettitle"></h2>
+<a href="https://stancarey.wordpress.com/tag/bookmash/" class="tag-cloud-link tag-link-12502837 tag-link-position-1" style="font-size: 8.224pt;" aria-label="bookmash (42 items)">bookmash</a>
+<a href="https://stancarey.wordpress.com/tag/books/" class="tag-cloud-link tag-link-178 tag-link-position-2" style="font-size: 18.864pt;" aria-label="books (378 items)">books</a>
+<a href="https://stancarey.wordpress.com/tag/business-english/" class="tag-cloud-link tag-link-21879 tag-link-position-3" style="font-size: 8.224pt;" aria-label="business English (42 items)">business English</a>
+<a href="https://stancarey.wordpress.com/tag/dialect/" class="tag-cloud-link tag-link-87355 tag-link-position-4" style="font-size: 10.464pt;" aria-label="dialect (67 items)">dialect</a>
+<a href="https://stancarey.wordpress.com/tag/dialects/" class="tag-cloud-link tag-link-476622 tag-link-position-5" style="font-size: 11.472pt;" aria-label="dialects (82 items)">dialects</a>
+<a href="https://stancarey.wordpress.com/tag/editing/" class="tag-cloud-link tag-link-11746 tag-link-position-6" style="font-size: 14.272pt;" aria-label="editing (146 items)">editing</a>
+<a href="https://stancarey.wordpress.com/tag/etymology/" class="tag-cloud-link tag-link-63687 tag-link-position-7" style="font-size: 15.616pt;" aria-label="etymology (193 items)">etymology</a>
+<a href="https://stancarey.wordpress.com/tag/grammar/" class="tag-cloud-link tag-link-13434 tag-link-position-8" style="font-size: 17.184pt;" aria-label="grammar (267 items)">grammar</a>
+<a href="https://stancarey.wordpress.com/tag/hiberno-english/" class="tag-cloud-link tag-link-2832116 tag-link-position-9" style="font-size: 10.8pt;" aria-label="Hiberno-English (71 items)">Hiberno-English</a>
+<a href="https://stancarey.wordpress.com/tag/history/" class="tag-cloud-link tag-link-678 tag-link-position-10" style="font-size: 10.8pt;" aria-label="history (72 items)">history</a>
+<a href="https://stancarey.wordpress.com/tag/humour/" class="tag-cloud-link tag-link-35 tag-link-position-11" style="font-size: 12.704pt;" aria-label="humour (107 items)">humour</a>
+<a href="https://stancarey.wordpress.com/tag/ireland/" class="tag-cloud-link tag-link-768 tag-link-position-12" style="font-size: 13.264pt;" aria-label="Ireland (118 items)">Ireland</a>
+<a href="https://stancarey.wordpress.com/tag/irish-english/" class="tag-cloud-link tag-link-13648751 tag-link-position-13" style="font-size: 10.688pt;" aria-label="Irish English (69 items)">Irish English</a>
+<a href="https://stancarey.wordpress.com/tag/journalism/" class="tag-cloud-link tag-link-316 tag-link-position-14" style="font-size: 10.912pt;" aria-label="journalism (73 items)">journalism</a>
+<a href="https://stancarey.wordpress.com/tag/language/" class="tag-cloud-link tag-link-1934 tag-link-position-15" style="font-size: 22pt;" aria-label="language (723 items)">language</a>
+<a href="https://stancarey.wordpress.com/tag/language-change/" class="tag-cloud-link tag-link-402359 tag-link-position-16" style="font-size: 11.808pt;" aria-label="language change (88 items)">language change</a>
+<a href="https://stancarey.wordpress.com/tag/language-history/" class="tag-cloud-link tag-link-1718962 tag-link-position-17" style="font-size: 14.944pt;" aria-label="language history (169 items)">language history</a>
+<a href="https://stancarey.wordpress.com/tag/lexicography/" class="tag-cloud-link tag-link-159906 tag-link-position-18" style="font-size: 11.136pt;" aria-label="lexicography (76 items)">lexicography</a>
+<a href="https://stancarey.wordpress.com/tag/linguistics/" class="tag-cloud-link tag-link-816 tag-link-position-19" style="font-size: 17.408pt;" aria-label="linguistics (283 items)">linguistics</a>
+<a href="https://stancarey.wordpress.com/tag/links/" class="tag-cloud-link tag-link-2200 tag-link-position-20" style="font-size: 11.248pt;" aria-label="links (79 items)">links</a>
+<a href="https://stancarey.wordpress.com/tag/literature/" class="tag-cloud-link tag-link-557 tag-link-position-21" style="font-size: 14.16pt;" aria-label="literature (145 items)">literature</a>
+<a href="https://stancarey.wordpress.com/tag/macmillan-dictionary-blog/" class="tag-cloud-link tag-link-20935287 tag-link-position-22" style="font-size: 11.248pt;" aria-label="Macmillan Dictionary Blog (79 items)">Macmillan Dictionary Blog</a>
+<a href="https://stancarey.wordpress.com/tag/metaphor/" class="tag-cloud-link tag-link-25010 tag-link-position-23" style="font-size: 8.224pt;" aria-label="metaphor (42 items)">metaphor</a>
+<a href="https://stancarey.wordpress.com/tag/morphology/" class="tag-cloud-link tag-link-75246 tag-link-position-24" style="font-size: 9.568pt;" aria-label="morphology (55 items)">morphology</a>
+<a href="https://stancarey.wordpress.com/tag/nature/" class="tag-cloud-link tag-link-1099 tag-link-position-25" style="font-size: 8.448pt;" aria-label="nature (44 items)">nature</a>
+<a href="https://stancarey.wordpress.com/tag/neologisms/" class="tag-cloud-link tag-link-55517 tag-link-position-26" style="font-size: 8.896pt;" aria-label="neologisms (48 items)">neologisms</a>
+<a href="https://stancarey.wordpress.com/tag/peevology/" class="tag-cloud-link tag-link-32379436 tag-link-position-27" style="font-size: 10.576pt;" aria-label="peevology (68 items)">peevology</a>
+<a href="https://stancarey.wordpress.com/tag/phonetics/" class="tag-cloud-link tag-link-424054 tag-link-position-28" style="font-size: 8.784pt;" aria-label="phonetics (47 items)">phonetics</a>
+<a href="https://stancarey.wordpress.com/tag/photography/" class="tag-cloud-link tag-link-436 tag-link-position-29" style="font-size: 10.912pt;" aria-label="photography (73 items)">photography</a>
+<a href="https://stancarey.wordpress.com/tag/phrases/" class="tag-cloud-link tag-link-27577 tag-link-position-30" style="font-size: 12.368pt;" aria-label="phrases (98 items)">phrases</a>
+<a href="https://stancarey.wordpress.com/tag/poetry/" class="tag-cloud-link tag-link-422 tag-link-position-31" style="font-size: 11.584pt;" aria-label="poetry (85 items)">poetry</a>
+<a href="https://stancarey.wordpress.com/tag/politics-of-language/" class="tag-cloud-link tag-link-21155381 tag-link-position-32" style="font-size: 8pt;" aria-label="politics of language (40 items)">politics of language</a>
+<a href="https://stancarey.wordpress.com/tag/prescriptivism/" class="tag-cloud-link tag-link-355708 tag-link-position-33" style="font-size: 11.696pt;" aria-label="prescriptivism (86 items)">prescriptivism</a>
+<a href="https://stancarey.wordpress.com/tag/punctuation/" class="tag-cloud-link tag-link-165960 tag-link-position-34" style="font-size: 11.024pt;" aria-label="punctuation (74 items)">punctuation</a>
+<a href="https://stancarey.wordpress.com/tag/reading/" class="tag-cloud-link tag-link-1473 tag-link-position-35" style="font-size: 14.496pt;" aria-label="reading (153 items)">reading</a>
+<a href="https://stancarey.wordpress.com/tag/science/" class="tag-cloud-link tag-link-173 tag-link-position-36" style="font-size: 8.784pt;" aria-label="science (47 items)">science</a>
+<a href="https://stancarey.wordpress.com/tag/semantics/" class="tag-cloud-link tag-link-13218 tag-link-position-37" style="font-size: 13.04pt;" aria-label="semantics (113 items)">semantics</a>
+<a href="https://stancarey.wordpress.com/tag/slang/" class="tag-cloud-link tag-link-8138 tag-link-position-38" style="font-size: 12.032pt;" aria-label="slang (93 items)">slang</a>
+<a href="https://stancarey.wordpress.com/tag/sociolinguistics/" class="tag-cloud-link tag-link-371735 tag-link-position-39" style="font-size: 8.56pt;" aria-label="sociolinguistics (45 items)">sociolinguistics</a>
+<a href="https://stancarey.wordpress.com/tag/speech/" class="tag-cloud-link tag-link-12703 tag-link-position-40" style="font-size: 13.712pt;" aria-label="speech (131 items)">speech</a>
+<a href="https://stancarey.wordpress.com/tag/spelling/" class="tag-cloud-link tag-link-59467 tag-link-position-41" style="font-size: 10.688pt;" aria-label="spelling (70 items)">spelling</a>
+<a href="https://stancarey.wordpress.com/tag/stories/" class="tag-cloud-link tag-link-955 tag-link-position-42" style="font-size: 9.792pt;" aria-label="stories (58 items)">stories</a>
+<a href="https://stancarey.wordpress.com/tag/syntax/" class="tag-cloud-link tag-link-93280 tag-link-position-43" style="font-size: 11.584pt;" aria-label="syntax (84 items)">syntax</a>
+<a href="https://stancarey.wordpress.com/tag/usage/" class="tag-cloud-link tag-link-30084 tag-link-position-44" style="font-size: 17.968pt;" aria-label="usage (317 items)">usage</a>
+<a href="https://stancarey.wordpress.com/tag/video/" class="tag-cloud-link tag-link-412 tag-link-position-45" style="font-size: 8.112pt;" aria-label="video (41 items)">video</a>
+<a href="https://stancarey.wordpress.com/tag/visual-poetry/" class="tag-cloud-link tag-link-382575 tag-link-position-46" style="font-size: 8.56pt;" aria-label="visual poetry (45 items)">visual poetry</a>
+<a href="https://stancarey.wordpress.com/tag/wordplay/" class="tag-cloud-link tag-link-117095 tag-link-position-47" style="font-size: 12.368pt;" aria-label="wordplay (100 items)">wordplay</a>
+<a href="https://stancarey.wordpress.com/tag/words/" class="tag-cloud-link tag-link-4822 tag-link-position-48" style="font-size: 20.096pt;" aria-label="words (487 items)">words</a>
+<a href="https://stancarey.wordpress.com/tag/writers/" class="tag-cloud-link tag-link-16761 tag-link-position-49" style="font-size: 8.784pt;" aria-label="writers (47 items)">writers</a>
+<a href="https://stancarey.wordpress.com/tag/writing/" class="tag-cloud-link tag-link-349 tag-link-position-50" style="font-size: 17.968pt;" aria-label="writing (315 items)">writing</a></li>
+<li id="linkcat-264350" class="widget widget_links"><h2 class="widgettitle">Blogs</h2>
+
+	<ul class='xoxo blogroll'>
+<li><a href="http://arnoldzwicky.org/" rel="noopener" target="_blank">Arnold Zwicky</a></li>
+<li><a href="http://www.arrantpedantry.com/" rel="noopener" target="_blank">Arrant Pedantry</a></li>
+<li><a href="http://david-crystal.blogspot.com/" rel="noopener" target="_blank">David Crystal</a></li>
+<li><a href="http://nancyfriedman.typepad.com/" rel="noopener" title="Names, brands, writing, and the quirks of the English language." target="_blank">Fritinancy</a></li>
+<li><a href="http://www.grammarphobia.com/blog/" rel="noopener" title="blog by Patricia T. O’Conner and Stewart Kellerman" target="_blank">Grammarphobia</a></li>
+<li><a href="http://www.languagehat.com/" rel="noopener" target="_blank">Language Hat</a></li>
+<li><a href="http://languagelog.ldc.upenn.edu/nll/" rel="noopener" target="_blank">Language Log</a></li>
+<li><a href="https://daily.jstor.org/column/lingua-obscura/" rel="noopener" title="Chi Luu’s language column for JSTOR Daily" target="_blank">Lingua Obscura</a></li>
+<li><a href="http://literalminded.wordpress.com/" rel="noopener" title="Linguistic commentary from a guy who takes things too literally" target="_blank">Literal-Minded</a></li>
+<li><a href="http://motivatedgrammar.wordpress.com/" rel="noopener" title="‘Prescriptivism Must Die!’" target="_blank">Motivated Grammar</a></li>
+<li><a href="https://tetrapilotomie.blogspot.com/" rel="noopener" target="_blank">Omnium</a></li>
+<li><a href="http://blog.oup.com/category/reference/oxford_etymologist/" rel="noopener" title="by Anatoly Liberman" target="_blank">Oxford Etymologist</a></li>
+<li><a href="http://separatedbyacommonlanguage.blogspot.com/" rel="noopener" title="Observations on British and American English" target="_blank">Separated by a common language</a></li>
+<li><a href="http://sesquiotic.wordpress.com/" rel="noopener" title="Words, words, words" target="_blank">Sesquiotica</a></li>
+<li><a href="http://stronglang.wordpress.com/" rel="noopener" title="A sweary blog about swearing, founded by James Harbeck and me" target="_blank">Strong Language</a></li>
+<li><a href="http://www.superlinguo.com/" rel="noopener" title="For those who like and use language" target="_blank">Superlinguo</a></li>
+<li><a href="http://stroppyeditor.wordpress.com/" rel="noopener" title="Minding other people’s language. A lot." target="_blank">The Stroppy Editor</a></li>
+<li><a href="https://johnemcintyre.blogspot.com/" rel="noopener" title="Observations on language and the craft of editing" target="_blank">You Don&#039;t Say</a></li>
+
+	</ul>
+</li>
+
+<li id="linkcat-127470" class="widget widget_links"><h2 class="widgettitle">Links</h2>
+
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.waywordradio.org/" rel="noopener" title="Public radio’s lively language show, with Martha Barnette and Grant Barrett" target="_blank">A Way with Words</a></li>
+<li><a href="http://www.chicagomanualofstyle.org/home.html" rel="noopener" target="_blank">Chicago Manual of Style</a></li>
+<li><a href="http://www.affixes.org/" rel="noopener" title="The building blocks of English" target="_blank">Dictionary of Affixes</a></li>
+<li><a href="http://www.ethnologue.com/" rel="noopener" title="Cataloguing the world’s known languages" target="_blank">Ethnologue</a></li>
+<li><a href="http://greensdictofslang.com/" rel="noopener" title="Five hundred years of the vulgar tongue" target="_blank">Green&#039;s Dictionary of Slang</a></li>
+<li><a href="http://historicalthesaurus.arts.gla.ac.uk/" rel="noopener" title="Online version of the Historical Thesaurus of the OED" target="_blank">Historical Thesaurus of English</a></li>
+<li><a href="http://www.macmillandictionary.com/" rel="noopener" title="Macmillan Dictionary and Thesaurus" target="_blank">Macmillan Dictionary</a></li>
+<li><a href="https://www.english-corpora.org/" rel="noopener" title="Online corpora, including COCA, COHA, BNC, GloWbE and Google Books ngrams" target="_blank">Mark Davies&#039; corpora</a></li>
+<li><a href="http://www.merriam-webster.com/" rel="noopener" target="_blank">Merriam-Webster</a></li>
+<li><a href="http://www.onelook.com/" rel="noopener" title="Dictionary aggregator" target="_blank">OneLook</a></li>
+<li><a href="http://www.etymonline.com/" rel="noopener" title="The Online Etymology Dictionary, by Douglas Harper" target="_blank">Online Etymology Dictionary</a></li>
+<li><a href="http://www.phrases.org.uk/meanings/index.html" rel="noopener" title="Meanings and origins of phrases, sayings and idioms" target="_blank">Phrase finder</a></li>
+<li><a href="http://specgram.com/" rel="noopener" title="The premier scholarly journal featuring research in the neglected field of satirical linguistics" target="_blank">Speculative Grammarian</a></li>
+<li><a href="http://wals.info/" rel="noopener" title="World Atlas of Language Structures" target="_blank">World Atlas of Language Structures</a></li>
+<li><a href="http://www.worldwidewords.org/" rel="noopener" title="Michael Quinion’s site" target="_blank">World Wide Words</a></li>
+
+	</ul>
+</li>
+
+			<div id="atatags-286348-6394eccec50b6"></div>
+			
+			<script>
+				__ATA.cmd.push(function() {
+					__ATA.initDynamicSlot({
+						id: 'atatags-286348-6394eccec50b6',
+						location: 140,
+						formFactor: '003',
+						label: {
+							text: 'Advertisements',
+						},
+						creative: {
+							reportAd: {
+								text: 'Report this ad',
+							},
+							privacySettings: {
+								text: 'Privacy',
+								onClick: function() { window.__tcfapi && window.__tcfapi( 'showUi' ); },
+							}
+						}
+					});
+				});
+			</script>		</ul>
+	</div>
+
+
+
+<div id="footer">
+	<p>
+	<br />
+	<a href="https://wordpress.com/?ref=footer_blog" rel="nofollow">Blog at WordPress.com.</a>
+	</p>
+</div>
+
+</div>
+
+		<!--  -->
+<script src='//0.gravatar.com/js/gprofiles.js?ver=202249z' id='grofiles-cards-js'></script>
+<script id='wpgroho-js-extra'>
+var WPGroHo = {"my_hash":""};
+</script>
+<script crossorigin='anonymous' type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1610363240h'></script>
+
+	<script>
+		// Initialize and attach hovercards to all gravatars
+		( function() {
+			function init() {
+				if ( typeof Gravatar === 'undefined' ) {
+					return;
+				}
+
+				if ( typeof Gravatar.init !== 'function' ) {
+					return;
+				}
+
+				Gravatar.profile_cb = function ( hash, id ) {
+					WPGroHo.syncProfileData( hash, id );
+				};
+
+				Gravatar.my_hash = WPGroHo.my_hash;
+				Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+			}
+
+			if ( document.readyState !== 'loading' ) {
+				init();
+			} else {
+				document.addEventListener( 'DOMContentLoaded', init );
+			}
+		} )();
+	</script>
+
+		<div style="display:none">
+	<div class="grofile-hash-map-351bf9b39825380a02d7f17d61dbbc6b">
+	</div>
+	<div class="grofile-hash-map-1416ad5f6a6adaea3d80c1a0261e3fd9">
+	</div>
+	<div class="grofile-hash-map-e68c5f291c67894acdd3f38c81a356ba">
+	</div>
+	<div class="grofile-hash-map-a87a209bf0da965d7aadca0644b3c75c">
+	</div>
+	<div class="grofile-hash-map-93b8f84eec59143a9a0ac5e9d231579a">
+	</div>
+	<div class="grofile-hash-map-922c85baace4a5e3a72ee0bddd05484f">
+	</div>
+	<div class="grofile-hash-map-5453b14a7b05b5f918afc77f6b76ea66">
+	</div>
+	<div class="grofile-hash-map-38015f074be8ec466497aef184c51d2b">
+	</div>
+	<div class="grofile-hash-map-7637cae7dafd5db616c8cd81fe4f4f7b">
+	</div>
+	<div class="grofile-hash-map-bf36ffcbb0e93e6c2af3fdf47d251a6a">
+	</div>
+	<div class="grofile-hash-map-9c6cdb337bc684e710843c0dad66eb8d">
+	</div>
+	<div class="grofile-hash-map-c1ded0efd985c6c2f936a2ab41a070f1">
+	</div>
+	<div class="grofile-hash-map-0e025177d440b8992d2fbf2d5cabd63a">
+	</div>
+	<div class="grofile-hash-map-2e4f9ccea78d45b69f5abf1b159eab59">
+	</div>
+	</div>
+<script id='highlander-comments-js-extra'>
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/stancarey.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/stancarey.wordpress.com\/wp-login.php?action=logout&_wpnonce=20952e14fc","homeURL":"https:\/\/stancarey.wordpress.com\/","postID":"17111","gravDefault":"mystery","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"","text_direction":"ltr"};
+</script>
+<script crossorigin='anonymous' type='text/javascript' src='https://s0.wp.com/_static/??/wp-content/js/textarea-autosize.min.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1663141412j'></script>
+		<!-- CCPA [start] -->
+		<script type="text/javascript">
+			( function () {
+
+				var setupPrivacy = function() {
+
+					// Minimal Mozilla Cookie library
+					// https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie/Simple_document.cookie_framework
+					var cookieLib = window.cookieLib = {getItem:function(e){return e&&decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*"+encodeURIComponent(e).replace(/[\-\.\+\*]/g,"\\$&")+"\\s*\\=\\s*([^;]*).*$)|^.*$"),"$1"))||null},setItem:function(e,o,n,t,r,i){if(!e||/^(?:expires|max\-age|path|domain|secure)$/i.test(e))return!1;var c="";if(n)switch(n.constructor){case Number:c=n===1/0?"; expires=Fri, 31 Dec 9999 23:59:59 GMT":"; max-age="+n;break;case String:c="; expires="+n;break;case Date:c="; expires="+n.toUTCString()}return"rootDomain"!==r&&".rootDomain"!==r||(r=(".rootDomain"===r?".":"")+document.location.hostname.split(".").slice(-2).join(".")),document.cookie=encodeURIComponent(e)+"="+encodeURIComponent(o)+c+(r?"; domain="+r:"")+(t?"; path="+t:"")+(i?"; secure":""),!0}};
+
+					// Implement IAB USP API.
+					window.__uspapi = function( command, version, callback ) {
+
+						// Validate callback.
+						if ( typeof callback !== 'function' ) {
+							return;
+						}
+
+						// Validate the given command.
+						if ( command !== 'getUSPData' || version !== 1 ) {
+							callback( null, false );
+							return;
+						}
+
+						// Check for GPC. If set, override any stored cookie.
+						if ( navigator.globalPrivacyControl ) {
+							callback( { version: 1, uspString: '1YYN' }, true );
+							return;
+						}
+
+						// Check for cookie.
+						var consent = cookieLib.getItem( 'usprivacy' );
+
+						// Invalid cookie.
+						if ( null === consent ) {
+							callback( null, false );
+							return;
+						}
+
+						// Everything checks out. Fire the provided callback with the consent data.
+						callback( { version: 1, uspString: consent }, true );
+					};
+
+					// Initialization.
+					document.addEventListener( 'DOMContentLoaded', function() {
+
+						// Internal functions.
+						var setDefaultOptInCookie = function() {
+							var value = '1YNN';
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'usprivacy', value, 365 * 24 * 60 * 60, '/', domain );
+						};
+
+						var setDefaultOptOutCookie = function() {
+							var value = '1YYN';
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'usprivacy', value, 24 * 60 * 60, '/', domain );
+						};
+
+						var setDefaultNotApplicableCookie = function() {
+							var value = '1---';
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'usprivacy', value, 24 * 60 * 60, '/', domain );
+						};
+
+						var setCcpaAppliesCookie = function( applies ) {
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'ccpa_applies', applies, 24 * 60 * 60, '/', domain );
+						}
+
+						var maybeCallDoNotSellCallback = function() {
+							if ( 'function' === typeof window.doNotSellCallback ) {
+								return window.doNotSellCallback();
+							}
+
+							return false;
+						}
+
+						// Look for usprivacy cookie first.
+						var usprivacyCookie = cookieLib.getItem( 'usprivacy' );
+
+						// Found a usprivacy cookie.
+						if ( null !== usprivacyCookie ) {
+
+							// If the cookie indicates that CCPA does not apply, then bail.
+							if ( '1---' === usprivacyCookie ) {
+								return;
+							}
+
+							// CCPA applies, so call our callback to add Do Not Sell link to the page.
+							maybeCallDoNotSellCallback();
+
+							// We're all done, no more processing needed.
+							return;
+						}
+
+						// We don't have a usprivacy cookie, so check to see if we have a CCPA applies cookie.
+						var ccpaCookie = cookieLib.getItem( 'ccpa_applies' );
+
+						// No CCPA applies cookie found, so we'll need to geolocate if this visitor is from California.
+						// This needs to happen client side because we do not have region geo data in our $SERVER headers,
+						// only country data -- therefore we can't vary cache on the region.
+						if ( null === ccpaCookie ) {
+
+							var request = new XMLHttpRequest();
+							request.open( 'GET', 'https://public-api.wordpress.com/geo/', true );
+
+							request.onreadystatechange = function () {
+								if ( 4 === this.readyState ) {
+									if ( 200 === this.status ) {
+
+										// Got a geo response. Parse out the region data.
+										var data = JSON.parse( this.response );
+										var region      = data.region ? data.region.toLowerCase() : '';
+										var ccpa_applies = ['california', 'colorado', 'connecticut', 'utah', 'virginia'].indexOf( region ) > -1;
+										// Set CCPA applies cookie. This keeps us from having to make a geo request too frequently.
+										setCcpaAppliesCookie( ccpa_applies );
+
+										// Check if CCPA applies to set the proper usprivacy cookie.
+										if ( ccpa_applies ) {
+											if ( maybeCallDoNotSellCallback() ) {
+												// Do Not Sell link added, so set default opt-in.
+												setDefaultOptInCookie();
+											} else {
+												// Failed showing Do Not Sell link as required, so default to opt-OUT just to be safe.
+												setDefaultOptOutCookie();
+											}
+										} else {
+											// CCPA does not apply.
+											setDefaultNotApplicableCookie();
+										}
+									} else {
+										// Could not geo, so let's assume for now that CCPA applies to be safe.
+										setCcpaAppliesCookie( true );
+										if ( maybeCallDoNotSellCallback() ) {
+											// Do Not Sell link added, so set default opt-in.
+											setDefaultOptInCookie();
+										} else {
+											// Failed showing Do Not Sell link as required, so default to opt-OUT just to be safe.
+											setDefaultOptOutCookie();
+										}
+									}
+								}
+							};
+
+							// Send the geo request.
+							request.send();
+						} else {
+							// We found a CCPA applies cookie.
+							if ( ccpaCookie === 'true' ) {
+								if ( maybeCallDoNotSellCallback() ) {
+									// Do Not Sell link added, so set default opt-in.
+									setDefaultOptInCookie();
+								} else {
+									// Failed showing Do Not Sell link as required, so default to opt-OUT just to be safe.
+									setDefaultOptOutCookie();
+								}
+							} else {
+								// CCPA does not apply.
+								setDefaultNotApplicableCookie();
+							}
+						}
+					} );
+				};
+
+				// Kickoff initialization.
+				if ( window.defQueue && defQueue.isLOHP && defQueue.isLOHP === 2020 ) {
+					defQueue.items.push( setupPrivacy );
+				} else {
+					setupPrivacy();
+				}
+
+			} )();
+		</script>
+
+		<!-- CCPA [end] -->
+		<script type="text/javascript">
+	window._tkq = window._tkq || [];
+	if ( Math.random() < 0.01 ) {
+		window._tkq.push( [
+			'recordEvent',
+			'wpcom_wordads_noad',
+			{"theme":"pub\/contempt","blog_id":3895763,"post_id":17111,"reason_blog_unsafe":1,"reason_post_unsafe":1}
+		] );
+	}
+</script>		<script type="text/javascript">
+		( function() {
+			function init() {
+				document.body.addEventListener( 'is.post-load', function() {
+					if ( typeof __ATA.insertInlineAds === 'function' ) {
+						__ATA.insertInlineAds();
+					}
+				} );
+			}
+
+			if ( document.readyState !== 'loading' ) {
+				init();
+			} else {
+				document.addEventListener( 'DOMContentLoaded', init );
+			}
+		} )();
+		</script>	<div id="actionbar" style="display: none;"
+			class="actnbr-pub-contempt actnbr-has-follow">
+		<ul>
+								<li class="actnbr-btn actnbr-hidden">
+								<a class="actnbr-action actnbr-actn-follow " href="">
+			<svg class="gridicon gridicons-reader-follow" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 16v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3zM20 2v9h-4v3h-3v4H4c-1.1 0-2-.9-2-2V2h18zM8 13v-1H4v1h4zm3-3H4v1h7v-1zm0-2H4v1h7V8zm7-4H4v2h14V4z"/></g></svg><span>Follow</span>
+		</a>
+		<a class="actnbr-action actnbr-actn-following  no-display" href="">
+			<svg class="gridicon gridicons-reader-following" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 13.482L15.508 21 12 17.4l1.412-1.388 2.106 2.188 6.094-6.094L23 13.482zm-7.455 1.862L20 10.89V2H2v14c0 1.1.9 2 2 2h4.538l4.913-4.832 2.095 2.176zM8 13H4v-1h4v1zm3-2H4v-1h7v1zm0-2H4V8h7v1zm7-3H4V4h14v2z"/></g></svg><span>Following</span>
+		</a>
+							<div class="actnbr-popover tip tip-top-left actnbr-notice" id="follow-bubble">
+							<div class="tip-arrow"></div>
+							<div class="tip-inner actnbr-follow-bubble">
+															<ul>
+											<li class="actnbr-sitename">
+			<a href="https://stancarey.wordpress.com">
+				<img alt='' src='https://s2.wp.com/i/logo/wpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' />				Sentence first			</a>
+		</li>
+										<form method="post" action="https://subscribe.wordpress.com" accept-charset="utf-8" style="display: none;">
+																						<div class="actnbr-follow-count">Join 24,238 other followers</div>
+																					<div>
+										<input type="email" name="email" placeholder="Enter your email address" class="actnbr-email-field" aria-label="Enter your email address" />
+										</div>
+										<input type="hidden" name="action" value="subscribe" />
+										<input type="hidden" name="blog_id" value="3895763" />
+										<input type="hidden" name="source" value="https://stancarey.wordpress.com/2013/11/27/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep/" />
+										<input type="hidden" name="sub-type" value="actionbar-follow" />
+										<input type="hidden" id="_wpnonce" name="_wpnonce" value="23807205eb" />										<div class="actnbr-button-wrap">
+											<button type="submit" value="Sign me up">
+												Sign me up											</button>
+										</div>
+									</form>
+									<li class="actnbr-login-nudge">
+										<div>
+											Already have a WordPress.com account? <a href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fstancarey.wordpress.com%2F2013%2F11%2F27%2Fyan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep%2F&#038;signup_flow=account">Log in now.</a>										</div>
+									</li>
+								</ul>
+															</div>
+						</div>
+					</li>
+							<li class="actnbr-ellipsis actnbr-hidden">
+				<svg class="gridicon gridicons-ellipsis" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M7 12c0 1.104-.896 2-2 2s-2-.896-2-2 .896-2 2-2 2 .896 2 2zm12-2c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2zm-7 0c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2z"/></g></svg>				<div class="actnbr-popover tip tip-top-left actnbr-more">
+					<div class="tip-arrow"></div>
+					<div class="tip-inner">
+						<ul>
+									<li class="actnbr-sitename">
+			<a href="https://stancarey.wordpress.com">
+				<img alt='' src='https://s2.wp.com/i/logo/wpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' />				Sentence first			</a>
+		</li>
+								<li class="actnbr-folded-customize">
+								<a href="https://stancarey.wordpress.com/wp-admin/customize.php?url=https%3A%2F%2Fstancarey.wordpress.com%2F2013%2F11%2F27%2Fyan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep%2F">
+									<svg class="gridicon gridicons-customize" height="20" width="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M2 6c0-1.505.78-3.08 2-4 0 .845.69 2 2 2 1.657 0 3 1.343 3 3 0 .386-.08.752-.212 1.09.74.594 1.476 1.19 2.19 1.81L8.9 11.98c-.62-.716-1.214-1.454-1.807-2.192C6.753 9.92 6.387 10 6 10c-2.21 0-4-1.79-4-4zm12.152 6.848l1.34-1.34c.607.304 1.283.492 2.008.492 2.485 0 4.5-2.015 4.5-4.5 0-.725-.188-1.4-.493-2.007L18 9l-2-2 3.507-3.507C18.9 3.188 18.225 3 17.5 3 15.015 3 13 5.015 13 7.5c0 .725.188 1.4.493 2.007L3 20l2 2 6.848-6.848c1.885 1.928 3.874 3.753 5.977 5.45l1.425 1.148 1.5-1.5-1.15-1.425c-1.695-2.103-3.52-4.092-5.448-5.977z"/></g></svg>									<span>Customize</span>
+								</a>
+							</li>
+																<li class="actnbr-folded-follow">
+												<a class="actnbr-action actnbr-actn-follow " href="">
+			<svg class="gridicon gridicons-reader-follow" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 16v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3zM20 2v9h-4v3h-3v4H4c-1.1 0-2-.9-2-2V2h18zM8 13v-1H4v1h4zm3-3H4v1h7v-1zm0-2H4v1h7V8zm7-4H4v2h14V4z"/></g></svg><span>Follow</span>
+		</a>
+		<a class="actnbr-action actnbr-actn-following  no-display" href="">
+			<svg class="gridicon gridicons-reader-following" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 13.482L15.508 21 12 17.4l1.412-1.388 2.106 2.188 6.094-6.094L23 13.482zm-7.455 1.862L20 10.89V2H2v14c0 1.1.9 2 2 2h4.538l4.913-4.832 2.095 2.176zM8 13H4v-1h4v1zm3-2H4v-1h7v1zm0-2H4V8h7v1zm7-3H4V4h14v2z"/></g></svg><span>Following</span>
+		</a>
+										</li>
+																	<li class="actnbr-signup"><a href="https://wordpress.com/start/">Sign up</a></li>
+									<li class="actnbr-login"><a href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fstancarey.wordpress.com%2F2013%2F11%2F27%2Fyan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep%2F&#038;signup_flow=account">Log in</a></li>
+																	<li class="actnbr-shortlink"><a href="https://wp.me/pglsT-4rZ">Copy shortlink</a></li>
+																	<li class="flb-report"><a href="http://en.wordpress.com/abuse/">Report this content</a></li>
+																	<li class="actnbr-reader">
+										<a href="https://wordpress.com/read/blogs/3895763/posts/17111">
+											View post in Reader										</a>
+									</li>
+																	<li class="actnbr-subs">
+										<a href="https://subscribe.wordpress.com/">Manage subscriptions</a>
+									</li>
+																		<li class="actnbr-fold"><a href="">Collapse this bar</a></li>
+															</ul>
+					</div>
+				</div>
+			</li>
+		</ul>
+	</div>
+	
+<script>
+window.addEventListener( "load", function( event ) {
+	var link = document.createElement( "link" );
+	link.href = "https://s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.css?v=20210915";
+	link.type = "text/css";
+	link.rel = "stylesheet";
+	document.head.appendChild( link );
+
+	var script = document.createElement( "script" );
+	script.src = "https://s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.js?v=20220329";
+	script.defer = true;
+	document.body.appendChild( script );
+} );
+</script>
+
+			<div id="jp-carousel-loading-overlay">
+			<div id="jp-carousel-loading-wrapper">
+				<span id="jp-carousel-library-loading">&nbsp;</span>
+			</div>
+		</div>
+		<div class="jp-carousel-overlay" style="display: none;">
+
+		<div class="jp-carousel-container">
+			<!-- The Carousel Swiper -->
+			<div
+				class="jp-carousel-wrap swiper-container jp-carousel-swiper-container jp-carousel-transitions"
+				itemscope
+				itemtype="https://schema.org/ImageGallery">
+				<div class="jp-carousel swiper-wrapper"></div>
+				<div class="jp-swiper-button-prev swiper-button-prev">
+					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<mask id="maskPrev" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="9" height="12">
+							<path d="M16.2072 16.59L11.6496 12L16.2072 7.41L14.8041 6L8.8335 12L14.8041 18L16.2072 16.59Z" fill="white"/>
+						</mask>
+						<g mask="url(#maskPrev)">
+							<rect x="0.579102" width="23.8823" height="24" fill="#FFFFFF"/>
+						</g>
+					</svg>
+				</div>
+				<div class="jp-swiper-button-next swiper-button-next">
+					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<mask id="maskNext" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="8" height="12">
+							<path d="M8.59814 16.59L13.1557 12L8.59814 7.41L10.0012 6L15.9718 12L10.0012 18L8.59814 16.59Z" fill="white"/>
+						</mask>
+						<g mask="url(#maskNext)">
+							<rect x="0.34375" width="23.8822" height="24" fill="#FFFFFF"/>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<!-- The main close buton -->
+			<div class="jp-carousel-close-hint">
+				<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<mask id="maskClose" mask-type="alpha" maskUnits="userSpaceOnUse" x="5" y="5" width="15" height="14">
+						<path d="M19.3166 6.41L17.9135 5L12.3509 10.59L6.78834 5L5.38525 6.41L10.9478 12L5.38525 17.59L6.78834 19L12.3509 13.41L17.9135 19L19.3166 17.59L13.754 12L19.3166 6.41Z" fill="white"/>
+					</mask>
+					<g mask="url(#maskClose)">
+						<rect x="0.409668" width="23.8823" height="24" fill="#FFFFFF"/>
+					</g>
+				</svg>
+			</div>
+			<!-- Image info, comments and meta -->
+			<div class="jp-carousel-info">
+				<div class="jp-carousel-info-footer">
+					<div class="jp-carousel-pagination-container">
+						<div class="jp-swiper-pagination swiper-pagination"></div>
+						<div class="jp-carousel-pagination"></div>
+					</div>
+					<div class="jp-carousel-photo-title-container">
+						<h2 class="jp-carousel-photo-caption"></h2>
+					</div>
+					<div class="jp-carousel-photo-icons-container">
+						<a href="#" class="jp-carousel-icon-btn jp-carousel-icon-info" aria-label="Toggle photo metadata visibility">
+							<span class="jp-carousel-icon">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="maskInfo" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="21" height="20">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M12.7537 2C7.26076 2 2.80273 6.48 2.80273 12C2.80273 17.52 7.26076 22 12.7537 22C18.2466 22 22.7046 17.52 22.7046 12C22.7046 6.48 18.2466 2 12.7537 2ZM11.7586 7V9H13.7488V7H11.7586ZM11.7586 11V17H13.7488V11H11.7586ZM4.79292 12C4.79292 16.41 8.36531 20 12.7537 20C17.142 20 20.7144 16.41 20.7144 12C20.7144 7.59 17.142 4 12.7537 4C8.36531 4 4.79292 7.59 4.79292 12Z" fill="white"/>
+									</mask>
+									<g mask="url(#maskInfo)">
+										<rect x="0.8125" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+							</span>
+						</a>
+												<a href="#" class="jp-carousel-icon-btn jp-carousel-icon-comments" aria-label="Toggle photo comments visibility">
+							<span class="jp-carousel-icon">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="maskComments" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="21" height="20">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M4.3271 2H20.2486C21.3432 2 22.2388 2.9 22.2388 4V16C22.2388 17.1 21.3432 18 20.2486 18H6.31729L2.33691 22V4C2.33691 2.9 3.2325 2 4.3271 2ZM6.31729 16H20.2486V4H4.3271V18L6.31729 16Z" fill="white"/>
+									</mask>
+									<g mask="url(#maskComments)">
+										<rect x="0.34668" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+
+								<span class="jp-carousel-has-comments-indicator" aria-label="This image has comments."></span>
+							</span>
+						</a>
+											</div>
+				</div>
+				<div class="jp-carousel-info-extra">
+					<div class="jp-carousel-info-content-wrapper">
+						<div class="jp-carousel-photo-title-container">
+							<h2 class="jp-carousel-photo-title"></h2>
+						</div>
+						<div class="jp-carousel-comments-wrapper">
+															<div id="jp-carousel-comments-loading">
+									<span>Loading Comments...</span>
+								</div>
+								<div class="jp-carousel-comments"></div>
+								<div id="jp-carousel-comment-form-container">
+									<span id="jp-carousel-comment-form-spinner">&nbsp;</span>
+									<div id="jp-carousel-comment-post-results"></div>
+																														<form id="jp-carousel-comment-form">
+												<label for="jp-carousel-comment-form-comment-field" class="screen-reader-text">Write a Comment...</label>
+												<textarea
+													name="comment"
+													class="jp-carousel-comment-form-field jp-carousel-comment-form-textarea"
+													id="jp-carousel-comment-form-comment-field"
+													placeholder="Write a Comment..."
+												></textarea>
+												<div id="jp-carousel-comment-form-submit-and-info-wrapper">
+													<div id="jp-carousel-comment-form-commenting-as">
+																													<fieldset>
+																<label for="jp-carousel-comment-form-email-field">Email (Required)</label>
+																<input type="text" name="email" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-email-field" />
+															</fieldset>
+															<fieldset>
+																<label for="jp-carousel-comment-form-author-field">Name (Required)</label>
+																<input type="text" name="author" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-author-field" />
+															</fieldset>
+															<fieldset>
+																<label for="jp-carousel-comment-form-url-field">Website</label>
+																<input type="text" name="url" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-url-field" />
+															</fieldset>
+																											</div>
+													<input
+														type="submit"
+														name="submit"
+														class="jp-carousel-comment-form-button"
+														id="jp-carousel-comment-form-button-submit"
+														value="Post Comment" />
+												</div>
+											</form>
+																											</div>
+													</div>
+						<div class="jp-carousel-image-meta">
+							<div class="jp-carousel-title-and-caption">
+								<div class="jp-carousel-photo-info">
+									<h3 class="jp-carousel-caption" itemprop="caption description"></h3>
+								</div>
+
+								<div class="jp-carousel-photo-description"></div>
+							</div>
+							<ul class="jp-carousel-image-exif" style="display: none;"></ul>
+							<a class="jp-carousel-image-download" target="_blank" style="display: none;">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="3" y="3" width="19" height="18">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M5.84615 5V19H19.7775V12H21.7677V19C21.7677 20.1 20.8721 21 19.7775 21H5.84615C4.74159 21 3.85596 20.1 3.85596 19V5C3.85596 3.9 4.74159 3 5.84615 3H12.8118V5H5.84615ZM14.802 5V3H21.7677V10H19.7775V6.41L9.99569 16.24L8.59261 14.83L18.3744 5H14.802Z" fill="white"/>
+									</mask>
+									<g mask="url(#mask0)">
+										<rect x="0.870605" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+								<span class="jp-carousel-download-text"></span>
+							</a>
+							<div class="jp-carousel-image-map" style="display: none;"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		</div>
+		
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/stancarey.wordpress.com\/2013\/11\/27\/yan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep\/":17111};
+	</script>
+						<script src='https://platform.twitter.com/widgets.js?ver=20111117' id='twitter-widgets-js'></script>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-0-3' href='https://s0.wp.com/_static/??-eJyljFEKgzAQBS9kXCw2kI/Ss+i6SGKyWbJZvL4t1BP0b97wGDjFYeVO3KGYk2x7ZIVEXRY8fhuk1c2wx8pQPpRJAZdWTSmDnlGoudV4yzSi6gB/N+/rLb7Zd3lN/unnRwh+She1E0V3?cssminify=yes' type='text/css' media='all' />
+<script id='jetpack-carousel-js-extra'>
+var jetpackSwiperLibraryPath = {"url":"https:\/\/s2.wp.com\/wp-content\/mu-plugins\/jetpack-plugin\/production\/_inc\/build\/carousel\/swiper-bundle.min.js"};
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/stancarey.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"e51836a087","display_exif":"1","display_comments":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/stancarey.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fstancarey.wordpress.com%2F2013%2F11%2F27%2Fyan-tan-tethera-pethera-pimp-an-old-system-for-counting-sheep%2F","blog_id":"3895763","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"stats_query_args":"blog=3895763&v=wpcom&tz=1&user_id=0&subd=stancarey","is_public":"1"};
+</script>
+<script id='sharing-js-js-extra'>
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+</script>
+<script crossorigin='anonymous' type='text/javascript' src='https://s2.wp.com/_static/??-eJylkNtOwzAMhl+I1KCJ7QrxKCiNvS5tTtgJZW+PN9ppmlBvyJUPv7/4N8zFuJwqpQqjANKXd1S+u1Ge4K4VmymhDT4JBD+RwGejRiebMBCvYp9caKhNBbkcow4aphLOXfTpkdiHPNyYc2a0KMYFK7IAYun6duFv7GJRyaa3DNFKJdbIVLZuko2hkWpRyZJD4YzNVZ8TfKgD6JsPCM5ybkLhpl4Lf3m532jyEqmaXff8i1sLR76KcWN2/cLMRc/3kP7XkJwskx4Zz9fQp2Fx8h7fXvb6dvvD4XX8AeuExe4='></script>
+<script type='text/javascript'>
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-facebook' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-facebook' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-twitter' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-twitter' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+
+					var el;
+					if ( matches( event.target, 'a.share-linkedin' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-linkedin' ) ) {
+						el = event.target.parentNode;
+					}
+
+					if ( el ) {
+						event.preventDefault();
+
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomlinkedin', 'menubar=1,resizable=1,width=580,height=450' );
+						return false;
+					}
+				} );
+			} )();
+</script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>	<iframe src='https://widgets.wp.com/likes/master.html?ver=20220105#ver=20220105&amp;origin=https://stancarey.wordpress.com' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+	<div id='likes-other-gravatars'>
+		<div class="likes-text">
+			<span>%d</span> bloggers like this:		</div>
+		<ul class="wpl-avatars sd-like-gravatars"></ul>
+	</div>
+
+		<script src="//stats.wp.com/w.js?63" defer></script> <script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'3895763','blog_tz':'1','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'3895763','v':'wpcom','tz':'1','user_id':'0','post':'17111','subd':'stancarey'}]);
+_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWtpP0NsWnVkPS9sL0ViLndld3AyMWJHeXJoeTksLndZeV1Mc2RESlROa0x4d1R5dHNlLTJJT29HU1JTLG5+Z3xuc3JWRHxUNjJDQTI/Zy5PbjlDckZPOHIvSXgzMDB1N3o1LWRWQXZdOUJzWkNdZG85KzVOaGk0VnFSNHA1NEZ2aFJyRHNmOVgzcHAxeE5pNFQ2cC1mMl9adllmZnJzWjh1TzI/Tjd2Z0JMclZTOFQveGR1LHBbdzFSfFNdP34lSlstcTZKJVlGTDM1anVjYS8tZTJMbms3YzUtS00uQlUuNTZMTF1xRiU/c3dpWVZLOVp1TVBDN3phRFlSdTZ5UW1hd211Ym8meT1LTVVXbkFRbF1XcDcxRj1SRWpsfjBbL1NsbDBuWC55fjFJdUsyN2JBOExaN2IxWCVZbmFDYnFlcEFPYzc1ZHREOFA2Pz9XZi9rL09Oayt3WjNuMi0rRWk9L11QRjZCKzV1NnZKZTdiYWE4YVFkTGdxaWd1RUll'}]);
+_stq.push([ 'clickTrackerInit', '3895763', '17111' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+</html>
+<!--
+	generated in 0.249 seconds
+	189236 bytes batcached for 300 seconds
+-->

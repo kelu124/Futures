@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Engineers light the way to bionics of the future | UNSW Newsroom</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://newsroom.unsw.edu.au/profiles/newsroom/themes/custom/carto/favicon.ico" type="image/vnd.microsoft.icon" />
+<script type="text/javascript">dataLayer = [{"articleTitle":"Engineers light the way to bionics of the future","articleURL":"https://newsroom.unsw.edu.au/news/science-tech/engineers-light-way-bionics-future","Section":"Science & Tech","articleTags":["optrodes","electrodes","nerve damage","nerve repair","prosthetics","brain-machine interfaces","optics technology","liquid crystals","school of electrical engineering & telecommunications","graduate school of biomedical engineering","unsw engineering","francois ladouceur","nigel lovell"],"Author":"Lachlan Gilbert","wordCount":"1352","readTime":"338","dateCreated":"2022-10-27T09:30:00+11:00","datePublished":"2022-10-27T09:30:00+11:00","dateUpdated":"2022-11-01T16:49:37+11:00","daysSincePublished":"38","authorZid":"z8826307","userUid":0}];</script>
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://newsroom.unsw.edu.au/news/science-tech/engineers-light-way-bionics-future" />
+<link rel="shortlink" href="https://newsroom.unsw.edu.au/node/25653" />
+<meta property="og:site_name" content="UNSW Newsroom" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Engineers light the way to bionics of the future" />
+<meta property="og:url" content="https://newsroom.unsw.edu.au/news/science-tech/engineers-light-way-bionics-future" />
+<meta property="og:updated_time" content="2022-11-01T16:49:37+11:00" />
+<meta property="og:image" content="https://newsroom.unsw.edu.au/sites/default/files/thumbnails/image/221027_optrodes_1.jpg" />
+<meta property="og:image:url" content="https://newsroom.unsw.edu.au/sites/default/files/thumbnails/image/221027_optrodes_1.jpg" />
+<meta property="og:image:secure_url" content="https://newsroom.unsw.edu.au/sites/default/files/thumbnails/image/221027_optrodes_1.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:url" content="https://newsroom.unsw.edu.au/news/science-tech/engineers-light-way-bionics-future" />
+<meta name="twitter:description" content="A multi-disciplinary team at UNSW has found a way to convert nerve impulses into light, opening the way for more scalable neural implants." />
+<meta name="twitter:title" content="Engineers light the way to bionics of the future" />
+<meta name="twitter:image" content="https://newsroom.unsw.edu.au/sites/default/files/thumbnails/image/221027_optrodes_1.jpg" />
+<meta name="twitter:image:alt" content="Optrodes have the potential to make future prosthetics as functional as the limb they replace. Image: Shutterstock" />
+<meta property="article:published_time" content="2022-10-27T09:30:00+11:00" />
+<meta property="article:modified_time" content="2022-11-01T16:49:37+11:00" />
+<meta name="dcterms.title" content="Engineers light the way to bionics of the future" />
+<meta name="dcterms.creator" content="z8826307" />
+<meta name="dcterms.date" content="2022-10-27T09:30+11:00" />
+<meta name="dcterms.type" content="Text" />
+<meta name="dcterms.format" content="text/html" />
+<meta name="dcterms.identifier" content="https://newsroom.unsw.edu.au/news/science-tech/engineers-light-way-bionics-future" />
+
+  <link type="text/css" rel="stylesheet" href="https://newsroom.unsw.edu.au/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://newsroom.unsw.edu.au/sites/default/files/css/css_BMollo3pa65v_GKy7HL6OmBwuL6VEn8fG0Gni15LbNY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://newsroom.unsw.edu.au/sites/default/files/css/css_vtSISfdhnTfO8xF8yU77jZjmFZGBNz9iieMckrfGiSI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://newsroom.unsw.edu.au/sites/default/files/css/css_UnqsVjvDK7sbmAVqQNpqDG4OF0KZ5rDvDcTJSkRFwiw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://newsroom.unsw.edu.au/sites/default/files/css/css_AmyjMFXfJpAWo5E-qvduLUxD1dqskula5DuT0pojBTU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://newsroom.unsw.edu.au/sites/default/files/css/css__WguJdW3vGMCJR83D9qaE1JkyJyhZpYVZ5Yax50Tt6o.css" media="print" />
+  <script type="text/javascript" src="https://newsroom.unsw.edu.au/sites/default/files/js/js_wKyFX46tVKJtPKN12qNjRfS4aubW4G2u7LK22vlDiKo.js"></script>
+<script type="text/javascript" src="https://newsroom.unsw.edu.au/sites/default/files/js/js_hPw26XjNyeTnVYIe4WAGoky7yJ_3pYx658uWteGNX0w.js"></script>
+<script type="text/javascript" src="https://newsroom.unsw.edu.au/sites/default/files/js/js_EJyoDhqi858147BHFq5eZ5fcveLDAdSEVAc0zLZyKag.js"></script>
+<script type="text/javascript" src="https://newsroom.unsw.edu.au/sites/default/files/js/js_F3Qxb55iV529IVeJlpYxsnkZj4w2Te5Gyzs4u7pzDsw.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-21597384-13", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://newsroom.unsw.edu.au/sites/default/files/js/js_eJWVGeYfnG2VkbzrWBYv6vU2Fe5JP-2LWsAJ1E86l2I.js"></script>
+<script type="text/javascript" src="https://newsroom.unsw.edu.au/sites/default/files/js/js_JbsQglLzTMw5bR85whIvR_Yvx7THaxE5i-2nFXZxM9I.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"carto","theme_token":"m83D9uSsi7ZlpsTfvr1qmx2B2TTQWFMT6i51Hetzci0","jquery_version":"1.8","js":{"profiles\/newsroom\/modules\/custom\/newsroom_contentauthoring\/js\/newsroom_contentauthoring.js":1,"profiles\/newsroom\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/newsroom\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"profiles\/newsroom\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"profiles\/newsroom\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"profiles\/newsroom\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"profiles\/newsroom\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"profiles\/newsroom\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"profiles\/newsroom\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"profiles\/newsroom\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"misc\/ajax.js":1,"profiles\/newsroom\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"profiles\/newsroom\/modules\/contrib\/scald_twitter\/scald_twitter.js":1,"profiles\/newsroom\/modules\/contrib\/linkit\/js\/linkit.js":1,"misc\/progress.js":1,"profiles\/newsroom\/modules\/contrib\/linkit\/editors\/ckeditor\/linkitDialog.js":1,"profiles\/newsroom\/modules\/contrib\/scald\/modules\/providers\/scald_image\/scald_image.js":1,"profiles\/newsroom\/modules\/contrib\/field_group\/field_group.js":1,"profiles\/newsroom\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"profiles\/newsroom\/modules\/contrib\/datalayer\/datalayer.js":1,"profiles\/newsroom\/themes\/custom\/carto\/js\/vendor\/jquery.dotdotdot.min.js":1,"profiles\/newsroom\/themes\/custom\/carto\/js\/vendor\/jquery.mmenu.min.all.js":1,"profiles\/newsroom\/themes\/custom\/carto\/js\/vendor\/detectmobilebrowser.js":1,"profiles\/newsroom\/themes\/custom\/carto\/js\/scripts.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"profiles\/newsroom\/modules\/contrib\/ldap\/ldap_user\/ldap_user.css":1,"modules\/comment\/comment.css":1,"profiles\/newsroom\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/newsroom\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"profiles\/newsroom\/modules\/custom\/layrow\/css\/layrow.css":1,"profiles\/newsroom\/modules\/contrib\/scald\/modules\/fields\/mee\/css\/editor-global.css":1,"profiles\/newsroom\/modules\/custom\/newsroom_contentauthoring\/css\/jcrop_fix.css":1,"modules\/node\/node.css":1,"profiles\/newsroom\/modules\/custom\/scald_breakout\/scald_breakout.css":1,"profiles\/newsroom\/modules\/custom\/scald_embed\/scald_embed.css":1,"profiles\/newsroom\/modules\/custom\/scald_image_gallery\/scald_image_gallery.css":1,"profiles\/newsroom\/modules\/custom\/scald_image_uncropped\/scald_image_uncropped.css":1,"profiles\/newsroom\/modules\/custom\/scald_photo_swipe\/scald_photo_swipe.css":1,"profiles\/newsroom\/modules\/custom\/scald_quote\/scald_quote.css":1,"profiles\/newsroom\/modules\/contrib\/scald_twitter\/scald_twitter.css":1,"profiles\/newsroom\/modules\/custom\/scald_video_thumb\/scald_video_thumb.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/newsroom\/modules\/contrib\/views\/css\/views.css":1,"profiles\/newsroom\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"profiles\/newsroom\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/newsroom\/modules\/contrib\/ldap\/ldap_servers\/ldap_servers.admin.css":1,"profiles\/newsroom\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/newsroom\/themes\/custom\/carto\/css\/styles.css":1,"profiles\/newsroom\/themes\/custom\/carto\/js\/vendor\/jquery.mmenu.all.min.css":1,"profiles\/newsroom\/themes\/custom\/carto\/css\/print.css":1}},"panels-ipe":{"modalSize":{"type":"scale","width":0.97,"height":0.97},"modalOptions":{"opacity":0,"position":"fixed"},"animation":"fadeIn"},"linkit":{"autocompletePath":"https:\/\/newsroom.unsw.edu.au\/linkit\/autocomplete\/___profile___?s=","dashboardPath":"\/linkit\/dashboard\/","currentInstance":{}},"field_group":{"html-element":"full"},"better_exposed_filters":{"views":{"media_contact_teaser":{"displays":{"media_contact":{"filters":[]}}},"media_contact_cognitives":{"displays":{"default":{"filters":[]}}},"similar_articles":{"displays":{"similar_articles":{"filters":[]}}}}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"dataLayer":{"languages":{"en":{"language":"en","name":"English","native":"English","direction":0,"enabled":1,"plurals":0,"formula":"","domain":"","prefix":"","weight":0,"javascript":""}},"defaultLang":"en"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-25653 node-type-article" >
+  <!-- Start © Tealium tag -->
+          <!-- End © Tealium tag -->
+<!--[if lt IE 8]>
+<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+<![endif]-->
+<!-- Corporate GTM Container - 20151202 -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5JB423" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5JB423');</script>
+<!-- End Corporate GTM Container -->
+
+<div id="skip-link">
+  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+</div>
+
+<div id="page">
+  <header id="header">
+    <div class="header-top container">
+              <div class="logotype">
+          <a href="https://unsw.edu.au" title="UNSW Home" class="logo"><img src="https://newsroom.unsw.edu.au/profiles/newsroom/themes/custom/carto/logo.png" alt="UNSW Home" /></a>
+          <a href="/" title="Home" rel="home" class="site-name">Newsroom</a>
+        </div>
+            <div id="header-actions">
+        <div class="search-box">
+          <form action='/search' class="search-form">
+            <input type="text" name="keywords" value="" class="search-form-text hidden" />
+            <input type='submit' value=&#xf002; id="frontpage-submit-search" name="" class="form-submit" />
+          </form>
+        </div>
+        <div class="social-media-buttons">
+          <a href="https://www.facebook.com/unsw" target="_blank">
+            <span class="icon-facebook"></span>
+          </a>
+          <a href="https://www.twitter.com/unsw" target="_blank">
+            <span class="icon-twitter"></span>
+          </a>
+          <a href="https://www.linkedin.com/school/university-of-new-south-wales/" target="_blank">
+            <span class="icon-linked iconed"></span>
+          </a>
+          <a href="https://www.instagram.com/unsw/" target="_blank">
+            <span class="icon-instagram iconed"></span>
+          </a>
+          <a href="https://www.youtube.com/user/UNSW" target="_blank">
+            <span class="icon-youtube-play"></span>
+          </a>
+          <a href="https://www.tiktok.com/@unsw" target="_blank">
+            <span class="icon-tiktok"></span>
+          </a>
+          <a href="https://www.international.unsw.edu.au/wechat-australia" target="_blank">
+            <span class="icon-wechat iconed"></span>
+          </a>
+          <a href="http://www.weibo.com/ozunsw" target="_blank">
+            <span class="icon-weibo iconed"></span>
+          </a>
+          <a href="/rss">
+            <span class="icon-rss"></span>
+          </a>
+        </div>
+
+        <!-- mobile only markup -->
+        <div class="mobile-search-button">
+          <a href="#" id='mobile-search'>
+            <span class="icon-search"></span>
+          </a>
+        </div>
+        <div class="mobile-menu-button">
+          <a href="#mobile-menu">
+            <span class="icon-menu"></span>
+          </a>
+        </div>
+      </div>
+
+              <nav id="secondary-menu">
+
+            <ul class="secondary-menu links inline clearfix"><li class="menu-914 first"><a href="http://newsroom.unsw.edu.au/news/subscribe" title="">Subscribe</a></li>
+<li class="menu-659"><a href="/find-an-expert">Find an Expert</a></li>
+<li class="menu-831"><a href="/contact" title="">Contact Us</a></li>
+<li class="menu-661"><a href="/publications">Publications</a></li>
+<li class="menu-660 last"><a href="/staff">For Staff</a></li>
+</ul>        </nav>
+          </div>
+
+    <div class="primary-menu-wrapper container">
+              <nav id="primary-menu">
+            <ul class="main-menu links inline clearfix"><li class="menu-835 first"><a href="/" title=""><span class="home-text">Home</span><span class="home-icon"></span></a></li>
+<li class="menu-836"><a href="/search" title="">All News</a></li>
+<li class="menu-651"><a href="/topics/science-tech" title="Science &amp; Tech">Science &amp; Tech</a></li>
+<li class="menu-653"><a href="/topics/health" title="Health">Health</a></li>
+<li class="menu-654"><a href="/topics/business-law" title="Business &amp; Law">Business &amp; Law</a></li>
+<li class="menu-655"><a href="/topics/social-affairs" title="Social Affairs">Social Affairs</a></li>
+<li class="menu-656"><a href="/topics/art-architecture-design" title="Art, Architecture &amp; Design">Art, Architecture &amp; Design</a></li>
+<li class="menu-657"><a href="/topics/students" title="Students">Students</a></li>
+<li class="menu-658"><a href="/topics/general" title="General">General</a></li>
+<li class="menu-484 last"><a href="/opinion">Opinion</a></li>
+</ul>        </nav>
+        </div>
+  </header>
+
+  
+  <div id="content" class="content-wrapper">
+      <div class="container carto-duo">
+    <section class="carto-duo-main">
+              <div class="content-wrapper">
+          <div  class="ds-1col node node-article view-mode-full  clearfix">
+
+  
+  <div class="content-header">
+  <div class="field-title-field">
+    <h1>Engineers light the way to bionics of the future</h1>
+  </div>
+
+  <div class="field-service-links-displays-group">
+    <div class="service-links"><a href="http://twitter.com/share?url=https%3A//newsroom.unsw.edu.au/news/science-tech/engineers-light-way-bionics-future&amp;text=A%20multi-disciplinary%20team%20at%20UNSW%20has%20found%20a%20way%20to%20convert%20nerve%20impulses%20into%20light%2C%20opening%20the%20way%20for%20more%20scalable%20neural%20implants.%0A" title="Share this on Twitter" class="service-links-twitter" rel="nofollow">Twitter</a> <a href="http://www.facebook.com/sharer.php?u=https%3A//newsroom.unsw.edu.au/news/science-tech/engineers-light-way-bionics-future&amp;t=%3Cp%3EA%20multi-disciplinary%20team%20at%20UNSW%20has%20found%20a%20way%20to%20convert%20nerve%20impulses%20into%20light%2C%20opening%20the%20way%20for%20more%20scalable%20neural%20implants.%3C/p%3E%0A" title="Share on Facebook" class="service-links-facebook" rel="nofollow">Facebook</a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A//newsroom.unsw.edu.au/news/science-tech/engineers-light-way-bionics-future&amp;title=%3Cp%3EA%20multi-disciplinary%20team%20at%20UNSW%20has%20found%20a%20way%20to%20convert%20nerve%20impulses%20into%20light%2C%20opening%20the%20way%20for%20more%20scalable%20neural%20implants.%3C/p%3E%0A&amp;summary=&amp;source=UNSW%20Newsroom" title="Publish this post to LinkedIn" class="service-links-linkedin" rel="nofollow">LinkedIn</a></div>  </div>
+
+  <div class="field-post-date">
+    27 Oct 2022  </div>
+
+  <div class="field-byline-term">
+    Lachlan Gilbert  </div>
+</div>
+  <div class="field-standfirst">
+    <p>A multi-disciplinary team at UNSW has found a way to convert nerve impulses into light, opening the way for more scalable neural implants.</p>
+  </div>
+
+<div class="field-feature-image"><!-- scald=22237:full_width --><div  class="ds-1col scald-atom view-mode-full_width  clearfix">
+
+  
+  <img src="https://newsroom.unsw.edu.au/sites/default/files/styles/full_width/public/thumbnails/image/221027_optrodes_1.jpg?itok=3hGQ0JEt" width="563" height="396" alt="A human hand half made of a futuristic-looking prosthetic" title="A human hand half made of a futuristic-looking prosthetic" srcset="https://newsroom.unsw.edu.au/sites/default/files/styles/full_width__2x/public/thumbnails/image/221027_optrodes_1.jpg?itok=v9vqmcYo 563w, https://newsroom.unsw.edu.au/sites/default/files/styles/full_width__800/public/thumbnails/image/221027_optrodes_1.jpg?itok=I09Evl1D 563w, https://newsroom.unsw.edu.au/sites/default/files/styles/full_width__800_2x/public/thumbnails/image/221027_optrodes_1.jpg?itok=deShWHde 563w, https://newsroom.unsw.edu.au/sites/default/files/styles/full_width__600/public/thumbnails/image/221027_optrodes_1.jpg?itok=rs0FheCP 563w, https://newsroom.unsw.edu.au/sites/default/files/styles/full_width__600_2x/public/thumbnails/image/221027_optrodes_1.jpg?itok=aN7Lb11g 563w, https://newsroom.unsw.edu.au/sites/default/files/styles/full_width__450/public/thumbnails/image/221027_optrodes_1.jpg?itok=g3QvxIBY 563w, https://newsroom.unsw.edu.au/sites/default/files/styles/full_width__450_2x/public/thumbnails/image/221027_optrodes_1.jpg?itok=hpzP7OG3 563w, https://newsroom.unsw.edu.au/sites/default/files/styles/full_width/public/thumbnails/image/221027_optrodes_1.jpg?itok=3hGQ0JEt 563w" sizes="(min-width: 801px) 563px, 100vw" />
+  <div class="field-scald-caption">
+    <p>Optrodes have the potential to make future prosthetics as functional as the limb they replace. Image: Shutterstock</p>
+  </div>
+</div>
+
+<!-- END scald=22237 --></div>
+  <div class="field-article-body">
+    <p>Biomedical and electrical engineers at UNSW Sydney have developed a new way to measure neural activity using light – rather than electricity – which could lead to a complete reimagining of medical technologies like nerve-operated prosthetics and brain-machine interfaces.</p>
+<p><a href="https://research.unsw.edu.au/people/professor-francois-ladouceur">Professor François Ladouceur</a>, with UNSW’s <a href="https://www.unsw.edu.au/engineering/our-schools/electrical-engineering-telecommunications">School of Electrical Engineering and Telecommunications</a>, says the multi-disciplinary team has just demonstrated in the lab what it proved theoretically shortly before the pandemic: that sensors built using liquid crystal and integrated optics technologies – dubbed ‘optrodes’ – can register nerve impulses in a living animal body.</p>
+<p>Not only do these optrodes perform just as well as conventional electrodes – that use electricity to detect a nerve impulse – but they also address “very thorny issues that competing technologies cannot address”, says Prof. Ladouceur.</p>
+<p>“Firstly, it’s very difficult to shrink the size of the interface using conventional electrodes so that thousands of them can connect to thousands of nerves within a very small area.</p>
+<p>“One of the problems as you shrink thousands of electrodes and put them ever closer together to connect to the biological tissues is that their individual resistance increases, which degrades the signal-to-noise ratio so we have a problem reading the signal. We call this ‘impedance mismatch’.</p>
+<blockquote><p><strong>Read more</strong>: <a href="https://newsroom.unsw.edu.au/news/science-tech/new-%E2%80%98robotic-snake%E2%80%99-device-grips-picks-objects">New 'robotic snake' device grips, picks up objects</a></p>
+</blockquote>
+<p>“Another problem is what we call ‘crosstalk’ – when you shrink these electrodes and bring them closer together, they start to talk to, or affect each other because of their proximity.”</p>
+<p>“The real advantage of our approach is that we can make this connection very dense in the optical domain and we don’t pay the price that you have to pay in the electrical domain,” Prof. Ladouceur says.</p>
+<p>In research published recently in the <em><a href="https://iopscience.iop.org/article/10.1088/1741-2552/ac8ed6" target="_blank">Journal of Neural Engineering</a></em>, Prof. Ladouceur and fellow researchers at UNSW wanted to show that they could use optrodes to accurately measure the neural impulses as they travel along a nerve fibre in a living animal.</p>
+<p>Scientia Professor Nigel Lovell, who heads the <a href="https://www.unsw.edu.au/engineering/our-schools/biomedical-engineering">Graduate School of Biomedical Engineering</a> and is Director of the <a href="https://www.ihealthe.unsw.edu.au/">Tyree Foundation Institute of Health Engineering</a>, was part of the research team that sought to demonstrate this in the lab.</p>
+<p>He says the team connected an optrode to the sciatic nerve of an anaesthetised animal. The nerve was then stimulated with a small current and the neural signals were recorded with the optrode. Then they did the same using a conventional electrode and a bioamplifier.</p>
+<p>“We demonstrated that the nerve responses were essentially the same,” says Prof. Lovell. “There’s still more noise in the optical one, but that’s not surprising given this is brand new technology, and we can work on that. But ultimately, we could identify the same characteristics by measuring electrically or optically.”</p>
+<h2><strong>New dawn for prosthetics</strong></h2>
+<p>So far the team has been able to show that nerve impulses – which are relatively weak and measured in microvolts – can be registered by optrode technology. The next step will be to scale up the number of optrodes to be able to handle complex networks of nervous and excitable tissue.</p>
+<p>Prof. Ladouceur says at the beginning of the project, his colleagues asked themselves, how many neural connections does a man or woman need to operate a hand with a degree of finesse?</p>
+<p>“That you can pick up an object, that you can judge the friction, you can apply just the right pressure to hold it, you can move from A to B with precision, you can go fast and slow – all these things that we don’t even think about when we perform these actions. The answer is not so obvious, we had to search quite a bit in the literature, but we believe it’s about 5000 to 10,000 connections.”</p>
+<p>In other words, between your brain and your hand there is a bundle of nerves that travels down from your cortex and eventually divides into those 5000 to 10,000 nerves that control the delicate operations of your hand.</p>
+<p>If a chip with thousands of optical connections could connect to your brain, or some place in the arm before the nerve bundle separates, a prosthetic hand could potentially be able to function with much the same ability as a biological one.</p>
+<p>That’s the dream, anyway, and Prof. Ladouceur says there are likely decades of further research before it’s a reality. This would include developing the ability for optrodes to be bidirectional. Not only would they receive and interpret signals from the brain on the way to the body, they could receive feedback in the form of neural impulses going back to the brain.</p>
+<h2><strong>The long game: brain-machine interface</strong></h2>
+<p>Neural prosthetics isn’t the only space that optrode technology has the potential to redefine. Humans have long fantasised about integrating technology and machinery into the human body to either repair or enhance it.</p>
+<p>Some of this is now a reality, such as Cochlear implants, pacemakers and cardiac defibrillators, not to mention smart watches and other tracking devices giving continual biofeedback.</p>
+<p>But one of the more ambitious goals in biomedical engineering and neuroscience is the brain-machine interface that aims to connect the brain to not only the rest of the body, but potentially the world.</p>
+<p>“The area of neural interfacing is an incredibly exciting field and will be the subject of intense research and development over the next decade,” says Prof. Lovell.</p>
+<p>While this is more fiction than fact right now, there are many biotech companies taking this very seriously. Entrepreneur Elon Musk was one of the co-founders of <a href="https://neuralink.com/" target="_blank">Neuralink</a> that aims to create brain-computer interfaces with the potential to help people with paralysis as well as incorporating artificial intelligence into our brain activities.</p>
+<p>The Neuralink approach uses conventional wire electrodes in its devices so it must overcome impedance mismatch and crosstalk – among many other challenges – if they are to develop devices that host thousands, if not millions, of connections between the brain and the implanted device. Recently <a href="https://www.reuters.com/technology/musk-approaches-brain-chip-startup-synchron-about-deal-amid-neuralink-delays-2022-08-19/" target="_blank">Mr Musk was reported as being frustrated at the slow pace in developing the technology</a>.</p>
+<blockquote><p><strong>Read more</strong>: <a href="https://newsroom.unsw.edu.au/news/science-tech/unsw-engineers-win-us-naval-grant-develop-brain-machine-interface">UNSW engineers win US Naval grant to develop brain-machine interface</a></p>
+</blockquote>
+<p>Prof. Ladouceur says time will tell whether Neuralink and its competitors succeed in removing these obstacles. However, given that implantable, in vivo devices that capture neural activity are currently constrained to about 100 or so electrodes, there is still a long way to go.</p>
+<p>“I'm not saying that it's impossible, but it becomes really problematic if you were to stick to standard electrodes,” Prof. Ladouceur says.</p>
+<p>“We don't have these problems in the optical domain. In our devices, if there is neural activity, its presence influences the orientation of the liquid crystal which we can detect and quantify by shining light on it. It means we don't extract current from the biological tissues as the wire electrodes do. And so the biosensing can be done much more efficiently.”</p>
+<p>Now that the researchers have shown that the optrode method works in vivo, they will shortly publish research that shows the optrode technology is bidirectional – that it can not only read neural signals, but can write them too.</p>
+  </div>
+
+  <div class="field-service-links-displays-group2">
+    <div class="service-links"><a href="http://twitter.com/share?url=https%3A//newsroom.unsw.edu.au/news/science-tech/engineers-light-way-bionics-future&amp;text=A%20multi-disciplinary%20team%20at%20UNSW%20has%20found%20a%20way%20to%20convert%20nerve%20impulses%20into%20light%2C%20opening%20the%20way%20for%20more%20scalable%20neural%20implants.%0A" title="Share this on Twitter" class="service-links-twitter" rel="nofollow">Twitter</a> <a href="http://www.facebook.com/sharer.php?u=https%3A//newsroom.unsw.edu.au/news/science-tech/engineers-light-way-bionics-future&amp;t=%3Cp%3EA%20multi-disciplinary%20team%20at%20UNSW%20has%20found%20a%20way%20to%20convert%20nerve%20impulses%20into%20light%2C%20opening%20the%20way%20for%20more%20scalable%20neural%20implants.%3C/p%3E%0A" title="Share on Facebook" class="service-links-facebook" rel="nofollow">Facebook</a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A//newsroom.unsw.edu.au/news/science-tech/engineers-light-way-bionics-future&amp;title=%3Cp%3EA%20multi-disciplinary%20team%20at%20UNSW%20has%20found%20a%20way%20to%20convert%20nerve%20impulses%20into%20light%2C%20opening%20the%20way%20for%20more%20scalable%20neural%20implants.%3C/p%3E%0A&amp;summary=&amp;source=UNSW%20Newsroom" title="Publish this post to LinkedIn" class="service-links-linkedin" rel="nofollow">LinkedIn</a></div>  </div>
+</div>
+
+        </div>
+          </section>
+    <aside class="carto-duo-sidebar">
+              <div class="content-wrapper">
+          <div id="block-views-media-contact-teaser-media-contact" class="block block-views">
+
+    <h3 class="pane-title">Media contact</h3>
+  
+  <div class="content">
+    
+<div class="view view-media-contact-teaser view-id-media_contact_teaser view-display-id-media_contact view-dom-id-fa553c2305d350d834b2e4fcffab5725">
+        
+  
+  
+      <div class="view-content">
+            
+  
+    
+      
+  <div class="field-contact-name">
+    Lachlan Gilbert  </div>
+
+  
+
+  
+    
+      
+  <div class="field-contact-department">
+    UNSW News &amp; Content  </div>
+
+  
+
+  
+    
+      
+  <div class="field-contact-phone">
+    (02) 9065 5241  </div>
+
+  
+
+  
+    
+      
+  <div class="field-contact-email">
+    <a href="mailto:lachlan.gilbert@unsw.edu.au">lachlan.gilbert@unsw.edu.au</a>  </div>
+
+  
+      </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-views-panes pane-similar-articles-similar-articles"  >
+  
+        <h3 class="pane-title">
+      Related stories    </h3>
+    
+  
+  <div class="pane-content">
+    <div class="view view-similar-articles view-id-similar_articles view-display-id-similar_articles view-dom-id-e61635c1a54cd877b5297a299cc2d550">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div  class="ds-1col node node-article view-mode-title_teaser  clearfix">
+
+  
+  
+  <div class="field-title-field">
+    <h2><a href="/news/science-tech/new-%E2%80%98robotic-snake%E2%80%99-device-grips-picks-objects">New ‘robotic snake’ device grips, picks up objects</a></h2>
+  </div>
+
+  <div class="field-node-link">
+    <a href="/news/science-tech/new-%E2%80%98robotic-snake%E2%80%99-device-grips-picks-objects">Read more</a>  </div>
+</div>
+
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <div  class="ds-1col node node-article view-mode-title_teaser  clearfix">
+
+  
+  
+  <div class="field-title-field">
+    <h2><a href="/news/science-tech/new-glove-device-mimics-sense-touch">New glove-like device mimics sense of touch</a></h2>
+  </div>
+
+  <div class="field-node-link">
+    <a href="/news/science-tech/new-glove-device-mimics-sense-touch">Read more</a>  </div>
+</div>
+
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    <div  class="ds-1col node node-article view-mode-title_teaser  clearfix">
+
+  
+  
+  <div class="field-title-field">
+    <h2><a href="/news/science-tech/new-quantum-computing-feat-modern-twist-150-year-old-thought-experiment">New quantum computing feat is a modern twist on a 150-year-old thought experiment</a></h2>
+  </div>
+
+  <div class="field-node-link">
+    <a href="/news/science-tech/new-quantum-computing-feat-modern-twist-150-year-old-thought-experiment">Read more</a>  </div>
+</div>
+
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+    <div  class="ds-1col node node-article view-mode-title_teaser  clearfix">
+
+  
+  
+  <div class="field-title-field">
+    <h2><a href="/news/science-tech/new-shape-shifting-material-can-move-robot">New shape-shifting material can move like a robot</a></h2>
+  </div>
+
+  <div class="field-node-link">
+    <a href="/news/science-tech/new-shape-shifting-material-can-move-robot">Read more</a>  </div>
+</div>
+
+  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+    <div  class="ds-1col node node-article this-is-opinion view-mode-title_teaser  clearfix">
+
+  
+  
+  <div class="field-title-field">
+    <h2><a href="/news/science-tech/why-does-my-internet-connection-feel-slow-and-jumpy-even-when-my-internet-speed">Why does my internet connection feel slow and jumpy, even when my internet speed is high?</a></h2>
+  </div>
+
+  <div class="field-node-link">
+    <a href="/news/science-tech/why-does-my-internet-connection-feel-slow-and-jumpy-even-when-my-internet-speed">Read more</a>  </div>
+</div>
+
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-keywords"  >
+  
+        <h3 class="pane-title">
+      Article Tags    </h3>
+    
+  
+  <div class="pane-content">
+    
+  <div class="field-keywords">
+    <a href="/keywords/optrodes">optrodes</a>  </div>
+  <div class="field-keywords">
+    <a href="/keywords/electrodes">electrodes</a>  </div>
+  <div class="field-keywords">
+    <a href="/keywords/nerve-damage">nerve damage</a>  </div>
+  <div class="field-keywords">
+    <a href="/keywords/nerve-repair">nerve repair</a>  </div>
+  <div class="field-keywords">
+    <a href="/keywords/prosthetics">prosthetics</a>  </div>
+  <div class="field-keywords">
+    <a href="/keywords/brain-machine-interfaces">brain-machine interfaces</a>  </div>
+  <div class="field-keywords">
+    <a href="/keywords/optics-technology">optics technology</a>  </div>
+  <div class="field-keywords">
+    <a href="/keywords/liquid-crystals">liquid crystals</a>  </div>
+  <div class="field-keywords">
+    <a href="/keywords/school-electrical-engineering-telecommunications">School of Electrical Engineering &amp; Telecommunications</a>  </div>
+  <div class="field-keywords">
+    <a href="/keywords/graduate-school-biomedical-engineering-0">Graduate School of Biomedical Engineering</a>  </div>
+  <div class="field-keywords">
+    <a href="/keywords/unsw-engineering">UNSW Engineering</a>  </div>
+  <div class="field-keywords">
+    <a href="/keywords/francois-ladouceur">Francois Ladouceur</a>  </div>
+  <div class="field-keywords">
+    <a href="/keywords/nigel-lovell">Nigel Lovell</a>  </div>
+  </div>
+
+  
+  </div>
+        </div>
+          </aside>
+  </div>
+  </div>
+  <!-- TODO: should we check for footer region first? -->
+  <footer id="footer" class="container footer">
+    <div class="social-media-buttons">
+      <a href="https://twitter.com/unswnews" target="_blank">
+        <span class="icon-twitter"></span>
+      </a>
+      <a href="https://www.facebook.com/UNSWNews" target="_blank">
+        <span class="icon-facebook"></span>
+      </a>
+    </div>
+    <aside class="footer-sidebar">
+      <nav id="footer-menu">
+                <ul class="links inline"><li class="menu-1530 first"><a href="https://www.unsw.edu.au/sites/default/files/documents/Academic-and-Intellectual-freedom-at-UNSW.pdf" title="">Academic Freedom</a></li>
+<li class="menu-834"><a href="http://www.unsw.edu.au/privacy" title="">Privacy</a></li>
+<li class="menu-833"><a href="http://www.unsw.edu.au/copyright-disclaimer" title="">Copyright</a></li>
+<li class="menu-832 last"><a href="http://www.unsw.edu.au/accessibility" title="">Accessibility</a></li>
+</ul>              </nav>
+    </aside>
+    <div class="to-top">
+      <a href="#top">
+        <span id="to-top">&nbsp;</span>
+      </a>
+    </div>
+    <div class="footer-content">
+      <div id='boxes-box-footer_blurb' class='boxes-box'><div class="boxes-box-content"><p><strong>Media Office, UNSW Sydney NSW 2052 Australia</strong><br />
+Telephone. +61 2 9385 2864, Email. <a href="mailto:media@unsw.edu.au">media@unsw.edu.au</a><br />
+Authorised by the Vice-President, External Engagement, UNSW Sydney<br /><strong>Provider Code</strong>: 00098G <strong>ABN</strong>: 57 195 873 179</p>
+</div></div>    </div>
+  </footer>
+</div>
+<script type="text/javascript" src="https://newsroom.unsw.edu.au/sites/default/files/js/js_xDMV-N6-FPYL0bKfuid-AlFBPwDg_myMS2MdmpmQiR8.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,1056 @@
+<!DOCTYPE html><html dir="ltr" lang="en" class="no-js"   itemscope itemtype="http://schema.org/Article"  ><head><meta charset="utf-8"><meta http-equiv="x-ua-compatible" content="ie=edge"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><meta name="description" content="Scientific American is the essential guide to the most awe-inspiring advances in science and technology, explaining how they change our understanding of the world and shape our lives."><meta   ><meta name="msapplication-TileImage" content="/public/resources/favicons/favicon-196-f10395ba7ecf07756e4b5a82c4795b61.png"><meta name="referrer" content="unsafe-url"><meta name="com.silverpop.brandeddomains" content="www.pages04.net,www.scientificamerican.com" /><meta name="com.silverpop.cothost" content="pod4.ibmmarketingcloud.com" /><meta name="robots" content="max-image-preview:large"><title> What Is Spacetime Really Made Of? - Scientific American </title><link rel="apple-touch-icon" sizes="196x196" href="/public/resources/favicons/favicon-196-f10395ba7ecf07756e4b5a82c4795b61.png"><link rel="apple-touch-icon" sizes="128x128" href="/public/resources/favicons/favicon-128-4b9aa97db8311c4616270d6a8a662eac.png"><link rel="apple-touch-icon" sizes="96x96" href="/public/resources/favicons/favicon-96-387ab1daffb7a1698601f6e49da87a1c.png"><link rel="apple-touch-icon" sizes="32x32" href="/public/resources/favicons/favicon-32-cadc19705538fdb538db10f2a98c1d46.png"><link rel="apple-touch-icon" sizes="16x16" href="/public/resources/favicons/favicon-16-59d034d523b133557208a7c24f448374.png">		<link rel="shortcut icon" href="/public/resources/favicons/favicon-4c8c70500bd3f01ae8c38cf7dd2771fe.ico"><meta name="theme-color" content="#093969"/><link rel="stylesheet" type="text/css" rel="preload" href="/public/resources/sa-3da7aa1ff89d965a2ef7c3f6b70a2573.css" as="style"/><link rel="stylesheet" type="text/css" rel="preload" href="/public/resources/icons-742382d06c2ee8300dd33b9ae799b010.css" as="style"/><link href="https://static.scientificamerican.com" rel="preconnect"><link href="https://www.googletagservices.com" rel="preconnect"><link href="https://plugin.mediavoice.com" rel="preconnect"><link href="https://connect.facebook.net" rel="preconnect"><link href="https://ajax.googleapis.com" rel="preconnect"><link href="https://s3.amazonaws.com" rel="preconnect"><link href="https://www.googletagmanager.com" rel="preconnect"><link href="https://www.google-analytics.com" rel="preconnect"><link href="https://adservice.google.com" rel="preconnect"><link href="https://cdn.cookielaw.org" rel="preconnect"><link href="https://tpc.googlesyndication.com" rel="preconnect"><link href="https://securepubads.g.doubleclick.net" rel="preconnect"><link rel="canonical" href="https://www.scientificamerican.com/article/what-is-spacetime-really-made-of/"><script>dataLayer = [{"content":{"authorization":{"status":1,"freeToAccess":1,"type":"free_to_air"},"media":[{"source":"https://static.scientificamerican.com/sciam/cache/file/70E45299-8122-418C-806C2C1E0A702C32_source.jpg","mediaID":"70E45299-8122-418C-806C2C1E0A702C32","type":"image","title":"What Is Spacetime Really Made Of?"},{"source":"https://static.scientificamerican.com/sciam/assets/Image/2022/XXsaw0222Beck31_d.png","mediaID":"","type":"image","title":""},{"source":"https://static.scientificamerican.com/sciam/cache/file/A2CF3721-595B-420C-B46DE2B53AD39BF2_source.jpg","mediaID":"","type":"image","title":""}],"article":{"doi":"10.1038/scientificamerican0222-26","journalIssueName":"Scientific American Volume 326, Issue 2"},"category":{"contentSubType1":"Features","subjectSubType1":"Quantum Physics","subjectType":"Space & Physics","contentType":"FeaturedArticle"},"updatedAt":"","contentInfo":{"keywords":"Space & Physics,Quantum Physics","publishedAtDate":"2022-02-01","publishedAtTime":"09:00:00","contentId":"3A416EC8-F868-40A0-B0B1B807637829ED","brand":"Scientific American","publishedAt":1643724000,"author":["Adam Becker"],"title":"What Is Spacetime Really Made Of?"},"attributes":{"keywords":"","language":"en","wordCount":3701,"subjects":"","copyright":{"native":0,"syndicated":0,"resale":0},"template":"sciam"}},"session":{"createdAt":"","authentication":{"loginStatus":"logged out"},"updatedAt":"","attributes":{},"sessionInfo":{"sessionID":"{{GA populated session ID}}"}},"version":"1.0.0","productsInCart":[],"product":[],"privacy":{},"currency":"","user":[{"sitelicense":{"accessLevel":"","grantBPID":[],"BPID":[],"siteID":[],"isSiteLicenseCustomer":false,"accessReason":"","contract":[]},"licence":[{"category":{"licenceType":""},"licenceInfo":{"licenceName":"","licenceID":""},"attributes":{}}],"updatedAt":"","segment":{"isInExtendedSession":false,"appUserMind":0,"registered":0,"siteLicenseCustomer":false,"hasAccess":false,"logouturl":"?slatAction=public:account.logout","isLoggedIn":false,"emailVerificationError":false,"appUserSA":0,"subscriber":0,"hasSoftAccess":false},"profile":[{"profileInfo":{"profileID":""},"attributes":{"recency":{"appLoginSA":"","appLoginMind":"","webLogin":""}}}]}],"page":{"error":{},"pageInfo":{},"category":{"pageType":"single-page"},"attributes":{},"component":[{}]}}];</script>
+<script type="text/javascript" src="/core/modules/v1/core_assets/js/mura.min.js?v=7.1.213" ></script>
+
+<script>
+(function(root,config){
+ root.queuedMuraCmds=[];
+ root.deferMuraInit=function(){
+ if(typeof root.Mura != 'undefined' && typeof root.Mura.init == 'function'){
+ root.Mura.init(config);
+ for(var cmd in root.queuedMuraCmds){
+ root.Mura(root.queuedMuraCmds[cmd]);
+ }
+ } else {
+ if(typeof root.Mura != 'function'){
+ root.mura = root.m = root.Mura = function(cmd){root.queuedMuraCmds.push(cmd);};
+ }
+ setTimeout(root.deferMuraInit);
+ }
+ }
+ root.deferMuraInit();
+ }
+)(this,{
+ loginURL:"?display=login",
+ siteid:"sciam",
+ siteID:"sciam",
+ contentid:"3A416EC8-F868-40A0-B0B1B807637829ED",
+ contenthistid:"F90786F4-8EF0-4B53-8A656985F10FF9C6",
+ ismind:"false",
+ parentid:"DD213D49-E928-4B70-8C79354736ED2D83",
+ context:"",
+ nocache:0,
+ assetpath:"/sites/sciam",
+ corepath:"/core",
+ themepath:"/themes/responsive",
+ reCAPTCHALanguage:"en",
+ preloaderMarkup: "",
+ mobileformat: false,
+ windowdocumentdomain: "",
+ layoutmanager:true,
+ type:"Page",
+ subtype:"PrintArticle",
+ queueObjects: true,
+ rb:{"formrequiredwrapperclass":"","formradiolabelclass":"radio","formresponsewrapperclass":"","formwrapperclass":"well","formbuttoncancellabel":"Cancel","formselectclass":"form-control","formbuttonclass":"btn btn-default","formfileclass":"form-control","formbuttonwrapperclass":"btn-group","formbuttoninnerclass":"","formcheckboxwrapperclass":"","formradiowrapperclass":"","formcheckboxlabelclass":"checkbox","formbuttonnextlclass":"form-nav","forminputclass":"form-control","formradioclass":"","formcheckboxclass":"","formfieldlabelclass":"control-label","formtextareaclass":"form-control","formbuttonbacklabel":"Back","formbuttonsubmitlabel":"Submit","formrequiredlabel":"Required","generalwrapperclass":"well","formbuttonnextlabel":"Next","generalwrapperbodyclass":"","formbuttomsubmitclass":"form-submit btn-primary","formbuttonbackclass":"form-nav","formerrorwrapperclass":"","formbuttoncancelclass":"form-cancel btn-primary pull-right","formwrapperbodyclass":"","formgeneralcontrolclass":"form-control","formfieldwrapperclass":"control-group"},
+ dtExample:"11/10/2018",
+	dtCh:"/",
+	dtFormat:[0,1,2],
+	dtLocale:"en-US",
+ hassoftaccess: false,
+ hashardaccess: false,
+ whitelistfrommetered: 0,
+ cookiedomain:".scientificamerican.com",
+ securedomain:"https://www.scientificamerican.com/"
+})
+</script>
+<meta property="og:site_name" content="Scientific American"/>
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="What Is Spacetime Really Made Of?" />
+	<meta property="og:description" content="Spacetime may emerge from a more fundamental reality. Figuring out how could unlock the most urgent goal in physics&amp;mdash;a quantum theory of gravity" />
+	<meta property="og:image" content="https://static.scientificamerican.com/sciam/cache/file/70E45299-8122-418C-806C2C1E0A702C32.jpg" itemprop="image"/>
+	<meta property="og:image:width" content="790" />
+	<meta property="og:image:height" content="496" />
+	
+	
+	<meta property="og:url" content="https://www.scientificamerican.com/article/what-is-spacetime-really-made-of/" />
+
+	
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@sciam">
+	<meta name="twitter:title" content="What Is Spacetime Really Made Of?">
+	<meta name="twitter:image" content="https://static.scientificamerican.com/sciam/cache/file/70E45299-8122-418C-806C2C1E0A702C32.jpg">
+
+
+	<meta name="citation_doi" content="10.1038/scientificamerican0222-26">
+
+	
+	
+		<meta name="author" content="Adam Becker" />
+	
+	<meta name="description" content="Spacetime may emerge from a more fundamental reality. Figuring out how could unlock the most urgent goal in physics&amp;mdash;a quantum theory of gravity">
+	<meta name="keywords" content=""><!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PL33XX4');</script><!-- End Google Tag Manager --><!-- BEGIN Google Analytics 4 - GA4 --><!-- Global site tag (gtag.js) - Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=G-0P6ZGEWQVE"></script><script>window.dataLayer = window.dataLayer || [];function gtag() {dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-0P6ZGEWQVE');</script><!-- END Google Analytics 4 - GA4 --><meta name="google-site-verification" content="LlC6fY-6RONaKYhGVmjGBtzGmsUVp32ZbLMNXlI15uo" /><meta property="fb:pages" content="340704949293332" /><!--[ if lte IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![ endif]--><!-- Chartbeat Code --><script type="text/plain" class="optanon-category-C0002">(function() {/** CONFIGURATION START **/var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});_sf_async_config.uid = 21673;_sf_async_config.domain = 'scientificamerican.com';_sf_async_config.flickerControl = false;_sf_async_config.useCanonical = true;_sf_async_config.useCanonicalDomain = true;_sf_async_config.sections = window.dataLayer[0].content.contentInfo.keywords; _sf_async_config.authors = window.dataLayer[0].content.contentInfo.author;var _cbq = window._cbq = (window._cbq || []);var acctStatus = '';if( window.dataLayer[0].user[0].segment.subscriber === 1) {acctStatus = 'paid';}else if(window.dataLayer[0].user[0].segment.isLoggedIn) {acctStatus = 'lgdin';}else {acctStatus = 'anon';}_cbq.push(['_acct', acctStatus]);_sf_async_config.autoDetect = false;/** CONFIGURATION END **/function loadChartbeat() {var e = document.createElement('script');var n = document.getElementsByTagName('script')[0];e.type = 'text/javascript';e.async = true;e.src = '//static.chartbeat.com/js/chartbeat.js';n.parentNode.insertBefore(e, n);}loadChartbeat();})();</script><script type="text/plain" class="optanon-category-C0002">(function() {var script = document.createElement('script');script.src = "//static.chartbeat.com/js/chartbeat_mab.js";document.head.appendChild(script);})();</script><!-- End Chartbeat Code --></head><body class="site-sciam lang-en   leaderboard-top newsletter-promo--active " data-behavior="onetrust"><!-- Google Tag Manager (noscript) --><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PL33XX4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager (noscript) --><div id='div-gpt-ad-interstitial-1' class="banner-interstitial"><div id='div-gpt-ad-interstitial-1-child' data-dfp-adContainer="div-gpt-ad-interstitial-1"></div></div><!--[if IE 8]><![endif]--><!--[if lte IE 9]><div class="browser-update" data-behavior="browser_update"><div class="container"><p class="t_meta"><span class="browser-update__alert"><img src="/public/resources/png/icon__alert-ae613ac2fae0e0da4832a26804bf2b38.png" alt=""></span> We're sorry, your browser is not supported. Please update to a modern browser to view this page. <a href="page/frequently-asked-questions/?tab=about-the-site#what-are-the-technical-specifications-for-using-scientificamericancom" class="browser-update__link">Learn More</a></p><div class="browser-update__close"><a href="#" data-browser-update-close><span class="icon icon__close--black icon--subtle"></span></a></div></div></div><![endif]--><a role="link" arial-label="Skip to main content" class="skipnav" tabindex="1" href="#sa_body">Skip to main content</a><div id="scientific-american"><div class="banner banner-leaderboard banner-leaderboard-top" data-banner-leaderboard><div id="div-gpt-ad-top-1"><div id="div-gpt-ad-top-1-child" data-dfp-adContainer="div-gpt-ad-top-1"></div></div></div><div class="sticky-bounds"><header class="sticky-header" data-behavior="sticky underline_menu_item"><nav class="header" aria-label="main navigation bar"><div class="container flex-container-row--nowrap-vertical-center"><div class="header__left "><a href="https://www.scientificamerican.com/store/subscribe/scientific-american-magazine/" class="js-header__subscribe-btn medium-down-hide  " data-track-ecommerce="promo_click" data-track-ecommerce-promo-id="HNSB" data-track-ecommerce-promo-name="Navigation Subscribe Button" data-track-ecommerce-promo-creative="mainHeader" data-track-ecommerce-promo-position="1"><button type="button" role="button" aria-label="subscribe" class="header__subscribe-btn">Subscribe</button></a><a href="https://www.scientificamerican.com/store/archive/?magazineFilterID=all" class="js-header__issue-btn medium-down-hide  " data-track="click" data-track-action="click" data-track-label="latestissues-nav" data-track-category="nav"><button type="button" role="button" aria-label="subscribe" class="header__subscribe-btn--issue">Latest Issues</button></a><button role="button" class="header__menu-btn large-up-hide" class="navbar-burger" aria-label="menu" aria-expanded="false" data-behavior="primary_nav"><span class="icon icon__menu--black">Menu</span></button></div><div class="header__logo" itemtype="http://schema.org/Organization" itemscope itemprop="publisher"><a role="link" itemprop="url" aria-label="Scientific American" href="https://www.scientificamerican.com/" class="icon icon__logo--lg"><span itemprop="name">Scientific American</span></a><span itemprop="logo" itemscope itemType="https://schema.org/ImageObject"><meta itemProp="url" content="https://static.scientificamerican.com/sciam/assets/Image/newsletter/salogo.png" /></span></div><div class="header__right tooltip-outer"><esi:remove><ul class="meta-list medium-down-hide"><li class="meta-list__item tx_meta cart__icon"><a aria-label="You have 0 items in your cart" href="https://www.scientificamerican.com/checkout/#/cart" data-track="click" data-track-action="cart-button" data-track-label="cart-button" data-track-category="main-header-cart-button">Cart <span class="cart-count cart__icon--dark-grey">0</span></a></li><li class="meta-list__item tx_meta " data-behavior="sign_in_flyout"><button role="button" aria-expanded="false" id="signin-click" class="link signin-click" data-track="click" data-track-action="header-signin-link" data-track-label="header-signin" data-track-category="sign-in-link">Sign In </button><section tabindex="-1" aria-expanded="true"  class="signin-flyout" id="signin-flyout"><button tabindex="0" class="icon__close--white" id="signin-flyout__close" aria-label="Close Sign In Flyout" data-track="click" data-track-action="close-signin-flyout-button" data-track-label="close-signin-flyout" data-track-category="main-header-close-signin-flyout-link"></button><span class="signin-flyout__arrow"></span><form class="signin-flyout__form" action="https://www.scientificamerican.com/my-account/login/?s=1" method="post" data-behavior="csrf_token_update"><input type="hidden" name="slatAction" value="public:account.login"><input type="hidden" name="flyoutlogin" value="true"><input type="hidden" name="sRedirectURL" value="https://www.scientificamerican.com/article/what-is-spacetime-really-made-of/" /><input type="hidden" name="csrf_token" value="8BF565CBB3F91C8263DC50D744BA723A" /><input type="hidden" name="csrf_token_expires" value="221204145050984" /><label for="emailAddress1" class="signin-flyout__form__label">Email *:</label><input type="text" name="emailAddress" id="emailAddress1" class="signin-flyout__form__input" data-signin-email><label for="password1" class="signin-flyout__form__label">Password *:</label><input type="password" name="password" id="password1" class="signin-flyout__form__input" data-signin-password><a href="https://www.scientificamerican.com/my-account/forgot-password/" class="signin-flyout__form__forgot" data-track="click" data-track-action="flyout-forgot-password-link" data-track-label="flyout-forgot-password" data-track-category="main-header-flyout-forgot-password-link">Forgot password?</a><button class="btn btn--inverted signin-flyout__form__submit"  type="submit" data-signin-submit-btn data-track="click" data-track-action="signin-flyout-button" data-track-label="signin-flyout" data-track-category="main-header-flyout-signin-flyout-button">Login</button><img src="/public/resources/loader-eba9d808f62929c2c4c744e562eca7d9.gif" class="signin-flyout__form__loading" alt="Loading" data-signin-loading/></form><a href="https://www.scientificamerican.com/my-account/register/" class="signin-flyout__register" data-track="click" data-track-action="not-register-flyout-button" data-track-label="not-register-flyout" data-track-category="main-header-flyout-not-register-button">Not yet registered?</a></section></li><li class="meta-list__item meta-list__item--informedLink tx_meta ">|<a tabindex="0" href="https://www.scientificamerican.com/page/newsletter-sign-up/?origincode=2019_sciam_StayInformed_NewsletterSignUp" class="link signin-click" data-track="click" data-track-action="header-stay-informed-link" data-track-label="header-stay-informed" data-track-category="stay-informed-link">Newsletters</a></li></ul></esi:remove><!--esi <esi:include src="/sites/sciam/esi-my-account.cfm?responsive=true&redirecturl=https://www.scientificamerican.com/article/what-is-spacetime-really-made-of/" />--><button role="button" aria-label="submit search" class="header__search-btn icon icon__search--black xlarge-hide medium-down-hide  " data-behavior="toggle_open" data-target="search__container">Search</button><a class="large-up-hide" href="https://www.scientificamerican.com/store/subscribe/scientific-american-magazine/" data-track-ecommerce="promo_click" data-track-ecommerce-promo-id="MHNSB" data-track-ecommerce-promo-name="Mobile Navigation Subscribe Button" data-track-ecommerce-promo-creative="mainHeaderMobile" data-track-ecommerce-promo-position="1"><button type="button" role="button" aria-label="subscribe" class="header__subscribe-btn">Subscribe</button></a></div></div></nav><nav aria-label="main navigation bar" class="primary-nav hide-on-scrolled" ><div class="primary-nav__bg large-up-hide"><button type="button" class="primary-nav__close-btn large-up-hide" data-behavior="primary_nav"><span class="icon icon__close--white icon--subtle">Close</span></button></div><div class="container "><div class="search__container container" data-toggle="search__container"><form id="global-search-form" class="search__form" action="https://www.scientificamerican.com/search/" method="get"><div class="search__form--wrapper"><label for="q" class="hide-label" aria-label="Search">Search Input</label><input class="search__input" type="search" name="q" autocomplete="off" placeholder="Search" tabindex="1" aria-label="Search Input" data-behavior="search" data-query="" ><button class="search__button icon" type="button" data-behavior="toggle_open" data-target="search__container">Search</button><button class="search__button--close icon icon__close--muted" type="button" data-behavior="toggle_open" data-target="search__container">Close</button></div><button type="submit" class="search__button--submit btn btn--cart">Search</button></form><a href="#advanced-search" class="advanced-search-toggle tx_meta small" style="flex-basis: 100%">Advanced Search</a></div><ul class="primary-nav__list"><li class="primary-nav__list-item red-link" data-title="The-Coronavirus-Outbreak"><a href="https://www.scientificamerican.com/tag/The+Coronavirus+Outbreak/" data-track="click" data-track-label="coronavirus-nav" data-track-category="nav" data-track-action="link">COVID</a></li><li class="primary-nav__list-item" data-title="health"><a href="https://www.scientificamerican.com/health/" data-track="click" data-track-label="health-nav" data-track-category="nav" data-track-action="link">Health</a></li><li class="primary-nav__list-item" data-title="mind-& brain"><a href="https://www.scientificamerican.com/mind-and-brain/" data-track="click" data-track-label="mindandbrain-nav" data-track-category="nav" data-track-action="link">Mind & Brain</a></li><li class="primary-nav__list-item" data-title="environment"><a href="https://www.scientificamerican.com/environment/" data-track="click" data-track-label="environment-nav" data-track-category="nav" data-track-action="link">Environment</a></li><li class="primary-nav__list-item" data-title="technology"><a href="https://www.scientificamerican.com/technology/" data-track="click" data-track-label="technology-nav" data-track-category="nav" data-track-action="link">Technology</a></li><li class="primary-nav__list-item" data-title="space-& physics"><a href="https://www.scientificamerican.com/space-and-physics/" data-track="click" data-track-label="spaceandphysics-nav" data-track-category="nav" data-track-action="link">Space & Physics</a></li><li class="primary-nav__list-item" data-title="video"><a href="https://www.scientificamerican.com/video/" data-track="click" data-track-label="video-nav" data-track-category="nav" data-track-action="link">Video</a></li><li class="primary-nav__list-item" data-title="podcasts"><a href="https://www.scientificamerican.com/podcasts/" data-track="click" data-track-label="podcasts-nav" data-track-category="nav" data-track-action="link">Podcasts</a></li><li class="primary-nav__list-item" data-title="opinion"><a href="https://www.scientificamerican.com/section/opinion/" data-track="click" data-track-label="opinion-nav" data-track-category="nav" data-track-action="link">Opinion</a></li><li class="primary-nav__list-item" data-title="store"><a href="https://www.scientificamerican.com/store/" data-track="click" data-track-label="store-nav" data-track-category="nav" data-track-action="link">Store</a></li></ul><ul class="primary-nav__list--drawer-utils large-up-hide"><li class="primary-nav__list-item--btn"><a href="https://www.scientificamerican.com/store/subscribe/scientific-american-magazine/" class="btn btn--small" data-track="click" data-track-label="stayinformed-nav-mobile" data-track-category="nav" data-track-action="link">Subscribe</a></li><li class="primary-nav__list-item--btn"><a href="https://www.scientificamerican.com/magazine/sa/2022/12-01/" class="btn btn--small" data-track="click" data-track-action="click" data-track-label="currentissue-nav" data-track-category="mobile-nav">Current Issue</a></li><li class="primary-nav__list-item--drawer-utils" style="border-top: 1px solid #e5e5e5; margin-top: 20px"><a href="https://www.scientificamerican.com/store/shopping-cart/" data-track="click" data-track-label="cart-nav" data-track-category="nav" data-track-action="link">Cart<span class="cart-count cart__icon--dark-grey">0</span></a></li><esi:remove><li class="primary-nav__list-item--drawer-utils"><a href="https://www.scientificamerican.com/my-account/login/" data-track="click" data-track-action="mobile-signin-link" data-track-label="mobile-menu-signin" data-track-category="mobile-sign-in-link">Sign In</a></li><li class="primary-nav__list-item--drawer-utils"><a href="https://www.scientificamerican.com/page/newsletter-sign-up/" data-track="click" data-track-action="mobile-menu-stay-informed-link" data-track-label="mobile-stay-informed" data-track-category="mobile-stay-informed-link">Newsletters</a></li></esi:remove><!--esi<esi:include src="/sites/sciam/esi-my-account.cfm?context=mobile&responsive=true" />--></ul><ul class="primary-nav__list--social large-up-hide"></ul></div><div class="search__autocomplete-container"><ul class="search__autocomplete-results-list container"></ul></div></nav></header><main id="sa_body" class="panel main-area main--no-primary-nav"><div class="mura-region"><div class="mura-region-inherited"></div><div class="mura-region-local"></div></div><div class="feature-article-wrapper"><section class="feature-article--hero is-full-width"><figure aria-label="media" itemscope="" itemid="https://static.scientificamerican.com/sciam/cache/file/70E45299-8122-418C-806C2C1E0A702C32_source.jpg?w=590&amp;h=800&amp;F90786F4-8EF0-4B53-8A656985F10FF9C6" itemprop="image" itemtype="http://schema.org/ImageObject" class="article-media "  ><div class="article-media__object "><picture><source media="(min-width: 1250px)" srcset="https://static.scientificamerican.com/sciam/cache/file/70E45299-8122-418C-806C2C1E0A702C32_source.jpg?w=2000&amp;h=1123&amp;F90786F4-8EF0-4B53-8A656985F10FF9C6"><source media="(min-width: 1050px)" srcset="https://static.scientificamerican.com/sciam/cache/file/70E45299-8122-418C-806C2C1E0A702C32_source.jpg?w=1250&amp;h=701&amp;F90786F4-8EF0-4B53-8A656985F10FF9C6"><source media="(min-width: 850px)" srcset="https://static.scientificamerican.com/sciam/cache/file/70E45299-8122-418C-806C2C1E0A702C32_source.jpg?w=1050&amp;h=589&amp;F90786F4-8EF0-4B53-8A656985F10FF9C6"><source media="(min-width: 650px)" srcset="https://static.scientificamerican.com/sciam/cache/file/70E45299-8122-418C-806C2C1E0A702C32_source.jpg?w=850&amp;h=477&amp;F90786F4-8EF0-4B53-8A656985F10FF9C6"><source media="(min-width: 400px)" srcset="https://static.scientificamerican.com/sciam/cache/file/70E45299-8122-418C-806C2C1E0A702C32_source.jpg?w=750&amp;h=750&amp;F90786F4-8EF0-4B53-8A656985F10FF9C6"><source media="(min-width: 0)" srcset="https://static.scientificamerican.com/sciam/cache/file/70E45299-8122-418C-806C2C1E0A702C32_source.jpg?w=650&amp;h=650&amp;F90786F4-8EF0-4B53-8A656985F10FF9C6"><source media="(min-width: 768px) and (max-width: 1023px)" srcset="https://static.scientificamerican.com/sciam/cache/file/70E45299-8122-418C-806C2C1E0A702C32_source.jpg?w=690&amp;h=930&amp;F90786F4-8EF0-4B53-8A656985F10FF9C6"><source media="(max-width: 767px)" srcset="https://static.scientificamerican.com/sciam/cache/file/70E45299-8122-418C-806C2C1E0A702C32_source.jpg?w=390&amp;h=520&amp;F90786F4-8EF0-4B53-8A656985F10FF9C6"><img importance="high" border="0" src="https://static.scientificamerican.com/sciam/cache/file/70E45299-8122-418C-806C2C1E0A702C32_source.jpg?w=590&amp;h=800&amp;F90786F4-8EF0-4B53-8A656985F10FF9C6" width="590" height="800" alt="What Is Spacetime Really Made Of?" itemprop="url"/></picture></div></figure></section><header class="feature-article--header is-full-width"><div class="container flex-container"><div class="flex-column--70 flex-column--full-mobile"><figcaption itemprop="caption description" class="t_caption"> Credit: Stephania Infante</figcaption><p class="t_meta feature-article--header-category tx_article-rightslink"></p></div></div><div class="container flex-container flex-direction--column-tablet"><div class="flex-column--80 feature-article--header-title"><h1 class="t_listing-title landing__title" itemprop="headline">What Is Spacetime Really Made Of?</h1><p class="tx_small-listing-title t_article-subtitle">Spacetime may emerge from a more fundamental reality. Figuring out how could unlock the most urgent goal in physics&mdash;a quantum theory of gravity</p><p class="feature-article__byline-authors small-hide">By <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a href="https://www.scientificamerican.com/author/adam-becker/" itemprop="url"><span itemprop="name">Adam Becker</span></a></span></span></p></div><div class="tx_meta--header feature-article--authors medium-up-hide t_small">By:<strong class="underlined_text feature-article--authors-name" itemscope itemprop="author" itemtype="http://schema.org/Person" data-behavior="toggle" data-href=".modal-0"><a itemprop="name" href="#">Adam Becker</a></strong><div class="author-bio-mobile-modal modal-0 large-up-hide"><span class="icon icon__close--muted" data-behavior="toggle" data-href=".modal-0">close</span><div class="author-bio large-up-hide"><a href="https://www.scientificamerican.com/author/adam-becker/"><img importance="low" class="circle-img" src="https://static.scientificamerican.com/sciam/cache/file/A019744D-93E5-4E13-AFEE73C18B575451_small.jpg?h=60&w=60" height="60" width="60"/></a><p class="tx_article-rightslink"><strong>Adam Becker</strong> is a freelance science journalist and author of <em>What Is Real?,</em> about the sordid untold history of quantum physics. His writing has appeared in the <em>New York Times,</em> the BBC, NPR and elsewhere. He holds a Ph.D. in cosmology from the University of Michigan.<em class="author-bio-credits"> Credit: Nick Higgins</em></p></div></div></div><div class="flex-column--25"><div class="feature-article--header-social-icons"><a href="#" class="has-border-grey" data-sharer-url="http://www.facebook.com/sharer/sharer.php?u=https://www.scientificamerican.com/article/what-is-spacetime-really-made-of/" data-social-provider="Facebook" data-behavior="sharer"><span class="icon icon--mid icon__facebook--black">facebook</span><span class="tooltip__label">Share on Facebook</span></a><a href="#" class="has-border-grey" data-social-provider="Twitter" data-behavior="sharer" data-sharer-url="https://twitter.com/intent/tweet?url=https://www.scientificamerican.com/article/what-is-spacetime-really-made-of/&amp;text=What Is Spacetime Really Made Of?&amp;via=sciam"><span class="icon icon--mid icon__twitter--black"></span><span class="tooltip__label">Share on Twitter</span></a><a href="mailto:?subject=What Is Spacetime Really Made Of?&body=https://www.scientificamerican.com/article/what-is-spacetime-really-made-of/" data-social-provider="Email" class="has-border-grey"><span class="icon icon--mid icon__mail--black"></span><span class="tooltip__label">Share via Email</span></a></div><div class="feature-article--header-published"><div class="feature-article--header-published-date"><span class="t_meta--header t_small" itemprop="datePublished" content="2022-02-01">February 1, 2022</span></div><span class="t_meta feature-article--header-vertical-divider large-up-hide t_small">|</span></div></div></div></header><section class="flex-container container flex-direction--column-tablet"><aside class="author-bio flex-column--25 medium-down-hide"><div class="full-divider"></div><h4 class="article-header__inner__category t_tag t_tag--header">AUTHOR</h4><p class="tx_article-rightslink"><a href="https://www.scientificamerican.com/author/adam-becker/"><img importance="low" class="circle-img" src="https://static.scientificamerican.com/sciam/cache/file/A019744D-93E5-4E13-AFEE73C18B575451_small.jpg?h=60&w=60" height="60" width="60"/></a><strong>Adam Becker</strong> is a freelance science journalist and author of <em>What Is Real?,</em> about the sordid untold history of quantum physics. His writing has appeared in the <em>New York Times,</em> the BBC, NPR and elsewhere. He holds a Ph.D. in cosmology from the University of Michigan.<em class="author-bio-credits"> Credit: Nick Higgins</em></p></aside><article class="feature-article--body flex-column--half flex-column--medium-full"><div class="article-block article-text"data-behavior=" dfp_article_rendering "data-dfp-adword="Advertisement"data-newsletterpromo_article-text="&lt;p&gt;Sign up for &lt;em&gt;Scientific American&lt;/em&gt;&amp;rsquo;s free newsletters.&lt;/p&gt;"data-newsletterpromo_article-image="https://static.scientificamerican.com/sciam/cache/file/4641809D-B8F1-41A3-9E5A87C21ADB2FD8_source.png"data-newsletterpromo_article-button-text="Sign Up"data-newsletterpromo_article-button-link="https://www.scientificamerican.com/page/newsletter-sign-up/?origincode=2018_sciam_ArticlePromo_NewsletterSignUp"name="articleBody" itemprop="articleBody"><div class="mura-region mura-region-loose">
+					<div class="mura-region-local"><p><span class="dropcap">N</span>atalie Paquette spends her time thinking about how to grow an extra dimension. Start with little circles, scattered across every point in space and time&mdash;a curlicue dimension, looped back onto itself. Then shrink those circles down, smaller and smaller, tightening the loop, until a curious transformation occurs: the dimension stops seeming tiny and instead becomes enormous, like when you realize something that looks small and nearby is actually huge and distant. &ldquo;We&rsquo;re shrinking a spatial direction,&rdquo; Paquette says. &ldquo;But when we try to shrink it past a certain point, a new, large spatial direction emerges instead.&rdquo;</p>
+
+<p>Paquette, a theoretical physicist at the University of Washington, is not alone in thinking about this strange kind of dimensional transmutation. A growing number of physicists, working in different areas of the discipline with different approaches, are increasingly converging on a profound idea: space&mdash;and perhaps even time&mdash;is not fundamental. Instead space and time may be <em>emergent:</em> they could arise from the structure and behavior of more basic components of nature. At the deepest level of reality, questions like &ldquo;Where?&rdquo; and &ldquo;When?&rdquo; simply may not have answers at all. &ldquo;We have a lot of hints from physics that spacetime as we understand it isn&rsquo;t the fundamental thing,&rdquo; Paquette says.</p>
+
+<p>These radical notions come from the latest twists in the century-long hunt for a theory of quantum gravity. Physicists&rsquo; best theory of gravity is general relativity, Albert Einstein&rsquo;s famous conception of how matter warps space and time. Their best theory of everything else is quantum physics, which is astonishingly accurate when it comes to the properties of matter, energy and subatomic particles. Both theories have easily passed all the tests physicists have been able to devise for the past century. Put them together, one might think, and you would have a &ldquo;theory of everything.&rdquo;</p>
+
+<p>But the two theories don&rsquo;t play nicely. Ask general relativity what happens in the context of quantum physics, and you&rsquo;ll get contradictory answers, with untamed infinities breaking loose across your calculations. Nature knows how to apply gravity in quantum contexts&mdash;it happened in the first moments of the big bang, and it still happens in the hearts of black holes&mdash;but we humans are still struggling to understand how the trick is done. Part of the problem lies in the ways the two theories deal with space and time. While quantum physics treats space and time as immutable, general relativity warps them for breakfast.</p>
+
+<p>Somehow a theory of quantum gravity would need to reconcile these ideas about space and time. One way to do that would be to eliminate the problem at its source, spacetime itself, by making space and time emerge from something more fundamental. In recent years several different lines of inquiry have all suggested that, at the deepest level of reality, space and time do not exist in the same way that they do in our everyday world. Over the past decade these ideas have radically changed how physicists think about black holes. Now researchers are using these concepts to elucidate the workings of something even more exotic: wormholes&mdash;hypothetical tunnel-like connections between distant points in spacetime. These successes have kept alive the hope of an even deeper breakthrough. If spacetime is emergent, then figuring out where it comes from&mdash;and how it could arise from anything else&mdash;may just be the missing key that finally unlocks the door to a theory of everything.</p>
+
+<h2>The World in a String Duet</h2>
+
+<p>Today the most popular candidate theory of quantum gravity among physicists is string theory. According to this idea, its eponymous strings are the fundamental constituents of matter and energy, giving rise to the myriad fundamental subatomic particles seen at particle accelerators around the world. They are even responsible for gravity&mdash;a hypothetical particle that carries the gravitational force, a &ldquo;graviton,&rdquo; is an inevitable consequence of the theory.</p>
+
+<p>But string theory is difficult to understand&mdash;it lives in mathematical territory that has taken physicists and mathematicians decades to explore. Much of the theory&rsquo;s structure is still uncharted, expeditions still planned and maps left to be made. Within this new realm, the main technique for navigation is through mathematical dualities&mdash;correspondences between one kind of system and another.</p>
+
+<p>One example is the duality from the beginning of this article, between tiny dimensions and big ones. Try to cram a dimension down into a little space, and string theory tells you that you will end up with something mathematically identical to a world where that dimension is huge instead. The two situations are the same, according to string theory&mdash;you can go back and forth from one to the other freely and use techniques from one situation to understand how the other one works. &ldquo;If you carefully keep track of the fundamental building blocks of the theory,&rdquo; Paquette says, &ldquo;you can naturally find sometimes that ... you might grow a new spatial dimension.&rdquo;</p>
+
+<figure class="article-media" data-responsive-image="responsive-image">
+<div class="article-media__object "><picture><source media="(min-width: 768px) and (max-width: 1023px)" srcset="https://static.scientificamerican.com/sciam/assets/Image/2022/XXsaw0222Beck31_d.png" /><source media="(max-width: 767px)" srcset="https://static.scientificamerican.com/sciam/assets/Image/2022/XXsaw0222Beck31_m.png" /><img alt="Two theories of emergent spacetime are visualized: one arising from string theory and the other from loop quantum gravity." data-instanceid="CE561708-F28B-4E38-B2A90DAEA2C1162F" pinger-seen="true" src="https://static.scientificamerican.com/sciam/assets/Image/2022/XXsaw0222Beck31_d.png" /></picture></div>
+
+<figcaption class="t_caption">Credit: Elena Hartley</figcaption>
+</figure>
+
+<p>A similar duality suggests to many string theorists that space itself is emergent. The idea began in 1997, when Juan Maldacena, a physicist at the Institute for Advanced Study, uncovered a duality between a kind of well-understood quantum theory known as a conformal field theory (CFT) and a special kind of spacetime from general relativity known as anti&ndash;de Sitter space (AdS). The two seem to be wildly different theories&mdash;the CFT has no gravity in it whatsoever, and the AdS space has all of Einstein&rsquo;s theory of gravity thrown in. Yet the same mathematics can describe both worlds. When it was discovered, this AdS/CFT correspondence provided a tangible mathematical link between a quantum theory and a full universe with gravity in it.</p>
+
+<p>Curiously, the AdS space in the AdS/CFT correspondence had one more dimension in it than the quantum CFT had. But physicists relished this mismatch because it was a fully worked-out example of another kind of correspondence conceived a few years earlier, from physicists Gerard &rsquo;t Hooft of Utrecht University in the Netherlands and Leonard Susskind of Stanford University, known as the holographic principle. Based on some of the peculiar characteristics of black holes, &rsquo;t Hooft and Susskind suspected that the properties of a region of space might be fully &ldquo;encoded&rdquo; by its boundary. In other words, the two-dimensional surface of a black hole would contain all the information needed to know what was in its three-dimensional interior&mdash;like a hologram. &ldquo;I think a lot of people thought we were nuts,&rdquo; Susskind says. &ldquo;Two good physicists gone bad.&rdquo;</p>
+
+<p>Similarly, in the AdS/CFT correspondence, the four-dimensional CFT encodes everything about the five-dimensional AdS space it is associated with. In this system, the entire region of spacetime is built out of interactions between the components of the quantum system in the conformal field theory. Maldacena likens this process to reading a novel. &ldquo;If you are telling a story in a book, there are the characters in the book that are doing something,&rdquo; he says. &ldquo;But all there is is a line of text, right? What the characters are doing is inferred from this line of text. The characters in the book would be like the bulk [AdS] theory. And the line of text is the [CFT].&rdquo;</p>
+
+<p>But where does the space in the AdS space come from? If this space is emergent, what is it emerging from? The answer is a special and strangely quantum kind of interaction in the CFT: entanglement, a long-distance connection between objects, instantaneously correlating their behavior in statistically improbable ways. Entanglement famously troubled Einstein, who called it &ldquo;spooky action at a distance.&rdquo;</p>
+
+<div class="mura-async-object mura-object mura-object-select" data-async="true" data-inited="true" data-instanceid="FED81759-99C2-40FE-B02052EA3BCC1568" data-object="cfml_pullquote" data-objecticonclass="mi-quote-left" data-objectid="F10A42EA-4D38-4A3E-98E218971C2BA4A7" data-objectname="Pullquote" data-text="&lt;p&gt;Will we ever know the real nature of space and time?&lt;/p&gt;
+"></div>
+
+<p>Yet despite its spookiness, entanglement is a core feature of quantum physics. When any two objects interact in quantum mechanics, they generally become entangled and will stay entangled so long as they remain isolated from the rest of the world&mdash;no matter how far apart they may travel. In experiments, physicists have maintained entanglement between particles more than 1,000 kilometers apart and even between particles on the ground and others sent to orbiting satellites. In principle, two entangled particles could sustain their connection on opposite sides of the galaxy or the universe. Distance simply does not seem to matter for entanglement, a puzzle that has troubled many physicists for decades.</p>
+
+<p>But if space is emergent, entanglement&rsquo;s ability to persist over large distances might not be terribly mysterious&mdash;after all, distance is a construct. According to studies of the AdS/CFT correspondence by physicists Shinsei Ryu of Princeton University and Tadashi Takayanagi of Kyoto University, entanglement is what produces distances in the AdS space in the first place. Any two nearby regions of space on the AdS side of the duality correspond to two highly entangled quantum components of the CFT. The more entangled they are, the closer together the regions of space are.</p>
+
+<p>In recent years physicists have come to suspect that this relation might apply to our universe as well. &ldquo;What is it that holds the space together and keeps it from falling apart into separate subregions? The answer is the entanglement between two parts of space,&rdquo; Susskind says. &ldquo;The continuity and the connectivity of space owes its existence to quantum-mechanical entanglement.&rdquo; Entanglement, then, may undergird the structure of space itself, forming the warp and weft that give rise to the geometry of the world. &ldquo;If you could somehow destroy the entanglement between two parts [of space], the space would fall apart,&rdquo; Susskind says. &ldquo;It would do the opposite of emerging. It would dis-emerge.&rdquo;</p>
+
+<p>If space is made of entanglement, then the puzzle of quantum gravity seems much easier to solve: instead of trying to account for the warping of space in a quantum way, space itself emerges out of a fundamentally quantum phenomenon. Susskind suspects this is why a theory of quantum gravity has been so difficult to find in the first place. &ldquo;I think the reason it never worked very well is because it started with a picture of two different things, [general relativity] and quantum mechanics, and put them together,&rdquo; he says. &ldquo;And I think the point is really that they&rsquo;re much too closely related to pull apart and then put back together again. There&rsquo;s no such thing as gravity without quantum mechanics.&rdquo;</p>
+
+<p>Yet accounting for emergent space is only half the job. With space and time so intimately linked in relativity, any account of how space emerges must also explain time. &ldquo;Time must also emerge somehow,&rdquo; says Mark van Raamsdonk, a physicist at the University of British Columbia and a pioneer in the connection between entanglement and spacetime. &ldquo;But this is not well understood and is an active area of research.&rdquo;</p>
+
+<p>Another active area, he says, is using models of emergent spacetime to understand wormholes. Previously many physicists had believed that sending objects through a wormhole was impossible, even in theory. But in the past few years physicists working on the AdS/CFT correspondence and similar models have found new ways to construct wormholes. &ldquo;We don&rsquo;t know if we could do that in our universe,&rdquo; van Raamsdonk says. &ldquo;But what we now know is that certain kinds of traversable wormholes are theoretically possible.&rdquo; Two papers&mdash;one in 2016 and one in 2018&mdash;led to an ongoing flurry of work in the area. But even if traversable wormholes could be built, they would not be much use for space travel. As Susskind points out, &ldquo;you can&rsquo;t go through that wormhole faster than it would take for [light] to go the long way around.&rdquo;</p>
+
+<figure class="image-captioned"><img alt="Sand clock." data-instanceid="200B08DE-6271-4F9F-B422DD4E3E6813C9" height="2134" pinger-seen="true" src="https://static.scientificamerican.com/sciam/cache/file/A2CF3721-595B-420C-B46DE2B53AD39BF2_source.jpg" width="1536" />
+<figcaption>Credit:&nbsp;Stephania Infante</figcaption>
+</figure>
+
+<h2>Space to Think</h2>
+
+<p>If the string theorists are correct, then space is built from quantum entanglement, and time might be as well. But what would that really mean? How can space be &ldquo;made of&rdquo; entanglement between objects unless those objects are themselves somewhere? How can those objects become entangled unless they experience time and change? And what kind of existence could things have without inhabiting a true space and time?</p>
+
+<p>These are questions verging on philosophy&mdash;and indeed, philosophers of physics are taking them seriously. &ldquo;How the hell could spacetime be the kind of thing that could be emergent?&rdquo; asks Eleanor Knox, a philosopher of physics at King&rsquo;s College London. Intuitively, she says, that seems impossible. But Knox doesn&rsquo;t think that is a problem. &ldquo;Our intuitions are terrible sometimes,&rdquo; she says. They &ldquo;evolved on the African savanna interacting with macro objects and macro fluids and biological animals&rdquo; and tend not to transfer to the world of quantum mechanics. When it comes to quantum gravity, &ldquo; &lsquo;Where&rsquo;s the stuff?&rsquo; and &lsquo;Where does it live?&rsquo; aren&rsquo;t the right questions to be asking,&rdquo; Knox concludes.</p>
+
+<p>It is certainly true that objects live in places in everyday life. But as Knox and many others point out, that does not mean that space and time have to be fundamental&mdash;just that they have to reliably emerge from whatever is fundamental. Consider a liquid, says Christian W&uuml;thrich, a philosopher of physics at the University of Geneva. &ldquo;Ultimately it&rsquo;s elementary particles, like electrons and protons and neutrons or, even more fundamental, quarks and leptons. Do quarks and leptons have liquid properties? That just doesn&rsquo;t make sense, right?... Nevertheless, when these fundamental particles come together in sufficient numbers and show a certain behavior together, collective behavior, then they will act in a way that is like a liquid.&rdquo;</p>
+
+<p>Space and time, W&uuml;thrich says, could work the same way in string theory and other theories of quantum gravity. Specifically, spacetime might emerge from the materials we usually think of as living in the universe&mdash;matter and energy itself. &ldquo;It&rsquo;s not [that] we first have space and time and then we add in some matter,&rdquo; W&uuml;thrich says. &ldquo;Rather something material may be a necessary condition for there to be space and time. That&rsquo;s still a very close connection, but it&rsquo;s just the other way from what you might have thought originally.&rdquo;</p>
+
+<p>But there are other ways to interpret the latest findings. The AdS/CFT correspondence is often seen as an example of how spacetime might emerge from a quantum system, but that might not actually be what it shows, according to Alyssa Ney, a philosopher of physics at the University of California, Davis. &ldquo;AdS/CFT gives you this ability to provide a translation manual between facts about the spacetime and facts of the quantum theory,&rdquo; Ney says. &ldquo;That&rsquo;s compatible with the claim that spacetime is emergent, and some quantum theory is fundamental.&rdquo; But the reverse is also true, she says. The correspondence could mean that quantum theory is emergent and spacetime is fundamental&mdash;or that neither is fundamental and that there is some even deeper fundamental theory out there. Emergence is a strong claim to make, Ney says, and she is open to the possibility that it is true. &ldquo;But at least just looking at AdS/CFT, I&rsquo;m still not seeing a clear argument for emergence.&rdquo;</p>
+
+<p>An arguably bigger challenge to the string theory picture of emergent spacetime is hidden in plain sight, right in the name of the AdS/CFT correspondence itself. &ldquo;We don&rsquo;t live in anti&ndash;de Sitter space,&rdquo; Susskind says. &ldquo;We live in something much closer to de Sitter space.&rdquo; De Sitter space describes an accelerating and expanding universe much like our own. &ldquo;We haven&rsquo;t got the vaguest idea how [holography] applies there,&rdquo; Susskind concludes. Figuring out how to set up this kind of correspondence for a space that more closely resembles the actual universe is one of the most pressing problems for string theorists. &ldquo;I think we&rsquo;re going to be able to understand better how to get into a cosmological version of this,&rdquo; van Raamsdonk says.</p>
+
+<p>Finally, there is the news&mdash;or lack thereof&mdash;from the latest particle accelerators, which have not found any evidence for the extra particles predicted by supersymmetry, an idea that string theory relies on. Supersymmetry dictates that all known particles would have their own &ldquo;superpartners,&rdquo; doubling the number of fundamental particles. But CERN&rsquo;s Large Hadron Collider near Geneva, designed in part to search for superpartners, has seen no sign of them. &ldquo;All of the really precise versions of [emergent spacetime] that we have are in supersymmetric theories,&rdquo; Susskind says. &ldquo;Once you don&rsquo;t have supersymmetry, the ability to mathematically follow the equations just evaporates out of your hands.&rdquo;</p>
+
+<h2>Atoms of Spacetime</h2>
+
+<p>String theory is not the only idea that suggests spacetime is emergent. String theory has &ldquo;failed to live up to [its] promise as a way to unite gravity and quantum mechanics,&rdquo; says Abhay Ashtekar, a physicist at Pennsylvania State University. &ldquo;The power of string theory now is in providing an extremely rich set of tools, which has been used widely across the whole spectrum of physics.&rdquo; Ashtekar is one of the original pioneers of the most popular alternative to string theory, known as loop quantum gravity. In loop quantum gravity, space and time are not smooth and continuous the way they are in general relativity&mdash;instead they are made of discrete components, what Ashtekar calls &ldquo;chunks or atoms of spacetime.&rdquo;</p>
+
+<p>These atoms of spacetime are connected in a network, with one- and two-dimensional surfaces joining them together into what practitioners of loop quantum gravity call a spin foam. And despite that foam being limited to two dimensions, it gives rise to our four-dimensional world, with three dimensions of space and one of time. Ashtekar likens it to a piece of clothing. &ldquo;If you look at your shirt, it looks like a two-dimensional surface,&rdquo; he says. &ldquo;If you just take a magnifying glass, you will immediately see that it&rsquo;s all one-dimensional threads. It&rsquo;s just that those threads are so densely packed that for all practical purposes, you can think of the shirt as being a two-dimensional surface. So, similarly, the space around us looks like a three-dimensional continuum. But there is really a crisscross by these [atoms of spacetime].&rdquo;</p>
+
+<p>Although string theory and loop quantum gravity both suggest that spacetime is emergent, the kind of emergence is different in the two theories. String theory suggests that spacetime (or at least space) emerges from the behavior of a seemingly unrelated system, in the form of entanglement. Think of how traffic jams emerge from the collective decisions of individual drivers. The cars are not made of traffic&mdash;the cars <em>make</em> the traffic. In loop quantum gravity, on the other hand, the emergence of spacetime is more like a sloping sand dune emerging from the collective motion of sand grains in wind. The smooth familiar spacetime comes from the collective behavior of tiny &ldquo;grains&rdquo; of spacetime; like the dunes, the grains are still sand, even though the chunky crystalline grains do not look or act like the undulating dunes.</p>
+
+<p>Despite these differences, both loop quantum gravity and string theory suggest spacetime emerges from some underlying reality. Nor are they the only proposed theories of quantum gravity that point in this direction. Causal set theory, another contender for a theory of quantum gravity, posits that space and time are made of more fundamental components as well. &ldquo;It&rsquo;s really striking that for most of the plausible theories of quantum gravity that we have, in some sense their message is, yeah, general relativistic spacetime isn&rsquo;t in there at the fundamental level,&rdquo; Knox says. &ldquo;People get very excited when different theories of quantum gravity agree on at least something.&rdquo;</p>
+
+<h2>The Future of Space at the Edge of Time</h2>
+
+<p>Modern physics is a victim of its own success. Because quantum physics and general relativity are both so phenomenally accurate, quantum gravity is needed only to describe extreme situations, when enormous masses are stuffed into unfathomably tiny spaces. Those conditions exist in only a few places in nature, such as the center of a black hole&mdash;and notably not in physics laboratories, not even the largest and most powerful ones. It would take a particle accelerator the size of a galaxy to directly test the behavior of nature under conditions where quantum gravity reigns. This lack of direct experimental data is a large part of the reason why scientists&rsquo; search for a theory of quantum gravity has been so long.</p>
+
+<p>Faced with the lack of evidence, most physicists have pinned their hopes on the sky. In the earliest moments of the big bang, the entire universe was phenomenally small and dense&mdash;a situation that calls for quantum gravity to describe it. And echoes of that era may remain in the sky today. &ldquo;I think our best bet [for testing quantum gravity] is through cosmology,&rdquo; Maldacena says. &ldquo;Maybe something in cosmology that we now think is unpredictable, that maybe can be predicted once we understand the full theory, or some new thing that we didn&rsquo;t even think about.&rdquo;</p>
+
+<p>Laboratory experiments may come in handy, however, for testing string theory, at least indirectly. Scientists hope to study the AdS/CFT correspondence not by probing spacetime but by building highly entangled systems of atoms and seeing whether an analogue to spacetime and gravity shows up in their behavior. Such experiments might &ldquo;have some features of gravity, though, perhaps not all the features,&rdquo; Maldacena says. &ldquo;It also depends on exactly what you call gravity.&rdquo;</p>
+
+<p>Will we ever know the real nature of space and time? The observational data from the skies may not be forthcoming any time soon. The lab experiments could be a bust. And as philosophers know well, questions about the true nature of space and time are very old indeed. What exists &ldquo;is now all together, one, continuous,&rdquo; said the philosopher Parmenides 2,500 years ago. &ldquo;All is full of what is.&rdquo; Parmenides insisted that time and change were illusions, that everything everywhere was one and the same. His pupil Zeno created famous paradoxes to prove his teacher&rsquo;s point, purporting to show that motion over any distance was impossible. Their work raised the question of whether time and space are somehow illusory, an unsettling prospect that has haunted Western philosophy for over two millennia.</p>
+
+<p>&ldquo;The fact that the ancient Greeks asked things like, &lsquo;What is space?&rsquo; &lsquo;What is time?&rsquo; &lsquo;What is change?&rsquo; and that we still ask versions of these questions today means that they were the right questions to ask,&rdquo; W&uuml;thrich says. &ldquo;It&rsquo;s by thinking about these kinds of questions that we have learned a lot about physics.&rdquo;</p></div>
+					</div></div><div class="full-divider has-top-margin-10"></div><section class="t_meta feature-article-print"><div class="print-img"><a href="https://www.scientificamerican.com/magazine/sa/2022/02-01/"><img importance="low" src="https://static.scientificamerican.com/sciam/cache/file/1820481E-A04E-4F0C-A2EB4FFE081D3091_cover.jpg" alt="Scientific American Volume 326, Issue 2" width="140px" height="auto"/></a></div><p>This article was originally published with the title "The Origins of Space and Time" in Scientific American  326, 2, 26-33 (February 2022)</p><p>doi:10.1038/scientificamerican0222-26</p><a href="https://www.scientificamerican.com/magazine/sa/2022/02-01/" class="btn btn--small btn--cart">View This Issue</a></section><div class="full-divider"></div><div class="article-rightslink"><div class="article-reprintsLink">
+				<span>
+				
+					<a href="#" onClick="window.open( 'https://s100.copyright.com/AppDispatchServlet?publisherName=sciam&publication=sciam&title=What%20Is%20Spacetime%20Really%20Made%20Of%3F&publicationDate=2022%2D02%2D01&contentID=3A416EC8%2DF868%2D40A0%2DB0B1B807637829ED&orderBeanReset=true&author=Adam%20Becker&volumeNum=326&issueNum=2&startPage=26&endPage=33&copyright%3DCopyright%202022%20','RightsLinkwhat-is-spacetime-really-made-of','location=no,toolbar=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=650,height=550'); return false;" class="rightsPermissions">
+						<img src="/themes/responsive/images/global/rightsPermsIcon.png"> Rights &amp; Permissions
+					</a>
+				
+				</span>
+			</div></div><section class="article-footnote"><p></p>
+
+<h3>From our Archives</h3>
+
+<p></p>
+
+<p><a href="https://www.scientificamerican.com/article/tangled-up-in-spacetime1/"><strong>Tangled Up in Spacetime.</strong></a> Clara Moskowitz; January 2017.</p></section><section class="aside-block module__read-this-next" id="read-next"><h2 class="hr-titles"><span>Read This Next</span></h2><div class=""><div class="related-article-group"><div class="related-article-group__item"><a href="https://www.scientificamerican.com/article/poem-uncertain-sea-principle/"><section class="related-article"><div tabindex="-1" class="related-article__body"><div class="t_tag">Water</div><h3 class="t_small-listing-title">Poem: 'Uncertain-Sea Principle'</h3><p class="t_meta related-article__meta">Richard Blanco</p></div></section></a></div><div class="related-article-group__item"><a href="https://www.scientificamerican.com/podcast/episode/chatty-turtles-flip-the-script-on-the-evolutionary-origins-of-vocalization-in-animals/"><section class="related-article"><div tabindex="-1" class="related-article__body"><div class="t_tag">Animals</div><h3 class="t_small-listing-title">'Chatty Turtles' Flip the Script on the Evolutionary Origins of Vocalization in Animals</h3><p class="t_meta related-article__meta">Pakinam Amer</p></div></section></a></div><div class="related-article-group__item"><a href="https://www.scientificamerican.com/article/indigenous-tribes-in-u-s-will-get-75-million-for-climate-relocation/"><section class="related-article"><div tabindex="-1" class="related-article__body"><div class="t_tag">Climate Change</div><h3 class="t_small-listing-title">Indigenous Tribes in U.S. Will Get $75 Million for Climate Relocation</h3><p class="t_meta related-article__meta">Thomas Frank and E&amp;E News</p></div></section></a></div><div class="related-article-group__item"><a href="https://www.scientificamerican.com/article/ants-can-produce-milk-for-their-young-and-old/"><section class="related-article"><div tabindex="-1" class="related-article__body"><div class="t_tag">Animals</div><h3 class="t_small-listing-title">Ants Can Produce Milk for Their Young (and Old)</h3><p class="t_meta related-article__meta">Miryam Naddaf and Nature magazine</p></div></section></a></div><div class="related-article-group__item"><a href="https://www.scientificamerican.com/article/ancient-sawfish-help-to-illuminate-our-teeths-scaly-origins/"><section class="related-article"><div tabindex="-1" class="related-article__body"><div class="t_tag">Evolution</div><h3 class="t_small-listing-title">Ancient Sawfish Help to Illuminate Our Teeth's Scaly Origins</h3><p class="t_meta related-article__meta">Daniel Leonard</p></div></section></a></div><div class="related-article-group__item"><a href="https://www.scientificamerican.com/article/u-s-embassies-face-growing-risk-from-climate-change-government-watchdog-says/"><section class="related-article"><div tabindex="-1" class="related-article__body"><div class="t_tag">Climate Change</div><h3 class="t_small-listing-title">U.S. Embassies Face Growing Risk from Climate Change, Government Watchdog Says</h3><p class="t_meta related-article__meta">Daniel Cusick and E&amp;E News</p></div></section></a></div></div></div></section></article><aside class="flex-column--25 flex-column--full-mobile feature-article--newsletter"><div class="full-divider medium-down-hide"></div><figure><h4 class="article-header__inner__category t_tag t_tag--header medium-down-hide">Newsletters</h4><p>Sign up for <em>Scientific American</em>&rsquo;s free newsletters.</p><div class="newsletter-promo__cta flex-container"><a href="https://www.scientificamerican.com/page/newsletter-sign-up/?origincode=2018_sciam_ArticlePromo_NewsletterSignUp"><button class="btn btn--small">Sign Up</button></a><div class="newsletter-promo__img"><img importance="low" src="https://static.scientificamerican.com/sciam/cache/file/4641809D-B8F1-41A3-9E5A87C21ADB2FD8_source.png?h=80&w=80" alt="newsletter promo image" width="80" height="80" /></div></div></figure><div class="full-divider"></div></aside></section></div><aside class="tout_subscribe container"><h2 class="tout_subscribe-title">Support Science Journalism</h2><p class="small-hide">Discover world-changing science. Explore our digital archive back to 1845, including articles by more than 150 Nobel Prize winners.</p><a href="https://www.scientificamerican.com/store/subscribe/scientific-american-magazine/" class="btn editable-button white" data-track-ecommerce="promo_click" data-track-ecommerce-promo-id="HNFSB" data-track-ecommerce-promo-name="Navigation Footer Subscribe Banner" data-track-ecommerce-promo-creative="footerBlueBanner" data-track-ecommerce-promo-position="3">Subscribe Now!</a><picture><source media="(max-width: 767px)" srcset="https://static.scientificamerican.com/sciam/cache/file/0F5ED852-5DF4-46E9-A4ADFB084F69E715_source.png?w=220&amp;h=100" /><source media="(min-width: 768px) and (max-width: 1023px)" srcset="https://static.scientificamerican.com/sciam/cache/file/0F5ED852-5DF4-46E9-A4ADFB084F69E715_source.png?w=420&amp;h=190" /><img aria-hidden="true" src="https://static.scientificamerican.com/sciam/cache/file/4E3364A7-7235-4246-85DBD1C3E3F60EE7_source.png?w=385&amp;h=375" alt="Support Science Journalism" /></picture></aside></main></div></div><footer id="footer" class="container"><p class="footer__followus-text">Follow us</p><ul class="footer_followUs">			<li class=""><a href="https://www.instagram.com/scientific_american/?hl=en" title="instagram" target="_blank" rel="noopener"><span class="icon icon--mid icon__instagram--black">instagram</span></a></li>			<li class="hide"><a href="" title="soundcloud" target="_blank" rel="noopener"><span class="icon icon--mid icon__soundcloud--black">soundcloud</span></a></li>			<li class=""><a href="https://www.youtube.com/user/SciAmerican" title="youtube" target="_blank" rel="noopener"><span class="icon icon--mid icon__youtube--black">youtube</span></a></li>			<li class=""><a href="https://twitter.com/sciam" title="twitter" target="_blank" rel="noopener"><span class="icon icon--mid icon__twitter--black">twitter</span></a></li>			<li class=""><a href="https://www.facebook.com/ScientificAmerican" title="facebook" target="_blank" rel="noopener"><span class="icon icon--mid icon__facebook--black">facebook</span></a></li>			<li class=""><a href="http://rss.sciam.com/ScientificAmerican-Global" title="rss" target="_blank" rel="noopener"><span class="icon icon--mid icon__rss--black">rss</span></a></li></ul><div class="footer_arabic"><p>Scientific american arabic</p><a href="https://www.scientificamerican.com/arabic/">العربية</a></div><div class="panel footer__links"><div class="grid"><div class="grid__col small-first-col">
+	<ul class="footer-links">
+		<li class="footer-links__item t_meta"><a href="https://www.scientificamerican.com/page/return-refund-policy/">Return &amp; Refund Policy</a></li>
+		<li class="footer-links__item t_meta"><a href="https://www.scientificamerican.com/page/about-scientific-american/">About</a></li>
+		<li class="footer-links__item t_meta"><a href="https://www.scientificamerican.com/pressroom/">Press Room</a></li>
+	</ul>
+</div>
+
+<div class="grid__col small-first-col">
+	<ul class="footer-links">
+		<li class="footer-links__item t_meta"><a href="https://www.scientificamerican.com/page/frequently-asked-questions/subscriptions/">FAQs</a></li>
+		<li class="footer-links__item t_meta"><a href="https://www.scientificamerican.com/page/contact-us/customer-service/">Contact Us</a></li>
+		<li class="footer-links__item t_meta"><a href="https://www.scientificamerican.com/page/sitemap/topics/">Site Map</a></li>
+	</ul>
+</div>
+
+<div class="grid__col small-first-col">
+	<ul class="footer-links">
+		<li class="footer-links__item t_meta"><a href="https://www.scientificamerican.com/mediakit/">Advertise</a></li>
+		<li class="footer-links__item t_meta"><a href="https://partnerships.nature.com/product/nature-research-custom-media/">SA Custom Media</a></li>
+		<li class="footer-links__item t_meta"><a href="https://www.scientificamerican.com/page/terms-of-use/">Terms of Use</a></li>
+	</ul>
+</div>
+
+<div class="grid__col small-first-col">
+	<ul class="footer-links">
+		<li class="footer-links__item t_meta"><a href="https://www.scientificamerican.com/page/privacy-policy/">Privacy Policy</a></li>
+		<li class="footer-links__item t_meta"><a href="https://www.scientificamerican.com/page/california-consumer-privacy-statement/">California Consumer Privacy Statement</a></li>
+		<li class="footer-links__item t_meta"><a href="javascript:Optanon.ToggleInfoDisplay()">Use of cookies/Do not sell my data</a></li>
+		<li class="footer-links__item t_meta"><a href="https://www.scientificamerican.com/page/international/
+">International Editions</a></li>
+	</ul>
+</div></div></div><div class="panel footer_disclosure_copyright_wrap"><div class="tx_meta footer_disclosure">Scientific American is part of <a href="https://group.springernature.com/gp/group/about-us">Springer Nature</a>, which owns or has commercial relations with thousands of scientific publications (many of them can be found at <a href="http://www.springernature.com/us" rel="noopener" target="_blank">www.springernature.com/us</a>). Scientific American maintains a strict policy of editorial independence in reporting developments in science to our readers.</div><p class="footer-copyright">&copy; 2022 Scientific American, a Division of Springer Nature America, Inc.</p><p class="footer-copyright">All Rights Reserved.</p></div></footer><a role="link" arial-label="Scroll to top" class="scrolltop" href="#sa_body">Scroll To Top</a>		<script>(function() {function deleteCookie(name, domain) {document.cookie = encodeURIComponent(name) +'=' +';path=/' +';domain=' + domain +';expires=Thu, 01 Jan 1970 00:00:00 GMT';}var consentCookieParts = ('; ' + document.cookie).split('; OptanonConsent=');if (consentCookieParts.length > 1) {consentCookieParts.shift();for (var i = 0; i < consentCookieParts.length; i++) {var otCookieGroups = consentCookieParts[i].split('&groups=').pop().split('&').shift();if (otCookieGroups.indexOf('C0001') === -1) {deleteCookie('OptanonConsent', 'scientificamerican.com');deleteCookie('OptanonAlertBoxClosed', 'scientificamerican.com');}}}}());</script><!-- OneTrust Cookies Consent Notice start for scientificamerican.com --><script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="fc3cc7e3-d552-4387-a432-96bccfa03f08"></script><script type="text/javascript">function OptanonWrapper() {}</script><!-- OneTrust Cookies Consent Notice end for scientificamerican.com --><script>var A17 = window.A17 || {};var dfp = window.dfp || {};A17.svgSupport = document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#BasicStructure", "1.1");A17.browserSpec = (typeof document.querySelectorAll && 'addEventListener' in window && A17.svgSupport) ? "html5" : "html4";var element = document.createElement('x');element.style.cssText = 'pointer-events:auto';(function() {var doc = document.documentElement;var str = " js " + (A17.svgSupport ? " svg" : " no-svg") + (element.style.pointerEvents === 'auto' ? " csspointerevents" : " no-csspointerevents");doc.className = doc.className.replace(/\bno-js\b/, str);})();</script><script src="/public/resources/main-82c752a9bdb214e8322c3fd3336f5813.js"></script>
+<script type="text/plain" class="optanon-category-C0008">
+(function() {
+		
+		var DFP_id = dfp.adUnit;
+		// For testing
+		//var DFP_id = "/7814368/NativeAdUnit";
+
+		var compiledTemplateHomePopular = "";
+		var compiledTemplateHomeLatest = "";
+		var compiledTemplateHomeAgenda = "";
+		var compiledTemplateTagLatest = "";
+		var compiledTemplateArticleLatest = "";
+		var compiledTemplateVideoLatest = "";
+
+		templates();
+
+		window.NATIVEADS = window.NATIVEADS || {};
+		window.NATIVEADS_QUEUE = window.NATIVEADS_QUEUE || [];
+
+		var q = function() {
+			return window.NATIVEADS_QUEUE;
+		};
+
+		q().push(["setPropertyID", "NA-SCIEAMERLIVE-11237933"]);
+
+		switch (mura.subtype) {
+			case 'Home':
+				
+					q().push(["insertPreview", {
+						label: "HomeLatest",
+						unit: {
+							"server": "dfp",
+							"id": DFP_id,
+							"size": "2x2",
+							"targets": renderTagerting('n-latest3')
+						},
+						location: "#latest-news > article.listing:eq(2)",
+						infoText: "",
+						infoButtonText: "",
+						template: compiledTemplateHomeLatest,
+						onRender: function($element) {
+							var parent = document.getElementById('latest-news');
+							var lastChild = parent.children[5];
+							parent.removeChild(lastChild);
+						},
+						onFill: function(data) {
+							getFormattedDate(data);
+						},
+						onError: function(error) { }
+					}]);
+				
+
+				
+					q().push(["insertPreview", {
+						label: "HomeAgenda",
+						unit: {
+							"server": "dfp",
+							"id": DFP_id,
+							"size": "2x2",
+							"targets": renderTagerting('n-agenda4')
+						},
+						location: "#agenda-latest > article:nth-child(3)",
+						infoText: "",
+						infoButtonText: "",
+						template: compiledTemplateHomeAgenda,
+						onRender: function($element) {
+							var parent = document.getElementById('agenda-latest');
+							parent.removeChild(parent.lastChild);
+						},
+						onFill: function(data) {
+							getFormattedDate(data);
+						},
+						onError: function(error) { }
+					}]);
+				
+
+			case 'Topic':
+
+				
+					q().push(["insertPreview", {
+						label: "TopicAgenda",
+						unit: {
+							"server": "dfp",
+							"id": DFP_id,
+							"size": "2x2",
+							"targets": renderTagerting('n-category')
+						},
+						location: "#agenda-latest > article:nth-child(3)",
+						infoText: "",
+						infoButtonText: "",
+						template: compiledTemplateHomeAgenda,
+						onRender: function($element) {
+							var parent = document.getElementById('agenda-latest');
+							parent.removeChild(parent.lastChild);
+						},
+						onFill: function(data) {
+							getFormattedDate(data);
+						},
+						onError: function(error) { }
+					}]);
+				
+
+				
+					q().push(["insertPreview", {
+						label: "HomePopular",
+						unit: {
+							"server": "dfp",
+							"id": DFP_id,
+							"size": "2x2",
+							"targets": renderTagerting('n-popular3')
+						},
+						location: ".most-popular__grid > div.grid__col:eq(2)",
+						template: compiledTemplateHomePopular,
+						onRender: function($element) {
+							var parent = document.getElementsByClassName('most-popular')[0];
+							var parentBody = parent.children[0];
+							parentBody.removeChild(parentBody.lastChild);
+
+						},
+						onFill: function(data) {
+							getFormattedDate(data);
+						},
+						onError: function(error) {}
+					}]);
+				
+
+			break;
+
+
+			case 'Section':
+				
+					q().push(["insertPreview", {
+						label: "TagLatest",
+							unit: {
+								"server": "dfp",
+								"id": DFP_id,
+								"size": "2x2",
+								"targets": renderTagerting('n-tag3')
+							},
+						location: "div.section-latest > article:nth-child(3)",
+						infoText: "",
+						infoButtonText: "",
+						template: compiledTemplateTagLatest,
+						onRender: function($element) {
+							var parent = document.getElementsByClassName('section-latest')[0];
+							parent.removeChild(parent.lastChild);
+						},
+						onFill: function(data) {
+							getFormattedDate(data);
+						},
+						onError: function(error) { }
+					}]);
+				
+			break;
+
+			case 'Video':
+			case 'VideoSeries':
+				
+					q().push(["insertPreview", {
+						label: "VideoLatest",
+							unit: {
+								"server": "dfp",
+								"id": DFP_id,
+								"size": "2x2",
+								"targets": renderTagerting('n-video')
+							},
+						location: "div.recent-videos-group > div:nth-child(3)",
+						infoText: "",
+						infoButtonText: "",
+						template: compiledTemplateVideoLatest,
+						onRender: function($element) {
+							var parent = document.getElementsByClassName('recent-videos-group')[0];
+							parent.removeChild(parent.lastChild);
+						},
+						onFill: function(data) {
+							getFormattedDate(data);
+						},
+						onError: function(error) { }
+					}]);
+				
+			break;
+
+			case 'Article':
+			case 'PrintArticle':
+			case 'PartnerArticle':
+			case 'BlogPost':
+				
+					q().push(["insertPreview", {
+						label: "ArticleLatest",
+						unit: {
+							"server": "dfp",
+							"id": DFP_id,
+							"size": "2x2",
+							"targets": renderTagerting('n-article')
+						},
+						location: "#read-next > div.aside-block__body > div.related-article-group > div:nth-child(1)",
+						infoText: "",
+						infoButtonText: "",
+						template: compiledTemplateArticleLatest,
+						onRender: function($element) {
+							var parent = document.getElementById('read-next');
+							var parentBody = parent.children[1].children[0];
+							parentBody.removeChild(parentBody.lastChild);
+						},
+						onFill: function(data) {
+							getFormattedDate(data);
+						},
+						onError: function(error) { }
+					}]);
+				
+			break;
+		}
+
+		function templates () {
+
+
+
+		compiledTemplateHomePopular = function(Handlebars, depth0, helpers, partials, data) {
+		 var buffer,
+ stack1,
+ stack2,
+ options,
+ functionType,
+ escapeExpression,
+ helperMissing;
+
+ this.compilerInfo = [4, '>= 1.0.0'];
+ helpers = this.merge(helpers, Handlebars.helpers);
+ data = data || {};
+
+ buffer = "";
+ functionType = "function";
+ escapeExpression = this.escapeExpression;
+ helperMissing = helpers.helperMissing;
+
+ buffer += "<div class=\"grid__col large-up-1 medium-1-2\">\n	<article class=\"listing-wide\" data-listing-template=\"Home_Popular\" data-listing-title=\"";
+
+ if (stack1 = helpers.title) {
+ stack1 = stack1.call(depth0, {
+ hash: {},
+ data: data
+ });
+ } else {
+ stack1 = depth0.title;
+ stack1 = typeof stack1 === functionType ? stack1.apply(depth0) : stack1;
+ }
+
+ buffer += escapeExpression(stack1) + "\">\n	<a href=\"";
+
+ if (stack1 = helpers.link) {
+ stack1 = stack1.call(depth0, {
+ hash: {},
+ data: data
+ });
+ } else {
+ stack1 = depth0.link;
+ stack1 = typeof stack1 === functionType ? stack1.apply(depth0) : stack1;
+ }
+
+ buffer += escapeExpression(stack1) + "\">\n	<div class=\"listing-wide__thumb\">\n";
+
+ buffer += "<picture>\n					<source media=\"(max-width: 767px)\" srcset=\"";
+
+ options = {
+ hash: {
+ 'width': (80),
+ 'height': (80)
+ },
+ data: data
+ };
+
+ buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref), stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\">\n					<source media=\"(min-width: 768px) and (max-width: 1023px)\" srcset=\"";
+
+ options = {
+ hash: {
+ 'width': (210),
+ 'height': (140)
+ },
+ data: data
+ };
+
+ buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref), stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\">\n					<img src=\"";
+
+ options = {
+ hash: {
+ 'width': (275),
+ 'height': (183)
+ },
+ data: data
+ };
+
+ buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref), stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\" alt=\"";
+
+ if (stack2 = helpers.title) {
+ stack2 = stack2.call(depth0, {
+ hash: {},
+ data: data
+ });
+ } else {
+ stack2 = depth0.title;
+ stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2;
+ }
+
+ buffer += escapeExpression(stack2) + "\"></picture>\n				<div class=\"t_tag listing-wide__thumb__category\">\n					" + escapeExpression(((stack1 = ((stack1 = depth0.custom), stack1 == null || stack1 === false ? stack1 : stack1.Eyebrow)), typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) + "\n				</div>\n</div>\n		<div class=\"listing-wide__inner\">\n			<div class=\"t_tag listing--category medium-up-hide\">" + escapeExpression(((stack1 = ((stack1 = depth0.custom), stack1 == null || stack1 === false ? stack1 : stack1.Eyebrow)), typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) + "</div>\n			<h3 class=\"t_listing-title\">\n";
+
+ if (stack2 = helpers.title) {
+ stack2 = stack2.call(depth0, {
+ hash: {},
+ data: data
+ });
+ } else {
+ stack2 = depth0.title;
+ stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2;
+ }
+ buffer += escapeExpression(stack2) + "</h3>\n			<p class=\"t_body listing-wide__inner__desc\">\n				";
+ if (stack2 = helpers.summary) {
+ stack2 = stack2.call(depth0, {
+ hash: {},
+ data: data
+ });
+ } else {
+ stack2 = depth0.summary;
+ stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2;
+ }
+ buffer += escapeExpression(stack2) + "\n			</p>\n			<div class=\"t_meta\">" + escapeExpression(((stack1 = ((stack1 = depth0.author), stack1 == null || stack1 === false ? stack1 : stack1.name)), typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) + "</div>\n		</div>\n </a>\n </article>\n</div>";
+ return buffer;
+ };
+
+		compiledTemplateHomeLatest = function(Handlebars, depth0, helpers, partials, data) {
+ var buffer,
+ stack1,
+ stack2,
+ options,
+ functionType,
+ escapeExpression,
+ helperMissing;
+
+ this.compilerInfo = [4, '>= 1.0.0'];
+ helpers = this.merge(helpers, Handlebars.helpers);
+ data = data || {};
+
+ buffer = "";
+ functionType = "function";
+ escapeExpression = this.escapeExpression;
+ helperMissing = helpers.helperMissing;
+
+ buffer += "<article class=\"listing listing--with-thumb \" data-listing-count=\"6\" data-listing-template=\"Home\" data-listing-title=\"";
+
+ if (stack1 = helpers.title) {
+ stack1 = stack1.call(depth0, {
+ hash: {},
+ data: data
+ });
+ } else {
+ stack1 = depth0.title;
+ stack1 = typeof stack1 === functionType ? stack1.apply(depth0) : stack1;
+ }
+
+ buffer += escapeExpression(stack1) + "\">\n	<div class=\"t_tag listing--category\">" + escapeExpression(((stack1 = ((stack1 = depth0.custom), stack1 == null || stack1 === false ? stack1 : stack1.Eyebrow)), typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) + "</div>\n	<div class=\"t_meta\">" + escapeExpression(((stack1 = ((stack1 = depth0.custom), stack1 == null || stack1 === false ? stack1 : stack1.SponsorLabel)), typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) + "</div>\n 	<a href=\"";
+
+ if (stack2 = helpers.link) {
+ stack2 = stack2.call(depth0, {
+ hash: {},
+ data: data
+ });
+ } else {
+ stack2 = depth0.link;
+ stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2;
+ }
+
+ buffer += escapeExpression(stack2) + "\">\n<div class=\"t_thumb listing__thumb \">\n <picture>\n <source media=\"(max-width: 767px)\" srcset=\"";
+
+ options = {
+ hash: {
+ 'width': (280),
+ 'height': (187)
+ },
+ data: data
+ };
+
+ buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref), stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\">\n <source media=\"(min-width: 768px) and (max-width: 1023px)\" srcset=\"";
+
+ options = {
+ hash: {
+ 'width': (690),
+ 'height': (460)
+ },
+ data: data
+ };
+
+ buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref), stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\">\n <source media=\"(min-width: 1024px) and (max-width: 1279px)\" srcset=\"";
+
+ options = {
+ hash: {
+ 'width': (450),
+ 'height': (300)
+ },
+ data: data
+ };
+
+ buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref), stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\">\n <img src=\"";
+
+ options = {
+ hash: {
+ 'width': (590),
+ 'height': (393)
+ },
+ data: data
+ };
+
+ buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref), stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\" alt=\"";
+
+ if (stack2 = helpers.title) {
+ stack2 = stack2.call(depth0, {
+ hash: {},
+ data: data
+ });
+ } else {
+ stack2 = depth0.title;
+ stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2;
+ }
+
+ buffer += escapeExpression(stack2) + "\">\n </picture>\n </div>\n	<h2 class=\"t_small-listing-title\">";
+
+ if (stack2 = helpers.title) {
+ stack2 = stack2.call(depth0, {
+ hash: {},
+ data: data
+ });
+ } else {
+ stack2 = depth0.title;
+ stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2;
+ }
+
+ buffer += escapeExpression(stack2) + "</h2>\n </a>\n <p class=\"t_meta listing__meta\">" + escapeExpression(((stack1 = ((stack1 = depth0.author), stack1 == null || stack1 === false ? stack1 : stack1.name)), typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) + "</p>\n</article>";
+
+ return buffer;
+ };
+
+		compiledTemplateTagLatest = function(Handlebars, depth0, helpers, partials, data) {
+ var buffer,
+ stack1,
+ stack2,
+ options,
+ functionType,
+ escapeExpression,
+ helperMissing;
+
+ this.compilerInfo = [4, '>= 1.0.0'];
+ helpers = this.merge(helpers, Handlebars.helpers);
+ data = data || {};
+
+ buffer = "";
+ functionType = "function";
+ escapeExpression = this.escapeExpression;
+ helperMissing = helpers.helperMissing;
+
+ buffer += "<article class=\"listing-wide\" data-listing-template=\"Section\" data-listing-title=\"";
+
+ if (stack1 = helpers.title) {
+ stack1 = stack1.call(depth0, {
+ hash: {},
+ data: data
+ });
+ } else {
+ stack1 = depth0.title;
+ stack1 = typeof stack1 === functionType ? stack1.apply(depth0) : stack1;
+ }
+
+ buffer += escapeExpression(stack1) + "\">\n	<a href=\"";
+
+ if (stack1 = helpers.link) {
+ stack1 = stack1.call(depth0, {
+ hash: {},
+ data: data
+ });
+ } else {
+ stack1 = depth0.link;
+ stack1 = typeof stack1 === functionType ? stack1.apply(depth0) : stack1;
+ }
+
+ buffer += escapeExpression(stack1) + "\">\n <div class=\"listing-wide__thumb\">\n <picture>\n				<source media=\"(max-width: 767px)\" srcset=\"";
+
+ options = {
+ hash: {
+ 'width': (80),
+ 'height': (80)
+ },
+ data: data
+ };
+
+ buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref), stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\">\n				<source media=\"(min-width: 768px) and (max-width: 1023px)\" srcset=\"";
+
+ options = {
+ hash: {
+ 'width': (210),
+ 'height': (140)
+ },
+ data: data
+ };
+
+ buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref), stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\">\n				<img src=\"";
+
+ options = {
+ hash: {
+ 'width': (275),
+ 'height': (183)
+ },
+ data: data
+ };
+
+ buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref), stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\" alt=\"Collective Wisdom of Ants\">\n			</picture>\n			<div class=\"t_tag listing__thumb__category small-hide " + escapeExpression(((stack1 = ((stack1 = depth0.custom), stack1 == null || stack1 === false ? stack1 : stack1.AdType)), typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) + "\">" + escapeExpression(((stack1 = ((stack1 = depth0.custom), stack1 == null || stack1 === false ? stack1 : stack1.Eyebrow)), typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) + "</div>\n	</div>\n	<div class=\"listing-wide__inner\">\n		<div class=\"t_tag listing--category medium-up-hide\">" + escapeExpression(((stack1 = ((stack1 = depth0.custom), stack1 == null || stack1 === false ? stack1 : stack1.Eyebrow)), typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) + "</div>\n		<h2 class=\"t_listing-title\">";
+
+ if (stack2 = helpers.title) {
+ stack2 = stack2.call(depth0, {
+ hash: {},
+ data: data
+ });
+ } else {
+ stack2 = depth0.title;
+ stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2;
+ }
+
+ buffer += escapeExpression(stack2) + "</h2>\n		<p class=\"t_body listing-wide__inner__desc\">\n			";
+
+ if (stack2 = helpers.summary) {
+ stack2 = stack2.call(depth0, {
+ hash: {},
+ data: data
+ });
+ } else {
+ stack2 = depth0.summary;
+ stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2;
+ }
+
+ buffer += escapeExpression(stack2) + "\n		</p>\n		<div class=\"t_meta\">" + escapeExpression(((stack1 = ((stack1 = depth0.author), stack1 == null || stack1 === false ? stack1 : stack1.name)), typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) + "</div>\n	</div>\n </a>\n</article>";
+
+ return buffer;
+ };
+
+		compiledTemplateHomeAgenda = function(Handlebars, depth0, helpers, partials, data) {
+ var buffer,
+ stack1,
+ stack2,
+ options,
+ functionType,
+ escapeExpression,
+ helperMissing;
+
+ this.compilerInfo = [4, '>= 1.0.0'];
+ helpers = this.merge(helpers, Handlebars.helpers);
+ data = data || {};
+
+ buffer = "";
+ functionType = "function";
+ escapeExpression = this.escapeExpression;
+ helperMissing = helpers.helperMissing;
+
+ buffer += "<article class=\"listing listing--with-thumb \" data-listing-count=\"4\" data-listing-template=\"Home\" data-listing-title=\"";
+
+ if (stack1 = helpers.title) {
+ stack1 = stack1.call(depth0, {
+ hash: {},
+ data: data
+ });
+ } else {
+ stack1 = depth0.title;
+ stack1 = typeof stack1 === functionType ? stack1.apply(depth0) : stack1;
+ }
+
+ buffer += escapeExpression(stack1) + "\">\n	<div class=\"t_tag listing--category\">" + escapeExpression(((stack1 = ((stack1 = depth0.custom), stack1 == null || stack1 === false ? stack1 : stack1.Eyebrow)), typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) + "</div>\n	<a href=\"";
+
+ if (stack2 = helpers.link) {
+ stack2 = stack2.call(depth0, {
+ hash: {},
+ data: data
+ });
+ } else {
+ stack2 = depth0.link;
+ stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2;
+ }
+
+ buffer += escapeExpression(stack2) + "\">\n<div class=\"t_thumb listing__thumb \">\n			<picture>\n				<source media=\"(max-width: 767px)\" srcset=\"";
+
+ options = {
+ hash: {
+ 'width': (280),
+ 'height': (187)
+ },
+ data: data
+ };
+
+ buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref), stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\">\n				<source media=\"(min-width: 768px) and (max-width: 1023px)\" srcset=\"";
+
+ options = {
+ hash: {
+ 'width': (690),
+ 'height': (460)
+ },
+ data: data
+ };
+
+ buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref), stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\">\n				<source media=\"(min-width: 1024px) and (max-width: 1279px)\" srcset=\"";
+
+ options = {
+ hash: {
+ 'width': (450),
+ 'height': (300)
+ },
+ data: data
+ };
+
+ buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref), stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\">\n				<img src=\"";
+
+ options = {
+ hash: {
+ 'width': (590),
+ 'height': (393)
+ },
+ data: data
+ };
+
+ buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref), stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\" alt=\"";
+
+ if (stack2 = helpers.title) {
+ stack2 = stack2.call(depth0, {
+ hash: {},
+ data: data
+ });
+ } else {
+ stack2 = depth0.title;
+ stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2;
+ }
+
+ buffer += escapeExpression(stack2) + "\"></picture>\n			<div class=\"t_tag listing__thumb__category small-hide " + escapeExpression(((stack1 = ((stack1 = depth0.custom), stack1 == null || stack1 === false ? stack1 : stack1.AdType)), typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) + "\">" + escapeExpression(((stack1 = ((stack1 = depth0.custom), stack1 == null || stack1 === false ? stack1 : stack1.Eyebrow)), typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) + "</div>\n		</div>\n	<h2 class=\"t_small-listing-title\">\n";
+
+ if (stack2 = helpers.title) {
+ stack2 = stack2.call(depth0, {
+ hash: {},
+ data: data
+ });
+ } else {
+ stack2 = depth0.title;
+ stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2;
+ }
+
+ buffer += escapeExpression(stack2) + "</h2>\n</a>\n	<p class=\"t_meta listing__meta\">" + escapeExpression(((stack1 = ((stack1 = depth0.author), stack1 == null || stack1 === false ? stack1 : stack1.name)), typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) + "</p>\n</article>";
+
+ return buffer;
+ };
+
+		compiledTemplateArticleLatest = function(Handlebars, depth0, helpers, partials, data) {
+ var buffer,
+ stack1,
+ stack2,
+ options,
+ functionType,
+ escapeExpression,
+ helperMissing;
+
+ this.compilerInfo = [4, '>= 1.0.0'];
+ helpers = this.merge(helpers, Handlebars.helpers);
+ data = data || {};
+
+ buffer = "";
+ functionType = "function";
+ escapeExpression = this.escapeExpression;
+ helperMissing = helpers.helperMissing;
+
+ buffer += "<div class=\"related-article-group__item\">\n <a href=\"";
+
+ if (stack1 = helpers.link) {
+ stack1 = stack1.call(depth0, {
+ hash: {},
+ data: data
+ });
+ } else {
+ stack1 = depth0.link;
+ stack1 = typeof stack1 === functionType ? stack1.apply(depth0) : stack1;
+ }
+
+ buffer += escapeExpression(stack1) + "\">\n <section class=\"related-article\">\n <div class=\"related-article__body\">\n <div class=\"t_tag related-article__thumb__category\">" + escapeExpression(((stack1 = ((stack1 = depth0.custom), stack1 == null || stack1 === false ? stack1 : stack1.Eyebrow)), typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) + "</div>\n <h3 class=\"t_small-listing-title\">";
+
+ if (stack2 = helpers.title) {
+ stack2 = stack2.call(depth0, {
+ hash: {},
+ data: data
+ });
+ } else {
+ stack2 = depth0.title;
+ stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2;
+ }
+
+ buffer += escapeExpression(stack2) + "</h3><p class=\"related-article__meta\"> \n </p>\n </div>\n </section>\n </a>\n</div>";
+
+ return buffer;
+ };
+
+		compiledTemplateVideoLatest = function(Handlebars, depth0, helpers, partials, data) {
+ var buffer,
+ stack1,
+ stack2,
+ options,
+ functionType,
+ escapeExpression,
+ helperMissing;
+
+ this.compilerInfo = [4, '>= 1.0.0'];
+ helpers = this.merge(helpers, Handlebars.helpers);
+ data = data || {};
+
+ buffer = "";
+ functionType = "function";
+ escapeExpression = this.escapeExpression;
+ helperMissing = helpers.helperMissing;
+
+ buffer += "<div class=\"grid__col large-1-2 xlarge-1-4 medium-1-2 recent-videos-group__item\">\n	<article class=\"listing--media listing--with-thumb\" data-video-title=\"";
+
+ if (stack1 = helpers.title) {
+ stack1 = stack1.call(depth0, {
+ hash: {},
+ data: data
+ });
+ } else {
+ stack1 = depth0.title;
+ stack1 = typeof stack1 === functionType ? stack1.apply(depth0) : stack1;
+ }
+
+
+ buffer += escapeExpression(stack1) + "\" data-video-template=\"related-videos\">\n<a href=\"";
+
+ if (stack2 = helpers.link) {
+ stack2 = stack2.call(depth0, {
+ hash: {},
+ data: data
+ });
+ } else {
+ stack2 = depth0.link;
+ stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2;
+ }
+
+ buffer += escapeExpression(stack2) + "\">\n<div class=\"t_tag medium-up-hide\">" + escapeExpression(((stack1 = ((stack1 = depth0.custom), stack1 == null || stack1 === false ? stack1 : stack1.Eyebrow)), typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) + "</div>\n		<div class=\"t_thumb listing--media__thumb\">\n<span class=\"icon-overlay\"><span class=\"icon-overlay__icon icon__play--md--white\"></span><span class=\"icon-overlay__icon icon__play--sm--white\"></span><picture><source media=\"(min-width: 768px) and (max-width: 1023px)\" srcset=\"";
+
+ options = {
+ hash: {
+ 'width': (330),
+ 'height': (186)
+ },
+ data: data
+ };
+
+ buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref), stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\"><source media=\"(max-width: 767px)\" srcset=\"";
+
+ options = {
+ hash: {
+ 'width': (80),
+ 'height': (45)
+ },
+ data: data
+ };
+
+ buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref), stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\"><img src=\"";
+
+ options = {
+ hash: {
+ 'width': (275),
+ 'height': (155)
+ },
+ data: data
+ };
+
+ buffer += escapeExpression(((stack1 = helpers.getThumbHref || depth0.getThumbHref), stack1 ? stack1.call(depth0, options) : helperMissing.call(depth0, "getThumbHref", options))) + "\" alt=\"";
+
+ if (stack2 = helpers.title) {
+ stack2 = stack2.call(depth0, {
+ hash: {},
+ data: data
+ });
+ } else {
+ stack2 = depth0.title;
+ stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2;
+ }
+
+ buffer += escapeExpression(stack2) + "\"></picture><div class=\"t_tag listing--media__thumb__category small-hide\">" + escapeExpression(((stack1 = ((stack1 = depth0.custom), stack1 == null || stack1 === false ? stack1 : stack1.Eyebrow)), typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) + "</div></span>\n		</div>\n		<h3 class=\"t_small-listing-title\">";
+
+ if (stack2 = helpers.title) {
+ stack2 = stack2.call(depth0, {
+ hash: {},
+ data: data
+ });
+ } else {
+ stack2 = depth0.title;
+ stack2 = typeof stack2 === functionType ? stack2.apply(depth0) : stack2;
+ }
+
+ buffer += escapeExpression(stack2) + "</h3>\n		<p class=\"t_meta listing--media__meta\">" + escapeExpression(((stack1 = ((stack1 = depth0.author), stack1 == null || stack1 === false ? stack1 : stack1.name)), typeof stack1 === functionType ? stack1.apply(depth0) : stack1)) + "</p>\n	</a>\n</article>\n</div>";
+
+ return buffer;
+ };
+	}
+
+	function getFormattedDate(data) {
+		var monthNames = [ "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December" ];
+		var d = new Date(data.pubDate);
+		data.pubDate = monthNames[d.getMonth()] + ' ' + d.getDate() + ', ' + d.getFullYear();
+
+		if (data.custom.AdType == 'Product'){
+			data.custom.AdType = "sponsor--blue";p
+		}
+		else {
+			data.custom.AdType = "";
+		}
+
+		return data;
+	}
+
+})();
+
+(function(d, s, id) {
+ var js, fjs = d.getElementsByTagName(s)[0], p = d.location.protocol;
+ if (d.getElementById(id)) {return;}
+ js = d.createElement(s);
+ js.id = id; js.type = "text/javascript"; js.async = true;
+ js.src = ((p == "https:") ? p : "http:") + "//plugin.mediavoice.com/plugin.js";
+ fjs.parentNode.insertBefore(js, fjs);
+})(document, "script", "nativeads-plugin");
+
+
+
+function renderTagerting(pos) {
+	var polarTargeting = JSON.parse(JSON.stringify(dfp.targeting));
+	var ppos = [];
+	if (pos !== 'undefined') {
+		ppos = [pos];
+	}
+
+	polarTargeting['pos'] = ppos;
+	return polarTargeting;
+}
+</script>
+<div class="spw"><section class="spw__banner" data-toggle="spw__banner"><div class="container"><div class="banner__header"><p><strong>Support science journalism.</strong></p><div class="banner__btn--toggle"><div title="Metered Paywall Toggle" alt="Metered Paywall Show/Hide" id="spw-toggle-label" data-toggle-label="Hide"><strong></strong></div><button name="expand/collapse" aria-label="expand/collapse Metered Paywall" aria-expanded="false"><span class="icon icon__uparr--black"></span></button></div></div><div class="full-divider"></div><div class="banner__cta flex-container-row--nowrap-center"><picture><source srcset="https://static.scientificamerican.com/sciam/assets/File/paywall-magazine-img.png?w=200&h=158"><img src="https://static.scientificamerican.com/sciam/assets/File/paywall-magazine-img.png?w=200&h=158" alt="Scientific American paper issue and on tablet" /></picture><div class="flex-container-column"><section class="banner__normalcontent"><p class="banner__message">Thanks for reading Scientific American. Knowledge awaits.</p><a href="https://www.scientificamerican.com/store/subscribe/scientific-american-magazine/" class="a-btn banner__cta__link" id="spw-subscription-options" role="link" title="Subscription Options" aria-label="See Subscription Options" data-track="click" data-track-category="meter-paywall"><button class="btn btn--small btn--cart" name="Subscription Options" role="link" aria-label="See Subscription Options">See Subscription Options</button></a><p class="banner__normalcontent__signin">Already a subscriber? <a id="spw-signin-link" href="https://www.scientificamerican.com/my-account/login/?s=1" data-track="click" data-track-category="meter-paywall">Sign in.</a></p></section><section class="banner__regbarriercontent hide"><p class="banner__message">Thanks for reading Scientific American. Create your free account or <a href="https://www.scientificamerican.com/my-account/login/?s=1" id="spw-reg-barrier-signin-link" data-track="click" data-track-category="registration-banner-signin-link" data-track-label="registration-banner-signin-link">Sign in</a> to continue.</p><a href="https://www.scientificamerican.com/my-account/register/?origincode=2021-sciam-Register-Regwall" class="a-btn spw__create-account-option" id="spw__create-account-option" role="link" title="Create Account" aria-label="Create Account" data-track="click" data-track-category="registration-banner-register-link" data-track-label="registration-banner-register-link">Create Account</a><p class="banner__normalcontent__subscribeoptions"><a href="https://www.scientificamerican.com/store/subscribe/scientific-american-magazine/" id="spw-subscription-options-regbarrier" role="link" title="Subscription Options" aria-label="See Subscription Options" data-track="click" data-track-category="registration-banner-subscription-options-link" data-track-label="registration-banner-subscription-options-link">See Subscription Options</a></p></section></div></div></div></section><section class="spw__modal"><div class="modal__header"><div class="icon icon__logo--lg"></div></div><div class="modal__cta"><div class="flex-container-column--center"><p class="modal__message">Continue reading with a Scientific American subscription.</p><a href="https://www.scientificamerican.com/store/subscribe/scientific-american-magazine/" class="dark-text" role="link" title="Subscription Options" aria-label="See Subscription Options" data-track="click" data-track-action="metered-paywall-overlay-see-subscription-options-button" data-track-category="metered-paywall-see-subscription-options-button" data-track-label="metered-paywall-overlay-subscription-options"><button class="btn btn--small btn--cart" name="subscribe_now" aria-label="Subscribe Now">Subscribe Now</button></a><p class="spw__modal__message__cancel">You may cancel at any time.</p><a id="spw__modal__signin__link" class="spw__modal__signin__link" href="https://www.scientificamerican.com/my-account/login/?s=1" data-track="click" data-track-action="metered-paywall-overlay-signin-link" data-track-label="metered-paywall-overlay-signin" data-track-category="meter-paywall-signin-button">Sign in.</a></div></div></section></div></body></html>

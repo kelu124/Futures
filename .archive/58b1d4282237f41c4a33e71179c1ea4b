@@ -1,0 +1,3366 @@
+<!DOCTYPE html>
+<html class="ArticlePage is-basic" lang="en-US" data-cc="FR" data-rc="IDF">
+
+    <head>
+  <script id="cf-analytics">
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({
+      flags: 'image_optimisation,trendmd_clw',
+      version: '2.9.49'
+    })
+  </script>
+
+<script id="iubenda" type="text/javascript">
+  var _iub = _iub || [];
+  _iub.csConfiguration = {
+  "ccpaAcknowledgeOnDisplay": true,
+  "consentOnContinuedBrowsing": false,
+  "cookiePolicyId": 80707767,
+  "cookiePolicyUrl": "https://newatlas.com/privacy/",
+  "countryDetection": true,
+  "enableCcpa": true,
+  "enableLgpd": true,
+  "enableTcf": true,
+  "floatingPreferencesButtonDisplay": "bottom-right",
+  "gdprAppliesGlobally": false,
+  "googleAdditionalConsentMode": true,
+  "invalidateConsentWithoutLog": true,
+  "lang": "en",
+  "lgpdAppliesGlobally": false,
+  "perPurposeConsent": true,
+  "privacyPolicyUrl": "https://newatlas.com/privacy/",
+  "siteId": 1825167,
+  "whitelabel": false,
+  "banner": {
+    "acceptButtonCaptionColor": "white",
+    "acceptButtonColor": "#0073CE",
+    "acceptButtonDisplay": true,
+    "backgroundColor": "#58b1e2",
+    "closeButtonDisplay": false,
+    "customizeButtonCaptionColor": "white",
+    "customizeButtonColor": "#212121",
+    "customizeButtonDisplay": true,
+    "explicitWithdrawal": true,
+    "listPurposes": true,
+    "position": "bottom",
+    "rejectButtonCaptionColor": "white",
+    "rejectButtonColor": "#0073CE",
+    "rejectButtonDisplay": false,
+    "textColor": "white"
+  }
+}
+  _iub.csConfiguration.callback = 
+{
+  onReady: function () {
+    console.log("[NA] Iubenda onReady", _iub.cc , window.performance.now());
+
+    if (_iub.cs.api.ccpaApplies()) {
+      function addCcpaLink() {
+        console.log("[NA] addCcpaLink", window.performance.now());
+
+        var ccpaLink = document.createElement("a");
+        ccpaLink.href = "#open-ccpa-settings";
+        ccpaLink.textContent = "Do Not Sell My Information";
+        ccpaLink.classList.add("NavigationLink");
+        ccpaLink.onclick = function (event) {
+          console.log("Open CCPA settings");
+          window._iub.cs.api.askCcpaOptOut();
+          event.preventDefault();
+        };
+
+        var listItem = document.createElement("li");
+        listItem.classList.add("FooterNavigationItem-items-item");
+        listItem.append(ccpaLink);
+
+        var privacyLink = document.querySelector('.FooterNavigationItem-items a[href*="/privacy/"]');
+        try {
+          privacyLink.parentElement.insertAdjacentElement("afterend", listItem);
+        } catch (error) {
+          console.error(error);
+        }
+      }
+
+      addCcpaLink();
+    }
+  },
+  onStartupFailed: function (err) {
+    console.error(
+      "[NA] Iubenda onStartupFailed",
+      err,
+      window.performance.now()
+    );
+    if (window.Sentry) {
+      Sentry.captureException(err, {
+        tags: {
+          cc: "FR",
+          region: "IDF",
+        }
+      });
+    }
+    else console.error("[NA] no Sentry", window.performance.now());
+  },
+}
+
+</script>
+<script src="//cdn.iubenda.com/cs/tcf/stub-v2.js?v=20201216"></script>
+<script src="//cdn.iubenda.com/cs/tcf/safe-tcf-v2.js?v=20201216"></script>
+<script src="//cdn.iubenda.com/cs/ccpa/stub.js?v=20201216"></script>
+<script src="//cdn.iubenda.com/cs/iubenda_cs.js?v=20201216" charset="UTF-8" async ></script>
+
+    
+    
+  <script id="cf-newatlas">
+    window.newatlas = window.newatlas || {};
+    newatlas.augmentLogs = function (args, level = 1) {
+      let tagColor = level === 1 ? '#3761d6' : 'grey';
+      let logStyle = 'display: inline-block; color: #000; background: ' + tagColor + '; padding: 1px 4px; border-radius: 3px;';
+      return (
+        (args = [].slice.call(args)).unshift(logStyle),
+        args.unshift('%cNA'),
+        window && window.performance && args.push(window.performance.now()),
+        args
+      );
+    };
+    newatlas.log = function () {
+      // some Security settings will throw 'SecurityError: The operation is insecure.' on localStorage access
+      try {
+        localStorage.getItem('newatlas.debug') &&
+          console.log.apply(console, newatlas.augmentLogs(arguments));
+      } catch (err) {
+        /* user doesn't need logging */
+      }
+    };
+    newatlas.debug = function () {
+      try {
+        localStorage.getItem('newatlas.debug') &&
+          localStorage.getItem('newatlas.debug') === '2' &&
+          console.log.apply(console, newatlas.augmentLogs(arguments, 2));
+      } catch (err) {
+        /* user doesn't need logging */
+      }
+    };
+    function noop() {}
+    newatlas.now =
+      window.performance && typeof window.performance.now == 'function'
+        ? function () {
+            window.performance.now();
+          }
+        : noop;
+    newatlas.mark =
+      window.performance && typeof window.performance.mark == 'function'
+        ? function (msg) {
+            window.performance.mark(msg);
+          }
+        : noop;
+    newatlas.measure =
+      window.performance && typeof window.performance.mark == 'function'
+        ? function (msg, start, end) {
+            window.performance.measure(msg, start, end);
+          }
+        : noop;
+    newatlas.getMarks = function (prefixes) {
+      if (!Array.isArray(prefixes)) prefixes = [prefixes || '[NA]'];
+      return Array.from(performance.getEntriesByType('navigation')).concat(Array.from(performance.getEntries())
+        .filter(e => prefixes.some(s => e.name.startsWith(s))));
+    }
+  </script>
+
+
+    <meta charset="UTF-8">
+
+    <style data-cssvarsponyfill="true">
+                :root {
+        --primaryColor1: #3761d6;
+        --primaryColor2: #000000;
+
+        --primaryTextColor: #333333;
+        --secondaryTextColor: #666666;
+        --breakingColor: #ff6f00;
+
+        --secondaryColor1: #858585;
+        --secondaryColor2: #cccccc;
+        --secondaryColor3: #e6e6e6;
+        --secondaryColor4: #f5f5f5;
+        --secondaryColor5: #ffffff;
+
+        --siteBgColor: #ffffff;
+        --siteInverseBgColor: #000000;
+
+        --headerBgColor: #ffffff;
+        --headerBgColorInverse: #000000;
+        --headerBorderColor: #e6e6e6;
+        --headerBorderColorInverse: #858585;
+        --headerTextColor: #333333;
+        --headerTextColorInverse: #ffffff;
+        --headerMenuBgColor: #ffffff;
+        --headerMenuTextColor: #333333;
+
+        --secondaryHeaderBgColor: #ffffff;
+        --secondaryHeaderTextColor: #333333;
+
+        --advertisementBgColor: #f8f8f8;
+
+        --footerBgColor: #ffffff;
+        --footerTextColor: #333333;
+
+        --primaryTextColorInverse: #ffffff;
+        --secondaryTextColorInverse: #cccccc;
+        --tertiaryTextColor: #999999;
+        --tertiaryTextColorInverse: #cccccc;
+
+        --listBorderColor: #000000;
+        --gridBorderColor: #d8d8d8;
+
+        --buttonBgColor: #ffffff;
+        --buttonTextColor: #333333;
+        --inverseButtonBgColor: #030202;
+        --disabledButtonBgColor: #d8d8d8;
+        --tagButtonBorderColor: #e2dfdd;
+        --tagButtonTextColor: #3761d6;
+
+        --breakingTextColor: #ffffff;
+
+        --sectionTextColor: #fe6d01;
+
+        --primaryHeadlineFont: Open Sans;
+        --secondaryHeadlineFont: Open Sans;
+        --bodyFont: Lora;
+        }
+
+    </style>
+
+    <link data-cssvarsponyfill="true" class="Webpack-css" rel="stylesheet" href="https://assets.newatlas.com/resource/00000170-5da9-dc4c-adf0-ddebcfc10000/styleguide/All.min.67ae4196e41ff1f3c964e5e5a8a719f9.gz.css">
+    <style>:root {
+  --green-200: #c6f6d5;
+  --green-400: #68d391;
+  --red-100: #fff5f5;
+  --red-300: #feb2b2;
+  --blue-200: #bee3f8;
+  --blue-300: #90cdf4;
+  --gyst-blue: #303891;
+
+  --promo-line-height: 22px;
+  --quote-1: 1.9rem;
+}
+@media screen and (min-width: 1024px) {
+  :root {
+    --quote-1: 2.2rem;
+  }
+}
+.Enhancement .Quote {
+  margin: 2rem 0;
+}
+.quote-1,
+.Quote blockquote {
+  font-family: var(--bodyFont), Arial, Helvetica, sans-serif;
+  line-height: 1.4;
+}
+@media screen and (min-width: 1024px) {
+  .Enhancement .Quote {
+    margin: 4rem;
+  }
+}
+.RichTextBody h2 {
+  font-family: var(--primaryHeadlineFont), Arial, Helvetica, sans-serif;
+}
+
+.alert {
+  padding: 1.5rem 2rem;
+  border: 1px solid transparent;
+  line-height: 1.4;
+}
+.alert-success {
+  background-color: var(--green-200);
+  border-color: var(--green-400);
+}
+.alert-error {
+  background-color: var(--red-100);
+  border-color: var(--red-300);
+}
+.alert-info {
+  background-color: var(--blue-200);
+  border-color: var(--blue-300);
+}
+
+.UserProfilePage .WelcomePage_verifiedMessage,
+.UserProfilePage .WelcomePage_fallbackMessage,
+.UserProfilePage .WelcomePage_basicMessage,
+.UserProfilePage .WelcomePage_plusMessage,
+.UserProfilePage .WelcomePage_paymentForm,
+.UserProfilePage .WelcomePage_paymentSuccess {
+  border-top: none;
+  padding-top: 0;
+}
+
+/* BS inserts links without href as span.Link, see /data-protection/ */
+span.Link {
+  cursor: pointer;
+  text-decoration: none;
+  border-bottom: 1px dotted rgb(0, 0, 0);
+  color: rgb(51, 51, 51);
+}
+
+/* Fix remnant padding on unsold, collapsed adslots */
+.OcelotAdModule.OcelotAdModule {
+  padding: 0;
+}
+.OcelotAdModule.OcelotAdModule > div {
+  padding: 20px 0;
+}
+.Page-aside .OcelotAdModule.OcelotAdModule > div {
+  padding: 0;
+}
+/* #desktop_article_leaderboard_header is rendered on mobile too :/ */
+#desktop_index_leaderboard,
+#desktop_article_leaderboard_header {
+  display: none;
+}
+@media screen and (min-width: 1024px) {
+  #desktop_index_leaderboard,
+  #desktop_article_leaderboard_header {
+    display: inherit;
+    height: 290px;
+  }
+}
+
+/* fix padding around Carousel ads on desktop */
+.flickity-enabled.is-fullscreen + .FullscreenCarousel-aside {
+  padding: 0;
+}
+
+/* Ensure that on device rotation desktop>mobile, the 300x600 doesn't spill out before the ad is refreshed */
+.FullscreenCarousel-aside {
+  overflow: hidden;
+}
+
+@media screen and (max-width: 1024px) {
+  /* Force a 50px blank space below the captions, so they're not obscured by `mobile_footer` ad slot */
+  /* FIXME: this should target Basic/anon users only! (but we can't ID them at present) */
+  .FullscreenCarousel-slides.flickity-enabled.is-fullscreen {
+    padding-bottom: 50px;
+  }
+
+  /* hide the desktop gallery ad if the user has rotated to portrait */
+  #slideshow {
+    display: none;
+  }
+}
+@media screen and (min-width: 1025px) {
+  /* hide mobile gallery ads if the user has rotated to landscape */
+  #mobile_footer,
+  [id^='Mobile_Gallery_'] {
+    display: none;
+  }
+}
+
+.ListD-header-title, /* Index: Latest News */
+.ListE-header-title, /* Home: Latest News, Top Stories, Review, Features */
+.ListF-header-title, /* Home: Popular Photo Galleries */
+.ListG-header-title, /* Home: H1 "NEW TECHNOLOGY & SCIENCE NEWS" */
+.ListJ-header-title {
+  /* Article: Latest News */
+  color: #aaa;
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 1.5px;
+}
+@media screen and (min-width: 375px) {
+  .ListD-header-title,
+  .ListE-header-title,
+  .ListF-header-title,
+  .ListG-header-title,
+  .ListJ-header-title {
+    font-size: 18px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  /* allow the lead description to fill the available space */
+  .Page-pageLead .PromoC-description {
+    max-height: calc(var(--promo-line-height) * 8);
+  }
+}
+
+/* create space under lead underline */
+.HomePage-content .ListG-items {
+  margin-bottom: 40px;
+}
+
+.HomePage-content .Page-pageLead .PromoB-description,
+ps-list-loadmore .PromoB-description {
+  font-size: 16px;
+  line-height: 1.375;
+}
+
+/* ensure 3-line titles don't have descenders truncated */
+.PromoB-title {
+  max-height: 73px;
+}
+/* override specificity on tag pages */
+.ListD .PromoB-title,
+.ListG .PromoB-title {
+  max-height: 73px;
+}
+@media only screen and (min-width: 1024px) {
+  .PromoB-title {
+    max-height: 87px;
+  }
+  /* override specificity on tag pages */
+  .ListD .PromoB-title,
+  .ListG .PromoB-title {
+    max-height: 87px;
+  }
+}
+
+/* Adjust max-height on descriptions: JS truncate() will add an ellipsis if required */
+.HomePage-content .Page-pageLead .PromoC-description,
+.HomePage-content .Page-pageLead .PromoB-description,
+ps-list-loadmore .PromoB-description {
+  max-height: calc(var(--promo-line-height) * 6);
+}
+/* .SectionPage-content three cols */
+.ListD .PromoB-description {
+  /* top stories */
+  max-height: calc(var(--promo-line-height) * 6);
+}
+
+@media screen and (min-width: 768px) {
+  .HomePage-content .Page-pageLead .PromoC-description {
+    max-height: calc(var(--promo-line-height) * 5);
+  }
+  ps-list-loadmore .PromoB-description {
+    max-height: calc(var(--promo-line-height) * 6);
+  }
+  .HomePage-content .Page-pageLead .PromoB-description {
+    max-height: calc(var(--promo-line-height) * 4);
+    display: none;
+  }
+  /* .SectionPage-content three cols */
+  .ListD .PromoB-description {
+    /* top stories */
+    max-height: calc(var(--promo-line-height) * 5);
+  }
+}
+
+/* make the first headline match subsequent articles on mobile... */
+.Page-pageLead .PromoC-title {
+  font-size: var(--title-4);
+  font-weight: 600;
+  line-height: 1.4;
+}
+@media screen and (min-width: 768px) {
+  /* ...and reinstate more prominent styles in desktop layout */
+  .Page-pageLead .PromoC-title {
+    font-size: var(--title-3);
+  }
+
+  /* Bring down Top Stories carousel font-size on desktop */
+  .ListF .PromoB-title {
+    font-size: var(--title-4);
+  }
+}
+
+/* constrain text width on plus articles */
+.is-plus .RichTextArticleBody-body h2,
+.is-plus .RichTextArticleBody-body h3,
+.is-plus .RichTextArticleBody-body ol,
+.is-plus .RichTextArticleBody-body ul {
+  max-width: 748px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* prevent ads bunching up after last para */
+.ArticlePage-articleBody .RichTextBody p:last-of-type {
+  margin-bottom: 30px;
+}
+
+/* Button */
+.ButtonInverse {
+  color: white;
+}
+.ButtonInverse.ButtonInverse:hover {
+  color: black;
+  text-decoration: none;
+}
+.ButtonDisabled,
+.ButtonDisabled {
+  cursor: not-allowed;
+}
+.ButtonDisabled.ButtonDisabled:hover {
+  color: white;
+}
+
+/* .page-subscribe */
+.page-subscribe .UserProfilePage-body .RichTextModule {
+  border: none;
+}
+.page-subscribe.UserProfilePage .RichTextModule .RichTextBody {
+  font-size: var(--var-description-1);
+}
+.subscribePage__wrapper {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+}
+.subscribePage--join-plus-cta,
+.subscribePage--only-us-au,
+.subscribePage--or-basic {
+  margin-bottom: 2rem;
+}
+.subscribePage--only-us-au {
+  display: none;
+  font-style: italic;
+  font-weight: bolder;
+}
+
+/* newsletter-subscription & page-profile */
+.UserProfilePage.page-profile .Page-footer-content,
+.UserProfilePage.page-other .Page-footer-content {
+  /* hide duplicate newsletter subscribe form */
+  display: none;
+}
+
+/* .page-welcome */
+.page-welcome.UserProfilePage .RichTextModule .RichTextBody {
+  font-size: var(--var-description-1);
+}
+.welcomePage__verifiedMessage {
+  margin-bottom: 2rem;
+}
+.welcomePage__fallbackMessage {
+}
+.welcomePage__basicMessage,
+.welcomePage__plusMessage,
+.welcomeAndUpgradePage__paymentSuccess {
+  display: none;
+}
+.welcomePage__basicMessageCta .ButtonInverse,
+.welcomeAndUpgradePage__paymentSuccess .ButtonInverse {
+  margin-top: 2rem;
+}
+.welcomePage__basicMessageCta,
+.welcomeAndUpgradePage__paymentSuccessCta {
+  text-align: center;
+}
+
+/* Reduce the gap between Column descendents on Section pages (esp carousels) */
+.SectionPage .OneColumnContainer-column > * {
+  margin-bottom: 2rem;
+}
+
+/* Circlular mask for bio images on /about */
+.Page .ListD .PromoB-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.Page .ListD .PromoB-media {
+  width: 80%;
+  height: 100%;
+  overflow: hidden;
+  aspect-ratio: 1/1;
+  border-radius: 100%;
+}
+.Page .ListD .PromoB-media img {
+  width: 150%;
+  max-width: initial;
+  margin-left: -25%;
+}
+.Page .ListD .PromoB-title {
+  margin-top: 1rem;
+}
+.Page .ListD .PromoB-description {
+  margin-top: 0;
+}
+</style>
+<style>.Enhancement .InstagramUrl iframe {
+    min-height:600px;
+}</style>
+<style>.recirculation {
+  padding: 1rem 0;
+  border-top: 1px solid lightgrey;
+  border-bottom: 1px solid lightgrey;
+}
+.recirculation [data-content-type='article'] {
+  /* max-height: 128px; */
+  max-height: initial;
+  max-width: 400px;
+  margin: 15px 0;
+  overflow: auto;
+}
+.recirculation .recirculation__header {
+  font-size: 14px;
+}
+.recirculation .PromoA-media {
+  max-width: 30%;
+  margin-right: 15px;
+}
+.recirculation .PromoA-media img {
+  max-width: 100%;
+}
+.recirculation .PromoA-category {
+  display: none;
+}
+.recirculation .PromoA-title {
+  max-height: initial;
+  max-width: 300px;
+  font-size: 16px;
+}
+@media screen and (min-width: 420px) {
+  .recirculation .PromoA-category {
+    display: initial;
+  }
+  .recirculation .PromoA-title {
+    margin-top: 5px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .recirculation {
+    float: left;
+    max-width: 50%;
+    margin-right: 20px;
+  }
+}</style>
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+
+    <title>Mushroom-derived electronics designed to biodegrade when discarded</title>
+    <meta name="description" content="Among other things, mushrooms have been put forth as eco-friendly alternatives to leather and expanded foam packaging. According to a new study, they might also find use in biodegradable electronic devices.">
+    
+    <link rel="canonical" href="https://newatlas.com/environment/mushroom-myceliotronics-electronics/">
+    <meta name="brightspot.contentId" content="00000184-781c-df46-a3f4-fd9ca6000001">
+
+    
+    
+
+    <meta property="og:title" content="Mushroom-derived electronics designed to biodegrade when discarded">
+
+    <meta property="og:url" content="https://newatlas.com/environment/mushroom-myceliotronics-electronics/">
+
+    <meta property="og:image" content="https://assets.newatlas.com/dims4/default/41f1d6d/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff5%2Ff1%2F40eed9804fc3a4cd331eb27a1d12%2Fdepositphotos-37151529-l.jpg&na.image_optimisation=0">
+
+    
+    <meta property="og:image:url" content="https://assets.newatlas.com/dims4/default/41f1d6d/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff5%2Ff1%2F40eed9804fc3a4cd331eb27a1d12%2Fdepositphotos-37151529-l.jpg">
+    
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:type" content="image">
+    
+    <meta property="og:image:alt" content="The MycelioTronic substrate material is made from the skin of the reishi mushroom">
+    
+
+
+    <meta property="og:description" content="Among other things, mushrooms have been put forth as eco-friendly alternatives to leather and expanded foam packaging. According to a new study, they might also find use in biodegradable electronic devices.">
+
+    <meta property="og:site_name" content="New Atlas">
+
+
+
+    <meta property="og:type" content="article">
+
+    <meta property="article:author" content="https://newatlas.com/author/ben-coxworth/">
+
+    <meta property="article:published_time" content="2022-11-14T22:01:21.62">
+
+    <meta property="article:modified_time" content="2022-11-15T05:55:53.553">
+
+    <meta property="article:section" content="Environment">
+
+    <meta property="article:tag" content="Johannes Kepler University Linz">
+
+    <meta property="article:tag" content="Mushrooms">
+
+    <meta property="article:tag" content="Biodegradable">
+
+    <meta property="article:tag" content="Flexible Electronics">
+
+    
+    <meta name="twitter:card" content="summary_large_image"/>
+    
+    
+    
+    
+    <meta name="twitter:description" content="Among other things, mushrooms have been put forth as eco-friendly alternatives to leather and expanded foam packaging. According to a new study, they might also find use in biodegradable electronic devices."/>
+    
+    
+    <meta name="twitter:image" content="https://assets.newatlas.com/dims4/default/d5af668/2147483647/strip/true/crop/2000x1125+0+104/resize/1200x675!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff5%2Ff1%2F40eed9804fc3a4cd331eb27a1d12%2Fdepositphotos-37151529-l.jpg"/>
+
+
+    
+    <meta name="twitter:image:alt" content="The MycelioTronic substrate material is made from the skin of the reishi mushroom"/>
+    
+    
+    <meta name="twitter:site" content="@nwtls"/>
+    
+    
+    
+    <meta name="twitter:title" content="Mushroom-derived electronics designed to biodegrade when discarded"/>
+    
+
+    <meta property="fb:app_id" content="38456013908">
+
+
+    <link rel="apple-touch-icon"sizes="180x180"href="/apple-touch-icon.png"><link rel="icon"type="image/png"href="/favicon-32x32.png"><link rel="icon"type="image/png"href="/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+
+    
+    
+    <link rel="amphtml" href="https://newatlas.com/environment/mushroom-myceliotronics-electronics/?amp=true">
+
+    
+
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://newatlas.com/#organization","logo":{"@type":"ImageObject","height":60,"url":"https://assets.newatlas.com/7a/d1/820b8c254fb397b9fb1eaf73a9cc/new-atlas-amp-logo-600x60.png","width":600},"name":"New Atlas","sameAs":["https://www.facebook.com/nwtls","https://www.instagram.com/new.atlas/","https://www.linkedin.com/company/new-atlas/","https://www.pinterest.com/newatlasdotcom","https://twitter.com/nwtls","https://flipboard.com/@NewAtlas"],"url":"https://newatlas.com"},{"@type":"WebSite","@id":"https://newatlas.com/#website","potentialAction":{"@type":"SearchAction","query-input":"required name=search_term_string","target":"https://newatlas.com/search/?q={search_term_string}"},"publisher":{"@id":"https://newatlas.com/#organization"},"url":"https://newatlas.com"},{"@type":"WebPage","dateModified":"2022-11-15T05:55:53.553Z","datePublished":"2022-11-14T22:01:21.620Z","description":"Among other things, mushrooms have been put forth as eco-friendly alternatives to leather and expanded foam packaging. According to a new study, they might also find use in biodegradable electronic devices.","@id":"https://newatlas.com/environment/mushroom-myceliotronics-electronics/#webpage","isPartOf":{"@id":"https://newatlas.com/#website"},"headline":"Mushroom-derived electronics designed to biodegrade when discarded","inLanguage":"en-US","primaryImageOfPage":{"@id":"https://newatlas.com/environment/mushroom-myceliotronics-electronics/#primaryimage"},"publisher":{"@id":"https://newatlas.com/#organization"},"name":"Mushroom-derived electronics designed to biodegrade when discarded","url":"https://newatlas.com/environment/mushroom-myceliotronics-electronics/"},{"@type":"NewsArticle","@id":"https://newatlas.com/environment/mushroom-myceliotronics-electronics/#NewsArticle","articleSection":"https://newatlas.com/environment/","author":{"@id":"https://newatlas.com/author/ben-coxworth/#author"},"dateModified":"2022-11-15T05:55:53.553Z","datePublished":"2022-11-14T22:01:21.620Z","description":"Among other things, mushrooms have been put forth as eco-friendly alternatives to leather and expanded foam packaging. According to a new study, they might also find use in biodegradable electronic devices.","headline":"Mushroom-derived electronics designed to biodegrade when discarded","image":{"@id":"https://newatlas.com/environment/mushroom-myceliotronics-electronics/#primaryimage"},"isPartOf":{"@id":"https://newatlas.com/environment/mushroom-myceliotronics-electronics/#webpage"},"mainEntityOfPage":{"@id":"https://newatlas.com/environment/mushroom-myceliotronics-electronics/#webpage"},"publisher":{"@id":"https://newatlas.com/#organization"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".ArticlePage-headline",".ArticlePage-articleBody"]},"url":"https://newatlas.com/environment/mushroom-myceliotronics-electronics/"},{"@type":"ImageObject","caption":"The MycelioTronic substrate material is made from the skin of the reishi mushroom","height":800,"url":"https://assets.newatlas.com/dims4/default/84cfe58/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff5%2Ff1%2F40eed9804fc3a4cd331eb27a1d12%2Fdepositphotos-37151529-l.jpg","width":1200,"@id":"https://newatlas.com/environment/mushroom-myceliotronics-electronics/#primaryimage"},{"@type":"Person","description":"Managing Editor - North America","email":"ben.coxworth@gizmag.com","@id":"https://newatlas.com/author/ben-coxworth/#author","image":{"@type":"ImageObject","height":243,"url":"https://assets.newatlas.com/1a/ff/6c02760f4fe7b724c9be9314ee92/staff-bio-icon-ben-coxworth.jpg","width":364},"jobTitle":"Managing Editor - North America","name":"Ben Coxworth","url":"https://newatlas.com/author/ben-coxworth/"}]}</script>
+
+    <!--This is needed for custom elements to function in browsers that
+support them natively but that are using es6 code transpiled to es5.
+This will cause a non-fatal error to show up in the IE11 console.
+It can be safely ignored. https://github.com/webcomponents/webcomponentsjs/issues/749 -->
+<script class="bsp-web-components">
+  (function () {
+    'use strict';
+
+    (()=>{'use strict';if(!window.customElements)return;const a=window.HTMLElement,b=window.customElements.define,c=window.customElements.get,d=new Map,e=new Map;let f=!1,g=!1;window.HTMLElement=function(){if(!f){const a=d.get(this.constructor),b=c.call(window.customElements,a);g=!0;const e=new b;return e}f=!1;},window.HTMLElement.prototype=a.prototype;Object.defineProperty(window,'customElements',{value:window.customElements,configurable:!0,writable:!0}),Object.defineProperty(window.customElements,'define',{value:(c,h)=>{const i=h.prototype,j=class extends a{constructor(){super(),Object.setPrototypeOf(this,i),g||(f=!0,h.call(this)),g=!1;}},k=j.prototype;j.observedAttributes=h.observedAttributes,k.connectedCallback=i.connectedCallback,k.disconnectedCallback=i.disconnectedCallback,k.attributeChangedCallback=i.attributeChangedCallback,k.adoptedCallback=i.adoptedCallback,d.set(h,c),e.set(c,h),b.call(window.customElements,c,j);},configurable:!0,writable:!0}),Object.defineProperty(window.customElements,'get',{value:(a)=>e.get(a),configurable:!0,writable:!0});})();
+
+    /**
+    @license
+    Copyright (c) 2017 The Polymer Project Authors. All rights reserved.
+    This code may only be used under the BSD style license found at http://polymer.github.io/LICENSE.txt
+    The complete set of authors may be found at http://polymer.github.io/AUTHORS.txt
+    The complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt
+    Code distributed by Google as part of the polymer project is also
+    subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
+    */
+  }());
+
+  /**
+    For the fastest load times https://developers.google.com/speed/docs/insights/BlockingJS
+    and to prevent any FOUC, as well as prevent any race conditions for browsers that also
+    rely on the CSS variables polyfill, this is inlined.
+  **/
+  if (!window.customElements) {
+    (function(){
+      'use strict';var h=new function(){};var aa=new Set("annotation-xml color-profile font-face font-face-src font-face-uri font-face-format font-face-name missing-glyph".split(" "));function m(b){var a=aa.has(b);b=/^[a-z][.0-9_a-z]*-[\-.0-9_a-z]*$/.test(b);return!a&&b}function n(b){var a=b.isConnected;if(void 0!==a)return a;for(;b&&!(b.__CE_isImportDocument||b instanceof Document);)b=b.parentNode||(window.ShadowRoot&&b instanceof ShadowRoot?b.host:void 0);return!(!b||!(b.__CE_isImportDocument||b instanceof Document))}
+      function p(b,a){for(;a&&a!==b&&!a.nextSibling;)a=a.parentNode;return a&&a!==b?a.nextSibling:null}
+      function t(b,a,c){c=c?c:new Set;for(var d=b;d;){if(d.nodeType===Node.ELEMENT_NODE){var e=d;a(e);var f=e.localName;if("link"===f&&"import"===e.getAttribute("rel")){d=e.import;if(d instanceof Node&&!c.has(d))for(c.add(d),d=d.firstChild;d;d=d.nextSibling)t(d,a,c);d=p(b,e);continue}else if("template"===f){d=p(b,e);continue}if(e=e.__CE_shadowRoot)for(e=e.firstChild;e;e=e.nextSibling)t(e,a,c)}d=d.firstChild?d.firstChild:p(b,d)}}function u(b,a,c){b[a]=c};function v(){this.a=new Map;this.s=new Map;this.f=[];this.b=!1}function ba(b,a,c){b.a.set(a,c);b.s.set(c.constructor,c)}function w(b,a){b.b=!0;b.f.push(a)}function x(b,a){b.b&&t(a,function(a){return y(b,a)})}function y(b,a){if(b.b&&!a.__CE_patched){a.__CE_patched=!0;for(var c=0;c<b.f.length;c++)b.f[c](a)}}function z(b,a){var c=[];t(a,function(b){return c.push(b)});for(a=0;a<c.length;a++){var d=c[a];1===d.__CE_state?b.connectedCallback(d):A(b,d)}}
+      function B(b,a){var c=[];t(a,function(b){return c.push(b)});for(a=0;a<c.length;a++){var d=c[a];1===d.__CE_state&&b.disconnectedCallback(d)}}
+      function C(b,a,c){c=c?c:{};var d=c.w||new Set,e=c.i||function(a){return A(b,a)},f=[];t(a,function(a){if("link"===a.localName&&"import"===a.getAttribute("rel")){var c=a.import;c instanceof Node&&(c.__CE_isImportDocument=!0,c.__CE_hasRegistry=!0);c&&"complete"===c.readyState?c.__CE_documentLoadHandled=!0:a.addEventListener("load",function(){var c=a.import;if(!c.__CE_documentLoadHandled){c.__CE_documentLoadHandled=!0;var f=new Set(d);f.delete(c);C(b,c,{w:f,i:e})}})}else f.push(a)},d);if(b.b)for(a=0;a<
+      f.length;a++)y(b,f[a]);for(a=0;a<f.length;a++)e(f[a])}
+      function A(b,a){if(void 0===a.__CE_state){var c=a.ownerDocument;if(c.defaultView||c.__CE_isImportDocument&&c.__CE_hasRegistry)if(c=b.a.get(a.localName)){c.constructionStack.push(a);var d=c.constructor;try{try{if(new d!==a)throw Error("The custom element constructor did not produce the element being upgraded.");}finally{c.constructionStack.pop()}}catch(r){throw a.__CE_state=2,r;}a.__CE_state=1;a.__CE_definition=c;if(c.attributeChangedCallback)for(c=c.observedAttributes,d=0;d<c.length;d++){var e=c[d],
+      f=a.getAttribute(e);null!==f&&b.attributeChangedCallback(a,e,null,f,null)}n(a)&&b.connectedCallback(a)}}}v.prototype.connectedCallback=function(b){var a=b.__CE_definition;a.connectedCallback&&a.connectedCallback.call(b)};v.prototype.disconnectedCallback=function(b){var a=b.__CE_definition;a.disconnectedCallback&&a.disconnectedCallback.call(b)};
+      v.prototype.attributeChangedCallback=function(b,a,c,d,e){var f=b.__CE_definition;f.attributeChangedCallback&&-1<f.observedAttributes.indexOf(a)&&f.attributeChangedCallback.call(b,a,c,d,e)};function D(b,a){this.c=b;this.a=a;this.b=void 0;C(this.c,this.a);"loading"===this.a.readyState&&(this.b=new MutationObserver(this.f.bind(this)),this.b.observe(this.a,{childList:!0,subtree:!0}))}function E(b){b.b&&b.b.disconnect()}D.prototype.f=function(b){var a=this.a.readyState;"interactive"!==a&&"complete"!==a||E(this);for(a=0;a<b.length;a++)for(var c=b[a].addedNodes,d=0;d<c.length;d++)C(this.c,c[d])};function ca(){var b=this;this.b=this.a=void 0;this.f=new Promise(function(a){b.b=a;b.a&&a(b.a)})}function F(b){if(b.a)throw Error("Already resolved.");b.a=void 0;b.b&&b.b(void 0)};function G(b){this.j=!1;this.c=b;this.o=new Map;this.l=function(b){return b()};this.g=!1;this.m=[];this.u=new D(b,document)}
+      G.prototype.define=function(b,a){var c=this;if(!(a instanceof Function))throw new TypeError("Custom element constructors must be functions.");if(!m(b))throw new SyntaxError("The element name '"+b+"' is not valid.");if(this.c.a.get(b))throw Error("A custom element with name '"+b+"' has already been defined.");if(this.j)throw Error("A custom element is already being defined.");this.j=!0;var d,e,f,r,k;try{var g=function(b){var a=l[b];if(void 0!==a&&!(a instanceof Function))throw Error("The '"+b+"' callback must be a function.");
+      return a},l=a.prototype;if(!(l instanceof Object))throw new TypeError("The custom element constructor's prototype is not an object.");d=g("connectedCallback");e=g("disconnectedCallback");f=g("adoptedCallback");r=g("attributeChangedCallback");k=a.observedAttributes||[]}catch(q){return}finally{this.j=!1}a={localName:b,constructor:a,connectedCallback:d,disconnectedCallback:e,adoptedCallback:f,attributeChangedCallback:r,observedAttributes:k,constructionStack:[]};ba(this.c,b,a);this.m.push(a);this.g||
+      (this.g=!0,this.l(function(){return da(c)}))};G.prototype.i=function(b){C(this.c,b)};function da(b){if(!1!==b.g){b.g=!1;for(var a=b.m,c=[],d=new Map,e=0;e<a.length;e++)d.set(a[e].localName,[]);C(b.c,document,{i:function(a){if(void 0===a.__CE_state){var e=a.localName,f=d.get(e);f?f.push(a):b.c.a.get(e)&&c.push(a)}}});for(e=0;e<c.length;e++)A(b.c,c[e]);for(;0<a.length;){for(var f=a.shift(),e=f.localName,f=d.get(f.localName),r=0;r<f.length;r++)A(b.c,f[r]);(e=b.o.get(e))&&F(e)}}}
+      G.prototype.get=function(b){if(b=this.c.a.get(b))return b.constructor};G.prototype.whenDefined=function(b){if(!m(b))return Promise.reject(new SyntaxError("'"+b+"' is not a valid custom element name."));var a=this.o.get(b);if(a)return a.f;a=new ca;this.o.set(b,a);this.c.a.get(b)&&!this.m.some(function(a){return a.localName===b})&&F(a);return a.f};G.prototype.v=function(b){E(this.u);var a=this.l;this.l=function(c){return b(function(){return a(c)})}};window.CustomElementRegistry=G;
+      G.prototype.define=G.prototype.define;G.prototype.upgrade=G.prototype.i;G.prototype.get=G.prototype.get;G.prototype.whenDefined=G.prototype.whenDefined;G.prototype.polyfillWrapFlushCallback=G.prototype.v;var H=window.Document.prototype.createElement,ea=window.Document.prototype.createElementNS,fa=window.Document.prototype.importNode,ga=window.Document.prototype.prepend,ha=window.Document.prototype.append,ia=window.DocumentFragment.prototype.prepend,ja=window.DocumentFragment.prototype.append,I=window.Node.prototype.cloneNode,J=window.Node.prototype.appendChild,K=window.Node.prototype.insertBefore,L=window.Node.prototype.removeChild,M=window.Node.prototype.replaceChild,N=Object.getOwnPropertyDescriptor(window.Node.prototype,
+      "textContent"),O=window.Element.prototype.attachShadow,P=Object.getOwnPropertyDescriptor(window.Element.prototype,"innerHTML"),Q=window.Element.prototype.getAttribute,R=window.Element.prototype.setAttribute,S=window.Element.prototype.removeAttribute,T=window.Element.prototype.getAttributeNS,U=window.Element.prototype.setAttributeNS,ka=window.Element.prototype.removeAttributeNS,la=window.Element.prototype.insertAdjacentElement,ma=window.Element.prototype.insertAdjacentHTML,na=window.Element.prototype.prepend,
+      oa=window.Element.prototype.append,V=window.Element.prototype.before,pa=window.Element.prototype.after,qa=window.Element.prototype.replaceWith,ra=window.Element.prototype.remove,sa=window.HTMLElement,W=Object.getOwnPropertyDescriptor(window.HTMLElement.prototype,"innerHTML"),ta=window.HTMLElement.prototype.insertAdjacentElement,ua=window.HTMLElement.prototype.insertAdjacentHTML;function va(){var b=X;window.HTMLElement=function(){function a(){var a=this.constructor,d=b.s.get(a);if(!d)throw Error("The custom element being constructed was not registered with `customElements`.");var e=d.constructionStack;if(!e.length)return e=H.call(document,d.localName),Object.setPrototypeOf(e,a.prototype),e.__CE_state=1,e.__CE_definition=d,y(b,e),e;var d=e.length-1,f=e[d];if(f===h)throw Error("The HTMLElement constructor was either called reentrantly for this constructor or called multiple times.");
+      e[d]=h;Object.setPrototypeOf(f,a.prototype);y(b,f);return f}a.prototype=sa.prototype;return a}()};function Y(b,a,c){function d(a){return function(c){for(var e=[],d=0;d<arguments.length;++d)e[d-0]=arguments[d];for(var d=[],f=[],l=0;l<e.length;l++){var q=e[l];q instanceof Element&&n(q)&&f.push(q);if(q instanceof DocumentFragment)for(q=q.firstChild;q;q=q.nextSibling)d.push(q);else d.push(q)}a.apply(this,e);for(e=0;e<f.length;e++)B(b,f[e]);if(n(this))for(e=0;e<d.length;e++)f=d[e],f instanceof Element&&z(b,f)}}c.h&&(a.prepend=d(c.h));c.append&&(a.append=d(c.append))};function wa(){var b=X;u(Document.prototype,"createElement",function(a){if(this.__CE_hasRegistry){var c=b.a.get(a);if(c)return new c.constructor}a=H.call(this,a);y(b,a);return a});u(Document.prototype,"importNode",function(a,c){a=fa.call(this,a,c);this.__CE_hasRegistry?C(b,a):x(b,a);return a});u(Document.prototype,"createElementNS",function(a,c){if(this.__CE_hasRegistry&&(null===a||"http://www.w3.org/1999/xhtml"===a)){var d=b.a.get(c);if(d)return new d.constructor}a=ea.call(this,a,c);y(b,a);return a});
+      Y(b,Document.prototype,{h:ga,append:ha})};function xa(){var b=X;function a(a,d){Object.defineProperty(a,"textContent",{enumerable:d.enumerable,configurable:!0,get:d.get,set:function(a){if(this.nodeType===Node.TEXT_NODE)d.set.call(this,a);else{var e=void 0;if(this.firstChild){var c=this.childNodes,k=c.length;if(0<k&&n(this))for(var e=Array(k),g=0;g<k;g++)e[g]=c[g]}d.set.call(this,a);if(e)for(a=0;a<e.length;a++)B(b,e[a])}}})}u(Node.prototype,"insertBefore",function(a,d){if(a instanceof DocumentFragment){var e=Array.prototype.slice.apply(a.childNodes);
+      a=K.call(this,a,d);if(n(this))for(d=0;d<e.length;d++)z(b,e[d]);return a}e=n(a);d=K.call(this,a,d);e&&B(b,a);n(this)&&z(b,a);return d});u(Node.prototype,"appendChild",function(a){if(a instanceof DocumentFragment){var c=Array.prototype.slice.apply(a.childNodes);a=J.call(this,a);if(n(this))for(var e=0;e<c.length;e++)z(b,c[e]);return a}c=n(a);e=J.call(this,a);c&&B(b,a);n(this)&&z(b,a);return e});u(Node.prototype,"cloneNode",function(a){a=I.call(this,a);this.ownerDocument.__CE_hasRegistry?C(b,a):x(b,a);
+      return a});u(Node.prototype,"removeChild",function(a){var c=n(a),e=L.call(this,a);c&&B(b,a);return e});u(Node.prototype,"replaceChild",function(a,d){if(a instanceof DocumentFragment){var e=Array.prototype.slice.apply(a.childNodes);a=M.call(this,a,d);if(n(this))for(B(b,d),d=0;d<e.length;d++)z(b,e[d]);return a}var e=n(a),f=M.call(this,a,d),c=n(this);c&&B(b,d);e&&B(b,a);c&&z(b,a);return f});N&&N.get?a(Node.prototype,N):w(b,function(b){a(b,{enumerable:!0,configurable:!0,get:function(){for(var a=[],b=
+      0;b<this.childNodes.length;b++)a.push(this.childNodes[b].textContent);return a.join("")},set:function(a){for(;this.firstChild;)L.call(this,this.firstChild);J.call(this,document.createTextNode(a))}})})};function ya(b){var a=Element.prototype;function c(a){return function(e){for(var c=[],d=0;d<arguments.length;++d)c[d-0]=arguments[d];for(var d=[],k=[],g=0;g<c.length;g++){var l=c[g];l instanceof Element&&n(l)&&k.push(l);if(l instanceof DocumentFragment)for(l=l.firstChild;l;l=l.nextSibling)d.push(l);else d.push(l)}a.apply(this,c);for(c=0;c<k.length;c++)B(b,k[c]);if(n(this))for(c=0;c<d.length;c++)k=d[c],k instanceof Element&&z(b,k)}}V&&(a.before=c(V));V&&(a.after=c(pa));qa&&u(a,"replaceWith",function(a){for(var e=
+      [],c=0;c<arguments.length;++c)e[c-0]=arguments[c];for(var c=[],d=[],k=0;k<e.length;k++){var g=e[k];g instanceof Element&&n(g)&&d.push(g);if(g instanceof DocumentFragment)for(g=g.firstChild;g;g=g.nextSibling)c.push(g);else c.push(g)}k=n(this);qa.apply(this,e);for(e=0;e<d.length;e++)B(b,d[e]);if(k)for(B(b,this),e=0;e<c.length;e++)d=c[e],d instanceof Element&&z(b,d)});ra&&u(a,"remove",function(){var a=n(this);ra.call(this);a&&B(b,this)})};function za(){var b=X;function a(a,c){Object.defineProperty(a,"innerHTML",{enumerable:c.enumerable,configurable:!0,get:c.get,set:function(a){var e=this,d=void 0;n(this)&&(d=[],t(this,function(a){a!==e&&d.push(a)}));c.set.call(this,a);if(d)for(var f=0;f<d.length;f++){var r=d[f];1===r.__CE_state&&b.disconnectedCallback(r)}this.ownerDocument.__CE_hasRegistry?C(b,this):x(b,this);return a}})}function c(a,c){u(a,"insertAdjacentElement",function(a,e){var d=n(e);a=c.call(this,a,e);d&&B(b,e);n(a)&&z(b,e);
+      return a})}function d(a,c){function e(a,e){for(var c=[];a!==e;a=a.nextSibling)c.push(a);for(e=0;e<c.length;e++)C(b,c[e])}u(a,"insertAdjacentHTML",function(a,b){a=a.toLowerCase();if("beforebegin"===a){var d=this.previousSibling;c.call(this,a,b);e(d||this.parentNode.firstChild,this)}else if("afterbegin"===a)d=this.firstChild,c.call(this,a,b),e(this.firstChild,d);else if("beforeend"===a)d=this.lastChild,c.call(this,a,b),e(d||this.firstChild,null);else if("afterend"===a)d=this.nextSibling,c.call(this,
+      a,b),e(this.nextSibling,d);else throw new SyntaxError("The value provided ("+String(a)+") is not one of 'beforebegin', 'afterbegin', 'beforeend', or 'afterend'.");})}O&&u(Element.prototype,"attachShadow",function(a){return this.__CE_shadowRoot=a=O.call(this,a)});P&&P.get?a(Element.prototype,P):W&&W.get?a(HTMLElement.prototype,W):w(b,function(b){a(b,{enumerable:!0,configurable:!0,get:function(){return I.call(this,!0).innerHTML},set:function(a){var b="template"===this.localName,e=b?this.content:this,
+      c=H.call(document,this.localName);for(c.innerHTML=a;0<e.childNodes.length;)L.call(e,e.childNodes[0]);for(a=b?c.content:c;0<a.childNodes.length;)J.call(e,a.childNodes[0])}})});u(Element.prototype,"setAttribute",function(a,c){if(1!==this.__CE_state)return R.call(this,a,c);var e=Q.call(this,a);R.call(this,a,c);c=Q.call(this,a);b.attributeChangedCallback(this,a,e,c,null)});u(Element.prototype,"setAttributeNS",function(a,c,d){if(1!==this.__CE_state)return U.call(this,a,c,d);var e=T.call(this,a,c);U.call(this,
+      a,c,d);d=T.call(this,a,c);b.attributeChangedCallback(this,c,e,d,a)});u(Element.prototype,"removeAttribute",function(a){if(1!==this.__CE_state)return S.call(this,a);var c=Q.call(this,a);S.call(this,a);null!==c&&b.attributeChangedCallback(this,a,c,null,null)});u(Element.prototype,"removeAttributeNS",function(a,c){if(1!==this.__CE_state)return ka.call(this,a,c);var d=T.call(this,a,c);ka.call(this,a,c);var e=T.call(this,a,c);d!==e&&b.attributeChangedCallback(this,c,d,e,a)});ta?c(HTMLElement.prototype,
+      ta):la?c(Element.prototype,la):console.warn("Custom Elements: `Element#insertAdjacentElement` was not patched.");ua?d(HTMLElement.prototype,ua):ma?d(Element.prototype,ma):console.warn("Custom Elements: `Element#insertAdjacentHTML` was not patched.");Y(b,Element.prototype,{h:na,append:oa});ya(b)};
+      /*
+      Copyright (c) 2016 The Polymer Project Authors. All rights reserved.
+      This code may only be used under the BSD style license found at http://polymer.github.io/LICENSE.txt
+      The complete set of authors may be found at http://polymer.github.io/AUTHORS.txt
+      The complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt
+      Code distributed by Google as part of the polymer project is also
+      subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
+      */
+      var Z=window.customElements;if(!Z||Z.forcePolyfill||"function"!=typeof Z.define||"function"!=typeof Z.get){var X=new v;va();wa();Y(X,DocumentFragment.prototype,{h:ia,append:ja});xa();za();document.__CE_hasRegistry=!0;var customElements=new G(X);Object.defineProperty(window,"customElements",{configurable:!0,enumerable:!0,value:customElements})};
+    }).call(self);
+  }
+
+  /**
+    This allows us to load the IE polyfills via feature detection so that they do not load
+    needlessly in the browsers that do not need them. It also ensures they are loaded
+    non async so that they load before the rest of our JS.
+  */
+  if (!window.CSS || !window.CSS.supports || !window.CSS.supports('--fake-var', 0)) {
+    var head = document.getElementsByTagName('head')[0];
+    var script = document.createElement('script');
+    script.setAttribute('src', "https://assets.newatlas.com/resource/00000170-5da9-dc4c-adf0-ddebcfc10000/styleguide/util/IEPolyfills.8c55267daf85f4528b87a0084cf41057.gz.js");
+    script.setAttribute('type', 'text/javascript');
+    script.async = false;
+    head.appendChild(script);
+  }
+</script>
+
+
+    
+
+    <script src="https://assets.newatlas.com/resource/00000170-5da9-dc4c-adf0-ddebcfc10000/styleguide/All.min.8a918800932b9a4fae474fee6ed2eb61.gz.js" async></script>
+    <script>window.newatlas = window.newatlas || {}; Object.assign(window.newatlas, {"isSubscribed":null,"view":"Article","subCategory":"Environment","tagSlugs":["Johannes Kepler University Linz","Mushrooms","Biodegradable","Flexible Electronics"],"userMode":"anon","subscriptionExpiration":null,"countryCode":"FR","articleId":"00000184-781c-df46-a3f4-fd9ca6000001","writer":"Ben Coxworth","category":"Science","buildInformation":"#2278"});</script>
+<script>
+  window.fbAsyncInit = function() {
+      FB.init({
+          
+              appId : '38456013908',
+          
+          xfbml : true,
+          version : 'v3.3'
+      });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+<script id="ocelot-init">
+    var ocelot = ocelot || {};
+    ocelot.googleMayTargetAds=false;ocelot.pageType = 'a';ocelot.category = 'Science';ocelot.subcategory = 'Environment';ocelot.authorId = '0000016b-741d-dde6-adef-f41f80730000';ocelot.desktop_index_leaderboard = '/1007667/AMP1';newatlas.mark("[NA] ocelot.init");
+</script><script src="https://cdn.ocelot.studio/clients/newatlas.js" async></script>
+<script id="ocelot-load">
+    document.querySelector('[src*="cdn.ocelot.studio/clients/newatlas.js"]').addEventListener('load', () => {
+        newatlas.mark("[NA] ocelot.load");
+    });
+</script><script id="taboola-head" type="text/javascript">
+    newatlas = window.newatlas || {}
+    newatlas.mark('[NA] taboola-head')
+
+    window._taboola = window._taboola || [];
+    _taboola.push({'article':'auto'});
+
+    /** vendor script with logging tweaks */
+    function loadTaboola(initr) {
+      newatlas.mark('[NA] loadTaboola via ' + initr);
+      !(function (e, f, u, i) {
+        if (!document.getElementById(i)) {
+          e.async = 1;
+          e.src = u;
+          e.id = i;
+          e.addEventListener('load', function() {
+            newatlas.mark('[NA] tb_loader_script.load')
+          })
+          f.parentNode.insertBefore(e, f);
+        }
+      })(
+        document.createElement("script"),
+        document.getElementsByTagName("script")[0],
+        "//cdn.taboola.com/libtrc/newatlas/loader.js",
+        "tb_loader_script"
+      );
+      newatlas.mark("tbl_ic");
+    }
+
+    let tblLoaded = null
+
+    window.addEventListener("DOMContentLoaded", function (event) {
+      newatlas.mark('[NA] DOMContentLoaded')
+
+      // mutually exclusive, so we can select a single el from a multi-selector
+      var leadImg = document.querySelector(
+        [
+          '.HomePage .Page-pageLead .PromoC-media img',
+          '.ArticlePage .FullscreenCarousel-cover img',
+          '.SectionPage main img', // fallback, gets the first image
+        ].join(',')
+      )
+      if (leadImg) {
+        function leadImgReadyCb(initr = "load") {
+          if (tblLoaded) return;
+          tblLoaded = true;
+          loadTaboola("leadImg." + initr);
+        }
+        if (leadImg.complete) {
+          newatlas.mark("[NA] leadImg.complete");
+          leadImgReadyCb("complete");
+        } else {
+          leadImg.addEventListener("load", function (ev) {
+            newatlas.mark("[NA] leadImg.load");
+            window.setTimeout(leadImgReadyCb, 200);
+          });
+        }
+      }
+    });
+
+    // fallback, in case we have an issue loading leadImg
+    window.addEventListener("load", function (event) {
+      newatlas.mark('[NA] window.load')
+
+      if (tblLoaded) return
+      tblLoaded = true
+      loadTaboola('window.load')
+    });
+  </script><script>
+  
+    // where `meta` is a dict of variables from the BS view:
+var meta = {view: 'Article', writer: 'Ben Coxworth', articleId: '00000184-781c-df46-a3f4-fd9ca6000001', category: 'Science', subCategory: 'Environment', tagSlugs: [ 'Johannes Kepler University Linz', 'Mushrooms', 'Biodegradable', 'Flexible Electronics' ]}
+
+  
+
+  window.dataLayer = window.dataLayer || [];
+  var customDimensions = {};
+  // 
+  if (meta.view) {
+    customDimensions.view = meta.view;
+  }
+
+  // 
+  if (meta.articleId) {
+    customDimensions.article_id = meta.articleId;
+    customDimensions.category = meta.category;
+    customDimensions.subCategory = meta.subCategory;
+    customDimensions.tags = (meta.tagSlugs || []).join(',');
+    customDimensions.writer = meta.writer;
+  }
+  window.dataLayer.push(customDimensions);
+</script>
+
+<script>
+  (function(w,d,s,l,i) {
+    w[l]=w[l]||[];
+    w[l].push({'gtm.start': new Date().getTime(), event:'gtm.js'});
+    var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),
+      dl=l!='dataLayer'?'&l='+l:'';
+      j.async=true;
+      j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-TGZ8Q3J');
+</script>
+<script>!function(){var e=document.createElement("script");e.id="sentry",e.async=!0,e.onload=function(){Sentry.init({debug:!1,dsn:"newatlas.com"===window.location.hostname?"https://f6e950147bfd4335b25baedc18204263@o7312.ingest.sentry.io/5270767":"https://2534b9d631664a7fa070404e5b496030@o7312.ingest.sentry.io/5270780",ignoreErrors:["top.GLOBALS","originalCreateNotification","canvas.contentDocument","MyApp_RemoveAllHighlights","http://tt.epicplay.com","Can't find variable: ZiteReader","jigsaw is not defined","ComboSearch is not defined","http://loading.retry.widdit.com/","atomicFindClose","fb_xd_fragment","bmi_SafeAddOnload","EBCallBackMessageReceived","conduitPage","Can't execute code from a freed script","Failed to fetch","NetworkError when attempting to fetch resource.","ResizeObserver loop limit exceeded","Blocked a frame with origin"],denyUrls:[/graph\.facebook\.com/i,/connect\.facebook\.net\/en_US\/all\.js/i,/eatdifferent\.com\.woopra-ns\.com/i,/static\.woopra\.com\/js\/woopra\.js/i,/extensions\//i,/^chrome:\/\//i,/127\.0\.0\.1:4001\/isrunning/i,/webappstoolbarba\.texthelp\.com\//i,/metrics\.itunes\.apple\.com\.edgesuite\.net\//i],beforeSend:function(e,t){var n=t&&t.originalException;if(n&&n.message){if(n.message.match(/Can't execute code from a freed script/i))return null;if(n.message.match(/Illegal invocation/)&&n.stack.indexOf("gpt/pubads_impl_")>-1)return null}return e.user&&e.user.ip_address&&("119.237.146.188"===e.user.ip_address||"81.61.158.86"===e.user.ip_address)||"string"==typeof e.location&&(e.location.indexOf("/rq/iv/inside.js")>-1||e.location.indexOf("/bao-csm/direct/csm_othersv")>-1||e.location.indexOf("/pageFold/ftpagefold_v")>-1)?null:e}}),Sentry.setTag("view",window.meta.view),Sentry.setTag("userMode",window.newatlas.userMode),Sentry.setTag("cc",window.newatlas.countryCode),Sentry.setTag("gdprApplies",window.ocelot?!window.ocelot.googleMayTargetAds:"NA"),Sentry.setTag("configVersion","2020-12-30T15-59-16+1100"),Sentry.setTag("referrer",function(e){if(""===e)return e;var t=document.createElement("a");return t.href=e,t.hostname}(document.referrer)),newatlas.log("Sentry.init")},e.crossOrigin="anonymous",e.integrity="sha384-ir4+BihBClNpjZk3UKgHTr0cwRhujAjy/M5VEGvcOzjhM1Db79GAg9xLxYn4uVK4",e.src="https://browser.sentry-cdn.com/5.29.2/bundle.min.js",document.head.appendChild(e)}();</script>
+<script>window.newatlas = window.newatlas || {};
+window.newatlas.injectRecirculation = function (targetEl) {
+  try {
+    if (
+      window.meta.view !== 'Article' ||
+      window.location.pathname.indexOf('/deals/') > -1 ||
+      !targetEl ||
+      targetEl.nodeType !== Node.ELEMENT_NODE ||
+      !localStorage
+    )
+      return;
+
+    var article = document.querySelector('.RichTextArticleBody-body');
+    var children = Array.from(article.children);
+    var targetIndex = children.findIndex(function (ch) {
+      return ch === targetEl;
+    });
+
+    // targetEl must be an empty div#na-recirculation, which will be replaced
+    var isTargetOcelotDiv = targetEl.id === 'na-recirculation';
+    if (!isTargetOcelotDiv) {
+      console.warn(
+        '[injectRecirculation] target div is not #na-recirculation, aborting'
+      );
+      return;
+    }
+    var elBefore = isTargetOcelotDiv
+      ? children[targetIndex - 1]
+      : children[targetIndex];
+    var elAfter = children[targetIndex + 1];
+
+    // the rule is: "only insert recirculation when preceded and followed by a contentful para"
+    var isValidContentBefore =
+      elBefore.nodeName === 'P' && elBefore.textContent !== '';
+    var isValidContentAfter =
+      elAfter.nodeName === 'P' && elAfter.textContent !== '';
+    if (!isValidContentBefore || !isValidContentAfter) {
+      newatlas.log(
+        'Skipping recirculation; isValidContentBefore: %o, isValidContentAfter: %o',
+        isValidContentBefore,
+        isValidContentAfter
+      );
+      return;
+    }
+
+    var parentIds = {
+      transport: '0000016b-73e8-dde6-adef-f3fbfdae0000',
+      lifestyle: '0000016b-73e8-dde6-adef-f3fbfddf0000',
+      technology: '0000016b-73e8-dde6-adef-f3fbfe100000',
+      science: '0000016b-73e8-dde6-adef-f3fbfe410000'
+    };
+    var parent = Object.keys(parentIds).includes(
+      window.meta.category.toLowerCase()
+    )
+      ? window.meta.category.toLowerCase()
+      : 'technology';
+    var parentId = parentIds[parent];
+
+    if (parentId) {
+      fetch(location.origin + '/api/featured?id=' + parentId)
+        .then(function (response) {
+          if (!response.ok) {
+            throw new Error('HTTP error! status:' + response.status);
+          }
+          return response.text();
+        })
+        .then(function (html) {
+          var parser = new DOMParser();
+          var doc = parser.parseFromString(html, 'text/html');
+          var featured = doc.querySelectorAll('.PromoA');
+          newatlas.debug('featured', featured);
+          composeRecommendations(featured);
+        });
+    }
+
+    function composeRecommendations(elements) {
+      var RECOMMENDATIONS_COUNT = 2;
+      var recommendations = [];
+
+      elements.forEach(function (el, ix) {
+        if (!el || recommendations.length >= RECOMMENDATIONS_COUNT) return;
+        newatlas.debug('feature', el);
+        var link = el.querySelector('.PromoA-title .Link');
+        if (!link) return;
+
+        var segments = link.href.split('/');
+        // canonical URL always has a trailing slash, then zero indexed, so -2:
+        var slug = segments[segments.length - 2];
+        // don't recommend the article we're reading, or deals!
+        if (
+          window.location.pathname.indexOf(slug) > -1 ||
+          segments.includes('deals')
+        )
+          return;
+        recommendations.push(el);
+      });
+      if (!recommendations.length) return;
+
+      newatlas.debug('targetEl', targetEl);
+      newatlas.debug('recommendations', recommendations);
+
+      var wrapper = document.createElement('div');
+      wrapper.id = 'na-recirculation';
+      wrapper.classList.add('recirculation');
+
+      var header = document.createElement('div');
+      header.textContent = 'More Stories';
+      header.classList.add('recirculation__header', 'ListE-header-title');
+      wrapper.appendChild(header);
+
+      var PREVIOUS_GIT_SHORT_HASH = 'e079a01';
+
+      recommendations.forEach(function (recommendation, ix) {
+        Array.from(recommendation.querySelectorAll('a')).forEach(function (e) {
+          e.href =
+            e.href +
+            '?itm_source=ocelot' +
+            '&itm_medium=recirculation' +
+            '&itm_campaign=ocelot_' +
+            PREVIOUS_GIT_SHORT_HASH +
+            '&itm_content=recommendation_' +
+            (ix + 1);
+        });
+        wrapper.appendChild(recommendation);
+      });
+      targetEl.replaceWith(wrapper);
+      newatlas.log('injected', wrapper);
+
+      if (typeof injectTrendmdMobileCLW === 'function')
+        injectTrendmdMobileCLW();
+    }
+  } catch (err) {
+    console.error('[NA]', err);
+  }
+};
+
+(function () {
+  if (window.newatlas.userMode === 'plus') {
+    document.addEventListener('DOMContentLoaded', function () {
+      // create the div#na-recirculation, which ocelot injects on non-plus pages
+      var mount = document.createElement('div');
+      mount.id = 'na-recirculation';
+      var target = document.querySelectorAll('.ArticlePage-articleBody p')[1];
+      target.insertAdjacentElement('afterEnd', mount);
+      // pass our new mount to injectRecirculation
+      window.newatlas.injectRecirculation(mount);
+    });
+  }
+
+  function addItmParams(el, options) {
+    if (
+      !Array.isArray(options) ||
+      !options.length ||
+      !el ||
+      !el.href ||
+      el.href.indexOf(window.location.hostname) === -1 ||
+      el.href.indexOf('itm_') > -1
+    )
+      return;
+    var firstSearchChar = el.href.indexOf('?') > -1 ? '&' : '?';
+    // FIXME: incorrect ?query-string#hash order, like:
+    // #gallery?itm_source=newatlas&itm_medium=article-body
+    el.href = el.href + firstSearchChar + options.join('&');
+    newatlas.debug('itm_', el);
+  }
+
+  document.addEventListener('DOMContentLoaded', function () {
+    var relatedStoriesLinks = document.querySelectorAll(
+      '.ArticlePage-contentFooter .TwoColumnContainer5050-column:first-child a'
+    );
+    Array.from(relatedStoriesLinks).forEach(function (el) {
+      addItmParams(el, ['itm_source=newatlas', 'itm_medium=related-stories']);
+    });
+
+    var mostViewedLinks = document.querySelectorAll(
+      '.ArticlePage-contentFooter .TwoColumnContainer5050-column:last-child a'
+    );
+    Array.from(mostViewedLinks).forEach(function (el) {
+      addItmParams(el, ['itm_source=newatlas', 'itm_medium=most-viewed']);
+    });
+
+    var articleBodyLinks = document.querySelectorAll(
+      '.ArticlePage-articleBody a'
+    );
+    Array.from(articleBodyLinks).forEach(function (el) {
+      addItmParams(el, ['itm_source=newatlas', 'itm_medium=article-body']);
+    });
+  });
+})();
+</script>
+
+
+    <script id="fonts">
+        var link = document.createElement('link');
+        link.setAttribute('href', 'https://fonts.googleapis.com/css?family=Open+Sans:400,500,600,700|Open+Sans:400,500,600,700|Lora:400,500,600,700');
+        var relList = link.relList;
+
+        if (relList && relList.supports('preload')) {
+            link.setAttribute('as', 'style');
+            link.setAttribute('rel', 'preload');
+            link.setAttribute('onload', 'this.rel="stylesheet"');
+            link.setAttribute('crossorigin', 'anonymous');
+        } else {
+            link.setAttribute('rel', 'stylesheet');
+        }
+
+        document.head.appendChild(link);
+    </script>
+
+
+<style id="trendmd-clw-styles">
+  .Page-aside .TrendMDAdModule.active {
+    flex-grow: 1;
+    margin-bottom: 40px;
+  }
+  .Page-aside .TrendMDAdModule.active > div {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 60px;
+  }
+</style>
+<script id="trendmd-clw">
+  /** Called from #trendmd-head script */
+  function injectTrendmdCLW() {
+    // only render when the right rail is visible
+    if (innerWidth < 1240) return
+
+    var desktopRight1 = document.querySelector('.ArticlePage [data-id="desktop_right_1"]')
+    if (!desktopRight1) return
+
+    var clwMount = document.createElement('div');
+    clwMount.id = 'trendmd-conditional1';
+    clwMount.classList.add('TrendMDAdModule');
+    desktopRight1.insertAdjacentElement('afterend', clwMount);
+
+    window.newatlas.log('TrendMD CLW mounted', clwMount);
+
+    let hasFired = false
+    const targetNode = document.getElementById('trendmd-conditional1');
+    const config = { attributes: false, childList: true, subtree: true };
+    const observer = new MutationObserver(callback);
+    observer.observe(targetNode, config);
+
+    /** if content is injected here, adjust styles to match surrounding sticky ads */
+    function callback(mutationList, observer) {
+      mutationList.forEach(function(mutation) {
+        var hasInjectedItems = !!mutation.addedNodes.length && mutation.target.classList.contains('trendmd-widget-list')
+        if (!hasInjectedItems || hasFired) return
+        hasFired = true
+        observer.disconnect();
+
+        var dr2 = document.querySelector('.ArticlePage [data-id="desktop_right_2"]')
+        if (dr2) dr2.remove()
+
+        document.querySelector('.Page-aside .TrendMDAdModule').classList.add('active')
+        window.newatlas.log('TrendMD CLW populated');
+        window.dataLayer = window.dataLayer || []
+        window.dataLayer.push({
+          event: 'eventTracking',
+          category: 'trendmd',
+          action: 'clw-rendered'
+          // label: ''
+          // value: 0
+        });
+      });
+    };
+  }
+</script>
+
+<style id="trendmd-mobile-clw-styles">
+  .recirculation .trendmd-widget_horizontal {
+      padding-top: 42px !important;
+  }
+  .recirculation .trendmd-widget-header__heading {
+    color: #aaa !important;
+    font-weight: 300 !important;
+    letter-spacing: 1.5px !important;
+    font-size: 14px !important;
+    text-transform: uppercase;
+  }
+  .recirculation .trendmd-widget_horizontal .trendmd-widget-section {
+    width: 100% !important;
+  }
+  .recirculation .trendmd-widget-list-item__link {
+    font-family: var(--primaryHeadlineFont), Arial, Helvetica, sans-serif !important;
+    font-size: 16px !important;
+    line-height: 1.5 !important;
+    color: var(--primaryTextColor) !important;
+  }
+</style>
+<script id="trendmd-mobile-clw">
+  /** Fired as a callback from within the recirculation code */
+  function injectTrendmdMobileCLW() {
+    // only render when right rail is not present
+    if (innerWidth > 1239) return
+
+    var recirculationEl = document.querySelector('#na-recirculation')
+    if (!recirculationEl) return
+
+    // A race condition occurs in which the TrendMD script may load before this,
+    // in which cas we can expect an error from trendMD like:
+    // "Error: TrendMD: widget 2 of total 2 widgets can't be injected. Unable to find selector '#trendmd-conditional1'"
+    // Attempt to track how often this occurs.
+    var clw2MountedAfterScriptLoad = window.newatlas && window.newatlas.trendmdLoaded;
+    if (clw2MountedAfterScriptLoad) {
+      window.dataLayer.push({
+        event: 'eventTracking',
+        category: 'trendmd',
+        action: 'mobile-clw-mounted--after-script'
+      });
+    }
+
+    var clwElId = 'trendmd-conditional2';
+    var clwMount = document.createElement('div');
+    clwMount.id = clwElId;
+    recirculationEl.append(clwMount);
+
+    window.newatlas.log('TrendMD Mobile CLW mounted', clwMount);
+
+    let hasFired = false
+    const targetNode = document.getElementById(clwElId);
+    const config = { attributes: false, childList: true, subtree: true };
+    const observer = new MutationObserver(callback);
+    observer.observe(targetNode, config);
+
+    /** if content is injected here, adjust styles to match surrounding sticky ads */
+    function callback(mutationList, observer) {
+      mutationList.forEach(function(mutation) {
+        var hasInjectedItems = !!mutation.addedNodes.length && mutation.target.classList.contains('trendmd-widget-list');
+        if (!hasInjectedItems || hasFired) return;
+        hasFired = true;
+        observer.disconnect();
+
+        var narEls = Array.prototype.slice.call(recirculationEl.querySelectorAll('.recirculation__header,.PromoA'));
+        if (narEls) narEls.forEach(function(el) {el.remove()});
+
+        window.newatlas.log('TrendMD Mobile CLW populated');
+        window.dataLayer = window.dataLayer || []
+        window.dataLayer.push({
+          event: 'eventTracking',
+          category: 'trendmd',
+          action: 'mobile-clw-rendered' + (clw2MountedAfterScriptLoad ? '--after-script' : '')
+        });
+      });
+    };
+  }
+</script>
+
+<script id="trendmd-head">
+  (function () {
+    'use strict';
+    var newatlas = window.newatlas || {};
+    if (newatlas.userMode !== 'plus') {
+      newatlas.log('TrendMD init');
+
+      window.addEventListener('DOMContentLoaded', function (event) {
+        var mount = document.createElement('div');
+        mount.id = 'trendmd-suggestions';
+        mount.classList.add('trendmd-suggestions');
+        document
+          .querySelector('.ArticlePage-mainContent')
+          .insertAdjacentElement('afterend', mount);
+
+        let hasFired = false;
+        const config = { attributes: false, childList: true, subtree: true };
+        const observer = new MutationObserver(callback);
+        observer.observe(mount, config);
+
+        function callback(mutationList, observer) {
+          mutationList.forEach(function(mutation) {
+            var hasInjectedItems = !!mutation.addedNodes.length && mutation.target.classList.contains('trendmd-widget-list')
+            if (!hasInjectedItems || hasFired) return
+            hasFired = true
+            observer.disconnect();
+
+            window.newatlas.log('TrendMD Main populated');
+            window.dataLayer = window.dataLayer || []
+            window.dataLayer.push({
+              event: 'eventTracking',
+              category: 'trendmd',
+              action: 'main-rendered'
+              // label: ''
+              // value: 0
+            });
+          });
+        };
+
+        if (typeof injectTrendmdCLW === 'function') injectTrendmdCLW();
+
+        var script = document.createElement('script');
+        script.async = true;
+        script.dataset['trendmdconfig'] = '{"journal_id":"60541","element":"#trendmd-suggestions"}';
+        script.src = 'https://js.trendmd.com/trendmd.min.js';
+        script.onload = function() {
+          window.newatlas.log('TrendMD script loaded');
+          window.newatlas.trendmdLoaded = true;
+        }
+        var head = document.getElementsByTagName('head')[0];
+        head.insertBefore(script, head.firstChild);
+
+        newatlas.log('TrendMD mounted', mount);
+      });
+    }
+  })();
+</script>
+</head>
+
+
+    <body class="Page-body">
+        <!-- Putting icons here, so we don't have to include in a bunch of -body hbs's -->
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none" id="iconsMap">
+    <symbol id="mono-icon-facebook" viewBox="0 0 10 19">
+        <path fill-rule="evenodd" d="M2.707 18.25V10.2H0V7h2.707V4.469c0-1.336.375-2.373 1.125-3.112C4.582.62 5.578.25 6.82.25c1.008 0 1.828.047 2.461.14v2.848H7.594c-.633 0-1.067.14-1.301.422-.188.235-.281.61-.281 1.125V7H9l-.422 3.2H6.012v8.05H2.707z"></path>
+    </symbol>
+    <symbol id="mono-icon-instagram" viewBox="0 0 17 17">
+        <g>
+            <path fill-rule="evenodd" d="M8.281 4.207c.727 0 1.4.182 2.022.545a4.055 4.055 0 0 1 1.476 1.477c.364.62.545 1.294.545 2.021 0 .727-.181 1.4-.545 2.021a4.055 4.055 0 0 1-1.476 1.477 3.934 3.934 0 0 1-2.022.545c-.726 0-1.4-.182-2.021-.545a4.055 4.055 0 0 1-1.477-1.477 3.934 3.934 0 0 1-.545-2.021c0-.727.182-1.4.545-2.021A4.055 4.055 0 0 1 6.26 4.752a3.934 3.934 0 0 1 2.021-.545zm0 6.68a2.54 2.54 0 0 0 1.864-.774 2.54 2.54 0 0 0 .773-1.863 2.54 2.54 0 0 0-.773-1.863 2.54 2.54 0 0 0-1.864-.774 2.54 2.54 0 0 0-1.863.774 2.54 2.54 0 0 0-.773 1.863c0 .727.257 1.348.773 1.863a2.54 2.54 0 0 0 1.863.774zM13.45 4.03c-.023.258-.123.48-.299.668a.856.856 0 0 1-.65.281.913.913 0 0 1-.668-.28.913.913 0 0 1-.281-.669c0-.258.094-.48.281-.668a.913.913 0 0 1 .668-.28c.258 0 .48.093.668.28.187.188.281.41.281.668zm2.672.95c.023.656.035 1.746.035 3.269 0 1.523-.017 2.62-.053 3.287-.035.668-.134 1.248-.298 1.74a4.098 4.098 0 0 1-.967 1.53 4.098 4.098 0 0 1-1.53.966c-.492.164-1.072.264-1.74.3-.668.034-1.763.052-3.287.052-1.523 0-2.619-.018-3.287-.053-.668-.035-1.248-.146-1.74-.334a3.747 3.747 0 0 1-1.53-.931 4.098 4.098 0 0 1-.966-1.53c-.164-.492-.264-1.072-.299-1.74C.424 10.87.406 9.773.406 8.25S.424 5.63.46 4.963c.035-.668.135-1.248.299-1.74.21-.586.533-1.096.967-1.53A4.098 4.098 0 0 1 3.254.727c.492-.164 1.072-.264 1.74-.3C5.662.394 6.758.376 8.281.376c1.524 0 2.62.018 3.287.053.668.035 1.248.135 1.74.299a4.098 4.098 0 0 1 2.496 2.496c.165.492.27 1.078.317 1.757zm-1.687 7.91c.14-.399.234-1.032.28-1.899.024-.515.036-1.242.036-2.18V7.689c0-.961-.012-1.688-.035-2.18-.047-.89-.14-1.524-.281-1.899a2.537 2.537 0 0 0-1.512-1.511c-.375-.14-1.008-.235-1.899-.282a51.292 51.292 0 0 0-2.18-.035H7.72c-.938 0-1.664.012-2.18.035-.867.047-1.5.141-1.898.282a2.537 2.537 0 0 0-1.512 1.511c-.14.375-.234 1.008-.281 1.899a51.292 51.292 0 0 0-.036 2.18v1.125c0 .937.012 1.664.036 2.18.047.866.14 1.5.28 1.898.306.726.81 1.23 1.513 1.511.398.141 1.03.235 1.898.282.516.023 1.242.035 2.18.035h1.125c.96 0 1.687-.012 2.18-.035.89-.047 1.523-.141 1.898-.282.726-.304 1.23-.808 1.512-1.511z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-email" viewBox="0 0 512 512">
+        <g>
+            <path d="M67,148.7c11,5.8,163.8,89.1,169.5,92.1c5.7,3,11.5,4.4,20.5,4.4c9,0,14.8-1.4,20.5-4.4c5.7-3,158.5-86.3,169.5-92.1
+                c4.1-2.1,11-5.9,12.5-10.2c2.6-7.6-0.2-10.5-11.3-10.5H257H65.8c-11.1,0-13.9,3-11.3,10.5C56,142.9,62.9,146.6,67,148.7z"></path>
+            <path d="M455.7,153.2c-8.2,4.2-81.8,56.6-130.5,88.1l82.2,92.5c2,2,2.9,4.4,1.8,5.6c-1.2,1.1-3.8,0.5-5.9-1.4l-98.6-83.2
+                c-14.9,9.6-25.4,16.2-27.2,17.2c-7.7,3.9-13.1,4.4-20.5,4.4c-7.4,0-12.8-0.5-20.5-4.4c-1.9-1-12.3-7.6-27.2-17.2l-98.6,83.2
+                c-2,2-4.7,2.6-5.9,1.4c-1.2-1.1-0.3-3.6,1.7-5.6l82.1-92.5c-48.7-31.5-123.1-83.9-131.3-88.1c-8.8-4.5-9.3,0.8-9.3,4.9
+                c0,4.1,0,205,0,205c0,9.3,13.7,20.9,23.5,20.9H257h185.5c9.8,0,21.5-11.7,21.5-20.9c0,0,0-201,0-205
+                C464,153.9,464.6,148.7,455.7,153.2z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-print" viewBox="0 0 12 12">
+        <g fill-rule="evenodd">
+            <path fill-rule="nonzero" d="M9 10V7H3v3H1a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v3.132A2.868 2.868 0 0 1 9.132 10H9zm.5-4.5a1 1 0 1 0 0-2 1 1 0 0 0 0 2zM3 0h6v2H3z"></path>
+            <path d="M4 8h4v4H4z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-copylink" viewBox="0 0 12 12">
+        <g fill-rule="evenodd">
+            <path d="M10.199 2.378c.222.205.4.548.465.897.062.332.016.614-.132.774L8.627 6.106c-.187.203-.512.232-.75-.014a.498.498 0 0 0-.706.028.499.499 0 0 0 .026.706 1.509 1.509 0 0 0 2.165-.04l1.903-2.06c.37-.398.506-.98.382-1.636-.105-.557-.392-1.097-.77-1.445L9.968.8C9.591.452 9.03.208 8.467.145 7.803.072 7.233.252 6.864.653L4.958 2.709a1.509 1.509 0 0 0 .126 2.161.5.5 0 1 0 .68-.734c-.264-.218-.26-.545-.071-.747L7.597 1.33c.147-.16.425-.228.76-.19.353.038.71.188.931.394l.91.843.001.001zM1.8 9.623c-.222-.205-.4-.549-.465-.897-.062-.332-.016-.614.132-.774l1.905-2.057c.187-.203.512-.232.75.014a.498.498 0 0 0 .706-.028.499.499 0 0 0-.026-.706 1.508 1.508 0 0 0-2.165.04L.734 7.275c-.37.399-.506.98-.382 1.637.105.557.392 1.097.77 1.445l.91.843c.376.35.937.594 1.5.656.664.073 1.234-.106 1.603-.507L7.04 9.291a1.508 1.508 0 0 0-.126-2.16.5.5 0 0 0-.68.734c.264.218.26.545.071.747l-1.904 2.057c-.147.16-.425.228-.76.191-.353-.038-.71-.188-.931-.394l-.91-.843z"></path>
+            <path d="M8.208 3.614a.5.5 0 0 0-.707.028L3.764 7.677a.5.5 0 0 0 .734.68L8.235 4.32a.5.5 0 0 0-.027-.707"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-flipboard" viewBox="0 0 500 500">
+        <g>
+            <path d="M0,0V500H500V0ZM400,200H300V300H200V400H100V100H400Z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-linkedin" viewBox="0 0 16 17">
+        <g fill-rule="evenodd">
+            <path d="M3.734 16.125H.464V5.613h3.27zM2.117 4.172c-.515 0-.96-.188-1.336-.563A1.825 1.825 0 0 1 .22 2.273c0-.515.187-.96.562-1.335.375-.375.82-.563 1.336-.563.516 0 .961.188 1.336.563.375.375.563.82.563 1.335 0 .516-.188.961-.563 1.336-.375.375-.82.563-1.336.563zM15.969 16.125h-3.27v-5.133c0-.844-.07-1.453-.21-1.828-.259-.633-.762-.95-1.512-.95s-1.278.282-1.582.845c-.235.421-.352 1.043-.352 1.863v5.203H5.809V5.613h3.128v1.442h.036c.234-.469.609-.856 1.125-1.16.562-.375 1.218-.563 1.968-.563 1.524 0 2.59.48 3.2 1.441.468.774.703 1.97.703 3.586v5.766z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-pinterest" viewBox="0 0 512 512">
+        <g>
+            <path d="M256,32C132.3,32,32,132.3,32,256c0,91.7,55.2,170.5,134.1,205.2c-0.6-15.6-0.1-34.4,3.9-51.4
+                c4.3-18.2,28.8-122.1,28.8-122.1s-7.2-14.3-7.2-35.4c0-33.2,19.2-58,43.2-58c20.4,0,30.2,15.3,30.2,33.6
+                c0,20.5-13.1,51.1-19.8,79.5c-5.6,23.8,11.9,43.1,35.4,43.1c42.4,0,71-54.5,71-119.1c0-49.1-33.1-85.8-93.2-85.8
+                c-67.9,0-110.3,50.7-110.3,107.3c0,19.5,5.8,33.3,14.8,43.9c4.1,4.9,4.7,6.9,3.2,12.5c-1.1,4.1-3.5,14-4.6,18
+                c-1.5,5.7-6.1,7.7-11.2,5.6c-31.3-12.8-45.9-47-45.9-85.6c0-63.6,53.7-139.9,160.1-139.9c85.5,0,141.8,61.9,141.8,128.3
+                c0,87.9-48.9,153.5-120.9,153.5c-24.2,0-46.9-13.1-54.7-27.9c0,0-13,51.6-15.8,61.6c-4.7,17.3-14,34.5-22.5,48
+                c20.1,5.9,41.4,9.2,63.5,9.2c123.7,0,224-100.3,224-224C480,132.3,379.7,32,256,32z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-tumblr" viewBox="0 0 512 512">
+        <g>
+            <path d="M321.2,396.3c-11.8,0-22.4-2.8-31.5-8.3c-6.9-4.1-11.5-9.6-14-16.4c-2.6-6.9-3.6-22.3-3.6-46.4V224h96v-64h-96V48h-61.9
+                c-2.7,21.5-7.5,44.7-14.5,58.6c-7,13.9-14,25.8-25.6,35.7c-11.6,9.9-25.6,17.9-41.9,23.3V224h48v140.4c0,19,2,33.5,5.9,43.5
+                c4,10,11.1,19.5,21.4,28.4c10.3,8.9,22.8,15.7,37.3,20.5c14.6,4.8,31.4,7.2,50.4,7.2c16.7,0,30.3-1.7,44.7-5.1
+                c14.4-3.4,30.5-9.3,48.2-17.6v-65.6C363.2,389.4,342.3,396.3,321.2,396.3z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-twitter" viewBox="0 0 19 16">
+        <g>
+            <path fill-rule="evenodd" d="M16.48 4.594c.024.094.036.246.036.457 0 1.687-.41 3.316-1.23 4.887-.845 1.664-2.028 2.988-3.552 3.972-1.664 1.102-3.574 1.652-5.73 1.652-2.063 0-3.95-.55-5.66-1.652.258.024.55.035.879.035 1.71 0 3.246-.527 4.605-1.582-.82 0-1.54-.24-2.162-.72a3.671 3.671 0 0 1-1.283-1.811c.234.023.457.035.668.035.328 0 .656-.035.984-.105a3.72 3.72 0 0 1-2.11-1.301 3.54 3.54 0 0 1-.843-2.32v-.07a3.475 3.475 0 0 0 1.652.492A4.095 4.095 0 0 1 1.54 5.227a3.546 3.546 0 0 1-.457-1.776c0-.644.176-1.26.527-1.845a10.18 10.18 0 0 0 3.358 2.742 10.219 10.219 0 0 0 4.236 1.125 5.124 5.124 0 0 1-.07-.844c0-.656.164-1.272.492-1.846a3.613 3.613 0 0 1 1.336-1.353 3.565 3.565 0 0 1 1.828-.492c.54 0 1.037.105 1.494.316.457.21.861.492 1.213.844a7.51 7.51 0 0 0 2.356-.88c-.282.868-.82 1.548-1.618 2.04a7.93 7.93 0 0 0 2.11-.598 8.114 8.114 0 0 1-1.864 1.934z"></path>
+
+        </g>
+    </symbol>
+    <symbol id="mono-icon-youtube" viewBox="0 0 512 512">
+        <g>
+            <path fill-rule="evenodd" d="M508.6,148.8c0-45-33.1-81.2-74-81.2C379.2,65,322.7,64,265,64c-3,0-6,0-9,0s-6,0-9,0c-57.6,0-114.2,1-169.6,3.6
+                c-40.8,0-73.9,36.4-73.9,81.4C1,184.6-0.1,220.2,0,255.8C-0.1,291.4,1,327,3.4,362.7c0,45,33.1,81.5,73.9,81.5
+                c58.2,2.7,117.9,3.9,178.6,3.8c60.8,0.2,120.3-1,178.6-3.8c40.9,0,74-36.5,74-81.5c2.4-35.7,3.5-71.3,3.4-107
+                C512.1,220.1,511,184.5,508.6,148.8z M207,353.9V157.4l145,98.2L207,353.9z"></path>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-google" viewBox="0 0 46 46">
+        <defs>
+            <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+                <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+                <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+                <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.168 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+                <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+                <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+                <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.084 0" in="shadowBlurOuter2" type="matrix" result="shadowMatrixOuter2"></feColorMatrix>
+                <feMerge>
+                    <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                    <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                    <feMergeNode in="SourceGraphic"></feMergeNode>
+                </feMerge>
+            </filter>
+            <rect id="path-2" x="0" y="0" width="40" height="40" rx="2"></rect>
+        </defs>
+        <g id="Google-Button" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+            <g id="9-PATCH" sketch:type="MSArtboardGroup" transform="translate(-668.000000, -160.000000)"></g>
+            <g id="btn_google_light_focus" sketch:type="MSArtboardGroup" transform="translate(-1.000000, -1.000000)">
+                <g id="button" sketch:type="MSLayerGroup" transform="translate(4.000000, 4.000000)" filter="url(#filter-1)">
+                    <g id="button-bg">
+                        <use fill="#FFFFFF" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
+                        <use fill="none" xlink:href="#path-2"></use>
+                        <use fill="none" xlink:href="#path-2"></use>
+                        <use fill="none" xlink:href="#path-2"></use>
+                    </g>
+                </g>
+                <g id="logo_googleg_48dp" sketch:type="MSLayerGroup" transform="translate(15.000000, 15.000000)">
+                    <path d="M17.64,9.20454545 C17.64,8.56636364 17.5827273,7.95272727 17.4763636,7.36363636 L9,7.36363636 L9,10.845 L13.8436364,10.845 C13.635,11.97 13.0009091,12.9231818 12.0477273,13.5613636 L12.0477273,15.8195455 L14.9563636,15.8195455 C16.6581818,14.2527273 17.64,11.9454545 17.64,9.20454545 L17.64,9.20454545 Z" id="Shape" fill="#4285F4" sketch:type="MSShapeGroup"></path>
+                    <path d="M9,18 C11.43,18 13.4672727,17.1940909 14.9563636,15.8195455 L12.0477273,13.5613636 C11.2418182,14.1013636 10.2109091,14.4204545 9,14.4204545 C6.65590909,14.4204545 4.67181818,12.8372727 3.96409091,10.71 L0.957272727,10.71 L0.957272727,13.0418182 C2.43818182,15.9831818 5.48181818,18 9,18 L9,18 Z" id="Shape" fill="#34A853" sketch:type="MSShapeGroup"></path>
+                    <path d="M3.96409091,10.71 C3.78409091,10.17 3.68181818,9.59318182 3.68181818,9 C3.68181818,8.40681818 3.78409091,7.83 3.96409091,7.29 L3.96409091,4.95818182 L0.957272727,4.95818182 C0.347727273,6.17318182 0,7.54772727 0,9 C0,10.4522727 0.347727273,11.8268182 0.957272727,13.0418182 L3.96409091,10.71 L3.96409091,10.71 Z" id="Shape" fill="#FBBC05" sketch:type="MSShapeGroup"></path>
+                    <path d="M9,3.57954545 C10.3213636,3.57954545 11.5077273,4.03363636 12.4404545,4.92545455 L15.0218182,2.34409091 C13.4631818,0.891818182 11.4259091,0 9,0 C5.48181818,0 2.43818182,2.01681818 0.957272727,4.95818182 L3.96409091,7.29 C4.67181818,5.16272727 6.65590909,3.57954545 9,3.57954545 L9,3.57954545 Z" id="Shape" fill="#EA4335" sketch:type="MSShapeGroup"></path>
+                    <path d="M0,0 L18,0 L18,18 L0,18 L0,0 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+                </g>
+                <g id="handles_square" sketch:type="MSLayerGroup"></g>
+            </g>
+        </g>
+    </symbol>
+    <symbol id="mono-icon-comments" viewBox="0 0 512 512">
+        <path d="M256 32C114.6 32 0 125.1 0 240c0 49.6 21.4 95 57 130.7C44.5 421.1 2.7 466 2.2 466.5a8 8 0 00-1.5 8.7c1.3 3 4.1 4.8 7.3 4.8 66.3 0 116-31.8 140.6-51.4A305 305 0 00256 448c141.4 0 256-93.1 256-208S397.4 32 256 32z"></path>
+    </symbol>
+    <symbol id="icon-magnify" viewBox="0 0 512 512">
+        <g>
+            <path d="M337.509,305.372h-17.501l-6.571-5.486c20.791-25.232,33.922-57.054,33.922-93.257
+                C347.358,127.632,283.896,64,205.135,64C127.452,64,64,127.632,64,206.629s63.452,142.628,142.225,142.628
+                c35.011,0,67.831-13.167,92.991-34.008l6.561,5.487v17.551L415.18,448L448,415.086L337.509,305.372z M206.225,305.372
+                c-54.702,0-98.463-43.887-98.463-98.743c0-54.858,43.761-98.742,98.463-98.742c54.7,0,98.462,43.884,98.462,98.742
+                C304.687,261.485,260.925,305.372,206.225,305.372z"></path>
+        </g>
+    </symbol>
+    <symbol id="burger-menu" viewBox="0 0 14 10">
+        <g>
+            <path fill-rule="evenodd" d="M0 5.5v-1h14v1H0zM0 1V0h14v1H0zm0 9V9h14v1H0z"></path>
+        </g>
+    </symbol>
+    <symbol id="close-x" viewBox="0 0 14 14">
+        <g>
+            <path fill-rule="nonzero" d="M6.336 7L0 .664.664 0 7 6.336 13.336 0 14 .664 7.664 7 14 13.336l-.664.664L7 7.664.664 14 0 13.336 6.336 7z"></path>
+        </g>
+    </symbol>
+    <symbol id="share-more-arrow" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;">
+        <g>
+            <g>
+                <path d="M512,241.7L273.643,3.343v156.152c-71.41,3.744-138.015,33.337-188.958,84.28C30.075,298.384,0,370.991,0,448.222v60.436
+                    l29.069-52.985c45.354-82.671,132.173-134.027,226.573-134.027c5.986,0,12.004,0.212,18.001,0.632v157.779L512,241.7z
+                    M255.642,290.666c-84.543,0-163.661,36.792-217.939,98.885c26.634-114.177,129.256-199.483,251.429-199.483h15.489V78.131
+                    l163.568,163.568L304.621,405.267V294.531l-13.585-1.683C279.347,291.401,267.439,290.666,255.642,290.666z"></path>
+            </g>
+        </g>
+    </symbol>
+    <symbol id="chevron" viewBox="0 0 100 100">
+        <g>
+            <path d="M22.4566257,37.2056786 L-21.4456527,71.9511488 C-22.9248661,72.9681457 -24.9073712,72.5311671 -25.8758148,70.9765924 L-26.9788683,69.2027424 C-27.9450684,67.6481676 -27.5292733,65.5646602 -26.0500598,64.5484493 L20.154796,28.2208967 C21.5532435,27.2597011 23.3600078,27.2597011 24.759951,28.2208967 L71.0500598,64.4659264 C72.5292733,65.4829232 72.9450684,67.5672166 71.9788683,69.1217913 L70.8750669,70.8956413 C69.9073712,72.4502161 67.9241183,72.8848368 66.4449048,71.8694118 L22.4566257,37.2056786 Z" id="Transparent-Chevron" transform="translate(22.500000, 50.000000) rotate(90.000000) translate(-22.500000, -50.000000) "></path>
+        </g>
+    </symbol>
+    <symbol id="play-arrow" viewBox="0 0 30 30">
+        <g fill="none" fill-rule="evenodd">
+            <path d="M9 9l12 6-12 6z"></path>
+        </g>
+    </symbol>
+    <symbol id="bookmark" viewBox="0 0 9 12">
+        <g>
+            <path fill="none" fill-rule="evenodd" d="M.5.5v10.997l3.431-2.374a1 1 0 0 1 1.138 0L8.5 11.497V.5h-8z"></path>
+        </g>
+    </symbol>
+    <symbol id="heart" viewBox="0 0 14 12">
+        <g>
+            <path fill="none" fill-rule="evenodd" d="M10.24.5c-1.098 0-2.152.576-2.808 1.7L7 2.938l-.432-.74C5.912 1.076 4.858.5 3.76.5 1.996.5.5 1.899.5 3.859.5 5.2 1.644 6.912 3.57 8.747a27.774 27.774 0 0 0 3.373 2.738A.099.099 0 0 0 7 11.5a.104.104 0 0 0 .061-.018 27.75 27.75 0 0 0 3.368-2.735C12.356 6.912 13.5 5.201 13.5 3.859 13.5 1.899 12.003.5 10.24.5z"></path>
+        </g>
+    </symbol>
+    <symbol id="grid" viewBox="0 0 32 32">
+        <g>
+            <path d="M6.4,5.7 C6.4,6.166669 6.166669,6.4 5.7,6.4 L0.7,6.4 C0.233331,6.4 0,6.166669 0,5.7 L0,0.7 C0,0.233331 0.233331,0 0.7,0 L5.7,0 C6.166669,0 6.4,0.233331 6.4,0.7 L6.4,5.7 Z M19.2,5.7 C19.2,6.166669 18.966669,6.4 18.5,6.4 L13.5,6.4 C13.033331,6.4 12.8,6.166669 12.8,5.7 L12.8,0.7 C12.8,0.233331 13.033331,0 13.5,0 L18.5,0 C18.966669,0 19.2,0.233331 19.2,0.7 L19.2,5.7 Z M32,5.7 C32,6.166669 31.766669,6.4 31.3,6.4 L26.3,6.4 C25.833331,6.4 25.6,6.166669 25.6,5.7 L25.6,0.7 C25.6,0.233331 25.833331,0 26.3,0 L31.3,0 C31.766669,0 32,0.233331 32,0.7 L32,5.7 Z M6.4,18.5 C6.4,18.966669 6.166669,19.2 5.7,19.2 L0.7,19.2 C0.233331,19.2 0,18.966669 0,18.5 L0,13.5 C0,13.033331 0.233331,12.8 0.7,12.8 L5.7,12.8 C6.166669,12.8 6.4,13.033331 6.4,13.5 L6.4,18.5 Z M19.2,18.5 C19.2,18.966669 18.966669,19.2 18.5,19.2 L13.5,19.2 C13.033331,19.2 12.8,18.966669 12.8,18.5 L12.8,13.5 C12.8,13.033331 13.033331,12.8 13.5,12.8 L18.5,12.8 C18.966669,12.8 19.2,13.033331 19.2,13.5 L19.2,18.5 Z M32,18.5 C32,18.966669 31.766669,19.2 31.3,19.2 L26.3,19.2 C25.833331,19.2 25.6,18.966669 25.6,18.5 L25.6,13.5 C25.6,13.033331 25.833331,12.8 26.3,12.8 L31.3,12.8 C31.766669,12.8 32,13.033331 32,13.5 L32,18.5 Z M6.4,31.3 C6.4,31.766669 6.166669,32 5.7,32 L0.7,32 C0.233331,32 0,31.766669 0,31.3 L0,26.3 C0,25.833331 0.233331,25.6 0.7,25.6 L5.7,25.6 C6.166669,25.6 6.4,25.833331 6.4,26.3 L6.4,31.3 Z M19.2,31.3 C19.2,31.766669 18.966669,32 18.5,32 L13.5,32 C13.033331,32 12.8,31.766669 12.8,31.3 L12.8,26.3 C12.8,25.833331 13.033331,25.6 13.5,25.6 L18.5,25.6 C18.966669,25.6 19.2,25.833331 19.2,26.3 L19.2,31.3 Z M32,31.3 C32,31.766669 31.766669,32 31.3,32 L26.3,32 C25.833331,32 25.6,31.766669 25.6,31.3 L25.6,26.3 C25.6,25.833331 25.833331,25.6 26.3,25.6 L31.3,25.6 C31.766669,25.6 32,25.833331 32,26.3 L32,31.3 Z" id=""></path>
+        </g>
+    </symbol>
+    <symbol id="filter" viewBox="0 0 16 12">
+        <path d="M0 2V0h16v2H0zm2.4 5V5h11.2v2H2.4zm2.4 5v-2h6.4v2H4.8z"></path>
+    </symbol>
+</svg>
+
+
+<ps-header class="Page-header" itemscope itemtype="http://schema.org/WPHeader">
+    <div class="Page-header-hamburger-menu">
+        <div class="Page-header-hamburger-menu-wrapper">
+            <div class="Page-header-hamburger-menu-content">
+                
+                    <nav class="Navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    
+    
+        <ul class="Navigation-items">
+            
+                <li class="Navigation-items-item" ><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://newatlas.com/subscribe/" data-cms-ai="0">SUBSCRIBE AD-FREE</a>
+        
+        
+    </div>
+
+    
+</div>
+</li>
+            
+                <li class="Navigation-items-item" ><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://newatlas.com/login/?sourceUrl=https%3A%2F%2Fnewatlas.com%2Fenvironment%2Fmushroom-myceliotronics-electronics%2F" data-cms-ai="0">LOG IN</a>
+        
+        
+    </div>
+
+    
+</div>
+</li>
+            
+        </ul>
+    
+</nav>
+                
+                
+                    <nav class="Navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    
+    
+        <ul class="Navigation-items">
+            
+                <li class="Navigation-items-item" ><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://newatlas.com/" data-cms-ai="0">HOME</a>
+        
+        
+    </div>
+
+    
+</div></li>
+            
+                <li class="Navigation-items-item" ><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://newatlas.com/lifestyle/" data-cms-ai="0">LIFESTYLE</a>
+        
+        
+            <div class="NavigationItem-more">
+                <button aria-label="Open Sub Navigation"><svg class="chevron"><use xlink:href="#chevron"></use></svg></button>
+            </div>
+        
+    </div>
+
+    
+        <ul class="NavigationItem-items">
+            
+                
+                    <li class="NavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/health-wellbeing/" data-cms-ai="0">Health &amp; Wellbeing</a>
+</li>
+                
+                    <li class="NavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/outdoors/" data-cms-ai="0">Outdoors</a>
+</li>
+                
+                    <li class="NavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/tiny-houses/" data-cms-ai="0">Tiny Houses</a>
+</li>
+                
+                    <li class="NavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/architecture/" data-cms-ai="0">Architecture</a>
+</li>
+                
+                    <li class="NavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/around-the-home/" data-cms-ai="0">Around the Home </a>
+</li>
+                
+                    <li class="NavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/good-thinking/" data-cms-ai="0">Good Thinking </a>
+</li>
+                
+                    <li class="NavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/holiday-destinations/" data-cms-ai="0">Holiday Destinations </a>
+</li>
+                
+                    <li class="NavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/lifestyle/" data-cms-ai="0">View all LIFESTYLE categories</a>
+</li>
+                
+            
+        </ul>
+        <ul class="NavigationItem-items-placeholder">
+            
+                
+                    <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/health-wellbeing/" data-cms-ai="0">Health &amp; Wellbeing</a>
+</li>
+                
+                    <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/outdoors/" data-cms-ai="0">Outdoors</a>
+</li>
+                
+                    <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/tiny-houses/" data-cms-ai="0">Tiny Houses</a>
+</li>
+                
+                    <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/architecture/" data-cms-ai="0">Architecture</a>
+</li>
+                
+                    <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/around-the-home/" data-cms-ai="0">Around the Home </a>
+</li>
+                
+                    <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/good-thinking/" data-cms-ai="0">Good Thinking </a>
+</li>
+                
+                    <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/holiday-destinations/" data-cms-ai="0">Holiday Destinations </a>
+</li>
+                
+                    <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/lifestyle/" data-cms-ai="0">View all LIFESTYLE categories</a>
+</li>
+                
+            
+        </ul>
+    
+</div></li>
+            
+                <li class="Navigation-items-item" ><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://newatlas.com/science/" data-cms-ai="0">SCIENCE</a>
+        
+        
+            <div class="NavigationItem-more">
+                <button aria-label="Open Sub Navigation"><svg class="chevron"><use xlink:href="#chevron"></use></svg></button>
+            </div>
+        
+    </div>
+
+    
+        <ul class="NavigationItem-items">
+            
+                
+                    <li class="NavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/energy/" data-cms-ai="0">Energy</a>
+</li>
+                
+                    <li class="NavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/medical/" data-cms-ai="0">Medical </a>
+</li>
+                
+                    <li class="NavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/space/" data-cms-ai="0">Space</a>
+</li>
+                
+                    <li class="NavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/materials/" data-cms-ai="0">Materials </a>
+</li>
+                
+                    <li class="NavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/biology/" data-cms-ai="0">Biology</a>
+</li>
+                
+                    <li class="NavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/environment/" data-cms-ai="0">Environment</a>
+</li>
+                
+                    <li class="NavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/physics/" data-cms-ai="0">Physics</a>
+</li>
+                
+                    <li class="NavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/science/" data-cms-ai="0">View all SCIENCE categories</a>
+</li>
+                
+            
+        </ul>
+        <ul class="NavigationItem-items-placeholder">
+            
+                
+                    <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/energy/" data-cms-ai="0">Energy</a>
+</li>
+                
+                    <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/medical/" data-cms-ai="0">Medical </a>
+</li>
+                
+                    <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/space/" data-cms-ai="0">Space</a>
+</li>
+                
+                    <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/materials/" data-cms-ai="0">Materials </a>
+</li>
+                
+                    <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/biology/" data-cms-ai="0">Biology</a>
+</li>
+                
+                    <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/environment/" data-cms-ai="0">Environment</a>
+</li>
+                
+                    <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/physics/" data-cms-ai="0">Physics</a>
+</li>
+                
+                    <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/science/" data-cms-ai="0">View all SCIENCE categories</a>
+</li>
+                
+            
+        </ul>
+    
+</div></li>
+            
+                <li class="Navigation-items-item" ><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://newatlas.com/technology/" data-cms-ai="0">TECHNOLOGY</a>
+        
+        
+            <div class="NavigationItem-more">
+                <button aria-label="Open Sub Navigation"><svg class="chevron"><use xlink:href="#chevron"></use></svg></button>
+            </div>
+        
+    </div>
+
+    
+        <ul class="NavigationItem-items">
+            
+                
+                    <li class="NavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/photography/" data-cms-ai="0">Photography</a>
+</li>
+                
+                    <li class="NavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/military/" data-cms-ai="0">Military </a>
+</li>
+                
+                    <li class="NavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/mobile-technology/" data-cms-ai="0">Mobile Technology </a>
+</li>
+                
+                    <li class="NavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/games/" data-cms-ai="0">Games</a>
+</li>
+                
+                    <li class="NavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/drones/" data-cms-ai="0">Drones</a>
+</li>
+                
+                    <li class="NavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/home-entertainment/" data-cms-ai="0">Home Entertainment</a>
+</li>
+                
+                    <li class="NavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/deals/" data-cms-ai="0">Deals</a>
+</li>
+                
+                    <li class="NavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/technology/" data-cms-ai="0">View all TECHNOLOGY categories</a>
+</li>
+                
+            
+        </ul>
+        <ul class="NavigationItem-items-placeholder">
+            
+                
+                    <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/photography/" data-cms-ai="0">Photography</a>
+</li>
+                
+                    <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/military/" data-cms-ai="0">Military </a>
+</li>
+                
+                    <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/mobile-technology/" data-cms-ai="0">Mobile Technology </a>
+</li>
+                
+                    <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/games/" data-cms-ai="0">Games</a>
+</li>
+                
+                    <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/drones/" data-cms-ai="0">Drones</a>
+</li>
+                
+                    <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/home-entertainment/" data-cms-ai="0">Home Entertainment</a>
+</li>
+                
+                    <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/deals/" data-cms-ai="0">Deals</a>
+</li>
+                
+                    <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/technology/" data-cms-ai="0">View all TECHNOLOGY categories</a>
+</li>
+                
+            
+        </ul>
+    
+</div></li>
+            
+                <li class="Navigation-items-item" ><div class="NavigationItem" >
+    <div class="NavigationItem-text">
+        
+            <a class="NavigationItem-text-link" href="https://newatlas.com/transport/" data-cms-ai="0">TRANSPORT</a>
+        
+        
+            <div class="NavigationItem-more">
+                <button aria-label="Open Sub Navigation"><svg class="chevron"><use xlink:href="#chevron"></use></svg></button>
+            </div>
+        
+    </div>
+
+    
+        <ul class="NavigationItem-items">
+            
+                
+                    <li class="NavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/automotive/" data-cms-ai="0">Automotive </a>
+</li>
+                
+                    <li class="NavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/aircraft/" data-cms-ai="0">Aircraft</a>
+</li>
+                
+                    <li class="NavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/bicycles/" data-cms-ai="0">Bicycles </a>
+</li>
+                
+                    <li class="NavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/motorcycles/" data-cms-ai="0">Motorcycles</a>
+</li>
+                
+                    <li class="NavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/marine/" data-cms-ai="0">Marine</a>
+</li>
+                
+                    <li class="NavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/urban-transport/" data-cms-ai="0">Urban Transport</a>
+</li>
+                
+                    <li class="NavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/transport/" data-cms-ai="0">View all TRANSPORT categories</a>
+</li>
+                
+            
+        </ul>
+        <ul class="NavigationItem-items-placeholder">
+            
+                
+                    <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/automotive/" data-cms-ai="0">Automotive </a>
+</li>
+                
+                    <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/aircraft/" data-cms-ai="0">Aircraft</a>
+</li>
+                
+                    <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/bicycles/" data-cms-ai="0">Bicycles </a>
+</li>
+                
+                    <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/motorcycles/" data-cms-ai="0">Motorcycles</a>
+</li>
+                
+                    <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/marine/" data-cms-ai="0">Marine</a>
+</li>
+                
+                    <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/urban-transport/" data-cms-ai="0">Urban Transport</a>
+</li>
+                
+                    <li class="NavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/transport/" data-cms-ai="0">View all TRANSPORT categories</a>
+</li>
+                
+            
+        </ul>
+    
+</div></li>
+            
+        </ul>
+    
+</nav>
+                
+                
+                
+                    <div class="Page-header-disclaimer">© 2022 New Atlas</div>
+                
+            </div>
+        </div>
+    </div>
+
+    <div class="Page-header-logo">
+        
+            <a class="PageLogo" aria-label="Home page" href="/" data-cms-ai="0"  >
+
+    
+    <img src="https://assets.newatlas.com/f9/41/27112c5e473b931fa33d1ef36dff/newatlas-logo-20210716.svg" alt="New Atlas logo" width="252" height="35" /></a>
+
+        
+    </div>
+
+    <div class="Page-header-bar">
+        <button class="Page-header-menu-trigger" aria-expanded="false" tabindex="1"><svg class="burger-menu"><use xlink:href="#burger-menu"></use></svg><svg class="close-x"><use xlink:href="#close-x"></use></svg><span class="label">Menu</span></button>
+
+        <div class="Page-header-bar-navigation">
+            
+                
+                    <nav class="DropdownNavigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    
+    
+        <ul class="DropdownNavigation-items">
+            
+                <li class="DropdownNavigation-items-item" >
+                    <div class="DropdownNavigationItem" >
+    <div class="DropdownNavigationItem-text">
+        
+            <a class="DropdownNavigationItem-text-link" href="https://newatlas.com/" data-cms-ai="0">HOME</a>
+        
+        
+    </div>
+
+    
+</div>
+
+                </li>
+            
+                <li class="DropdownNavigation-items-item" >
+                    <div class="DropdownNavigationItem" >
+    <div class="DropdownNavigationItem-text">
+        
+            <a class="DropdownNavigationItem-text-link" href="https://newatlas.com/lifestyle/" data-cms-ai="0">LIFESTYLE</a>
+        
+        
+            <div class="DropdownNavigationItem-more">
+                <svg class="chevron"><use xlink:href="#chevron"></use></svg>
+            </div>
+        
+    </div>
+
+    
+        <div class="DropdownNavigationItem-dropdown" data-fullwidth>
+            <ul class="DropdownNavigationItem-items">
+                
+                    
+                        <li class="DropdownNavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/health-wellbeing/" data-cms-ai="0">Health &amp; Wellbeing</a>
+</li>
+                    
+                        <li class="DropdownNavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/outdoors/" data-cms-ai="0">Outdoors</a>
+</li>
+                    
+                        <li class="DropdownNavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/tiny-houses/" data-cms-ai="0">Tiny Houses</a>
+</li>
+                    
+                        <li class="DropdownNavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/architecture/" data-cms-ai="0">Architecture</a>
+</li>
+                    
+                        <li class="DropdownNavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/around-the-home/" data-cms-ai="0">Around the Home </a>
+</li>
+                    
+                        <li class="DropdownNavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/good-thinking/" data-cms-ai="0">Good Thinking </a>
+</li>
+                    
+                        <li class="DropdownNavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/holiday-destinations/" data-cms-ai="0">Holiday Destinations </a>
+</li>
+                    
+                        <li class="DropdownNavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/lifestyle/" data-cms-ai="0">View all LIFESTYLE categories</a>
+</li>
+                    
+                
+            </ul>
+            
+                <div class="DropdownNavigationItem-featured" data-featured-endpoint="https://newatlas.com/api/featured?id=0000016b-73e8-dde6-adef-f3fbfddf0000">
+                </div>
+            
+        </div>
+    
+</div>
+
+                </li>
+            
+                <li class="DropdownNavigation-items-item" >
+                    <div class="DropdownNavigationItem" >
+    <div class="DropdownNavigationItem-text">
+        
+            <a class="DropdownNavigationItem-text-link" href="https://newatlas.com/science/" data-cms-ai="0">SCIENCE</a>
+        
+        
+            <div class="DropdownNavigationItem-more">
+                <svg class="chevron"><use xlink:href="#chevron"></use></svg>
+            </div>
+        
+    </div>
+
+    
+        <div class="DropdownNavigationItem-dropdown" data-fullwidth>
+            <ul class="DropdownNavigationItem-items">
+                
+                    
+                        <li class="DropdownNavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/energy/" data-cms-ai="0">Energy</a>
+</li>
+                    
+                        <li class="DropdownNavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/medical/" data-cms-ai="0">Medical </a>
+</li>
+                    
+                        <li class="DropdownNavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/space/" data-cms-ai="0">Space</a>
+</li>
+                    
+                        <li class="DropdownNavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/materials/" data-cms-ai="0">Materials </a>
+</li>
+                    
+                        <li class="DropdownNavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/biology/" data-cms-ai="0">Biology</a>
+</li>
+                    
+                        <li class="DropdownNavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/environment/" data-cms-ai="0">Environment</a>
+</li>
+                    
+                        <li class="DropdownNavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/physics/" data-cms-ai="0">Physics</a>
+</li>
+                    
+                        <li class="DropdownNavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/science/" data-cms-ai="0">View all SCIENCE categories</a>
+</li>
+                    
+                
+            </ul>
+            
+                <div class="DropdownNavigationItem-featured" data-featured-endpoint="https://newatlas.com/api/featured?id=0000016b-73e8-dde6-adef-f3fbfe410000">
+                </div>
+            
+        </div>
+    
+</div>
+
+                </li>
+            
+                <li class="DropdownNavigation-items-item" >
+                    <div class="DropdownNavigationItem" >
+    <div class="DropdownNavigationItem-text">
+        
+            <a class="DropdownNavigationItem-text-link" href="https://newatlas.com/technology/" data-cms-ai="0">TECHNOLOGY</a>
+        
+        
+            <div class="DropdownNavigationItem-more">
+                <svg class="chevron"><use xlink:href="#chevron"></use></svg>
+            </div>
+        
+    </div>
+
+    
+        <div class="DropdownNavigationItem-dropdown" data-fullwidth>
+            <ul class="DropdownNavigationItem-items">
+                
+                    
+                        <li class="DropdownNavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/photography/" data-cms-ai="0">Photography</a>
+</li>
+                    
+                        <li class="DropdownNavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/military/" data-cms-ai="0">Military </a>
+</li>
+                    
+                        <li class="DropdownNavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/mobile-technology/" data-cms-ai="0">Mobile Technology </a>
+</li>
+                    
+                        <li class="DropdownNavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/games/" data-cms-ai="0">Games</a>
+</li>
+                    
+                        <li class="DropdownNavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/drones/" data-cms-ai="0">Drones</a>
+</li>
+                    
+                        <li class="DropdownNavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/home-entertainment/" data-cms-ai="0">Home Entertainment</a>
+</li>
+                    
+                        <li class="DropdownNavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/deals/" data-cms-ai="0">Deals</a>
+</li>
+                    
+                        <li class="DropdownNavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/technology/" data-cms-ai="0">View all TECHNOLOGY categories</a>
+</li>
+                    
+                
+            </ul>
+            
+                <div class="DropdownNavigationItem-featured" data-featured-endpoint="https://newatlas.com/api/featured?id=0000016b-73e8-dde6-adef-f3fbfe100000">
+                </div>
+            
+        </div>
+    
+</div>
+
+                </li>
+            
+                <li class="DropdownNavigation-items-item" >
+                    <div class="DropdownNavigationItem" >
+    <div class="DropdownNavigationItem-text">
+        
+            <a class="DropdownNavigationItem-text-link" href="https://newatlas.com/transport/" data-cms-ai="0">TRANSPORT</a>
+        
+        
+            <div class="DropdownNavigationItem-more">
+                <svg class="chevron"><use xlink:href="#chevron"></use></svg>
+            </div>
+        
+    </div>
+
+    
+        <div class="DropdownNavigationItem-dropdown" data-fullwidth>
+            <ul class="DropdownNavigationItem-items">
+                
+                    
+                        <li class="DropdownNavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/automotive/" data-cms-ai="0">Automotive </a>
+</li>
+                    
+                        <li class="DropdownNavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/aircraft/" data-cms-ai="0">Aircraft</a>
+</li>
+                    
+                        <li class="DropdownNavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/bicycles/" data-cms-ai="0">Bicycles </a>
+</li>
+                    
+                        <li class="DropdownNavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/motorcycles/" data-cms-ai="0">Motorcycles</a>
+</li>
+                    
+                        <li class="DropdownNavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/marine/" data-cms-ai="0">Marine</a>
+</li>
+                    
+                        <li class="DropdownNavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/urban-transport/" data-cms-ai="0">Urban Transport</a>
+</li>
+                    
+                        <li class="DropdownNavigationItem-items-item" >
+    <a class="NavigationLink" href="https://newatlas.com/transport/" data-cms-ai="0">View all TRANSPORT categories</a>
+</li>
+                    
+                
+            </ul>
+            
+                <div class="DropdownNavigationItem-featured" data-featured-endpoint="https://newatlas.com/api/featured?id=0000016b-73e8-dde6-adef-f3fbfdae0000">
+                </div>
+            
+        </div>
+    
+</div>
+
+                </li>
+            
+        </ul>
+    
+</nav>
+
+                
+            
+        </div>
+
+        <div class="Page-header-end">
+            
+                <div class="Page-header-auth-navigation">
+                    
+                        <nav class="DropdownNavigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    
+    
+        <ul class="DropdownNavigation-items">
+            
+                <li class="DropdownNavigation-items-item" >
+                    <div class="DropdownNavigationItem" >
+    <div class="DropdownNavigationItem-text">
+        
+            <a class="DropdownNavigationItem-text-link" href="https://newatlas.com/subscribe/" data-cms-ai="0">SUBSCRIBE AD-FREE</a>
+        
+        
+    </div>
+
+    
+</div>
+
+                </li>
+            
+                <li class="DropdownNavigation-items-item" >
+                    <div class="DropdownNavigationItem" >
+    <div class="DropdownNavigationItem-text">
+        
+            <a class="DropdownNavigationItem-text-link" href="https://newatlas.com/login/?sourceUrl=https%3A%2F%2Fnewatlas.com%2Fenvironment%2Fmushroom-myceliotronics-electronics%2F" data-cms-ai="0">LOG IN</a>
+        
+        
+    </div>
+
+    
+</div>
+
+                </li>
+            
+        </ul>
+    
+</nav>
+
+                    
+                </div>
+            
+            
+                <button class="Page-header-search-button"><svg class="icon-magnify"><use xlink:href="#icon-magnify"></use></svg><span class="sr-only">Show Search</span><svg class="close-x"><use xlink:href="#close-x"></use></svg></button>
+
+                <div class="Page-header-search-overlay">
+                    <form class="Page-header-search-form" action="https://newatlas.com/search/#nt=navsearch" novalidate="" autocomplete="off">
+                        <label><input placeholder="Search" type="text" class="Page-header-search-input" name="q" required="true"><span class="sr-only">Search Query</span></label>
+                        <button type="submit" class="Page-header-search-submit"><svg><use xlink:href="#icon-magnify"></use></svg><span class="sr-only">Submit Search</span></button>
+                    </form>
+                </div>
+            
+        </div>
+    </div>
+</ps-header>
+
+        
+    <div class="Page-above" >
+        <div class="Page-above-content"><div class="OcelotAdModule" data-id="desktop_article_leaderboard_header"><div class="OcelotAdModule-ad" id="desktop_article_leaderboard_header"></div></div></div>
+    </div>
+
+
+
+        <div class="ArticlePage-content">
+            <div class="ArticlePage-wrapper">
+                <main class="ArticlePage-main">
+                    <div class="ArticlePage-main-content">
+                        <article class="ArticlePage-mainContent">
+
+                            
+    <div class="ArticlePage-breadcrumbs"><a class="Link" href="https://newatlas.com/environment/" data-cms-ai="0">Environment</a></div>
+
+
+                            
+    <h1 class="ArticlePage-headline" itemprop="headline">
+        Mushroom-derived electronics designed to biodegrade when discarded
+    </h1>
+
+
+
+                            <div class="ArticlePage-contentInfo">
+                                <div class="ArticlePage-byline">
+                                    
+                                        
+                                            <div class="ArticlePage-authors"><div class="ArticlePage-authorName" itemprop="name">
+<span class="ArticlePage-authorBy">By&nbsp;</span><a aria-label="Ben Coxworth" href="https://newatlas.com/author/ben-coxworth/" data-cms-ai="0"><span>Ben Coxworth</span></a></div></div>
+                                        
+                                    <div class="ArticlePage-datePublished">
+        November 14, 2022
+    </div>
+    <meta itemprop="datePublished" content="2022-11-14T22:01:21.620Z">
+
+</div>
+
+                                
+                                    <div class="ArticlePage-actions">
+                                        <div class="ActionBar">
+    <ul class="ActionBar-items">
+        
+            <li class="ActionBar-items-item"> <a class="ActionLink" href="https://www.facebook.com/dialog/share?app_id=38456013908&display=popup&href=https%3A%2F%2Fnewatlas.com%2Fenvironment%2Fmushroom-myceliotronics-electronics%2F"
+    target="_blank" data-social-service="facebook" data-cms-ai="0">
+    <svg><use xlink:href="#mono-icon-facebook"></use></svg><span>Facebook</span>
+</a>
+</li>
+        
+            <li class="ActionBar-items-item"><a class="ActionLink" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fnewatlas.com%2Fenvironment%2Fmushroom-myceliotronics-electronics%2F&text=Mushroom-derived%20electronics%20designed%20to%20biodegrade%20when%20discarded"
+    target="_blank" data-social-service="twitter" data-cms-ai="0">
+    <svg><use xlink:href="#mono-icon-twitter" /></svg><span>Twitter</span>
+</a>
+</li>
+        
+            <li class="ActionBar-items-item"><a class="ActionLink" href="https://share.flipboard.com/bookmarklet/popout?v=2&title=Mushroom-derived%20electronics%20designed%20to%20biodegrade%20when%20discarded&url=https%3A%2F%2Fnewatlas.com%2Fenvironment%2Fmushroom-myceliotronics-electronics%2F"
+    target="_blank" data-social-service="flipboard" data-cms-ai="0">
+    <svg><use xlink:href="#mono-icon-flipboard"></use></svg><span>Flipboard</span>
+</a>
+</li>
+        
+            <li class="ActionBar-items-item"><a class="ActionLink" href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fnewatlas.com%2Fenvironment%2Fmushroom-myceliotronics-electronics%2F&mini=true&title=Mushroom-derived%20electronics%20designed%20to%20biodegrade%20when%20discarded&summary=Among%20other%20things%2C%20mushrooms%20have%20been%20put%20forth%20as%20eco-friendly%20alternatives%20to%20leather%20and%20expanded%20foam%20packaging.%20According%20to%20a%20new%20study%2C%20they%20might%20also%20find%20use%20in%20biodegradable%20electronic%20devices.&source=New%20Atlas"
+    target="_blank" data-social-service="linkedin" data-cms-ai="0">
+    <svg><use xlink:href="#mono-icon-linkedin"></use></svg><span>LinkedIn</span>
+</a>
+</li>
+        
+    </ul>
+</div>
+
+                                    </div>
+                                
+                            </div>
+
+                            
+                                
+                                
+                                    <div class="ArticlePage-lead"><ps-carousel class="FullscreenCarousel" data-direction="vertical" data-scroll-indicator="1" data-carousel-has-aside>
+    <template class="slideTemplate">
+        <div class="FullscreenCarousel-slide" aria-hidden="true" tabindex="-1" style="position: absolute;" data-gallery-slide-index="inline">
+            <div class="CarouselSlide" itemprop="image" itemtype="http://schema.org/ImageObject">
+                <div class="CarouselSlide-media">
+                    
+                    <figure>
+                        <img class="Image lazy" alt="Inline image" src="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 16 9%22 /%3E">
+                    </figure>
+                </div>
+                <div class="CarouselSlide-info">
+                    <div class="CarouselSlide-numbers">
+                        <span class="CarouselSlide-currentSlide"></span>/<span class="CarouselSlide-slidesLength"></span>
+                    </div>
+                    <div class="CarouselSlide-caption">
+                        <div class="CarouselSlide-infoDescription" itemprop="caption"></div>
+                        <div class="CarouselSlide-infoAttribution" itemprop="author"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </template>
+
+    <div class="FullscreenCarousel-header">
+        <div class="FullscreenCarousel-header-logo">
+            <img class="PageLogo-image" src="https://newatlas.com/apple-touch-icon.png" width="30" height="30">
+        </div>
+        <div class="FullscreenCarousel-header-title truncate">Mushroom-derived electronics designed to biodegrade when discarded</div>
+        <div class="FullscreenCarousel-header-close"></div>
+    </div>
+
+    <div class="FullscreenCarousel-skeleton">
+        <div class='FullscreenCarousel-skeleton-image-container'>
+            <div class='FullscreenCarousel-skeleton-curtain'>
+                <div class='FullscreenCarousel-skeleton-shine'></div>
+            </div>
+        </div>
+        <div class="FullscreenCarousel-skeleton-comment"></div>
+        <button class="flickity-button flickity-fullscreen-button hide-skeleton-button" type="button" aria-label="Exit full-screen" title="Exit full-screen">
+            <svg class="flickity-button-icon" viewBox="0 0 32 32">
+                <path d="M32,3l-7,7h5v4H18V2h4V7l7-7ZM3,32l7-7v5h4V18H2v4H7L0,29Z"></path>
+            </svg>
+        </button>
+    </div>
+
+    <div class="FullscreenCarousel-cover">
+        
+            
+            
+            
+            
+            
+            
+            <div class="CarouselSlide" itemprop="image" itemtype="http://schema.org/ImageObject" >
+    <div class="CarouselSlide-media">
+        
+            
+
+
+<div class="Image__wrapper" data-template="CarouselImage">
+    <img
+        class="Image "
+        alt="The MycelioTronic substrate material is made from the skin of the reishi mushroom"
+         width="1200"
+         height="800"
+        data-image-size="carouselSlide" fetchpriority="high"
+             srcset="https://assets.newatlas.com/dims4/default/a9c4c0b/2147483647/strip/true/crop/2000x1333+0+0/resize/420x280!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff5%2Ff1%2F40eed9804fc3a4cd331eb27a1d12%2Fdepositphotos-37151529-l.jpg 420w,https://assets.newatlas.com/dims4/default/877ffec/2147483647/strip/true/crop/2000x1333+0+0/resize/840x560!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff5%2Ff1%2F40eed9804fc3a4cd331eb27a1d12%2Fdepositphotos-37151529-l.jpg 840w,https://assets.newatlas.com/dims4/default/84cfe58/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff5%2Ff1%2F40eed9804fc3a4cd331eb27a1d12%2Fdepositphotos-37151529-l.jpg 1200w,https://assets.newatlas.com/dims4/default/75c91b8/2147483647/strip/true/crop/2000x1333+0+0/resize/1920x1280!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff5%2Ff1%2F40eed9804fc3a4cd331eb27a1d12%2Fdepositphotos-37151529-l.jpg 1920w"
+            src="https://assets.newatlas.com/dims4/default/84cfe58/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff5%2Ff1%2F40eed9804fc3a4cd331eb27a1d12%2Fdepositphotos-37151529-l.jpg"
+                
+                sizes="(min-width: 1240px) 800px, (min-width: 1024px) 95vw, 100vw"
+                
+    />
+</div>
+
+
+
+        
+    </div>
+
+    <div class="CarouselSlide-info">
+        
+        
+            <div class="CarouselSlide-caption"><div class="CarouselSlide-infoDescription" itemprop="caption">The MycelioTronic substrate material is made from the skin of the reishi mushroom</div><div class="CarouselSlide-infoAttribution" itemprop="author">Depositphotos</div></div>
+        
+    </div>
+</div>
+
+            
+            
+            
+            
+            
+        
+
+        <div class="FullscreenCarousel-cover-count">
+            <div class="count">
+                View 1 Image
+            </div>
+            <button class="flickity-button flickity-fullscreen-button flickity-fullscreen-button-view show-skeleton-button active" type="button" aria-label="View full-screen" title="View full-screen">
+                <svg class="flickity-button-icon" viewBox="0 0 32 32">
+                    <path d="M15,20,7,28h5v4H0V20H4v5l8-8Zm5-5,8-8v5h4V0H20V4h5l-8,8Z"></path>
+                </svg>
+            </button>
+        </div>
+    </div>
+
+    <div class="FullscreenCarousel-slides">
+        
+            
+            <div class="FullscreenCarousel-slide" id="slide-1" data-gallery-slide-index="0">
+                
+                
+                
+                <div class="CarouselSlide" itemprop="image" itemtype="http://schema.org/ImageObject" >
+    <div class="CarouselSlide-media">
+        
+            
+
+
+<div class="Image__wrapper" data-template="CarouselImage">
+    <img
+        class="Image lazy"
+        alt="The MycelioTronic substrate material is made from the skin of the reishi mushroom"
+         width="2000"
+         height="1333"
+        data-image-size="gallerySlide"
+            
+            loading="lazy"
+
+            
+            
+             data-flickity-lazyload-srcset="https://assets.newatlas.com/dims4/default/35a2aee/2147483647/strip/true/crop/2000x1333+0+0/resize/440x293!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff5%2Ff1%2F40eed9804fc3a4cd331eb27a1d12%2Fdepositphotos-37151529-l.jpg 440w,https://assets.newatlas.com/dims4/default/94cb172/2147483647/strip/true/crop/2000x1333+0+0/resize/768x512!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff5%2Ff1%2F40eed9804fc3a4cd331eb27a1d12%2Fdepositphotos-37151529-l.jpg 768w,https://assets.newatlas.com/dims4/default/c8a5ad9/2147483647/strip/true/crop/2000x1333+0+0/resize/1440x960!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff5%2Ff1%2F40eed9804fc3a4cd331eb27a1d12%2Fdepositphotos-37151529-l.jpg 1440w,https://assets.newatlas.com/dims4/default/75c91b8/2147483647/strip/true/crop/2000x1333+0+0/resize/1920x1280!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff5%2Ff1%2F40eed9804fc3a4cd331eb27a1d12%2Fdepositphotos-37151529-l.jpg 1920w,https://assets.newatlas.com/dims4/default/e04a0c9/2147483647/strip/true/crop/2000x1333+0+0/resize/2880x1920!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff5%2Ff1%2F40eed9804fc3a4cd331eb27a1d12%2Fdepositphotos-37151529-l.jpg 2880w"
+            data-flickity-lazyload-src="https://assets.newatlas.com/dims4/default/a836d31/2147483647/strip/true/crop/2000x1333+0+0/resize/2000x1333!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff5%2Ff1%2F40eed9804fc3a4cd331eb27a1d12%2Fdepositphotos-37151529-l.jpg"
+                
+                sizes="100vw"
+                
+            
+    />
+</div>
+
+
+
+        
+    </div>
+
+    <div class="CarouselSlide-info">
+        
+            <div class="CarouselSlide-numbers">
+                
+                <span class="CarouselSlide-currentSlide">1</span>/<span class="CarouselSlide-slidesLength">1</span>
+            </div>
+        
+        
+            <div class="CarouselSlide-caption"><div class="CarouselSlide-infoDescription" itemprop="caption">The MycelioTronic substrate material is made from the skin of the reishi mushroom</div><div class="CarouselSlide-infoAttribution" itemprop="author">Depositphotos</div></div>
+        
+    </div>
+</div>
+
+                
+                
+                
+            </div>
+        
+    </div>
+
+    
+        <div class="FullscreenCarousel-aside"><div class="OcelotAdModule" data-id="slideshow"><div class="OcelotAdModule-ad" id="slideshow"></div></div></div>
+    
+
+    <img
+        title="Scroll to view gallery"
+        class="FullscreenCarousel__scroll-indicator__icon"
+        
+        src="https://assets.newatlas.com/b3/0e/8ac097c7401585a3b3f56c44dea0/icon-mouse-scroll-down-outline-solid.svg"
+        style="display: none;"
+        width="100"
+        height="100"
+        role="icon"
+    >
+</ps-carousel></div>
+                                
+
+                                
+                            
+
+
+                            
+
+
+                            <div class="ArticlePage-articleContainer">
+                                
+                                    <div class="ArticlePage-articleBody">
+                                        
+                                        
+                                        
+                                        <div class="RichTextArticleBody">
+    
+        <div class="RichTextArticleBody-body RichTextBody"><p>Among other things, mushrooms have been put forth as eco-friendly alternatives to <a class="Link" href="https://newatlas.com/materials/mushroom-leather-ethical-sustainable-cheap-alternative/" data-cms-ai="0">leather</a> and <a class="Link" href="https://newatlas.com/mushrooms-new-styrofoam-alternative/16748/" data-cms-ai="0">expanded foam packaging</a>. According to a new study, they might also find use in biodegradable electronic devices.</p><p>The discovery of this novel use for mushrooms was made more or less accidentally Martin Kaltenbrunner, Doris Danninger and Roland Pruckner, all of whom are scientists at Austria's Johannes Kepler University Linz.</p><p>While investigating the use of mushrooms in applications such as building insulation, they noted that the reishi mushroom (<i>Ganoderma lucidum</i>) has a particularly tough outer skin that protects the underlying pulpy tissue from pathogens and other types of fungi.</p><p>It was discovered that the skin can be easily removed and then dried, forming a "robust, flexible, and heat resistant" material that can withstand temperatures of up to 250 ºC (482 ºF). That said, when left in the proper environment, it completely biodegrades. With these properties in mind, it is hoped that the "MycelioTronic" material could one day serve as the substrate for printed circuit boards in flexible electronic devices.</p><p>Currently, the substrates in such boards are constructed of polymers which are difficult to separate from the other components, thus making it hard to recycle both the polymers <i>and</i> those components. By contrast, once the mushroom-based substrate had biodegraded, the remaining non-degradable items could simply be plucked out and recycled.</p><p>The material could conceivably also find use in medical implants, designed to harmlessly dissolve within the body once they're no longer needed.</p><p>In a proof-of-concept exercise, the researchers have already built functional proximity and humidity sensors in which conventional electronic chips were soldered onto a MycelioTronic substrate. They're now looking into using the material in other components, with the aim of ultimately producing a completely biodegradable circuit board.</p><p>The study is described in a paper that was recently published in the journal <i><a class="Link" href="https://www.science.org/doi/10.1126/sciadv.add7118" target="_blank" data-cms-ai="0">Science Advances</a></i>.</p><p>Source: <a class="Link" href="https://www.jku.at/en/news-events/news/detail/news/myceliotronics-forscher-nutzen-pilzhaut-fuer-elektronik/" target="_blank" data-cms-ai="0">Johannes Kepler University Linz</a> via <a class="Link" href="https://www.newscientist.com/article/2346702-computer-chip-made-using-mushroom-skin-could-be-easily-recycled/" target="_blank" data-cms-ai="0">New Scientist</a><br></p></div>
+    
+</div>
+
+                                        
+                                        
+                                        
+                                    </div>
+                                
+                            </div>
+
+                            
+                                    
+                            
+                        </article>
+
+                        
+
+                        
+
+<div class="ArticlePage-tags">
+<h2 class="ArticlePage-tags-heading">Tags</h2>
+    <div class="ArticlePage-tags-list"><a class="Link" href="https://newatlas.com/environment/" data-cms-ai="0">Environment</a><a class="Link" href="https://newatlas.com/tag/johannes-kepler-university-linz/" data-cms-ai="0">Johannes Kepler University Linz</a><a class="Link" href="https://newatlas.com/tag/mushrooms/" data-cms-ai="0">Mushrooms</a><a class="Link" href="https://newatlas.com/tag/biodegradable/" data-cms-ai="0">Biodegradable</a><a class="Link" href="https://newatlas.com/tag/flexible-electronics/" data-cms-ai="0">Flexible Electronics</a></div>
+</div>
+
+
+
+                        
+                            <div class="ArticlePage-actions">
+                                
+                                    <div class="ActionBar">
+    <ul class="ActionBar-items">
+        
+            <li class="ActionBar-items-item"> <a class="ActionLink" href="https://www.facebook.com/dialog/share?app_id=38456013908&display=popup&href=https%3A%2F%2Fnewatlas.com%2Fenvironment%2Fmushroom-myceliotronics-electronics%2F"
+    target="_blank" data-social-service="facebook" data-cms-ai="0">
+    <svg><use xlink:href="#mono-icon-facebook"></use></svg><span>Facebook</span>
+</a>
+</li>
+        
+            <li class="ActionBar-items-item"><a class="ActionLink" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fnewatlas.com%2Fenvironment%2Fmushroom-myceliotronics-electronics%2F&text=Mushroom-derived%20electronics%20designed%20to%20biodegrade%20when%20discarded"
+    target="_blank" data-social-service="twitter" data-cms-ai="0">
+    <svg><use xlink:href="#mono-icon-twitter" /></svg><span>Twitter</span>
+</a>
+</li>
+        
+            <li class="ActionBar-items-item"><a class="ActionLink" href="https://share.flipboard.com/bookmarklet/popout?v=2&title=Mushroom-derived%20electronics%20designed%20to%20biodegrade%20when%20discarded&url=https%3A%2F%2Fnewatlas.com%2Fenvironment%2Fmushroom-myceliotronics-electronics%2F"
+    target="_blank" data-social-service="flipboard" data-cms-ai="0">
+    <svg><use xlink:href="#mono-icon-flipboard"></use></svg><span>Flipboard</span>
+</a>
+</li>
+        
+            <li class="ActionBar-items-item"><a class="ActionLink" href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fnewatlas.com%2Fenvironment%2Fmushroom-myceliotronics-electronics%2F&mini=true&title=Mushroom-derived%20electronics%20designed%20to%20biodegrade%20when%20discarded&summary=Among%20other%20things%2C%20mushrooms%20have%20been%20put%20forth%20as%20eco-friendly%20alternatives%20to%20leather%20and%20expanded%20foam%20packaging.%20According%20to%20a%20new%20study%2C%20they%20might%20also%20find%20use%20in%20biodegradable%20electronic%20devices.&source=New%20Atlas"
+    target="_blank" data-social-service="linkedin" data-cms-ai="0">
+    <svg><use xlink:href="#mono-icon-linkedin"></use></svg><span>LinkedIn</span>
+</a>
+</li>
+        
+    </ul>
+</div>
+
+                                
+
+                                
+                                    <div class="ArticlePage-actions__commentsLink">
+                                        <a href="#comments" data-scroll-to-comments class="ArticlePage-actions__commentsLink__button" data-cms-ai="0">
+                                            <svg><use xlink:href="#mono-icon-comments"></use></svg>
+                                            
+                                                No comments
+                                            
+                                        </a>
+                                    </div>
+                                
+                            </div>
+                        
+
+                        
+    <div class="ArticlePage-authorInfo">
+        
+        
+        <div class="ArticlePage-authorInfo-image" itemprop="image">
+            <a aria-label="Ben Coxworth" href="https://newatlas.com/author/ben-coxworth/" data-cms-ai="0">
+            <img alt="Ben Coxworth"
+                loading="lazy"
+                src="https://assets.newatlas.com/dims4/default/800b535/2147483647/strip/true/crop/243x243+60+0/resize/100x100!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F1a%2Fff%2F6c02760f4fe7b724c9be9314ee92%2Fstaff-bio-icon-ben-coxworth.jpg" srcset="https://assets.newatlas.com/dims4/default/9325c5e/2147483647/strip/true/crop/243x243+60+0/resize/80x80!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F1a%2Fff%2F6c02760f4fe7b724c9be9314ee92%2Fstaff-bio-icon-ben-coxworth.jpg 80w,https://assets.newatlas.com/dims4/default/d87188b/2147483647/strip/true/crop/243x243+60+0/resize/160x160!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F1a%2Fff%2F6c02760f4fe7b724c9be9314ee92%2Fstaff-bio-icon-ben-coxworth.jpg 160w" sizes="(min-width: 768px) 60px, 80px" width="100" height="100">
+            </a>
+        </div>
+        
+        
+
+        <div class="ArticlePage-authorInfo-bio">
+            
+                <div class="ArticlePage-authorInfo-bio-name" itemprop="name">
+                    <a href="https://newatlas.com/author/ben-coxworth/" aria-label="" data-cms-ai="0">Ben Coxworth</a>
+                </div>
+            
+            <div class="ArticlePage-authorInfo-bio-content">
+                
+                    Based out of Edmonton, Canada, Ben Coxworth has been writing for New Atlas since 2009 and is presently Managing Editor for North America. An experienced freelance writer, he previously obtained an English BA from the University of Saskatchewan, then spent over 20 years working in various markets as a television reporter, producer and news videographer. Ben is particularly interested in scientific innovation, human-powered transportation, and the marine environment.
+                
+            </div>
+        </div>
+    </div>
+
+
+
+                        
+    <div class="ArticlePage-contentFooter">
+    <div class="OneColumnContainer">
+    <div class="OneColumnContainer-row">
+        
+            <div class="OneColumnContainer-column">
+                
+<ps-list-loadmore class="ListD"  >
+    <div class="ListD-header" >
+    
+        <h2 class="ListD-header-title">Most Viewed</h2>
+    
+</div>
+
+
+    
+        <ul class="ListD-items" data-list-loadmore-items>
+            
+            
+            <li class="ListD-items-item">
+                
+                    <div class="PromoB"  data-content-type="article" data-image-align="top">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                    
+                    <a class="Link" href="https://newatlas.com/medical/charged-nanomaterial-injection-fat-depots-obesity/"aria-label="Major obesity advance takes out targeted fat depots anywhere in the body" data-cms-ai="0">
+
+
+<div class="Image__wrapper" data-template="Image">
+    <img
+        class="Image "
+        alt="Scientists have used positively charged nanomaterials to selectively target fat depots in the bodies of mice"
+         width="720"
+         height="480"
+        data-image-size="promoMediumLarge"
+             srcset="https://assets.newatlas.com/dims4/default/27a2709/2147483647/strip/true/crop/1833x1222+0+606/resize/220x147!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc1%2F4c%2F116c928d441e8ba6589a294f1857%2Fpositively-charged-nan.jpg 220w,https://assets.newatlas.com/dims4/default/fefb69d/2147483647/strip/true/crop/1833x1222+0+606/resize/440x293!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc1%2F4c%2F116c928d441e8ba6589a294f1857%2Fpositively-charged-nan.jpg 440w,https://assets.newatlas.com/dims4/default/1be0022/2147483647/strip/true/crop/1833x1222+0+606/resize/800x533!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc1%2F4c%2F116c928d441e8ba6589a294f1857%2Fpositively-charged-nan.jpg 800w"
+            src="https://assets.newatlas.com/dims4/default/5b4a68f/2147483647/strip/true/crop/1833x1222+0+606/resize/720x480!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc1%2F4c%2F116c928d441e8ba6589a294f1857%2Fpositively-charged-nan.jpg"
+        
+                
+                sizes="(min-width: 768px) 440px, 92vw"
+                
+            
+    />
+</div>
+
+
+</a>
+                    
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://newatlas.com/medical/" data-cms-ai="0">Medical</a>
+            </div>
+        
+
+        
+            <h3 class="PromoB-title">
+                    <a class="Link" href="https://newatlas.com/medical/charged-nanomaterial-injection-fat-depots-obesity/" data-cms-ai="0">Major obesity advance takes out targeted fat depots anywhere in the body</a>
+            </h3>
+        
+
+        
+
+        
+
+        
+    </div>
+</div>
+                
+            </li>
+            
+            <li class="ListD-items-item">
+                
+                    <div class="PromoB"  data-content-type="article" data-image-align="top">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                    
+                    <a class="Link" href="https://newatlas.com/medical/alzheimers-disease-root-cause-axon-swelling/"aria-label="Yale study uncovers new potential root cause of Alzheimer&#x27;s disease" data-cms-ai="0">
+
+
+<div class="Image__wrapper" data-template="Image">
+    <img
+        class="Image "
+        alt="A microscope image of amyloid plaques (blue) surrounded by swelling in axons (purple)"
+         width="720"
+         height="480"
+        data-image-size="promoMediumLarge"
+             srcset="https://assets.newatlas.com/dims4/default/59990df/2147483647/strip/true/crop/891x594+66+0/resize/220x147!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F63%2F57%2F424f561a4e3a8783178dedd7cd38%2Fplaquesswelling.jpeg 220w,https://assets.newatlas.com/dims4/default/77637c7/2147483647/strip/true/crop/891x594+66+0/resize/440x293!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F63%2F57%2F424f561a4e3a8783178dedd7cd38%2Fplaquesswelling.jpeg 440w,https://assets.newatlas.com/dims4/default/082ee06/2147483647/strip/true/crop/891x594+66+0/resize/800x533!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F63%2F57%2F424f561a4e3a8783178dedd7cd38%2Fplaquesswelling.jpeg 800w"
+            src="https://assets.newatlas.com/dims4/default/99c4b5f/2147483647/strip/true/crop/891x594+66+0/resize/720x480!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F63%2F57%2F424f561a4e3a8783178dedd7cd38%2Fplaquesswelling.jpeg"
+        
+                
+                sizes="(min-width: 768px) 440px, 92vw"
+                
+            
+    />
+</div>
+
+
+</a>
+                    
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://newatlas.com/medical/" data-cms-ai="0">Medical</a>
+            </div>
+        
+
+        
+            <h3 class="PromoB-title">
+                    <a class="Link" href="https://newatlas.com/medical/alzheimers-disease-root-cause-axon-swelling/" data-cms-ai="0">Yale study uncovers new potential root cause of Alzheimer&#x27;s disease</a>
+            </h3>
+        
+
+        
+
+        
+
+        
+    </div>
+</div>
+                
+            </li>
+            
+            <li class="ListD-items-item">
+                
+                    <div class="PromoB"  data-content-type="article" data-image-align="top">
+    <div class="PromoB-content">
+        
+            
+                <div class="PromoB-media">
+                    
+                    
+                    <a class="Link" href="https://newatlas.com/space/flash-light-quadrillion-suns-black-hole-star/"aria-label="Flash of light as bright as a quadrillion Suns dazzles astronomers" data-cms-ai="0">
+
+
+<div class="Image__wrapper" data-template="Image">
+    <img
+        class="Image "
+        alt="An artist&#x27;s impression of a black hole producing jets, which are believed to be responsible for an extremely bright flash of light detected by astronomers"
+         width="720"
+         height="480"
+        data-image-size="promoMediumLarge"
+             srcset="https://assets.newatlas.com/dims4/default/a10c80a/2147483647/strip/true/crop/900x600+0+0/resize/220x147!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbf%2F3f%2F64db28aa4f9983743cccf7ac3fec%2Fblack-hole-jet.jpeg 220w,https://assets.newatlas.com/dims4/default/fadbef9/2147483647/strip/true/crop/900x600+0+0/resize/440x293!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbf%2F3f%2F64db28aa4f9983743cccf7ac3fec%2Fblack-hole-jet.jpeg 440w,https://assets.newatlas.com/dims4/default/126100a/2147483647/strip/true/crop/900x600+0+0/resize/800x533!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbf%2F3f%2F64db28aa4f9983743cccf7ac3fec%2Fblack-hole-jet.jpeg 800w"
+            src="https://assets.newatlas.com/dims4/default/e74f6dc/2147483647/strip/true/crop/900x600+0+0/resize/720x480!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbf%2F3f%2F64db28aa4f9983743cccf7ac3fec%2Fblack-hole-jet.jpeg"
+        
+                
+                sizes="(min-width: 768px) 440px, 92vw"
+                
+            
+    />
+</div>
+
+
+</a>
+                    
+                    
+                </div>
+            
+        
+
+        
+            <div class="PromoB-category">
+                <a class="Link" href="https://newatlas.com/space/" data-cms-ai="0">Space</a>
+            </div>
+        
+
+        
+            <h3 class="PromoB-title">
+                    <a class="Link" href="https://newatlas.com/space/flash-light-quadrillion-suns-black-hole-star/" data-cms-ai="0">Flash of light as bright as a quadrillion Suns dazzles astronomers</a>
+            </h3>
+        
+
+        
+
+        
+
+        
+    </div>
+</div>
+                
+            </li>
+            
+            
+        </ul>
+    
+
+    
+        <div class="ListJ-nextPage" data-list-loadmore-pagination>
+            <span class="Link" data-href="?utm_medium=email&amp;utm_source=substack&amp;00000179-a1f1-dd16-a97f-fbfb569e0000-page=2" rel="nofollow">Load More</span>
+        </div>
+    
+</ps-list-loadmore>
+            </div>
+        
+    </div>
+</div>
+
+
+</div>
+
+
+                    </div>
+                </main>
+
+                
+    <aside class="Page-aside"><div class="OcelotAdModule" data-id="desktop_right_1"><div class="OcelotAdModule-ad" id="desktop_right_1"></div></div><div class="OcelotAdModule" data-id="desktop_right_2"><div class="OcelotAdModule-ad" id="desktop_right_2"></div></div><div class="OcelotAdModule" data-id="desktop_right_3"><div class="OcelotAdModule-ad" id="desktop_right_3"></div></div><div class="OcelotAdModule" data-id="desktop_right_4"><div class="OcelotAdModule-ad" id="desktop_right_4"></div></div></aside>
+
+
+            </div>
+        </div>
+
+        
+    <div class="Page-below" >
+        <div class="Page-below-content"><div id="taboola-below-article-thumbnails"></div>
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({container: 'taboola-below-article-thumbnails', mode: 'thumbnails-b', placement: 'Below Article Thumbnails', target_type: 'mix'
+        });
+    </script><div class="OcelotAdModule" data-id="desktop_footer"><div class="OcelotAdModule-ad" id="desktop_footer"></div></div></div>
+    </div>
+
+
+
+        
+            <div class="ArticlePage-comments" id="comments">
+                <ps-commenting class="Commenting">
+    <div class="Commenting-commentCount">
+        
+            0 comments
+        
+    </div>
+
+    
+        
+            <div class="CommentForm-signIn"><a class="Link" href="https://newatlas.com/login/?sourceUrl=https%3A%2F%2Fnewatlas.com%2Fenvironment%2Fmushroom-myceliotronics-electronics%2F" data-cms-ai="0">Sign in</a> to post a comment. <br>Please keep comments to less than 150 words. No abusive material or spam will be published.</div>
+        
+    
+
+    <div class="Commenting-comments">
+        
+            <div class="Commenting-noComments">There are no comments. Be the first!</div>
+        
+    </div>
+
+    
+
+    
+    <template class="Commenting-commentTemplate">
+        <div id="" class="Comment" itemscope itemtype="http://schema.org/Comment" data-status="Pending">
+    
+    <div class="Comment-text">
+        <div class="Comment-meta">
+            
+
+            
+        </div>
+
+        <div class="Comment-body"></div>
+
+        
+            <div class="Comment-status">Saving comment...</div>
+        
+
+        
+    </div>
+</div>
+
+    </template>
+
+    
+    <template class="Commenting-replyFormTemplate">
+        <div class="CommentForm">
+    <div class="CommentForm-userInfo"><span class="Comment-authorName"></span>
+    </div>
+
+    <form action="/comment/submit" method="post">
+        <div class="CommentForm-inputs">
+            <input type="hidden" name="target" value="00000184-781c-df46-a3f4-fd9ca6000001" />
+            <input type="hidden" name="parent" value="" />
+            <textarea name="body" required spellcheck="true" placeholder="Enter your comment"></textarea>
+        </div>
+
+        <button class="CommentForm-submit" type="submit">
+            Post
+        </button>
+    </form>
+</div>
+
+    </template>
+</ps-commenting>
+
+            </div>
+        
+
+        <footer class="Page-footer" itemscope itemtype="https://schema.org/WPFooter">
+    <div class="Page-footer-body">
+        <div class="Page-footer-columns">
+            <div class="Page-footer-column">
+                
+                    <div class="Page-footer-logo"><a class="PageLogo" aria-label="Home page" href="/" data-cms-ai="0"  >
+
+    
+    <img src="https://assets.newatlas.com/f9/41/27112c5e473b931fa33d1ef36dff/newatlas-logo-20210716.svg" alt="New Atlas logo" width="252" height="35" /></a>
+</div>
+                
+                
+                    <div class="Page-footer-content">
+                        <div class="PromoButton"  data-content-type="oneOffPage" data-no-media>
+    
+        <div class="PromoButton-description"><h2>GET OUR NEWSLETTER</h2><br>Over 220,000 people receive our email newsletter. Get your daily dose of extraordinary ideas!</div>
+    
+    <div class="PromoButton-cta">
+        <a class="Link" href="https://newatlas.com/newsletter-subscription/"aria-label="Register" data-cms-ai="0">Register</a>
+    </div>
+</div>
+                    </div>
+                
+            </div>
+            <div class="Page-footer-column">
+                
+                    <div class="Page-footer-navigation">
+                        <nav class="FooterNavigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    
+        <ul class="FooterNavigation-items">
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <div class="FooterNavigationItem-text">
+            
+                <a class="FooterNavigationItem-text-link" href="https://newatlas.com/" data-cms-ai="0">HOME</a>
+            
+        </div>
+    
+    
+        <ul class="FooterNavigationItem-items">
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/subscribe/" data-cms-ai="0">SUBSCRIBE</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/tag/features/" data-cms-ai="0">FEATURES </a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/reviews/" data-cms-ai="0">REVIEWS</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/about" data-cms-ai="0">ABOUT</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/advertise/" data-cms-ai="0">ADVERTISE</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/termsofuse/" data-cms-ai="0">TERMS</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/privacy/" data-cms-ai="0">PRIVACY</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/contact/" data-cms-ai="0">CONTACT</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/rss" data-cms-ai="0">RSS</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/faq/" data-cms-ai="0">FAQ</a>
+</li>
+            
+        </ul>
+    
+</div>
+
+                </li>
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <div class="FooterNavigationItem-text">
+            
+                <a class="FooterNavigationItem-text-link" href="https://newatlas.com/lifestyle/" data-cms-ai="0">LIFESTYLE</a>
+            
+        </div>
+    
+    
+        <ul class="FooterNavigationItem-items">
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/new-atlas-20/" data-cms-ai="0">20th Anniversary</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/architecture/" data-cms-ai="0">Architecture</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/around-the-home/" data-cms-ai="0">Around the Home </a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/children/" data-cms-ai="0">Children </a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/collectibles/" data-cms-ai="0">Collectibles</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/good-thinking/" data-cms-ai="0">Good Thinking </a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/health-wellbeing/" data-cms-ai="0">Health &amp; Wellbeing</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/holiday-destinations/" data-cms-ai="0">Holiday Destinations </a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/outdoors/" data-cms-ai="0">Outdoors</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/pets/" data-cms-ai="0">Pets</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/remarkable-people/" data-cms-ai="0">Remarkable People </a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/tiny-houses/" data-cms-ai="0">Tiny Houses</a>
+</li>
+            
+        </ul>
+    
+</div>
+
+                </li>
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <div class="FooterNavigationItem-text">
+            
+                <a class="FooterNavigationItem-text-link" href="https://newatlas.com/science/" data-cms-ai="0">SCIENCE</a>
+            
+        </div>
+    
+    
+        <ul class="FooterNavigationItem-items">
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/biology/" data-cms-ai="0">Biology</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/electronics/" data-cms-ai="0">Electronics</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/energy/" data-cms-ai="0">Energy</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/environment/" data-cms-ai="0">Environment</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/materials/" data-cms-ai="0">Materials </a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/medical/" data-cms-ai="0">Medical </a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/physics/" data-cms-ai="0">Physics</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/quantum-computing/" data-cms-ai="0">Quantum Computing</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/space/" data-cms-ai="0">Space</a>
+</li>
+            
+        </ul>
+    
+</div>
+
+                </li>
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <div class="FooterNavigationItem-text">
+            
+                <a class="FooterNavigationItem-text-link" href="https://newatlas.com/technology/" data-cms-ai="0">TECHNOLOGY</a>
+            
+        </div>
+    
+    
+        <ul class="FooterNavigationItem-items">
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/3d-printing/" data-cms-ai="0">3D Printing </a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/computers/" data-cms-ai="0">Computers</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/deals/" data-cms-ai="0">Deals</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/photography/" data-cms-ai="0">Photography</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/drones/" data-cms-ai="0">Drones</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/games/" data-cms-ai="0">Games</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/home-entertainment/" data-cms-ai="0">Home Entertainment</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/laptops/" data-cms-ai="0">Laptops</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/military/" data-cms-ai="0">Military </a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/mobile-technology/" data-cms-ai="0">Mobile Technology </a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/music/" data-cms-ai="0">Music </a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/robotics/" data-cms-ai="0">Robotics</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/smartwatches/" data-cms-ai="0">Smartwatches </a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/telecommunications/" data-cms-ai="0">Telecommunications</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/wearables/" data-cms-ai="0">Wearable Electronics</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/vr/" data-cms-ai="0">Virtual Reality</a>
+</li>
+            
+        </ul>
+    
+</div>
+
+                </li>
+            
+                <li class="FooterNavigation-items-item">
+                    <div class="FooterNavigationItem" >
+    
+        <div class="FooterNavigationItem-text">
+            
+                <a class="FooterNavigationItem-text-link" href="https://newatlas.com/transport/" data-cms-ai="0">TRANSPORT</a>
+            
+        </div>
+    
+    
+        <ul class="FooterNavigationItem-items">
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/aircraft/" data-cms-ai="0">Aircraft</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/automotive/" data-cms-ai="0">Automotive </a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/bicycles/" data-cms-ai="0">Bicycles </a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/marine/" data-cms-ai="0">Marine</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/motorcycles/" data-cms-ai="0">Motorcycles</a>
+</li>
+            
+                <li class="FooterNavigationItem-items-item">
+    <a class="NavigationLink" href="https://newatlas.com/urban-transport/" data-cms-ai="0">Urban Transport</a>
+</li>
+            
+        </ul>
+    
+</div>
+
+                </li>
+            
+        </ul>
+    
+</nav>
+
+                    </div>
+                
+            </div>
+        </div>
+
+        
+            <div class="Page-footer-social"><div class="SocialBar">
+    <div class="SocialBar-heading">Follow Us</div>
+
+    
+        <ul class="SocialBar-items">
+            
+                <li class="SocialBar-items-item"> <a class="SocialLink" rel="noreferrer" href="https://twitter.com/nwtls" target="_blank" data-social-service="twitter" data-cms-ai="0"><svg><use xlink:href="#mono-icon-twitter"></use></svg><span class="sr-only">twitter</span></a>
+</li>
+            
+                <li class="SocialBar-items-item"> <a class="SocialLink" rel="noreferrer" href="https://www.instagram.com/new.atlas/" target="_blank" data-social-service="instagram" data-cms-ai="0"><svg><use xlink:href="#mono-icon-instagram"></use></svg><span class="sr-only">instagram</span></a>
+</li>
+            
+                <li class="SocialBar-items-item"> <a class="SocialLink" rel="noreferrer" href="https://www.pinterest.com/newatlasdotcom" target="_blank" data-social-service="pinterest" data-cms-ai="0"><svg><use xlink:href="#mono-icon-pinterest"></use></svg><span class="sr-only">pinterest</span></a>
+</li>
+            
+                <li class="SocialBar-items-item"> <a class="SocialLink" rel="noreferrer" href="https://flipboard.com/@NewAtlas" target="_blank" data-social-service="flipboard" data-cms-ai="0"><svg><use xlink:href="#mono-icon-flipboard"></use></svg><span class="sr-only">flipboard</span></a>
+</li>
+            
+                <li class="SocialBar-items-item"> <a class="SocialLink" rel="noreferrer" href="https://www.facebook.com/nwtls" target="_blank" data-social-service="facebook" data-cms-ai="0"><svg><use xlink:href="#mono-icon-facebook"></use></svg><span class="sr-only">facebook</span></a>
+</li>
+            
+                <li class="SocialBar-items-item"> <a class="SocialLink" rel="noreferrer" href="https://www.linkedin.com/company/new-atlas/" target="_blank" data-social-service="linkedin" data-cms-ai="0"><svg><use xlink:href="#mono-icon-linkedin"></use></svg><span class="sr-only">linkedin</span></a>
+</li>
+            
+        </ul>
+    
+</div>
+</div>
+        
+
+        
+            <div class="Page-footer-disclaimer">© 2022 New Atlas</div>
+        
+    </div>
+</footer>
+
+
+        <script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({ flush: true });
+</script><noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TGZ8Q3J" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+
+
+        
+
+    <span data-bsp-pv="4f8e492c-6f2f-390e-bc61-f176d3a37ab9"></span><span data-bsp-pv="00000184-781c-df46-a3f4-fd9ca6000001"></span><script data-bsp-site="0000016b-72ef-d7aa-a5ff-7eef529e0000" data-bsp-contentid="00000184-781c-df46-a3f4-fd9ca6000001" src="https://assets.newatlas.com/resource/00000170-5da9-dc4c-adf0-ddebcfc10000/_resource/analytics/bsp-analytics.min.3d492319d8b084de04ab3a208c32f0b5.gz.js"></script><script src="https://assets.newatlas.com/resource/00000170-5da9-dc4c-adf0-ddebcfc10000/_resource/brightspot/analytics/search/SiteSearchAnalytics.5eb1a8a326b06970c71b3a253fbeaa64.gz.js" data-bsp-contentid="00000184-781c-df46-a3f4-fd9ca6000001"></script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"77460cdc0c4cd3f0","token":"76f7cbad1f3244c8896550d109d8f2c8","version":"2022.11.3","si":100}' crossorigin="anonymous"></script>
+</body>
+
+</html>

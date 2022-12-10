@@ -1,0 +1,985 @@
+<!DOCTYPE html><html lang=en><head><link href="/pu_examiner/images/favicon/apple-touch-icon.png" rel=apple-touch-icon sizes=180x180><link href="/pu_examiner/images/favicon/favicon-32x32.png" rel=icon type=image/png sizes=32x32><link href="/pu_examiner/images/favicon/favicon-16x16.png" rel=icon type=image/png sizes=16x16><link href="/pu_examiner/site.webmanifest" rel=manifest><link href="/pu_examiner/images/favicon/safari-pinned-tab.svg" rel=mask-icon color=#5bbad5><link rel="alternate" type="application/rss+xml" href="https://www.irishexaminer.com/feed/509-Spotlight.xml" title="Spotlight"/>
+<link href=https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js rel=preload as=script><link href=https://fonts.googleapis.com rel=preconnect><link href=https://fonts.gstatic.com rel=preconnect crossorigin=crossorigin><script src=https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js></script><link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600;700&amp;family=Source+Sans+Pro:wght@300;400;700&amp;display=swap" rel=preload as=style><link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600;700&amp;family=Source+Sans+Pro:wght@300;400;700&amp;display=swap" rel=stylesheet media=print onload="this.media='all'"><noscript><link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600;700&amp;family=Source+Sans+Pro:wght@300;400;700&amp;display=swap" rel=stylesheet></noscript><link rel=preload as=style href="/pu_examiner/build/style_a.e1dcfe2c.css"><noscript><link rel=stylesheet href="/pu_examiner/build/style_a.e1dcfe2c.css"></noscript><link rel=preload as=style href="/pu_examiner/build/style_b.600d1326.css"><noscript><link rel=stylesheet href="/pu_examiner/build/style_b.600d1326.css"></noscript><link href="/pu_examiner/styles/fontawesome.css" rel=preload as=style><link href="/pu_examiner/styles/fontawesome.css" rel=stylesheet media=print onload="this.media='all'"><noscript><link href="/pu_examiner/styles/fontawesome.css" rel=stylesheet></noscript><script src="/pu_examiner/scripts/04_popper.min.js" async></script><script src="/pu_examiner/scripts/02_bootstrap.min.js" async></script><link href="/pu_examiner/images/Irish_Examiner_logo.png" rel=preload as=image><link href="https://www.irishexaminer.com/cms_media/module_img/4776/2388344_8_articlesmall_iStock-1200531984_1_.jpg" rel=preload as=image media="(max-width: 450px)"><link href="https://www.irishexaminer.com/cms_media/module_img/4776/2388344_8_articlemedium_iStock-1200531984_1_.jpg" rel=preload as=image media="(min-width: 450.1px) and (max-width: 650px)"><link href="https://www.irishexaminer.com/cms_media/module_img/4776/2388344_8_articlelarge_iStock-1200531984_1_.jpg" rel=preload as=image media="(min-width: 650.1px)"><link href="https://prodmg2.blob.core.windows.net/connext/upload_images/100000/background_takeover1529194549.png" rel=preload as=image><link rel=stylesheet media=print onload="this.media='all'" href="/pu_examiner/build/style_a.e1dcfe2c.css"><noscript><link rel=stylesheet href="/pu_examiner/build/style_a.e1dcfe2c.css"></noscript><link rel=stylesheet media=print onload="this.media='all'" href="/pu_examiner/build/style_b.600d1326.css"><noscript><link rel=stylesheet href="/pu_examiner/build/style_b.600d1326.css"></noscript><meta content=#da532c name=msapplication-TileColor><meta content=#ffffff name=theme-color><meta charset="utf-8"><meta content="IE=edge,chrome=1" http-equiv=X-UA-Compatible><title>Data centres: Are they unwanted but necessary guests in our landscape?</title><meta name="pragma" content="no-cache"><meta name="cache-control" content="no-store, no-cache, must-revalidate, post-check=0, pre-check=0, proxy-revalidate"><meta name="generator" content="redFACT7 CMS, powered by www.newsfactory.de"><meta name="do_paywall" content="true"><meta name="do_count" content="true"><meta name="keywords" content="data centres,Inetrnet"><meta name="viewport" content="width=device-width"><meta name="news_keywords" content="data centres,Inetrnet,Pádraig Hoare"><meta name="robots" content="max-image-preview:large"><meta name="description" content="Pádraig Hoare takes a look at the issue of the now ubiquitous data centre, which some say are necessary if we are to continue the technological revolution"><meta prefix="og: https://ogp.me/ns#" property="og:type" content="article"><meta prefix="og: https://ogp.me/ns#" property="og:image" content="https://www.irishexaminer.com/cms_media/module_img/4776/2388344_8_seoimageog_iStock-1200531984_1_.jpg"><meta prefix="og: https://ogp.me/ns#" property="og:image:width" content="1200"><meta prefix="og: https://ogp.me/ns#" property="og:image:height" content="630"><meta prefix="og: https://ogp.me/ns#" property="og:url" content="https://www.irishexaminer.com/news/spotlight/arid-40252148.html"><meta prefix="og: https://ogp.me/ns#" property="og:title" content="Data centres: Are they unwanted but necessary guests in our landscape?"><meta prefix="og: https://ogp.me/ns#" property="og:site_name" content="Irish Examiner"><meta prefix="og: https://ogp.me/ns#" property="og:description" content="Pádraig Hoare takes a look at the issue of the now ubiquitous data centre, which some say are necessary if we are to continue the technological revolution"><meta property="article:published_time" content="2021-03-28T21:03:00+01:00"><meta property="article:publisher" content="https://www.facebook.com/irishexaminer"><meta property="article:section" content="IE-Main/SPOTLIGHT"><meta property="article:tag" content="IE-Main/SPOTLIGHT"><meta property="fb:app_id" content="297058297106710"><meta itemprop="image" content="https://www.irishexaminer.com/cms_media/module_img/4776/2388344_8_articlelarge_iStock-1200531984_1_.jpg"><meta itemprop="name" content="Data centres: Are they unwanted but necessary guests in our landscape?"><meta itemprop="description" content="Pádraig Hoare takes a look at the issue of the now ubiquitous data centre, which some say are necessary if we are to continue the technological revolution"><meta content=on name=twitter:dnt><meta name="twitter:image" content="https://www.irishexaminer.com/cms_media/module_img/4776/2388344_8_articlelarge_iStock-1200531984_1_.jpg"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@irishexaminer"><meta name="twitter:title" content="Data centres: Are they unwanted but necessary guests in our landscape?"><meta name="twitter:description" content="Pádraig Hoare takes a look at the issue of the now ubiquitous data centre, which some say are necessary if we are to continue the technological revolution"><meta name="twitter:domain" content="irishexaminer.com"><meta name="twitter:app:name:iphone" content="Irish Examiner"><meta name="twitter:app:id:iphone" content="662222158"><meta name="twitter:app:url:iphone" content=""><meta name="twitter:app:name:ipad" content="Irish Examiner"><meta name="twitter:app:id:ipad" content="662222158"><meta name="twitter:app:url:ipad" content=""><meta name="twitter:app:name:googleplay" content="Irish Examiner"><meta name="twitter:app:id:googleplay" content="ie.irishexaminer.mobile"><meta name="twitter:app:url:googleplay" content=""><meta name="twitter:url" content="https://www.irishexaminer.com/news/spotlight/arid-40252148.html"><meta content="article" name=pageType><meta content="Pádraig Hoare" name=author><meta content="40252148" name=articleID><meta name="language" content="en" /><link href="https://www.irishexaminer.com/cms_media/module_img/4776/2388344_8_articlelarge_iStock-1200531984_1_.jpg" rel="image_src"><link rel=canonical href="https://www.irishexaminer.com/news/spotlight/arid-40252148.html"><link href="android-app://ie.irishexaminer.mobile/https://www.irishexaminer.com/news/spotlight/arid-40252148.html?type=app" rel=alternate><script src=https://cdn.cookielaw.org/consent/tcf.stub.js async charset=UTF-8></script><script src="/pu_examiner/scripts/scripts_IE11.min.js" defer></script>
+<script>			dataLayer = [{
+				"pageType": "Article"
+			}]
+		</script><script>
+
+				window.IE = {
+					publicationName: 'Irish Examiner',
+					pageType: 'article',
+					articleTitle: 'Data centres: Are they unwanted but necessary guests in our landscape?',
+					articleAuthor: 'Pádraig Hoare',
+					articlePubDate: '2021-03-28T21:03:00+01:00',
+					articleID: '40252148',
+					articleSection: 'IE-Main/SPOTLIGHT',
+					pageTags: 'data centres,Inetrnet',
+					isCount: true,
+					isPaywall: true,
+					isLongread: false,
+					isPremium: false
+				}
+
+		</script><script>				window.dataLayer = window.dataLayer || [];
+
+				
+				function getCookie(cname) {
+					var name = cname + "=";
+					var ca = document.cookie.split(';');
+					for(var i = 0; i < ca.length; i++) {
+						var c = ca[i];
+						while (c.charAt(0) == ' ') {
+							c = c.substring(1);
+						}
+						if (c.indexOf(name) == 0) {
+							return c.substring(name.length, c.length);
+						}
+					}
+					return "";
+				}
+				
+				let userState = getCookie('instate');
+
+				dataLayer.push({
+					'event': 'pageData',
+					'pagePaymentType' : 'metered',
+					 'author' : 'Pádraig Hoare',
+					'groupTopic' : '',
+					'userState': userState
+				});
+			</script><script>					(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+					new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+							j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+							'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+							})(window,document,'script','dataLayer','GTM-KHHXC44');
+				</script><script>window.nfyDomain = 'https://www.irishexaminer.com';</script><link rel=preload as=style onload="this.onload=null;this.rel='stylesheet'" href="/cms_media/minify/102/styles/style_1.css"><noscript><link rel=stylesheet href="/cms_media/minify/102/styles/style_1.css"></noscript><script async src="/cms_media/minify/102/javascript/javascript_5.js"></script><script src="/pu_examiner/scripts/initScript.min.js?v=1.12" defer></script><script>					var loadScriptAsync = function (uri) {
+						return new Promise((resolve, reject) => {
+							var tag = document.createElement('script');
+							tag.src = uri;
+							tag.async = true;
+							tag.onload = () => {
+								resolve();
+							};
+							var firstScriptTag = document.getElementsByTagName('script')[0];
+							firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+						});
+					}
+					
+						var scriptLoadedNaviga = loadScriptAsync('/pu_examiner/scripts/engage/prod/engage.min.js');
+					
+
+					
+				</script><script src="/pu_examiner/scripts/engage/prod/initLoaderProd.js?v=1.01"></script><link href="/pu_examiner/scripts/engage/prod/engage.min.css" rel=preload as=style><link href="/pu_examiner/scripts/engage/prod/engage.min.css" rel=stylesheet media=print onload="this.media='all'"><script src="https://polyfill.io/v3/polyfill.min.js?flags=gated&amp;features=es5%2CCustomEvent%2CArray.from%2CArray.isArray%2CArray.prototype.filter%2CArray.prototype.find%2CArray.prototype.findIndex%2CArray.prototype.forEach%2CArray.prototype.indexOf%2CArray.prototype.keys%2CArray.prototype.lastIndexOf%2CArray.prototype.map%2CArray.prototype.reduce%2CDate.prototype.toISOString%2CDocumentFragment%2CDocumentFragment.prototype.append%2CDocumentFragment.prototype.prepend%2CElement%2CElement.prototype.after%2CElement.prototype.append%2CElement.prototype.before%2CElement.prototype.classList%2CElement.prototype.cloneNode%2CElement.prototype.closest%2CElement.prototype.dataset%2CElement.prototype.matches%2CElement.prototype.placeholder%2CElement.prototype.prepend%2CElement.prototype.remove%2CElement.prototype.replaceWith%2CElement.prototype.toggleAttribute%2CEvent%2CJSON%2CMap%2CNumber.parseInt%2CNumber.parseFloat%2CObject.assign%2CObject.create%2CObject.defineProperties%2CObject.defineProperty%2CObject.entries%2CObject.getOwnPropertyDescriptor%2CObject.getOwnPropertyNames%2CObject.is%2CObject.keys%2CObject.values%2CPromise%2CPromise.prototype.finally%2CSet%2CString.prototype.trim%2CXMLHttpRequest%2Cdocument.getElementsByClassName%2Cdocument.currentScript%2Cdocument.querySelector%2Cfetch%2CgetComputedStyle%2ClocalStorage%2CArray.prototype.some%2CDate.now%2CEvent.focusin%2CEventSource%2CFunction.prototype.bind%2CFunction.prototype.name%2CHTMLDocument%2CNodeList.prototype.forEach%2CNodeList.prototype.%40%40iterator%2CNode.prototype.contains%2CObject.getPrototypeOf%2CObject.setPrototypeOf%2CRegExp.prototype.flags%2CString.prototype.%40%40iterator%2CString.prototype.startsWith%2CString.prototype.endsWith%2Cconsole%2Cconsole.debug%2Cconsole.error%2Cconsole.info%2Cconsole.log%2Cdocument%2Cdocument.head%2Cdocument.visibilityState%2Clocation.origin%2CrequestIdleCallback%2Cscreen.orientation%2CmatchMedia%2CURL" async crossorigin=true></script><script src="/pu_examiner/scripts/xtremepush/pushNotifications.js" class=optanon-category-C0004 async></script><script src=https://accounts.google.com/gsi/client async defer></script><script src=https://news.google.com/swg/js/v1/swg.js async subscriptions-control=manual></script><script src="/pu_examiner/scripts/newExtendedAccess.js?0sa8x0a=9sc8a79sc"></script><script src=https://news.google.com/swg/js/v1/swg-gaa.js async></script><script src=https://s3.eu-west-1.amazonaws.com/cdn.converge-digital.com/prebid.js class=optanon-category-C0004 async></script><script src="https://s3.eu-west-1.amazonaws.com/cdn.converge-digital.com/prebid_45.js" class=optanon-category-C0004 async></script><script>				var gs_channels=[];
+				!function()
+				{
+					var n=window.location!==window.top.location?document.referrer:window.location,o=document.createElement("script");
+					o.async=!0,o.onload=function()
+					{
+						var settings = document.querySelector('[data-type="dfp-target"]');
+						if (settings !== null){
+							var targets = JSON.parse(settings.innerText);
+							targets.targeting.gs_cat = gs_channels;
+							document.querySelector('[data-type="dfp-target"]').innerText = JSON.stringify(targets);
+
+							sendPermutivePageview(gs_channels);
+						}
+					},o.src="//irishtimes.grapeshot.co.uk/main/channels.cgi?url="+encodeURIComponent(n),document.head.appendChild(o)
+				}();
+			</script><script type=application/json data-type=dfp-target>{"targeting": {"gs_cat": []}}</script><script>				( function(){
+					var insertAdsByGoogleJs  = function(){
+						var element = document.createElement('script');
+						element.async = true;
+						element.type = "text/javascript";
+						element.src = "https://securepubads.g.doubleclick.net/tag/js/gpt.js";
+						document.getElementsByTagName('head')[0].prepend(element)
+					};
+
+					var cnt = 0;
+					var consentSetInterval = setInterval(function(){
+						cnt += 1;
+
+						if (cnt === 600){
+							clearInterval(consentSetInterval);
+						}
+
+						if (typeof window.__tcfapi !== 'undefined'){
+							clearInterval(consentSetInterval);
+
+							window.__tcfapi('addEventListener', 2, function(tcData, listenerSuccess){
+								if (listenerSuccess){
+									if (tcData.eventStatus === 'tcloaded' || tcData.eventStatus === 'useractioncomplete'){
+										if (!tcData.gdprApplies) {
+											insertAdsByGoogleJs ();
+										}
+										else {
+											var hasDeviceStorageAndAccessConsent = tcData.purpose.consents[1] || false;
+
+											if (hasDeviceStorageAndAccessConsent) {
+												var hasGoogleAdvertisingProductsConsent = tcData.vendor.consents[755] || false;
+
+												if (hasGoogleAdvertisingProductsConsent) {
+													insertAdsByGoogleJs ();
+												}
+											}
+										}
+									}
+								}
+							});
+						}
+						cnt++;
+					}, 100);
+				})();
+			</script><script>				!function(n,e,i){
+					if (!n){
+						n = n || {};
+						window.permutive = n;
+						n.q = [];
+						n.config = i || {};
+						n.config.apiKey = e;
+						n.config.environment = n.config.environment || "production";
+						let o = ["addon", "identify", "track", "trigger", "query", "segment",
+							"segments", "ready", "on", "once", "user", "consent"];
+						for (let r in o){
+							let t = o[r];
+							n[t] = function(e){
+								return function(){
+									var i = Array.prototype.slice.call(arguments, 0);
+									n.q.push({
+										functionName: e,
+										arguments: i
+									})
+								}
+							}(t)
+						}
+					}
+				}(
+					window.permutive,
+					"4888a725-f640-4782-bd70-a3dd37877c2f",
+					{"consentRequired": true}
+				);
+
+				function sendPermutivePageview(gs_channels = []) {
+					let loginStatus = document.cookie
+							.split('; ')
+							.find(row => row.startsWith("auth0_sub"));
+
+					let pageAttributes = {
+						author: "Pádraig Hoare",
+						topic: ["data centres","Inetrnet"],
+						content_id: "40252148",
+						page_type: "article",
+						section: "news",
+						subsection: "spotlight",
+						grapeshot: gs_channels,
+						user: {
+							type: loginStatus !== undefined
+						},
+                        publication_date: "2021-03-28T21:03:00+01:00"
+					}
+
+					
+					for (const item in pageAttributes) {
+						if (pageAttributes.hasOwnProperty(item)) {
+							if (pageAttributes[item].length < 1
+								|| pageAttributes[item] === "0"
+								|| pageAttributes[item][0] === '') {
+								delete pageAttributes[item];
+							}
+						}
+					}
+					
+
+					permutive.addon('web', {
+						page: pageAttributes
+					});
+				}
+
+				
+				if(0 || ('article' !== 'article')) {
+					sendPermutivePageview();
+				}
+				
+			</script><script src=https://fce2b75e-f11a-48ad-a60f-7e004eb1d340.edge.permutive.app/fce2b75e-f11a-48ad-a60f-7e004eb1d340-web.js async></script><script class=optanon-category-C0004 type=text/plain>				
+				const OTConsentToken = document.cookie
+				.split('; ')
+				.find(row => row.startsWith('OptanonConsent='))
+				.split('&')
+				.find(row => row.startsWith('consentId'))
+				.split('=')[1];
+				
+
+				permutive.consent({ "opt_in": true, "token": OTConsentToken});
+			</script><script>window.googletag = window.googletag || {cmd: []};</script><script>				
+				var gs_channels = [];
+				var settings = document.querySelector('[data-type="dfp-target"]');
+				if (settings !== null){
+					var targets = JSON.parse(settings.innerText);
+					gs_channels = targets.targeting.gs_cat;
+				}
+				
+
+				googletag.cmd.push(function(){
+					
+					googletag.defineSlot(
+						'/2695176/IrishExaminer/ROS_Top',
+						[[970, 250], [970, 90], [728, 90]],
+						'div-gpt-ad-leaderboard-top'
+					).defineSizeMapping(
+						[[[1024, 200], [[970, 250], [970, 90], [728, 90]]],
+						[[980, 200], [[970, 90], [728, 90]]],
+						[[728, 200], [[728, 90]]],
+						[[0, 0], []]]
+					).addService(googletag.pubads());
+
+					googletag.defineSlot(
+						'/2695176/IrishExaminer/ROS_RightSidebarMid',
+						[300, 250],
+						'div-gpt-ad-rightsidebar-mid'
+					).defineSizeMapping(
+						[[[1024, 200], [[300, 250], [300, 600]]],
+						[[320, 200], [300, 250]],
+						[[0,0],[]]]
+					).addService(googletag.pubads());
+
+					googletag.defineSlot(
+						'/2695176/IrishExaminer/ROS_RightSidebarBottom',
+						[300, 250],
+						'div-gpt-ad-rightsidebar-bottom'
+						).defineSizeMapping(
+							[[[768, 0], [300, 250]],
+							[[0, 0], []]]
+						).addService(googletag.pubads());
+
+	                googletag.defineSlot(
+						'/2695176/IrishExaminer/ROS_Native',
+						[300, 250],
+						'div-gpt-ad-native-1'
+					).defineSizeMapping(
+						[[[768,0], ['fluid']],
+						[[320, 0], ['fluid',[300, 250],[320, 100],[320, 50]]],
+						[[0,0],[]]]
+					).addService(googletag.pubads()).setTargeting('kvinline', [1]);
+
+					
+					
+					googletag.defineSlot(
+						'/2695176/IrishExaminer/ROS_Native',
+						[300, 250],
+						'div-gpt-ad-native-2')
+					.defineSizeMapping(
+						[[[768,0], ['fluid']],
+						[[320, 0], ['fluid',[300, 250],[320, 100],[320, 50]]],
+						[[0,0],[]]]
+					).addService(googletag.pubads()).setTargeting('kvinline', [2]);
+					
+
+		            googletag.defineSlot(
+						'/2695176/IrishExaminer/ROS_Native',
+						[300, 250],
+						'div-gpt-ad-native-3'
+					).defineSizeMapping(
+						[[[768,0], ['fluid']],
+						[[320, 0], ['fluid',[300, 250],[320, 100],[320, 50]]],
+		                [[0,0],[]]]
+					).addService(googletag.pubads()).setTargeting('kvinline', [3]);
+
+					var OutOfPage_mapping = googletag.sizeMapping()
+						.addSize([0, 0], [])
+						.addSize([320, 200], [1, 1])
+						.addSize([768, 200], [])
+						.addSize([1200, 200], [1, 1])
+						.build();
+
+					googletag.defineOutOfPageSlot(
+						'/2695176/IrishExaminer/ROS_OutOfPage',
+						'div-gpt-ad-outofpage')
+						.defineSizeMapping(OutOfPage_mapping)
+						.addService(googletag.pubads());
+					
+
+					googletag.defineSlot(
+						'/2695176/IrishExaminer/ROS_InContent',
+ 						[[300, 250], [320, 50], [320, 100]],
+						'div-gpt-ad-incontent-0'
+					).defineSizeMapping(
+						[[[1080, 0], []],
+						[[320, 200], [[300, 250], [320, 50], [320, 100]]],
+						[[0, 0], []]
+						]
+					).addService(googletag.pubads()).setTargeting('kvinline', [0]);
+
+					googletag.defineSlot(
+						'/2695176/IrishExaminer/ROS_InContent',
+						[[300, 250], [320, 50], [320, 100], [1, 1]],
+						'div-gpt-ad-incontent-1'
+					).defineSizeMapping(
+						[[[728, 200], [[300, 250], [1, 1]]],
+					 	[[320, 200], [[300, 250], [320, 50], [320, 100]]],
+					  	[[0, 0], []]]
+					).addService(googletag.pubads()).setTargeting('kvinline', [1]);
+
+					googletag.defineSlot(
+						'/2695176/IrishExaminer/ROS_InContent',
+						[[300, 250], [320, 50], [320, 100], [1, 1]],
+						'div-gpt-ad-incontent-2'
+					).defineSizeMapping(
+						[[[728, 200], [[300, 250], [1, 1]]],
+						[[320, 200], [[300, 250], [320, 50], [320, 100]]],
+						[[0, 0], []]]
+					).addService(googletag.pubads()).setTargeting('kvinline', [2]);
+
+					googletag.defineSlot(
+						'/2695176/IrishExaminer/ROS_InContent',
+						[[300, 250], [320, 50], [320, 100], [1, 1]],
+						'div-gpt-ad-incontent-3'
+					).defineSizeMapping(
+						[[[728, 200], [[300, 250], [320, 50], [320, 100], [1, 1]]],
+						[[320, 200], [[300, 250], [320, 50], [320, 100]]],
+						[[0, 0], []]]
+					).addService(googletag.pubads()).setTargeting('kvinline', [3]);
+
+					googletag.defineSlot(
+						'/2695176/IrishExaminer/ROS_InContent',
+						[[300, 250], [320, 50], [320, 100], [1, 1]],
+						'div-gpt-ad-incontent-4'
+					).defineSizeMapping(
+						[[[728, 200], [[300, 250], [320, 50], [320, 100], [1, 1]]],
+						[[320, 200], [[300, 250], [320, 50], [320, 100]]],
+						[[0, 0], []]]
+					).addService(googletag.pubads()).setTargeting('kvinline', [4]);
+
+					googletag.defineSlot(
+						'/2695176/IrishExaminer/ROS_InContent',
+						[[300, 250], [320, 50], [320, 100], [1, 1]],
+						'div-gpt-ad-incontent-5'
+					).defineSizeMapping(
+						[[[728, 200], [[300, 250], [320, 50], [320, 100], [1, 1]]],
+						[[320, 200], [[300, 250], [320, 50], [320, 100]]],
+						[[0, 0], []]]
+					).addService(googletag.pubads()).setTargeting('kvinline', [5]);
+
+					googletag.defineSlot(
+						'/2695176/IrishExaminer/ROS_InContent',
+						[[300, 250], [320, 50], [320, 100], [1, 1]],
+						'div-gpt-ad-incontent-6'
+					).defineSizeMapping(
+						[[[728, 200], [[300, 250], [320, 50], [320, 100], [1, 1]]],
+						[[320, 200], [[300, 250], [320, 50], [320, 100]]],
+						[[0, 0], []]]
+					).addService(googletag.pubads()).setTargeting('kvinline', [6]);
+
+					// This listener is called when a creative iframe load event fires.
+					googletag.pubads().addEventListener('slotOnload', function(event) {
+						var targetSlot = 'div-gpt-ad-leaderboard-top';
+						var slot = event.slot;
+						if (slot.getSlotElementId() === targetSlot) {
+							let bodyCLS = document.querySelector('body');
+							bodyCLS.classList.remove("gutter-cls");
+						}
+					});
+
+					
+						googletag.pubads().setTargeting('kvapp', 'web');
+					
+
+					googletag.pubads().setTargeting('kvsection', 'news');
+
+					
+					googletag.pubads().setTargeting('kvsubsection', 'spotlight');
+					
+
+					
+					googletag.pubads().setTargeting('kvtopic', ['data centres','Inetrnet']);
+					
+
+					
+						
+							googletag.pubads().setTargeting('gs_cat', gs_channels);
+						
+
+						googletag.pubads().setTargeting('kvpagetype', 'storypage');
+						googletag.pubads().setTargeting('kvcontentid', 'ie_40252148');
+					
+
+					
+
+					if(0 === googletag.pubads().getTargeting("permutive").length) {
+						var g = localStorage.getItem("_pdfps");
+						googletag.pubads().setTargeting("permutive", g?JSON.parse(g):[]);
+					}
+
+					googletag.pubads().enableLazyLoad({
+						fetchMarginPercent: 500,
+						renderMarginPercent: 50,
+						mobileScaling: 1
+					});
+					googletag.pubads().enableSingleRequest();
+					googletag.pubads().collapseEmptyDivs();
+					googletag.enableServices();
+				});
+			</script><script>				// OutOfPage skin ad loading, called by creative
+				function setBackground(data) {
+					var backgroundDiv = document.body;
+					backgroundDiv.style.backgroundImage = "url('" + data.background_url + "')";
+					backgroundDiv.style.backgroundRepeat = "no-repeat";
+					backgroundDiv.style.backgroundPosition = "center 0px";
+					backgroundDiv.style.backgroundColor = "white";
+					backgroundDiv.style.backgroundAttachment = "fixed";
+					backgroundDiv.classList.add("gutter-ie");
+
+					var backgroundLayer = document.getElementById("skin-dfp");
+					backgroundLayer.setAttribute('href', data.click_tracker);
+					backgroundLayer.setAttribute('target', '_blank');
+
+					var impresion_DFP = document.createElement('img');
+					impresion_DFP.setAttribute('src', decodeURIComponent(data.impressionTracker));
+					impresion_DFP.setAttribute('id', 'ImpressionTracker');
+					impresion_DFP.setAttribute('alt', '');
+					impresion_DFP.style.top = "-1000px";
+					impresion_DFP.style.position = "fixed";
+					backgroundDiv.appendChild(impresion_DFP);
+
+					var impresion_thirdParty = document.createElement('img');
+					impresion_thirdParty.setAttribute('src', data.thirdPartyImpressionTracker);
+					impresion_thirdParty.setAttribute('id', 'ThirdPartyImpressionTracker');
+					impresion_thirdParty.setAttribute('alt', '');
+					impresion_thirdParty.style.top = "-1000px";
+					impresion_thirdParty.style.position = "fixed";
+					backgroundDiv.appendChild(impresion_thirdParty);
+				}
+				function setPopup(data) {
+					var containterPopup = document.getElementById("container-skin-pop-up");
+					containterPopup.style.zIndex = 999;
+					containterPopup.style.display = "block";
+
+					var backgroundDiv = document.getElementById("skin-pop-up");
+					backgroundDiv.style.backgroundImage = "url('" + data.background_url + "')";
+					backgroundDiv.style.backgroundRepeat = "no-repeat";
+					backgroundDiv.style.backgroundPosition = "center 0px";
+					backgroundDiv.style.display = "block";
+
+					var backgroundLayer = document.getElementById("skin-pop-up");
+					backgroundLayer.setAttribute('href', data.click_tracker);
+					backgroundLayer.setAttribute('target', '_blank');
+
+					var impresion_DFP = document.createElement('img');
+					impresion_DFP.setAttribute('src', decodeURIComponent(data.impressionTracker));
+					impresion_DFP.setAttribute('id', 'ImpressionTracker');
+					impresion_DFP.setAttribute('alt', '');
+					impresion_DFP.style.top = "-1000px";
+					impresion_DFP.style.position = "fixed";
+					backgroundDiv.appendChild(impresion_DFP);
+
+					var impresion_thirdParty = document.createElement('img');
+					impresion_thirdParty.setAttribute('src', data.thirdPartyImpressionTracker);
+					impresion_thirdParty.setAttribute('id', 'ThirdPartyImpressionTracker');
+					impresion_thirdParty.setAttribute('alt', '');
+					impresion_thirdParty.style.top = "-1000px";
+					impresion_thirdParty.style.position = "fixed";
+					backgroundDiv.appendChild(impresion_thirdParty);
+
+					var customHTML = document.createElement('div');
+					customHTML.className = 'customDIV';
+					customHTML.innerHTML = data.html_code;
+					document.getElementById('skin-pop-up').appendChild(customHTML);
+				}
+				function closePopup() {
+					var el = document.getElementById('container-skin-pop-up');
+					el.remove();
+				}
+			</script><script>				//var _cbq_user_state = '';
+
+				function isLoggedIn()	{
+					if (document.cookie.indexOf('igmRegID=') === -1)
+					{
+						return false;
+					}
+					else
+					{
+						return true;
+					}
+				}
+
+				(function() {
+					var _sf_startpt = (new Date()).getTime();
+
+					var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+					_sf_async_config.uid = 39796;
+					_sf_async_config.domain = 'irishexaminer.com';
+					_sf_async_config.useCanonical = true;
+					_sf_async_config.useCanonicalDomain = true;
+					_sf_async_config.zone = 'news';
+					_sf_async_config.sections = 'news';
+					_sf_async_config.authors = 'Pádraig Hoare';
+					//var _cbq = window._cbq = (window._cbq || []);
+
+					//_cbq_user_state = 'anon';
+
+					//if (isLoggedIn())
+					//	{
+					//		_cbq_user_state = 'paid';
+					//	}
+
+					//_cbq.push(['_acct', _cbq_user_state]);
+					function loadChartbeat() {
+						var e = document.createElement('script');
+						var n = document.getElementsByTagName('script')[0];
+						e.type = 'text/plain';
+						e.async = true;
+						e.className = 'optanon-category-C0002';
+						e.src = '//static.chartbeat.com/js/chartbeat.js';
+						n.parentNode.insertBefore(e, n);
+					}
+					loadChartbeat();
+				})();
+
+
+			</script><script src="https://static.chartbeat.com/js/chartbeat_mab.js" class=optanon-category-C0002 async></script><script type=application/ld+json>		{
+			"@context": "https://schema.org",
+			"@type": "Organization",
+			"url": "https://www.irishexaminer.com/news/spotlight/arid-40252148.html",
+			"description":"Pádraig Hoare takes a look at the issue of the now ubiquitous data centre, which some say are necessary if we are to continue the technological revolution",
+			"inLanguage":"en-US",
+			"name":"Data centres: Are they unwanted but necessary guests in our landscape?",
+			"logo":{
+				"@context": "http://schema.org",
+				"@type": "ImageObject",
+				"url": "https://www.irishexaminer.com/pu_examiner/images/Irish_Examiner_logo.png",
+				"height": 121,
+				"width": 1000
+			}
+		}
+	</script><script type=application/ld+json>			{
+			"@context": "https://schema.org",
+			"@type": "BreadcrumbList",
+			"itemListElement":
+			[
+				
+					{
+					"@type": "ListItem",
+					"position": 1,
+					"item":
+					
+						{ "@id": "/", "name": "Homepage" }
+					
+					
+					}
+				,
+				
+					{
+					"@type": "ListItem",
+					"position": 2,
+					"item":
+					
+						{ "@id": "/news/", "name": "news" }
+					
+					
+					}
+				,
+				
+					{
+					"@type": "ListItem",
+					"position": 3,
+					"item":
+					
+						{ "@id": "/news/spotlight/", "name": "Spotlight" }
+					
+					
+					}
+				,
+				
+					{
+					"@type": "ListItem",
+					"position": 4,
+					"item":
+					
+					
+						{ "name": "Data centres: Are they unwanted but necessary guests in our landscape?" }
+					
+					}
+				
+				
+			]
+			}
+			</script></head><div style="width:1px; height:1px;" id=div-gpt-ad-outofpage><script class=optanon-category-C0004 type=text/plain>					googletag.cmd.push(function() {
+						googletag.display('div-gpt-ad-outofpage');
+					});
+				</script></div><body class="gutter-cls page-category-news page-subcategory-spotlight " id=body><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KHHXC44" width=0 height=0 style=display:none;visibility:hidden></iframe></noscript><div style="display: none;" id=container-skin-pop-up><div style="text-align: right; cursor: pointer;" id=closeBTN onclick=closePopup()>X</div><a id=skin-pop-up></a></div><a style="width: 100%; height: 100%; display: block; position: fixed;" id=skin-dfp></a><div class="nfy-outer"><div class="nfy-inner"><header><div class=top-bar><div class=container><a href=# class=navbar-email style=display:none data-mg2-action=hideloggedout></a><a href=# style=display:none id=MG2login data-mg2-action=login onclick=cleanMG2();><strong>Sign in</strong></a> <a href="https://subscribe.irishexaminer.com/christmas02?g2i_source=ie&amp;g2i_medium=mainnav&amp;g2i_campaign=christmas02" rel=noopener style=display:none id=MG2Subscribe target="_blank"><strong>Subscribe</strong></a> <a href="https://myaccount.irishexaminer.com/" rel=noopener style=display:none id=MG2MyAccount target="_blank"><strong>My Account</strong></a> <a href=# style=display:none id=MG2logout data-mg2-action=logout onclick=cleanMG2();><strong>Sign out</strong></a></div></div><div class="custom-navbar container" id=custom-navbar-expand><div class=container><nav class="navbar navbar-expand-md navbar-dark"><button class="navbar-toggler collapsed" type=button aria-controls=navbarText aria-expanded=false aria-label="Toggle navigation" data-target=#navbar-IE data-toggle=collapse> <span class=navbar-toggler-icon></span></button><a href=/index.php class=navbar-brand><img src="/pu_examiner/images/Irish_Examiner_logo.png" width=438 height=53 alt="Irish Examiner Logo"></a><iframe src=https://lw.foreca.com/v3/en/site/irishexaminer/widgetgray class="iframe-forca-desktop optanon-category-C0003" title=Weather width=100 height=50></iframe><div class=subsciber-btn><a href="https://subscribe.irishexaminer.com/christmas02?g2i_source=ie&amp;g2i_medium=mainnav&amp;g2i_campaign=christmas02" class="btn MG2Subscribe" rel=noopener style="display: none" id=MG2Subscribe-mobile target="_blank">SUBSCRIBE </a></div><div class="navbar-collapse collapse" style="" id=navbar-IE><ul class=navbar-nav><div class=iframe-weather><iframe src=https://lw.foreca.com/v3/en/site/irishexaminer/widgetgray class="iframe-forca-mobile optanon-category-C0003" title=Weather width=90 height=45 loading=lazy></iframe></div><li class="nav-item home-link"><a href="/" class=nav-link aria-label=Home><i class="fa fa-home">&#xf015;</i></a></li><li class="nav-item dropdown paywall-icon"><span class=nav-link><i class="fa fa-user-circle">&#xf2bd;</i> </span><i class="fa fa-angle-down">&#xf107;</i><div class="dropdown-menu-hover category-paywall"><a href=# class="dropdown-item navbar-email-mobile" style="display: none;" data-mg2-action=hideloggedout></a><a href=# class=dropdown-item style="display: none;" id=MG2login data-mg2-action=login onclick=cleanMG2();><strong>Sign in</strong></a> <a href="https://subscribe.irishexaminer.com/christmas02?g2i_source=ie&amp;g2i_medium=mainnav&amp;g2i_campaign=christmas02" class="MG2SubscribeMobile dropdown-item" rel=noopener style=display:none target="_blank"><strong>Subscribe</strong></a> <a href="https://myaccount.irishexaminer.com/" class="MG2MyAccount dropdown-item" rel=noopener style=display:none target="_blank"><strong>My Account</strong></a> <a href=# class=dropdown-item style="display: none;" id=MG2logout data-mg2-action=logout onclick=cleanMG2();><strong>Sign out</strong></a></div></li><li class="nav-item dropdown"><a href="/news/" class="nav-link category-news">news</a><i class="fa fa-angle-down">&#xf107;</i><div class="dropdown-menu-hover category-news"><a href="/news/munster/" class=dropdown-item>Munster</a> <a href="/news/ireland/" class=dropdown-item>Ireland</a> <a href="/maintopics/?topic=5014070" class=dropdown-item>Climate</a> <a href="/news/politics/" class=dropdown-item>Politics</a> <a href="/news/courtandcrime/" class=dropdown-item>Court &amp; Crime</a> <a href="/news/spotlight/" class=dropdown-item>Spotlight</a> <a href="/world/" class=dropdown-item>World</a> <a href="/news/history/" class=dropdown-item>History Hub</a> <a href="/maintopics/?topic=5078796" class=dropdown-item>Longreads</a> </div></li><li class="nav-item dropdown"><a href="/sport/" class="nav-link category-sport">sport</a><i class="fa fa-angle-down">&#xf107;</i><div class="dropdown-menu-hover category-sport"><a href="/sport/gaa/" class=dropdown-item>GAA</a> <a href="/sport/soccer/" class=dropdown-item>Soccer</a> <a href="/sport/qatar-world-cup/" class=dropdown-item>Qatar World Cup</a> <a href="/sport/rugby/" class=dropdown-item>Rugby</a> <a href="/sport/racing/" class=dropdown-item>Racing</a> <a href="/sport/golf/" class=dropdown-item>Golf</a> <a href="/sport/business-of-sport/" class=dropdown-item>Business Of Sport</a> <a href="/sport/othersport/" class=dropdown-item>Other</a> <a href="https://www.irishexaminer.com/liveevents/" class=dropdown-item>Live Sport</a> <a href="https://www.irishexaminer.com/opinion/columnists/" class=dropdown-item>Sport Columnists</a> </div></li><li class="nav-item dropdown"><a href="/lifestyle/" class="nav-link category-lifestyle">lifestyle</a><i class="fa fa-angle-down">&#xf107;</i><div class="dropdown-menu-hover category-lifestyle"><a href="/lifestyle/healthandwellbeing/" class=dropdown-item>Health &amp; Wellbeing</a> <a href="/iefood/" class=dropdown-item>ieFOOD</a> <a href="/lifestyle/artsandculture/" class=dropdown-item>Arts &amp; Culture</a> <a href="/lifestyle/outdoors/" class=dropdown-item>Outdoors</a> <a href="/lifestyle/fashionandbeauty/" class=dropdown-item>Fashion &amp; Beauty</a> <a href="/lifestyle/parenting/" class=dropdown-item>Parenting</a> <a href="/lifestyle/advice/" class=dropdown-item>Advice</a> <a href="/lifestyle/travel/" class=dropdown-item>Travel</a> <a href="/lifestyle/people/" class=dropdown-item>People</a> <a href="/lifestyle/celebrity/" class=dropdown-item>Celebrity</a> <a href="/motoring/" class=dropdown-item>Motoring</a> </div></li><li class="nav-item dropdown"><a href="/business/" class="nav-link category-business">business</a><i class="fa fa-angle-down">&#xf107;</i><div class="dropdown-menu-hover category-business"><a href="/business/companies/" class=dropdown-item>Companies</a> <a href="/business/economy/" class=dropdown-item>Economy</a> <a href="/farming/" class=dropdown-item>Farming</a> <a href="/business/munsterbusiness/" class=dropdown-item>Munster Business</a> <a href="/business/technology/" class=dropdown-item>Technology</a> </div></li><li class="nav-item dropdown"><a href="/property/" class="nav-link category-property">property</a><i class="fa fa-angle-down">&#xf107;</i><div class="dropdown-menu-hover category-property"><a href="/property/residential/" class=dropdown-item>Residential</a> <a href="/property/commercial/" class=dropdown-item>Commercial</a> <a href="/property/planning/" class=dropdown-item>Planning</a> <a href="/property/developmentconstruction/" class=dropdown-item>Development &amp; Construction</a> <a href="/property/homeandgardens/" class=dropdown-item>Home &amp; Gardens</a> </div></li><li class="nav-item dropdown"><a href="/opinion/" class="nav-link category-opinion">opinion</a><i class="fa fa-angle-down">&#xf107;</i><div class="dropdown-menu-hover category-opinion"><a href="/opinion/columnists/" class=dropdown-item>Columnists</a> <a href="/opinion/commentanalysis/" class=dropdown-item>Comment &amp; Analysis</a> <a href="/opinion/ourview/" class=dropdown-item>Our View</a> <a href="/opinion/yourview/" class=dropdown-item>Your View</a> <a href="https://www.irishexaminer.com/maintopics/?topic=5120127" class=dropdown-item>Harry Burton</a> </div></li><li class="nav-item dropdown"><a href="https://www.irishexaminer.com/maintopics/?topic=5084339" class="nav-link category-Podcasts">Podcasts</a><i class="fa fa-angle-down">&#xf107;</i><div class="dropdown-menu-hover category-Podcasts"><a href="https://www.irishexaminer.com/maintopics/?topic=5084348" class=dropdown-item>Ask Audrey</a> <a href="https://www.irishexaminer.com/maintopics/podcasts-basketball_topic-5176646.html" class=dropdown-item>Basketball - The &#039;All Net&#039; Pod</a> <a href="https://www.irishexaminer.com/maintopics/catherine-the-fake_topic-5166914.html" class=dropdown-item>Catherine The Fake</a> <a href="https://www.irishexaminer.com/maintopics/?topic=5084354" class=dropdown-item>GAA</a> <a href="/podcasts/podcast-let-me-tell-you/" class=dropdown-item>Politics - Let Me Tell You</a> <a href="https://www.irishexaminer.com/maintopics/?topic=5083478" class=dropdown-item>Mick Clifford</a> <a href="https://www.irishexaminer.com/news/arid-40942985.html" class=dropdown-item>Mick Clifford - Civil War Series</a> <a href="https://www.irishexaminer.com/maintopics/?topic=5083484" class=dropdown-item>Rugby</a> <a href="https://www.irishexaminer.com/maintopics/?topic=5084351" class=dropdown-item>Soccer</a> <a href="https://www.irishexaminer.com/maintopics/?topic=5083481" class=dropdown-item>Weekend</a> </div></li><li class="nav-item dropdown"><a href="/iefood/" class="nav-link category-ieFOOD">ieFOOD</a><i class="fa fa-angle-down">&#xf107;</i><div class="dropdown-menu-hover category-ieFOOD"><a href="/index.php?topic=5092100" class=dropdown-item>Comfort </a> <a href="/index.php?topic=5092169" class=dropdown-item>Quick</a> <a href="/index.php?topic=5091449" class=dropdown-item>Sweet</a> <a href="/index.php?topic=5094239" class=dropdown-item>Soup</a> <a href="/index.php?topic=5092115" class=dropdown-item>Healthy </a> <a href="/food/" class=dropdown-item>Latest news</a> </div></li><li class="nav-item dropdown extra-item first"><a class="more-click nav-link dropdown-toggle dropdown-toggle-split" id=more-click-menu>MORE </a><i class="fa fa-angle-down">&#xf107;</i><div class="dropdown-menu-hover category-more" aria-label=navbarDropdownMenuLink><a href="/archive/" class=dropdown-item>Archive </a><a href="/competition/" class=dropdown-item>Competitions </a><a href="/contact-us/" class=dropdown-item>Contact Us </a><a href="https://epaper-signin.irishexaminer.com/" class=dropdown-item>ePaper </a><a href="/familynotices/" class=dropdown-item>Family Notices </a><a href="/helplines/" class=dropdown-item>Helplines </a><a href="https://www.myhome.ie" class=dropdown-item>MyHome.ie </a><a href="/newsletters/" class=dropdown-item>Newsletters </a><a href="/shop/" class=dropdown-item>Newspaper books </a><a href="https://photos.examiner.ie" class=dropdown-item>Photosales </a><a href="https://sites.google.com/examiner.ie/irishexaminer-media-solutions/home" class=dropdown-item>Place ad </a><a href="https://www.irishexaminer.com/maintopics/?topic=5084339" class=dropdown-item>Podcasts </a><a href="/puzzles/" class=dropdown-item>Puzzles </a><a href="https://www.recruitireland.com" class=dropdown-item>Recruit Ireland </a><a href="/sponsored/" class=dropdown-item>Sponsored Content </a><a href="https://subscribe.irishexaminer.com/?g2i_source=ie&amp;g2i_medium=more_subscribe&amp;g2i_campaign=core" class=dropdown-item>Subscribe </a><a href="/weather/" class=dropdown-item>Weather </a><a href="/whoweare/" class=dropdown-item>Who We Are </a></div></li><li class="nav-item dropdown cookie-mobile-menu"><a href=# class="nav-link ot-sdk-show-settings" target="_parent">Cookie settings</a></li><li class="nav-item extra-item search-box"><form class=search action=/pa.1304 method=GET><input type=text name=cosearch aria-label="Input phrase" placeholder=SEARCH..> <button type=submit aria-label=Search><i class="fa fa-search">&#xf002;</i></button></form></li></ul></div><div class=subnav id=navbar-IE-subnav><ul class=navbar-nav><li class=empty-li-icon></li><li class=nav-item><div class="subnav-menu category-news" aria-label=navbarDropdownMenuLink><a href="/news/munster/" class=dropdown-item>Munster</a> <a href="/news/ireland/" class=dropdown-item>Ireland</a> <a href="/maintopics/?topic=5014070" class=dropdown-item>Climate</a> <a href="/news/politics/" class=dropdown-item>Politics</a> <a href="/news/courtandcrime/" class=dropdown-item>Court &amp; Crime</a> <a href="/news/spotlight/" class=dropdown-item>Spotlight</a> <a href="/world/" class=dropdown-item>World</a> <a href="/news/history/" class=dropdown-item>History Hub</a> <a href="/maintopics/?topic=5078796" class=dropdown-item>Longreads</a> </div></li><li class=nav-item><div class="subnav-menu category-sport" aria-label=navbarDropdownMenuLink><a href="/sport/gaa/" class=dropdown-item>GAA</a> <a href="/sport/soccer/" class=dropdown-item>Soccer</a> <a href="/sport/qatar-world-cup/" class=dropdown-item>Qatar World Cup</a> <a href="/sport/rugby/" class=dropdown-item>Rugby</a> <a href="/sport/racing/" class=dropdown-item>Racing</a> <a href="/sport/golf/" class=dropdown-item>Golf</a> <a href="/sport/business-of-sport/" class=dropdown-item>Business Of Sport</a> <a href="/sport/othersport/" class=dropdown-item>Other</a> <a href="https://www.irishexaminer.com/liveevents/" class=dropdown-item>Live Sport</a> <a href="https://www.irishexaminer.com/opinion/columnists/" class=dropdown-item>Sport Columnists</a> </div></li><li class=nav-item><div class="subnav-menu category-lifestyle" aria-label=navbarDropdownMenuLink><a href="/lifestyle/healthandwellbeing/" class=dropdown-item>Health &amp; Wellbeing</a> <a href="/iefood/" class=dropdown-item>ieFOOD</a> <a href="/lifestyle/artsandculture/" class=dropdown-item>Arts &amp; Culture</a> <a href="/lifestyle/outdoors/" class=dropdown-item>Outdoors</a> <a href="/lifestyle/fashionandbeauty/" class=dropdown-item>Fashion &amp; Beauty</a> <a href="/lifestyle/parenting/" class=dropdown-item>Parenting</a> <a href="/lifestyle/advice/" class=dropdown-item>Advice</a> <a href="/lifestyle/travel/" class=dropdown-item>Travel</a> <a href="/lifestyle/people/" class=dropdown-item>People</a> <a href="/lifestyle/celebrity/" class=dropdown-item>Celebrity</a> <a href="/motoring/" class=dropdown-item>Motoring</a> </div></li><li class=nav-item><div class="subnav-menu category-business" aria-label=navbarDropdownMenuLink><a href="/business/companies/" class=dropdown-item>Companies</a> <a href="/business/economy/" class=dropdown-item>Economy</a> <a href="/farming/" class=dropdown-item>Farming</a> <a href="/business/munsterbusiness/" class=dropdown-item>Munster Business</a> <a href="/business/technology/" class=dropdown-item>Technology</a> </div></li><li class=nav-item><div class="subnav-menu category-property" aria-label=navbarDropdownMenuLink><a href="/property/residential/" class=dropdown-item>Residential</a> <a href="/property/commercial/" class=dropdown-item>Commercial</a> <a href="/property/planning/" class=dropdown-item>Planning</a> <a href="/property/developmentconstruction/" class=dropdown-item>Development &amp; Construction</a> <a href="/property/homeandgardens/" class=dropdown-item>Home &amp; Gardens</a> </div></li><li class=nav-item><div class="subnav-menu category-opinion" aria-label=navbarDropdownMenuLink><a href="/opinion/columnists/" class=dropdown-item>Columnists</a> <a href="/opinion/commentanalysis/" class=dropdown-item>Comment &amp; Analysis</a> <a href="/opinion/ourview/" class=dropdown-item>Our View</a> <a href="/opinion/yourview/" class=dropdown-item>Your View</a> <a href="https://www.irishexaminer.com/maintopics/?topic=5120127" class=dropdown-item>Harry Burton</a> </div></li><li class=nav-item><div class="subnav-menu category-Podcasts" aria-label=navbarDropdownMenuLink><a href="https://www.irishexaminer.com/maintopics/?topic=5084348" class=dropdown-item>Ask Audrey</a> <a href="https://www.irishexaminer.com/maintopics/podcasts-basketball_topic-5176646.html" class=dropdown-item>Basketball - The &#039;All Net&#039; Pod</a> <a href="https://www.irishexaminer.com/maintopics/catherine-the-fake_topic-5166914.html" class=dropdown-item>Catherine The Fake</a> <a href="https://www.irishexaminer.com/maintopics/?topic=5084354" class=dropdown-item>GAA</a> <a href="/podcasts/podcast-let-me-tell-you/" class=dropdown-item>Politics - Let Me Tell You</a> <a href="https://www.irishexaminer.com/maintopics/?topic=5083478" class=dropdown-item>Mick Clifford</a> <a href="https://www.irishexaminer.com/news/arid-40942985.html" class=dropdown-item>Mick Clifford - Civil War Series</a> <a href="https://www.irishexaminer.com/maintopics/?topic=5083484" class=dropdown-item>Rugby</a> <a href="https://www.irishexaminer.com/maintopics/?topic=5084351" class=dropdown-item>Soccer</a> <a href="https://www.irishexaminer.com/maintopics/?topic=5083481" class=dropdown-item>Weekend</a> </div></li><li class=nav-item><div class="subnav-menu category-ieFOOD" aria-label=navbarDropdownMenuLink><a href="/index.php?topic=5092100" class=dropdown-item>Comfort </a> <a href="/index.php?topic=5092169" class=dropdown-item>Quick</a> <a href="/index.php?topic=5091449" class=dropdown-item>Sweet</a> <a href="/index.php?topic=5094239" class=dropdown-item>Soup</a> <a href="/index.php?topic=5092115" class=dropdown-item>Healthy </a> <a href="/food/" class=dropdown-item>Latest news</a> </div></li><li class="nav-item dropdown extra-item first"><div class=subnav-menu aria-label=navbarDropdownMenuLink><a href="/archive/" class=dropdown-item>Archive </a><a href="/competition/" class=dropdown-item>Competitions </a><a href="/contact-us/" class=dropdown-item>Contact Us </a><a href="https://epaper-signin.irishexaminer.com/" class=dropdown-item>ePaper </a><a href="/familynotices/" class=dropdown-item>Family Notices </a><a href="/helplines/" class=dropdown-item>Helplines </a><a href="https://www.myhome.ie" class=dropdown-item>MyHome.ie </a><a href="/newsletters/" class=dropdown-item>Newsletters </a><a href="/shop/" class=dropdown-item>Newspaper books </a><a href="https://photos.examiner.ie" class=dropdown-item>Photosales </a><a href="https://sites.google.com/examiner.ie/irishexaminer-media-solutions/home" class=dropdown-item>Place ad </a><a href="https://www.irishexaminer.com/maintopics/?topic=5084339" class=dropdown-item>Podcasts </a><a href="/puzzles/" class=dropdown-item>Puzzles </a><a href="https://www.recruitireland.com" class=dropdown-item>Recruit Ireland </a><a href="/sponsored/" class=dropdown-item>Sponsored Content </a><a href="https://subscribe.irishexaminer.com/?g2i_source=ie&amp;g2i_medium=more_subscribe&amp;g2i_campaign=core" class=dropdown-item>Subscribe </a><a href="/weather/" class=dropdown-item>Weather </a><a href="/whoweare/" class=dropdown-item>Who We Are </a></div></li></ul></div>
+ <div class="second-navbar-mobile mx-auto"><ul class=navbar-nav><li class=nav-item><a href="https://www.irishexaminer.com/news/" class="nav-link category-news">news</a></li><li class=nav-item><a href="https://www.irishexaminer.com/sport/" class="nav-link category-sport">sport</a></li><li class=nav-item><a href="https://www.irishexaminer.com/lifestyle/" class="nav-link category-lifestyle">lifestyle</a></li><li class=nav-item><a href="https://www.irishexaminer.com/opinion/" class="nav-link category-opinion">opinion</a></li></ul><a href=# class=second-nav-signin style="display: none" id=MG2login-mobile data-mg2-action=login><i class="fa fa-user-circle">&#xf2bd;</i></a></div>
+</nav></div></div><nav class=secondary><div class="container d-grid "><ul class="secondary-nav">
+<li class="hottopics"><strong><a href="https://www.irishexaminer.com/maintopics/">IN FOCUS:</a></strong></li>
+<li class="hottopics"><a href="https://www.irishexaminer.com/sport/qatar-world-cup/">World Cup 2022</a></li>
+<li class="hottopics"><a href="https://www.irishexaminer.com/maintopics/cost-of-living_topic-5127492.html">Cost of Living</a></li>
+<li class="hottopics"><a href="https://www.irishexaminer.com/maintopics/ukraine_topic-5125536.html">Ukraine</a></li>
+<li class="hottopics"><a href="https://www.irishexaminer.com/maintopics/climate-change_topic-5014070.html">Climate Change</a></li>
+<li class="hottopics"><a href="https://www.irishexaminer.com/maintopics/catherine-the-fake_topic-5166914.html">Catherine the Fake</a></li>
+<li class="hottopics"><a href="https://www.irishexaminer.com/maintopics/future-cities_topic-5173019.html">Future Cities</a></li>
+<li class="hottopics"><a href="https://subscribe.irishexaminer.com/christmas02?g2i_source=ie&amp;g2i_medium=trending&amp;g2i_campaign=christmas02">Subscribe</a></li>
+<li class="hottopics"><a href="https://www.irishexaminer.com/weather/">Weather</a></li>
+</ul>
+</div></nav>
+</header><div class="ad container" id=LeaderTop data-cb-ad-id=Leader><div id=div-gpt-ad-leaderboard-top><script>										googletag.cmd.push(function () {
+											googletag.display('div-gpt-ad-leaderboard-top');
+										});
+									</script></div></div><div class="nfy-container"><div class="container content"><div class="col-wrapper row"><div class=superdashboard></div><div class="col-left-story col-md-8 with-sidebar"><article class="nfyc-detail-view naviga-article-body" data-id="40252148" data-puid="102" data-statistic-type=0><div class="headline h-with-img"><figure class=imgF> <h1 class=article-title><span>Data centres: Are they unwanted but necessary guests in our landscape?</span></h1><div class=teaser>Pádraig Hoare takes a look at the issue of the now ubiquitous data centre, which some say are necessary if we are to continue the technological revolution </div><picture><source media="(min-width: 650px)" srcset="/cms_media/module_img/4776/2388344_8_articlelarge_iStock-1200531984_1_.jpg"><source media="(min-width: 450px)" srcset="/cms_media/module_img/4776/2388344_8_articlemedium_iStock-1200531984_1_.jpg"><img src="/cms_media/module_img/4776/2388344_8_articlesmall_iStock-1200531984_1_.jpg" title="Data centres: Are they unwanted but necessary guests in our landscape?" width=600 height=338 alt="Data centres: Are they unwanted but necessary guests in our landscape?" data-src="/cms_media/module_img/4776/2388344_8_articlesmall_iStock-1200531984_1_.jpg"> <figcaption class=imgFCap><p>Big data centres are seen as usurpers of Irish land, taking up massive spaces but giving little back.</p></figcaption></picture></figure></div><div class="byline date-byline">Sun, 28 Mar, 2021 - 21:03</div><div class=author-byline><div class="byline">Pádraig Hoare</div></div><div class=generic-text><div class="ctx_content"><div class=share-buttons-mobile><a href="http://www.facebook.com/sharer/sharer.php?u=https://www.irishexaminer.com/news/spotlight/arid-40252148.html" class=share-popup style="display: none" id=share-f aria-label=facebook target=popup><i class="fa fa-facebook-f">&#xf09a;</i></a> <a href="http://www.twitter.com/intent/tweet?url=https://www.irishexaminer.com/news/spotlight/arid-40252148.html" class=share-popup style="display: none" id=share-t aria-label=twitter target=popup><i class="fa fa-twitter">&#xf099;</i></a> <a href="https://api.whatsapp.com/send?text=Irish Examiner - https://www.irishexaminer.com/news/spotlight/arid-40252148.html" style="display: none" id=share-w aria-label=WhatsUp data-action=share/whatsapp/share target=popup><i class="fa fa-whatsapp">&#xf232;</i></a> <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.irishexaminer.com/news/spotlight/arid-40252148.html" class=share-popup style="display: none" id=share-l aria-label=LinkedIn><i class="fa fa-linkedin">&#xf0e1;</i></a> <a href="mailto:?subject=Irish Examiner Article&amp;body=https://www.irishexaminer.com/news/spotlight/arid-40252148.html" style="display: none" id=share-m aria-label=mail target="_blank"><i class="fa fa-envelope">&#xf0e0;</i> </a><span id=expand-share><img src="/pu_examiner/images/shareIcon.svg" alt="Social share" loading=lazy></span></div><story><p class="">They have become somewhat of an unwanted guest in some quarters in Ireland in recent years, akin to the perception of a foreign millionaire deciding to decamp to Ireland and making it home, telling locals how to do things, enjoying all the spoils, but not really contributing to their communities.</p><p class="">Big data centres are seen as usurpers of Irish land, taking up massive spaces but giving little back, leeching off the electricity grid and pumping little back into the community.</p><div class="inline-paywall-IE-template"><p class="">Is the picture that simple? Are they indeed faceless, joyless entities that take, take, take without providing any give? </p><p class="">Or are they an essential part of modern life, allowing us to keep up with instant information in an increasingly instant information age, and something we will come to accept?</p><div id="div-gpt-ad-incontent-0">
+							<script type="text/javascript">googletag.cmd.push(function(){
+								googletag.display("div-gpt-ad-incontent-0");});
+							</script>
+						</div><p class='contextmenu caption'>An overview of what a data centre does</p> <p class=""></p><picture><img loading=lazy src="/cms_media/module_img/4776/2388308_17_articleinline_brian-norton-energy-ireland.jpg" alt="Prof Brian Norton: &#039;It is not just data that people produce, but it is data that the machinery around us automatically produces and shares. There is a huge amount of that.&#039; Picture: Energy Ireland" title="Prof Brian Norton: &#039;It is not just data that people produce, but it is data that the machinery around us automatically produces and shares. There is a huge amount of that.&#039; Picture: Energy Ireland" class="card-img"><figcaption class="imgFCap">Prof Brian Norton: 'It is not just data that people produce, but it is data that the machinery around us automatically produces and shares. There is a huge amount of that.' Picture: Energy Ireland</figcaption></picture><p class="">The  <span class='contextmenu quote'>Irish Examiner</span> asked the head of energy research, with direct responsibility for the International Energy Research Centre (IERC), at Tyndall National Institute in Cork, to give an overview.</p><p class="">Professor Brian Norton, who is world-renowned in the field of energy research and is a former president of Dublin Institute of Technology, said a data centre is essentially just that, a centre where data is stored, managed, and processed.</p><p class="">“You know when people talk about the thing being in the cloud, from a computer perspective — the cloud is the big floppy thing in the sky, coming from a big thing called a data centre," Prof Norton said.</p><p class="">"They are huge things, there are 2bn sq ft of them in the world, or slightly more. There are about eight million data centres, so they are big and they are abundant.”</p><p class="">It is no exaggeration to say they are ubiquitous, and needed if we are to continue the technological revolution, said Prof Norton.</p><p class="">
+            <span class="contextmenu Quotation">Where you are accessing stuff that is stored in the cloud, whether it is your Dropbox or your LinkedIn or whatever, that is in a data centre somewhere</span> </p><p class="">"They are storing and processing — everything from that to online purchases to everything consumable.”</p><p class="">They are distributed globally for lots of reasons, according to Prof Norton. One is for security, he said.</p><p class="">“Obviously the connections want to be close to the data, but also there is varied legislation around various jurisdictions, on data being stored in that jurisdiction, for reasons of privacy, GDPR regulations, etc.”</p><div id="div-gpt-ad-incontent-1">
+							<script type="text/javascript">googletag.cmd.push(function(){
+								googletag.display("div-gpt-ad-incontent-1");});
+							</script>
+						</div><p class="">These centres process so much essential data, that the society we have been hurtled into in recent years would not be so progressive in technological terms without them, Prof Norton said.</p><p class="">"The big thing, surprisingly, is not so much the data that people produce, but increasingly lots of our kit is connected by what is called the internet of things (IoT)</p><p class="">“Devices are connected to each other automatically, so you can think about things such as condition monitoring in modern motorcars, for example. It directly connects the internet itself and tells the company or the dealer how things are performing. </p><p class="">"The gas turbines, the jet engines in aircraft are always talking to the aircraft manufacturer, telling them how they are doing, for example.</p><p class="">“That kind of information, called the IoT, is a huge amount of data sharing. It is not just data that people produce, but it is data that the machinery around us automatically produces and shares. There is a huge amount of that.”</p><p class="">There are about 75bn devices directly connected to the internet, that are sharing information over the internet without human intervention, according to Prof Norton.</p><p class="">“The very computers we are talking on are sending stuff backwards and forwards all the time, without our intervention, in terms of the background noise and the information about the updating of software, etc. It is a huge, huge thing.</p><p class="">"All that data needs a lot of energy to feed it," he said.</p><p class='contextmenu caption'>How many and how much are they worth?</p> <p class="">According to data from November 2020, there are 66 data centres now operational in Ireland.</p><div id="div-gpt-ad-incontent-2">
+							<script type="text/javascript">googletag.cmd.push(function(){
+								googletag.display("div-gpt-ad-incontent-2");});
+							</script>
+						</div><p class="">Pro-data industry organisation Host In Ireland’s report on the industry, conducted in association with Bitpower Energy Solutions, said that of the 66 data centres, 31 of these are directly operated by the hyperscalers, which make up 80% of the capacity.</p><p class="">Five are leased wholesale data centres, 15 are colocation data centres, and the remaining 15 are smaller private data centres operated by telcos and small providers.</p><p class="">The total design power capacity of all 66 data centres is 834 MW, according to Bitpower chief executive David McAuley.</p><p class="">“We estimate this is 630 MW of IT capacity running at 55% utilisation. Note also that completed data centres may take a number of years to reach full occupancy,” he said in the report.</p><p class="">The report estimates construction spend will have amounted to €1.25bn in 2020.</p><p class="">“We expect this to increase to €1.5bn in 2021 and in 2022. In total, the pipeline amounts to €6.7bn in new construction in the five years from 2021 to 2025. This compares to a similar amount of investment in data centre construction over the previous 10 years. The pace of investment will double,” Mr McAuley said.</p><p class="">President and founder of Host In Ireland Garry Connolly was at pains to point out in the report that while exports fell across many traditionally strong industry sectors in Ireland due to the Covid-19 pandemic, IT remained robust.</p><p class="">“To break it down, €117bn of the total €448bn of Irish goods and services exports is due to computer services, accounting for just over one quarter (26%) of Ireland’s export activity. While exports fell dramatically for the vast majority of sectors (transport, tourism, retail to name a few), computer services, pharmaceuticals, and medicinal products have had strong enough performances to buoy the Irish economy as a whole,” he said.</p><div id="div-gpt-ad-incontent-3">
+							<script type="text/javascript">googletag.cmd.push(function(){
+								googletag.display("div-gpt-ad-incontent-3");});
+							</script>
+						</div><p class="">Ireland has the potential to generate 9.2 gigawatts of renewable electricity by 2030, far more than needed for Irish consumption, Mr Connolly said.</p><p class="">
+            <span class="contextmenu Quotation">While talk of exporting the excess power is certainly worth consideration, there is an opportunity to power a more valuable export asset in the form of data.</span>
+        </p><p class="">He pointed to the Irish Academy of Engineering’s recent report on the 'Future of Electricity Transmission in Ireland', which said “one could indeed argue that there is little point in constructing large amounts of renewable generation in Ireland and then exporting its output at exceptionally low prices.</p><p class="">“Official CSO and SEAI import/export data for 2019 indicates that the price of Irish electricity exports, which take place predominantly when wind generation is high, is less than 50% of the price paid to wind generators for that output under the REFIT regime,” the Irish Academy of Engineering report states.</p><p class="">REFIT is designed to ensure Ireland meets its goal of 40% of electricity coming from renewable sources by 2020.</p><p class="">Mr Connolly echoed the sentiments.  “As we see with other natural resources, the value-add of a data service is greater than the renewable electricity alone. Add to that, the infrastructure to move data already exists whereas the infrastructure to move the electricity does not.</p><p class="">“It continues to be an exciting time for the data centre industry. The work being carried out is having a real impact on our lives every day. While much in the future remains uncertain, I am optimistic that an abundance of opportunities still lay ahead for Ireland and its digital economy.”</p><div id="div-gpt-ad-incontent-4">
+							<script type="text/javascript">googletag.cmd.push(function(){
+								googletag.display("div-gpt-ad-incontent-4");});
+							</script>
+						</div><p class='contextmenu caption'>Political reaction to data centres</p> <p class=""></p><picture><img loading=lazy src="/cms_media/module_img/4776/2388314_15_articleinline_CC_20LEINSTER_20HOUSE_20_15.jpg" alt="Lynn Boylan: &#039;Despite the best efforts of tech giants to greenwash the impact they are having, the figures do not lie.&#039; File picture: Gareth Chaney" title="Lynn Boylan: &#039;Despite the best efforts of tech giants to greenwash the impact they are having, the figures do not lie.&#039; File picture: Gareth Chaney" class="card-img"><figcaption class="imgFCap">Lynn Boylan: 'Despite the best efforts of tech giants to greenwash the impact they are having, the figures do not lie.' File picture: Gareth Chaney</figcaption></picture><p class="">Sceptics want clear and incontrovertible evidence that data centres are a good thing for Ireland as a whole, and they have not been persuaded so far.</p><p class="">Sinn Féin senator Lynn Boylan told the Seanad in December that the public perception of data centres was one of worry and scepticism.</p><p class="">“I am here to raise the deeply concerning proliferation of data centres in the country. It seems they are now a new frontier for extraction where our cool climate and windy hillsides are ripe for the taking. We know that data centres are popping up all over the country and with them comes windfarms and fossil fuel energy generators.”</p><p class="">There was so-called greenwashing at play, she said, referring to the practice of appearing more climate-friendly than the reality.</p><p class="">“Despite the best efforts of tech giants to greenwash the impact they are having, the figures do not lie. The surge in Irish data centres comes with a massive carbon footprint. They pretend that big tech is a clean industry but it requires a huge amount of energy to power the servers and fans to suck in cool air. Each video on file on the internet has to be stored in these data centres.”</p><p class="">By 2027, data centres will consume 31% of Ireland's electricity, Ms Boylan said.</p><p class="">“Across Europe, while energy use is decreasing, in Ireland we are an anomaly because it is increasing. That has nothing to do with our household or population growth. It is purely down to the rise in the number of data centres. They will require 12.5 TW [terawatts] of electricity above what is being provided. That is enough power for 24m homes.”</p><div id="div-gpt-ad-incontent-5">
+							<script type="text/javascript">googletag.cmd.push(function(){
+								googletag.display("div-gpt-ad-incontent-5");});
+							</script>
+						</div><p class="">These data centres should be treated like the carbon-intensive industry that they are, Ms Boylan said.</p><p class="">“It seems there is a greenwashing campaign in full spin because we hear that data centres will be 100% powered by renewables. However, the amount of energy projected to come from their windfarms is far outstripped by the demand from these data centres.</p><p class="">“On top of that, each megawatt of wind capacity must be backed up with energy generated from fossil fuels. This is not to mention the fallout of the biodiversity disaster in the Meenbog windfarm, which has a contract with Amazon. While pilot projects in which waste energy is sold to heat homes or public buildings are welcome, they barely put a dent in emissions.”</p><p class="">Big data has been given a “free pass” by the Government, Ms Boylan claimed.</p><p class="">“When we hear talk of the cloud, it is as though it has no material impact but the truth is it is bad for climate and to date, the Government has given the industry a free pass while the public is left to carry the bulk of the massive cost for the infrastructure required to run these data centres.</p><p class="">“The Irish Academy of Engineering estimates that we will need €9bn of new infrastructure. It seems the Government strategy has been so successful in attracting data centres that we now have an enormous and disproportionate amount of western Europe's data infrastructure, and with that comes these colossal CO2 emissions.”</p><p class="">Community Development Minister Joe O’Brien said while data centres can consume very large amounts of energy, they have a flat and predictable demand profile.</p><p class="">That means they use the same amount of electricity day and night, therefore requiring a range of generation technologies to meet demand, he said.</p><p class="">“Data centres have, until recent years, accounted for less than 2% of Ireland's total electricity demand. EirGrid, in its generation capacity statement for 2019 to 2028, projects that demand from data centres could account for 29% of all demand by 2028.</p><p class="">“Significant increases in volumes of generation capacity, including from renewable energy resources, will be required to meet Ireland's electrification objectives and demand from heat pumps, electric vehicles, and data centres. The climate action plan set an ambition of 70% renewable electricity by 2030, the majority of which will be met through the renewable electricity support scheme, RESS.</p><p class="">“When data centre operators purchase electricity directly from renewable generators, it contributes to the State's objective to decarbonise our electricity system without any subsidy from electricity customers,” he said.</p><p class="">In February, Independent TD Denis Naughten said families must not carry the can for big data, and that the bigger picture of what is needed for households was going unpainted.</p><p class="">“As a result of the pandemic, families' heating bills have gone up dramatically and that has been compounded by increased carbon taxes and the subsidising of data centres," said Mr Naughten.</p><p class="">
+            <span class="contextmenu Quotation">It is immoral that people who are struggling to pay electricity bills are subsidising the electricity going into data centres, many of which have been constructed on a speculative proposition.</span>
+        </p><p class="">“There was a 9% increase in residential carbon emissions during the 2020 lockdown and we have seen a fall-off in the retrofitting of homes, which commenced in 2019 and collapsed in 2020. We need a step-change in retrofitting homes and that needs to be prioritised as part of the capital plan.”</p><p class="">Mr Naughten’s comments echoed Labour TD Duncan Smith’s scepticism, which he raised around the same time Ms Boylan raised her concerns in December.</p><p class="">Mr Smith said big industry collaborating together would be the big winners, not the average citizen.</p><p class="">“The renewable energy that is coming on stream will not be State-owned. It will be privatised so we will be going from big oil to big wind — I hope we can find another phrase. This is where we are going.</p><p class="">“The Government needs to tell us how much of the renewable energy coming on stream will be siphoned off for other multinational corporations such as those running data centres that are entering into prepaid contracts with companies that own windfarms to siphon off up to 15%, 20%, or 25% of the energy created in order to power data centres, which are huge carbon emitters and very poor in terms of creating jobs.</p><p class="">“There is a structure here that will only get bigger and will be bad for the worker, the economy, and the Irish taxpayer because we will continue to pay these exorbitant penalties to countries that are doing things far better than us.”</p><p class=""></p><picture><img loading=lazy src="/cms_media/module_img/4776/2388317_15_articleinline_Eamon_20Ryan.jpg" alt="Environment Minister Eamon Ryan: Data centres are here to stay. " title="Environment Minister Eamon Ryan: Data centres are here to stay. " class="card-img"><figcaption class="imgFCap">Environment Minister Eamon Ryan: Data centres are here to stay. </figcaption></picture><p class="">Environment Minister Eamon Ryan has moved to assuage critics by saying the Government would be cognisant of all stakeholders.</p><p class="">However, data centres are here to stay, he added.</p><p class="">“We will probably take a combination of various approaches, but one of the things we will ensure is that demand, be it from data centres or other large energy users, is planned in a way that lowers the cost, minimises emissions, and ensures we have a fully sustainable system.</p><p class="">“That may involve locating data centres close to where the power is, or restricting in certain areas where the grid cannot cope with the addition. However, it will not say no to data centres because we need them as part of the wider economy.”</p><p class='contextmenu caption'>Ireland not a bad climate for data centres </p> <p class="">Why have data centres become a major presence in Ireland in recent years? Geography and happenstance mostly, according to Prof Brian Norton from the Tyndall.</p><p class="">"There are lots of reasons why data centres are near us. They command a whole lot of different dimensions. One is that Ireland is not a bad climate for data centres, because there is a huge coolant. You don’t want to put them in hot places because there is a bigger cooling load. Places like Ireland are good locations.</p><p class="">“Also, you do want data centres that are proximate to where the network nodes are, and Ireland has lines coming across the Atlantic and lines going to the UK and Europe. If you think about the physical geography of the Earth, you’ve got certain points where major cables land, and there are natural nodes.</p><p class="">“You expect to see big data centres on the coasts of the US, you expect to see them on the coasts of Europe, because of the cables going under the sea that turn up in those places. They are the physical, geographical, climatic reasons — there are natural geographies and climates of the world that you want to put things in,” he said.</p><p class="">It is a coincidence of facts such as geography and climate, according to Prof Norton.</p><p class="">“You don’t want them in hot climates because it just increases the cooling load and it has to do with legislation and oversight of rights to privacy and what is done with your data. It is a combination of all those facts.</p><p class="">“The other reason is the sanctity and security of the data itself, and more importantly, the operations on that data. For example, in Europe, there are legitimate concerns about privacy, what people have when it comes to their rights.</p><p class="">“Similar privacy laws would not exist in the US and they would not exist in China. From a legislative perspective, the ability to take action if you feel your data has been misused is obviously limited outside the jurisdiction. For those reasons, people like things to be stored locally.”</p><p class="">While data centres consume and create lots of energy and waste, the ever-burgeoning field of renewable solutions can play a major role in mitigation, he said, adding that that that needs imagination and invention.</p><p class="">“Most of that energy in a data centre typically is used for the IT equipment, the servers that are in the data centres, and about half of it is to do with cooling systems one way or another around those, that is how the energy ends up being used within. All of that ends up being released as very, very low-grade heat. It is lukewarm air, essentially.</p><p class="">
+            <span class="contextmenu Quotation">Right now the data centre industry is doubling about every four years, and that may accelerate. I should say it is becoming more energy-efficient and is using more renewable energy, which means that the emissions do not double. They will increase but they won’t double in that sense.</span>
+        </p><p class="">When people see data centres returning the favour on a mass scale, hearts and minds should be less sceptical, according to Prof Norton. “To be fair, a lot of people who run data centres are committed to running them 100% renewably. That will happen because of the decarbonisation of electricity anyway, but nevertheless, they are committed to that.</p><p class="">“But you’ve got to remember that data centres produce a huge amount of waste heat, and you do see various projects around the world of taking it into greenhouses, so you look at food production — in other words, using that heat in various processes.</p><p class="">“Drying things for food preservation is another, for example. Or industrial processes that have a drying component associated with them. Co-locating them then would provide employment and added value.”</p><p class="">Distributing that excess energy into communities would assist in the transition to a new renewable and sustainable economy in rural regions,  Prof Norton said.</p><p class="">“Thinking a bit more holistically, and thinking of data centres as part of an ecosystem in particular locations, so that you are looking at distributed production of rural energy locally and distributed use of the huge amounts of waste heat that data centres produce.”</p><p class='contextmenu caption'>Earning the public's trust</p> <p class="">Earning public trust is vital if data centres are to be accepted, according to Prof Brian Norton.</p><p class="">“Planning comes into wider issues of public trust. Who bears the cost in terms of the impact of data centres, as opposed to the cost of money? Who benefits? I think one of the challenges with planning law generally, but in Ireland in particular, is that someone might object to a big local data centre because they cannot see the benefit to them because it accrues to someone else.”</p><p class="">Part of the issue with all these things is being able to articulate and genuinely show an actual benefit to the people who are going to have to bear the things, according to Prof Norton.</p><p class="">“That is the root problem with that. In some jurisdictions, the public policy debate outside of the particular project is much more mature and advanced, and the understanding happens. There are lots of examples of this — in Denmark, if you take wind energy, they have had a planning regime which would designate sites where you could do projects with wind energy, and then you apply to build the thing on those sites.”</p><p class="">Ireland has done it the other way around, he said. “Rather than having to go and seek permission for a particular place, there is a public policy debate outside of any particular promoter or any particular technology. In other words, we have got to have these things, where shall we put them? Whereas in Ireland, it is done the opposite way around — someone has to prove their case and then objections come.</p><p class="">“In the likes of Denmark, It still has a lot of debate, it still has a lot of the exact same voices, but the decision has been made at a large-scale level — this is where we are going to do these things, these are the areas where we are not, and then people who are building data centres or windfarms know where they stand.”</p><p class="">The dotting of the landscape — or blotting, considering their size and scale — of data centres is similar to when Ireland was in the throes of electrification, according to Prof Norton.</p><p class="">“It is interesting in Ireland, for example, electrification in the past was seen as a sign of progress and people would have bought into pylons as a sign of advancement. You are now seeing that progress has happened, you are seeing electrification that is about transmitting energy from the west where you have lots of wind and wave energy, to the east where the population is, and the people in the middle are not seeing any benefit to themselves. You can see some of the tensions that arise from that.</p><p class="">“There are ways of solving this problem. There are actual benefits accruing to those people, and systems must be designed so they see those benefits.</p><p class="">“There are industries that obviously work around data centres; there is a whole software sector, there is a whole design sector — those people doing that kind of work might be in the centre of cities. The internet is ubiquitous, so could more of those jobs be in rural areas?</p><p class="">“You could be providing rural employment on a distributed basis. Although working from home in its present guise has a whole range of issues attached to it, it has demonstrated that people can indeed do so. It may not have to be the case to have one part somewhere and another part somewhere else, when it comes to the benefits.”</p><p class="">Ireland has proved itself capable of getting the balance right in the past, he said.</p><p class="">
+            <span class="contextmenu Quotation">That would need thinking through but there is a strong record in Ireland of distributing manufacturing, pharmaceutical plants in various locations. The idea of distributing sectors and linking them is not unknown. </span>
+        </p><p class="">"That does need a good strong national broadband to do that, for example, but that is the sort of investment you need to get that sense of equity that is necessary. </p><p class="">"I don’t think it is the planning process at fault, it is the public equity discussion underpinning that which can be the challenge.”</p><p class='contextmenu caption'>Robust electricity system required to handle surge in demand</p> <p class=""></p><picture><img loading=lazy src="/cms_media/module_img/4776/2388338_11_articleinline_CITY_20Glennmont_20095861.jpg" alt="&#039;It demands a resilient power system capable of absorbing and storing fluctuations in weather-driven generation.&#039;" title="&#039;It demands a resilient power system capable of absorbing and storing fluctuations in weather-driven generation.&#039;" class="card-img"><figcaption class="imgFCap">'It demands a resilient power system capable of absorbing and storing fluctuations in weather-driven generation.'</figcaption></picture><p class="">One thing everyone agrees on is that Ireland’s electricity system will have to become more robust to handle the surge in demand over the coming decades, as well as reducing emissions.</p><p class="">Powering data centres is merely one part of the jigsaw, according to a report from experts at Cork-based MaREI — SFI Research Centre for Energy, Climate and Marine Research, in conjunction with the Electricity Association of Ireland.</p><p class="">Laura Mehigan and Dr Paul Deane, in their summary, state that a decarbonised, all-island electricity system is key to achieving climate ambition on the island of Ireland.</p><p class="">“This study takes a closer look at the future all-island power system through the lens of decarbonisation by focusing on the year 2030, where over 70% of the annual electricity on the system will be renewable.</p><p class=""></p><picture><img loading=lazy src="/cms_media/module_img/4776/2388341_10_articleinline_MaREI-3.jpg" alt="Laura Mehigan, who says in a major report that a decarbonised all-island electricity system is key to achieving climate ambition on the island of Ireland." title="Laura Mehigan, who says in a major report that a decarbonised all-island electricity system is key to achieving climate ambition on the island of Ireland." class="card-img"><figcaption class="imgFCap">Laura Mehigan, who says in a major report that a decarbonised all-island electricity system is key to achieving climate ambition on the island of Ireland.</figcaption></picture><p class="">“While this requires a significant level of renewable energy build-out, it also demands a resilient power system capable of absorbing and storing fluctuations in weather-driven generation, and at the same time, meeting the demand of new electricity loads from electric cars, residential heating, and data centres.</p><p class="">
+            <span class="contextmenu Quotation">Ireland’s location on the edge of Europe presents a limited diversity of interconnection options and so our role within a greater interconnected European power system is also considered. </span>
+        </p><p class="">Due to its isolated grid, the current level of wind generation is limited to ensure system strength is maintained, the authors said.</p><p class="">Achieving a minimum of 70% renewable electricity by 2030 will require significant infrastructure investment as well as capacity to integrate new storage technologies, they said.</p><p class="">“According to the Government’s Climate Action Plan in Ireland, the level of wind capacity may have to increase by up to 300% to achieve the higher level of ambition but also to absorb new electricity loads from electric cars, electric heat pumps, and significant growth in Ireland’s data centre industry.” </p><p class="">The all-island electricity system in 2030 will be different in scale and configuration from the system we see today, according to the authors.</p><p class="">The key findings of the report indicated that the system will be 40% larger in capacity and will emit half of the carbon emissions of today.</p><p class="">In 2030, we will need all planned electricity interconnectors: North-South, Ireland-UK, and Ireland-France in place. Back-up generation fuelled by natural gas will be essential but used less, they said.</p><p class="">In cold, windless, and cloudy conditions, where electricity demand is high but weather dependant generation is low, we will need all back-up generation to be available and all storage and system flexibility to be maximised.</p><p class="">A much more flexible and agile electricity grid will be needed to absorb the projected level of weather dependant generation, the authors said.</p><p class=""><div class=readmore><h3>Read More</h3><div class=readmore-text><svg class=quote fill=#f15a22 viewBox="0 0 24 24"><path d="M14 18l10-7.088-10-6.912v3.042s-11.618 2.583-14 12.958c5.072-5.431 14-5.218 14-5.218v3.218z"></path></svg><a href="/business/companies/arid-40251482.html" class=readmore-event id="readmore-40251482" target="_blank">Green Rebel: Ireland can aspire to export electricity</a></div></div>
+</p></div><div id="div-gpt-ad-incontent-6">
+							<script type="text/javascript">googletag.cmd.push(function(){
+								googletag.display("div-gpt-ad-incontent-6");});
+							</script>
+						</div></story></div><div></div><div class=story-page-wrapper><div class=story-page-footer><div class=story-page-footer-header><p class=story-page-footer-title>More in this section</p></div><div class="row w-100"><div class="col-lg-4 col-md-6"><div class="story-page-element-content row"> <a href="/news/spotlight/arid-41024456.html" class="img-readmore col-md-12 col-5" title="structure articleHeadline"><img loading=lazy src="/cms_media/module_img/6656/3328013_15_teasersmall_Donal_20de_20Roiste_20File012.jpeg" alt="Mick Clifford: The smear campaign that derailed Adi Roche&#039;s Áras bid" title="Mick Clifford: The smear campaign that derailed Adi Roche&#039;s Áras bid" width="201" height="113"> </a><a href="/news/spotlight/arid-41024456.html" class="col-md-12 col-7"> Mick Clifford: The smear campaign that derailed Adi Roche's Áras bid</a></div></div>
+<div class="col-lg-4 col-md-6"><div class="story-page-element-content row"> <a href="/news/spotlight/arid-41025053.html" class="img-readmore col-md-12 col-5" title="structure articleHeadline"><img loading=lazy src="/cms_media/module_img/6659/3329705_12_teasersmall_GettyImages-1241501470_1_.jpg" alt="The First Annual Moonlight Gala Benefitting CARE - Children With Special Needs - Hosted By Michael Cayre, Roy Nachum And MegaMoo" title="GettyImages-1241501470.jpg" width="201" height="113"> </a><a href="/news/spotlight/arid-41025053.html" class="col-md-12 col-7"> Inside the mind of the crypto billionaire who lost it all</a></div></div>
+<div class="col-lg-4 col-md-6"><div class="story-page-element-content row"> <a href="/news/spotlight/arid-41020337.html" class="img-readmore col-md-12 col-5" title="structure articleHeadline"><img loading=lazy src="/cms_media/module_img/6640/3320084_20_teasersmall_CC_WED_EAST_WALL_PROTEST2.jpg" alt="East Wall Protest Wednesday30th Nov" title="East Wall Protest Wednesday30th Nov" width="201" height="113"> </a><a href="/news/spotlight/arid-41020337.html" class="col-md-12 col-7"> How far-right propaganda in Ireland ‘weaponises legitimate social issues’</a></div></div>
+</div></div></div><div class="col-row rea-next-headline-1 keywords" data-vr-zone="IE front IE viral stories"><div class=keywords-item><a href = "/maintopics/data-centres_topic-5085839.html">data centres</a><a href = "/maintopics/inetrnet_topic-5085842.html">Inetrnet</a></div><div style="width: 100%; margin: 0 0 10px;" id=div-gpt-ad-native-1><script>							googletag.cmd.push(function () {
+								googletag.display('div-gpt-ad-native-1');
+							});
+						</script></div></div><div class="readmore-pop-up card"><div class=btn-close-pop-up><i class="fa fa-angle-down">&#xf107;</i></div><div class=row><div class="col-md-12 p-0 col-3"><a href="/news/spotlight/arid-41025329.html" class="img-readmore readnow" title="structure articleHeadline" id=readnow-image-event-id><img loading=lazy src="/cms_media/module_img/6662/3331247_11_augmentedSearch_John_20Higgins7_1_.jpg" alt="&lt;p&gt;John Higgins with a photo of his son David who he lost to alcohol-related suicide at the age of 19. &#039;Since David went, there have been a few more [deaths] that we would have known of, but people just don’t speak out.&#039; 	&lt;span class=&quot;contextmenu emphasis CaptionCredit&quot;&gt;Picture: Karen Cox&lt;/span&gt;
+            &lt;/p&gt;" title="&lt;p&gt;John Higgins with a photo of his son David who he lost to alcohol-related suicide at the age of 19. &#039;Since David went, there have been a few more [deaths] that we would have known of, but people just don’t speak out.&#039; 	&lt;span class=&quot;contextmenu emphasis CaptionCredit&quot;&gt;Picture: Karen Cox&lt;/span&gt;
+            &lt;/p&gt;" class="card-img"></a></div><div class="col-md-12 p-0 col-9"><a href="/news/spotlight/arid-41025329.html" class="readmore-title readnow" id=readnow-headline-event-id><h2> ‘At 19, God almighty, you haven’t even your first step on the road to adulthood’ </h2></a><div class=readmore-button><a href="/news/spotlight/arid-41025329.html" class="readmore-button-text btn readnow" id=readnow-button-event-id>READ NOW</a></div></div></div></div>
+</div><script type=application/ld+json>		{
+			"@context": "http://schema.org/",
+			"@type": "NewsArticle",
+			"mainEntityOfPage": {
+				"@type": "WebPage",
+				"@id": "https://www.irishexaminer.com//news/spotlight/arid-40252148.html"
+			},
+			"headline": "Data centres: Are they unwanted but necessary guests in our landscape?",
+			"description": "",
+			"image": [
+   				"https://www.irishexaminer.com/cms_media/module_img/4776/2388344_8_seoimage1x1_iStock-1200531984_1_.jpg",
+   				"https://www.irishexaminer.com/cms_media/module_img/4776/2388344_8_seoimage2x1_iStock-1200531984_1_.jpg",
+   				"https://www.irishexaminer.com/cms_media/module_img/4776/2388344_8_seoimage4x3_iStock-1200531984_1_.jpg",
+   				"https://www.irishexaminer.com/cms_media/module_img/4776/2388344_8_seoimage16x9_iStock-1200531984_1_.jpg"
+			],
+			"author": {
+				"@type": "Person",
+				"name": "Padraig Hoare"
+			},
+			"publisher": {
+				"@type": "Organization",
+				"name": "Irishexaminer.com",
+				"logo": {
+					"@type": "ImageObject",
+					"url": "https://www.irishexaminer.com/pu_examiner/images/IE_logo.png",
+					"width": 316,
+					"height": 38
+				}
+			},
+	 		"isAccessibleForFree": "False",
+			"hasPart": {
+				"@type": "WebPageElement",
+				"isAccessibleForFree": "False",
+				"cssSelector" : ".inline-paywall-IE-template"
+			},
+			"isPartOf": {
+				"@type": ["CreativeWork", "Product"],
+				"name" : "Irishexaminer.com",
+				"productID": "irishexaminer.com:showcase"
+			},
+			"datePublished": "Sun, 28 Mar, 2021",
+			"dateModified": "28.03.2021"
+		}
+	</script><script>			dataLayer.push({
+				"pageAuthorName": "Padraig Hoare",
+				"pageSource": "",
+				"pageCategory1": "ie-main",
+				"pageCategory2": "spotlight",
+				"pageCategory3": "",
+				"publicationDate": "2021-03-28T21:03:00+01:00",
+				'pageArticleID': '40252148',
+				"pageTitle": "Data centres: Are they unwanted but necessary guests in our landscape?",
+				"pageKeywords": [],
+				"paywallType": "count",
+				"articleType": ""
+			});
+		</script><div class=subscribe-tag><div class="MG2Subscribe subscribe-tag-btn" style="display: none"><a href="https://subscribe.irishexaminer.com/christmas02?g2i_source=ie&amp;g2i_medium=artleftbar&amp;g2i_campaign=christmas02" rel=noopener target="_blank">Subscribe Now</a></div></div></article>
+ <div class="container newsletter-article-bottom" style="background-color: #e1e1e1;padding-left: 25px;border-width: 1px;border-color: #9a9a9a;border-bottom-style: solid;border-top-style: solid;">
+  <div class="row">
+      <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12 align-items-end" style="margin-top: 10px;">
+          <h1 style="font-family: Montserrat, sans-serif;font-weight: 700;font-size: 35px;">Lunchtime News Wrap</h1>
+      </div>
+  </div>
+  <div class="row">
+      <div class="col" style="padding-right: 0px;padding-left: 0px;margin-right: 20px;">
+          <p style="line-height: 21px;margin-bottom: 10px;font-family: 'Source Sans Pro', sans-serif;margin-left: 20px;">Sign up to to get the latest news direct to your inbox daily at 1pm</p>
+      </div>
+  </div>
+  <div class="row" style="padding-bottom: 9px;">
+  <div class="col-lg-12">
+    <form action="https://examinergroup.us6.list-manage.com/subscribe/post" method="post">
+      <input type="hidden" name="u" value="caa589fc19">
+      <input type="hidden" name="id" value="c96f7404b9">
+
+        <div class="form-group form-inline" style="margin-bottom: 0px;"
+        ><input class="form-control form-control-sm" type="email" aria-label="email" name="MERGE0" id="MERGE0" size="25" placeholder="Your Email" style="width: 200px;margin-right: 10px;margin-bottom: 10px;" />
+        <input class="form-control form-control-sm" type="text" aria-label="name" name="MERGE1" id="MERGE1" size="25" placeholder="Name"
+                style="width: 200px;margin-right: 10px;margin-bottom: 10px;" />
+              </div>
+                <div class="form-group d-flex float-left"><button class="btn btn-primary btn-sm float-left" type="submit" name="submit" value="Subscribe" style="max-height: 30px;width: 150px;">Sign Up </button></div>
+    </form>
+  </div>
+</div>
+</div>
+</div><div class="col-right col-md-4"><div class=sidebar-unit><div class="latest-list s-block text-body"><h2 class="latest-list_headline">Latest</h2><div class="latest-list_content" id=latest><ul class="latest-list_list"><li data-vr-contentbox="category- La Rochelle lay down marker with Champions Cup hammering of Northampton"><a href="/sport/rugby/arid-41026073.html">La Rochelle lay down marker with Champions Cup hammering of Northampton</a><p class="mt-0 mb-0 pubdate"><small class="text-muted time-ago" data-time="1670703600"></small></p></li>
+<li data-vr-contentbox="category- Connacht get Challenge Cup campaign off to winning start"><a href="/sport/rugby/arid-41026070.html">Connacht get Challenge Cup campaign off to winning start</a><p class="mt-0 mb-0 pubdate"><small class="text-muted time-ago" data-time="1670702760"></small></p></li>
+<li data-vr-contentbox="category- Portugal boss Fernando Santos has ‘no regrets’ over Cristiano Ronaldo benching"><a href="/sport/soccer/arid-41026064.html">Portugal boss Fernando Santos has ‘no regrets’ over Cristiano Ronaldo benching</a><p class="mt-0 mb-0 pubdate"><small class="text-muted time-ago" data-time="1670701800"></small></p></li>
+<li data-vr-contentbox="category- Semi-final bound Morocco are the Rocky of the World Cup – Walid Regragui"><a href="/sport/soccer/arid-41026055.html">Semi-final bound Morocco are the Rocky of the World Cup – Walid Regragui</a><p class="mt-0 mb-0 pubdate"><small class="text-muted time-ago" data-time="1670700900"></small></p></li>
+</ul></div></div></div>
+<div class="sidebar-unit">
+<!-- RightSidebarMid -->
+<div id='MPUTop' data-cb-ad-id='MPU_Top' class='ad'>
+<div id='div-gpt-ad-rightsidebar-mid'>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.display('div-gpt-ad-rightsidebar-mid');
+});
+</script>
+</div>
+</div>
+</div>
+<div class="sidebar-unit">
+<div class="s-block mobile-apps"style="min-width: 290px;">
+<style>
+.mobile-apps svg {
+    width: 37px;
+    height: 37px;
+    Padding-right : 6px;
+}
+
+.facebook:hover path {
+    Fill: #4b69b0;
+}
+
+.twitter:hover path {
+    Fill: #37b1e1;
+}
+
+.newsletter:hover path {
+    Fill: #FF8206;
+}
+
+.instagram:hover path {
+    Fill: #69519e;
+}
+
+
+.linkedin:hover path {
+    Fill: #0e76a8;
+}
+
+</style>
+
+<div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-sm-6 d-flex float-left justify-content-center align-items-center">
+                <h6 class="text-nowrap d-flex align-items-center" style="margin: 0px;padding: 0px;height: 20px;">FOLLOW IRISH EXAMINER</h6>
+            </div>
+            <div class="col-md-12 col-sm-6 d-flex d-flex justify-content-center"><a href="https://www.facebook.com/irishexaminer/" aria-label="facebook" rel="noopener">
+
+<svg class="facebook" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+ viewBox="0 0 455.7 455.7" style="enable-background:new 0 0 455.7 455.7;" xml:space="preserve">
+<style type="text/css">
+.st0{fill:#9D9D9C;}
+</style>
+<path class="st0" d="M0,0v455.7h242.7v-176h-59.3v-71.9h59.3v-60.4c0-43.9,35.6-79.5,79.5-79.5h62v64.6h-44.4
+c-13.9,0-25.3,11.3-25.3,25.3v50h68.5l-9.5,71.9h-59.1v176h141.2V0H0z"/>
+</svg>
+</a>
+
+<a href="https://twitter.com/irishexaminer?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" aria-label="twitter" rel="noopener"><svg class="twitter" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+ viewBox="0 0 72 72" style="enable-background:new 0 0 72 72;" xml:space="preserve">
+<style type="text/css">
+.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#9D9D9C;}
+</style>
+<path class="st0" d="M-0.1,72.1h72v-72h-72C-0.1,0.1-0.1,72.1-0.1,72.1z M55,25.8c0.6,13.9-9.7,29.3-28,29.3
+c-5.6,0-10.7-1.6-15.1-4.4c5.2,0.6,10.4-0.8,14.6-4.1c-4.3-0.1-7.9-2.9-9.2-6.8c1.5,0.3,3.1,0.2,4.4-0.2c-4.7-1-8-5.2-7.9-9.8
+c1.3,0.7,2.8,1.2,4.5,1.2c-4.4-2.9-5.6-8.7-3-13.1c4.9,6,12.1,9.9,20.3,10.3c-1.4-6.2,3.2-12.1,9.6-12.1c2.8,0,5.4,1.2,7.2,3.1
+c2.2-0.4,4.4-1.3,6.3-2.4c-0.7,2.3-2.3,4.2-4.3,5.4c2-0.2,3.9-0.8,5.7-1.5C58.6,22.7,56.9,24.4,55,25.8"/>
+</svg>
+</a>
+
+
+<a href="https://www.instagram.com/irish_examiner/" aria-label="instagram" rel="noopener"><svg class="instagram" version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+ viewBox="0 0 72 72" style="enable-background:new 0 0 72 72;" xml:space="preserve">
+<style type="text/css">
+.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#9D9D9C;}
+</style>
+<desc>Created with Sketch.</desc>
+<g>
+<path class="st0" d="M54.7,21.8c-0.4-1.1-1-1.9-1.8-2.8c-0.8-0.8-1.6-1.4-2.8-1.8c-0.8-0.3-2.1-0.7-4.5-0.8
+c-2.5-0.1-3.3-0.1-9.7-0.1s-7.2,0-9.7,0.1c-2.3,0.1-3.6,0.5-4.5,0.8c-1.1,0.4-1.9,1-2.8,1.8c-0.8,0.8-1.4,1.6-1.8,2.8
+c-0.3,0.8-0.7,2.1-0.8,4.5c-0.1,2.5-0.1,3.3-0.1,9.7s0,7.2,0.1,9.7c0.1,2.3,0.5,3.6,0.8,4.5c0.4,1.1,1,1.9,1.8,2.8
+c0.8,0.8,1.6,1.4,2.8,1.8c0.8,0.3,2.1,0.7,4.5,0.8c2.5,0.1,3.3,0.1,9.7,0.1s7.2,0,9.7-0.1c2.3-0.1,3.6-0.5,4.5-0.8
+c1.1-0.4,1.9-1,2.8-1.8c0.8-0.8,1.4-1.6,1.8-2.8c0.3-0.8,0.7-2.1,0.8-4.5c0.1-2.5,0.1-3.3,0.1-9.7s0-7.2-0.1-9.7
+C55.4,24,55,22.7,54.7,21.8z M36,48.3c-6.8,0-12.3-5.5-12.3-12.3S29.2,23.7,36,23.7S48.3,29.2,48.3,36S42.8,48.3,36,48.3z
+ M48.8,26.1c-1.6,0-2.9-1.3-2.9-2.9s1.3-2.9,2.9-2.9c1.6,0,2.9,1.3,2.9,2.9C51.7,24.8,50.4,26.1,48.8,26.1z"/>
+<path class="st0" d="M36,28c-4.4,0-8,3.6-8,8s3.6,8,8,8s8-3.6,8-8S40.4,28,36,28z"/>
+<path class="st0" d="M0,0v72h72V0H0z M59.9,45.9c-0.1,2.6-0.5,4.3-1.1,5.8c-0.6,1.6-1.4,2.9-2.8,4.3c-1.3,1.3-2.7,2.2-4.3,2.8
+c-1.5,0.6-3.3,1-5.8,1.1C43.3,60,42.5,60,36,60s-7.3,0-9.9-0.1s-4.3-0.5-5.8-1.1c-1.6-0.6-2.9-1.4-4.3-2.8
+c-1.3-1.3-2.2-2.7-2.8-4.3c-0.6-1.5-1-3.3-1.1-5.8C12,43.3,12,42.5,12,36s0-7.3,0.1-9.9s0.5-4.3,1.1-5.8c0.6-1.6,1.4-2.9,2.8-4.3
+c1.3-1.3,2.7-2.2,4.3-2.8c1.5-0.6,3.3-1,5.8-1.1C28.7,12,29.5,12,36,12s7.3,0,9.9,0.1c2.6,0.1,4.3,0.5,5.8,1.1
+c1.6,0.6,2.9,1.4,4.3,2.8c1.3,1.3,2.2,2.7,2.8,4.3c0.6,1.5,1,3.3,1.1,5.8C60,28.7,60,29.5,60,36S60,43.3,59.9,45.9z"/>
+</g>
+</svg></a>
+
+
+<a href="https://www.linkedin.com/company/irish-examiner" aria-label="linkedin" rel="noopener"><svg class="linkedin" fill="#9D9D9C" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M0 0v24h24v-24h-24zm8 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.397-2.586 7-2.777 7 2.476v6.759z"/></svg>
+</a>
+
+
+<a href="https://www.irishexaminer.com/newsletters/" aria-label="newsletters"><svg class="newsletter" version="1.1" id="Layer_2_1_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+ width="72px" height="72px" viewBox="0 0 72 72" style="enable-background:new 0 0 72 72;" xml:space="preserve">
+<style type="text/css">
+.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#9D9D9C;}
+</style>
+<desc>Created with Sketch.</desc>
+<path class="st0" d="M0,0v72h72V0H0z M34.8,12.4c0.2-0.2,0.5-0.3,0.8-0.3c0.4,0,0.7,0.1,0.8,0.4c0.1,0.3,0.3,0.7,0.4,1.2l1.5,6.8
+l1.7-6.3c0.1-0.5,0.2-0.9,0.3-1.1c0.1-0.3,0.3-0.5,0.5-0.7s0.5-0.3,0.9-0.3c0.4,0,0.7,0.1,0.9,0.3c0.2,0.2,0.4,0.4,0.4,0.6
+s0.2,0.6,0.3,1.1l1.7,6.3l1.5-6.8c0.1-0.4,0.1-0.6,0.2-0.8c0.1-0.2,0.2-0.4,0.3-0.5s0.4-0.2,0.7-0.2s0.5,0.1,0.8,0.3
+c0.2,0.2,0.3,0.5,0.3,0.8c0,0.2-0.1,0.6-0.2,1L46.6,22c-0.1,0.5-0.2,0.9-0.3,1.2c-0.1,0.2-0.2,0.5-0.4,0.6c-0.2,0.2-0.5,0.3-0.9,0.3
+c-0.3,0-0.6-0.1-0.8-0.3c-0.2-0.2-0.4-0.4-0.4-0.6c-0.1-0.2-0.2-0.6-0.3-1.2l-1.8-7l-1.8,7c-0.1,0.5-0.3,0.9-0.3,1.1
+c-0.1,0.2-0.2,0.4-0.4,0.6s-0.5,0.3-0.8,0.3c-0.3,0-0.5-0.1-0.7-0.2c-0.2-0.1-0.3-0.3-0.4-0.5s-0.2-0.4-0.3-0.7s-0.1-0.5-0.2-0.8
+l-1.9-7.8c-0.1-0.5-0.2-0.8-0.2-1C34.5,12.9,34.6,12.6,34.8,12.4z M25,13.7c0-0.3,0-0.6,0.1-0.8c0.1-0.2,0.2-0.4,0.5-0.5
+c0.2-0.1,0.5-0.1,0.8-0.1h6c0.4,0,0.6,0.1,0.8,0.2c0.2,0.2,0.3,0.4,0.3,0.7c0,0.3-0.1,0.5-0.3,0.7c-0.2,0.2-0.4,0.2-0.8,0.2h-5.1
+v2.8H32c0.3,0,0.6,0.1,0.8,0.2c0.2,0.2,0.3,0.4,0.3,0.6s-0.1,0.5-0.3,0.6s-0.4,0.2-0.8,0.2h-4.7V22h5.3c0.4,0,0.6,0.1,0.8,0.3
+s0.3,0.4,0.3,0.7c0,0.3-0.1,0.5-0.3,0.7c-0.2,0.2-0.5,0.3-0.8,0.3h-6.2c-0.5,0-0.9-0.1-1.1-0.3S25,23,25,22.4V13.7z M13,13.8
+c0-0.4,0-0.7,0.1-0.9c0.1-0.2,0.3-0.4,0.5-0.6s0.5-0.2,0.7-0.2c0.2,0,0.4,0,0.5,0.1c0.1,0.1,0.3,0.2,0.4,0.3s0.2,0.3,0.3,0.5
+c0.1,0.2,0.2,0.4,0.4,0.6l4.4,6.8v-6.9c0-0.4,0.1-0.8,0.3-1c0.2-0.2,0.4-0.3,0.8-0.3c0.3,0,0.6,0.1,0.8,0.3c0.2,0.2,0.3,0.6,0.3,1
+v9.1c0,1-0.4,1.5-1.2,1.5c-0.2,0-0.4,0-0.6-0.1c-0.2-0.1-0.3-0.2-0.5-0.3c-0.1-0.1-0.3-0.3-0.4-0.5c-0.1-0.2-0.2-0.4-0.4-0.5
+l-4.3-6.8v6.8c0,0.4-0.1,0.8-0.3,1s-0.5,0.3-0.8,0.3c-0.3,0-0.6-0.1-0.8-0.3s-0.3-0.6-0.3-1V13.8z M14.5,41.3h22.1
+c0.9,0,1.7,0.8,1.7,1.7c0,0.9-0.8,1.7-1.7,1.7H14.5c-0.9,0-1.7-0.8-1.7-1.7C12.8,42.1,13.6,41.3,14.5,41.3z M12.8,35.5
+c0-0.9,0.8-1.7,1.7-1.7h22.1c0.9,0,1.7,0.8,1.7,1.7c0,0.9-0.8,1.7-1.7,1.7H14.5C13.6,37.2,12.8,36.4,12.8,35.5z M14.5,48.7h22.1
+c0.9,0,1.7,0.8,1.7,1.7c0,0.9-0.8,1.7-1.7,1.7H14.5c-0.9,0-1.7-0.8-1.7-1.7C12.8,49.4,13.6,48.7,14.5,48.7z M57,59.4H14.5
+c-0.9,0-1.7-0.8-1.7-1.7c0-0.9,0.8-1.7,1.7-1.7H57c0.9,0,1.7,0.8,1.7,1.7C58.6,58.7,57.9,59.4,57,59.4z M41.2,49.9V35.6
+c0-1.2,1-2.2,2.2-2.2h12.2c1.2,0,2.2,1,2.2,2.2v14.2c0,1.2-1,2.2-2.2,2.2H43.4C42.2,52,41.2,51.1,41.2,49.9z M57,30H14.5
+c-0.9,0-1.7-0.8-1.7-1.7c0-0.9,0.8-1.7,1.7-1.7H57c0.9,0,1.7,0.8,1.7,1.7C58.6,29.2,57.9,30,57,30z M58.2,22.3
+c-0.4,0.6-0.9,1-1.5,1.3c-0.7,0.3-1.5,0.5-2.4,0.5c-1.1,0-2-0.2-2.7-0.6c-0.5-0.3-0.9-0.7-1.2-1.2c-0.3-0.5-0.5-1-0.5-1.5
+c0-0.3,0.1-0.5,0.3-0.7c0.2-0.2,0.4-0.3,0.7-0.3c0.2,0,0.4,0.1,0.6,0.2s0.3,0.4,0.4,0.7c0.1,0.4,0.3,0.7,0.5,0.9
+c0.2,0.2,0.4,0.5,0.7,0.6s0.7,0.2,1.2,0.2c0.7,0,1.2-0.2,1.6-0.5c0.4-0.3,0.6-0.7,0.6-1.2c0-0.4-0.1-0.7-0.3-0.9s-0.5-0.4-0.9-0.6
+c-0.4-0.1-0.8-0.3-1.4-0.4c-0.8-0.2-1.5-0.4-2-0.7c-0.5-0.3-1-0.6-1.3-1.1c-0.3-0.5-0.5-1-0.5-1.7c0-0.6,0.2-1.2,0.5-1.7
+c0.3-0.5,0.8-0.9,1.5-1.1c0.6-0.3,1.4-0.4,2.3-0.4c0.7,0,1.3,0.1,1.8,0.3c0.5,0.2,0.9,0.4,1.3,0.7c0.3,0.3,0.6,0.6,0.7,0.9
+c0.2,0.3,0.2,0.6,0.2,0.9c0,0.3-0.1,0.5-0.3,0.8c-0.2,0.2-0.4,0.3-0.7,0.3c-0.3,0-0.5-0.1-0.6-0.2c-0.1-0.1-0.3-0.4-0.4-0.7
+c-0.2-0.4-0.5-0.8-0.7-1c-0.3-0.2-0.7-0.4-1.4-0.4c-0.6,0-1.1,0.1-1.4,0.4c-0.4,0.3-0.5,0.6-0.5,1c0,0.2,0.1,0.4,0.2,0.6
+c0.1,0.2,0.3,0.3,0.5,0.4s0.4,0.2,0.7,0.3s0.6,0.2,1.1,0.3c0.6,0.2,1.2,0.3,1.7,0.5c0.5,0.2,1,0.4,1.3,0.7c0.4,0.3,0.6,0.6,0.8,1
+c0.2,0.4,0.3,0.9,0.3,1.5C58.7,21.1,58.6,21.7,58.2,22.3z"/>
+</svg></a>
+
+</div>
+        </div>
+    </div>
+</div>
+</div>
+</div>
+<div class="row d-flex justify-content-center" style="border-top: solid;border-top-style: solid;border-top-width: thin;border-top-color: gray;margin-top: 10px;margin-bottom: 15px;background-color: #343434; min-width: 290px;">
+                <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12 offset-xl-0 d-flex justify-content-center align-items-center align-content-center"><img src="/cms_media/module_img/5623/2811954_1_org_1715987_1_org_newslettersquoosh_.png" loading="lazy" alt="IE_logo_newsletters" height="90" width="241" style="margin: 10px;margin-top: 5px;margin-bottom: 40px;margin-left: 60px;"></div>
+                <div class="col-12 d-flex justify-content-center align-items-center" style="background-color: #ffffff;/*border-top-left-radius: 5px;*//*border-top-right-radius: 5px;*//*position: absolute;*//*margin: 0px;*//*margin-bottom: 1px;*/margin-top: 0px;margin-right: 1px;margin-left: 1px;max-width: 99%;">
+                    <div class="d-flex justify-content-center" style="background-color: #ffffff;margin-top: -30px;border-top-left-radius: 5px;border-top-right-radius: 5px;width: 100%;">
+                        <p class="text-center text-sm-center text-md-center text-lg-center text-xl-center" style="width: 90%;margin-top: 10px;padding-top: -20px; color: #000; text-align: center">Select your favourite newsletters and get the best of Irish Examiner delivered to your inbox</p>
+                    </div>
+                </div>
+                <div class="col-12 d-flex justify-content-center" style="background-color: #ffffff;margin-right: 0px;margin-left: 0px;margin-bottom: 3px;max-width: 99%;padding-bottom: 15px;"><a class="btn btn-dark" role="button" style="width: 40%;/*background-color: #f15a22;*/" href="https://www.irishexaminer.com/newsletters/">Sign Up</a></div>
+            </div>
+<div class="sidebar-unit lotto-iframe">
+<iframe loading="lazy" title="Lotto results" src="https://examinergroup-esi.s3.eu-west-1.amazonaws.com/lottery-iframe/lotto-widget-ie.html"></iframe>
+</div>
+<style>
+.lotto-iframe iframe{
+        box-shadow: 0 2px 10px rgb(0 0 0 / 10%);
+    -webkit-box-shadow: 0 2px 10px rgb(0 0 0 / 10%);
+    -moz-box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 10px 10px 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.25rem;
+width: 100%;
+margin-bottom: 10px;
+}
+</style>
+<div class=sidebar-unit><div class="most-read s-block text-body"><h2 class="most-read_headline">Most Read</h2><div class="most-read_content" id=mostread><ul class="most-read_list"><li data-vr-contentbox="category- mostread_teaser_right"><div class="row no-gutters"><div class="col-5 most-read_img"><a href="=/news/arid-41025791.html"><img loading=lazy src="/cms_media/module_img/6663/3331664_11_teasersmall_AGAthy_2010-12-2022-6.jpg" alt=" Orange weather warning issued as big freeze causes flight chaos " title="Irish Weather: Frosty morning in Athy, Co. Kildare, Ireland." width="201" height="113"></a></div><div class=col-7><a href="=/news/arid-41025791.html" class="most-read_title">Orange weather warning issued as big freeze causes flight chaos</a></div></div><p class="mt-0 mb-0 pubdate"><small class=text-muted>Saturday, December 10, 2022 - 7:00 PM</small></p></li>
+<li data-vr-contentbox="category- mostread_teaser_right"><div class="row no-gutters"><div class="col-5 most-read_img"><a href="=/sport/gaa/arid-41026001.html"><img loading=lazy src="/cms_media/module_img/6663/3331724_4_teasersmall_2396168.jpg" alt="Kerins O’Rahilly&#039;s v Newcastle West - AIB Munster GAA Football Senior Club Championship Final" title="10122022POM001733" width="201" height="113"></a></div><div class=col-7><a href="=/sport/gaa/arid-41026001.html" class="most-read_title">Tommy Walsh stars as Kerins O'Rahillys secure maiden Munster title</a></div></div><p class="mt-0 mb-0 pubdate"><small class=text-muted>Saturday, December 10, 2022 - 5:00 PM</small></p></li>
+<li data-vr-contentbox="category- mostread_teaser_right"><div class="row no-gutters"><div class="col-5 most-read_img"><a href="=/news/munster/arid-41025653.html"><img loading=lazy src="/cms_media/module_img/6662/3331076_8_teasersmall_DENIS_20stock_20153_1_1_.jpg" alt="Calls for calm after Cork home petrol-bombed" title="DENIS stock 153" width="201" height="113"></a></div><div class=col-7><a href="=/news/munster/arid-41025653.html" class="most-read_title">Calls for calm after Cork home petrol-bombed</a></div></div><p class="mt-0 mb-0 pubdate"><small class=text-muted>Saturday, December 10, 2022 - 7:00 AM</small></p></li>
+</ul></div></div></div>
+<div class="sidebar-unit">
+    <div class="s-block mobile-apps" style="min-width: 290px;">
+        <div class="container family-notices">
+            <div class="row no-gutters">
+                <div class="col-6 left-side-notices text-right">
+                    <img src="/cms_media/module_img/5424/2712132_1_org_1715999_1_org_dove_squoosh.png" loading="lazy" width="108" height="87" alt="Family Notices">
+                </div>
+                <div class="col-6 right-side-notices">
+                    <img alt="IE_logo_FN" loading="lazy" width="110" height="13" src="/cms_media/module_img/5424/2712141_1_org_1716002_1_org_XXLogosquoosh.png">
+                    <h3>Family Notices</h3>
+                    <button class="btn btn-dark btn-sm" type="button"><a href="/index.php?puid=102&amp;pageid=1331">Book
+                            Notice</a></button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="sidebar-unit">
+<!-- RightSidebarBottom -->
+<div id='MPUEnd' data-cb-ad-id='MPU_End' class='ad'>
+<div id='div-gpt-ad-rightsidebar-bottom'>
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.display('div-gpt-ad-rightsidebar-bottom');
+});
+</script>
+</div>
+</div>
+</div>
+</div></div></div></div><footer><div class=container><div class=foot-nav><div class=foot-logos><a href="https://newsbrandsireland.ie/" rel=noopener aria-label=newsbrandsireland target="_blank"><img src="../../../pu_examiner/images/f-logo-nbi.png" width=85 height=58 alt="https://newsbrandsireland.ie/" loading=lazy> </a><a href="https://www.presscouncil.ie/" rel=noopener aria-label=presscouncil target="_blank"><img src="../../../pu_examiner/images/f-logo2.png" width=85 height=71 alt=https://www.presscouncil.ie loading=lazy> </a><a href="https://iabireland.ie/iab-ireland-publishers-commercial-charter/" rel=noopener aria-label=iab-ireland-publishers-commercial-charter target="_blank"><img src="../../../pu_examiner/images/IAB-logo-white.png" width=85 height=33 alt="https://iabireland.ie/iab-ireland-publishers-commercial-charter/" loading=lazy></a></div></div><div class=foot-nav><span><a href="https://www.irishexaminer.com/news/" target="_parent">news</a> </span><ul><li><a href="https://www.irishexaminer.com/news/ireland/" class="" target="_parent">Ireland</a></li><li><a href="https://www.irishexaminer.com/news/munster/" class="" target="_parent">Munster</a></li><li><a href="https://www.irishexaminer.com/news/courtandcrime/" class="" target="_parent">Court &amp; Crime</a></li><li><a href="https://www.irishexaminer.com/news/spotlight/" class="" target="_parent">Spotlight</a></li><li><a href="https://www.irishexaminer.com/world/" class="" target="_parent">World</a></li></ul></div><div class=foot-nav><span><a href="https://www.irishexaminer.com/sport/" target="_parent">sport</a> </span><ul><li><a href="https://www.irishexaminer.com/sport/gaa/" class="" target="_parent">GAA</a></li><li><a href="https://www.irishexaminer.com/sport/soccer/" class="" target="_parent">Soccer</a></li><li><a href="https://www.irishexaminer.com/sport/rugby/" class="" target="_parent">Rugby</a></li><li><a href="https://www.irishexaminer.com/sport/racing/" class="" target="_parent">Racing</a></li><li><a href="https://www.irishexaminer.com/sport/golf/" class="" target="_parent">Golf</a></li><li><a href="https://www.irishexaminer.com/sport/othersport/" class="" target="_parent">Other</a></li><li><a href="https://www.irishexaminer.com/maintopics/?topic=5084339" class="" target="_parent">Podcasts</a></li></ul></div><div class=foot-nav><span><a href="https://www.irishexaminer.com/business/" target="_parent">business</a> </span><ul><li><a href="https://www.irishexaminer.com/business/economy/" class="" target="_parent">Economy</a></li><li><a href="https://www.irishexaminer.com/business/companies/" class="" target="_parent">Companies</a></li><li><a href="https://www.irishexaminer.com/business/munsterbusiness/" class="" target="_parent">Munster Business</a></li><li><a href="https://www.irishexaminer.com/farming/" class="" target="_parent">Farming</a></li><li><a href="https://www.irishexaminer.com/business/technology/" class="" target="_parent">Technology</a></li></ul></div><div class=foot-nav><span><a href="https://www.irishexaminer.com/opinion/" target="_parent">opinion</a> </span><ul><li><a href="https://www.irishexaminer.com/opinion/columnists/" class="" target="_parent">Columnists</a></li><li><a href="https://www.irishexaminer.com/opinion/commentanalysis/" class="" target="_parent">Comment &amp; Analysis</a></li><li><a href="https://www.irishexaminer.com/opinion/ourview/" class="" target="_parent">Our View</a></li><li><a href="https://www.irishexaminer.com/opinion/yourview/" class="" target="_parent">Your View</a></li></ul></div><div class=foot-nav><span><a href="https://www.irishexaminer.com/faq/" target="_parent">Help</a> </span><ul><li><a href="https://www.irishexaminer.com/faq/" class="" target="_parent">FAQ</a></li><li><a href="https://www.irishexaminer.com/contact-us/" class="" target="_parent">Contact Us</a></li><li><a href="https://www.irishexaminer.com/privacy-policy/" class="" target="_parent">Privacy Policy</a></li><li><a href="https://www.irishexaminer.com/cookie-policy/" class="" target="_parent">Cookie Policy</a></li><li><a href="#" class="ot-sdk-show-settings" target="_parent">Cookie Settings</a></li><li><a href="https://www.irishexaminer.com/app/" class="" target="_parent">Mobile</a></li><li><a href="https://subscribe.irishexaminer.com/christmas02?g2i_source=ie&amp;g2i_medium=footer&amp;g2i_campaign=christmas02" class="" target="_parent">Subscriptions</a></li></ul></div><div class=foot-nav><span><a href="https://www.irishexaminer.com/contact-us/" target="_parent">Info</a> </span><ul><li><a href="https://www.irishexaminer.com/terms-conditions/" class="" target="_parent">Terms and Conditions</a></li><li><a href="https://subscribe.irishexaminer.com/?g2i_source=ie&amp;g2i_medium=footer_HD&amp;g2i_campaign=annual" class="" target="_parent">Home delivery</a></li><li><a href="https://www.irishexaminer.com/syndication/" class="" target="_parent">RSS</a></li><li><a href="https://www.irishexaminer.com/newsletters/" class="" target="_parent">Newsletters</a></li><li><a href="https://sites.google.com/examiner.ie/irishexaminer-media-solutions/home" class="" target="_parent">Place ad</a></li><li><a href="https://www.irishexaminer.com/whoweare/" class="" target="_parent">Who We Are</a></li><li><a href="https://www.irishexaminer.com/sitemap-page/" class="" target="_parent">Sitemap</a></li></ul></div><p>© Irish Examiner Ltd, Linn Dubh, Assumption Road, Blackpool, Cork. Registered in Ireland: 523712.</p></div>
+</footer></div></div><!--SERVERSTATUS-->
+ <script src="https://www.googletagmanager.com/gtag/js?id=UA-156965-65"></script><script>		if (isLoggedIn()) {
+			// record page views in Subscribed GA3 irishexaminer Google analytics
+			window.dataLayer = window.dataLayer || [];
+
+			function gtag() { dataLayer.push(arguments); }
+			gtag('js', new Date());
+			gtag('config', 'UA-156965-65');
+		}
+	</script><div style=display:none;>Execution Time: 0.221 s</div><script>			window.dataLayer = window.dataLayer || [];
+			dataLayer.push({
+				'event': 'pageData',
+				'executionTime' : '0.221'
+			});
+		</script></body></html>

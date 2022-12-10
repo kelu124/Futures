@@ -1,0 +1,748 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+
+    <!-- Meta -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PATENTED FUTURES &mdash; RESEARCH PAPER — MODEM</title>
+
+    <!-- Fonts -->
+    <link rel="preload" href="https://modemworks.com/wp-content/themes/modem/fonts/jha-times-now.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="https://modemworks.com/wp-content/themes/modem/fonts/NeueMontreal-Regular.woff2" as="font" type="font/woff2" crossorigin>
+
+    <!-- CSS -->
+    <link href="https://modemworks.com/wp-content/themes/modem/style.css?14" rel="stylesheet" />
+
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.11 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="Patented Futures reimagines nondescript patent filings from tech corporations as forward-looking designs — mapping the vast promises and implications of tomorrow’s wearable technologies." />
+	<link rel="canonical" href="https://modemworks.com/research/patented-futures/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Patented Futures &mdash; MODEM" />
+	<meta property="og:description" content="Patented Futures reimagines nondescript patent filings from tech corporations as forward-looking designs — mapping the vast promises and implications of tomorrow’s wearable technologies." />
+	<meta property="og:url" content="https://modemworks.com/research/patented-futures/" />
+	<meta property="og:site_name" content="MODEM" />
+	<meta property="article:modified_time" content="2022-11-27T16:19:54+00:00" />
+	<meta property="og:image" content="https://modemworks.com/wp-content/uploads/2021/08/Modem_Patented_Futures_Overview.jpg" />
+	<meta property="og:image:width" content="1920" />
+	<meta property="og:image:height" content="1152" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Patented Futures &mdash; MODEM" />
+	<meta name="twitter:description" content="Patented Futures reimagines nondescript patent filings from tech corporations as forward-looking designs — mapping the vast promises and implications of tomorrow’s wearable technologies." />
+	<meta name="twitter:image" content="https://modemworks.com/wp-content/uploads/2021/08/Modem_Patented_Futures_Overview_thumb.jpg" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://modemworks.com/research/patented-futures/","url":"https://modemworks.com/research/patented-futures/","name":"Patented Futures &mdash; RESEARCH PAPER — MODEM","isPartOf":{"@id":"https://modemworks.com/#website"},"datePublished":"2021-08-04T21:13:59+00:00","dateModified":"2022-11-27T16:19:54+00:00","description":"Patented Futures reimagines nondescript patent filings from tech corporations as forward-looking designs — mapping the vast promises and implications of tomorrow’s wearable technologies.","breadcrumb":{"@id":"https://modemworks.com/research/patented-futures/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://modemworks.com/research/patented-futures/"]}]},{"@type":"BreadcrumbList","@id":"https://modemworks.com/research/patented-futures/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://modemworks.com/"},{"@type":"ListItem","position":2,"name":"Patented Futures"}]},{"@type":"WebSite","@id":"https://modemworks.com/#website","url":"https://modemworks.com/","name":"MODEM","description":"OFFICE FOR DESIGN AND INNOVATION","publisher":{"@id":"https://modemworks.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://modemworks.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://modemworks.com/#organization","name":"MODEM","url":"https://modemworks.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://modemworks.com/#/schema/logo/image/","url":"https://modemworks.com/wp-content/uploads/2021/09/cropped-modem_favico-270x270-1.png","contentUrl":"https://modemworks.com/wp-content/uploads/2021/09/cropped-modem_favico-270x270-1.png","width":270,"height":270,"caption":"MODEM"},"image":{"@id":"https://modemworks.com/#/schema/logo/image/"},"sameAs":["https://www.instagram.com/modem.works/"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/modemworks.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=e502c580ec92fa5a8a0621027d6fb040"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://modemworks.com/wp-includes/css/dist/block-library/style.min.css?ver=e502c580ec92fa5a8a0621027d6fb040' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://modemworks.com/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="https://api.w.org/" href="https://modemworks.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://modemworks.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://modemworks.com/wp-includes/wlwmanifest.xml" />
+
+<link rel='shortlink' href='https://modemworks.com/?p=895' />
+<link rel="alternate" type="application/json+oembed" href="https://modemworks.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmodemworks.com%2Fresearch%2Fpatented-futures%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://modemworks.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmodemworks.com%2Fresearch%2Fpatented-futures%2F&#038;format=xml" />
+<link rel="icon" href="https://modemworks.com/wp-content/uploads/2021/09/cropped-cropped-modem_favico-270x270-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://modemworks.com/wp-content/uploads/2021/09/cropped-cropped-modem_favico-270x270-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://modemworks.com/wp-content/uploads/2021/09/cropped-cropped-modem_favico-270x270-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://modemworks.com/wp-content/uploads/2021/09/cropped-cropped-modem_favico-270x270-1-270x270.png" />
+
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-N8P9TMSV5E"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-N8P9TMSV5E', {'anonymize_ip': true});
+    </script>
+
+  </head>
+
+  
+  <body class="paper-template-default single single-paper postid-895">
+
+    
+    <header class="header">
+
+  <div class="header__inner">
+
+    <div class="header__column">
+      <a href="https://modemworks.com">
+        MODEM      </a>
+    </div>
+    <!-- end .header__column -->
+
+    <div class="header__column">
+      <a href="https://modemworks.com">
+        OFFICE FOR DESIGN AND INNOVATION      </a>
+    </div>
+    <!-- end .header__column -->
+
+    <div class="header__column">
+
+      
+<ul class="navigation">
+
+  
+    <li class="navigation__item">
+      <a href="https://modemworks.com/research/" class="navigation__item__button is-active        ">
+        Research      </a>
+    </li>
+    <!-- end .navigation__item -->
+
+  
+    <li class="navigation__item">
+      <a href="https://modemworks.com/projects/" class="navigation__item__button         ">
+        Projects      </a>
+    </li>
+    <!-- end .navigation__item -->
+
+  
+    <li class="navigation__item">
+      <a href="https://modemworks.com/office/" class="navigation__item__button         ">
+        Office      </a>
+    </li>
+    <!-- end .navigation__item -->
+
+  
+</ul>
+<!-- end .navigation -->
+    </div>
+    <!-- end .header__column -->
+
+  </div>
+  <!-- end .header__inner -->
+
+</header>
+<!-- end .header -->
+  <div class="flexible-content">
+
+  <div class="flexible-content__item page-heading">
+
+  
+    <div class="page-heading__text page-heading__text--align-center">
+      Patented Futures    </div>
+    <!-- end .page-heading__text -->
+
+  
+  <div class="page-heading__meta">
+
+    <div class="page-heading__meta__column">
+
+      <div class="page-heading__meta__item">
+
+        <span class="page-heading__meta__item__text page-heading__meta__item__text--value">
+          RESEARCH PAPER
+        </span>
+        <!-- end .page-heading__meta__text -->
+
+      </div>
+      <!-- end .page-heading__meta__item -->
+
+    </div>
+    <!-- end .page-heading__meta__column -->
+
+    <div class="page-heading__meta__column">
+
+      <div class="page-heading__meta__item">
+
+        
+          <span class="page-heading__meta__item__text page-heading__meta__item__text--label">
+            Text
+          </span>
+          <!-- end .page-heading__meta__item__text -->
+
+          <span class="page-heading__meta__item__text page-heading__meta__item__text--value">
+            Anastasiia Fedorova          </span>
+          <!-- end .page-heading__meta__item__text -->
+
+        
+      </div>
+      <!-- end .page-heading__meta__item -->
+
+      
+        <div class="page-heading__meta__item">
+
+          <span class="page-heading__meta__item__text page-heading__meta__item__text--label">
+            IMAGES
+          </span>
+          <!-- end .page-heading__meta__item__text -->
+
+          <span class="page-heading__meta__item__text page-heading__meta__item__text--value">
+            Studio Bjørn Ibsen          </span>
+          <!-- end .page-heading__meta__item__text -->
+
+        </div>
+        <!-- end .page-heading__meta -->
+
+      
+    </div>
+    <!-- end .page-heading__meta__column -->
+
+    <div class="page-heading__meta__column">
+
+      <div class="page-heading__meta__item">
+
+        <span class="page-heading__meta__item__text page-heading__meta__item__text--value">
+          Issue 02        </span>
+        <!-- end .page-heading__meta__item__text -->
+
+      </div>
+      <!-- end .page-heading__meta__item -->
+
+    </div>
+    <!-- end .page-heading__meta__column -->
+
+  </div>
+  <!-- end .page-heading__meta -->
+
+</div>
+<!-- end .flexible-content__item -->
+  
+    <div class="flexible-content__item flexible-content__item--default-whitespace-top image image--default image--caption-left">
+
+  <div class="video">
+
+    
+    
+      <video src="https://player.vimeo.com/progressive_redirect/playback/774879231/rendition/1080p/file.mp4?loc=external&signature=ca08b18dbafb6435fc5f75bf41626b1c72a751a29a791af96368dc9fe971dc99" preload autoplay muted playsinline loop></video>
+
+    
+  </div>
+  <!-- end .video -->
+
+  
+</div>
+<!-- end .flexible-content__item -->
+  <div class="flexible-content__item text">
+
+    <div class="text__inner text__inner--full-width text__inner--full-width text__inner--large">
+
+      <p>With the iPhone approaching its 15th anniversary, it’s clear that the next major shift in consumer behaviour will expand beyond smartphone-based technologies. Modem has collaborated with Studio Bjørn Ibsen to explore the blueprint for our future lifestyles according to Silicon Valley. <em>Patented Futures</em> reimagines nondescript patent filings from tech corporations as forward-looking designs — mapping the vast promises and implications of tomorrow&#8217;s wearable technologies.</p>
+
+    </div>
+    <!-- end .text__inner -->
+
+  </div>
+  <!-- end .flexible-content__item -->
+
+
+  <div class="flexible-content__item text">
+
+    <div class="text__inner text__inner--left text__inner--default text-holder">
+
+      <p>We’ve all been raised on visions of cyborgs. Whether utopian or dystopian, the imagined futures we watch on our TV screens have always been the domain of hybrid creatures: part-human and part-machine. As a society, we are mesmerised by the familiar softness of the human body blended with high-performance tech — whether that’s the augmented eyes of anti-cybercrime agent Major Kusanagi in 1995 anime Ghost in the Shell, or the moment Neo discovers a metal headjack on the back of his neck in The Matrix. These stories from the dawn of the internet age help us process our complex and increasingly intimate relationship with technology. We’re on the brink of a new era enabled by artificial intelligence, augmented reality and cloud computing — and in the next decade, wearable tech will likely become the most prevalent way to access all of these innovations. But how will this change our social interactions? What kind of horizons will it open for our minds and bodies? And what could we have to sacrifice along the way? The answers are yet to be determined.</p>
+<p>We cling to futuristic narratives of wearable tech because they promise instant augmentation: glasses which allow people to see in the dark, shell-suits which make us invincible. But really, wearable tech is just a reflection on our rapidly evolving social lifestyles. The future is already here – embedded in our habits, routines and identities.</p>
+
+    </div>
+    <!-- end .text__inner -->
+
+  </div>
+  <!-- end .flexible-content__item -->
+
+<div class="flexible-content__item flexible-content__item--default-whitespace-top image image--default image--caption-left">
+
+  <div class="image__holder">
+    <img width="2560" height="1440" src="https://modemworks.com/wp-content/uploads/2021/08/Modem_Patented_Futures_Gloves.jpg" class="attachment-full size-full" alt="Patented Futures — Gloves" decoding="async" loading="lazy" srcset="https://modemworks.com/wp-content/uploads/2021/08/Modem_Patented_Futures_Gloves.jpg 2560w, https://modemworks.com/wp-content/uploads/2021/08/Modem_Patented_Futures_Gloves-1536x864.jpg 1536w, https://modemworks.com/wp-content/uploads/2021/08/Modem_Patented_Futures_Gloves-2048x1152.jpg 2048w, https://modemworks.com/wp-content/uploads/2021/08/Modem_Patented_Futures_Gloves-636x358.jpg 636w, https://modemworks.com/wp-content/uploads/2021/08/Modem_Patented_Futures_Gloves-318x179.jpg 318w" sizes="(max-width: 2560px) 100vw, 2560px" />  </div>
+  <!-- end .image__holder -->
+
+  
+    <div class="image__caption">
+      APPLE GLOVES PATENT — This filing by Apple envisages gloves as a tool to control applications in augmented or virtual reality. The gloves will enable new forms of interaction with virtual objects, programmes or other users. Manufactured from smart fabric, the gloves will rely on magnetic detection to ensure precise results on the position of each finger.    </div>
+    <!-- end .image__caption -->
+
+  
+</div>
+<!-- end .flexible-content__item -->
+  <div class="flexible-content__item text">
+
+    <div class="text__inner text__inner--right text__inner--default text-holder">
+
+      <p>CYBORG LIFESTYLES — REAL AND IMAGINED<br />
+Feminist scholar Donna Haraway published <em>A Cyborg Manifesto</em> in 1985. In it, she wrote about a “relationship between people and technology so intimate that it&#8217;s no longer possible to tell where we end and machines begin”. She laid out a vision of people not as individuals, but as nodes within a wider network. Her vision was formulated before the internet and before the smartphone — yet over three decades later, we are witnessing its truly prophetic nature. Today, we undeniably inhabit cyborg bodies. We check up on our Snapchat or Axie Infinity avatars as we queue for a caffeinated drink; we keep track of how many steps we take each day; we use apps to track our nutritional supplements and period cycles. Particularly for millennials and Gen Z, the separation of our online and physical identities is becoming less and less relevant. We are on the verge of a world which will allow us to exist in both dimensions simultaneously — and wearables could allow us to physically inhabit both of those spaces more fully.</p>
+<p>In the next decade, we will inevitably see the growing presence of wearable tech in our day-to-day lives. With the iPhone approaching its 15th anniversary, it’s clear that the next major shift in consumer behaviour will take place beyond the boundaries of smartphone-based technologies. We can glimpse this future through the current patent filings from corporations and start-ups – the blueprint of our future lifestyle according to Silicon Valley’s secretive R+D labs. We are decades away from these technologies being built and deployed, yet they’re being shaped here and now, rooted in the current social and cultural contexts.</p>
+
+    </div>
+    <!-- end .text__inner -->
+
+  </div>
+  <!-- end .flexible-content__item -->
+
+<div class="flexible-content__item flexible-content__item--default-whitespace-top image image--default image--caption-left">
+
+  <div class="video">
+
+    
+    
+      <video src="https://player.vimeo.com/progressive_redirect/playback/775506448/rendition/1080p/file.mp4?loc=external&signature=221d01675620ff06906171519a0dfdbce5260bc11d76cff3180e30e083e3ad67" preload autoplay muted playsinline loop></video>
+
+    
+  </div>
+  <!-- end .video -->
+
+  
+    <div class="image__caption">
+      MAGIC LEAP BRACELET PATENT — An AR-enhanced charm bracelet, patented by Magic Leap, allows one intuitive fast-track access to apps in the AR space. The bracelet appears to be just a piece of jewellery until the user puts on their AR headset. Then, a virtual layer appears on top of the charms — allowing them to access their favourite apps just by touching them.    </div>
+    <!-- end .image__caption -->
+
+  
+</div>
+<!-- end .flexible-content__item -->
+  <div class="flexible-content__item text">
+
+    <div class="text__inner text__inner--right text__inner--default text-holder">
+
+      <p>THE SEAMLESS TRANSITION TO WEARABLES<br />
+Success in wearable tech isn’t always packed with surprise or even futuristic sensibility – sometimes, new devices fit so seamlessly into consumers’ lives that it’s barely even noticeable. Just look at Apple AirPods, which made the company <a href="https://www.wired.co.uk/article/apple-airpods-success" target="_blank" rel="noopener">an estimated $7.3 billion</a> in 2019 alone (with an estimated 35 million pairs sold). Wireless charging, noise-cancelling capabilities, and an ergonomic design which fits most ears have all been crucial factors in AirPods’ success — alongside their aesthetic and cultural context. AirPods created a buzz in the fashion world: they were spotted inside fashion week street style reports, combined with fine jewellery, and even inspired brands to create various add-on accessories like chains and pendants. To sum it up, AirPods look good enough and are practical enough to keep them on all the time – which might be the ultimate goal for wearables.</p>
+<p>With the widespread use of wireless earphones now all but assured, the appearance of similar products with more sophisticated technological features is just a matter of time. Apple owns a patent for wireless earbuds with built-in health sensors, capable of monitoring heart rate and measuring body temperature. Disney Enterprises is planning to develop an AR audio system to create spatial audio-enhanced environments — earphones which react to users’ location and movement. Facebook owns a patent for a “cartilage conduction audio system for eyewear devices”: essentially a portable sound system located both behind and inside the ear, ready to be paired with AR glasses for the ultimate immersive experience.</p>
+
+    </div>
+    <!-- end .text__inner -->
+
+  </div>
+  <!-- end .flexible-content__item -->
+
+<div class="flexible-content__item flexible-content__item--default-whitespace-top image image--default image--caption-left">
+
+  <div class="image__holder">
+    <img width="2560" height="1440" src="https://modemworks.com/wp-content/uploads/2021/08/Modem_Patented_Futures_Earbuds.jpg" class="attachment-full size-full" alt="Patented Futures — Earbuds" decoding="async" loading="lazy" srcset="https://modemworks.com/wp-content/uploads/2021/08/Modem_Patented_Futures_Earbuds.jpg 2560w, https://modemworks.com/wp-content/uploads/2021/08/Modem_Patented_Futures_Earbuds-1536x864.jpg 1536w, https://modemworks.com/wp-content/uploads/2021/08/Modem_Patented_Futures_Earbuds-2048x1152.jpg 2048w, https://modemworks.com/wp-content/uploads/2021/08/Modem_Patented_Futures_Earbuds-636x358.jpg 636w, https://modemworks.com/wp-content/uploads/2021/08/Modem_Patented_Futures_Earbuds-318x179.jpg 318w" sizes="(max-width: 2560px) 100vw, 2560px" />  </div>
+  <!-- end .image__holder -->
+
+  
+    <div class="image__caption">
+      APPLE EARBUDS PATENT — Apple’s latest idea for next generation earbuds include a contextual audio system that will automatically adjust their output depending on the user’s surroundings or current activity. Biometric sensors embedded in the wireless earbuds will also be able to pick up the wearer’s heart rate and body temperature for personalised health tracking.    </div>
+    <!-- end .image__caption -->
+
+  
+</div>
+<!-- end .flexible-content__item -->
+  <div class="flexible-content__item text">
+
+    <div class="text__inner text__inner--right text__inner--default text-holder">
+
+      <p>GOOGLE GLASS AND ITS COMPLEX LEGACY<br />
+If earphones are connected with the story of success, glasses are ultimately linked to wearable tech’s biggest failure: Google Glass. The rise and fall of Google Glass was stark and rapid: in 2012, it was named one of the “<a href="http://techland.time.com/2012/11/01/best-inventions-of-the-year-2012/slide/google-glass/" target="_blank" rel="noopener">Best Inventions of the Year</a>” by Time Magazine; Oprah, Beyoncé, and Prince Charles all wore a pair; and the device even appeared on the Diane von Furstenberg Spring-Summer 2013 catwalk. But now Google Glass looks distinctly odd, filled with all the cringe factor of something very recently out of date — perhaps akin to a CD or a car stereo. When Google Glass was released, the project was still very much work in progress, and hence not sold in stores. Instead, it was offered to “<a href="https://www.nytimes.com/2015/02/05/style/why-google-glass-broke.html" target="_blank" rel="noopener">a select group of geeks and journalists, who paid $1,500 for the privilege of being an early adopter</a>”. The hype was soon crushed by numerous bugs, abysmal battery life and, most importantly, the overwhelming fear of discrete rolling recording. This particular vision of the future – where users are not only watching, but are constantly being watched – is embedded in the way that tech-enhanced eyewear is likely to develop.</p>
+<p>Back in the day, Glass evoked persistent anxiety and annoyance in social situations. (So much so that it gave birth to its own term — “Glasshole” — that referred to people who refused to remove their Glass when directly interacting with other people.) Today, Glass exists as <a href="https://www.google.com/glass/start/" target="_blank" rel="noopener">a tool for the enterprise</a>. It is used by shipping companies like DHL and DB Schenker to help employees while scanning and sorting orders. As veteran tech writer and Wired co-founder <a href="https://www.wired.com/story/mirrorworld-ar-next-big-tech-platform/" target="_blank" rel="noopener">Kevin Kelly pointed out</a>: “You are likely to put on AR glasses at work long before you put them on at home.”</p>
+
+    </div>
+    <!-- end .text__inner -->
+
+  </div>
+  <!-- end .flexible-content__item -->
+
+<div class="flexible-content__item flexible-content__item--default-whitespace-top image image--default image--caption-left">
+
+  <div class="image__holder">
+    <img width="2560" height="1440" src="https://modemworks.com/wp-content/uploads/2021/08/Modem_Patented_Futures_ARGlasses.jpg" class="attachment-full size-full" alt="Patented Futures — AR Glasses" decoding="async" loading="lazy" srcset="https://modemworks.com/wp-content/uploads/2021/08/Modem_Patented_Futures_ARGlasses.jpg 2560w, https://modemworks.com/wp-content/uploads/2021/08/Modem_Patented_Futures_ARGlasses-1536x864.jpg 1536w, https://modemworks.com/wp-content/uploads/2021/08/Modem_Patented_Futures_ARGlasses-2048x1152.jpg 2048w, https://modemworks.com/wp-content/uploads/2021/08/Modem_Patented_Futures_ARGlasses-636x358.jpg 636w, https://modemworks.com/wp-content/uploads/2021/08/Modem_Patented_Futures_ARGlasses-318x179.jpg 318w" sizes="(max-width: 2560px) 100vw, 2560px" />  </div>
+  <!-- end .image__holder -->
+
+  
+    <div class="image__caption">
+      FACEBOOK GLASSES PATENT — Facebook filed a patent application for AR-enhanced eyewear as early as 2017. The smart glasses are designed to add a virtual layer on top of our surroundings, merging physical reality with the digital universe. Digital images and video will be generated using a variety of technologies, including lasers and scanning mirrors.     </div>
+    <!-- end .image__caption -->
+
+  
+</div>
+<!-- end .flexible-content__item -->
+  <div class="flexible-content__item text">
+
+    <div class="text__inner text__inner--right text__inner--default text-holder">
+
+      <p>Judging by the sheer number of patent filings, AR-enhanced glasses are inevitable. They will, however, be complex to implement — not only technologically, but also aesthetically and culturally. Eyewear holds a precarious position at the intersection of fashion and practicality. They are a luxury accessory, but are usually also discreet. Most smart glasses are currently a complete antithesis to the futuristic design trend in eyewear, which has largely borrowed from sci-fi and sports models. It is a hint that wearable tech, with all its futuristic potential, most likely won’t look that futuristic.</p>
+<p>Our future wearables will be subtle and tactile, generating a new type of gentle and comforting stimulation. They might borrow the soft textures of a pebble polished by the ocean, or the muted pastel colours of hand-made paper. They may even have carefully constructed imperfections. This is not only about aesthetics, but reframing the position of tech in our lives and minds, positioning it as invisible, unassuming, intuitive. Wearable tech is no longer about giving up a part of ourselves to a machine, but about products and services created to fit both our smallest needs and our cosy home interiors. We still are in the process of admitting to ourselves that the ubiquitous presence of technology in our lives is inevitable. While that process is ongoing, however, we are keen to find ways to give technology a less invasive look and feel.</p>
+
+    </div>
+    <!-- end .text__inner -->
+
+  </div>
+  <!-- end .flexible-content__item -->
+
+<div class="flexible-content__item flexible-content__item--default-whitespace-top image image--default image--caption-left">
+
+  <div class="image__holder">
+    <img width="2560" height="1440" src="https://modemworks.com/wp-content/uploads/2021/08/Modem_Patented_Futures_Slippers.jpg" class="attachment-full size-full" alt="Patented Futures — Slippers" decoding="async" loading="lazy" srcset="https://modemworks.com/wp-content/uploads/2021/08/Modem_Patented_Futures_Slippers.jpg 2560w, https://modemworks.com/wp-content/uploads/2021/08/Modem_Patented_Futures_Slippers-1536x864.jpg 1536w, https://modemworks.com/wp-content/uploads/2021/08/Modem_Patented_Futures_Slippers-2048x1152.jpg 2048w, https://modemworks.com/wp-content/uploads/2021/08/Modem_Patented_Futures_Slippers-636x358.jpg 636w, https://modemworks.com/wp-content/uploads/2021/08/Modem_Patented_Futures_Slippers-318x179.jpg 318w" sizes="(max-width: 2560px) 100vw, 2560px" />  </div>
+  <!-- end .image__holder -->
+
+  
+    <div class="image__caption">
+      GOOGLE SLIPPERS PATENT — Patented by Google, this motorized footwear will allow users to walk seemingly endless distances in the virtual environment while staying within a defined physical space. By tracking the wearer’s motions, motorized wheels on the footwear will bring them safely back to a designated "return zone" whenever they venture beyond a predetermined area.    </div>
+    <!-- end .image__caption -->
+
+  
+</div>
+<!-- end .flexible-content__item -->
+  <div class="flexible-content__item text">
+
+    <div class="text__inner text__inner--right text__inner--default text-holder">
+
+      <p>AR: ENTERING THE METAVERSE<br />
+By using unassuming, grounded aesthetics and tactile familiarity, the wearable tech of the future may be able to counter the anxiety we feel as we face the unknown worlds and technologies. AR is certainly one such innovation. In addition to glasses and earphones, a number of wearables in the works are designed to introduce the metaverse into our daily lives. Magic Leap has a bracelet which will allow users to access their AR apps by touching certain corresponding charms. Google has filed a patent for motorized footwear that will allow users to walk, seemingly endlessly, through virtual environments, all while remaining within a defined physical space. Major companies such as Apple, Facebook, and Samsung are developing smart gloves which will enable wearers to feel and manipulate virtual objects. Alongside numerous practical applications, like virtual sculpting tools, such devices will finally allow us to see and feel our hands in VR and AR – moving one step closer to feeling like we’re “really there”. The concepts of “there” and “here”, however, might not be as relevant in the future post-wearables – just as the online and offline worlds have joined in modern society, the VR and “real-life” world will merge into the new hybrid reality.</p>
+<p>And this is where we circle back to the field of imagination and sci-fi – because as much as we can try to predict the development of wearable technology, it’s much harder to imagine how we, as humans, will fit into this new world. The wider application of AR would mean a society where everything around us becomes meticulously mapped and documented. Whatever we see, machines will also see: smart glasses will capture the world through human eyes, while AI gradually learns to make sense of everything that the wearer encounters, whether living things or inanimate objects. This could introduce a new era of surveillance that is cosy, ubiquitous and, most likely, completely consensual. But even if comfortable with being constantly seen by mechanical eyes, are we ready for a new vision of society to unfold in various dimensions?</p>
+<p>At the end of the day, wearables will forge a completely new relationship between ourselves and our own bodies. On the one hand, we will be given the chance to expand the boundaries of our physical selves. On the other, we will forever be bound to our bodies’ practical applications as a form of ID, a high-performance machine, and as node on the network — just as Donna Harraway predicted.</p>
+
+    </div>
+    <!-- end .text__inner -->
+
+  </div>
+  <!-- end .flexible-content__item -->
+
+
+  
+  <div class="flexible-content__item credits">
+
+  <div class="credits__item">
+
+    <span class="credits__item__text credits__item__text--value">
+      Issue 02    </span>
+    <!-- end .credits__item__text -->
+
+  </div>
+  <!-- end .credits__item -->
+
+  
+  
+    
+      <div class="credits__item">
+
+        <span class="credits__item__text credits__item__text--label">
+          Images        </span>
+        <!-- end .credits__item__text -->
+
+        <span class="credits__item__text credits__item__text--value">
+          Studio Bjørn Ibsen        </span>
+        <!-- end .credits__item__text -->
+
+      </div>
+      <!-- end .credits__item -->
+
+    
+      <div class="credits__item">
+
+        <span class="credits__item__text credits__item__text--label">
+          Text        </span>
+        <!-- end .credits__item__text -->
+
+        <span class="credits__item__text credits__item__text--value">
+          Anastasiia Fedorova        </span>
+        <!-- end .credits__item__text -->
+
+      </div>
+      <!-- end .credits__item -->
+
+    
+  
+  
+</div>
+<!-- end .flexible-content__item -->
+</div>
+<!-- end .flexible-content -->
+  
+
+  <div class="page-divider">
+
+    <div class="page-divider__text">
+      Other Research
+    </div>
+    <!-- end .page-divider__text -->
+
+  </div>
+  <!-- end .page-divider -->
+
+  <div class="research-overview research-overview--2-columns">
+
+    
+      
+      <a href="https://modemworks.com/research/new-office-rituals/" class="research-overview__item">
+
+  <div class="research-overview__item__title">
+    New Office Rituals  </div>
+  <!-- end .research-overview__item__title -->
+
+  <div class="research-overview__item__meta">
+
+    <div class="research-overview__item__meta__item">
+
+      <span class="research-overview__item__meta__item__text research-overview__item__meta__item__text--value">
+        Issue 01      </span>
+
+    </div>
+    <!-- end .research-overview__item__meta -->
+
+    <div class="research-overview__item__meta__item">
+
+      <span class="research-overview__item__meta__item__text research-overview__item__meta__item__text--label">
+        Partner
+      </span>
+
+      <span class="research-overview__item__meta__item__text research-overview__item__meta__item__text--value">
+
+                  UC Berkeley Innovation        
+      </span>
+
+    </div>
+    <!-- end .research-overview__item__meta -->
+
+  </div>
+  <!-- end .research-overview__item__meta -->
+
+  
+    <div class="research-overview__item__visual">
+      <img width="1920" height="1152" src="https://modemworks.com/wp-content/uploads/2021/07/modem_newofficerituals_thumbnail.jpg" class="attachment-full size-full" alt="New Office Rituals" decoding="async" loading="lazy" srcset="https://modemworks.com/wp-content/uploads/2021/07/modem_newofficerituals_thumbnail.jpg 1920w, https://modemworks.com/wp-content/uploads/2021/07/modem_newofficerituals_thumbnail-1536x922.jpg 1536w, https://modemworks.com/wp-content/uploads/2021/07/modem_newofficerituals_thumbnail-597x358.jpg 597w, https://modemworks.com/wp-content/uploads/2021/07/modem_newofficerituals_thumbnail-298x179.jpg 298w, https://modemworks.com/wp-content/uploads/2021/07/modem_newofficerituals_thumbnail-1200x720.jpg 1200w, https://modemworks.com/wp-content/uploads/2021/07/modem_newofficerituals_thumbnail-600x360.jpg 600w" sizes="(max-width: 1920px) 100vw, 1920px" />    </div>
+    <!-- end .research-overview__item__visual -->
+
+  
+</a>
+<!-- end .research-overview__item -->
+    
+      
+      <a href="https://modemworks.com/research/the-exponential-age/" class="research-overview__item">
+
+  <div class="research-overview__item__title">
+    The Exponential Age  </div>
+  <!-- end .research-overview__item__title -->
+
+  <div class="research-overview__item__meta">
+
+    <div class="research-overview__item__meta__item">
+
+      <span class="research-overview__item__meta__item__text research-overview__item__meta__item__text--value">
+        Issue 03      </span>
+
+    </div>
+    <!-- end .research-overview__item__meta -->
+
+    <div class="research-overview__item__meta__item">
+
+      <span class="research-overview__item__meta__item__text research-overview__item__meta__item__text--label">
+        Partner
+      </span>
+
+      <span class="research-overview__item__meta__item__text research-overview__item__meta__item__text--value">
+
+                  Kühl & Han        
+      </span>
+
+    </div>
+    <!-- end .research-overview__item__meta -->
+
+  </div>
+  <!-- end .research-overview__item__meta -->
+
+  
+    <div class="research-overview__item__visual">
+      <img width="1920" height="1152" src="https://modemworks.com/wp-content/uploads/2021/12/Modem_research_expontntial_age_thumbnail.jpg" class="attachment-full size-full" alt="The Exponential Age" decoding="async" loading="lazy" srcset="https://modemworks.com/wp-content/uploads/2021/12/Modem_research_expontntial_age_thumbnail.jpg 1920w, https://modemworks.com/wp-content/uploads/2021/12/Modem_research_expontntial_age_thumbnail-1536x922.jpg 1536w, https://modemworks.com/wp-content/uploads/2021/12/Modem_research_expontntial_age_thumbnail-597x358.jpg 597w, https://modemworks.com/wp-content/uploads/2021/12/Modem_research_expontntial_age_thumbnail-298x179.jpg 298w, https://modemworks.com/wp-content/uploads/2021/12/Modem_research_expontntial_age_thumbnail-1200x720.jpg 1200w, https://modemworks.com/wp-content/uploads/2021/12/Modem_research_expontntial_age_thumbnail-600x360.jpg 600w" sizes="(max-width: 1920px) 100vw, 1920px" />    </div>
+    <!-- end .research-overview__item__visual -->
+
+  
+</a>
+<!-- end .research-overview__item -->
+    
+  </div>
+  <!-- end .research-overview -->
+
+
+
+  <div class="signup">
+
+    <div class="signup__inner">
+
+  <div class="signup__column text-holder">
+
+          <p><strong>NEWSLETTER</strong><br />
+Subscribe to the Modem newsletter to receive early access to our latest research papers exploring new and emerging futures.</p>
+    
+  </div>
+  <!-- end .signup__column -->
+
+  <div class="signup__column">
+
+    <!-- Begin Mailchimp Signup Form -->
+    <div id="mc_embed_signup">
+      <form action="https://modemworks.us6.list-manage.com/subscribe/post?u=2294ba95b8d80a80608c502b5&amp;id=2dc04b9f75" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="newsletter-form validate" target="_blank" novalidate>
+        <div id="mc_embed_signup_scroll">
+
+          <div class="mc-field-group">
+            <input type="text" value="" name="FNAME" class="" id="mce-FNAME" placeholder="Name">
+          </div>
+
+          <div class="mc-field-group">
+            <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email">
+          </div>
+
+          <div id="mce-responses" class="clear">
+            <div class="response" id="mce-error-response" style="display:none"></div>
+            <div class="response" id="mce-success-response" style="display:none"></div>
+          </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+
+          <div>
+            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_c6a3bcd182b6ce99a9141dccd_d44a194a19" tabindex="-1" value=""></div>
+            <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+          </div>
+
+        </div>
+      </form>
+    </div>
+    <!--End mc_embed_signup-->
+
+  </div>
+  <!-- end .signup__column -->
+
+</div>
+<!-- end .signup__inner -->
+  </div>
+  <!-- end .signup -->
+
+    <footer class="footer">
+
+  <div class="footer__inner">
+
+    <div class="footer__row">
+
+      <div class="footer__column">
+
+        <a href="https://modemworks.com">
+
+                      <img src="https://modemworks.com/wp-content/themes/modem/img/footer-logo-light.svg" alt="MODEM">
+          
+        </a>
+
+      </div>
+      <!-- end .footer__column -->
+
+      <div class="footer__column text-holder">
+
+                  <p>OFFICE<br />
+We live at a time when technology is accelerating at an unprecedented rate, changing the way we live and relate to the world around us. As an office for design and innovation, Modem partners with forward-thinking companies and institutions to turn disruptive technologies into opportunities for growth. Working at the intersection of physical and digital, we are committed to creating experiences for a new world.</p>
+        
+      </div>
+      <!-- end .footer__column -->
+
+    </div>
+    <!-- end .footer__row -->
+
+    <div class="footer__row">
+
+      <div class="footer__column footer__column--disclaimer">
+
+        <p>
+          ©2022 Modem Works B.V. All Rights Reserved
+        </p>
+
+        
+      </div>
+      <!-- end .footer__column -->
+
+      <div class="footer__column text-holder">
+
+                  <p>CONTACT<br />
+Modem Works B.V.<br />
+Laurierstraat 248-H<br />
+1016 PT Amsterdam</p>
+<p>GENERAL INQUIRIES<br />
+<a href="mailto:office@modemworks.com">office@modemworks.com</a></p>
+<p>PRESS INQUIRIES<br />
+<a href="mailto:press@modemworks.com">press@modemworks.com</a></p>
+<p>INSTAGRAM<br />
+<a href="https://www.instagram.com/modem.works/" target="_blank" rel="noopener">@modem.works</a></p>
+        
+      </div>
+      <!-- end .footer__column -->
+
+    </div>
+    <!-- end .footer__row -->
+
+  </div>
+  <!-- end .footer__inner -->
+
+</footer>
+<!-- end .footer --><button class="mobile-navigation-toggle js-toggle-mobile-navigation"></button>
+<!-- end .mobile-navigation-toggle -->
+
+<div class="mobile-navigation">
+
+  
+<ul class="navigation">
+
+  
+    <li class="navigation__item">
+      <a href="https://modemworks.com/research/" class="navigation__item__button is-active        ">
+        Research      </a>
+    </li>
+    <!-- end .navigation__item -->
+
+  
+    <li class="navigation__item">
+      <a href="https://modemworks.com/projects/" class="navigation__item__button         ">
+        Projects      </a>
+    </li>
+    <!-- end .navigation__item -->
+
+  
+    <li class="navigation__item">
+      <a href="https://modemworks.com/office/" class="navigation__item__button         ">
+        Office      </a>
+    </li>
+    <!-- end .navigation__item -->
+
+  
+</ul>
+<!-- end .navigation -->
+  <div class="mobile-navigation__text">
+    OFFICE FOR DESIGN AND INNOVATION  </div>
+  <!-- end .mobile-navigation__text -->
+
+</div>
+<!-- end .mobile-navigation -->
+    <div class="full-touch">
+
+    </div>
+    <!-- end .full-touch -->
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script>
+      window.jQuery || document.write('<script src="https://modemworks.com/wp-content/themes/modem/js/vendor/jquery-3.2.1.min.js"><\/script>');
+    </script>
+    <script src="https://modemworks.com/wp-content/themes/modem/js/vendor/headroom.js"></script>
+    <script src="https://modemworks.com/wp-content/themes/modem/js/vendor/moment.js"></script>
+    <script src="https://modemworks.com/wp-content/themes/modem/js/vendor/moment-timezone-with-data.js"></script>
+    <script src="https://modemworks.com/wp-content/themes/modem/js/vendor/weather.min.js"></script>
+    <script src="https://modemworks.com/wp-content/themes/modem/js/vendor/js.cookie.js"></script>
+    <script src="https://modemworks.com/wp-content/themes/modem/js/vendor/jquery.scrollTo.js"></script>
+    <script src="https://modemworks.com/wp-content/themes/modem/js/main.js?14"></script>
+
+    
+  </body>
+
+</html>

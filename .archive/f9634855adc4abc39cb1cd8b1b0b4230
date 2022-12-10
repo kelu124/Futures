@@ -1,0 +1,1265 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <title>PromptHero - Search prompts for Stable Diffusion, DALL-E &amp; Midjourney</title>
+<meta name="description" content="Search the world&#39;s best AI prompts. Explore millions of Artificial Intelligence generated images by models like DALL-E, Stable Diffusion, Midjourney...">
+<meta property="og:type" content="website">
+<meta property="og:title" content="PromptHero - Search prompts for Stable Diffusion, DALL-E &amp; Midjourney">
+<meta property="og:description" content="Search the world&#39;s best AI prompts. Explore millions of Artificial Intelligence generated images by models like DALL-E, Stable Diffusion, Midjourney...">
+<meta property="og:site_name" content="PromptHero">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="https://prompthero.com/og-image.jpg">
+<meta property="og:image:width" content="1024">
+<meta property="og:image:height" content="550">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="PromptHero - Search prompts for Stable Diffusion, DALL-E &amp; Midjourney">
+<meta name="twitter:description" content="Search the world&#39;s best AI prompts. Explore millions of Artificial Intelligence generated images by models like DALL-E, Stable Diffusion, Midjourney...">
+<meta name="twitter:image" content="https://prompthero.com/og-image.jpg">
+
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="cYfaHi85JkWI0MsvbyVK_Q0bFtmbMo2tlnbDEkvckI9YpcQRp_wxH6uvzbzqtdbAwzZpCmC4tv52kkqdOWZQbQ" />
+    
+
+
+    <link rel="apple-touch-icon" sizes="120x120" href="/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/favicon/site.webmanifest">
+    <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/favicon/favicon.ico">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-config" content="/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-WKCTBRMXSP"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-WKCTBRMXSP');
+    </script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/masonry/4.2.2/masonry.pkgd.min.js" integrity="sha512-JRlcvSZAXT8+5SQQAvklXGJuxXTouyq8oIMaYERZQasB8SBDHZaUbeASsJWpk0UUrf89DP3/aefPPrlMR1h1yQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/5.0.0/imagesloaded.pkgd.min.js" integrity="sha512-kfs3Dt9u9YcOiIt4rNcPUzdyNNO9sVGQPiZsub7ywg6lRW5KuK1m145ImrFHe3LMWXHndoKo2YRXWy8rnOcSKg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <!-- FONTAWESOME -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!-- BOOTSTRAP -->
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous"></noscript>
+
+    <link rel="stylesheet" href="/assets/application-ecdba3df306bd7715d61fa449bb5ef648fcc7faf3cddc626e2aadfaf1c8af77e.css" data-turbo-track="reload" />
+    <script type="importmap" data-turbo-track="reload">{
+  "imports": {
+    "application": "/assets/application-040f93d8d4ad783d44ae8d674718d385ba46899ba7f4d627ff7bcecac5c6bfde.js",
+    "@hotwired/turbo-rails": "/assets/turbo.min-e5023178542f05fc063cd1dc5865457259cc01f3fba76a28454060d33de6f429.js",
+    "@hotwired/stimulus": "/assets/stimulus.min-b8a9738499c7a8362910cd545375417370d72a9776fb4e766df7671484e2beb7.js",
+    "@hotwired/stimulus-loading": "/assets/stimulus-loading-1fc59770fb1654500044afd3f5f6d7d00800e5be36746d55b94a2963a7a228aa.js",
+    "controllers/application": "/assets/controllers/application-368d98631bccbf2349e0d4f8269afb3fe9625118341966de054759d96ea86c7e.js",
+    "controllers/hello_controller": "/assets/controllers/hello_controller-549135e8e7c683a538c3d6d517339ba470fcfb79d62f738a0a089ba41851a554.js",
+    "controllers": "/assets/controllers/index-2db729dddcc5b979110e98de4b6720f83f91a123172e87281d5a58410fc43806.js",
+    "custom/copy": "/assets/custom/copy-8085ddd29aa4b3d1e892af86040bae7d8932ad3148dd7d8699771eb454620d94.js",
+    "custom/download-utils": "/assets/custom/download-utils-dc62c4e4e46d285031a1bb0666ecc7ae1770e7d27bd72489b44a70fbad8a7f13.js",
+    "custom/home": "/assets/custom/home-27083d139484607252dd016fb5f9ca86d5ef88413e5117208fe070d35ca3b2f7.js",
+    "custom/prompt-builder": "/assets/custom/prompt-builder-e2324448b38a1006a45a6b567cd99d2526a5376e46baff26accb7a83bad0fd9e.js",
+    "custom/prompt-uploader": "/assets/custom/prompt-uploader-56eb587d2fdf2fbadbb09987a0f79e2b844c8d2185e8efec0aee47b399bdf084.js",
+    "custom/search-box": "/assets/custom/search-box-2809f82ce7662f6154a9f19d5d6c2cc6850de15585288c250eab87f1b9de07b5.js",
+    "custom/stripe": "/assets/custom/stripe-6581c8913a7755594d772ccd06c87323a5d9f4e5216afe54a5d766ec12c77249.js",
+    "custom/tooltip": "/assets/custom/tooltip-aeb92a4965acbf3de895cbffb336fe8280408e7f55c844d4a045dc9e690c839f.js",
+    "custom/url-utils": "/assets/custom/url-utils-935b59d7abfd2dffc116eacc3577179667297472e980316538ccc26132f952c0.js"
+  }
+}</script>
+<link rel="modulepreload" href="/assets/application-040f93d8d4ad783d44ae8d674718d385ba46899ba7f4d627ff7bcecac5c6bfde.js">
+<link rel="modulepreload" href="/assets/turbo.min-e5023178542f05fc063cd1dc5865457259cc01f3fba76a28454060d33de6f429.js">
+<link rel="modulepreload" href="/assets/stimulus.min-b8a9738499c7a8362910cd545375417370d72a9776fb4e766df7671484e2beb7.js">
+<link rel="modulepreload" href="/assets/stimulus-loading-1fc59770fb1654500044afd3f5f6d7d00800e5be36746d55b94a2963a7a228aa.js">
+<script src="/assets/es-module-shims.min-d89e73202ec09dede55fb74115af9c5f9f2bb965433de1c2446e1faa6dac2470.js" async="async" data-turbo-track="reload"></script>
+<script type="module">import "application"</script>
+    
+  </head>
+
+  <body>
+    <div class="container-fluid navbar-container ">
+  <nav class="navbar navbar-expand-lg site-navbar navbar-light px-0">
+
+    <a href='/' class="navbar-brand">
+      <span class="brand-name"><img height="20" src="/assets/logo-1a320e7d99d0b1dfef7d9531a95ce4ba0654ed3da28f3da9163c203f6729ace2.svg" /></span>
+    </a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse pb-5 pb-lg-0" id="navbarNavAltMarkup">
+
+      <div class="ml-0 ml-lg-3 navbar-nav">
+          <a class="navbar-link mr-0 mr-md-3" href="/academy">
+            <i class="fa-solid fa-graduation-cap"></i> <span>Academy</span>
+</a>
+          <a class="navbar-link mr-0 mr-md-3 d-none" href="/stable-diffusion-tools">
+            <i class="fa-solid fa-lightbulb"></i></i> <span>Resources</span>
+</a>
+          <div class="nav-item navbar-link dropdown d-none d-md-block">
+            <a class="navbar-link mr-0 mr-md-3 dropdown-toggle" href="/stable-diffusion-tools" id="navbarDropdownMenuLink" aria-haspopup="true" aria-expanded="false">
+              <span>Resources</span> <i class="fa-solid fa-caret-down"></i>
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+              <a class="dropdown-item" href="/stable-diffusion-prompt-guide">
+                <i class="fa-solid fa-book-open"></i> Prompt Guide
+</a>              <a class="dropdown-item" href="/resources">
+                <i class="fa-solid fa-toolbox"></i> Diffusion Stash
+</a>            </div>
+          </div>
+
+          <div class="nav-item navbar-link dropdown d-none d-md-block">
+            <a class="navbar-link mr-0 mr-md-3 dropdown-toggle" href="/tools" id="navbarDropdownMenuLink" aria-haspopup="true" aria-expanded="false">
+              <span>Tools</span> <i class="fa-solid fa-caret-down"></i>
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+              <a class="dropdown-item" href="/tools/seamless-texture-generator">
+                Seamless texture generator
+</a>            </div>
+          </div>
+          
+            <a class="navbar-link mr-0 mr-md-3" href="/pro">
+              <b>Go Pro</b>
+</a>
+          <a class="navbar-link d-block d-md-none" href="/tools/seamless-texture-generator">
+            Seamless texture generator
+</a>
+          <a class="navbar-link d-block d-md-none" href="/stable-diffusion-prompt-guide">
+            <i class="fa-solid fa-book-open"></i> <span>Prompt Guide</span>
+</a>
+          <a class="navbar-link d-block d-md-none" href="/resources">
+            <i class="fa-solid fa-toolbox"></i> <span>Diffusion Stash</span>
+</a>
+      </div>
+
+      <div>
+
+
+        <a href="https://discord.gg/TwjYmVUVFv" class='navbar-link mr-0 mr-md-3'>
+          <i class="fa-brands fa-discord"></i> <span>Discord</span>
+        </a>
+
+        <span class="mr-3">
+          
+<form data-turbo="false" class="minimal-search-box" id="new_search_query" action="/search" accept-charset="UTF-8" method="get">
+  <div class="input-group ">
+
+    <input type="text" class="form-control" name="q" value="" placeholder="🔍 Search" aria-label="Search term" autocomplete="off" id="search-box" required  />
+
+  </div>
+</form>
+
+        </span>
+
+
+          <a class="btn d-block d-lg-inline-block btn-secondary mt-3 mt-lg-0" href="/users/sign_up">Create account</a>
+
+      </div>
+
+    </div>
+
+  </nav>
+</div>
+
+
+  <div class="container-fluid navbar-container navbar-shadow">
+    <nav class="navbar navbar-expand-lg site-navbar navbar-light px-0 py-0">
+      <div class="category-carousel">
+  <a href="/">
+    <div class="category-carousel-item active">Featured</div>
+</a>
+  <a href="/newest">
+    <div class="category-carousel-item  ml-4">New</div>
+</a>
+  <a href="/community">
+    <div class="category-carousel-item  ml-4">Community</div>
+</a>
+  <div class="category-carousel-item-border"></div>
+
+    <a href="/fashion-prompts">
+      <div class="category-carousel-item mx-3 ">
+        Fashion
+      </div>
+    </a>
+    <a href="/architecture-prompts">
+      <div class="category-carousel-item mx-3 ">
+        Architecture
+      </div>
+    </a>
+    <a href="/interior-design-prompts">
+      <div class="category-carousel-item mx-3 ">
+        Interior Design
+      </div>
+    </a>
+    <a href="/food-prompts">
+      <div class="category-carousel-item mx-3 ">
+        Food
+      </div>
+    </a>
+    <a href="/anime-prompts">
+      <div class="category-carousel-item mx-3 ">
+        Anime
+      </div>
+    </a>
+    <a href="/photography-prompts">
+      <div class="category-carousel-item mx-3 ">
+        Photography
+      </div>
+    </a>
+    <a href="/videogames-prompts">
+      <div class="category-carousel-item mx-3 ">
+        Videogames
+      </div>
+    </a>
+    <a href="/wallpaper-prompts">
+      <div class="category-carousel-item mx-3 ">
+        Wallpaper
+      </div>
+    </a>
+    <a href="/concept-art-prompts">
+      <div class="category-carousel-item mx-3 ">
+        Concept Art
+      </div>
+    </a>
+    <a href="/3d-prompts">
+      <div class="category-carousel-item mx-3 ">
+        3D
+      </div>
+    </a>
+    <a href="/graphic-design-prompts">
+      <div class="category-carousel-item mx-3 ">
+        Graphic Design
+      </div>
+    </a>
+    <a href="/nft-prompts">
+      <div class="category-carousel-item mx-3 ">
+        NFT
+      </div>
+    </a>
+    <a href="/nsfw-prompts">
+      <div class="category-carousel-item mx-3 ">
+        NSFW
+      </div>
+    </a>
+</div>
+    </nav>
+  </div>
+
+
+      
+
+      <div class="homepage">
+
+  <header class="py-5" style="background-image: url('https://prompthero.s3.amazonaws.com/backgrounds/prompthero-67798017a64.webp');">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-12 col-md-10 offset-md-1 col-lg-6 offset-lg-3 text-left">
+          <img height="40" class="mb-2" src="/assets/logo-white-3903e70872738ce5ed42344504f22c70a26e80b4ef80c2682ad334c0d05547a8.svg" />
+          <p class="pt-1 pb-3">Search millions of art images by AI models like DALL-E, Stable Diffusion, Midjourney...</p>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-12 col-md-8 offset-md-2 col-lg-6 offset-lg-3 text-center">
+
+          
+<form data-turbo="false" class="" id="new_search_query" action="/search" accept-charset="UTF-8" method="get">
+  <div class="input-group mb-3">
+
+    <input type="text" class="form-control" name="q" value="" placeholder="Search AI images" aria-label="Search term" autocomplete="off" id="search-box" required autofocus />
+
+      <div class="input-group-append">
+        <button class="btn btn-outline-secondary" type="submit" id='search-button'>Search</button>
+      </div>
+      <input type="text" class="d-none" name="model" value="" />
+      <a href='/random' class="btn btn-outline-secondary ml-3" id='search-random-button'><i class="fa-solid fa-dice"></i></a>
+  </div>
+</form>
+  <div class="trending-searches text-left">
+    <span class="d-lg-inline-block d-none">Search by model</span>
+
+      <a class="model-selection-button mx-1 " href="/stable-diffusion-prompts">
+        <i class="fa-solid fa-magnifying-glass"></i> Stable Diffusion
+</a>      <a class="model-selection-button mx-1 " href="/dall-e-prompts">
+        <i class="fa-solid fa-magnifying-glass"></i> DALL-E
+</a>      <a class="model-selection-button mx-1 " href="/midjourney-prompts">
+        <i class="fa-solid fa-magnifying-glass"></i> Midjourney
+</a>  </div>
+
+
+        </div>
+      </div>
+
+    </div>
+
+    <div class="header-picture-user-info pb-3 pl-3">
+      <a href="/prompt/67798017a64">Prompt</a> 
+
+          by <a href="/5cc0c188d21">
+          5cc0c188d21
+</a>    </div>
+
+  </header>
+
+  <main class="py-0 mt-5">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col">
+
+          <div class="row">
+
+            <div class="col d-none">
+              <div class="dropdown">
+                <button class="btn btn-secondary btn-sm dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Dropdown button
+                </button>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                  <a class="dropdown-item" href="#">🔥 Hot</a>
+                  <a class="dropdown-item" href="#">✨ New</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col p-0">
+
+              <script>
+  function updateMasonry() {
+    var grid = document.querySelector('.card-masonry-grid');
+    var msnry = new Masonry(grid);
+    msnry.layout()
+    imagesLoaded( grid ).on( 'progress', function() {
+      // layout Masonry after each image loads
+      msnry.layout();
+    });
+    $(".grid-item").css('opacity', '1');
+  }
+
+  document.addEventListener("DOMContentLoaded", function(e) {
+    updateMasonry()
+  });
+
+  document.addEventListener("turbo:render", function(e) {
+    updateMasonry()
+  });
+
+  document.addEventListener("turbo:before-stream-render", function(e) {
+    updateMasonry()
+  })
+
+  document.addEventListener("turbo:before-fetch-request", function(e) {
+    if(e.srcElement.id.includes("masonry-pagination")){
+
+      let matches = e.srcElement.src.match(/page=(\d+)/)
+      if(matches && matches.length >= 2){
+        let pageNumber = parseInt(matches[1])
+
+        if(pageNumber && pageNumber >= 7){
+          console.log("View limit hit for unregistered account");
+          $('#signUpModal').modal({backdrop: 'static', keyboard: false}, 'show');
+          $(".alert").alert('close');
+        }
+      }
+    }
+
+  })
+
+</script>
+
+              <div class="card-masonry-grid" id="prompt-masonry" data-masonry='{ "itemSelector": ".grid-item" }'>
+                  <div class="grid-item">
+    <turbo-frame id="prompt_451ebd2d-b7ec-4ddb-a376-92a0beba80fa">
+      
+<turbo-frame id="prompt_451ebd2d-b7ec-4ddb-a376-92a0beba80fa">
+
+
+
+  <article class='prompt-card' style="border-radius: 0;">
+
+      <turbo-frame loading="lazy" id="fav-btn-7fb89d9a0db" src="/prompt/7fb89d9a0db/fav_button"></turbo-frame>
+    
+
+    
+
+    <a class="prompt-card-a" href="/prompt/7fb89d9a0db" data-turbo-frame="_top">
+
+
+      <div class="prompt-card-image-backdrop-container" style="">
+        <div class="prompt-card-image-backdrop" id="prompt-card-image-backdrop-7fb89d9a0db" style="background-image: url('/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaWxtWVRnNVpEUmxZUzB5T1dKakxUUmxOR0l0T1RWaU5DMDVZVEJqTWpaaU5EUm1NaklHT2daRlZBPT0iLCJleHAiOm51bGwsInB1ciI6ImJsb2JfaWQifX0=--e478ae512bb0566db6c8d15b3c8048b3d8350ece/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBPZ2wzWldKd09oUnlaWE5wZW1WZmRHOWZiR2x0YVhSYkIya0NBQVJwQWdBRU9ncHpZWFpsY25zSk9oTnpkV0p6WVcxd2JHVmZiVzlrWlVraUIyOXVCam9HUlZRNkNuTjBjbWx3VkRvT2FXNTBaWEpzWVdObFZEb01jWFZoYkdsMGVXbEIiLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--f753885922b37d6e6788eb7c04f7caf6e86de707/prompthero-prompt-7fb89d9a0db.png'); ">
+          <img src="/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaWxtWVRnNVpEUmxZUzB5T1dKakxUUmxOR0l0T1RWaU5DMDVZVEJqTWpaaU5EUm1NaklHT2daRlZBPT0iLCJleHAiOm51bGwsInB1ciI6ImJsb2JfaWQifX0=--e478ae512bb0566db6c8d15b3c8048b3d8350ece/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBPZ2wzWldKd09oUnlaWE5wZW1WZmRHOWZiR2x0YVhSYkIya0NBQVJwQWdBRU9ncHpZWFpsY25zSk9oTnpkV0p6WVcxd2JHVmZiVzlrWlVraUIyOXVCam9HUlZRNkNuTjBjbWx3VkRvT2FXNTBaWEpzWVdObFZEb01jWFZoYkdsMGVXbEIiLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--f753885922b37d6e6788eb7c04f7caf6e86de707/prompthero-prompt-7fb89d9a0db.png" class="img-fluid prompt-main-image" style="height: auto;" />
+
+          <div class="prompt-badges text-right">
+          </div>
+
+          <div class='prompt-card-details '>
+            <p class="masonry-hide-unless-hover mb-1 d-none"><b> 2 months ago</b></p>
+
+              <p class="masonry-hide-unless-hover mb-1">full shot of a sexy beautiful, (female nubian goddess),30 yea...</p>
+
+            <div class='prompt-card-details-meta d-none d-md-flex'>
+              <div class='text-left'>
+                    <a data-turbo-frame="_top" class="prompt-card-username" style="color: inherit;" href="/HidekiYas">
+                        <img class="user-profile-pic mr-1" height="18" src="https://prompthero.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaWt4WldNNU9UUmxZaTFsTXpGbExUUTJaVGt0T1dJMllTMDBOMlZrTVRNNU1UYzNNREFHT2daRlZBPT0iLCJleHAiOm51bGwsInB1ciI6ImJsb2JfaWQifX0=--bd41f6b5c05a4761e5453621d2037e6fb1aeb5e8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZllXNWtYM0JoWkZzSGFTVnBKVG9LYzJGMlpYSjdDVG9UYzNWaWMyRnRjR3hsWDIxdlpHVkpJZ2R2YmdZNkJrVlVPZ3B6ZEhKcGNGUTZEbWx1ZEdWeWJHRmpaVlE2REhGMVlXeHBkSGxwTFE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--bf565b609518e667e2b48ceca7366521194e01fb/HidekiYas-4c085e337fb.png" />
+                      <span>
+                        HidekiYas
+                      </span>
+</a>              </div>
+
+              <div class='text-right masonry-hide-unless-hover'>
+                    <span class=''><i class="fa-solid fa-heart"></i> 3</span>
+                    <span class='ml-1'><i class="fa-solid fa-eye"></i> 170</span>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+
+    </a>
+
+  </article>
+
+</turbo-frame>
+</turbo-frame>  </div>
+  <div class="grid-item">
+    <turbo-frame id="prompt_c11df85c-e1cd-4933-99fe-dc6d16faac2a">
+      
+<turbo-frame id="prompt_c11df85c-e1cd-4933-99fe-dc6d16faac2a">
+
+
+
+  <article class='prompt-card' style="border-radius: 0;">
+
+      <turbo-frame loading="lazy" id="fav-btn-b34e9e0c96a" src="/prompt/b34e9e0c96a/fav_button"></turbo-frame>
+    
+
+    
+
+    <a class="prompt-card-a" href="/prompt/b34e9e0c96a" data-turbo-frame="_top">
+
+
+      <div class="prompt-card-image-backdrop-container" style="">
+        <div class="prompt-card-image-backdrop" id="prompt-card-image-backdrop-b34e9e0c96a" style="background-image: url('https://replicate.delivery/pbxt/RQQmeiuBAN2zJKmBYUyPjwdMRyEEftaLMENBC7g93SDxvP5PA/out-0.png'); ">
+          <img src="https://replicate.delivery/pbxt/RQQmeiuBAN2zJKmBYUyPjwdMRyEEftaLMENBC7g93SDxvP5PA/out-0.png" class="img-fluid prompt-main-image" style="height: auto;" />
+
+          <div class="prompt-badges text-right">
+          </div>
+
+          <div class='prompt-card-details '>
+            <p class="masonry-hide-unless-hover mb-1 d-none"><b> 2 months ago</b></p>
+
+              <p class="masonry-hide-unless-hover mb-1">high resolution photography of an alien, Character Design, fu...</p>
+
+            <div class='prompt-card-details-meta d-none d-md-flex'>
+              <div class='text-left'>
+                    <a data-turbo-frame="_top" class="prompt-card-username" style="color: inherit;" href="/28f8d7c51db">
+                        <img class="user-profile-pic mr-1" height="18" src="/assets/user-placeholder-55aef9092fd1863fb412cb84eb131facc3ba218c4e520ed7d6bc04fd4127cd20.png" />
+                      <span>
+                        28f8d7c51db
+                      </span>
+</a>              </div>
+
+              <div class='text-right masonry-hide-unless-hover'>
+                    <span class=''><i class="fa-solid fa-heart"></i> 3</span>
+                    <span class='ml-1'><i class="fa-solid fa-eye"></i> 91</span>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+
+    </a>
+
+  </article>
+
+</turbo-frame>
+</turbo-frame>  </div>
+  <div class="grid-item">
+    <turbo-frame id="prompt_a765055c-3fd0-4c49-97d0-e65babb7bf6d">
+      
+<turbo-frame id="prompt_a765055c-3fd0-4c49-97d0-e65babb7bf6d">
+
+
+
+  <article class='prompt-card' style="border-radius: 0;">
+
+      <turbo-frame loading="lazy" id="fav-btn-72163f23aba" src="/prompt/72163f23aba/fav_button"></turbo-frame>
+    
+
+    
+
+    <a class="prompt-card-a" href="/prompt/72163f23aba" data-turbo-frame="_top">
+
+
+      <div class="prompt-card-image-backdrop-container" style="">
+        <div class="prompt-card-image-backdrop" id="prompt-card-image-backdrop-72163f23aba" style="background-image: url('https://i.imgur.com/64bOBVu.png'); ">
+          <img src="https://i.imgur.com/64bOBVu.png" class="img-fluid prompt-main-image" style="height: auto;" />
+
+          <div class="prompt-badges text-right">
+          </div>
+
+          <div class='prompt-card-details '>
+            <p class="masonry-hide-unless-hover mb-1 d-none"><b>3 months ago</b></p>
+
+              <p class="masonry-hide-unless-hover mb-1">old man holding vintage large format camera, dirty, scratched...</p>
+
+            <div class='prompt-card-details-meta d-none d-md-flex'>
+              <div class='text-left'>
+                    <a data-turbo-frame="_top" class="prompt-card-username" style="color: inherit;" href="/fb03bde8c74">
+                        <img class="user-profile-pic mr-1" height="18" src="/assets/user-placeholder-55aef9092fd1863fb412cb84eb131facc3ba218c4e520ed7d6bc04fd4127cd20.png" />
+                      <span>
+                        fb03bde8c74
+                      </span>
+</a>              </div>
+
+              <div class='text-right masonry-hide-unless-hover'>
+                    <span class=''><i class="fa-solid fa-heart"></i> 2</span>
+                    <span class='ml-1'><i class="fa-solid fa-eye"></i> 190</span>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+
+    </a>
+
+  </article>
+
+</turbo-frame>
+</turbo-frame>  </div>
+  <div class="grid-item">
+    <turbo-frame id="prompt_9b511c62-cce9-41f1-99f9-bafed900e2e4">
+      
+<turbo-frame id="prompt_9b511c62-cce9-41f1-99f9-bafed900e2e4">
+
+
+
+  <article class='prompt-card' style="border-radius: 0;">
+
+      <turbo-frame loading="lazy" id="fav-btn-f44cb05f427" src="/prompt/f44cb05f427/fav_button"></turbo-frame>
+    
+
+    
+
+    <a class="prompt-card-a" href="/prompt/f44cb05f427" data-turbo-frame="_top">
+
+
+      <div class="prompt-card-image-backdrop-container" style="">
+        <div class="prompt-card-image-backdrop" id="prompt-card-image-backdrop-f44cb05f427" style="background-image: url('https://storage.googleapis.com/dream-machines-output/7c4dac0d-1e9f-4184-b4fc-138198276443/0_0.png'); ">
+          <img src="https://storage.googleapis.com/dream-machines-output/7c4dac0d-1e9f-4184-b4fc-138198276443/0_0.png" class="img-fluid prompt-main-image" style="height: auto;" />
+
+          <div class="prompt-badges text-right">
+          </div>
+
+          <div class='prompt-card-details '>
+            <p class="masonry-hide-unless-hover mb-1 d-none"><b>5 months ago</b></p>
+
+              <p class="masonry-hide-unless-hover mb-1">imaginary dreamy style shaped 3D villa retro futuristic 70&#39;s ...</p>
+
+            <div class='prompt-card-details-meta d-none d-md-flex'>
+              <div class='text-left'>
+                    <span class='masonry-hide-unless-hover card-label'>Midjourney</span>
+              </div>
+
+              <div class='text-right masonry-hide-unless-hover'>
+                    <span class=''><i class="fa-solid fa-heart"></i> 120</span>
+                    <span class='ml-1'><i class="fa-solid fa-eye"></i> 110</span>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+
+    </a>
+
+  </article>
+
+</turbo-frame>
+</turbo-frame>  </div>
+  <div class="grid-item">
+    <turbo-frame id="prompt_98d01ccc-5efe-41da-b66d-1d3193ca1636">
+      
+<turbo-frame id="prompt_98d01ccc-5efe-41da-b66d-1d3193ca1636">
+
+
+
+  <article class='prompt-card' style="border-radius: 0;">
+
+      <turbo-frame loading="lazy" id="fav-btn-acbcc0922d5" src="/prompt/acbcc0922d5/fav_button"></turbo-frame>
+    
+
+    
+
+    <a class="prompt-card-a" href="/prompt/acbcc0922d5" data-turbo-frame="_top">
+
+
+      <div class="prompt-card-image-backdrop-container" style="">
+        <div class="prompt-card-image-backdrop" id="prompt-card-image-backdrop-acbcc0922d5" style="background-image: url('https://storage.googleapis.com/dream-machines-output/56100419-8af7-4829-be0d-ad59970c1819/0_0.png'); ">
+          <img src="https://storage.googleapis.com/dream-machines-output/56100419-8af7-4829-be0d-ad59970c1819/0_0.png" class="img-fluid prompt-main-image" style="height: auto;" />
+
+          <div class="prompt-badges text-right">
+          </div>
+
+          <div class='prompt-card-details '>
+            <p class="masonry-hide-unless-hover mb-1 d-none"><b>4 months ago</b></p>
+
+              <p class="masonry-hide-unless-hover mb-1">artist asaf hanuka, skull, psychedelic background, vibrant ba...</p>
+
+            <div class='prompt-card-details-meta d-none d-md-flex'>
+              <div class='text-left'>
+                    <span class='masonry-hide-unless-hover card-label'>Midjourney</span>
+              </div>
+
+              <div class='text-right masonry-hide-unless-hover'>
+                    <span class=''><i class="fa-solid fa-heart"></i> 120</span>
+                    <span class='ml-1'><i class="fa-solid fa-eye"></i> 180</span>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+
+    </a>
+
+  </article>
+
+</turbo-frame>
+</turbo-frame>  </div>
+  <div class="grid-item">
+    <turbo-frame id="prompt_20302ece-14f8-40d6-810b-4299634afaab">
+      
+<turbo-frame id="prompt_20302ece-14f8-40d6-810b-4299634afaab">
+
+
+
+  <article class='prompt-card' style="border-radius: 0;">
+
+      <turbo-frame loading="lazy" id="fav-btn-351bd1343e4" src="/prompt/351bd1343e4/fav_button"></turbo-frame>
+    
+
+    
+
+    <a class="prompt-card-a" href="/prompt/351bd1343e4" data-turbo-frame="_top">
+
+
+      <div class="prompt-card-image-backdrop-container" style="">
+        <div class="prompt-card-image-backdrop" id="prompt-card-image-backdrop-351bd1343e4" style="background-image: url('https://replicate.delivery/pbxt/8jR0IwZvV5bgH5Dm4zPMpLTKtMfnhNn5ydaGsPtlFPn7RQ8HA/out-0.png'); ">
+          <img src="https://replicate.delivery/pbxt/8jR0IwZvV5bgH5Dm4zPMpLTKtMfnhNn5ydaGsPtlFPn7RQ8HA/out-0.png" class="img-fluid prompt-main-image" style="height: auto;" />
+
+          <div class="prompt-badges text-right">
+          </div>
+
+          <div class='prompt-card-details '>
+            <p class="masonry-hide-unless-hover mb-1 d-none"><b> 2 months ago</b></p>
+
+              <p class="masonry-hide-unless-hover mb-1">Ninja Samurai, Hannya mask, portrait, simetris, extremely det...</p>
+
+            <div class='prompt-card-details-meta d-none d-md-flex'>
+              <div class='text-left'>
+                    <a data-turbo-frame="_top" class="prompt-card-username" style="color: inherit;" href="/Lollipop">
+                        <img class="user-profile-pic mr-1" height="18" src="https://prompthero.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaWsxTnpsak9UY3lNQzAzT0dFeExUUTFNekV0WWpnM01DMWlaRFF3WkRSaVlqWTNNbVFHT2daRlZBPT0iLCJleHAiOm51bGwsInB1ciI6ImJsb2JfaWQifX0=--8022564dd483e21d515831d179e70340fa4b4fbe/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZllXNWtYM0JoWkZzSGFTVnBKVG9LYzJGMlpYSjdDVG9UYzNWaWMyRnRjR3hsWDIxdlpHVkpJZ2R2YmdZNkJrVlVPZ3B6ZEhKcGNGUTZEbWx1ZEdWeWJHRmpaVlE2REhGMVlXeHBkSGxwTFE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--bf565b609518e667e2b48ceca7366521194e01fb/Lollipop-d60ef430484.jpg" />
+                      <span>
+                        Lollipop
+                      </span>
+</a>              </div>
+
+              <div class='text-right masonry-hide-unless-hover'>
+                    <span class=''><i class="fa-solid fa-heart"></i> 6</span>
+                    <span class='ml-1'><i class="fa-solid fa-eye"></i> 91</span>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+
+    </a>
+
+  </article>
+
+</turbo-frame>
+</turbo-frame>  </div>
+  <div class="grid-item">
+    <turbo-frame id="prompt_3814fd68-011f-49ac-9e8b-4801d02553e8">
+      
+<turbo-frame id="prompt_3814fd68-011f-49ac-9e8b-4801d02553e8">
+
+
+
+  <article class='prompt-card' style="border-radius: 0;">
+
+      <turbo-frame loading="lazy" id="fav-btn-112edf8a57a" src="/prompt/112edf8a57a/fav_button"></turbo-frame>
+    
+
+    
+
+    <a class="prompt-card-a" href="/prompt/112edf8a57a" data-turbo-frame="_top">
+
+
+      <div class="prompt-card-image-backdrop-container" style="">
+        <div class="prompt-card-image-backdrop" id="prompt-card-image-backdrop-112edf8a57a" style="background-image: url('https://storage.googleapis.com/dream-machines-output/dc0950e2-b9fe-4387-91a2-6d39f1fcbe1d/0_0.png'); ">
+          <img src="https://storage.googleapis.com/dream-machines-output/dc0950e2-b9fe-4387-91a2-6d39f1fcbe1d/0_0.png" class="img-fluid prompt-main-image" style="height: auto;" />
+
+          <div class="prompt-badges text-right">
+          </div>
+
+          <div class='prompt-card-details '>
+            <p class="masonry-hide-unless-hover mb-1 d-none"><b>5 months ago</b></p>
+
+              <p class="masonry-hide-unless-hover mb-1">temple in ruines, forest, stairs, columns, cinematic, detaile...</p>
+
+            <div class='prompt-card-details-meta d-none d-md-flex'>
+              <div class='text-left'>
+                    <span class='masonry-hide-unless-hover card-label'>Midjourney</span>
+              </div>
+
+              <div class='text-right masonry-hide-unless-hover'>
+                    <span class=''><i class="fa-solid fa-heart"></i> 140</span>
+                    <span class='ml-1'><i class="fa-solid fa-eye"></i> 430</span>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+
+    </a>
+
+  </article>
+
+</turbo-frame>
+</turbo-frame>  </div>
+  <div class="grid-item">
+    <turbo-frame id="prompt_c35ec00d-b35d-4e5a-b978-eb6ed0fdcf4b">
+      
+<turbo-frame id="prompt_c35ec00d-b35d-4e5a-b978-eb6ed0fdcf4b">
+
+
+
+  <article class='prompt-card' style="border-radius: 0;">
+
+      <turbo-frame loading="lazy" id="fav-btn-37073872aec" src="/prompt/37073872aec/fav_button"></turbo-frame>
+    
+
+    
+
+    <a class="prompt-card-a" href="/prompt/37073872aec" data-turbo-frame="_top">
+
+
+      <div class="prompt-card-image-backdrop-container" style="">
+        <div class="prompt-card-image-backdrop" id="prompt-card-image-backdrop-37073872aec" style="background-image: url('https://replicate.delivery/pbxt/rOfy1xGqh7WXMaheuNS1RV9MvtdYLgi3lWgBGeqBDbs7JQ4fA/out-0.png'); ">
+          <img src="https://replicate.delivery/pbxt/rOfy1xGqh7WXMaheuNS1RV9MvtdYLgi3lWgBGeqBDbs7JQ4fA/out-0.png" class="img-fluid prompt-main-image" style="height: auto;" />
+
+          <div class="prompt-badges text-right">
+          </div>
+
+          <div class='prompt-card-details '>
+            <p class="masonry-hide-unless-hover mb-1 d-none"><b> 1 month ago</b></p>
+
+              <p class="masonry-hide-unless-hover mb-1">space odyssey 2022</p>
+
+            <div class='prompt-card-details-meta d-none d-md-flex'>
+              <div class='text-left'>
+                    <a data-turbo-frame="_top" class="prompt-card-username" style="color: inherit;" href="/Oz283d804ba69">
+                        <img class="user-profile-pic mr-1" height="18" src="/assets/user-placeholder-55aef9092fd1863fb412cb84eb131facc3ba218c4e520ed7d6bc04fd4127cd20.png" />
+                      <span>
+                        Oz283d804ba69
+                      </span>
+</a>              </div>
+
+              <div class='text-right masonry-hide-unless-hover'>
+                    <span class=''><i class="fa-solid fa-heart"></i> 2</span>
+                    <span class='ml-1'><i class="fa-solid fa-eye"></i> 50</span>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+
+    </a>
+
+  </article>
+
+</turbo-frame>
+</turbo-frame>  </div>
+  <div class="grid-item">
+    <turbo-frame id="prompt_da7b3af5-d867-442c-b38a-0e1a23d33991">
+      
+<turbo-frame id="prompt_da7b3af5-d867-442c-b38a-0e1a23d33991">
+
+
+
+  <article class='prompt-card' style="border-radius: 0;">
+
+      <turbo-frame loading="lazy" id="fav-btn-f642fe7fca3" src="/prompt/f642fe7fca3/fav_button"></turbo-frame>
+    
+
+    
+
+    <a class="prompt-card-a" href="/prompt/f642fe7fca3" data-turbo-frame="_top">
+
+
+      <div class="prompt-card-image-backdrop-container" style="">
+        <div class="prompt-card-image-backdrop" id="prompt-card-image-backdrop-f642fe7fca3" style="background-image: url('https://i.postimg.cc/pdCx1B5y/image.png'); ">
+          <img src="https://i.postimg.cc/pdCx1B5y/image.png" class="img-fluid prompt-main-image" style="height: auto;" />
+
+          <div class="prompt-badges text-right">
+          </div>
+
+          <div class='prompt-card-details '>
+            <p class="masonry-hide-unless-hover mb-1 d-none"><b>3 months ago</b></p>
+
+              <p class="masonry-hide-unless-hover mb-1">scifi people drinking alcohol in bar surrounded by sci fi rob...</p>
+
+            <div class='prompt-card-details-meta d-none d-md-flex'>
+              <div class='text-left'>
+                    <a data-turbo-frame="_top" class="prompt-card-username" style="color: inherit;" href="/spacerat">
+                        <img class="user-profile-pic mr-1" height="18" src="https://prompthero.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaWs1WkRWak5UZzRNeTB5TTJFeUxUUXdNR010T0dGa01pMDFaRGhsWkRGbE9UZzNNVEVHT2daRlZBPT0iLCJleHAiOm51bGwsInB1ciI6ImJsb2JfaWQifX0=--eeda948456736198b477a9faf64e9d42fe02901b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZllXNWtYM0JoWkZzSGFTVnBKVG9LYzJGMlpYSjdDVG9UYzNWaWMyRnRjR3hsWDIxdlpHVkpJZ2R2YmdZNkJrVlVPZ3B6ZEhKcGNGUTZEbWx1ZEdWeWJHRmpaVlE2REhGMVlXeHBkSGxwTFE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--bf565b609518e667e2b48ceca7366521194e01fb/spacerat-572201841e7.png" />
+                      <span>
+                        spacerat
+                      </span>
+</a>              </div>
+
+              <div class='text-right masonry-hide-unless-hover'>
+                    <span class=''><i class="fa-solid fa-heart"></i> 5</span>
+                    <span class='ml-1'><i class="fa-solid fa-eye"></i> 190</span>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+
+    </a>
+
+  </article>
+
+</turbo-frame>
+</turbo-frame>  </div>
+  <div class="grid-item">
+    <turbo-frame id="prompt_6efde8b0-73bb-4ab9-907a-a7049909ac6a">
+      
+<turbo-frame id="prompt_6efde8b0-73bb-4ab9-907a-a7049909ac6a">
+
+
+
+  <article class='prompt-card' style="border-radius: 0;">
+
+      <turbo-frame loading="lazy" id="fav-btn-ee24b542e34" src="/prompt/ee24b542e34/fav_button"></turbo-frame>
+    
+
+    
+
+    <a class="prompt-card-a" href="/prompt/ee24b542e34" data-turbo-frame="_top">
+
+
+      <div class="prompt-card-image-backdrop-container" style="">
+        <div class="prompt-card-image-backdrop" id="prompt-card-image-backdrop-ee24b542e34" style="background-image: url('/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaWxpTlRoa05HUTBZaTB4TVdOaExUUXpNell0WWpWbE1pMDVaVFpoT1dWbU5XWmtNakFHT2daRlZBPT0iLCJleHAiOm51bGwsInB1ciI6ImJsb2JfaWQifX0=--32e497ae336055e27b237a9039f1a1979b4e175b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBPZ2wzWldKd09oUnlaWE5wZW1WZmRHOWZiR2x0YVhSYkIya0NBQVJwQWdBRU9ncHpZWFpsY25zSk9oTnpkV0p6WVcxd2JHVmZiVzlrWlVraUIyOXVCam9HUlZRNkNuTjBjbWx3VkRvT2FXNTBaWEpzWVdObFZEb01jWFZoYkdsMGVXbEIiLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--f753885922b37d6e6788eb7c04f7caf6e86de707/prompthero-prompt-ee24b542e34.png'); ">
+          <img src="/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaWxpTlRoa05HUTBZaTB4TVdOaExUUXpNell0WWpWbE1pMDVaVFpoT1dWbU5XWmtNakFHT2daRlZBPT0iLCJleHAiOm51bGwsInB1ciI6ImJsb2JfaWQifX0=--32e497ae336055e27b237a9039f1a1979b4e175b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBPZ2wzWldKd09oUnlaWE5wZW1WZmRHOWZiR2x0YVhSYkIya0NBQVJwQWdBRU9ncHpZWFpsY25zSk9oTnpkV0p6WVcxd2JHVmZiVzlrWlVraUIyOXVCam9HUlZRNkNuTjBjbWx3VkRvT2FXNTBaWEpzWVdObFZEb01jWFZoYkdsMGVXbEIiLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--f753885922b37d6e6788eb7c04f7caf6e86de707/prompthero-prompt-ee24b542e34.png" class="img-fluid prompt-main-image" style="height: auto;" />
+
+          <div class="prompt-badges text-right">
+          </div>
+
+          <div class='prompt-card-details '>
+            <p class="masonry-hide-unless-hover mb-1 d-none"><b>21 days ago</b></p>
+
+              <p class="masonry-hide-unless-hover mb-1">mdjrny-v4 style, its so fluffy im gonna die, cgi, black pink,</p>
+
+            <div class='prompt-card-details-meta d-none d-md-flex'>
+              <div class='text-left'>
+                    <a data-turbo-frame="_top" class="prompt-card-username" style="color: inherit;" href="/Rachey13x">
+                        <img class="user-profile-pic mr-1" height="18" src="https://prompthero.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaWxtTVRaaU5USXhZUzFqWWpreUxUUTBOMkl0T1dGa01pMW1ZekJsTURRMllqZG1PVEFHT2daRlZBPT0iLCJleHAiOm51bGwsInB1ciI6ImJsb2JfaWQifX0=--88f6ab23d45bd769a17d482aaa53e80001d0e464/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBPZ2wzWldKd09oTnlaWE5wZW1WZllXNWtYM0JoWkZzSGFTVnBKVG9LYzJGMlpYSjdDVG9UYzNWaWMyRnRjR3hsWDIxdlpHVkpJZ2R2YmdZNkJrVlVPZ3B6ZEhKcGNGUTZEbWx1ZEdWeWJHRmpaVlE2REhGMVlXeHBkSGxwTFE9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--bf565b609518e667e2b48ceca7366521194e01fb/Rachey13x-b2f5c393b2b.png" />
+                      <span>
+                        Rachey13x
+                          <img height="12" class="align-middle" data-toggle="tooltip" data-placement="right" title="Verified PromptHero profile" src="/assets/verified-2e7caa045018046eaf91010043c4e46b5c2ba93b63da8ed0695b470a1f240914.png" />
+                      </span>
+</a>                      <span class="pro-badge  align-middle"><a style="color: inherit;" data-turbo-frame="_top" href="https://prompthero.com/pro">PRO</a></span>
+              </div>
+
+              <div class='text-right masonry-hide-unless-hover'>
+                    <span class=''><i class="fa-solid fa-heart"></i> 4</span>
+                    <span class='ml-1'><i class="fa-solid fa-eye"></i> 130</span>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+
+    </a>
+
+  </article>
+
+</turbo-frame>
+</turbo-frame>  </div>
+  <div class="grid-item">
+    <turbo-frame id="prompt_554392fc-765b-461c-a02f-4fef0c427cb8">
+      
+<turbo-frame id="prompt_554392fc-765b-461c-a02f-4fef0c427cb8">
+
+
+
+  <article class='prompt-card' style="border-radius: 0;">
+
+      <turbo-frame loading="lazy" id="fav-btn-8ba4e7a0a56" src="/prompt/8ba4e7a0a56/fav_button"></turbo-frame>
+    
+
+    
+
+    <a class="prompt-card-a" href="/prompt/8ba4e7a0a56" data-turbo-frame="_top">
+
+
+      <div class="prompt-card-image-backdrop-container" style="">
+        <div class="prompt-card-image-backdrop" id="prompt-card-image-backdrop-8ba4e7a0a56" style="background-image: url('https://cdn.discordapp.com/attachments/1005626503427526656/1008065453802934332/high_quality_3_d_render_very_cute_fluffy_cyborg_dog_plays_drums_cyberpunk_highly_detailed_unreal_engine_cinematic_smooth_in_th_-H_768_-C_15.0_-n_9_-i_-s_150_-S_1922569193_ts-1660411932_idx-0.png'); ">
+          <img src="https://cdn.discordapp.com/attachments/1005626503427526656/1008065453802934332/high_quality_3_d_render_very_cute_fluffy_cyborg_dog_plays_drums_cyberpunk_highly_detailed_unreal_engine_cinematic_smooth_in_th_-H_768_-C_15.0_-n_9_-i_-s_150_-S_1922569193_ts-1660411932_idx-0.png" class="img-fluid prompt-main-image" style="height: auto;" />
+
+          <div class="prompt-badges text-right">
+          </div>
+
+          <div class='prompt-card-details '>
+            <p class="masonry-hide-unless-hover mb-1 d-none"><b>4 months ago</b></p>
+
+              <p class="masonry-hide-unless-hover mb-1">high quality 3 d render very cute fluffy cyborg!! dog! plays ...</p>
+
+            <div class='prompt-card-details-meta d-none d-md-flex'>
+              <div class='text-left'>
+                    <span class='masonry-hide-unless-hover card-label'>Stable Diffusion</span>
+              </div>
+
+              <div class='text-right masonry-hide-unless-hover'>
+                    <span class=''><i class="fa-solid fa-heart"></i> 8</span>
+                    <span class='ml-1'><i class="fa-solid fa-eye"></i> 110</span>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+
+    </a>
+
+  </article>
+
+</turbo-frame>
+</turbo-frame>  </div>
+  <div class="grid-item">
+    <turbo-frame id="prompt_6408952c-c314-4b4f-a58a-67a0980ebf04">
+      
+<turbo-frame id="prompt_6408952c-c314-4b4f-a58a-67a0980ebf04">
+
+
+
+  <article class='prompt-card' style="border-radius: 0;">
+
+      <turbo-frame loading="lazy" id="fav-btn-b33db658e43" src="/prompt/b33db658e43/fav_button"></turbo-frame>
+    
+
+    
+
+    <a class="prompt-card-a" href="/prompt/b33db658e43" data-turbo-frame="_top">
+
+
+      <div class="prompt-card-image-backdrop-container" style="">
+        <div class="prompt-card-image-backdrop" id="prompt-card-image-backdrop-b33db658e43" style="background-image: url('https://storage.googleapis.com/dream-machines-output/bc9becf2-c42e-4edf-8005-0fb59e75b6aa/0_0.png'); ">
+          <img src="https://storage.googleapis.com/dream-machines-output/bc9becf2-c42e-4edf-8005-0fb59e75b6aa/0_0.png" class="img-fluid prompt-main-image" style="height: auto;" />
+
+          <div class="prompt-badges text-right">
+          </div>
+
+          <div class='prompt-card-details '>
+            <p class="masonry-hide-unless-hover mb-1 d-none"><b>5 months ago</b></p>
+
+              <p class="masonry-hide-unless-hover mb-1">Steal prompts everyday, propaganda poster starring snoop dogg...</p>
+
+            <div class='prompt-card-details-meta d-none d-md-flex'>
+              <div class='text-left'>
+                    <span class='masonry-hide-unless-hover card-label'>Midjourney</span>
+              </div>
+
+              <div class='text-right masonry-hide-unless-hover'>
+                    <span class=''><i class="fa-solid fa-heart"></i> 100</span>
+                    <span class='ml-1'><i class="fa-solid fa-eye"></i> 190</span>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+
+    </a>
+
+  </article>
+
+</turbo-frame>
+</turbo-frame>  </div>
+
+              </div>
+
+              <turbo-frame loading="lazy" id="masonry-pagination" src="/?format=turbo_stream&amp;page=2"></turbo-frame>
+
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </main>
+
+</div>
+
+      <div class="bottom-signup-banner alert alert-dismissible" role="alert">
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+      <span aria-hidden="true">&times;</span>
+    </button>
+    <div class="container">
+      <div class="row pt-3">
+        <div class="col-12 col-md-8 text-center text-md-left">
+          <p><b>Sign up for a free PromptHero account</b></p>
+          <p>Log in to save favorites, generate images and discover AI artists you'll love.</p>
+        </div>
+        <div class="col-12 col-md-4 text-center">
+          <a class="btn d-block d-lg-inline-block btn-primary mt-3 mt-lg-0 px-5" href="/users/sign_up">Sign Up</a>
+          <p class="mt-2"><a href="/users/sign_in">Log in</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+    
+
+  <style>
+    .modal-backdrop.show{
+      opacity: 0.8;
+    }
+  </style>
+
+  <!-- Modal -->
+  <div class="sign-up-modal modal fade" id="signUpModal" tabindex="-1" role="dialog" aria-labelledby="signUpModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header d-block pb-0">
+          <h5 class="modal-title" id="signUpModalLabel">Sign up to continue browsing!</h5>
+          <p class="mt-3">Create a free PromptHero account to save favorites, generate images and discover AI artists you'll love.</p>
+        </div>
+        <div class="modal-body">
+
+          <div class="devise-wrapper">
+            
+
+<form data-turbo="false" class="new_user" id="new_user" action="/users" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="YCYWMfy_rY0aZZEV5efy-OeH9faWMTWR7CfsuF6xJd_Szy5q9xMaI5oLyBAXUTv3IvE7bdSq_Kkz-vx38UkXTw" autocomplete="off" />
+  
+
+  <div class="field">
+    <label for="user_email">Email</label><br />
+    <input autofocus="autofocus" autocomplete="email" placeholder="your_best_email@gmail.com" value="" type="email" name="user[email]" id="user_email" />
+  </div>
+
+  <div class="field">
+    <label for="user_password">Password</label>
+<br />
+    <input autocomplete="new-password" type="password" name="user[password]" id="user_password" />
+  </div>
+
+  <div class="field">
+    <label for="user_password_confirmation">Password confirmation</label><br />
+    <input autocomplete="new-password" type="password" name="user[password_confirmation]" id="user_password_confirmation" />
+  </div>
+
+
+
+  <div class="actions">
+    <input type="submit" name="commit" value="Sign Up" class="btn btn-primary-buy" data-disable-with="Sign Up" />
+  </div>
+</form>
+<p class="mb-5"><small class="text-muted">By signing up to PromptHero, you agree to our <a href="/faq">Terms Of Service</a></small></p>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+  <script>(function(){var js = "window['__CF$cv$params']={r:'7778b6786c60f09b',m:'CiBznFZGDbGiOsU8PTudencjteaKVbTI8aKL8mY6TZs-1670703957-0-AWgf8OgmQ61nZahnAcxvnltjIeuDt6Q9PmlevxKmhd3FJIOeDM2D0CR1O1mowrei01pwZZN6ABz9cWOV/aCCPZXWmV6qGQ+kp5i5ADQLv70v321Uug0iz4JDHrnuCfES/l57QiOoDW91PZV2TQ9O3/EjU/rDinqerijAzWkog7hA',s:[0x9ae1c6d4c9,0x78c653ed7d],u:'/cdn-cgi/challenge-platform/h/b'};var now=Date.now()/1000,offset=14400,ts=''+(Math.floor(now)-Math.floor(now%offset)),_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/h/b/scripts/alpha/invisible.js?ts='+ts,document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+
+  <!-- JQUERY -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous" defer></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js" integrity="sha512-ubuT8Z88WxezgSqf3RLuNi5lmjstiJcyezx34yIU2gAHonIi27Na7atqzUZCOoY4CExaoFumzOsFQ2Ch+I/HCw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js" integrity="sha384-+sLIOodYLS7CIrQpBjl+C7nPvqq+FbNUBDunl/OZv93DB7Ln/533i8e/mZXLi/P+" crossorigin="anonymous" defer></script>
+
+
+  <div class="container-fluid my-3 my-md-5">
+    <div class="row">
+      <div class="col-12 col-md-8 offset-md-2 text-center mt-0 mt-md-5">
+        <div class="bottom-cta p-5">
+          <div class="bottom-cta-header">Don't have a Prompthero account yet?</div>
+          <p class="mt-3">Create an account and bookmark your favorite prompts, upload your own creations – and much more!</p>
+          <a class="btn btn-outline-primary mt-3" href="/users/sign_up">Create account</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+<footer class="mt-5 py-5">
+  <div class="container">
+
+    <div class="row mt-3">
+
+      <div class="col-12 col-md-4 text-center text-md-left my-3 my-md-0">
+        <a href="/">
+          <img height="20" src="/assets/logo-1a320e7d99d0b1dfef7d9531a95ce4ba0654ed3da28f3da9163c203f6729ace2.svg" />
+</a>      </div>
+
+      <div class="col-12 col-md-3 text-center text-md-left mt-3 mt-md-0">
+        <div class="footer-section-title">Navigation</div>
+
+        <ul class="mt-3">
+          <li><a href="/prompt-builder">Prompt Builder</a></li>
+          <li><a href="/academy">Academy</a></li>
+          <li><a href="/faq">FAQ</a></li>
+        </ul>
+      </div>
+
+      <div class="col-12 col-md-3 text-center text-md-left my-0">
+        <div class="footer-section-title d-none d-md-block">&nbsp;</div>
+
+        <ul class="mt-0 mt-md-3">
+          <li>
+            <a href="/ai-prompts">Best AI Prompts</a>
+          </li>
+            <li>
+              <a href="/waifu-diffusion-prompts">Best Waifu Diffusion Prompts</a>
+            </li>
+            <li>
+              <a href="/trinart-prompts">Best TrinArt Prompts</a>
+            </li>
+            <li>
+              <a href="/openjourney-prompts">Best Openjourney Prompts</a>
+            </li>
+            <li>
+              <a href="/poolsuite-diffusion-prompts">Best Poolsuite Diffusion Prompts</a>
+            </li>
+            <li>
+              <a href="/funko-diffusion-prompts">Best Funko Diffusion Prompts</a>
+            </li>
+            <li>
+              <a href="/arcane-diffusion-prompts">Best Arcane Diffusion Prompts</a>
+            </li>
+            <li>
+              <a href="/text-to-pokemon-prompts">Best Text to Pokémon Prompts</a>
+            </li>
+            <li>
+              <a href="/mo-di-diffusion-prompts">Best Mo-Di Diffusion Prompts</a>
+            </li>
+            <li>
+              <a href="/redshift-diffusion-prompts">Best Redshift Diffusion Prompts</a>
+            </li>
+            <li>
+              <a href="/stable-diffusion-prompts">Best Stable Diffusion Prompts</a>
+            </li>
+            <li>
+              <a href="/dall-e-prompts">Best DALL-E Prompts</a>
+            </li>
+            <li>
+              <a href="/midjourney-prompts">Best Midjourney Prompts</a>
+            </li>
+        </ul>
+      </div>
+
+      <div class="col-12 col-md-2 text-center text-md-left my-3 my-md-0">
+        <div class="footer-section-title">Get in touch</div>
+
+        <ul class="mt-3">
+          <li>
+            <a href="https://twitter.com/prompthero">Twitter</a>
+          </li>
+          <li>
+            <a href="https://instagram.com/prompthero">Instagram</a>
+          </li>
+          <li>
+            <a href="https://reddit.com/user/prompthero_">Reddit</a>
+          </li>
+          <li>
+            <a href="/cdn-cgi/l/email-protection#5b33321b2b2934362b2f333e29347538343664282e39313e382f66133e227e696b0b2934362b2f133e29347a">Say hi 👋</a>
+          </li>
+        </ul>
+      </div>
+
+    </div>
+
+    <div class="row mt-5">
+      <div class="col text-center">
+        2022 © PromptHero.com
+      </div>
+    </div>
+
+  </div>
+</footer>
+
+<!-- Signature -->
+<footer id="signature-made-by" style="position: fixed; bottom:0; right: 0; font-family: -apple-system, Inter, 'Helvetica', Arial, sans-serif;"
+  allowpopup="false">
+  <img src="https://prompthero.com/logo.webp" width="21" height="21" style="vertical-align: text-top;">
+  <a href="https://twitter.com/intent/follow?screen_name=prompthero" style="text-decoration: none;">@prompthero</a>
+</footer> <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script async src="https://rameerez.com/signature/signature.min.js" charset="utf-8"></script>
+<!-- End signature -->
+
+</html>

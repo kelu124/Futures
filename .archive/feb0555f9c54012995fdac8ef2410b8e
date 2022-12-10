@@ -1,0 +1,572 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="referrer" content="origin-when-cross-origin" />
+  <title>Unretirement</title>
+
+      <link href="/dist/css/news-insight-entry.6bd61e9a.css" rel="stylesheet">
+    <link href="/dist/css/chunk-common.b6fc0e21.css" rel="stylesheet">
+  <meta property="og:site_name" content="Wunderman Thompson" />
+  <meta property="og:title" content="Unretirement" />
+
+  <meta name="description" content="A generation of retirees are heading back to work in search of social interaction and financial stability." />
+  <meta property="og:description" content="A generation of retirees are heading back to work in search of social interaction and financial stability." />
+  <meta property="og:image" content="https://res.cloudinary.com/dotcom-prod/images/ar_4:3,c_fill,f_auto,g_auto,q_auto,w_1200/v1/wt-cms-assets/2022/09/fw3jonrlfp9skycllopp/anolderlightskinnedwomanwithshortgrayandwhitehairandblueeyessmilesintothecamerasheiswearingpearlearringsandagrayplaidpatternedhighcollar.jpg" />
+  <meta property="twitter:image" content="https://res.cloudinary.com/dotcom-prod/images/ar_4:3,c_fill,f_auto,g_auto,q_auto,w_1200/v1/wt-cms-assets/2022/09/fw3jonrlfp9skycllopp/anolderlightskinnedwomanwithshortgrayandwhitehairandblueeyessmilesintothecamerasheiswearingpearlearringsandagrayplaidpatternedhighcollar.jpg" />
+
+  <link rel="alternate" hreflang="en" href="https://www.wundermanthompson.com/insight/unretirement" />
+  <link rel="alternate" hreflang="x-default" href="https://www.wundermanthompson.com/insight/unretirement" />
+  
+  
+  <link rel="icon" href="/favicon.svg?v=2022" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png?v=2022"/>
+  <link rel="manifest" href="/site.webmanifest" crossorigin="use-credentials">
+
+  <script>
+  window.appData = window.appData || {};
+  window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+  </script>
+  <script async src='https://www.google-analytics.com/analytics.js'></script>
+
+  <script>
+  window.appData.gaId = 'UA-135591078-1';
+  </script>
+  </head>
+<body class="en"
+    data-onetrust-id="375b55ca-509f-4be3-b45d-e97f7652631c"
+>
+  <div id="site-container">
+    <nav id="main-nav" role="navigation">
+  <a class="skip-main button" href="#content">Skip to main content</a>
+  <div class="background"></div>
+  <div class="cnt-fc nav-wrapper">
+        <a href="https://www.wundermanthompson.com/" aria-label="Wunderman Thompson" class="logo "
+        data-action="Header Logo">
+      <svg  class="wt-logo" role="img"><title>Wunderman Thompson</title><use xlink:href="#40b66408b68b0d881ddb6afded3b01f0"></use></svg>
+    </a>
+                  <nav class="menu" role="navigation" aria-label="Main">
+                  <a href="https://www.wundermanthompson.com/about-us"
+              class="about-us"
+              data-action="Nav Menu"data-submenu-selector="about-us"aria-label="About Us">
+            About Us
+          </a>
+                  <a href="https://www.wundermanthompson.com/work"
+              class="work"
+              data-action="Nav Menu"aria-label="Work">
+            Work
+          </a>
+                  <a href="https://www.wundermanthompson.com/expertise"
+              class="expertise"
+              data-action="Nav Menu"data-submenu-selector="expertise"aria-label="Expertise">
+            Expertise
+          </a>
+                  <a href="https://www.wundermanthompson.com/insights"
+              class="insights"
+              data-action="Nav Menu"aria-label="Insights">
+            Insights
+          </a>
+                  <a href="https://www.wundermanthompson.com/news"
+              class="news"
+              data-action="Nav Menu"aria-label="News">
+            News
+          </a>
+                  <a href="https://www.wundermanthompson.com/experience"
+              class="experience"
+              data-action="Nav Menu"data-submenu-selector="experience"aria-label="Experience">
+            Experience
+          </a>
+                  <a href="https://www.wundermanthompson.com/careers"
+              class="careers"
+              data-action="Nav Menu"aria-label="Careers">
+            Careers
+          </a>
+              </nav>
+    
+    <button aria-label="Open the navigation menu" aria-haspopup="true" class="main-nav-open link">
+      <ul class="hamburger" aria-hidden="true">
+        <li></li>
+        <li></li>
+        <li></li>
+      </ul>
+    </button>
+  </div>
+
+  <div class="submenu-wrapper">
+                  <nav class="cnt-fc submenu about-us"
+            data-submenu-for="about-us"
+            role="navigation"
+            aria-label="About Us Submenu">
+                      <a href="https://www.wundermanthompson.com/about-us"
+                data-action="Nav Menu"aria-label="At a Glance">
+              At a Glance
+            </a>
+                      <a href="https://www.wundermanthompson.com/contact-us"
+                data-action="Nav Menu"aria-label="Contact">
+              Contact
+            </a>
+                      <a href="https://www.wundermanthompson.com/offices"
+                data-action="Nav Menu"aria-label="Offices">
+              Offices
+            </a>
+                  </nav>
+                                  <nav class="cnt-fc submenu expertise"
+            data-submenu-for="expertise"
+            role="navigation"
+            aria-label="Expertise Submenu">
+                      <a href="https://www.wundermanthompson.com/expertise/apps"
+                data-action="Nav Menu"aria-label="Apps">
+              Apps
+            </a>
+                      <a href="https://www.wundermanthompson.com/expertise/b2b"
+                data-action="Nav Menu"aria-label="B2B">
+              B2B
+            </a>
+                      <a href="https://www.wundermanthompson.com/expertise/commerce"
+                data-action="Nav Menu"aria-label="Commerce">
+              Commerce
+            </a>
+                      <a href="https://www.wundermanthompson.com/expertise/communications"
+                data-action="Nav Menu"aria-label="Comms">
+              Comms
+            </a>
+                      <a href="https://www.wundermanthompson.com/expertise/consulting"
+                data-action="Nav Menu"aria-label="Consulting">
+              Consulting
+            </a>
+                      <a href="https://www.wundermanthompson.com/expertise/crm"
+                data-action="Nav Menu"aria-label="CRM">
+              CRM
+            </a>
+                      <a href="https://www.wundermanthompson.com/expertise/cx"
+                data-action="Nav Menu"aria-label="CX">
+              CX
+            </a>
+                      <a href="https://www.wundermanthompson.com/expertise/data"
+                data-action="Nav Menu"aria-label="Data">
+              Data
+            </a>
+                      <a href="https://www.wundermanthompson.com/expertise/health"
+                data-action="Nav Menu"aria-label="Health">
+              Health
+            </a>
+                      <a href="https://www.wundermanthompson.com/expertise/inclusive-experience-practice"
+                data-action="Nav Menu"aria-label="Inclusive XP">
+              Inclusive XP
+            </a>
+                      <a href="https://www.wundermanthompson.com/expertise/intelligence"
+                data-action="Nav Menu"aria-label="Intelligence">
+              Intelligence
+            </a>
+                      <a href="https://www.wundermanthompson.com/expertise/studios"
+                data-action="Nav Menu"aria-label="Studios">
+              Studios
+            </a>
+                      <a href="https://www.wundermanthompson.com/expertise/technology"
+                data-action="Nav Menu"aria-label="Technology">
+              Technology
+            </a>
+                      <a href="https://www.wundermanthompson.com/expertise/web3"
+                data-action="Nav Menu"aria-label="Web3">
+              Web3
+            </a>
+                  </nav>
+                                            <nav class="cnt-fc submenu experience"
+            data-submenu-for="experience"
+            role="navigation"
+            aria-label="Experience Submenu">
+                      <a href="https://www.wundermanthompson.com/inspire-2"
+                data-action="Nav Menu"aria-label="Inspire">
+              Inspire
+            </a>
+                      <a href="https://www.wundermanthompson.com/campaign/wt-inspiration-beach"
+                data-action="Nav Menu"aria-label="Metaverse">
+              Metaverse
+            </a>
+                      <a href="https://www.wundermanthompson.com/transform"
+                data-action="Nav Menu"aria-label="Transform">
+              Transform
+            </a>
+                      <a href="https://www.wundermanthompson.com/experience/wttalks"
+                data-action="Nav Menu"aria-label="WT Talks">
+              WT Talks
+            </a>
+                  </nav>
+                    
+      </div>
+    <script type="text/template" class="use-logo-light"><svg  class="wt-logo" role="img"><title>Wunderman Thompson</title><use xlink:href="#40b66408b68b0d881ddb6afded3b01f0"></use></svg></script>
+  <script type="text/template" class="use-logo-dark"><svg  class="wt-logo" role="img"><title>Wunderman Thompson</title><use xlink:href="#40b66408b68b0d881ddb6afded3b01f0"></use></svg></script>
+</nav>
+
+<div class="navigation-modal modal" aria-modal="true" role="dialog">
+  <div class="mark-wrapper">
+    <svg  class="mark" aria-hidden="true"><use xlink:href="#d47edc8d91bb22c8b1c23ec0afa6e5ce"></use></svg>
+  </div>
+  <div class="cnt-fc content">
+    <header>
+      <a href="https://www.wundermanthompson.com/"
+          aria-label="Wunderman Thompson" class="logo" data-action="Nav Menu">
+        <svg  class="wt-logo" role="img"><title>Wunderman Thompson Home</title><use xlink:href="#8bb97af324548db5db79da79a62ea5fb"></use></svg>
+      </a>
+
+      <button class="main-nav-close link" aria-label="Close">
+        <svg  class="x-icon" aria-hidden="true"><use xlink:href="#987f5ca82f83936ec0653225b9985b03"></use></svg>
+      </button>
+    </header>
+
+          <mobile-nav
+          :structure="{&quot;context&quot;:false,&quot;main&quot;:{&quot;about-us&quot;:{&quot;label&quot;:&quot;About Us&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/about-us&quot;,&quot;children&quot;:[{&quot;label&quot;:&quot;At a Glance&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/about-us&quot;,&quot;active&quot;:false,&quot;children&quot;:false},{&quot;label&quot;:&quot;Contact&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/contact-us&quot;,&quot;active&quot;:false,&quot;children&quot;:false},{&quot;label&quot;:&quot;Offices&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/offices&quot;,&quot;active&quot;:false,&quot;children&quot;:false}],&quot;active&quot;:false},&quot;work&quot;:{&quot;label&quot;:&quot;Work&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/work&quot;,&quot;children&quot;:false,&quot;active&quot;:false},&quot;expertise&quot;:{&quot;label&quot;:&quot;Expertise&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/expertise&quot;,&quot;children&quot;:{&quot;apps&quot;:{&quot;label&quot;:&quot;Apps&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/expertise\/apps&quot;,&quot;active&quot;:false,&quot;children&quot;:[{&quot;label&quot;:&quot;Work&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/work?service=apps&quot;,&quot;active&quot;:false},{&quot;label&quot;:&quot;Insights&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/insights?service=apps&quot;,&quot;active&quot;:false},{&quot;label&quot;:&quot;News&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/news?service=apps&quot;,&quot;active&quot;:false}]},&quot;b2b&quot;:{&quot;label&quot;:&quot;B2B&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/expertise\/b2b&quot;,&quot;active&quot;:false,&quot;children&quot;:[{&quot;label&quot;:&quot;Work&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/work?service=b2b&quot;,&quot;active&quot;:false},{&quot;label&quot;:&quot;Insights&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/insights?service=b2b&quot;,&quot;active&quot;:false}]},&quot;commerce&quot;:{&quot;label&quot;:&quot;Commerce&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/expertise\/commerce&quot;,&quot;active&quot;:false,&quot;children&quot;:[{&quot;label&quot;:&quot;Work&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/work?service=commerce&quot;,&quot;active&quot;:false},{&quot;label&quot;:&quot;Insights&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/insights?service=commerce&quot;,&quot;active&quot;:false},{&quot;label&quot;:&quot;News&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/news?service=commerce&quot;,&quot;active&quot;:false},{&quot;label&quot;:&quot;Partners&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/expertise\/commerce\/partners&quot;,&quot;active&quot;:false}]},&quot;communications&quot;:{&quot;label&quot;:&quot;Comms&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/expertise\/communications&quot;,&quot;active&quot;:false,&quot;children&quot;:[{&quot;label&quot;:&quot;Work&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/work?service=communications&quot;,&quot;active&quot;:false},{&quot;label&quot;:&quot;Insights&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/insights?service=communications&quot;,&quot;active&quot;:false},{&quot;label&quot;:&quot;News&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/news?service=communications&quot;,&quot;active&quot;:false}]},&quot;consulting&quot;:{&quot;label&quot;:&quot;Consulting&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/expertise\/consulting&quot;,&quot;active&quot;:false,&quot;children&quot;:[{&quot;label&quot;:&quot;Work&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/work?service=consulting&quot;,&quot;active&quot;:false},{&quot;label&quot;:&quot;Insights&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/insights?service=consulting&quot;,&quot;active&quot;:false}]},&quot;crm&quot;:{&quot;label&quot;:&quot;CRM&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/expertise\/crm&quot;,&quot;active&quot;:false,&quot;children&quot;:[{&quot;label&quot;:&quot;Work&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/work?service=crm&quot;,&quot;active&quot;:false},{&quot;label&quot;:&quot;Insights&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/insights?service=crm&quot;,&quot;active&quot;:false}]},&quot;cx&quot;:{&quot;label&quot;:&quot;CX&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/expertise\/cx&quot;,&quot;active&quot;:false,&quot;children&quot;:[{&quot;label&quot;:&quot;Work&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/work?service=cx&quot;,&quot;active&quot;:false},{&quot;label&quot;:&quot;Insights&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/insights?service=cx&quot;,&quot;active&quot;:false}]},&quot;data&quot;:{&quot;label&quot;:&quot;Data&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/expertise\/data&quot;,&quot;active&quot;:false,&quot;children&quot;:[{&quot;label&quot;:&quot;Work&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/work?service=data&quot;,&quot;active&quot;:false},{&quot;label&quot;:&quot;Insights&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/insights?service=data&quot;,&quot;active&quot;:false},{&quot;label&quot;:&quot;News&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/news?service=data&quot;,&quot;active&quot;:false},{&quot;label&quot;:&quot;Partners&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/expertise\/data\/partners&quot;,&quot;active&quot;:false}]},&quot;health&quot;:{&quot;label&quot;:&quot;Health&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/expertise\/health&quot;,&quot;active&quot;:false,&quot;children&quot;:[{&quot;label&quot;:&quot;Work&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/work?service=health&quot;,&quot;active&quot;:false},{&quot;label&quot;:&quot;Insights&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/insights?service=health&quot;,&quot;active&quot;:false},{&quot;label&quot;:&quot;News&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/news?service=health&quot;,&quot;active&quot;:false}]},&quot;inclusive-experience-practice&quot;:{&quot;label&quot;:&quot;Inclusive XP&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/expertise\/inclusive-experience-practice&quot;,&quot;active&quot;:false,&quot;children&quot;:[{&quot;label&quot;:&quot;Work&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/work?service=inclusive-experience-practice&quot;,&quot;active&quot;:false},{&quot;label&quot;:&quot;Insights&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/insights?service=inclusive-experience-practice&quot;,&quot;active&quot;:false}]},&quot;intelligence&quot;:{&quot;label&quot;:&quot;Intelligence&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/expertise\/intelligence&quot;,&quot;active&quot;:false,&quot;children&quot;:{&quot;1&quot;:{&quot;label&quot;:&quot;Insights&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/insights?service=intelligence&quot;,&quot;active&quot;:false}}},&quot;studios&quot;:{&quot;label&quot;:&quot;Studios&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/expertise\/studios&quot;,&quot;active&quot;:false,&quot;children&quot;:[{&quot;label&quot;:&quot;Work&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/work?service=studios&quot;,&quot;active&quot;:false},{&quot;label&quot;:&quot;Insights&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/insights?service=studios&quot;,&quot;active&quot;:false}]},&quot;technology&quot;:{&quot;label&quot;:&quot;Technology&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/expertise\/technology&quot;,&quot;active&quot;:false,&quot;children&quot;:[{&quot;label&quot;:&quot;Work&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/work?service=technology&quot;,&quot;active&quot;:false},{&quot;label&quot;:&quot;Insights&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/insights?service=technology&quot;,&quot;active&quot;:false},{&quot;label&quot;:&quot;News&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/news?service=technology&quot;,&quot;active&quot;:false},{&quot;label&quot;:&quot;Partners&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/expertise\/technology\/partners&quot;,&quot;active&quot;:false}]},&quot;web3&quot;:{&quot;label&quot;:&quot;Web3&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/expertise\/web3&quot;,&quot;active&quot;:false,&quot;children&quot;:[{&quot;label&quot;:&quot;Work&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/work?service=web3&quot;,&quot;active&quot;:false},{&quot;label&quot;:&quot;Insights&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/insights?service=web3&quot;,&quot;active&quot;:false}]}},&quot;active&quot;:false},&quot;insights&quot;:{&quot;label&quot;:&quot;Insights&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/insights&quot;,&quot;children&quot;:false,&quot;active&quot;:false},&quot;news&quot;:{&quot;label&quot;:&quot;News&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/news&quot;,&quot;children&quot;:false,&quot;active&quot;:false},&quot;experience&quot;:{&quot;label&quot;:&quot;Experience&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/experience&quot;,&quot;children&quot;:[{&quot;label&quot;:&quot;Inspire&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/inspire-2&quot;,&quot;active&quot;:false,&quot;children&quot;:false},{&quot;label&quot;:&quot;Metaverse&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/campaign\/wt-inspiration-beach&quot;,&quot;active&quot;:false,&quot;children&quot;:false},{&quot;label&quot;:&quot;Transform&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/transform&quot;,&quot;active&quot;:false,&quot;children&quot;:false},{&quot;label&quot;:&quot;WT Talks&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/experience\/wttalks&quot;,&quot;active&quot;:false,&quot;children&quot;:false}],&quot;active&quot;:false},&quot;careers&quot;:{&quot;label&quot;:&quot;Careers&quot;,&quot;url&quot;:&quot;https:\/\/www.wundermanthompson.com\/careers&quot;,&quot;children&quot;:false,&quot;active&quot;:false}}}"
+          text-home="Home">
+      </mobile-nav>
+    </div>
+</div>
+    <main class="content news-insight-entry" id="content" role="main">
+        
+
+<section class="section headline no-spacing  dark" role="banner">
+      <div class="headline-slider">
+      <div class="slide"
+          data-color="#0a47ed"
+          data-brightness="dark">
+        <div class="overlay"
+             style="background-color: #0a47ed" ></div>
+          <picture>
+        <source
+        srcset="https://res.cloudinary.com/dotcom-prod/images/ar_1:2,c_fill,f_auto,g_faces:center,q_auto,w_375/v1/wt-cms-assets/2022/09/fw3jonrlfp9skycllopp/anolderlightskinnedwomanwithshortgrayandwhitehairandblueeyessmilesintothecamerasheiswearingpearlearringsandagrayplaidpatternedhighcollar.jpg,
+                  https://res.cloudinary.com/dotcom-prod/images/ar_1:2,c_fill,dpr_2,f_auto,g_faces:center,q_auto,w_375/v1/wt-cms-assets/2022/09/fw3jonrlfp9skycllopp/anolderlightskinnedwomanwithshortgrayandwhitehairandblueeyessmilesintothecamerasheiswearingpearlearringsandagrayplaidpatternedhighcollar.jpg 2x"
+        media="(max-width: 600px)">
+
+        <source
+        srcset="https://res.cloudinary.com/dotcom-prod/images/ar_16:9,c_fill,f_auto,g_faces:center,q_auto,w_768/v1/wt-cms-assets/2022/09/fw3jonrlfp9skycllopp/anolderlightskinnedwomanwithshortgrayandwhitehairandblueeyessmilesintothecamerasheiswearingpearlearringsandagrayplaidpatternedhighcollar.jpg,
+                  https://res.cloudinary.com/dotcom-prod/images/ar_16:9,c_fill,dpr_2,f_auto,g_faces:center,q_auto,w_768/v1/wt-cms-assets/2022/09/fw3jonrlfp9skycllopp/anolderlightskinnedwomanwithshortgrayandwhitehairandblueeyessmilesintothecamerasheiswearingpearlearringsandagrayplaidpatternedhighcollar.jpg 2x"
+        media="(max-width: 980px) and (max-height: 1000px)">
+
+        <source
+        srcset="https://res.cloudinary.com/dotcom-prod/images/ar_3:4,c_fill,f_auto,g_faces:center,q_auto,w_768/v1/wt-cms-assets/2022/09/fw3jonrlfp9skycllopp/anolderlightskinnedwomanwithshortgrayandwhitehairandblueeyessmilesintothecamerasheiswearingpearlearringsandagrayplaidpatternedhighcollar.jpg,
+                  https://res.cloudinary.com/dotcom-prod/images/ar_3:4,c_fill,dpr_2,f_auto,g_faces:center,q_auto,w_768/v1/wt-cms-assets/2022/09/fw3jonrlfp9skycllopp/anolderlightskinnedwomanwithshortgrayandwhitehairandblueeyessmilesintothecamerasheiswearingpearlearringsandagrayplaidpatternedhighcollar.jpg 2x"
+        media="(max-width: 980px)">
+
+        <source
+        srcset="https://res.cloudinary.com/dotcom-prod/images/ar_3:4,c_fill,f_auto,g_faces:center,q_auto,w_1024/v1/wt-cms-assets/2022/09/fw3jonrlfp9skycllopp/anolderlightskinnedwomanwithshortgrayandwhitehairandblueeyessmilesintothecamerasheiswearingpearlearringsandagrayplaidpatternedhighcollar.jpg,
+                  https://res.cloudinary.com/dotcom-prod/images/ar_4:3,c_fill,dpr_2,f_auto,g_faces:center,q_auto,w_1024/v1/wt-cms-assets/2022/09/fw3jonrlfp9skycllopp/anolderlightskinnedwomanwithshortgrayandwhitehairandblueeyessmilesintothecamerasheiswearingpearlearringsandagrayplaidpatternedhighcollar.jpg 2x"
+        media="(max-width: 1024px) and (min-aspect-ratio: 4/3)">
+
+        <source
+        srcset="https://res.cloudinary.com/dotcom-prod/images/ar_16:9,c_fill,f_auto,g_faces:center,q_auto,w_1920/v1/wt-cms-assets/2022/09/fw3jonrlfp9skycllopp/anolderlightskinnedwomanwithshortgrayandwhitehairandblueeyessmilesintothecamerasheiswearingpearlearringsandagrayplaidpatternedhighcollar.jpg,
+                  https://res.cloudinary.com/dotcom-prod/images/ar_16:9,c_fill,dpr_2,f_auto,g_faces:center,q_auto,w_1920/v1/wt-cms-assets/2022/09/fw3jonrlfp9skycllopp/anolderlightskinnedwomanwithshortgrayandwhitehairandblueeyessmilesintothecamerasheiswearingpearlearringsandagrayplaidpatternedhighcollar.jpg 2x"
+        media="(min-width: 1025px) and (min-aspect-ratio: 16/9)">
+
+        <source
+        srcset="https://res.cloudinary.com/dotcom-prod/images/c_fill,f_auto,g_faces:center,q_auto,w_1920/v1/wt-cms-assets/2022/09/fw3jonrlfp9skycllopp/anolderlightskinnedwomanwithshortgrayandwhitehairandblueeyessmilesintothecamerasheiswearingpearlearringsandagrayplaidpatternedhighcollar.jpg,
+                https://res.cloudinary.com/dotcom-prod/images/c_fill,dpr_2,f_auto,g_faces:center,q_auto,w_1920/v1/wt-cms-assets/2022/09/fw3jonrlfp9skycllopp/anolderlightskinnedwomanwithshortgrayandwhitehairandblueeyessmilesintothecamerasheiswearingpearlearringsandagrayplaidpatternedhighcollar.jpg 2x">
+
+    <img src="https://res.cloudinary.com/dotcom-prod/images/c_fill,f_auto,g_faces:center,q_auto,w_1920/v1/wt-cms-assets/2022/09/fw3jonrlfp9skycllopp/anolderlightskinnedwomanwithshortgrayandwhitehairandblueeyessmilesintothecamerasheiswearingpearlearringsandagrayplaidpatternedhighcollar.jpg"
+        alt="An older, light-skinned woman with short gray and white hair and blue eyes smiles into the camera. She is wearing pearl earrings and a gray plaid-patterned high collar." class="main-image ">
+  </picture>
+
+      </div>
+    </div>
+    
+      <div class="static-text cnt-fc">
+      <div class="strap"><a href="https://www.wundermanthompson.com/insights" data-action="Headline Click">Insight</a></div>      <h1 class="title">Unretirement</h1>
+      <h2 class="subtitle">Oct 03, 2022</h2>    </div>
+  </section>
+
+  <section class="cnt data-table dark no-spacing" role="complementary" style="background-color: #0a47ed;  fill: #0839be">
+  <svg  class="mark" aria-hidden="true"><use xlink:href="#0be21ce1f9a1674f0cb17af4861189ad"></use></svg>
+  <div class="cnt-fc vs-f">
+          <h2>A generation of retirees are heading back to work in search of social interaction and financial stability.</h2>
+    
+    <div class="content-wrapper"><div class="content services">
+          <p class="section-title">Expertise</p>          <ul>
+                          <li>
+                <a class="text-bold" href="https://www.wundermanthompson.com/expertise/intelligence" data-action="Data Table">
+                  Intelligence
+                </a>
+              </li>
+                      </ul>
+        </div><div class="content author">
+          <p class="section-title">Author</p>          <ul>
+            <li>Carla Calandra</li>
+          </ul>
+        </div></div>
+  </div>
+</section>
+
+  <section class="body body-neo">
+                      
+            <section id="s-1" class="text-section before-copyright cnt-fc vs-s entry-text" style="">
+        <div class="text-holder">
+    <div class="text"><p>Whether they’re <a href="https://www.wundermanthompson.com/insight/rewirement" target="_blank" rel="noreferrer noopener">rewiring</a> their careers or picking up odd jobs, people in their 70s are reentering the workforce. Traditionally entering an age of retirement, these workers are re-defining the purpose of life’s later decades by taking on new positions, looking for social interaction and augmented income.<br /></p>
+<p>Amidst a looming financial crisis and a volatile stock market, many former workers are finding part-time work to ensure financial stability. Kim Chaplain, a specialist adviser for work at the UK’s Centre for Ageing Better, told <em>The Guardian</em> that the organization “suspect[s] the rising cost of living is playing a role.” Bernadette Hempstead of Suffolk, England, receives a small private pension and a state pension as a retired human resource employee. However, those two sources of income were not enough to cover her living expenses, according to an interview with <em>The Guardian</em>. “As things get more expensive, it became impossible. I had also wiped out a lot of my savings during the period I was homeless,” said Hempstead, now a showroom floor assistant who is back on her feet.</p>
+<p>The number of people aged 65 or over entering the workforce rose by 173,000 in the first quarter of 2022, according to new figures from the UK’s Centre for Ageing Better. After her husband died, Sue Brown re-entered the workforce just three years after retiring in order to make ends meet. Currently working at a kitchen canteen in Surrey, England, Brown spoke to <em>The Guardian</em>
+in a feature highlighting how many retirees are finding themselves in similar situations. “I mostly clean the tables and do the washing up, among other duties. It’s a nice place to work and I enjoy being around people,” she said. “I’ve always thrown myself into work, but now it’s keeping me alive too.”</p>
+<p>According to the World Economic Forum, an increase in older employees may also be reflective of longer life spans, yielding a need to earn money for a longer period of time. Europeans in particular will spend an average of 36 years in the workforce, according to the European Commission’s data service Eurostat, with people in the Netherlands working an average of 42.5 years. Across European countries, men are estimated to work an average of 38.2 years compared to 33.7 years for women.</p>
+<p>Many US retirees are going back to the workplace as well, looking for social interaction and community connections,. Data from the Indeed employment website indicated that 1.7 million formerly retired Americans returned to the workforce a year later.</p>
+<p>A generation in its 60s and 70s are returning to the workforce, focusing on new goals and aspirations and combatting a rising cost-of-living. Many companies may have an opportunity to tap into this economically driven, experienced, and motivated demographic as this long-term trend perpetuates.</p></div>
+</div>
+
+      </section>
+                      
+            <section id="s-2" class="copyright-section after-text last cnt-fc vs-s" style="">
+        <div class="text-holder">
+  <div class="text"><p>Main image by Ravi Patel, courtesy of Unsplash.</p></div>
+</div>
+
+      </section>
+      </section>
+
+  <modal aria-modal="true"
+         @close="closePromptModal"
+         :is-open="promptModal.isOpen"
+         :full-size="false"
+         :exclude-click-outside="false"
+         class="prompt-modal"
+         v-cloak>
+    <div v-show="!promptModal.thankYouMessage.length">
+      <header>
+        <h2>Please provide your contact information to continue. Detailed information on the processing of your personal data can be found in our <a href='/privacy-policy' target='_blank'>Privacy Policy</a>. (in particular the "How Do We Use It?" Section).</h2>
+      </header>
+      <form :action="promptModal.action"
+          method="POST"
+          accept-charset="UTF-8"
+          ref="form"
+          @submit="onSubmit"
+          data-api-error-message="Something went wrong, please try again later."
+      >
+        <input type="hidden" name="source" ref="source" :value="promptModal.source">
+        <input type="hidden" name="id" ref="download-id" :value="promptModal.id">
+        <input type="hidden" name="title" value="Unretirement">
+        <input type="hidden" name="siteId" ref="site-id" value="1">
+        <input type="hidden" name="campaignSource" ref="campaign-source" value="">
+        <input type="hidden" name="campaignMedium" ref="campaign-medium" value="">
+        <input type="hidden" name="campaignName" ref="campaign-name" value="">
+        <label class="hidden"  for="promptFirstName">First Name</label>
+        <input class="modal-field"
+            type="text" name="firstName"
+            id="promptFirstName" placeholder="First Name"
+            ref="first-name"
+            maxlength="255"
+            required
+        >
+        <label class="hidden" for="promptLastName">Last Name</label>
+        <input class="modal-field"
+            type="text"
+            name="lastName"
+            id="promptLastName"
+            placeholder="Last Name"
+            ref="last-name"
+            maxlength="255"
+            required
+        >
+        <label class="hidden" for="promptEmail">Email</label>
+        <input class="modal-field"
+            type="email"
+            name="email"
+            id="promptEmail"
+            placeholder="Email"
+            ref="email"
+            maxlength="255"
+            pattern=".+@.+\..+"
+            title="name@domain.com"
+            required
+        >
+        <label class="hidden" for="promptCompany">Company</label>
+        <input class="modal-field"
+            type="text"
+            name="company"
+            id="promptCompany"
+            placeholder="Company"
+            ref="company"
+            maxlength="255"
+            required
+        >
+
+        <label class="hidden" for="promptJobTitle">Job Title</label>
+        <input class="modal-field"
+            type="text"
+            name="jobTitle"
+            id="promptJobTitle"
+            placeholder="Your Job Title"
+            ref="job-title"
+            maxlength="40"
+        >
+        <button :aria-label="promptModal.buttonName"
+            style="background-color: #ec4e20; color: #FFF"
+            type="submit"
+            :disabled="promptModal.loading"
+        >
+          ${ promptModal.buttonName }
+        </button>
+      </form>
+    </div>
+    <template v-if="promptModal.thankYouMessage.length">
+      <header>
+        <h2 v-html="promptModal.thankYouMessage"></h2>
+      </header>
+      <form @submit.prevent>
+        <button
+            @click="closePromptModal()"
+            aria-label="Close"
+            style="background-color: #ec4e20; color: #FFF"
+        >
+          Close
+        </button>
+      </form>
+    </template>
+  </modal>
+<modal aria-modal="true"
+      @close="closeVideoModal"
+      :is-open="videoModal.isOpen"
+      :full-size="true"
+      :exclude-click-outside="false"
+      class="video-modal"
+      v-cloak>
+    <section class="video-section cnt-fc vs-f">
+      <div class="video" ref="modal-video"></div>
+    </section>
+  </modal><section class="card-section similar cnt-fc vs-s">
+    <h3 class="section-title text-medium">Related Content</h3>
+    <div class="cards vertical-cards">
+          <div class="card vertical light ">
+  <a href="https://www.wundermanthompson.com/insight/rewirement"
+                    style="background-color: #0a47ed;"
+          data-action="Cards"
+          aria-label="Rewirement"
+          tabindex="-1"
+      >                  <picture>
+          <source srcset="https://res.cloudinary.com/dotcom-prod/images/ar_1:1,c_fill,f_auto,g_faces:center,q_auto,w_375/v1/wt-cms-assets/2022/08/fgvzjgryq9x5yb1vtvto/blackandwhitephotoofthreebandmembersplayingonstageamansingsintoamicrophoneplayingguitartohisrightawomansingswhileplayingbassguitarbehindheramanplaysthedrums.jpg, https://res.cloudinary.com/dotcom-prod/images/ar_1:1,c_fill,dpr_2,f_auto,g_faces:center,q_auto,w_375/v1/wt-cms-assets/2022/08/fgvzjgryq9x5yb1vtvto/blackandwhitephotoofthreebandmembersplayingonstageamansingsintoamicrophoneplayingguitartohisrightawomansingswhileplayingbassguitarbehindheramanplaysthedrums.jpg 2x " media="(max-width: 600px)" /><source srcset="https://res.cloudinary.com/dotcom-prod/images/ar_1:1,c_fill,f_auto,g_faces:center,q_auto,w_400/v1/wt-cms-assets/2022/08/fgvzjgryq9x5yb1vtvto/blackandwhitephotoofthreebandmembersplayingonstageamansingsintoamicrophoneplayingguitartohisrightawomansingswhileplayingbassguitarbehindheramanplaysthedrums.jpg, https://res.cloudinary.com/dotcom-prod/images/ar_1:1,c_fill,dpr_2,f_auto,g_faces:center,q_auto,w_400/v1/wt-cms-assets/2022/08/fgvzjgryq9x5yb1vtvto/blackandwhitephotoofthreebandmembersplayingonstageamansingsintoamicrophoneplayingguitartohisrightawomansingswhileplayingbassguitarbehindheramanplaysthedrums.jpg 2x " media="(max-width: 980px)" /><source srcset="https://res.cloudinary.com/dotcom-prod/images/ar_5:3,c_fill,f_auto,g_faces:center,q_auto,w_600/v1/wt-cms-assets/2022/08/fgvzjgryq9x5yb1vtvto/blackandwhitephotoofthreebandmembersplayingonstageamansingsintoamicrophoneplayingguitartohisrightawomansingswhileplayingbassguitarbehindheramanplaysthedrums.jpg, https://res.cloudinary.com/dotcom-prod/images/ar_5:3,c_fill,dpr_2,f_auto,g_faces:center,q_auto,w_600/v1/wt-cms-assets/2022/08/fgvzjgryq9x5yb1vtvto/blackandwhitephotoofthreebandmembersplayingonstageamansingsintoamicrophoneplayingguitartohisrightawomansingswhileplayingbassguitarbehindheramanplaysthedrums.jpg 2x "  />
+          <img src="https://res.cloudinary.com/dotcom-prod/images/ar_5:3,c_fill,f_auto,g_faces:center,q_auto,w_600/v1/wt-cms-assets/2022/08/fgvzjgryq9x5yb1vtvto/blackandwhitephotoofthreebandmembersplayingonstageamansingsintoamicrophoneplayingguitartohisrightawomansingswhileplayingbassguitarbehindheramanplaysthedrums.jpg" alt="Black and white photo of three band members playing onstage. A man sings into a microphone playing guitar. To his right, a woman sings while playing bass guitar. Behind her, a man plays the drums." class="preview cover" loading="lazy" />
+        </picture>
+        </a>    <div class="text-holder" style="background-color: #0a47ed; fill: #0a47ed; stroke: #ec4e20">
+    <div class="text">
+                        <span class="type">Insight</span>
+              <h3 class="title small"><a href="https://www.wundermanthompson.com/insight/rewirement"
+                                data-action="Cards"
+            >Rewirement</a></h3><div class="subtitle sm-subtitle">
+        “I&#039;m not retiring, I’m rewiring. My future&#039;s unfolding still, and I don&#039;t really want to put the guard rails on it.”
+      </div><a class="card-link bottom"
+            href="https://www.wundermanthompson.com/insight/rewirement"
+                        data-action="Cards"
+            aria-label="Read Article Rewirement"
+        >Read Article</a>    </div>
+  </div>
+  </div>
+          <div class="card vertical light ">
+  <a href="https://www.wundermanthompson.com/insight/boomer-digital-migration"
+                    style="background-color: #ffe330;"
+          data-action="Cards"
+          aria-label="Boomer digital migration"
+          tabindex="-1"
+      >                  <picture>
+          <source srcset="https://res.cloudinary.com/dotcom-prod/images/ar_1:1,c_fill,f_auto,g_faces:center,q_auto,w_375/v1/wt-cms-assets/2021/07/klzfxeshxfvwsxtacgmi/herogreceghenam.jpg, https://res.cloudinary.com/dotcom-prod/images/ar_1:1,c_fill,dpr_2,f_auto,g_faces:center,q_auto,w_375/v1/wt-cms-assets/2021/07/klzfxeshxfvwsxtacgmi/herogreceghenam.jpg 2x " media="(max-width: 600px)" /><source srcset="https://res.cloudinary.com/dotcom-prod/images/ar_1:1,c_fill,f_auto,g_faces:center,q_auto,w_400/v1/wt-cms-assets/2021/07/klzfxeshxfvwsxtacgmi/herogreceghenam.jpg, https://res.cloudinary.com/dotcom-prod/images/ar_1:1,c_fill,dpr_2,f_auto,g_faces:center,q_auto,w_400/v1/wt-cms-assets/2021/07/klzfxeshxfvwsxtacgmi/herogreceghenam.jpg 2x " media="(max-width: 980px)" /><source srcset="https://res.cloudinary.com/dotcom-prod/images/ar_5:3,c_fill,f_auto,g_faces:center,q_auto,w_600/v1/wt-cms-assets/2021/07/klzfxeshxfvwsxtacgmi/herogreceghenam.jpg, https://res.cloudinary.com/dotcom-prod/images/ar_5:3,c_fill,dpr_2,f_auto,g_faces:center,q_auto,w_600/v1/wt-cms-assets/2021/07/klzfxeshxfvwsxtacgmi/herogreceghenam.jpg 2x "  />
+          <img src="https://res.cloudinary.com/dotcom-prod/images/ar_5:3,c_fill,f_auto,g_faces:center,q_auto,w_600/v1/wt-cms-assets/2021/07/klzfxeshxfvwsxtacgmi/herogreceghenam.jpg" alt="HERO greceghenam" class="preview cover" loading="lazy" />
+        </picture>
+        </a>    <div class="text-holder" style="background-color: #ffe330; fill: #ffe330; stroke: #75b09c">
+    <div class="text">
+                        <span class="type">Insight</span>
+              <h3 class="title medium"><a href="https://www.wundermanthompson.com/insight/boomer-digital-migration"
+                                data-action="Cards"
+            >Boomer digital migration</a></h3><div class="subtitle sm-subtitle">
+        From Bumble to Instacart, the baby boomers have entered the chat.
+      </div><a class="card-link bottom"
+            href="https://www.wundermanthompson.com/insight/boomer-digital-migration"
+                        data-action="Cards"
+            aria-label="Read Article Boomer digital migration"
+        >Read Article</a>    </div>
+  </div>
+  </div>
+        </div>
+  </section>          </main>
+    <footer class="footer" id="site-footer" role="contentinfo">
+  <div class="footer-mark"></div>
+  <div class="footer-section cnt-fc">
+    <div class="footer-middle">
+      <div class="footer-links">
+              <ul class="nav-main">
+          <li class="bold-link"><a aria-label="Contact Us" href="https://www.wundermanthompson.com/contact-us">Contact Us</a>
+          </li>
+                    <li class="bold-link">
+              <a aria-label="Sign Up For Latest News"
+                  data-action="Newsletter" href="https://www.wundermanthompson.com/ready-to-be-inspired">
+                Newsletter
+              </a>
+          </li>
+                    <li class="bold-link"><a aria-label="Press Centre" href="https://www.wundermanthompson.com/press-centre">Press Centre</a></li>
+        </ul>
+        <ul class="nav-secondary">
+          <li><button aria-label="Cookie Settings" class="link optanon-toggle-display">Cookie Settings</button></li>
+          <li><a aria-label="Cookie Policy" href="https://www.wundermanthompson.com/cookie-policy">Cookie Policy</a></li>
+          <li><a aria-label="Privacy Policy" href="https://www.wundermanthompson.com/privacy-policy">Privacy</a></li>
+          <li><a aria-label="Terms" href="https://www.wundermanthompson.com/terms">Terms</a></li>
+          <li><a aria-label="Modern Slavery Act Statement" target="_blank" href="https://www.wpp.com/sustainability/modern-slavery-act-statement">Modern Slavery Act Statement</a></li>
+          <li><a aria-label="California Consumer Privacy Act" href="https://www.wundermanthompson.com/ccpa-policy">CCPA Policy</a></li>
+          <li><a aria-label="Accessibility" href="https://www.wundermanthompson.com/Accessibility">Accessibility</a></li>
+        </ul>
+      </div>
+      <div class="footer-contact">
+          <div class="social-connect-icons">
+            <p class="section-title">Connect with us</p>      <div class="logos">
+                  <a aria-label="Instagram" href="https://www.instagram.com/wunthompson/" target="_blank" rel="noopener"
+              title="Instagram">
+            <svg  class="social-icon instagram" aria-hidden="true"><use xlink:href="#2fcbef0ae0e49c32572fa4fc1016e915"></use></svg>
+          </a>
+                  <a aria-label="LinkedIn" href="https://www.linkedin.com/company/wunderman-thompson" target="_blank" rel="noopener"
+              title="LinkedIn">
+            <svg  class="social-icon linkedin" aria-hidden="true"><use xlink:href="#cf33fc6fae7776f4419ec509be01c8a3"></use></svg>
+          </a>
+                  <a aria-label="Twitter" href="https://twitter.com/WunThompson" target="_blank" rel="noopener"
+              title="Twitter">
+            <svg  class="social-icon twitter" aria-hidden="true"><use xlink:href="#0ec9436a22879940e73a633e9f817277"></use></svg>
+          </a>
+                  <a aria-label="Facebook" href="https://www.facebook.com/WundermanThompson/" target="_blank" rel="noopener"
+              title="Facebook">
+            <svg  class="social-icon facebook" aria-hidden="true"><use xlink:href="#c53502923844ec9e561fd369084b2590"></use></svg>
+          </a>
+                  <a aria-label="Vimeo" href="https://vimeo.com/user94613449" target="_blank" rel="noopener"
+              title="Vimeo">
+            <svg  class="social-icon vimeo" aria-hidden="true"><use xlink:href="#8e376a2809531282ffdf6ab5b38df398"></use></svg>
+          </a>
+              </div>
+      </div>
+
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <h3>
+        &copy; 2022 Wunderman Thompson.
+        <a href="https://www.wpp.com/" target="_blank" rel="noopener">A WPP Company</a>.
+      </h3>
+    </div>
+  </div>
+</footer>  </div>
+  <svg class="u-hidden" style="display: none" xmlns="http://www.w3.org/2000/svg">
+    <symbol id="40b66408b68b0d881ddb6afded3b01f0"  xmlns="http://www.w3.org/2000/svg" viewBox="-51 -14.008 115 39.953">
+<path class="mark" fill="#e661b2"
+      d="M-40.465-10.079h-3.929v-3.929h-2.672v3.929H-51v2.672h3.934v3.929h2.672v-3.929h3.929z"/>
+<path class="text" fill="#0a47ed"
+      d="M21.3 8.519zM27.594.165a3.643 3.643 0 00-3.638-3.638h-3.995V8.523H21.3V3.802h2.656c.103 0 .205-.005.308-.015l2.166 4.736h1.472L25.561 3.43A3.667 3.667 0 0027.594.165zm-3.638 2.304H21.3v-4.614h2.656a2.314 2.314 0 012.31 2.31 2.312 2.312 0 01-2.31 2.304zm-43.713 2.386c0 1.783-1.206 2.498-2.662 2.498-1.461 0-2.662-.715-2.662-2.498v-8.333h-1.333v8.344c0 2.355 1.629 3.816 3.995 3.816 2.371 0 3.996-1.461 3.996-3.816v-8.344h-1.333v8.333zm-12.518.915l-1.773-9.242h-1.62L-37.44 5.77l-1.666-9.242h-1.359l2.304 11.996h1.411l1.89-9.288 1.891 9.288h1.41l2.304-11.996h-1.359l-1.661 9.242zm45.564 8.016H9.304v11.996h1.334v-4.711h2.651a3.64 3.64 0 003.638-3.637 3.628 3.628 0 00-3.638-3.648zm0 5.947h-2.651v-4.608h2.651a2.308 2.308 0 012.31 2.31 2.306 2.306 0 01-2.31 2.298zm-2.651 6.049zM47.09-3.478L43.269 8.519h1.39l.89-2.764h4.547l.879 2.764h1.41L48.541-3.478H47.09zm-1.123 7.904l1.859-5.778 1.839 5.778h-3.698zm-10.362 9.197a3.889 3.889 0 00-3.883 3.893v4.537a3.889 3.889 0 003.883 3.893 3.899 3.899 0 003.894-3.893v-4.537a3.898 3.898 0 00-3.894-3.893zm2.555 8.43a2.55 2.55 0 01-2.555 2.555 2.55 2.55 0 01-2.555-2.555v-4.537c0-1.42 1.145-2.564 2.555-2.564s2.555 1.145 2.555 2.564v4.537zm-48.767-8.43a3.896 3.896 0 00-3.888 3.893v4.537a3.898 3.898 0 003.888 3.893 3.898 3.898 0 003.893-3.893v-4.537a3.898 3.898 0 00-3.893-3.893zm2.56 8.43c0 1.41-1.145 2.555-2.56 2.555s-2.56-1.135-2.56-2.555v-4.537a2.559 2.559 0 012.56-2.564c1.41 0 2.56 1.145 2.56 2.564v4.537zM-7.93 5.77l-5.431-9.242h-1.257V8.523h1.333V-.725l5.431 9.243h1.257V-3.478H-7.93V5.77zm70.552-9.243V5.77l-5.416-9.242h-1.267V8.523h1.328V-.725l5.437 9.243h1.268V-3.478l-1.35.005zM50.504 23.033l-5.437-9.247H43.81v11.996h1.339v-9.247l5.426 9.247h1.257V13.786h-1.328v9.247zM5.104 4.63V.416a3.89 3.89 0 00-3.888-3.888h-3.99V8.523h3.99A3.9 3.9 0 005.104 4.63zm-6.545-6.775H1.21A2.559 2.559 0 013.77.415V4.63c0 1.41-1.139 2.56-2.56 2.56h-2.651v-9.335zM16.446 7.19h-6.014V3.174h5.359V1.841h-5.359v-3.985h6.014v-1.333H9.1V8.519h7.347V7.19zm19.159-4.741l-2.984-5.921h-1.39V8.523h1.329V-.725l2.615 5.278h.858l2.616-5.278v9.243h1.349V-3.478h-1.39l-3.003 5.927zm-75.416 12.676h4.287v10.657h1.333V15.125h4.281v-1.339h-9.901v1.339zm20.007 3.994h-5.232v-5.333h-1.333v11.996h1.333v-5.334h5.227v5.334h1.339V13.786h-1.339v5.333h.005zm44.618.011l-1.91-.756c-1.288-.542-1.462-1.145-1.462-1.676 0-.49.185-.899.542-1.196.429-.356 1.094-.562 1.85-.562.776 0 1.431.215 1.86.582.397.348.602.839.602 1.462v.215h1.339v-.215c0-2.084-1.553-3.372-3.801-3.372-2.238 0-3.729 1.268-3.729 3.075 0 1.604 1.134 2.483 2.523 3.015l1.696.674c1.645.635 2.126 1.104 2.126 2.086 0 .643-.226 1.154-.655 1.522-.459.397-1.185.623-2.002.623-.858 0-1.584-.205-2.054-.593-.419-.348-.634-.838-.634-1.44v-.297h-1.339v.297c0 2.074 1.646 3.371 4.026 3.371 2.37 0 3.985-1.369 3.985-3.483.001-2.045-1.573-2.78-2.963-3.332zm-23.65.572l-2.994-5.916h-1.385v11.996h1.333v-9.247l2.621 5.282h.854l2.621-5.282v9.247h1.333V13.786H4.164l-3 5.916z"/>
+ </symbol><symbol id="d47edc8d91bb22c8b1c23ec0afa6e5ce"  version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 468 468" style="enable-background:new 0 0 468 468" xml:space="preserve"><style>.st3{fill:#0a389e}.st4{fill:#00d1d9}.st8{opacity:.5}.st9{fill:#3468f6}.st10{opacity:.6}</style><g style="enable-background:new"><g class="st8"><path class="st9" d="m310.6 195-48.1-39.7 151.9-19.5 48.2 39.7z"/></g><g class="st10"><path class="st9" d="m200.3 468.9-48.2-39.7 4.4-155.4 48.2 39.7z"/></g><g class="st10"><path class="st9" d="m207.6 208.2-48.1-39.7 4.4-155.4L212 52.8z"/></g><path class="st9" d="m212 52.8-48.1-39.7 103-13.2L315 39.6z" style="opacity:.8"/><path class="st9" d="M315 39.6 310.6 195l152-19.5-3 105.4-151.9 19.4-4.4 155.4-103 13.2 4.4-155.4-152 19.5 3-105.4 151.9-19.4L212 52.8z"/><path class="st9" d="M52.7 333 4.5 293.2l3-105.3 48.2 39.7z" style="opacity:.45"/><g class="st8"><path class="st9" d="M55.7 227.6 7.5 187.9l152-19.4 48.1 39.7z"/></g></g> </symbol><symbol id="8bb97af324548db5db79da79a62ea5fb"  xmlns="http://www.w3.org/2000/svg" viewBox="-51 -14.008 115 39.953">
+<path class="mark" fill="#FFF"
+      d="M-40.465-10.079h-3.929v-3.929h-2.672v3.929H-51v2.672h3.934v3.929h2.672v-3.929h3.929z"/>
+<path class="text" fill="#FFF"
+      d="M21.3 8.519zM27.594.165a3.643 3.643 0 00-3.638-3.638h-3.995V8.523H21.3V3.802h2.656c.103 0 .205-.005.308-.015l2.166 4.736h1.472L25.561 3.43A3.667 3.667 0 0027.594.165zm-3.638 2.304H21.3v-4.614h2.656a2.314 2.314 0 012.31 2.31 2.312 2.312 0 01-2.31 2.304zm-43.713 2.386c0 1.783-1.206 2.498-2.662 2.498-1.461 0-2.662-.715-2.662-2.498v-8.333h-1.333v8.344c0 2.355 1.629 3.816 3.995 3.816 2.371 0 3.996-1.461 3.996-3.816v-8.344h-1.333v8.333zm-12.518.915l-1.773-9.242h-1.62L-37.44 5.77l-1.666-9.242h-1.359l2.304 11.996h1.411l1.89-9.288 1.891 9.288h1.41l2.304-11.996h-1.359l-1.661 9.242zm45.564 8.016H9.304v11.996h1.334v-4.711h2.651a3.64 3.64 0 003.638-3.637 3.628 3.628 0 00-3.638-3.648zm0 5.947h-2.651v-4.608h2.651a2.308 2.308 0 012.31 2.31 2.306 2.306 0 01-2.31 2.298zm-2.651 6.049zM47.09-3.478L43.269 8.519h1.39l.89-2.764h4.547l.879 2.764h1.41L48.541-3.478H47.09zm-1.123 7.904l1.859-5.778 1.839 5.778h-3.698zm-10.362 9.197a3.889 3.889 0 00-3.883 3.893v4.537a3.889 3.889 0 003.883 3.893 3.899 3.899 0 003.894-3.893v-4.537a3.898 3.898 0 00-3.894-3.893zm2.555 8.43a2.55 2.55 0 01-2.555 2.555 2.55 2.55 0 01-2.555-2.555v-4.537c0-1.42 1.145-2.564 2.555-2.564s2.555 1.145 2.555 2.564v4.537zm-48.767-8.43a3.896 3.896 0 00-3.888 3.893v4.537a3.898 3.898 0 003.888 3.893 3.898 3.898 0 003.893-3.893v-4.537a3.898 3.898 0 00-3.893-3.893zm2.56 8.43c0 1.41-1.145 2.555-2.56 2.555s-2.56-1.135-2.56-2.555v-4.537a2.559 2.559 0 012.56-2.564c1.41 0 2.56 1.145 2.56 2.564v4.537zM-7.93 5.77l-5.431-9.242h-1.257V8.523h1.333V-.725l5.431 9.243h1.257V-3.478H-7.93V5.77zm70.552-9.243V5.77l-5.416-9.242h-1.267V8.523h1.328V-.725l5.437 9.243h1.268V-3.478l-1.35.005zM50.504 23.033l-5.437-9.247H43.81v11.996h1.339v-9.247l5.426 9.247h1.257V13.786h-1.328v9.247zM5.104 4.63V.416a3.89 3.89 0 00-3.888-3.888h-3.99V8.523h3.99A3.9 3.9 0 005.104 4.63zm-6.545-6.775H1.21A2.559 2.559 0 013.77.415V4.63c0 1.41-1.139 2.56-2.56 2.56h-2.651v-9.335zM16.446 7.19h-6.014V3.174h5.359V1.841h-5.359v-3.985h6.014v-1.333H9.1V8.519h7.347V7.19zm19.159-4.741l-2.984-5.921h-1.39V8.523h1.329V-.725l2.615 5.278h.858l2.616-5.278v9.243h1.349V-3.478h-1.39l-3.003 5.927zm-75.416 12.676h4.287v10.657h1.333V15.125h4.281v-1.339h-9.901v1.339zm20.007 3.994h-5.232v-5.333h-1.333v11.996h1.333v-5.334h5.227v5.334h1.339V13.786h-1.339v5.333h.005zm44.618.011l-1.91-.756c-1.288-.542-1.462-1.145-1.462-1.676 0-.49.185-.899.542-1.196.429-.356 1.094-.562 1.85-.562.776 0 1.431.215 1.86.582.397.348.602.839.602 1.462v.215h1.339v-.215c0-2.084-1.553-3.372-3.801-3.372-2.238 0-3.729 1.268-3.729 3.075 0 1.604 1.134 2.483 2.523 3.015l1.696.674c1.645.635 2.126 1.104 2.126 2.086 0 .643-.226 1.154-.655 1.522-.459.397-1.185.623-2.002.623-.858 0-1.584-.205-2.054-.593-.419-.348-.634-.838-.634-1.44v-.297h-1.339v.297c0 2.074 1.646 3.371 4.026 3.371 2.37 0 3.985-1.369 3.985-3.483.001-2.045-1.573-2.78-2.963-3.332zm-23.65.572l-2.994-5.916h-1.385v11.996h1.333v-9.247l2.621 5.282h.854l2.621-5.282v9.247h1.333V13.786H4.164l-3 5.916z"/>
+ </symbol><symbol id="987f5ca82f83936ec0653225b9985b03"  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11 11"><path class="st0" d="M11 1.5L9.5 0l-4 4-4-4L0 1.5l4 4-4 4L1.6 11l3.9-4 4 4L11 9.5l-4-4z"/> </symbol><symbol id="0be21ce1f9a1674f0cb17af4861189ad"  version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 468 468" style="enable-background:new 0 0 468 468" xml:space="preserve"><g style="enable-background:new"><path class="midtone" d="m310.6 195-48.1-39.7 151.9-19.5 48.2 39.7zM200.3 468.9l-48.2-39.7 4.4-155.4 48.2 39.7zM207.6 208.2l-48.1-39.7 4.4-155.4L212 52.8z"/><path class="darktone" d="m212 52.8-48.1-39.7 103-13.2L315 39.6z"/><path d="M315 39.6 310.6 195l152-19.5-3 105.4-151.9 19.4-4.4 155.4-103 13.2 4.4-155.4-152 19.5 3-105.4 151.9-19.4L212 52.8z"/><path class="darktone" d="M52.7 333 4.5 293.2l3-105.3 48.2 39.7z"/><path class="light-tone" d="M55.7 227.6 7.5 187.9l152-19.4 48.1 39.7z"/></g> </symbol><symbol id="2fcbef0ae0e49c32572fa4fc1016e915"  xmlns="http://www.w3.org/2000/svg"><path d="M29.91 8.816c-.073-1.598-.326-2.688-.697-3.642-.383-.985-.896-1.823-1.73-2.657S25.813 1.17 24.827.788c-.954-.371-2.045-.624-3.641-.697C19.585.018 19.074 0 15 0s-4.585.018-6.184.09C7.219.163 6.129.416 5.175.787c-.986.383-1.823.897-2.657 1.731S1.171 4.188.789 5.174c-.372.954-.625 2.045-.698 3.64C.018 10.415 0 10.926 0 15s.018 4.585.09 6.184c.073 1.598.326 2.688.697 3.642.383.985.896 1.823 1.73 2.657s1.67 1.347 2.656 1.729c.954.371 2.045.624 3.641.697 1.601.073 2.112.091 6.186.091s4.585-.018 6.184-.09c1.598-.073 2.688-.326 3.642-.697.985-.383 1.823-.896 2.657-1.73s1.347-1.67 1.729-2.656c.371-.954.624-2.045.697-3.641.073-1.601.091-2.112.091-6.186s-.018-4.585-.09-6.184zm-2.7 12.245c-.067 1.463-.312 2.258-.517 2.785-.271.7-.596 1.2-1.121 1.725a4.65 4.65 0 01-1.725 1.123c-.529.205-1.324.449-2.785.516-1.582.072-2.057.087-6.062.087s-4.479-.015-6.062-.087c-1.461-.066-2.256-.311-2.785-.516a4.666 4.666 0 01-1.725-1.123 4.617 4.617 0 01-1.121-1.725c-.205-.529-.451-1.322-.517-2.785-.069-1.582-.085-2.056-.085-6.061s.016-4.48.087-6.061c.067-1.463.312-2.258.517-2.785.271-.7.596-1.2 1.121-1.725a4.65 4.65 0 011.725-1.123c.529-.205 1.324-.449 2.785-.516 1.582-.072 2.057-.087 6.062-.087s4.479.015 6.062.087c1.461.066 2.256.311 2.785.516a4.666 4.666 0 011.725 1.123c.525.524.85 1.024 1.121 1.725.205.529.451 1.322.517 2.785.072 1.582.087 2.056.087 6.061s-.017 4.48-.089 6.061zM15 7.297a7.703 7.703 0 100 15.407 7.703 7.703 0 000-15.407zM15 20a5 5 0 110-10 5 5 0 010 10zm8.007-14.807a1.8 1.8 0 10.002 3.602 1.8 1.8 0 00-.002-3.602z"/> </symbol><symbol id="cf33fc6fae7776f4419ec509be01c8a3"  xmlns="http://www.w3.org/2000/svg" viewBox="282.64 405.945 30 30"><path d="M310.412 405.945h-25.556c-1.224 0-2.216.968-2.216 2.162v25.677c0 1.194.993 2.161 2.216 2.161h25.556c1.225 0 2.218-.967 2.218-2.161v-25.677c0-1.193-.993-2.162-2.218-2.162zm-18.681 25.265h-4.529v-13.629h4.529v13.629zm-2.264-15.49h-.03c-1.521 0-2.503-1.046-2.503-2.354 0-1.337 1.013-2.354 2.563-2.354 1.549 0 2.502 1.018 2.532 2.354 0 1.308-.983 2.354-2.562 2.354zm18.597 15.49h-4.529v-7.291c0-1.834-.654-3.082-2.295-3.082-1.25 0-1.995.843-2.323 1.656-.121.292-.15.698-.15 1.106v7.61h-4.528s.059-12.35 0-13.629h4.528v1.933c.602-.929 1.676-2.253 4.084-2.253 2.979 0 5.214 1.947 5.214 6.133v7.817z"/> </symbol><symbol id="0ec9436a22879940e73a633e9f817277"  xmlns="http://www.w3.org/2000/svg" viewBox="-0.015 -0.015 30 30"><path d="M14.97-.015C6.694-.015-.015 6.694-.015 14.97s6.71 14.985 14.985 14.985c8.276 0 14.984-6.709 14.984-14.985S23.247-.015 14.97-.015zm7.531 12.145c.007.149.007.307.007.464 0 4.772-3.633 10.28-10.279 10.28-2.038 0-3.941-.599-5.522-1.633a7.262 7.262 0 005.35-1.492 3.606 3.606 0 01-3.372-2.51 3.615 3.615 0 001.633-.06 3.618 3.618 0 01-2.899-3.544v-.045c.487.27 1.042.435 1.634.449a3.593 3.593 0 01-1.611-3.004c0-.659.18-1.281.487-1.813a10.25 10.25 0 007.447 3.777 3.613 3.613 0 013.514-4.436c1.041 0 1.979.434 2.638 1.139a7.295 7.295 0 002.293-.877 3.61 3.61 0 01-1.589 2 7.371 7.371 0 002.076-.569 7.438 7.438 0 01-1.807 1.874z"/> </symbol><symbol id="c53502923844ec9e561fd369084b2590"  xmlns="http://www.w3.org/2000/svg" viewBox="282.64 405.945 30 30"><path d="M297.64 406.049c-8.27 0-14.973 6.704-14.973 14.973 0 7.507 5.529 13.703 12.735 14.787V424.99h-3.704v-3.936h3.704v-2.619c0-4.336 2.112-6.24 5.716-6.24 1.726 0 2.639.127 3.07.186v3.437h-2.458c-1.53 0-2.063 1.45-2.063 3.085v2.151h4.483l-.609 3.936h-3.874v10.852c7.308-.992 12.945-7.24 12.945-14.82.001-8.269-6.703-14.973-14.972-14.973z"/> </symbol><symbol id="8e376a2809531282ffdf6ab5b38df398"  xmlns="http://www.w3.org/2000/svg"><path d="M34.552 6.931c-.153 3.372-2.503 7.988-7.05 13.848-4.699 6.12-8.676 9.181-11.93 9.181-2.014 0-3.72-1.863-5.112-5.591L7.669 14.118c-1.035-3.726-2.144-5.592-3.33-5.592-.259 0-1.164.545-2.713 1.631L0 8.058a447.926 447.926 0 005.045-4.507C7.321 1.581 9.029.545 10.167.44c2.691-.259 4.347 1.584 4.968 5.528.672 4.255 1.136 6.902 1.397 7.938.776 3.531 1.629 5.293 2.562 5.293.723 0 1.81-1.144 3.259-3.435 1.447-2.291 2.224-4.033 2.328-5.23.206-1.977-.57-2.968-2.328-2.968-.828 0-1.681.191-2.559.568C21.493 2.558 24.739-.149 29.53.005c3.553.106 5.228 2.414 5.022 6.926"/> </symbol>
+  </svg>
+  <script src="https://cdn.jwplayer.com/libraries/PkObjbMn.js"></script>
+  <script>
+    if (!pageData) {
+      var pageData = {};
+    }
+    pageData.analyticsData = JSON.parse('{"offices":"worldwide ","services":"intelligence ","page_type":"Insight"}');
+    pageData.statusCode = 200;
+  </script>  <script type="module" src="/dist/js/chunk-common.6adf3693.js"></script>
+  <script type="module" src="/dist/js/news-insight-entry.49ed60e0.js"></script>
+  <script>!function(){var e=document,t=e.createElement("script");if(!("noModule"in t)&&"onbeforeload"in t){var n=!1;e.addEventListener("beforeload",function(e){if(e.target===t)n=!0;else if(!e.target.hasAttribute("nomodule")||!n)return;e.preventDefault()},!0),t.type="module",t.src=".",e.head.appendChild(t),t.remove()}}();</script>
+  <script src="/dist/js/chunk-common-legacy.82572fbe.js" nomodule></script>
+  <script src="/dist/js/news-insight-entry-legacy.5f21232b.js" nomodule></script>
+    
+</body>
+</html>
