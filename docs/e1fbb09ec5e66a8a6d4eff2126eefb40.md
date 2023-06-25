@@ -1,4 +1,8 @@
-# e1fbb09ec5e66a8a6d4eff2126eefb40 from ([20221016](https://kghosh.substack.com/p/20221016).)
+# __The Rising Threat of Paraphrasing Attacks on AI Algorithms__, from ([20221016](https://kghosh.substack.com/p/20221016).)
+
+__[External link](https://bdtechtalks.com/2019/04/02/ai-nlp-paraphrasing-adversarial-attacks/)__
+
+
 
 ## Summary
 
@@ -38,13 +42,13 @@ This article discusses the vulnerability of AI algorithms to adversarial attacks
 
 ## Closest
 
-* [e1fbb09ec5e66a8a6d4eff2126eefb40](e1fbb09ec5e66a8a6d4eff2126eefb40)
-* [e1fbb09ec5e66a8a6d4eff2126eefb40](e1fbb09ec5e66a8a6d4eff2126eefb40)
-* [4d1abdf7e702b559c6ccff847ce4d8d0](4d1abdf7e702b559c6ccff847ce4d8d0)
-* [e1fbb09ec5e66a8a6d4eff2126eefb40](e1fbb09ec5e66a8a6d4eff2126eefb40)
-* [182bea68661560af4b5ef5728107212b](182bea68661560af4b5ef5728107212b)
-* [e1fbb09ec5e66a8a6d4eff2126eefb40](e1fbb09ec5e66a8a6d4eff2126eefb40)
-* [2d3b20a8b6a2fbbb191cffd8ebba1792](2d3b20a8b6a2fbbb191cffd8ebba1792)
-* [e1fbb09ec5e66a8a6d4eff2126eefb40](e1fbb09ec5e66a8a6d4eff2126eefb40)
-* [e1fbb09ec5e66a8a6d4eff2126eefb40](e1fbb09ec5e66a8a6d4eff2126eefb40)
-* [e1fbb09ec5e66a8a6d4eff2126eefb40](e1fbb09ec5e66a8a6d4eff2126eefb40)
+* [The Rising Threat of Paraphrasing Attacks on AI Algorithms](e1fbb09ec5e66a8a6d4eff2126eefb40)
+* [The Rising Threat of Paraphrasing Attacks on AI Algorithms](e1fbb09ec5e66a8a6d4eff2126eefb40)
+* [Backdooring a summarizerbot to shape opinion](4d1abdf7e702b559c6ccff847ce4d8d0)
+* [The Rising Threat of Paraphrasing Attacks on AI Algorithms](e1fbb09ec5e66a8a6d4eff2126eefb40)
+* [The Enshittening of Knowledge: ChatGPT and its Implications](182bea68661560af4b5ef5728107212b)
+* [The Rising Threat of Paraphrasing Attacks on AI Algorithms](e1fbb09ec5e66a8a6d4eff2126eefb40)
+* [A.I. Threatens Lawyers, Again](2d3b20a8b6a2fbbb191cffd8ebba1792)
+* [The Rising Threat of Paraphrasing Attacks on AI Algorithms](e1fbb09ec5e66a8a6d4eff2126eefb40)
+* [The Rising Threat of Paraphrasing Attacks on AI Algorithms](e1fbb09ec5e66a8a6d4eff2126eefb40)
+* [The Rising Threat of Paraphrasing Attacks on AI Algorithms](e1fbb09ec5e66a8a6d4eff2126eefb40)

@@ -1,4 +1,8 @@
-# 0a1e31b7c3c14eedf08021f6bd5ebdfc from ([20220717](https://kghosh.substack.com/p/20220717).)
+# __Increasing Luck through Work and Publication__, from ([20220717](https://kghosh.substack.com/p/20220717).)
+
+__[External link](https://github.com/readme/guides/publishing-your-work)__
+
+
 
 ## Summary
 
@@ -37,13 +41,13 @@ In order to increase our chances of encountering good luck, we can increase the 
 
 ## Closest
 
-* [14935a7eab6d6c1d8a5ce2f25d3b54bb](14935a7eab6d6c1d8a5ce2f25d3b54bb)
-* [0a1e31b7c3c14eedf08021f6bd5ebdfc](0a1e31b7c3c14eedf08021f6bd5ebdfc)
-* [0a1e31b7c3c14eedf08021f6bd5ebdfc](0a1e31b7c3c14eedf08021f6bd5ebdfc)
-* [0a1e31b7c3c14eedf08021f6bd5ebdfc](0a1e31b7c3c14eedf08021f6bd5ebdfc)
-* [2dda4be3e1a9f11b4f7d8e74feea76b0](2dda4be3e1a9f11b4f7d8e74feea76b0)
-* [0a1e31b7c3c14eedf08021f6bd5ebdfc](0a1e31b7c3c14eedf08021f6bd5ebdfc)
-* [40a99c098bad8dda821b757d8d88a80a](40a99c098bad8dda821b757d8d88a80a)
-* [211803931bfabc324f12ad1524640ef1](211803931bfabc324f12ad1524640ef1)
-* [feeb207dfea30efb1d5bf73503fd22a4](feeb207dfea30efb1d5bf73503fd22a4)
-* [0a1e31b7c3c14eedf08021f6bd5ebdfc](0a1e31b7c3c14eedf08021f6bd5ebdfc)
+* [The Future of Talent Identification and Recruitment](14935a7eab6d6c1d8a5ce2f25d3b54bb)
+* [Increasing Luck through Work and Publication](0a1e31b7c3c14eedf08021f6bd5ebdfc)
+* [Increasing Luck through Work and Publication](0a1e31b7c3c14eedf08021f6bd5ebdfc)
+* [Increasing Luck through Work and Publication](0a1e31b7c3c14eedf08021f6bd5ebdfc)
+* [A Comprehensive Guide to Autonomous Agents with GPT](2dda4be3e1a9f11b4f7d8e74feea76b0)
+* [Increasing Luck through Work and Publication](0a1e31b7c3c14eedf08021f6bd5ebdfc)
+* [Strategic Foresight: Anticipating and Adapting to the Future](40a99c098bad8dda821b757d8d88a80a)
+* [The Growing Investment Opportunity in Cybersecurity](211803931bfabc324f12ad1524640ef1)
+* [Using NLP to Build a Competitive Moat](feeb207dfea30efb1d5bf73503fd22a4)
+* [Increasing Luck through Work and Publication](0a1e31b7c3c14eedf08021f6bd5ebdfc)

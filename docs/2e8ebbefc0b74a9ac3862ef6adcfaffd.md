@@ -1,4 +1,8 @@
-# 2e8ebbefc0b74a9ac3862ef6adcfaffd from ([20230513](https://kghosh.substack.com/p/20230513).)
+# __EU's Cyber Resilience Act Threatens Open Source Developers__, from ([20230513](https://kghosh.substack.com/p/20230513).)
+
+__[External link](https://www.theregister.com/2023/05/12/eu_cyber_resilience_act/)__
+
+
 
 ## Summary
 
@@ -35,13 +39,13 @@ The EU's proposed Cyber Resilience Act (CRA) aims to regulate software security 
 
 ## Closest
 
-* [382e9ebc1e518ee49e541da1e6b5f8af](382e9ebc1e518ee49e541da1e6b5f8af)
-* [2e15bb8c640aadb6d9022cf48f446954](2e15bb8c640aadb6d9022cf48f446954)
-* [15c812523685076326204f061bf025cd](15c812523685076326204f061bf025cd)
-* [2d3b20a8b6a2fbbb191cffd8ebba1792](2d3b20a8b6a2fbbb191cffd8ebba1792)
-* [9b21fce377880166b73916aee2be1fc0](9b21fce377880166b73916aee2be1fc0)
-* [07715b9a363b2fb7f1368bfadad78052](07715b9a363b2fb7f1368bfadad78052)
-* [36708cd749aea907043cfc74cbaa3847](36708cd749aea907043cfc74cbaa3847)
-* [62f0c80f0091e9b15465cd516137b05e](62f0c80f0091e9b15465cd516137b05e)
-* [fe8c9a54a3dbc61b0abc367d14524f53](fe8c9a54a3dbc61b0abc367d14524f53)
-* [652fc7ec1f422e931bc5a9ba8011650a](652fc7ec1f422e931bc5a9ba8011650a)
+* [Challenges and Concerns in AI Deployment](382e9ebc1e518ee49e541da1e6b5f8af)
+* [Open Source and the Cyber Resilience Act](2e15bb8c640aadb6d9022cf48f446954)
+* [The Misleading Myth of Artificial Intelligence](15c812523685076326204f061bf025cd)
+* [A.I. Threatens Lawyers, Again](2d3b20a8b6a2fbbb191cffd8ebba1792)
+* [The Malevolence of ChatGPT: A Call for Destruction](9b21fce377880166b73916aee2be1fc0)
+* [Nvidia Chief Technology Officer: Cryptocurrencies Bring No Value to Society](07715b9a363b2fb7f1368bfadad78052)
+* [The Future of Newsletters in the Age of AI](36708cd749aea907043cfc74cbaa3847)
+* [The Rise of Software as a Service (SaaS)](62f0c80f0091e9b15465cd516137b05e)
+* [The Role of Data Centers in Ireland's Technological Revolution](fe8c9a54a3dbc61b0abc367d14524f53)
+* [The Drawbacks of the Internet and Artificial Intelligence](652fc7ec1f422e931bc5a9ba8011650a)

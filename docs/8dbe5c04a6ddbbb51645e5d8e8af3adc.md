@@ -1,4 +1,8 @@
-# 8dbe5c04a6ddbbb51645e5d8e8af3adc from ([20230521](https://kghosh.substack.com/p/20230521).)
+# __Getting Started with LangChain: A Beginner’s Guide to Building LLM-Powered Applications__, from ([20230521](https://kghosh.substack.com/p/20230521).)
+
+__[External link](https://towardsdatascience.com/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c)__
+
+
 
 ## Summary
 
@@ -41,13 +45,13 @@ LangChain is an open-source framework built to help developers build LLM-powered
 
 ## Closest
 
-* [715a430b9a04a5670095d5510883dcc2](715a430b9a04a5670095d5510883dcc2)
-* [46267bf4740b29117588f603a5c41280](46267bf4740b29117588f603a5c41280)
-* [5cf4407dc6fa3889e047c658e27c4ccf](5cf4407dc6fa3889e047c658e27c4ccf)
-* [d972fef45251bd965bd3d5d331ffe6dd](d972fef45251bd965bd3d5d331ffe6dd)
-* [f43094a456dc947dabd541b510f86856](f43094a456dc947dabd541b510f86856)
-* [af12c099700e76b62f6990530a12edfa](af12c099700e76b62f6990530a12edfa)
-* [feeb207dfea30efb1d5bf73503fd22a4](feeb207dfea30efb1d5bf73503fd22a4)
-* [ee1e6c7eb9c0c87692569c164086065a](ee1e6c7eb9c0c87692569c164086065a)
-* [578c4ca8c38df5eb168308242e9ea711](578c4ca8c38df5eb168308242e9ea711)
-* [3827e85d7b233b583bd7e01c435cf758](3827e85d7b233b583bd7e01c435cf758)
+* [Awesome AI Image Synthesis](715a430b9a04a5670095d5510883dcc2)
+* [The Rise of Context-Aware Digital Assistants](46267bf4740b29117588f603a5c41280)
+* [Large Language Models in OSINT Workflow](5cf4407dc6fa3889e047c658e27c4ccf)
+* [Microsoft Launches AI-Powered Microsoft Teams Premium](d972fef45251bd965bd3d5d331ffe6dd)
+* [LangChain Adds Cypher Search for Efficient Information Retrieval from Neo4j](f43094a456dc947dabd541b510f86856)
+* [Building a Context-Aware Knowledge Graph Chatbot with GPT-4 and Neo4j](af12c099700e76b62f6990530a12edfa)
+* [Using NLP to Build a Competitive Moat](feeb207dfea30efb1d5bf73503fd22a4)
+* [5 Python Decorators for Data Science Projects](ee1e6c7eb9c0c87692569c164086065a)
+* [The Evolution of Software Pricing Models](578c4ca8c38df5eb168308242e9ea711)
+* [The Rapid Advancement of Cloning Technology](3827e85d7b233b583bd7e01c435cf758)

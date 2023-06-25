@@ -1,4 +1,8 @@
-# a6bfcabefea560d7dfefd5aab87f047c from ([20230408](https://kghosh.substack.com/p/20230408).)
+# __Revolutionary Light and Cool Structural Paint__, from ([20230408](https://kghosh.substack.com/p/20230408).)
+
+__[External link](https://www.wired.com/story/lightest-paint-in-the-world/)__
+
+
 
 ## Summary
 
@@ -34,13 +38,13 @@ Debashis Chanda and his team at the University of Central Florida have developed
 
 ## Closest
 
-* [8e1b3608f46c809be3c61538048824a8](8e1b3608f46c809be3c61538048824a8)
-* [b8164554d14e302dac8ca428de8376dd](b8164554d14e302dac8ca428de8376dd)
-* [58b1d4282237f41c4a33e71179c1ea4b](58b1d4282237f41c4a33e71179c1ea4b)
-* [bd35b1587de303b44a62d0e99fb749fc](bd35b1587de303b44a62d0e99fb749fc)
-* [b84bf2742e851da35bfd23220e697b3c](b84bf2742e851da35bfd23220e697b3c)
-* [0531e1f77a3339cc11432d7601f9c7a4](0531e1f77a3339cc11432d7601f9c7a4)
-* [b442f3c78716d0a22167e5fc4359f276](b442f3c78716d0a22167e5fc4359f276)
-* [a0e48b4839649f3f833b1a9b21d0dfbc](a0e48b4839649f3f833b1a9b21d0dfbc)
-* [9559f29e7d2ffd92fae98e95a62d0169](9559f29e7d2ffd92fae98e95a62d0169)
-* [b5c93b6e5a5b33c81d3a1619b9b37f1b](b5c93b6e5a5b33c81d3a1619b9b37f1b)
+* [Ultra-White Paint: Cooling Airplanes and Spacecraft](8e1b3608f46c809be3c61538048824a8)
+* [New 'Liquid Trees' Divide the Internet](b8164554d14e302dac8ca428de8376dd)
+* [Mushroom-Derived Electronics: Biodegradable and Sustainable](58b1d4282237f41c4a33e71179c1ea4b)
+* [Thermoformable Ceramics: A New Frontier in Materials](bd35b1587de303b44a62d0e99fb749fc)
+* [Harvesting Electricity from Plants: A Sustainable Breakthrough](b84bf2742e851da35bfd23220e697b3c)
+* [New Powder Uses Sunlight to Disinfect Water](0531e1f77a3339cc11432d7601f9c7a4)
+* [Biodegradable Film: A Sustainable Packaging Solution](b442f3c78716d0a22167e5fc4359f276)
+* [Natural Air Purifiers: Plant Power](a0e48b4839649f3f833b1a9b21d0dfbc)
+* [Algae Battery Powers Computers for Months](9559f29e7d2ffd92fae98e95a62d0169)
+* [Earth as Our Only Shareholder](b5c93b6e5a5b33c81d3a1619b9b37f1b)

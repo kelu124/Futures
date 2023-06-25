@@ -1,4 +1,8 @@
-# 0fce5ae3e73cafb8739ab8c2c63ebad5 from ([20221218](https://kghosh.substack.com/p/20221218).)
+# __The End of the Beginning: Morris Chang's Speech on the Future of America's Semiconductor Industry__, from ([20221218](https://kghosh.substack.com/p/20221218).)
+
+__[External link](https://interconnected.blog/globalization-is-dead-and-no-one-is-listening/)__
+
+
 
 ## Summary
 
@@ -35,13 +39,13 @@ The tool-in ceremony of TSMC's new fab in Arizona was attended by prominent figu
 
 ## Closest
 
-* [0fce5ae3e73cafb8739ab8c2c63ebad5](0fce5ae3e73cafb8739ab8c2c63ebad5)
-* [c43f57be38bbfef16e25047b07cd9d5d](c43f57be38bbfef16e25047b07cd9d5d)
-* [382e9ebc1e518ee49e541da1e6b5f8af](382e9ebc1e518ee49e541da1e6b5f8af)
-* [6f56632efb0caa5753792bd870d5a6ff](6f56632efb0caa5753792bd870d5a6ff)
-* [0fce5ae3e73cafb8739ab8c2c63ebad5](0fce5ae3e73cafb8739ab8c2c63ebad5)
-* [0fce5ae3e73cafb8739ab8c2c63ebad5](0fce5ae3e73cafb8739ab8c2c63ebad5)
-* [0fce5ae3e73cafb8739ab8c2c63ebad5](0fce5ae3e73cafb8739ab8c2c63ebad5)
-* [0fce5ae3e73cafb8739ab8c2c63ebad5](0fce5ae3e73cafb8739ab8c2c63ebad5)
-* [0fce5ae3e73cafb8739ab8c2c63ebad5](0fce5ae3e73cafb8739ab8c2c63ebad5)
-* [a40580730388900810b4496ff9891dc9](a40580730388900810b4496ff9891dc9)
+* [The End of the Beginning: Morris Chang's Speech on the Future of America's Semiconductor Industry](0fce5ae3e73cafb8739ab8c2c63ebad5)
+* [New York's Right-to-Repair Bill and Lobbyist Influence](c43f57be38bbfef16e25047b07cd9d5d)
+* [Challenges and Concerns in AI Deployment](382e9ebc1e518ee49e541da1e6b5f8af)
+* [The Battle for Publishing's Soul](6f56632efb0caa5753792bd870d5a6ff)
+* [The End of the Beginning: Morris Chang's Speech on the Future of America's Semiconductor Industry](0fce5ae3e73cafb8739ab8c2c63ebad5)
+* [The End of the Beginning: Morris Chang's Speech on the Future of America's Semiconductor Industry](0fce5ae3e73cafb8739ab8c2c63ebad5)
+* [The End of the Beginning: Morris Chang's Speech on the Future of America's Semiconductor Industry](0fce5ae3e73cafb8739ab8c2c63ebad5)
+* [The End of the Beginning: Morris Chang's Speech on the Future of America's Semiconductor Industry](0fce5ae3e73cafb8739ab8c2c63ebad5)
+* [The End of the Beginning: Morris Chang's Speech on the Future of America's Semiconductor Industry](0fce5ae3e73cafb8739ab8c2c63ebad5)
+* [AI Superpowers: Unleashing Entrepreneurship in 2023](a40580730388900810b4496ff9891dc9)

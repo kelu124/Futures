@@ -1,4 +1,8 @@
-# cdc3436dbcf552eeeffbebf1b8783c2d from ([20220904](https://kghosh.substack.com/p/20220904).)
+# __Science Fiction Prototyping: Modeling Future Threats__, from ([20220904](https://kghosh.substack.com/p/20220904).)
+
+__[External link](https://farsight.cifs.dk/how-futurists-use-science-fiction-to-model-future-threats/)__
+
+
 
 ## Summary
 
@@ -38,13 +42,13 @@ Professor Brian David Johnson uses science fiction prototyping as a tool to mode
 
 ## Closest
 
-* [cdc3436dbcf552eeeffbebf1b8783c2d](cdc3436dbcf552eeeffbebf1b8783c2d)
-* [8ebb431ce8d949d5a1ecb52bbd42a69f](8ebb431ce8d949d5a1ecb52bbd42a69f)
-* [cdc3436dbcf552eeeffbebf1b8783c2d](cdc3436dbcf552eeeffbebf1b8783c2d)
-* [289d72624afd0bb868b1d4c7a26cf352](289d72624afd0bb868b1d4c7a26cf352)
-* [cdc3436dbcf552eeeffbebf1b8783c2d](cdc3436dbcf552eeeffbebf1b8783c2d)
-* [cdc3436dbcf552eeeffbebf1b8783c2d](cdc3436dbcf552eeeffbebf1b8783c2d)
-* [cdc3436dbcf552eeeffbebf1b8783c2d](cdc3436dbcf552eeeffbebf1b8783c2d)
-* [ccdebc20efc0694474f1c64e2835e260](ccdebc20efc0694474f1c64e2835e260)
-* [cdc3436dbcf552eeeffbebf1b8783c2d](cdc3436dbcf552eeeffbebf1b8783c2d)
-* [a40580730388900810b4496ff9891dc9](a40580730388900810b4496ff9891dc9)
+* [Science Fiction Prototyping: Modeling Future Threats](cdc3436dbcf552eeeffbebf1b8783c2d)
+* [The Importance of Science Fiction](8ebb431ce8d949d5a1ecb52bbd42a69f)
+* [Science Fiction Prototyping: Modeling Future Threats](cdc3436dbcf552eeeffbebf1b8783c2d)
+* [A Desolation Called Peace (Teixcalaan, #2)](289d72624afd0bb868b1d4c7a26cf352)
+* [Science Fiction Prototyping: Modeling Future Threats](cdc3436dbcf552eeeffbebf1b8783c2d)
+* [Science Fiction Prototyping: Modeling Future Threats](cdc3436dbcf552eeeffbebf1b8783c2d)
+* [Science Fiction Prototyping: Modeling Future Threats](cdc3436dbcf552eeeffbebf1b8783c2d)
+* [The Banality of Surveillance and Automated Warfare](ccdebc20efc0694474f1c64e2835e260)
+* [Science Fiction Prototyping: Modeling Future Threats](cdc3436dbcf552eeeffbebf1b8783c2d)
+* [AI Superpowers: Unleashing Entrepreneurship in 2023](a40580730388900810b4496ff9891dc9)

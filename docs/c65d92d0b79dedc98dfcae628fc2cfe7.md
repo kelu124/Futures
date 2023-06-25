@@ -1,4 +1,8 @@
-# c65d92d0b79dedc98dfcae628fc2cfe7 from ([20230115](https://kghosh.substack.com/p/20230115).)
+# __The Fundamental Process to Generate Living Systems__, from ([20230115](https://kghosh.substack.com/p/20230115).)
+
+__[External link](https://mysticalsilicon.substack.com/p/how-to-make-living-systems)__
+
+
 
 ## Summary
 
@@ -35,13 +39,13 @@ The text discusses the concept of the Fundamental Process to Generate Living Sys
 
 ## Closest
 
-* [c65d92d0b79dedc98dfcae628fc2cfe7](c65d92d0b79dedc98dfcae628fc2cfe7)
-* [c65d92d0b79dedc98dfcae628fc2cfe7](c65d92d0b79dedc98dfcae628fc2cfe7)
-* [c65d92d0b79dedc98dfcae628fc2cfe7](c65d92d0b79dedc98dfcae628fc2cfe7)
-* [c65d92d0b79dedc98dfcae628fc2cfe7](c65d92d0b79dedc98dfcae628fc2cfe7)
-* [c65d92d0b79dedc98dfcae628fc2cfe7](c65d92d0b79dedc98dfcae628fc2cfe7)
-* [c65d92d0b79dedc98dfcae628fc2cfe7](c65d92d0b79dedc98dfcae628fc2cfe7)
-* [c65d92d0b79dedc98dfcae628fc2cfe7](c65d92d0b79dedc98dfcae628fc2cfe7)
-* [c65d92d0b79dedc98dfcae628fc2cfe7](c65d92d0b79dedc98dfcae628fc2cfe7)
-* [b074eff3e846c24db97af8524929939a](b074eff3e846c24db97af8524929939a)
-* [c65d92d0b79dedc98dfcae628fc2cfe7](c65d92d0b79dedc98dfcae628fc2cfe7)
+* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
+* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
+* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
+* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
+* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
+* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
+* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
+* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
+* [The Filing Cabinet: A Vertical History](b074eff3e846c24db97af8524929939a)
+* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)

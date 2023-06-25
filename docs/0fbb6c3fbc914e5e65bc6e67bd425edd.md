@@ -1,4 +1,8 @@
-# 0fbb6c3fbc914e5e65bc6e67bd425edd from ([20220810](https://kghosh.substack.com/p/20220810).)
+# __HydraUSB3 V1: Open Source Developer Kit for High-Speed Protocols__, from ([20220810](https://kghosh.substack.com/p/20220810).)
+
+__[External link](https://hydrabus.com/hydrausb3-v1-0-specifications/?v=1ee0bf89c5d1)__
+
+
 
 ## Summary
 
@@ -38,13 +42,13 @@ HydraUSB3 V1 is an open source developer kit for the WCH CH569 MCU that allows f
 
 ## Closest
 
-* [076f9b6d6122fb2ac7933c60cf1e7dbc](076f9b6d6122fb2ac7933c60cf1e7dbc)
-* [0fbb6c3fbc914e5e65bc6e67bd425edd](0fbb6c3fbc914e5e65bc6e67bd425edd)
-* [34be604e35b06b445dcbcda3e5ece6b1](34be604e35b06b445dcbcda3e5ece6b1)
-* [0fbb6c3fbc914e5e65bc6e67bd425edd](0fbb6c3fbc914e5e65bc6e67bd425edd)
-* [0fbb6c3fbc914e5e65bc6e67bd425edd](0fbb6c3fbc914e5e65bc6e67bd425edd)
-* [046ecaa63b94e5eef69df0439e9d3246](046ecaa63b94e5eef69df0439e9d3246)
-* [09e12f5c07382efea39163ed3274098a](09e12f5c07382efea39163ed3274098a)
-* [8af9bffc11d191445956ffcef1627c38](8af9bffc11d191445956ffcef1627c38)
-* [0fbb6c3fbc914e5e65bc6e67bd425edd](0fbb6c3fbc914e5e65bc6e67bd425edd)
-* [af12c099700e76b62f6990530a12edfa](af12c099700e76b62f6990530a12edfa)
+* [Kilsyth: ECP5 FPGA + FT60x FIFO](076f9b6d6122fb2ac7933c60cf1e7dbc)
+* [HydraUSB3 V1: Open Source Developer Kit for High-Speed Protocols](0fbb6c3fbc914e5e65bc6e67bd425edd)
+* [PrivateGPT: Interact with Your Documents Offline](34be604e35b06b445dcbcda3e5ece6b1)
+* [HydraUSB3 V1: Open Source Developer Kit for High-Speed Protocols](0fbb6c3fbc914e5e65bc6e67bd425edd)
+* [HydraUSB3 V1: Open Source Developer Kit for High-Speed Protocols](0fbb6c3fbc914e5e65bc6e67bd425edd)
+* [MIT Engineers Develop Wearable Ultrasound Sticker for Continuous Internal Organ Imaging](046ecaa63b94e5eef69df0439e9d3246)
+* [Stable Diffusion Public Release](09e12f5c07382efea39163ed3274098a)
+* [Voyager: An Open-Ended Embodied Agent](8af9bffc11d191445956ffcef1627c38)
+* [HydraUSB3 V1: Open Source Developer Kit for High-Speed Protocols](0fbb6c3fbc914e5e65bc6e67bd425edd)
+* [Building a Context-Aware Knowledge Graph Chatbot with GPT-4 and Neo4j](af12c099700e76b62f6990530a12edfa)

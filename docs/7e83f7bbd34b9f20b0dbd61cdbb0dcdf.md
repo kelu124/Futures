@@ -1,4 +1,8 @@
-# 7e83f7bbd34b9f20b0dbd61cdbb0dcdf from ([20221016](https://kghosh.substack.com/p/20221016).)
+# __Alaska Snow Crab Season Canceled as Officials Investigate Disappearance of 1 Billion Crabs__, from ([20221016](https://kghosh.substack.com/p/20221016).)
+
+__[External link](https://www.cbsnews.com/news/fishing-alaska-snow-crab-season-canceled-investigation-climate-change/#app)__
+
+
 
 ## Summary
 
@@ -34,13 +38,13 @@ The Alaska Department of Fish and Game has made the unprecedented decision to ca
 
 ## Closest
 
-* [6184e76d86ed2dbc8968722327f70c5b](6184e76d86ed2dbc8968722327f70c5b)
-* [680e58ea9fd94182e5f26d3b3c8abda9](680e58ea9fd94182e5f26d3b3c8abda9)
-* [712282cfc63ea5f0d674c24ec2748d53](712282cfc63ea5f0d674c24ec2748d53)
-* [ca4e056c63caa99162778073ba814ac1](ca4e056c63caa99162778073ba814ac1)
-* [e84dc9448d44d2624c060fc15bf5c096](e84dc9448d44d2624c060fc15bf5c096)
-* [8b237d611e4dd25c311c3939451bb53c](8b237d611e4dd25c311c3939451bb53c)
-* [57094f3730835fe172d0f95667a01312](57094f3730835fe172d0f95667a01312)
-* [f2e3c24131513e79e1193ffa31a7f1e7](f2e3c24131513e79e1193ffa31a7f1e7)
-* [b35030f7ffb9e082dea84058ac63f3ca](b35030f7ffb9e082dea84058ac63f3ca)
-* [7e83f7bbd34b9f20b0dbd61cdbb0dcdf](7e83f7bbd34b9f20b0dbd61cdbb0dcdf)
+* [The Mystery of Changing Blue Whale Songs](6184e76d86ed2dbc8968722327f70c5b)
+* [Challenges Mount as Viral Infections and Child-Care Shortages Collide](680e58ea9fd94182e5f26d3b3c8abda9)
+* [The Growing Crisis of Public Worker Shortages](712282cfc63ea5f0d674c24ec2748d53)
+* [Accenture to Cut 19,000 Jobs Worldwide](ca4e056c63caa99162778073ba814ac1)
+* [Impact of COVID-19 on Workforce](e84dc9448d44d2624c060fc15bf5c096)
+* [Italian Mayor Bans Double Shampooing to Conserve Water](8b237d611e4dd25c311c3939451bb53c)
+* [New Zealand passes legislation banning cigarettes for future generations](57094f3730835fe172d0f95667a01312)
+* [Drop in U.S. Kindergartners' Vaccination Rates](f2e3c24131513e79e1193ffa31a7f1e7)
+* [Hotels Turn to Robots as Staffing Shortages Persist](b35030f7ffb9e082dea84058ac63f3ca)
+* [Alaska Snow Crab Season Canceled as Officials Investigate Disappearance of 1 Billion Crabs](7e83f7bbd34b9f20b0dbd61cdbb0dcdf)

@@ -1,4 +1,8 @@
-# e91b6e1d0dcf2c5d43dfddbf6a56310b from ([20230416](https://kghosh.substack.com/p/20230416).)
+# __Vicuna: A Powerful Chatbot Model__, from ([20230416](https://kghosh.substack.com/p/20230416).)
+
+__[External link](https://pub.towardsai.net/meet-vicuna-the-latest-metas-llama-model-that-matches-chatgpt-performance-e23b2fc67e6b)__
+
+
 
 ## Summary
 
@@ -35,13 +39,13 @@ The text discusses Vicuna, the latest model developed by Meta AI, which matches 
 
 ## Closest
 
-* [e91b6e1d0dcf2c5d43dfddbf6a56310b](e91b6e1d0dcf2c5d43dfddbf6a56310b)
-* [e91b6e1d0dcf2c5d43dfddbf6a56310b](e91b6e1d0dcf2c5d43dfddbf6a56310b)
-* [e91b6e1d0dcf2c5d43dfddbf6a56310b](e91b6e1d0dcf2c5d43dfddbf6a56310b)
-* [e91b6e1d0dcf2c5d43dfddbf6a56310b](e91b6e1d0dcf2c5d43dfddbf6a56310b)
-* [e91b6e1d0dcf2c5d43dfddbf6a56310b](e91b6e1d0dcf2c5d43dfddbf6a56310b)
-* [e91b6e1d0dcf2c5d43dfddbf6a56310b](e91b6e1d0dcf2c5d43dfddbf6a56310b)
-* [e91b6e1d0dcf2c5d43dfddbf6a56310b](e91b6e1d0dcf2c5d43dfddbf6a56310b)
-* [e91b6e1d0dcf2c5d43dfddbf6a56310b](e91b6e1d0dcf2c5d43dfddbf6a56310b)
-* [e91b6e1d0dcf2c5d43dfddbf6a56310b](e91b6e1d0dcf2c5d43dfddbf6a56310b)
-* [e91b6e1d0dcf2c5d43dfddbf6a56310b](e91b6e1d0dcf2c5d43dfddbf6a56310b)
+* [Vicuna: A Powerful Chatbot Model](e91b6e1d0dcf2c5d43dfddbf6a56310b)
+* [Vicuna: A Powerful Chatbot Model](e91b6e1d0dcf2c5d43dfddbf6a56310b)
+* [Vicuna: A Powerful Chatbot Model](e91b6e1d0dcf2c5d43dfddbf6a56310b)
+* [Vicuna: A Powerful Chatbot Model](e91b6e1d0dcf2c5d43dfddbf6a56310b)
+* [Vicuna: A Powerful Chatbot Model](e91b6e1d0dcf2c5d43dfddbf6a56310b)
+* [Vicuna: A Powerful Chatbot Model](e91b6e1d0dcf2c5d43dfddbf6a56310b)
+* [Vicuna: A Powerful Chatbot Model](e91b6e1d0dcf2c5d43dfddbf6a56310b)
+* [Vicuna: A Powerful Chatbot Model](e91b6e1d0dcf2c5d43dfddbf6a56310b)
+* [Vicuna: A Powerful Chatbot Model](e91b6e1d0dcf2c5d43dfddbf6a56310b)
+* [Vicuna: A Powerful Chatbot Model](e91b6e1d0dcf2c5d43dfddbf6a56310b)

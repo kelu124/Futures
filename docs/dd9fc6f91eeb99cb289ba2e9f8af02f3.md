@@ -1,4 +1,8 @@
-# dd9fc6f91eeb99cb289ba2e9f8af02f3 from ([20221002](https://kghosh.substack.com/p/20221002).)
+# __The Enduring Power of Classic Toys__, from ([20221002](https://kghosh.substack.com/p/20221002).)
+
+__[External link](https://thewalrus.ca/how-do-you-make-the-perfect-toy/)__
+
+
 
 ## Summary
 
@@ -36,13 +40,13 @@ Many toys and games come and go with passing trends, but some toys have endured 
 
 ## Closest
 
-* [283ff70c63aed09ef2b0613f6acc2eb9](283ff70c63aed09ef2b0613f6acc2eb9)
-* [53d3d1e4dcdbada5d087e49faadec607](53d3d1e4dcdbada5d087e49faadec607)
-* [dd9fc6f91eeb99cb289ba2e9f8af02f3](dd9fc6f91eeb99cb289ba2e9f8af02f3)
-* [17ac55c1f87675e075557fa4fa5ba14e](17ac55c1f87675e075557fa4fa5ba14e)
-* [23b1a43c321ff714805ff4bc83829491](23b1a43c321ff714805ff4bc83829491)
-* [dd9fc6f91eeb99cb289ba2e9f8af02f3](dd9fc6f91eeb99cb289ba2e9f8af02f3)
-* [c9ec4ffbfe911a0c5d04e95d8fa17e77](c9ec4ffbfe911a0c5d04e95d8fa17e77)
-* [17fb3271515aa45a48bdc4539ade0be0](17fb3271515aa45a48bdc4539ade0be0)
-* [bd85751af600abe8c39229eb4ba07c1c](bd85751af600abe8c39229eb4ba07c1c)
-* [f2c164b7ff8eb0a6fd223511dba15804](f2c164b7ff8eb0a6fd223511dba15804)
+* [AI Disruption Outweighs Pandemic Impact](283ff70c63aed09ef2b0613f6acc2eb9)
+* [The Power of Zines in Education](53d3d1e4dcdbada5d087e49faadec607)
+* [The Enduring Power of Classic Toys](dd9fc6f91eeb99cb289ba2e9f8af02f3)
+* [Technology and Children’s Well-Being in Danish Schools](17ac55c1f87675e075557fa4fa5ba14e)
+* [ChatGPT Launches AI-Written E-Books Boom](23b1a43c321ff714805ff4bc83829491)
+* [The Enduring Power of Classic Toys](dd9fc6f91eeb99cb289ba2e9f8af02f3)
+* [Balabala Makes Virtual Move with Gu Yu](c9ec4ffbfe911a0c5d04e95d8fa17e77)
+* [The Body's Music](17fb3271515aa45a48bdc4539ade0be0)
+* [Neophilia and Its Discontents](bd85751af600abe8c39229eb4ba07c1c)
+* [The Rise of Virtual Idols](f2c164b7ff8eb0a6fd223511dba15804)

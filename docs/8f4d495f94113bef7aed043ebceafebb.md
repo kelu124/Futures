@@ -1,4 +1,8 @@
-# 8f4d495f94113bef7aed043ebceafebb from ([20230319](https://kghosh.substack.com/p/20230319).)
+# __AI Tutoring for Personalized Learning__, from ([20230319](https://kghosh.substack.com/p/20230319).)
+
+__[External link](https://saigaddam.medium.com/one-ai-tutor-per-child-personalized-learning-is-finally-here-e3727d84a2d7)__
+
+
 
 ## Summary
 
@@ -35,13 +39,13 @@ Personalized learning is finally here. The text discusses the author's experienc
 
 ## Closest
 
-* [8f4d495f94113bef7aed043ebceafebb](8f4d495f94113bef7aed043ebceafebb)
-* [8f4d495f94113bef7aed043ebceafebb](8f4d495f94113bef7aed043ebceafebb)
-* [8f4d495f94113bef7aed043ebceafebb](8f4d495f94113bef7aed043ebceafebb)
-* [182bea68661560af4b5ef5728107212b](182bea68661560af4b5ef5728107212b)
-* [644ce4dcf74e76970fd0526ca1abf551](644ce4dcf74e76970fd0526ca1abf551)
-* [8f4d495f94113bef7aed043ebceafebb](8f4d495f94113bef7aed043ebceafebb)
-* [8f4d495f94113bef7aed043ebceafebb](8f4d495f94113bef7aed043ebceafebb)
-* [977ac6628e9192d07524905819496121](977ac6628e9192d07524905819496121)
-* [8f4d495f94113bef7aed043ebceafebb](8f4d495f94113bef7aed043ebceafebb)
-* [87709d0e31dee725ec1f54b7f4facbc4](87709d0e31dee725ec1f54b7f4facbc4)
+* [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
+* [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
+* [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
+* [The Enshittening of Knowledge: ChatGPT and its Implications](182bea68661560af4b5ef5728107212b)
+* [Gen Z's Perspectives on Work, College, and the Internet](644ce4dcf74e76970fd0526ca1abf551)
+* [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
+* [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
+* [Integrating ChatGPT with Internal Knowledge Management](977ac6628e9192d07524905819496121)
+* [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
+* [The Impact of AI on Society](87709d0e31dee725ec1f54b7f4facbc4)

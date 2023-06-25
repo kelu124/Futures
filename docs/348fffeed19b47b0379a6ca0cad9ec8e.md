@@ -1,4 +1,8 @@
-# 348fffeed19b47b0379a6ca0cad9ec8e from ([20221210](https://kghosh.substack.com/p/20221210).)
+# __Counting Templates and Privacy Policy__, from ([20221210](https://kghosh.substack.com/p/20221210).)
+
+__[External link](https://countthings.com/en/accuracy)__
+
+
 
 ## Summary
 
@@ -39,13 +43,13 @@ This text provides information about the counting templates used in an app. The 
 
 ## Closest
 
-* [a33c07b3f96448f9af29b9e59a080b73](a33c07b3f96448f9af29b9e59a080b73)
-* [2dd129dce50514dd9ed55dabbb032bf9](2dd129dce50514dd9ed55dabbb032bf9)
-* [af12c099700e76b62f6990530a12edfa](af12c099700e76b62f6990530a12edfa)
-* [348fffeed19b47b0379a6ca0cad9ec8e](348fffeed19b47b0379a6ca0cad9ec8e)
-* [fa3124e38f66a8d1e635e863f43d1ec0](fa3124e38f66a8d1e635e863f43d1ec0)
-* [348fffeed19b47b0379a6ca0cad9ec8e](348fffeed19b47b0379a6ca0cad9ec8e)
-* [c62d2942a1454cd9810be2b3a93f7bc6](c62d2942a1454cd9810be2b3a93f7bc6)
-* [3b057a14187c304edd1a0f4bbed854a8](3b057a14187c304edd1a0f4bbed854a8)
-* [5965b7dd732cc0a0062bde87207b0a77](5965b7dd732cc0a0062bde87207b0a77)
-* [cf89c459835545c2316563d156cf42db](cf89c459835545c2316563d156cf42db)
+* [Information Collection and Cookie Usage](a33c07b3f96448f9af29b9e59a080b73)
+* [The Last Of Us: The Complete Series](2dd129dce50514dd9ed55dabbb032bf9)
+* [Building a Context-Aware Knowledge Graph Chatbot with GPT-4 and Neo4j](af12c099700e76b62f6990530a12edfa)
+* [Counting Templates and Privacy Policy](348fffeed19b47b0379a6ca0cad9ec8e)
+* [Bridging Knowledge Graphs and Large Language Models](fa3124e38f66a8d1e635e863f43d1ec0)
+* [Counting Templates and Privacy Policy](348fffeed19b47b0379a6ca0cad9ec8e)
+* [Exploring the Creative Potential of DALL-E 2](c62d2942a1454cd9810be2b3a93f7bc6)
+* [Natural Conversations with Google Assistant](3b057a14187c304edd1a0f4bbed854a8)
+* [Codeword Employs AI "Interns" for Marketing Tasks](5965b7dd732cc0a0062bde87207b0a77)
+* [Knowledge Graph Completion with PyKEEN and Neo4j](cf89c459835545c2316563d156cf42db)

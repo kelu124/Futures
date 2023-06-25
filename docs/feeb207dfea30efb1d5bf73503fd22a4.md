@@ -1,4 +1,8 @@
-# feeb207dfea30efb1d5bf73503fd22a4 from ([20230115](https://kghosh.substack.com/p/20230115).)
+# __Using NLP to Build a Competitive Moat__, from ([20230115](https://kghosh.substack.com/p/20230115).)
+
+__[External link](https://txt.cohere.ai/how-startups-can-use-nlp-to-build-a-competitive-moat/?utm_source=twitter&utm_medium=paidsocial&utm_campaign=contentpromotion_desktop_nlplookalike&twclid=2-2lv96148rgp1s6p3b60hudmnf)__
+
+
 
 ## Summary
 
@@ -35,13 +39,13 @@ This article highlights how startups can use natural language processing (NLP) t
 
 ## Closest
 
-* [feeb207dfea30efb1d5bf73503fd22a4](feeb207dfea30efb1d5bf73503fd22a4)
-* [feeb207dfea30efb1d5bf73503fd22a4](feeb207dfea30efb1d5bf73503fd22a4)
-* [0c6842166e382f4956d21e22b38fa9c2](0c6842166e382f4956d21e22b38fa9c2)
-* [feeb207dfea30efb1d5bf73503fd22a4](feeb207dfea30efb1d5bf73503fd22a4)
-* [feeb207dfea30efb1d5bf73503fd22a4](feeb207dfea30efb1d5bf73503fd22a4)
-* [feeb207dfea30efb1d5bf73503fd22a4](feeb207dfea30efb1d5bf73503fd22a4)
-* [feeb207dfea30efb1d5bf73503fd22a4](feeb207dfea30efb1d5bf73503fd22a4)
-* [feeb207dfea30efb1d5bf73503fd22a4](feeb207dfea30efb1d5bf73503fd22a4)
-* [feeb207dfea30efb1d5bf73503fd22a4](feeb207dfea30efb1d5bf73503fd22a4)
-* [feeb207dfea30efb1d5bf73503fd22a4](feeb207dfea30efb1d5bf73503fd22a4)
+* [Using NLP to Build a Competitive Moat](feeb207dfea30efb1d5bf73503fd22a4)
+* [Using NLP to Build a Competitive Moat](feeb207dfea30efb1d5bf73503fd22a4)
+* [Generative AI's Monetization Dilemma](0c6842166e382f4956d21e22b38fa9c2)
+* [Using NLP to Build a Competitive Moat](feeb207dfea30efb1d5bf73503fd22a4)
+* [Using NLP to Build a Competitive Moat](feeb207dfea30efb1d5bf73503fd22a4)
+* [Using NLP to Build a Competitive Moat](feeb207dfea30efb1d5bf73503fd22a4)
+* [Using NLP to Build a Competitive Moat](feeb207dfea30efb1d5bf73503fd22a4)
+* [Using NLP to Build a Competitive Moat](feeb207dfea30efb1d5bf73503fd22a4)
+* [Using NLP to Build a Competitive Moat](feeb207dfea30efb1d5bf73503fd22a4)
+* [Using NLP to Build a Competitive Moat](feeb207dfea30efb1d5bf73503fd22a4)

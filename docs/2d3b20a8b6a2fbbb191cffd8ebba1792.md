@@ -1,4 +1,8 @@
-# 2d3b20a8b6a2fbbb191cffd8ebba1792 from ([20230416](https://kghosh.substack.com/p/20230416).)
+# __A.I. Threatens Lawyers, Again__, from ([20230416](https://kghosh.substack.com/p/20230416).)
+
+__[External link](https://www.nytimes.com/2023/04/10/technology/ai-is-coming-for-lawyers-again.html)__
+
+
 
 ## Summary
 
@@ -35,13 +39,13 @@ Advances in artificial intelligence (A.I.) have raised concerns about potential 
 
 ## Closest
 
-* [2d3b20a8b6a2fbbb191cffd8ebba1792](2d3b20a8b6a2fbbb191cffd8ebba1792)
-* [2d3b20a8b6a2fbbb191cffd8ebba1792](2d3b20a8b6a2fbbb191cffd8ebba1792)
-* [2d3b20a8b6a2fbbb191cffd8ebba1792](2d3b20a8b6a2fbbb191cffd8ebba1792)
-* [2d3b20a8b6a2fbbb191cffd8ebba1792](2d3b20a8b6a2fbbb191cffd8ebba1792)
-* [2d3b20a8b6a2fbbb191cffd8ebba1792](2d3b20a8b6a2fbbb191cffd8ebba1792)
-* [2d3b20a8b6a2fbbb191cffd8ebba1792](2d3b20a8b6a2fbbb191cffd8ebba1792)
-* [2d3b20a8b6a2fbbb191cffd8ebba1792](2d3b20a8b6a2fbbb191cffd8ebba1792)
-* [2d3b20a8b6a2fbbb191cffd8ebba1792](2d3b20a8b6a2fbbb191cffd8ebba1792)
-* [2d3b20a8b6a2fbbb191cffd8ebba1792](2d3b20a8b6a2fbbb191cffd8ebba1792)
-* [2d3b20a8b6a2fbbb191cffd8ebba1792](2d3b20a8b6a2fbbb191cffd8ebba1792)
+* [A.I. Threatens Lawyers, Again](2d3b20a8b6a2fbbb191cffd8ebba1792)
+* [A.I. Threatens Lawyers, Again](2d3b20a8b6a2fbbb191cffd8ebba1792)
+* [A.I. Threatens Lawyers, Again](2d3b20a8b6a2fbbb191cffd8ebba1792)
+* [A.I. Threatens Lawyers, Again](2d3b20a8b6a2fbbb191cffd8ebba1792)
+* [A.I. Threatens Lawyers, Again](2d3b20a8b6a2fbbb191cffd8ebba1792)
+* [A.I. Threatens Lawyers, Again](2d3b20a8b6a2fbbb191cffd8ebba1792)
+* [A.I. Threatens Lawyers, Again](2d3b20a8b6a2fbbb191cffd8ebba1792)
+* [A.I. Threatens Lawyers, Again](2d3b20a8b6a2fbbb191cffd8ebba1792)
+* [A.I. Threatens Lawyers, Again](2d3b20a8b6a2fbbb191cffd8ebba1792)
+* [A.I. Threatens Lawyers, Again](2d3b20a8b6a2fbbb191cffd8ebba1792)

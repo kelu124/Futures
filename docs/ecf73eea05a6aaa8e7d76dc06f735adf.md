@@ -1,4 +1,8 @@
-# ecf73eea05a6aaa8e7d76dc06f735adf from ([20220810](https://kghosh.substack.com/p/20220810).)
+# __Introducing DALL·E 2: AI Creates Realistic Images from Text__, from ([20220810](https://kghosh.substack.com/p/20220810).)
+
+__[External link](https://openai.com/dall-e-2/)__
+
+
 
 ## Summary
 
@@ -39,13 +43,13 @@ DALL·E 2 is a new AI system that can create realistic images and art from a des
 
 ## Closest
 
-* [150d9e636fc3b6404f150b8f049f626b](150d9e636fc3b6404f150b8f049f626b)
-* [3827e85d7b233b583bd7e01c435cf758](3827e85d7b233b583bd7e01c435cf758)
-* [8acafe1fbe51c2de3cd689956b25b39f](8acafe1fbe51c2de3cd689956b25b39f)
-* [536d1aaf84afa5bf10493f03cbb3d38d](536d1aaf84afa5bf10493f03cbb3d38d)
-* [c62d2942a1454cd9810be2b3a93f7bc6](c62d2942a1454cd9810be2b3a93f7bc6)
-* [ecf73eea05a6aaa8e7d76dc06f735adf](ecf73eea05a6aaa8e7d76dc06f735adf)
-* [c98e6d5382ed734fcb33e34509a95e40](c98e6d5382ed734fcb33e34509a95e40)
-* [07bcf7d8e29d33f8438f4b35a7f15021](07bcf7d8e29d33f8438f4b35a7f15021)
-* [ee1e6c7eb9c0c87692569c164086065a](ee1e6c7eb9c0c87692569c164086065a)
-* [ecf73eea05a6aaa8e7d76dc06f735adf](ecf73eea05a6aaa8e7d76dc06f735adf)
+* [DALL·E 2: Creating Realistic Images from Text Descriptions](150d9e636fc3b6404f150b8f049f626b)
+* [The Rapid Advancement of Cloning Technology](3827e85d7b233b583bd7e01c435cf758)
+* [The Age of AI: Opportunities and Responsibilities](8acafe1fbe51c2de3cd689956b25b39f)
+* [The Rise of AI-Generated Art](536d1aaf84afa5bf10493f03cbb3d38d)
+* [Exploring the Creative Potential of DALL-E 2](c62d2942a1454cd9810be2b3a93f7bc6)
+* [Introducing DALL·E 2: AI Creates Realistic Images from Text](ecf73eea05a6aaa8e7d76dc06f735adf)
+* [Advancements in AI: Text-to-Video Generators](c98e6d5382ed734fcb33e34509a95e40)
+* [Human Motion Diffusion Model (MDM): A Generative Approach for Natural and Expressive Human Motion](07bcf7d8e29d33f8438f4b35a7f15021)
+* [5 Python Decorators for Data Science Projects](ee1e6c7eb9c0c87692569c164086065a)
+* [Introducing DALL·E 2: AI Creates Realistic Images from Text](ecf73eea05a6aaa8e7d76dc06f735adf)

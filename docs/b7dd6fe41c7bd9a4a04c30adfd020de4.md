@@ -1,4 +1,8 @@
-# b7dd6fe41c7bd9a4a04c30adfd020de4 from ([20220824](https://kghosh.substack.com/p/20220824).)
+# __New AI Tools Preserve Memories of Deceased Relatives__, from ([20220824](https://kghosh.substack.com/p/20220824).)
+
+__[External link](https://www.axios.com/2022/07/13/artificial-intelligence-chatbots-dead-relatives-grandma)__
+
+
 
 ## Summary
 
@@ -40,13 +44,13 @@ New AI tools are allowing people to have interactive conversations with their de
 
 ## Closest
 
-* [95a21e5407df1f9dfe1f323e5a827e94](95a21e5407df1f9dfe1f323e5a827e94)
-* [316c2bc07bdae32ea05595973043b766](316c2bc07bdae32ea05595973043b766)
-* [f97f969e4aadfbae3dee287de4ab721d](f97f969e4aadfbae3dee287de4ab721d)
-* [9b21fce377880166b73916aee2be1fc0](9b21fce377880166b73916aee2be1fc0)
-* [7deb1de0960ac64f860d34b9a353deb5](7deb1de0960ac64f860d34b9a353deb5)
-* [23b1a43c321ff714805ff4bc83829491](23b1a43c321ff714805ff4bc83829491)
-* [672d563b299cb30a98ca5198bb16458c](672d563b299cb30a98ca5198bb16458c)
-* [f8192071b7eaa2b571a9ca12551b9d70](f8192071b7eaa2b571a9ca12551b9d70)
-* [074f7e40545f4b8edc9bdefa00b02f7b](074f7e40545f4b8edc9bdefa00b02f7b)
-* [5ae1107c845692a2acadc6565babc91b](5ae1107c845692a2acadc6565babc91b)
+* [Alexa Voice Assistant Replicates Human Voices](95a21e5407df1f9dfe1f323e5a827e94)
+* [Amazon Plans to Turn Deceased Loved Ones' Voices into Digital Assistants](316c2bc07bdae32ea05595973043b766)
+* [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
+* [The Malevolence of ChatGPT: A Call for Destruction](9b21fce377880166b73916aee2be1fc0)
+* [The Rise of Prompt Engineers: AI's Impact on the Writing Profession](7deb1de0960ac64f860d34b9a353deb5)
+* [ChatGPT Launches AI-Written E-Books Boom](23b1a43c321ff714805ff4bc83829491)
+* [Imagining Alternative Histories Through Generative AI on TikTok](672d563b299cb30a98ca5198bb16458c)
+* [A Father's Love Lives On](f8192071b7eaa2b571a9ca12551b9d70)
+* [The Future of Tech and Society](074f7e40545f4b8edc9bdefa00b02f7b)
+* [The Technology Gap: Young Workers and Office Technology](5ae1107c845692a2acadc6565babc91b)

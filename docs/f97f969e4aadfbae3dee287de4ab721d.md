@@ -1,4 +1,8 @@
-# f97f969e4aadfbae3dee287de4ab721d from ([20221204](https://kghosh.substack.com/p/20221204).)
+# __Connecting with the Deceased Through Technology__, from ([20221204](https://kghosh.substack.com/p/20221204).)
+
+__[External link](https://www.washingtonpost.com/health/2022/11/12/artificial-intelligence-grief/)__
+
+
 
 ## Summary
 
@@ -36,13 +40,13 @@ In 2020, a Korean documentary team created a digitized re-creation of a mother's
 
 ## Closest
 
-* [f97f969e4aadfbae3dee287de4ab721d](f97f969e4aadfbae3dee287de4ab721d)
-* [b9256c2eb50c1c3e1ea2df625cf259ec](b9256c2eb50c1c3e1ea2df625cf259ec)
-* [95a21e5407df1f9dfe1f323e5a827e94](95a21e5407df1f9dfe1f323e5a827e94)
-* [f97f969e4aadfbae3dee287de4ab721d](f97f969e4aadfbae3dee287de4ab721d)
-* [f97f969e4aadfbae3dee287de4ab721d](f97f969e4aadfbae3dee287de4ab721d)
-* [f97f969e4aadfbae3dee287de4ab721d](f97f969e4aadfbae3dee287de4ab721d)
-* [f97f969e4aadfbae3dee287de4ab721d](f97f969e4aadfbae3dee287de4ab721d)
-* [f97f969e4aadfbae3dee287de4ab721d](f97f969e4aadfbae3dee287de4ab721d)
-* [f97f969e4aadfbae3dee287de4ab721d](f97f969e4aadfbae3dee287de4ab721d)
-* [3c807d80ce080c015f1fc14086b7a09e](3c807d80ce080c015f1fc14086b7a09e)
+* [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
+* [Telangana's Cyber Ambassadors: Protecting Students from Online Scams](b9256c2eb50c1c3e1ea2df625cf259ec)
+* [Alexa Voice Assistant Replicates Human Voices](95a21e5407df1f9dfe1f323e5a827e94)
+* [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
+* [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
+* [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
+* [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
+* [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
+* [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
+* [Cultural Therapy: Museum Prescriptions for Mental Health](3c807d80ce080c015f1fc14086b7a09e)

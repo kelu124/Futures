@@ -1,4 +1,8 @@
-# aed93d4ebe969eabe23df9935bdb4cb8 from ([20221106](https://kghosh.substack.com/p/20221106).)
+# __Electric Vehicles and Cybersecurity Risks__, from ([20221106](https://kghosh.substack.com/p/20221106).)
+
+__[External link](https://umdearborn.edu/news/ev-charging-stations-could-be-target-hackers?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axioscodebook&stream=top)__
+
+
 
 ## Summary
 
@@ -37,13 +41,13 @@ Electric vehicles are gaining momentum, with major auto companies planning to ph
 
 ## Closest
 
-* [aed93d4ebe969eabe23df9935bdb4cb8](aed93d4ebe969eabe23df9935bdb4cb8)
-* [aed93d4ebe969eabe23df9935bdb4cb8](aed93d4ebe969eabe23df9935bdb4cb8)
-* [aed93d4ebe969eabe23df9935bdb4cb8](aed93d4ebe969eabe23df9935bdb4cb8)
-* [b35030f7ffb9e082dea84058ac63f3ca](b35030f7ffb9e082dea84058ac63f3ca)
-* [aed93d4ebe969eabe23df9935bdb4cb8](aed93d4ebe969eabe23df9935bdb4cb8)
-* [aed93d4ebe969eabe23df9935bdb4cb8](aed93d4ebe969eabe23df9935bdb4cb8)
-* [aed93d4ebe969eabe23df9935bdb4cb8](aed93d4ebe969eabe23df9935bdb4cb8)
-* [aed93d4ebe969eabe23df9935bdb4cb8](aed93d4ebe969eabe23df9935bdb4cb8)
-* [aed93d4ebe969eabe23df9935bdb4cb8](aed93d4ebe969eabe23df9935bdb4cb8)
-* [aed93d4ebe969eabe23df9935bdb4cb8](aed93d4ebe969eabe23df9935bdb4cb8)
+* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
+* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
+* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
+* [Hotels Turn to Robots as Staffing Shortages Persist](b35030f7ffb9e082dea84058ac63f3ca)
+* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
+* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
+* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
+* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
+* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
+* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)

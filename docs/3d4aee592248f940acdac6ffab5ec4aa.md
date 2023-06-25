@@ -1,4 +1,8 @@
-# 3d4aee592248f940acdac6ffab5ec4aa from ([20220904](https://kghosh.substack.com/p/20220904).)
+# __Amazon Expands into Mental Health Services__, from ([20220904](https://kghosh.substack.com/p/20220904).)
+
+__[External link](https://www.theverge.com/2022/8/12/23303006/amazon-care-ginger-mental-health-therapy)__
+
+
 
 ## Summary
 
@@ -36,13 +40,13 @@ Amazon Care, the virtual healthcare program by Amazon, has partnered with mental
 
 ## Closest
 
-* [3d4aee592248f940acdac6ffab5ec4aa](3d4aee592248f940acdac6ffab5ec4aa)
-* [3d4aee592248f940acdac6ffab5ec4aa](3d4aee592248f940acdac6ffab5ec4aa)
-* [3d4aee592248f940acdac6ffab5ec4aa](3d4aee592248f940acdac6ffab5ec4aa)
-* [3d4aee592248f940acdac6ffab5ec4aa](3d4aee592248f940acdac6ffab5ec4aa)
-* [382ab5700ea4e7c189a438c6e024ef18](382ab5700ea4e7c189a438c6e024ef18)
-* [3d4aee592248f940acdac6ffab5ec4aa](3d4aee592248f940acdac6ffab5ec4aa)
-* [f99fa5e02647a517b709d5b44f85fd5c](f99fa5e02647a517b709d5b44f85fd5c)
-* [3d4aee592248f940acdac6ffab5ec4aa](3d4aee592248f940acdac6ffab5ec4aa)
-* [3d4aee592248f940acdac6ffab5ec4aa](3d4aee592248f940acdac6ffab5ec4aa)
-* [46267bf4740b29117588f603a5c41280](46267bf4740b29117588f603a5c41280)
+* [Amazon Expands into Mental Health Services](3d4aee592248f940acdac6ffab5ec4aa)
+* [Amazon Expands into Mental Health Services](3d4aee592248f940acdac6ffab5ec4aa)
+* [Amazon Expands into Mental Health Services](3d4aee592248f940acdac6ffab5ec4aa)
+* [Amazon Expands into Mental Health Services](3d4aee592248f940acdac6ffab5ec4aa)
+* [The Rise of Luxury Surveillance](382ab5700ea4e7c189a438c6e024ef18)
+* [Amazon Expands into Mental Health Services](3d4aee592248f940acdac6ffab5ec4aa)
+* [Chipiron: Portable Mini-MRI Revolutionizing Healthcare](f99fa5e02647a517b709d5b44f85fd5c)
+* [Amazon Expands into Mental Health Services](3d4aee592248f940acdac6ffab5ec4aa)
+* [Amazon Expands into Mental Health Services](3d4aee592248f940acdac6ffab5ec4aa)
+* [The Rise of Context-Aware Digital Assistants](46267bf4740b29117588f603a5c41280)

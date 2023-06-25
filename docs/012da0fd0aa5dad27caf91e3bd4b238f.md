@@ -1,4 +1,8 @@
-# 012da0fd0aa5dad27caf91e3bd4b238f from ([20220626](https://kghosh.substack.com/p/20220626).)
+# __Cybathlon 2020: Pushing Assistive Technology Forward__, from ([20220626](https://kghosh.substack.com/p/20220626).)
+
+__[External link](https://ethz.ch/en/news-and-events/eth-news/news/2020/02/cybathlon-2020-start.html)__
+
+
 
 ## Summary
 
@@ -37,13 +41,13 @@ The Cybathlon is a unique championship that allows individuals with disabilities
 
 ## Closest
 
-* [1c2a9187767ce0f3e0f34b65dab0f83f](1c2a9187767ce0f3e0f34b65dab0f83f)
-* [19d1bd27c4a10919f3e37ca2bae470e6](19d1bd27c4a10919f3e37ca2bae470e6)
-* [280062047a4f4c0db1811e6ca41703d0](280062047a4f4c0db1811e6ca41703d0)
-* [283ff70c63aed09ef2b0613f6acc2eb9](283ff70c63aed09ef2b0613f6acc2eb9)
-* [c4e67bccfa2804a74e675f9084b9e724](c4e67bccfa2804a74e675f9084b9e724)
-* [57d45c62e30c14c52cdaa049b2d869b6](57d45c62e30c14c52cdaa049b2d869b6)
-* [8bf628f811052831ab699f75caeb0205](8bf628f811052831ab699f75caeb0205)
-* [9830e769665e82dcea315b1089dc40c4](9830e769665e82dcea315b1089dc40c4)
-* [c30d1aaeb666b051e8a7a22d8bde337c](c30d1aaeb666b051e8a7a22d8bde337c)
-* [598eae9bc0f45fdaeee2d2ef811ad150](598eae9bc0f45fdaeee2d2ef811ad150)
+* [Meta's AI Masters Diplomacy Strategy Game](1c2a9187767ce0f3e0f34b65dab0f83f)
+* [AI Adoption in the Workplace: Early Insights](19d1bd27c4a10919f3e37ca2bae470e6)
+* [GPT4All: Local ChatGPT Simplification](280062047a4f4c0db1811e6ca41703d0)
+* [AI Disruption Outweighs Pandemic Impact](283ff70c63aed09ef2b0613f6acc2eb9)
+* [Telfar's Revolutionary Reverse Sale Empowers Customers](c4e67bccfa2804a74e675f9084b9e724)
+* [The 2022 Hackaday Supercon Is On!](57d45c62e30c14c52cdaa049b2d869b6)
+* [Potential Job Automation Sparks AI Disruption](8bf628f811052831ab699f75caeb0205)
+* [China's Growing Virtual People Industry](9830e769665e82dcea315b1089dc40c4)
+* [Bytebase: A Start-Up's Tool Stack and Monthly Expenses](c30d1aaeb666b051e8a7a22d8bde337c)
+* [Nvidia's Stock Soars, Becoming a Trillion-Dollar Company](598eae9bc0f45fdaeee2d2ef811ad150)
