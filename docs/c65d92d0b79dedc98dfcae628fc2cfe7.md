@@ -39,13 +39,4 @@ The text discusses the concept of the Fundamental Process to Generate Living Sys
 
 ## Closest
 
-* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
-* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
-* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
-* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
-* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
-* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
-* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
-* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
-* [The Filing Cabinet: A Vertical History](b074eff3e846c24db97af8524929939a)
-* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
+* 

@@ -39,13 +39,4 @@ This text discusses the concept of "long-terminology" and the importance of long
 
 ## Closest
 
-* [The Importance of Long-Terminology](a963fcddede6fce55e0d02b040bbcd8a)
-* [Strategic Foresight: Anticipating and Adapting to the Future](40a99c098bad8dda821b757d8d88a80a)
-* [The Future of Talent Identification and Recruitment](14935a7eab6d6c1d8a5ce2f25d3b54bb)
-* [Increasing Luck through Work and Publication](0a1e31b7c3c14eedf08021f6bd5ebdfc)
-* [Hope in the Dark: A Radical Case for Hope in Uncertain Times](fd193cbb838e7049c4d44c7dde929f83)
-* [The Power of Reading and Books](a9f822eb98b10e38248c245ba437d9c8)
-* [The Importance of Long-Terminology](a963fcddede6fce55e0d02b040bbcd8a)
-* [The Future of Media: Monetizing Talent](be6ecdd999bc41789029c9d32a86c51b)
-* [The Future is Elastic!](07f58082de6736a23fae6143ab961f07)
-* [The Importance of Long-Terminology](a963fcddede6fce55e0d02b040bbcd8a)
+* 

@@ -46,13 +46,4 @@ This article discusses the concept of single-threaded leadership as a critical o
 
 ## Closest
 
-* [Integrating ChatGPT with Internal Knowledge Management](977ac6628e9192d07524905819496121)
-* [Single-Threaded Leadership: A Key Organizational Design Concept at Amazon](f7c3cefc5b83fbd9df3507bdad7ff3fe)
-* [Single-Threaded Leadership: A Key Organizational Design Concept at Amazon](f7c3cefc5b83fbd9df3507bdad7ff3fe)
-* [Bridging Knowledge Graphs and Large Language Models](fa3124e38f66a8d1e635e863f43d1ec0)
-* [Workshop Tactics: the best problem-solving workshops in a box](e6cb167bfeaed16d68d2e384681bfbb7)
-* [The Danger of Continuous Partial Attention](417df5448432cb603f40dec77f469b87)
-* [Single-Threaded Leadership: A Key Organizational Design Concept at Amazon](f7c3cefc5b83fbd9df3507bdad7ff3fe)
-* [Strategic Foresight: Anticipating and Adapting to the Future](40a99c098bad8dda821b757d8d88a80a)
-* [The Impact of LLMs on Information Post-Scarcity](f87ae242f79a85b180657a74b814aa0f)
-* [Single-Threaded Leadership: A Key Organizational Design Concept at Amazon](f7c3cefc5b83fbd9df3507bdad7ff3fe)
+* 

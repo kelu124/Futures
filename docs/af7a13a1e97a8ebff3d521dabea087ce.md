@@ -39,13 +39,4 @@ Maritime cyber security is a growing concern, as hackers are increasingly target
 
 ## Closest
 
-* [Monetising Hacking Through Commodity Shipments](af7a13a1e97a8ebff3d521dabea087ce)
-* [Monetising Hacking Through Commodity Shipments](af7a13a1e97a8ebff3d521dabea087ce)
-* [Monetising Hacking Through Commodity Shipments](af7a13a1e97a8ebff3d521dabea087ce)
-* [Monetising Hacking Through Commodity Shipments](af7a13a1e97a8ebff3d521dabea087ce)
-* [Monetising Hacking Through Commodity Shipments](af7a13a1e97a8ebff3d521dabea087ce)
-* [The SolarWinds Cyberespionage Campaign Unveiled](60d708d49e171255bc45464e0b5e6a6a)
-* [Monetising Hacking Through Commodity Shipments](af7a13a1e97a8ebff3d521dabea087ce)
-* [Unstable Diffusion: Building an AI-Powered Porn Generation Community](12a56596b967f41841a5c1dfd6a78680)
-* [The Rise of Luxury Surveillance](382ab5700ea4e7c189a438c6e024ef18)
-* [Monetising Hacking Through Commodity Shipments](af7a13a1e97a8ebff3d521dabea087ce)
+* 

@@ -41,13 +41,4 @@ Electric vehicles are gaining momentum, with major auto companies planning to ph
 
 ## Closest
 
-* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
-* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
-* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
-* [Hotels Turn to Robots as Staffing Shortages Persist](b35030f7ffb9e082dea84058ac63f3ca)
-* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
-* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
-* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
-* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
-* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
-* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
+* 

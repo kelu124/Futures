@@ -41,13 +41,4 @@ In India, a 24-year-old woman named Kshama Bindu made headlines after marrying h
 
 ## Closest
 
-* [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
-* [Alexa Voice Assistant Replicates Human Voices](95a21e5407df1f9dfe1f323e5a827e94)
-* [The Indian Woman Who Married Herself](d30eab58ea238cc3cefbb88c3e4f61cd)
-* [The Indian Woman Who Married Herself](d30eab58ea238cc3cefbb88c3e4f61cd)
-* [The Rise of Menopause Retreats](045add002e344d1657fe658e0ebe6b41)
-* [Dating Trends in 2022: Prioridating and Increased Openness](5554792b473e148108ccb7b38a1d82c0)
-* [ChatGPT Launches AI-Written E-Books Boom](23b1a43c321ff714805ff4bc83829491)
-* [The AI Ethics Revolution: A Timeline](2b3dffe867d32d85c04baf149e2444ea)
-* [Dreamworld Adventures: A Journey of Hope](c9d940fff5521f56bf74a5d4369b9ec8)
-* [The Rise of Prompt Engineers: AI's Impact on the Writing Profession](7deb1de0960ac64f860d34b9a353deb5)
+* 

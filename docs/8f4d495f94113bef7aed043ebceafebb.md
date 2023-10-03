@@ -39,13 +39,4 @@ Personalized learning is finally here. The text discusses the author's experienc
 
 ## Closest
 
-* [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
-* [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
-* [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
-* [The Enshittening of Knowledge: ChatGPT and its Implications](182bea68661560af4b5ef5728107212b)
-* [Gen Z's Perspectives on Work, College, and the Internet](644ce4dcf74e76970fd0526ca1abf551)
-* [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
-* [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
-* [Integrating ChatGPT with Internal Knowledge Management](977ac6628e9192d07524905819496121)
-* [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
-* [The Impact of AI on Society](87709d0e31dee725ec1f54b7f4facbc4)
+* 

@@ -42,13 +42,4 @@ HydraUSB3 V1 is an open source developer kit for the WCH CH569 MCU that allows f
 
 ## Closest
 
-* [Kilsyth: ECP5 FPGA + FT60x FIFO](076f9b6d6122fb2ac7933c60cf1e7dbc)
-* [HydraUSB3 V1: Open Source Developer Kit for High-Speed Protocols](0fbb6c3fbc914e5e65bc6e67bd425edd)
-* [PrivateGPT: Interact with Your Documents Offline](34be604e35b06b445dcbcda3e5ece6b1)
-* [HydraUSB3 V1: Open Source Developer Kit for High-Speed Protocols](0fbb6c3fbc914e5e65bc6e67bd425edd)
-* [HydraUSB3 V1: Open Source Developer Kit for High-Speed Protocols](0fbb6c3fbc914e5e65bc6e67bd425edd)
-* [MIT Engineers Develop Wearable Ultrasound Sticker for Continuous Internal Organ Imaging](046ecaa63b94e5eef69df0439e9d3246)
-* [Stable Diffusion Public Release](09e12f5c07382efea39163ed3274098a)
-* [Voyager: An Open-Ended Embodied Agent](8af9bffc11d191445956ffcef1627c38)
-* [HydraUSB3 V1: Open Source Developer Kit for High-Speed Protocols](0fbb6c3fbc914e5e65bc6e67bd425edd)
-* [Building a Context-Aware Knowledge Graph Chatbot with GPT-4 and Neo4j](af12c099700e76b62f6990530a12edfa)
+* 

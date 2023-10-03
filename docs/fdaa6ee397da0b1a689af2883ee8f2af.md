@@ -45,13 +45,4 @@ Voice actors are facing challenges as artificial intelligence (AI) is being used
 
 ## Closest
 
-* [The Malevolence of ChatGPT: A Call for Destruction](9b21fce377880166b73916aee2be1fc0)
-* [The Rise of Prompt Engineers: AI's Impact on the Writing Profession](7deb1de0960ac64f860d34b9a353deb5)
-* [Voice Actors Express Concerns Over Voice-Generating AI](fdaa6ee397da0b1a689af2883ee8f2af)
-* [The Rise of Robotic Rituals](829fd6babd3e70a7b19c444588fad9d0)
-* [The Controversy Surrounding AI-Generated Art in Anime and Manga Circles](a1ccaf4e8c6dd14b4b2b522e2d8c2c89)
-* [A.I. Threatens Lawyers, Again](2d3b20a8b6a2fbbb191cffd8ebba1792)
-* [Challenges and Concerns in AI Deployment](382e9ebc1e518ee49e541da1e6b5f8af)
-* [Unstable Diffusion: Building an AI-Powered Porn Generation Community](12a56596b967f41841a5c1dfd6a78680)
-* [New York's Right-to-Repair Bill and Lobbyist Influence](c43f57be38bbfef16e25047b07cd9d5d)
-* [The Impact of ChatGPT on Freelancing Platforms](16ae389e81ec87fdaaf271c38e3cb1e9)
+* 

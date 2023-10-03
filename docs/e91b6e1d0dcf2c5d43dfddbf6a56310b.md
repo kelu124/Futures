@@ -39,13 +39,4 @@ The text discusses Vicuna, the latest model developed by Meta AI, which matches 
 
 ## Closest
 
-* [Vicuna: A Powerful Chatbot Model](e91b6e1d0dcf2c5d43dfddbf6a56310b)
-* [Vicuna: A Powerful Chatbot Model](e91b6e1d0dcf2c5d43dfddbf6a56310b)
-* [Vicuna: A Powerful Chatbot Model](e91b6e1d0dcf2c5d43dfddbf6a56310b)
-* [Vicuna: A Powerful Chatbot Model](e91b6e1d0dcf2c5d43dfddbf6a56310b)
-* [Vicuna: A Powerful Chatbot Model](e91b6e1d0dcf2c5d43dfddbf6a56310b)
-* [Vicuna: A Powerful Chatbot Model](e91b6e1d0dcf2c5d43dfddbf6a56310b)
-* [Vicuna: A Powerful Chatbot Model](e91b6e1d0dcf2c5d43dfddbf6a56310b)
-* [Vicuna: A Powerful Chatbot Model](e91b6e1d0dcf2c5d43dfddbf6a56310b)
-* [Vicuna: A Powerful Chatbot Model](e91b6e1d0dcf2c5d43dfddbf6a56310b)
-* [Vicuna: A Powerful Chatbot Model](e91b6e1d0dcf2c5d43dfddbf6a56310b)
+* 

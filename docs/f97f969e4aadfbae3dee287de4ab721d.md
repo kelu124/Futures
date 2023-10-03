@@ -40,13 +40,4 @@ In 2020, a Korean documentary team created a digitized re-creation of a mother's
 
 ## Closest
 
-* [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
-* [Telangana's Cyber Ambassadors: Protecting Students from Online Scams](b9256c2eb50c1c3e1ea2df625cf259ec)
-* [Alexa Voice Assistant Replicates Human Voices](95a21e5407df1f9dfe1f323e5a827e94)
-* [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
-* [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
-* [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
-* [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
-* [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
-* [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
-* [Cultural Therapy: Museum Prescriptions for Mental Health](3c807d80ce080c015f1fc14086b7a09e)
+* 

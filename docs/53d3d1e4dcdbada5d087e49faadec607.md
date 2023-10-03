@@ -44,13 +44,4 @@ Zines are a powerful tool for communication and learning, particularly for stude
 
 ## Closest
 
-* [The Power of Zines in Education](53d3d1e4dcdbada5d087e49faadec607)
-* [The Power of Zines in Education](53d3d1e4dcdbada5d087e49faadec607)
-* [The Power of Zines in Education](53d3d1e4dcdbada5d087e49faadec607)
-* [Advances in Large Language Models: Shaping the Future of Communication Technology](c41a64e50d0280a765ebdac4f8094446)
-* [Everything is a Practice](a81f85f066b0093553fc39638d3e0559)
-* [Strategic Foresight: Anticipating and Adapting to the Future](40a99c098bad8dda821b757d8d88a80a)
-* [The Rise of Context-Aware Digital Assistants](46267bf4740b29117588f603a5c41280)
-* [The Rapid Advancement of Cloning Technology](3827e85d7b233b583bd7e01c435cf758)
-* [Workshop Tactics: the best problem-solving workshops in a box](e6cb167bfeaed16d68d2e384681bfbb7)
-* [Natural Conversations with Google Assistant](3b057a14187c304edd1a0f4bbed854a8)
+* 

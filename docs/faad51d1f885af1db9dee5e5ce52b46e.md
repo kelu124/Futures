@@ -52,13 +52,4 @@ Recent progress in robotics and neuroscience has made extra robotic limbs a poss
 
 ## Closest
 
-* [AI Unlocks Human Brain's Secrets](e43c70d1c8c34f4587722ef456132b41)
-* [Ultrasonic Wireless 'Neural Dust' Sensors Monitor Nerves, Muscles in Real Time](feadfd4aa3133e938a6f6e6d7d2c018e)
-* [Revolutionizing Medical Technologies with Optrodes](7aeb03c0771769ceb99c3085c141c1fe)
-* [Future Careers and the Importance of "Mad Skills"](572ff244f383344150f88e74397cc5de)
-* [Thermoformable Ceramics: A New Frontier in Materials](bd35b1587de303b44a62d0e99fb749fc)
-* [The Age of AI: Opportunities and Responsibilities](8acafe1fbe51c2de3cd689956b25b39f)
-* [The Rise of Robotic Rituals](829fd6babd3e70a7b19c444588fad9d0)
-* [Sparks of Artificial General Intelligence: GPT-4's Potential](d7a339503dbb7c228209c98702d1afcf)
-* [Lensless Camera Creates 3D Images](8bb1226617cfc9b177ec5976f3716680)
-* [Roboticists Want to Give You a Third Arm](faad51d1f885af1db9dee5e5ce52b46e)
+* 

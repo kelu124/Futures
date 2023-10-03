@@ -118,13 +118,4 @@ Nvidia's stock rose nearly 30% after announcing its first-quarter financial resu
 
 ## Closest
 
-* [Nvidia's Stock Soars, Becoming a Trillion-Dollar Company](598eae9bc0f45fdaeee2d2ef811ad150)
-* [Nvidia's Stock Soars, Becoming a Trillion-Dollar Company](598eae9bc0f45fdaeee2d2ef811ad150)
-* [The Evolution of Electric Car Range](7f4bbda67f521ee30a63b68b9f8666d9)
-* [Nvidia's Stock Soars, Becoming a Trillion-Dollar Company](598eae9bc0f45fdaeee2d2ef811ad150)
-* [Nvidia's Stock Soars, Becoming a Trillion-Dollar Company](598eae9bc0f45fdaeee2d2ef811ad150)
-* [Potential Job Automation Sparks AI Disruption](8bf628f811052831ab699f75caeb0205)
-* [Nvidia's Stock Soars, Becoming a Trillion-Dollar Company](598eae9bc0f45fdaeee2d2ef811ad150)
-* [Nvidia's Stock Soars, Becoming a Trillion-Dollar Company](598eae9bc0f45fdaeee2d2ef811ad150)
-* [Nvidia's Stock Soars, Becoming a Trillion-Dollar Company](598eae9bc0f45fdaeee2d2ef811ad150)
-* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
+* 
