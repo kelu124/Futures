@@ -2371,7 +2371,9 @@ Index
 
 
 * __Zines and student engagement__: [The Power of Zines in Education](53d3d1e4dcdbada5d087e49faadec607)
-* __Zooms ai strategy__: [Zoom's Terms of Service Update Allows AI Training with Customer Data](3b96c74f728c6281fc7f1a045a5befc7)## Others
+* __Zooms ai strategy__: [Zoom's Terms of Service Update Allows AI Training with Customer Data](3b96c74f728c6281fc7f1a045a5befc7)
+
+## Others
 
 
 * __2024 problem in logistics__: 
