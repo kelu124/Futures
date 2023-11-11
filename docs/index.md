@@ -5,2373 +5,2373 @@ Index
 ## Letter 'A' 
 
 
-* __academic vs. intellectual__: [The Difference Between Academics and Intellectuals](f07df9d85e95d88e18345a39166c0a53)
-* __access plans__: [FT.com Trial and Subscription Information](34e1369572f1241d4a54e63cee2a4565)
-* __access to culture__: 
-* __access to fresh groceries__: 
-* __access to tools and resources__: [American Farm Bureau and John Deere Sign Agreement on Equipment Repair](26ae831dfd3721235ac0eacb85e4a0e5)
-* __accessibility and applications of ai to everyday life__: 
-* __accountability__: 
-* __accounting__: [The Triumph of the Bean Counters](74640ec9669a4ca9964b6a3aca93f336)
-* __activation__: [Prada Seeds: Blooming Luxury with Fall Flowers](477eb369e45ddd2deab9a1d75fd105ec)
-* __activism__: [Hope in the Dark: A Radical Case for Hope in Uncertain Times](fd193cbb838e7049c4d44c7dde929f83)
-* __activisme écologique__: [Young Activists Express Climate Concerns](a33285a958e1c67e274803ca7ce0bec2)
-* __activity partners__: 
-* __adaptation of education system__: [The Future of Strategic Decision-Making](c474eac8117547a89cac2c805652df9c)
-* __adapting to ai in the classroom__: 
-* __adaptive reuse apartments__: [Adaptive Reuse Apartments Surpass New Construction](8bff520dc945204951b32a6c4b10571e)
-* __adding__: [The Power of Subtraction in Creating Change](954add221b754bf78bfb38199d5eb868)
-* __adhd in the workplace__: 
-* __advanced bionic limb__: [Revolutionary Prosthetic Provides Control and Comfort](90accf3ba55fb5e705bbaa47ad145c50)
-* __advanced technology__: 
-* __advancements in ai__: 
-* __advancements in civil engineering__: [World's First 3D-Printed Steel Bridge Showcases Technology for Reduced Material Usage](73bdb86789ac19a60022e3bc5bb2b532)
-* __advancements in generative ai__: 
-* __advancements in watch technology__: [The Rise of Hybrid Watchmaking](3c8e50874cd8552a38f5adab70ccd2b7)
-* __advances in artificial intelligence__: [A.I. Threatens Lawyers, Again](2d3b20a8b6a2fbbb191cffd8ebba1792)
-* __advances in language models__: 
-* __advances in medical imaging__: 
-* __advantages of ai-based animations__: 
-* __advantages of chatgpt in agile coaching__: 
-* __advantages of gen z in navigating software__: 
-* __advantages of magnesium as a structural metal__: [Metal without Mining: The Rise of Magrathea](de8c393b7b1395557948cb50d90de996)
-* __adventure__: 
-* __adventures__: 
-* __adversarial attacks__: [The Rising Threat of Paraphrasing Attacks on AI Algorithms](e1fbb09ec5e66a8a6d4eff2126eefb40), [Safety Concerns and Automated Attacks on Large Language Models](74c58b0ca359725b4a116ff765656c7c)
-* __adversarial attacks on object detectors__: [Adversarial Attacks on Object Detectors](76e3d69311e52896aa5c56f01119652f)
-* __adversarial collaboration__: [The Future of Consciousness Science](098f4de4b2e0da23ef41a92329c5e761)
-* __advertising__: [The Enduring Power of Matchbooks](cceff7fbb9450ceb8276d0c377e472e7)
-* __aerodynamics of paper planes__: 
-* __aerospace and defense__: 
-* __affordability__: 
-* __affordability of broadband__: [One Million Cancel Broadband Amid Rising Living Costs](f71e17c8d36e6dbced874ff9a319e733)
-* __ageism in the workplace__: 
-* __agent architectures__: 
-* __aging__: [Redefining Old Age](e9338e8177e66b338acd8753cbe0e3cf)
-* __aging population__: 
-* __agricultural innovation__: [E-seeds Drill Themselves into Soil](58c165e1a46408307f2b60f63df7c549)
-* __agriculture__: [The Rise of Electroculture in Gardening](257c9d336364e061c817ec77db9e78f6)
-* __ai__: 
-* __ai adoption in the workplace__: 
-* __ai advancements__: 
-* __ai agents__: 
-* __ai and employment__: 
-* __ai and jobs__: 
-* __ai and robotics companies__: 
-* __ai as a feature in existing platforms__: 
-* __ai as a kingmaker__: 
-* __ai as a leveler__: 
-* __ai as an escalator__: 
-* __ai chatbot security__: 
-* __ai chatbots in agriculture__: 
-* __ai content generation__: 
-* __ai development__: 
-* __ai disruption__: 
-* __ai ethics__: 
-* __ai ethics and governance__: 
-* __ai features in smartphones__: 
-* __ai image generators__: 
-* __ai image synthesis__: 
-* __ai in architecture__: 
-* __ai in biotechnology__: 
-* __ai in customer service and marketing__: 
-* __ai in customer support__: 
-* __ai in design__: 
-* __ai in drug discovery__: 
-* __ai in education__: 
-* __ai in healthcare__: 
-* __ai in neuroscience__: 
-* __ai in organizations__: 
-* __ai in politics__: 
-* __ai in saas industry__: 
-* __ai in software development__: 
-* __ai in text generation__: 
-* __ai integration in society__: 
-* __ai interaction__: 
-* __ai investment__: 
-* __ai investments__: 
-* __ai models and applications__: 
-* __ai personalities__: 
-* __ai regulation__: 
-* __ai regulations__: 
-* __ai research__: 
-* __ai research and safety__: 
-* __ai research institutions__: 
-* __ai revolution__: 
-* __ai risks__: 
-* __ai safety__: 
-* __ai security__: 
-* __ai security cameras__: 
-* __ai services and data training__: 
-* __ai software development__: 
-* __ai system__: 
-* __ai technology__: 
-* __ai tools__: 
-* __ai training__: 
-* __ai use cases in various departments__: 
-* __ai voice impersonation scams__: 
-* __ai-assisted writing__: 
-* __ai-based applications__: 
-* __ai-driven automation__: 
-* __ai-generated art__: 
-* __ai-generated artwork__: 
-* __ai-generated content__: 
-* __ai-generated data__: 
-* __ai-generated images__: 
-* __ai-generated material__: 
-* __ai-generated music__: 
-* __ai-generated porn__: 
-* __ai-generated vocalizations__: 
-* __ai-powered applications__: 
-* __ai-powered features__: 
-* __ai-powered virtual influencers__: 
-* __ai-written e-books__: 
-* __air purification__: 
-* __airline boarding process__: [United Airlines to Prioritize Window Seat Passengers in Economy Boarding Process](2978134725e2d7543f50469f53a5ca3d)
-* __alaska seafood industry__: 
-* __algae technology__: [Algae Battery Powers Computers for Months](9559f29e7d2ffd92fae98e95a62d0169)
-* __algorithmic impact assessment__: 
-* __algorithmic influence__: 
-* __algorithmic profiling__: 
-* __algospeak__: [The Rise of Algospeak: Americans Evade Detection with Code Words on Social Media](fe5ece17d1050e9097bd9a2e6e0ef50c)
-* __alternative data sources__: [Central Banks Utilize Alternative Data Sources](cd782a2ff57b412ca4648658d822a401)
-* __alternative data usage__: [Growing Adoption of Alternative Data by Investors](6df05418720b20b7f2cec0056111cae6)
-* __alternative education__: 
-* __alternative fuel infrastructure__: [Fast Chargers Every 60 km on EU Motorways](e2516b1308d891acd71bba3b68fa923b)
-* __alternative learning methods__: [Overlooking Subtraction: Why We Prefer Additive Solutions](2e40e579c2cb2d331026efcbcd98daed)
-* __alternative lösungen__: 
-* __alternative models for conflict resolution__: [Rethinking Wargames for Conflict Resolution](290b39e08f51973a22385822003f38c2)
-* __alternative power sources__: [Algae Battery Powers Computers for Months](9559f29e7d2ffd92fae98e95a62d0169)
-* __alternative to trees__: 
-* __alternative transportation options__: 
-* __amazon expansion in healthcare__: 
-* __ambiguity in categorizing psychedelics__: 
-* __american literature__: 
-* __analog astronaut research__: 
-* __analog music experience__: 
-* __analytical choices in research__: [Analyzing Reproducibility in Ecology Research](6ca0eb61f6679e513cde2fa1b3637de7)
-* __analytics__: [Information Collection and Cookie Usage](a33c07b3f96448f9af29b9e59a080b73)
-* __ancient languages__: 
-* __ancient roman concrete__: 
-* __ancient supply chains__: [Ancient Tin Supply Chains Revealed](7b0e1c9311dae19679aa54d541ef47f0)
-* __and argentina__: 
-* __and aws__: 
-* __and photonic computing__: [Time Reflections with Light Waves](4276927d1e8af2054511c6ea72f2a9d4)
-* __animal behavior__: [Bumblebees: Cultural Learning Among Insects](2394a07d8b41ae57fc3d67bd80e7f751)
-* __animal behavior research__: [Advancing Bioacoustics Research with AI](d4bf4886c516db4ccba211674c96d7b9)
-* __animal cloning__: 
-* __animal cognition__: [The Cognitive Spiderweb: Extending Cognition to the Web](870cf0da8080715e60bf3cef2094cc2a)
-* __animal communication__: [The Mystery and Magic of Purring](373ad0793a04ce22222c53103c6fadb8)
-* __animal intelligence__: 
-* __animal sentience__: [Sentience in Insects: Ethical Implications and the Need for Further Research](a2655cb820f74828eabbac3f12217ce2)
-* __animal welfare__: 
-* __anime and manga industry__: [The Controversy Surrounding AI-Generated Art in Anime and Manga Circles](a1ccaf4e8c6dd14b4b2b522e2d8c2c89)
-* __anonymity and privacy__: 
-* __anti-submarine technology__: [Natural Sounds Take on Military Sonar](21724ff06f805efad0fe188ab899b1cc)
-* __antibiotic development__: [New Antibiotic Discovered with AI](bb7069f38ff720f7c4d690177ec5d9f9)
-* __antifungal resistance__: [Urgent threat: Drug-resistant fungus invading health care facilities](d28d19739c279a21eb19cac312e67bea)
-* __antimicrobial proteins__: [AI-Designed Proteins Kill Bacteria in Lab](851488841bb139d3ed24048269cd0b9b)
-* __antitrust regulation__: [The Battle for Publishing's Soul](6f56632efb0caa5753792bd870d5a6ff)
-* __apple device security__: 
-* __apple products__: 
-* __apples next big thing__: 
-* __applications in wireless communications__: 
-* __applied learning project__: 
-* __appreciation for subtlety__: [Neophilia and Its Discontents](bd85751af600abe8c39229eb4ba07c1c)
-* __april fool’s day__: 
-* __archaeology__: 
-* __architecture__: [Villa M: A Nature-Filled Hotel in Paris](2e9f6055b67e6e737e006c2aab6edddb), [Architectural Photography Awards: Celebrating Mesmerising Shots](69ac5a2641a2485bc782c70c7d2ff09c)
-* __architecture and ai__: 
-* __argentinian soccer__: 
-* __armour technology__: [Aluminium Oxynitride: A Transparent Ceramic](e876b9aff5eeb4d2818cf0c621214c38)
-* __army recruitment challenges__: 
-* __art__: [A Street Full of Splendid Strangers](ab6e3fcdacd5615fd45dda4664c395e5), [Circuit Sculpture: COSMO-SkyMed Satellite Replica](02024bd4585d5e7049a4ffb380a2a07a)
-* __artificial general intelligence__: 
-* __artificial intelligence__: [Microsoft Launches Bug Bounty Program for AI-Powered Bing](917c65b1876df03d3794348b22d9fb31), [Computer Chip with Human Brain Tissue Receives Military Funding](fcf584bddde6a0c4ccaf5ab8eadded1e), [Potential Job Automation Sparks AI Disruption](8bf628f811052831ab699f75caeb0205), [Q-bear: An AI Baby Crying Translator](4bc37b93dce61c4d9b064a7edd11e76f)
-* __artificial intelligence as a tool__: 
-* __artificial intelligence in art__: [The Copyright Conundrum of AI-Generated Art](2cfdc6fba6f11e089c2df3cda1604174)
-* __artificial intelligence in creative work__: 
-* __artificial intelligence in finance__: 
-* __artificial intelligence in marketing__: 
-* __artisanat__: [The Role of Human Gesture in Mass Production](27948f54570ab56d95fdc708d3119801)
-* __artistic advice__: [Weekly Reflections and Creative Inspiration](1bc6c11e394022139f8af61a7554a7ec)
-* __artistic inspiration__: [Oblique Strategies: Overcoming Creative Blocks](624594b96816ab42c43832aa315bf3b7)
-* __artists and platforms__: [Breaking the Mold: Winning in the Networked Counterculture](e5f4b1b4319694169f1551be43a837c9)
-* __artists rights__: [Kudurru: A Tool to Protect Artists from AI Image Generators](bc433d7cb21513ab55af7f1198e0fbb6)
-* __arts and culture__: 
-* __aspirations des collaborateurs__: [Challenges and Aspirations in Future of Work](5238d6b8178d6f9c71b66a2fa84b7880)
-* __asset monopolization__: [Corporate Subscription Serfdom: Training Our Children for a Life of Dependency](6bccf38c9e97c992a3f5861fc6297380)
-* __assistive technology__: [Cybathlon 2020: Pushing Assistive Technology Forward](012da0fd0aa5dad27caf91e3bd4b238f)
-* __asteroid deflection__: [DART Mission Successfully Alters Asteroid Orbit](3104ce7da8c0d2b90e007402d07a930a)
-* __astrology and spirituality in the digital age__: 
-* __attention economy__: [Breaking the Mold: Winning in the Networked Counterculture](e5f4b1b4319694169f1551be43a837c9)
-* __attention management__: 
-* __attention scarcity__: 
-* __audio deepfakes__: 
-* __authoritarian intelligence__: 
-* __authorship__: 
-* __autobiography__: 
-* __automated systems and privacy__: 
-* __automation__: [Ikea Utilizes Drones for Inventory Monitoring](73c05925a7ca7e2fe6fd64b7074f4098), [Potential Job Automation Sparks AI Disruption](8bf628f811052831ab699f75caeb0205), [Ironies of Automation: The Paradox of Increasing Dependence on Skilled Operators](6a67048dd9edce24a136022c6ce0c2eb), [Hotels Turn to Robots as Staffing Shortages Persist](b35030f7ffb9e082dea84058ac63f3ca)
-* __automation and economic system__: 
-* __automation and inequality__: 
-* __automation in agency workflows__: [The Impact of AI on Ad Agency Jobs](54491b49e9fd2c6eab777dca0ba67e76)
-* __automation in customer service__: 
-* __automation in elder care__: 
-* __automation in retail__: [The Impact of AI on Middle Management](95ddb5a9e335a7f5f977a4ff7b1d17e3)
-* __automation in rituals__: 
-* __automation in saas industry__: 
-* __automation in the workplace__: 
-* __automotive industry__: 
-* __autonomous agents__: [The Power of Autonomous Agents: Promises and Limitations](0e336ce2e4b07459b257407e90d27389), [A Comprehensive Guide to Autonomous Agents with GPT](2dda4be3e1a9f11b4f7d8e74feea76b0)
-* __autonomous ai agents__: 
-* __autonomous driving technology__: 
-* __autonomous farming__: 
-* __aviation__: 
-* __aviation history__: 
-* __aviation industry shortage__: [United Airlines to Prioritize Window Seat Passengers in Economy Boarding Process](2978134725e2d7543f50469f53a5ca3d)
-* __awards__: [Architectural Photography Awards: Celebrating Mesmerising Shots](69ac5a2641a2485bc782c70c7d2ff09c)
+* __Academic vs. intellectual__: [The Difference Between Academics and Intellectuals](f07df9d85e95d88e18345a39166c0a53)
+* __Access plans__: [FT.com Trial and Subscription Information](34e1369572f1241d4a54e63cee2a4565)
+* __Access to culture__: [Cultural Therapy: Museum Prescriptions for Mental Health](3c807d80ce080c015f1fc14086b7a09e)
+* __Access to fresh groceries__: [Uber Eats to Accept Food Stamps and Healthcare Benefits for Grocery Delivery](01100fc1dbc0489489a31e12750bca78)
+* __Access to tools and resources__: [American Farm Bureau and John Deere Sign Agreement on Equipment Repair](26ae831dfd3721235ac0eacb85e4a0e5)
+* __Accessibility and applications of ai to everyday life__: [AI Superpowers: Unleashing Entrepreneurship in 2023](a40580730388900810b4496ff9891dc9)
+* __Accountability__: [Tracking Openness in ChatGPT Generators](dad9dbd97cc50604963911f16fbb27aa)
+* __Accounting__: [The Triumph of the Bean Counters](74640ec9669a4ca9964b6a3aca93f336)
+* __Activation__: [Prada Seeds: Blooming Luxury with Fall Flowers](477eb369e45ddd2deab9a1d75fd105ec)
+* __Activism__: [Hope in the Dark: A Radical Case for Hope in Uncertain Times](fd193cbb838e7049c4d44c7dde929f83)
+* __Activisme écologique__: [Young Activists Express Climate Concerns](a33285a958e1c67e274803ca7ce0bec2)
+* __Activity partners__: [Rise of Dazi: Young People Seek Activity Partners](87daba98f9145e9744a49b5145ac69b2)
+* __Adaptation of education system__: [The Future of Strategic Decision-Making](c474eac8117547a89cac2c805652df9c)
+* __Adapting to ai in the classroom__: [The Impact of AI on Education](ea74b217d36ec570bb432fb5aa679090)
+* __Adaptive reuse apartments__: [Adaptive Reuse Apartments Surpass New Construction](8bff520dc945204951b32a6c4b10571e)
+* __Adding__: [The Power of Subtraction in Creating Change](954add221b754bf78bfb38199d5eb868)
+* __Adhd in the workplace__: [The Challenges of ADHD in the Workplace](5787bdf4f1ad4805a622fc45bf75f023)
+* __Advanced bionic limb__: [Revolutionary Prosthetic Provides Control and Comfort](90accf3ba55fb5e705bbaa47ad145c50)
+* __Advanced technology__: [Lightsail Propelled by Lasers to Alpha Centauri in 20 Years](ab18ee2e57a56da09f778c9640a935df)
+* __Advancements in ai__: [The Rapidly Accelerating AI Revolution](1dea025d0138e53b9f644748f63a15bc)
+* __Advancements in civil engineering__: [World's First 3D-Printed Steel Bridge Showcases Technology for Reduced Material Usage](73bdb86789ac19a60022e3bc5bb2b532)
+* __Advancements in generative ai__: [The Rapid Advancement of Cloning Technology](3827e85d7b233b583bd7e01c435cf758)
+* __Advancements in watch technology__: [The Rise of Hybrid Watchmaking](3c8e50874cd8552a38f5adab70ccd2b7)
+* __Advances in artificial intelligence__: [A.I. Threatens Lawyers, Again](2d3b20a8b6a2fbbb191cffd8ebba1792)
+* __Advances in language models__: [Advances in Large Language Models: Shaping the Future of Communication Technology](c41a64e50d0280a765ebdac4f8094446)
+* __Advances in medical imaging__: [MIT Engineers Develop Wearable Ultrasound Sticker for Continuous Internal Organ Imaging](046ecaa63b94e5eef69df0439e9d3246)
+* __Advantages of ai-based animations__: [The Dominance of AI in Animation](7335d2a0f0dbf2aa11f41457cdf15757)
+* __Advantages of chatgpt in agile coaching__: [ChatGPT Revolutionizes Agile Coaching and Scrum Mastering](30b8049b120d57889e375ced1e2a9bf4)
+* __Advantages of gen z in navigating software__: [The Technology Gap: Young Workers and Office Technology](5ae1107c845692a2acadc6565babc91b)
+* __Advantages of magnesium as a structural metal__: [Metal without Mining: The Rise of Magrathea](de8c393b7b1395557948cb50d90de996)
+* __Adventure__: [Dreamworld Adventures: A Journey of Hope](c9d940fff5521f56bf74a5d4369b9ec8), [Wandrer: Explore and Dominate Your City](1e568b1d4516b5aceb2cad850d46c5ce)
+* __Adventures__: [The Appeal of Every Single X Projects](3779ce60f2007ae200d6746d8d7b8eff)
+* __Adversarial attacks__: [The Rising Threat of Paraphrasing Attacks on AI Algorithms](e1fbb09ec5e66a8a6d4eff2126eefb40), [Safety Concerns and Automated Attacks on Large Language Models](74c58b0ca359725b4a116ff765656c7c)
+* __Adversarial attacks on object detectors__: [Adversarial Attacks on Object Detectors](76e3d69311e52896aa5c56f01119652f)
+* __Adversarial collaboration__: [The Future of Consciousness Science](098f4de4b2e0da23ef41a92329c5e761)
+* __Advertising__: [The Enduring Power of Matchbooks](cceff7fbb9450ceb8276d0c377e472e7), [France Fines Microsoft €60m for Advertising Cookies](002ee663c73c7add6ce2cabe29e4ae02)
+* __Aerodynamics of paper planes__: [The Dream of Paper Airplanes](73c432fc55c970bb0dbb98daa243daee)
+* __Aerospace and defense__: [Mysterious Balloon Shot Down by US Air Force](dc5cfeecd36c7e47dd1043c4c9d9be00)
+* __Affordability__: [Open Source Imaging Initiative: Affordable and Accessible Medical Imaging Devices](180db5379fd2e3f464d754d6d2eb27cb), [Telfar's Revolutionary Reverse Sale Empowers Customers](c4e67bccfa2804a74e675f9084b9e724)
+* __Affordability of broadband__: [One Million Cancel Broadband Amid Rising Living Costs](f71e17c8d36e6dbced874ff9a319e733)
+* __Ageism in the workplace__: [Retirees Returning to Workforce Amid Economic Challenges](2a489a36a1fa238ae4e3d65423f52e92)
+* __Agent architectures__: [Autonomous AI Agents: The Future of Prompt Engineering](af43a5b8a250454ff0fb2b559056ced2)
+* __Aging__: [Redefining Old Age](e9338e8177e66b338acd8753cbe0e3cf)
+* __Aging population__: [The Aging World and Its Consequences](a8bf5109e22909dfe327db0ee8f3853d)
+* __Agricultural innovation__: [E-seeds Drill Themselves into Soil](58c165e1a46408307f2b60f63df7c549)
+* __Agriculture__: [The Rise of Electroculture in Gardening](257c9d336364e061c817ec77db9e78f6)
+* __Ai__: [Discovering Overlooked Social Shifts with AI](a764338d3c1cf114377e3f619e246289), [The Power of Expert Prompts](52ec2cf0aebdc7af56249f1702652ebe), [The Influence of Technology in Science Fiction](98e4c4dae06ea72f38c74a55b3485d14), [The Age of AI: Opportunities and Responsibilities](2449c2fc4b8afc7e268db4987fa821e5), [The Rise of Context-Aware Digital Assistants](46267bf4740b29117588f603a5c41280)
+* __Ai adoption in the workplace__: [AI Adoption in the Workplace: Early Insights](19d1bd27c4a10919f3e37ca2bae470e6)
+* __Ai advancements__: [AI Disruption Outweighs Pandemic Impact](283ff70c63aed09ef2b0613f6acc2eb9)
+* __Ai agents__: [Creating Dynamic AI Agents With Langchain, OpenAI's GPT-4, and AWS](09d755bf91d4fd4e1adf09d7ee1f4656), [AI Agents in Cross Knowledge Base Search](b310338b1d3a90c8604a66294f636f65)
+* __Ai and employment__: [Review of "Power and Progress: Our Thousand-Year Struggle Over Technology and Prosperity"](997c962feb825d066ca4dc6e4742e8a9)
+* __Ai and jobs__: [The Impact of AI on Jobs](17cff4adea214f71c7a5eed15307b0e7)
+* __Ai and robotics companies__: [John Deere's Push into AI and Robotics](e623b9d82816485d864a5faeb2f0d15b)
+* __Ai as a feature in existing platforms__: [Generative AI's Monetization Dilemma](0c6842166e382f4956d21e22b38fa9c2)
+* __Ai as a kingmaker__: [AI as a Leveler and Kingmaker](217aa25bfccb56bceb69db3a0b5667f5)
+* __Ai as a leveler__: [AI as a Leveler and Kingmaker](217aa25bfccb56bceb69db3a0b5667f5)
+* __Ai as an escalator__: [AI as a Leveler and Kingmaker](217aa25bfccb56bceb69db3a0b5667f5)
+* __Ai chatbot security__: [Google's AI Chatbot Bard Raises Privacy Concerns](9962e2ca5ad5ea684e801c62fbed39d5)
+* __Ai chatbots in agriculture__: [KissanGPT: AI Chatbot Revolutionizing Indian Agriculture](5e0cf3d87729de23ddd89422be7a8b67)
+* __Ai content generation__: [Advancements in AI: Text-to-Video Generators](c98e6d5382ed734fcb33e34509a95e40)
+* __Ai development__: [Singapore's Trustworthy AI Development](4270753a719b34ed63a12b3917635193), [Britain's Path to AI Superpower](3b108349bb5694e7464319513b332d84), [Open Letter Calls for Pause on Training Powerful AI Systems](96bb44778e10efa6829f7ff9737593f2), [US Restricts Nvidia GPU Sales to Thwart China's AI Development](b79a2baa87b68283198416791b93bce4)
+* __Ai disruption__: [Holding Back the Strange AI Tide](5a06b540b77553f7524f17711d73eec4)
+* __Ai ethics__: [Microsoft Dissolves AI Ethics and Society Division](dc8173751ce4b0562a6a9cf47ee715ab), [Microsoft's AI Simulates Voice with Three Seconds of Audio](146bf2c4637290e20802f18dee14bbaf), [The AI Ethics Revolution: A Timeline](2b3dffe867d32d85c04baf149e2444ea)
+* __Ai ethics and governance__: [Challenges and Concerns in AI Deployment](382e9ebc1e518ee49e541da1e6b5f8af)
+* __Ai features in smartphones__: [AI and the Changing Landscape of Photography](447aaddba1b3b4ac319e14628e6ed8f2)
+* __Ai image generators__: [Kudurru: A Tool to Protect Artists from AI Image Generators](bc433d7cb21513ab55af7f1198e0fbb6)
+* __Ai image synthesis__: [Awesome AI Image Synthesis](715a430b9a04a5670095d5510883dcc2)
+* __Ai in architecture__: [Architects Face Existential Threat from AI](e9b5d9cc5e032f130b7daa9549d4b12c)
+* __Ai in biotechnology__: [AI-Designed Proteins Kill Bacteria in Lab](851488841bb139d3ed24048269cd0b9b)
+* __Ai in customer service and marketing__: [Generative AI's Monetization Dilemma](0c6842166e382f4956d21e22b38fa9c2)
+* __Ai in customer support__: [Boosting Productivity and Satisfaction with Generative AI](01bec9add8819c277aad7d7ba19983f7)
+* __Ai in design__: [AI Revolutionizes Aesthetics in QR Code Design](86c30e78e9e57491499a5be2fc2616d3), [The Impact of AI on Architecture](1f02642f54cf28611a00e4c83c1d428f)
+* __Ai in drug discovery__: [New Antibiotic Discovered with AI](bb7069f38ff720f7c4d690177ec5d9f9)
+* __Ai in education__: [Harvard's AI Chatbot to Teach Computer Science](e2cc63d7622564eb4cb5af13e8b2669c), [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
+* __Ai in healthcare__: [ChatGPT Outperforms Physicians in Patient Questions](47d0fd7d569a766b50f66eba76cb5c4d)
+* __Ai in neuroscience__: [AI Unlocks Human Brain's Secrets](e43c70d1c8c34f4587722ef456132b41)
+* __Ai in organizations__: [The Dilemma of Revealing AI Cyborgs](c42a95f16678ed3834840d48f8e775a3)
+* __Ai in politics__: [The Potential Impact of AI on Elections](3958ff20e8489240e2461aa8d0eee7b5)
+* __Ai in saas industry__: [The Role of AI in the SaaS Industry](df59e2cf3380ffd9aeac9a3e01073300)
+* __Ai in software development__: [The Future of Software Development: Self-Healing Code](b40abee8454abdd879147c0e086bb9c1)
+* __Ai in text generation__: [The Threat of Misinformation: Society's Battle](9787333cafcd0252d71a9bff845ad093)
+* __Ai integration in society__: [The Future of Tech and Society](074f7e40545f4b8edc9bdefa00b02f7b)
+* __Ai interaction__: [The Art of AI Response Shaping](b17aaf72b1537d9df1c51b5d72f6cb2c)
+* __Ai investment__: [Accenture to Invest $3 Billion in AI and Data Practice](27843e5a73ef87ecc09722d675599621)
+* __Ai investments__: [Nvidia's Stock Soars, Becoming a Trillion-Dollar Company](598eae9bc0f45fdaeee2d2ef811ad150)
+* __Ai models and applications__: [Generative AI's Monetization Dilemma](0c6842166e382f4956d21e22b38fa9c2)
+* __Ai personalities__: [ChatGPT: A Weapon Against Telemarketers](fae2a94efbea75250fc5914ef7d16991)
+* __Ai regulation__: [The New AI Panic](3c87907a359edc6a80187a597d0c3074), [OpenAI CEO Raises Concerns About AI Impact on Elections](fd96f58595786b0820cca21394223a66)
+* __Ai regulations__: [U.K. Government Collaborates with Tech Giants for AI Safety Research](7d282ab00a127ad93da225107b263810)
+* __Ai research__: [Challenges and Concerns in AI Deployment](382e9ebc1e518ee49e541da1e6b5f8af)
+* __Ai research and safety__: [U.K. Government Collaborates with Tech Giants for AI Safety Research](7d282ab00a127ad93da225107b263810)
+* __Ai research institutions__: [Vicuna: A Powerful Chatbot Model](e91b6e1d0dcf2c5d43dfddbf6a56310b)
+* __Ai revolution__: [AI 2041: Shaping Our Collective Future](1621aeb7941f2df0feefc2de14851249), [The Impact of AI on Middle Management](95ddb5a9e335a7f5f977a4ff7b1d17e3)
+* __Ai risks__: [The Framework for Assessing and Mitigating Risks in AI Systems](f87bcfb74a4a1db0ac38bd573144fd59)
+* __Ai safety__: [PoisonGPT: Hiding a Lobotomized LLM on Hugging Face](b268f9e806c263d171c7284941d84787), [Safety Concerns and Automated Attacks on Large Language Models](74c58b0ca359725b4a116ff765656c7c)
+* __Ai security__: [Vulnerabilities in Auto-GPT Enable Code Execution and Docker Escape](ee8cb7b5bbd170389172ba959bc53d8a), [The Glitchy, Spammy, Scammy AI-Powered Internet](b30a4282af9e53ca673438a8223d9525), [The Rising Threat of Paraphrasing Attacks on AI Algorithms](e1fbb09ec5e66a8a6d4eff2126eefb40)
+* __Ai security cameras__: [$71 Coat Makes Wearers Invisible to AI Security Cameras](4140e375969a4396e244eb285ef19caa)
+* __Ai services and data training__: [Zoom's Terms of Service Update Allows AI Training with Customer Data](3b96c74f728c6281fc7f1a045a5befc7)
+* __Ai software development__: [MetaGPT: The Multi-Agent Framework](0cf9069c3a60ab8376522614af32de62)
+* __Ai system__: [Introducing DALL·E 2: AI Creates Realistic Images from Text](ecf73eea05a6aaa8e7d76dc06f735adf)
+* __Ai technology__: [New AI Tools Preserve Memories of Deceased Relatives](b7dd6fe41c7bd9a4a04c30adfd020de4), [French Tax Authorities Use AI to Uncover Undeclared Swimming Pools](e3a48e3d81fad129f8f77e290bbdea1f), [The Threat of Authoritarian Intelligence](0ba4fa557cd2aae4760bd7a2abca844e)
+* __Ai tools__: [Harvard's AI Chatbot to Teach Computer Science](e2cc63d7622564eb4cb5af13e8b2669c)
+* __Ai training__: [Writers Sue OpenAI Over Copyright Infringement](a238d311a34b43af7599af5c8ad1e41f)
+* __Ai use cases in various departments__: [The Role of AI in the SaaS Industry](df59e2cf3380ffd9aeac9a3e01073300)
+* __Ai voice impersonation scams__: [AI Voice Simulators Enable Scammers to Exploit Vulnerable Individuals](0a49a5c0770b63ff41a4b19b66e478b1)
+* __Ai-assisted writing__: [Wordcraft: AI-Powered Writing Workshop and Tools](3acd488d3b86b4637bd78d0f3f3e0e65)
+* __Ai-based applications__: [The Rise of Understanding-based Software](2feb921909e9c0903f0cd9af69456416)
+* __Ai-driven automation__: [The Impact of AI on White-Collar Workers](ce379c62e35a93a1d93fce2061cabb74)
+* __Ai-generated art__: [The Controversy Surrounding AI-Generated Art in Anime and Manga Circles](a1ccaf4e8c6dd14b4b2b522e2d8c2c89), [The Rise of AI-Generated Art](536d1aaf84afa5bf10493f03cbb3d38d)
+* __Ai-generated artwork__: [New York Artist Receives Copyright for AI-Generated Graphic Novel](9191375fe5b80e2b93a7369a79e63957)
+* __Ai-generated content__: [The Unraveling of Reality: Navigating the Age of Misinformation and AI-Generated Content](8153f078ef61c55ca0067c735b0d6677), [Rise of AI-Written Content Raises Concerns](dcb77b655838bfb2e77e5440c5b3a3b5), [The Silent War of AI Garbage](3511302490614d3c929e357a98349e26)
+* __Ai-generated data__: [Automation and AI in Mechanical Turk](e2bfc7a2318b0eac62f4f2af28722802)
+* __Ai-generated images__: [Google DeepMind Launches Watermarking Tool for AI-Generated Images](2bf4929ce2ec00fa01290394feb3112a)
+* __Ai-generated material__: [Copyright Office's Policy on AI-generated Content](55f8b86061b91388635decadefac4732)
+* __Ai-generated music__: [GrimesAI Partners with Elf.Tech for AI-Generated Music](60c07fb2fe0247877a8e0c8b64c26a82)
+* __Ai-generated porn__: [Unstable Diffusion: Building an AI-Powered Porn Generation Community](12a56596b967f41841a5c1dfd6a78680)
+* __Ai-generated vocalizations__: [Advancing Bioacoustics Research with AI](d4bf4886c516db4ccba211674c96d7b9)
+* __Ai-powered applications__: [OpenAI API Offers ChatGPT and Whisper Models for Cutting-Edge Language and Speech Capabilities](f32225d82f694ac574f0d39580ff68ad)
+* __Ai-powered features__: [Microsoft Launches AI-Powered Microsoft Teams Premium](d972fef45251bd965bd3d5d331ffe6dd)
+* __Ai-powered virtual influencers__: [The Rise of Virtual Humans in China](ed6be3a2a502c8a0bedd63d8ab1c8d9e)
+* __Ai-written e-books__: [ChatGPT Launches AI-Written E-Books Boom](23b1a43c321ff714805ff4bc83829491)
+* __Air purification__: [Natural Air Purifiers: Plant Power](a0e48b4839649f3f833b1a9b21d0dfbc)
+* __Airline boarding process__: [United Airlines to Prioritize Window Seat Passengers in Economy Boarding Process](2978134725e2d7543f50469f53a5ca3d)
+* __Alaska seafood industry__: [Alaska Snow Crab Season Canceled as Officials Investigate Disappearance of 1 Billion Crabs](7e83f7bbd34b9f20b0dbd61cdbb0dcdf)
+* __Algae technology__: [Algae Battery Powers Computers for Months](9559f29e7d2ffd92fae98e95a62d0169)
+* __Algorithmic impact assessment__: [Algorithmic Impact Assessment for Government Automation](f4c4b44832de983ad30047e9b2632bc1)
+* __Algorithmic influence__: [The Silent War of AI Garbage](3511302490614d3c929e357a98349e26)
+* __Algorithmic profiling__: [The Bespoke Internet: Algorithmic Portraits and the Loss of Self](70ebc812b72117e2ce11248d77ec7d37)
+* __Algospeak__: [The Rise of Algospeak: Americans Evade Detection with Code Words on Social Media](fe5ece17d1050e9097bd9a2e6e0ef50c)
+* __Alternative data sources__: [Central Banks Utilize Alternative Data Sources](cd782a2ff57b412ca4648658d822a401)
+* __Alternative data usage__: [Growing Adoption of Alternative Data by Investors](6df05418720b20b7f2cec0056111cae6)
+* __Alternative education__: [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
+* __Alternative fuel infrastructure__: [Fast Chargers Every 60 km on EU Motorways](e2516b1308d891acd71bba3b68fa923b)
+* __Alternative learning methods__: [Overlooking Subtraction: Why We Prefer Additive Solutions](2e40e579c2cb2d331026efcbcd98daed)
+* __Alternative lösungen__: [Hardware Replacement for German Health Data Network Unnecessary, Says Chaos Computer Club](da08e20881548c71478cec75549ec48c)
+* __Alternative models for conflict resolution__: [Rethinking Wargames for Conflict Resolution](290b39e08f51973a22385822003f38c2)
+* __Alternative power sources__: [Algae Battery Powers Computers for Months](9559f29e7d2ffd92fae98e95a62d0169)
+* __Alternative to trees__: [New 'Liquid Trees' Divide the Internet](b8164554d14e302dac8ca428de8376dd)
+* __Alternative transportation options__: [More ways to drive sustainably and save money with Google Maps](55366e80872f51490910ad01315a8437)
+* __Amazon expansion in healthcare__: [Amazon Expands into Mental Health Services](3d4aee592248f940acdac6ffab5ec4aa)
+* __Ambiguity in categorizing psychedelics__: [The Categorization Conundrum of Psychedelics](13d07c8b2cd28b1d14da1f2b37f956f4)
+* __American literature__: [Cormac McCarthy's Venomous Fiction](b75f2d908abb3ba97b7673a475bbf36b)
+* __Analog astronaut research__: [Inside The Small World of Simulating Other Worlds](37c74ca68455427ad4912697a407f23c)
+* __Analog music experience__: [The Unique Experience of Tokyo's Audiophile Bars](0505a73ce4b14c86bd62f374ef83abc9)
+* __Analytical choices in research__: [Analyzing Reproducibility in Ecology Research](6ca0eb61f6679e513cde2fa1b3637de7)
+* __Analytics__: [Information Collection and Cookie Usage](a33c07b3f96448f9af29b9e59a080b73)
+* __Ancient languages__: [New AI Translates 5,000-Year-Old Cuneiform Tablets Instantly](e1e397524180919a904633560234ef77)
+* __Ancient roman concrete__: [Ancient Roman Concrete's Self-Healing Secrets](dcc82775665509b084b18fdd5f56ad2b)
+* __Ancient supply chains__: [Ancient Tin Supply Chains Revealed](7b0e1c9311dae19679aa54d541ef47f0)
+* __And argentina__: [The Struggles of Gig Workers Amid Rising Inflation](d5620f5b1f4a80563ac4f5d523804658)
+* __And aws__: [Creating Dynamic AI Agents With Langchain, OpenAI's GPT-4, and AWS](09d755bf91d4fd4e1adf09d7ee1f4656)
+* __And photonic computing__: [Time Reflections with Light Waves](4276927d1e8af2054511c6ea72f2a9d4)
+* __Animal behavior__: [Bumblebees: Cultural Learning Among Insects](2394a07d8b41ae57fc3d67bd80e7f751)
+* __Animal behavior research__: [Advancing Bioacoustics Research with AI](d4bf4886c516db4ccba211674c96d7b9)
+* __Animal cloning__: [Camel Cloning: A Popular Practice in Dubai](646824b48390d9ff516d3e6ef2e44c82)
+* __Animal cognition__: [The Cognitive Spiderweb: Extending Cognition to the Web](870cf0da8080715e60bf3cef2094cc2a)
+* __Animal communication__: [The Mystery and Magic of Purring](373ad0793a04ce22222c53103c6fadb8)
+* __Animal intelligence__: [Pigeons Identify Breast Cancer 'As Well As Humans'](96d6452fd513ef2ffdbc3d761b7d24e1)
+* __Animal sentience__: [Sentience in Insects: Ethical Implications and the Need for Further Research](a2655cb820f74828eabbac3f12217ce2)
+* __Animal welfare__: [AI Detects Chicken Distress Calls](00d042b803c0388634125c2ea6caab24)
+* __Anime and manga industry__: [The Controversy Surrounding AI-Generated Art in Anime and Manga Circles](a1ccaf4e8c6dd14b4b2b522e2d8c2c89)
+* __Anonymity and privacy__: [The Rise of Online Anonymity](52a829c92d96543f396d37b44440c475)
+* __Anti-submarine technology__: [Natural Sounds Take on Military Sonar](21724ff06f805efad0fe188ab899b1cc)
+* __Antibiotic development__: [New Antibiotic Discovered with AI](bb7069f38ff720f7c4d690177ec5d9f9)
+* __Antifungal resistance__: [Urgent threat: Drug-resistant fungus invading health care facilities](d28d19739c279a21eb19cac312e67bea)
+* __Antimicrobial proteins__: [AI-Designed Proteins Kill Bacteria in Lab](851488841bb139d3ed24048269cd0b9b)
+* __Antitrust regulation__: [The Battle for Publishing's Soul](6f56632efb0caa5753792bd870d5a6ff)
+* __Apple device security__: [Hackers Can Spam iPhones with Annoying Pop-ups](a94bc00d909eee777b372b65a0eedda5)
+* __Apple products__: [France Investigates Apple's Planned Obsolescence of iPhones](e8e4a3bb6ffd1901ed8c146981e973d7)
+* __Apples next big thing__: [Apple's Shift Towards Services and Conquest Mode](31746b76bca4763be83b7055f34a192f)
+* __Applications in wireless communications__: [Time Reflections with Light Waves](4276927d1e8af2054511c6ea72f2a9d4)
+* __Applied learning project__: [Futures Thinking Specialization: Build Your Future Forecasting Skills](226ad3d32e12d879b3dc823094486440)
+* __Appreciation for subtlety__: [Neophilia and Its Discontents](bd85751af600abe8c39229eb4ba07c1c)
+* __April fool’s day__: [The Unraveling of Reality: Navigating the Age of Misinformation and AI-Generated Content](8153f078ef61c55ca0067c735b0d6677)
+* __Archaeology__: [Mysterious Underground City Found in Turkey](8f692340509e6a4be9518522b4cca022), [New AI Translates 5,000-Year-Old Cuneiform Tablets Instantly](e1e397524180919a904633560234ef77)
+* __Architecture__: [Architectural Challenge of the Present: Adaptive Reuse](cf7cc3361b8139c51e3e97835a2da4e4), [Villa M: A Nature-Filled Hotel in Paris](2e9f6055b67e6e737e006c2aab6edddb), [The Metaverse Hype: A Costly Failure](6f71a216712969ccfb48faf7968a552b), [Architectural Photography Awards: Celebrating Mesmerising Shots](69ac5a2641a2485bc782c70c7d2ff09c)
+* __Architecture and ai__: [The Impact of AI on Architecture](1f02642f54cf28611a00e4c83c1d428f)
+* __Argentinian soccer__: [The Rise and Fall of Sportswashing](b9eeb2b04f3385d366abefa9a17dbb80)
+* __Armour technology__: [Aluminium Oxynitride: A Transparent Ceramic](e876b9aff5eeb4d2818cf0c621214c38)
+* __Army recruitment challenges__: [Army Struggles to Hire Cyber Security Experts Amidst Business Competition](9a34e1185220f0646d9672d1430ce579)
+* __Art__: [A Street Full of Splendid Strangers](ab6e3fcdacd5615fd45dda4664c395e5), [Circuit Sculpture: COSMO-SkyMed Satellite Replica](02024bd4585d5e7049a4ffb380a2a07a), [Tattooing Rembrandt's Art: A Unique Experience](29baa78392020ba51b3c2a8fd533e8fe)
+* __Artificial general intelligence__: [Sparks of Artificial General Intelligence: GPT-4's Potential](d7a339503dbb7c228209c98702d1afcf)
+* __Artificial intelligence__: [Building a Knowledge Graph with Chat-GPT and Python](7ff6239e13a43e856fa36887902c5ede), [Creating Your Own AI-Powered Second Brain](b37c215f9aa0336c774381f68e795d5c), [Creating Dynamic AI Agents With Langchain, OpenAI's GPT-4, and AWS](09d755bf91d4fd4e1adf09d7ee1f4656), [AdventureGPT: Enhancing Text-Based Adventure Games](191070a30a1d11509e1f783a0ca8e8e0), [Microsoft's GitHub Copilot Exceeds $100 Million in Annual Revenue](7e5c1ed5c33c7dbc323cd0264cc94099), [ProfileGPT: Analyzing Your ChatGPT Profile](d654733a20e73da64a2f741bc2e422b0), [Meta's AI Masters Diplomacy Strategy Game](1c2a9187767ce0f3e0f34b65dab0f83f), [Artisanal Intelligence: The Spawn Collection](b1b8a02e5d2badf1881b81741a66ba86), [Bing AI: A New Era of Search](08d574bcc0280a4ca5a4b2a48357d6b7), [Unpredictable AI: When Machines Outsmart Humans](48f89d6d7e552a0a5b1f6b59d7eeb0e9), [Amazon Plans to Turn Deceased Loved Ones' Voices into Digital Assistants](316c2bc07bdae32ea05595973043b766), [Mastering AI Summarization: Your Ultimate Productivity Hack](e0f6ae75e034df0a32044fe8a9075673), [Bigbug: A French Sci-Fi Comedy](0e3aecb9945b5787eebfacb7ab40e7cb), [Microsoft Launches Bug Bounty Program for AI-Powered Bing](917c65b1876df03d3794348b22d9fb31), [The Impact of AI on Lobbying and Microlegislation](c47825b39c3c52d3b664efa5201aca44), [GPTs and the Understanding Paradox](4f6886eaaf3ef1d684792f6ec5b435de), [Computer Chip with Human Brain Tissue Receives Military Funding](fcf584bddde6a0c4ccaf5ab8eadded1e), [Alibaba Opens AI Model for Third-Party Developers](705bb257b4c899939cc0c550f0b9d2fa), [Voyager: An Open-Ended Embodied Agent](8af9bffc11d191445956ffcef1627c38), [Microsoft 365 Copilot: Revolutionizing Work with AI](590d9ca642d30a1f2e4720f11b28474f), [Nvidia Chief Technology Officer: Cryptocurrencies Bring No Value to Society](07715b9a363b2fb7f1368bfadad78052), [ChatGPT + Wolfram is INSANE!](c73fef52122dff9becbe63751648eea0), [Potential Job Automation Sparks AI Disruption](8bf628f811052831ab699f75caeb0205), [BT to Cut 55,000 Jobs with AI Replacements](da0fa1a06318988fea10c8218d2e8c47), [The Rise of Prompt Engineering: Programming in Prose to Unlock AI's Potential](53018e7a9d2e14b74909db8761a9cd9d), [Q-bear: An AI Baby Crying Translator](4bc37b93dce61c4d9b064a7edd11e76f), [Chinese Tech Giants Go All-In on Nvidia's HPC Products](b4cc7b5ac1c99e45eb6fc1f733189405), [New Tool Nightshade Allows Artists to Fight Back Against Generative AI](737fd00bafc163f8b17f187f41d6567a), [Autonomous Dual-Chatbot System for Research Paper Digesting](3f2d71fd29e59b34cde2af2dd3222940), [Enhancing Creativity with Generative AI](e2006a4269f097491cc98583df08a47d), [The Impact of AI on Art](cc1340400b9dfbf32bfc3d546cf0b7b3), [Alexa Voice Assistant Replicates Human Voices](95a21e5407df1f9dfe1f323e5a827e94), [Microsoft to Launch GPT-4 with Video Features](8095d5362758bd66fc6f6c393edb3d8a), [U.S. Copyright Office Rejects A.I. Art Copyright](fc78d6a757326382f385c8b5504ad6f9), [The Rise of Superintelligence and Singularity](5d18d0fdee756046650b4c957ac43730), [Google DeepMind Launches Watermarking Tool for AI-Generated Images](d5c399872ea4d28def48f650503511a0)
+* __Artificial intelligence as a tool__: [The Misleading Myth of Artificial Intelligence](15c812523685076326204f061bf025cd)
+* __Artificial intelligence in art__: [The Copyright Conundrum of AI-Generated Art](2cfdc6fba6f11e089c2df3cda1604174)
+* __Artificial intelligence in creative work__: [Exploring the Creative Potential of DALL-E 2](c62d2942a1454cd9810be2b3a93f7bc6)
+* __Artificial intelligence in finance__: [AI Threatens Financial Meltdown, Warns SEC Chairman](c24651d7a89dbc792142e26a99579bfe)
+* __Artificial intelligence in marketing__: [Codeword Employs AI "Interns" for Marketing Tasks](5965b7dd732cc0a0062bde87207b0a77)
+* __Artisanat__: [The Role of Human Gesture in Mass Production](27948f54570ab56d95fdc708d3119801)
+* __Artistic advice__: [Weekly Reflections and Creative Inspiration](1bc6c11e394022139f8af61a7554a7ec)
+* __Artistic inspiration__: [Oblique Strategies: Overcoming Creative Blocks](624594b96816ab42c43832aa315bf3b7)
+* __Artists and platforms__: [Breaking the Mold: Winning in the Networked Counterculture](e5f4b1b4319694169f1551be43a837c9)
+* __Artists rights__: [Kudurru: A Tool to Protect Artists from AI Image Generators](bc433d7cb21513ab55af7f1198e0fbb6)
+* __Arts and culture__: [The Honest Broker: Half of Waking Hours Are Now Devoted to Entertainment](c5c2c794f1426e6e307a9df3f9ff61f6)
+* __Aspirations des collaborateurs__: [Challenges and Aspirations in Future of Work](5238d6b8178d6f9c71b66a2fa84b7880)
+* __Asset monopolization__: [Corporate Subscription Serfdom: Training Our Children for a Life of Dependency](6bccf38c9e97c992a3f5861fc6297380)
+* __Assistive technology__: [Cybathlon 2020: Pushing Assistive Technology Forward](012da0fd0aa5dad27caf91e3bd4b238f)
+* __Asteroid deflection__: [DART Mission Successfully Alters Asteroid Orbit](3104ce7da8c0d2b90e007402d07a930a)
+* __Astrology and spirituality in the digital age__: [The Rise of AI in Spiritual Practices](17e9c012b464f1087cfd8fc6f9425ed5)
+* __Attention economy__: [Breaking the Mold: Winning in the Networked Counterculture](e5f4b1b4319694169f1551be43a837c9)
+* __Attention management__: [The Danger of Continuous Partial Attention](417df5448432cb603f40dec77f469b87)
+* __Attention scarcity__: [The Impact of LLMs on Information Post-Scarcity](f87ae242f79a85b180657a74b814aa0f)
+* __Audio deepfakes__: [Microsoft's AI Simulates Voice with Three Seconds of Audio](146bf2c4637290e20802f18dee14bbaf)
+* __Authoritarian intelligence__: [The Threat of Authoritarian Intelligence](0ba4fa557cd2aae4760bd7a2abca844e)
+* __Authorship__: [U.S. Copyright Office Rejects A.I. Art Copyright](fc78d6a757326382f385c8b5504ad6f9)
+* __Autobiography__: [Rebellion against Immortality in Canon Space](9eefc7af8fe73583fb04d6a71d5c327c)
+* __Automated systems and privacy__: [Blueprint for an AI Bill of Rights](dcddf63f302269a8c3b2f255e4e94c3b)
+* __Automation__: [Ikea Utilizes Drones for Inventory Monitoring](73c05925a7ca7e2fe6fd64b7074f4098), [Algorithmic Impact Assessment for Government Automation](f4c4b44832de983ad30047e9b2632bc1), [Potential Job Automation Sparks AI Disruption](8bf628f811052831ab699f75caeb0205), [Automating SQL with GPT-3](492f4356567de26e0afe1f008454e899), [Ironies of Automation: The Paradox of Increasing Dependence on Skilled Operators](6a67048dd9edce24a136022c6ce0c2eb), [Automation and AI in Mechanical Turk](e2bfc7a2318b0eac62f4f2af28722802), [Hotels Turn to Robots as Staffing Shortages Persist](b35030f7ffb9e082dea84058ac63f3ca)
+* __Automation and economic system__: [The Problem With AI and Capitalism](cc3c2afb44e50f74152fd58c92f5b418)
+* __Automation and inequality__: [Review of "Power and Progress: Our Thousand-Year Struggle Over Technology and Prosperity"](997c962feb825d066ca4dc6e4742e8a9)
+* __Automation in agency workflows__: [The Impact of AI on Ad Agency Jobs](54491b49e9fd2c6eab777dca0ba67e76)
+* __Automation in customer service__: [The Battle with A.I. in Call Centers](56beef7b04fba80fbf7a9b4625af80b1)
+* __Automation in elder care__: [The Limitations of Care Robots in Japan's Elder Care System](ac120c377b70b80fe25a6cce1d0b7fe6)
+* __Automation in retail__: [The Impact of AI on Middle Management](95ddb5a9e335a7f5f977a4ff7b1d17e3)
+* __Automation in rituals__: [The Rise of Robotic Rituals](829fd6babd3e70a7b19c444588fad9d0)
+* __Automation in saas industry__: [The Role of AI in the SaaS Industry](df59e2cf3380ffd9aeac9a3e01073300)
+* __Automation in the workplace__: [Codeword Employs AI "Interns" for Marketing Tasks](5965b7dd732cc0a0062bde87207b0a77)
+* __Automotive industry__: [The End of Spare Parts Edition](633655a8e8a99ad217f019928a2b8dc1)
+* __Autonomous agents__: [The Power of Autonomous Agents: Promises and Limitations](0e336ce2e4b07459b257407e90d27389), [A Comprehensive Guide to Autonomous Agents with GPT](2dda4be3e1a9f11b4f7d8e74feea76b0)
+* __Autonomous ai agents__: [Autonomous AI Agents: The Future of Prompt Engineering](af43a5b8a250454ff0fb2b559056ced2)
+* __Autonomous driving technology__: [Who Actually Owns Tesla’s Data?](aa8144a7a9cdc5baa399df0daa112f75)
+* __Autonomous farming__: [John Deere's Push into AI and Robotics](e623b9d82816485d864a5faeb2f0d15b)
+* __Aviation__: [The Big Blimp Boom: Building Futuristic LTAs](6d08036a53cd3136ac5a71006b4ca40e), [Mysterious Balloon Shot Down by US Air Force](dc5cfeecd36c7e47dd1043c4c9d9be00)
+* __Aviation history__: [How to Spot a ‘Short Snorter’](daef40b0f763b6fa0b4a29a645ab5ee7)
+* __Aviation industry shortage__: [United Airlines to Prioritize Window Seat Passengers in Economy Boarding Process](2978134725e2d7543f50469f53a5ca3d)
+* __Awards__: [Architectural Photography Awards: Celebrating Mesmerising Shots](69ac5a2641a2485bc782c70c7d2ff09c)
 
 ## Letter 'B' 
 
 
-* __b2b marketplaces__: 
-* __baby care__: [Q-bear: An AI Baby Crying Translator](4bc37b93dce61c4d9b064a7edd11e76f)
-* __bacteria__: [Bacterial Infection Linked to Endometriosis](6df4f7525be593be2a48f96ee7e49dd2)
-* __banques et assurances__: [The Decline of Cobol Programmers](6062bbe324042e8bde50ca43b821a182)
-* __basic income__: 
-* __basket weaving__: [Exploring Industrial Weaving in Stephen Burks' Workshop](c0d68c0d91d462d071fa1e111735f9b8)
-* __battery life__: [Amazon Unveils Kindle Scribe, a Tablet-like Ebook Reader](69637dcd83c48ebde0610a61a27b1989)
-* __battery management__: [Repurposing Old Phones for Personal Projects](40aa9f2abd08b4cefd81827111b64979)
-* __battery metal supply__: 
-* __battery production__: 
-* __beauty__: [A Street Full of Splendid Strangers](ab6e3fcdacd5615fd45dda4664c395e5)
-* __beauty industry__: [Microsoft Teams Introduces AI-Powered Virtual Makeup Filters](9ec176fcee45ff89d5197430aacc81d7)
-* __bedtime routines__: [Bedtime Rituals and Sleep Quality: A Survey of American Adults](615b115fc368aacddda24fb30f9ddf44)
-* __beekeeping__: 
-* __benefits and challenges of ai integration__: 
-* __benefits and challenges of generative ai__: 
-* __benefits and limitations of ai in consulting tasks__: 
-* __benefits of vertical saas for customers__: 
-* __bias towards additive solutions__: [Overlooking Subtraction: Why We Prefer Additive Solutions](2e40e579c2cb2d331026efcbcd98daed)
-* __big four firms__: [The Triumph of the Bean Counters](74640ec9669a4ca9964b6a3aca93f336)
-* __bike-sharing__: 
-* __bing integration__: 
-* __bioacoustics__: 
-* __bioacoustics research__: [Advancing Bioacoustics Research with AI](d4bf4886c516db4ccba211674c96d7b9)
-* __biodegradable electronics__: 
-* __biodegradable materials__: [Biodegradable Film: A Sustainable Packaging Solution](b442f3c78716d0a22167e5fc4359f276)
-* __biodiversité__: [Opening of 4 Kilometers of Green Spaces on the Petite Ceinture](ac4c193101d4a7d81e4a96b453ea7606)
-* __bioelectronics__: [Ultrasonic Wireless 'Neural Dust' Sensors Monitor Nerves, Muscles in Real Time](feadfd4aa3133e938a6f6e6d7d2c018e)
-* __bioengineering__: 
-* __biofilm formation__: [Cross-Kingdom Partnership Creates Superorganism](2af3e931e394e21223d8e983e2dd43b7)
-* __biofuels__: 
-* __biological computing__: [The Intelligence of Ecosystems and LLMs](607bce5ceffd29c4ba8997068ebde091), [Computer Chip with Human Brain Tissue Receives Military Funding](fcf584bddde6a0c4ccaf5ab8eadded1e)
-* __biological innovation__: 
-* __biomedical applications__: 
-* __biomedical engineering__: [Revolutionizing Medical Technologies with Optrodes](7aeb03c0771769ceb99c3085c141c1fe)
-* __biometric data__: 
-* __biometric identification__: [Security Flaw in Australian Government's Voice Identification System](f34407cbb44c57483e2640455a12b9c8)
-* __biometrics__: 
-* __blockchain technology__: 
-* __blue whale songs__: [The Mystery of Changing Blue Whale Songs](6184e76d86ed2dbc8968722327f70c5b)
-* __bluetooth vulnerabilities__: 
-* __bmw features__: 
-* __boat encounters__: [Orca Rams Into Yacht Near Scotland, Suggesting Behavior Spread](ec53d1856ccf49df631de3516f6aa6a2)
-* __body temperature regulation__: [Unique Adaptation Allows Sharks to Hunt in Cold Waters](27a3a94222f061917b211c94d1d3ee92)
-* __books__: [More Than Human: A Tale of Extraordinary Abilities](77595bdbe88b77ce40b280494110bbf5), [Hope in the Dark: A Radical Case for Hope in Uncertain Times](fd193cbb838e7049c4d44c7dde929f83), [A Desolation Called Peace (Teixcalaan, #2)](289d72624afd0bb868b1d4c7a26cf352)
-* __boosting cognitive competences in online environments__: [Boosting Competences for the Online World](0770afeb444e4bbb336cdc72c07d6688)
-* __boosting via digital environments__: [Boosting Competences for the Online World](0770afeb444e4bbb336cdc72c07d6688)
-* __botany__: 
-* __bottom-up initiatives__: [The Importance of Clear Strategy Choices](b393d3164c1634957a3bc8e2ae733b41)
-* __brain study__: [AI Unlocks Human Brain's Secrets](e43c70d1c8c34f4587722ef456132b41)
-* __brainstorming__: 
-* __brand control__: [The Secondhand Watch Revolution](d41096d7ca7f38f50a5dbfeef8b3c398)
-* __brand loyalty__: 
-* __brand recognition__: [Netflix to Open Immersive Retail Experience](69ac0a51474dc55424e5281c7b649cad)
-* __brand reputation__: [The Future of Media: Monetizing Talent](be6ecdd999bc41789029c9d32a86c51b)
-* __branding opportunities with virtual idols__: 
-* __breast cancer screening__: 
-* __brexit impact__: 
-* __bridging the information gap__: [KissanGPT: AI Chatbot Revolutionizing Indian Agriculture](5e0cf3d87729de23ddd89422be7a8b67)
-* __british colonialism__: 
-* __british innovation__: 
-* __bronze age__: 
-* __bruce willis career__: 
-* __budget impact__: [The Economic Consequences of Europe's Energy War](eab98729272b0f85f67258553c6590c7)
-* __bug bounty program__: [Microsoft Launches Bug Bounty Program for AI-Powered Bing](917c65b1876df03d3794348b22d9fb31)
-* __building a successful business__: 
-* __building with large language models__: 
-* __building with llms__: 
-* __bureaucracy__: [Simple Sabotage Techniques in WWII](e62131b4a0555020af785377276bcd76)
-* __business__: 
-* __business growth__: [Domino's Faces Pressure Amid Delivery Challenges](07091cec2b85e059cd1a0fa65cbcfed4)
-* __business model change__: [Apple's Shift Towards Services and Conquest Mode](31746b76bca4763be83b7055f34a192f)
-* __business models__: [The Future of Media: Monetizing Talent](be6ecdd999bc41789029c9d32a86c51b)
-* __business opportunities__: [Evaluating GPT Startups: The Three-Hills Model](d1df6602870d6b0ed820af0e9ab76a80)
-* __business strategy__: [Digital Reinvention: The Key to Law Firm Success](f9f1a04c9e44cac963fd3522f407a5e8)
+* __B2b marketplaces__: [The $100 Trillion Opportunity in B2B Marketplaces](50aefdd8b2bffa1bb84f8460c7b559c2)
+* __Baby care__: [Q-bear: An AI Baby Crying Translator](4bc37b93dce61c4d9b064a7edd11e76f)
+* __Bacteria__: [Bacterial Infection Linked to Endometriosis](6df4f7525be593be2a48f96ee7e49dd2)
+* __Banques et assurances__: [The Decline of Cobol Programmers](6062bbe324042e8bde50ca43b821a182)
+* __Basic income__: [The Toothpaste Argument for Universal Basic Income](618c3b31c0c4ef4e6b764a04f0f09601)
+* __Basket weaving__: [Exploring Industrial Weaving in Stephen Burks' Workshop](c0d68c0d91d462d071fa1e111735f9b8)
+* __Battery life__: [Amazon Unveils Kindle Scribe, a Tablet-like Ebook Reader](69637dcd83c48ebde0610a61a27b1989)
+* __Battery management__: [Repurposing Old Phones for Personal Projects](40aa9f2abd08b4cefd81827111b64979)
+* __Battery metal supply__: [The Future of Electric Vehicles: Potential Supply Shortages Threaten Growth](e2d1170995334c5c5e09b403ac8d3dcc)
+* __Battery production__: [Deep-Sea Mining to Alleviate Battery-Metal Shortage](6b18b39f68d14f9f899e642ccfb90ba5)
+* __Beauty__: [A Street Full of Splendid Strangers](ab6e3fcdacd5615fd45dda4664c395e5)
+* __Beauty industry__: [Microsoft Teams Introduces AI-Powered Virtual Makeup Filters](9ec176fcee45ff89d5197430aacc81d7)
+* __Bedtime routines__: [Bedtime Rituals and Sleep Quality: A Survey of American Adults](615b115fc368aacddda24fb30f9ddf44)
+* __Beekeeping__: [The Ecological Challenge of Honey Bees](4dfe18ed5e6333c9893bad9059e7e540)
+* __Benefits and challenges of ai integration__: [The Impact of AI on Education](ea74b217d36ec570bb432fb5aa679090)
+* __Benefits and challenges of generative ai__: [The Impact of Generative AI on Middle Managers](4427e1d7ce3ce8d0a6f40cb808f69b6a)
+* __Benefits and limitations of ai in consulting tasks__: [The Impact of AI on Knowledge Worker Productivity and Quality](c63bd059cb529b72b00ecbdcd2f85268)
+* __Benefits of vertical saas for customers__: [Vertical Software: Winning in Uncertain Markets](222a890517ae08e77a3cc5d6d37516c4)
+* __Bias towards additive solutions__: [Overlooking Subtraction: Why We Prefer Additive Solutions](2e40e579c2cb2d331026efcbcd98daed)
+* __Big four firms__: [The Triumph of the Bean Counters](74640ec9669a4ca9964b6a3aca93f336)
+* __Bike-sharing__: [The Sound of Anti-Capitalism: Free Lime Bike Rides in London](b4b3be8d92e53825dcda70087d005f12)
+* __Bing integration__: [Microsoft to Launch GPT-4 with Video Features](8095d5362758bd66fc6f6c393edb3d8a)
+* __Bioacoustics__: [Bioacoustics: Unlocking the Language of Nature](db2690cf7530366ddf6f9606b830f782)
+* __Bioacoustics research__: [Advancing Bioacoustics Research with AI](d4bf4886c516db4ccba211674c96d7b9)
+* __Biodegradable electronics__: [Mushroom-Derived Electronics: Biodegradable and Sustainable](58b1d4282237f41c4a33e71179c1ea4b)
+* __Biodegradable materials__: [Biodegradable Film: A Sustainable Packaging Solution](b442f3c78716d0a22167e5fc4359f276)
+* __Biodiversité__: [Opening of 4 Kilometers of Green Spaces on the Petite Ceinture](ac4c193101d4a7d81e4a96b453ea7606)
+* __Bioelectronics__: [Ultrasonic Wireless 'Neural Dust' Sensors Monitor Nerves, Muscles in Real Time](feadfd4aa3133e938a6f6e6d7d2c018e)
+* __Bioengineering__: [Natural Air Purifiers: Plant Power](a0e48b4839649f3f833b1a9b21d0dfbc)
+* __Biofilm formation__: [Cross-Kingdom Partnership Creates Superorganism](2af3e931e394e21223d8e983e2dd43b7)
+* __Biofuels__: [Harvesting Electricity from Plants: A Sustainable Breakthrough](b84bf2742e851da35bfd23220e697b3c)
+* __Biological computing__: [The Intelligence of Ecosystems and LLMs](607bce5ceffd29c4ba8997068ebde091), [Computer Chip with Human Brain Tissue Receives Military Funding](fcf584bddde6a0c4ccaf5ab8eadded1e)
+* __Biological innovation__: [The Bio Revolution: Advances in Biology and Their Impact on Society](62a5bae52266a680c6a13bd3ef8dc48c)
+* __Biomedical applications__: [Building Biomedical Chatbots with Large Language Models](f96c3e0990df3993b30f57a358c76d6a)
+* __Biomedical engineering__: [Revolutionizing Medical Technologies with Optrodes](7aeb03c0771769ceb99c3085c141c1fe)
+* __Biometric data__: [Hackers Compromise Worldcoin Orb Operators' Devices](38242c2652ac7f212d8d9955b40be595)
+* __Biometric identification__: [Security Flaw in Australian Government's Voice Identification System](f34407cbb44c57483e2640455a12b9c8)
+* __Biometrics__: [Worldcoin Raises $115 Million for Eyeball-Scanning Crypto Project](2288acc14dd8aab5ef245655d253626f)
+* __Blockchain technology__: [Ethereum Blockchain Achieves Remarkable Carbon Reduction](eb8b03e69354d814c3d0cd31b18648dd)
+* __Blue whale songs__: [The Mystery of Changing Blue Whale Songs](6184e76d86ed2dbc8968722327f70c5b)
+* __Bluetooth vulnerabilities__: [Hackers Can Spam iPhones with Annoying Pop-ups](a94bc00d909eee777b372b65a0eedda5)
+* __Bmw features__: [BMW Introduces Subscription-Based Heated Seats](467012ba127c9642ad57804f2e3a6a1e)
+* __Boat encounters__: [Orca Rams Into Yacht Near Scotland, Suggesting Behavior Spread](ec53d1856ccf49df631de3516f6aa6a2)
+* __Body temperature regulation__: [Unique Adaptation Allows Sharks to Hunt in Cold Waters](27a3a94222f061917b211c94d1d3ee92)
+* __Books__: [More Than Human: A Tale of Extraordinary Abilities](77595bdbe88b77ce40b280494110bbf5), [Hope in the Dark: A Radical Case for Hope in Uncertain Times](fd193cbb838e7049c4d44c7dde929f83), [A Desolation Called Peace (Teixcalaan, #2)](289d72624afd0bb868b1d4c7a26cf352)
+* __Boosting cognitive competences in online environments__: [Boosting Competences for the Online World](0770afeb444e4bbb336cdc72c07d6688)
+* __Boosting via digital environments__: [Boosting Competences for the Online World](0770afeb444e4bbb336cdc72c07d6688)
+* __Botany__: [Charles Darwin and the World of Plant Movement](758dcfdd3a76f76ed47b6e3b8f5b0051)
+* __Bottom-up initiatives__: [The Importance of Clear Strategy Choices](b393d3164c1634957a3bc8e2ae733b41)
+* __Brain study__: [AI Unlocks Human Brain's Secrets](e43c70d1c8c34f4587722ef456132b41)
+* __Brainstorming__: [Unleashing Creativity with SCAMPER Method](0e850e13ca65ce51de13cd4e0ec85861)
+* __Brand control__: [The Secondhand Watch Revolution](d41096d7ca7f38f50a5dbfeef8b3c398)
+* __Brand loyalty__: [IKEA's Time Currency: A Shift in Consumer Behavior](5545fefb8c6612ca12964516930380c9)
+* __Brand recognition__: [Netflix to Open Immersive Retail Experience](69ac0a51474dc55424e5281c7b649cad)
+* __Brand reputation__: [The Future of Media: Monetizing Talent](be6ecdd999bc41789029c9d32a86c51b)
+* __Branding opportunities with virtual idols__: [The Rise of Virtual Idols](f2c164b7ff8eb0a6fd223511dba15804)
+* __Breast cancer screening__: [Screening of Breast Cancer from Sweat Samples Analyzed by 2-Dimensional Gas Chromatography-Mass Spectrometry: A Preliminary Study](0c92eaabe3945e7b15eea4b98e970a96)
+* __Brexit impact__: [Britain's Path to AI Superpower](3b108349bb5694e7464319513b332d84)
+* __Bridging the information gap__: [KissanGPT: AI Chatbot Revolutionizing Indian Agriculture](5e0cf3d87729de23ddd89422be7a8b67)
+* __British colonialism__: [The Indelible Hulk: A History of Prison Ships](d658f4fa7fa777631af90889ec739234)
+* __British innovation__: [Britain's Path to AI Superpower](3b108349bb5694e7464319513b332d84)
+* __Bronze age__: [Ancient Tin Supply Chains Revealed](7b0e1c9311dae19679aa54d541ef47f0)
+* __Bruce willis career__: [Bruce Willis Sells Likeness for Deepfake](6fe04b914872df30dfb18bda13c542ad)
+* __Budget impact__: [The Economic Consequences of Europe's Energy War](eab98729272b0f85f67258553c6590c7)
+* __Bug bounty program__: [Microsoft Launches Bug Bounty Program for AI-Powered Bing](917c65b1876df03d3794348b22d9fb31)
+* __Building a successful business__: [Advice from SaaS Startup Founders](794d2271367c23dcb630df18c87c1582)
+* __Building with large language models__: [Getting Started with LangChain: A Beginner’s Guide to Building LLM-Powered Applications](8dbe5c04a6ddbbb51645e5d8e8af3adc)
+* __Building with llms__: [Using NLP to Build a Competitive Moat](feeb207dfea30efb1d5bf73503fd22a4)
+* __Bureaucracy__: [The Low Plate Lottery Edition](8344727f836d6fb68dbe38fee5389654), [Simple Sabotage Techniques in WWII](e62131b4a0555020af785377276bcd76)
+* __Business__: [EY Masters in Sustainability by Hult](fcb03e94b8239b410a79996496599390), [The Infinite Game: Applying Leadership Strategies](54d1f8c7676710e22272e828c43e9934)
+* __Business growth__: [Domino's Faces Pressure Amid Delivery Challenges](07091cec2b85e059cd1a0fa65cbcfed4)
+* __Business model change__: [Apple's Shift Towards Services and Conquest Mode](31746b76bca4763be83b7055f34a192f)
+* __Business models__: [The Future of Media: Monetizing Talent](be6ecdd999bc41789029c9d32a86c51b), [The Rise of Micro-Subscriptions](01dd20372573227317c7126faacfec9b)
+* __Business opportunities__: [Evaluating GPT Startups: The Three-Hills Model](d1df6602870d6b0ed820af0e9ab76a80)
+* __Business strategy__: [The Power of 2x2s in Business Strategy](2ae41a6753586e960d571ef66275c3a6), [Digital Reinvention: The Key to Law Firm Success](f9f1a04c9e44cac963fd3522f407a5e8)
 
 ## Letter 'C' 
 
 
-* __camel beauty pageants__: 
-* __camera technology__: [Lensless Camera Creates 3D Images](8bb1226617cfc9b177ec5976f3716680)
-* __camouflage clothing market__: ['Secret Camouflage' Clothing Protects Against Facial Recognition](281fd0758b55c5d94dbc4a181e043f2c)
-* __camouflage technology__: [$71 Coat Makes Wearers Invisible to AI Security Cameras](4140e375969a4396e244eb285ef19caa)
-* __cancer diagnosis__: 
-* __cancer risk__: [Artificial Sweetener Aspartame May Be Cancer Risk](80864a00731337a27c0cccd1a41e2063)
-* __capitalism__: [Autonomous Quotes: Reflections on Capitalism and Identity](35ec712b8e22276ed84324aea8ad997b)
-* __capitalism and economic system__: [The Importance of Maintenance in a Changing World](027558bc932f10b574b0608c17e61026)
-* __capitalism and technology__: 
-* __capitalist system__: [The Lifecycle of Software Objects](2870beba7811820767e980801beb90bf)
-* __car subscriptions__: [The Rise of Car Subscriptions in the Automotive Industry](b9a5b69113b7ca17b6493414799b0e6e)
-* __career advancement__: 
-* __career cushioning__: ["Career Cushioning: Protecting Your Future"](9f6a82373421931ea7e960ae526ff457)
-* __career development__: 
-* __career prospects in academia__: [Unprecedented Exodus of Young Life Scientists from Academia](7054e5d956a73f1ccb060d1d8fe80151)
-* __career wellbeing__: [Greeting Neighbors Linked to Higher Wellbeing](d16e5657697812f4271d7ff1d18fd874)
-* __caregiving__: [The Agony of Caregiving Struggles](6fd7033b884ae982dac41bad4396abb5)
-* __carryout sales__: [Domino's Faces Pressure Amid Delivery Challenges](07091cec2b85e059cd1a0fa65cbcfed4)
-* __cat behavior__: [The Mystery and Magic of Purring](373ad0793a04ce22222c53103c6fadb8)
-* __catastrophe management__: [Lucy Easthope: Britain's Disaster Adviser](ecba274a465c5033bb657bb68d581b92)
-* __causes of the labor shortage__: 
-* __celebrity earnings__: [Celebs Making Bank in the Afterlife](da88628cf97bad8667f8f0afe51d01cc)
-* __celtic language__: 
-* __censorship__: [The Phenomenon of Illegal Numbers](63aeeab522c47062e02f671fd01a7b63)
-* __centaur and cyborg approaches to ai integration__: 
-* __central bank__: [The Digital Pound: A New Form of Money for the Future](86f9d4e0a40048c3cbab66ba00b2fcb5)
-* __centralization of ai__: 
-* __challenge__: 
-* __challenges and benefits of data centres__: 
-* __challenges and concerns with the development and use of artificial intelligence__: 
-* __challenges and uncertainties in ai regulation__: 
-* __challenges faced by gen z in the workforce__: 
-* __challenges faced by gen z in the workplace__: 
-* __challenges faced by gig economy companies__: 
-* __challenges faced by open source researchers__: 
-* __challenges for authorities__: [AI Voice Simulators Enable Scammers to Exploit Vulnerable Individuals](0a49a5c0770b63ff41a4b19b66e478b1)
-* __challenges for companies in adapting work policies to different age groups__: 
-* __challenges for freelancing platforms__: 
-* __challenges in code quality and technical debt__: 
-* __challenges in consumer spending__: 
-* __challenges in food system__: 
-* __challenges in hiring and retaining public workers__: 
-* __challenges in hiring process__: 
-* __challenges in maintaining cochlear implants__: 
-* __challenges of an aging society__: 
-* __challenges of conversational text generators__: 
-* __challenges of implementing care robots__: 
-* __challenges of managing adhd at work__: 
-* __challenges of the 21st century__: [The Challenge of Rethinking the Supply Chain](fa27e27bdec01712d582ab0f61c95bac)
-* __challenges of the welfare system__: 
-* __change__: [The Power of Subtraction in Creating Change](954add221b754bf78bfb38199d5eb868)
-* __changement climatique__: [Young Activists Express Climate Concerns](a33285a958e1c67e274803ca7ce0bec2)
-* __changement de lorganisation de lespace__: [The Changing Codes of Home: From Quality to Organization](a9f264ee6e3332ece01b15847d55b5cf)
-* __changes in instagram__: 
-* __changing dating landscape__: 
-* __changing definitions of old age__: [Redefining Old Age](e9338e8177e66b338acd8753cbe0e3cf)
-* __changing job market__: [The Rise of Non-Linear Career Paths](d692481daec2dd39fc987ccc2882f637)
-* __changing laws and culture around psychedelics__: 
-* __changing perspectives on education__: 
-* __changing power dynamics__: 
-* __changing roles and responsibilities of designers__: 
-* __changing trade dynamics__: 
-* __charitable donations__: 
-* __chatbot arena leaderboard__: 
-* __chatbot development__: 
-* __chatbot implementation__: 
-* __chatbot models__: 
-* __chatgpt__: 
-* __chatgpt and ai systems__: 
-* __chatgpt bot service__: 
-* __chatgpt impact on book industry__: 
-* __chatgpt integration__: 
-* __chatgpt vulnerabilities__: 
-* __chemical analysis__: 
-* __chemical composition__: 
-* __chemistry__: 
-* __childcare__: [Challenges Mount as Viral Infections and Child-Care Shortages Collide](680e58ea9fd94182e5f26d3b3c8abda9)
-* __childhood vaccinations__: [Drop in U.S. Kindergartners' Vaccination Rates](f2e3c24131513e79e1193ffa31a7f1e7)
-* __china-us relations__: 
-* __chinese disinformation__: 
-* __chinese market__: 
-* __chinese tech companies__: 
-* __chinese tech industry__: 
-* __circular economy__: 
-* __circular mining__: 
-* __cisco products__: 
-* __class distinctions__: [The Unraveling of the Progressive Economy](f4ea5244ccafd654e5955673b0ee3976)
-* __classic toys__: 
-* __clean economy transition__: 
-* __clear choices__: [The Importance of Clear Strategy Choices](b393d3164c1634957a3bc8e2ae733b41)
-* __climate change__: [Fungi: A Solution for Sustainable Food Production](0c58d382a0cacf288605a136bbcf69a3), [Protein Nanowire Provides Clues to Combating Climate Change](b9bff2b9003a2ceb046c598703e0c939), [Unprecedented Ocean Temperature Anomalies Continue](7d78c43cd82cf39506c094d726af453f), [Las Virgenes Water District Implements Water Restrictors to Conserve During Megadrought](9655c5d49c7e5cbfaedaca59cba73875), [Heat Will Likely Soar to Record Levels in Next 5 Years](89b553cd6644cc1549e68abd6a6d44d6)
-* __climate change adaptation__: [Beavers: Nature's Climate Change Heroes](4ef4757586661978f066dce209fada17)
-* __climate change and insurance industry__: 
-* __climate change and its impacts__: 
-* __climate change and long-term risks__: 
-* __climate change impact__: [Importance of Microbial Activity on Glaciers](4b6734ef8815047f0eb71a170c13af9d)
-* __climate change impact on food systems__: [Risks of Harvest Failures Underestimated](9bebaea9ed2c74b635c7ffbedc039556)
-* __climate change impacts__: [2023 Roadshow of Research and Policy Results](589c2c554219a6d4ae1ad0c9d1d75a21)
-* __climate change mitigation__: 
-* __climate policy__: 
-* __cloning technology__: [The Rapid Advancement of Cloning Technology](3827e85d7b233b583bd7e01c435cf758)
-* __closed-loop design__: 
-* __cloud computing__: 
-* __cloud kitchen boom__: 
-* __cloud providers and ai__: 
-* __code collaboration__: 
-* __code execution vulnerabilities__: 
-* __code management__: 
-* __code optimization__: 
-* __code-breaking__: [14-Year-Old Boy Cracks Code on Commemorative Coin](f5fa6b014dbca342ff5b4c25c18124a5)
-* __coffee industry__: 
-* __cognitive biases__: [Democracy's Battle Against Viral Misinformation](56d1a28746cd95ebaa3d62a4e1f91c3a)
-* __cold war__: 
-* __collaboration__: 
-* __collaboration between humans and ai__: 
-* __collaboration with computers__: 
-* __collaborative approach__: [The Principles That Shape Photographic Practice](3732af6b65f8a13ac1af7007d063eb7b)
-* __collaborative writing__: [The Power of the Hibernet](9e74c32425eab87ba36167bfe05c8f2c)
-* __colonialism and time__: [Saving Time: Reshaping Temporality and Reclaiming Agency](047936a2b08c1b5dda3018bc98dc1d9b)
-* __color in branding__: 
-* __combining analog and digital photography__: 
-* __combining text and images in education__: 
-* __comedy__: 
-* __comfortable sleep__: [Bedtime Rituals and Sleep Quality: A Survey of American Adults](615b115fc368aacddda24fb30f9ddf44)
-* __commercial real estate__: 
-* __commercialization of ai__: 
-* __commercialization of ai-generated art__: 
-* __commercialization of pickleball__: 
-* __common forms of attack__: [UK Government Data Reveals Common Cyber Threats Faced by Organizations](576f8cf76f713e057b075e2424ea709c)
-* __communauté__: 
-* __communication__: [Coordination Neglect in Organizational Effectiveness](abedf8019b0bc967f5f72e6cbd964f57), [Elon Musk's Revealing Text Messages](d04f722445dfdb5bc02415c540a94654)
-* __communication inter-espèces__: [The Body's Music](17fb3271515aa45a48bdc4539ade0be0)
-* __communication tools__: [The Impact of Digital Whiteboards](0427292acb53be01ba35b3b5b561cb59)
-* __community__: [Inside the Legendary Hackerspace, L0pht](992602cc0ddc531bb5e3ab280132a31f)
-* __community building__: 
-* __community engagement__: [The Principles That Shape Photographic Practice](3732af6b65f8a13ac1af7007d063eb7b)
-* __community gatherings__: 
-* __community value__: 
-* __community wellbeing__: [Greeting Neighbors Linked to Higher Wellbeing](d16e5657697812f4271d7ff1d18fd874)
-* __comparison of llms__: 
-* __compensation for artists in ai art industry__: 
-* __competition__: [The Battle for Your Car: Google vs. Apple](9dcdb4959b186e68114c6cc92931068e)
-* __competition between google and openai__: 
-* __competition between m.b.a. programs and job offers__: 
-* __complex problem-solving__: 
-* __complex systems__: 
-* __complexity of computer systems__: [Complexity and Insecurity in Computer Systems](fba2096cec7c08fe7c05d259b29dd5d9)
-* __compliance__: [Compliance of Foundation Model Providers with EU AI Act](b39cd180dcfb9a92e51a09e5dcb0a0f4)
-* __compliance and rebellion__: [The Art of Wandering](ddf441dc074555140e62f61fb00019fa)
-* __computer history__: 
-* __computer science education__: [Harvard's AI Chatbot to Teach Computer Science](e2cc63d7622564eb4cb5af13e8b2669c)
-* __computing freedom__: [The Dangers of Service as a Software Substitute (SaaSS)](5c135d085a6d575c9d112244b2a873fb)
-* __computing power__: [The Role of Semiconductors in Modern Warfare](328434477c31995b44102949d5341006)
-* __compétences du futur__: [Future Careers and the Importance of "Mad Skills"](572ff244f383344150f88e74397cc5de)
-* __concept of time__: [Saving Time: Reshaping Temporality and Reclaiming Agency](047936a2b08c1b5dda3018bc98dc1d9b)
-* __concerns about ai__: 
-* __concerns about alternative data__: [Growing Adoption of Alternative Data by Investors](6df05418720b20b7f2cec0056111cae6)
-* __concerns about artificial intelligence__: [The Future of Artificial Intelligence](7fcef9a240c0738d2390c83f9713dc98)
-* __concerns about job security__: 
-* __concerns about labor implications__: 
-* __concerns about potential buyers and government plans__: [Rising Costs of Electric Car Charging](044f5d6bb4070ed49afafb90f38713bd)
-* __concerns about solvency and insolvency in the crypto industry__: 
-* __concerns about the dangers of a.i.__: 
-* __concerns of engineers about the potential implications of the plans__: [Concerns raised over switch to imperial measurements](6f19a30cab90c95bd01c25851126531e)
-* __concerns over authenticity__: [ChatGPT Launches AI-Written E-Books Boom](23b1a43c321ff714805ff4bc83829491)
-* __conflict resolution__: [The Importance of Conflict and Non-Violent Resolution](fb16444fba5241fd1199ff90e3572e9a)
-* __conflict simulation__: [Rethinking Wargames for Conflict Resolution](290b39e08f51973a22385822003f38c2)
-* __connected vehicle data industry__: 
-* __connecting with deceased loved ones__: 
-* __connection__: 
-* __consciousness__: [The Lifecycle of Software Objects](2870beba7811820767e980801beb90bf)
-* __consciousness research__: [The Great Wager: Seeking Consciousness](a22ee1f3d953a98514b92c413784feea)
-* __consciousness science__: [The Future of Consciousness Science](098f4de4b2e0da23ef41a92329c5e761)
-* __consent and control__: 
-* __consequences of production__: [The Challenge of Rethinking the Supply Chain](fa27e27bdec01712d582ab0f61c95bac)
-* __conservation__: 
-* __construction productivity__: [The Importance of Improving Construction Productivity](68cc2d738ed662aeee3670d8327d7d5f)
-* __consulting__: 
-* __consumer behavior__: [The Power of Free: How it Influences Consumer Behavior](0b5ca258e9c7ed2f9f6cf60dd523e148)
-* __consumer goods suppliers__: [Carrefour Exposes Shrinkflation in Supermarkets](471e724e40f6934417b8c27dcb1d5639)
-* __consumer lending__: [The Evolution of Debt in America](1bada151ef608ff10c639ec228c01f3e)
-* __consumer-brand relationships__: [Balabala Makes Virtual Move with Gu Yu](c9ec4ffbfe911a0c5d04e95d8fa17e77)
-* __consumerism__: 
-* __container shipping__: [The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger](c14b3ca07efcef0d44a6af30501c76c1)
-* __content consumption__: 
-* __content creation__: 
-* __content moderation technology__: [The Rise of Algospeak: Americans Evade Detection with Code Words on Social Media](fe5ece17d1050e9097bd9a2e6e0ef50c)
-* __content platforms__: 
-* __context__: 
-* __contingent faculty__: 
-* __continuous learning__: [Everything is a Practice](a81f85f066b0093553fc39638d3e0559)
-* __contributions of women in computing__: 
-* __control of mosquito populations and mosquito-borne diseases__: 
-* __control versus understanding__: [Technologies of Hope: Pandemic Solutions](d44d0c046d2ee3330a2d40cfccdfc0d3)
-* __controversies surrounding consulting firms__: [The Value of Management Consultants](e35045210e6be5203ded2be5b9ed63f6)
-* __convenience__: 
-* __conversational interface__: [Natural Conversations with Google Assistant](3b057a14187c304edd1a0f4bbed854a8)
-* __cookies__: [Counting Templates and Privacy Policy](348fffeed19b47b0379a6ca0cad9ec8e), [Information Collection and Cookie Usage](a33c07b3f96448f9af29b9e59a080b73)
-* __cooling technology__: 
-* __copepod ecology__: [The Hidden World of Copepods](72f38771bb0e524e59d49cde66f9db5e)
-* __coping with rapid technological change__: 
-* __copper scarcity__: 
-* __copyright infringement__: [Writers Sue OpenAI Over Copyright Infringement](a238d311a34b43af7599af5c8ad1e41f), [The Controversy Surrounding AI-Generated Art in Anime and Manga Circles](a1ccaf4e8c6dd14b4b2b522e2d8c2c89), [The Phenomenon of Illegal Numbers](63aeeab522c47062e02f671fd01a7b63)
-* __copyright law__: 
-* __copyright ownership__: [The Copyright Conundrum of AI-Generated Art](2cfdc6fba6f11e089c2df3cda1604174)
-* __copyright protection__: 
-* __copyright registration__: [New York Artist Receives Copyright for AI-Generated Graphic Novel](9191375fe5b80e2b93a7369a79e63957)
-* __coral reef restoration__: [Restoring Coral Reefs Using Sound](a69be6c012f19d3a97137c13bbbc9eb2)
-* __corporate espionage__: [Corporate Espionage: A New Era](24e03440e7901342e12da817c3fc951e)
-* __corporate monopolies__: [Corporate Subscription Serfdom: Training Our Children for a Life of Dependency](6bccf38c9e97c992a3f5861fc6297380)
-* __corporate responsibility__: [Earth as Our Only Shareholder](b5c93b6e5a5b33c81d3a1619b9b37f1b)
-* __corporate restructuring__: 
-* __corporate sustainability__: 
-* __corruption in higher education__: 
-* __cost analysis__: 
-* __cost comparison between cruise ship and retirement home__: 
-* __cost efficiency__: 
-* __cost management__: 
-* __cost reduction__: 
-* __cost-cutting measures__: 
-* __counterculture__: [Breaking the Mold: Winning in the Networked Counterculture](e5f4b1b4319694169f1551be43a837c9)
-* __counting__: [Counting Templates and Privacy Policy](348fffeed19b47b0379a6ca0cad9ec8e)
-* __counting system__: [The Yan Tan Tethera Counting System](4754b54aa9384e4b40e9d054660ce4f3)
-* __covid sequelae__: 
-* __crab population decline__: [Alaska Snow Crab Season Canceled as Officials Investigate Disappearance of 1 Billion Crabs](7e83f7bbd34b9f20b0dbd61cdbb0dcdf)
-* __craftsmanship__: [Exploring Industrial Weaving in Stephen Burks' Workshop](c0d68c0d91d462d071fa1e111735f9b8)
-* __creating a better future__: 
-* __creating a digital twin__: 
-* __creative process__: 
-* __creative workflows__: [Wordcraft: AI-Powered Writing Workshop and Tools](3acd488d3b86b4637bd78d0f3f3e0e65)
-* __creativity__: [The Importance of Ruthless Editing](77758e23f4c4a5892d58e3f5cff8f0ca), [Oblique Strategies: Overcoming Creative Blocks](624594b96816ab42c43832aa315bf3b7), [The Power of Drawing in Idea Generation](094e056f091942a96a446d8401432eb8)
-* __creativity and ai__: 
-* __creativity and discovery__: 
-* __crime prevention__: [Italy's Right-Wing Government Criminalizes Raves](adb7356f3711c023daf08fec38221395)
-* __criminal charges__: [Former Theranos COO Sentenced to 13 Years in Prison](b0d1ed951415ca875228752e72f21c58)
-* __crisis of meaning in work__: 
-* __criteria for effective tools__: 
-* __critical reception__: 
-* __critical zone science__: [Microbes: Active Engineers in Earth's Rock-to-Life Cycle](8a76baaa6df38b98c48c0635d103a5a0)
-* __croissance économique__: [Décroissance: Une Économie de la Post-croissance](94317d62a04e47f7d4873cfe17190e81)
-* __crowdsourcing__: 
-* __cryptocurrencies__: 
-* __cryptocurrency__: 
-* __cryptocurrency market volatility__: 
-* __cryptography__: 
-* __cryptography and privacy-enhancing technologies__: 
-* __cultural clash__: [A Memory Called Empire: Political Intrigue and Deadly Secrets in Teixcalaan](2d4b47a47cd08aaa542939967329f027)
-* __cultural factors__: 
-* __cultural fusion__: 
-* __cultural shift__: [The Hyper-Personalization of Everything](9ef1218bf5010b0780647b93d724b93b)
-* __cultural shifts__: [Discovering Overlooked Social Shifts with AI](a764338d3c1cf114377e3f619e246289)
-* __cultural therapy__: 
-* __cultural transmission__: [Bumblebees: Cultural Learning Among Insects](2394a07d8b41ae57fc3d67bd80e7f751)
-* __culture clash__: 
-* __curation__: 
-* __curation and overwhelm__: 
-* __currency valuation__: [The Big Mac Index and Burger Prices Around the World](189e440570d5fe35902ee7b899f7e220)
-* __custom chip manufacturing__: 
-* __customer consent__: [Zoom's Terms of Service Update Allows AI Training with Customer Data](3b96c74f728c6281fc7f1a045a5befc7)
-* __customer driven marketing__: [The Power of Customer Driven Marketing](f5a86c6c3c113719814d2772bea54508)
-* __customer experience__: [Design as Governance: The Importance of User-Centricity](2587a142b15645727d2adbee3539d4de)
-* __customer needs and desires__: 
-* __customer satisfaction__: [Embracing the Solo Diner: Making Dining Alone a Memorable Experience](387cc7d6dcac314087dfc35f2091b410)
-* __customer validation__: [Redefining MVPs: A Faster Way to Derisk New Product Ideas](5f1854892dfd2f3bd837d7e5db7369ee)
-* __cyber defense training__: 
-* __cyber resilience act__: 
-* __cyber safety education__: 
-* __cyber security__: [Monetising Hacking Through Commodity Shipments](af7a13a1e97a8ebff3d521dabea087ce)
-* __cyber security skills shortage__: 
-* __cyber threat from china__: 
-* __cyber-security__: [Ukraine Cyber-Conflict: Hacking Groups Vow to Comply](c039bde3f9a4fa2f206da538dde42fb5)
-* __cybercrime__: [Save the Children Hit by Ransomware](5c52b32dd5324bcb38ab72b1ebd5d61b)
-* __cybersecurity__: [Researchers Uncover Backdoor in Encrypted Radios Used by Police and Military](841546c0efc4c82f0aabc545a47a09e1), [Hackers Target US Government in Response to Attacks on Gender-Affirming Care](9d978f24420f5198328d717bd93ff52a), [Corporate Espionage: A New Era](24e03440e7901342e12da817c3fc951e), [Handbook Provides Insights on Digital Regulation](a38960ed1dcfd200d74ebd16e92e4151), [Cyberattack Derails Olsztyn's Smart City](760077b9e8a605138ef8a769c307c760), [UK Government Data Reveals Common Cyber Threats Faced by Organizations](576f8cf76f713e057b075e2424ea709c), [Senegalese Government Websites Attacked by Hackers](4d2fd5459978f8dfc8e307ec4a44b638), [Exposed Server Leaks US Military Emails](2efc3124c37c21844c4c71c2eb801f11), [14-Year-Old Boy Cracks Code on Commemorative Coin](f5fa6b014dbca342ff5b4c25c18124a5), [US Department of Defense Outlines 2023 Cyber Strategy](f88aebcf579dffa42fc0dbe74de919c4), [Cyberattack Disrupts Poland's Railway System](f0da3ab471bb07f203a20b0ff24b57c0), [The SolarWinds Cyberespionage Campaign Unveiled](60d708d49e171255bc45464e0b5e6a6a)
-* __cybersecurity job vacancies__: [The Information Security Jobs Dilemma](38bda67182126c0f814ed70882b5fed2)
-* __cybersecurity legislation__: [Biden Administration Unveils Cybersecurity Strategy and Targets China as Major Threat](1eaefdcf11b24d5f443b5f4e7645e0a5)
-* __cybersecurity policy and framework__: [Belgium Introduces Strong Legal Protections for Security Researchers](8ae26b7eeafce0d7e88a3f1e7cadcfd7)
-* __cybersecurity risks__: [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
-* __cybersecurity sector growth__: 
-* __cybersécurité__: [Cybersecurity Threats to Law Firms](0b6d917158cd84c369d0af378202984b)
-* __cyborg botany__: 
-* __cyborg lifestyles__: 
-* __cyborg secrecy__: 
-* __cycling__: [Weekly Reflections and Creative Inspiration](1bc6c11e394022139f8af61a7554a7ec)
+* __Camel beauty pageants__: [Camel Cloning: A Popular Practice in Dubai](646824b48390d9ff516d3e6ef2e44c82)
+* __Camera technology__: [Lensless Camera Creates 3D Images](8bb1226617cfc9b177ec5976f3716680)
+* __Camouflage clothing market__: ['Secret Camouflage' Clothing Protects Against Facial Recognition](281fd0758b55c5d94dbc4a181e043f2c)
+* __Camouflage technology__: [$71 Coat Makes Wearers Invisible to AI Security Cameras](4140e375969a4396e244eb285ef19caa)
+* __Cancer diagnosis__: [Pigeons Identify Breast Cancer 'As Well As Humans'](96d6452fd513ef2ffdbc3d761b7d24e1)
+* __Cancer risk__: [Artificial Sweetener Aspartame May Be Cancer Risk](80864a00731337a27c0cccd1a41e2063)
+* __Capitalism__: [Autonomous Quotes: Reflections on Capitalism and Identity](35ec712b8e22276ed84324aea8ad997b)
+* __Capitalism and economic system__: [The Importance of Maintenance in a Changing World](027558bc932f10b574b0608c17e61026)
+* __Capitalism and technology__: [The Problem With AI and Capitalism](cc3c2afb44e50f74152fd58c92f5b418)
+* __Capitalist system__: [The Lifecycle of Software Objects](2870beba7811820767e980801beb90bf)
+* __Car subscriptions__: [The Rise of Car Subscriptions in the Automotive Industry](b9a5b69113b7ca17b6493414799b0e6e)
+* __Career advancement__: [Work on What Really Matters](f3016876ef0373e664eea6b715a4e421)
+* __Career cushioning__: ["Career Cushioning: Protecting Your Future"](9f6a82373421931ea7e960ae526ff457)
+* __Career development__: [Career Lessons for Success and Growth](a06d27f1dd5a2328ba6aa8854abc5318), [The Rise of Returnships: A Pathway Back to the Workforce](16492dc2f92cae2688e0f452eea5596b)
+* __Career prospects in academia__: [Unprecedented Exodus of Young Life Scientists from Academia](7054e5d956a73f1ccb060d1d8fe80151)
+* __Career wellbeing__: [Greeting Neighbors Linked to Higher Wellbeing](d16e5657697812f4271d7ff1d18fd874)
+* __Caregiving__: [The Agony of Caregiving Struggles](6fd7033b884ae982dac41bad4396abb5)
+* __Carryout sales__: [Domino's Faces Pressure Amid Delivery Challenges](07091cec2b85e059cd1a0fa65cbcfed4)
+* __Cat behavior__: [The Mystery and Magic of Purring](373ad0793a04ce22222c53103c6fadb8)
+* __Catastrophe management__: [Lucy Easthope: Britain's Disaster Adviser](ecba274a465c5033bb657bb68d581b92)
+* __Causes of the labor shortage__: [Construction Industry Faces Extreme Labor Shortage](9439e069670182ab70d681f007704c33)
+* __Celebrity earnings__: [Celebs Making Bank in the Afterlife](da88628cf97bad8667f8f0afe51d01cc)
+* __Celtic language__: [The Yan Tan Tethera Counting System](4754b54aa9384e4b40e9d054660ce4f3)
+* __Censorship__: [The Phenomenon of Illegal Numbers](63aeeab522c47062e02f671fd01a7b63)
+* __Centaur and cyborg approaches to ai integration__: [Centaurs and Cyborgs on the Jagged Frontier](c94f72ff677c7517a836417c1f1df620)
+* __Central bank__: [The Digital Pound: A New Form of Money for the Future](86f9d4e0a40048c3cbab66ba00b2fcb5)
+* __Centralization of ai__: [Holding Back the Strange AI Tide](5a06b540b77553f7524f17711d73eec4)
+* __Challenge__: [The 24 Hour "Do Nothing" Challenge](6cf9b19c5f473573ce74865766bf351c)
+* __Challenges and benefits of data centres__: [The Role of Data Centers in Ireland's Technological Revolution](fe8c9a54a3dbc61b0abc367d14524f53)
+* __Challenges and concerns with the development and use of artificial intelligence__: [The Drawbacks of the Internet and Artificial Intelligence](652fc7ec1f422e931bc5a9ba8011650a)
+* __Challenges and uncertainties in ai regulation__: [The Global Challenge of Regulating AI](c3301a7146d6814214205c4b43376f17)
+* __Challenges faced by gen z in the workforce__: [Gen Zers' Financial Habits in the Age of Late-Stage Capitalism](1b41206075bb58ef4a1bcb8a6d82ffc0)
+* __Challenges faced by gen z in the workplace__: [The Technology Gap: Young Workers and Office Technology](5ae1107c845692a2acadc6565babc91b)
+* __Challenges faced by gig economy companies__: [The Struggles of Gig Workers Amid Rising Inflation](d5620f5b1f4a80563ac4f5d523804658)
+* __Challenges faced by open source researchers__: [Tools Needed by Open Source Researchers](232af96e853049a58bc2dae466ea495d)
+* __Challenges for authorities__: [AI Voice Simulators Enable Scammers to Exploit Vulnerable Individuals](0a49a5c0770b63ff41a4b19b66e478b1)
+* __Challenges for companies in adapting work policies to different age groups__: [The Generational Divide in Remote Work Preferences](5a10c88b2c7660dac07161b1f5089e57)
+* __Challenges for freelancing platforms__: [The Impact of ChatGPT on Freelancing Platforms](16ae389e81ec87fdaaf271c38e3cb1e9)
+* __Challenges in code quality and technical debt__: [The Future of Software Development: Self-Healing Code](b40abee8454abdd879147c0e086bb9c1)
+* __Challenges in consumer spending__: [The Changing Landscape of Entertainment and Media](c18691583943e0d2d1e217558293d06b)
+* __Challenges in food system__: [The Importance of Planning in the Food Industry](5bb40df4b040c9f780e9fe7ffb0a0b82)
+* __Challenges in hiring and retaining public workers__: [The Growing Crisis of Public Worker Shortages](712282cfc63ea5f0d674c24ec2748d53)
+* __Challenges in hiring process__: [The Frustrations of Resume-First Hiring Processes](1f0fcccf6722a171ed692551071fb066)
+* __Challenges in maintaining cochlear implants__: [The Consequences of Planned Abandonment](dc382e3aa58935a411f92b934c641011)
+* __Challenges of an aging society__: [The Aging World and Its Consequences](a8bf5109e22909dfe327db0ee8f3853d)
+* __Challenges of conversational text generators__: [Tracking Openness in ChatGPT Generators](dad9dbd97cc50604963911f16fbb27aa)
+* __Challenges of implementing care robots__: [The Limitations of Care Robots in Japan's Elder Care System](ac120c377b70b80fe25a6cce1d0b7fe6)
+* __Challenges of managing adhd at work__: [The Challenges of ADHD in the Workplace](5787bdf4f1ad4805a622fc45bf75f023)
+* __Challenges of the 21st century__: [The Challenge of Rethinking the Supply Chain](fa27e27bdec01712d582ab0f61c95bac)
+* __Challenges of the welfare system__: [Welfare Fraud Investigations and the Ethical Challenges](9cdd8057291e0dcc72b58bd24e858b67)
+* __Change__: [The Power of Subtraction in Creating Change](954add221b754bf78bfb38199d5eb868), [The Disappearing Houses and the Search for Normalcy](e825171606432c71606dc78b9bf86eee)
+* __Changement climatique__: [Young Activists Express Climate Concerns](a33285a958e1c67e274803ca7ce0bec2)
+* __Changement de lorganisation de lespace__: [The Changing Codes of Home: From Quality to Organization](a9f264ee6e3332ece01b15847d55b5cf)
+* __Changes in instagram__: [The Decline of the Curated Instagram Era](73a2bffc6e94204086528949ae1205e7)
+* __Changing dating landscape__: [Dating Trends in 2022: Prioridating and Increased Openness](5554792b473e148108ccb7b38a1d82c0)
+* __Changing definitions of old age__: [Redefining Old Age](e9338e8177e66b338acd8753cbe0e3cf)
+* __Changing job market__: [The Rise of Non-Linear Career Paths](d692481daec2dd39fc987ccc2882f637)
+* __Changing laws and culture around psychedelics__: [The Categorization Conundrum of Psychedelics](13d07c8b2cd28b1d14da1f2b37f956f4)
+* __Changing perspectives on education__: [Gen Z's Perspectives on Work, College, and the Internet](644ce4dcf74e76970fd0526ca1abf551)
+* __Changing power dynamics__: [The Four Shifts: An Overview](0506cba04945d4f8cf25bf2399d36a46)
+* __Changing roles and responsibilities of designers__: [The Future of Design: Shifting Roles and Personalization](ece4f1f782525a6ae341e9d4c9df3533)
+* __Changing trade dynamics__: [The Importance of a "Chief Trade Officer"](77a1e8adf276dbc84c60c1c7fd878db8)
+* __Charitable donations__: [Forensic Accountant Uncovers Misuse of FTX Customer Funds](17ba5a58a46a82b87b07d34fc928493e)
+* __Chatbot arena leaderboard__: [Chatbot Arena Leaderboard Updates (Week 4)](2ad1a65371512ec50f24b2e247328b78)
+* __Chatbot development__: [Building Biomedical Chatbots with Large Language Models](f96c3e0990df3993b30f57a358c76d6a)
+* __Chatbot implementation__: [Building a Context-Aware Knowledge Graph Chatbot with GPT-4 and Neo4j](af12c099700e76b62f6990530a12edfa)
+* __Chatbot models__: [Vicuna: A Powerful Chatbot Model](e91b6e1d0dcf2c5d43dfddbf6a56310b)
+* __Chatgpt__: [GPT4All: Local ChatGPT Simplification](280062047a4f4c0db1811e6ca41703d0), [Using ChatGPT for Foresight: Signal Processing](d3ca03ec9e48516fa3d82a78cf2d61c0)
+* __Chatgpt and ai systems__: [The Enshittening of Knowledge: ChatGPT and its Implications](182bea68661560af4b5ef5728107212b)
+* __Chatgpt bot service__: [Subscription Service Uses ChatGPT Bots to Annoy Telemarketers](857470c398e02e1332fa173027719cc5)
+* __Chatgpt impact on book industry__: [ChatGPT Launches AI-Written E-Books Boom](23b1a43c321ff714805ff4bc83829491)
+* __Chatgpt integration__: [Integrating ChatGPT with Internal Knowledge Management](977ac6628e9192d07524905819496121)
+* __Chatgpt vulnerabilities__: [Strange Keywords Break OpenAI's Chatbot](5b81715df0a0f5578205ba6139f4ef03)
+* __Chemical analysis__: [Screening of Breast Cancer from Sweat Samples Analyzed by 2-Dimensional Gas Chromatography-Mass Spectrometry: A Preliminary Study](0c92eaabe3945e7b15eea4b98e970a96)
+* __Chemical composition__: [Gaia's Detailed Survey of the Milky Way's Strange Stars](1ab0b67f876bff9275b2dbb3a7f3442c)
+* __Chemistry__: [Radon Decay and Electric Fields](6c94b8dcd4d0fc4b429a994e2abd353f)
+* __Childcare__: [Challenges Mount as Viral Infections and Child-Care Shortages Collide](680e58ea9fd94182e5f26d3b3c8abda9)
+* __Childhood vaccinations__: [Drop in U.S. Kindergartners' Vaccination Rates](f2e3c24131513e79e1193ffa31a7f1e7)
+* __China-us relations__: [US Restricts Nvidia GPU Sales to Thwart China's AI Development](b79a2baa87b68283198416791b93bce4)
+* __Chinese disinformation__: [China's Disinformation Campaign in Taiwan](44ddf53ef211a729ca1a7fa394ac9f35)
+* __Chinese market__: [Chinese Tech Giants Go All-In on Nvidia's HPC Products](b4cc7b5ac1c99e45eb6fc1f733189405)
+* __Chinese tech companies__: [China's Growing Virtual People Industry](9830e769665e82dcea315b1089dc40c4)
+* __Chinese tech industry__: [China Proposes New Regulations for AI Chatbots](b6dc0996967d1b60cd671a3f6a787e9b)
+* __Circular economy__: [Fungal Architecture: A Sustainable Revolution](944bbef81a6e19bc84f824a09fdece39)
+* __Circular mining__: [Circular Mining: Unlocking the Potential of Recycling Metals](f6822e1e33898d0b84b912cb06a69ba3)
+* __Cisco products__: [Cisco Emergency Responder Static Credentials Vulnerability](639e90afedd3746239c783332a0da15c)
+* __Class distinctions__: [The Unraveling of the Progressive Economy](f4ea5244ccafd654e5955673b0ee3976)
+* __Classic toys__: [The Enduring Power of Classic Toys](dd9fc6f91eeb99cb289ba2e9f8af02f3)
+* __Clean economy transition__: [Circular Mining: Unlocking the Potential of Recycling Metals](f6822e1e33898d0b84b912cb06a69ba3)
+* __Clear choices__: [The Importance of Clear Strategy Choices](b393d3164c1634957a3bc8e2ae733b41)
+* __Climate change__: [Floating City in the Maldives Offers Hope for Climate Refugees](f752962c5587436d35583816144eef3e), [Major Breakthrough in Nuclear Fusion](136f0479a4a508ee27ea66d38d8d2b41), [Fungi: A Solution for Sustainable Food Production](0c58d382a0cacf288605a136bbcf69a3), [Keeping Cool in a Hotter World: The Importance of Energy Efficiency](0ca38b65b97d6235d3b3dbb3efdb0c21), [Protein Nanowire Provides Clues to Combating Climate Change](b9bff2b9003a2ceb046c598703e0c939), [Unprecedented Ocean Temperature Anomalies Continue](7d78c43cd82cf39506c094d726af453f), [Las Virgenes Water District Implements Water Restrictors to Conserve During Megadrought](9655c5d49c7e5cbfaedaca59cba73875), [Heat Will Likely Soar to Record Levels in Next 5 Years](89b553cd6644cc1549e68abd6a6d44d6)
+* __Climate change adaptation__: [The Ancient Acequias of Southern Spain](04998b66cf38956ba7f826219f028eeb), [Seville Launches Heat Wave Naming Program](849bb185b123580ee5fe5c702f99a488), [Beavers: Nature's Climate Change Heroes](4ef4757586661978f066dce209fada17)
+* __Climate change and insurance industry__: [Insurance Giants Pull Back from California's Home Insurance Market](807124122a1003ed8a05a0c2aa156331)
+* __Climate change and its impacts__: [The Challenge of Finding a Safe Place in a Changing Climate](efa36dc9bd5ddc890866d4ab1e68e71f)
+* __Climate change and long-term risks__: [Representing Future Generations in Climate Decision-Making](32228bbf929d81d39a1808dd9b7c4493)
+* __Climate change impact__: [Importance of Microbial Activity on Glaciers](4b6734ef8815047f0eb71a170c13af9d)
+* __Climate change impact on food systems__: [Risks of Harvest Failures Underestimated](9bebaea9ed2c74b635c7ffbedc039556)
+* __Climate change impacts__: [2023 Roadshow of Research and Policy Results](589c2c554219a6d4ae1ad0c9d1d75a21)
+* __Climate change mitigation__: [Ultra-White Paint: Cooling Airplanes and Spacecraft](8e1b3608f46c809be3c61538048824a8)
+* __Climate policy__: [Germany's Reversal Threatens EU's Green Credentials](814283a354f997b39eef0684e747b8ef)
+* __Cloning technology__: [The Rapid Advancement of Cloning Technology](3827e85d7b233b583bd7e01c435cf758)
+* __Closed-loop design__: [Benim Denim: Redefining Fashion's Lifespan](e00cc39602993053c53f8dc014a0ab61)
+* __Cloud computing__: [Alibaba Opens AI Model for Third-Party Developers](705bb257b4c899939cc0c550f0b9d2fa)
+* __Cloud kitchen boom__: [Cloud Kitchens: Multiple Brands, One Location](922837a7daf20516c8487df8f6e20ae7)
+* __Cloud providers and ai__: [Generative AI's Monetization Dilemma](0c6842166e382f4956d21e22b38fa9c2)
+* __Code collaboration__: [Processing Research Papers with GPT](4a685a928e7e774cc5f442248bc0dde0)
+* __Code execution vulnerabilities__: [Vulnerabilities in Auto-GPT Enable Code Execution and Docker Escape](ee8cb7b5bbd170389172ba959bc53d8a)
+* __Code management__: [Toyota Exposes Customer Data in GitHub Repo](823b6ca2e6861cc96e8c98c723234600)
+* __Code optimization__: [5 Python Decorators for Data Science Projects](ee1e6c7eb9c0c87692569c164086065a)
+* __Code-breaking__: [14-Year-Old Boy Cracks Code on Commemorative Coin](f5fa6b014dbca342ff5b4c25c18124a5)
+* __Coffee industry__: [The Rise of Blank Street: Reinventing the Coffee Experience in New York City](ad6334d8203e40ef0376165b2141e1d3)
+* __Cognitive biases__: [Democracy's Battle Against Viral Misinformation](56d1a28746cd95ebaa3d62a4e1f91c3a)
+* __Cold war__: [The Role of Semiconductors in Modern Warfare](328434477c31995b44102949d5341006)
+* __Collaboration__: [Well-being of Future Generations Act in Wales](3938700a79bbde32972657f9eb7b1b69)
+* __Collaboration between humans and ai__: [The Impact of AI on Architecture](1f02642f54cf28611a00e4c83c1d428f)
+* __Collaboration with computers__: [The Rise of Superintelligence and Singularity](5d18d0fdee756046650b4c957ac43730)
+* __Collaborative approach__: [The Principles That Shape Photographic Practice](3732af6b65f8a13ac1af7007d063eb7b)
+* __Collaborative writing__: [The Power of the Hibernet](9e74c32425eab87ba36167bfe05c8f2c)
+* __Colonialism and time__: [Saving Time: Reshaping Temporality and Reclaiming Agency](047936a2b08c1b5dda3018bc98dc1d9b)
+* __Color in branding__: [The Power of Color in Branding](aed94a25a5eda4f0d45a976a94a8c223)
+* __Combining analog and digital photography__: [Reinvigorating Vintage Analog Cameras with a 20MP Sensor](f7b3a19af28d70bf1f74f5d17c496c39)
+* __Combining text and images in education__: [The Power of Zines in Education](53d3d1e4dcdbada5d087e49faadec607)
+* __Comedy__: [Bigbug: A French Sci-Fi Comedy](0e3aecb9945b5787eebfacb7ab40e7cb)
+* __Comfortable sleep__: [Bedtime Rituals and Sleep Quality: A Survey of American Adults](615b115fc368aacddda24fb30f9ddf44)
+* __Commercial real estate__: [Architectural Challenge of the Present: Adaptive Reuse](cf7cc3361b8139c51e3e97835a2da4e4)
+* __Commercialization of ai__: [A.I. Sparks Debate Over Artist Rights](f5d2fbbd282d6e37d9e572edfcd235b2)
+* __Commercialization of ai-generated art__: [The Copyright Conundrum of AI-Generated Art](2cfdc6fba6f11e089c2df3cda1604174)
+* __Commercialization of pickleball__: [The Rise of Pickleball: America's Fastest Growing Sport](80e437452636ee6f2c0dfbae9ee723dd)
+* __Common forms of attack__: [UK Government Data Reveals Common Cyber Threats Faced by Organizations](576f8cf76f713e057b075e2424ea709c)
+* __Communauté__: [EchOpen: Revolutionizing Medical Imaging through Open Source Collaboration](f70da5953e48da16a286c1cf9d8b480b)
+* __Communication__: [Coordination Neglect in Organizational Effectiveness](abedf8019b0bc967f5f72e6cbd964f57), [Elon Musk's Revealing Text Messages](d04f722445dfdb5bc02415c540a94654)
+* __Communication inter-espèces__: [The Body's Music](17fb3271515aa45a48bdc4539ade0be0)
+* __Communication tools__: [The Impact of Digital Whiteboards](0427292acb53be01ba35b3b5b561cb59)
+* __Community__: [Inside the Legendary Hackerspace, L0pht](992602cc0ddc531bb5e3ab280132a31f), [Yokochos: The Hidden Gems of Tokyo's Neighborhoods](81bce8483d29b043747e3f6a32895c7f)
+* __Community building__: [A Proposal for a Letter Circle](e0dd77b135a529ee920c59b0fc1e1059)
+* __Community engagement__: [The Principles That Shape Photographic Practice](3732af6b65f8a13ac1af7007d063eb7b)
+* __Community gatherings__: [The 2022 Hackaday Supercon Is On!](57d45c62e30c14c52cdaa049b2d869b6)
+* __Community value__: [Open Source Imaging Initiative: Affordable and Accessible Medical Imaging Devices](180db5379fd2e3f464d754d6d2eb27cb)
+* __Community wellbeing__: [Greeting Neighbors Linked to Higher Wellbeing](d16e5657697812f4271d7ff1d18fd874)
+* __Comparison of llms__: [Comparing Self-Hosted LLMs and OpenAI: Cost, Quality, Speed, and Privacy](cde52125a54df8cddd2d6464c9ed07de)
+* __Compensation for artists in ai art industry__: [Shutterstock Partners with OpenAI to Integrate DALL-E into Stock Image Platform](99ffe526026a0494fc25d44aba64bd70)
+* __Competition__: [The Battle for Your Car: Google vs. Apple](9dcdb4959b186e68114c6cc92931068e)
+* __Competition between google and openai__: [Leaked Google document reveals concerns about OpenAI's competitive edge](271c9ba1f197505aba5f225c62e3c09f)
+* __Competition between m.b.a. programs and job offers__: [Decline in M.B.A. Applications Linked to Strong Job Market and High Costs](741fe3c74904ed78f07285a0a13f87f7)
+* __Complex problem-solving__: [Meta's AI Masters Diplomacy Strategy Game](1c2a9187767ce0f3e0f34b65dab0f83f)
+* __Complex systems__: [Introduction to Systems Thinking for Civil Servants](c745ba8f3cb00c2d7c46c819537fcb10)
+* __Complexity of computer systems__: [Complexity and Insecurity in Computer Systems](fba2096cec7c08fe7c05d259b29dd5d9)
+* __Compliance__: [Compliance of Foundation Model Providers with EU AI Act](b39cd180dcfb9a92e51a09e5dcb0a0f4), [Consequences and Compliance: CNIL's Google Analytics Use Notice](903096f9f71209541fb6fabd6220b72b)
+* __Compliance and rebellion__: [The Art of Wandering](ddf441dc074555140e62f61fb00019fa)
+* __Computer history__: [A Brief History of WolfMUD](46c1f73cbd3e48207a7b612fe8678cd3)
+* __Computer science education__: [Harvard's AI Chatbot to Teach Computer Science](e2cc63d7622564eb4cb5af13e8b2669c)
+* __Computing freedom__: [The Dangers of Service as a Software Substitute (SaaSS)](5c135d085a6d575c9d112244b2a873fb)
+* __Computing power__: [The Role of Semiconductors in Modern Warfare](328434477c31995b44102949d5341006)
+* __Compétences du futur__: [Future Careers and the Importance of "Mad Skills"](572ff244f383344150f88e74397cc5de)
+* __Concept of time__: [Saving Time: Reshaping Temporality and Reclaiming Agency](047936a2b08c1b5dda3018bc98dc1d9b)
+* __Concerns about ai__: [The Malevolence of ChatGPT: A Call for Destruction](9b21fce377880166b73916aee2be1fc0)
+* __Concerns about alternative data__: [Growing Adoption of Alternative Data by Investors](6df05418720b20b7f2cec0056111cae6)
+* __Concerns about artificial intelligence__: [The Future of Artificial Intelligence](7fcef9a240c0738d2390c83f9713dc98)
+* __Concerns about job security__: [The Battle with A.I. in Call Centers](56beef7b04fba80fbf7a9b4625af80b1)
+* __Concerns about labor implications__: [Voice Actors Express Concerns Over Voice-Generating AI](fdaa6ee397da0b1a689af2883ee8f2af)
+* __Concerns about potential buyers and government plans__: [Rising Costs of Electric Car Charging](044f5d6bb4070ed49afafb90f38713bd)
+* __Concerns about solvency and insolvency in the crypto industry__: [Crypto Market Sell-Off Intensifies as Bitcoin and Ether Plummet](3df21712dc64230ab6f16aea00683d3f)
+* __Concerns about the dangers of a.i.__: [The Misleading Myth of Artificial Intelligence](15c812523685076326204f061bf025cd)
+* __Concerns of engineers about the potential implications of the plans__: [Concerns raised over switch to imperial measurements](6f19a30cab90c95bd01c25851126531e)
+* __Concerns over authenticity__: [ChatGPT Launches AI-Written E-Books Boom](23b1a43c321ff714805ff4bc83829491)
+* __Conflict resolution__: [The Importance of Conflict and Non-Violent Resolution](fb16444fba5241fd1199ff90e3572e9a)
+* __Conflict simulation__: [Rethinking Wargames for Conflict Resolution](290b39e08f51973a22385822003f38c2)
+* __Connected vehicle data industry__: [The Growing Concerns of Connected Vehicle Data Collection](fe7e41280ce4475f799785a436070868)
+* __Connecting with deceased loved ones__: [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
+* __Connection__: [Architecting Joy: The Path to Lasting Happiness](ec3b733c80a9fc0239d120b8450c979b)
+* __Consciousness__: [The Lifecycle of Software Objects](2870beba7811820767e980801beb90bf)
+* __Consciousness research__: [The Great Wager: Seeking Consciousness](a22ee1f3d953a98514b92c413784feea)
+* __Consciousness science__: [The Future of Consciousness Science](098f4de4b2e0da23ef41a92329c5e761)
+* __Consent and control__: [The Growing Concerns of Connected Vehicle Data Collection](fe7e41280ce4475f799785a436070868)
+* __Consequences of production__: [The Challenge of Rethinking the Supply Chain](fa27e27bdec01712d582ab0f61c95bac)
+* __Conservation__: [The Ecological Challenge of Honey Bees](4dfe18ed5e6333c9893bad9059e7e540)
+* __Construction productivity__: [The Importance of Improving Construction Productivity](68cc2d738ed662aeee3670d8327d7d5f)
+* __Consulting__: [The Power of 2x2s in Business Strategy](2ae41a6753586e960d571ef66275c3a6)
+* __Consumer behavior__: [IKEA's Time Currency: A Shift in Consumer Behavior](5545fefb8c6612ca12964516930380c9), [The Power of Free: How it Influences Consumer Behavior](0b5ca258e9c7ed2f9f6cf60dd523e148)
+* __Consumer goods suppliers__: [Carrefour Exposes Shrinkflation in Supermarkets](471e724e40f6934417b8c27dcb1d5639)
+* __Consumer lending__: [The Evolution of Debt in America](1bada151ef608ff10c639ec228c01f3e)
+* __Consumer-brand relationships__: [Balabala Makes Virtual Move with Gu Yu](c9ec4ffbfe911a0c5d04e95d8fa17e77)
+* __Consumerism__: [The Transactional Nature of Modern Life](a5c0ba498382a4edc0f2bf0d9653ad16)
+* __Container shipping__: [The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger](c14b3ca07efcef0d44a6af30501c76c1)
+* __Content consumption__: [The Rise of Curated Content](32d1ad4478612a9035595bf948a27a1f)
+* __Content creation__: [Bing AI: A New Era of Search](08d574bcc0280a4ca5a4b2a48357d6b7)
+* __Content moderation technology__: [The Rise of Algospeak: Americans Evade Detection with Code Words on Social Media](fe5ece17d1050e9097bd9a2e6e0ef50c)
+* __Content platforms__: [The Long Tail: Internet's Niche Business](1c59289b8b0df3c789f86f9b3159370d)
+* __Context__: [The Rise of Context-Aware Digital Assistants](46267bf4740b29117588f603a5c41280)
+* __Contingent faculty__: [Massive Strike at University of California](4f1f3ae403592fef4bbb29a4f90c419a)
+* __Continuous learning__: [Everything is a Practice](a81f85f066b0093553fc39638d3e0559)
+* __Contributions of women in computing__: [The AI Ethics Revolution: A Timeline](2b3dffe867d32d85c04baf149e2444ea)
+* __Control of mosquito populations and mosquito-borne diseases__: [Exploding Mosquitoes and Their Thirst for Blood](65c4c98af74c4b7813fc98ee7bb1d0d2)
+* __Control versus understanding__: [Technologies of Hope: Pandemic Solutions](d44d0c046d2ee3330a2d40cfccdfc0d3)
+* __Controversies surrounding consulting firms__: [The Value of Management Consultants](e35045210e6be5203ded2be5b9ed63f6)
+* __Convenience__: [Amazon Clinic: Virtual Care for Common Health Conditions](22d0934658c9fc05be2fd8ded3007cf4)
+* __Conversational interface__: [Natural Conversations with Google Assistant](3b057a14187c304edd1a0f4bbed854a8)
+* __Cookies__: [Counting Templates and Privacy Policy](348fffeed19b47b0379a6ca0cad9ec8e), [Information Collection and Cookie Usage](a33c07b3f96448f9af29b9e59a080b73)
+* __Cooling technology__: [Ultra-White Paint: Cooling Airplanes and Spacecraft](8e1b3608f46c809be3c61538048824a8)
+* __Copepod ecology__: [The Hidden World of Copepods](72f38771bb0e524e59d49cde66f9db5e)
+* __Coping with rapid technological change__: [Coping with Rapid Technological Change: Strategies for Survival](14a8b49f5342c0428f8f03db633c57d5)
+* __Copper scarcity__: [The Future of Electric Vehicles: Potential Supply Shortages Threaten Growth](e2d1170995334c5c5e09b403ac8d3dcc)
+* __Copyright infringement__: [U.S. Department of Justice Seizes Z-Library Domains](d050024991b2307add12adc6f590ad54), [A.I. Sparks Debate Over Artist Rights](f5d2fbbd282d6e37d9e572edfcd235b2), [Writers Sue OpenAI Over Copyright Infringement](a238d311a34b43af7599af5c8ad1e41f), [The Controversy Surrounding AI-Generated Art in Anime and Manga Circles](a1ccaf4e8c6dd14b4b2b522e2d8c2c89), [The Phenomenon of Illegal Numbers](63aeeab522c47062e02f671fd01a7b63), [The Battle Over Books and AI](60708ef9829fd46241b75936b97b447d)
+* __Copyright law__: [U.S. Copyright Office Rejects A.I. Art Copyright](fc78d6a757326382f385c8b5504ad6f9), [Supreme Court Rules Against Warhol's Use of Prince Photo](c1e1bed7a22d1ccc1a5d6e57f87ba862)
+* __Copyright ownership__: [The Copyright Conundrum of AI-Generated Art](2cfdc6fba6f11e089c2df3cda1604174)
+* __Copyright protection__: [Google DeepMind Launches Watermarking Tool for AI-Generated Images](d5c399872ea4d28def48f650503511a0)
+* __Copyright registration__: [New York Artist Receives Copyright for AI-Generated Graphic Novel](9191375fe5b80e2b93a7369a79e63957), [Copyright Office's Policy on AI-generated Content](55f8b86061b91388635decadefac4732)
+* __Coral reef restoration__: [Restoring Coral Reefs Using Sound](a69be6c012f19d3a97137c13bbbc9eb2)
+* __Corporate espionage__: [Corporate Espionage: A New Era](24e03440e7901342e12da817c3fc951e)
+* __Corporate monopolies__: [Corporate Subscription Serfdom: Training Our Children for a Life of Dependency](6bccf38c9e97c992a3f5861fc6297380)
+* __Corporate responsibility__: [Earth as Our Only Shareholder](b5c93b6e5a5b33c81d3a1619b9b37f1b)
+* __Corporate restructuring__: [Amazon Begins Largest Layoffs in Company History](e2fe1bd7fb9483f84f90a2bd41c8c35d)
+* __Corporate sustainability__: [The Rise of "Greenhushing" and its Implications](a808b73a65a5a8140b4fc5dd5845679b)
+* __Corruption in higher education__: [The Higher Education Apocalypse: Declining Enrollment and the Consequences](d64c4666be4d84f147f57055b74daa32)
+* __Cost analysis__: [Comparing Self-Hosted LLMs and OpenAI: Cost, Quality, Speed, and Privacy](cde52125a54df8cddd2d6464c9ed07de)
+* __Cost comparison between cruise ship and retirement home__: [Is Living on a Cruise Ship Cheaper Than a Retirement Home?](3f93494c0a224e19c9a86b8b566bb280)
+* __Cost efficiency__: [Japan Plans World's First Wooden Satellite](a8e879a399523fa13be56fab2f93d822)
+* __Cost management__: [Financing Offshore Wind - Part 1](63a65ba211f78dca2965b6b2ca564df2)
+* __Cost reduction__: [Accenture to Cut 19,000 Jobs Worldwide](ca4e056c63caa99162778073ba814ac1), [Amazon Begins Largest Layoffs in Company History](e2fe1bd7fb9483f84f90a2bd41c8c35d)
+* __Cost-cutting measures__: [National Geographic Magazine Faces Decline in Staff and Print Distribution](d73b2d1ca633593621e522bff48a55e6)
+* __Counterculture__: [Breaking the Mold: Winning in the Networked Counterculture](e5f4b1b4319694169f1551be43a837c9)
+* __Counting__: [Counting Templates and Privacy Policy](348fffeed19b47b0379a6ca0cad9ec8e)
+* __Counting system__: [The Yan Tan Tethera Counting System](4754b54aa9384e4b40e9d054660ce4f3)
+* __Covid sequelae__: [Long-Term Effects of Covid: Findings and Uncertainties](b1b5f0564e486b3e1f123da956f6b1a6)
+* __Crab population decline__: [Alaska Snow Crab Season Canceled as Officials Investigate Disappearance of 1 Billion Crabs](7e83f7bbd34b9f20b0dbd61cdbb0dcdf)
+* __Craftsmanship__: [Exploring Industrial Weaving in Stephen Burks' Workshop](c0d68c0d91d462d071fa1e111735f9b8)
+* __Creating a better future__: [Imagineering A Better Future](c8574c3fabcddaff47072c5b93a50476)
+* __Creating a digital twin__: [Fine-tuning LLMs with LoRA for Digital Twin Creation](82ac82f66582103565f188f377f7af9f)
+* __Creative process__: [The Impact of AI on Art](cc1340400b9dfbf32bfc3d546cf0b7b3)
+* __Creative workflows__: [Wordcraft: AI-Powered Writing Workshop and Tools](3acd488d3b86b4637bd78d0f3f3e0e65)
+* __Creativity__: [The Importance of Ruthless Editing](77758e23f4c4a5892d58e3f5cff8f0ca), [The Power of Procedural Creativity](b904404d29de27e27cbc3dfa95c59f27), [Oblique Strategies: Overcoming Creative Blocks](624594b96816ab42c43832aa315bf3b7), [Unleashing Creativity with SCAMPER Method](0e850e13ca65ce51de13cd4e0ec85861), [The Power of Drawing in Idea Generation](094e056f091942a96a446d8401432eb8), [Enhancing Creativity with Generative AI](e2006a4269f097491cc98583df08a47d)
+* __Creativity and ai__: [Uphill Thinking: Creativity, AI, and Human Design](92ae644db3cc8e4d0fb262bac8413f8b)
+* __Creativity and discovery__: [The Power of Possibility Spaces](e27673c6f795ce9dc01f9d48bedfbc30)
+* __Crime prevention__: [Italy's Right-Wing Government Criminalizes Raves](adb7356f3711c023daf08fec38221395)
+* __Criminal charges__: [Former Theranos COO Sentenced to 13 Years in Prison](b0d1ed951415ca875228752e72f21c58)
+* __Crisis of meaning in work__: [The Temptation of The Button: AI's Impact on Work and the Crisis of Meaning](3cdcaf35e46bb5b431f299c44a448b9f)
+* __Criteria for effective tools__: [Tools Needed by Open Source Researchers](232af96e853049a58bc2dae466ea495d)
+* __Critical reception__: [Review: The Witcher: L'héritage du sang](b6a211ec0e62731accbcdca13d23c0f8)
+* __Critical zone science__: [Microbes: Active Engineers in Earth's Rock-to-Life Cycle](8a76baaa6df38b98c48c0635d103a5a0)
+* __Croissance économique__: [Décroissance: Une Économie de la Post-croissance](94317d62a04e47f7d4873cfe17190e81)
+* __Crowdsourcing__: [Automation and AI in Mechanical Turk](e2bfc7a2318b0eac62f4f2af28722802)
+* __Cryptocurrencies__: [Nvidia Chief Technology Officer: Cryptocurrencies Bring No Value to Society](07715b9a363b2fb7f1368bfadad78052)
+* __Cryptocurrency__: [Worldcoin Raises $115 Million for Eyeball-Scanning Crypto Project](2288acc14dd8aab5ef245655d253626f)
+* __Cryptocurrency market volatility__: [Crypto Market Sell-Off Intensifies as Bitcoin and Ether Plummet](3df21712dc64230ab6f16aea00683d3f)
+* __Cryptography__: [Making AI Safer with Cryptography](9ec84987bda1e0a307c2c31c6ed2462d)
+* __Cryptography and privacy-enhancing technologies__: [Callisto: Using Cryptography to Catch Sexual Predators](e37681e9430b42da8833c0133e69c45d)
+* __Cultural clash__: [A Memory Called Empire: Political Intrigue and Deadly Secrets in Teixcalaan](2d4b47a47cd08aaa542939967329f027)
+* __Cultural factors__: [The Demographic Transition in France](526a1dc9707f62b939644c3b3ea6dcf0)
+* __Cultural fusion__: [Crossing Hip-Hop with Sri Lankan Dance](0eec94d49d73ca7a3669da31cea25e51)
+* __Cultural shift__: [The Hyper-Personalization of Everything](9ef1218bf5010b0780647b93d724b93b)
+* __Cultural shifts__: [Discovering Overlooked Social Shifts with AI](a764338d3c1cf114377e3f619e246289)
+* __Cultural therapy__: [Cultural Therapy: Museum Prescriptions for Mental Health](3c807d80ce080c015f1fc14086b7a09e)
+* __Cultural transmission__: [Bumblebees: Cultural Learning Among Insects](2394a07d8b41ae57fc3d67bd80e7f751)
+* __Culture clash__: ["The Moon Moth" by Jack Vance](2dd9a441afdb8fd77ef5e8163da4326b)
+* __Curation__: [The Rise of Curated Content](32d1ad4478612a9035595bf948a27a1f)
+* __Curation and overwhelm__: [The Sterile World of Infinite Choice](7b316ebe449187b79e519a8c6d12a2cd)
+* __Currency valuation__: [The Big Mac Index and Burger Prices Around the World](189e440570d5fe35902ee7b899f7e220)
+* __Custom chip manufacturing__: [YouTube's Custom Video Chip Revolution](5d8b4aa6d5d8d086044fd9d1a00c270f)
+* __Customer consent__: [Zoom's Terms of Service Update Allows AI Training with Customer Data](3b96c74f728c6281fc7f1a045a5befc7)
+* __Customer driven marketing__: [The Power of Customer Driven Marketing](f5a86c6c3c113719814d2772bea54508)
+* __Customer experience__: [Design as Governance: The Importance of User-Centricity](2587a142b15645727d2adbee3539d4de)
+* __Customer needs and desires__: [Understanding Jobs to be Done (JTBD)](110ac9459692757f523d5d37b79eaf3d)
+* __Customer satisfaction__: [Embracing the Solo Diner: Making Dining Alone a Memorable Experience](387cc7d6dcac314087dfc35f2091b410)
+* __Customer validation__: [Redefining MVPs: A Faster Way to Derisk New Product Ideas](5f1854892dfd2f3bd837d7e5db7369ee)
+* __Cyber defense training__: [Taiwanese Tech Tycoon Funds Cyber Defense Training for Potential Chinese Invasion](e99358609284de847f0d590948f5b265)
+* __Cyber resilience act__: [Open Source and the Cyber Resilience Act](2e15bb8c640aadb6d9022cf48f446954)
+* __Cyber safety education__: [Telangana's Cyber Ambassadors: Protecting Students from Online Scams](b9256c2eb50c1c3e1ea2df625cf259ec)
+* __Cyber security__: [Monetising Hacking Through Commodity Shipments](af7a13a1e97a8ebff3d521dabea087ce)
+* __Cyber security skills shortage__: [Army Struggles to Hire Cyber Security Experts Amidst Business Competition](9a34e1185220f0646d9672d1430ce579)
+* __Cyber threat from china__: [Biden Administration Unveils Cybersecurity Strategy and Targets China as Major Threat](1eaefdcf11b24d5f443b5f4e7645e0a5)
+* __Cyber-security__: [Ukraine Cyber-Conflict: Hacking Groups Vow to Comply](c039bde3f9a4fa2f206da538dde42fb5)
+* __Cybercrime__: [The Gangs Behind Coerced Cyberfraud](78225544dc7eb682254250761b51e8c3), [Save the Children Hit by Ransomware](5c52b32dd5324bcb38ab72b1ebd5d61b)
+* __Cybersecurity__: [Researchers Uncover Backdoor in Encrypted Radios Used by Police and Military](841546c0efc4c82f0aabc545a47a09e1), [Hackers to Target Moonlighter Satellite in Space](f21752e61524e179fbdb1ef773666a40), [Hackers Target US Government in Response to Attacks on Gender-Affirming Care](9d978f24420f5198328d717bd93ff52a), [Corporate Espionage: A New Era](24e03440e7901342e12da817c3fc951e), [Peters and Portman Introduce Bipartisan Legislation to Help Secure Open Source Software](16272c1d533831db63a0ff3aa067f09e), [Handbook Provides Insights on Digital Regulation](a38960ed1dcfd200d74ebd16e92e4151), [Cyberattack Derails Olsztyn's Smart City](760077b9e8a605138ef8a769c307c760), [U.S. Cybersecurity Agency Adds Adobe Acrobat Vulnerability to Exploited Catalog](089706e00a9c0d142049a6a6c557e3e7), [UK Government Data Reveals Common Cyber Threats Faced by Organizations](576f8cf76f713e057b075e2424ea709c), [Toyota Exposes Customer Data in GitHub Repo](823b6ca2e6861cc96e8c98c723234600), [Senegalese Government Websites Attacked by Hackers](4d2fd5459978f8dfc8e307ec4a44b638), [Exposed Server Leaks US Military Emails](2efc3124c37c21844c4c71c2eb801f11), [Hackers-for-Hire Targeting Law Firms](86eed7596de75b410b471fb8618f4be3), [14-Year-Old Boy Cracks Code on Commemorative Coin](f5fa6b014dbca342ff5b4c25c18124a5), [Wi-Fi Spy Drones Target Financial Firm](20ad49fa494b31286502efcbf6e22d9a), [Hackers Compromise Worldcoin Orb Operators' Devices](38242c2652ac7f212d8d9955b40be595), [Netlas.io: The Ultimate Cybersecurity Tool](ae919b08f9b58de655abd2fea03c1169), [US Department of Defense Outlines 2023 Cyber Strategy](f88aebcf579dffa42fc0dbe74de919c4), [U.S. Military Purchases Powerful Internet Monitoring Tool](8f5fe20e3702256a4bb3cdf7fd677752), [Thousands of Solar Energy Monitoring Systems Exposed Online](3ac657f7b32d24bb43bddca058e2db25), [Cyberattack Disrupts Poland's Railway System](f0da3ab471bb07f203a20b0ff24b57c0), [The SolarWinds Cyberespionage Campaign Unveiled](60d708d49e171255bc45464e0b5e6a6a), [Backdooring a summarizerbot to shape opinion](4d1abdf7e702b559c6ccff847ce4d8d0)
+* __Cybersecurity job vacancies__: [The Information Security Jobs Dilemma](38bda67182126c0f814ed70882b5fed2)
+* __Cybersecurity legislation__: [Biden Administration Unveils Cybersecurity Strategy and Targets China as Major Threat](1eaefdcf11b24d5f443b5f4e7645e0a5)
+* __Cybersecurity policy and framework__: [Belgium Introduces Strong Legal Protections for Security Researchers](8ae26b7eeafce0d7e88a3f1e7cadcfd7)
+* __Cybersecurity risks__: [Hack-a-Sat: Researchers Launch Sandbox Satellite for Space Hacking](f6637d1fa0e3fe0e1e94bea8b3338ef9), [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
+* __Cybersecurity sector growth__: [The Growing Investment Opportunity in Cybersecurity](211803931bfabc324f12ad1524640ef1)
+* __Cybersécurité__: [Cybersecurity Threats to Law Firms](0b6d917158cd84c369d0af378202984b), [Hackers from Bangladesh claim to have crashed La Poste's website](1a4f9230721bac1d416c8b49e76523a5)
+* __Cyborg botany__: [Cyborg Botany: Augmented Plants as Sensors, Displays and Actuators](b1f6991b9b718672751c9427c3f5b794)
+* __Cyborg lifestyles__: [The Future of Wearable Tech](a81c4775b91ccd0db3e1b84da893ac6f)
+* __Cyborg secrecy__: [The Dilemma of Revealing AI Cyborgs](c42a95f16678ed3834840d48f8e775a3)
+* __Cycling__: [Weekly Reflections and Creative Inspiration](1bc6c11e394022139f8af61a7554a7ec)
 
 ## Letter 'D' 
 
 
-* __dangerous honey gathering__: [The Hallucinogenic Honey: Mad Honey](d943c22736f43f56cebc890da1718595)
-* __dangers of deepfake images__: 
-* __danse__: [The Body's Music](17fb3271515aa45a48bdc4539ade0be0)
-* __dart mission__: 
-* __darwins beagle field notebooks__: 
-* __data analysis__: [The Power of Satellite Data: Uncovering Economic and Environmental Insights](2c79a113d206a8ec8ec147422fcea12c)
-* __data analysis capabilities__: 
-* __data analytics__: 
-* __data breach__: [Save the Children Hit by Ransomware](5c52b32dd5324bcb38ab72b1ebd5d61b), [The SolarWinds Cyberespionage Campaign Unveiled](60d708d49e171255bc45464e0b5e6a6a)
-* __data breaches__: [UK Government Data Reveals Common Cyber Threats Faced by Organizations](576f8cf76f713e057b075e2424ea709c)
-* __data broker industry__: 
-* __data centres in ireland__: 
-* __data collection__: 
-* __data collection and monetization__: 
-* __data collection and preparation__: 
-* __data collection and sharing by car brands__: 
-* __data ingestion__: 
-* __data interoperability__: [The Power of Ontologies in Finance](2fabc8d492124376829f91c34f828437)
-* __data preservation__: 
-* __data privacy__: [Technology and Children’s Well-Being in Danish Schools](17ac55c1f87675e075557fa4fa5ba14e)
-* __data privacy and regulation__: 
-* __data privacy and security__: 
-* __data protection__: [UK Government Expands Controversial Surveillance Technology](4fe61511dabd734b653a98b45e8bd3c0)
-* __data quality and accuracy__: 
-* __data removal__: 
-* __data retrieval__: 
-* __data science projects__: 
-* __data security__: [Discarded Enterprise Routers Store Valuable Secrets](b05de170e76d25145c54337068780075), [Exposed Server Leaks US Military Emails](2efc3124c37c21844c4c71c2eb801f11), [Apple Warns UK Government Over Surveillance Powers](592f0831eeefa9761ae385bc25f166a0)
-* __data theft__: 
-* __data transfer__: 
-* __data visualization__: 
-* __data-driven solutions__: [Technologies of Hope: Pandemic Solutions](d44d0c046d2ee3330a2d40cfccdfc0d3)
-* __database management__: 
-* __dave dobson\s past__: 
-* __decarbonization of metal production__: [Metal without Mining: The Rise of Magrathea](de8c393b7b1395557948cb50d90de996)
-* __decentralization__: 
-* __deception__: [The Confidence Game of ChatGPT](f0afe8bae09252e6180784a36260e1ff), [Gaslighting: The Word of Deception](d4e40db973527ce595cc72255dc83220)
-* __decline in botanical education__: [The Disappearing Knowledge of Plants](e23590dbe6aa22752002fb616fba5004)
-* __decline in m.b.a. applications__: 
-* __decline in posting on instagram__: 
-* __decline of higher education__: 
-* __decline of original content__: [The Rise of the Pop Oligopoly](317aa39c987f1d5e3509dbc5e50c8bb3)
-* __decline of print media__: 
-* __decolonization__: 
-* __deep water hunting__: [Unique Adaptation Allows Sharks to Hunt in Cold Waters](27a3a94222f061917b211c94d1d3ee92)
-* __deep-sea mining__: [The Rise of Deep-Sea Mining](5bbc958cd9d41c08482acdaa4ac033e4)
-* __deepfake technology__: 
-* __defense__: [US Department of Defense Outlines 2023 Cyber Strategy](f88aebcf579dffa42fc0dbe74de919c4)
-* __deforestation__: [Fungi: A Solution for Sustainable Food Production](0c58d382a0cacf288605a136bbcf69a3)
-* __delay in chip factory construction__: [Delays in TSMC's Arizona Chip Factory Construction Impact US AI Investment](2b6cc7a8e528932936c2b72ea35d930c)
-* __delaying tactics__: [Simple Sabotage Techniques in WWII](e62131b4a0555020af785377276bcd76)
-* __delivery service__: [Domino's Faces Pressure Amid Delivery Challenges](07091cec2b85e059cd1a0fa65cbcfed4)
-* __delivery services__: 
-* __demand for life science talent in private sector__: [Unprecedented Exodus of Young Life Scientists from Academia](7054e5d956a73f1ccb060d1d8fe80151)
-* __demographic decline__: [The Economic Impact of Ageing Populations](bff595b72330d833dba477e2dc2a5656)
-* __demographic differences__: [Concerns about Artificial Intelligence in Daily Life](c3876ee8e1b4e0d9e38edf15caaa5521)
-* __demographic shifts__: 
-* __demographic transition__: 
-* __design__: [The Enduring Power of Matchbooks](cceff7fbb9450ceb8276d0c377e472e7), [Exploring Industrial Weaving in Stephen Burks' Workshop](c0d68c0d91d462d071fa1e111735f9b8), [The Power of Drawing in Idea Generation](094e056f091942a96a446d8401432eb8)
-* __design and manufacturing__: 
-* __design and technology__: 
-* __design governance__: [Design as Governance: The Importance of User-Centricity](2587a142b15645727d2adbee3539d4de)
-* __design thinking__: [The Impact of Digital Whiteboards](0427292acb53be01ba35b3b5b561cb59)
-* __design-thinking__: [Workshop Tactics: the best problem-solving workshops in a box](e6cb167bfeaed16d68d2e384681bfbb7)
-* __detective mystery__: [Glass Onion: A Knives Out Mystery](2635806aedc11d6ca9c3ca9a7520c586)
-* __developer tools__: 
-* __development with langchain__: 
-* __devops__: 
-* __diagnostic technology__: 
-* __dictators and economic growth__: 
-* __didymos-dimorphos asteroid system__: 
-* __differences between gpt-4 and chatgpt__: 
-* __different approaches to human-ai integration__: 
-* __differentiating agile coaches and scrum masters from chatgpt__: 
-* __digital access__: [Trial Inclusions and Subscription Options](2b2438cd827520a2dfdcffa094cc7fc3), [Trial Inclusions and Subscription Options](42029469086ed8b0defa5120ec35459e)
-* __digital advertising__: 
-* __digital assistants__: 
-* __digital awareness__: 
-* __digital connectivity__: 
-* __digital currency__: [The Digital Pound: A New Form of Money for the Future](86f9d4e0a40048c3cbab66ba00b2fcb5)
-* __digital economy__: [Handbook Provides Insights on Digital Regulation](a38960ed1dcfd200d74ebd16e92e4151)
-* __digital gardening__: 
-* __digital health funding__: 
-* __digital immortality__: 
-* __digital job market__: 
-* __digital literacy__: 
-* __digital memories__: [New AI Tools Preserve Memories of Deceased Relatives](b7dd6fe41c7bd9a4a04c30adfd020de4)
-* __digital obsolescence__: 
-* __digital payments__: 
-* __digital platforms__: [Design as Governance: The Importance of User-Centricity](2587a142b15645727d2adbee3539d4de)
-* __digital preservation__: 
-* __digital regulation__: [Handbook Provides Insights on Digital Regulation](a38960ed1dcfd200d74ebd16e92e4151)
-* __digital revolution__: 
-* __digital rights__: 
-* __digital space__: 
-* __digital technology__: 
-* __digital transformation__: [The Rise of Car Subscriptions in the Automotive Industry](b9a5b69113b7ca17b6493414799b0e6e), [The $100 Trillion Opportunity in B2B Marketplaces](50aefdd8b2bffa1bb84f8460c7b559c2), [Digital Reinvention: The Key to Law Firm Success](f9f1a04c9e44cac963fd3522f407a5e8)
-* __digital twin__: [The Power of Customer Driven Marketing](f5a86c6c3c113719814d2772bea54508)
-* __digital whiteboarding__: [Google Jamboard: End of the Line](1f6ffedb8c1bbd834ffc6a40038cbf7c)
-* __digitalisierung des gesundheitswesens__: 
-* __digitalization of the economy__: 
-* __digitization__: [Bad software destroyed my doctor's memory](976f66dccf4086981111e810d0160229)
-* __disabilities__: [Atlas for The Blind 1837](656239ad8ab36ce06ac4ee6258b5381d)
-* __disability inclusion__: [Cybathlon 2020: Pushing Assistive Technology Forward](012da0fd0aa5dad27caf91e3bd4b238f)
-* __disability rates__: 
-* __disappearing airport technology__: 
-* __disappointment__: [Glass Onion: A Knives Out Mystery](2635806aedc11d6ca9c3ca9a7520c586)
-* __disaster response__: [Lucy Easthope: Britain's Disaster Adviser](ecba274a465c5033bb657bb68d581b92)
-* __disinformation__: [Disinformation Dominates X, Formerly Twitter](5793d28b92e90a64b918cfaefad509db)
-* __disruption in various industries__: 
-* __distributed acoustic sensing__: [Fiber Optic Cables Transform Seismic Detection](17cae66b22f32fc070541ba5d40e236a)
-* __diy crafts__: 
-* __diy electronics__: 
-* __diy internet service provider__: 
-* __domain seizure__: 
-* __domain-specific nlp tools__: 
-* __dominance of major players in pop culture__: [The Rise of the Pop Oligopoly](317aa39c987f1d5e3509dbc5e50c8bb3)
-* __dreams__: 
-* __driver responsibility__: [Fatal Tesla Autopilot Crash Reveals Human Error and Technology Challenges](b8f977d6173309879b7e4e8b478210c0)
-* __drone delivery__: [UK's First Drone Mail Service in Orkney](de3ad3595732b521d35c785274d4773b)
-* __drone hacking__: 
-* __drone surveillance__: [Michigan Supreme Court to Determine Legality of Drone Surveillance without Warrant](6beeee35311c9595fcb7510e04d6a369)
-* __drone technology__: [Corvo Cardboard Drones: Low-Cost Reconnaissance and Transport in Ukraine](4432c5315ea4b0118213c037d1d4f87e)
-* __drought__: [Las Virgenes Water District Implements Water Restrictors to Conserve During Megadrought](9655c5d49c7e5cbfaedaca59cba73875)
-* __droughts__: [Italian Mayor Bans Double Shampooing to Conserve Water](8b237d611e4dd25c311c3939451bb53c)
-* __drug repurposing__: 
-* __dtc market__: 
-* __dumb phones__: [The Resurgence of Dumb Phones in the US](29806fd07d41c5c25550b367b80f445c)
-* __durability__: [Ancient Roman Concrete's Self-Healing Secrets](dcc82775665509b084b18fdd5f56ad2b)
-* __dystopia__: [Linguist Pursued in Dystopian Epidemic](63868d73fd4f4dff913a3bc85d42fa6b)
-* __dystopie au pouvoir__: 
-* __décroissance__: [Décroissance: Une Économie de la Post-croissance](94317d62a04e47f7d4873cfe17190e81)
-* __dérèglement climatique__: [Décroissance: Une Économie de la Post-croissance](94317d62a04e47f7d4873cfe17190e81)
-* __développement durable__: [Challenges and Aspirations in Future of Work](5238d6b8178d6f9c71b66a2fa84b7880)
-* __döstädning__: [The Art of Preparing for Death](f38d21b83e092ffde66a379c439ec010)
+* __Dangerous honey gathering__: [The Hallucinogenic Honey: Mad Honey](d943c22736f43f56cebc890da1718595)
+* __Dangers of deepfake images__: [The Menace of Deepfake Images](14889902198ab8b6f7991b108f6ebb02)
+* __Danse__: [The Body's Music](17fb3271515aa45a48bdc4539ade0be0)
+* __Dart mission__: [DART Mission Successfully Alters Asteroid Orbit](3104ce7da8c0d2b90e007402d07a930a)
+* __Darwins beagle field notebooks__: [Darwin's Beagle Field Notebooks](e1718dbfd1ea52b4030af92331bf20ae)
+* __Data analysis__: [The Power of Satellite Data: Uncovering Economic and Environmental Insights](2c79a113d206a8ec8ec147422fcea12c)
+* __Data analysis capabilities__: [Introducing ChatGPT Enterprise: AI Assistant for Work with Enhanced Security and Performance](27a26e2b76fde5dedcd97e68fd50b852)
+* __Data analytics__: [IntelligentGraph: Embedded Analytics for Knowledge Graphs](b5edec166878e4119b62bd9446a6e214)
+* __Data breach__: [Toyota Exposes Customer Data in GitHub Repo](823b6ca2e6861cc96e8c98c723234600), [Hackers Compromise Worldcoin Orb Operators' Devices](38242c2652ac7f212d8d9955b40be595), [Save the Children Hit by Ransomware](5c52b32dd5324bcb38ab72b1ebd5d61b), [The SolarWinds Cyberespionage Campaign Unveiled](60d708d49e171255bc45464e0b5e6a6a)
+* __Data breaches__: [UK Government Data Reveals Common Cyber Threats Faced by Organizations](576f8cf76f713e057b075e2424ea709c)
+* __Data broker industry__: [Sale of Americans' Mental Health Data](d7e132b0dc94474c05f6109c82cf9878), [Data Brokers' Lobbying Expenditure Rivals Big Tech Firms](8bc87c35679e6c4bea07f47e1c503d58)
+* __Data centres in ireland__: [The Role of Data Centers in Ireland's Technological Revolution](fe8c9a54a3dbc61b0abc367d14524f53)
+* __Data collection__: [Amazon's Spy Appliances: A Surveillance Nightmare](6fb6587422619556f83c26b5b4386948)
+* __Data collection and monetization__: [The Growing Impact of Supermarket Data Collection](90bdc5da81c6c094a1ac7a794d8a2d1d)
+* __Data collection and preparation__: [Fine-tuning LLMs with LoRA for Digital Twin Creation](82ac82f66582103565f188f377f7af9f)
+* __Data collection and sharing by car brands__: [Privacy Nightmare: How Car Brands Collect and Share Your Data](d36bfc24eaef43d38c611b9c8d2491d0)
+* __Data ingestion__: [LangChain Library Adds Neo4j Vector Index Support](f6bc0876eba844318faae06b030904a5)
+* __Data interoperability__: [The Power of Ontologies in Finance](2fabc8d492124376829f91c34f828437)
+* __Data preservation__: [The Digital Dark Age: Preserving Our Digital Heritage](86e67181c4dcbce08848023aa2929bcb)
+* __Data privacy__: [ProfileGPT: Analyzing Your ChatGPT Profile](d654733a20e73da64a2f741bc2e422b0), [Callisto: Using Cryptography to Catch Sexual Predators](e37681e9430b42da8833c0133e69c45d), [Technology and Children’s Well-Being in Danish Schools](17ac55c1f87675e075557fa4fa5ba14e), [France Fines Microsoft €60m for Advertising Cookies](002ee663c73c7add6ce2cabe29e4ae02), [U.S. Military Purchases Powerful Internet Monitoring Tool](8f5fe20e3702256a4bb3cdf7fd677752), [New Tool Nightshade Allows Artists to Fight Back Against Generative AI](737fd00bafc163f8b17f187f41d6567a), [MongoDB Releases Queryable Encryption Preview](fd40f342b5e6148bf9aa0c0eb40fb44e), [EU Approves New Data Transfer Deal with the US, Ending Legal Limbo for Tech Giants](bef6f36725097d0c16289eca2eb18df4)
+* __Data privacy and regulation__: [Data Brokers' Lobbying Expenditure Rivals Big Tech Firms](8bc87c35679e6c4bea07f47e1c503d58)
+* __Data privacy and security__: [The Growing Concerns of Connected Vehicle Data Collection](fe7e41280ce4475f799785a436070868)
+* __Data protection__: [UK Government Expands Controversial Surveillance Technology](4fe61511dabd734b653a98b45e8bd3c0)
+* __Data quality and accuracy__: [The Enshittening of Knowledge: ChatGPT and its Implications](182bea68661560af4b5ef5728107212b)
+* __Data removal__: [Google Launches Tool to Protect Personal Information](b5874f0dc7f077a23317b07aa5e60ea8)
+* __Data retrieval__: [LangChain Adds Cypher Search for Efficient Information Retrieval from Neo4j](f43094a456dc947dabd541b510f86856)
+* __Data science projects__: [5 Python Decorators for Data Science Projects](ee1e6c7eb9c0c87692569c164086065a)
+* __Data security__: [Discarded Enterprise Routers Store Valuable Secrets](b05de170e76d25145c54337068780075), [Exposed Server Leaks US Military Emails](2efc3124c37c21844c4c71c2eb801f11), [Apple Warns UK Government Over Surveillance Powers](592f0831eeefa9761ae385bc25f166a0), [MongoDB Releases Queryable Encryption Preview](fd40f342b5e6148bf9aa0c0eb40fb44e)
+* __Data theft__: [Hackers-for-Hire Targeting Law Firms](86eed7596de75b410b471fb8618f4be3)
+* __Data transfer__: [Consequences and Compliance: CNIL's Google Analytics Use Notice](903096f9f71209541fb6fabd6220b72b)
+* __Data visualization__: [The Power of 2x2s in Business Strategy](2ae41a6753586e960d571ef66275c3a6)
+* __Data-driven solutions__: [AI and Data Science in Supply Chain Management](d31c91e142d6237debea9b93e51a57c6), [Technologies of Hope: Pandemic Solutions](d44d0c046d2ee3330a2d40cfccdfc0d3)
+* __Database management__: [Automating SQL with GPT-3](492f4356567de26e0afe1f008454e899)
+* __Dave dobson\s past__: [The Amateur Physicists and the Nuclear Bomb](476cd15d5df0f8056877402023e4b67c)
+* __Decarbonization of metal production__: [Metal without Mining: The Rise of Magrathea](de8c393b7b1395557948cb50d90de996)
+* __Decentralization__: [Ethereum Blockchain Achieves Remarkable Carbon Reduction](eb8b03e69354d814c3d0cd31b18648dd)
+* __Deception__: [The Confidence Game of ChatGPT](f0afe8bae09252e6180784a36260e1ff), [Gaslighting: The Word of Deception](d4e40db973527ce595cc72255dc83220)
+* __Decline in botanical education__: [The Disappearing Knowledge of Plants](e23590dbe6aa22752002fb616fba5004)
+* __Decline in m.b.a. applications__: [Decline in M.B.A. Applications Linked to Strong Job Market and High Costs](741fe3c74904ed78f07285a0a13f87f7)
+* __Decline in posting on instagram__: [The Decline of the Curated Instagram Era](73a2bffc6e94204086528949ae1205e7)
+* __Decline of higher education__: [The Higher Education Apocalypse: Declining Enrollment and the Consequences](d64c4666be4d84f147f57055b74daa32)
+* __Decline of original content__: [The Rise of the Pop Oligopoly](317aa39c987f1d5e3509dbc5e50c8bb3)
+* __Decline of print media__: [National Geographic Magazine Faces Decline in Staff and Print Distribution](d73b2d1ca633593621e522bff48a55e6)
+* __Decolonization__: [Imagining Alternative Histories Through Generative AI on TikTok](672d563b299cb30a98ca5198bb16458c)
+* __Deep water hunting__: [Unique Adaptation Allows Sharks to Hunt in Cold Waters](27a3a94222f061917b211c94d1d3ee92)
+* __Deep-sea mining__: [Deep-Sea Mining to Alleviate Battery-Metal Shortage](6b18b39f68d14f9f899e642ccfb90ba5), [The Rise of Deep-Sea Mining](5bbc958cd9d41c08482acdaa4ac033e4)
+* __Deepfake technology__: [Bruce Willis Sells Likeness for Deepfake](6fe04b914872df30dfb18bda13c542ad)
+* __Defense__: [US Department of Defense Outlines 2023 Cyber Strategy](f88aebcf579dffa42fc0dbe74de919c4)
+* __Deforestation__: [Fungi: A Solution for Sustainable Food Production](0c58d382a0cacf288605a136bbcf69a3)
+* __Delay in chip factory construction__: [Delays in TSMC's Arizona Chip Factory Construction Impact US AI Investment](2b6cc7a8e528932936c2b72ea35d930c)
+* __Delaying tactics__: [Simple Sabotage Techniques in WWII](e62131b4a0555020af785377276bcd76)
+* __Delivery service__: [Domino's Faces Pressure Amid Delivery Challenges](07091cec2b85e059cd1a0fa65cbcfed4)
+* __Delivery services__: [Doordash Offers Hourly Pay for Delivery Drivers](c16634ee710f10560259b9f352c46519)
+* __Demand for life science talent in private sector__: [Unprecedented Exodus of Young Life Scientists from Academia](7054e5d956a73f1ccb060d1d8fe80151)
+* __Demographic decline__: [The Economic Impact of Ageing Populations](bff595b72330d833dba477e2dc2a5656)
+* __Demographic differences__: [Concerns about Artificial Intelligence in Daily Life](c3876ee8e1b4e0d9e38edf15caaa5521)
+* __Demographic shifts__: [The Aging World and Its Consequences](a8bf5109e22909dfe327db0ee8f3853d)
+* __Demographic transition__: [The Demographic Transition in France](526a1dc9707f62b939644c3b3ea6dcf0)
+* __Design__: [The Enduring Power of Matchbooks](cceff7fbb9450ceb8276d0c377e472e7), [Exploring Industrial Weaving in Stephen Burks' Workshop](c0d68c0d91d462d071fa1e111735f9b8), [The Power of Drawing in Idea Generation](094e056f091942a96a446d8401432eb8)
+* __Design and manufacturing__: [Artisanal Intelligence: The Spawn Collection](b1b8a02e5d2badf1881b81741a66ba86)
+* __Design and technology__: [Uphill Thinking: Creativity, AI, and Human Design](92ae644db3cc8e4d0fb262bac8413f8b)
+* __Design governance__: [Design as Governance: The Importance of User-Centricity](2587a142b15645727d2adbee3539d4de)
+* __Design thinking__: [The Impact of Digital Whiteboards](0427292acb53be01ba35b3b5b561cb59)
+* __Design-thinking__: [Workshop Tactics: the best problem-solving workshops in a box](e6cb167bfeaed16d68d2e384681bfbb7)
+* __Detective mystery__: [Glass Onion: A Knives Out Mystery](2635806aedc11d6ca9c3ca9a7520c586)
+* __Developer tools__: [OpenAI API Offers ChatGPT and Whisper Models for Cutting-Edge Language and Speech Capabilities](f32225d82f694ac574f0d39580ff68ad)
+* __Development with langchain__: [Creating Dynamic AI Agents With Langchain, OpenAI's GPT-4, and AWS](09d755bf91d4fd4e1adf09d7ee1f4656)
+* __Devops__: [Bytebase: A Start-Up's Tool Stack and Monthly Expenses](c30d1aaeb666b051e8a7a22d8bde337c)
+* __Diagnostic technology__: [Ultrasound: The Future of Medical Diagnosis](c9345a6fe24c9e6f7b967d1ed91a2f95)
+* __Dictators and economic growth__: [Dictators' Deception: Lights Expose Economic Lies](40c2db3bc4702bff2612a3faba89097a)
+* __Didymos-dimorphos asteroid system__: [DART Mission Successfully Alters Asteroid Orbit](3104ce7da8c0d2b90e007402d07a930a)
+* __Differences between gpt-4 and chatgpt__: [The Rapidly Accelerating AI Revolution](1dea025d0138e53b9f644748f63a15bc)
+* __Different approaches to human-ai integration__: [The Impact of AI on Knowledge Worker Productivity and Quality](c63bd059cb529b72b00ecbdcd2f85268)
+* __Differentiating agile coaches and scrum masters from chatgpt__: [ChatGPT Revolutionizes Agile Coaching and Scrum Mastering](30b8049b120d57889e375ced1e2a9bf4)
+* __Digital access__: [Trial Inclusions and Subscription Options](2b2438cd827520a2dfdcffa094cc7fc3), [Trial Inclusions and Subscription Options](42029469086ed8b0defa5120ec35459e)
+* __Digital advertising__: [The Bespoke Internet: Algorithmic Portraits and the Loss of Self](70ebc812b72117e2ce11248d77ec7d37)
+* __Digital assistants__: [Amazon Plans to Turn Deceased Loved Ones' Voices into Digital Assistants](316c2bc07bdae32ea05595973043b766), [Alexa Voice Assistant Replicates Human Voices](95a21e5407df1f9dfe1f323e5a827e94), [The Rise of Context-Aware Digital Assistants](46267bf4740b29117588f603a5c41280)
+* __Digital awareness__: [Telangana's Cyber Ambassadors: Protecting Students from Online Scams](b9256c2eb50c1c3e1ea2df625cf259ec)
+* __Digital connectivity__: [Facts and Figures 2021: Global Internet Connectivity Statistics](b36e3d58a4e33abd3eaacf9c3de03588)
+* __Digital currency__: [The Digital Pound: A New Form of Money for the Future](86f9d4e0a40048c3cbab66ba00b2fcb5)
+* __Digital economy__: [Handbook Provides Insights on Digital Regulation](a38960ed1dcfd200d74ebd16e92e4151)
+* __Digital gardening__: [The Emergence of Digital Gardening](9464f139c46be97db5caf7bdd72efd0b)
+* __Digital health funding__: [Lessons from 2022: Digital Health Funding Trends](94a0e8fa4feeea0751c7d3ea8ffd1302)
+* __Digital immortality__: [Human Immortality Using LLMs](7eaef73ec22b42f1a0b0f4aa8b084a49), [Human Immortality Using LLMs](4b5e4f86651ce9d8c1f4d0ed6c13e384)
+* __Digital job market__: [The Rise of Digitally-Native Jobs](958440479631741e825e5e27207d7a94)
+* __Digital literacy__: [Teaching Digital Literacy in Kindergarten](ad15fbe04bbe50ec3436c61403d19fca)
+* __Digital memories__: [New AI Tools Preserve Memories of Deceased Relatives](b7dd6fe41c7bd9a4a04c30adfd020de4)
+* __Digital obsolescence__: [The Digital Dark Age: Preserving Our Digital Heritage](86e67181c4dcbce08848023aa2929bcb)
+* __Digital payments__: [Meta Launches "Payments in Chat" Feature on Instagram](fd5ff8626bba470fb179c76d3153d165)
+* __Digital platforms__: [Design as Governance: The Importance of User-Centricity](2587a142b15645727d2adbee3539d4de)
+* __Digital preservation__: [Vintage Tech: Keeping the Past Alive](2a98922fc3676ea6365782ce075cf589)
+* __Digital regulation__: [Handbook Provides Insights on Digital Regulation](a38960ed1dcfd200d74ebd16e92e4151)
+* __Digital revolution__: [Our Technology Sickness—and How to Heal It](c1bb890337ef382bfaa5720c9fd05134)
+* __Digital rights__: [Down and Out in the Magic Kingdom](aa2a288c3b4bf99252f35d3a30d17a82)
+* __Digital space__: [The Salt of the Cosmos](fa8cbd7fc0beae839d485f07ed3b6dff)
+* __Digital technology__: [Bioacoustics: Unlocking the Language of Nature](db2690cf7530366ddf6f9606b830f782)
+* __Digital transformation__: [The Rise of Car Subscriptions in the Automotive Industry](b9a5b69113b7ca17b6493414799b0e6e), [The $100 Trillion Opportunity in B2B Marketplaces](50aefdd8b2bffa1bb84f8460c7b559c2), [The Future is Elastic!](07f58082de6736a23fae6143ab961f07), [Digital Reinvention: The Key to Law Firm Success](f9f1a04c9e44cac963fd3522f407a5e8)
+* __Digital twin__: [The Power of Customer Driven Marketing](f5a86c6c3c113719814d2772bea54508)
+* __Digital whiteboarding__: [Google Jamboard: End of the Line](1f6ffedb8c1bbd834ffc6a40038cbf7c)
+* __Digitalisierung des gesundheitswesens__: [Hardware Replacement for German Health Data Network Unnecessary, Says Chaos Computer Club](da08e20881548c71478cec75549ec48c)
+* __Digitalization of the economy__: [China's Growing Virtual People Industry](9830e769665e82dcea315b1089dc40c4)
+* __Digitization__: [Bad software destroyed my doctor's memory](976f66dccf4086981111e810d0160229)
+* __Disabilities__: [Atlas for The Blind 1837](656239ad8ab36ce06ac4ee6258b5381d)
+* __Disability inclusion__: [Cybathlon 2020: Pushing Assistive Technology Forward](012da0fd0aa5dad27caf91e3bd4b238f)
+* __Disability rates__: [Long COVID and Disability Rates](0248f1b6d72f8bb9c984f24db0569a3f)
+* __Disappearing airport technology__: [The Disappearing Sound of Airports](43b34610cef64430328e6a5f05bbf51c)
+* __Disappointment__: [Glass Onion: A Knives Out Mystery](2635806aedc11d6ca9c3ca9a7520c586)
+* __Disaster response__: [Lucy Easthope: Britain's Disaster Adviser](ecba274a465c5033bb657bb68d581b92)
+* __Disinformation__: [Disinformation Dominates X, Formerly Twitter](5793d28b92e90a64b918cfaefad509db)
+* __Disruption in various industries__: [AI Disruption Outweighs Pandemic Impact](283ff70c63aed09ef2b0613f6acc2eb9)
+* __Distributed acoustic sensing__: [Fiber Optic Cables Transform Seismic Detection](17cae66b22f32fc070541ba5d40e236a)
+* __Diy crafts__: [DIY Anthotype Printing Using Turmeric](45dbee915ba56fe3791c4a244f491747)
+* __Diy electronics__: [Repurposing Old Phones for Personal Projects](40aa9f2abd08b4cefd81827111b64979)
+* __Diy internet service provider__: [A Rural Success: Setting Up Your Own Internet Service Provider](e6d593fc438de6602ae1dd4b5d404a05)
+* __Domain seizure__: [U.S. Department of Justice Seizes Z-Library Domains](d050024991b2307add12adc6f590ad54)
+* __Domain-specific nlp tools__: [From Raw Text to Wikidata Taxonomy](b4b3684ed3f7fe2919c76e36d4838cd9)
+* __Dominance of major players in pop culture__: [The Rise of the Pop Oligopoly](317aa39c987f1d5e3509dbc5e50c8bb3)
+* __Dreams__: [Dreamworld Adventures: A Journey of Hope](c9d940fff5521f56bf74a5d4369b9ec8)
+* __Driver responsibility__: [Fatal Tesla Autopilot Crash Reveals Human Error and Technology Challenges](b8f977d6173309879b7e4e8b478210c0)
+* __Drone delivery__: [UK's First Drone Mail Service in Orkney](de3ad3595732b521d35c785274d4773b)
+* __Drone hacking__: [Wi-Fi Spy Drones Target Financial Firm](20ad49fa494b31286502efcbf6e22d9a)
+* __Drone surveillance__: [Michigan Supreme Court to Determine Legality of Drone Surveillance without Warrant](6beeee35311c9595fcb7510e04d6a369)
+* __Drone technology__: [Corvo Cardboard Drones: Low-Cost Reconnaissance and Transport in Ukraine](4432c5315ea4b0118213c037d1d4f87e)
+* __Drought__: [Las Virgenes Water District Implements Water Restrictors to Conserve During Megadrought](9655c5d49c7e5cbfaedaca59cba73875)
+* __Droughts__: [Italian Mayor Bans Double Shampooing to Conserve Water](8b237d611e4dd25c311c3939451bb53c)
+* __Drug repurposing__: [Knowledge Graph Completion with PyKEEN and Neo4j](cf89c459835545c2316563d156cf42db)
+* __Dtc market__: [The No Booze DTC Edition](12e2e66a09a47d70f19d96165a9322ed)
+* __Dumb phones__: [The Resurgence of Dumb Phones in the US](29806fd07d41c5c25550b367b80f445c)
+* __Durability__: [Ancient Roman Concrete's Self-Healing Secrets](dcc82775665509b084b18fdd5f56ad2b)
+* __Dystopia__: [Linguist Pursued in Dystopian Epidemic](63868d73fd4f4dff913a3bc85d42fa6b)
+* __Dystopie au pouvoir__: [The Impact of Science Fiction](639666c373af6d226b476fa5240948cb)
+* __Décroissance__: [Décroissance: Une Économie de la Post-croissance](94317d62a04e47f7d4873cfe17190e81)
+* __Dérèglement climatique__: [Décroissance: Une Économie de la Post-croissance](94317d62a04e47f7d4873cfe17190e81)
+* __Développement durable__: [Challenges and Aspirations in Future of Work](5238d6b8178d6f9c71b66a2fa84b7880)
+* __Döstädning__: [The Art of Preparing for Death](f38d21b83e092ffde66a379c439ec010)
 
 ## Letter 'E' 
 
 
-* __e-commerce__: 
-* __e-fuels__: 
-* __e-waste__: [Fast Tech: Rising E-Waste Crisis](78a83eb7da0d8ccb48eb7538e4068654)
-* __early warning systems for earthquakes__: [Fiber Optic Cables Transform Seismic Detection](17cae66b22f32fc070541ba5d40e236a)
-* __early ‘90s tech scene__: [Inside the Legendary Hackerspace, L0pht](992602cc0ddc531bb5e3ab280132a31f)
-* __earth sciences__: 
-* __earthquake prediction__: [Ground Breaking: Tiny Changes in GPS Signals Could Predict Large Earthquakes](a00fd810052374121de9c17d5a5d60ac)
-* __easter island__: 
-* __eco-friendly alternatives__: 
-* __ecological impact__: 
-* __economic adaptation to climate change__: 
-* __economic consequences__: [Impact of COVID-19 on Workforce](e84dc9448d44d2624c060fc15bf5c096), [The Economic Impact of Ageing Populations](bff595b72330d833dba477e2dc2a5656)
-* __economic development__: [Diriyah Gate: Modernizing History and Culture](8a6d9cd006acf1a98de5163e4b1d8b63)
-* __economic dysfunction__: [The Decline of the U.K.'s Economy](356a6ba108d8bfda52fe56a947f6b347)
-* __economic growth__: [The Importance of Improving Construction Productivity](68cc2d738ed662aeee3670d8327d7d5f)
-* __economic impact__: [Florida's Undocumented Population Faces Mass Exodus](3002f8c37aa3a21ff809ef9530368f00), [The Rise of Uncertainty Shocks: Navigating Global Turbulence](ab8c972a6c092c9ac6b37922e0a07f62)
-* __economic impact of lockdown__: [The Missing Pandemic Innovation Boom](99bc8113e8e7bacc050e12acdae75e14)
-* __economic implications__: 
-* __economic indicators__: [The Big Mac Index and Burger Prices Around the World](189e440570d5fe35902ee7b899f7e220)
-* __economic inequality__: [The Decline of Global Cities and Britain's Challenges](5faa4668aa08755679e2956ba96ecb18)
-* __economic instability__: [The Economic Consequences of Europe's Energy War](eab98729272b0f85f67258553c6590c7)
-* __economic unraveling__: [The Unraveling of the Progressive Economy](f4ea5244ccafd654e5955673b0ee3976)
-* __economie et politique__: 
-* __economy__: [Challenges Mount as Viral Infections and Child-Care Shortages Collide](680e58ea9fd94182e5f26d3b3c8abda9)
-* __ecosystem economy__: 
-* __ecosystem engineering__: 
-* __ecosystem preservation__: [Beavers: Nature's Climate Change Heroes](4ef4757586661978f066dce209fada17)
-* __ecosystem recovery__: [Restoring Coral Reefs Using Sound](a69be6c012f19d3a97137c13bbbc9eb2)
-* __editing__: [The Importance of Ruthless Editing](77758e23f4c4a5892d58e3f5cff8f0ca)
-* __education__: [Atlas for The Blind 1837](656239ad8ab36ce06ac4ee6258b5381d)
-* __education and ai__: 
-* __education and inequity__: 
-* __education funding__: 
-* __education technology__: [Technology and Children’s Well-Being in Danish Schools](17ac55c1f87675e075557fa4fa5ba14e)
-* __effects of constant connectivity__: [The Impact of Technology on Society](357214f864be2592efced782b93b25b3)
-* __effects of mad honey consumption__: [The Hallucinogenic Honey: Mad Honey](d943c22736f43f56cebc890da1718595)
-* __effects of psychedelics on masculinity__: 
-* __effects of social media on self-presentation and beauty standards__: [AI and the Changing Landscape of Photography](447aaddba1b3b4ac319e14628e6ed8f2)
-* __efficiency__: [UK's First Drone Mail Service in Orkney](de3ad3595732b521d35c785274d4773b)
-* __efficiency and productivity__: 
-* __elderly__: [FBI Warns of Tech Support Scams Using Shipping Companies](49e0af19d90eda0f809a16b24ee8cbee)
-* __elderly care__: 
-* __election integrity__: 
-* __election manipulation__: [The Potential Impact of AI on Elections](3958ff20e8489240e2461aa8d0eee7b5)
-* __electric vehicle adoption__: [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
-* __electric vehicle industry__: 
-* __electric vehicle market__: 
-* __electric vehicles__: [The Rise of Car Subscriptions in the Automotive Industry](b9a5b69113b7ca17b6493414799b0e6e)
-* __electrical waste__: [Fast Tech: Rising E-Waste Crisis](78a83eb7da0d8ccb48eb7538e4068654)
-* __electricity__: [The Electric Push Button: A Revolutionary Interface](4b919285ff10ba20a59e6eea3cf1f9c1)
-* __electricity demand__: 
-* __electroculture__: [The Rise of Electroculture in Gardening](257c9d336364e061c817ec77db9e78f6)
-* __electronics__: [Thermoformable Ceramics: A New Frontier in Materials](bd35b1587de303b44a62d0e99fb749fc)
-* __elo ratings__: 
-* __email security__: [QR Code Phishing Targets US Energy Organization](ccc796127756c12c57ce4db1a2014946)
-* __embedded analytics__: 
-* __embodied learning__: 
-* __emergence__: 
-* __emergency medicine__: 
-* __emergency planning__: [Lucy Easthope: Britain's Disaster Adviser](ecba274a465c5033bb657bb68d581b92)
-* __emergency preparedness__: [Japan Installs Vending Machines for Disasters](1b4a9e6fd6f8912da18909188db75bda)
-* __emergency response__: [Boil Water Notice for City of Houston](e84a367bfd1c9ebf3dddbb19a3d19303)
-* __emerging ecosystem__: 
-* __emerging startups in the field of ai__: 
-* __emerging technology in e&m__: 
-* __emotional expression__: 
-* __employee disengagement__: [Quiet Quitting Crisis: Decline in U.S. Workforce Engagement](1e45d2fc84595f57564761a068038652)
-* __employee engagement__: 
-* __employee layoffs__: [Microsoft Dissolves AI Ethics and Society Division](dc8173751ce4b0562a6a9cf47ee715ab)
-* __employee rights__: 
-* __employee-focused cybersecurity__: 
-* __employment process__: [The Process of Re-Applying for Jobs](3389421f891eacb4a2700199f1d4fd60)
-* __empowering indian farmers__: 
-* __encoding schemes__: 
-* __encryption__: [Researchers Uncover Backdoor in Encrypted Radios Used by Police and Military](841546c0efc4c82f0aabc545a47a09e1), [14-Year-Old Boy Cracks Code on Commemorative Coin](f5fa6b014dbca342ff5b4c25c18124a5), [The Phenomenon of Illegal Numbers](63aeeab522c47062e02f671fd01a7b63)
-* __endangered species__: 
-* __endometriosis__: [Bacterial Infection Linked to Endometriosis](6df4f7525be593be2a48f96ee7e49dd2)
-* __energy crisis__: 
-* __energy efficiency__: 
-* __energy generation__: 
-* __energy infrastructure damage__: 
-* __energy storage__: 
-* __energy war in europe__: 
-* __engaging the senses__: [The Art of Wandering](ddf441dc074555140e62f61fb00019fa)
-* __engineering__: [The Over-Simulation Problem in Engineering](378adae519eda1077ca6e628e3f706df), [Ancient Roman Concrete's Self-Healing Secrets](dcc82775665509b084b18fdd5f56ad2b)
-* __english language__: 
-* __enhancing chatgpt with custom knowledge__: 
-* __enhancing productivity with llms__: 
-* __enjoyment of work__: [The Rush of Outsourcing and Speed](99862957fcec17ca02dd7fceb346b4df)
-* __enshittening of knowledge__: 
-* __enterprise-grade security and privacy__: 
-* __entertainment and media__: 
-* __entity relationship modeling__: 
-* __entrepreneurship__: [The Liberman Brothers: Chasing the Future](b055041878a9d08483783041109a3698)
-* __entreprises et marchés__: 
-* __environment__: 
-* __environmental conservation__: [Copi: Rebranding an Invasive Fish as a Healthy Seafood Option](b8f11dee06e44c6b4ecb80c98f502443)
-* __environmental crisis__: [Earth as Our Only Shareholder](b5c93b6e5a5b33c81d3a1619b9b37f1b)
-* __environmental impact__: [The Revolution of Externalities in Industrial Systems](364fecbe1c46f164e48d52c279422351), [The Destructive Reality of Deep Sea Mining](bccb58e39d04eb0ca494d80ca20e6a67), [Illegal Car Repairs in Sacramento, California](52cca87c67452d11ed4899552e6c7573), [The Impact of Tech on the Environment and the Importance of Sustainability in the Tech Sector](763a73de80e3ade3d3a068da6ce48182)
-* __environmental impact of mining projects__: 
-* __environmental marketing__: 
-* __environmental solutions__: 
-* __environmental sustainability__: [Circuit Sculpture: COSMO-SkyMed Satellite Replica](02024bd4585d5e7049a4ffb380a2a07a)
-* __environmentally friendly paint__: [Revolutionary Light and Cool Structural Paint](a6bfcabefea560d7dfefd5aab87f047c)
-* __epidemic__: [Linguist Pursued in Dystopian Epidemic](63868d73fd4f4dff913a3bc85d42fa6b)
-* __equipment maintenance__: 
-* __esg reporting__: 
-* __espaces verts__: [Opening of 4 Kilometers of Green Spaces on the Petite Ceinture](ac4c193101d4a7d81e4a96b453ea7606)
-* __espionage__: 
-* __espionnage informatique__: [Cybersecurity Threats to Law Firms](0b6d917158cd84c369d0af378202984b)
-* __ethical concerns__: [The Rise of AI-Generated Art](536d1aaf84afa5bf10493f03cbb3d38d), [Unstable Diffusion: Building an AI-Powered Porn Generation Community](12a56596b967f41841a5c1dfd6a78680)
-* __ethical concerns of ai__: 
-* __ethical concerns of deepfake technology__: [The Rapid Advancement of Cloning Technology](3827e85d7b233b583bd7e01c435cf758)
-* __ethical concerns surrounding ai-generated content__: 
-* __ethical considerations in using generative ai__: 
-* __ethical development of ai__: 
-* __ethical implications__: 
-* __ethical implications of ai__: 
-* __ethical implications of weaponized robots__: 
-* __ethical issues in risk-scoring algorithms__: 
-* __ethical questions__: [The Lifecycle of Software Objects](2870beba7811820767e980801beb90bf)
-* __ethical treatment of insects__: [Sentience in Insects: Ethical Implications and the Need for Further Research](a2655cb820f74828eabbac3f12217ce2)
-* __ethical use__: [Stable Diffusion Public Release](09e12f5c07382efea39163ed3274098a)
-* __ethics__: [The Confidence Game of ChatGPT](f0afe8bae09252e6180784a36260e1ff)
-* __ethics in artificial intelligence__: 
-* __ethics of ai__: 
-* __ethics of ai in writing__: 
-* __ethics of mystery shopping__: 
-* __eu ai act__: 
-* __eu battery regulation__: 
-* __eu regulations__: 
-* __eu-u.s. data privacy framework__: 
-* __european economy__: 
-* __european solidarity__: 
-* __european standards bodies__: 
-* __ev charging industry__: 
-* __ev charging infrastructure__: 
-* __evading object detectors__: [Adversarial Attacks on Object Detectors](76e3d69311e52896aa5c56f01119652f)
-* __evaluation framework__: 
-* __evaluation of language models__: 
-* __evolution__: [The Intelligence of Ecosystems and LLMs](607bce5ceffd29c4ba8997068ebde091), [More Than Human: A Tale of Extraordinary Abilities](77595bdbe88b77ce40b280494110bbf5), [The Power of Simplicity in Living Systems](628eabb2a1ffbe7b0e6865d9367c32de)
-* __evolution and progress__: 
-* __evolution of design tools and accessibility__: 
-* __evolution of dining experience__: [The Rise of QR Codes in Restaurants](f5b3a5e0ba84a3093de9500e6cf31c35)
-* __evolution of electric cars__: [The Evolution of Electric Car Range](7f4bbda67f521ee30a63b68b9f8666d9)
-* __evolution of medical tools__: 
-* __evolution of open source__: [The Evolution of "Open Source" in AI Models](ab65e19023994f8f7774408b7a7cc920)
-* __evolution of software licensing__: [The Evolution of Software Pricing Models](578c4ca8c38df5eb168308242e9ea711)
-* __evolution of wargames__: [Rethinking Wargames for Conflict Resolution](290b39e08f51973a22385822003f38c2)
-* __evolutionary biology__: 
-* __evolutionary ecology__: 
-* __evolutionary pressure__: [The Future of Strategic Decision-Making](c474eac8117547a89cac2c805652df9c)
-* __evolving attitudes towards drugs__: [Psychonauts: Drugs and the Making of the Modern Mind](46b83c5dfd8f27c0bb2335917e2f5a1f)
-* __executives__: 
-* __existential risks__: [Open Letter Calls for Pause on Training Powerful AI Systems](96bb44778e10efa6829f7ff9737593f2)
-* __exoplanets__: 
-* __expansion of electric vehicle market__: [The Evolution of Electric Car Range](7f4bbda67f521ee30a63b68b9f8666d9)
-* __expectations of gen z__: 
-* __experimental photography__: [Let the Sun Create Chlorophyll Prints](2bcdda5f8128e32bddc99e1d1d7fb49d)
-* __experimental study__: 
-* __expertise__: 
-* __exploding mosquitoes and their implications__: 
-* __exploitation in academia__: [Unprecedented Exodus of Young Life Scientists from Academia](7054e5d956a73f1ccb060d1d8fe80151)
-* __exploration__: 
-* __exploration of consciousness__: 
-* __exploration of flight__: 
-* __exploration of inner selves__: 
-* __exploration of possibility spaces__: 
-* __export regulations__: 
-* __extended cognition__: [The Cognitive Spiderweb: Extending Cognition to the Web](870cf0da8080715e60bf3cef2094cc2a)
-* __externalities__: [The Revolution of Externalities in Industrial Systems](364fecbe1c46f164e48d52c279422351)
-* __externalization__: [Explicit Knowledge: Easily Accessible and Transmittable](fcaebc86f2f475af184eaa545a624a2c)
-* __extraterrestrial life__: 
-* __extreme heat__: 
-* __extreme heat resilience__: 
+* __E-commerce__: [The Long Tail: Internet's Niche Business](1c59289b8b0df3c789f86f9b3159370d), [Meta Launches "Payments in Chat" Feature on Instagram](fd5ff8626bba470fb179c76d3153d165)
+* __E-fuels__: [Germany's Reversal Threatens EU's Green Credentials](814283a354f997b39eef0684e747b8ef)
+* __E-waste__: [Fast Tech: Rising E-Waste Crisis](78a83eb7da0d8ccb48eb7538e4068654)
+* __Early warning systems for earthquakes__: [Fiber Optic Cables Transform Seismic Detection](17cae66b22f32fc070541ba5d40e236a)
+* __Early ‘90s tech scene__: [Inside the Legendary Hackerspace, L0pht](992602cc0ddc531bb5e3ab280132a31f)
+* __Earth sciences__: [Microbes: Active Engineers in Earth's Rock-to-Life Cycle](8a76baaa6df38b98c48c0635d103a5a0)
+* __Earthquake prediction__: [Ground Breaking: Tiny Changes in GPS Signals Could Predict Large Earthquakes](a00fd810052374121de9c17d5a5d60ac)
+* __Easter island__: [The Discovery of Rapamycin: A Life-Saving Wonder Drug](d2f6f44b2ec2806fd1695aa4450cd9ee)
+* __Eco-friendly alternatives__: [Mushroom-Derived Electronics: Biodegradable and Sustainable](58b1d4282237f41c4a33e71179c1ea4b)
+* __Ecological impact__: [The Ecological Challenge of Honey Bees](4dfe18ed5e6333c9893bad9059e7e540)
+* __Economic adaptation to climate change__: [Greenland's Melting Ice Sheet and the Potential for Sand Extraction](6c6a5e8d50e3045323cf202ba5b17ea9)
+* __Economic consequences__: [Impact of COVID-19 on Workforce](e84dc9448d44d2624c060fc15bf5c096), [The Economic Impact of Ageing Populations](bff595b72330d833dba477e2dc2a5656)
+* __Economic development__: [Diriyah Gate: Modernizing History and Culture](8a6d9cd006acf1a98de5163e4b1d8b63)
+* __Economic dysfunction__: [The Decline of the U.K.'s Economy](356a6ba108d8bfda52fe56a947f6b347)
+* __Economic growth__: [The Importance of Improving Construction Productivity](68cc2d738ed662aeee3670d8327d7d5f)
+* __Economic impact__: [Accenture to Cut 19,000 Jobs Worldwide](ca4e056c63caa99162778073ba814ac1), [Florida's Undocumented Population Faces Mass Exodus](3002f8c37aa3a21ff809ef9530368f00), [The Rise of Uncertainty Shocks: Navigating Global Turbulence](ab8c972a6c092c9ac6b37922e0a07f62)
+* __Economic impact of lockdown__: [The Missing Pandemic Innovation Boom](99bc8113e8e7bacc050e12acdae75e14)
+* __Economic implications__: [The Uncertain Future of Generative AI](f35afe43c2e3b465b8ed4b00023cb0ac)
+* __Economic indicators__: [The Big Mac Index and Burger Prices Around the World](189e440570d5fe35902ee7b899f7e220)
+* __Economic inequality__: [The Decline of Global Cities and Britain's Challenges](5faa4668aa08755679e2956ba96ecb18)
+* __Economic instability__: [The Economic Consequences of Europe's Energy War](eab98729272b0f85f67258553c6590c7)
+* __Economic unraveling__: [The Unraveling of the Progressive Economy](f4ea5244ccafd654e5955673b0ee3976)
+* __Economie et politique__: [Hackers from Bangladesh claim to have crashed La Poste's website](1a4f9230721bac1d416c8b49e76523a5)
+* __Economy__: [Challenges Mount as Viral Infections and Child-Care Shortages Collide](680e58ea9fd94182e5f26d3b3c8abda9)
+* __Ecosystem economy__: [The Rise of Digitally-Native Jobs](958440479631741e825e5e27207d7a94)
+* __Ecosystem engineering__: [Paradigm Shift: Holobionts in Biology](99e803820e0c09fbc3163a5a26ff49bb)
+* __Ecosystem preservation__: [Beavers: Nature's Climate Change Heroes](4ef4757586661978f066dce209fada17)
+* __Ecosystem recovery__: [Restoring Coral Reefs Using Sound](a69be6c012f19d3a97137c13bbbc9eb2)
+* __Editing__: [The Importance of Ruthless Editing](77758e23f4c4a5892d58e3f5cff8f0ca)
+* __Education__: [EY Masters in Sustainability by Hult](fcb03e94b8239b410a79996496599390), [The Power of Expert Prompts](52ec2cf0aebdc7af56249f1702652ebe), [Atlas for The Blind 1837](656239ad8ab36ce06ac4ee6258b5381d), [Teaching Digital Literacy in Kindergarten](ad15fbe04bbe50ec3436c61403d19fca)
+* __Education and ai__: [Holding Back the Strange AI Tide](5a06b540b77553f7524f17711d73eec4)
+* __Education and inequity__: [The Age of AI: Opportunities and Responsibilities](8acafe1fbe51c2de3cd689956b25b39f)
+* __Education funding__: [Income Share Agreements: What Are They, and How Do They Work?](55a637edca1735b67e34f2d11c012a86)
+* __Education technology__: [Technology and Children’s Well-Being in Danish Schools](17ac55c1f87675e075557fa4fa5ba14e)
+* __Effects of constant connectivity__: [The Impact of Technology on Society](357214f864be2592efced782b93b25b3)
+* __Effects of mad honey consumption__: [The Hallucinogenic Honey: Mad Honey](d943c22736f43f56cebc890da1718595)
+* __Effects of psychedelics on masculinity__: [The Rise of Psychedelic Masculinity](96831e5a59b49b51b8a5a00eee72e863)
+* __Effects of social media on self-presentation and beauty standards__: [AI and the Changing Landscape of Photography](447aaddba1b3b4ac319e14628e6ed8f2)
+* __Efficiency__: [The Problem of "Fake Work" in the Tech Industry](be86183e1a7d0969b9c62346d4ecab28), [UK's First Drone Mail Service in Orkney](de3ad3595732b521d35c785274d4773b)
+* __Efficiency and productivity__: [Codeword Employs AI "Interns" for Marketing Tasks](5965b7dd732cc0a0062bde87207b0a77)
+* __Elderly__: [FBI Warns of Tech Support Scams Using Shipping Companies](49e0af19d90eda0f809a16b24ee8cbee)
+* __Elderly care__: [Dutch Supermarket Fights Loneliness with Slow Checkout Lane](f96c785471cb0d424e7238d6b7c544e5)
+* __Election integrity__: [OpenAI CEO Raises Concerns About AI Impact on Elections](fd96f58595786b0820cca21394223a66)
+* __Election manipulation__: [The Potential Impact of AI on Elections](3958ff20e8489240e2461aa8d0eee7b5)
+* __Electric vehicle adoption__: [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
+* __Electric vehicle industry__: [GM Energy: A Challenge to Tesla in Renewable Energy Market](db277b1d574be61a29e5d0e818b02268)
+* __Electric vehicle market__: [The Future of Electric Vehicles: Potential Supply Shortages Threaten Growth](e2d1170995334c5c5e09b403ac8d3dcc), [EV Charging Industry Ramps Up M&A Activity](213ff4d78c8040377180b7f7b5b13d4d)
+* __Electric vehicles__: [The Rise of Car Subscriptions in the Automotive Industry](b9a5b69113b7ca17b6493414799b0e6e)
+* __Electrical waste__: [Fast Tech: Rising E-Waste Crisis](78a83eb7da0d8ccb48eb7538e4068654)
+* __Electricity__: [The Electric Push Button: A Revolutionary Interface](4b919285ff10ba20a59e6eea3cf1f9c1)
+* __Electricity demand__: [Keeping Cool in a Hotter World: The Importance of Energy Efficiency](0ca38b65b97d6235d3b3dbb3efdb0c21)
+* __Electroculture__: [The Rise of Electroculture in Gardening](257c9d336364e061c817ec77db9e78f6)
+* __Electronics__: [Thermoformable Ceramics: A New Frontier in Materials](bd35b1587de303b44a62d0e99fb749fc)
+* __Elo ratings__: [Chatbot Arena Leaderboard Updates (Week 4)](2ad1a65371512ec50f24b2e247328b78)
+* __Email security__: [QR Code Phishing Targets US Energy Organization](ccc796127756c12c57ce4db1a2014946)
+* __Embedded analytics__: [IntelligentGraph: Embedded Analytics for Knowledge Graphs](b5edec166878e4119b62bd9446a6e214)
+* __Embodied learning__: [Voyager: An Open-Ended Embodied Agent](8af9bffc11d191445956ffcef1627c38)
+* __Emergence__: [The Emergence of Space and Time](47ec89d0247058ebf93d0524269c7cf7)
+* __Emergency medicine__: [Ultrasound: The Future of Medical Diagnosis](c9345a6fe24c9e6f7b967d1ed91a2f95)
+* __Emergency planning__: [Lucy Easthope: Britain's Disaster Adviser](ecba274a465c5033bb657bb68d581b92)
+* __Emergency preparedness__: [Japan Installs Vending Machines for Disasters](1b4a9e6fd6f8912da18909188db75bda)
+* __Emergency response__: [Boil Water Notice for City of Houston](e84a367bfd1c9ebf3dddbb19a3d19303)
+* __Emerging ecosystem__: [Spannr 2022 Longevity Funding Report](cf3c921bb1bef1b55c7d67ea712f9a1b)
+* __Emerging startups in the field of ai__: [AI Superpowers: Unleashing Entrepreneurship in 2023](a40580730388900810b4496ff9891dc9)
+* __Emerging technology in e&m__: [The Changing Landscape of Entertainment and Media](c18691583943e0d2d1e217558293d06b)
+* __Emotional expression__: [The Language of Flowers: A Timeless Form of Communication](e34d1db1dc19c0a21849473791c64f79)
+* __Employee disengagement__: [Quiet Quitting Crisis: Decline in U.S. Workforce Engagement](1e45d2fc84595f57564761a068038652)
+* __Employee engagement__: [The Urgent Need for Workplace Transformation](4c886ce0e70f066b9f2199abe1d7bd1c)
+* __Employee layoffs__: [Microsoft Dissolves AI Ethics and Society Division](dc8173751ce4b0562a6a9cf47ee715ab)
+* __Employee rights__: [Doordash Offers Hourly Pay for Delivery Drivers](c16634ee710f10560259b9f352c46519)
+* __Employee-focused cybersecurity__: [Elba Raises 2.5 Million for Employee-Focused Cybersecurity](f0bea4855d3def3c7d023e76aaf74aa6)
+* __Employment process__: [The Process of Re-Applying for Jobs](3389421f891eacb4a2700199f1d4fd60)
+* __Empowering indian farmers__: [KissanGPT: AI Chatbot Revolutionizing Indian Agriculture](5e0cf3d87729de23ddd89422be7a8b67)
+* __Encoding schemes__: [Challenges and Solutions in OCR of Digital Data](c7c9b6f50bfa3280f1f27f83103d2d50)
+* __Encryption__: [Researchers Uncover Backdoor in Encrypted Radios Used by Police and Military](841546c0efc4c82f0aabc545a47a09e1), [14-Year-Old Boy Cracks Code on Commemorative Coin](f5fa6b014dbca342ff5b4c25c18124a5), [The Phenomenon of Illegal Numbers](63aeeab522c47062e02f671fd01a7b63)
+* __Endangered species__: [Camel Cloning: A Popular Practice in Dubai](646824b48390d9ff516d3e6ef2e44c82)
+* __Endometriosis__: [Bacterial Infection Linked to Endometriosis](6df4f7525be593be2a48f96ee7e49dd2)
+* __Energy crisis__: [A Stress Test for Solidarity: EU Scrambles for Solutions to Looming Natural Gas Shortages](1e78d32ea623267ea92d5316f969d1ca)
+* __Energy efficiency__: [Keeping Cool in a Hotter World: The Importance of Energy Efficiency](0ca38b65b97d6235d3b3dbb3efdb0c21), [Ultra-White Paint: Cooling Airplanes and Spacecraft](8e1b3608f46c809be3c61538048824a8)
+* __Energy generation__: [Major Breakthrough in Nuclear Fusion](136f0479a4a508ee27ea66d38d8d2b41)
+* __Energy infrastructure damage__: [Finland Suspects Deliberate Damage to Gas Pipeline and Telecoms Cable](97d9a79d85abb98e49308c266dcda203)
+* __Energy storage__: [GM Energy: A Challenge to Tesla in Renewable Energy Market](db277b1d574be61a29e5d0e818b02268)
+* __Energy war in europe__: [The Economic Consequences of Europe's Energy War](eab98729272b0f85f67258553c6590c7)
+* __Engaging the senses__: [The Art of Wandering](ddf441dc074555140e62f61fb00019fa)
+* __Engineering__: [The Over-Simulation Problem in Engineering](378adae519eda1077ca6e628e3f706df), [Ancient Roman Concrete's Self-Healing Secrets](dcc82775665509b084b18fdd5f56ad2b)
+* __English language__: [The Rules of Language and Linguistics](587c21780f97f331b4d2c859240e09e9)
+* __Enhancing chatgpt with custom knowledge__: [Integrating ChatGPT with Internal Knowledge Management](977ac6628e9192d07524905819496121)
+* __Enhancing productivity with llms__: [Integrating LLM Workflows with Knowledge Graph](1739f639d5bfca8e60d7750e29cc6ab3)
+* __Enjoyment of work__: [The Rush of Outsourcing and Speed](99862957fcec17ca02dd7fceb346b4df)
+* __Enshittening of knowledge__: [The Enshittening of Knowledge: ChatGPT and its Implications](182bea68661560af4b5ef5728107212b)
+* __Enterprise-grade security and privacy__: [Introducing ChatGPT Enterprise: AI Assistant for Work with Enhanced Security and Performance](27a26e2b76fde5dedcd97e68fd50b852)
+* __Entertainment and media__: [The Honest Broker: Half of Waking Hours Are Now Devoted to Entertainment](c5c2c794f1426e6e307a9df3f9ff61f6)
+* __Entity relationship modeling__: [HowTo: Generating a Knowledge Graph from a Mermaid Entity Relationship Model](03920ec25887e9533ca00b84a67db724)
+* __Entrepreneurship__: [The Liberman Brothers: Chasing the Future](b055041878a9d08483783041109a3698)
+* __Entreprises et marchés__: [Hackers from Bangladesh claim to have crashed La Poste's website](1a4f9230721bac1d416c8b49e76523a5)
+* __Environment__: [The Changing Landscape of Greyhound Travel](175ea9191642bee3b29225d9dadffc96)
+* __Environmental conservation__: [Berlin Plans Carbon-Neutral Neighborhood on Former Airport Site](5152a8f61434482ebe5faecae9e14b28), [Copi: Rebranding an Invasive Fish as a Healthy Seafood Option](b8f11dee06e44c6b4ecb80c98f502443)
+* __Environmental crisis__: [Earth as Our Only Shareholder](b5c93b6e5a5b33c81d3a1619b9b37f1b)
+* __Environmental impact__: [The Revolution of Externalities in Industrial Systems](364fecbe1c46f164e48d52c279422351), [The Destructive Reality of Deep Sea Mining](bccb58e39d04eb0ca494d80ca20e6a67), [Deep-Sea Mining to Alleviate Battery-Metal Shortage](6b18b39f68d14f9f899e642ccfb90ba5), [Illegal Car Repairs in Sacramento, California](52cca87c67452d11ed4899552e6c7573), [The Age of Apocalyptic Infrastructure](177a0857ffe0d07d48cd99a269f28a02), [The Impact of Tech on the Environment and the Importance of Sustainability in the Tech Sector](763a73de80e3ade3d3a068da6ce48182), [Benim Denim: Redefining Fashion's Lifespan](e00cc39602993053c53f8dc014a0ab61)
+* __Environmental impact of mining projects__: [Greenland's Melting Ice Sheet and the Potential for Sand Extraction](6c6a5e8d50e3045323cf202ba5b17ea9)
+* __Environmental marketing__: [The Rise of "Greenhushing" and its Implications](a808b73a65a5a8140b4fc5dd5845679b)
+* __Environmental solutions__: [New 'Liquid Trees' Divide the Internet](b8164554d14e302dac8ca428de8376dd)
+* __Environmental sustainability__: [Japan Plans World's First Wooden Satellite](a8e879a399523fa13be56fab2f93d822), [Apple's Robot Revolutionizes iPhone Recycling](2bd2f16207519e71b7ae8b7899a7e0f1), [The Big Blimp Boom: Building Futuristic LTAs](6d08036a53cd3136ac5a71006b4ca40e), [Circuit Sculpture: COSMO-SkyMed Satellite Replica](02024bd4585d5e7049a4ffb380a2a07a)
+* __Environmentally friendly paint__: [Revolutionary Light and Cool Structural Paint](a6bfcabefea560d7dfefd5aab87f047c)
+* __Epidemic__: [Linguist Pursued in Dystopian Epidemic](63868d73fd4f4dff913a3bc85d42fa6b)
+* __Equipment maintenance__: [The Lingering Reliance on Floppy Disks](8ecfaa32a5254d275d7eb2eec698c9d0)
+* __Esg reporting__: [The Power of Satellite Data: Uncovering Economic and Environmental Insights](2c79a113d206a8ec8ec147422fcea12c)
+* __Espaces verts__: [Opening of 4 Kilometers of Green Spaces on the Petite Ceinture](ac4c193101d4a7d81e4a96b453ea7606)
+* __Espionage__: [The Banality of Surveillance and Automated Warfare](ccdebc20efc0694474f1c64e2835e260)
+* __Espionnage informatique__: [Cybersecurity Threats to Law Firms](0b6d917158cd84c369d0af378202984b)
+* __Ethical concerns__: [The Rise of AI-Generated Art](536d1aaf84afa5bf10493f03cbb3d38d), [Unstable Diffusion: Building an AI-Powered Porn Generation Community](12a56596b967f41841a5c1dfd6a78680)
+* __Ethical concerns of ai__: [The Glitchy, Spammy, Scammy AI-Powered Internet](b30a4282af9e53ca673438a8223d9525), [Advancements in AI: Text-to-Video Generators](c98e6d5382ed734fcb33e34509a95e40)
+* __Ethical concerns of deepfake technology__: [The Rapid Advancement of Cloning Technology](3827e85d7b233b583bd7e01c435cf758)
+* __Ethical concerns surrounding ai-generated content__: [Shutterstock Partners with OpenAI to Integrate DALL-E into Stock Image Platform](99ffe526026a0494fc25d44aba64bd70)
+* __Ethical considerations in using generative ai__: [The Potential of Generative AI in Scientific Communication](60f3a64993d5e355561c59e5d641bec9)
+* __Ethical development of ai__: [Landmark Legislation: MEPs Endorse Rules for Artificial Intelligence](550199f663e5e26f2824e80f55126c56)
+* __Ethical implications__: [Robo-Roaches: Remote-Controlled Insect Cyborgs](b0cc49ba07708ecffb1a8c88d66554fd)
+* __Ethical implications of ai__: [The Threat of Misinformation: Society's Battle](9787333cafcd0252d71a9bff845ad093)
+* __Ethical implications of weaponized robots__: [San Francisco Moves Closer to Authorizing Lethal Force Robots](316320b3518ab6fd8e843b63fb74e62b)
+* __Ethical issues in risk-scoring algorithms__: [Welfare Fraud Investigations and the Ethical Challenges](9cdd8057291e0dcc72b58bd24e858b67)
+* __Ethical questions__: [The Lifecycle of Software Objects](2870beba7811820767e980801beb90bf)
+* __Ethical treatment of insects__: [Sentience in Insects: Ethical Implications and the Need for Further Research](a2655cb820f74828eabbac3f12217ce2)
+* __Ethical use__: [Stable Diffusion Public Release](09e12f5c07382efea39163ed3274098a)
+* __Ethics__: [The Confidence Game of ChatGPT](f0afe8bae09252e6180784a36260e1ff)
+* __Ethics in artificial intelligence__: [Vatican Releases Handbook on AI Ethics](994781edb78a36cd547b86f570716280)
+* __Ethics of ai__: [The Problem With Counterfeit People](ee8ec5a4a60822d8e8a1774e02d3a7e5), [The Problem With Counterfeit People](df749b28f13a14f030501985011f6c5b)
+* __Ethics of ai in writing__: [Rise of AI-Written Content Raises Concerns](dcb77b655838bfb2e77e5440c5b3a3b5)
+* __Ethics of mystery shopping__: [The Dark Side of Mystery Shopping](fec8d34946df9092e1ade8823b1d5f6d)
+* __Eu ai act__: [Open-Source AI Stakeholders Call for Protection of Open Source Innovation in EU AI Act](11bd695b887aa09dca79341f91ce6b82)
+* __Eu battery regulation__: [EU Moves Towards Easy-to-Replace Smartphone Batteries](7e3448aaf8dcf592d5c14da8fb0fc233)
+* __Eu regulations__: [Fast Chargers Every 60 km on EU Motorways](e2516b1308d891acd71bba3b68fa923b), [EU's Cyber Resilience Act Threatens Open Source Developers](2e8ebbefc0b74a9ac3862ef6adcfaffd), [Disinformation Dominates X, Formerly Twitter](5793d28b92e90a64b918cfaefad509db)
+* __Eu-u.s. data privacy framework__: [EU Approves New Data Transfer Deal with the US, Ending Legal Limbo for Tech Giants](bef6f36725097d0c16289eca2eb18df4)
+* __European economy__: [The Economic Consequences of Europe's Energy War](eab98729272b0f85f67258553c6590c7)
+* __European solidarity__: [A Stress Test for Solidarity: EU Scrambles for Solutions to Looming Natural Gas Shortages](1e78d32ea623267ea92d5316f969d1ca)
+* __European standards bodies__: [Open Source and the Cyber Resilience Act](2e15bb8c640aadb6d9022cf48f446954)
+* __Ev charging industry__: [EV Charging Industry Ramps Up M&A Activity](213ff4d78c8040377180b7f7b5b13d4d)
+* __Ev charging infrastructure__: [Fast Chargers Every 60 km on EU Motorways](e2516b1308d891acd71bba3b68fa923b)
+* __Evading object detectors__: [Adversarial Attacks on Object Detectors](76e3d69311e52896aa5c56f01119652f)
+* __Evaluation framework__: [Vicuna: A Powerful Chatbot Model](e91b6e1d0dcf2c5d43dfddbf6a56310b)
+* __Evaluation of language models__: [Advances in Large Language Models: Shaping the Future of Communication Technology](c41a64e50d0280a765ebdac4f8094446)
+* __Evolution__: [The Intelligence of Ecosystems and LLMs](607bce5ceffd29c4ba8997068ebde091), [The Bibites: A Simulation of Evolution and Life](4dd15e16ec507f1ae3827f8be14dde98), [More Than Human: A Tale of Extraordinary Abilities](77595bdbe88b77ce40b280494110bbf5), [The Power of Simplicity in Living Systems](628eabb2a1ffbe7b0e6865d9367c32de)
+* __Evolution and progress__: [Understanding Jobs to be Done (JTBD)](110ac9459692757f523d5d37b79eaf3d)
+* __Evolution of design tools and accessibility__: [The Future of Design: Shifting Roles and Personalization](ece4f1f782525a6ae341e9d4c9df3533)
+* __Evolution of dining experience__: [The Rise of QR Codes in Restaurants](f5b3a5e0ba84a3093de9500e6cf31c35)
+* __Evolution of electric cars__: [The Evolution of Electric Car Range](7f4bbda67f521ee30a63b68b9f8666d9)
+* __Evolution of medical tools__: [Ultrasound: The Future of Medical Diagnosis](c9345a6fe24c9e6f7b967d1ed91a2f95)
+* __Evolution of open source__: [The Evolution of "Open Source" in AI Models](ab65e19023994f8f7774408b7a7cc920)
+* __Evolution of software licensing__: [The Evolution of Software Pricing Models](578c4ca8c38df5eb168308242e9ea711)
+* __Evolution of wargames__: [Rethinking Wargames for Conflict Resolution](290b39e08f51973a22385822003f38c2)
+* __Evolutionary biology__: [r/K Selection Theory](b22f6127f5116f8cfd09817f672db4c3), [Charles Darwin and the World of Plant Movement](758dcfdd3a76f76ed47b6e3b8f5b0051)
+* __Evolutionary ecology__: [Is Open Source R-Selected?](79846636fe0c4d77f026c76ec0964344)
+* __Evolutionary pressure__: [The Future of Strategic Decision-Making](c474eac8117547a89cac2c805652df9c)
+* __Evolving attitudes towards drugs__: [Psychonauts: Drugs and the Making of the Modern Mind](46b83c5dfd8f27c0bb2335917e2f5a1f)
+* __Executives__: [Rewind: Boost Your Productivity with Personalized AI](99dc2dd219ce9361dc2c73cf4bb32863)
+* __Existential risks__: [Open Letter Calls for Pause on Training Powerful AI Systems](96bb44778e10efa6829f7ff9737593f2)
+* __Exoplanets__: [Potential for Life on Terminator Planets](fbba0dee0595167fa2c44980935de6e2)
+* __Expansion of electric vehicle market__: [The Evolution of Electric Car Range](7f4bbda67f521ee30a63b68b9f8666d9)
+* __Expectations of gen z__: [The Rise and Consequences of Job Title Inflation](44cf553e3e10402a0686ceb5ba819f81)
+* __Experimental photography__: [Let the Sun Create Chlorophyll Prints](2bcdda5f8128e32bddc99e1d1d7fb49d)
+* __Experimental study__: [Enhancing Creativity with Generative AI](e2006a4269f097491cc98583df08a47d)
+* __Expertise__: [The Power of Expert Prompts](52ec2cf0aebdc7af56249f1702652ebe)
+* __Exploding mosquitoes and their implications__: [Exploding Mosquitoes and Their Thirst for Blood](65c4c98af74c4b7813fc98ee7bb1d0d2)
+* __Exploitation in academia__: [Unprecedented Exodus of Young Life Scientists from Academia](7054e5d956a73f1ccb060d1d8fe80151)
+* __Exploration__: [The Appeal of Every Single X Projects](3779ce60f2007ae200d6746d8d7b8eff), [Wandrer: Explore and Dominate Your City](1e568b1d4516b5aceb2cad850d46c5ce)
+* __Exploration of consciousness__: [Blindsight: A Hard Science Fiction Novel](a4764a556583ffec51fa91aa3564e777)
+* __Exploration of flight__: [The Dream of Paper Airplanes](73c432fc55c970bb0dbb98daa243daee)
+* __Exploration of inner selves__: [The Rise of Psychedelic Masculinity](96831e5a59b49b51b8a5a00eee72e863)
+* __Exploration of possibility spaces__: [The Power of Possibility Spaces](e27673c6f795ce9dc01f9d48bedfbc30)
+* __Export regulations__: [US Restricts Nvidia GPU Sales to Thwart China's AI Development](b79a2baa87b68283198416791b93bce4)
+* __Extended cognition__: [The Cognitive Spiderweb: Extending Cognition to the Web](870cf0da8080715e60bf3cef2094cc2a)
+* __Externalities__: [The Revolution of Externalities in Industrial Systems](364fecbe1c46f164e48d52c279422351)
+* __Externalization__: [Explicit Knowledge: Easily Accessible and Transmittable](fcaebc86f2f475af184eaa545a624a2c)
+* __Extraterrestrial life__: [Potential for Life on Terminator Planets](fbba0dee0595167fa2c44980935de6e2)
+* __Extreme heat__: [Life in Phoenix: Living in Hell](321c374c2e2bac6036e40f5484c17976)
+* __Extreme heat resilience__: [Seville Launches Heat Wave Naming Program](849bb185b123580ee5fe5c702f99a488)
 
 ## Letter 'F' 
 
 
-* __facial recognition technology__: ['Secret Camouflage' Clothing Protects Against Facial Recognition](281fd0758b55c5d94dbc4a181e043f2c)
-* __facilitation activities__: [Workshop Tactics: the best problem-solving workshops in a box](e6cb167bfeaed16d68d2e384681bfbb7)
-* __fact-checking__: 
-* __fair use__: 
-* __fall campaign__: [Prada Seeds: Blooming Luxury with Fall Flowers](477eb369e45ddd2deab9a1d75fd105ec)
-* __family__: [A Chaotic Journey of Sibling Tragedy](109fdce64e3534d2f17935a3c4fbd713)
-* __family dispute__: [The Dark Side of the Houseplant Boom](36b36c58561712964f7a9920eb97d56f)
-* __family dynamics__: [The Agony of Caregiving Struggles](6fd7033b884ae982dac41bad4396abb5)
-* __family networks__: [Surprising Synchronicity: Great White Sharks Travel Together](54cd29480e753c756579b2a053fea120)
-* __fantasy__: 
-* __farm conditions__: 
-* __farm equipment repair__: [American Farm Bureau and John Deere Sign Agreement on Equipment Repair](26ae831dfd3721235ac0eacb85e4a0e5)
-* __farmers vs. hunters__: [The Difference Between Academics and Intellectuals](f07df9d85e95d88e18345a39166c0a53)
-* __farming__: [The Uncertain Future of Vertical Farming and the Impact of Cars on Urban Development](ef74de2ae50dd0f311346505df7068c3)
-* __farming practices and tips__: 
-* __fashion__: 
-* __father-son bond__: [A Father's Love Lives On](f8192071b7eaa2b571a9ca12551b9d70)
-* __fbi__: 
-* __fears of electricity__: [The Electric Push Button: A Revolutionary Interface](4b919285ff10ba20a59e6eea3cf1f9c1)
-* __feature phones__: [The Resurgence of Dumb Phones in the US](29806fd07d41c5c25550b367b80f445c)
-* __fiber-optic cables and seismic detection__: [Fiber Optic Cables Transform Seismic Detection](17cae66b22f32fc070541ba5d40e236a)
-* __financial crime__: [Monetising Hacking Through Commodity Shipments](af7a13a1e97a8ebff3d521dabea087ce)
-* __financial crisis__: [The Decline of the U.K.'s Economy](356a6ba108d8bfda52fe56a947f6b347)
-* __financial fraud__: 
-* __financial habits of gen zers__: 
-* __financial inequalities__: [The Liberman Brothers: Chasing the Future](b055041878a9d08483783041109a3698)
-* __financial institutions__: [The Evolution of Debt in America](1bada151ef608ff10c639ec228c01f3e)
-* __financial markets__: [The Economic Consequences of Europe's Energy War](eab98729272b0f85f67258553c6590c7)
-* __financial regulation__: [The Triumph of the Bean Counters](74640ec9669a4ca9964b6a3aca93f336)
-* __financial risk__: [The Rise of Software as a Service (SaaS)](62f0c80f0091e9b15465cd516137b05e)
-* __financial sector__: 
-* __financial stability__: 
-* __financial stability in old age__: [Older Workers Return to Workforce](feb0555f9c54012995fdac8ef2410b8e)
-* __financial struggles__: [The Agony of Caregiving Struggles](6fd7033b884ae982dac41bad4396abb5)
-* __financial success__: [Digital Reinvention: The Key to Law Firm Success](f9f1a04c9e44cac963fd3522f407a5e8)
-* __fine-tuning__: 
-* __fine-tuning and retrieval-augmented generation__: 
-* __fine-tuning llms__: 
-* __flexibility in production__: 
-* __flight delays and cancellations__: [United Airlines to Prioritize Window Seat Passengers in Economy Boarding Process](2978134725e2d7543f50469f53a5ca3d)
-* __floating architecture__: 
-* __floriography__: 
-* __flowcharts__: 
-* __food and beverage industry__: 
-* __food delivery__: 
-* __food export restrictions__: 
-* __food insecurity__: 
-* __food labour and migration__: 
-* __food prices__: 
-* __food production__: [Fungi: A Solution for Sustainable Food Production](0c58d382a0cacf288605a136bbcf69a3)
-* __food safety__: [Artificial Sweetener Aspartame May Be Cancer Risk](80864a00731337a27c0cccd1a41e2063)
-* __food science__: [Biodegradable Film: A Sustainable Packaging Solution](b442f3c78716d0a22167e5fc4359f276)
-* __food sector__: [The Uncertain Future of Vertical Farming and the Impact of Cars on Urban Development](ef74de2ae50dd0f311346505df7068c3)
-* __food sustainability__: [Central Iowa Shelter Launches Aquaponics System to Grow Tilapia](9664582c42773260d250f25634078279)
-* __foresight__: 
-* __foresight and its impact__: 
-* __foresight work__: 
-* __formula e racing__: 
-* __fourth amendment violation__: 
-* __fpga programming__: 
-* __fraud__: [Former Theranos COO Sentenced to 13 Years in Prison](b0d1ed951415ca875228752e72f21c58)
-* __free offers__: [The Power of Free: How it Influences Consumer Behavior](0b5ca258e9c7ed2f9f6cf60dd523e148)
-* __freedom of expression__: 
-* __frequency decline__: [The Mystery of Changing Blue Whale Songs](6184e76d86ed2dbc8968722327f70c5b)
-* __frontier models__: [The New AI Panic](3c87907a359edc6a80187a597d0c3074)
-* __fuel efficiency__: 
-* __funding__: [Challenges and Future of libjpeg-turbo](d23d7b7fbbd9de014450cfdd5d2e9664)
-* __funding round__: 
-* __fungal architecture__: 
-* __fungal diversity__: [Fungi: A Dark and Beautiful World](bfd7ecd32e48e49fda1567f40ccd671e)
-* __futur du travail__: [Challenges and Aspirations in Future of Work](5238d6b8178d6f9c71b66a2fa84b7880)
-* __future applications__: [The Power of Autonomous Agents: Promises and Limitations](0e336ce2e4b07459b257407e90d27389)
-* __future envisioning__: [Designing the Future Through Science Fiction](5d2fec6b3cc04645c92e73267da0f7d9)
-* __future forecasting__: 
-* __future generations representation and decision-making__: 
-* __future of cities__: [The Decline of Global Cities and Britain's Challenges](5faa4668aa08755679e2956ba96ecb18)
-* __future of electric vehicles__: [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
-* __future of generative ai__: 
-* __future of jobs__: [The Future of Jobs Report 2023: Evolving Job Trends and Skills](4abade09451838c25631bf9da940b724)
-* __future of learning__: 
-* __future of religious practice__: 
-* __future of technology__: 
-* __future of the profession__: [Architects Face Existential Threat from AI](e9b5d9cc5e032f130b7daa9549d4b12c)
-* __future of work__: [The Impact of AI on White-Collar Workers](ce379c62e35a93a1d93fce2061cabb74)
-* __future projects__: [Adaptive Reuse Apartments Surpass New Construction](8bff520dc945204951b32a6c4b10571e)
-* __future scenarios__: [AI 2041: Shaping Our Collective Future](1621aeb7941f2df0feefc2de14851249)
-* __future skills__: 
-* __future studies__: 
-* __futures__: [Futures and Peacebuilding: Imagining a Non-Violent World](ec1cd3015f7369374399a6446dc13586)
-* __futures modelling__: [Science Fiction Prototyping: Modeling Future Threats](cdc3436dbcf552eeeffbebf1b8783c2d)
-* __futures scenarios__: 
-* __futures thinking__: 
-* __futures thinking specialization__: 
-* __futurism__: [Exploring Time and Shaping the Future](2f66695f2596205814b8aeb4dc746072)
+* __Facial recognition technology__: ['Secret Camouflage' Clothing Protects Against Facial Recognition](281fd0758b55c5d94dbc4a181e043f2c)
+* __Facilitation activities__: [Workshop Tactics: the best problem-solving workshops in a box](e6cb167bfeaed16d68d2e384681bfbb7)
+* __Fact-checking__: [Teaching Digital Literacy in Kindergarten](ad15fbe04bbe50ec3436c61403d19fca)
+* __Fair use__: [Supreme Court Rules Against Warhol's Use of Prince Photo](c1e1bed7a22d1ccc1a5d6e57f87ba862)
+* __Fall campaign__: [Prada Seeds: Blooming Luxury with Fall Flowers](477eb369e45ddd2deab9a1d75fd105ec)
+* __Family__: [A Chaotic Journey of Sibling Tragedy](109fdce64e3534d2f17935a3c4fbd713), [Dreamworld Adventures: A Journey of Hope](c9d940fff5521f56bf74a5d4369b9ec8)
+* __Family dispute__: [The Dark Side of the Houseplant Boom](36b36c58561712964f7a9920eb97d56f)
+* __Family dynamics__: [The Agony of Caregiving Struggles](6fd7033b884ae982dac41bad4396abb5)
+* __Family networks__: [Surprising Synchronicity: Great White Sharks Travel Together](54cd29480e753c756579b2a053fea120)
+* __Fantasy__: [Rebellion against Immortality in Canon Space](9eefc7af8fe73583fb04d6a71d5c327c), [Tales from the Dread Empire](de13b93138ad10bd9ac0a343c80147b5), [Review: The Witcher: L'héritage du sang](b6a211ec0e62731accbcdca13d23c0f8)
+* __Farm conditions__: [AI Detects Chicken Distress Calls](00d042b803c0388634125c2ea6caab24)
+* __Farm equipment repair__: [American Farm Bureau and John Deere Sign Agreement on Equipment Repair](26ae831dfd3721235ac0eacb85e4a0e5)
+* __Farmers vs. hunters__: [The Difference Between Academics and Intellectuals](f07df9d85e95d88e18345a39166c0a53)
+* __Farming__: [The Uncertain Future of Vertical Farming and the Impact of Cars on Urban Development](ef74de2ae50dd0f311346505df7068c3)
+* __Farming practices and tips__: [WhatsApp Voice Notes Revolutionize Senegalese Farming](d5f874ef30655365d7ea23f43f46f7c1)
+* __Fashion__: [Telfar's Revolutionary Reverse Sale Empowers Customers](c4e67bccfa2804a74e675f9084b9e724)
+* __Father-son bond__: [A Father's Love Lives On](f8192071b7eaa2b571a9ca12551b9d70)
+* __Fbi__: [FBI Warns of Tech Support Scams Using Shipping Companies](49e0af19d90eda0f809a16b24ee8cbee)
+* __Fears of electricity__: [The Electric Push Button: A Revolutionary Interface](4b919285ff10ba20a59e6eea3cf1f9c1)
+* __Feature phones__: [The Resurgence of Dumb Phones in the US](29806fd07d41c5c25550b367b80f445c)
+* __Fiber-optic cables and seismic detection__: [Fiber Optic Cables Transform Seismic Detection](17cae66b22f32fc070541ba5d40e236a)
+* __Financial crime__: [Monetising Hacking Through Commodity Shipments](af7a13a1e97a8ebff3d521dabea087ce)
+* __Financial crisis__: [The Decline of the U.K.'s Economy](356a6ba108d8bfda52fe56a947f6b347)
+* __Financial fraud__: [Forensic Accountant Uncovers Misuse of FTX Customer Funds](17ba5a58a46a82b87b07d34fc928493e)
+* __Financial habits of gen zers__: [Gen Zers' Financial Habits in the Age of Late-Stage Capitalism](1b41206075bb58ef4a1bcb8a6d82ffc0)
+* __Financial inequalities__: [The Liberman Brothers: Chasing the Future](b055041878a9d08483783041109a3698)
+* __Financial institutions__: [The Evolution of Debt in America](1bada151ef608ff10c639ec228c01f3e)
+* __Financial markets__: [The Economic Consequences of Europe's Energy War](eab98729272b0f85f67258553c6590c7)
+* __Financial regulation__: [The Triumph of the Bean Counters](74640ec9669a4ca9964b6a3aca93f336)
+* __Financial risk__: [The Rise of Software as a Service (SaaS)](62f0c80f0091e9b15465cd516137b05e)
+* __Financial sector__: [Wi-Fi Spy Drones Target Financial Firm](20ad49fa494b31286502efcbf6e22d9a)
+* __Financial stability__: [AI Threatens Financial Meltdown, Warns SEC Chairman](c24651d7a89dbc792142e26a99579bfe)
+* __Financial stability in old age__: [Older Workers Return to Workforce](feb0555f9c54012995fdac8ef2410b8e)
+* __Financial struggles__: [The Agony of Caregiving Struggles](6fd7033b884ae982dac41bad4396abb5)
+* __Financial success__: [Digital Reinvention: The Key to Law Firm Success](f9f1a04c9e44cac963fd3522f407a5e8)
+* __Fine-tuning__: [Fine-Tuning LLM With KG for Complex Questioning](1e080fc96c467f596f5555f74332267b)
+* __Fine-tuning and retrieval-augmented generation__: [Limitations of LLMs and Overcoming Them](9fd8c7460fe2d17a54694de66ebd64ca)
+* __Fine-tuning llms__: [Fine-tuning LLMs with LoRA for Digital Twin Creation](82ac82f66582103565f188f377f7af9f)
+* __Flexibility in production__: [Unilever's Mobile Nano Factory Revolutionizes Production](dceb5e6d8fcf7312b774392e24c9133d)
+* __Flight delays and cancellations__: [United Airlines to Prioritize Window Seat Passengers in Economy Boarding Process](2978134725e2d7543f50469f53a5ca3d)
+* __Floating architecture__: [Floating City in the Maldives Offers Hope for Climate Refugees](f752962c5587436d35583816144eef3e)
+* __Floriography__: [The Language of Flowers: A Timeless Form of Communication](e34d1db1dc19c0a21849473791c64f79)
+* __Flowcharts__: [Mermaid Cheat Sheet for Diagrams](86a282a77d55807be1c735f8a3989880)
+* __Food and beverage industry__: [Michroma Raises $6.4 Million for Natural Red Coloring in Food and Beverage](d812f238b024d5a104cbb7c001ed400b)
+* __Food delivery__: [Uber Eats to Accept Food Stamps and Healthcare Benefits for Grocery Delivery](01100fc1dbc0489489a31e12750bca78)
+* __Food export restrictions__: [Food and Fertilizer Export Restrictions Tracker](9bc30bd3a2acaf75fb77dbb5a076114f)
+* __Food insecurity__: [Food and Fertilizer Export Restrictions Tracker](9bc30bd3a2acaf75fb77dbb5a076114f)
+* __Food labour and migration__: [The Importance of Planning in the Food Industry](5bb40df4b040c9f780e9fe7ffb0a0b82)
+* __Food prices__: [Food and Fertilizer Export Restrictions Tracker](9bc30bd3a2acaf75fb77dbb5a076114f)
+* __Food production__: [Fungi: A Solution for Sustainable Food Production](0c58d382a0cacf288605a136bbcf69a3)
+* __Food safety__: [Artificial Sweetener Aspartame May Be Cancer Risk](80864a00731337a27c0cccd1a41e2063)
+* __Food science__: [Biodegradable Film: A Sustainable Packaging Solution](b442f3c78716d0a22167e5fc4359f276)
+* __Food sector__: [The Uncertain Future of Vertical Farming and the Impact of Cars on Urban Development](ef74de2ae50dd0f311346505df7068c3)
+* __Food sustainability__: [Central Iowa Shelter Launches Aquaponics System to Grow Tilapia](9664582c42773260d250f25634078279)
+* __Foresight__: [Using ChatGPT for Foresight: Signal Processing](d3ca03ec9e48516fa3d82a78cf2d61c0)
+* __Foresight and its impact__: [The Power and Pitfalls of Foresight](e11adc0adef22064e0ee2b531341ff07)
+* __Foresight work__: [The Importance of Effective Foresight](40a7d90f20bae6180001e65049ae853b)
+* __Formula e racing__: [DS Penske Team Fined and Penalized for Installing RFID Scanner in Formula E Pit Lane](7416c71d5b084463bd7eab2dcf229b92)
+* __Fourth amendment violation__: [Michigan Supreme Court to Determine Legality of Drone Surveillance without Warrant](6beeee35311c9595fcb7510e04d6a369)
+* __Fpga programming__: [Kilsyth: ECP5 FPGA + FT60x FIFO](076f9b6d6122fb2ac7933c60cf1e7dbc)
+* __Fraud__: [Former Theranos COO Sentenced to 13 Years in Prison](b0d1ed951415ca875228752e72f21c58)
+* __Free offers__: [The Power of Free: How it Influences Consumer Behavior](0b5ca258e9c7ed2f9f6cf60dd523e148)
+* __Freedom of expression__: [Concerns over DNS Blocking](ee0bcad312f833a9283e4344b051de2f)
+* __Frequency decline__: [The Mystery of Changing Blue Whale Songs](6184e76d86ed2dbc8968722327f70c5b)
+* __Frontier models__: [The New AI Panic](3c87907a359edc6a80187a597d0c3074)
+* __Fuel efficiency__: [More ways to drive sustainably and save money with Google Maps](55366e80872f51490910ad01315a8437)
+* __Funding__: [Challenges and Future of libjpeg-turbo](d23d7b7fbbd9de014450cfdd5d2e9664)
+* __Funding round__: [Elba Raises 2.5 Million for Employee-Focused Cybersecurity](f0bea4855d3def3c7d023e76aaf74aa6)
+* __Fungal architecture__: [Fungal Architecture: A Sustainable Revolution](944bbef81a6e19bc84f824a09fdece39)
+* __Fungal diversity__: [Fungi: A Dark and Beautiful World](bfd7ecd32e48e49fda1567f40ccd671e)
+* __Futur du travail__: [Challenges and Aspirations in Future of Work](5238d6b8178d6f9c71b66a2fa84b7880)
+* __Future applications__: [The Power of Autonomous Agents: Promises and Limitations](0e336ce2e4b07459b257407e90d27389)
+* __Future envisioning__: [Designing the Future Through Science Fiction](5d2fec6b3cc04645c92e73267da0f7d9)
+* __Future forecasting__: [Futures Thinking Specialization: Build Your Future Forecasting Skills](226ad3d32e12d879b3dc823094486440)
+* __Future generations representation and decision-making__: [Representing Future Generations in Climate Decision-Making](32228bbf929d81d39a1808dd9b7c4493)
+* __Future of cities__: [The Decline of Global Cities and Britain's Challenges](5faa4668aa08755679e2956ba96ecb18)
+* __Future of electric vehicles__: [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
+* __Future of generative ai__: [The Future of Generative AI is Niche, Not Generalized](8dd10f0dc4f44fa3a381c7f37fbcb8fc)
+* __Future of jobs__: [The Future of Jobs Report 2023: Evolving Job Trends and Skills](4abade09451838c25631bf9da940b724)
+* __Future of learning__: [The Path to Slow Learning](042cf62855760b54fa5a194db9e6cf11)
+* __Future of religious practice__: [The Rise of Robotic Rituals](829fd6babd3e70a7b19c444588fad9d0)
+* __Future of technology__: [The Future of Wearable Tech](a81c4775b91ccd0db3e1b84da893ac6f)
+* __Future of the profession__: [Architects Face Existential Threat from AI](e9b5d9cc5e032f130b7daa9549d4b12c)
+* __Future of work__: [The Impact of AI on White-Collar Workers](ce379c62e35a93a1d93fce2061cabb74), [The Future is Elastic!](07f58082de6736a23fae6143ab961f07)
+* __Future projects__: [Adaptive Reuse Apartments Surpass New Construction](8bff520dc945204951b32a6c4b10571e)
+* __Future scenarios__: [AI 2041: Shaping Our Collective Future](1621aeb7941f2df0feefc2de14851249)
+* __Future skills__: [The Future of Talent Identification and Recruitment](14935a7eab6d6c1d8a5ce2f25d3b54bb)
+* __Future studies__: [Array of Toolkits for Future Studies](1627c349466b12746bafae14c5c576eb)
+* __Futures__: [Futures and Peacebuilding: Imagining a Non-Violent World](ec1cd3015f7369374399a6446dc13586)
+* __Futures modelling__: [Science Fiction Prototyping: Modeling Future Threats](cdc3436dbcf552eeeffbebf1b8783c2d)
+* __Futures scenarios__: [Array of Toolkits for Future Studies](1627c349466b12746bafae14c5c576eb)
+* __Futures thinking__: [The Importance of Effective Foresight](40a7d90f20bae6180001e65049ae853b)
+* __Futures thinking specialization__: [Futures Thinking Specialization: Build Your Future Forecasting Skills](226ad3d32e12d879b3dc823094486440)
+* __Futurism__: [Exploring Time and Shaping the Future](2f66695f2596205814b8aeb4dc746072)
 
 ## Letter 'G' 
 
 
-* __galactic structure__: 
-* __game development__: 
-* __game-playing__: 
-* __gaming__: [A Father's Love Lives On](f8192071b7eaa2b571a9ca12551b9d70)
-* __gantt diagrams__: 
-* __gas market impact__: 
-* __gas shortage__: 
-* __gen z as consumers of virtual idols__: 
-* __gen z preferences__: 
-* __gender bias in ai algorithms__: 
-* __gender divide__: 
-* __gender-affirming care__: [Hackers Target US Government in Response to Attacks on Gender-Affirming Care](9d978f24420f5198328d717bd93ff52a)
-* __generating game locations__: 
-* __generation gap in technology skills__: 
-* __generational attitudes towards work and institutions__: 
-* __generational differences__: [Gen Z Struggles with Office Technology](84e4f59e4eb3832250963e8ac00bf768)
-* __generational divide in work preferences__: 
-* __generative ai__: 
-* __generative ai and reality__: 
-* __generative ai art__: 
-* __generative ai in photography__: 
-* __generative ai limitations__: 
-* __generative ai models__: 
-* __generative ai projects__: 
-* __generative ai research__: 
-* __generative models__: [Human Motion Diffusion Model (MDM): A Generative Approach for Natural and Expressive Human Motion](07bcf7d8e29d33f8438f4b35a7f15021)
-* __generative process__: 
-* __geographic arbitrage__: 
-* __geography__: [Valeriepieris Circle: A Global Population Phenomenon](6ab95ef7d3a59b67b7851af561ed903b), [Atlas for The Blind 1837](656239ad8ab36ce06ac4ee6258b5381d), [Selfie Reveals Location of China's Alleged Spy Balloon](f5bc316f1ab2ef2669f76e3f5212b863)
-* __geology__: 
-* __geometry__: [Mathematicians Discover Shape with Non-Repeating Pattern](878524351f159f818bc2c8ebcd95c0d7)
-* __geopolitical implications__: 
-* __geste ouvrier__: [The Role of Human Gesture in Mass Production](27948f54570ab56d95fdc708d3119801)
-* __gig economy__: [Dark Side of India's Tech Sector](6ed5fdeafa587adf125587208fb0e01b)
-* __github security incident__: 
-* __glacier ecology__: [Importance of Microbial Activity on Glaciers](4b6734ef8815047f0eb71a170c13af9d)
-* __global development__: 
-* __global fast food industry__: [The Big Mac Index and Burger Prices Around the World](189e440570d5fe35902ee7b899f7e220)
-* __global harvest__: [Clues from Satellites on Global Harvest](b99e8d470f4bd969ae5ec423c534eeee)
-* __global supply chain__: [The Challenge of Rethinking the Supply Chain](fa27e27bdec01712d582ab0f61c95bac)
-* __global supply chains__: [France Invests €3 Billion in Semiconductor Factory](8dfeb7f353bb51c54f0fbaeadf3ed292)
-* __global trade challenges__: 
-* __global uncertainty__: [The Rise of Uncertainty Shocks: Navigating Global Turbulence](ab8c972a6c092c9ac6b37922e0a07f62)
-* __global warming__: [Heat Will Likely Soar to Record Levels in Next 5 Years](89b553cd6644cc1549e68abd6a6d44d6)
-* __globalization__: [The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger](c14b3ca07efcef0d44a6af30501c76c1), [Thriving Locally in the Global Economy](b0f9303688b3f36feafd21625c5d3461)
-* __google palm 2__: 
-* __google products discontinuation__: 
-* __google search indexing__: 
-* __government__: [Exposed Server Leaks US Military Emails](2efc3124c37c21844c4c71c2eb801f11)
-* __government incompetence__: [The Decline of Global Cities and Britain's Challenges](5faa4668aa08755679e2956ba96ecb18)
-* __government initiatives__: [One Million Cancel Broadband Amid Rising Living Costs](f71e17c8d36e6dbced874ff9a319e733)
-* __government investment__: [France Invests €3 Billion in Semiconductor Factory](8dfeb7f353bb51c54f0fbaeadf3ed292)
-* __government policy__: [Italy's Right-Wing Government Criminalizes Raves](adb7356f3711c023daf08fec38221395)
-* __government portal__: 
-* __government regulation__: [The Boiling Frog of Digital Freedom](1f01cd79ea4dad626936ecf8a068c1be)
-* __government surveillance__: [UK Government Expands Controversial Surveillance Technology](4fe61511dabd734b653a98b45e8bd3c0), [Apple Warns UK Government Over Surveillance Powers](592f0831eeefa9761ae385bc25f166a0)
-* __gps signals__: 
-* __gpt advancements__: 
-* __gpt-4 and neo4j integration__: 
-* __gpt-4 features__: 
-* __gpt-powered startups__: 
-* __gpt4all__: 
-* __grace__: 
-* __grammar rules__: [The Rules of Language and Linguistics](587c21780f97f331b4d2c859240e09e9)
-* __graph data science__: 
-* __graph databases__: 
-* __graphic novel__: [New York Artist Receives Copyright for AI-Generated Graphic Novel](9191375fe5b80e2b93a7369a79e63957)
-* __green credentials__: 
-* __greenlandic support for sand extraction__: 
-* __grief and loss__: 
-* __grimesai voiceprint__: 
-* __growth mindset__: [Everything is a Practice](a81f85f066b0093553fc39638d3e0559)
-* __guidelines for the tech industry__: 
+* __Galactic structure__: [Gaia's Detailed Survey of the Milky Way's Strange Stars](1ab0b67f876bff9275b2dbb3a7f3442c)
+* __Game development__: [AdventureGPT: Enhancing Text-Based Adventure Games](191070a30a1d11509e1f783a0ca8e8e0), [The Bibites: A Simulation of Evolution and Life](4dd15e16ec507f1ae3827f8be14dde98)
+* __Game-playing__: [Meta's AI Masters Diplomacy Strategy Game](1c2a9187767ce0f3e0f34b65dab0f83f)
+* __Gaming__: [A Father's Love Lives On](f8192071b7eaa2b571a9ca12551b9d70)
+* __Gantt diagrams__: [Mermaid Cheat Sheet for Diagrams](86a282a77d55807be1c735f8a3989880)
+* __Gas market impact__: [Finland Suspects Deliberate Damage to Gas Pipeline and Telecoms Cable](97d9a79d85abb98e49308c266dcda203)
+* __Gas shortage__: [A Stress Test for Solidarity: EU Scrambles for Solutions to Looming Natural Gas Shortages](1e78d32ea623267ea92d5316f969d1ca)
+* __Gen z as consumers of virtual idols__: [The Rise of Virtual Idols](f2c164b7ff8eb0a6fd223511dba15804)
+* __Gen z preferences__: [The Rise of Online Anonymity](52a829c92d96543f396d37b44440c475)
+* __Gender bias in ai algorithms__: [The AI Ethics Revolution: A Timeline](2b3dffe867d32d85c04baf149e2444ea)
+* __Gender divide__: [Facts and Figures 2021: Global Internet Connectivity Statistics](b36e3d58a4e33abd3eaacf9c3de03588)
+* __Gender-affirming care__: [Hackers Target US Government in Response to Attacks on Gender-Affirming Care](9d978f24420f5198328d717bd93ff52a)
+* __Generating game locations__: [Exploring the Creative Potential of DALL-E 2](c62d2942a1454cd9810be2b3a93f7bc6)
+* __Generation gap in technology skills__: [The Technology Gap: Young Workers and Office Technology](5ae1107c845692a2acadc6565babc91b)
+* __Generational attitudes towards work and institutions__: [Gen Z's Perspectives on Work, College, and the Internet](644ce4dcf74e76970fd0526ca1abf551)
+* __Generational differences__: [Gen Z Struggles with Office Technology](84e4f59e4eb3832250963e8ac00bf768)
+* __Generational divide in work preferences__: [The Generational Divide in Remote Work Preferences](5a10c88b2c7660dac07161b1f5089e57)
+* __Generative ai__: [Nvidia's Stock Soars, Becoming a Trillion-Dollar Company](598eae9bc0f45fdaeee2d2ef811ad150), [The Age of Infinite Entertainment](63f1bb42da49c95b95587a4e15740fcb)
+* __Generative ai and reality__: [The Impact of AI on Jobs](17cff4adea214f71c7a5eed15307b0e7)
+* __Generative ai art__: [Imagining Alternative Histories Through Generative AI on TikTok](672d563b299cb30a98ca5198bb16458c)
+* __Generative ai in photography__: [The Illusion of Authenticity: Polaroid's Bid for Meaningful Photography](ba6b48e83806da532c7578d24e914455)
+* __Generative ai limitations__: [The Uncertain Future of Generative AI](f35afe43c2e3b465b8ed4b00023cb0ac)
+* __Generative ai models__: [China Proposes New Regulations for AI Chatbots](b6dc0996967d1b60cd671a3f6a787e9b)
+* __Generative ai projects__: [Accenture to Invest $3 Billion in AI and Data Practice](27843e5a73ef87ecc09722d675599621)
+* __Generative ai research__: [Advancements in AI: Text-to-Video Generators](c98e6d5382ed734fcb33e34509a95e40)
+* __Generative models__: [Human Motion Diffusion Model (MDM): A Generative Approach for Natural and Expressive Human Motion](07bcf7d8e29d33f8438f4b35a7f15021)
+* __Generative process__: [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
+* __Geographic arbitrage__: [Geographic Arbitrage: Saving Money by Earning Income in a Strong Economy](1bebd9c22d66a412bc9dc0ff5b4b562e)
+* __Geography__: [Valeriepieris Circle: A Global Population Phenomenon](6ab95ef7d3a59b67b7851af561ed903b), [Atlas for The Blind 1837](656239ad8ab36ce06ac4ee6258b5381d), [Selfie Reveals Location of China's Alleged Spy Balloon](f5bc316f1ab2ef2669f76e3f5212b863)
+* __Geology__: [Mysterious Underground City Found in Turkey](8f692340509e6a4be9518522b4cca022)
+* __Geometry__: [Mathematicians Discover Shape with Non-Repeating Pattern](878524351f159f818bc2c8ebcd95c0d7)
+* __Geopolitical implications__: [The Uncertain Future of Generative AI](f35afe43c2e3b465b8ed4b00023cb0ac)
+* __Geste ouvrier__: [The Role of Human Gesture in Mass Production](27948f54570ab56d95fdc708d3119801)
+* __Gig economy__: [Doordash Offers Hourly Pay for Delivery Drivers](c16634ee710f10560259b9f352c46519), [Dark Side of India's Tech Sector](6ed5fdeafa587adf125587208fb0e01b)
+* __Github security incident__: [GitHub Rotates Exposed Private SSH Key](3c77982c24c808d06150b383d1fe7c50)
+* __Glacier ecology__: [Importance of Microbial Activity on Glaciers](4b6734ef8815047f0eb71a170c13af9d)
+* __Global development__: [Facts and Figures 2021: Global Internet Connectivity Statistics](b36e3d58a4e33abd3eaacf9c3de03588)
+* __Global fast food industry__: [The Big Mac Index and Burger Prices Around the World](189e440570d5fe35902ee7b899f7e220)
+* __Global harvest__: [Clues from Satellites on Global Harvest](b99e8d470f4bd969ae5ec423c534eeee)
+* __Global supply chain__: [The Challenge of Rethinking the Supply Chain](fa27e27bdec01712d582ab0f61c95bac)
+* __Global supply chains__: [France Invests €3 Billion in Semiconductor Factory](8dfeb7f353bb51c54f0fbaeadf3ed292)
+* __Global trade challenges__: [The Importance of a "Chief Trade Officer"](77a1e8adf276dbc84c60c1c7fd878db8)
+* __Global uncertainty__: [The Rise of Uncertainty Shocks: Navigating Global Turbulence](ab8c972a6c092c9ac6b37922e0a07f62)
+* __Global warming__: [Heat Will Likely Soar to Record Levels in Next 5 Years](89b553cd6644cc1549e68abd6a6d44d6)
+* __Globalization__: [The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger](c14b3ca07efcef0d44a6af30501c76c1), [The End of the Beginning: Morris Chang's Speech on the Future of America's Semiconductor Industry](0fce5ae3e73cafb8739ab8c2c63ebad5), [Thriving Locally in the Global Economy](b0f9303688b3f36feafd21625c5d3461)
+* __Google palm 2__: [Chatbot Arena Leaderboard Updates (Week 4)](2ad1a65371512ec50f24b2e247328b78)
+* __Google products discontinuation__: [Google Jamboard: End of the Line](1f6ffedb8c1bbd834ffc6a40038cbf7c)
+* __Google search indexing__: [Google's AI Chatbot Bard Raises Privacy Concerns](9962e2ca5ad5ea684e801c62fbed39d5)
+* __Government__: [Exposed Server Leaks US Military Emails](2efc3124c37c21844c4c71c2eb801f11)
+* __Government incompetence__: [The Decline of Global Cities and Britain's Challenges](5faa4668aa08755679e2956ba96ecb18)
+* __Government initiatives__: [One Million Cancel Broadband Amid Rising Living Costs](f71e17c8d36e6dbced874ff9a319e733)
+* __Government investment__: [France Invests €3 Billion in Semiconductor Factory](8dfeb7f353bb51c54f0fbaeadf3ed292)
+* __Government policy__: [Italy's Right-Wing Government Criminalizes Raves](adb7356f3711c023daf08fec38221395)
+* __Government portal__: [Algorithmic Impact Assessment for Government Automation](f4c4b44832de983ad30047e9b2632bc1)
+* __Government regulation__: [The Boiling Frog of Digital Freedom](1f01cd79ea4dad626936ecf8a068c1be)
+* __Government surveillance__: [UK Government Expands Controversial Surveillance Technology](4fe61511dabd734b653a98b45e8bd3c0), [Concerns over DNS Blocking](ee0bcad312f833a9283e4344b051de2f), [Apple Warns UK Government Over Surveillance Powers](592f0831eeefa9761ae385bc25f166a0), [U.S. Military Purchases Powerful Internet Monitoring Tool](8f5fe20e3702256a4bb3cdf7fd677752)
+* __Gps signals__: [Ground Breaking: Tiny Changes in GPS Signals Could Predict Large Earthquakes](a00fd810052374121de9c17d5a5d60ac)
+* __Gpt advancements__: [A Comprehensive Guide to Autonomous Agents with GPT](2dda4be3e1a9f11b4f7d8e74feea76b0)
+* __Gpt-4 and neo4j integration__: [Building a Context-Aware Knowledge Graph Chatbot with GPT-4 and Neo4j](af12c099700e76b62f6990530a12edfa)
+* __Gpt-4 features__: [Microsoft to Launch GPT-4 with Video Features](8095d5362758bd66fc6f6c393edb3d8a)
+* __Gpt-powered startups__: [Evaluating GPT Startups: The Three-Hills Model](d1df6602870d6b0ed820af0e9ab76a80)
+* __Gpt4all__: [GPT4All: Local ChatGPT Simplification](280062047a4f4c0db1811e6ca41703d0)
+* __Grace__: [Architecting Joy: The Path to Lasting Happiness](ec3b733c80a9fc0239d120b8450c979b)
+* __Grammar rules__: [The Rules of Language and Linguistics](587c21780f97f331b4d2c859240e09e9)
+* __Graph data science__: [Knowledge Graph Completion with PyKEEN and Neo4j](cf89c459835545c2316563d156cf42db)
+* __Graph databases__: [Building a Knowledge Graph with Chat-GPT and Python](7ff6239e13a43e856fa36887902c5ede), [LangChain Adds Cypher Search for Efficient Information Retrieval from Neo4j](f43094a456dc947dabd541b510f86856)
+* __Graphic novel__: [New York Artist Receives Copyright for AI-Generated Graphic Novel](9191375fe5b80e2b93a7369a79e63957)
+* __Green credentials__: [Germany's Reversal Threatens EU's Green Credentials](814283a354f997b39eef0684e747b8ef)
+* __Greenlandic support for sand extraction__: [Greenland's Melting Ice Sheet and the Potential for Sand Extraction](6c6a5e8d50e3045323cf202ba5b17ea9)
+* __Grief and loss__: [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
+* __Grimesai voiceprint__: [GrimesAI Partners with Elf.Tech for AI-Generated Music](60c07fb2fe0247877a8e0c8b64c26a82)
+* __Growth mindset__: [Everything is a Practice](a81f85f066b0093553fc39638d3e0559)
+* __Guidelines for the tech industry__: [Vatican Releases Handbook on AI Ethics](994781edb78a36cd547b86f570716280)
 
 ## Letter 'H' 
 
 
-* __habitability__: 
-* __hack-a-sat competition__: 
-* __hacker culture__: [Chaos Computer Club Announces 37th Chaos Communication Congress (37C3)](bcff5643d6572db7c8c9d2bffc215812), [Inside the Legendary Hackerspace, L0pht](992602cc0ddc531bb5e3ab280132a31f)
-* __hacking__: [The SolarWinds Cyberespionage Campaign Unveiled](60d708d49e171255bc45464e0b5e6a6a)
-* __hacktivism__: [Ukraine Cyber-Conflict: Hacking Groups Vow to Comply](c039bde3f9a4fa2f206da538dde42fb5)
-* __hactivism__: [Hackers Target US Government in Response to Attacks on Gender-Affirming Care](9d978f24420f5198328d717bd93ff52a)
-* __hair care__: [Italian Mayor Bans Double Shampooing to Conserve Water](8b237d611e4dd25c311c3939451bb53c)
-* __hallucinogenic honey__: [The Hallucinogenic Honey: Mad Honey](d943c22736f43f56cebc890da1718595)
-* __hard science fiction__: 
-* __hard work and persistence__: [Striving for Greatness in Research](d63dcd0ef7dc557c2fe4c312f4cd686f)
-* __hardware__: [The Perfect Ultra-Low Power Digital Watch](5af9b5ebcf47c95c77fe4e896651a4dd)
-* __hardware development__: [HydraUSB3 V1: Open Source Developer Kit for High-Speed Protocols](0fbb6c3fbc914e5e65bc6e67bd425edd), [Kilsyth: ECP5 FPGA + FT60x FIFO](076f9b6d6122fb2ac7933c60cf1e7dbc)
-* __health__: [Predictions for 2030](d14b14eaf86b482708781d3e6d97e33a), [New Zealand passes legislation banning cigarettes for future generations](57094f3730835fe172d0f95667a01312)
-* __health issues__: 
-* __health risks__: 
-* __healthcare__: [Challenges Mount as Viral Infections and Child-Care Shortages Collide](680e58ea9fd94182e5f26d3b3c8abda9)
-* __healthcare system overload__: [Impact of COVID-19 on Workforce](e84dc9448d44d2624c060fc15bf5c096)
-* __heat wave__: [Unprecedented Ocean Temperature Anomalies Continue](7d78c43cd82cf39506c094d726af453f)
-* __heat wave impacts__: [Beavers: Nature's Climate Change Heroes](4ef4757586661978f066dce209fada17)
-* __heat wave management__: 
-* __heat-related challenges in different sectors__: 
-* __higher education workforce__: 
-* __hip-hop and dance__: 
-* __history__: 
-* __history of debt__: [The Evolution of Debt in America](1bada151ef608ff10c639ec228c01f3e)
-* __history of drug use__: [Psychonauts: Drugs and the Making of the Modern Mind](46b83c5dfd8f27c0bb2335917e2f5a1f)
-* __holiday season__: [Dead Week: A Time of Rest and Nothingness](feaf4c8a17f7451ae8634f22609ffa93)
-* __holistic approach to beauty__: [The Rise of PSYCARE in Beauty](b396d58ff64cbfdfe136c278b263ee5a)
-* __holobionts__: 
-* __holometabolous vs hemimetabolous__: 
-* __homelessness__: [Central Iowa Shelter Launches Aquaponics System to Grow Tilapia](9664582c42773260d250f25634078279), [MyPowerbank: Portable Charger for Homeless](d9f1f901dee09e59f1f13b7777a391cb)
-* __homeowner restrictions__: [Illegal Car Repairs in Sacramento, California](52cca87c67452d11ed4899552e6c7573)
-* __homomorphic encryption__: 
-* __hope__: [Hope in the Dark: A Radical Case for Hope in Uncertain Times](fd193cbb838e7049c4d44c7dde929f83)
-* __hopepunk__: [The Rise of Hopepunk: Celebrating Goodness in Literature](64d142fad56dfd6c613858f7f5aa0a1e)
-* __hospitality__: [The Enduring Power of Matchbooks](cceff7fbb9450ceb8276d0c377e472e7), [The Cadogan Partners with Sleep Expert for Ultimate Comfort](02955553e2ee09903aab2ab1867c860b)
-* __hospitality industry__: [Hotels Turn to Robots as Staffing Shortages Persist](b35030f7ffb9e082dea84058ac63f3ca)
-* __houseplant market__: [The Dark Side of the Houseplant Boom](36b36c58561712964f7a9920eb97d56f)
-* __housing__: 
-* __housing crisis__: 
-* __housing shortage for students__: [Student Accommodation Crisis: No Place to Live](6857ceabb001165abd4ed989dbe2f656)
-* __human augmentation__: [Roboticists Want to Give You a Third Arm](faad51d1f885af1db9dee5e5ce52b46e)
-* __human authorship__: 
-* __human behavior__: [Neophilia and Its Discontents](bd85751af600abe8c39229eb4ba07c1c)
-* __human change__: 
-* __human connection and relationships__: 
-* __human creativity__: 
-* __human impact on the environment__: 
-* __human motion generation__: [Human Motion Diffusion Model (MDM): A Generative Approach for Natural and Expressive Human Motion](07bcf7d8e29d33f8438f4b35a7f15021)
-* __human nature__: 
-* __human trafficking__: 
-* __human vs. machine decision-making__: [The Future of Strategic Decision-Making](c474eac8117547a89cac2c805652df9c)
-* __human-machine interaction__: [Ironies of Automation: The Paradox of Increasing Dependence on Skilled Operators](6a67048dd9edce24a136022c6ce0c2eb)
-* __humor__: [Fart Proudly: Benjamin Franklin's Essay on Flatulence](001b195bbddec8fb0193b668a70aa883)
-* __hybrid watchmaking__: [The Rise of Hybrid Watchmaking](3c8e50874cd8552a38f5adab70ccd2b7)
-* __hybrid work__: [Productivity Paranoia and the Shift to Hybrid Work: Microsoft Work Trend Report](c44ce31cbe9d5b538bab463761a1fe8c)
-* __hyper-personalization__: [The Hyper-Personalization of Everything](9ef1218bf5010b0780647b93d724b93b)
-* __hyperconnectivity__: 
+* __Habitability__: [Potential for Life on Terminator Planets](fbba0dee0595167fa2c44980935de6e2)
+* __Hack-a-sat competition__: [Hack-a-Sat: Researchers Launch Sandbox Satellite for Space Hacking](f6637d1fa0e3fe0e1e94bea8b3338ef9)
+* __Hacker culture__: [Chaos Computer Club Announces 37th Chaos Communication Congress (37C3)](bcff5643d6572db7c8c9d2bffc215812), [Inside the Legendary Hackerspace, L0pht](992602cc0ddc531bb5e3ab280132a31f)
+* __Hacking__: [Hackers to Target Moonlighter Satellite in Space](f21752e61524e179fbdb1ef773666a40), [The 2022 Hackaday Supercon Is On!](57d45c62e30c14c52cdaa049b2d869b6), [The SolarWinds Cyberespionage Campaign Unveiled](60d708d49e171255bc45464e0b5e6a6a)
+* __Hacktivism__: [Ukraine Cyber-Conflict: Hacking Groups Vow to Comply](c039bde3f9a4fa2f206da538dde42fb5)
+* __Hactivism__: [Hackers Target US Government in Response to Attacks on Gender-Affirming Care](9d978f24420f5198328d717bd93ff52a)
+* __Hair care__: [Italian Mayor Bans Double Shampooing to Conserve Water](8b237d611e4dd25c311c3939451bb53c)
+* __Hallucinogenic honey__: [The Hallucinogenic Honey: Mad Honey](d943c22736f43f56cebc890da1718595)
+* __Hard science fiction__: [Blindsight: A Hard Science Fiction Novel](a4764a556583ffec51fa91aa3564e777)
+* __Hard work and persistence__: [Striving for Greatness in Research](d63dcd0ef7dc557c2fe4c312f4cd686f)
+* __Hardware__: [The Perfect Ultra-Low Power Digital Watch](5af9b5ebcf47c95c77fe4e896651a4dd)
+* __Hardware development__: [HydraUSB3 V1: Open Source Developer Kit for High-Speed Protocols](0fbb6c3fbc914e5e65bc6e67bd425edd), [Kilsyth: ECP5 FPGA + FT60x FIFO](076f9b6d6122fb2ac7933c60cf1e7dbc), [YouTube's Custom Video Chip Revolution](5d8b4aa6d5d8d086044fd9d1a00c270f)
+* __Health__: [Predictions for 2030](d14b14eaf86b482708781d3e6d97e33a), [New Zealand passes legislation banning cigarettes for future generations](57094f3730835fe172d0f95667a01312)
+* __Health issues__: [Bruce Willis Sells Likeness for Deepfake](6fe04b914872df30dfb18bda13c542ad)
+* __Health risks__: [Life in Phoenix: Living in Hell](321c374c2e2bac6036e40f5484c17976)
+* __Healthcare__: [Amazon Clinic: Virtual Care for Common Health Conditions](22d0934658c9fc05be2fd8ded3007cf4), [Challenges Mount as Viral Infections and Child-Care Shortages Collide](680e58ea9fd94182e5f26d3b3c8abda9)
+* __Healthcare system overload__: [Impact of COVID-19 on Workforce](e84dc9448d44d2624c060fc15bf5c096)
+* __Heat wave__: [Unprecedented Ocean Temperature Anomalies Continue](7d78c43cd82cf39506c094d726af453f)
+* __Heat wave impacts__: [Beavers: Nature's Climate Change Heroes](4ef4757586661978f066dce209fada17)
+* __Heat wave management__: [Seville Launches Heat Wave Naming Program](849bb185b123580ee5fe5c702f99a488)
+* __Heat-related challenges in different sectors__: [The Impact of Heat on the Future of Work](d6b48e83bcc0c6e8e7c4328f27d65d0b)
+* __Higher education workforce__: [Massive Strike at University of California](4f1f3ae403592fef4bbb29a4f90c419a)
+* __Hip-hop and dance__: [Crossing Hip-Hop with Sri Lankan Dance](0eec94d49d73ca7a3669da31cea25e51)
+* __History__: [Mysterious Underground City Found in Turkey](8f692340509e6a4be9518522b4cca022), [Retrotech & Lowtech: Unearthing Forgotten Innovations](0dcbcf05d80ad87759f9567b2ed11263)
+* __History of debt__: [The Evolution of Debt in America](1bada151ef608ff10c639ec228c01f3e)
+* __History of drug use__: [Psychonauts: Drugs and the Making of the Modern Mind](46b83c5dfd8f27c0bb2335917e2f5a1f)
+* __Holiday season__: [Dead Week: A Time of Rest and Nothingness](feaf4c8a17f7451ae8634f22609ffa93)
+* __Holistic approach to beauty__: [The Rise of PSYCARE in Beauty](b396d58ff64cbfdfe136c278b263ee5a)
+* __Holobionts__: [Paradigm Shift: Holobionts in Biology](99e803820e0c09fbc3163a5a26ff49bb)
+* __Holometabolous vs hemimetabolous__: [The Remarkable Metamorphosis of Insects](c2544a0a5298530b102bb76ca874b3d5)
+* __Homelessness__: [Life in Phoenix: Living in Hell](321c374c2e2bac6036e40f5484c17976), [The Housing Crisis: The Root Cause of Homelessness](697dba113f3330775a4a451a3a663cb4), [Central Iowa Shelter Launches Aquaponics System to Grow Tilapia](9664582c42773260d250f25634078279), [MyPowerbank: Portable Charger for Homeless](d9f1f901dee09e59f1f13b7777a391cb)
+* __Homeowner restrictions__: [Illegal Car Repairs in Sacramento, California](52cca87c67452d11ed4899552e6c7573)
+* __Homomorphic encryption__: [Blyss: Enabling Privacy with Homomorphic Encryption](49126154cdd08a977f567f687cfa8a2e)
+* __Hope__: [Hope in the Dark: A Radical Case for Hope in Uncertain Times](fd193cbb838e7049c4d44c7dde929f83)
+* __Hopepunk__: [The Rise of Hopepunk: Celebrating Goodness in Literature](64d142fad56dfd6c613858f7f5aa0a1e)
+* __Hospitality__: [The Enduring Power of Matchbooks](cceff7fbb9450ceb8276d0c377e472e7), [The Cadogan Partners with Sleep Expert for Ultimate Comfort](02955553e2ee09903aab2ab1867c860b)
+* __Hospitality industry__: [Hotels Turn to Robots as Staffing Shortages Persist](b35030f7ffb9e082dea84058ac63f3ca)
+* __Houseplant market__: [The Dark Side of the Houseplant Boom](36b36c58561712964f7a9920eb97d56f)
+* __Housing__: [The Housing Crisis: The Root Cause of Homelessness](697dba113f3330775a4a451a3a663cb4)
+* __Housing crisis__: [Proposal to Build Housing on Britain's Roads](ded1777047211d0d3ff73ccb83141baa)
+* __Housing shortage for students__: [Student Accommodation Crisis: No Place to Live](6857ceabb001165abd4ed989dbe2f656)
+* __Human augmentation__: [Roboticists Want to Give You a Third Arm](faad51d1f885af1db9dee5e5ce52b46e)
+* __Human authorship__: [Copyright Office's Policy on AI-generated Content](55f8b86061b91388635decadefac4732)
+* __Human behavior__: [Neophilia and Its Discontents](bd85751af600abe8c39229eb4ba07c1c)
+* __Human change__: [Human Immortality Using LLMs](7eaef73ec22b42f1a0b0f4aa8b084a49), [Human Immortality Using LLMs](4b5e4f86651ce9d8c1f4d0ed6c13e384)
+* __Human connection and relationships__: [The Tyranny of Tiny Tasks](be4e7e887a88c7b1bae1400c5c4c0500)
+* __Human creativity__: [Uphill Thinking: Creativity, AI, and Human Design](92ae644db3cc8e4d0fb262bac8413f8b)
+* __Human impact on the environment__: [The Power and Pitfalls of Foresight](e11adc0adef22064e0ee2b531341ff07)
+* __Human motion generation__: [Human Motion Diffusion Model (MDM): A Generative Approach for Natural and Expressive Human Motion](07bcf7d8e29d33f8438f4b35a7f15021)
+* __Human nature__: [Timeless Concepts from Ancient Myths](456993603b70cfeb32b0779ac023fe61)
+* __Human trafficking__: [The Gangs Behind Coerced Cyberfraud](78225544dc7eb682254250761b51e8c3)
+* __Human vs. machine decision-making__: [The Future of Strategic Decision-Making](c474eac8117547a89cac2c805652df9c)
+* __Human-machine interaction__: [The Rise of Prompt Engineering: Programming in Prose to Unlock AI's Potential](53018e7a9d2e14b74909db8761a9cd9d), [Ironies of Automation: The Paradox of Increasing Dependence on Skilled Operators](6a67048dd9edce24a136022c6ce0c2eb)
+* __Humor__: [Fart Proudly: Benjamin Franklin's Essay on Flatulence](001b195bbddec8fb0193b668a70aa883)
+* __Hybrid watchmaking__: [The Rise of Hybrid Watchmaking](3c8e50874cd8552a38f5adab70ccd2b7)
+* __Hybrid work__: [Productivity Paranoia and the Shift to Hybrid Work: Microsoft Work Trend Report](c44ce31cbe9d5b538bab463761a1fe8c)
+* __Hyper-personalization__: [The Hyper-Personalization of Everything](9ef1218bf5010b0780647b93d724b93b)
+* __Hyperconnectivity__: [The Danger of Continuous Partial Attention](417df5448432cb603f40dec77f469b87)
 
 ## Letter 'I' 
 
 
-* __idea generation__: [The Power of Drawing in Idea Generation](094e056f091942a96a446d8401432eb8)
-* __identifying ai tasks__: 
-* __identifying and growing talent__: 
-* __identity__: 
-* __identity verification__: 
-* __ideological subversion__: [The Long-Term Plan to Subvert America](17a923241feb2adea077d064eccc615b)
-* __illegal numbers__: [The Phenomenon of Illegal Numbers](63aeeab522c47062e02f671fd01a7b63)
-* __illegal online-gambling__: 
-* __image generation__: [Introducing DALL·E 2: AI Creates Realistic Images from Text](ecf73eea05a6aaa8e7d76dc06f735adf)
-* __image processing__: [Awesome AI Image Synthesis](715a430b9a04a5670095d5510883dcc2), [Lensless Camera Creates 3D Images](8bb1226617cfc9b177ec5976f3716680)
-* __imaginary friends__: 
-* __imagination__: [Richard Feynman's One Sentence for the Next Generation](f74cce891f9a28209838900562566179)
-* __imagineering and innovation__: 
-* __immersive experiences__: [Netflix to Open Immersive Retail Experience](69ac0a51474dc55424e5281c7b649cad)
-* __immigration__: [Florida's Undocumented Population Faces Mass Exodus](3002f8c37aa3a21ff809ef9530368f00)
-* __impact des rénovations sur la qualité des logements__: [The Changing Codes of Home: From Quality to Organization](a9f264ee6e3332ece01b15847d55b5cf)
-* __impact des simulateurs de vie__: [The Ethics of Stardew Valley and the Spirit of Capitalism](ba66ec5438b7d5899fbfa973e82d66ca)
-* __impact of a.i. on jobs__: 
-* __impact of ai__: 
-* __impact of ai and technological change on societies__: 
-* __impact of ai in education__: 
-* __impact of ai on animation industry__: 
-* __impact of ai on art__: 
-* __impact of ai on artists__: 
-* __impact of ai on different newsletter types__: 
-* __impact of ai on employment__: 
-* __impact of ai on freelancers__: 
-* __impact of ai on jobs__: 
-* __impact of ai on online content__: 
-* __impact of ai on productivity and economy__: 
-* __impact of ai on productivity and quality__: 
-* __impact of ai on society__: 
-* __impact of ai on stock image industry__: 
-* __impact of ai on voice actors__: 
-* __impact of ai on work__: 
-* __impact of ai on work productivity__: 
-* __impact of ai on workforce__: 
-* __impact of ai on writing profession__: 
-* __impact of automation on white-collar workers__: [The Impact of AI on White-Collar Workers](ce379c62e35a93a1d93fce2061cabb74)
-* __impact of business secretary jacob rees-mogg’s plans to switch to imperial measurements__: 
-* __impact of chatgpt on agile coaching and scrum mastering__: 
-* __impact of climate change__: [Alaska Snow Crab Season Canceled as Officials Investigate Disappearance of 1 Billion Crabs](7e83f7bbd34b9f20b0dbd61cdbb0dcdf)
-* __impact of climate change on gen z__: 
-* __impact of climate change on work__: 
-* __impact of color on consumers__: 
-* __impact of consolidation on creativity__: [The Rise of the Pop Oligopoly](317aa39c987f1d5e3509dbc5e50c8bb3)
-* __impact of counterfeiting__: 
-* __impact of covid-19 on investment__: 
-* __impact of generative ai on scientific research__: 
-* __impact of generative ai on work__: 
-* __impact of inflation on retirement__: 
-* __impact of labor market and cost on m.b.a. applications__: 
-* __impact of labor shortages on public services__: 
-* __impact of layers in computer systems__: [Complexity and Insecurity in Computer Systems](fba2096cec7c08fe7c05d259b29dd5d9)
-* __impact of macroeconomic forces on the crypto market__: 
-* __impact of pandemic on student housing__: [Student Accommodation Crisis: No Place to Live](6857ceabb001165abd4ed989dbe2f656)
-* __impact of reading on individuals__: 
-* __impact of recession__: 
-* __impact of regulations on truck drivers and transportation sector__: 
-* __impact of rising fuel costs and inflation on gig economy workers__: 
-* __impact of social media on drinking habits__: [The Rise of Sober Generation](94960bd3c0ad4c594fd56651f4087128)
-* __impact of technology on dining experience__: [The Rise of QR Codes in Restaurants](f5b3a5e0ba84a3093de9500e6cf31c35)
-* __impact of technology on mental health__: 
-* __impact of technology on society__: [The Impact of Technology on Society](357214f864be2592efced782b93b25b3)
-* __impact of technology on work__: [A.I. Threatens Lawyers, Again](2d3b20a8b6a2fbbb191cffd8ebba1792)
-* __impact of the internet on productivity growth__: 
-* __impact of theatrical releases on subscriber growth__: 
-* __impact of vat on public charging__: 
-* __impact of wildfires on insurance market__: 
-* __impact on artists__: [Unstable Diffusion: Building an AI-Powered Porn Generation Community](12a56596b967f41841a5c1dfd6a78680)
-* __impact on care workers__: 
-* __impact on employees__: 
-* __impact on productivity__: [Boosting Productivity and Satisfaction with Generative AI](01bec9add8819c277aad7d7ba19983f7)
-* __impact on women__: 
-* __impact on workforce__: [Impact of COVID-19 on Workforce](e84dc9448d44d2624c060fc15bf5c096)
-* __impacts of language disparity__: 
-* __impersonation on linkedin__: 
-* __implications of litigation funding__: [Litigation Funding: The Unregulated and Expanding Industry](4e8e2c73e225932e90e085ff0a36da60)
-* __importance of community and social interaction in the workplace__: 
-* __importance of cyber in modern warfare__: 
-* __importance of metamorphosis__: 
-* __importance of open-ended play__: 
-* __importance of planning in food__: 
-* __importance of plants in the environment__: [The Disappearing Knowledge of Plants](e23590dbe6aa22752002fb616fba5004)
-* __importance of problem selection__: [Striving for Greatness in Research](d63dcd0ef7dc557c2fe4c312f4cd686f)
-* __importance of sustainability__: [The Impact of Tech on the Environment and the Importance of Sustainability in the Tech Sector](763a73de80e3ade3d3a068da6ce48182)
-* __importance of workplace inclusivity and awareness__: [The Challenges of ADHD in the Workplace](5787bdf4f1ad4805a622fc45bf75f023)
-* __improving agricultural knowledge and access to information__: 
-* __improving ai output__: 
-* __improving healthcare delivery__: [ChatGPT Outperforms Physicians in Patient Questions](47d0fd7d569a766b50f66eba76cb5c4d)
-* __income share agreements__: 
-* __increase in range__: [The Evolution of Electric Car Range](7f4bbda67f521ee30a63b68b9f8666d9)
-* __increased vulnerability and mindfulness in dating__: 
-* __increasing cyberattacks and threats__: 
-* __incremental mode__: [Apple's Shift Towards Services and Conquest Mode](31746b76bca4763be83b7055f34a192f)
-* __india__: 
-* __indoor air quality__: 
-* __industrie__: [The Role of Human Gesture in Mass Production](27948f54570ab56d95fdc708d3119801)
-* __industry growth and revenue__: 
-* __industry-specific adoption of ai__: 
-* __inefficiency__: [Simple Sabotage Techniques in WWII](e62131b4a0555020af785377276bcd76)
-* __inequality__: 
-* __inequity__: [The Age of AI: Opportunities and Responsibilities](2449c2fc4b8afc7e268db4987fa821e5)
-* __infectious diseases__: [Urgent threat: Drug-resistant fungus invading health care facilities](d28d19739c279a21eb19cac312e67bea)
-* __infinite entertainment__: 
-* __infinite mindset__: 
-* __information__: [Explicit Knowledge: Easily Accessible and Transmittable](fcaebc86f2f475af184eaa545a624a2c)
-* __information abundance__: 
-* __information organization__: 
-* __information overload__: 
-* __information security__: [The Framework for Assessing and Mitigating Risks in AI Systems](f87bcfb74a4a1db0ac38bd573144fd59)
-* __information security jobs__: [The Information Security Jobs Dilemma](38bda67182126c0f814ed70882b5fed2)
-* __information security professionals__: [The Information Security Jobs Dilemma](38bda67182126c0f814ed70882b5fed2)
-* __informatique__: [The Decline of Cobol Programmers](6062bbe324042e8bde50ca43b821a182)
-* __infrastructural systems__: [Understanding the Interplay of Infrastructure](4a29de3bba5a755ccf2dd3db47e0c32f)
-* __infrastructure__: 
-* __infrastructure investment__: [The Importance of Improving Construction Productivity](68cc2d738ed662aeee3670d8327d7d5f)
-* __innovation__: [A Simple Idea: Protecting Bikes](9c652dfb9dcd53a8d38a79cc1981bb74), [The World's First Mylo™️ Garments: Vegan Mushroom Leather Revolution](babc175f444c7c8a095e0739f8ca9f96), [Single-Threaded Leadership: A Key Organizational Design Concept at Amazon](f7c3cefc5b83fbd9df3507bdad7ff3fe), [The Economic Impact of Ageing Populations](bff595b72330d833dba477e2dc2a5656)
-* __innovation and competition__: 
-* __innovation pédagogique__: [Future Careers and the Importance of "Mad Skills"](572ff244f383344150f88e74397cc5de)
-* __insect behavior__: [Brain Rewiring During Insect Metamorphosis](bcf5820227220a93cb3923e1d8c64a6c)
-* __insect cyborgs__: 
-* __insect intelligence__: [Sentience in Insects: Ethical Implications and the Need for Further Research](a2655cb820f74828eabbac3f12217ce2)
-* __insecurity of computer systems__: [Complexity and Insecurity in Computer Systems](fba2096cec7c08fe7c05d259b29dd5d9)
-* __insomnia__: [The Mystery and Magic of Purring](373ad0793a04ce22222c53103c6fadb8)
-* __installing privategpt__: 
-* __insurance industry in california__: 
-* __integrating llms with knowledge graphs__: 
-* __intellectual property__: 
-* __intellectual property rights__: [American Farm Bureau and John Deere Sign Agreement on Equipment Repair](26ae831dfd3721235ac0eacb85e4a0e5)
-* __intelligence__: [The Intelligence of Ecosystems and LLMs](607bce5ceffd29c4ba8997068ebde091)
-* __intelligence analysis__: 
-* __interacting with documents__: 
-* __interaction design in nature__: 
-* __interconnectedness of all things__: 
-* __internal knowledge management__: [Integrating ChatGPT with Internal Knowledge Management](977ac6628e9192d07524905819496121)
-* __international approaches to ai regulation__: 
-* __international competition__: [Cybathlon 2020: Pushing Assistive Technology Forward](012da0fd0aa5dad27caf91e3bd4b238f)
-* __international cooperation__: 
-* __internet censorship__: [The Boiling Frog of Digital Freedom](1f01cd79ea4dad626936ecf8a068c1be)
-* __internet connectivity options__: 
-* __internet culture__: 
-* __internet popularity__: 
-* __internet security__: 
-* __interstellar exploration__: 
-* __inventory management__: [Ikea Utilizes Drones for Inventory Monitoring](73c05925a7ca7e2fe6fd64b7074f4098)
-* __invertebrate rights__: 
-* __investissement immobilier__: 
-* __investment__: [Chipiron: Portable Mini-MRI Revolutionizing Healthcare](f99fa5e02647a517b709d5b44f85fd5c)
-* __investment opportunities in cybersecurity__: 
-* __investment strategies__: [Growing Adoption of Alternative Data by Investors](6df05418720b20b7f2cec0056111cae6)
-* __investments__: 
-* __investor relations industry__: [Marvel Comics: Revolutionizing Investor Relations](4a82d13416aa639187f912c1c8282e0f)
-* __invisibility cloak__: [Adversarial Attacks on Object Detectors](76e3d69311e52896aa5c56f01119652f)
-* __invisible qr codes__: 
-* __iphone hacking__: 
-* __isolation__: [The Radical Power of Hanging Out](edbb7336dfb26098bcc966ca17c074b9)
-* __it security__: 
+* __Idea generation__: [Unleashing Creativity with SCAMPER Method](0e850e13ca65ce51de13cd4e0ec85861), [The Power of Drawing in Idea Generation](094e056f091942a96a446d8401432eb8)
+* __Identifying ai tasks__: [On-boarding Your AI Intern](4b66dbaa2bbc249bfcccbb7e27adbde5)
+* __Identifying and growing talent__: [The Future of Talent Identification and Recruitment](14935a7eab6d6c1d8a5ce2f25d3b54bb)
+* __Identity__: ["The Moon Moth" by Jack Vance](2dd9a441afdb8fd77ef5e8163da4326b), [Human Immortality Using LLMs](7eaef73ec22b42f1a0b0f4aa8b084a49), [Human Immortality Using LLMs](4b5e4f86651ce9d8c1f4d0ed6c13e384)
+* __Identity verification__: [Worldcoin Raises $115 Million for Eyeball-Scanning Crypto Project](2288acc14dd8aab5ef245655d253626f)
+* __Ideological subversion__: [The Long-Term Plan to Subvert America](17a923241feb2adea077d064eccc615b)
+* __Illegal numbers__: [The Phenomenon of Illegal Numbers](63aeeab522c47062e02f671fd01a7b63)
+* __Illegal online-gambling__: [The Gangs Behind Coerced Cyberfraud](78225544dc7eb682254250761b51e8c3)
+* __Image generation__: [Introducing DALL·E 2: AI Creates Realistic Images from Text](ecf73eea05a6aaa8e7d76dc06f735adf)
+* __Image processing__: [Awesome AI Image Synthesis](715a430b9a04a5670095d5510883dcc2), [Lensless Camera Creates 3D Images](8bb1226617cfc9b177ec5976f3716680)
+* __Imaginary friends__: [Tulpamancy: Creating Autonomous Mental Entities](56f93e34024f9bf044f570856f99590f)
+* __Imagination__: [Richard Feynman's One Sentence for the Next Generation](f74cce891f9a28209838900562566179)
+* __Imagineering and innovation__: [Imagineering A Better Future](c8574c3fabcddaff47072c5b93a50476)
+* __Immersive experiences__: [Netflix to Open Immersive Retail Experience](69ac0a51474dc55424e5281c7b649cad)
+* __Immigration__: [Florida's Undocumented Population Faces Mass Exodus](3002f8c37aa3a21ff809ef9530368f00)
+* __Impact des rénovations sur la qualité des logements__: [The Changing Codes of Home: From Quality to Organization](a9f264ee6e3332ece01b15847d55b5cf)
+* __Impact des simulateurs de vie__: [The Ethics of Stardew Valley and the Spirit of Capitalism](ba66ec5438b7d5899fbfa973e82d66ca)
+* __Impact of a.i. on jobs__: [The Battle with A.I. in Call Centers](56beef7b04fba80fbf7a9b4625af80b1)
+* __Impact of ai__: [The Age of AI: Opportunities and Responsibilities](8acafe1fbe51c2de3cd689956b25b39f)
+* __Impact of ai and technological change on societies__: [Coping with Rapid Technological Change: Strategies for Survival](14a8b49f5342c0428f8f03db633c57d5)
+* __Impact of ai in education__: [The Impact of AI on Education](ea74b217d36ec570bb432fb5aa679090)
+* __Impact of ai on animation industry__: [The Dominance of AI in Animation](7335d2a0f0dbf2aa11f41457cdf15757)
+* __Impact of ai on art__: [The Impact of AI on Art](cc1340400b9dfbf32bfc3d546cf0b7b3)
+* __Impact of ai on artists__: [A.I. Sparks Debate Over Artist Rights](f5d2fbbd282d6e37d9e572edfcd235b2)
+* __Impact of ai on different newsletter types__: [The Future of Newsletters in the Age of AI](36708cd749aea907043cfc74cbaa3847)
+* __Impact of ai on employment__: [The Rapidly Accelerating AI Revolution](1dea025d0138e53b9f644748f63a15bc)
+* __Impact of ai on freelancers__: [The Impact of ChatGPT on Freelancing Platforms](16ae389e81ec87fdaaf271c38e3cb1e9)
+* __Impact of ai on jobs__: [The Need for Universal Basic Income](550efa34f0d3da2d8dc49d97f98859d9), [AI Redefining Work-Life Balance](bc5ff4c170f1f63b34eb7ca70775d8d7), [The Problem With AI and Capitalism](cc3c2afb44e50f74152fd58c92f5b418)
+* __Impact of ai on online content__: [Rise of AI-Written Content Raises Concerns](dcb77b655838bfb2e77e5440c5b3a3b5)
+* __Impact of ai on productivity and economy__: [AI Superpowers: Unleashing Entrepreneurship in 2023](a40580730388900810b4496ff9891dc9)
+* __Impact of ai on productivity and quality__: [The Impact of AI on Knowledge Worker Productivity and Quality](c63bd059cb529b72b00ecbdcd2f85268)
+* __Impact of ai on society__: [The Impact of AI on Society: Part 1](cf119665e47c7434e3e3c54dbbc585e3), [The Impact of AI on Society](87709d0e31dee725ec1f54b7f4facbc4)
+* __Impact of ai on stock image industry__: [Shutterstock Partners with OpenAI to Integrate DALL-E into Stock Image Platform](99ffe526026a0494fc25d44aba64bd70)
+* __Impact of ai on voice actors__: [Voice Actors Express Concerns Over Voice-Generating AI](fdaa6ee397da0b1a689af2883ee8f2af)
+* __Impact of ai on work__: [Centaurs and Cyborgs on the Jagged Frontier](c94f72ff677c7517a836417c1f1df620)
+* __Impact of ai on work productivity__: [The Temptation of The Button: AI's Impact on Work and the Crisis of Meaning](3cdcaf35e46bb5b431f299c44a448b9f)
+* __Impact of ai on workforce__: [The Impact of AI on Ad Agency Jobs](54491b49e9fd2c6eab777dca0ba67e76)
+* __Impact of ai on writing profession__: [The Rise of Prompt Engineers: AI's Impact on the Writing Profession](7deb1de0960ac64f860d34b9a353deb5)
+* __Impact of automation on white-collar workers__: [The Impact of AI on White-Collar Workers](ce379c62e35a93a1d93fce2061cabb74)
+* __Impact of business secretary jacob rees-mogg’s plans to switch to imperial measurements__: [Concerns raised over switch to imperial measurements](6f19a30cab90c95bd01c25851126531e)
+* __Impact of chatgpt on agile coaching and scrum mastering__: [ChatGPT Revolutionizes Agile Coaching and Scrum Mastering](30b8049b120d57889e375ced1e2a9bf4)
+* __Impact of climate change__: [Alaska Snow Crab Season Canceled as Officials Investigate Disappearance of 1 Billion Crabs](7e83f7bbd34b9f20b0dbd61cdbb0dcdf)
+* __Impact of climate change on gen z__: [Gen Zers' Financial Habits in the Age of Late-Stage Capitalism](1b41206075bb58ef4a1bcb8a6d82ffc0)
+* __Impact of climate change on work__: [The Impact of Heat on the Future of Work](d6b48e83bcc0c6e8e7c4328f27d65d0b)
+* __Impact of color on consumers__: [The Power of Color in Branding](aed94a25a5eda4f0d45a976a94a8c223)
+* __Impact of consolidation on creativity__: [The Rise of the Pop Oligopoly](317aa39c987f1d5e3509dbc5e50c8bb3)
+* __Impact of counterfeiting__: [The Problem With Counterfeit People](ee8ec5a4a60822d8e8a1774e02d3a7e5), [The Problem With Counterfeit People](df749b28f13a14f030501985011f6c5b)
+* __Impact of covid-19 on investment__: [Lessons from 2022: Digital Health Funding Trends](94a0e8fa4feeea0751c7d3ea8ffd1302)
+* __Impact of generative ai on scientific research__: [The Potential of Generative AI in Scientific Communication](60f3a64993d5e355561c59e5d641bec9)
+* __Impact of generative ai on work__: [The Impact of Generative AI on Middle Managers](4427e1d7ce3ce8d0a6f40cb808f69b6a)
+* __Impact of inflation on retirement__: [Retirees Returning to Workforce Amid Economic Challenges](2a489a36a1fa238ae4e3d65423f52e92)
+* __Impact of labor market and cost on m.b.a. applications__: [Decline in M.B.A. Applications Linked to Strong Job Market and High Costs](741fe3c74904ed78f07285a0a13f87f7)
+* __Impact of labor shortages on public services__: [The Growing Crisis of Public Worker Shortages](712282cfc63ea5f0d674c24ec2748d53)
+* __Impact of layers in computer systems__: [Complexity and Insecurity in Computer Systems](fba2096cec7c08fe7c05d259b29dd5d9)
+* __Impact of macroeconomic forces on the crypto market__: [Crypto Market Sell-Off Intensifies as Bitcoin and Ether Plummet](3df21712dc64230ab6f16aea00683d3f)
+* __Impact of pandemic on student housing__: [Student Accommodation Crisis: No Place to Live](6857ceabb001165abd4ed989dbe2f656)
+* __Impact of reading on individuals__: [The Power of Reading and Books](a9f822eb98b10e38248c245ba437d9c8)
+* __Impact of recession__: [Recommerce Soars as Secondhand Shopping Surges](6e8eeaf2acd0e96acb4d43a085c483e1)
+* __Impact of regulations on truck drivers and transportation sector__: [The "2024 Problem" Looms Over Japan's Logistics Industry](4b449b550cc2d52a68de9a3148a0f321)
+* __Impact of rising fuel costs and inflation on gig economy workers__: [The Struggles of Gig Workers Amid Rising Inflation](d5620f5b1f4a80563ac4f5d523804658)
+* __Impact of social media on drinking habits__: [The Rise of Sober Generation](94960bd3c0ad4c594fd56651f4087128)
+* __Impact of technology on dining experience__: [The Rise of QR Codes in Restaurants](f5b3a5e0ba84a3093de9500e6cf31c35)
+* __Impact of technology on mental health__: [Gen Z's Perspectives on Work, College, and the Internet](644ce4dcf74e76970fd0526ca1abf551)
+* __Impact of technology on society__: [The Impact of Technology on Society](357214f864be2592efced782b93b25b3)
+* __Impact of technology on work__: [A.I. Threatens Lawyers, Again](2d3b20a8b6a2fbbb191cffd8ebba1792)
+* __Impact of the internet on productivity growth__: [The Drawbacks of the Internet and Artificial Intelligence](652fc7ec1f422e931bc5a9ba8011650a)
+* __Impact of theatrical releases on subscriber growth__: [Netflix Considers Theatrical Release Strategy](088604fb4004b2f3c5725cf2f674066e)
+* __Impact of vat on public charging__: [Rising Costs of Electric Car Charging](044f5d6bb4070ed49afafb90f38713bd)
+* __Impact of wildfires on insurance market__: [Insurance Giants Pull Back from California's Home Insurance Market](807124122a1003ed8a05a0c2aa156331)
+* __Impact on artists__: [Unstable Diffusion: Building an AI-Powered Porn Generation Community](12a56596b967f41841a5c1dfd6a78680)
+* __Impact on care workers__: [The Limitations of Care Robots in Japan's Elder Care System](ac120c377b70b80fe25a6cce1d0b7fe6)
+* __Impact on employees__: [The Dark Side of Mystery Shopping](fec8d34946df9092e1ade8823b1d5f6d)
+* __Impact on productivity__: [Boosting Productivity and Satisfaction with Generative AI](01bec9add8819c277aad7d7ba19983f7)
+* __Impact on women__: [The Menace of Deepfake Images](14889902198ab8b6f7991b108f6ebb02)
+* __Impact on workforce__: [Impact of COVID-19 on Workforce](e84dc9448d44d2624c060fc15bf5c096)
+* __Impacts of language disparity__: [Language Disparity in Tokenization Process](d665bd80eab0306d0688daeded670533)
+* __Impersonation on linkedin__: [Impersonation on LinkedIn Exposes State-Backed Hacking Group's Tactics](70325897f9ce546581ee8a0967e10b09)
+* __Implications of litigation funding__: [Litigation Funding: The Unregulated and Expanding Industry](4e8e2c73e225932e90e085ff0a36da60)
+* __Importance of community and social interaction in the workplace__: [The Generational Divide in Remote Work Preferences](5a10c88b2c7660dac07161b1f5089e57)
+* __Importance of cyber in modern warfare__: [Army Struggles to Hire Cyber Security Experts Amidst Business Competition](9a34e1185220f0646d9672d1430ce579)
+* __Importance of metamorphosis__: [The Remarkable Metamorphosis of Insects](c2544a0a5298530b102bb76ca874b3d5)
+* __Importance of open-ended play__: [The Enduring Power of Classic Toys](dd9fc6f91eeb99cb289ba2e9f8af02f3)
+* __Importance of planning in food__: [The Importance of Planning in the Food Industry](5bb40df4b040c9f780e9fe7ffb0a0b82)
+* __Importance of plants in the environment__: [The Disappearing Knowledge of Plants](e23590dbe6aa22752002fb616fba5004)
+* __Importance of problem selection__: [Striving for Greatness in Research](d63dcd0ef7dc557c2fe4c312f4cd686f)
+* __Importance of sustainability__: [The Impact of Tech on the Environment and the Importance of Sustainability in the Tech Sector](763a73de80e3ade3d3a068da6ce48182)
+* __Importance of workplace inclusivity and awareness__: [The Challenges of ADHD in the Workplace](5787bdf4f1ad4805a622fc45bf75f023)
+* __Improving agricultural knowledge and access to information__: [WhatsApp Voice Notes Revolutionize Senegalese Farming](d5f874ef30655365d7ea23f43f46f7c1)
+* __Improving ai output__: [The Art of AI Response Shaping](b17aaf72b1537d9df1c51b5d72f6cb2c)
+* __Improving healthcare delivery__: [ChatGPT Outperforms Physicians in Patient Questions](47d0fd7d569a766b50f66eba76cb5c4d)
+* __Income share agreements__: [Income Share Agreements: What Are They, and How Do They Work?](55a637edca1735b67e34f2d11c012a86)
+* __Increase in range__: [The Evolution of Electric Car Range](7f4bbda67f521ee30a63b68b9f8666d9)
+* __Increased vulnerability and mindfulness in dating__: [Dating Trends in 2022: Prioridating and Increased Openness](5554792b473e148108ccb7b38a1d82c0)
+* __Increasing cyberattacks and threats__: [The Growing Investment Opportunity in Cybersecurity](211803931bfabc324f12ad1524640ef1)
+* __Incremental mode__: [Apple's Shift Towards Services and Conquest Mode](31746b76bca4763be83b7055f34a192f)
+* __India__: [The Struggles of Gig Workers Amid Rising Inflation](d5620f5b1f4a80563ac4f5d523804658)
+* __Indoor air quality__: [Natural Air Purifiers: Plant Power](a0e48b4839649f3f833b1a9b21d0dfbc)
+* __Industrie__: [The Role of Human Gesture in Mass Production](27948f54570ab56d95fdc708d3119801)
+* __Industry growth and revenue__: [The Changing Landscape of Entertainment and Media](c18691583943e0d2d1e217558293d06b)
+* __Industry-specific adoption of ai__: [AI Adoption in the Workplace: Early Insights](19d1bd27c4a10919f3e37ca2bae470e6)
+* __Inefficiency__: [Simple Sabotage Techniques in WWII](e62131b4a0555020af785377276bcd76)
+* __Inequality__: [The Need for Universal Basic Income](550efa34f0d3da2d8dc49d97f98859d9)
+* __Inequity__: [The Age of AI: Opportunities and Responsibilities](2449c2fc4b8afc7e268db4987fa821e5)
+* __Infectious diseases__: [Urgent threat: Drug-resistant fungus invading health care facilities](d28d19739c279a21eb19cac312e67bea)
+* __Infinite entertainment__: [The Age of Infinite Entertainment](63f1bb42da49c95b95587a4e15740fcb)
+* __Infinite mindset__: [The Infinite Game: Applying Leadership Strategies](54d1f8c7676710e22272e828c43e9934)
+* __Information__: [Explicit Knowledge: Easily Accessible and Transmittable](fcaebc86f2f475af184eaa545a624a2c)
+* __Information abundance__: [The Impact of LLMs on Information Post-Scarcity](f87ae242f79a85b180657a74b814aa0f)
+* __Information organization__: [The Filing Cabinet: A Vertical History](b074eff3e846c24db97af8524929939a)
+* __Information overload__: [The Rise of Curated Content](32d1ad4478612a9035595bf948a27a1f)
+* __Information security__: [The Framework for Assessing and Mitigating Risks in AI Systems](f87bcfb74a4a1db0ac38bd573144fd59)
+* __Information security jobs__: [The Information Security Jobs Dilemma](38bda67182126c0f814ed70882b5fed2)
+* __Information security professionals__: [The Information Security Jobs Dilemma](38bda67182126c0f814ed70882b5fed2)
+* __Informatique__: [The Decline of Cobol Programmers](6062bbe324042e8bde50ca43b821a182)
+* __Infrastructural systems__: [Understanding the Interplay of Infrastructure](4a29de3bba5a755ccf2dd3db47e0c32f)
+* __Infrastructure__: [The Age of Apocalyptic Infrastructure](177a0857ffe0d07d48cd99a269f28a02)
+* __Infrastructure investment__: [The Importance of Improving Construction Productivity](68cc2d738ed662aeee3670d8327d7d5f)
+* __Innovation__: [A Simple Idea: Protecting Bikes](9c652dfb9dcd53a8d38a79cc1981bb74), [Open Source Imaging Initiative: Affordable and Accessible Medical Imaging Devices](180db5379fd2e3f464d754d6d2eb27cb), [The World's First Mylo™️ Garments: Vegan Mushroom Leather Revolution](babc175f444c7c8a095e0739f8ca9f96), [Single-Threaded Leadership: A Key Organizational Design Concept at Amazon](f7c3cefc5b83fbd9df3507bdad7ff3fe), [Retrotech & Lowtech: Unearthing Forgotten Innovations](0dcbcf05d80ad87759f9567b2ed11263), [The Economic Impact of Ageing Populations](bff595b72330d833dba477e2dc2a5656)
+* __Innovation and competition__: [Understanding Jobs to be Done (JTBD)](110ac9459692757f523d5d37b79eaf3d)
+* __Innovation pédagogique__: [Future Careers and the Importance of "Mad Skills"](572ff244f383344150f88e74397cc5de)
+* __Insect behavior__: [The Brain's Metamorphosis: How Insects Transform from Larvae to Adults](25b20b3a3800f47c01aeec2e68e2af8f), [Brain Rewiring During Insect Metamorphosis](bcf5820227220a93cb3923e1d8c64a6c)
+* __Insect cyborgs__: [Robo-Roaches: Remote-Controlled Insect Cyborgs](b0cc49ba07708ecffb1a8c88d66554fd)
+* __Insect intelligence__: [Sentience in Insects: Ethical Implications and the Need for Further Research](a2655cb820f74828eabbac3f12217ce2)
+* __Insecurity of computer systems__: [Complexity and Insecurity in Computer Systems](fba2096cec7c08fe7c05d259b29dd5d9)
+* __Insomnia__: [The Mystery and Magic of Purring](373ad0793a04ce22222c53103c6fadb8), [China's Insomniacs Turn to Sleeping Assistants](3fbb11d6e949d1e662aa6a146bb6cda0)
+* __Installing privategpt__: [PrivateGPT: Interact with Your Documents Offline](34be604e35b06b445dcbcda3e5ece6b1)
+* __Insurance industry in california__: [Insurance Giants Pull Back from California's Home Insurance Market](807124122a1003ed8a05a0c2aa156331)
+* __Integrating llms with knowledge graphs__: [Integrating LLM Workflows with Knowledge Graph](1739f639d5bfca8e60d7750e29cc6ab3)
+* __Intellectual property__: [New Tool Nightshade Allows Artists to Fight Back Against Generative AI](737fd00bafc163f8b17f187f41d6567a)
+* __Intellectual property rights__: [American Farm Bureau and John Deere Sign Agreement on Equipment Repair](26ae831dfd3721235ac0eacb85e4a0e5)
+* __Intelligence__: [The Intelligence of Ecosystems and LLMs](607bce5ceffd29c4ba8997068ebde091)
+* __Intelligence analysis__: [Large Language Models in OSINT Workflow](5cf4407dc6fa3889e047c658e27c4ccf)
+* __Interacting with documents__: [PrivateGPT: Interact with Your Documents Offline](34be604e35b06b445dcbcda3e5ece6b1)
+* __Interaction design in nature__: [Cyborg Botany: Augmented Plants as Sensors, Displays and Actuators](b1f6991b9b718672751c9427c3f5b794)
+* __Interconnectedness of all things__: [Arachnomancy: Weaving the Future with Spider/Webs](ceeb22fe6e0642440e3432c8c3be5f57)
+* __Internal knowledge management__: [Integrating ChatGPT with Internal Knowledge Management](977ac6628e9192d07524905819496121)
+* __International approaches to ai regulation__: [The Global Challenge of Regulating AI](c3301a7146d6814214205c4b43376f17)
+* __International competition__: [Cybathlon 2020: Pushing Assistive Technology Forward](012da0fd0aa5dad27caf91e3bd4b238f)
+* __International cooperation__: [The Challenges of Space Law](d7322a8c1f0f439ffa3d07c93d4c2651), [Finland Suspects Deliberate Damage to Gas Pipeline and Telecoms Cable](97d9a79d85abb98e49308c266dcda203)
+* __Internet censorship__: [The Boiling Frog of Digital Freedom](1f01cd79ea4dad626936ecf8a068c1be)
+* __Internet connectivity options__: [A Rural Success: Setting Up Your Own Internet Service Provider](e6d593fc438de6602ae1dd4b5d404a05)
+* __Internet culture__: [Tulpamancy: Creating Autonomous Mental Entities](56f93e34024f9bf044f570856f99590f), [The Silent War of AI Garbage](3511302490614d3c929e357a98349e26)
+* __Internet popularity__: [TikTok Challenges Global Internet Order](8086bf4a53c711deb15d6bea523e85f9)
+* __Internet security__: [Concerns over DNS Blocking](ee0bcad312f833a9283e4344b051de2f)
+* __Interstellar exploration__: [Lightsail Propelled by Lasers to Alpha Centauri in 20 Years](ab18ee2e57a56da09f778c9640a935df)
+* __Inventory management__: [Ikea Utilizes Drones for Inventory Monitoring](73c05925a7ca7e2fe6fd64b7074f4098), [AI and Data Science in Supply Chain Management](d31c91e142d6237debea9b93e51a57c6)
+* __Invertebrate rights__: [Arachnomancy: Weaving the Future with Spider/Webs](ceeb22fe6e0642440e3432c8c3be5f57)
+* __Investissement immobilier__: [Oxford Properties and Novaxia Partner to Accelerate Growth of Life Sciences Sector in France](8171dbd0f0c22627933407c381911fa4)
+* __Investment__: [Chipiron: Portable Mini-MRI Revolutionizing Healthcare](f99fa5e02647a517b709d5b44f85fd5c)
+* __Investment opportunities in cybersecurity__: [The Growing Investment Opportunity in Cybersecurity](211803931bfabc324f12ad1524640ef1)
+* __Investment strategies__: [Growing Adoption of Alternative Data by Investors](6df05418720b20b7f2cec0056111cae6)
+* __Investments__: [Forensic Accountant Uncovers Misuse of FTX Customer Funds](17ba5a58a46a82b87b07d34fc928493e)
+* __Investor relations industry__: [Marvel Comics: Revolutionizing Investor Relations](4a82d13416aa639187f912c1c8282e0f)
+* __Invisibility cloak__: [Adversarial Attacks on Object Detectors](76e3d69311e52896aa5c56f01119652f)
+* __Invisible qr codes__: [AI Revolutionizes Aesthetics in QR Code Design](86c30e78e9e57491499a5be2fc2616d3)
+* __Iphone hacking__: [Hackers Can Spam iPhones with Annoying Pop-ups](a94bc00d909eee777b372b65a0eedda5)
+* __Isolation__: [The Radical Power of Hanging Out](edbb7336dfb26098bcc966ca17c074b9)
+* __It security__: [Chaos Computer Club Announces 37th Chaos Communication Congress (37C3)](bcff5643d6572db7c8c9d2bffc215812)
 
 ## Letter 'J' 
 
 
-* __japanese proprietors__: 
-* __job creation__: 
-* __job cuts__: 
-* __job displacement__: 
-* __job losses and job market__: [The Impact of AI on Ad Agency Jobs](54491b49e9fd2c6eab777dca0ba67e76)
-* __job replacement by ai__: 
-* __job search process__: 
-* __job security__: [The Process of Re-Applying for Jobs](3389421f891eacb4a2700199f1d4fd60), ["Career Cushioning: Protecting Your Future"](9f6a82373421931ea7e960ae526ff457)
-* __job title inflation__: 
-* __jolly roger telephone__: 
-* __journaling as a personal development practice__: [GPT-3 as a Powerful Journaling Tool](d55af8b33e1f586f692dd1ac595444c6)
-* __joy__: 
+* __Japanese proprietors__: [The Unique Experience of Tokyo's Audiophile Bars](0505a73ce4b14c86bd62f374ef83abc9)
+* __Job creation__: [The Rise of Digitally-Native Jobs](958440479631741e825e5e27207d7a94)
+* __Job cuts__: [Accenture to Cut 19,000 Jobs Worldwide](ca4e056c63caa99162778073ba814ac1), [Amazon Begins Largest Layoffs in Company History](e2fe1bd7fb9483f84f90a2bd41c8c35d), [BT to Cut 55,000 Jobs with AI Replacements](da0fa1a06318988fea10c8218d2e8c47)
+* __Job displacement__: [The Future of Tech and Society](074f7e40545f4b8edc9bdefa00b02f7b)
+* __Job losses and job market__: [The Impact of AI on Ad Agency Jobs](54491b49e9fd2c6eab777dca0ba67e76)
+* __Job replacement by ai__: [Accenture to Invest $3 Billion in AI and Data Practice](27843e5a73ef87ecc09722d675599621)
+* __Job search process__: [The Frustrations of Resume-First Hiring Processes](1f0fcccf6722a171ed692551071fb066)
+* __Job security__: [The Process of Re-Applying for Jobs](3389421f891eacb4a2700199f1d4fd60), ["Career Cushioning: Protecting Your Future"](9f6a82373421931ea7e960ae526ff457)
+* __Job title inflation__: [The Rise and Consequences of Job Title Inflation](44cf553e3e10402a0686ceb5ba819f81)
+* __Jolly roger telephone__: [ChatGPT: A Weapon Against Telemarketers](fae2a94efbea75250fc5914ef7d16991)
+* __Journaling as a personal development practice__: [GPT-3 as a Powerful Journaling Tool](d55af8b33e1f586f692dd1ac595444c6)
+* __Joy__: [Architecting Joy: The Path to Lasting Happiness](ec3b733c80a9fc0239d120b8450c979b)
 
 ## Letter 'K' 
 
 
-* __k-selected software__: 
-* __key rotation__: 
-* __kgb operations__: 
-* __kindle scribe features__: 
-* __knowledge__: [Richard Feynman's One Sentence for the Next Generation](f74cce891f9a28209838900562566179), [Explicit Knowledge: Easily Accessible and Transmittable](fcaebc86f2f475af184eaa545a624a2c)
-* __knowledge bases__: [AI Agents in Cross Knowledge Base Search](b310338b1d3a90c8604a66294f636f65)
-* __knowledge dissemination__: [Boosting Productivity and Satisfaction with Generative AI](01bec9add8819c277aad7d7ba19983f7)
-* __knowledge extraction__: 
-* __knowledge graph__: [From Raw Text to Wikidata Taxonomy](b4b3684ed3f7fe2919c76e36d4838cd9)
-* __knowledge graph embedding__: 
-* __knowledge graph extraction__: 
-* __knowledge graph-based chatbot__: 
-* __knowledge graphs__: 
-* __knowledge representation__: [The Power of Ontologies in Finance](2fabc8d492124376829f91c34f828437)
-* __kostenbelastung im gesundheitssystem__: 
+* __K-selected software__: [Is Open Source R-Selected?](79846636fe0c4d77f026c76ec0964344)
+* __Key rotation__: [GitHub Rotates Exposed Private SSH Key](3c77982c24c808d06150b383d1fe7c50)
+* __Kgb operations__: [The Long-Term Plan to Subvert America](17a923241feb2adea077d064eccc615b)
+* __Kindle scribe features__: [Amazon Unveils Kindle Scribe, a Tablet-like Ebook Reader](69637dcd83c48ebde0610a61a27b1989)
+* __Knowledge__: [Richard Feynman's One Sentence for the Next Generation](f74cce891f9a28209838900562566179), [Explicit Knowledge: Easily Accessible and Transmittable](fcaebc86f2f475af184eaa545a624a2c)
+* __Knowledge bases__: [AI Agents in Cross Knowledge Base Search](b310338b1d3a90c8604a66294f636f65)
+* __Knowledge dissemination__: [Boosting Productivity and Satisfaction with Generative AI](01bec9add8819c277aad7d7ba19983f7)
+* __Knowledge extraction__: [Extracting Knowledge from Unstructured Text](5d04744a3bee2ab6564f5e2ff60136d8)
+* __Knowledge graph__: [Building Academic Knowledge Graph with OpenAI & Graph Database](b4486b71505e7322a530fb28cd275f82), [From Raw Text to Wikidata Taxonomy](b4b3684ed3f7fe2919c76e36d4838cd9)
+* __Knowledge graph embedding__: [Knowledge Graph Completion with PyKEEN and Neo4j](cf89c459835545c2316563d156cf42db)
+* __Knowledge graph extraction__: [LLM Ontology-prompting for Knowledge Graph Extraction](c25a3f9ba3a55dd2d2a3f4c0c19693c6)
+* __Knowledge graph-based chatbot__: [Building a Context-Aware Knowledge Graph Chatbot with GPT-4 and Neo4j](af12c099700e76b62f6990530a12edfa)
+* __Knowledge graphs__: [Fine-Tuning LLM With KG for Complex Questioning](1e080fc96c467f596f5555f74332267b), [LangChain Adds Cypher Search for Efficient Information Retrieval from Neo4j](f43094a456dc947dabd541b510f86856), [HowTo: Generating a Knowledge Graph from a Mermaid Entity Relationship Model](03920ec25887e9533ca00b84a67db724), [Knowledge Graphs & LLMs: Multi-Hop Question Answering](0184d23e59d3dc6772ba06c6634f033b), [Bridging Knowledge Graphs and Large Language Models](fa3124e38f66a8d1e635e863f43d1ec0), [IntelligentGraph: Embedded Analytics for Knowledge Graphs](b5edec166878e4119b62bd9446a6e214)
+* __Knowledge representation__: [The Power of Ontologies in Finance](2fabc8d492124376829f91c34f828437)
+* __Kostenbelastung im gesundheitssystem__: [Hardware Replacement for German Health Data Network Unnecessary, Says Chaos Computer Club](da08e20881548c71478cec75549ec48c)
 
 ## Letter 'L' 
 
 
-* __labor__: [The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger](c14b3ca07efcef0d44a6af30501c76c1), [Florida's Undocumented Population Faces Mass Exodus](3002f8c37aa3a21ff809ef9530368f00)
-* __labor market__: [Potential Job Automation Sparks AI Disruption](8bf628f811052831ab699f75caeb0205)
-* __labor market disruption__: 
-* __labor market effects__: 
-* __labor rights__: 
-* __labor shortage in the construction industry__: 
-* __labor shortage in the logistics industry__: 
-* __labor shortages in state and local governments__: 
-* __labour exploitation__: [The Indelible Hulk: A History of Prison Ships](d658f4fa7fa777631af90889ec739234)
-* __labour market__: [The Future of Jobs Report 2023: Evolving Job Trends and Skills](4abade09451838c25631bf9da940b724)
-* __labour rights__: [Dark Side of India's Tech Sector](6ed5fdeafa587adf125587208fb0e01b)
-* __lack of control and security over personal data in cars__: 
-* __lack of plant knowledge__: [The Disappearing Knowledge of Plants](e23590dbe6aa22752002fb616fba5004)
-* __lack of regulation__: 
-* __langages de programmation__: [The Decline of Cobol Programmers](6062bbe324042e8bde50ca43b821a182)
-* __langchain framework__: 
-* __language ai__: 
-* __language and communication__: [The Importance of Long-Terminology](a963fcddede6fce55e0d02b040bbcd8a)
-* __language and literacy challenges in senegal__: 
-* __language disparity__: 
-* __language learning__: 
-* __language models__: [A Comprehensive Guide to Autonomous Agents with GPT](2dda4be3e1a9f11b4f7d8e74feea76b0)
-* __language processing__: [AI Unlocks Human Brain's Secrets](e43c70d1c8c34f4587722ef456132b41)
-* __large language models__: 
-* __lawsuit__: [Writers Sue OpenAI Over Copyright Infringement](a238d311a34b43af7599af5c8ad1e41f)
-* __lawsuits against tesla__: 
-* __leadership__: [Single-Threaded Leadership: A Key Organizational Design Concept at Amazon](f7c3cefc5b83fbd9df3507bdad7ff3fe)
-* __learning from the past__: 
-* __legacy of deceased artists__: [Celebs Making Bank in the Afterlife](da88628cf97bad8667f8f0afe51d01cc)
-* __legal protections for security researchers__: [Belgium Introduces Strong Legal Protections for Security Researchers](8ae26b7eeafce0d7e88a3f1e7cadcfd7)
-* __legal sector__: 
-* __legislation__: [New Zealand passes legislation banning cigarettes for future generations](57094f3730835fe172d0f95667a01312)
-* __legislative process__: 
-* __les plus qu’humains__: 
-* __lessons for healthcare startups__: 
-* __letter writing__: 
-* __levels of potential success__: [Evaluating GPT Startups: The Three-Hills Model](d1df6602870d6b0ed820af0e9ab76a80)
-* __license plates__: 
-* __life cycle of insects__: 
-* __life expectancy__: [Redefining Old Age](e9338e8177e66b338acd8753cbe0e3cf)
-* __life history strategies__: 
-* __life sciences__: 
-* __lifelong learning__: 
-* __limitations__: [The Power of Autonomous Agents: Promises and Limitations](0e336ce2e4b07459b257407e90d27389)
-* __limitations and boundlessness__: 
-* __limitations and risks of llms__: 
-* __limitations of ai models__: 
-* __limitations of language models__: [Wordcraft: AI-Powered Writing Workshop and Tools](3acd488d3b86b4637bd78d0f3f3e0e65)
-* __limitations of llms__: 
-* __limited edition__: 
-* __linguistics__: [The Rules of Language and Linguistics](587c21780f97f331b4d2c859240e09e9), [Linguist Pursued in Dystopian Epidemic](63868d73fd4f4dff913a3bc85d42fa6b)
-* __linkedin as a tool for espionage__: 
-* __linking businesses to the global economy__: [Thriving Locally in the Global Economy](b0f9303688b3f36feafd21625c5d3461)
-* __literary analysis__: 
-* __literary movements__: [The Rise of Hopepunk: Celebrating Goodness in Literature](64d142fad56dfd6c613858f7f5aa0a1e)
-* __literature__: [More Than Human: A Tale of Extraordinary Abilities](77595bdbe88b77ce40b280494110bbf5), [The Importance of Science Fiction](8ebb431ce8d949d5a1ecb52bbd42a69f)
-* __lithium__: 
-* __litigation funding industry__: [Litigation Funding: The Unregulated and Expanding Industry](4e8e2c73e225932e90e085ff0a36da60)
-* __livestock grazing__: [Solar Grazing: Livestock on Solar Farms](8d9cdb24d214893227785b130ca60240)
-* __livestreaming content__: 
-* __living complexity__: [The Power of Simplicity in Living Systems](628eabb2a1ffbe7b0e6865d9367c32de)
-* __living systems__: 
-* __llama__: 
-* __llm__: 
-* __llm-powered applications__: 
-* __llms__: 
-* __llms and neo4j__: 
-* __llms in defense and national security applications__: 
-* __lobbying__: [New York's Right-to-Repair Bill and Lobbyist Influence](c43f57be38bbfef16e25047b07cd9d5d)
-* __lobbying and influence__: 
-* __local realism__: [Quantum Mechanics Defies Local Realism](cfa7b88cc31a76b552fd670d315800cc)
-* __local vitality__: [Thriving Locally in the Global Economy](b0f9303688b3f36feafd21625c5d3461)
-* __loneliness among seniors__: 
-* __long covid__: 
-* __long tail__: 
-* __long-term archiving__: 
-* __long-term cruising as an alternative to retirement__: 
-* __long-term planning__: 
-* __long-term thinking__: [The Importance of Long-Terminology](a963fcddede6fce55e0d02b040bbcd8a)
-* __longer life spans and working longer__: [Older Workers Return to Workforce](feb0555f9c54012995fdac8ef2410b8e)
-* __longevity funding__: 
-* __low birthrate__: 
-* __low-background steel__: [The Legacy of Nuclear Testing: Low-Background Steel](fd957af83036959652ceb25c652a97c9)
-* __luck__: [Increasing Luck through Work and Publication](0a1e31b7c3c14eedf08021f6bd5ebdfc)
-* __luxury brand__: [Prada Seeds: Blooming Luxury with Fall Flowers](477eb369e45ddd2deab9a1d75fd105ec)
-* __luxury brand partnerships__: 
-* __luxury watches__: [The Secondhand Watch Revolution](d41096d7ca7f38f50a5dbfeef8b3c398)
+* __Labor__: [The Box: How the Shipping Container Made the World Smaller and the World Economy Bigger](c14b3ca07efcef0d44a6af30501c76c1), [Florida's Undocumented Population Faces Mass Exodus](3002f8c37aa3a21ff809ef9530368f00)
+* __Labor market__: [Potential Job Automation Sparks AI Disruption](8bf628f811052831ab699f75caeb0205)
+* __Labor market disruption__: [The Impact of AI on Society: Part 1](cf119665e47c7434e3e3c54dbbc585e3)
+* __Labor market effects__: [Long COVID and Disability Rates](0248f1b6d72f8bb9c984f24db0569a3f)
+* __Labor rights__: [Massive Strike at University of California](4f1f3ae403592fef4bbb29a4f90c419a)
+* __Labor shortage in the construction industry__: [Construction Industry Faces Extreme Labor Shortage](9439e069670182ab70d681f007704c33)
+* __Labor shortage in the logistics industry__: [The "2024 Problem" Looms Over Japan's Logistics Industry](4b449b550cc2d52a68de9a3148a0f321)
+* __Labor shortages in state and local governments__: [The Growing Crisis of Public Worker Shortages](712282cfc63ea5f0d674c24ec2748d53)
+* __Labour exploitation__: [The Indelible Hulk: A History of Prison Ships](d658f4fa7fa777631af90889ec739234)
+* __Labour market__: [The Future of Jobs Report 2023: Evolving Job Trends and Skills](4abade09451838c25631bf9da940b724)
+* __Labour rights__: [Dark Side of India's Tech Sector](6ed5fdeafa587adf125587208fb0e01b)
+* __Lack of control and security over personal data in cars__: [Privacy Nightmare: How Car Brands Collect and Share Your Data](d36bfc24eaef43d38c611b9c8d2491d0)
+* __Lack of plant knowledge__: [The Disappearing Knowledge of Plants](e23590dbe6aa22752002fb616fba5004)
+* __Lack of regulation__: [Sale of Americans' Mental Health Data](d7e132b0dc94474c05f6109c82cf9878)
+* __Langages de programmation__: [The Decline of Cobol Programmers](6062bbe324042e8bde50ca43b821a182)
+* __Langchain framework__: [Getting Started with LangChain: A Beginner’s Guide to Building LLM-Powered Applications](8dbe5c04a6ddbbb51645e5d8e8af3adc)
+* __Language ai__: [Using NLP to Build a Competitive Moat](feeb207dfea30efb1d5bf73503fd22a4)
+* __Language and communication__: [The Importance of Long-Terminology](a963fcddede6fce55e0d02b040bbcd8a)
+* __Language and literacy challenges in senegal__: [WhatsApp Voice Notes Revolutionize Senegalese Farming](d5f874ef30655365d7ea23f43f46f7c1)
+* __Language disparity__: [Language Disparity in Tokenization Process](d665bd80eab0306d0688daeded670533)
+* __Language learning__: [OpenAI API Offers ChatGPT and Whisper Models for Cutting-Edge Language and Speech Capabilities](f32225d82f694ac574f0d39580ff68ad)
+* __Language models__: [MistralOrca: OpenOrca Dataset Fine-tuned on Mistral 7B](e69dcd964ee3d865e155042c8fb38cc5), [The Rise of Prompt Engineering: Programming in Prose to Unlock AI's Potential](53018e7a9d2e14b74909db8761a9cd9d), [Sparks of Artificial General Intelligence: GPT-4's Potential](d7a339503dbb7c228209c98702d1afcf), [A Comprehensive Guide to Autonomous Agents with GPT](2dda4be3e1a9f11b4f7d8e74feea76b0)
+* __Language processing__: [AI Unlocks Human Brain's Secrets](e43c70d1c8c34f4587722ef456132b41)
+* __Large language models__: [Large Language Models in OSINT Workflow](5cf4407dc6fa3889e047c658e27c4ccf), [Bridging Knowledge Graphs and Large Language Models](fa3124e38f66a8d1e635e863f43d1ec0)
+* __Lawsuit__: [Writers Sue OpenAI Over Copyright Infringement](a238d311a34b43af7599af5c8ad1e41f)
+* __Lawsuits against tesla__: [Fatal Tesla Autopilot Crash Reveals Human Error and Technology Challenges](b8f977d6173309879b7e4e8b478210c0)
+* __Leadership__: [The Infinite Game: Applying Leadership Strategies](54d1f8c7676710e22272e828c43e9934), [Single-Threaded Leadership: A Key Organizational Design Concept at Amazon](f7c3cefc5b83fbd9df3507bdad7ff3fe)
+* __Learning from the past__: [Vintage Tech: Keeping the Past Alive](2a98922fc3676ea6365782ce075cf589)
+* __Legacy of deceased artists__: [Celebs Making Bank in the Afterlife](da88628cf97bad8667f8f0afe51d01cc)
+* __Legal protections for security researchers__: [Belgium Introduces Strong Legal Protections for Security Researchers](8ae26b7eeafce0d7e88a3f1e7cadcfd7)
+* __Legal sector__: [Hackers-for-Hire Targeting Law Firms](86eed7596de75b410b471fb8618f4be3)
+* __Legislation__: [Peters and Portman Introduce Bipartisan Legislation to Help Secure Open Source Software](16272c1d533831db63a0ff3aa067f09e), [New Zealand passes legislation banning cigarettes for future generations](57094f3730835fe172d0f95667a01312)
+* __Legislative process__: [The Impact of AI on Lobbying and Microlegislation](c47825b39c3c52d3b664efa5201aca44)
+* __Les plus qu’humains__: [The Impact of Science Fiction](639666c373af6d226b476fa5240948cb)
+* __Lessons for healthcare startups__: [Lessons from 2022: Digital Health Funding Trends](94a0e8fa4feeea0751c7d3ea8ffd1302)
+* __Letter writing__: [A Proposal for a Letter Circle](e0dd77b135a529ee920c59b0fc1e1059)
+* __Levels of potential success__: [Evaluating GPT Startups: The Three-Hills Model](d1df6602870d6b0ed820af0e9ab76a80)
+* __License plates__: [The Low Plate Lottery Edition](8344727f836d6fb68dbe38fee5389654)
+* __Life cycle of insects__: [The Remarkable Metamorphosis of Insects](c2544a0a5298530b102bb76ca874b3d5)
+* __Life expectancy__: [Redefining Old Age](e9338e8177e66b338acd8753cbe0e3cf)
+* __Life history strategies__: [r/K Selection Theory](b22f6127f5116f8cfd09817f672db4c3)
+* __Life sciences__: [Oxford Properties and Novaxia Partner to Accelerate Growth of Life Sciences Sector in France](8171dbd0f0c22627933407c381911fa4)
+* __Lifelong learning__: [Voyager: An Open-Ended Embodied Agent](8af9bffc11d191445956ffcef1627c38)
+* __Limitations__: [The Power of Autonomous Agents: Promises and Limitations](0e336ce2e4b07459b257407e90d27389)
+* __Limitations and boundlessness__: [The Power of Possibility Spaces](e27673c6f795ce9dc01f9d48bedfbc30)
+* __Limitations and risks of llms__: [The Rise of LLMs in Defense Content Analysis](6335d1cfa75abf9650361efd7b529149)
+* __Limitations of ai models__: [Strange Keywords Break OpenAI's Chatbot](5b81715df0a0f5578205ba6139f4ef03)
+* __Limitations of language models__: [Wordcraft: AI-Powered Writing Workshop and Tools](3acd488d3b86b4637bd78d0f3f3e0e65)
+* __Limitations of llms__: [Limitations of LLMs and Overcoming Them](9fd8c7460fe2d17a54694de66ebd64ca)
+* __Limited edition__: [Artisanal Intelligence: The Spawn Collection](b1b8a02e5d2badf1881b81741a66ba86)
+* __Linguistics__: [The Rules of Language and Linguistics](587c21780f97f331b4d2c859240e09e9), [Linguist Pursued in Dystopian Epidemic](63868d73fd4f4dff913a3bc85d42fa6b)
+* __Linkedin as a tool for espionage__: [Impersonation on LinkedIn Exposes State-Backed Hacking Group's Tactics](70325897f9ce546581ee8a0967e10b09)
+* __Linking businesses to the global economy__: [Thriving Locally in the Global Economy](b0f9303688b3f36feafd21625c5d3461)
+* __Literary analysis__: [The Seven Basic Plots: Why We Tell Stories](6e4c77b94dc98f1c752477e4840c37cb)
+* __Literary movements__: [The Rise of Hopepunk: Celebrating Goodness in Literature](64d142fad56dfd6c613858f7f5aa0a1e)
+* __Literature__: [More Than Human: A Tale of Extraordinary Abilities](77595bdbe88b77ce40b280494110bbf5), [The Importance of Science Fiction](8ebb431ce8d949d5a1ecb52bbd42a69f)
+* __Lithium__: [The Salt of the Cosmos](fa8cbd7fc0beae839d485f07ed3b6dff)
+* __Litigation funding industry__: [Litigation Funding: The Unregulated and Expanding Industry](4e8e2c73e225932e90e085ff0a36da60)
+* __Livestock grazing__: [Solar Grazing: Livestock on Solar Farms](8d9cdb24d214893227785b130ca60240)
+* __Livestreaming content__: [TikTok Trend: Creators Become NPCs](74bbfc00e17b6b73f8afd958f1a4725c)
+* __Living complexity__: [The Power of Simplicity in Living Systems](628eabb2a1ffbe7b0e6865d9367c32de)
+* __Living systems__: [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
+* __Llama__: [GPT4All: Local ChatGPT Simplification](280062047a4f4c0db1811e6ca41703d0)
+* __Llm__: [LLM Ontology-prompting for Knowledge Graph Extraction](c25a3f9ba3a55dd2d2a3f4c0c19693c6), [Fine-Tuning LLM With KG for Complex Questioning](1e080fc96c467f596f5555f74332267b)
+* __Llm-powered applications__: [Getting Started with LangChain: A Beginner’s Guide to Building LLM-Powered Applications](8dbe5c04a6ddbbb51645e5d8e8af3adc)
+* __Llms__: [Safety Concerns and Automated Attacks on Large Language Models](74c58b0ca359725b4a116ff765656c7c)
+* __Llms and neo4j__: [Extracting Knowledge from Unstructured Text](5d04744a3bee2ab6564f5e2ff60136d8)
+* __Llms in defense and national security applications__: [The Rise of LLMs in Defense Content Analysis](6335d1cfa75abf9650361efd7b529149)
+* __Lobbying__: [The Impact of AI on Lobbying and Microlegislation](c47825b39c3c52d3b664efa5201aca44), [New York's Right-to-Repair Bill and Lobbyist Influence](c43f57be38bbfef16e25047b07cd9d5d)
+* __Lobbying and influence__: [Data Brokers' Lobbying Expenditure Rivals Big Tech Firms](8bc87c35679e6c4bea07f47e1c503d58)
+* __Local realism__: [Quantum Mechanics Defies Local Realism](cfa7b88cc31a76b552fd670d315800cc)
+* __Local vitality__: [Thriving Locally in the Global Economy](b0f9303688b3f36feafd21625c5d3461)
+* __Loneliness among seniors__: [Dutch Supermarket Fights Loneliness with Slow Checkout Lane](f96c785471cb0d424e7238d6b7c544e5)
+* __Long covid__: [Long COVID and Disability Rates](0248f1b6d72f8bb9c984f24db0569a3f), [Long-Term Effects of Covid: Findings and Uncertainties](b1b5f0564e486b3e1f123da956f6b1a6), [The Ongoing Battle with Long Covid](c47cb1fe2b4ae786edcfe793f7c528c2)
+* __Long tail__: [The Long Tail: Internet's Niche Business](1c59289b8b0df3c789f86f9b3159370d)
+* __Long-term archiving__: [The Digital Dark Age: Preserving Our Digital Heritage](86e67181c4dcbce08848023aa2929bcb)
+* __Long-term cruising as an alternative to retirement__: [Is Living on a Cruise Ship Cheaper Than a Retirement Home?](3f93494c0a224e19c9a86b8b566bb280)
+* __Long-term planning__: [Well-being of Future Generations Act in Wales](3938700a79bbde32972657f9eb7b1b69)
+* __Long-term thinking__: [The Importance of Long-Terminology](a963fcddede6fce55e0d02b040bbcd8a)
+* __Longer life spans and working longer__: [Older Workers Return to Workforce](feb0555f9c54012995fdac8ef2410b8e)
+* __Longevity funding__: [Spannr 2022 Longevity Funding Report](cf3c921bb1bef1b55c7d67ea712f9a1b)
+* __Low birthrate__: [Japan's Letter-Writing Matchmaking Scheme](ec9cf2ccb630113e57cfdd18230f129a)
+* __Low-background steel__: [The Legacy of Nuclear Testing: Low-Background Steel](fd957af83036959652ceb25c652a97c9)
+* __Luck__: [Increasing Luck through Work and Publication](0a1e31b7c3c14eedf08021f6bd5ebdfc)
+* __Luxury brand__: [Prada Seeds: Blooming Luxury with Fall Flowers](477eb369e45ddd2deab9a1d75fd105ec)
+* __Luxury brand partnerships__: [The Rise of Virtual Humans in China](ed6be3a2a502c8a0bedd63d8ab1c8d9e)
+* __Luxury watches__: [The Secondhand Watch Revolution](d41096d7ca7f38f50a5dbfeef8b3c398)
 
 ## Letter 'M' 
 
 
-* __machine learning__: [Computer Chip with Human Brain Tissue Receives Military Funding](fcf584bddde6a0c4ccaf5ab8eadded1e)
-* __macro trends__: 
-* __maintenance and repair__: [The Importance of Maintenance in a Changing World](027558bc932f10b574b0608c17e61026)
-* __management practices for adapting to change__: 
-* __managerial role__: [Quiet Quitting Crisis: Decline in U.S. Workforce Engagement](1e45d2fc84595f57564761a068038652)
-* __manipulation__: [The Threat of Authoritarian Intelligence](0ba4fa557cd2aae4760bd7a2abca844e), [Gaslighting: The Word of Deception](d4e40db973527ce595cc72255dc83220)
-* __manipulation of ai__: 
-* __manipulation of behavior__: [Unraveling the Mind Control of Zombie Flies](7716ffd31f1b9f566bacf04995fd94f9)
-* __manipulation of gdp data by dictators__: 
-* __manipulation of voters__: [The Potential Impact of AI on Elections](3958ff20e8489240e2461aa8d0eee7b5)
-* __manipulation tactics__: [Democracy's Battle Against Viral Misinformation](56d1a28746cd95ebaa3d62a4e1f91c3a)
-* __map projection__: [Valeriepieris Circle: A Global Population Phenomenon](6ab95ef7d3a59b67b7851af561ed903b)
-* __mapping__: 
-* __marine biodiversity__: [Restoring Coral Reefs Using Sound](a69be6c012f19d3a97137c13bbbc9eb2)
-* __marine biology__: [The Hidden World of Copepods](72f38771bb0e524e59d49cde66f9db5e)
-* __marine life__: [Natural Sounds Take on Military Sonar](21724ff06f805efad0fe188ab899b1cc)
-* __marketing evolution__: 
-* __marvel comics__: 
-* __massachusetts lottery__: 
-* __matchmaking__: 
-* __materials science__: [Thermoformable Ceramics: A New Frontier in Materials](bd35b1587de303b44a62d0e99fb749fc), [Aluminium Oxynitride: A Transparent Ceramic](e876b9aff5eeb4d2818cf0c621214c38)
-* __mathematics__: [Mathematicians Discover Shape with Non-Repeating Pattern](878524351f159f818bc2c8ebcd95c0d7)
-* __mathématiques__: 
-* __maximizing ai potential__: 
-* __mcdonald’s ice cream machine__: 
-* __mcu programming__: 
-* __mechanical vs quartz__: [The Rise of Hybrid Watchmaking](3c8e50874cd8552a38f5adab70ccd2b7)
-* __medical records management__: [Bad software destroyed my doctor's memory](976f66dccf4086981111e810d0160229)
-* __medical research__: [The Discovery of Rapamycin: A Life-Saving Wonder Drug](d2f6f44b2ec2806fd1695aa4450cd9ee)
-* __medical technology__: [Ultrasonic Wireless 'Neural Dust' Sensors Monitor Nerves, Muscles in Real Time](feadfd4aa3133e938a6f6e6d7d2c018e), [Chipiron: Portable Mini-MRI Revolutionizing Healthcare](f99fa5e02647a517b709d5b44f85fd5c)
-* __medical use of psychedelics__: 
-* __memory preservation__: [New AI Tools Preserve Memories of Deceased Relatives](b7dd6fe41c7bd9a4a04c30adfd020de4)
-* __memory retention__: [The Power of Handwritten Notes](558751c7b3dba31bf91330d72c41d5b3)
-* __menopause retreats__: [The Rise of Menopause Retreats](045add002e344d1657fe658e0ebe6b41)
-* __mental focus__: 
-* __mental health__: 
-* __mental health prioritization in beauty__: [The Rise of PSYCARE in Beauty](b396d58ff64cbfdfe136c278b263ee5a)
-* __mental health services__: 
-* __mergers and acquisitions__: [The Battle for Publishing's Soul](6f56632efb0caa5753792bd870d5a6ff)
-* __meta trends__: 
-* __metadata and ontologies__: 
-* __metagpt framework__: 
-* __metals extraction__: [The Rise of Deep-Sea Mining](5bbc958cd9d41c08482acdaa4ac033e4)
-* __metals recycling__: 
-* __metamorphosis__: [Brain Rewiring During Insect Metamorphosis](bcf5820227220a93cb3923e1d8c64a6c)
-* __metaverse__: [Balabala Makes Virtual Move with Gu Yu](c9ec4ffbfe911a0c5d04e95d8fa17e77)
-* __microbes__: [Protein Nanowire Provides Clues to Combating Climate Change](b9bff2b9003a2ceb046c598703e0c939)
-* __microbes and predators__: 
-* __microbial activity__: [Microbes: Active Engineers in Earth's Rock-to-Life Cycle](8a76baaa6df38b98c48c0635d103a5a0), [Importance of Microbial Activity on Glaciers](4b6734ef8815047f0eb71a170c13af9d)
-* __microbial diversity__: 
-* __microbial interaction__: [Cross-Kingdom Partnership Creates Superorganism](2af3e931e394e21223d8e983e2dd43b7)
-* __microbiome__: 
-* __microorganism manipulation__: 
-* __microphone jamming__: 
-* __microsoft ai__: 
-* __microsoft teams__: 
-* __microsoft teams premium__: 
-* __migratory patterns__: [Surprising Synchronicity: Great White Sharks Travel Together](54cd29480e753c756579b2a053fea120)
-* __military__: [Selfie Reveals Location of China's Alleged Spy Balloon](f5bc316f1ab2ef2669f76e3f5212b863)
-* __military equipment__: [Corvo Cardboard Drones: Low-Cost Reconnaissance and Transport in Ukraine](4432c5315ea4b0118213c037d1d4f87e)
-* __military installations__: [U.S. Air Force Selects Oklo's Microreactor for Alaska Base](edbef1e1c31b764b47d554fa131a5ea6)
-* __military response to potential threats__: 
-* __military technology__: 
-* __mindfulness__: 
-* __mineral extraction__: 
-* __minimalist phones__: [The Resurgence of Dumb Phones in the US](29806fd07d41c5c25550b367b80f445c)
-* __minix as an operating system__: 
-* __minix in intel cpus__: 
-* __misinformation__: [Gaslighting: The Word of Deception](d4e40db973527ce595cc72255dc83220)
-* __misinformation and propaganda__: 
-* __mistrust between clients and freelancers__: 
-* __misunderstood activity__: 
-* __misuse of ai language models__: 
-* __misuse of ai-generated content__: 
-* __misuse of customer funds__: 
-* __misuse of deepfake technology__: 
-* __ml security__: 
-* __mobile production__: 
-* __model performance__: 
-* __model provenance__: 
-* __model release__: [Stable Diffusion Public Release](09e12f5c07382efea39163ed3274098a)
-* __model training__: 
-* __model usage__: 
-* __modernization__: 
-* __monetization of ai__: 
-* __monitoring natural phenomena__: 
-* __morality__: 
-* __mortality__: 
-* __mosquito biology and blood-feeding mechanisms__: 
-* __motion diffusion__: [Human Motion Diffusion Model (MDM): A Generative Approach for Natural and Expressive Human Motion](07bcf7d8e29d33f8438f4b35a7f15021)
-* __movie review__: [Glass Onion: A Knives Out Mystery](2635806aedc11d6ca9c3ca9a7520c586)
-* __movies__: [Weekly Reflections and Creative Inspiration](1bc6c11e394022139f8af61a7554a7ec)
-* __multi-hop reasoning__: 
-* __murder mystery__: [A Memory Called Empire: Political Intrigue and Deadly Secrets in Teixcalaan](2d4b47a47cd08aaa542939967329f027)
-* __music__: [Weekly Reflections and Creative Inspiration](1bc6c11e394022139f8af61a7554a7ec)
-* __music distribution__: [GrimesAI Partners with Elf.Tech for AI-Generated Music](60c07fb2fe0247877a8e0c8b64c26a82)
-* __music industry__: [Celebs Making Bank in the Afterlife](da88628cf97bad8667f8f0afe51d01cc)
-* __musique__: [The Body's Music](17fb3271515aa45a48bdc4539ade0be0)
-* __mvp definition__: 
-* __myceliotronic material__: 
-* __mystery__: 
-* __mystery shopping industry__: 
-* __mythology__: 
-* __ménage pré-mortem__: [The Art of Preparing for Death](f38d21b83e092ffde66a379c439ec010)
+* __Machine learning__: [Semantic Similarity Classifier and Sentence Clustering](d4a91d7a61a78e1e08b96ae466d76000), [Unpredictable AI: When Machines Outsmart Humans](48f89d6d7e552a0a5b1f6b59d7eeb0e9), [AI Detects Chicken Distress Calls](00d042b803c0388634125c2ea6caab24), [Computer Chip with Human Brain Tissue Receives Military Funding](fcf584bddde6a0c4ccaf5ab8eadded1e), [Backdooring a summarizerbot to shape opinion](4d1abdf7e702b559c6ccff847ce4d8d0)
+* __Macro trends__: [Array of Toolkits for Future Studies](1627c349466b12746bafae14c5c576eb)
+* __Maintenance and repair__: [The Importance of Maintenance in a Changing World](027558bc932f10b574b0608c17e61026)
+* __Management practices for adapting to change__: [Coping with Rapid Technological Change: Strategies for Survival](14a8b49f5342c0428f8f03db633c57d5)
+* __Managerial role__: [Quiet Quitting Crisis: Decline in U.S. Workforce Engagement](1e45d2fc84595f57564761a068038652)
+* __Manipulation__: [The Threat of Authoritarian Intelligence](0ba4fa557cd2aae4760bd7a2abca844e), [Gaslighting: The Word of Deception](d4e40db973527ce595cc72255dc83220), [Backdooring a summarizerbot to shape opinion](4d1abdf7e702b559c6ccff847ce4d8d0)
+* __Manipulation of ai__: [The Malevolence of ChatGPT: A Call for Destruction](9b21fce377880166b73916aee2be1fc0)
+* __Manipulation of behavior__: [Unraveling the Mind Control of Zombie Flies](7716ffd31f1b9f566bacf04995fd94f9)
+* __Manipulation of gdp data by dictators__: [Dictators' Deception: Lights Expose Economic Lies](40c2db3bc4702bff2612a3faba89097a)
+* __Manipulation of voters__: [The Potential Impact of AI on Elections](3958ff20e8489240e2461aa8d0eee7b5)
+* __Manipulation tactics__: [Democracy's Battle Against Viral Misinformation](56d1a28746cd95ebaa3d62a4e1f91c3a)
+* __Map projection__: [Valeriepieris Circle: A Global Population Phenomenon](6ab95ef7d3a59b67b7851af561ed903b)
+* __Mapping__: [Generating Maps with prettymaps](181171c9876b970c08eb60fb31a3cb9f)
+* __Marine biodiversity__: [Restoring Coral Reefs Using Sound](a69be6c012f19d3a97137c13bbbc9eb2)
+* __Marine biology__: [The Hidden World of Copepods](72f38771bb0e524e59d49cde66f9db5e)
+* __Marine life__: [Natural Sounds Take on Military Sonar](21724ff06f805efad0fe188ab899b1cc)
+* __Marketing evolution__: [The Future is Elastic!](07f58082de6736a23fae6143ab961f07)
+* __Marvel comics__: [Marvel Comics: Revolutionizing Investor Relations](4a82d13416aa639187f912c1c8282e0f)
+* __Massachusetts lottery__: [The Low Plate Lottery Edition](8344727f836d6fb68dbe38fee5389654)
+* __Matchmaking__: [Japan's Letter-Writing Matchmaking Scheme](ec9cf2ccb630113e57cfdd18230f129a)
+* __Materials science__: [Thermoformable Ceramics: A New Frontier in Materials](bd35b1587de303b44a62d0e99fb749fc), [Aluminium Oxynitride: A Transparent Ceramic](e876b9aff5eeb4d2818cf0c621214c38)
+* __Mathematics__: [Mathematicians Discover Shape with Non-Repeating Pattern](878524351f159f818bc2c8ebcd95c0d7)
+* __Mathématiques__: [EchOpen: Revolutionizing Medical Imaging through Open Source Collaboration](f70da5953e48da16a286c1cf9d8b480b)
+* __Maximizing ai potential__: [On-boarding Your AI Intern](4b66dbaa2bbc249bfcccbb7e27adbde5)
+* __Mcdonald’s ice cream machine__: [The McDonald's Ice Cream Machine Mystery](f172e76b58b2e57af99257f3a45fe021)
+* __Mcu programming__: [HydraUSB3 V1: Open Source Developer Kit for High-Speed Protocols](0fbb6c3fbc914e5e65bc6e67bd425edd)
+* __Mechanical vs quartz__: [The Rise of Hybrid Watchmaking](3c8e50874cd8552a38f5adab70ccd2b7)
+* __Medical records management__: [Bad software destroyed my doctor's memory](976f66dccf4086981111e810d0160229)
+* __Medical research__: [Pigeons Identify Breast Cancer 'As Well As Humans'](96d6452fd513ef2ffdbc3d761b7d24e1), [The Discovery of Rapamycin: A Life-Saving Wonder Drug](d2f6f44b2ec2806fd1695aa4450cd9ee)
+* __Medical technology__: [Ultrasonic Wireless 'Neural Dust' Sensors Monitor Nerves, Muscles in Real Time](feadfd4aa3133e938a6f6e6d7d2c018e), [Chipiron: Portable Mini-MRI Revolutionizing Healthcare](f99fa5e02647a517b709d5b44f85fd5c)
+* __Medical use of psychedelics__: [Australia Allows Prescription of Psychedelics](551bd2bf76824741f2b0450fc112ae1e)
+* __Memory preservation__: [New AI Tools Preserve Memories of Deceased Relatives](b7dd6fe41c7bd9a4a04c30adfd020de4)
+* __Memory retention__: [Creating Your Own AI-Powered Second Brain](b37c215f9aa0336c774381f68e795d5c), [The Power of Handwritten Notes](558751c7b3dba31bf91330d72c41d5b3)
+* __Menopause retreats__: [The Rise of Menopause Retreats](045add002e344d1657fe658e0ebe6b41)
+* __Mental focus__: [The 24 Hour "Do Nothing" Challenge](6cf9b19c5f473573ce74865766bf351c)
+* __Mental health__: [The Salt of the Cosmos](fa8cbd7fc0beae839d485f07ed3b6dff), [The Housing Crisis: The Root Cause of Homelessness](697dba113f3330775a4a451a3a663cb4), [Maintaining Mental Hygiene as an Open Source Researcher](ed4473b3a0fa1513b565081d8773b33e), [Cultural Therapy: Museum Prescriptions for Mental Health](3c807d80ce080c015f1fc14086b7a09e)
+* __Mental health prioritization in beauty__: [The Rise of PSYCARE in Beauty](b396d58ff64cbfdfe136c278b263ee5a)
+* __Mental health services__: [Amazon Expands into Mental Health Services](3d4aee592248f940acdac6ffab5ec4aa)
+* __Mergers and acquisitions__: [EV Charging Industry Ramps Up M&A Activity](213ff4d78c8040377180b7f7b5b13d4d), [The Battle for Publishing's Soul](6f56632efb0caa5753792bd870d5a6ff)
+* __Meta trends__: [Discovering Overlooked Social Shifts with AI](a764338d3c1cf114377e3f619e246289)
+* __Metadata and ontologies__: [HowTo: Generating a Knowledge Graph from a Mermaid Entity Relationship Model](03920ec25887e9533ca00b84a67db724)
+* __Metagpt framework__: [MetaGPT: The Multi-Agent Framework](0cf9069c3a60ab8376522614af32de62)
+* __Metals extraction__: [The Rise of Deep-Sea Mining](5bbc958cd9d41c08482acdaa4ac033e4)
+* __Metals recycling__: [Circular Mining: Unlocking the Potential of Recycling Metals](f6822e1e33898d0b84b912cb06a69ba3)
+* __Metamorphosis__: [The Brain's Metamorphosis: How Insects Transform from Larvae to Adults](25b20b3a3800f47c01aeec2e68e2af8f), [Brain Rewiring During Insect Metamorphosis](bcf5820227220a93cb3923e1d8c64a6c)
+* __Metaverse__: [Balabala Makes Virtual Move with Gu Yu](c9ec4ffbfe911a0c5d04e95d8fa17e77)
+* __Microbes__: [Protein Nanowire Provides Clues to Combating Climate Change](b9bff2b9003a2ceb046c598703e0c939)
+* __Microbes and predators__: [The Nibblerids: Microbial Predators of the Unknown](279ad1b21581f6a15ca206621c443c6d)
+* __Microbial activity__: [Microbes: Active Engineers in Earth's Rock-to-Life Cycle](8a76baaa6df38b98c48c0635d103a5a0), [Importance of Microbial Activity on Glaciers](4b6734ef8815047f0eb71a170c13af9d)
+* __Microbial diversity__: [The Nibblerids: Microbial Predators of the Unknown](279ad1b21581f6a15ca206621c443c6d)
+* __Microbial interaction__: [Cross-Kingdom Partnership Creates Superorganism](2af3e931e394e21223d8e983e2dd43b7)
+* __Microbiome__: [Paradigm Shift: Holobionts in Biology](99e803820e0c09fbc3163a5a26ff49bb)
+* __Microorganism manipulation__: [Microbial Mining for Space Colonization](a67f9e7de0ac3ab7399e7e056c0f8883)
+* __Microphone jamming__: [Ultrasound-based Voice Recording Prevention Study](9c2ba0d61960b055646e246bf4727cd1)
+* __Microsoft ai__: [Sparks of Artificial General Intelligence: GPT-4's Potential](d7a339503dbb7c228209c98702d1afcf)
+* __Microsoft teams__: [Microsoft Teams Introduces AI-Powered Virtual Makeup Filters](9ec176fcee45ff89d5197430aacc81d7)
+* __Microsoft teams premium__: [Microsoft Launches AI-Powered Microsoft Teams Premium](d972fef45251bd965bd3d5d331ffe6dd)
+* __Migratory patterns__: [Surprising Synchronicity: Great White Sharks Travel Together](54cd29480e753c756579b2a053fea120)
+* __Military__: [Tales from the Dread Empire](de13b93138ad10bd9ac0a343c80147b5), [Selfie Reveals Location of China's Alleged Spy Balloon](f5bc316f1ab2ef2669f76e3f5212b863)
+* __Military equipment__: [Corvo Cardboard Drones: Low-Cost Reconnaissance and Transport in Ukraine](4432c5315ea4b0118213c037d1d4f87e)
+* __Military installations__: [U.S. Air Force Selects Oklo's Microreactor for Alaska Base](edbef1e1c31b764b47d554fa131a5ea6)
+* __Military response to potential threats__: [Unidentified Object Shot Down over Lake Huron](bfc9a024f93db97272c074662f73af22)
+* __Military technology__: [Army Plans Drone Swarms from High-Altitude Balloons](4d4f8bb17a5a7e5a852786591e70ffc8)
+* __Mindfulness__: [The Path to Slow Learning](042cf62855760b54fa5a194db9e6cf11)
+* __Mineral extraction__: [Microbial Mining for Space Colonization](a67f9e7de0ac3ab7399e7e056c0f8883)
+* __Minimalist phones__: [The Resurgence of Dumb Phones in the US](29806fd07d41c5c25550b367b80f445c)
+* __Minix as an operating system__: [The Hidden Operating System in Intel CPUs](eaa3cc330c6bfbc1cb04d667d6292432)
+* __Minix in intel cpus__: [The Hidden Operating System in Intel CPUs](eaa3cc330c6bfbc1cb04d667d6292432)
+* __Misinformation__: [The Unraveling of Reality: Navigating the Age of Misinformation and AI-Generated Content](8153f078ef61c55ca0067c735b0d6677), [OpenAI CEO Raises Concerns About AI Impact on Elections](fd96f58595786b0820cca21394223a66), [Gaslighting: The Word of Deception](d4e40db973527ce595cc72255dc83220)
+* __Misinformation and propaganda__: [The Threat of Misinformation: Society's Battle](9787333cafcd0252d71a9bff845ad093)
+* __Mistrust between clients and freelancers__: [The Impact of ChatGPT on Freelancing Platforms](16ae389e81ec87fdaaf271c38e3cb1e9)
+* __Misunderstood activity__: [The Misunderstood Art of Writing](084d5851e2f7a188dcc1d0f7e364f444)
+* __Misuse of ai language models__: [The Glitchy, Spammy, Scammy AI-Powered Internet](b30a4282af9e53ca673438a8223d9525)
+* __Misuse of ai-generated content__: [Google DeepMind Launches Watermarking Tool for AI-Generated Images](2bf4929ce2ec00fa01290394feb3112a)
+* __Misuse of customer funds__: [Forensic Accountant Uncovers Misuse of FTX Customer Funds](17ba5a58a46a82b87b07d34fc928493e)
+* __Misuse of deepfake technology__: [The Menace of Deepfake Images](14889902198ab8b6f7991b108f6ebb02)
+* __Ml security__: [The Framework for Assessing and Mitigating Risks in AI Systems](f87bcfb74a4a1db0ac38bd573144fd59)
+* __Mobile production__: [Unilever's Mobile Nano Factory Revolutionizes Production](dceb5e6d8fcf7312b774392e24c9133d)
+* __Model performance__: [MistralOrca: OpenOrca Dataset Fine-tuned on Mistral 7B](e69dcd964ee3d865e155042c8fb38cc5)
+* __Model provenance__: [PoisonGPT: Hiding a Lobotomized LLM on Hugging Face](b268f9e806c263d171c7284941d84787)
+* __Model release__: [Stable Diffusion Public Release](09e12f5c07382efea39163ed3274098a)
+* __Model training__: [GPT4All: Training an Assistant-style Chatbot](d7d522cdd6d70b19b072272af8b501c2)
+* __Model usage__: [GPT4All: Training an Assistant-style Chatbot](d7d522cdd6d70b19b072272af8b501c2)
+* __Modernization__: [The Filing Cabinet: A Vertical History](b074eff3e846c24db97af8524929939a)
+* __Monetization of ai__: [Generative AI's Monetization Dilemma](0c6842166e382f4956d21e22b38fa9c2)
+* __Monitoring natural phenomena__: [Fiber Optics: Illuminating the Earth's Secrets](b9ae471ec921bd6ea93c1594ad26feb6)
+* __Morality__: [Timeless Concepts from Ancient Myths](456993603b70cfeb32b0779ac023fe61)
+* __Mortality__: [Long-Term Effects of Covid: Findings and Uncertainties](b1b5f0564e486b3e1f123da956f6b1a6)
+* __Mosquito biology and blood-feeding mechanisms__: [Exploding Mosquitoes and Their Thirst for Blood](65c4c98af74c4b7813fc98ee7bb1d0d2)
+* __Motion diffusion__: [Human Motion Diffusion Model (MDM): A Generative Approach for Natural and Expressive Human Motion](07bcf7d8e29d33f8438f4b35a7f15021)
+* __Movie review__: [Glass Onion: A Knives Out Mystery](2635806aedc11d6ca9c3ca9a7520c586)
+* __Movies__: [Weekly Reflections and Creative Inspiration](1bc6c11e394022139f8af61a7554a7ec)
+* __Multi-hop reasoning__: [Knowledge Graphs & LLMs: Multi-Hop Question Answering](0184d23e59d3dc6772ba06c6634f033b)
+* __Murder mystery__: [A Memory Called Empire: Political Intrigue and Deadly Secrets in Teixcalaan](2d4b47a47cd08aaa542939967329f027)
+* __Music__: [Weekly Reflections and Creative Inspiration](1bc6c11e394022139f8af61a7554a7ec)
+* __Music distribution__: [GrimesAI Partners with Elf.Tech for AI-Generated Music](60c07fb2fe0247877a8e0c8b64c26a82)
+* __Music industry__: [Celebs Making Bank in the Afterlife](da88628cf97bad8667f8f0afe51d01cc)
+* __Musique__: [The Body's Music](17fb3271515aa45a48bdc4539ade0be0)
+* __Mvp definition__: [Redefining MVPs: A Faster Way to Derisk New Product Ideas](5f1854892dfd2f3bd837d7e5db7369ee)
+* __Myceliotronic material__: [Mushroom-Derived Electronics: Biodegradable and Sustainable](58b1d4282237f41c4a33e71179c1ea4b)
+* __Mystery__: [Enola Holmes 2: A Victorian Mystery Sequel](8cf24222d12bb6530c4526898a6bc5ff), ["The Moon Moth" by Jack Vance](2dd9a441afdb8fd77ef5e8163da4326b)
+* __Mystery shopping industry__: [The Dark Side of Mystery Shopping](fec8d34946df9092e1ade8823b1d5f6d)
+* __Mythology__: [Timeless Concepts from Ancient Myths](456993603b70cfeb32b0779ac023fe61)
+* __Ménage pré-mortem__: [The Art of Preparing for Death](f38d21b83e092ffde66a379c439ec010)
 
 ## Letter 'N' 
 
 
-* __nanoparticles__: [Researchers Develop New Source of Quantum Light](059bc68ff6f1a35906ae3e976a00c335)
-* __nanoscience__: [Revolutionary Light and Cool Structural Paint](a6bfcabefea560d7dfefd5aab87f047c)
-* __nanowires__: [Protein Nanowire Provides Clues to Combating Climate Change](b9bff2b9003a2ceb046c598703e0c939)
-* __nascar racing__: 
-* __national security and safety__: 
-* __natural disasters__: [The Earthshaking History of San Francisco's Quake Shacks](1555ef221d33094937e6635647734a3c), [Japan Installs Vending Machines for Disasters](1b4a9e6fd6f8912da18909188db75bda)
-* __natural food color market__: 
-* __natural history__: [Fungi: A Dark and Beautiful World](bfd7ecd32e48e49fda1567f40ccd671e)
-* __natural language processing__: [Natural Conversations with Google Assistant](3b057a14187c304edd1a0f4bbed854a8), [From Raw Text to Wikidata Taxonomy](b4b3684ed3f7fe2919c76e36d4838cd9)
-* __nature__: [Villa M: A Nature-Filled Hotel in Paris](2e9f6055b67e6e737e006c2aab6edddb)
-* __nature photography__: [Let the Sun Create Chlorophyll Prints](2bcdda5f8128e32bddc99e1d1d7fb49d)
-* __need for regulation and adaptation in a warmer world__: 
-* __negative effects of constant distraction and information overload__: 
-* __nervous system__: [Brain Rewiring During Insect Metamorphosis](bcf5820227220a93cb3923e1d8c64a6c)
-* __netflix retail store__: 
-* __netflixs shift to theatrical releases__: 
-* __network security__: 
-* __network theory__: [Rhizome: A Nonlinear Network in Philosophy](e58d0a9ec9b0c49b615d4bf3812a8630)
-* __network vulnerability__: [Discarded Enterprise Routers Store Valuable Secrets](b05de170e76d25145c54337068780075)
-* __networking__: 
-* __neural activity measurement__: [Revolutionizing Medical Technologies with Optrodes](7aeb03c0771769ceb99c3085c141c1fe)
-* __neural control__: [Roboticists Want to Give You a Third Arm](faad51d1f885af1db9dee5e5ce52b46e)
-* __neuroscience__: [The Great Wager: Seeking Consciousness](a22ee1f3d953a98514b92c413784feea), [Ultrasonic Wireless 'Neural Dust' Sensors Monitor Nerves, Muscles in Real Time](feadfd4aa3133e938a6f6e6d7d2c018e)
-* __niche applications of ai__: 
-* __nicotine in tomato plant__: 
-* __nlp-driven intelligence workflows__: 
-* __non-drinking culture__: [The No Booze DTC Edition](12e2e66a09a47d70f19d96165a9322ed)
-* __non-linear career paths__: [The Rise of Non-Linear Career Paths](d692481daec2dd39fc987ccc2882f637)
-* __non-violent communication__: [The Importance of Conflict and Non-Violent Resolution](fb16444fba5241fd1199ff90e3572e9a)
-* __nonprofit organizations__: [Save the Children Hit by Ransomware](5c52b32dd5324bcb38ab72b1ebd5d61b)
-* __nostalgia__: 
-* __nostalgia for analog experiences__: 
-* __nostalgia for life before the internet__: [The Impact of Technology on Society](357214f864be2592efced782b93b25b3)
-* __nostalgia for simplicity__: 
-* __nth country project__: 
-* __nuclear bomb__: [The Amateur Physicists and the Nuclear Bomb](476cd15d5df0f8056877402023e4b67c)
-* __nuclear energy__: [U.S. Air Force Selects Oklo's Microreactor for Alaska Base](edbef1e1c31b764b47d554fa131a5ea6)
-* __nuclear fusion__: 
-* __nuclear power plants__: [Nuke Plants Stick with PDP-11 Code Until 2050](5939406bb00700661103e9480fb00613)
-* __nuclear testing and warfare__: [The Legacy of Nuclear Testing: Low-Background Steel](fd957af83036959652ceb25c652a97c9)
-* __nvidia__: 
+* __Nanoparticles__: [Researchers Develop New Source of Quantum Light](059bc68ff6f1a35906ae3e976a00c335)
+* __Nanoscience__: [Revolutionary Light and Cool Structural Paint](a6bfcabefea560d7dfefd5aab87f047c)
+* __Nanowires__: [Protein Nanowire Provides Clues to Combating Climate Change](b9bff2b9003a2ceb046c598703e0c939)
+* __Nascar racing__: [The Influence of Video Games in Sports](1c89f8c55cb2e9509e63435c92e123a0)
+* __National security and safety__: [Unidentified Object Shot Down over Lake Huron](bfc9a024f93db97272c074662f73af22)
+* __Natural disasters__: [The Earthshaking History of San Francisco's Quake Shacks](1555ef221d33094937e6635647734a3c), [Japan Installs Vending Machines for Disasters](1b4a9e6fd6f8912da18909188db75bda)
+* __Natural food color market__: [Michroma Raises $6.4 Million for Natural Red Coloring in Food and Beverage](d812f238b024d5a104cbb7c001ed400b)
+* __Natural history__: [Fungi: A Dark and Beautiful World](bfd7ecd32e48e49fda1567f40ccd671e)
+* __Natural language processing__: [Building a Knowledge Graph with Chat-GPT and Python](7ff6239e13a43e856fa36887902c5ede), [Semantic Similarity Classifier and Sentence Clustering](d4a91d7a61a78e1e08b96ae466d76000), [Building Biomedical Chatbots with Large Language Models](f96c3e0990df3993b30f57a358c76d6a), [GPTs and the Understanding Paradox](4f6886eaaf3ef1d684792f6ec5b435de), [Automating SQL with GPT-3](492f4356567de26e0afe1f008454e899), [Natural Conversations with Google Assistant](3b057a14187c304edd1a0f4bbed854a8), [Autonomous Dual-Chatbot System for Research Paper Digesting](3f2d71fd29e59b34cde2af2dd3222940), [From Raw Text to Wikidata Taxonomy](b4b3684ed3f7fe2919c76e36d4838cd9)
+* __Nature__: [Villa M: A Nature-Filled Hotel in Paris](2e9f6055b67e6e737e006c2aab6edddb)
+* __Nature photography__: [Let the Sun Create Chlorophyll Prints](2bcdda5f8128e32bddc99e1d1d7fb49d)
+* __Need for regulation and adaptation in a warmer world__: [The Impact of Heat on the Future of Work](d6b48e83bcc0c6e8e7c4328f27d65d0b)
+* __Negative effects of constant distraction and information overload__: [The Drawbacks of the Internet and Artificial Intelligence](652fc7ec1f422e931bc5a9ba8011650a)
+* __Nervous system__: [Brain Rewiring During Insect Metamorphosis](bcf5820227220a93cb3923e1d8c64a6c)
+* __Netflix retail store__: [Netflix to Open Immersive Retail Experience](69ac0a51474dc55424e5281c7b649cad)
+* __Netflixs shift to theatrical releases__: [Netflix Considers Theatrical Release Strategy](088604fb4004b2f3c5725cf2f674066e)
+* __Network security__: [Cisco Emergency Responder Static Credentials Vulnerability](639e90afedd3746239c783332a0da15c)
+* __Network theory__: [Rhizome: A Nonlinear Network in Philosophy](e58d0a9ec9b0c49b615d4bf3812a8630)
+* __Network vulnerability__: [Discarded Enterprise Routers Store Valuable Secrets](b05de170e76d25145c54337068780075)
+* __Networking__: [The Danger of Continuous Partial Attention](417df5448432cb603f40dec77f469b87)
+* __Neural activity measurement__: [Revolutionizing Medical Technologies with Optrodes](7aeb03c0771769ceb99c3085c141c1fe)
+* __Neural control__: [Roboticists Want to Give You a Third Arm](faad51d1f885af1db9dee5e5ce52b46e)
+* __Neuroscience__: [The Great Wager: Seeking Consciousness](a22ee1f3d953a98514b92c413784feea), [Ultrasonic Wireless 'Neural Dust' Sensors Monitor Nerves, Muscles in Real Time](feadfd4aa3133e938a6f6e6d7d2c018e), [The Brain's Metamorphosis: How Insects Transform from Larvae to Adults](25b20b3a3800f47c01aeec2e68e2af8f)
+* __Niche applications of ai__: [The Future of Generative AI is Niche, Not Generalized](8dd10f0dc4f44fa3a381c7f37fbcb8fc)
+* __Nicotine in tomato plant__: [Tomacco: A Real-Life Creation by a Simpson Fan](8bd0ff91f441280f0da2731c54a3b7e0)
+* __Nlp-driven intelligence workflows__: [Large Language Models in OSINT Workflow](5cf4407dc6fa3889e047c658e27c4ccf)
+* __Non-drinking culture__: [The No Booze DTC Edition](12e2e66a09a47d70f19d96165a9322ed)
+* __Non-linear career paths__: [The Rise of Non-Linear Career Paths](d692481daec2dd39fc987ccc2882f637)
+* __Non-violent communication__: [The Importance of Conflict and Non-Violent Resolution](fb16444fba5241fd1199ff90e3572e9a)
+* __Nonprofit organizations__: [Save the Children Hit by Ransomware](5c52b32dd5324bcb38ab72b1ebd5d61b)
+* __Nostalgia__: [The Enduring Power of Classic Toys](dd9fc6f91eeb99cb289ba2e9f8af02f3)
+* __Nostalgia for analog experiences__: [The Disappearing Sound of Airports](43b34610cef64430328e6a5f05bbf51c)
+* __Nostalgia for life before the internet__: [The Impact of Technology on Society](357214f864be2592efced782b93b25b3)
+* __Nostalgia for simplicity__: [The Sterile World of Infinite Choice](7b316ebe449187b79e519a8c6d12a2cd)
+* __Nth country project__: [The Amateur Physicists and the Nuclear Bomb](476cd15d5df0f8056877402023e4b67c)
+* __Nuclear bomb__: [The Amateur Physicists and the Nuclear Bomb](476cd15d5df0f8056877402023e4b67c)
+* __Nuclear energy__: [U.S. Air Force Selects Oklo's Microreactor for Alaska Base](edbef1e1c31b764b47d554fa131a5ea6)
+* __Nuclear fusion__: [Major Breakthrough in Nuclear Fusion](136f0479a4a508ee27ea66d38d8d2b41)
+* __Nuclear power plants__: [Nuke Plants Stick with PDP-11 Code Until 2050](5939406bb00700661103e9480fb00613)
+* __Nuclear testing and warfare__: [The Legacy of Nuclear Testing: Low-Background Steel](fd957af83036959652ceb25c652a97c9)
+* __Nvidia__: [Nvidia's Stock Soars, Becoming a Trillion-Dollar Company](598eae9bc0f45fdaeee2d2ef811ad150)
 
 ## Letter 'O' 
 
 
-* __obsolete technology__: 
-* __ocean conservation__: [The Destructive Reality of Deep Sea Mining](bccb58e39d04eb0ca494d80ca20e6a67)
-* __ocean pollution__: [Plastic-Eating Mushrooms: A Natural Solution](652e3b2a7f89aad280b0d649ea6e9eb2)
-* __ocean temperatures__: [Unprecedented Ocean Temperature Anomalies Continue](7d78c43cd82cf39506c094d726af453f)
-* __ocr engines__: 
-* __ocr of digital data__: 
-* __office building conversions__: [Adaptive Reuse Apartments Surpass New Construction](8bff520dc945204951b32a6c4b10571e)
-* __office return__: [Productivity Paranoia and the Shift to Hybrid Work: Microsoft Work Trend Report](c44ce31cbe9d5b538bab463761a1fe8c)
-* __office tools__: [Gen Z Struggles with Office Technology](84e4f59e4eb3832250963e8ac00bf768)
-* __offshore wind energy__: [Innovative Vertical Wind Turbine Design Promises Increased Output and Efficiency](d4b9614dce0dbe9cd944ed6cb3022d12)
-* __offshore wind projects__: 
-* __online book repository__: 
-* __online communities__: 
-* __online disinformation__: 
-* __online safety__: 
-* __online scams__: 
-* __online security__: 
-* __online shopping__: [The Last Of Us: The Complete Series](2dd129dce50514dd9ed55dabbb032bf9)
-* __ontology prompting__: 
-* __open source__: [Challenges and Future of libjpeg-turbo](d23d7b7fbbd9de014450cfdd5d2e9664)
-* __open source businesses__: 
-* __open source development__: [EU's Cyber Resilience Act Threatens Open Source Developers](2e8ebbefc0b74a9ac3862ef6adcfaffd)
-* __open source in the ai community__: 
-* __open source innovation__: [Open-Source AI Stakeholders Call for Protection of Open Source Innovation in EU AI Act](11bd695b887aa09dca79341f91ce6b82)
-* __open source research__: 
-* __open source software__: 
-* __open-source software__: 
-* __open-source technology__: 
-* __openai__: 
-* __openai api__: 
-* __openness and transparency__: 
-* __opposition to deep sea mining__: [The Destructive Reality of Deep Sea Mining](bccb58e39d04eb0ca494d80ca20e6a67)
-* __optical technology__: [Aluminium Oxynitride: A Transparent Ceramic](e876b9aff5eeb4d2818cf0c621214c38)
-* __optimism__: [The Rise of Hopepunk: Celebrating Goodness in Literature](64d142fad56dfd6c613858f7f5aa0a1e)
-* __optrode technology__: [Revolutionizing Medical Technologies with Optrodes](7aeb03c0771769ceb99c3085c141c1fe)
-* __orca behavior__: [Orca Rams Into Yacht Near Scotland, Suggesting Behavior Spread](ec53d1856ccf49df631de3516f6aa6a2)
-* __organ shortage__: 
-* __organ transplantation__: [The Discovery of Rapamycin: A Life-Saving Wonder Drug](d2f6f44b2ec2806fd1695aa4450cd9ee)
-* __organisational culture__: 
-* __organizational behavior__: [Coordination Neglect in Organizational Effectiveness](abedf8019b0bc967f5f72e6cbd964f57)
-* __organizational design__: [Single-Threaded Leadership: A Key Organizational Design Concept at Amazon](f7c3cefc5b83fbd9df3507bdad7ff3fe)
-* __origami airplanes__: 
-* __osint__: 
-* __outsourcing__: [The Rush of Outsourcing and Speed](99862957fcec17ca02dd7fceb346b4df)
-* __outsourcing tasks to ai__: 
-* __overlooked solutions__: [Overlooking Subtraction: Why We Prefer Additive Solutions](2e40e579c2cb2d331026efcbcd98daed)
-* __ownership of software__: [The Rise of Software as a Service (SaaS)](62f0c80f0091e9b15465cd516137b05e)
+* __Obsolete technology__: [The Lingering Reliance on Floppy Disks](8ecfaa32a5254d275d7eb2eec698c9d0)
+* __Ocean conservation__: [The Destructive Reality of Deep Sea Mining](bccb58e39d04eb0ca494d80ca20e6a67)
+* __Ocean pollution__: [Plastic-Eating Mushrooms: A Natural Solution](652e3b2a7f89aad280b0d649ea6e9eb2)
+* __Ocean temperatures__: [Unprecedented Ocean Temperature Anomalies Continue](7d78c43cd82cf39506c094d726af453f)
+* __Ocr engines__: [Challenges and Solutions in OCR of Digital Data](c7c9b6f50bfa3280f1f27f83103d2d50)
+* __Ocr of digital data__: [Challenges and Solutions in OCR of Digital Data](c7c9b6f50bfa3280f1f27f83103d2d50)
+* __Office building conversions__: [Adaptive Reuse Apartments Surpass New Construction](8bff520dc945204951b32a6c4b10571e)
+* __Office return__: [Productivity Paranoia and the Shift to Hybrid Work: Microsoft Work Trend Report](c44ce31cbe9d5b538bab463761a1fe8c)
+* __Office tools__: [Gen Z Struggles with Office Technology](84e4f59e4eb3832250963e8ac00bf768)
+* __Offshore wind energy__: [Innovative Vertical Wind Turbine Design Promises Increased Output and Efficiency](d4b9614dce0dbe9cd944ed6cb3022d12)
+* __Offshore wind projects__: [Financing Offshore Wind - Part 1](63a65ba211f78dca2965b6b2ca564df2)
+* __Online book repository__: [U.S. Department of Justice Seizes Z-Library Domains](d050024991b2307add12adc6f590ad54)
+* __Online communities__: [ChatGPT + Wolfram is INSANE!](c73fef52122dff9becbe63751648eea0)
+* __Online disinformation__: [Taiwanese Tech Tycoon Funds Cyber Defense Training for Potential Chinese Invasion](e99358609284de847f0d590948f5b265)
+* __Online safety__: [Utah Governor Passes Legislation Restricting Teenagers' Access to Social Media](3f7f68f94d44849513156aae48ee013f)
+* __Online scams__: [Telangana's Cyber Ambassadors: Protecting Students from Online Scams](b9256c2eb50c1c3e1ea2df625cf259ec)
+* __Online security__: [Google Launches Tool to Protect Personal Information](b5874f0dc7f077a23317b07aa5e60ea8)
+* __Online shopping__: [The Last Of Us: The Complete Series](2dd129dce50514dd9ed55dabbb032bf9)
+* __Ontology prompting__: [LLM Ontology-prompting for Knowledge Graph Extraction](c25a3f9ba3a55dd2d2a3f4c0c19693c6)
+* __Open source__: [Challenges and Future of libjpeg-turbo](d23d7b7fbbd9de014450cfdd5d2e9664), [Open Source and the Cyber Resilience Act](2e15bb8c640aadb6d9022cf48f446954)
+* __Open source businesses__: [The Evolution of Software Pricing Models](578c4ca8c38df5eb168308242e9ea711)
+* __Open source development__: [EU's Cyber Resilience Act Threatens Open Source Developers](2e8ebbefc0b74a9ac3862ef6adcfaffd)
+* __Open source in the ai community__: [The Evolution of "Open Source" in AI Models](ab65e19023994f8f7774408b7a7cc920)
+* __Open source innovation__: [Open-Source AI Stakeholders Call for Protection of Open Source Innovation in EU AI Act](11bd695b887aa09dca79341f91ce6b82)
+* __Open source research__: [Maintaining Mental Hygiene as an Open Source Researcher](ed4473b3a0fa1513b565081d8773b33e)
+* __Open source software__: [Peters and Portman Introduce Bipartisan Legislation to Help Secure Open Source Software](16272c1d533831db63a0ff3aa067f09e)
+* __Open-source software__: [AdventureGPT: Enhancing Text-Based Adventure Games](191070a30a1d11509e1f783a0ca8e8e0)
+* __Open-source technology__: [Alibaba Opens AI Model for Third-Party Developers](705bb257b4c899939cc0c550f0b9d2fa)
+* __Openai__: [Creating Dynamic AI Agents With Langchain, OpenAI's GPT-4, and AWS](09d755bf91d4fd4e1adf09d7ee1f4656)
+* __Openai api__: [Introduction to OpenAI Function Calling](72b08d7579b6d295c27f039d6ee5a01d)
+* __Openness and transparency__: [Tracking Openness in ChatGPT Generators](dad9dbd97cc50604963911f16fbb27aa)
+* __Opposition to deep sea mining__: [The Destructive Reality of Deep Sea Mining](bccb58e39d04eb0ca494d80ca20e6a67)
+* __Optical technology__: [Aluminium Oxynitride: A Transparent Ceramic](e876b9aff5eeb4d2818cf0c621214c38)
+* __Optimism__: [The Rise of Hopepunk: Celebrating Goodness in Literature](64d142fad56dfd6c613858f7f5aa0a1e)
+* __Optrode technology__: [Revolutionizing Medical Technologies with Optrodes](7aeb03c0771769ceb99c3085c141c1fe)
+* __Orca behavior__: [Orca Rams Into Yacht Near Scotland, Suggesting Behavior Spread](ec53d1856ccf49df631de3516f6aa6a2)
+* __Organ shortage__: [Xenotransplants: A Solution to the Organ Shortage Crisis](7d8c56d6e0991c4df704374e4bd6f6ec)
+* __Organ transplantation__: [Xenotransplants: A Solution to the Organ Shortage Crisis](7d8c56d6e0991c4df704374e4bd6f6ec), [The Discovery of Rapamycin: A Life-Saving Wonder Drug](d2f6f44b2ec2806fd1695aa4450cd9ee)
+* __Organisational culture__: [Crossing Hip-Hop with Sri Lankan Dance](0eec94d49d73ca7a3669da31cea25e51)
+* __Organizational behavior__: [Coordination Neglect in Organizational Effectiveness](abedf8019b0bc967f5f72e6cbd964f57)
+* __Organizational design__: [Single-Threaded Leadership: A Key Organizational Design Concept at Amazon](f7c3cefc5b83fbd9df3507bdad7ff3fe)
+* __Origami airplanes__: [The Dream of Paper Airplanes](73c432fc55c970bb0dbb98daa243daee)
+* __Osint__: [Netlas.io: The Ultimate Cybersecurity Tool](ae919b08f9b58de655abd2fea03c1169)
+* __Outsourcing__: [The Transactional Nature of Modern Life](a5c0ba498382a4edc0f2bf0d9653ad16), [The Rush of Outsourcing and Speed](99862957fcec17ca02dd7fceb346b4df)
+* __Outsourcing tasks to ai__: [The Temptation of The Button: AI's Impact on Work and the Crisis of Meaning](3cdcaf35e46bb5b431f299c44a448b9f)
+* __Overlooked solutions__: [Overlooking Subtraction: Why We Prefer Additive Solutions](2e40e579c2cb2d331026efcbcd98daed)
+* __Ownership of software__: [The Rise of Software as a Service (SaaS)](62f0c80f0091e9b15465cd516137b05e)
 
 ## Letter 'P' 
 
 
-* __packaging__: [A Simple Idea: Protecting Bikes](9c652dfb9dcd53a8d38a79cc1981bb74)
-* __pain management__: [Revolutionary Prosthetic Provides Control and Comfort](90accf3ba55fb5e705bbaa47ad145c50)
-* __pandemic__: [The Ongoing Battle with Long Covid](c47cb1fe2b4ae786edcfe793f7c528c2)
-* __pandemic innovation__: [The Missing Pandemic Innovation Boom](99bc8113e8e7bacc050e12acdae75e14)
-* __paraphrasing attacks__: [The Rising Threat of Paraphrasing Attacks on AI Algorithms](e1fbb09ec5e66a8a6d4eff2126eefb40)
-* __parasitic fungi__: [Unraveling the Mind Control of Zombie Flies](7716ffd31f1b9f566bacf04995fd94f9)
-* __parcings__: [France Implements Solar Energy Development Measure in Commercial Areas](a162b36d09b081d7de751a64db66fb63)
-* __partenariat stratégique__: 
-* __partnership__: [US Department of Defense Outlines 2023 Cyber Strategy](f88aebcf579dffa42fc0dbe74de919c4)
-* __partnership between vatican and santa clara university__: 
-* __parts obsolescence__: 
-* __patch management__: 
-* __payment options__: [Trial Inclusions and Subscription Options](2b2438cd827520a2dfdcffa094cc7fc3), [Trial Inclusions and Subscription Options](42029469086ed8b0defa5120ec35459e), [FT.com Trial and Subscription Information](34e1369572f1241d4a54e63cee2a4565)
-* __payments__: [The Digital Pound: A New Form of Money for the Future](86f9d4e0a40048c3cbab66ba00b2fcb5)
-* __peace activism__: [Futures and Peacebuilding: Imagining a Non-Violent World](ec1cd3015f7369374399a6446dc13586)
-* __peacebuilding__: [Futures and Peacebuilding: Imagining a Non-Violent World](ec1cd3015f7369374399a6446dc13586)
-* __penalties and fines__: 
-* __penetration testing__: 
-* __perceived impact of ai__: 
-* __personal branding__: 
-* __personal goals__: 
-* __personal growth__: 
-* __personal knowledge management__: 
-* __personal privacy__: 
-* __personalization__: [The Power of Customer Driven Marketing](f5a86c6c3c113719814d2772bea54508)
-* __personalization in design__: 
-* __personalized learning__: 
-* __perturbations dans le consensus__: 
-* __philosophy__: [Rhizome: A Nonlinear Network in Philosophy](e58d0a9ec9b0c49b615d4bf3812a8630)
-* __phishing attacks__: [QR Code Phishing Targets US Energy Organization](ccc796127756c12c57ce4db1a2014946)
-* __photo editing and manipulation__: [AI and the Changing Landscape of Photography](447aaddba1b3b4ac319e14628e6ed8f2)
-* __photography__: [Selfie Reveals Location of China's Alleged Spy Balloon](f5bc316f1ab2ef2669f76e3f5212b863), [Architectural Photography Awards: Celebrating Mesmerising Shots](69ac5a2641a2485bc782c70c7d2ff09c)
-* __photography techniques__: [Let the Sun Create Chlorophyll Prints](2bcdda5f8128e32bddc99e1d1d7fb49d)
-* __photojournalism__: [The Principles That Shape Photographic Practice](3732af6b65f8a13ac1af7007d063eb7b)
-* __photonic time crystals__: 
-* __photosynthesis__: 
-* __photovoltaics__: [Researchers Develop New Source of Quantum Light](059bc68ff6f1a35906ae3e976a00c335)
-* __physician-patient communication__: [ChatGPT Outperforms Physicians in Patient Questions](47d0fd7d569a766b50f66eba76cb5c4d)
-* __pixel art and game graphics__: 
-* __plagiarism and reference images__: [Weekly Reflections and Creative Inspiration](1bc6c11e394022139f8af61a7554a7ec)
-* __planned obsolescence__: 
-* __planned obsolescence and corporate responsibility__: 
-* __planning__: 
-* __plant communication__: 
-* __plant physiology__: 
-* __plant theft__: [The Dark Side of the Houseplant Boom](36b36c58561712964f7a9920eb97d56f)
-* __plant-inspired technology__: [E-seeds Drill Themselves into Soil](58c165e1a46408307f2b60f63df7c549)
-* __plastic decomposition__: [Plastic-Eating Mushrooms: A Natural Solution](652e3b2a7f89aad280b0d649ea6e9eb2)
-* __plastic pollution__: [Plastic-Eating Mushrooms: A Natural Solution](652e3b2a7f89aad280b0d649ea6e9eb2)
-* __plastic waste__: 
-* __plot structures__: 
-* __police use of robots for lethal force__: 
-* __policy development__: 
-* __policy recommendations__: [Open-Source AI Stakeholders Call for Protection of Open Source Innovation in EU AI Act](11bd695b887aa09dca79341f91ce6b82)
-* __political donations__: 
-* __political intrigue__: [A Memory Called Empire: Political Intrigue and Deadly Secrets in Teixcalaan](2d4b47a47cd08aaa542939967329f027)
-* __political stability__: [2023 Roadshow of Research and Policy Results](589c2c554219a6d4ae1ad0c9d1d75a21)
-* __political tensions__: [Senegalese Government Websites Attacked by Hackers](4d2fd5459978f8dfc8e307ec4a44b638)
-* __popularity of virtual idols__: 
-* __population decline__: 
-* __population distribution__: [Valeriepieris Circle: A Global Population Phenomenon](6ab95ef7d3a59b67b7851af561ed903b)
-* __population dynamics__: 
-* __positive visions and solutions-focused thinking__: 
-* __possibilities__: [Exploring Time and Shaping the Future](2f66695f2596205814b8aeb4dc746072)
-* __post-apocalyptic__: [The Girl with All the Gifts (film)](f6e12d619e18fa147b18488c1f1ba099)
-* __post-mission experience__: 
-* __post-structuralism__: [Rhizome: A Nonlinear Network in Philosophy](e58d0a9ec9b0c49b615d4bf3812a8630)
-* __potential benefits of ai__: 
-* __potential for greater adoption of vertical software in various industries__: [Vertical Software: Winning in Uncertain Markets](222a890517ae08e77a3cc5d6d37516c4)
-* __potential impact__: 
-* __potential job losses in the legal profession__: [A.I. Threatens Lawyers, Again](2d3b20a8b6a2fbbb191cffd8ebba1792)
-* __potential of ai in education and medicine__: 
-* __power reliability__: [U.S. Air Force Selects Oklo's Microreactor for Alaska Base](edbef1e1c31b764b47d554fa131a5ea6)
-* __precision fermentation__: 
-* __preservation__: [The Earthshaking History of San Francisco's Quake Shacks](1555ef221d33094937e6635647734a3c)
-* __preservation of the notebooks at down house__: 
-* __preserving the history of photography__: 
-* __pricing__: [Charging More: A Lesson in Valuing Talent](5eb50114b6e85cd24033b817cc9457ba)
-* __pricing of non-alcoholic spirits__: [The No Booze DTC Edition](12e2e66a09a47d70f19d96165a9322ed)
-* __prioritization__: 
-* __prioritizing values over superficial qualities__: 
-* __prison system__: [The Indelible Hulk: A History of Prison Ships](d658f4fa7fa777631af90889ec739234)
-* __privacy__: [$71 Coat Makes Wearers Invisible to AI Security Cameras](4140e375969a4396e244eb285ef19caa), [Apple Warns UK Government Over Surveillance Powers](592f0831eeefa9761ae385bc25f166a0), ['Secret Camouflage' Clothing Protects Against Facial Recognition](281fd0758b55c5d94dbc4a181e043f2c), [The Last Of Us: The Complete Series](2dd129dce50514dd9ed55dabbb032bf9), [Information Collection and Cookie Usage](a33c07b3f96448f9af29b9e59a080b73), [The Rise of Luxury Surveillance](382ab5700ea4e7c189a438c6e024ef18)
-* __privacy and data protection__: 
-* __privacy and surveillance__: 
-* __privacy concerns__: [Google's AI Chatbot Bard Raises Privacy Concerns](9962e2ca5ad5ea684e801c62fbed39d5), [UK Government Expands Controversial Surveillance Technology](4fe61511dabd734b653a98b45e8bd3c0), [Sonar Glasses: Silent Speech Recognition](ec5ddbc54cbf0686918bc273da8d97c3)
-* __privacy concerns in modern cars__: 
-* __privacy controls__: 
-* __privacy regulations__: 
-* __privacy rights__: [Michigan Supreme Court to Determine Legality of Drone Surveillance without Warrant](6beeee35311c9595fcb7510e04d6a369)
-* __privategpt__: 
-* __problem-solving__: [Oblique Strategies: Overcoming Creative Blocks](624594b96816ab42c43832aa315bf3b7), [The Importance of Conflict and Non-Violent Resolution](fb16444fba5241fd1199ff90e3572e9a)
-* __problems with writing__: 
-* __procedural storytelling__: 
-* __processors__: 
-* __product development__: [The Importance of Ruthless Editing](77758e23f4c4a5892d58e3f5cff8f0ca), [Redefining MVPs: A Faster Way to Derisk New Product Ideas](5f1854892dfd2f3bd837d7e5db7369ee)
-* __production and consumption__: 
-* __productivity__: [Productivity Paranoia and the Shift to Hybrid Work: Microsoft Work Trend Report](c44ce31cbe9d5b538bab463761a1fe8c)
-* __productivity enhancement__: 
-* __productivity growth__: [The Decline of the U.K.'s Economy](356a6ba108d8bfda52fe56a947f6b347), [The Missing Pandemic Innovation Boom](99bc8113e8e7bacc050e12acdae75e14)
-* __professional development__: ["Career Cushioning: Protecting Your Future"](9f6a82373421931ea7e960ae526ff457)
-* __professional growth__: 
-* __professionalization of pickleball__: 
-* __professionals using chatgpt and other ai tools__: 
-* __programming__: [Nuke Plants Stick with PDP-11 Code Until 2050](5939406bb00700661103e9480fb00613)
-* __programming languages__: 
-* __progressive politics__: [The Unraveling of the Progressive Economy](f4ea5244ccafd654e5955673b0ee3976)
-* __project finance__: 
-* __project scoping__: 
-* __project-based learning__: 
-* __prompt engineering__: [Awesome AI Image Synthesis](715a430b9a04a5670095d5510883dcc2)
-* __proprietary software__: [The Dangers of Service as a Software Substitute (SaaSS)](5c135d085a6d575c9d112244b2a873fb)
-* __prosthetic technology__: [Revolutionary Prosthetic Provides Control and Comfort](90accf3ba55fb5e705bbaa47ad145c50)
-* __protection des données__: [Cybersecurity Threats to Law Firms](0b6d917158cd84c369d0af378202984b)
-* __protection of civil rights__: 
-* __protein design__: [AI-Designed Proteins Kill Bacteria in Lab](851488841bb139d3ed24048269cd0b9b)
-* __protests__: [Senegalese Government Websites Attacked by Hackers](4d2fd5459978f8dfc8e307ec4a44b638)
-* __préparation à la mort__: [The Art of Preparing for Death](f38d21b83e092ffde66a379c439ec010)
-* __psychedelic influence in beauty__: [The Rise of PSYCARE in Beauty](b396d58ff64cbfdfe136c278b263ee5a)
-* __psychedelic masculinity__: 
-* __psychiatric disorders__: 
-* __psychological warfare__: [The Long-Term Plan to Subvert America](17a923241feb2adea077d064eccc615b)
-* __psychology__: [Neophilia and Its Discontents](bd85751af600abe8c39229eb4ba07c1c), [The Power of Free: How it Influences Consumer Behavior](0b5ca258e9c7ed2f9f6cf60dd523e148)
-* __public concern about ai__: 
-* __public health__: [Urgent threat: Drug-resistant fungus invading health care facilities](d28d19739c279a21eb19cac312e67bea), [Drop in U.S. Kindergartners' Vaccination Rates](f2e3c24131513e79e1193ffa31a7f1e7), [The Rise of Menopause Retreats](045add002e344d1657fe658e0ebe6b41), [Boil Water Notice for City of Houston](e84a367bfd1c9ebf3dddbb19a3d19303)
-* __public safety__: [Italy's Right-Wing Government Criminalizes Raves](adb7356f3711c023daf08fec38221395)
-* __publication of the notebooks__: 
-* __publication process__: 
-* __publishing__: [Increasing Luck through Work and Publication](0a1e31b7c3c14eedf08021f6bd5ebdfc)
-* __publishing industry__: [The Battle for Publishing's Soul](6f56632efb0caa5753792bd870d5a6ff)
-* __python decorators__: 
-* __python libraries__: 
+* __Packaging__: [A Simple Idea: Protecting Bikes](9c652dfb9dcd53a8d38a79cc1981bb74)
+* __Pain management__: [Revolutionary Prosthetic Provides Control and Comfort](90accf3ba55fb5e705bbaa47ad145c50)
+* __Pandemic__: [The Ongoing Battle with Long Covid](c47cb1fe2b4ae786edcfe793f7c528c2)
+* __Pandemic innovation__: [The Missing Pandemic Innovation Boom](99bc8113e8e7bacc050e12acdae75e14)
+* __Paraphrasing attacks__: [The Rising Threat of Paraphrasing Attacks on AI Algorithms](e1fbb09ec5e66a8a6d4eff2126eefb40)
+* __Parasitic fungi__: [Unraveling the Mind Control of Zombie Flies](7716ffd31f1b9f566bacf04995fd94f9)
+* __Parcings__: [France Implements Solar Energy Development Measure in Commercial Areas](a162b36d09b081d7de751a64db66fb63)
+* __Partenariat stratégique__: [Oxford Properties and Novaxia Partner to Accelerate Growth of Life Sciences Sector in France](8171dbd0f0c22627933407c381911fa4)
+* __Partnership__: [US Department of Defense Outlines 2023 Cyber Strategy](f88aebcf579dffa42fc0dbe74de919c4)
+* __Partnership between vatican and santa clara university__: [Vatican Releases Handbook on AI Ethics](994781edb78a36cd547b86f570716280)
+* __Parts obsolescence__: [The End of Spare Parts Edition](633655a8e8a99ad217f019928a2b8dc1)
+* __Patch management__: [U.S. Cybersecurity Agency Adds Adobe Acrobat Vulnerability to Exploited Catalog](089706e00a9c0d142049a6a6c557e3e7)
+* __Payment options__: [Trial Inclusions and Subscription Options](2b2438cd827520a2dfdcffa094cc7fc3), [Uber Eats to Accept Food Stamps and Healthcare Benefits for Grocery Delivery](01100fc1dbc0489489a31e12750bca78), [Trial Inclusions and Subscription Options](42029469086ed8b0defa5120ec35459e), [FT.com Trial and Subscription Information](34e1369572f1241d4a54e63cee2a4565)
+* __Payments__: [The Digital Pound: A New Form of Money for the Future](86f9d4e0a40048c3cbab66ba00b2fcb5)
+* __Peace activism__: [Futures and Peacebuilding: Imagining a Non-Violent World](ec1cd3015f7369374399a6446dc13586)
+* __Peacebuilding__: [Futures and Peacebuilding: Imagining a Non-Violent World](ec1cd3015f7369374399a6446dc13586)
+* __Penalties and fines__: [DS Penske Team Fined and Penalized for Installing RFID Scanner in Formula E Pit Lane](7416c71d5b084463bd7eab2dcf229b92)
+* __Penetration testing__: [Netlas.io: The Ultimate Cybersecurity Tool](ae919b08f9b58de655abd2fea03c1169)
+* __Perceived impact of ai__: [Concerns about Artificial Intelligence in Daily Life](c3876ee8e1b4e0d9e38edf15caaa5521)
+* __Personal branding__: [Career Lessons for Success and Growth](a06d27f1dd5a2328ba6aa8854abc5318)
+* __Personal goals__: [The Appeal of Every Single X Projects](3779ce60f2007ae200d6746d8d7b8eff)
+* __Personal growth__: [Sacred Hour: Finding Time for Yourself in a Hectic World](9ea825ae2ff757c9a593882acf36334d)
+* __Personal knowledge management__: [The Emergence of Digital Gardening](9464f139c46be97db5caf7bdd72efd0b)
+* __Personal privacy__: [Sale of Americans' Mental Health Data](d7e132b0dc94474c05f6109c82cf9878)
+* __Personalization__: [ProfileGPT: Analyzing Your ChatGPT Profile](d654733a20e73da64a2f741bc2e422b0), [The Power of Customer Driven Marketing](f5a86c6c3c113719814d2772bea54508)
+* __Personalization in design__: [The Future of Design: Shifting Roles and Personalization](ece4f1f782525a6ae341e9d4c9df3533)
+* __Personalized learning__: [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
+* __Perturbations dans le consensus__: [The Impact of Science Fiction](639666c373af6d226b476fa5240948cb)
+* __Philosophy__: [Rhizome: A Nonlinear Network in Philosophy](e58d0a9ec9b0c49b615d4bf3812a8630)
+* __Phishing attacks__: [QR Code Phishing Targets US Energy Organization](ccc796127756c12c57ce4db1a2014946)
+* __Photo editing and manipulation__: [AI and the Changing Landscape of Photography](447aaddba1b3b4ac319e14628e6ed8f2)
+* __Photography__: [Apple's Robot Revolutionizes iPhone Recycling](2bd2f16207519e71b7ae8b7899a7e0f1), [DIY Anthotype Printing Using Turmeric](45dbee915ba56fe3791c4a244f491747), [Selfie Reveals Location of China's Alleged Spy Balloon](f5bc316f1ab2ef2669f76e3f5212b863), [Architectural Photography Awards: Celebrating Mesmerising Shots](69ac5a2641a2485bc782c70c7d2ff09c), [Supreme Court Rules Against Warhol's Use of Prince Photo](c1e1bed7a22d1ccc1a5d6e57f87ba862)
+* __Photography techniques__: [Let the Sun Create Chlorophyll Prints](2bcdda5f8128e32bddc99e1d1d7fb49d)
+* __Photojournalism__: [The Principles That Shape Photographic Practice](3732af6b65f8a13ac1af7007d063eb7b)
+* __Photonic time crystals__: [Time Reflections with Light Waves](4276927d1e8af2054511c6ea72f2a9d4)
+* __Photosynthesis__: [Harvesting Electricity from Plants: A Sustainable Breakthrough](b84bf2742e851da35bfd23220e697b3c)
+* __Photovoltaics__: [Researchers Develop New Source of Quantum Light](059bc68ff6f1a35906ae3e976a00c335)
+* __Physician-patient communication__: [ChatGPT Outperforms Physicians in Patient Questions](47d0fd7d569a766b50f66eba76cb5c4d)
+* __Pixel art and game graphics__: [Exploring the Creative Potential of DALL-E 2](c62d2942a1454cd9810be2b3a93f7bc6)
+* __Plagiarism and reference images__: [Weekly Reflections and Creative Inspiration](1bc6c11e394022139f8af61a7554a7ec)
+* __Planned obsolescence__: [France Investigates Apple's Planned Obsolescence of iPhones](e8e4a3bb6ffd1901ed8c146981e973d7)
+* __Planned obsolescence and corporate responsibility__: [The Consequences of Planned Abandonment](dc382e3aa58935a411f92b934c641011)
+* __Planning__: [Strategic Foresight: Anticipating and Adapting to the Future](40a99c098bad8dda821b757d8d88a80a)
+* __Plant communication__: [Plants' Ultrasonic Clicks: A Thirsty Cry](801c20050ea3a65fd9e79c9de55256ef), [Bioacoustics: Unlocking the Language of Nature](db2690cf7530366ddf6f9606b830f782)
+* __Plant physiology__: [Charles Darwin and the World of Plant Movement](758dcfdd3a76f76ed47b6e3b8f5b0051)
+* __Plant theft__: [The Dark Side of the Houseplant Boom](36b36c58561712964f7a9920eb97d56f)
+* __Plant-inspired technology__: [E-seeds Drill Themselves into Soil](58c165e1a46408307f2b60f63df7c549)
+* __Plastic decomposition__: [Plastic-Eating Mushrooms: A Natural Solution](652e3b2a7f89aad280b0d649ea6e9eb2)
+* __Plastic pollution__: [Plastic-Eating Mushrooms: A Natural Solution](652e3b2a7f89aad280b0d649ea6e9eb2)
+* __Plastic waste__: [Startup Raises $11m to Develop Plastic-Eating Enzymes](d2a5e5d3dad76d8880d6d322b26a8ab9)
+* __Plot structures__: [The Seven Basic Plots: Why We Tell Stories](6e4c77b94dc98f1c752477e4840c37cb)
+* __Police use of robots for lethal force__: [San Francisco Moves Closer to Authorizing Lethal Force Robots](316320b3518ab6fd8e843b63fb74e62b)
+* __Policy development__: [Introduction to Systems Thinking for Civil Servants](c745ba8f3cb00c2d7c46c819537fcb10)
+* __Policy recommendations__: [Open-Source AI Stakeholders Call for Protection of Open Source Innovation in EU AI Act](11bd695b887aa09dca79341f91ce6b82)
+* __Political donations__: [Forensic Accountant Uncovers Misuse of FTX Customer Funds](17ba5a58a46a82b87b07d34fc928493e)
+* __Political intrigue__: [A Memory Called Empire: Political Intrigue and Deadly Secrets in Teixcalaan](2d4b47a47cd08aaa542939967329f027)
+* __Political stability__: [2023 Roadshow of Research and Policy Results](589c2c554219a6d4ae1ad0c9d1d75a21)
+* __Political tensions__: [Senegalese Government Websites Attacked by Hackers](4d2fd5459978f8dfc8e307ec4a44b638)
+* __Popularity of virtual idols__: [The Rise of Virtual Idols](f2c164b7ff8eb0a6fd223511dba15804)
+* __Population decline__: [The Demographic Transition in France](526a1dc9707f62b939644c3b3ea6dcf0)
+* __Population distribution__: [Valeriepieris Circle: A Global Population Phenomenon](6ab95ef7d3a59b67b7851af561ed903b)
+* __Population dynamics__: [r/K Selection Theory](b22f6127f5116f8cfd09817f672db4c3)
+* __Positive visions and solutions-focused thinking__: [Imagineering A Better Future](c8574c3fabcddaff47072c5b93a50476)
+* __Possibilities__: [Exploring Time and Shaping the Future](2f66695f2596205814b8aeb4dc746072)
+* __Post-apocalyptic__: [The Girl with All the Gifts (film)](f6e12d619e18fa147b18488c1f1ba099)
+* __Post-mission experience__: [Inside The Small World of Simulating Other Worlds](37c74ca68455427ad4912697a407f23c)
+* __Post-structuralism__: [Rhizome: A Nonlinear Network in Philosophy](e58d0a9ec9b0c49b615d4bf3812a8630)
+* __Potential benefits of ai__: [The Future of Artificial Intelligence](7fcef9a240c0738d2390c83f9713dc98)
+* __Potential for greater adoption of vertical software in various industries__: [Vertical Software: Winning in Uncertain Markets](222a890517ae08e77a3cc5d6d37516c4)
+* __Potential impact__: [The Bio Revolution: Advances in Biology and Their Impact on Society](62a5bae52266a680c6a13bd3ef8dc48c)
+* __Potential job losses in the legal profession__: [A.I. Threatens Lawyers, Again](2d3b20a8b6a2fbbb191cffd8ebba1792)
+* __Potential of ai in education and medicine__: [AI Disruption Outweighs Pandemic Impact](283ff70c63aed09ef2b0613f6acc2eb9)
+* __Power reliability__: [U.S. Air Force Selects Oklo's Microreactor for Alaska Base](edbef1e1c31b764b47d554fa131a5ea6)
+* __Precision fermentation__: [Michroma Raises $6.4 Million for Natural Red Coloring in Food and Beverage](d812f238b024d5a104cbb7c001ed400b)
+* __Preservation__: [The Earthshaking History of San Francisco's Quake Shacks](1555ef221d33094937e6635647734a3c)
+* __Preservation of the notebooks at down house__: [Darwin's Beagle Field Notebooks](e1718dbfd1ea52b4030af92331bf20ae)
+* __Preserving the history of photography__: [Reinvigorating Vintage Analog Cameras with a 20MP Sensor](f7b3a19af28d70bf1f74f5d17c496c39)
+* __Pricing__: [Charging More: A Lesson in Valuing Talent](5eb50114b6e85cd24033b817cc9457ba)
+* __Pricing of non-alcoholic spirits__: [The No Booze DTC Edition](12e2e66a09a47d70f19d96165a9322ed)
+* __Prioritization__: [Work on What Really Matters](f3016876ef0373e664eea6b715a4e421)
+* __Prioritizing values over superficial qualities__: [Dating Trends in 2022: Prioridating and Increased Openness](5554792b473e148108ccb7b38a1d82c0)
+* __Prison system__: [The Indelible Hulk: A History of Prison Ships](d658f4fa7fa777631af90889ec739234)
+* __Privacy__: [Blyss: Enabling Privacy with Homomorphic Encryption](49126154cdd08a977f567f687cfa8a2e), [Rewind: Boost Your Productivity with Personalized AI](99dc2dd219ce9361dc2c73cf4bb32863), [$71 Coat Makes Wearers Invisible to AI Security Cameras](4140e375969a4396e244eb285ef19caa), [Apple Warns UK Government Over Surveillance Powers](592f0831eeefa9761ae385bc25f166a0), ['Secret Camouflage' Clothing Protects Against Facial Recognition](281fd0758b55c5d94dbc4a181e043f2c), [Making AI Safer with Cryptography](9ec84987bda1e0a307c2c31c6ed2462d), [The Last Of Us: The Complete Series](2dd129dce50514dd9ed55dabbb032bf9), [Information Collection and Cookie Usage](a33c07b3f96448f9af29b9e59a080b73), [The Rise of Luxury Surveillance](382ab5700ea4e7c189a438c6e024ef18)
+* __Privacy and data protection__: [The Malevolence of ChatGPT: A Call for Destruction](9b21fce377880166b73916aee2be1fc0)
+* __Privacy and surveillance__: [Who Actually Owns Tesla’s Data?](aa8144a7a9cdc5baa399df0daa112f75)
+* __Privacy concerns__: [Amazon's Spy Appliances: A Surveillance Nightmare](6fb6587422619556f83c26b5b4386948), [Google's AI Chatbot Bard Raises Privacy Concerns](9962e2ca5ad5ea684e801c62fbed39d5), [The Growing Impact of Supermarket Data Collection](90bdc5da81c6c094a1ac7a794d8a2d1d), [UK Government Expands Controversial Surveillance Technology](4fe61511dabd734b653a98b45e8bd3c0), [Sonar Glasses: Silent Speech Recognition](ec5ddbc54cbf0686918bc273da8d97c3), [The Bespoke Internet: Algorithmic Portraits and the Loss of Self](70ebc812b72117e2ce11248d77ec7d37)
+* __Privacy concerns in modern cars__: [Privacy Nightmare: How Car Brands Collect and Share Your Data](d36bfc24eaef43d38c611b9c8d2491d0)
+* __Privacy controls__: [Google Launches Tool to Protect Personal Information](b5874f0dc7f077a23317b07aa5e60ea8)
+* __Privacy regulations__: [Consequences and Compliance: CNIL's Google Analytics Use Notice](903096f9f71209541fb6fabd6220b72b)
+* __Privacy rights__: [Michigan Supreme Court to Determine Legality of Drone Surveillance without Warrant](6beeee35311c9595fcb7510e04d6a369)
+* __Privategpt__: [PrivateGPT: Interact with Your Documents Offline](34be604e35b06b445dcbcda3e5ece6b1)
+* __Problem-solving__: [Oblique Strategies: Overcoming Creative Blocks](624594b96816ab42c43832aa315bf3b7), [The Importance of Conflict and Non-Violent Resolution](fb16444fba5241fd1199ff90e3572e9a)
+* __Problems with writing__: [The Misunderstood Art of Writing](084d5851e2f7a188dcc1d0f7e364f444)
+* __Procedural storytelling__: [The Power of Procedural Creativity](b904404d29de27e27cbc3dfa95c59f27)
+* __Processors__: [Nvidia Chief Technology Officer: Cryptocurrencies Bring No Value to Society](07715b9a363b2fb7f1368bfadad78052)
+* __Product development__: [The Importance of Ruthless Editing](77758e23f4c4a5892d58e3f5cff8f0ca), [Redefining MVPs: A Faster Way to Derisk New Product Ideas](5f1854892dfd2f3bd837d7e5db7369ee)
+* __Production and consumption__: [The Toothpaste Argument for Universal Basic Income](618c3b31c0c4ef4e6b764a04f0f09601)
+* __Productivity__: [Rewind: Boost Your Productivity with Personalized AI](99dc2dd219ce9361dc2c73cf4bb32863), [Productivity Paranoia and the Shift to Hybrid Work: Microsoft Work Trend Report](c44ce31cbe9d5b538bab463761a1fe8c)
+* __Productivity enhancement__: [Microsoft 365 Copilot: Revolutionizing Work with AI](590d9ca642d30a1f2e4720f11b28474f), [The Dilemma of Revealing AI Cyborgs](c42a95f16678ed3834840d48f8e775a3)
+* __Productivity growth__: [The Decline of the U.K.'s Economy](356a6ba108d8bfda52fe56a947f6b347), [The Missing Pandemic Innovation Boom](99bc8113e8e7bacc050e12acdae75e14)
+* __Professional development__: ["Career Cushioning: Protecting Your Future"](9f6a82373421931ea7e960ae526ff457)
+* __Professional growth__: [Career Lessons for Success and Growth](a06d27f1dd5a2328ba6aa8854abc5318)
+* __Professionalization of pickleball__: [The Rise of Pickleball: America's Fastest Growing Sport](80e437452636ee6f2c0dfbae9ee723dd)
+* __Professionals using chatgpt and other ai tools__: [AI Adoption in the Workplace: Early Insights](19d1bd27c4a10919f3e37ca2bae470e6)
+* __Programming__: [Creating Your Own AI-Powered Second Brain](b37c215f9aa0336c774381f68e795d5c), [Nuke Plants Stick with PDP-11 Code Until 2050](5939406bb00700661103e9480fb00613)
+* __Programming languages__: [A Brief History of WolfMUD](46c1f73cbd3e48207a7b612fe8678cd3)
+* __Progressive politics__: [The Unraveling of the Progressive Economy](f4ea5244ccafd654e5955673b0ee3976)
+* __Project finance__: [Financing Offshore Wind - Part 1](63a65ba211f78dca2965b6b2ca564df2)
+* __Project scoping__: [The Importance of Effective Foresight](40a7d90f20bae6180001e65049ae853b)
+* __Project-based learning__: [Advances in Large Language Models: Shaping the Future of Communication Technology](c41a64e50d0280a765ebdac4f8094446)
+* __Prompt engineering__: [Autonomous AI Agents: The Future of Prompt Engineering](af43a5b8a250454ff0fb2b559056ced2), [Awesome AI Image Synthesis](715a430b9a04a5670095d5510883dcc2), [Introduction to OpenAI Function Calling](72b08d7579b6d295c27f039d6ee5a01d)
+* __Proprietary software__: [The Dangers of Service as a Software Substitute (SaaSS)](5c135d085a6d575c9d112244b2a873fb)
+* __Prosthetic technology__: [Revolutionary Prosthetic Provides Control and Comfort](90accf3ba55fb5e705bbaa47ad145c50)
+* __Protection des données__: [Cybersecurity Threats to Law Firms](0b6d917158cd84c369d0af378202984b)
+* __Protection of civil rights__: [Blueprint for an AI Bill of Rights](dcddf63f302269a8c3b2f255e4e94c3b)
+* __Protein design__: [AI-Designed Proteins Kill Bacteria in Lab](851488841bb139d3ed24048269cd0b9b)
+* __Protests__: [Senegalese Government Websites Attacked by Hackers](4d2fd5459978f8dfc8e307ec4a44b638)
+* __Préparation à la mort__: [The Art of Preparing for Death](f38d21b83e092ffde66a379c439ec010)
+* __Psychedelic influence in beauty__: [The Rise of PSYCARE in Beauty](b396d58ff64cbfdfe136c278b263ee5a)
+* __Psychedelic masculinity__: [The Rise of Psychedelic Masculinity](96831e5a59b49b51b8a5a00eee72e863)
+* __Psychiatric disorders__: [Australia Allows Prescription of Psychedelics](551bd2bf76824741f2b0450fc112ae1e)
+* __Psychological warfare__: [The Long-Term Plan to Subvert America](17a923241feb2adea077d064eccc615b)
+* __Psychology__: [Neophilia and Its Discontents](bd85751af600abe8c39229eb4ba07c1c), [The Disappearing Houses and the Search for Normalcy](e825171606432c71606dc78b9bf86eee), [The Power of Free: How it Influences Consumer Behavior](0b5ca258e9c7ed2f9f6cf60dd523e148)
+* __Public concern about ai__: [Concerns about Artificial Intelligence in Daily Life](c3876ee8e1b4e0d9e38edf15caaa5521)
+* __Public health__: [Urgent threat: Drug-resistant fungus invading health care facilities](d28d19739c279a21eb19cac312e67bea), [Drop in U.S. Kindergartners' Vaccination Rates](f2e3c24131513e79e1193ffa31a7f1e7), [The Rise of Menopause Retreats](045add002e344d1657fe658e0ebe6b41), [Boil Water Notice for City of Houston](e84a367bfd1c9ebf3dddbb19a3d19303)
+* __Public safety__: [Italy's Right-Wing Government Criminalizes Raves](adb7356f3711c023daf08fec38221395)
+* __Publication of the notebooks__: [Darwin's Beagle Field Notebooks](e1718dbfd1ea52b4030af92331bf20ae)
+* __Publication process__: [The Journey of Writing and Selling a Short Story: "India World"](986a8bb137fc0429e11ccf89cd1452a0)
+* __Publishing__: [Increasing Luck through Work and Publication](0a1e31b7c3c14eedf08021f6bd5ebdfc)
+* __Publishing industry__: [The Battle for Publishing's Soul](6f56632efb0caa5753792bd870d5a6ff), [The Battle Over Books and AI](60708ef9829fd46241b75936b97b447d)
+* __Python decorators__: [5 Python Decorators for Data Science Projects](ee1e6c7eb9c0c87692569c164086065a)
+* __Python libraries__: [Generating Maps with prettymaps](181171c9876b970c08eb60fb31a3cb9f)
 
 ## Letter 'Q' 
 
 
-* __qna chatbot__: 
-* __qr code aesthetics__: 
-* __qr code usage__: 
-* __quality assessment__: 
-* __quantum computing__: [Researchers Develop New Source of Quantum Light](059bc68ff6f1a35906ae3e976a00c335)
-* __quantum gravity__: 
-* __quantum mechanics__: [Quantum Mechanics Defies Local Realism](cfa7b88cc31a76b552fd670d315800cc)
-* __querying__: 
-* __querying data__: 
-* __querying encrypted data__: 
-* __questioning legality and regulation__: 
+* __Qna chatbot__: [AI Agents in Cross Knowledge Base Search](b310338b1d3a90c8604a66294f636f65)
+* __Qr code aesthetics__: [AI Revolutionizes Aesthetics in QR Code Design](86c30e78e9e57491499a5be2fc2616d3)
+* __Qr code usage__: [QR Code Phishing Targets US Energy Organization](ccc796127756c12c57ce4db1a2014946)
+* __Quality assessment__: [Comparing Self-Hosted LLMs and OpenAI: Cost, Quality, Speed, and Privacy](cde52125a54df8cddd2d6464c9ed07de)
+* __Quantum computing__: [Researchers Develop New Source of Quantum Light](059bc68ff6f1a35906ae3e976a00c335)
+* __Quantum gravity__: [The Emergence of Space and Time](47ec89d0247058ebf93d0524269c7cf7)
+* __Quantum mechanics__: [Quantum Mechanics Defies Local Realism](cfa7b88cc31a76b552fd670d315800cc)
+* __Querying__: [LangChain Library Adds Neo4j Vector Index Support](f6bc0876eba844318faae06b030904a5)
+* __Querying data__: [Bridging Knowledge Graphs and Large Language Models](fa3124e38f66a8d1e635e863f43d1ec0)
+* __Querying encrypted data__: [MongoDB Releases Queryable Encryption Preview](fd40f342b5e6148bf9aa0c0eb40fb44e)
+* __Questioning legality and regulation__: [Cloud Kitchens: Multiple Brands, One Location](922837a7daf20516c8487df8f6e20ae7)
 
 ## Letter 'R' 
 
 
-* __radar technologies__: [Time Reflections with Light Waves](4276927d1e8af2054511c6ea72f2a9d4)
-* __radiation__: 
-* __radionuclides__: [The Legacy of Nuclear Testing: Low-Background Steel](fd957af83036959652ceb25c652a97c9)
-* __radula anatomy__: [Snail and Slug Feeding Anatomy](705b698cf565ce7529e9e0aceef7fbeb)
-* __rapid innovation in the open source community__: 
-* __reading comprehension__: [The Power of Handwritten Notes](558751c7b3dba31bf91330d72c41d5b3)
-* __reasons for going sober__: [The Rise of Sober Generation](94960bd3c0ad4c594fd56651f4087128)
-* __rebranding__: [Copi: Rebranding an Invasive Fish as a Healthy Seafood Option](b8f11dee06e44c6b4ecb80c98f502443)
-* __reclaiming time__: [Saving Time: Reshaping Temporality and Reclaiming Agency](047936a2b08c1b5dda3018bc98dc1d9b)
-* __recommerce market__: 
-* __reconnaissance missions__: [Corvo Cardboard Drones: Low-Cost Reconnaissance and Transport in Ukraine](4432c5315ea4b0118213c037d1d4f87e)
-* __recruiting for success__: 
-* __recruitment strategies__: 
-* __recycling__: [Fast Tech: Rising E-Waste Crisis](78a83eb7da0d8ccb48eb7538e4068654)
-* __reducing carbon emissions__: [Pioneering Wind-Powered Cargo Ship Sets Sail](17a6704a82824be2f5910ebceee7ec75)
-* __reducing middle management__: [The Impact of AI on Middle Management](95ddb5a9e335a7f5f977a4ff7b1d17e3)
-* __reentering the workforce in retirement__: [Older Workers Return to Workforce](feb0555f9c54012995fdac8ef2410b8e)
-* __regional development__: 
-* __regulation__: [Compliance of Foundation Model Providers with EU AI Act](b39cd180dcfb9a92e51a09e5dcb0a0f4)
-* __regulation of ai__: 
-* __regulation of ai chatbots__: 
-* __regulation of artificial intelligence__: 
-* __regulation of litigation funding__: [Litigation Funding: The Unregulated and Expanding Industry](4e8e2c73e225932e90e085ff0a36da60)
-* __regulations__: [Challenges and Concerns in AI Deployment](382e9ebc1e518ee49e541da1e6b5f8af)
-* __regulations and policies regarding police use of force__: 
-* __regulatory agencies__: [Artificial Sweetener Aspartame May Be Cancer Risk](80864a00731337a27c0cccd1a41e2063)
-* __regulatory challenges__: 
-* __regulatory violations__: 
-* __relation entre travail et jeux vidéo__: [The Ethics of Stardew Valley and the Spirit of Capitalism](ba66ec5438b7d5899fbfa973e82d66ca)
-* __relaxation__: [Dead Week: A Time of Rest and Nothingness](feaf4c8a17f7451ae8634f22609ffa93)
-* __reliance on complex digital systems in the industry__: [Concerns raised over switch to imperial measurements](6f19a30cab90c95bd01c25851126531e)
-* __religion__: [A Street Full of Splendid Strangers](ab6e3fcdacd5615fd45dda4664c395e5)
-* __religion and philosophy__: 
-* __religion and technology__: 
-* __relocation and habitability__: 
-* __rembrandt__: 
-* __remote communities__: [UK's First Drone Mail Service in Orkney](de3ad3595732b521d35c785274d4773b)
-* __remote control__: 
-* __remote control capabilities__: 
-* __remote sensing__: 
-* __remote work__: 
-* __rendering__: 
-* __renewable energy__: [Innovative Motionless Wind Turbine Revolutionizes Energy Generation](e6a8537f7a69f6801ef58f226c538321), [The LOOP: Dubai's Sustainable Highway Initiative](028e8b0caa69712c4fda4048ad84de72), [The Rise of Deep-Sea Mining](5bbc958cd9d41c08482acdaa4ac033e4), [Solar Grazing: Livestock on Solar Farms](8d9cdb24d214893227785b130ca60240)
-* __renewable energy and electricity__: 
-* __reproducibility__: 
-* __reproducibility in science__: [Analyzing Reproducibility in Ecology Research](6ca0eb61f6679e513cde2fa1b3637de7)
-* __repurposing old devices__: [Repurposing Old Phones for Personal Projects](40aa9f2abd08b4cefd81827111b64979)
-* __reputation of consultants__: [The Value of Management Consultants](e35045210e6be5203ded2be5b9ed63f6)
-* __research and approvals__: 
-* __research management__: [Striving for Greatness in Research](d63dcd0ef7dc557c2fe4c312f4cd686f)
-* __research paper analysis__: 
-* __resilience of vertical software in uncertain times__: [Vertical Software: Winning in Uncertain Markets](222a890517ae08e77a3cc5d6d37516c4)
-* __resilient infrastructure__: [Understanding the Interplay of Infrastructure](4a29de3bba5a755ccf2dd3db47e0c32f)
-* __responding to uncertainty__: [The Rise of Uncertainty Shocks: Navigating Global Turbulence](ab8c972a6c092c9ac6b37922e0a07f62)
-* __response shaping__: 
-* __responsibility__: [Microsoft Dissolves AI Ethics and Society Division](dc8173751ce4b0562a6a9cf47ee715ab)
-* __restaurant brand duplication__: 
-* __restaurant experience__: [Embracing the Solo Diner: Making Dining Alone a Memorable Experience](387cc7d6dcac314087dfc35f2091b410)
-* __restrictions on open source__: [The Evolution of "Open Source" in AI Models](ab65e19023994f8f7774408b7a7cc920)
-* __restructuring__: [The Process of Re-Applying for Jobs](3389421f891eacb4a2700199f1d4fd60)
-* __resume-first applications__: 
-* __retirees returning to work__: 
-* __retirement living options__: 
-* __retraining the workforce__: 
-* __retrieval-augmented generation__: 
-* __return-to-work programs__: 
-* __reusability__: [The Power of Ontologies in Finance](2fabc8d492124376829f91c34f828437)
-* __revenge__: [A Chaotic Journey of Sibling Tragedy](109fdce64e3534d2f17935a3c4fbd713)
-* __revival of ancient grains__: 
-* __revival of vintage design__: 
-* __reviving vintage analog cameras__: 
-* __rfid technology__: 
-* __right to repair__: 
-* __right to repair movement__: 
-* __right-to-repair issue__: [The McDonald's Ice Cream Machine Mystery](f172e76b58b2e57af99257f3a45fe021)
-* __right-to-repair legislation__: [New York's Right-to-Repair Bill and Lobbyist Influence](c43f57be38bbfef16e25047b07cd9d5d)
-* __rise in alternative career paths__: 
-* __rise of pickleball__: 
-* __rising cost of living__: [Carrefour Exposes Shrinkflation in Supermarkets](471e724e40f6934417b8c27dcb1d5639)
-* __rising costs of charging electric cars__: [Rising Costs of Electric Car Charging](044f5d6bb4070ed49afafb90f38713bd)
-* __risk management__: [Central Banks Utilize Alternative Data Sources](cd782a2ff57b412ca4648658d822a401)
-* __risk-based approach to ai__: 
-* __risks__: 
-* __risks and dangers of ai__: 
-* __risks of ai technology__: 
-* __risks of harvest failures__: [Risks of Harvest Failures Underestimated](9bebaea9ed2c74b635c7ffbedc039556)
-* __robocallers__: 
-* __robotic limbs__: [Roboticists Want to Give You a Third Arm](faad51d1f885af1db9dee5e5ce52b46e)
-* __role of middle managers in the future of work__: [The Impact of Generative AI on Middle Managers](4427e1d7ce3ce8d0a6f40cb808f69b6a)
-* __role of prompt engineer__: 
-* __router disposal__: [Discarded Enterprise Routers Store Valuable Secrets](b05de170e76d25145c54337068780075)
-* __rural internet access__: 
-* __russia__: 
-* __réaménagement de la petite ceinture__: [Opening of 4 Kilometers of Green Spaces on the Petite Ceinture](ac4c193101d4a7d81e4a96b453ea7606)
+* __Radar technologies__: [Time Reflections with Light Waves](4276927d1e8af2054511c6ea72f2a9d4)
+* __Radiation__: [Radon Decay and Electric Fields](6c94b8dcd4d0fc4b429a994e2abd353f)
+* __Radionuclides__: [The Legacy of Nuclear Testing: Low-Background Steel](fd957af83036959652ceb25c652a97c9)
+* __Radula anatomy__: [Snail and Slug Feeding Anatomy](705b698cf565ce7529e9e0aceef7fbeb)
+* __Rapid innovation in the open source community__: [Leaked Google document reveals concerns about OpenAI's competitive edge](271c9ba1f197505aba5f225c62e3c09f)
+* __Reading comprehension__: [The Power of Handwritten Notes](558751c7b3dba31bf91330d72c41d5b3)
+* __Reasons for going sober__: [The Rise of Sober Generation](94960bd3c0ad4c594fd56651f4087128)
+* __Rebranding__: [Copi: Rebranding an Invasive Fish as a Healthy Seafood Option](b8f11dee06e44c6b4ecb80c98f502443)
+* __Reclaiming time__: [Saving Time: Reshaping Temporality and Reclaiming Agency](047936a2b08c1b5dda3018bc98dc1d9b)
+* __Recommerce market__: [Recommerce Soars as Secondhand Shopping Surges](6e8eeaf2acd0e96acb4d43a085c483e1)
+* __Reconnaissance missions__: [Corvo Cardboard Drones: Low-Cost Reconnaissance and Transport in Ukraine](4432c5315ea4b0118213c037d1d4f87e)
+* __Recruiting for success__: [The Future of Talent Identification and Recruitment](14935a7eab6d6c1d8a5ce2f25d3b54bb)
+* __Recruitment strategies__: [The Rise and Consequences of Job Title Inflation](44cf553e3e10402a0686ceb5ba819f81)
+* __Recycling__: [Fast Tech: Rising E-Waste Crisis](78a83eb7da0d8ccb48eb7538e4068654)
+* __Reducing carbon emissions__: [Pioneering Wind-Powered Cargo Ship Sets Sail](17a6704a82824be2f5910ebceee7ec75)
+* __Reducing middle management__: [The Impact of AI on Middle Management](95ddb5a9e335a7f5f977a4ff7b1d17e3)
+* __Reentering the workforce in retirement__: [Older Workers Return to Workforce](feb0555f9c54012995fdac8ef2410b8e)
+* __Regional development__: [China's Planned City Clusters for Sustainable Urbanization](2c6411450b93e8449beffcb00e58b39b)
+* __Regulation__: [Compliance of Foundation Model Providers with EU AI Act](b39cd180dcfb9a92e51a09e5dcb0a0f4)
+* __Regulation of ai__: [The Global Challenge of Regulating AI](c3301a7146d6814214205c4b43376f17)
+* __Regulation of ai chatbots__: [China Proposes New Regulations for AI Chatbots](b6dc0996967d1b60cd671a3f6a787e9b)
+* __Regulation of artificial intelligence__: [Landmark Legislation: MEPs Endorse Rules for Artificial Intelligence](550199f663e5e26f2824e80f55126c56)
+* __Regulation of litigation funding__: [Litigation Funding: The Unregulated and Expanding Industry](4e8e2c73e225932e90e085ff0a36da60)
+* __Regulations__: [The Rise of "Greenhushing" and its Implications](a808b73a65a5a8140b4fc5dd5845679b), [France Fines Microsoft €60m for Advertising Cookies](002ee663c73c7add6ce2cabe29e4ae02), [Challenges and Concerns in AI Deployment](382e9ebc1e518ee49e541da1e6b5f8af)
+* __Regulations and policies regarding police use of force__: [San Francisco Moves Closer to Authorizing Lethal Force Robots](316320b3518ab6fd8e843b63fb74e62b)
+* __Regulatory agencies__: [Artificial Sweetener Aspartame May Be Cancer Risk](80864a00731337a27c0cccd1a41e2063)
+* __Regulatory challenges__: [AI Threatens Financial Meltdown, Warns SEC Chairman](c24651d7a89dbc792142e26a99579bfe)
+* __Regulatory violations__: [Ex-Uber Lobbyist Reveals Himself as Source of Leaked Documents](de008c7c88ce17b51251989a109d2fbb)
+* __Relation entre travail et jeux vidéo__: [The Ethics of Stardew Valley and the Spirit of Capitalism](ba66ec5438b7d5899fbfa973e82d66ca)
+* __Relaxation__: [Dead Week: A Time of Rest and Nothingness](feaf4c8a17f7451ae8634f22609ffa93)
+* __Reliance on complex digital systems in the industry__: [Concerns raised over switch to imperial measurements](6f19a30cab90c95bd01c25851126531e)
+* __Religion__: [A Street Full of Splendid Strangers](ab6e3fcdacd5615fd45dda4664c395e5)
+* __Religion and philosophy__: [Our Technology Sickness—and How to Heal It](c1bb890337ef382bfaa5720c9fd05134)
+* __Religion and technology__: [The Rise of Robotic Rituals](829fd6babd3e70a7b19c444588fad9d0)
+* __Relocation and habitability__: [The Challenge of Finding a Safe Place in a Changing Climate](efa36dc9bd5ddc890866d4ab1e68e71f)
+* __Rembrandt__: [Tattooing Rembrandt's Art: A Unique Experience](29baa78392020ba51b3c2a8fd533e8fe)
+* __Remote communities__: [UK's First Drone Mail Service in Orkney](de3ad3595732b521d35c785274d4773b)
+* __Remote control__: [Robo-Roaches: Remote-Controlled Insect Cyborgs](b0cc49ba07708ecffb1a8c88d66554fd)
+* __Remote control capabilities__: [The Hidden Operating System in Intel CPUs](eaa3cc330c6bfbc1cb04d667d6292432)
+* __Remote sensing__: [Fiber Optics: Illuminating the Earth's Secrets](b9ae471ec921bd6ea93c1594ad26feb6)
+* __Remote work__: [Geographic Arbitrage: Saving Money by Earning Income in a Strong Economy](1bebd9c22d66a412bc9dc0ff5b4b562e)
+* __Rendering__: [Generating Maps with prettymaps](181171c9876b970c08eb60fb31a3cb9f)
+* __Renewable energy__: [Innovative Motionless Wind Turbine Revolutionizes Energy Generation](e6a8537f7a69f6801ef58f226c538321), [The LOOP: Dubai's Sustainable Highway Initiative](028e8b0caa69712c4fda4048ad84de72), [The Rise of Deep-Sea Mining](5bbc958cd9d41c08482acdaa4ac033e4), [GM Energy: A Challenge to Tesla in Renewable Energy Market](db277b1d574be61a29e5d0e818b02268), [Solar Grazing: Livestock on Solar Farms](8d9cdb24d214893227785b130ca60240), [Thousands of Solar Energy Monitoring Systems Exposed Online](3ac657f7b32d24bb43bddca058e2db25), [Harvesting Electricity from Plants: A Sustainable Breakthrough](b84bf2742e851da35bfd23220e697b3c)
+* __Renewable energy and electricity__: [The Role of Data Centers in Ireland's Technological Revolution](fe8c9a54a3dbc61b0abc367d14524f53)
+* __Reproducibility__: [GPT4All: Training an Assistant-style Chatbot](d7d522cdd6d70b19b072272af8b501c2)
+* __Reproducibility in science__: [Analyzing Reproducibility in Ecology Research](6ca0eb61f6679e513cde2fa1b3637de7)
+* __Repurposing old devices__: [Repurposing Old Phones for Personal Projects](40aa9f2abd08b4cefd81827111b64979)
+* __Reputation of consultants__: [The Value of Management Consultants](e35045210e6be5203ded2be5b9ed63f6)
+* __Research and approvals__: [Australia Allows Prescription of Psychedelics](551bd2bf76824741f2b0450fc112ae1e)
+* __Research management__: [Striving for Greatness in Research](d63dcd0ef7dc557c2fe4c312f4cd686f)
+* __Research paper analysis__: [Autonomous Dual-Chatbot System for Research Paper Digesting](3f2d71fd29e59b34cde2af2dd3222940)
+* __Resilience of vertical software in uncertain times__: [Vertical Software: Winning in Uncertain Markets](222a890517ae08e77a3cc5d6d37516c4)
+* __Resilient infrastructure__: [Understanding the Interplay of Infrastructure](4a29de3bba5a755ccf2dd3db47e0c32f)
+* __Responding to uncertainty__: [The Rise of Uncertainty Shocks: Navigating Global Turbulence](ab8c972a6c092c9ac6b37922e0a07f62)
+* __Response shaping__: [The Art of AI Response Shaping](b17aaf72b1537d9df1c51b5d72f6cb2c)
+* __Responsibility__: [Microsoft Dissolves AI Ethics and Society Division](dc8173751ce4b0562a6a9cf47ee715ab)
+* __Restaurant brand duplication__: [Cloud Kitchens: Multiple Brands, One Location](922837a7daf20516c8487df8f6e20ae7)
+* __Restaurant experience__: [Embracing the Solo Diner: Making Dining Alone a Memorable Experience](387cc7d6dcac314087dfc35f2091b410)
+* __Restrictions on open source__: [The Evolution of "Open Source" in AI Models](ab65e19023994f8f7774408b7a7cc920)
+* __Restructuring__: [The Process of Re-Applying for Jobs](3389421f891eacb4a2700199f1d4fd60)
+* __Resume-first applications__: [The Frustrations of Resume-First Hiring Processes](1f0fcccf6722a171ed692551071fb066)
+* __Retirees returning to work__: [Retirees Returning to Workforce Amid Economic Challenges](2a489a36a1fa238ae4e3d65423f52e92)
+* __Retirement living options__: [Is Living on a Cruise Ship Cheaper Than a Retirement Home?](3f93494c0a224e19c9a86b8b566bb280)
+* __Retraining the workforce__: [The Impact of AI on Society: Part 1](cf119665e47c7434e3e3c54dbbc585e3)
+* __Retrieval-augmented generation__: [LangChain Library Adds Neo4j Vector Index Support](f6bc0876eba844318faae06b030904a5), [Knowledge Graphs & LLMs: Multi-Hop Question Answering](0184d23e59d3dc6772ba06c6634f033b)
+* __Return-to-work programs__: [The Rise of Returnships: A Pathway Back to the Workforce](16492dc2f92cae2688e0f452eea5596b)
+* __Reusability__: [The Power of Ontologies in Finance](2fabc8d492124376829f91c34f828437)
+* __Revenge__: [A Chaotic Journey of Sibling Tragedy](109fdce64e3534d2f17935a3c4fbd713)
+* __Revival of ancient grains__: [The Revival of Maslins: An Ancient Grain Tradition with a Promising Future](7de6c4b68c071bd607debc0959aa0b7f)
+* __Revival of vintage design__: [The Disappearing Sound of Airports](43b34610cef64430328e6a5f05bbf51c)
+* __Reviving vintage analog cameras__: [Reinvigorating Vintage Analog Cameras with a 20MP Sensor](f7b3a19af28d70bf1f74f5d17c496c39)
+* __Rfid technology__: [DS Penske Team Fined and Penalized for Installing RFID Scanner in Formula E Pit Lane](7416c71d5b084463bd7eab2dcf229b92)
+* __Right to repair__: [France Investigates Apple's Planned Obsolescence of iPhones](e8e4a3bb6ffd1901ed8c146981e973d7)
+* __Right to repair movement__: [EU Moves Towards Easy-to-Replace Smartphone Batteries](7e3448aaf8dcf592d5c14da8fb0fc233)
+* __Right-to-repair issue__: [The McDonald's Ice Cream Machine Mystery](f172e76b58b2e57af99257f3a45fe021)
+* __Right-to-repair legislation__: [New York's Right-to-Repair Bill and Lobbyist Influence](c43f57be38bbfef16e25047b07cd9d5d)
+* __Rise in alternative career paths__: [The Higher Education Apocalypse: Declining Enrollment and the Consequences](d64c4666be4d84f147f57055b74daa32)
+* __Rise of pickleball__: [The Rise of Pickleball: America's Fastest Growing Sport](80e437452636ee6f2c0dfbae9ee723dd)
+* __Rising cost of living__: [Carrefour Exposes Shrinkflation in Supermarkets](471e724e40f6934417b8c27dcb1d5639)
+* __Rising costs of charging electric cars__: [Rising Costs of Electric Car Charging](044f5d6bb4070ed49afafb90f38713bd)
+* __Risk management__: [Central Banks Utilize Alternative Data Sources](cd782a2ff57b412ca4648658d822a401)
+* __Risk-based approach to ai__: [Landmark Legislation: MEPs Endorse Rules for Artificial Intelligence](550199f663e5e26f2824e80f55126c56)
+* __Risks__: [The Bio Revolution: Advances in Biology and Their Impact on Society](62a5bae52266a680c6a13bd3ef8dc48c)
+* __Risks and dangers of ai__: [The Future of Artificial Intelligence](7fcef9a240c0738d2390c83f9713dc98)
+* __Risks of ai technology__: [AI Voice Simulators Enable Scammers to Exploit Vulnerable Individuals](0a49a5c0770b63ff41a4b19b66e478b1)
+* __Risks of harvest failures__: [Risks of Harvest Failures Underestimated](9bebaea9ed2c74b635c7ffbedc039556)
+* __Robocallers__: [Subscription Service Uses ChatGPT Bots to Annoy Telemarketers](857470c398e02e1332fa173027719cc5)
+* __Robotic limbs__: [Roboticists Want to Give You a Third Arm](faad51d1f885af1db9dee5e5ce52b46e)
+* __Role of middle managers in the future of work__: [The Impact of Generative AI on Middle Managers](4427e1d7ce3ce8d0a6f40cb808f69b6a)
+* __Role of prompt engineer__: [The Rise of Prompt Engineers: AI's Impact on the Writing Profession](7deb1de0960ac64f860d34b9a353deb5)
+* __Router disposal__: [Discarded Enterprise Routers Store Valuable Secrets](b05de170e76d25145c54337068780075)
+* __Rural internet access__: [A Rural Success: Setting Up Your Own Internet Service Provider](e6d593fc438de6602ae1dd4b5d404a05)
+* __Russia__: [Cyberattack Disrupts Poland's Railway System](f0da3ab471bb07f203a20b0ff24b57c0)
+* __Réaménagement de la petite ceinture__: [Opening of 4 Kilometers of Green Spaces on the Petite Ceinture](ac4c193101d4a7d81e4a96b453ea7606)
 
 ## Letter 'S' 
 
 
-* __saas services__: 
-* __saass__: 
-* __sabotage__: [Cyberattack Disrupts Poland's Railway System](f0da3ab471bb07f203a20b0ff24b57c0)
-* __safety__: [Stable Diffusion Public Release](09e12f5c07382efea39163ed3274098a)
-* __safety precautions__: [Introducing DALL·E 2: AI Creates Realistic Images from Text](ecf73eea05a6aaa8e7d76dc06f735adf)
-* __safety protocols__: [Open Letter Calls for Pause on Training Powerful AI Systems](96bb44778e10efa6829f7ff9737593f2)
-* __san francisco history__: 
-* __santé__: 
-* __satellite data as a proxy for gdp__: 
-* __satellite security__: 
-* __satellite technology__: [The Power of Satellite Data: Uncovering Economic and Environmental Insights](2c79a113d206a8ec8ec147422fcea12c)
-* __saving money__: 
-* __scaling a startup__: 
-* __sci-fi prototyping__: [Science Fiction Prototyping: Modeling Future Threats](cdc3436dbcf552eeeffbebf1b8783c2d)
-* __science__: [Richard Feynman's One Sentence for the Next Generation](f74cce891f9a28209838900562566179), [Predictions for 2030](d14b14eaf86b482708781d3e6d97e33a)
-* __science fiction__: [A Desolation Called Peace (Teixcalaan, #2)](289d72624afd0bb868b1d4c7a26cf352), [The Importance of Science Fiction](8ebb431ce8d949d5a1ecb52bbd42a69f)
-* __science fiction horror__: [The Girl with All the Gifts (film)](f6e12d619e18fa147b18488c1f1ba099)
-* __science fiction prototyping__: [Designing the Future Through Science Fiction](5d2fec6b3cc04645c92e73267da0f7d9)
-* __scientific advancements__: 
-* __scientific observation__: [Fungi: A Dark and Beautiful World](bfd7ecd32e48e49fda1567f40ccd671e)
-* __scientific research__: [The Rise of Electroculture in Gardening](257c9d336364e061c817ec77db9e78f6), [Fart Proudly: Benjamin Franklin's Essay on Flatulence](001b195bbddec8fb0193b668a70aa883)
-* __scientific study__: [The Great Wager: Seeking Consciousness](a22ee1f3d953a98514b92c413784feea)
-* __scientific wagers__: [The Future of Consciousness Science](098f4de4b2e0da23ef41a92329c5e761)
-* __scraping prevention__: [Kudurru: A Tool to Protect Artists from AI Image Generators](bc433d7cb21513ab55af7f1198e0fbb6)
-* __seafood__: [Copi: Rebranding an Invasive Fish as a Healthy Seafood Option](b8f11dee06e44c6b4ecb80c98f502443)
-* __search engines__: 
-* __secondary markets__: [The Secondhand Watch Revolution](d41096d7ca7f38f50a5dbfeef8b3c398)
-* __security vulnerability__: [Security Flaw in Australian Government's Voice Identification System](f34407cbb44c57483e2640455a12b9c8)
-* __seed burial__: [E-seeds Drill Themselves into Soil](58c165e1a46408307f2b60f63df7c549)
-* __seismic activity__: [Ground Breaking: Tiny Changes in GPS Signals Could Predict Large Earthquakes](a00fd810052374121de9c17d5a5d60ac)
-* __self identity__: 
-* __self-actualization__: 
-* __self-care__: [Goblin Mode: Oxford Word of the Year 2022](94637228bb2652f972551ec4df3e9fb3)
-* __self-experimentation__: [Psychonauts: Drugs and the Making of the Modern Mind](46b83c5dfd8f27c0bb2335917e2f5a1f)
-* __self-healing code__: 
-* __self-improvement__: [Everything is a Practice](a81f85f066b0093553fc39638d3e0559)
-* __self-love__: 
-* __semantic search__: 
-* __semiconductor industry__: [France Invests €3 Billion in Semiconductor Factory](8dfeb7f353bb51c54f0fbaeadf3ed292)
-* __sentencing__: [Former Theranos COO Sentenced to 13 Years in Prison](b0d1ed951415ca875228752e72f21c58)
-* __sequel__: 
-* __sequence diagrams__: 
-* __server__: 
-* __sexual assault reporting__: 
-* __shared interests__: 
-* __shark behavior__: [Surprising Synchronicity: Great White Sharks Travel Together](54cd29480e753c756579b2a053fea120)
-* __shark physiology__: [Unique Adaptation Allows Sharks to Hunt in Cold Waters](27a3a94222f061917b211c94d1d3ee92)
-* __shepherds__: [The Yan Tan Tethera Counting System](4754b54aa9384e4b40e9d054660ce4f3)
-* __shift in online culture__: 
-* __shift towards closed communities__: 
-* __shift towards digital menus__: [The Rise of QR Codes in Restaurants](f5b3a5e0ba84a3093de9500e6cf31c35)
-* __shifting boundaries__: 
-* __shipping__: [A Simple Idea: Protecting Bikes](9c652dfb9dcd53a8d38a79cc1981bb74)
-* __short fiction__: 
-* __short snorter tradition__: 
-* __short stories__: 
-* __shortage of skilled workers__: [Delays in TSMC's Arizona Chip Factory Construction Impact US AI Investment](2b6cc7a8e528932936c2b72ea35d930c)
-* __shrinkflation__: [Carrefour Exposes Shrinkflation in Supermarkets](471e724e40f6934417b8c27dcb1d5639)
-* __signal processing__: 
-* __silent-speech recognition technology__: [Sonar Glasses: Silent Speech Recognition](ec5ddbc54cbf0686918bc273da8d97c3)
-* __simplicity__: [The Power of Simplicity in Living Systems](628eabb2a1ffbe7b0e6865d9367c32de)
-* __simulation__: [The Over-Simulation Problem in Engineering](378adae519eda1077ca6e628e3f706df)
-* __singapore__: 
-* __skills development__: 
-* __sleep__: [The Cadogan Partners with Sleep Expert for Ultimate Comfort](02955553e2ee09903aab2ab1867c860b)
-* __sleep economy__: 
-* __sleep quality__: [Bedtime Rituals and Sleep Quality: A Survey of American Adults](615b115fc368aacddda24fb30f9ddf44)
-* __sleeping services__: 
-* __slow learning__: 
-* __small business support__: 
-* __small businesses__: 
-* __small-scale manufacturing__: 
-* __smart city__: 
-* __smart devices__: [Natural Conversations with Google Assistant](3b057a14187c304edd1a0f4bbed854a8)
-* __smart home technology__: 
-* __smartphone battery replaceability requirements__: 
-* __smartphones__: [The Battle for Your Car: Google vs. Apple](9dcdb4959b186e68114c6cc92931068e)
-* __snail and slug feeding__: [Snail and Slug Feeding Anatomy](705b698cf565ce7529e9e0aceef7fbeb)
-* __sober movement__: [The Rise of Sober Generation](94960bd3c0ad4c594fd56651f4087128)
-* __social factors__: [Understanding the Interplay of Infrastructure](4a29de3bba5a755ccf2dd3db47e0c32f)
-* __social inequality__: 
-* __social initiatives in supermarkets__: 
-* __social issues__: 
-* __social learning__: [Bumblebees: Cultural Learning Among Insects](2394a07d8b41ae57fc3d67bd80e7f751)
-* __social media__: [Disinformation Dominates X, Formerly Twitter](5793d28b92e90a64b918cfaefad509db), [Goblin Mode: Oxford Word of the Year 2022](94637228bb2652f972551ec4df3e9fb3), [The Rise of Algospeak: Americans Evade Detection with Code Words on Social Media](fe5ece17d1050e9097bd9a2e6e0ef50c)
-* __social media regulation__: 
-* __social norms__: [Fart Proudly: Benjamin Franklin's Essay on Flatulence](001b195bbddec8fb0193b668a70aa883)
-* __social tariffs__: [One Million Cancel Broadband Amid Rising Living Costs](f71e17c8d36e6dbced874ff9a319e733)
-* __social trust and community resilience__: 
-* __social wellbeing__: [Greeting Neighbors Linked to Higher Wellbeing](d16e5657697812f4271d7ff1d18fd874)
-* __socializing__: [The Radical Power of Hanging Out](edbb7336dfb26098bcc966ca17c074b9)
-* __society__: [Autonomous Quotes: Reflections on Capitalism and Identity](35ec712b8e22276ed84324aea8ad997b)
-* __socioeconomic impact of cochlear implants__: 
-* __socioenvironmental impacts of metal production__: [Metal without Mining: The Rise of Magrathea](de8c393b7b1395557948cb50d90de996)
-* __software architecture__: 
-* __software companies__: 
-* __software company roles__: [MetaGPT: The Multi-Agent Framework](0cf9069c3a60ab8376522614af32de62)
-* __software design__: [Bad software destroyed my doctor's memory](976f66dccf4086981111e810d0160229)
-* __software development__: [Challenges and Future of libjpeg-turbo](d23d7b7fbbd9de014450cfdd5d2e9664)
-* __software liability__: [Biden Administration Unveils Cybersecurity Strategy and Targets China as Major Threat](1eaefdcf11b24d5f443b5f4e7645e0a5)
-* __software pricing models__: [The Evolution of Software Pricing Models](578c4ca8c38df5eb168308242e9ea711)
-* __software reproduction__: 
-* __software security__: [EU's Cyber Resilience Act Threatens Open Source Developers](2e8ebbefc0b74a9ac3862ef6adcfaffd)
-* __software subscriptions__: [The Rise of Software as a Service (SaaS)](62f0c80f0091e9b15465cd516137b05e)
-* __software unlock__: [BMW Introduces Subscription-Based Heated Seats](467012ba127c9642ad57804f2e3a6a1e)
-* __software vulnerabilities__: 
-* __solar energy__: [Innovative Motionless Wind Turbine Revolutionizes Energy Generation](e6a8537f7a69f6801ef58f226c538321)
-* __solar grazing__: [Solar Grazing: Livestock on Solar Farms](8d9cdb24d214893227785b130ca60240)
-* __solar-powered technology__: 
-* __solo dining__: [Embracing the Solo Diner: Making Dining Alone a Memorable Experience](387cc7d6dcac314087dfc35f2091b410)
-* __sologamy__: 
-* __solutions for the labor shortage__: 
-* __southwest desert__: 
-* __space colonization__: 
-* __space exploration__: 
-* __space law__: 
-* __space opera__: [A Desolation Called Peace (Teixcalaan, #2)](289d72624afd0bb868b1d4c7a26cf352)
-* __space technology__: 
-* __space travel__: 
-* __specialists vs. generalists__: [The Difference Between Academics and Intellectuals](f07df9d85e95d88e18345a39166c0a53)
-* __species identification__: [Snail and Slug Feeding Anatomy](705b698cf565ce7529e9e0aceef7fbeb)
-* __spider behavior__: [The Cognitive Spiderweb: Extending Cognition to the Web](870cf0da8080715e60bf3cef2094cc2a)
-* __spider/web oracles__: 
-* __spirituality__: [A Father's Love Lives On](f8192071b7eaa2b571a9ca12551b9d70)
-* __sportswashing__: 
-* __spread of behavior__: [Orca Rams Into Yacht Near Scotland, Suggesting Behavior Spread](ec53d1856ccf49df631de3516f6aa6a2)
-* __spring drive technology__: 
-* __ssh key exposure__: 
-* __staff shortages__: [Hotels Turn to Robots as Staffing Shortages Persist](b35030f7ffb9e082dea84058ac63f3ca)
-* __start-up culture__: 
-* __startup advice__: 
-* __startups__: [Chipiron: Portable Mini-MRI Revolutionizing Healthcare](f99fa5e02647a517b709d5b44f85fd5c)
-* __startups and nlp__: 
-* __state-sponsored hacking__: 
-* __static electricity__: 
-* __stellar phenomena__: 
-* __stigma and self-judgment__: [The Challenges of ADHD in the Workplace](5787bdf4f1ad4805a622fc45bf75f023)
-* __storytelling__: 
-* __strategic foresight__: 
-* __strategy execution__: [The Importance of Clear Strategy Choices](b393d3164c1634957a3bc8e2ae733b41)
-* __streamlit webapp__: 
-* __string theory__: 
-* __structural color__: [Revolutionary Light and Cool Structural Paint](a6bfcabefea560d7dfefd5aab87f047c)
-* __structural monitoring and optimization__: [World's First 3D-Printed Steel Bridge Showcases Technology for Reduced Material Usage](73bdb86789ac19a60022e3bc5bb2b532)
-* __structured data processing__: 
-* __struggles of ride-hailing drivers in south africa__: 
-* __student accommodation crisis__: [Student Accommodation Crisis: No Place to Live](6857ceabb001165abd4ed989dbe2f656)
-* __student loans__: 
-* __student well-being__: [Technology and Children’s Well-Being in Danish Schools](17ac55c1f87675e075557fa4fa5ba14e)
-* __subscription benefits__: [Central Banks Utilize Alternative Data Sources](cd782a2ff57b412ca4648658d822a401)
-* __subscription economy__: 
-* __subscription plans__: [Trial Inclusions and Subscription Options](42029469086ed8b0defa5120ec35459e)
-* __subscription serfdom__: [Corporate Subscription Serfdom: Training Our Children for a Life of Dependency](6bccf38c9e97c992a3f5861fc6297380)
-* __subscription-based options__: [BMW Introduces Subscription-Based Heated Seats](467012ba127c9642ad57804f2e3a6a1e)
-* __subtraction__: [The Power of Subtraction in Creating Change](954add221b754bf78bfb38199d5eb868)
-* __summit disease__: [Unraveling the Mind Control of Zombie Flies](7716ffd31f1b9f566bacf04995fd94f9)
-* __superbug resistance__: [New Antibiotic Discovered with AI](bb7069f38ff720f7c4d690177ec5d9f9)
-* __superconducting qubits__: [Quantum Mechanics Defies Local Realism](cfa7b88cc31a76b552fd670d315800cc)
-* __supermarket industry and competition__: 
-* __supply and demand__: 
-* __supply chain management__: 
-* __supply chain poisoning__: 
-* __supply chain resilience__: 
-* __supply chain vulnerabilities__: [Monetising Hacking Through Commodity Shipments](af7a13a1e97a8ebff3d521dabea087ce)
-* __surveillance__: [The Rise of Luxury Surveillance](382ab5700ea4e7c189a438c6e024ef18)
-* __survival__: [The Girl with All the Gifts (film)](f6e12d619e18fa147b18488c1f1ba099), [The Last Of Us: The Complete Series](2dd129dce50514dd9ed55dabbb032bf9)
-* __survival strategies for newsletters in the ai era__: 
-* __sustainability__: [Earth as Our Only Shareholder](b5c93b6e5a5b33c81d3a1619b9b37f1b), [The World's First Mylo™️ Garments: Vegan Mushroom Leather Revolution](babc175f444c7c8a095e0739f8ca9f96), [Villa M: A Nature-Filled Hotel in Paris](2e9f6055b67e6e737e006c2aab6edddb)
-* __sustainability and the environment__: [The Importance of Maintenance in a Changing World](027558bc932f10b574b0608c17e61026)
-* __sustainability in agriculture__: 
-* __sustainability in tech companies__: [The Impact of Tech on the Environment and the Importance of Sustainability in the Tech Sector](763a73de80e3ade3d3a068da6ce48182)
-* __sustainable construction__: 
-* __sustainable development__: 
-* __sustainable energy__: [Algae Battery Powers Computers for Months](9559f29e7d2ffd92fae98e95a62d0169)
-* __sustainable fashion__: 
-* __sustainable industrial systems__: [The Revolution of Externalities in Industrial Systems](364fecbe1c46f164e48d52c279422351)
-* __sustainable packaging__: [Biodegradable Film: A Sustainable Packaging Solution](b442f3c78716d0a22167e5fc4359f276)
-* __sustainable shipping__: [Pioneering Wind-Powered Cargo Ship Sets Sail](17a6704a82824be2f5910ebceee7ec75)
-* __sustainable solutions__: [Designing the Future Through Science Fiction](5d2fec6b3cc04645c92e73267da0f7d9)
-* __sustainable transportation__: [The LOOP: Dubai's Sustainable Highway Initiative](028e8b0caa69712c4fda4048ad84de72)
-* __sweat analysis__: 
-* __symptoms__: [The Ongoing Battle with Long Covid](c47cb1fe2b4ae786edcfe793f7c528c2)
-* __synthetic biology__: 
-* __synthetic voices replacing human performance__: 
-* __system reliability__: [Ironies of Automation: The Paradox of Increasing Dependence on Skilled Operators](6a67048dd9edce24a136022c6ce0c2eb)
-* __system vulnerabilities__: 
-* __systems thinking__: 
+* __Saas services__: [Bytebase: A Start-Up's Tool Stack and Monthly Expenses](c30d1aaeb666b051e8a7a22d8bde337c)
+* __Saass__: [The Dangers of Service as a Software Substitute (SaaSS)](5c135d085a6d575c9d112244b2a873fb)
+* __Sabotage__: [Cyberattack Disrupts Poland's Railway System](f0da3ab471bb07f203a20b0ff24b57c0)
+* __Safety__: [Stable Diffusion Public Release](09e12f5c07382efea39163ed3274098a)
+* __Safety precautions__: [Introducing DALL·E 2: AI Creates Realistic Images from Text](ecf73eea05a6aaa8e7d76dc06f735adf)
+* __Safety protocols__: [Open Letter Calls for Pause on Training Powerful AI Systems](96bb44778e10efa6829f7ff9737593f2)
+* __San francisco history__: [The Earthshaking History of San Francisco's Quake Shacks](1555ef221d33094937e6635647734a3c)
+* __Santé__: [EchOpen: Revolutionizing Medical Imaging through Open Source Collaboration](f70da5953e48da16a286c1cf9d8b480b)
+* __Satellite data as a proxy for gdp__: [Dictators' Deception: Lights Expose Economic Lies](40c2db3bc4702bff2612a3faba89097a)
+* __Satellite security__: [Hack-a-Sat: Researchers Launch Sandbox Satellite for Space Hacking](f6637d1fa0e3fe0e1e94bea8b3338ef9)
+* __Satellite technology__: [The Power of Satellite Data: Uncovering Economic and Environmental Insights](2c79a113d206a8ec8ec147422fcea12c)
+* __Saving money__: [Geographic Arbitrage: Saving Money by Earning Income in a Strong Economy](1bebd9c22d66a412bc9dc0ff5b4b562e)
+* __Scaling a startup__: [Advice from SaaS Startup Founders](794d2271367c23dcb630df18c87c1582)
+* __Sci-fi prototyping__: [Science Fiction Prototyping: Modeling Future Threats](cdc3436dbcf552eeeffbebf1b8783c2d)
+* __Science__: [Richard Feynman's One Sentence for the Next Generation](f74cce891f9a28209838900562566179), [Predictions for 2030](d14b14eaf86b482708781d3e6d97e33a)
+* __Science fiction__: [Bigbug: A French Sci-Fi Comedy](0e3aecb9945b5787eebfacb7ab40e7cb), [Rebellion against Immortality in Canon Space](9eefc7af8fe73583fb04d6a71d5c327c), [The Influence of Technology in Science Fiction](98e4c4dae06ea72f38c74a55b3485d14), [A Desolation Called Peace (Teixcalaan, #2)](289d72624afd0bb868b1d4c7a26cf352), [Down and Out in the Magic Kingdom](aa2a288c3b4bf99252f35d3a30d17a82), [The Importance of Science Fiction](8ebb431ce8d949d5a1ecb52bbd42a69f), [Project Hail Mary: A Science Fiction Novel by Andy Weir](68b115eb29e9ef169ba04736821c9a8f)
+* __Science fiction horror__: [The Girl with All the Gifts (film)](f6e12d619e18fa147b18488c1f1ba099)
+* __Science fiction prototyping__: [Designing the Future Through Science Fiction](5d2fec6b3cc04645c92e73267da0f7d9)
+* __Scientific advancements__: [The Power and Pitfalls of Foresight](e11adc0adef22064e0ee2b531341ff07)
+* __Scientific observation__: [Fungi: A Dark and Beautiful World](bfd7ecd32e48e49fda1567f40ccd671e)
+* __Scientific research__: [The Rise of Electroculture in Gardening](257c9d336364e061c817ec77db9e78f6), [Fart Proudly: Benjamin Franklin's Essay on Flatulence](001b195bbddec8fb0193b668a70aa883)
+* __Scientific study__: [The Great Wager: Seeking Consciousness](a22ee1f3d953a98514b92c413784feea)
+* __Scientific wagers__: [The Future of Consciousness Science](098f4de4b2e0da23ef41a92329c5e761)
+* __Scraping prevention__: [Kudurru: A Tool to Protect Artists from AI Image Generators](bc433d7cb21513ab55af7f1198e0fbb6)
+* __Seafood__: [Copi: Rebranding an Invasive Fish as a Healthy Seafood Option](b8f11dee06e44c6b4ecb80c98f502443)
+* __Search engines__: [Bing AI: A New Era of Search](08d574bcc0280a4ca5a4b2a48357d6b7)
+* __Secondary markets__: [The Secondhand Watch Revolution](d41096d7ca7f38f50a5dbfeef8b3c398)
+* __Security vulnerability__: [Security Flaw in Australian Government's Voice Identification System](f34407cbb44c57483e2640455a12b9c8)
+* __Seed burial__: [E-seeds Drill Themselves into Soil](58c165e1a46408307f2b60f63df7c549)
+* __Seismic activity__: [Ground Breaking: Tiny Changes in GPS Signals Could Predict Large Earthquakes](a00fd810052374121de9c17d5a5d60ac), [Fiber Optics: Illuminating the Earth's Secrets](b9ae471ec921bd6ea93c1594ad26feb6)
+* __Self identity__: [Non-Obvious Megatrends: How to See What Others Miss and Predict the Future](53c5550484135e9581500f193d2e8a0f)
+* __Self-actualization__: [The Transactional Nature of Modern Life](a5c0ba498382a4edc0f2bf0d9653ad16)
+* __Self-care__: [Goblin Mode: Oxford Word of the Year 2022](94637228bb2652f972551ec4df3e9fb3)
+* __Self-experimentation__: [Psychonauts: Drugs and the Making of the Modern Mind](46b83c5dfd8f27c0bb2335917e2f5a1f)
+* __Self-healing code__: [The Future of Software Development: Self-Healing Code](b40abee8454abdd879147c0e086bb9c1)
+* __Self-improvement__: [Everything is a Practice](a81f85f066b0093553fc39638d3e0559)
+* __Self-love__: [The Indian Woman Who Married Herself](d30eab58ea238cc3cefbb88c3e4f61cd)
+* __Semantic search__: [Building Academic Knowledge Graph with OpenAI & Graph Database](b4486b71505e7322a530fb28cd275f82)
+* __Semiconductor industry__: [France Invests €3 Billion in Semiconductor Factory](8dfeb7f353bb51c54f0fbaeadf3ed292), [The End of the Beginning: Morris Chang's Speech on the Future of America's Semiconductor Industry](0fce5ae3e73cafb8739ab8c2c63ebad5)
+* __Sentencing__: [Former Theranos COO Sentenced to 13 Years in Prison](b0d1ed951415ca875228752e72f21c58)
+* __Sequel__: [Enola Holmes 2: A Victorian Mystery Sequel](8cf24222d12bb6530c4526898a6bc5ff)
+* __Sequence diagrams__: [Mermaid Cheat Sheet for Diagrams](86a282a77d55807be1c735f8a3989880)
+* __Server__: [Blyss: Enabling Privacy with Homomorphic Encryption](49126154cdd08a977f567f687cfa8a2e)
+* __Sexual assault reporting__: [Callisto: Using Cryptography to Catch Sexual Predators](e37681e9430b42da8833c0133e69c45d)
+* __Shared interests__: [Rise of Dazi: Young People Seek Activity Partners](87daba98f9145e9744a49b5145ac69b2)
+* __Shark behavior__: [Surprising Synchronicity: Great White Sharks Travel Together](54cd29480e753c756579b2a053fea120)
+* __Shark physiology__: [Unique Adaptation Allows Sharks to Hunt in Cold Waters](27a3a94222f061917b211c94d1d3ee92)
+* __Shepherds__: [The Yan Tan Tethera Counting System](4754b54aa9384e4b40e9d054660ce4f3)
+* __Shift in online culture__: [The Rise of Online Anonymity](52a829c92d96543f396d37b44440c475)
+* __Shift towards closed communities__: [The Decline of the Curated Instagram Era](73a2bffc6e94204086528949ae1205e7)
+* __Shift towards digital menus__: [The Rise of QR Codes in Restaurants](f5b3a5e0ba84a3093de9500e6cf31c35)
+* __Shifting boundaries__: [The Four Shifts: An Overview](0506cba04945d4f8cf25bf2399d36a46)
+* __Shipping__: [A Simple Idea: Protecting Bikes](9c652dfb9dcd53a8d38a79cc1981bb74)
+* __Short fiction__: [The Journey of Writing and Selling a Short Story: "India World"](986a8bb137fc0429e11ccf89cd1452a0)
+* __Short snorter tradition__: [How to Spot a ‘Short Snorter’](daef40b0f763b6fa0b4a29a645ab5ee7)
+* __Short stories__: [Tales from the Dread Empire](de13b93138ad10bd9ac0a343c80147b5)
+* __Shortage of skilled workers__: [Delays in TSMC's Arizona Chip Factory Construction Impact US AI Investment](2b6cc7a8e528932936c2b72ea35d930c)
+* __Shrinkflation__: [Carrefour Exposes Shrinkflation in Supermarkets](471e724e40f6934417b8c27dcb1d5639)
+* __Signal processing__: [Using ChatGPT for Foresight: Signal Processing](d3ca03ec9e48516fa3d82a78cf2d61c0)
+* __Silent-speech recognition technology__: [Sonar Glasses: Silent Speech Recognition](ec5ddbc54cbf0686918bc273da8d97c3)
+* __Simplicity__: [The Power of Simplicity in Living Systems](628eabb2a1ffbe7b0e6865d9367c32de)
+* __Simulation__: [The Over-Simulation Problem in Engineering](378adae519eda1077ca6e628e3f706df), [The Bibites: A Simulation of Evolution and Life](4dd15e16ec507f1ae3827f8be14dde98)
+* __Singapore__: [Singapore's Trustworthy AI Development](4270753a719b34ed63a12b3917635193)
+* __Skills development__: [The Urgent Need for Workplace Transformation](4c886ce0e70f066b9f2199abe1d7bd1c)
+* __Sleep__: [The Cadogan Partners with Sleep Expert for Ultimate Comfort](02955553e2ee09903aab2ab1867c860b)
+* __Sleep economy__: [China's Insomniacs Turn to Sleeping Assistants](3fbb11d6e949d1e662aa6a146bb6cda0)
+* __Sleep quality__: [Bedtime Rituals and Sleep Quality: A Survey of American Adults](615b115fc368aacddda24fb30f9ddf44)
+* __Sleeping services__: [China's Insomniacs Turn to Sleeping Assistants](3fbb11d6e949d1e662aa6a146bb6cda0)
+* __Slow learning__: [The Path to Slow Learning](042cf62855760b54fa5a194db9e6cf11)
+* __Small business support__: [Meta Launches "Payments in Chat" Feature on Instagram](fd5ff8626bba470fb179c76d3153d165)
+* __Small businesses__: [The Lingering Reliance on Floppy Disks](8ecfaa32a5254d275d7eb2eec698c9d0)
+* __Small-scale manufacturing__: [Unilever's Mobile Nano Factory Revolutionizes Production](dceb5e6d8fcf7312b774392e24c9133d)
+* __Smart city__: [Cyberattack Derails Olsztyn's Smart City](760077b9e8a605138ef8a769c307c760)
+* __Smart devices__: [Natural Conversations with Google Assistant](3b057a14187c304edd1a0f4bbed854a8)
+* __Smart home technology__: [Amazon's Spy Appliances: A Surveillance Nightmare](6fb6587422619556f83c26b5b4386948)
+* __Smartphone battery replaceability requirements__: [EU Moves Towards Easy-to-Replace Smartphone Batteries](7e3448aaf8dcf592d5c14da8fb0fc233)
+* __Smartphones__: [The Battle for Your Car: Google vs. Apple](9dcdb4959b186e68114c6cc92931068e)
+* __Snail and slug feeding__: [Snail and Slug Feeding Anatomy](705b698cf565ce7529e9e0aceef7fbeb)
+* __Sober movement__: [The Rise of Sober Generation](94960bd3c0ad4c594fd56651f4087128)
+* __Social factors__: [Understanding the Interplay of Infrastructure](4a29de3bba5a755ccf2dd3db47e0c32f)
+* __Social inequality__: [The Age of Apocalyptic Infrastructure](177a0857ffe0d07d48cd99a269f28a02)
+* __Social initiatives in supermarkets__: [Dutch Supermarket Fights Loneliness with Slow Checkout Lane](f96c785471cb0d424e7238d6b7c544e5)
+* __Social issues__: [The Changing Landscape of Greyhound Travel](175ea9191642bee3b29225d9dadffc96)
+* __Social learning__: [Bumblebees: Cultural Learning Among Insects](2394a07d8b41ae57fc3d67bd80e7f751)
+* __Social media__: [Disinformation Dominates X, Formerly Twitter](5793d28b92e90a64b918cfaefad509db), [Goblin Mode: Oxford Word of the Year 2022](94637228bb2652f972551ec4df3e9fb3), [The Rise of Algospeak: Americans Evade Detection with Code Words on Social Media](fe5ece17d1050e9097bd9a2e6e0ef50c), [TikTok Challenges Global Internet Order](8086bf4a53c711deb15d6bea523e85f9), [A Proposal for a Letter Circle](e0dd77b135a529ee920c59b0fc1e1059), [ChatGPT + Wolfram is INSANE!](c73fef52122dff9becbe63751648eea0)
+* __Social media regulation__: [Utah Governor Passes Legislation Restricting Teenagers' Access to Social Media](3f7f68f94d44849513156aae48ee013f)
+* __Social norms__: [Fart Proudly: Benjamin Franklin's Essay on Flatulence](001b195bbddec8fb0193b668a70aa883)
+* __Social tariffs__: [One Million Cancel Broadband Amid Rising Living Costs](f71e17c8d36e6dbced874ff9a319e733)
+* __Social trust and community resilience__: [The Challenge of Finding a Safe Place in a Changing Climate](efa36dc9bd5ddc890866d4ab1e68e71f)
+* __Social wellbeing__: [Greeting Neighbors Linked to Higher Wellbeing](d16e5657697812f4271d7ff1d18fd874)
+* __Socializing__: [Rise of Dazi: Young People Seek Activity Partners](87daba98f9145e9744a49b5145ac69b2), [The Radical Power of Hanging Out](edbb7336dfb26098bcc966ca17c074b9)
+* __Society__: [Autonomous Quotes: Reflections on Capitalism and Identity](35ec712b8e22276ed84324aea8ad997b)
+* __Socioeconomic impact of cochlear implants__: [The Consequences of Planned Abandonment](dc382e3aa58935a411f92b934c641011)
+* __Socioenvironmental impacts of metal production__: [Metal without Mining: The Rise of Magrathea](de8c393b7b1395557948cb50d90de996)
+* __Software architecture__: [The Rise of Understanding-based Software](2feb921909e9c0903f0cd9af69456416)
+* __Software companies__: [Microsoft Launches AI-Powered Microsoft Teams Premium](d972fef45251bd965bd3d5d331ffe6dd)
+* __Software company roles__: [MetaGPT: The Multi-Agent Framework](0cf9069c3a60ab8376522614af32de62)
+* __Software design__: [Bad software destroyed my doctor's memory](976f66dccf4086981111e810d0160229)
+* __Software development__: [Challenges and Future of libjpeg-turbo](d23d7b7fbbd9de014450cfdd5d2e9664), [Microsoft's GitHub Copilot Exceeds $100 Million in Annual Revenue](7e5c1ed5c33c7dbc323cd0264cc94099)
+* __Software liability__: [Biden Administration Unveils Cybersecurity Strategy and Targets China as Major Threat](1eaefdcf11b24d5f443b5f4e7645e0a5)
+* __Software pricing models__: [The Evolution of Software Pricing Models](578c4ca8c38df5eb168308242e9ea711)
+* __Software reproduction__: [Is Open Source R-Selected?](79846636fe0c4d77f026c76ec0964344)
+* __Software security__: [EU's Cyber Resilience Act Threatens Open Source Developers](2e8ebbefc0b74a9ac3862ef6adcfaffd)
+* __Software subscriptions__: [The Rise of Software as a Service (SaaS)](62f0c80f0091e9b15465cd516137b05e)
+* __Software unlock__: [BMW Introduces Subscription-Based Heated Seats](467012ba127c9642ad57804f2e3a6a1e)
+* __Software vulnerabilities__: [U.S. Cybersecurity Agency Adds Adobe Acrobat Vulnerability to Exploited Catalog](089706e00a9c0d142049a6a6c557e3e7), [Cisco Emergency Responder Static Credentials Vulnerability](639e90afedd3746239c783332a0da15c)
+* __Solar energy__: [Innovative Motionless Wind Turbine Revolutionizes Energy Generation](e6a8537f7a69f6801ef58f226c538321)
+* __Solar grazing__: [Solar Grazing: Livestock on Solar Farms](8d9cdb24d214893227785b130ca60240)
+* __Solar-powered technology__: [New Powder Uses Sunlight to Disinfect Water](0531e1f77a3339cc11432d7601f9c7a4)
+* __Solo dining__: [Embracing the Solo Diner: Making Dining Alone a Memorable Experience](387cc7d6dcac314087dfc35f2091b410)
+* __Sologamy__: [The Indian Woman Who Married Herself](d30eab58ea238cc3cefbb88c3e4f61cd)
+* __Solutions for the labor shortage__: [Construction Industry Faces Extreme Labor Shortage](9439e069670182ab70d681f007704c33)
+* __Southwest desert__: [Cormac McCarthy's Venomous Fiction](b75f2d908abb3ba97b7673a475bbf36b)
+* __Space colonization__: [Microbial Mining for Space Colonization](a67f9e7de0ac3ab7399e7e056c0f8883)
+* __Space exploration__: [Hackers to Target Moonlighter Satellite in Space](f21752e61524e179fbdb1ef773666a40), [Inside The Small World of Simulating Other Worlds](37c74ca68455427ad4912697a407f23c), [Project Hail Mary: A Science Fiction Novel by Andy Weir](68b115eb29e9ef169ba04736821c9a8f)
+* __Space law__: [The Challenges of Space Law](d7322a8c1f0f439ffa3d07c93d4c2651)
+* __Space opera__: [A Desolation Called Peace (Teixcalaan, #2)](289d72624afd0bb868b1d4c7a26cf352)
+* __Space technology__: [Japan Plans World's First Wooden Satellite](a8e879a399523fa13be56fab2f93d822)
+* __Space travel__: [Lightsail Propelled by Lasers to Alpha Centauri in 20 Years](ab18ee2e57a56da09f778c9640a935df)
+* __Specialists vs. generalists__: [The Difference Between Academics and Intellectuals](f07df9d85e95d88e18345a39166c0a53)
+* __Species identification__: [Snail and Slug Feeding Anatomy](705b698cf565ce7529e9e0aceef7fbeb)
+* __Spider behavior__: [The Cognitive Spiderweb: Extending Cognition to the Web](870cf0da8080715e60bf3cef2094cc2a)
+* __Spider/web oracles__: [Arachnomancy: Weaving the Future with Spider/Webs](ceeb22fe6e0642440e3432c8c3be5f57)
+* __Spirituality__: [A Father's Love Lives On](f8192071b7eaa2b571a9ca12551b9d70)
+* __Sportswashing__: [The Rise and Fall of Sportswashing](b9eeb2b04f3385d366abefa9a17dbb80)
+* __Spread of behavior__: [Orca Rams Into Yacht Near Scotland, Suggesting Behavior Spread](ec53d1856ccf49df631de3516f6aa6a2)
+* __Spring drive technology__: [The Rise of Hybrid Watchmaking](3c8e50874cd8552a38f5adab70ccd2b7)
+* __Ssh key exposure__: [GitHub Rotates Exposed Private SSH Key](3c77982c24c808d06150b383d1fe7c50)
+* __Staff shortages__: [Hotels Turn to Robots as Staffing Shortages Persist](b35030f7ffb9e082dea84058ac63f3ca)
+* __Start-up culture__: [The Rise of Blank Street: Reinventing the Coffee Experience in New York City](ad6334d8203e40ef0376165b2141e1d3)
+* __Startup advice__: [Advice from SaaS Startup Founders](794d2271367c23dcb630df18c87c1582)
+* __Startups__: [Chipiron: Portable Mini-MRI Revolutionizing Healthcare](f99fa5e02647a517b709d5b44f85fd5c)
+* __Startups and nlp__: [Using NLP to Build a Competitive Moat](feeb207dfea30efb1d5bf73503fd22a4)
+* __State-sponsored hacking__: [Impersonation on LinkedIn Exposes State-Backed Hacking Group's Tactics](70325897f9ce546581ee8a0967e10b09)
+* __Static electricity__: [Radon Decay and Electric Fields](6c94b8dcd4d0fc4b429a994e2abd353f)
+* __Stellar phenomena__: [Gaia's Detailed Survey of the Milky Way's Strange Stars](1ab0b67f876bff9275b2dbb3a7f3442c)
+* __Stigma and self-judgment__: [The Challenges of ADHD in the Workplace](5787bdf4f1ad4805a622fc45bf75f023)
+* __Storytelling__: [The Seven Basic Plots: Why We Tell Stories](6e4c77b94dc98f1c752477e4840c37cb)
+* __Strategic foresight__: [Strategic Foresight: Anticipating and Adapting to the Future](40a99c098bad8dda821b757d8d88a80a)
+* __Strategy execution__: [The Importance of Clear Strategy Choices](b393d3164c1634957a3bc8e2ae733b41)
+* __Streamlit webapp__: [Mastering AI Summarization: Your Ultimate Productivity Hack](e0f6ae75e034df0a32044fe8a9075673)
+* __String theory__: [The Emergence of Space and Time](47ec89d0247058ebf93d0524269c7cf7)
+* __Structural color__: [Revolutionary Light and Cool Structural Paint](a6bfcabefea560d7dfefd5aab87f047c)
+* __Structural monitoring and optimization__: [World's First 3D-Printed Steel Bridge Showcases Technology for Reduced Material Usage](73bdb86789ac19a60022e3bc5bb2b532)
+* __Structured data processing__: [Introduction to OpenAI Function Calling](72b08d7579b6d295c27f039d6ee5a01d)
+* __Struggles of ride-hailing drivers in south africa__: [The Struggles of Gig Workers Amid Rising Inflation](d5620f5b1f4a80563ac4f5d523804658)
+* __Student accommodation crisis__: [Student Accommodation Crisis: No Place to Live](6857ceabb001165abd4ed989dbe2f656)
+* __Student loans__: [Income Share Agreements: What Are They, and How Do They Work?](55a637edca1735b67e34f2d11c012a86)
+* __Student well-being__: [Technology and Children’s Well-Being in Danish Schools](17ac55c1f87675e075557fa4fa5ba14e)
+* __Subscription benefits__: [Central Banks Utilize Alternative Data Sources](cd782a2ff57b412ca4648658d822a401)
+* __Subscription economy__: [The Rise of Micro-Subscriptions](01dd20372573227317c7126faacfec9b)
+* __Subscription plans__: [Trial Inclusions and Subscription Options](42029469086ed8b0defa5120ec35459e)
+* __Subscription serfdom__: [Corporate Subscription Serfdom: Training Our Children for a Life of Dependency](6bccf38c9e97c992a3f5861fc6297380)
+* __Subscription-based options__: [BMW Introduces Subscription-Based Heated Seats](467012ba127c9642ad57804f2e3a6a1e)
+* __Subtraction__: [The Power of Subtraction in Creating Change](954add221b754bf78bfb38199d5eb868)
+* __Summit disease__: [Unraveling the Mind Control of Zombie Flies](7716ffd31f1b9f566bacf04995fd94f9)
+* __Superbug resistance__: [New Antibiotic Discovered with AI](bb7069f38ff720f7c4d690177ec5d9f9)
+* __Superconducting qubits__: [Quantum Mechanics Defies Local Realism](cfa7b88cc31a76b552fd670d315800cc)
+* __Supermarket industry and competition__: [The Growing Impact of Supermarket Data Collection](90bdc5da81c6c094a1ac7a794d8a2d1d)
+* __Supply and demand__: [Telfar's Revolutionary Reverse Sale Empowers Customers](c4e67bccfa2804a74e675f9084b9e724)
+* __Supply chain management__: [AI and Data Science in Supply Chain Management](d31c91e142d6237debea9b93e51a57c6)
+* __Supply chain poisoning__: [PoisonGPT: Hiding a Lobotomized LLM on Hugging Face](b268f9e806c263d171c7284941d84787)
+* __Supply chain resilience__: [The Importance of a "Chief Trade Officer"](77a1e8adf276dbc84c60c1c7fd878db8)
+* __Supply chain vulnerabilities__: [Monetising Hacking Through Commodity Shipments](af7a13a1e97a8ebff3d521dabea087ce)
+* __Surveillance__: [Army Plans Drone Swarms from High-Altitude Balloons](4d4f8bb17a5a7e5a852786591e70ffc8), [The Banality of Surveillance and Automated Warfare](ccdebc20efc0694474f1c64e2835e260), [The Rise of Luxury Surveillance](382ab5700ea4e7c189a438c6e024ef18)
+* __Survival__: [The Girl with All the Gifts (film)](f6e12d619e18fa147b18488c1f1ba099), [The Last Of Us: The Complete Series](2dd129dce50514dd9ed55dabbb032bf9), [Project Hail Mary: A Science Fiction Novel by Andy Weir](68b115eb29e9ef169ba04736821c9a8f)
+* __Survival strategies for newsletters in the ai era__: [The Future of Newsletters in the Age of AI](36708cd749aea907043cfc74cbaa3847)
+* __Sustainability__: [EY Masters in Sustainability by Hult](fcb03e94b8239b410a79996496599390), [Ethereum Blockchain Achieves Remarkable Carbon Reduction](eb8b03e69354d814c3d0cd31b18648dd), [Architectural Challenge of the Present: Adaptive Reuse](cf7cc3361b8139c51e3e97835a2da4e4), [Earth as Our Only Shareholder](b5c93b6e5a5b33c81d3a1619b9b37f1b), [The World's First Mylo™️ Garments: Vegan Mushroom Leather Revolution](babc175f444c7c8a095e0739f8ca9f96), [Villa M: A Nature-Filled Hotel in Paris](2e9f6055b67e6e737e006c2aab6edddb), [Startup Raises $11m to Develop Plastic-Eating Enzymes](d2a5e5d3dad76d8880d6d322b26a8ab9)
+* __Sustainability and the environment__: [The Importance of Maintenance in a Changing World](027558bc932f10b574b0608c17e61026)
+* __Sustainability in agriculture__: [The Revival of Maslins: An Ancient Grain Tradition with a Promising Future](7de6c4b68c071bd607debc0959aa0b7f)
+* __Sustainability in tech companies__: [The Impact of Tech on the Environment and the Importance of Sustainability in the Tech Sector](763a73de80e3ade3d3a068da6ce48182)
+* __Sustainable construction__: [Fungal Architecture: A Sustainable Revolution](944bbef81a6e19bc84f824a09fdece39)
+* __Sustainable development__: [Well-being of Future Generations Act in Wales](3938700a79bbde32972657f9eb7b1b69), [Berlin Plans Carbon-Neutral Neighborhood on Former Airport Site](5152a8f61434482ebe5faecae9e14b28)
+* __Sustainable energy__: [Algae Battery Powers Computers for Months](9559f29e7d2ffd92fae98e95a62d0169)
+* __Sustainable fashion__: [Benim Denim: Redefining Fashion's Lifespan](e00cc39602993053c53f8dc014a0ab61)
+* __Sustainable industrial systems__: [The Revolution of Externalities in Industrial Systems](364fecbe1c46f164e48d52c279422351)
+* __Sustainable packaging__: [Biodegradable Film: A Sustainable Packaging Solution](b442f3c78716d0a22167e5fc4359f276)
+* __Sustainable shipping__: [Pioneering Wind-Powered Cargo Ship Sets Sail](17a6704a82824be2f5910ebceee7ec75)
+* __Sustainable solutions__: [Designing the Future Through Science Fiction](5d2fec6b3cc04645c92e73267da0f7d9)
+* __Sustainable transportation__: [The LOOP: Dubai's Sustainable Highway Initiative](028e8b0caa69712c4fda4048ad84de72), [More ways to drive sustainably and save money with Google Maps](55366e80872f51490910ad01315a8437)
+* __Sweat analysis__: [Screening of Breast Cancer from Sweat Samples Analyzed by 2-Dimensional Gas Chromatography-Mass Spectrometry: A Preliminary Study](0c92eaabe3945e7b15eea4b98e970a96)
+* __Symptoms__: [The Ongoing Battle with Long Covid](c47cb1fe2b4ae786edcfe793f7c528c2)
+* __Synthetic biology__: [Startup Raises $11m to Develop Plastic-Eating Enzymes](d2a5e5d3dad76d8880d6d322b26a8ab9)
+* __Synthetic voices replacing human performance__: [Voice Actors Express Concerns Over Voice-Generating AI](fdaa6ee397da0b1a689af2883ee8f2af)
+* __System reliability__: [Ironies of Automation: The Paradox of Increasing Dependence on Skilled Operators](6a67048dd9edce24a136022c6ce0c2eb)
+* __System vulnerabilities__: [Thousands of Solar Energy Monitoring Systems Exposed Online](3ac657f7b32d24bb43bddca058e2db25)
+* __Systems thinking__: [Introduction to Systems Thinking for Civil Servants](c745ba8f3cb00c2d7c46c819537fcb10)
 
 ## Letter 'T' 
 
 
-* __tactile learning__: [The Power of Handwritten Notes](558751c7b3dba31bf91330d72c41d5b3)
-* __taiwanese elections__: 
-* __taiwanese national defense__: 
-* __talent__: [Charging More: A Lesson in Valuing Talent](5eb50114b6e85cd24033b817cc9457ba)
-* __talent management__: [The Future of Media: Monetizing Talent](be6ecdd999bc41789029c9d32a86c51b)
-* __tarot__: 
-* __task coordination__: [Coordination Neglect in Organizational Effectiveness](abedf8019b0bc967f5f72e6cbd964f57)
-* __tattoo__: 
-* __tax enforcement__: 
-* __taylor digital ice cream machines__: 
-* __tech companies__: 
-* __tech industry__: 
-* __tech support scams__: [FBI Warns of Tech Support Scams Using Shipping Companies](49e0af19d90eda0f809a16b24ee8cbee)
-* __technological advancement__: 
-* __technological advancements__: 
-* __technological impact on society__: 
-* __technological integration within plants__: 
-* __technology__: [The Over-Simulation Problem in Engineering](378adae519eda1077ca6e628e3f706df), [The Confidence Game of ChatGPT](f0afe8bae09252e6180784a36260e1ff), [Elon Musk's Revealing Text Messages](d04f722445dfdb5bc02415c540a94654), [The Battle for Your Car: Google vs. Apple](9dcdb4959b186e68114c6cc92931068e), [Thermoformable Ceramics: A New Frontier in Materials](bd35b1587de303b44a62d0e99fb749fc), [The $100 Trillion Opportunity in B2B Marketplaces](50aefdd8b2bffa1bb84f8460c7b559c2), [MyPowerbank: Portable Charger for Homeless](d9f1f901dee09e59f1f13b7777a391cb), [The Uncertain Future of Vertical Farming and the Impact of Cars on Urban Development](ef74de2ae50dd0f311346505df7068c3), [Q-bear: An AI Baby Crying Translator](4bc37b93dce61c4d9b064a7edd11e76f), [The Age of AI: Opportunities and Responsibilities](2449c2fc4b8afc7e268db4987fa821e5), [Circuit Sculpture: COSMO-SkyMed Satellite Replica](02024bd4585d5e7049a4ffb380a2a07a), [The Hyper-Personalization of Everything](9ef1218bf5010b0780647b93d724b93b), [Autonomous Quotes: Reflections on Capitalism and Identity](35ec712b8e22276ed84324aea8ad997b), [Predictions for 2030](d14b14eaf86b482708781d3e6d97e33a), [The Electric Push Button: A Revolutionary Interface](4b919285ff10ba20a59e6eea3cf1f9c1), [The Perfect Ultra-Low Power Digital Watch](5af9b5ebcf47c95c77fe4e896651a4dd), [Nuke Plants Stick with PDP-11 Code Until 2050](5939406bb00700661103e9480fb00613), [The Rise of Luxury Surveillance](382ab5700ea4e7c189a438c6e024ef18), [The Importance of Science Fiction](8ebb431ce8d949d5a1ecb52bbd42a69f), [The Radical Power of Hanging Out](edbb7336dfb26098bcc966ca17c074b9)
-* __technology adoption__: [The Future of Jobs Report 2023: Evolving Job Trends and Skills](4abade09451838c25631bf9da940b724)
-* __technology advancements__: [The Rise of AI-Generated Art](536d1aaf84afa5bf10493f03cbb3d38d)
-* __technology and art__: 
-* __technology and data in democracy__: 
-* __technology and media consumption__: 
-* __technology and prosperity__: 
-* __technology and robotics__: 
-* __technology and society__: 
-* __technology and storytelling__: 
-* __technology companies__: [New York's Right-to-Repair Bill and Lobbyist Influence](c43f57be38bbfef16e25047b07cd9d5d)
-* __technology conferences__: [Chaos Computer Club Announces 37th Chaos Communication Congress (37C3)](bcff5643d6572db7c8c9d2bffc215812)
-* __technology development__: 
-* __technology events__: 
-* __technology impact__: [AI 2041: Shaping Our Collective Future](1621aeb7941f2df0feefc2de14851249)
-* __technology restrictions__: [The Boiling Frog of Digital Freedom](1f01cd79ea4dad626936ecf8a068c1be)
-* __technology sector and ai__: 
-* __technology skills__: [Gen Z Struggles with Office Technology](84e4f59e4eb3832250963e8ac00bf768)
-* __technology solutions for pandemic__: [Technologies of Hope: Pandemic Solutions](d44d0c046d2ee3330a2d40cfccdfc0d3)
-* __teenagers__: 
-* __telemarketing scams__: [ChatGPT: A Weapon Against Telemarketers](fae2a94efbea75250fc5914ef7d16991)
-* __television series__: 
-* __temperature increase__: [Heat Will Likely Soar to Record Levels in Next 5 Years](89b553cd6644cc1549e68abd6a6d44d6)
-* __templates__: [Counting Templates and Privacy Policy](348fffeed19b47b0379a6ca0cad9ec8e)
-* __temporal perspective__: [The Importance of Long-Terminology](a963fcddede6fce55e0d02b040bbcd8a)
-* __tesla autopilot safety__: 
-* __teslas data collection and ownership__: 
-* __text classification__: 
-* __text completion__: 
-* __text embedding__: 
-* __text embedding representations__: 
-* __text processing__: 
-* __text summarization__: 
-* __the benefits of using gpt-3 for journaling__: 
-* __the contrast between film and digital photography__: 
-* __the dangers of storification__: 
-* __the decline of human animators__: 
-* __the exploitation of ai technology by the overemployed community__: 
-* __the impact of ai and chatgpt on the job market__: 
-* __the impact of narratives on business and technology__: 
-* __the importance of lora in fine-tuning language models__: 
-* __the importance of reading__: 
-* __the intersection of technology and belief systems__: 
-* __the jagged frontier of ai__: 
-* __the need for clear labeling and transparency in a.i.__: 
-* __the potential of ai for creativity and exploration__: 
-* __the potential of ai in therapy__: 
-* __the power of books__: 
-* __the power of visual storytelling__: 
-* __the rise of multi-job hustlers during the covid-19 pandemic__: 
-* __the role of ai in spiritual practices__: 
-* __the simpsons connection__: 
-* __the value of authenticity in photography__: 
-* __the value of wandering__: [The Art of Wandering](ddf441dc074555140e62f61fb00019fa)
-* __theater chains and netflix partnership__: 
-* __themes__: [DALL·E 2: Creating Realistic Images from Text Descriptions](150d9e636fc3b6404f150b8f049f626b)
-* __threat assessment__: [Science Fiction Prototyping: Modeling Future Threats](cdc3436dbcf552eeeffbebf1b8783c2d)
-* __threat to architects__: [Architects Face Existential Threat from AI](e9b5d9cc5e032f130b7daa9549d4b12c)
-* __threat to traditional newsletters__: 
-* __threats to democracy__: [Democracy's Battle Against Viral Misinformation](56d1a28746cd95ebaa3d62a4e1f91c3a)
-* __threats to human freedom__: 
-* __thrifting__: 
-* __tiktok trends__: 
-* __tilings__: [Mathematicians Discover Shape with Non-Repeating Pattern](878524351f159f818bc2c8ebcd95c0d7)
-* __time as currency__: 
-* __time management__: 
-* __time off__: [Dead Week: A Time of Rest and Nothingness](feaf4c8a17f7451ae8634f22609ffa93)
-* __time perception__: [Exploring Time and Shaping the Future](2f66695f2596205814b8aeb4dc746072)
-* __time reflections with light waves__: 
-* __tin mining__: [Ancient Tin Supply Chains Revealed](7b0e1c9311dae19679aa54d541ef47f0)
-* __tobacco__: [New Zealand passes legislation banning cigarettes for future generations](57094f3730835fe172d0f95667a01312)
-* __tokenization process__: 
-* __tokyo record bar culture__: 
-* __tomacco experiment__: 
-* __tool selection__: 
-* __tools for online research__: 
-* __tooth decay__: [Cross-Kingdom Partnership Creates Superorganism](2af3e931e394e21223d8e983e2dd43b7)
-* __tourism__: [Diriyah Gate: Modernizing History and Culture](8a6d9cd006acf1a98de5163e4b1d8b63)
-* __trade secrets__: [Corporate Espionage: A New Era](24e03440e7901342e12da817c3fc951e)
-* __trademarked colors__: 
-* __traditional agriculture__: 
-* __traditional communication__: 
-* __traditional farming practices__: 
-* __tragedy__: [A Chaotic Journey of Sibling Tragedy](109fdce64e3534d2f17935a3c4fbd713)
-* __training__: 
-* __training with video games__: 
-* __transatlantic data exchanges__: 
-* __transboundary water management__: [2023 Roadshow of Research and Policy Results](589c2c554219a6d4ae1ad0c9d1d75a21)
-* __transformation__: [The Power of the Hibernet](9e74c32425eab87ba36167bfe05c8f2c)
-* __transformation of scientific publishing__: 
-* __transformation of societal perception of psychedelics__: 
-* __transformers and their attention mechanism__: 
-* __transhumanism__: 
-* __transition to a new economic system__: 
-* __transition to digital media__: 
-* __transition to electric vehicles__: 
-* __transition to prompt engineering__: 
-* __transitioning to alternative whiteboard apps__: [Google Jamboard: End of the Line](1f6ffedb8c1bbd834ffc6a40038cbf7c)
-* __translation technology__: 
-* __transparency__: [Compliance of Foundation Model Providers with EU AI Act](b39cd180dcfb9a92e51a09e5dcb0a0f4)
-* __transportation__: [Cyberattack Derails Olsztyn's Smart City](760077b9e8a605138ef8a769c307c760)
-* __trauma__: 
-* __treatment__: [Bacterial Infection Linked to Endometriosis](6df4f7525be593be2a48f96ee7e49dd2)
-* __tree of life__: 
-* __trends and predictions__: 
-* __trial subscription__: [Trial Inclusions and Subscription Options](2b2438cd827520a2dfdcffa094cc7fc3), [FT.com Trial and Subscription Information](34e1369572f1241d4a54e63cee2a4565)
-* __trust in ai__: 
-* __trust in the digital age__: 
-* __trustworthiness__: 
-* __tsmc arizona fab__: 
-* __tulpamancy__: 
-* __turmeric benefits__: 
-* __types of digital boosts targeting cognitive competences__: [Boosting Competences for the Online World](0770afeb444e4bbb336cdc72c07d6688)
+* __Tactile learning__: [The Power of Handwritten Notes](558751c7b3dba31bf91330d72c41d5b3)
+* __Taiwanese elections__: [China's Disinformation Campaign in Taiwan](44ddf53ef211a729ca1a7fa394ac9f35)
+* __Taiwanese national defense__: [Taiwanese Tech Tycoon Funds Cyber Defense Training for Potential Chinese Invasion](e99358609284de847f0d590948f5b265)
+* __Talent__: [Charging More: A Lesson in Valuing Talent](5eb50114b6e85cd24033b817cc9457ba)
+* __Talent management__: [The Future of Media: Monetizing Talent](be6ecdd999bc41789029c9d32a86c51b)
+* __Tarot__: [The Power of Procedural Creativity](b904404d29de27e27cbc3dfa95c59f27)
+* __Task coordination__: [Coordination Neglect in Organizational Effectiveness](abedf8019b0bc967f5f72e6cbd964f57)
+* __Tattoo__: [Tattooing Rembrandt's Art: A Unique Experience](29baa78392020ba51b3c2a8fd533e8fe)
+* __Tax enforcement__: [French Tax Authorities Use AI to Uncover Undeclared Swimming Pools](e3a48e3d81fad129f8f77e290bbdea1f)
+* __Taylor digital ice cream machines__: [The McDonald's Ice Cream Machine Mystery](f172e76b58b2e57af99257f3a45fe021)
+* __Tech companies__: [TikTok Challenges Global Internet Order](8086bf4a53c711deb15d6bea523e85f9)
+* __Tech industry__: [The Metaverse Hype: A Costly Failure](6f71a216712969ccfb48faf7968a552b), [The Problem of "Fake Work" in the Tech Industry](be86183e1a7d0969b9c62346d4ecab28)
+* __Tech support scams__: [FBI Warns of Tech Support Scams Using Shipping Companies](49e0af19d90eda0f809a16b24ee8cbee)
+* __Technological advancement__: [The Influence of Technology in Science Fiction](98e4c4dae06ea72f38c74a55b3485d14)
+* __Technological advancements__: [The Four Shifts: An Overview](0506cba04945d4f8cf25bf2399d36a46), [The Age of AI: Opportunities and Responsibilities](8acafe1fbe51c2de3cd689956b25b39f), [The Future of Tech and Society](074f7e40545f4b8edc9bdefa00b02f7b), [BT to Cut 55,000 Jobs with AI Replacements](da0fa1a06318988fea10c8218d2e8c47), [Non-Obvious Megatrends: How to See What Others Miss and Predict the Future](53c5550484135e9581500f193d2e8a0f), [YouTube's Custom Video Chip Revolution](5d8b4aa6d5d8d086044fd9d1a00c270f), [The Rise of Superintelligence and Singularity](5d18d0fdee756046650b4c957ac43730)
+* __Technological impact on society__: [The Tyranny of Tiny Tasks](be4e7e887a88c7b1bae1400c5c4c0500)
+* __Technological integration within plants__: [Cyborg Botany: Augmented Plants as Sensors, Displays and Actuators](b1f6991b9b718672751c9427c3f5b794)
+* __Technology__: [The Over-Simulation Problem in Engineering](378adae519eda1077ca6e628e3f706df), [Microsoft's GitHub Copilot Exceeds $100 Million in Annual Revenue](7e5c1ed5c33c7dbc323cd0264cc94099), [The Confidence Game of ChatGPT](f0afe8bae09252e6180784a36260e1ff), [Apple's Robot Revolutionizes iPhone Recycling](2bd2f16207519e71b7ae8b7899a7e0f1), [Elon Musk's Revealing Text Messages](d04f722445dfdb5bc02415c540a94654), [The Battle for Your Car: Google vs. Apple](9dcdb4959b186e68114c6cc92931068e), [Thermoformable Ceramics: A New Frontier in Materials](bd35b1587de303b44a62d0e99fb749fc), [The $100 Trillion Opportunity in B2B Marketplaces](50aefdd8b2bffa1bb84f8460c7b559c2), [MyPowerbank: Portable Charger for Homeless](d9f1f901dee09e59f1f13b7777a391cb), [The Uncertain Future of Vertical Farming and the Impact of Cars on Urban Development](ef74de2ae50dd0f311346505df7068c3), [Q-bear: An AI Baby Crying Translator](4bc37b93dce61c4d9b064a7edd11e76f), [The Age of AI: Opportunities and Responsibilities](2449c2fc4b8afc7e268db4987fa821e5), [Retrotech & Lowtech: Unearthing Forgotten Innovations](0dcbcf05d80ad87759f9567b2ed11263), [Chinese Tech Giants Go All-In on Nvidia's HPC Products](b4cc7b5ac1c99e45eb6fc1f733189405), [Circuit Sculpture: COSMO-SkyMed Satellite Replica](02024bd4585d5e7049a4ffb380a2a07a), [The Banality of Surveillance and Automated Warfare](ccdebc20efc0694474f1c64e2835e260), [The Hyper-Personalization of Everything](9ef1218bf5010b0780647b93d724b93b), [The 24 Hour "Do Nothing" Challenge](6cf9b19c5f473573ce74865766bf351c), [Autonomous Quotes: Reflections on Capitalism and Identity](35ec712b8e22276ed84324aea8ad997b), [The Rise of Micro-Subscriptions](01dd20372573227317c7126faacfec9b), [Predictions for 2030](d14b14eaf86b482708781d3e6d97e33a), [The Battle Over Books and AI](60708ef9829fd46241b75936b97b447d), [The Filing Cabinet: A Vertical History](b074eff3e846c24db97af8524929939a), [The Electric Push Button: A Revolutionary Interface](4b919285ff10ba20a59e6eea3cf1f9c1), [The Perfect Ultra-Low Power Digital Watch](5af9b5ebcf47c95c77fe4e896651a4dd), [Nuke Plants Stick with PDP-11 Code Until 2050](5939406bb00700661103e9480fb00613), [The Rise of Luxury Surveillance](382ab5700ea4e7c189a438c6e024ef18), [The Honest Broker: Half of Waking Hours Are Now Devoted to Entertainment](c5c2c794f1426e6e307a9df3f9ff61f6), [The Importance of Science Fiction](8ebb431ce8d949d5a1ecb52bbd42a69f), [The Radical Power of Hanging Out](edbb7336dfb26098bcc966ca17c074b9)
+* __Technology adoption__: [The Future of Jobs Report 2023: Evolving Job Trends and Skills](4abade09451838c25631bf9da940b724)
+* __Technology advancements__: [The Rise of AI-Generated Art](536d1aaf84afa5bf10493f03cbb3d38d)
+* __Technology and art__: [The Age of Infinite Entertainment](63f1bb42da49c95b95587a4e15740fcb)
+* __Technology and data in democracy__: [Blueprint for an AI Bill of Rights](dcddf63f302269a8c3b2f255e4e94c3b)
+* __Technology and media consumption__: [The Sterile World of Infinite Choice](7b316ebe449187b79e519a8c6d12a2cd)
+* __Technology and prosperity__: [Review of "Power and Progress: Our Thousand-Year Struggle Over Technology and Prosperity"](997c962feb825d066ca4dc6e4742e8a9)
+* __Technology and robotics__: [John Deere's Push into AI and Robotics](e623b9d82816485d864a5faeb2f0d15b)
+* __Technology and society__: [Our Technology Sickness—and How to Heal It](c1bb890337ef382bfaa5720c9fd05134)
+* __Technology and storytelling__: [The 'Storification' of Technology: From Steve Jobs to Elon Musk, Pixar to FTX](88e3e65091dc7c588417ee6ce1442256)
+* __Technology companies__: [New York's Right-to-Repair Bill and Lobbyist Influence](c43f57be38bbfef16e25047b07cd9d5d)
+* __Technology conferences__: [Chaos Computer Club Announces 37th Chaos Communication Congress (37C3)](bcff5643d6572db7c8c9d2bffc215812)
+* __Technology development__: [The Challenges of Space Law](d7322a8c1f0f439ffa3d07c93d4c2651)
+* __Technology events__: [The 2022 Hackaday Supercon Is On!](57d45c62e30c14c52cdaa049b2d869b6)
+* __Technology impact__: [AI 2041: Shaping Our Collective Future](1621aeb7941f2df0feefc2de14851249)
+* __Technology restrictions__: [The Boiling Frog of Digital Freedom](1f01cd79ea4dad626936ecf8a068c1be)
+* __Technology sector and ai__: [AI Redefining Work-Life Balance](bc5ff4c170f1f63b34eb7ca70775d8d7)
+* __Technology skills__: [Gen Z Struggles with Office Technology](84e4f59e4eb3832250963e8ac00bf768)
+* __Technology solutions for pandemic__: [Technologies of Hope: Pandemic Solutions](d44d0c046d2ee3330a2d40cfccdfc0d3)
+* __Teenagers__: [Utah Governor Passes Legislation Restricting Teenagers' Access to Social Media](3f7f68f94d44849513156aae48ee013f)
+* __Telemarketing scams__: [Subscription Service Uses ChatGPT Bots to Annoy Telemarketers](857470c398e02e1332fa173027719cc5), [ChatGPT: A Weapon Against Telemarketers](fae2a94efbea75250fc5914ef7d16991)
+* __Television series__: [Review: The Witcher: L'héritage du sang](b6a211ec0e62731accbcdca13d23c0f8)
+* __Temperature increase__: [Heat Will Likely Soar to Record Levels in Next 5 Years](89b553cd6644cc1549e68abd6a6d44d6)
+* __Templates__: [Counting Templates and Privacy Policy](348fffeed19b47b0379a6ca0cad9ec8e)
+* __Temporal perspective__: [The Importance of Long-Terminology](a963fcddede6fce55e0d02b040bbcd8a)
+* __Tesla autopilot safety__: [Fatal Tesla Autopilot Crash Reveals Human Error and Technology Challenges](b8f977d6173309879b7e4e8b478210c0)
+* __Teslas data collection and ownership__: [Who Actually Owns Tesla’s Data?](aa8144a7a9cdc5baa399df0daa112f75)
+* __Text classification__: [Semantic Similarity Classifier and Sentence Clustering](d4a91d7a61a78e1e08b96ae466d76000)
+* __Text completion__: [GPTs and the Understanding Paradox](4f6886eaaf3ef1d684792f6ec5b435de)
+* __Text embedding__: [Building Academic Knowledge Graph with OpenAI & Graph Database](b4486b71505e7322a530fb28cd275f82)
+* __Text embedding representations__: [Integrating LLM Workflows with Knowledge Graph](1739f639d5bfca8e60d7750e29cc6ab3)
+* __Text processing__: [Processing Research Papers with GPT](4a685a928e7e774cc5f442248bc0dde0)
+* __Text summarization__: [Mastering AI Summarization: Your Ultimate Productivity Hack](e0f6ae75e034df0a32044fe8a9075673)
+* __The benefits of using gpt-3 for journaling__: [GPT-3 as a Powerful Journaling Tool](d55af8b33e1f586f692dd1ac595444c6)
+* __The contrast between film and digital photography__: [The Illusion of Authenticity: Polaroid's Bid for Meaningful Photography](ba6b48e83806da532c7578d24e914455)
+* __The dangers of storification__: [The 'Storification' of Technology: From Steve Jobs to Elon Musk, Pixar to FTX](88e3e65091dc7c588417ee6ce1442256)
+* __The decline of human animators__: [The Dominance of AI in Animation](7335d2a0f0dbf2aa11f41457cdf15757)
+* __The exploitation of ai technology by the overemployed community__: [The Rise of Overemployment with AI](865de68b1a86658397163b10f850e3c5)
+* __The impact of ai and chatgpt on the job market__: [The Rise of Overemployment with AI](865de68b1a86658397163b10f850e3c5)
+* __The impact of narratives on business and technology__: [The 'Storification' of Technology: From Steve Jobs to Elon Musk, Pixar to FTX](88e3e65091dc7c588417ee6ce1442256)
+* __The importance of lora in fine-tuning language models__: [Leaked Google document reveals concerns about OpenAI's competitive edge](271c9ba1f197505aba5f225c62e3c09f)
+* __The importance of reading__: [The Power of Reading and Books](a9f822eb98b10e38248c245ba437d9c8)
+* __The intersection of technology and belief systems__: [The Rise of AI in Spiritual Practices](17e9c012b464f1087cfd8fc6f9425ed5)
+* __The jagged frontier of ai__: [Centaurs and Cyborgs on the Jagged Frontier](c94f72ff677c7517a836417c1f1df620)
+* __The need for clear labeling and transparency in a.i.__: [The Misleading Myth of Artificial Intelligence](15c812523685076326204f061bf025cd)
+* __The potential of ai for creativity and exploration__: [The Impact of AI on Society](87709d0e31dee725ec1f54b7f4facbc4)
+* __The potential of ai in therapy__: [GPT-3 as a Powerful Journaling Tool](d55af8b33e1f586f692dd1ac595444c6)
+* __The power of books__: [The Power of Reading and Books](a9f822eb98b10e38248c245ba437d9c8)
+* __The power of visual storytelling__: [The Power of Zines in Education](53d3d1e4dcdbada5d087e49faadec607)
+* __The rise of multi-job hustlers during the covid-19 pandemic__: [The Rise of Overemployment with AI](865de68b1a86658397163b10f850e3c5)
+* __The role of ai in spiritual practices__: [The Rise of AI in Spiritual Practices](17e9c012b464f1087cfd8fc6f9425ed5)
+* __The simpsons connection__: [Tomacco: A Real-Life Creation by a Simpson Fan](8bd0ff91f441280f0da2731c54a3b7e0)
+* __The value of authenticity in photography__: [The Illusion of Authenticity: Polaroid's Bid for Meaningful Photography](ba6b48e83806da532c7578d24e914455)
+* __The value of wandering__: [The Art of Wandering](ddf441dc074555140e62f61fb00019fa)
+* __Theater chains and netflix partnership__: [Netflix Considers Theatrical Release Strategy](088604fb4004b2f3c5725cf2f674066e)
+* __Themes__: [DALL·E 2: Creating Realistic Images from Text Descriptions](150d9e636fc3b6404f150b8f049f626b)
+* __Threat assessment__: [Science Fiction Prototyping: Modeling Future Threats](cdc3436dbcf552eeeffbebf1b8783c2d)
+* __Threat to architects__: [Architects Face Existential Threat from AI](e9b5d9cc5e032f130b7daa9549d4b12c)
+* __Threat to traditional newsletters__: [The Future of Newsletters in the Age of AI](36708cd749aea907043cfc74cbaa3847)
+* __Threats to democracy__: [Democracy's Battle Against Viral Misinformation](56d1a28746cd95ebaa3d62a4e1f91c3a)
+* __Threats to human freedom__: [The Problem With Counterfeit People](ee8ec5a4a60822d8e8a1774e02d3a7e5), [The Problem With Counterfeit People](df749b28f13a14f030501985011f6c5b)
+* __Thrifting__: [Recommerce Soars as Secondhand Shopping Surges](6e8eeaf2acd0e96acb4d43a085c483e1)
+* __Tiktok trends__: [TikTok Trend: Creators Become NPCs](74bbfc00e17b6b73f8afd958f1a4725c)
+* __Tilings__: [Mathematicians Discover Shape with Non-Repeating Pattern](878524351f159f818bc2c8ebcd95c0d7)
+* __Time as currency__: [IKEA's Time Currency: A Shift in Consumer Behavior](5545fefb8c6612ca12964516930380c9)
+* __Time management__: [Sacred Hour: Finding Time for Yourself in a Hectic World](9ea825ae2ff757c9a593882acf36334d)
+* __Time off__: [Dead Week: A Time of Rest and Nothingness](feaf4c8a17f7451ae8634f22609ffa93)
+* __Time perception__: [Exploring Time and Shaping the Future](2f66695f2596205814b8aeb4dc746072)
+* __Time reflections with light waves__: [Time Reflections with Light Waves](4276927d1e8af2054511c6ea72f2a9d4)
+* __Tin mining__: [Ancient Tin Supply Chains Revealed](7b0e1c9311dae19679aa54d541ef47f0)
+* __Tobacco__: [New Zealand passes legislation banning cigarettes for future generations](57094f3730835fe172d0f95667a01312)
+* __Tokenization process__: [Language Disparity in Tokenization Process](d665bd80eab0306d0688daeded670533)
+* __Tokyo record bar culture__: [The Unique Experience of Tokyo's Audiophile Bars](0505a73ce4b14c86bd62f374ef83abc9)
+* __Tomacco experiment__: [Tomacco: A Real-Life Creation by a Simpson Fan](8bd0ff91f441280f0da2731c54a3b7e0)
+* __Tool selection__: [Bytebase: A Start-Up's Tool Stack and Monthly Expenses](c30d1aaeb666b051e8a7a22d8bde337c)
+* __Tools for online research__: [Tools Needed by Open Source Researchers](232af96e853049a58bc2dae466ea495d)
+* __Tooth decay__: [Cross-Kingdom Partnership Creates Superorganism](2af3e931e394e21223d8e983e2dd43b7)
+* __Tourism__: [Diriyah Gate: Modernizing History and Culture](8a6d9cd006acf1a98de5163e4b1d8b63)
+* __Trade secrets__: [Corporate Espionage: A New Era](24e03440e7901342e12da817c3fc951e)
+* __Trademarked colors__: [The Power of Color in Branding](aed94a25a5eda4f0d45a976a94a8c223)
+* __Traditional agriculture__: [The Ancient Acequias of Southern Spain](04998b66cf38956ba7f826219f028eeb)
+* __Traditional communication__: [Japan's Letter-Writing Matchmaking Scheme](ec9cf2ccb630113e57cfdd18230f129a)
+* __Traditional farming practices__: [The Revival of Maslins: An Ancient Grain Tradition with a Promising Future](7de6c4b68c071bd607debc0959aa0b7f)
+* __Tragedy__: [A Chaotic Journey of Sibling Tragedy](109fdce64e3534d2f17935a3c4fbd713)
+* __Training__: [MistralOrca: OpenOrca Dataset Fine-tuned on Mistral 7B](e69dcd964ee3d865e155042c8fb38cc5)
+* __Training with video games__: [The Influence of Video Games in Sports](1c89f8c55cb2e9509e63435c92e123a0)
+* __Transatlantic data exchanges__: [EU Approves New Data Transfer Deal with the US, Ending Legal Limbo for Tech Giants](bef6f36725097d0c16289eca2eb18df4)
+* __Transboundary water management__: [2023 Roadshow of Research and Policy Results](589c2c554219a6d4ae1ad0c9d1d75a21)
+* __Transformation__: [The Power of the Hibernet](9e74c32425eab87ba36167bfe05c8f2c)
+* __Transformation of scientific publishing__: [The Potential of Generative AI in Scientific Communication](60f3a64993d5e355561c59e5d641bec9)
+* __Transformation of societal perception of psychedelics__: [The Categorization Conundrum of Psychedelics](13d07c8b2cd28b1d14da1f2b37f956f4)
+* __Transformers and their attention mechanism__: [The Rise of LLMs in Defense Content Analysis](6335d1cfa75abf9650361efd7b529149)
+* __Transhumanism__: [Blindsight: A Hard Science Fiction Novel](a4764a556583ffec51fa91aa3564e777)
+* __Transition to a new economic system__: [The Impact of AI on Society](87709d0e31dee725ec1f54b7f4facbc4)
+* __Transition to digital media__: [National Geographic Magazine Faces Decline in Staff and Print Distribution](d73b2d1ca633593621e522bff48a55e6)
+* __Transition to electric vehicles__: [The End of Spare Parts Edition](633655a8e8a99ad217f019928a2b8dc1)
+* __Transition to prompt engineering__: [The Rise of Prompt Engineers: AI's Impact on the Writing Profession](7deb1de0960ac64f860d34b9a353deb5)
+* __Transitioning to alternative whiteboard apps__: [Google Jamboard: End of the Line](1f6ffedb8c1bbd834ffc6a40038cbf7c)
+* __Translation technology__: [New AI Translates 5,000-Year-Old Cuneiform Tablets Instantly](e1e397524180919a904633560234ef77)
+* __Transparency__: [Compliance of Foundation Model Providers with EU AI Act](b39cd180dcfb9a92e51a09e5dcb0a0f4)
+* __Transportation__: [The Changing Landscape of Greyhound Travel](175ea9191642bee3b29225d9dadffc96), [Cyberattack Derails Olsztyn's Smart City](760077b9e8a605138ef8a769c307c760), [The Big Blimp Boom: Building Futuristic LTAs](6d08036a53cd3136ac5a71006b4ca40e), [Proposal to Build Housing on Britain's Roads](ded1777047211d0d3ff73ccb83141baa), [China's Planned City Clusters for Sustainable Urbanization](2c6411450b93e8449beffcb00e58b39b)
+* __Trauma__: [The Indian Woman Who Married Herself](d30eab58ea238cc3cefbb88c3e4f61cd)
+* __Treatment__: [Bacterial Infection Linked to Endometriosis](6df4f7525be593be2a48f96ee7e49dd2)
+* __Tree of life__: [The Nibblerids: Microbial Predators of the Unknown](279ad1b21581f6a15ca206621c443c6d)
+* __Trends and predictions__: [Non-Obvious Megatrends: How to See What Others Miss and Predict the Future](53c5550484135e9581500f193d2e8a0f)
+* __Trial subscription__: [Trial Inclusions and Subscription Options](2b2438cd827520a2dfdcffa094cc7fc3), [FT.com Trial and Subscription Information](34e1369572f1241d4a54e63cee2a4565)
+* __Trust in ai__: [Making AI Safer with Cryptography](9ec84987bda1e0a307c2c31c6ed2462d)
+* __Trust in the digital age__: [The Impact of LLMs on Information Post-Scarcity](f87ae242f79a85b180657a74b814aa0f)
+* __Trustworthiness__: [Singapore's Trustworthy AI Development](4270753a719b34ed63a12b3917635193)
+* __Tsmc arizona fab__: [The End of the Beginning: Morris Chang's Speech on the Future of America's Semiconductor Industry](0fce5ae3e73cafb8739ab8c2c63ebad5)
+* __Tulpamancy__: [Tulpamancy: Creating Autonomous Mental Entities](56f93e34024f9bf044f570856f99590f)
+* __Turmeric benefits__: [DIY Anthotype Printing Using Turmeric](45dbee915ba56fe3791c4a244f491747)
+* __Types of digital boosts targeting cognitive competences__: [Boosting Competences for the Online World](0770afeb444e4bbb336cdc72c07d6688)
 
 ## Letter 'U' 
 
 
-* __u.k. as an innovation hub__: 
-* __ubers unethical practices__: 
-* __ukraine conflict__: 
-* __ultrasonic emissions__: 
-* __ultrasound imaging technology__: 
-* __ultrasound technology__: 
-* __uncertainty__: 
-* __undeclared swimming pools__: 
-* __underestimation of climate change impacts__: [Risks of Harvest Failures Underestimated](9bebaea9ed2c74b635c7ffbedc039556)
-* __understanding vs. experiencing__: 
-* __underwater detection__: [Natural Sounds Take on Military Sonar](21724ff06f805efad0fe188ab899b1cc)
-* __underwater photography__: [The Hidden World of Copepods](72f38771bb0e524e59d49cde66f9db5e)
-* __unexpected behavior of ai models__: 
-* __unidentified objects in u.s. airspace__: 
-* __universal basic income__: 
-* __unlimited gpt-4 access__: 
-* __unmanned aerial vehicles__: 
-* __unpredictability__: 
-* __unsolved riddles__: [The Mystery of Changing Blue Whale Songs](6184e76d86ed2dbc8968722327f70c5b)
-* __unstructured data processing__: 
-* __upbringing and hardships__: [The Liberman Brothers: Chasing the Future](b055041878a9d08483783041109a3698)
-* __updating and expanding llm knowledge__: 
-* __urban air quality__: 
-* __urban development__: [The LOOP: Dubai's Sustainable Highway Initiative](028e8b0caa69712c4fda4048ad84de72)
-* __urban exploration__: 
-* __urban farming__: [Central Iowa Shelter Launches Aquaponics System to Grow Tilapia](9664582c42773260d250f25634078279)
-* __urban infrastructure__: [MyPowerbank: Portable Charger for Homeless](d9f1f901dee09e59f1f13b7777a391cb)
-* __urban life__: 
-* __urban planning__: 
-* __urbanism__: [Diriyah Gate: Modernizing History and Culture](8a6d9cd006acf1a98de5163e4b1d8b63)
-* __urbanism debate__: 
-* __urbanization__: 
-* __us domestic chip industry expansion__: 
-* __us-china conflict__: 
-* __us-taiwan-china relations__: 
-* __usb connectivity__: 
-* __usb protocols__: 
-* __user authorization vulnerability__: 
-* __user-focused security approach__: 
+* __U.k. as an innovation hub__: [U.K. Government Collaborates with Tech Giants for AI Safety Research](7d282ab00a127ad93da225107b263810)
+* __Ubers unethical practices__: [Ex-Uber Lobbyist Reveals Himself as Source of Leaked Documents](de008c7c88ce17b51251989a109d2fbb)
+* __Ukraine conflict__: [Ukraine Cyber-Conflict: Hacking Groups Vow to Comply](c039bde3f9a4fa2f206da538dde42fb5)
+* __Ultrasonic emissions__: [Plants' Ultrasonic Clicks: A Thirsty Cry](801c20050ea3a65fd9e79c9de55256ef)
+* __Ultrasound imaging technology__: [MIT Engineers Develop Wearable Ultrasound Sticker for Continuous Internal Organ Imaging](046ecaa63b94e5eef69df0439e9d3246)
+* __Ultrasound technology__: [Ultrasound-based Voice Recording Prevention Study](9c2ba0d61960b055646e246bf4727cd1)
+* __Uncertainty__: [Strategic Foresight: Anticipating and Adapting to the Future](40a99c098bad8dda821b757d8d88a80a)
+* __Undeclared swimming pools__: [French Tax Authorities Use AI to Uncover Undeclared Swimming Pools](e3a48e3d81fad129f8f77e290bbdea1f)
+* __Underestimation of climate change impacts__: [Risks of Harvest Failures Underestimated](9bebaea9ed2c74b635c7ffbedc039556)
+* __Understanding vs. experiencing__: [The Rise of Understanding-based Software](2feb921909e9c0903f0cd9af69456416)
+* __Underwater detection__: [Natural Sounds Take on Military Sonar](21724ff06f805efad0fe188ab899b1cc)
+* __Underwater photography__: [The Hidden World of Copepods](72f38771bb0e524e59d49cde66f9db5e)
+* __Unexpected behavior of ai models__: [Strange Keywords Break OpenAI's Chatbot](5b81715df0a0f5578205ba6139f4ef03)
+* __Unidentified objects in u.s. airspace__: [Unidentified Object Shot Down over Lake Huron](bfc9a024f93db97272c074662f73af22)
+* __Universal basic income__: [The Need for Universal Basic Income](550efa34f0d3da2d8dc49d97f98859d9)
+* __Unlimited gpt-4 access__: [Introducing ChatGPT Enterprise: AI Assistant for Work with Enhanced Security and Performance](27a26e2b76fde5dedcd97e68fd50b852)
+* __Unmanned aerial vehicles__: [Army Plans Drone Swarms from High-Altitude Balloons](4d4f8bb17a5a7e5a852786591e70ffc8)
+* __Unpredictability__: [Unpredictable AI: When Machines Outsmart Humans](48f89d6d7e552a0a5b1f6b59d7eeb0e9)
+* __Unsolved riddles__: [The Mystery of Changing Blue Whale Songs](6184e76d86ed2dbc8968722327f70c5b)
+* __Unstructured data processing__: [Extracting Knowledge from Unstructured Text](5d04744a3bee2ab6564f5e2ff60136d8)
+* __Upbringing and hardships__: [The Liberman Brothers: Chasing the Future](b055041878a9d08483783041109a3698)
+* __Updating and expanding llm knowledge__: [Limitations of LLMs and Overcoming Them](9fd8c7460fe2d17a54694de66ebd64ca)
+* __Urban air quality__: [New 'Liquid Trees' Divide the Internet](b8164554d14e302dac8ca428de8376dd)
+* __Urban development__: [Floating City in the Maldives Offers Hope for Climate Refugees](f752962c5587436d35583816144eef3e), [The LOOP: Dubai's Sustainable Highway Initiative](028e8b0caa69712c4fda4048ad84de72), [The Rise of Blank Street: Reinventing the Coffee Experience in New York City](ad6334d8203e40ef0376165b2141e1d3)
+* __Urban exploration__: [Wandrer: Explore and Dominate Your City](1e568b1d4516b5aceb2cad850d46c5ce)
+* __Urban farming__: [Central Iowa Shelter Launches Aquaponics System to Grow Tilapia](9664582c42773260d250f25634078279)
+* __Urban infrastructure__: [MyPowerbank: Portable Charger for Homeless](d9f1f901dee09e59f1f13b7777a391cb)
+* __Urban life__: [The Disappearing Houses and the Search for Normalcy](e825171606432c71606dc78b9bf86eee)
+* __Urban planning__: [Berlin Plans Carbon-Neutral Neighborhood on Former Airport Site](5152a8f61434482ebe5faecae9e14b28), [Proposal to Build Housing on Britain's Roads](ded1777047211d0d3ff73ccb83141baa)
+* __Urbanism__: [Diriyah Gate: Modernizing History and Culture](8a6d9cd006acf1a98de5163e4b1d8b63), [Yokochos: The Hidden Gems of Tokyo's Neighborhoods](81bce8483d29b043747e3f6a32895c7f)
+* __Urbanism debate__: [The Sound of Anti-Capitalism: Free Lime Bike Rides in London](b4b3be8d92e53825dcda70087d005f12)
+* __Urbanization__: [China's Planned City Clusters for Sustainable Urbanization](2c6411450b93e8449beffcb00e58b39b)
+* __Us domestic chip industry expansion__: [Delays in TSMC's Arizona Chip Factory Construction Impact US AI Investment](2b6cc7a8e528932936c2b72ea35d930c)
+* __Us-china conflict__: [The New AI Panic](3c87907a359edc6a80187a597d0c3074)
+* __Us-taiwan-china relations__: [China's Disinformation Campaign in Taiwan](44ddf53ef211a729ca1a7fa394ac9f35)
+* __Usb connectivity__: [Kilsyth: ECP5 FPGA + FT60x FIFO](076f9b6d6122fb2ac7933c60cf1e7dbc)
+* __Usb protocols__: [HydraUSB3 V1: Open Source Developer Kit for High-Speed Protocols](0fbb6c3fbc914e5e65bc6e67bd425edd)
+* __User authorization vulnerability__: [Vulnerabilities in Auto-GPT Enable Code Execution and Docker Escape](ee8cb7b5bbd170389172ba959bc53d8a)
+* __User-focused security approach__: [Elba Raises 2.5 Million for Employee-Focused Cybersecurity](f0bea4855d3def3c7d023e76aaf74aa6)
 
 ## Letter 'V' 
 
 
-* __vaccine coverage__: [Drop in U.S. Kindergartners' Vaccination Rates](f2e3c24131513e79e1193ffa31a7f1e7)
-* __value__: [Charging More: A Lesson in Valuing Talent](5eb50114b6e85cd24033b817cc9457ba)
-* __value and services provided by consultants__: [The Value of Management Consultants](e35045210e6be5203ded2be5b9ed63f6)
-* __value creation in ai__: 
-* __value of generative ai__: 
-* __variation in ecological data__: [Analyzing Reproducibility in Ecology Research](6ca0eb61f6679e513cde2fa1b3637de7)
-* __vegan fashion__: [The World's First Mylo™️ Garments: Vegan Mushroom Leather Revolution](babc175f444c7c8a095e0739f8ca9f96)
-* __vehicle repair regulations__: [Illegal Car Repairs in Sacramento, California](52cca87c67452d11ed4899552e6c7573)
-* __vending machines__: [Japan Installs Vending Machines for Disasters](1b4a9e6fd6f8912da18909188db75bda)
-* __venture market__: 
-* __version control__: 
-* __vertical axis turbines__: [Innovative Vertical Wind Turbine Design Promises Increased Output and Efficiency](d4b9614dce0dbe9cd944ed6cb3022d12)
-* __vicarious trauma__: 
-* __victorian culture__: 
-* __victorian-era detective__: 
-* __video games__: 
-* __video games in sports__: 
-* __vintage computing__: 
-* __violence__: [Cormac McCarthy's Venomous Fiction](b75f2d908abb3ba97b7673a475bbf36b)
-* __virtual care__: 
-* __virtual characters__: 
-* __virtual healthcare__: 
-* __virtual humans in china__: 
-* __virtual influencers__: [Balabala Makes Virtual Move with Gu Yu](c9ec4ffbfe911a0c5d04e95d8fa17e77)
-* __virtual makeup__: [Microsoft Teams Introduces AI-Powered Virtual Makeup Filters](9ec176fcee45ff89d5197430aacc81d7)
-* __virtual people industry__: 
-* __virtual reality__: [The Power of the Hibernet](9e74c32425eab87ba36167bfe05c8f2c)
-* __virtual reality and artificial intelligence__: 
-* __visualization__: [The Impact of Digital Whiteboards](0427292acb53be01ba35b3b5b561cb59)
-* __voice cloning__: [Security Flaw in Australian Government's Voice Identification System](f34407cbb44c57483e2640455a12b9c8)
-* __voice conversion__: 
-* __voice recording technology__: 
-* __voice synthesis__: 
-* __voice technology__: 
-* __vulnerabilities__: [Researchers Uncover Backdoor in Encrypted Radios Used by Police and Military](841546c0efc4c82f0aabc545a47a09e1), [Microsoft Launches Bug Bounty Program for AI-Powered Bing](917c65b1876df03d3794348b22d9fb31)
-* __vulnerability disclosure programs__: [Belgium Introduces Strong Legal Protections for Security Researchers](8ae26b7eeafce0d7e88a3f1e7cadcfd7)
+* __Vaccine coverage__: [Drop in U.S. Kindergartners' Vaccination Rates](f2e3c24131513e79e1193ffa31a7f1e7)
+* __Value__: [Charging More: A Lesson in Valuing Talent](5eb50114b6e85cd24033b817cc9457ba)
+* __Value and services provided by consultants__: [The Value of Management Consultants](e35045210e6be5203ded2be5b9ed63f6)
+* __Value creation in ai__: [The Impact of AI on Jobs](17cff4adea214f71c7a5eed15307b0e7)
+* __Value of generative ai__: [The Future of Generative AI is Niche, Not Generalized](8dd10f0dc4f44fa3a381c7f37fbcb8fc)
+* __Variation in ecological data__: [Analyzing Reproducibility in Ecology Research](6ca0eb61f6679e513cde2fa1b3637de7)
+* __Vegan fashion__: [The World's First Mylo™️ Garments: Vegan Mushroom Leather Revolution](babc175f444c7c8a095e0739f8ca9f96)
+* __Vehicle repair regulations__: [Illegal Car Repairs in Sacramento, California](52cca87c67452d11ed4899552e6c7573)
+* __Vending machines__: [Japan Installs Vending Machines for Disasters](1b4a9e6fd6f8912da18909188db75bda)
+* __Venture market__: [Spannr 2022 Longevity Funding Report](cf3c921bb1bef1b55c7d67ea712f9a1b)
+* __Version control__: [Processing Research Papers with GPT](4a685a928e7e774cc5f442248bc0dde0)
+* __Vertical axis turbines__: [Innovative Vertical Wind Turbine Design Promises Increased Output and Efficiency](d4b9614dce0dbe9cd944ed6cb3022d12)
+* __Vicarious trauma__: [Maintaining Mental Hygiene as an Open Source Researcher](ed4473b3a0fa1513b565081d8773b33e)
+* __Victorian culture__: [The Language of Flowers: A Timeless Form of Communication](e34d1db1dc19c0a21849473791c64f79)
+* __Victorian-era detective__: [Enola Holmes 2: A Victorian Mystery Sequel](8cf24222d12bb6530c4526898a6bc5ff)
+* __Video games__: [A Brief History of WolfMUD](46c1f73cbd3e48207a7b612fe8678cd3)
+* __Video games in sports__: [The Influence of Video Games in Sports](1c89f8c55cb2e9509e63435c92e123a0)
+* __Vintage computing__: [Vintage Tech: Keeping the Past Alive](2a98922fc3676ea6365782ce075cf589)
+* __Violence__: [Cormac McCarthy's Venomous Fiction](b75f2d908abb3ba97b7673a475bbf36b)
+* __Virtual care__: [Amazon Clinic: Virtual Care for Common Health Conditions](22d0934658c9fc05be2fd8ded3007cf4)
+* __Virtual characters__: [TikTok Trend: Creators Become NPCs](74bbfc00e17b6b73f8afd958f1a4725c)
+* __Virtual healthcare__: [Amazon Expands into Mental Health Services](3d4aee592248f940acdac6ffab5ec4aa)
+* __Virtual humans in china__: [The Rise of Virtual Humans in China](ed6be3a2a502c8a0bedd63d8ab1c8d9e)
+* __Virtual influencers__: [Balabala Makes Virtual Move with Gu Yu](c9ec4ffbfe911a0c5d04e95d8fa17e77)
+* __Virtual makeup__: [Microsoft Teams Introduces AI-Powered Virtual Makeup Filters](9ec176fcee45ff89d5197430aacc81d7)
+* __Virtual people industry__: [China's Growing Virtual People Industry](9830e769665e82dcea315b1089dc40c4)
+* __Virtual reality__: [The Metaverse Hype: A Costly Failure](6f71a216712969ccfb48faf7968a552b), [The Power of the Hibernet](9e74c32425eab87ba36167bfe05c8f2c), [Down and Out in the Magic Kingdom](aa2a288c3b4bf99252f35d3a30d17a82)
+* __Virtual reality and artificial intelligence__: [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
+* __Visualization__: [The Impact of Digital Whiteboards](0427292acb53be01ba35b3b5b561cb59)
+* __Voice cloning__: [Security Flaw in Australian Government's Voice Identification System](f34407cbb44c57483e2640455a12b9c8)
+* __Voice conversion__: [Amazon Plans to Turn Deceased Loved Ones' Voices into Digital Assistants](316c2bc07bdae32ea05595973043b766)
+* __Voice recording technology__: [Ultrasound-based Voice Recording Prevention Study](9c2ba0d61960b055646e246bf4727cd1)
+* __Voice synthesis__: [Microsoft's AI Simulates Voice with Three Seconds of Audio](146bf2c4637290e20802f18dee14bbaf)
+* __Voice technology__: [Alexa Voice Assistant Replicates Human Voices](95a21e5407df1f9dfe1f323e5a827e94)
+* __Vulnerabilities__: [Researchers Uncover Backdoor in Encrypted Radios Used by Police and Military](841546c0efc4c82f0aabc545a47a09e1), [Microsoft Launches Bug Bounty Program for AI-Powered Bing](917c65b1876df03d3794348b22d9fb31)
+* __Vulnerability disclosure programs__: [Belgium Introduces Strong Legal Protections for Security Researchers](8ae26b7eeafce0d7e88a3f1e7cadcfd7)
 
 ## Letter 'W' 
 
 
-* __wall street__: 
-* __warehouse optimization__: [Ikea Utilizes Drones for Inventory Monitoring](73c05925a7ca7e2fe6fd64b7074f4098)
-* __watch development__: [The Perfect Ultra-Low Power Digital Watch](5af9b5ebcf47c95c77fe4e896651a4dd)
-* __water conservation__: [Las Virgenes Water District Implements Water Restrictors to Conserve During Megadrought](9655c5d49c7e5cbfaedaca59cba73875), [Italian Mayor Bans Double Shampooing to Conserve Water](8b237d611e4dd25c311c3939451bb53c)
-* __water disinfection__: 
-* __water management__: 
-* __water safety__: [Boil Water Notice for City of Houston](e84a367bfd1c9ebf3dddbb19a3d19303)
-* __water stress monitoring__: 
-* __waterborne diseases__: 
-* __watermarking tools__: 
-* __wealth__: [Elon Musk's Revealing Text Messages](d04f722445dfdb5bc02415c540a94654)
-* __wearable medical devices__: 
-* __wearable tech__: 
-* __wearable technologies__: [Sonar Glasses: Silent Speech Recognition](ec5ddbc54cbf0686918bc273da8d97c3)
-* __weather impact on crops__: [Clues from Satellites on Global Harvest](b99e8d470f4bd969ae5ec423c534eeee)
-* __weather research__: 
-* __web development__: 
-* __welfare fraud investigation__: 
-* __wellness__: [The Cadogan Partners with Sleep Expert for Ultimate Comfort](02955553e2ee09903aab2ab1867c860b)
-* __wellness industry__: [The Rise of Menopause Retreats](045add002e344d1657fe658e0ebe6b41)
-* __what if scenarios__: 
-* __wheat production__: [Clues from Satellites on Global Harvest](b99e8d470f4bd969ae5ec423c534eeee)
-* __whistleblowing__: 
-* __wholeness__: 
-* __wind energy__: [Innovative Motionless Wind Turbine Revolutionizes Energy Generation](e6a8537f7a69f6801ef58f226c538321)
-* __wind power__: [Innovative Vertical Wind Turbine Design Promises Increased Output and Efficiency](d4b9614dce0dbe9cd944ed6cb3022d12)
-* __wind propulsion__: [Pioneering Wind-Powered Cargo Ship Sets Sail](17a6704a82824be2f5910ebceee7ec75)
-* __word of the year__: [Goblin Mode: Oxford Word of the Year 2022](94637228bb2652f972551ec4df3e9fb3)
-* __work__: [Increasing Luck through Work and Publication](0a1e31b7c3c14eedf08021f6bd5ebdfc)
-* __work and income__: 
-* __work culture__: 
-* __work transformation__: 
-* __work with ai interns__: 
-* __work-life balance__: [The Rush of Outsourcing and Speed](99862957fcec17ca02dd7fceb346b4df)
-* __workforce transformation__: 
-* __workplace accommodations for adhd__: 
-* __workplace dissatisfaction__: [Quiet Quitting Crisis: Decline in U.S. Workforce Engagement](1e45d2fc84595f57564761a068038652)
-* __workplace trends__: [The Rise of Non-Linear Career Paths](d692481daec2dd39fc987ccc2882f637)
-* __workshop techniques__: [Workshop Tactics: the best problem-solving workshops in a box](e6cb167bfeaed16d68d2e384681bfbb7)
-* __world cup__: 
-* __world war ii__: 
-* __world war ii memorabilia__: 
-* __writers\ rooms__: [Roald Dahl's Writing Hut and the Luxury of a Separate Writing Space](a0aa4aeba716d3559002da147889760a)
-* __writing and publishing__: 
-* __writing environment__: [Roald Dahl's Writing Hut and the Luxury of a Separate Writing Space](a0aa4aeba716d3559002da147889760a)
-* __writing experience__: [Amazon Unveils Kindle Scribe, a Tablet-like Ebook Reader](69637dcd83c48ebde0610a61a27b1989)
-* __writing mindset__: 
-* __writing routine__: [Roald Dahl's Writing Hut and the Luxury of a Separate Writing Space](a0aa4aeba716d3559002da147889760a)
+* __Wall street__: [Marvel Comics: Revolutionizing Investor Relations](4a82d13416aa639187f912c1c8282e0f)
+* __Warehouse optimization__: [Ikea Utilizes Drones for Inventory Monitoring](73c05925a7ca7e2fe6fd64b7074f4098)
+* __Watch development__: [The Perfect Ultra-Low Power Digital Watch](5af9b5ebcf47c95c77fe4e896651a4dd)
+* __Water conservation__: [Las Virgenes Water District Implements Water Restrictors to Conserve During Megadrought](9655c5d49c7e5cbfaedaca59cba73875), [Italian Mayor Bans Double Shampooing to Conserve Water](8b237d611e4dd25c311c3939451bb53c)
+* __Water disinfection__: [New Powder Uses Sunlight to Disinfect Water](0531e1f77a3339cc11432d7601f9c7a4)
+* __Water management__: [The Ancient Acequias of Southern Spain](04998b66cf38956ba7f826219f028eeb)
+* __Water safety__: [Boil Water Notice for City of Houston](e84a367bfd1c9ebf3dddbb19a3d19303)
+* __Water stress monitoring__: [Plants' Ultrasonic Clicks: A Thirsty Cry](801c20050ea3a65fd9e79c9de55256ef)
+* __Waterborne diseases__: [New Powder Uses Sunlight to Disinfect Water](0531e1f77a3339cc11432d7601f9c7a4)
+* __Watermarking tools__: [Google DeepMind Launches Watermarking Tool for AI-Generated Images](2bf4929ce2ec00fa01290394feb3112a), [Google DeepMind Launches Watermarking Tool for AI-Generated Images](d5c399872ea4d28def48f650503511a0)
+* __Wealth__: [Elon Musk's Revealing Text Messages](d04f722445dfdb5bc02415c540a94654)
+* __Wearable medical devices__: [MIT Engineers Develop Wearable Ultrasound Sticker for Continuous Internal Organ Imaging](046ecaa63b94e5eef69df0439e9d3246)
+* __Wearable tech__: [The Future of Wearable Tech](a81c4775b91ccd0db3e1b84da893ac6f)
+* __Wearable technologies__: [Sonar Glasses: Silent Speech Recognition](ec5ddbc54cbf0686918bc273da8d97c3)
+* __Weather impact on crops__: [Clues from Satellites on Global Harvest](b99e8d470f4bd969ae5ec423c534eeee)
+* __Weather research__: [Mysterious Balloon Shot Down by US Air Force](dc5cfeecd36c7e47dd1043c4c9d9be00)
+* __Web development__: [The Emergence of Digital Gardening](9464f139c46be97db5caf7bdd72efd0b)
+* __Welfare fraud investigation__: [Welfare Fraud Investigations and the Ethical Challenges](9cdd8057291e0dcc72b58bd24e858b67)
+* __Wellness__: [The Cadogan Partners with Sleep Expert for Ultimate Comfort](02955553e2ee09903aab2ab1867c860b)
+* __Wellness industry__: [The Rise of Menopause Retreats](045add002e344d1657fe658e0ebe6b41)
+* __What if scenarios__: [Imagining Alternative Histories Through Generative AI on TikTok](672d563b299cb30a98ca5198bb16458c)
+* __Wheat production__: [Clues from Satellites on Global Harvest](b99e8d470f4bd969ae5ec423c534eeee)
+* __Whistleblowing__: [Ex-Uber Lobbyist Reveals Himself as Source of Leaked Documents](de008c7c88ce17b51251989a109d2fbb)
+* __Wholeness__: [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
+* __Wind energy__: [Innovative Motionless Wind Turbine Revolutionizes Energy Generation](e6a8537f7a69f6801ef58f226c538321)
+* __Wind power__: [Innovative Vertical Wind Turbine Design Promises Increased Output and Efficiency](d4b9614dce0dbe9cd944ed6cb3022d12)
+* __Wind propulsion__: [Pioneering Wind-Powered Cargo Ship Sets Sail](17a6704a82824be2f5910ebceee7ec75)
+* __Word of the year__: [Goblin Mode: Oxford Word of the Year 2022](94637228bb2652f972551ec4df3e9fb3)
+* __Work__: [Increasing Luck through Work and Publication](0a1e31b7c3c14eedf08021f6bd5ebdfc)
+* __Work and income__: [The Toothpaste Argument for Universal Basic Income](618c3b31c0c4ef4e6b764a04f0f09601)
+* __Work culture__: [The Problem of "Fake Work" in the Tech Industry](be86183e1a7d0969b9c62346d4ecab28)
+* __Work transformation__: [Microsoft 365 Copilot: Revolutionizing Work with AI](590d9ca642d30a1f2e4720f11b28474f)
+* __Work with ai interns__: [On-boarding Your AI Intern](4b66dbaa2bbc249bfcccbb7e27adbde5)
+* __Work-life balance__: [Sacred Hour: Finding Time for Yourself in a Hectic World](9ea825ae2ff757c9a593882acf36334d), [Work on What Really Matters](f3016876ef0373e664eea6b715a4e421), [The Rush of Outsourcing and Speed](99862957fcec17ca02dd7fceb346b4df), [AI Redefining Work-Life Balance](bc5ff4c170f1f63b34eb7ca70775d8d7), [The Tyranny of Tiny Tasks](be4e7e887a88c7b1bae1400c5c4c0500)
+* __Workforce transformation__: [The Urgent Need for Workplace Transformation](4c886ce0e70f066b9f2199abe1d7bd1c)
+* __Workplace accommodations for adhd__: [The Challenges of ADHD in the Workplace](5787bdf4f1ad4805a622fc45bf75f023)
+* __Workplace dissatisfaction__: [Quiet Quitting Crisis: Decline in U.S. Workforce Engagement](1e45d2fc84595f57564761a068038652)
+* __Workplace trends__: [The Rise of Returnships: A Pathway Back to the Workforce](16492dc2f92cae2688e0f452eea5596b), [The Rise of Non-Linear Career Paths](d692481daec2dd39fc987ccc2882f637)
+* __Workshop techniques__: [Workshop Tactics: the best problem-solving workshops in a box](e6cb167bfeaed16d68d2e384681bfbb7)
+* __World cup__: [The Rise and Fall of Sportswashing](b9eeb2b04f3385d366abefa9a17dbb80)
+* __World war ii__: [The Role of Semiconductors in Modern Warfare](328434477c31995b44102949d5341006)
+* __World war ii memorabilia__: [How to Spot a ‘Short Snorter’](daef40b0f763b6fa0b4a29a645ab5ee7)
+* __Writers\ rooms__: [Roald Dahl's Writing Hut and the Luxury of a Separate Writing Space](a0aa4aeba716d3559002da147889760a)
+* __Writing and publishing__: [The Journey of Writing and Selling a Short Story: "India World"](986a8bb137fc0429e11ccf89cd1452a0)
+* __Writing environment__: [Roald Dahl's Writing Hut and the Luxury of a Separate Writing Space](a0aa4aeba716d3559002da147889760a)
+* __Writing experience__: [Amazon Unveils Kindle Scribe, a Tablet-like Ebook Reader](69637dcd83c48ebde0610a61a27b1989)
+* __Writing mindset__: [The Misunderstood Art of Writing](084d5851e2f7a188dcc1d0f7e364f444)
+* __Writing routine__: [Roald Dahl's Writing Hut and the Luxury of a Separate Writing Space](a0aa4aeba716d3559002da147889760a)
 
 ## Letter 'X' 
 
 
-* __xenotransplantation__: 
+* __Xenotransplantation__: [Xenotransplants: A Solution to the Organ Shortage Crisis](7d8c56d6e0991c4df704374e4bd6f6ec)
 
 ## Letter 'Y' 
 
 
-* __yokochos__: 
-* __youth access to transportation__: 
-* __youth activism and intergenerational justice__: 
-* __youth unemployment__: [Dark Side of India's Tech Sector](6ed5fdeafa587adf125587208fb0e01b)
+* __Yokochos__: [Yokochos: The Hidden Gems of Tokyo's Neighborhoods](81bce8483d29b043747e3f6a32895c7f)
+* __Youth access to transportation__: [The Sound of Anti-Capitalism: Free Lime Bike Rides in London](b4b3be8d92e53825dcda70087d005f12)
+* __Youth activism and intergenerational justice__: [Representing Future Generations in Climate Decision-Making](32228bbf929d81d39a1808dd9b7c4493)
+* __Youth unemployment__: [Dark Side of India's Tech Sector](6ed5fdeafa587adf125587208fb0e01b)
 
 ## Letter 'Z' 
 
 
-* __zines and student engagement__: 
-* __zooms ai strategy__: ## Others
+* __Zines and student engagement__: [The Power of Zines in Education](53d3d1e4dcdbada5d087e49faadec607)
+* __Zooms ai strategy__: [Zoom's Terms of Service Update Allows AI Training with Customer Data](3b96c74f728c6281fc7f1a045a5befc7)## Others
 
 
 * __2024 problem in logistics__: 
