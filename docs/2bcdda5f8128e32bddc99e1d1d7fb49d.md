@@ -35,4 +35,13 @@ This article discusses an alternative photographic printing technique called chl
 
 ## Closest
 
-* 
+* [Let the Sun Create Chlorophyll Prints](2bcdda5f8128e32bddc99e1d1d7fb49d)
+* [Ultra-White Paint: Cooling Airplanes and Spacecraft](8e1b3608f46c809be3c61538048824a8)
+* [Mushroom-Derived Electronics: Biodegradable and Sustainable](58b1d4282237f41c4a33e71179c1ea4b)
+* [Let the Sun Create Chlorophyll Prints](2bcdda5f8128e32bddc99e1d1d7fb49d)
+* [Harvesting Electricity from Plants: A Sustainable Breakthrough](b84bf2742e851da35bfd23220e697b3c)
+* [France Implements Solar Energy Development Measure in Commercial Areas](a162b36d09b081d7de751a64db66fb63)
+* [Let the Sun Create Chlorophyll Prints](2bcdda5f8128e32bddc99e1d1d7fb49d)
+* [Let the Sun Create Chlorophyll Prints](2bcdda5f8128e32bddc99e1d1d7fb49d)
+* [Let the Sun Create Chlorophyll Prints](2bcdda5f8128e32bddc99e1d1d7fb49d)
+* [Let the Sun Create Chlorophyll Prints](2bcdda5f8128e32bddc99e1d1d7fb49d)

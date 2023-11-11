@@ -52,4 +52,13 @@ Recent progress in robotics and neuroscience has made extra robotic limbs a poss
 
 ## Closest
 
-* 
+* [Computer Chip with Human Brain Tissue Receives Military Funding](fcf584bddde6a0c4ccaf5ab8eadded1e)
+* [Future Careers and the Importance of "Mad Skills"](572ff244f383344150f88e74397cc5de)
+* [The Role of Human Gesture in Mass Production](27948f54570ab56d95fdc708d3119801)
+* [San Francisco Moves Closer to Authorizing Lethal Force Robots](316320b3518ab6fd8e843b63fb74e62b)
+* [Lensless Camera Creates 3D Images](8bb1226617cfc9b177ec5976f3716680)
+* [A Comprehensive Guide to Autonomous Agents with GPT](2dda4be3e1a9f11b4f7d8e74feea76b0)
+* [Automation and AI in Mechanical Turk](e2bfc7a2318b0eac62f4f2af28722802)
+* [Revolutionizing Medical Technologies with Optrodes](7aeb03c0771769ceb99c3085c141c1fe)
+* [The Limitations of Care Robots in Japan's Elder Care System](ac120c377b70b80fe25a6cce1d0b7fe6)
+* [MIT Engineers Develop Wearable Ultrasound Sticker for Continuous Internal Organ Imaging](046ecaa63b94e5eef69df0439e9d3246)

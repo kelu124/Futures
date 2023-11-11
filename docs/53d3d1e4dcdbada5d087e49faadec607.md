@@ -44,4 +44,13 @@ Zines are a powerful tool for communication and learning, particularly for stude
 
 ## Closest
 
-* 
+* [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
+* [Advances in Large Language Models: Shaping the Future of Communication Technology](c41a64e50d0280a765ebdac4f8094446)
+* [The Power of Drawing in Idea Generation](094e056f091942a96a446d8401432eb8)
+* [Wordcraft: AI-Powered Writing Workshop and Tools](3acd488d3b86b4637bd78d0f3f3e0e65)
+* [The Power of Zines in Education](53d3d1e4dcdbada5d087e49faadec607)
+* [The Power of Zines in Education](53d3d1e4dcdbada5d087e49faadec607)
+* [Voyager: An Open-Ended Embodied Agent](8af9bffc11d191445956ffcef1627c38)
+* [Technology and Children’s Well-Being in Danish Schools](17ac55c1f87675e075557fa4fa5ba14e)
+* [Workshop Tactics: the best problem-solving workshops in a box](e6cb167bfeaed16d68d2e384681bfbb7)
+* [The Radical Power of Hanging Out](edbb7336dfb26098bcc966ca17c074b9)

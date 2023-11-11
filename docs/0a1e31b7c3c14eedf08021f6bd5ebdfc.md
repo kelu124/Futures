@@ -41,4 +41,13 @@ In order to increase our chances of encountering good luck, we can increase the 
 
 ## Closest
 
-* 
+* [The Future of Talent Identification and Recruitment](14935a7eab6d6c1d8a5ce2f25d3b54bb)
+* [The Sterile World of Infinite Choice](7b316ebe449187b79e519a8c6d12a2cd)
+* [Increasing Luck through Work and Publication](0a1e31b7c3c14eedf08021f6bd5ebdfc)
+* [Increasing Luck through Work and Publication](0a1e31b7c3c14eedf08021f6bd5ebdfc)
+* [Breaking the Mold: Winning in the Networked Counterculture](e5f4b1b4319694169f1551be43a837c9)
+* [Rise of Dazi: Young People Seek Activity Partners](87daba98f9145e9744a49b5145ac69b2)
+* [Increasing Luck through Work and Publication](0a1e31b7c3c14eedf08021f6bd5ebdfc)
+* [Increasing Luck through Work and Publication](0a1e31b7c3c14eedf08021f6bd5ebdfc)
+* [The Age of Infinite Entertainment](63f1bb42da49c95b95587a4e15740fcb)
+* [Strategic Foresight: Anticipating and Adapting to the Future](40a99c098bad8dda821b757d8d88a80a)

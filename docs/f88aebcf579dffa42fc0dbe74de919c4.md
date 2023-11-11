@@ -42,4 +42,13 @@ The US Department of Defense (DoD) has released an unclassified summary of its 2
 
 ## Closest
 
-* 
+* [Biden Administration Unveils Cybersecurity Strategy and Targets China as Major Threat](1eaefdcf11b24d5f443b5f4e7645e0a5)
+* [US Department of Defense Outlines 2023 Cyber Strategy](f88aebcf579dffa42fc0dbe74de919c4)
+* [US Department of Defense Outlines 2023 Cyber Strategy](f88aebcf579dffa42fc0dbe74de919c4)
+* [US Department of Defense Outlines 2023 Cyber Strategy](f88aebcf579dffa42fc0dbe74de919c4)
+* [US Department of Defense Outlines 2023 Cyber Strategy](f88aebcf579dffa42fc0dbe74de919c4)
+* [Predictions for 2030](d14b14eaf86b482708781d3e6d97e33a)
+* [US Department of Defense Outlines 2023 Cyber Strategy](f88aebcf579dffa42fc0dbe74de919c4)
+* [US Department of Defense Outlines 2023 Cyber Strategy](f88aebcf579dffa42fc0dbe74de919c4)
+* [US Department of Defense Outlines 2023 Cyber Strategy](f88aebcf579dffa42fc0dbe74de919c4)
+* [US Department of Defense Outlines 2023 Cyber Strategy](f88aebcf579dffa42fc0dbe74de919c4)

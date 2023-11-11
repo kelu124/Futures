@@ -39,4 +39,13 @@ The future of generative AI lies in its application to specific domains and cont
 
 ## Closest
 
-* 
+* [The Future of Generative AI is Niche, Not Generalized](8dd10f0dc4f44fa3a381c7f37fbcb8fc)
+* [The Future of Generative AI is Niche, Not Generalized](8dd10f0dc4f44fa3a381c7f37fbcb8fc)
+* [The Future of Generative AI is Niche, Not Generalized](8dd10f0dc4f44fa3a381c7f37fbcb8fc)
+* [The Future of Generative AI is Niche, Not Generalized](8dd10f0dc4f44fa3a381c7f37fbcb8fc)
+* [Challenges and Concerns in AI Deployment](382e9ebc1e518ee49e541da1e6b5f8af)
+* [The Future of Generative AI is Niche, Not Generalized](8dd10f0dc4f44fa3a381c7f37fbcb8fc)
+* [The Future of Generative AI is Niche, Not Generalized](8dd10f0dc4f44fa3a381c7f37fbcb8fc)
+* [The Future of Generative AI is Niche, Not Generalized](8dd10f0dc4f44fa3a381c7f37fbcb8fc)
+* [Tools Needed by Open Source Researchers](232af96e853049a58bc2dae466ea495d)
+* [The Future of Generative AI is Niche, Not Generalized](8dd10f0dc4f44fa3a381c7f37fbcb8fc)

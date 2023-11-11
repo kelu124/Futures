@@ -40,4 +40,13 @@ In 2020, a Korean documentary team created a digitized re-creation of a mother's
 
 ## Closest
 
-* 
+* [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
+* [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
+* [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
+* [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
+* [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
+* [AI Disruption Outweighs Pandemic Impact](283ff70c63aed09ef2b0613f6acc2eb9)
+* [The Limitations of Care Robots in Japan's Elder Care System](ac120c377b70b80fe25a6cce1d0b7fe6)
+* [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
+* [The Problem of "Fake Work" in the Tech Industry](be86183e1a7d0969b9c62346d4ecab28)
+* [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)

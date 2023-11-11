@@ -46,4 +46,13 @@ This article discusses the concept of single-threaded leadership as a critical o
 
 ## Closest
 
-* 
+* [Comparing Self-Hosted LLMs and OpenAI: Cost, Quality, Speed, and Privacy](cde52125a54df8cddd2d6464c9ed07de)
+* [The Future of Generative AI is Niche, Not Generalized](8dd10f0dc4f44fa3a381c7f37fbcb8fc)
+* [Single-Threaded Leadership: A Key Organizational Design Concept at Amazon](f7c3cefc5b83fbd9df3507bdad7ff3fe)
+* [Extracting Knowledge from Unstructured Text](5d04744a3bee2ab6564f5e2ff60136d8)
+* [Single-Threaded Leadership: A Key Organizational Design Concept at Amazon](f7c3cefc5b83fbd9df3507bdad7ff3fe)
+* [Single-Threaded Leadership: A Key Organizational Design Concept at Amazon](f7c3cefc5b83fbd9df3507bdad7ff3fe)
+* [Single-Threaded Leadership: A Key Organizational Design Concept at Amazon](f7c3cefc5b83fbd9df3507bdad7ff3fe)
+* [The Power of Simplicity in Living Systems](628eabb2a1ffbe7b0e6865d9367c32de)
+* [Single-Threaded Leadership: A Key Organizational Design Concept at Amazon](f7c3cefc5b83fbd9df3507bdad7ff3fe)
+* [Single-Threaded Leadership: A Key Organizational Design Concept at Amazon](f7c3cefc5b83fbd9df3507bdad7ff3fe)

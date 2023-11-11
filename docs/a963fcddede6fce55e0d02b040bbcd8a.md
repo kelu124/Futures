@@ -39,4 +39,13 @@ This text discusses the concept of "long-terminology" and the importance of long
 
 ## Closest
 
-* 
+* [The Power of Reading and Books](a9f822eb98b10e38248c245ba437d9c8)
+* [The Power of Possibility Spaces](e27673c6f795ce9dc01f9d48bedfbc30)
+* [The Art of Preparing for Death](f38d21b83e092ffde66a379c439ec010)
+* [Solar Grazing: Livestock on Solar Farms](8d9cdb24d214893227785b130ca60240)
+* [Rhizome: A Nonlinear Network in Philosophy](e58d0a9ec9b0c49b615d4bf3812a8630)
+* [The Importance of Long-Terminology](a963fcddede6fce55e0d02b040bbcd8a)
+* [Increasing Luck through Work and Publication](0a1e31b7c3c14eedf08021f6bd5ebdfc)
+* [The Importance of Long-Terminology](a963fcddede6fce55e0d02b040bbcd8a)
+* [Saving Time: Reshaping Temporality and Reclaiming Agency](047936a2b08c1b5dda3018bc98dc1d9b)
+* [Trial Inclusions and Subscription Options](42029469086ed8b0defa5120ec35459e)

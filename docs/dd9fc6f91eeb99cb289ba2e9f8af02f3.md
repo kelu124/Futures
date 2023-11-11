@@ -40,4 +40,13 @@ Many toys and games come and go with passing trends, but some toys have endured 
 
 ## Closest
 
-* 
+* [Roald Dahl's Writing Hut and the Luxury of a Separate Writing Space](a0aa4aeba716d3559002da147889760a)
+* [Voyager: An Open-Ended Embodied Agent](8af9bffc11d191445956ffcef1627c38)
+* [Neophilia and Its Discontents](bd85751af600abe8c39229eb4ba07c1c)
+* [Enhancing Creativity with Generative AI](e2006a4269f097491cc98583df08a47d)
+* [The Power of Procedural Creativity](b904404d29de27e27cbc3dfa95c59f27)
+* [Uphill Thinking: Creativity, AI, and Human Design](92ae644db3cc8e4d0fb262bac8413f8b)
+* [The Impact of AI on Architecture](1f02642f54cf28611a00e4c83c1d428f)
+* [TikTok Trend: Creators Become NPCs](74bbfc00e17b6b73f8afd958f1a4725c)
+* [Future Careers and the Importance of "Mad Skills"](572ff244f383344150f88e74397cc5de)
+* [Q-bear: An AI Baby Crying Translator](4bc37b93dce61c4d9b064a7edd11e76f)

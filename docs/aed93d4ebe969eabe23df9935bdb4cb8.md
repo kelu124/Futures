@@ -41,4 +41,13 @@ Electric vehicles are gaining momentum, with major auto companies planning to ph
 
 ## Closest
 
-* 
+* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
+* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
+* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
+* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
+* [Who Actually Owns Tesla’s Data?](aa8144a7a9cdc5baa399df0daa112f75)
+* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
+* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
+* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
+* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
+* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)

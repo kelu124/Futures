@@ -38,4 +38,13 @@ Debashis Chanda and his team at the University of Central Florida have developed
 
 ## Closest
 
-* 
+* [Revolutionary Light and Cool Structural Paint](a6bfcabefea560d7dfefd5aab87f047c)
+* [Thermoformable Ceramics: A New Frontier in Materials](bd35b1587de303b44a62d0e99fb749fc)
+* [Quantum Mechanics Defies Local Realism](cfa7b88cc31a76b552fd670d315800cc)
+* [Researchers Develop New Source of Quantum Light](059bc68ff6f1a35906ae3e976a00c335)
+* [The Legacy of Nuclear Testing: Low-Background Steel](fd957af83036959652ceb25c652a97c9)
+* [Technologies of Hope: Pandemic Solutions](d44d0c046d2ee3330a2d40cfccdfc0d3)
+* [Revolutionary Light and Cool Structural Paint](a6bfcabefea560d7dfefd5aab87f047c)
+* [Radon Decay and Electric Fields](6c94b8dcd4d0fc4b429a994e2abd353f)
+* [Circuit Sculpture: COSMO-SkyMed Satellite Replica](02024bd4585d5e7049a4ffb380a2a07a)
+* [Protein Nanowire Provides Clues to Combating Climate Change](b9bff2b9003a2ceb046c598703e0c939)

@@ -42,4 +42,13 @@ This article discusses the vulnerability of AI algorithms to adversarial attacks
 
 ## Closest
 
-* 
+* [The Rising Threat of Paraphrasing Attacks on AI Algorithms](e1fbb09ec5e66a8a6d4eff2126eefb40)
+* [The Rising Threat of Paraphrasing Attacks on AI Algorithms](e1fbb09ec5e66a8a6d4eff2126eefb40)
+* [The Rising Threat of Paraphrasing Attacks on AI Algorithms](e1fbb09ec5e66a8a6d4eff2126eefb40)
+* [The Rising Threat of Paraphrasing Attacks on AI Algorithms](e1fbb09ec5e66a8a6d4eff2126eefb40)
+* [Safety Concerns and Automated Attacks on Large Language Models](74c58b0ca359725b4a116ff765656c7c)
+* [The Rising Threat of Paraphrasing Attacks on AI Algorithms](e1fbb09ec5e66a8a6d4eff2126eefb40)
+* [Backdooring a summarizerbot to shape opinion](4d1abdf7e702b559c6ccff847ce4d8d0)
+* [The Rising Threat of Paraphrasing Attacks on AI Algorithms](e1fbb09ec5e66a8a6d4eff2126eefb40)
+* [The Rising Threat of Paraphrasing Attacks on AI Algorithms](e1fbb09ec5e66a8a6d4eff2126eefb40)
+* [The Rising Threat of Paraphrasing Attacks on AI Algorithms](e1fbb09ec5e66a8a6d4eff2126eefb40)

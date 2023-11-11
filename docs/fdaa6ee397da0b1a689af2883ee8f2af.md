@@ -45,4 +45,13 @@ Voice actors are facing challenges as artificial intelligence (AI) is being used
 
 ## Closest
 
-* 
+* [Voice Actors Express Concerns Over Voice-Generating AI](fdaa6ee397da0b1a689af2883ee8f2af)
+* [Voice Actors Express Concerns Over Voice-Generating AI](fdaa6ee397da0b1a689af2883ee8f2af)
+* [The Potential Impact of AI on Elections](3958ff20e8489240e2461aa8d0eee7b5)
+* [Voice Actors Express Concerns Over Voice-Generating AI](fdaa6ee397da0b1a689af2883ee8f2af)
+* [Microsoft's AI Simulates Voice with Three Seconds of Audio](146bf2c4637290e20802f18dee14bbaf)
+* [The Copyright Conundrum of AI-Generated Art](2cfdc6fba6f11e089c2df3cda1604174)
+* [OpenAI CEO Raises Concerns About AI Impact on Elections](fd96f58595786b0820cca21394223a66)
+* [Voice Actors Express Concerns Over Voice-Generating AI](fdaa6ee397da0b1a689af2883ee8f2af)
+* [Voice Actors Express Concerns Over Voice-Generating AI](fdaa6ee397da0b1a689af2883ee8f2af)
+* [Voice Actors Express Concerns Over Voice-Generating AI](fdaa6ee397da0b1a689af2883ee8f2af)

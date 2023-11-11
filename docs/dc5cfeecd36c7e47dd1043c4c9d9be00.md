@@ -39,4 +39,13 @@ Last Saturday, a $150 million U.S. Air Force F-22 Raptor shot down a small unide
 
 ## Closest
 
-* 
+* [Selfie Reveals Location of China's Alleged Spy Balloon](f5bc316f1ab2ef2669f76e3f5212b863)
+* [Mysterious Balloon Shot Down by US Air Force](dc5cfeecd36c7e47dd1043c4c9d9be00)
+* [Mysterious Balloon Shot Down by US Air Force](dc5cfeecd36c7e47dd1043c4c9d9be00)
+* [Mysterious Balloon Shot Down by US Air Force](dc5cfeecd36c7e47dd1043c4c9d9be00)
+* [Michigan Supreme Court to Determine Legality of Drone Surveillance without Warrant](6beeee35311c9595fcb7510e04d6a369)
+* [Mysterious Balloon Shot Down by US Air Force](dc5cfeecd36c7e47dd1043c4c9d9be00)
+* [Mysterious Balloon Shot Down by US Air Force](dc5cfeecd36c7e47dd1043c4c9d9be00)
+* [Project Hail Mary: A Science Fiction Novel by Andy Weir](68b115eb29e9ef169ba04736821c9a8f)
+* [Blindsight: A Hard Science Fiction Novel](a4764a556583ffec51fa91aa3564e777)
+* [Mysterious Balloon Shot Down by US Air Force](dc5cfeecd36c7e47dd1043c4c9d9be00)

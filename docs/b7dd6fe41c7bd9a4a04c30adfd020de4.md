@@ -44,4 +44,13 @@ New AI tools are allowing people to have interactive conversations with their de
 
 ## Closest
 
-* 
+* [Google's AI Chatbot Bard Raises Privacy Concerns](9962e2ca5ad5ea684e801c62fbed39d5)
+* [Rise of AI-Written Content Raises Concerns](dcb77b655838bfb2e77e5440c5b3a3b5)
+* [Microsoft Launches AI-Powered Microsoft Teams Premium](d972fef45251bd965bd3d5d331ffe6dd)
+* [Shutterstock Partners with OpenAI to Integrate DALL-E into Stock Image Platform](99ffe526026a0494fc25d44aba64bd70)
+* [Building a Context-Aware Knowledge Graph Chatbot with GPT-4 and Neo4j](af12c099700e76b62f6990530a12edfa)
+* [Google Launches Tool to Protect Personal Information](b5874f0dc7f077a23317b07aa5e60ea8)
+* [Amazon Plans to Turn Deceased Loved Ones' Voices into Digital Assistants](316c2bc07bdae32ea05595973043b766)
+* [The Future of Tech and Society](074f7e40545f4b8edc9bdefa00b02f7b)
+* [ChatGPT + Wolfram is INSANE!](c73fef52122dff9becbe63751648eea0)
+* [The Rapid Advancement of Cloning Technology](3827e85d7b233b583bd7e01c435cf758)

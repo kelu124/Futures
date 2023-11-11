@@ -39,4 +39,13 @@ Personalized learning is finally here. The text discusses the author's experienc
 
 ## Closest
 
-* 
+* [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
+* [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
+* [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
+* [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
+* [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
+* [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
+* [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
+* [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
+* [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
+* [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)

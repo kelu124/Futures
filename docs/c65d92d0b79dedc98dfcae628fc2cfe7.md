@@ -39,4 +39,13 @@ The text discusses the concept of the Fundamental Process to Generate Living Sys
 
 ## Closest
 
-* 
+* [Strategic Foresight: Anticipating and Adapting to the Future](40a99c098bad8dda821b757d8d88a80a)
+* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
+* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
+* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
+* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
+* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
+* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
+* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
+* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
+* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)

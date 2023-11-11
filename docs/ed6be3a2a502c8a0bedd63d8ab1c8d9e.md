@@ -107,4 +107,13 @@ Virtual humans have become a significant presence in China, partnering with luxu
 
 ## Closest
 
-* 
+* [TikTok Challenges Global Internet Order](8086bf4a53c711deb15d6bea523e85f9)
+* [US Restricts Nvidia GPU Sales to Thwart China's AI Development](b79a2baa87b68283198416791b93bce4)
+* [China's Growing Virtual People Industry](9830e769665e82dcea315b1089dc40c4)
+* [Chinese Tech Giants Go All-In on Nvidia's HPC Products](b4cc7b5ac1c99e45eb6fc1f733189405)
+* [China Proposes New Regulations for AI Chatbots](b6dc0996967d1b60cd671a3f6a787e9b)
+* [The Rise of Virtual Humans in China](ed6be3a2a502c8a0bedd63d8ab1c8d9e)
+* [The Rise of Virtual Humans in China](ed6be3a2a502c8a0bedd63d8ab1c8d9e)
+* [U.K. Government Collaborates with Tech Giants for AI Safety Research](7d282ab00a127ad93da225107b263810)
+* [Nvidia's Stock Soars, Becoming a Trillion-Dollar Company](598eae9bc0f45fdaeee2d2ef811ad150)
+* [AI and the Changing Landscape of Photography](447aaddba1b3b4ac319e14628e6ed8f2)

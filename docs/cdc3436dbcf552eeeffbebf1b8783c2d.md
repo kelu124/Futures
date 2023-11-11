@@ -42,4 +42,13 @@ Professor Brian David Johnson uses science fiction prototyping as a tool to mode
 
 ## Closest
 
-* 
+* [Science Fiction Prototyping: Modeling Future Threats](cdc3436dbcf552eeeffbebf1b8783c2d)
+* [Array of Toolkits for Future Studies](1627c349466b12746bafae14c5c576eb)
+* [Science Fiction Prototyping: Modeling Future Threats](cdc3436dbcf552eeeffbebf1b8783c2d)
+* [Predictions for 2030](d14b14eaf86b482708781d3e6d97e33a)
+* [The Importance of Science Fiction](8ebb431ce8d949d5a1ecb52bbd42a69f)
+* [Science Fiction Prototyping: Modeling Future Threats](cdc3436dbcf552eeeffbebf1b8783c2d)
+* [Futures Thinking Specialization: Build Your Future Forecasting Skills](226ad3d32e12d879b3dc823094486440)
+* [Imagineering A Better Future](c8574c3fabcddaff47072c5b93a50476)
+* [Exploring Time and Shaping the Future](2f66695f2596205814b8aeb4dc746072)
+* [Blindsight: A Hard Science Fiction Novel](a4764a556583ffec51fa91aa3564e777)

@@ -41,4 +41,13 @@ Deb Chachra, author of "How Infrastructure Works," explores the interplay betwee
 
 ## Closest
 
-* 
+* [Introduction to Systems Thinking for Civil Servants](c745ba8f3cb00c2d7c46c819537fcb10)
+* [Young Activists Express Climate Concerns](a33285a958e1c67e274803ca7ce0bec2)
+* [2023 Roadshow of Research and Policy Results](589c2c554219a6d4ae1ad0c9d1d75a21)
+* [Understanding the Interplay of Infrastructure](4a29de3bba5a755ccf2dd3db47e0c32f)
+* [The Age of Apocalyptic Infrastructure](177a0857ffe0d07d48cd99a269f28a02)
+* [Coping with Rapid Technological Change: Strategies for Survival](14a8b49f5342c0428f8f03db633c57d5)
+* [The Role of Data Centers in Ireland's Technological Revolution](fe8c9a54a3dbc61b0abc367d14524f53)
+* [The Challenge of Finding a Safe Place in a Changing Climate](efa36dc9bd5ddc890866d4ab1e68e71f)
+* [Understanding the Interplay of Infrastructure](4a29de3bba5a755ccf2dd3db47e0c32f)
+* [Understanding the Interplay of Infrastructure](4a29de3bba5a755ccf2dd3db47e0c32f)
