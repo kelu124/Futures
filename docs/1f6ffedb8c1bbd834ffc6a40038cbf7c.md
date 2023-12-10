@@ -46,6 +46,6 @@ Google has announced the discontinuation of Google Jamboard, a digital whiteboar
 * [Microsoft Launches Bug Bounty Program for AI-Powered Bing](917c65b1876df03d3794348b22d9fb31)
 * [Leaked Google document reveals concerns about OpenAI's competitive edge](271c9ba1f197505aba5f225c62e3c09f)
 * [The Battle for Your Car: Google vs. Apple](9dcdb4959b186e68114c6cc92931068e)
+* [Google Jamboard: End of the Line](1f6ffedb8c1bbd834ffc6a40038cbf7c)
 * [Chatbot Arena Leaderboard Updates (Week 4)](2ad1a65371512ec50f24b2e247328b78)
 * [The Rapid Advancement of Cloning Technology](3827e85d7b233b583bd7e01c435cf758)
-* [Google DeepMind Launches Watermarking Tool for AI-Generated Images](d5c399872ea4d28def48f650503511a0)

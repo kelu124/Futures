@@ -52,5 +52,5 @@ Zines are a powerful tool for communication and learning, particularly for stude
 * [The Power of Zines in Education](53d3d1e4dcdbada5d087e49faadec607)
 * [Voyager: An Open-Ended Embodied Agent](8af9bffc11d191445956ffcef1627c38)
 * [Technology and Children’s Well-Being in Danish Schools](17ac55c1f87675e075557fa4fa5ba14e)
+* [The Power of Zines in Education](53d3d1e4dcdbada5d087e49faadec607)
 * [Workshop Tactics: the best problem-solving workshops in a box](e6cb167bfeaed16d68d2e384681bfbb7)
-* [The Radical Power of Hanging Out](edbb7336dfb26098bcc966ca17c074b9)

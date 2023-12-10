@@ -44,4 +44,4 @@ Scientists at Monash University have developed a computer chip called "DishBrain
 * [AI-Designed Proteins Kill Bacteria in Lab](851488841bb139d3ed24048269cd0b9b)
 * [Technologies of Hope: Pandemic Solutions](d44d0c046d2ee3330a2d40cfccdfc0d3)
 * [GPT4All: Training an Assistant-style Chatbot](d7d522cdd6d70b19b072272af8b501c2)
-* [Future Careers and the Importance of "Mad Skills"](572ff244f383344150f88e74397cc5de)
+* [Computer Chip with Human Brain Tissue Receives Military Funding](fcf584bddde6a0c4ccaf5ab8eadded1e)
