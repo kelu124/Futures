@@ -48,7 +48,7 @@ This text discusses the concept of using AI as interns in the workplace. It emph
 * [Boosting Productivity and Satisfaction with Generative AI](01bec9add8819c277aad7d7ba19983f7)
 * [On-boarding Your AI Intern](4b66dbaa2bbc249bfcccbb7e27adbde5)
 * [On-boarding Your AI Intern](4b66dbaa2bbc249bfcccbb7e27adbde5)
-* [On-boarding Your AI Intern](4b66dbaa2bbc249bfcccbb7e27adbde5)
+* [Ensuring Responsible AI Governance: Protecting Employees and Data](d4390e62256a0c3c19306c1ebc3ffb5b)
 * [On-boarding Your AI Intern](4b66dbaa2bbc249bfcccbb7e27adbde5)
 * [On-boarding Your AI Intern](4b66dbaa2bbc249bfcccbb7e27adbde5)
 * [On-boarding Your AI Intern](4b66dbaa2bbc249bfcccbb7e27adbde5)

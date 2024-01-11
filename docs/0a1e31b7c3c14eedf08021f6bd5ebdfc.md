@@ -49,5 +49,5 @@ In order to increase our chances of encountering good luck, we can increase the 
 * [Rise of Dazi: Young People Seek Activity Partners](87daba98f9145e9744a49b5145ac69b2)
 * [Increasing Luck through Work and Publication](0a1e31b7c3c14eedf08021f6bd5ebdfc)
 * [Increasing Luck through Work and Publication](0a1e31b7c3c14eedf08021f6bd5ebdfc)
+* [Challenges and Concerns in Adopting Generative AI](6a8633d1148eb442435b9f6bca735ad3)
 * [Increasing Luck through Work and Publication](0a1e31b7c3c14eedf08021f6bd5ebdfc)
-* [The Age of Infinite Entertainment](63f1bb42da49c95b95587a4e15740fcb)

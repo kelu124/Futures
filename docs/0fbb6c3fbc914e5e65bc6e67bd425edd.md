@@ -49,6 +49,6 @@ HydraUSB3 V1 is an open source developer kit for the WCH CH569 MCU that allows f
 * [HydraUSB3 V1: Open Source Developer Kit for High-Speed Protocols](0fbb6c3fbc914e5e65bc6e67bd425edd)
 * [Tools Needed by Open Source Researchers](232af96e853049a58bc2dae466ea495d)
 * [HydraUSB3 V1: Open Source Developer Kit for High-Speed Protocols](0fbb6c3fbc914e5e65bc6e67bd425edd)
+* [Mistral AI: Opening Beta Access to Powerful Open Generative Models](353db49268a185080d455082c9050935)
 * [YouTube's Custom Video Chip Revolution](5d8b4aa6d5d8d086044fd9d1a00c270f)
-* [Is Open Source R-Selected?](79846636fe0c4d77f026c76ec0964344)
-* [HydraUSB3 V1: Open Source Developer Kit for High-Speed Protocols](0fbb6c3fbc914e5e65bc6e67bd425edd)
+* [Introducing GPTs: Customize ChatGPT for Specific Purposes](f9b73418962acd66fb1ae29b21d7f943)

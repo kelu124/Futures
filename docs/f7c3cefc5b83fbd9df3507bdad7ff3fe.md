@@ -55,4 +55,4 @@ This article discusses the concept of single-threaded leadership as a critical o
 * [Single-Threaded Leadership: A Key Organizational Design Concept at Amazon](f7c3cefc5b83fbd9df3507bdad7ff3fe)
 * [The Power of Simplicity in Living Systems](628eabb2a1ffbe7b0e6865d9367c32de)
 * [Single-Threaded Leadership: A Key Organizational Design Concept at Amazon](f7c3cefc5b83fbd9df3507bdad7ff3fe)
-* [Single-Threaded Leadership: A Key Organizational Design Concept at Amazon](f7c3cefc5b83fbd9df3507bdad7ff3fe)
+* [Building in Public Forces True Competitive Advantage](b1d822a23ccad7242781652a68049bff)

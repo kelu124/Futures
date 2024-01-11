@@ -50,5 +50,5 @@ The study highlights the underestimated risks of harvest failures in multiple gl
 * [The Challenge of Finding a Safe Place in a Changing Climate](efa36dc9bd5ddc890866d4ab1e68e71f)
 * [The Economic Impact of Ageing Populations](bff595b72330d833dba477e2dc2a5656)
 * [Clues from Satellites on Global Harvest](b99e8d470f4bd969ae5ec423c534eeee)
+* [Seven Signs of Ethical Collapse: Preventing Corporate Scandals](45854362019860740951c83df1c7122e)
 * [Earth as Our Only Shareholder](b5c93b6e5a5b33c81d3a1619b9b37f1b)
-* [Gen Zers' Financial Habits in the Age of Late-Stage Capitalism](1b41206075bb58ef4a1bcb8a6d82ffc0)

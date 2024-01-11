@@ -41,11 +41,11 @@ The tool-in ceremony of TSMC's new fab in Arizona was attended by prominent figu
 
 * [The End of the Beginning: Morris Chang's Speech on the Future of America's Semiconductor Industry](0fce5ae3e73cafb8739ab8c2c63ebad5)
 * [The End of the Beginning: Morris Chang's Speech on the Future of America's Semiconductor Industry](0fce5ae3e73cafb8739ab8c2c63ebad5)
+* [The End of the Beginning: Morris Chang's Speech on the Future of America's Semiconductor Industry](0fce5ae3e73cafb8739ab8c2c63ebad5)
 * [New York's Right-to-Repair Bill and Lobbyist Influence](c43f57be38bbfef16e25047b07cd9d5d)
 * [The End of the Beginning: Morris Chang's Speech on the Future of America's Semiconductor Industry](0fce5ae3e73cafb8739ab8c2c63ebad5)
+* [Tom Hanks Warns of AI Impersonation in Dental Plan Ad](a6a85ffaf515094e85437d112d6f19b7)
 * [The Impact of AI on Art](cc1340400b9dfbf32bfc3d546cf0b7b3)
 * [The End of the Beginning: Morris Chang's Speech on the Future of America's Semiconductor Industry](0fce5ae3e73cafb8739ab8c2c63ebad5)
 * [Evaluating GPT Startups: The Three-Hills Model](d1df6602870d6b0ed820af0e9ab76a80)
 * [Dark Side of India's Tech Sector](6ed5fdeafa587adf125587208fb0e01b)
-* [The End of the Beginning: Morris Chang's Speech on the Future of America's Semiconductor Industry](0fce5ae3e73cafb8739ab8c2c63ebad5)
-* [A.I. Threatens Lawyers, Again](2d3b20a8b6a2fbbb191cffd8ebba1792)

@@ -48,4 +48,4 @@ This text discusses the concept of "long-terminology" and the importance of long
 * [Increasing Luck through Work and Publication](0a1e31b7c3c14eedf08021f6bd5ebdfc)
 * [The Importance of Long-Terminology](a963fcddede6fce55e0d02b040bbcd8a)
 * [Saving Time: Reshaping Temporality and Reclaiming Agency](047936a2b08c1b5dda3018bc98dc1d9b)
-* [Trial Inclusions and Subscription Options](42029469086ed8b0defa5120ec35459e)
+* [5 Tactics to Combat a Culture of False Urgency at Work](4ea057ebf3a14884754e7d3fe2566ce5)

@@ -48,5 +48,5 @@ Belgium has introduced a national safe harbor framework for ethical hackers, mak
 * [Belgium Introduces Strong Legal Protections for Security Researchers](8ae26b7eeafce0d7e88a3f1e7cadcfd7)
 * [Belgium Introduces Strong Legal Protections for Security Researchers](8ae26b7eeafce0d7e88a3f1e7cadcfd7)
 * [Belgium Introduces Strong Legal Protections for Security Researchers](8ae26b7eeafce0d7e88a3f1e7cadcfd7)
+* [The Threat of AI-Powered Mass Spying](63d7953ba75cf8b2b87f70ff0775f6b3)
 * [The SolarWinds Cyberespionage Campaign Unveiled](60d708d49e171255bc45464e0b5e6a6a)
-* [PoisonGPT: Hiding a Lobotomized LLM on Hugging Face](b268f9e806c263d171c7284941d84787)

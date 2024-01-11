@@ -38,7 +38,9 @@ The Alaska Department of Fish and Game has made the unprecedented decision to ca
 
 ## Closest
 
+* [Seven Signs of Ethical Collapse: Preventing Corporate Scandals](45854362019860740951c83df1c7122e)
 * [Greenland's Melting Ice Sheet and the Potential for Sand Extraction](6c6a5e8d50e3045323cf202ba5b17ea9)
+* [Alaska Snow Crab Season Canceled as Officials Investigate Disappearance of 1 Billion Crabs](7e83f7bbd34b9f20b0dbd61cdbb0dcdf)
 * [The Disappearing Houses and the Search for Normalcy](e825171606432c71606dc78b9bf86eee)
 * [Michigan Supreme Court to Determine Legality of Drone Surveillance without Warrant](6beeee35311c9595fcb7510e04d6a369)
 * [DS Penske Team Fined and Penalized for Installing RFID Scanner in Formula E Pit Lane](7416c71d5b084463bd7eab2dcf229b92)
@@ -46,5 +48,3 @@ The Alaska Department of Fish and Game has made the unprecedented decision to ca
 * [Impact of COVID-19 on Workforce](e84dc9448d44d2624c060fc15bf5c096)
 * [Alaska Snow Crab Season Canceled as Officials Investigate Disappearance of 1 Billion Crabs](7e83f7bbd34b9f20b0dbd61cdbb0dcdf)
 * [Copi: Rebranding an Invasive Fish as a Healthy Seafood Option](b8f11dee06e44c6b4ecb80c98f502443)
-* [Valeriepieris Circle: A Global Population Phenomenon](6ab95ef7d3a59b67b7851af561ed903b)
-* [Alaska Snow Crab Season Canceled as Officials Investigate Disappearance of 1 Billion Crabs](7e83f7bbd34b9f20b0dbd61cdbb0dcdf)

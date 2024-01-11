@@ -60,5 +60,5 @@ Recent progress in robotics and neuroscience has made extra robotic limbs a poss
 * [A Comprehensive Guide to Autonomous Agents with GPT](2dda4be3e1a9f11b4f7d8e74feea76b0)
 * [Automation and AI in Mechanical Turk](e2bfc7a2318b0eac62f4f2af28722802)
 * [Revolutionizing Medical Technologies with Optrodes](7aeb03c0771769ceb99c3085c141c1fe)
+* [Roboticists Want to Give You a Third Arm](faad51d1f885af1db9dee5e5ce52b46e)
 * [The Limitations of Care Robots in Japan's Elder Care System](ac120c377b70b80fe25a6cce1d0b7fe6)
-* [MIT Engineers Develop Wearable Ultrasound Sticker for Continuous Internal Organ Imaging](046ecaa63b94e5eef69df0439e9d3246)
