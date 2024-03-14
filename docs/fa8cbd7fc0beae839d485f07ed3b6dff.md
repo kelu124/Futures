@@ -44,11 +44,11 @@ This text explores the themes of lithium, digital space, and mental health. It d
 
 * [Linguist Pursued in Dystopian Epidemic](63868d73fd4f4dff913a3bc85d42fa6b)
 * [The Malevolence of ChatGPT: A Call for Destruction](9b21fce377880166b73916aee2be1fc0)
+* [FCC Proposes Making AI-Generated Voice Cloning in Robocalls Illegal](5d77e0fdec3810e3808f7551b9eb3b1c)
 * [The Rise of Online Anonymity](52a829c92d96543f396d37b44440c475)
 * [The Battle Over Books and AI](60708ef9829fd46241b75936b97b447d)
+* [The Salt of the Cosmos](fa8cbd7fc0beae839d485f07ed3b6dff)
 * [Psychonauts: Drugs and the Making of the Modern Mind](46b83c5dfd8f27c0bb2335917e2f5a1f)
 * [Cybersecurity Threats to Law Firms](0b6d917158cd84c369d0af378202984b)
 * [AI Disruption Outweighs Pandemic Impact](283ff70c63aed09ef2b0613f6acc2eb9)
 * [The Salt of the Cosmos](fa8cbd7fc0beae839d485f07ed3b6dff)
-* [Hackers from Bangladesh claim to have crashed La Poste's website](1a4f9230721bac1d416c8b49e76523a5)
-* [ChatGPT + Wolfram is INSANE!](c73fef52122dff9becbe63751648eea0)

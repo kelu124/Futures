@@ -47,5 +47,5 @@ The EU's proposed Cyber Resilience Act (CRA) aims to regulate software security 
 * [Introducing GPTs: Customize ChatGPT for Specific Purposes](f9b73418962acd66fb1ae29b21d7f943)
 * [Leaked Google document reveals concerns about OpenAI's competitive edge](271c9ba1f197505aba5f225c62e3c09f)
 * [The Dangers of Service as a Software Substitute (SaaSS)](5c135d085a6d575c9d112244b2a873fb)
+* [Businesses' Adoption of Generative AI](767b74c90576473294b2c47568c0e355)
 * [EU Approves New Data Transfer Deal with the US, Ending Legal Limbo for Tech Giants](bef6f36725097d0c16289eca2eb18df4)
-* [The Future of Generative AI is Niche, Not Generalized](8dd10f0dc4f44fa3a381c7f37fbcb8fc)

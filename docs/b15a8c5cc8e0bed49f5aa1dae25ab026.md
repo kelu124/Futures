@@ -1,0 +1,53 @@
+# __Klarna Launches Game-Changing AI Assistant__, from ([20240310](https://kghosh.substack.com/p/20240310).)
+
+__[External link](https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/?utm_source=substack&utm_medium=email)__
+
+
+
+## Summary
+
+Klarna has launched an AI assistant powered by OpenAI, which has had 2.3 million conversations in just one month. The AI assistant is equivalent to 700 full-time agents and is on par with human agents in terms of customer satisfaction. It has led to a 25% decrease in repeat inquiries and customers now resolve their errands in less than 2 minutes compared to 11 minutes previously. The AI assistant is available in 23 markets, speaks in over 35 languages, and is estimated to drive $40 million in profit improvement for Klarna in 2024. Klarna's vision is to have a fully AI-powered financial assistant to save consumers time and money and make the retail banking industry more efficient. The AI assistant offers features such as 24/7 customer service, real-time updates on outstanding balances, and multilingual chat support. Klarna is a global company with over 150 million users and is revolutionizing the way people shop and pay online. OpenAI's mission is to create safe and powerful AI that benefits humanity.
+
+## Keywords
+
+* Klarna
+* AI assistant
+* OpenAI
+* customer service
+* language support
+* shopping
+* payments
+* financial assistant
+* multilingual
+* technology
+
+## Themes
+
+* AI-powered customer service
+* Enhanced shopping and payments experience
+* Global expansion and language support
+
+## Signals
+
+| Signal                                                         | Change                                          | 10y horizon                                     | Driving force                     |
+|:---------------------------------------------------------------|:------------------------------------------------|:------------------------------------------------|:----------------------------------|
+| Klarna launches AI assistant powered by OpenAI                 | Shift from human to AI-powered customer service | Increased reliance on AI assistants             | Efficiency, customer satisfaction |
+| AI assistant handles majority of customer service chats        | Increase in AI automation of customer service   | Reduced need for human agents                   | Cost savings, efficiency          |
+| AI assistant resolves errands more accurately                  | Improved accuracy in customer service           | Decreased customer inquiries                    | Cost savings, efficiency          |
+| Customers resolve errands more quickly                         | Faster resolution of customer issues            | Reduced waiting times for customers             | Improved customer experience      |
+| AI assistant available in multiple languages                   | Increased language support for customers        | Improved communication with diverse communities | Better customer experience        |
+| AI assistant estimated to drive $40 million profit improvement | Financial benefit from AI-powered assistant     | Increased profitability for Klarna              | Cost savings, efficiency          |
+| Klarna aims to develop a fully AI-powered financial assistant  | Shift towards AI-powered financial services     | Increased automation in retail banking          | Convenience, efficiency           |
+
+## Closest
+
+* [The Uncertain Future of Generative AI](f35afe43c2e3b465b8ed4b00023cb0ac)
+* [Klarna Launches Game-Changing AI Assistant](b15a8c5cc8e0bed49f5aa1dae25ab026)
+* [Ensuring Responsible AI Governance: Protecting Employees and Data](d4390e62256a0c3c19306c1ebc3ffb5b)
+* [The Rise of Software as a Service (SaaS)](62f0c80f0091e9b15465cd516137b05e)
+* [Klarna Launches Game-Changing AI Assistant](b15a8c5cc8e0bed49f5aa1dae25ab026)
+* [Accenture to Invest $3 Billion in AI and Data Practice](27843e5a73ef87ecc09722d675599621)
+* [The Power of Customer Driven Marketing](f5a86c6c3c113719814d2772bea54508)
+* [Zoom's Terms of Service Update Allows AI Training with Customer Data](3b96c74f728c6281fc7f1a045a5befc7)
+* [Businesses' Adoption of Generative AI](767b74c90576473294b2c47568c0e355)
+* [Introduction to OpenAI Function Calling](72b08d7579b6d295c27f039d6ee5a01d)

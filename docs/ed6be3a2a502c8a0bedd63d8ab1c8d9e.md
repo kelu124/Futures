@@ -115,5 +115,5 @@ Virtual humans have become a significant presence in China, partnering with luxu
 * [Toyota Cuts EV Sales Forecast, Shifts Focus to Hybrids](1bef8f22af5a0bd803a2cc87b0d33e19)
 * [China Proposes New Regulations for AI Chatbots](b6dc0996967d1b60cd671a3f6a787e9b)
 * [The Rise of Virtual Humans in China](ed6be3a2a502c8a0bedd63d8ab1c8d9e)
+* [China Approves Over 40 AI Models for Public Use](180b400e2ff14c1358c95031138bbe47)
 * [The Rise of Virtual Humans in China](ed6be3a2a502c8a0bedd63d8ab1c8d9e)
-* [U.K. Government Collaborates with Tech Giants for AI Safety Research](7d282ab00a127ad93da225107b263810)

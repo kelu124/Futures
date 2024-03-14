@@ -36,12 +36,12 @@ In this text, the author describes their experience with lupus cerebritis, a sev
 ## Closest
 
 * [The Challenge of Time: A Journey through Brain Inflammation and Recovery](c7cd8debffd00db3905b4d70b56ea40e)
+* [Quality of Care and Patient Outcomes After Private Equity Acquisition of Hospitals](c346127b59f55385f443e5e27e93bc78)
 * [Cultural Therapy: Museum Prescriptions for Mental Health](3c807d80ce080c015f1fc14086b7a09e)
 * [New Tool Nightshade Allows Artists to Fight Back Against Generative AI](737fd00bafc163f8b17f187f41d6567a)
 * [The Challenge of Time: A Journey through Brain Inflammation and Recovery](c7cd8debffd00db3905b4d70b56ea40e)
 * [The Challenge of Time: A Journey through Brain Inflammation and Recovery](c7cd8debffd00db3905b4d70b56ea40e)
 * [The Challenge of Time: A Journey through Brain Inflammation and Recovery](c7cd8debffd00db3905b4d70b56ea40e)
 * [AI Disruption Outweighs Pandemic Impact](283ff70c63aed09ef2b0613f6acc2eb9)
-* [The Aging World and Its Consequences](a8bf5109e22909dfe327db0ee8f3853d)
 * [The Challenge of Time: A Journey through Brain Inflammation and Recovery](c7cd8debffd00db3905b4d70b56ea40e)
-* [Linguist Pursued in Dystopian Epidemic](63868d73fd4f4dff913a3bc85d42fa6b)
+* [The Aging World and Its Consequences](a8bf5109e22909dfe327db0ee8f3853d)

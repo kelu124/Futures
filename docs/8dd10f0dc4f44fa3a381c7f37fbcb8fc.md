@@ -41,6 +41,7 @@ The future of generative AI lies in its application to specific domains and cont
 
 * [The Future of Generative AI is Niche, Not Generalized](8dd10f0dc4f44fa3a381c7f37fbcb8fc)
 * [The Future of Generative AI is Niche, Not Generalized](8dd10f0dc4f44fa3a381c7f37fbcb8fc)
+* [CrewAI: Cutting-edge framework for orchestrating role-playing, autonomous AI agents](543adbc464aef62641d41e2cb77fac21)
 * [The Future of Generative AI is Niche, Not Generalized](8dd10f0dc4f44fa3a381c7f37fbcb8fc)
 * [The Future of Generative AI is Niche, Not Generalized](8dd10f0dc4f44fa3a381c7f37fbcb8fc)
 * [The Future of Generative AI is Niche, Not Generalized](8dd10f0dc4f44fa3a381c7f37fbcb8fc)
@@ -48,4 +49,3 @@ The future of generative AI lies in its application to specific domains and cont
 * [The Future of Generative AI is Niche, Not Generalized](8dd10f0dc4f44fa3a381c7f37fbcb8fc)
 * [The Future of Generative AI is Niche, Not Generalized](8dd10f0dc4f44fa3a381c7f37fbcb8fc)
 * [The Future of Generative AI is Niche, Not Generalized](8dd10f0dc4f44fa3a381c7f37fbcb8fc)
-* [Tools Needed by Open Source Researchers](232af96e853049a58bc2dae466ea495d)

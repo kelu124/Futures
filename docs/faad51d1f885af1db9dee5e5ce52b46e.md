@@ -52,6 +52,7 @@ Recent progress in robotics and neuroscience has made extra robotic limbs a poss
 
 ## Closest
 
+* [Cyborg computer with human brain cells](fe93f7419799d1706b4e7ce0a6adcb40)
 * [Computer Chip with Human Brain Tissue Receives Military Funding](fcf584bddde6a0c4ccaf5ab8eadded1e)
 * [Future Careers and the Importance of "Mad Skills"](572ff244f383344150f88e74397cc5de)
 * [The Role of Human Gesture in Mass Production](27948f54570ab56d95fdc708d3119801)
@@ -61,4 +62,3 @@ Recent progress in robotics and neuroscience has made extra robotic limbs a poss
 * [Automation and AI in Mechanical Turk](e2bfc7a2318b0eac62f4f2af28722802)
 * [Revolutionizing Medical Technologies with Optrodes](7aeb03c0771769ceb99c3085c141c1fe)
 * [Roboticists Want to Give You a Third Arm](faad51d1f885af1db9dee5e5ce52b46e)
-* [The Limitations of Care Robots in Japan's Elder Care System](ac120c377b70b80fe25a6cce1d0b7fe6)

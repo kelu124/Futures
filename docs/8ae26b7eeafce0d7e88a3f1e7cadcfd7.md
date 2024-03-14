@@ -41,12 +41,12 @@ Belgium has introduced a national safe harbor framework for ethical hackers, mak
 ## Closest
 
 * [Belgium Introduces Strong Legal Protections for Security Researchers](8ae26b7eeafce0d7e88a3f1e7cadcfd7)
+* [EU Ambassadors Approve Comprehensive AI Rulebook](09558bc92bd7eb77706cfae4499f7d05)
 * [Biden Administration Unveils Cybersecurity Strategy and Targets China as Major Threat](1eaefdcf11b24d5f443b5f4e7645e0a5)
 * [Open Source and the Cyber Resilience Act](2e15bb8c640aadb6d9022cf48f446954)
 * [Belgium Introduces Strong Legal Protections for Security Researchers](8ae26b7eeafce0d7e88a3f1e7cadcfd7)
+* [Increasing Cyber Threats: AI's Role in Ransomware Attacks](dabd88039518d1eb97139f16625eeec8)
 * [Belgium Introduces Strong Legal Protections for Security Researchers](8ae26b7eeafce0d7e88a3f1e7cadcfd7)
 * [Belgium Introduces Strong Legal Protections for Security Researchers](8ae26b7eeafce0d7e88a3f1e7cadcfd7)
 * [Belgium Introduces Strong Legal Protections for Security Researchers](8ae26b7eeafce0d7e88a3f1e7cadcfd7)
 * [Belgium Introduces Strong Legal Protections for Security Researchers](8ae26b7eeafce0d7e88a3f1e7cadcfd7)
-* [The Threat of AI-Powered Mass Spying](63d7953ba75cf8b2b87f70ff0775f6b3)
-* [The SolarWinds Cyberespionage Campaign Unveiled](60d708d49e171255bc45464e0b5e6a6a)

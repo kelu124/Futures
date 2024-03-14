@@ -42,7 +42,7 @@ Maritime cyber security is a growing concern, as hackers are increasingly target
 * [Monetising Hacking Through Commodity Shipments](af7a13a1e97a8ebff3d521dabea087ce)
 * [Monetising Hacking Through Commodity Shipments](af7a13a1e97a8ebff3d521dabea087ce)
 * [Monetising Hacking Through Commodity Shipments](af7a13a1e97a8ebff3d521dabea087ce)
-* [Monetising Hacking Through Commodity Shipments](af7a13a1e97a8ebff3d521dabea087ce)
+* [Increasing Cyber Threats: AI's Role in Ransomware Attacks](dabd88039518d1eb97139f16625eeec8)
 * [Monetising Hacking Through Commodity Shipments](af7a13a1e97a8ebff3d521dabea087ce)
 * [Monetising Hacking Through Commodity Shipments](af7a13a1e97a8ebff3d521dabea087ce)
 * [Monetising Hacking Through Commodity Shipments](af7a13a1e97a8ebff3d521dabea087ce)
