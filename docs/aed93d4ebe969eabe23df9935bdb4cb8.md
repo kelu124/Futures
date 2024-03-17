@@ -41,13 +41,7 @@ Electric vehicles are gaining momentum, with major auto companies planning to ph
 
 ## Closest
 
-* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
-* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
-* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
-* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
-* [Who Actually Owns Tesla’s Data?](aa8144a7a9cdc5baa399df0daa112f75)
-* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
-* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
-* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
-* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
-* [Electric Vehicles and Cybersecurity Risks](aed93d4ebe969eabe23df9935bdb4cb8)
+* [The Evolution of Electric Car Range](7f4bbda67f521ee30a63b68b9f8666d9)
+* [EV Charging Industry Ramps Up M&A Activity](213ff4d78c8040377180b7f7b5b13d4d)
+* [The Future of Electric Vehicles: Potential Supply Shortages Threaten Growth](e2d1170995334c5c5e09b403ac8d3dcc)
+* [GM Energy: A Challenge to Tesla in Renewable Energy Market](db277b1d574be61a29e5d0e818b02268)

@@ -39,13 +39,7 @@ Google has announced the discontinuation of Google Jamboard, a digital whiteboar
 
 ## Closest
 
-* [Google Jamboard: End of the Line](1f6ffedb8c1bbd834ffc6a40038cbf7c)
-* [Using NLP to Build a Competitive Moat](feeb207dfea30efb1d5bf73503fd22a4)
-* [The Temptation of The Button: AI's Impact on Work and the Crisis of Meaning](3cdcaf35e46bb5b431f299c44a448b9f)
-* [The Future of Wearable Tech](a81c4775b91ccd0db3e1b84da893ac6f)
-* [Microsoft Launches Bug Bounty Program for AI-Powered Bing](917c65b1876df03d3794348b22d9fb31)
-* [Leaked Google document reveals concerns about OpenAI's competitive edge](271c9ba1f197505aba5f225c62e3c09f)
-* [Cookie Descriptions and Durations for Website Analytics and Payment](7717bf4adf361e8117bc88437c660273)
-* [AI Ownership Dominated by Big Tech](d130f601121a2b6afde583e5960ed783)
-* [The Battle for Your Car: Google vs. Apple](9dcdb4959b186e68114c6cc92931068e)
-* [Google Jamboard: End of the Line](1f6ffedb8c1bbd834ffc6a40038cbf7c)
+* [The Impact of Digital Whiteboards](0427292acb53be01ba35b3b5b561cb59)
+* [Vintage Tech: Keeping the Past Alive](2a98922fc3676ea6365782ce075cf589)
+* [The Beauty of Chalk](090645d9a28b97c7fcb9dff3174e9ab8)
+* [Microsoft's GitHub Copilot Exceeds $100 Million in Annual Revenue](7e5c1ed5c33c7dbc323cd0264cc94099)

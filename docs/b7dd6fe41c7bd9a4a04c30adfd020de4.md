@@ -44,13 +44,7 @@ New AI tools are allowing people to have interactive conversations with their de
 
 ## Closest
 
-* [Google's AI Chatbot Bard Raises Privacy Concerns](9962e2ca5ad5ea684e801c62fbed39d5)
-* [Rise of AI-Written Content Raises Concerns](dcb77b655838bfb2e77e5440c5b3a3b5)
-* [Microsoft Launches AI-Powered Microsoft Teams Premium](d972fef45251bd965bd3d5d331ffe6dd)
-* [Shutterstock Partners with OpenAI to Integrate DALL-E into Stock Image Platform](99ffe526026a0494fc25d44aba64bd70)
-* [Building a Context-Aware Knowledge Graph Chatbot with GPT-4 and Neo4j](af12c099700e76b62f6990530a12edfa)
-* [Google Launches Tool to Protect Personal Information](b5874f0dc7f077a23317b07aa5e60ea8)
-* [Deal Allows AI Company to Use Reddit User Content for Training](4fe471741ad3bf4fc92faa05f5fc80bf)
+* [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
 * [Amazon Plans to Turn Deceased Loved Ones' Voices into Digital Assistants](316c2bc07bdae32ea05595973043b766)
-* [The Future of Tech and Society](074f7e40545f4b8edc9bdefa00b02f7b)
-* [ChatGPT + Wolfram is INSANE!](c73fef52122dff9becbe63751648eea0)
+* [AI Connects Cartoonist with Deceased Grandfather](671d185f0e81893e18bdb04993e7d1c7)
+* [Alexa Voice Assistant Replicates Human Voices](95a21e5407df1f9dfe1f323e5a827e94)

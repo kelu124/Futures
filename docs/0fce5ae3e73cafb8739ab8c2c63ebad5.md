@@ -39,13 +39,7 @@ The tool-in ceremony of TSMC's new fab in Arizona was attended by prominent figu
 
 ## Closest
 
-* [The End of the Beginning: Morris Chang's Speech on the Future of America's Semiconductor Industry](0fce5ae3e73cafb8739ab8c2c63ebad5)
-* [The End of the Beginning: Morris Chang's Speech on the Future of America's Semiconductor Industry](0fce5ae3e73cafb8739ab8c2c63ebad5)
-* [The End of the Beginning: Morris Chang's Speech on the Future of America's Semiconductor Industry](0fce5ae3e73cafb8739ab8c2c63ebad5)
-* [New York's Right-to-Repair Bill and Lobbyist Influence](c43f57be38bbfef16e25047b07cd9d5d)
-* [The End of the Beginning: Morris Chang's Speech on the Future of America's Semiconductor Industry](0fce5ae3e73cafb8739ab8c2c63ebad5)
-* [Tom Hanks Warns of AI Impersonation in Dental Plan Ad](a6a85ffaf515094e85437d112d6f19b7)
-* [The Impact of AI on Art](cc1340400b9dfbf32bfc3d546cf0b7b3)
-* [The End of the Beginning: Morris Chang's Speech on the Future of America's Semiconductor Industry](0fce5ae3e73cafb8739ab8c2c63ebad5)
-* [Evaluating GPT Startups: The Three-Hills Model](d1df6602870d6b0ed820af0e9ab76a80)
-* [Dark Side of India's Tech Sector](6ed5fdeafa587adf125587208fb0e01b)
+* [Delays in TSMC's Arizona Chip Factory Construction Impact US AI Investment](2b6cc7a8e528932936c2b72ea35d930c)
+* [Biden Administration to Award Billions in Subsidies to Semiconductor Companies](56fdd83956fda4be2560c7d4c4238af2)
+* [TSMC 2nm Update: Two Fabs in Construction, One Awaiting Government Approval](4be308670b5c0c5a47ba2b0185459ff4)
+* [TSMC: Ecosystem for 2nm Chip Development Is Nearing Completion](cca4ca46edfcac58a750fffde3522e7e)

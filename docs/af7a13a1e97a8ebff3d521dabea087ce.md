@@ -39,13 +39,7 @@ Maritime cyber security is a growing concern, as hackers are increasingly target
 
 ## Closest
 
-* [Monetising Hacking Through Commodity Shipments](af7a13a1e97a8ebff3d521dabea087ce)
-* [Monetising Hacking Through Commodity Shipments](af7a13a1e97a8ebff3d521dabea087ce)
-* [Monetising Hacking Through Commodity Shipments](af7a13a1e97a8ebff3d521dabea087ce)
-* [Increasing Cyber Threats: AI's Role in Ransomware Attacks](dabd88039518d1eb97139f16625eeec8)
-* [Monetising Hacking Through Commodity Shipments](af7a13a1e97a8ebff3d521dabea087ce)
-* [Monetising Hacking Through Commodity Shipments](af7a13a1e97a8ebff3d521dabea087ce)
-* [Monetising Hacking Through Commodity Shipments](af7a13a1e97a8ebff3d521dabea087ce)
-* [Monetising Hacking Through Commodity Shipments](af7a13a1e97a8ebff3d521dabea087ce)
-* [Monetising Hacking Through Commodity Shipments](af7a13a1e97a8ebff3d521dabea087ce)
-* [Monetising Hacking Through Commodity Shipments](af7a13a1e97a8ebff3d521dabea087ce)
+* [The Growing Investment Opportunity in Cybersecurity](211803931bfabc324f12ad1524640ef1)
+* [Cybersecurity Job Market Faces Challenges Amidst Economic Uncertainty](0ab36af538bf262c85b73fa7e7bd657f)
+* [UK Government Data Reveals Common Cyber Threats Faced by Organizations](576f8cf76f713e057b075e2424ea709c)
+* [UK Government at High Risk of Catastrophic Ransomware Attack](3de8b64ba20eb613a72b0479350b5e5b)

@@ -39,13 +39,7 @@ Advances in artificial intelligence (A.I.) have raised concerns about potential 
 
 ## Closest
 
-* [A.I. Threatens Lawyers, Again](2d3b20a8b6a2fbbb191cffd8ebba1792)
-* [A.I. Threatens Lawyers, Again](2d3b20a8b6a2fbbb191cffd8ebba1792)
-* [A.I. Threatens Lawyers, Again](2d3b20a8b6a2fbbb191cffd8ebba1792)
-* [A.I. Threatens Lawyers, Again](2d3b20a8b6a2fbbb191cffd8ebba1792)
-* [A.I. Threatens Lawyers, Again](2d3b20a8b6a2fbbb191cffd8ebba1792)
-* [A.I. Threatens Lawyers, Again](2d3b20a8b6a2fbbb191cffd8ebba1792)
-* [A.I. Threatens Lawyers, Again](2d3b20a8b6a2fbbb191cffd8ebba1792)
-* [The SolarWinds Cyberespionage Campaign Unveiled](60d708d49e171255bc45464e0b5e6a6a)
-* [A.I. Threatens Lawyers, Again](2d3b20a8b6a2fbbb191cffd8ebba1792)
-* [A.I. Threatens Lawyers, Again](2d3b20a8b6a2fbbb191cffd8ebba1792)
+* [Potential Job Automation Sparks AI Disruption](8bf628f811052831ab699f75caeb0205)
+* [The Automation of Work: AI's Impact on Jobs](897ed4ea5ae6173e4397f1091ddb7e7e)
+* [Lawyering in the Age of Artificial Intelligence](4f3697c8144f776170502c3036e1d6f3)
+* [The Impact of AI on Ad Agency Jobs](54491b49e9fd2c6eab777dca0ba67e76)

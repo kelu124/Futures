@@ -40,13 +40,7 @@ Belgium has introduced a national safe harbor framework for ethical hackers, mak
 
 ## Closest
 
-* [Belgium Introduces Strong Legal Protections for Security Researchers](8ae26b7eeafce0d7e88a3f1e7cadcfd7)
-* [EU Ambassadors Approve Comprehensive AI Rulebook](09558bc92bd7eb77706cfae4499f7d05)
+* [EU's Cyber Resilience Act Threatens Open Source Developers](2e8ebbefc0b74a9ac3862ef6adcfaffd)
+* [Hackers-for-Hire Targeting Law Firms](86eed7596de75b410b471fb8618f4be3)
 * [Biden Administration Unveils Cybersecurity Strategy and Targets China as Major Threat](1eaefdcf11b24d5f443b5f4e7645e0a5)
-* [Open Source and the Cyber Resilience Act](2e15bb8c640aadb6d9022cf48f446954)
-* [Belgium Introduces Strong Legal Protections for Security Researchers](8ae26b7eeafce0d7e88a3f1e7cadcfd7)
-* [Increasing Cyber Threats: AI's Role in Ransomware Attacks](dabd88039518d1eb97139f16625eeec8)
-* [Belgium Introduces Strong Legal Protections for Security Researchers](8ae26b7eeafce0d7e88a3f1e7cadcfd7)
-* [Belgium Introduces Strong Legal Protections for Security Researchers](8ae26b7eeafce0d7e88a3f1e7cadcfd7)
-* [Belgium Introduces Strong Legal Protections for Security Researchers](8ae26b7eeafce0d7e88a3f1e7cadcfd7)
-* [Belgium Introduces Strong Legal Protections for Security Researchers](8ae26b7eeafce0d7e88a3f1e7cadcfd7)
+* [EU Approves New Data Transfer Deal with the US, Ending Legal Limbo for Tech Giants](bef6f36725097d0c16289eca2eb18df4)

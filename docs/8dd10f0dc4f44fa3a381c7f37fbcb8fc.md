@@ -39,13 +39,7 @@ The future of generative AI lies in its application to specific domains and cont
 
 ## Closest
 
-* [The Future of Generative AI is Niche, Not Generalized](8dd10f0dc4f44fa3a381c7f37fbcb8fc)
-* [The Future of Generative AI is Niche, Not Generalized](8dd10f0dc4f44fa3a381c7f37fbcb8fc)
-* [CrewAI: Cutting-edge framework for orchestrating role-playing, autonomous AI agents](543adbc464aef62641d41e2cb77fac21)
-* [The Future of Generative AI is Niche, Not Generalized](8dd10f0dc4f44fa3a381c7f37fbcb8fc)
-* [The Future of Generative AI is Niche, Not Generalized](8dd10f0dc4f44fa3a381c7f37fbcb8fc)
-* [The Future of Generative AI is Niche, Not Generalized](8dd10f0dc4f44fa3a381c7f37fbcb8fc)
 * [Challenges and Concerns in AI Deployment](382e9ebc1e518ee49e541da1e6b5f8af)
-* [The Future of Generative AI is Niche, Not Generalized](8dd10f0dc4f44fa3a381c7f37fbcb8fc)
-* [The Future of Generative AI is Niche, Not Generalized](8dd10f0dc4f44fa3a381c7f37fbcb8fc)
-* [The Future of Generative AI is Niche, Not Generalized](8dd10f0dc4f44fa3a381c7f37fbcb8fc)
+* [The Uncertain Future of Generative AI](f35afe43c2e3b465b8ed4b00023cb0ac)
+* [The Setbacks and Realities of Generative AI in 2024](cab076719e173aa2eee9c4773a4559cd)
+* [Creating and Destroying Value with Generative AI](15d4ec180189ca1739398f516844cefb)

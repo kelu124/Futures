@@ -40,13 +40,7 @@ In 2020, a Korean documentary team created a digitized re-creation of a mother's
 
 ## Closest
 
-* [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
-* [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
-* [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
+* [New AI Tools Preserve Memories of Deceased Relatives](b7dd6fe41c7bd9a4a04c30adfd020de4)
+* [Amazon Plans to Turn Deceased Loved Ones' Voices into Digital Assistants](316c2bc07bdae32ea05595973043b766)
 * [AI Connects Cartoonist with Deceased Grandfather](671d185f0e81893e18bdb04993e7d1c7)
-* [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
-* [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
-* [AI Disruption Outweighs Pandemic Impact](283ff70c63aed09ef2b0613f6acc2eb9)
-* [Family Almost Scammed in Voice Impersonation Scam](f54781e6134c1e92d9778b89e3a9e84d)
-* [The Limitations of Care Robots in Japan's Elder Care System](ac120c377b70b80fe25a6cce1d0b7fe6)
-* [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
+* [Alexa Voice Assistant Replicates Human Voices](95a21e5407df1f9dfe1f323e5a827e94)

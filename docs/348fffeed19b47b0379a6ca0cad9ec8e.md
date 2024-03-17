@@ -43,13 +43,7 @@ This text provides information about the counting templates used in an app. The 
 
 ## Closest
 
-* [Introduction to OpenAI Function Calling](72b08d7579b6d295c27f039d6ee5a01d)
-* [The Rise of Context-Aware Digital Assistants](46267bf4740b29117588f603a5c41280)
-* [Counting Templates and Privacy Policy](348fffeed19b47b0379a6ca0cad9ec8e)
-* [DPD Error Leads to Chatbot Swearing](be541711fb71f14faa0d4dc694413458)
-* [Introducing GPTs: Customize ChatGPT for Specific Purposes](f9b73418962acd66fb1ae29b21d7f943)
-* [Counting Templates and Privacy Policy](348fffeed19b47b0379a6ca0cad9ec8e)
-* [Comparing Self-Hosted LLMs and OpenAI: Cost, Quality, Speed, and Privacy](cde52125a54df8cddd2d6464c9ed07de)
-* [How to Set Up a Local LLM with Chat UI in 15 Minutes](483b7affad734e22a7b7bf7dae41c4f9)
-* [OpenAI API Offers ChatGPT and Whisper Models for Cutting-Edge Language and Speech Capabilities](f32225d82f694ac574f0d39580ff68ad)
-* [Deal Allows AI Company to Use Reddit User Content for Training](4fe471741ad3bf4fc92faa05f5fc80bf)
+* [Information Collection and Cookie Usage](a33c07b3f96448f9af29b9e59a080b73)
+* [The Art of Card Stunts](9316b88ba7800087e445370bfa1e3943)
+* [The Challenge of Rethinking the Supply Chain](fa27e27bdec01712d582ab0f61c95bac)
+* [Cookie Descriptions and Durations for Website Analytics and Payment](7717bf4adf361e8117bc88437c660273)

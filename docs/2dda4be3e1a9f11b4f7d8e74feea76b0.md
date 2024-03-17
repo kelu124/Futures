@@ -40,13 +40,7 @@ This article provides a comprehensive overview of autonomous agents powered by G
 
 ## Closest
 
-* [A Comprehensive Guide to Autonomous Agents with GPT](2dda4be3e1a9f11b4f7d8e74feea76b0)
-* [A Comprehensive Guide to Autonomous Agents with GPT](2dda4be3e1a9f11b4f7d8e74feea76b0)
-* [A Comprehensive Guide to Autonomous Agents with GPT](2dda4be3e1a9f11b4f7d8e74feea76b0)
-* [A Comprehensive Guide to Autonomous Agents with GPT](2dda4be3e1a9f11b4f7d8e74feea76b0)
-* [A Comprehensive Guide to Autonomous Agents with GPT](2dda4be3e1a9f11b4f7d8e74feea76b0)
-* [Hardware Replacement for German Health Data Network Unnecessary, Says Chaos Computer Club](da08e20881548c71478cec75549ec48c)
-* [A Comprehensive Guide to Autonomous Agents with GPT](2dda4be3e1a9f11b4f7d8e74feea76b0)
-* [A Comprehensive Guide to Autonomous Agents with GPT](2dda4be3e1a9f11b4f7d8e74feea76b0)
-* [A Comprehensive Guide to Autonomous Agents with GPT](2dda4be3e1a9f11b4f7d8e74feea76b0)
-* [A Comprehensive Guide to Autonomous Agents with GPT](2dda4be3e1a9f11b4f7d8e74feea76b0)
+* [The Power of Autonomous Agents: Promises and Limitations](0e336ce2e4b07459b257407e90d27389)
+* [The Power and Potential of GPTs](a7a5e8b41b65f1390a0098e577dbea46)
+* [Creating and Destroying Value with Generative AI](15d4ec180189ca1739398f516844cefb)
+* [Understanding the LLM Agent Orchestration](62a60fa0c519e5d7d0b4e480f231f163)

@@ -118,13 +118,7 @@ Nvidia's stock rose nearly 30% after announcing its first-quarter financial resu
 
 ## Closest
 
-* [Nvidia's Stock Soars, Becoming a Trillion-Dollar Company](598eae9bc0f45fdaeee2d2ef811ad150)
-* [Nvidia's Stock Soars, Becoming a Trillion-Dollar Company](598eae9bc0f45fdaeee2d2ef811ad150)
-* [Productivity Paranoia and the Shift to Hybrid Work: Microsoft Work Trend Report](c44ce31cbe9d5b538bab463761a1fe8c)
-* [The 24 Hour "Do Nothing" Challenge](6cf9b19c5f473573ce74865766bf351c)
-* [Evaluating GPT Startups: The Three-Hills Model](d1df6602870d6b0ed820af0e9ab76a80)
-* [The AI Ethics Revolution: A Timeline](2b3dffe867d32d85c04baf149e2444ea)
-* [U.K. Government Collaborates with Tech Giants for AI Safety Research](7d282ab00a127ad93da225107b263810)
-* [Nvidia's Stock Soars, Becoming a Trillion-Dollar Company](598eae9bc0f45fdaeee2d2ef811ad150)
-* [Advice from SaaS Startup Founders](794d2271367c23dcb630df18c87c1582)
-* [Nvidia's Stock Soars, Becoming a Trillion-Dollar Company](598eae9bc0f45fdaeee2d2ef811ad150)
+* [Nvidia Chief Technology Officer: Cryptocurrencies Bring No Value to Society](07715b9a363b2fb7f1368bfadad78052)
+* [Chinese Tech Giants Go All-In on Nvidia's HPC Products](b4cc7b5ac1c99e45eb6fc1f733189405)
+* [Microsoft Becomes Second Company to Reach $3 Trillion Market Cap](b857e9e80c66cf4ca187166ad92ec443)
+* [US Restricts Nvidia GPU Sales to Thwart China's AI Development](b79a2baa87b68283198416791b93bce4)

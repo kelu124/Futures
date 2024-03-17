@@ -45,13 +45,7 @@ LangChain is an open-source framework built to help developers build LLM-powered
 
 ## Closest
 
+* [Getting started with LangChain](1d0dc2f312480a89cebc85097dcfbb37)
 * [LangChain Library Adds Neo4j Vector Index Support](f6bc0876eba844318faae06b030904a5)
-* [Introduction to OpenAI Function Calling](72b08d7579b6d295c27f039d6ee5a01d)
-* [How to Set Up a Local LLM with Chat UI in 15 Minutes](483b7affad734e22a7b7bf7dae41c4f9)
-* [Bridging Knowledge Graphs and Large Language Models](fa3124e38f66a8d1e635e863f43d1ec0)
-* [Integrating LLM Workflows with Knowledge Graph](1739f639d5bfca8e60d7750e29cc6ab3)
-* [Automatic Prompt Engineering for Text Generation](09d37049c6b177cf582fdd0b213f9536)
-* [Rise of AI-Written Content Raises Concerns](dcb77b655838bfb2e77e5440c5b3a3b5)
-* [The Threat of Misinformation: Society's Battle](9787333cafcd0252d71a9bff845ad093)
-* [The Power of Expert Prompts](52ec2cf0aebdc7af56249f1702652ebe)
-* [Alibaba Opens AI Model for Third-Party Developers](705bb257b4c899939cc0c550f0b9d2fa)
+* [LangChain Adds Cypher Search for Efficient Information Retrieval from Neo4j](f43094a456dc947dabd541b510f86856)
+* [Conversations with LangChain for Lead Qualification](7b8894cb47253aad29a4567e669af028)

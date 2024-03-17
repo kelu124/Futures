@@ -41,13 +41,7 @@ In India, a 24-year-old woman named Kshama Bindu made headlines after marrying h
 
 ## Closest
 
-* [The Girl with All the Gifts (film)](f6e12d619e18fa147b18488c1f1ba099)
-* [The Indian Woman Who Married Herself](d30eab58ea238cc3cefbb88c3e4f61cd)
-* [Amazon Expands into Mental Health Services](3d4aee592248f940acdac6ffab5ec4aa)
+* [Japan's Letter-Writing Matchmaking Scheme](ec9cf2ccb630113e57cfdd18230f129a)
 * [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
-* [The Menace of Deepfake Images](14889902198ab8b6f7991b108f6ebb02)
-* [The Indian Woman Who Married Herself](d30eab58ea238cc3cefbb88c3e4f61cd)
-* [The Battle Over Books and AI](60708ef9829fd46241b75936b97b447d)
-* [The Indian Woman Who Married Herself](d30eab58ea238cc3cefbb88c3e4f61cd)
-* [The Indian Woman Who Married Herself](d30eab58ea238cc3cefbb88c3e4f61cd)
-* [Dreamworld Adventures: A Journey of Hope](c9d940fff5521f56bf74a5d4369b9ec8)
+* [Tulpamancy: Creating Autonomous Mental Entities](56f93e34024f9bf044f570856f99590f)
+* [Our Technology Sickness—and How to Heal It](c1bb890337ef382bfaa5720c9fd05134)

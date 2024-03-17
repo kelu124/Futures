@@ -43,13 +43,7 @@ France is planning to invest nearly €3 billion in a semiconductor factory in o
 
 ## Closest
 
-* [France Invests €3 Billion in Semiconductor Factory](8dfeb7f353bb51c54f0fbaeadf3ed292)
-* [US Restricts Nvidia GPU Sales to Thwart China's AI Development](b79a2baa87b68283198416791b93bce4)
-* [France Invests €3 Billion in Semiconductor Factory](8dfeb7f353bb51c54f0fbaeadf3ed292)
-* [France Invests €3 Billion in Semiconductor Factory](8dfeb7f353bb51c54f0fbaeadf3ed292)
-* [France Invests €3 Billion in Semiconductor Factory](8dfeb7f353bb51c54f0fbaeadf3ed292)
-* [New York's Right-to-Repair Bill and Lobbyist Influence](c43f57be38bbfef16e25047b07cd9d5d)
-* [Chinese Tech Giants Go All-In on Nvidia's HPC Products](b4cc7b5ac1c99e45eb6fc1f733189405)
-* [China Approves Over 40 AI Models for Public Use](180b400e2ff14c1358c95031138bbe47)
-* [France Invests €3 Billion in Semiconductor Factory](8dfeb7f353bb51c54f0fbaeadf3ed292)
-* [France Invests €3 Billion in Semiconductor Factory](8dfeb7f353bb51c54f0fbaeadf3ed292)
+* [Biden Administration to Award Billions in Subsidies to Semiconductor Companies](56fdd83956fda4be2560c7d4c4238af2)
+* [The Economic Future Relies on Engineering](2d51ddcfa13e2cdd1c310390ce104eb8)
+* [The Role of Semiconductors in Modern Warfare](328434477c31995b44102949d5341006)
+* [Delays in TSMC's Arizona Chip Factory Construction Impact US AI Investment](2b6cc7a8e528932936c2b72ea35d930c)

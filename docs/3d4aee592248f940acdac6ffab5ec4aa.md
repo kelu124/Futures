@@ -40,13 +40,7 @@ Amazon Care, the virtual healthcare program by Amazon, has partnered with mental
 
 ## Closest
 
-* [Amazon Expands into Mental Health Services](3d4aee592248f940acdac6ffab5ec4aa)
-* [The Rise of Digitally-Native Jobs](958440479631741e825e5e27207d7a94)
-* [Amazon Expands into Mental Health Services](3d4aee592248f940acdac6ffab5ec4aa)
-* [Amazon Expands into Mental Health Services](3d4aee592248f940acdac6ffab5ec4aa)
-* [Amazon Expands into Mental Health Services](3d4aee592248f940acdac6ffab5ec4aa)
-* [Amazon Expands into Mental Health Services](3d4aee592248f940acdac6ffab5ec4aa)
-* [Amazon Unveils Kindle Scribe, a Tablet-like Ebook Reader](69637dcd83c48ebde0610a61a27b1989)
-* [The Problem of "Fake Work" in the Tech Industry](be86183e1a7d0969b9c62346d4ecab28)
-* [Amazon Expands into Mental Health Services](3d4aee592248f940acdac6ffab5ec4aa)
-* [The Age of AI: Opportunities and Responsibilities](2449c2fc4b8afc7e268db4987fa821e5)
+* [Amazon Clinic: Virtual Care for Common Health Conditions](22d0934658c9fc05be2fd8ded3007cf4)
+* [Amazon Plans to Turn Deceased Loved Ones' Voices into Digital Assistants](316c2bc07bdae32ea05595973043b766)
+* [Amazon's Spy Appliances: A Surveillance Nightmare](6fb6587422619556f83c26b5b4386948)
+* [The Rise of Luxury Surveillance](382ab5700ea4e7c189a438c6e024ef18)

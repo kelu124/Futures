@@ -41,13 +41,7 @@ The Cybathlon is a unique championship that allows individuals with disabilities
 
 ## Closest
 
-* [Open Letter Calls for Pause on Training Powerful AI Systems](96bb44778e10efa6829f7ff9737593f2)
-* [Gen Z's Perspectives on Work, College, and the Internet](644ce4dcf74e76970fd0526ca1abf551)
-* [The Economic Viability of AI Automation: A Study on Computer Vision](89ee61cc0d9fa77ecb1eb4100622a53f)
-* [Elba Raises 2.5 Million for Employee-Focused Cybersecurity](f0bea4855d3def3c7d023e76aaf74aa6)
-* [The Future of AI: Signs and Portents](3aaa975f44b2a607ef191978083cf2b8)
-* [Army Struggles to Hire Cyber Security Experts Amidst Business Competition](9a34e1185220f0646d9672d1430ce579)
-* [Compliance of Foundation Model Providers with EU AI Act](b39cd180dcfb9a92e51a09e5dcb0a0f4)
-* [A Simple Idea: Protecting Bikes](9c652dfb9dcd53a8d38a79cc1981bb74)
-* [Challenges and Concerns in AI Deployment](382e9ebc1e518ee49e541da1e6b5f8af)
-* [AI as a Leveler and Kingmaker](217aa25bfccb56bceb69db3a0b5667f5)
+* [ANSSI Launches Hackropole: Cybersecurity Challenge Platform](3e09d24de02da3d269252fd763a313d5)
+* [How AI is changing gymnastics judging](08b675e74dab24947fbdfb569c56d66b)
+* [Chaos Computer Club Announces 37th Chaos Communication Congress (37C3)](bcff5643d6572db7c8c9d2bffc215812)
+* [The Future of Cognitive Work: AI and the Cyborg Profile](a54883b1db1c3c4f1b212b77117f3f8c)

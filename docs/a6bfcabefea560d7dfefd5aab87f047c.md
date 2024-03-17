@@ -38,13 +38,7 @@ Debashis Chanda and his team at the University of Central Florida have developed
 
 ## Closest
 
-* [Revolutionary Light and Cool Structural Paint](a6bfcabefea560d7dfefd5aab87f047c)
+* [Ultra-White Paint: Cooling Airplanes and Spacecraft](8e1b3608f46c809be3c61538048824a8)
 * [Thermoformable Ceramics: A New Frontier in Materials](bd35b1587de303b44a62d0e99fb749fc)
-* [Japanese Experimental Nuclear Fusion Reactor Inaugurated](1c46960244111ec5f16e85701a85e602)
-* [Quantum Mechanics Defies Local Realism](cfa7b88cc31a76b552fd670d315800cc)
 * [Researchers Develop New Source of Quantum Light](059bc68ff6f1a35906ae3e976a00c335)
-* ["Magic Balls" from Norway Monitor Power Lines in the US](5f6b61cf3188966409a86606c4fb6134)
-* [The Legacy of Nuclear Testing: Low-Background Steel](fd957af83036959652ceb25c652a97c9)
-* [Technologies of Hope: Pandemic Solutions](d44d0c046d2ee3330a2d40cfccdfc0d3)
-* [Revolutionary Light and Cool Structural Paint](a6bfcabefea560d7dfefd5aab87f047c)
-* [Radon Decay and Electric Fields](6c94b8dcd4d0fc4b429a994e2abd353f)
+* [New Powder Uses Sunlight to Disinfect Water](0531e1f77a3339cc11432d7601f9c7a4)

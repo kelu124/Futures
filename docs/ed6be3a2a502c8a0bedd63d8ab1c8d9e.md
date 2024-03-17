@@ -107,13 +107,7 @@ Virtual humans have become a significant presence in China, partnering with luxu
 
 ## Closest
 
-* [TikTok Challenges Global Internet Order](8086bf4a53c711deb15d6bea523e85f9)
-* [Deepfakes of Chinese Influencers Take Over Livestreaming](648de774fbff1434a953141f7652db07)
-* [US Restricts Nvidia GPU Sales to Thwart China's AI Development](b79a2baa87b68283198416791b93bce4)
 * [China's Growing Virtual People Industry](9830e769665e82dcea315b1089dc40c4)
-* [Chinese Tech Giants Go All-In on Nvidia's HPC Products](b4cc7b5ac1c99e45eb6fc1f733189405)
-* [Toyota Cuts EV Sales Forecast, Shifts Focus to Hybrids](1bef8f22af5a0bd803a2cc87b0d33e19)
-* [China Proposes New Regulations for AI Chatbots](b6dc0996967d1b60cd671a3f6a787e9b)
-* [The Rise of Virtual Humans in China](ed6be3a2a502c8a0bedd63d8ab1c8d9e)
-* [China Approves Over 40 AI Models for Public Use](180b400e2ff14c1358c95031138bbe47)
-* [The Rise of Virtual Humans in China](ed6be3a2a502c8a0bedd63d8ab1c8d9e)
+* [The Rise of Virtual Idols](f2c164b7ff8eb0a6fd223511dba15804)
+* [Deepfakes of Chinese Influencers Take Over Livestreaming](648de774fbff1434a953141f7652db07)
+* [Balabala Makes Virtual Move with Gu Yu](c9ec4ffbfe911a0c5d04e95d8fa17e77)

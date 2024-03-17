@@ -36,12 +36,6 @@ This text is promoting a social event called "Hello Stranger" where strangers ca
 ## Closest
 
 * [Embracing the Solo Diner: Making Dining Alone a Memorable Experience](387cc7d6dcac314087dfc35f2091b410)
-* [Introducing Hello Stranger: Connecting Strangers Over Dinner](566fd2eb0cd758cda6aec0863eec91af)
-* [Alexa Voice Assistant Replicates Human Voices](95a21e5407df1f9dfe1f323e5a827e94)
-* [Decline in M.B.A. Applications Linked to Strong Job Market and High Costs](741fe3c74904ed78f07285a0a13f87f7)
-* [Introducing Hello Stranger: Connecting Strangers Over Dinner](566fd2eb0cd758cda6aec0863eec91af)
-* [Cloud Kitchens: Multiple Brands, One Location](922837a7daf20516c8487df8f6e20ae7)
-* [Introducing Hello Stranger: Connecting Strangers Over Dinner](566fd2eb0cd758cda6aec0863eec91af)
-* [Top City Trends for 2024](e326bf8ab0b424d515d0691f5eac1fd7)
-* [Introducing Hello Stranger: Connecting Strangers Over Dinner](566fd2eb0cd758cda6aec0863eec91af)
-* [Quiet Quitting Crisis: Decline in U.S. Workforce Engagement](1e45d2fc84595f57564761a068038652)
+* [The Radical Power of Hanging Out](edbb7336dfb26098bcc966ca17c074b9)
+* [Greeting Neighbors Linked to Higher Wellbeing](d16e5657697812f4271d7ff1d18fd874)
+* [A Proposal for a Letter Circle](e0dd77b135a529ee920c59b0fc1e1059)

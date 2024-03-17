@@ -39,13 +39,7 @@ The text discusses Vicuna, the latest model developed by Meta AI, which matches 
 
 ## Closest
 
-* [Vicuna: A Powerful Chatbot Model](e91b6e1d0dcf2c5d43dfddbf6a56310b)
-* [Vicuna: A Powerful Chatbot Model](e91b6e1d0dcf2c5d43dfddbf6a56310b)
-* [Vicuna: A Powerful Chatbot Model](e91b6e1d0dcf2c5d43dfddbf6a56310b)
+* [Alibaba Opens AI Model for Third-Party Developers](705bb257b4c899939cc0c550f0b9d2fa)
+* [GPT4All: Local ChatGPT Simplification](280062047a4f4c0db1811e6ca41703d0)
+* [Chatbot Arena Leaderboard Updates (Week 4)](2ad1a65371512ec50f24b2e247328b78)
 * [Hugging Face Launches Customizable Chat Assistants for Open Source AI](50b1e6d3ab5e8c33d34b9b477d22213f)
-* [Vicuna: A Powerful Chatbot Model](e91b6e1d0dcf2c5d43dfddbf6a56310b)
-* [Vicuna: A Powerful Chatbot Model](e91b6e1d0dcf2c5d43dfddbf6a56310b)
-* [Vicuna: A Powerful Chatbot Model](e91b6e1d0dcf2c5d43dfddbf6a56310b)
-* [Vicuna: A Powerful Chatbot Model](e91b6e1d0dcf2c5d43dfddbf6a56310b)
-* [Advancements in AI: Text-to-Video Generators](c98e6d5382ed734fcb33e34509a95e40)
-* [Vicuna: A Powerful Chatbot Model](e91b6e1d0dcf2c5d43dfddbf6a56310b)

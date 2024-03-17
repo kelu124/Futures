@@ -35,13 +35,7 @@ In this text, the author describes their experience with lupus cerebritis, a sev
 
 ## Closest
 
-* [The Challenge of Time: A Journey through Brain Inflammation and Recovery](c7cd8debffd00db3905b4d70b56ea40e)
-* [Quality of Care and Patient Outcomes After Private Equity Acquisition of Hospitals](c346127b59f55385f443e5e27e93bc78)
-* [Cultural Therapy: Museum Prescriptions for Mental Health](3c807d80ce080c015f1fc14086b7a09e)
-* [New Tool Nightshade Allows Artists to Fight Back Against Generative AI](737fd00bafc163f8b17f187f41d6567a)
-* [The Challenge of Time: A Journey through Brain Inflammation and Recovery](c7cd8debffd00db3905b4d70b56ea40e)
-* [The Challenge of Time: A Journey through Brain Inflammation and Recovery](c7cd8debffd00db3905b4d70b56ea40e)
-* [The Challenge of Time: A Journey through Brain Inflammation and Recovery](c7cd8debffd00db3905b4d70b56ea40e)
-* [AI Disruption Outweighs Pandemic Impact](283ff70c63aed09ef2b0613f6acc2eb9)
-* [The Challenge of Time: A Journey through Brain Inflammation and Recovery](c7cd8debffd00db3905b4d70b56ea40e)
-* [The Aging World and Its Consequences](a8bf5109e22909dfe327db0ee8f3853d)
+* [Long COVID and Disability Rates](0248f1b6d72f8bb9c984f24db0569a3f)
+* [The Ongoing Battle with Long Covid](c47cb1fe2b4ae786edcfe793f7c528c2)
+* [Bad software destroyed my doctor's memory](976f66dccf4086981111e810d0160229)
+* [Saving Time: Reshaping Temporality and Reclaiming Agency](047936a2b08c1b5dda3018bc98dc1d9b)

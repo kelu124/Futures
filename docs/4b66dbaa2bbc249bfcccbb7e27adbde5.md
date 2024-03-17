@@ -45,13 +45,7 @@ This text discusses the concept of using AI as interns in the workplace. It emph
 
 ## Closest
 
-* [Boosting Productivity and Satisfaction with Generative AI](01bec9add8819c277aad7d7ba19983f7)
-* [On-boarding Your AI Intern](4b66dbaa2bbc249bfcccbb7e27adbde5)
-* [On-boarding Your AI Intern](4b66dbaa2bbc249bfcccbb7e27adbde5)
-* [Ensuring Responsible AI Governance: Protecting Employees and Data](d4390e62256a0c3c19306c1ebc3ffb5b)
-* [On-boarding Your AI Intern](4b66dbaa2bbc249bfcccbb7e27adbde5)
-* [On-boarding Your AI Intern](4b66dbaa2bbc249bfcccbb7e27adbde5)
-* [On-boarding Your AI Intern](4b66dbaa2bbc249bfcccbb7e27adbde5)
-* [On-boarding Your AI Intern](4b66dbaa2bbc249bfcccbb7e27adbde5)
-* [On-boarding Your AI Intern](4b66dbaa2bbc249bfcccbb7e27adbde5)
-* [On-boarding Your AI Intern](4b66dbaa2bbc249bfcccbb7e27adbde5)
+* [The Economic Viability of AI Automation: A Study on Computer Vision](89ee61cc0d9fa77ecb1eb4100622a53f)
+* [Centaurs and Cyborgs on the Jagged Frontier](c94f72ff677c7517a836417c1f1df620)
+* [AI Job Losses Are Rising, but the Full Story Goes Beyond the Numbers](b0e031972e42be984d1309170155800e)
+* [The Impact of AI on Knowledge Worker Productivity and Quality](c63bd059cb529b72b00ecbdcd2f85268)

@@ -42,13 +42,7 @@ This article discusses the vulnerability of AI algorithms to adversarial attacks
 
 ## Closest
 
-* [The Rising Threat of Paraphrasing Attacks on AI Algorithms](e1fbb09ec5e66a8a6d4eff2126eefb40)
-* [The Rising Threat of Paraphrasing Attacks on AI Algorithms](e1fbb09ec5e66a8a6d4eff2126eefb40)
-* [The Rising Threat of Paraphrasing Attacks on AI Algorithms](e1fbb09ec5e66a8a6d4eff2126eefb40)
-* [The Rising Threat of Paraphrasing Attacks on AI Algorithms](e1fbb09ec5e66a8a6d4eff2126eefb40)
-* [The Rising Threat of Paraphrasing Attacks on AI Algorithms](e1fbb09ec5e66a8a6d4eff2126eefb40)
-* [The Rising Threat of Paraphrasing Attacks on AI Algorithms](e1fbb09ec5e66a8a6d4eff2126eefb40)
-* [The Rising Threat of Paraphrasing Attacks on AI Algorithms](e1fbb09ec5e66a8a6d4eff2126eefb40)
+* [The Glitchy, Spammy, Scammy AI-Powered Internet](b30a4282af9e53ca673438a8223d9525)
 * [Safety Concerns and Automated Attacks on Large Language Models](74c58b0ca359725b4a116ff765656c7c)
-* [The Rising Threat of Paraphrasing Attacks on AI Algorithms](e1fbb09ec5e66a8a6d4eff2126eefb40)
-* [Backdooring a summarizerbot to shape opinion](4d1abdf7e702b559c6ccff847ce4d8d0)
+* [The Threat of Misinformation: Society's Battle](9787333cafcd0252d71a9bff845ad093)
+* [The Menace of Deepfake Images](14889902198ab8b6f7991b108f6ebb02)

@@ -40,12 +40,6 @@ Personalized learning is finally here. The text discusses the author's experienc
 ## Closest
 
 * [The Potential of AI in Education: Transforming Learning and Play](adf886a1b9fd74281e0a43c3e7c70def)
-* [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
-* [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
-* [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
-* [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
-* [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
-* [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
-* [The Future of AI: Signs and Portents](3aaa975f44b2a607ef191978083cf2b8)
-* [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
-* [AI Tutoring for Personalized Learning](8f4d495f94113bef7aed043ebceafebb)
+* [The Impact of AI on Education](ea74b217d36ec570bb432fb5aa679090)
+* [Embracing the AI Age: Thriving Amidst Change](23a3410059759ba4214235628d4ebd4b)
+* [The Age of AI: Opportunities and Responsibilities](2449c2fc4b8afc7e268db4987fa821e5)

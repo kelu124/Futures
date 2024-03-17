@@ -43,12 +43,6 @@ The US Department of Defense (DoD) has released an unclassified summary of its 2
 ## Closest
 
 * [Biden Administration Unveils Cybersecurity Strategy and Targets China as Major Threat](1eaefdcf11b24d5f443b5f4e7645e0a5)
-* [US Department of Defense Outlines 2023 Cyber Strategy](f88aebcf579dffa42fc0dbe74de919c4)
-* [US Department of Defense Outlines 2023 Cyber Strategy](f88aebcf579dffa42fc0dbe74de919c4)
-* [OpenAI Collaborates with Pentagon on Software Projects](e625a640f3cfddf1f648256a243cb214)
-* [US Department of Defense Outlines 2023 Cyber Strategy](f88aebcf579dffa42fc0dbe74de919c4)
-* [US Department of Defense Outlines 2023 Cyber Strategy](f88aebcf579dffa42fc0dbe74de919c4)
-* [Predictions for 2030](d14b14eaf86b482708781d3e6d97e33a)
-* [Increasing Cyber Threats: AI's Role in Ransomware Attacks](dabd88039518d1eb97139f16625eeec8)
-* [US Department of Defense Outlines 2023 Cyber Strategy](f88aebcf579dffa42fc0dbe74de919c4)
-* [US Department of Defense Outlines 2023 Cyber Strategy](f88aebcf579dffa42fc0dbe74de919c4)
+* [Cybersecurity Job Market Faces Challenges Amidst Economic Uncertainty](0ab36af538bf262c85b73fa7e7bd657f)
+* [Army Struggles to Hire Cyber Security Experts Amidst Business Competition](9a34e1185220f0646d9672d1430ce579)
+* [The Growing Investment Opportunity in Cybersecurity](211803931bfabc324f12ad1524640ef1)

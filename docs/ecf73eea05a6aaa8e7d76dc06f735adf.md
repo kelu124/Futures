@@ -43,13 +43,7 @@ DALL·E 2 is a new AI system that can create realistic images and art from a des
 
 ## Closest
 
-* [Introducing DALL·E 2: AI Creates Realistic Images from Text](ecf73eea05a6aaa8e7d76dc06f735adf)
+* [DALL·E 2: Creating Realistic Images from Text Descriptions](150d9e636fc3b6404f150b8f049f626b)
 * [Exploring the Creative Potential of DALL-E 2](c62d2942a1454cd9810be2b3a93f7bc6)
-* [Zoom's Terms of Service Update Allows AI Training with Customer Data](3b96c74f728c6281fc7f1a045a5befc7)
-* [Introducing DALL·E 2: AI Creates Realistic Images from Text](ecf73eea05a6aaa8e7d76dc06f735adf)
-* [Introducing DALL·E 2: AI Creates Realistic Images from Text](ecf73eea05a6aaa8e7d76dc06f735adf)
-* [The Age of Infinite Entertainment](63f1bb42da49c95b95587a4e15740fcb)
-* [The Rise of AI-Generated Art](536d1aaf84afa5bf10493f03cbb3d38d)
-* [Introducing DALL·E 2: AI Creates Realistic Images from Text](ecf73eea05a6aaa8e7d76dc06f735adf)
 * [The Copyright Conundrum of AI-Generated Art](2cfdc6fba6f11e089c2df3cda1604174)
-* [Introducing DALL·E 2: AI Creates Realistic Images from Text](ecf73eea05a6aaa8e7d76dc06f735adf)
+* [Shutterstock Partners with OpenAI to Integrate DALL-E into Stock Image Platform](99ffe526026a0494fc25d44aba64bd70)

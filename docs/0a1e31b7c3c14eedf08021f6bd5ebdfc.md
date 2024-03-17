@@ -41,13 +41,7 @@ In order to increase our chances of encountering good luck, we can increase the 
 
 ## Closest
 
-* [The Future of Talent Identification and Recruitment](14935a7eab6d6c1d8a5ce2f25d3b54bb)
-* [The Sterile World of Infinite Choice](7b316ebe449187b79e519a8c6d12a2cd)
-* [Increasing Luck through Work and Publication](0a1e31b7c3c14eedf08021f6bd5ebdfc)
-* [Increasing Luck through Work and Publication](0a1e31b7c3c14eedf08021f6bd5ebdfc)
-* [Breaking the Mold: Winning in the Networked Counterculture](e5f4b1b4319694169f1551be43a837c9)
-* [Rise of Dazi: Young People Seek Activity Partners](87daba98f9145e9744a49b5145ac69b2)
-* [Increasing Luck through Work and Publication](0a1e31b7c3c14eedf08021f6bd5ebdfc)
-* [Increasing Luck through Work and Publication](0a1e31b7c3c14eedf08021f6bd5ebdfc)
-* [Challenges and Concerns in Adopting Generative AI](6a8633d1148eb442435b9f6bca735ad3)
-* [Increasing Luck through Work and Publication](0a1e31b7c3c14eedf08021f6bd5ebdfc)
+* [Developing a Fun Mindset: The Key to Attracting Fun](91a89306cd8e0d3a05a468796e941420)
+* [Developing a Fun Mindset: The Key to Attracting Fun](bc734fd4bd996e68c387249bbc4d33e2)
+* [Embracing Chaos: Thriving in Uncertain Times](7456d661e6f006d09a3f10e8790588d0)
+* [Learn In Public](037aba804501ec9f75f8bb434b8a6c20)

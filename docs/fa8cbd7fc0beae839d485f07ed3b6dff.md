@@ -42,13 +42,7 @@ This text explores the themes of lithium, digital space, and mental health. It d
 
 ## Closest
 
-* [Linguist Pursued in Dystopian Epidemic](63868d73fd4f4dff913a3bc85d42fa6b)
-* [The Malevolence of ChatGPT: A Call for Destruction](9b21fce377880166b73916aee2be1fc0)
-* [FCC Proposes Making AI-Generated Voice Cloning in Robocalls Illegal](5d77e0fdec3810e3808f7551b9eb3b1c)
-* [The Rise of Online Anonymity](52a829c92d96543f396d37b44440c475)
-* [The Battle Over Books and AI](60708ef9829fd46241b75936b97b447d)
-* [The Salt of the Cosmos](fa8cbd7fc0beae839d485f07ed3b6dff)
+* [Our Technology Sickness—and How to Heal It](c1bb890337ef382bfaa5720c9fd05134)
 * [Psychonauts: Drugs and the Making of the Modern Mind](46b83c5dfd8f27c0bb2335917e2f5a1f)
-* [Cybersecurity Threats to Law Firms](0b6d917158cd84c369d0af378202984b)
-* [AI Disruption Outweighs Pandemic Impact](283ff70c63aed09ef2b0613f6acc2eb9)
-* [The Salt of the Cosmos](fa8cbd7fc0beae839d485f07ed3b6dff)
+* [Psychonauts: A History of Drug Exploration](9f63fa720db53d39066cead1fabeb6df)
+* [The Categorization Conundrum of Psychedelics](13d07c8b2cd28b1d14da1f2b37f956f4)

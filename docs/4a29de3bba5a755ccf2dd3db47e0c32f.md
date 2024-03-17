@@ -41,13 +41,7 @@ Deb Chachra, author of "How Infrastructure Works," explores the interplay betwee
 
 ## Closest
 
-* [The Regulatory Landscape for Gen AI](43eafc183f7cc060f7cb7fed455e20a7)
-* [Power Grid Optimizer Enhances Transmission Capacity by 30%](ac1dca3c524bdd7aa99f29fd255c7c41)
-* [Introduction to Systems Thinking for Civil Servants](c745ba8f3cb00c2d7c46c819537fcb10)
-* [OpenAI's Preparedness Team Ensures Safety of Frontier AI Models](1b83eec0f6fc73bacf9828c5c9472951)
-* [Young Activists Express Climate Concerns](a33285a958e1c67e274803ca7ce0bec2)
-* [2023 Roadshow of Research and Policy Results](589c2c554219a6d4ae1ad0c9d1d75a21)
-* [More-Than-Human: Design After Human-Centricity](5374f630138505a84bf07f321ed3d05e)
-* [Understanding the Interplay of Infrastructure](4a29de3bba5a755ccf2dd3db47e0c32f)
 * [The Age of Apocalyptic Infrastructure](177a0857ffe0d07d48cd99a269f28a02)
-* [Coping with Rapid Technological Change: Strategies for Survival](14a8b49f5342c0428f8f03db633c57d5)
+* [The Importance of Improving Construction Productivity](68cc2d738ed662aeee3670d8327d7d5f)
+* [Redesigning Architecture for Sustainability and Accountability](8138ea21b5288b813c73e1e5195aaedf)
+* [Reshaping the Tree: Rebuilding Organizations for AI](fd0f3b7a6783ba6a0fcd3a18c8241be5)

@@ -42,13 +42,7 @@ The study highlights the underestimated risks of harvest failures in multiple gl
 
 ## Closest
 
-* [Food and Fertilizer Export Restrictions Tracker](9bc30bd3a2acaf75fb77dbb5a076114f)
-* [Fungi: A Solution for Sustainable Food Production](0c58d382a0cacf288605a136bbcf69a3)
-* [The Impact of Heat on the Future of Work](d6b48e83bcc0c6e8e7c4328f27d65d0b)
-* [The Disappearing Houses and the Search for Normalcy](e825171606432c71606dc78b9bf86eee)
-* [The Age of Apocalyptic Infrastructure](177a0857ffe0d07d48cd99a269f28a02)
-* [The Challenge of Finding a Safe Place in a Changing Climate](efa36dc9bd5ddc890866d4ab1e68e71f)
-* [The Economic Impact of Ageing Populations](bff595b72330d833dba477e2dc2a5656)
 * [Clues from Satellites on Global Harvest](b99e8d470f4bd969ae5ec423c534eeee)
-* [Seven Signs of Ethical Collapse: Preventing Corporate Scandals](45854362019860740951c83df1c7122e)
-* [Earth as Our Only Shareholder](b5c93b6e5a5b33c81d3a1619b9b37f1b)
+* [Global Food Systems: Treating Food as a Human Right](c21f7a31bf1c99ef78e154ae4249e712)
+* [The Challenge of Finding a Safe Place in a Changing Climate](efa36dc9bd5ddc890866d4ab1e68e71f)
+* [Fungi: A Solution for Sustainable Food Production](0c58d382a0cacf288605a136bbcf69a3)

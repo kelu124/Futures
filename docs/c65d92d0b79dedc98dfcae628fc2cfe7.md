@@ -39,13 +39,7 @@ The text discusses the concept of the Fundamental Process to Generate Living Sys
 
 ## Closest
 
-* [Strategic Foresight: Anticipating and Adapting to the Future](40a99c098bad8dda821b757d8d88a80a)
-* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
-* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
-* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
-* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
-* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
-* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
-* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
-* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
-* [The Fundamental Process to Generate Living Systems](c65d92d0b79dedc98dfcae628fc2cfe7)
+* [The Power of Simplicity in Living Systems](628eabb2a1ffbe7b0e6865d9367c32de)
+* [Pace Layering: How Complex Systems Learn and Keep Learning](d8dac76e8ee03a934c18e53570b3a0f8)
+* [Thinking in Systems: International Bestseller](63009855daa63864cb3d7175e7aa00ff)
+* [Redesigning Architecture for Sustainability and Accountability](8138ea21b5288b813c73e1e5195aaedf)

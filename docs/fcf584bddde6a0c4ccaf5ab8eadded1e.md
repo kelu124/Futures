@@ -36,12 +36,6 @@ Scientists at Monash University have developed a computer chip called "DishBrain
 ## Closest
 
 * [Cyborg computer with human brain cells](fe93f7419799d1706b4e7ce0a6adcb40)
-* [Computer Chip with Human Brain Tissue Receives Military Funding](fcf584bddde6a0c4ccaf5ab8eadded1e)
-* [Computer Chip with Human Brain Tissue Receives Military Funding](fcf584bddde6a0c4ccaf5ab8eadded1e)
-* [The Rise of Superintelligence and Singularity](5d18d0fdee756046650b4c957ac43730)
-* [Computer Chip with Human Brain Tissue Receives Military Funding](fcf584bddde6a0c4ccaf5ab8eadded1e)
-* [The Misleading Myth of Artificial Intelligence](15c812523685076326204f061bf025cd)
-* [Computer Chip with Human Brain Tissue Receives Military Funding](fcf584bddde6a0c4ccaf5ab8eadded1e)
-* [Computer Chip with Human Brain Tissue Receives Military Funding](fcf584bddde6a0c4ccaf5ab8eadded1e)
-* [Computer Chip with Human Brain Tissue Receives Military Funding](fcf584bddde6a0c4ccaf5ab8eadded1e)
-* [AI-Designed Proteins Kill Bacteria in Lab](851488841bb139d3ed24048269cd0b9b)
+* [AI Unlocks Human Brain's Secrets](e43c70d1c8c34f4587722ef456132b41)
+* [Ultrasonic Wireless 'Neural Dust' Sensors Monitor Nerves, Muscles in Real Time](feadfd4aa3133e938a6f6e6d7d2c018e)
+* [The Intelligence of Ecosystems and LLMs](607bce5ceffd29c4ba8997068ebde091)

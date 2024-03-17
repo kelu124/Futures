@@ -41,12 +41,6 @@ Leica has launched the M11-P, the first camera in the world to have built-in con
 ## Closest
 
 * [The Illusion of Authenticity: Polaroid's Bid for Meaningful Photography](ba6b48e83806da532c7578d24e914455)
-* [Leica Launches M11-P - First Camera with Built-in Content Credentials](bc3b32f7e96fc98dd6d20a6bd4bb0f3d)
-* [The Rise of Context-Aware Digital Assistants](46267bf4740b29117588f603a5c41280)
-* [Leica Launches M11-P - First Camera with Built-in Content Credentials](bc3b32f7e96fc98dd6d20a6bd4bb0f3d)
-* [Comparing Self-Hosted LLMs and OpenAI: Cost, Quality, Speed, and Privacy](cde52125a54df8cddd2d6464c9ed07de)
-* [Boosting Competences for the Online World](0770afeb444e4bbb336cdc72c07d6688)
-* [The Uncertain Future of Generative AI](f35afe43c2e3b465b8ed4b00023cb0ac)
-* [Worldcoin Raises $115 Million for Eyeball-Scanning Crypto Project](2288acc14dd8aab5ef245655d253626f)
-* [The Principles That Shape Photographic Practice](3732af6b65f8a13ac1af7007d063eb7b)
-* [The Copyright Conundrum of AI-Generated Art](2cfdc6fba6f11e089c2df3cda1604174)
+* [OpenAI's DALL-E 3 Implements Watermarks for Content Provenance](1bcd97057549477b1985b5965b78ab43)
+* [AI and the Changing Landscape of Photography](447aaddba1b3b4ac319e14628e6ed8f2)
+* [Reinvigorating Vintage Analog Cameras with a 20MP Sensor](f7b3a19af28d70bf1f74f5d17c496c39)

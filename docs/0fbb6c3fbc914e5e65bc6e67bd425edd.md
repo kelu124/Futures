@@ -43,12 +43,6 @@ HydraUSB3 V1 is an open source developer kit for the WCH CH569 MCU that allows f
 ## Closest
 
 * [Kilsyth: ECP5 FPGA + FT60x FIFO](076f9b6d6122fb2ac7933c60cf1e7dbc)
-* [HydraUSB3 V1: Open Source Developer Kit for High-Speed Protocols](0fbb6c3fbc914e5e65bc6e67bd425edd)
-* [The Evolution of "Open Source" in AI Models](ab65e19023994f8f7774408b7a7cc920)
-* [HydraUSB3 V1: Open Source Developer Kit for High-Speed Protocols](0fbb6c3fbc914e5e65bc6e67bd425edd)
-* [HydraUSB3 V1: Open Source Developer Kit for High-Speed Protocols](0fbb6c3fbc914e5e65bc6e67bd425edd)
-* [Tools Needed by Open Source Researchers](232af96e853049a58bc2dae466ea495d)
-* [HydraUSB3 V1: Open Source Developer Kit for High-Speed Protocols](0fbb6c3fbc914e5e65bc6e67bd425edd)
-* [Mistral AI: Opening Beta Access to Powerful Open Generative Models](353db49268a185080d455082c9050935)
-* [YouTube's Custom Video Chip Revolution](5d8b4aa6d5d8d086044fd9d1a00c270f)
-* [Introducing GPTs: Customize ChatGPT for Specific Purposes](f9b73418962acd66fb1ae29b21d7f943)
+* [Pi Pico Rx - A Modern Crystal Radio](1fd0845ff9239d74ce3f089d10cb2f61)
+* [Repurposing Old Phones for Personal Projects](40aa9f2abd08b4cefd81827111b64979)
+* [The Perfect Ultra-Low Power Digital Watch](5af9b5ebcf47c95c77fe4e896651a4dd)

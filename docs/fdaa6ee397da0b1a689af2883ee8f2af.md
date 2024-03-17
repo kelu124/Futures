@@ -45,13 +45,7 @@ Voice actors are facing challenges as artificial intelligence (AI) is being used
 
 ## Closest
 
-* [Voice Actors Express Concerns Over Voice-Generating AI](fdaa6ee397da0b1a689af2883ee8f2af)
-* [Voice Actors Express Concerns Over Voice-Generating AI](fdaa6ee397da0b1a689af2883ee8f2af)
-* [Voice Actors Express Concerns Over Voice-Generating AI](fdaa6ee397da0b1a689af2883ee8f2af)
-* [Cyborg computer with human brain cells](fe93f7419799d1706b4e7ce0a6adcb40)
-* [Voice Actors Express Concerns Over Voice-Generating AI](fdaa6ee397da0b1a689af2883ee8f2af)
-* [The Potential Impact of AI on Elections](3958ff20e8489240e2461aa8d0eee7b5)
-* [Voice Actors Express Concerns Over Voice-Generating AI](fdaa6ee397da0b1a689af2883ee8f2af)
+* [AI Voice Simulators Enable Scammers to Exploit Vulnerable Individuals](0a49a5c0770b63ff41a4b19b66e478b1)
+* [Writer Protection and Compensation in AI-Generated Works](32f927ba9dd86866c45f72f407a2950e)
 * [Microsoft's AI Simulates Voice with Three Seconds of Audio](146bf2c4637290e20802f18dee14bbaf)
-* [Common Questions and Answers About Generative AI](1ef0f968ac542dcb76eef026bdb6791e)
-* [The Copyright Conundrum of AI-Generated Art](2cfdc6fba6f11e089c2df3cda1604174)
+* [Speaking to Video Game Characters: The Future of NPC Interaction](65b2d69656e5ea98828b1587df1ddb7e)

@@ -45,13 +45,7 @@ The text discusses the author's perspective on technological innovation, particu
 
 ## Closest
 
-* [Businesses' Adoption of Generative AI](767b74c90576473294b2c47568c0e355)
-* [The Threat of Authoritarian Intelligence](0ba4fa557cd2aae4760bd7a2abca844e)
-* [Digital Reinvention: The Key to Law Firm Success](f9f1a04c9e44cac963fd3522f407a5e8)
-* [10 Ideas Shaping the Business Landscape in 2023](0d5cc4e60484c56f76248ad109ad9c04)
-* [AI Superpowers: Unleashing Entrepreneurship in 2023](a40580730388900810b4496ff9891dc9)
-* [The Problem of "Fake Work" in the Tech Industry](be86183e1a7d0969b9c62346d4ecab28)
-* [The Rise of Software as a Service (SaaS)](62f0c80f0091e9b15465cd516137b05e)
-* [The Power of Customer Driven Marketing](f5a86c6c3c113719814d2772bea54508)
-* [The Rise of Digitally-Native Jobs](958440479631741e825e5e27207d7a94)
-* [CEOs Remain Skeptical of Generative AI Benefits](b8909c2388e72001592ed4fc902a20c9)
+* [The Impact of AI on Society](87709d0e31dee725ec1f54b7f4facbc4)
+* [Embracing the AI Age: Thriving Amidst Change](23a3410059759ba4214235628d4ebd4b)
+* [The Dilemma of Revealing AI Cyborgs](c42a95f16678ed3834840d48f8e775a3)
+* [The Problem With AI and Capitalism](cc3c2afb44e50f74152fd58c92f5b418)
