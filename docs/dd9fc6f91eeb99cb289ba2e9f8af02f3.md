@@ -44,3 +44,4 @@ Many toys and games come and go with passing trends, but some toys have endured 
 * [The Potential of AI in Education: Transforming Learning and Play](adf886a1b9fd74281e0a43c3e7c70def)
 * [The Over-Simulation Problem in Engineering](378adae519eda1077ca6e628e3f706df)
 * [Rethinking Wargames for Conflict Resolution](290b39e08f51973a22385822003f38c2)
+* [Overlooking Subtraction: Why We Prefer Additive Solutions](2e40e579c2cb2d331026efcbcd98daed)

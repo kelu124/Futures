@@ -39,3 +39,4 @@ Bigbug is a French science fiction black comedy film directed by Jean-Pierre Jeu
 * [A Chaotic Journey of Sibling Tragedy](109fdce64e3534d2f17935a3c4fbd713)
 * [The Future of Cognitive Work: AI and the Cyborg Profile](a54883b1db1c3c4f1b212b77117f3f8c)
 * [Robo-Roaches: Remote-Controlled Insect Cyborgs](b0cc49ba07708ecffb1a8c88d66554fd)
+* [Evaluative Soliloquies: Drive, Judge, and Rescue](b9ea5ee9727124d32792361b15af2499)

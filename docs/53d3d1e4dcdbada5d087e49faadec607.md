@@ -47,4 +47,5 @@ Zines are a powerful tool for communication and learning, particularly for stude
 * [The Technology Gap: Young Workers and Office Technology](5ae1107c845692a2acadc6565babc91b)
 * [Gen Z Struggles with Office Technology](84e4f59e4eb3832250963e8ac00bf768)
 * [The Power of Drawing in Idea Generation](094e056f091942a96a446d8401432eb8)
-* [The Sterile World of Infinite Choice](7b316ebe449187b79e519a8c6d12a2cd)
+* [Teaching Digital Literacy in Kindergarten](ad15fbe04bbe50ec3436c61403d19fca)
+* [The Impact of Digital Whiteboards](0427292acb53be01ba35b3b5b561cb59)

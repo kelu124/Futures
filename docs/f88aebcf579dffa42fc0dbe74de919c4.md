@@ -46,3 +46,4 @@ The US Department of Defense (DoD) has released an unclassified summary of its 2
 * [Cybersecurity Job Market Faces Challenges Amidst Economic Uncertainty](0ab36af538bf262c85b73fa7e7bd657f)
 * [Army Struggles to Hire Cyber Security Experts Amidst Business Competition](9a34e1185220f0646d9672d1430ce579)
 * [The Growing Investment Opportunity in Cybersecurity](211803931bfabc324f12ad1524640ef1)
+* [Taiwanese Tech Tycoon Funds Cyber Defense Training for Potential Chinese Invasion](e99358609284de847f0d590948f5b265)

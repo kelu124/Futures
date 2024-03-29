@@ -49,3 +49,4 @@ This text discusses the concept of using AI as interns in the workplace. It emph
 * [Centaurs and Cyborgs on the Jagged Frontier](c94f72ff677c7517a836417c1f1df620)
 * [AI Job Losses Are Rising, but the Full Story Goes Beyond the Numbers](b0e031972e42be984d1309170155800e)
 * [The Impact of AI on Knowledge Worker Productivity and Quality](c63bd059cb529b72b00ecbdcd2f85268)
+* [AI Superpowers: Unleashing Entrepreneurship in 2023](a40580730388900810b4496ff9891dc9)

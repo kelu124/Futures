@@ -45,3 +45,4 @@ In India, a 24-year-old woman named Kshama Bindu made headlines after marrying h
 * [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
 * [Tulpamancy: Creating Autonomous Mental Entities](56f93e34024f9bf044f570856f99590f)
 * [Our Technology Sickness—and How to Heal It](c1bb890337ef382bfaa5720c9fd05134)
+* [The Bespoke Internet: Algorithmic Portraits and the Loss of Self](70ebc812b72117e2ce11248d77ec7d37)

@@ -45,3 +45,4 @@ Klarna has launched an AI assistant powered by OpenAI, which has had 2.3 million
 * [Microsoft's GitHub Copilot Exceeds $100 Million in Annual Revenue](7e5c1ed5c33c7dbc323cd0264cc94099)
 * [Businesses' Adoption of Generative AI](767b74c90576473294b2c47568c0e355)
 * [AI Superpowers: Unleashing Entrepreneurship in 2023](a40580730388900810b4496ff9891dc9)
+* [The Future of Software: Intelligent Agents](f9ab247df033c3d903c94289a8687845)

@@ -46,3 +46,4 @@ This text explores the themes of lithium, digital space, and mental health. It d
 * [Psychonauts: Drugs and the Making of the Modern Mind](46b83c5dfd8f27c0bb2335917e2f5a1f)
 * [Psychonauts: A History of Drug Exploration](9f63fa720db53d39066cead1fabeb6df)
 * [The Categorization Conundrum of Psychedelics](13d07c8b2cd28b1d14da1f2b37f956f4)
+* [The Sterile World of Infinite Choice](7b316ebe449187b79e519a8c6d12a2cd)

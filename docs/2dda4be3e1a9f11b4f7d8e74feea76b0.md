@@ -44,3 +44,4 @@ This article provides a comprehensive overview of autonomous agents powered by G
 * [The Power and Potential of GPTs](a7a5e8b41b65f1390a0098e577dbea46)
 * [Creating and Destroying Value with Generative AI](15d4ec180189ca1739398f516844cefb)
 * [Understanding the LLM Agent Orchestration](62a60fa0c519e5d7d0b4e480f231f163)
+* [Autonomous AI Agents: The Future of Prompt Engineering](af43a5b8a250454ff0fb2b559056ced2)

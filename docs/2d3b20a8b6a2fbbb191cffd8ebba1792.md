@@ -43,3 +43,4 @@ Advances in artificial intelligence (A.I.) have raised concerns about potential 
 * [The Automation of Work: AI's Impact on Jobs](897ed4ea5ae6173e4397f1091ddb7e7e)
 * [Lawyering in the Age of Artificial Intelligence](4f3697c8144f776170502c3036e1d6f3)
 * [The Impact of AI on Ad Agency Jobs](54491b49e9fd2c6eab777dca0ba67e76)
+* [The Impact of AI on Lobbying and Microlegislation](c47825b39c3c52d3b664efa5201aca44)

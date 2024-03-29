@@ -43,3 +43,4 @@ This text discusses the concept of "long-terminology" and the importance of long
 * [The Path to Slow Learning](042cf62855760b54fa5a194db9e6cf11)
 * [The Power and Pitfalls of Foresight](e11adc0adef22064e0ee2b531341ff07)
 * [Strategic Foresight: Anticipating and Adapting to the Future](40a99c098bad8dda821b757d8d88a80a)
+* [Exploring Time and Shaping the Future](2f66695f2596205814b8aeb4dc746072)

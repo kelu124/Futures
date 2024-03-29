@@ -39,3 +39,4 @@ Scientists at Monash University have developed a computer chip called "DishBrain
 * [AI Unlocks Human Brain's Secrets](e43c70d1c8c34f4587722ef456132b41)
 * [Ultrasonic Wireless 'Neural Dust' Sensors Monitor Nerves, Muscles in Real Time](feadfd4aa3133e938a6f6e6d7d2c018e)
 * [The Intelligence of Ecosystems and LLMs](607bce5ceffd29c4ba8997068ebde091)
+* [Revolutionizing Medical Technologies with Optrodes](7aeb03c0771769ceb99c3085c141c1fe)

@@ -42,3 +42,4 @@ Debashis Chanda and his team at the University of Central Florida have developed
 * [Thermoformable Ceramics: A New Frontier in Materials](bd35b1587de303b44a62d0e99fb749fc)
 * [Researchers Develop New Source of Quantum Light](059bc68ff6f1a35906ae3e976a00c335)
 * [New Powder Uses Sunlight to Disinfect Water](0531e1f77a3339cc11432d7601f9c7a4)
+* [Google DeepMind Discovers 2.2 Million Crystal Structures Through AI](115b59fc3f0d7b148482545adb1a8038)

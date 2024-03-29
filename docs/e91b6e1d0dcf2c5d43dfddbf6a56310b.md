@@ -43,3 +43,4 @@ The text discusses Vicuna, the latest model developed by Meta AI, which matches 
 * [GPT4All: Local ChatGPT Simplification](280062047a4f4c0db1811e6ca41703d0)
 * [Chatbot Arena Leaderboard Updates (Week 4)](2ad1a65371512ec50f24b2e247328b78)
 * [Hugging Face Launches Customizable Chat Assistants for Open Source AI](50b1e6d3ab5e8c33d34b9b477d22213f)
+* [The Potential of Generative AI in Scientific Communication](60f3a64993d5e355561c59e5d641bec9)

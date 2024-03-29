@@ -43,3 +43,4 @@ Maritime cyber security is a growing concern, as hackers are increasingly target
 * [Cybersecurity Job Market Faces Challenges Amidst Economic Uncertainty](0ab36af538bf262c85b73fa7e7bd657f)
 * [UK Government Data Reveals Common Cyber Threats Faced by Organizations](576f8cf76f713e057b075e2424ea709c)
 * [UK Government at High Risk of Catastrophic Ransomware Attack](3de8b64ba20eb613a72b0479350b5e5b)
+* [Biden Administration Unveils Cybersecurity Strategy and Targets China as Major Threat](1eaefdcf11b24d5f443b5f4e7645e0a5)

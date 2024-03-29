@@ -47,3 +47,4 @@ DALL·E 2 is a new AI system that can create realistic images and art from a des
 * [Exploring the Creative Potential of DALL-E 2](c62d2942a1454cd9810be2b3a93f7bc6)
 * [The Copyright Conundrum of AI-Generated Art](2cfdc6fba6f11e089c2df3cda1604174)
 * [Shutterstock Partners with OpenAI to Integrate DALL-E into Stock Image Platform](99ffe526026a0494fc25d44aba64bd70)
+* [The Impact of AI on Architecture](1f02642f54cf28611a00e4c83c1d428f)

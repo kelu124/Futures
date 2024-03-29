@@ -111,3 +111,4 @@ Virtual humans have become a significant presence in China, partnering with luxu
 * [The Rise of Virtual Idols](f2c164b7ff8eb0a6fd223511dba15804)
 * [Deepfakes of Chinese Influencers Take Over Livestreaming](648de774fbff1434a953141f7652db07)
 * [Balabala Makes Virtual Move with Gu Yu](c9ec4ffbfe911a0c5d04e95d8fa17e77)
+* [Artificial Intelligence Provides Unlimited Income for Influencers](18df8a96fab62c7792d6643a6e9646f1)

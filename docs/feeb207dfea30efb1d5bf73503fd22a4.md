@@ -43,3 +43,4 @@ This article highlights how startups can use natural language processing (NLP) t
 * [Navigating the Brave New World of Generative AI](ed237776f4979a2104f62c4985fbeba8)
 * [The Dilemma of Revealing AI Cyborgs](c42a95f16678ed3834840d48f8e775a3)
 * [Businesses' Adoption of Generative AI](767b74c90576473294b2c47568c0e355)
+* [Large Language Models in OSINT Workflow](5cf4407dc6fa3889e047c658e27c4ccf)

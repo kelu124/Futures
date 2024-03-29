@@ -45,3 +45,4 @@ Deb Chachra, author of "How Infrastructure Works," explores the interplay betwee
 * [The Importance of Improving Construction Productivity](68cc2d738ed662aeee3670d8327d7d5f)
 * [Redesigning Architecture for Sustainability and Accountability](8138ea21b5288b813c73e1e5195aaedf)
 * [Reshaping the Tree: Rebuilding Organizations for AI](fd0f3b7a6783ba6a0fcd3a18c8241be5)
+* [Thinking in Systems: International Bestseller](63009855daa63864cb3d7175e7aa00ff)

@@ -43,3 +43,4 @@ The EU's proposed Cyber Resilience Act (CRA) aims to regulate software security 
 * [Open-Source AI Stakeholders Call for Protection of Open Source Innovation in EU AI Act](11bd695b887aa09dca79341f91ce6b82)
 * [Struggles of Open Source in Europe](d886a8c1c80456233091ce9a8ba59d31)
 * [Biden Administration Unveils Cybersecurity Strategy and Targets China as Major Threat](1eaefdcf11b24d5f443b5f4e7645e0a5)
+* [Peters and Portman Introduce Bipartisan Legislation to Help Secure Open Source Software](16272c1d533831db63a0ff3aa067f09e)

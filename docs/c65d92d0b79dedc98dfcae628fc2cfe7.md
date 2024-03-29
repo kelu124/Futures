@@ -43,3 +43,4 @@ The text discusses the concept of the Fundamental Process to Generate Living Sys
 * [Pace Layering: How Complex Systems Learn and Keep Learning](d8dac76e8ee03a934c18e53570b3a0f8)
 * [Thinking in Systems: International Bestseller](63009855daa63864cb3d7175e7aa00ff)
 * [Redesigning Architecture for Sustainability and Accountability](8138ea21b5288b813c73e1e5195aaedf)
+* [The Impact of AI on Art](cc1340400b9dfbf32bfc3d546cf0b7b3)

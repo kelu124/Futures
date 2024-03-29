@@ -46,3 +46,4 @@ The study highlights the underestimated risks of harvest failures in multiple gl
 * [Global Food Systems: Treating Food as a Human Right](c21f7a31bf1c99ef78e154ae4249e712)
 * [The Challenge of Finding a Safe Place in a Changing Climate](efa36dc9bd5ddc890866d4ab1e68e71f)
 * [Fungi: A Solution for Sustainable Food Production](0c58d382a0cacf288605a136bbcf69a3)
+* [The Deadly Impact of Rising Heat: A Silent Killer](710e9a3c41782fc31bfafc8ebb8f5996)

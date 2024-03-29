@@ -46,3 +46,4 @@ HydraUSB3 V1 is an open source developer kit for the WCH CH569 MCU that allows f
 * [Pi Pico Rx - A Modern Crystal Radio](1fd0845ff9239d74ce3f089d10cb2f61)
 * [Repurposing Old Phones for Personal Projects](40aa9f2abd08b4cefd81827111b64979)
 * [The Perfect Ultra-Low Power Digital Watch](5af9b5ebcf47c95c77fe4e896651a4dd)
+* [USB-C Cures Mosquito Bites!](3cb8326e849a8bb6f2013ae34d2d98a6)

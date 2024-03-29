@@ -50,3 +50,4 @@ This article discusses the concept of single-threaded leadership as a critical o
 * [Balancing Autonomy and Alignment with Accountability](2f9b0e015264ffb84681864aa348771a)
 * [Shattering the Illusion of Uniqueness Bias in Leadership](d58cdfa2239c4073bde09c04e7751eeb)
 * [Change Management in the AI Age: How to Sidestep Common Mistakes](7eff1fa6b2dda89fa9c1470272891080)
+* [The Complexity of Designing a Product](e7f06e98059e0e8ed4f95bb326e60e1c)

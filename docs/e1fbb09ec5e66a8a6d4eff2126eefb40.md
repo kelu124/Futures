@@ -46,3 +46,4 @@ This article discusses the vulnerability of AI algorithms to adversarial attacks
 * [Safety Concerns and Automated Attacks on Large Language Models](74c58b0ca359725b4a116ff765656c7c)
 * [The Threat of Misinformation: Society's Battle](9787333cafcd0252d71a9bff845ad093)
 * [The Menace of Deepfake Images](14889902198ab8b6f7991b108f6ebb02)
+* [Backdooring a summarizerbot to shape opinion](4d1abdf7e702b559c6ccff847ce4d8d0)

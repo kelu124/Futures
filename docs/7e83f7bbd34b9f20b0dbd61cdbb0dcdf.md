@@ -42,3 +42,4 @@ The Alaska Department of Fish and Game has made the unprecedented decision to ca
 * [Natural Sounds Take on Military Sonar](21724ff06f805efad0fe188ab899b1cc)
 * [Risks of Harvest Failures Underestimated](9bebaea9ed2c74b635c7ffbedc039556)
 * [Greenland's Melting Ice Sheet and the Potential for Sand Extraction](6c6a5e8d50e3045323cf202ba5b17ea9)
+* [The Challenge of Finding a Safe Place in a Changing Climate](efa36dc9bd5ddc890866d4ab1e68e71f)
