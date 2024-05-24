@@ -296,6 +296,7 @@ def createDB():
     df = pd.read_parquet('data/articles.parquet.gzip')
     df.columns = ["src","content","LEN"]
     df = df[(df.LEN > 1500) & (df.LEN < 30000)].reset_index(drop=True)
+    print(len(df),"articles of good lengths in the articles.partquet.gzip")
     titles = pd.read_parquet("data/titles.parquet.gzip")
     df = df.merge(titles, on="src",how="left")
     mt = pd.read_parquet("data/metatags.parquet.gzip")

@@ -39,4 +39,4 @@ In this text, the author describes their experience with lupus cerebritis, a sev
 * [The Ongoing Battle with Long Covid](c47cb1fe2b4ae786edcfe793f7c528c2)
 * [Bad software destroyed my doctor's memory](976f66dccf4086981111e810d0160229)
 * [Saving Time: Reshaping Temporality and Reclaiming Agency](047936a2b08c1b5dda3018bc98dc1d9b)
-* [Long-Term Effects of Covid: Findings and Uncertainties](b1b5f0564e486b3e1f123da956f6b1a6)
+* [The Power and Politics of Clock Time](f6bc84297f9b9816db5bfdf37c0ef870)

@@ -37,6 +37,6 @@ Scientists at Monash University have developed a computer chip called "DishBrain
 
 * [Cyborg computer with human brain cells](fe93f7419799d1706b4e7ce0a6adcb40)
 * [AI Unlocks Human Brain's Secrets](e43c70d1c8c34f4587722ef456132b41)
+* [Creating Physical Neural Networks for Efficient Computing](92fd13cc9ae2e437ede8175d350860ef)
+* [Mind-Reading Technologies: Opportunities and Concerns](95a515aafcc880230a55f57c5d902d3f)
 * [Ultrasonic Wireless 'Neural Dust' Sensors Monitor Nerves, Muscles in Real Time](feadfd4aa3133e938a6f6e6d7d2c018e)
-* [The Intelligence of Ecosystems and LLMs](607bce5ceffd29c4ba8997068ebde091)
-* [Revolutionizing Medical Technologies with Optrodes](7aeb03c0771769ceb99c3085c141c1fe)

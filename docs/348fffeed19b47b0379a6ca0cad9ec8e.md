@@ -47,4 +47,4 @@ This text provides information about the counting templates used in an app. The 
 * [The Art of Card Stunts](9316b88ba7800087e445370bfa1e3943)
 * [The Challenge of Rethinking the Supply Chain](fa27e27bdec01712d582ab0f61c95bac)
 * [Cookie Descriptions and Durations for Website Analytics and Payment](7717bf4adf361e8117bc88437c660273)
-* [AI, Imaging, Imagining 2024](de89ae90257007a4fbb1a5c7a7dc82a5)
+* [Introducing GPTs: Customize ChatGPT for Specific Purposes](f9b73418962acd66fb1ae29b21d7f943)

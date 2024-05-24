@@ -45,5 +45,5 @@ The US Department of Defense (DoD) has released an unclassified summary of its 2
 * [Biden Administration Unveils Cybersecurity Strategy and Targets China as Major Threat](1eaefdcf11b24d5f443b5f4e7645e0a5)
 * [Cybersecurity Job Market Faces Challenges Amidst Economic Uncertainty](0ab36af538bf262c85b73fa7e7bd657f)
 * [Army Struggles to Hire Cyber Security Experts Amidst Business Competition](9a34e1185220f0646d9672d1430ce579)
+* [Transforming U.S. Warfighting with Uncrewed Systems](df83d0064f88153a92b016bc412f6b97)
 * [The Growing Investment Opportunity in Cybersecurity](211803931bfabc324f12ad1524640ef1)
-* [Taiwanese Tech Tycoon Funds Cyber Defense Training for Potential Chinese Invasion](e99358609284de847f0d590948f5b265)

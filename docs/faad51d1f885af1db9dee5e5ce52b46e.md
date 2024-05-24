@@ -54,6 +54,6 @@ Recent progress in robotics and neuroscience has made extra robotic limbs a poss
 
 * [Revolutionary Prosthetic Provides Control and Comfort](90accf3ba55fb5e705bbaa47ad145c50)
 * [Revolutionizing Medical Technologies with Optrodes](7aeb03c0771769ceb99c3085c141c1fe)
+* [Mind-Reading Technologies: Opportunities and Concerns](95a515aafcc880230a55f57c5d902d3f)
 * [Ultrasonic Wireless 'Neural Dust' Sensors Monitor Nerves, Muscles in Real Time](feadfd4aa3133e938a6f6e6d7d2c018e)
-* [Computer Chip with Human Brain Tissue Receives Military Funding](fcf584bddde6a0c4ccaf5ab8eadded1e)
-* [AI Unlocks Human Brain's Secrets](e43c70d1c8c34f4587722ef456132b41)
+* [Research Robots Vulnerable to Hacking](a693f0b1a14e29b99b33845c23ed8561)
