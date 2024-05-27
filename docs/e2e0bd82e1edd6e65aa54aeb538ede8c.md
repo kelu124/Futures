@@ -45,4 +45,4 @@ The Ai-Pocket Field Guide is a digital artifact, inspired by the Pokedex, design
 * [The Age of AI: Opportunities and Responsibilities](8acafe1fbe51c2de3cd689956b25b39f)
 * [The Age of AI: Opportunities and Responsibilities](2449c2fc4b8afc7e268db4987fa821e5)
 * [AI and the Changing Landscape of Photography](447aaddba1b3b4ac319e14628e6ed8f2)
-* [AI, Imaging, Imagining 2024](de89ae90257007a4fbb1a5c7a7dc82a5)
+* [Two bots are better than one](f98dab2817789f549215229135f086d0)

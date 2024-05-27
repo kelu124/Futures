@@ -43,4 +43,4 @@ The text discusses Vicuna, the latest model developed by Meta AI, which matches 
 * [Meta releases next generation language models, Llama 3](68e7b200c5a0cca0bf92e4f1303a85a0)
 * [GPT4All: Local ChatGPT Simplification](280062047a4f4c0db1811e6ca41703d0)
 * [The Emergence of GPT-4 Class Models: Similarities, Differences, and Future Directions](9aebbe43e0bb54a691d261c20e7aa969)
-* [Mystery Surrounds New AI Chatbot, gpt2-chatbot](6564a1522e8fce1c80bc8c960150e6fe)
+* [Two bots are better than one](f98dab2817789f549215229135f086d0)

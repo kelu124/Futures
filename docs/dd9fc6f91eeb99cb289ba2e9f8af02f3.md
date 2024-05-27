@@ -42,6 +42,6 @@ Many toys and games come and go with passing trends, but some toys have endured 
 
 * [Vintage Tech: Keeping the Past Alive](2a98922fc3676ea6365782ce075cf589)
 * [The Potential of AI in Education: Transforming Learning and Play](adf886a1b9fd74281e0a43c3e7c70def)
-* [The Impact and Survival of Cassettes](2b5b0cbcc9edb7216b44b39acaa27f62)
+* [The Misunderstanding of Games as Passive Entertainment](5797ccbc5ac9da0ec2936ac35930f2c5)
 * [The Over-Simulation Problem in Engineering](378adae519eda1077ca6e628e3f706df)
 * [Rethinking Wargames for Conflict Resolution](290b39e08f51973a22385822003f38c2)

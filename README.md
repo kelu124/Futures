@@ -3,7 +3,7 @@ Texts from scraping
 
 
 
-# COSTS as per 17 mars 2023
+# COSTS as per 17 mars 2024
 
 For our models with 128k context lengths (e.g. gpt-4-1106-preview and gpt-4-1106-vision-preview), the price is:
 
