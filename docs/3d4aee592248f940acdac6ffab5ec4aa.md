@@ -43,5 +43,5 @@ Amazon Care, the virtual healthcare program by Amazon, has partnered with mental
 * [Amazon Clinic: Virtual Care for Common Health Conditions](22d0934658c9fc05be2fd8ded3007cf4)
 * [Amazon Plans to Turn Deceased Loved Ones' Voices into Digital Assistants](316c2bc07bdae32ea05595973043b766)
 * [Amazon's Spy Appliances: A Surveillance Nightmare](6fb6587422619556f83c26b5b4386948)
+* [Amazon Cuts Jobs in Alexa Division to Prioritize Artificial Intelligence](cc6c5f896ede1e347ecb6f17b9c5b770)
 * [The Rise of Luxury Surveillance](382ab5700ea4e7c189a438c6e024ef18)
-* [The Rise of PSYCARE in Beauty](b396d58ff64cbfdfe136c278b263ee5a)

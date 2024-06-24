@@ -43,4 +43,4 @@ Google has announced the discontinuation of Google Jamboard, a digital whiteboar
 * [Vintage Tech: Keeping the Past Alive](2a98922fc3676ea6365782ce075cf589)
 * [The Beauty of Chalk](090645d9a28b97c7fcb9dff3174e9ab8)
 * [The Power of the Blackboard](36a34265510934a9a13e8d5a1bc8f42e)
-* [Microsoft's GitHub Copilot Exceeds $100 Million in Annual Revenue](7e5c1ed5c33c7dbc323cd0264cc94099)
+* [The Rise of AI in the Workplace: Transforming Work and Shaping the Labor Market](cdb77fee7b2001c995ad4a078b38eb36)

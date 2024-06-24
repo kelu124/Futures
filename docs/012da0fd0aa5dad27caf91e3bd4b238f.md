@@ -44,5 +44,5 @@ The Cybathlon is a unique championship that allows individuals with disabilities
 * [ANSSI Launches Hackropole: Cybersecurity Challenge Platform](3e09d24de02da3d269252fd763a313d5)
 * [How AI is changing gymnastics judging](08b675e74dab24947fbdfb569c56d66b)
 * [Chaos Computer Club Announces 37th Chaos Communication Congress (37C3)](bcff5643d6572db7c8c9d2bffc215812)
-* [The Future of Cognitive Work: AI and the Cyborg Profile](a54883b1db1c3c4f1b212b77117f3f8c)
-* [Handbook Provides Insights on Digital Regulation](a38960ed1dcfd200d74ebd16e92e4151)
+* [Robots Dream of Root Shells](fcecc286a32d931f1abf882fa737bf9c)
+* [Robotic 'Third Thumb' Expands Hand's Range of Motion, Carrying Capacity](7718baede32403f5a59ce5254e61c010)

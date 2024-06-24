@@ -38,5 +38,5 @@ This article discusses an alternative photographic printing technique called chl
 * [How to Make Salt Prints](372b5ce1e2281acd9551f455a20b7889)
 * [DIY Anthotype Printing Using Turmeric](45dbee915ba56fe3791c4a244f491747)
 * [Harvesting Electricity from Plants: A Sustainable Breakthrough](b84bf2742e851da35bfd23220e697b3c)
+* [Innovative Bioelectronic Fibres for Adaptive Sensor Printing](0370fcd11fe23fc06dd8784115da238b)
 * [Revolutionary Light and Cool Structural Paint](a6bfcabefea560d7dfefd5aab87f047c)
-* [New 'Liquid Trees' Divide the Internet](b8164554d14e302dac8ca428de8376dd)

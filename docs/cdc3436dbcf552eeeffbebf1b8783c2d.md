@@ -45,5 +45,5 @@ Professor Brian David Johnson uses science fiction prototyping as a tool to mode
 * [Designing the Future through Science Fiction](a438591373b3ce215c807a83c53eabe3)
 * [Designing the Future Through Science Fiction](5d2fec6b3cc04645c92e73267da0f7d9)
 * [The Importance of Science Fiction](8ebb431ce8d949d5a1ecb52bbd42a69f)
+* [The Power of Fiction in Shaping AI's Future](026067bce7eb8accee127cf0cac4dfa5)
 * [Design Fiction: Shaping the Future Together](2cf1013e081e23da2df7d425ef84bd2a)
-* [Imagineering A Better Future](c8574c3fabcddaff47072c5b93a50476)
