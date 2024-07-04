@@ -46,4 +46,4 @@ The study highlights the underestimated risks of harvest failures in multiple gl
 * [Global Food Systems: Treating Food as a Human Right](c21f7a31bf1c99ef78e154ae4249e712)
 * [The Challenge of Finding a Safe Place in a Changing Climate](efa36dc9bd5ddc890866d4ab1e68e71f)
 * [Fungi: A Solution for Sustainable Food Production](0c58d382a0cacf288605a136bbcf69a3)
-* [Global Foresight: Experts Predict a Pessimistic Decade Ahead](7c5704fc7ced135231421044eed7ec4b)
+* [Global Foresight: Experts Predict a Pessimistic Decade Ahead](4c1d4c91735e960e46ac534d9a90fc60)
