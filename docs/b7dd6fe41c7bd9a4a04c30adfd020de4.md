@@ -48,4 +48,4 @@ New AI tools are allowing people to have interactive conversations with their de
 * [Amazon Plans to Turn Deceased Loved Ones' Voices into Digital Assistants](316c2bc07bdae32ea05595973043b766)
 * [AI Connects Cartoonist with Deceased Grandfather](671d185f0e81893e18bdb04993e7d1c7)
 * [Alexa Voice Assistant Replicates Human Voices](95a21e5407df1f9dfe1f323e5a827e94)
-* [AI Voice Simulators Enable Scammers to Exploit Vulnerable Individuals](0a49a5c0770b63ff41a4b19b66e478b1)
+* [Connecting with Your Future Self through Chatbots](65cf4789fa6df6abeb1b059b62894622)

@@ -44,5 +44,5 @@ In order to increase our chances of encountering good luck, we can increase the 
 * [Developing Curiosity and Finding Interesting Ideas](4b827b6a0c41e87019713723ad04efce)
 * [Developing a Fun Mindset: The Key to Attracting Fun](91a89306cd8e0d3a05a468796e941420)
 * [Developing a Fun Mindset: The Key to Attracting Fun](bc734fd4bd996e68c387249bbc4d33e2)
-* [Embracing Chaos: Thriving in Uncertain Times](7456d661e6f006d09a3f10e8790588d0)
 * [Learn In Public](037aba804501ec9f75f8bb434b8a6c20)
+* [How to Choose Your Life Pursuits](7632526d8354e59e27adb52bd988d1aa)

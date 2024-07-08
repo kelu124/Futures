@@ -43,4 +43,4 @@ Last Saturday, a $150 million U.S. Air Force F-22 Raptor shot down a small unide
 * [Army Plans Drone Swarms from High-Altitude Balloons](4d4f8bb17a5a7e5a852786591e70ffc8)
 * [Selfie Reveals Location of China's Alleged Spy Balloon](f5bc316f1ab2ef2669f76e3f5212b863)
 * [Israel's Arrow missile defense system intercepts ballistic missile from Houthi rebels](dfc7ce150fa3c7f91ae6b846623df7f2)
-* [Drones Clash: Ukrainian Quadcopters Destroy Russian Ground Robots](e1c2bc61b45e6587c4cc278532416665)
+* [Milestone: U.S. Army Deploys Laser Weapon to Blast Enemy Drones](9ede94d7b77e4a5a6316ba0271d5f561)
