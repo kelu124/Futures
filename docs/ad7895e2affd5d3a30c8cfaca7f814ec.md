@@ -38,5 +38,5 @@ The OpenTitan coalition has announced the first commercial silicon chip that inc
 * [YouTube's Custom Video Chip Revolution](5d8b4aa6d5d8d086044fd9d1a00c270f)
 * [Researchers Uncover Backdoor in Encrypted Radios Used by Police and Military](841546c0efc4c82f0aabc545a47a09e1)
 * [Complexity and Insecurity in Computer Systems](fba2096cec7c08fe7c05d259b29dd5d9)
-* [Microsoft Infrastructure - AI & CPU Custom Silicon Maia 100, Athena, Cobalt 100](24aadf092d9562a187d8210d9190a34f)
 * [Chipiron: Portable Mini-MRI Revolutionizing Healthcare](f99fa5e02647a517b709d5b44f85fd5c)
+* [Light-based chip: China's Taichi could power artificial general intelligence](1aec7cb8723d807f5486e963a0eb6337)

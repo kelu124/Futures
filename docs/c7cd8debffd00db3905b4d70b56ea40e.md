@@ -37,6 +37,6 @@ In this text, the author describes their experience with lupus cerebritis, a sev
 
 * [Long COVID and Disability Rates](0248f1b6d72f8bb9c984f24db0569a3f)
 * [The Ongoing Battle with Long Covid](c47cb1fe2b4ae786edcfe793f7c528c2)
+* [Night Owls Have Sharper Brains](102e2ef3c861d877ee2b36b56c606e91)
 * [Bad software destroyed my doctor's memory](976f66dccf4086981111e810d0160229)
 * [Saving Time: Reshaping Temporality and Reclaiming Agency](047936a2b08c1b5dda3018bc98dc1d9b)
-* [The Power and Politics of Clock Time](f6bc84297f9b9816db5bfdf37c0ef870)

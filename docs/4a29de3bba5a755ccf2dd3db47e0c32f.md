@@ -43,6 +43,6 @@ Deb Chachra, author of "How Infrastructure Works," explores the interplay betwee
 
 * [The Age of Apocalyptic Infrastructure](177a0857ffe0d07d48cd99a269f28a02)
 * [Against Optimization: Embracing Resilience in a Changing Environment](0362ad6b5f22e9f1a7f14a4b08987bc0)
+* [Trees As Infrastructure: Transitioning Toward Resilient Urban Forest Management](34fb411b34c997f52f550d855c864865)
 * [The Importance of Improving Construction Productivity](68cc2d738ed662aeee3670d8327d7d5f)
 * [Redesigning Architecture for Sustainability and Accountability](8138ea21b5288b813c73e1e5195aaedf)
-* [Reshaping the Tree: Rebuilding Organizations for AI](fd0f3b7a6783ba6a0fcd3a18c8241be5)

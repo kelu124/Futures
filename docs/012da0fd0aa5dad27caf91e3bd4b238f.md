@@ -45,4 +45,4 @@ The Cybathlon is a unique championship that allows individuals with disabilities
 * [How AI is changing gymnastics judging](08b675e74dab24947fbdfb569c56d66b)
 * [Chaos Computer Club Announces 37th Chaos Communication Congress (37C3)](bcff5643d6572db7c8c9d2bffc215812)
 * [The Future of Cognitive Work: AI and the Cyborg Profile](a54883b1db1c3c4f1b212b77117f3f8c)
-* [Handbook Provides Insights on Digital Regulation](a38960ed1dcfd200d74ebd16e92e4151)
+* [BassBath: Promoting Inclusivity in Shanghai's Nightlife](91b3148fa003a09ac03bf533e5ec0641)

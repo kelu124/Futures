@@ -44,7 +44,7 @@ This text provides information about the counting templates used in an app. The 
 ## Closest
 
 * [Information Collection and Cookie Usage](a33c07b3f96448f9af29b9e59a080b73)
-* [Technology and Children’s Well-Being in Danish Schools](17ac55c1f87675e075557fa4fa5ba14e)
 * [The Art of Card Stunts](9316b88ba7800087e445370bfa1e3943)
 * [The Challenge of Rethinking the Supply Chain](fa27e27bdec01712d582ab0f61c95bac)
 * [Cookie Descriptions and Durations for Website Analytics and Payment](7717bf4adf361e8117bc88437c660273)
+* [Teaching Digital Literacy in Kindergarten](ad15fbe04bbe50ec3436c61403d19fca)

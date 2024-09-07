@@ -41,5 +41,5 @@ The Alaska Department of Fish and Game has made the unprecedented decision to ca
 * [Ice Sheets Can Collapse into the Ocean 20 Times Faster Than Previously Recorded](51454f287fe64d86a637a198464dcb7b)
 * [Natural Sounds Take on Military Sonar](21724ff06f805efad0fe188ab899b1cc)
 * [Fighting the Chytrid Fungus: Frog Saunas Offer Hope](f3c20a5c78f90bb41fdbb9a1512eb211)
+* [Beach Birds Fight Back Against Police Drones in NYC](86ea49a6a7f6e3c63190508eff2d8945)
 * [Risks of Harvest Failures Underestimated](9bebaea9ed2c74b635c7ffbedc039556)
-* [Greenland's Melting Ice Sheet and the Potential for Sand Extraction](6c6a5e8d50e3045323cf202ba5b17ea9)

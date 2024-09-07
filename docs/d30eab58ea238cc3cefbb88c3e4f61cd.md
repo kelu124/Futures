@@ -41,8 +41,8 @@ In India, a 24-year-old woman named Kshama Bindu made headlines after marrying h
 
 ## Closest
 
+* [The Decline of Marriage and its Impact on American Society](7bba3b8d86e60b61318296779a9020c3)
 * [Japan's Letter-Writing Matchmaking Scheme](ec9cf2ccb630113e57cfdd18230f129a)
 * [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
+* [Bumble Founder Suggests AI Dating Future](e4c05fa0d5dacdd8fbb7f4e0b70a32a0)
 * [Tulpamancy: Creating Autonomous Mental Entities](56f93e34024f9bf044f570856f99590f)
-* [Our Technology Sickness—and How to Heal It](c1bb890337ef382bfaa5720c9fd05134)
-* [A Life of One's Own: Self-Possession, Mindful Perception, and Knowing What You Want](c6edc507c66b1ec2ce7ccd9e6361c112)

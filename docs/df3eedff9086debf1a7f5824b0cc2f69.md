@@ -43,4 +43,4 @@ Eat Just, a foodtech company, is considered a pioneer in the alternative protein
 * [The Uncertain Future of Vertical Farming and the Impact of Cars on Urban Development](ef74de2ae50dd0f311346505df7068c3)
 * [Startup Raises $11m to Develop Plastic-Eating Enzymes](d2a5e5d3dad76d8880d6d322b26a8ab9)
 * [Transforming Agriculture: Agtech Trends and Greek Startups](6b4817fc4f138ec8a276f6048589e9c0)
-* [The Ethical Challenges of AI in Animal Farming](7aa357540401ea845962adbd36627a80)
+* [The Death Cheaters: Inside the World of Biohackers and Longevity Seekers](1877ad2c0ed4b7803dde21574102284a)

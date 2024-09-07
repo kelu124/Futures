@@ -41,8 +41,8 @@ The world's first human trial of a tooth-regrowing drug will begin in September 
 
 ## Closest
 
+* ['Supermodel granny' drug extends life in animals](17a5cfb6b6173750c7fed952770cb29a)
 * [Lifelike Robotic Skin Created Using Human Cells](3d1407b18f3172e808b79052d38c76de)
 * [Cross-Kingdom Partnership Creates Superorganism](2af3e931e394e21223d8e983e2dd43b7)
 * [Revolutionary Prosthetic Provides Control and Comfort](90accf3ba55fb5e705bbaa47ad145c50)
 * [Xenotransplants: A Solution to the Organ Shortage Crisis](7d8c56d6e0991c4df704374e4bd6f6ec)
-* [The Discovery of Rapamycin: A Life-Saving Wonder Drug](d2f6f44b2ec2806fd1695aa4450cd9ee)

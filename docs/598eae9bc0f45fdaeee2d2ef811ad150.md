@@ -118,8 +118,8 @@ Nvidia's stock rose nearly 30% after announcing its first-quarter financial resu
 
 ## Closest
 
+* [AI's $600B Question](98acd0f84df042843341ecfc66b2d312)
 * [U.S. Tech Giants Thrive Amid AI Hype](a328ee420f076da0f50be7c705cf32a4)
 * [Nvidia Chief Technology Officer: Cryptocurrencies Bring No Value to Society](07715b9a363b2fb7f1368bfadad78052)
 * [Chinese Tech Giants Go All-In on Nvidia's HPC Products](b4cc7b5ac1c99e45eb6fc1f733189405)
 * [Microsoft Becomes Second Company to Reach $3 Trillion Market Cap](b857e9e80c66cf4ca187166ad92ec443)
-* [US Restricts Nvidia GPU Sales to Thwart China's AI Development](b79a2baa87b68283198416791b93bce4)

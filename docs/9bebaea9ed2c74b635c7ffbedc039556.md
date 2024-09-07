@@ -44,6 +44,6 @@ The study highlights the underestimated risks of harvest failures in multiple gl
 
 * [Clues from Satellites on Global Harvest](b99e8d470f4bd969ae5ec423c534eeee)
 * [Global Food Systems: Treating Food as a Human Right](c21f7a31bf1c99ef78e154ae4249e712)
+* [Climate Change's Cascading Consequences: Everything Change](7f30f2f7549b14f00211791717a8a342)
 * [The Challenge of Finding a Safe Place in a Changing Climate](efa36dc9bd5ddc890866d4ab1e68e71f)
-* [Fungi: A Solution for Sustainable Food Production](0c58d382a0cacf288605a136bbcf69a3)
-* [Global Foresight: Experts Predict a Pessimistic Decade Ahead](7c5704fc7ced135231421044eed7ec4b)
+* [Climate Change Increasing Wildfire Risk](685e1aa9e1db8a94a4bb04cd27a1db86)

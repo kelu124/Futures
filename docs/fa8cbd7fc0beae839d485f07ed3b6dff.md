@@ -45,5 +45,5 @@ This text explores the themes of lithium, digital space, and mental health. It d
 * [Our Technology Sickness—and How to Heal It](c1bb890337ef382bfaa5720c9fd05134)
 * [Psychonauts: Drugs and the Making of the Modern Mind](46b83c5dfd8f27c0bb2335917e2f5a1f)
 * [Psychonauts: A History of Drug Exploration](9f63fa720db53d39066cead1fabeb6df)
+* [Maintaining Mental Hygiene as an Open Source Researcher](ed4473b3a0fa1513b565081d8773b33e)
 * [Building a Inclusive Digital World](8115a7120c6b8a58c853c504e0d0ab75)
-* [The Categorization Conundrum of Psychedelics](13d07c8b2cd28b1d14da1f2b37f956f4)

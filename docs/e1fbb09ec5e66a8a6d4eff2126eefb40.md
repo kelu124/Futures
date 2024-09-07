@@ -44,6 +44,6 @@ This article discusses the vulnerability of AI algorithms to adversarial attacks
 
 * [The Glitchy, Spammy, Scammy AI-Powered Internet](b30a4282af9e53ca673438a8223d9525)
 * [The Threat of Misinformation: Society's Battle](9787333cafcd0252d71a9bff845ad093)
-* [The Menace of Deepfake Images](14889902198ab8b6f7991b108f6ebb02)
 * [Backdooring a summarizerbot to shape opinion](4d1abdf7e702b559c6ccff847ce4d8d0)
 * [The Dilemma of Revealing AI Cyborgs](c42a95f16678ed3834840d48f8e775a3)
+* [The Threat of AI-Powered Mass Spying](63d7953ba75cf8b2b87f70ff0775f6b3)

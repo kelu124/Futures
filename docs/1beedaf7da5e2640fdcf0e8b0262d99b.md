@@ -42,6 +42,6 @@ This text provides information about the data collected by the Future You tool a
 
 * [Connecting with Your Future Self through Chatbots](65cf4789fa6df6abeb1b059b62894622)
 * [Array of Toolkits for Future Studies](1627c349466b12746bafae14c5c576eb)
-* [Calibrating Experiences of the Future](60ca937aa44bdaf31b5128e3b4f01fe9)
 * [Strategic Foresight: Anticipating and Adapting to the Future](40a99c098bad8dda821b757d8d88a80a)
 * [Navigating the Brave New World of Generative AI](ed237776f4979a2104f62c4985fbeba8)
+* [The Power and Perils of Online Profiles](f1d82c77bab293b0974aa46784ef1984)
