@@ -197,15 +197,15 @@ def createSeeds():
         #print(row.file_name)
         if ix < 100000:
             if not os.path.isfile(CACHE1):
-                table = h.ask(STEP1,txt,src="localSeedsStep1")
+                table = h.ask(STEP1,txt,src="localSeedsStep1",v="gpt-4o-mini")
                 with open(CACHE1, 'w', encoding='utf-8') as f:
                     f.write(table)
             if not os.path.isfile(CACHE2):
-                table = h.ask(STEP2,txt,src="localSeedsStep2")
+                table = h.ask(STEP2,txt,src="localSeedsStep2",v="gpt-4o-mini")
                 with open(CACHE2, 'w', encoding='utf-8') as f:
                     f.write(table)
             if not os.path.isfile(CACHE3):
-                table = h.ask(STEP3,txt,src="localSeedsStep3")
+                table = h.ask(STEP3,txt,src="localSeedsStep3",v="gpt-4o-mini")
                 with open(CACHE3, 'w', encoding='utf-8') as f:
                     f.write(table)       
 
@@ -455,7 +455,7 @@ def createPages_metaUse(df, signals):
             ax[row["src"]] = {}
             if row["src"] not in ax.keys():
                 PROMPT = "You are given a text below. You need to pick the five most relevant themes of this text from the list of keywords below:\n\n* "+"\n*".join(ALL)+"\n\n\nAnswer only with 3 items of this list, separated by commas"
-                ANS =  h.ask(PROMPT,row["summary"],src="tag",v="gpt-3.5-turbo")
+                ANS =  h.ask(PROMPT,row["summary"],src="tag",v="gpt-4o-mini")
                 LST = [x.strip() for x in ANS.split(",") if x.strip() in ALL]
                 ax[row["src"]] = LST
                 for x in LST:
