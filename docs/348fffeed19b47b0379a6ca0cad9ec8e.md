@@ -43,8 +43,8 @@ This text provides information about the counting templates used in an app. The 
 
 ## Closest
 
-* [Information Collection and Cookie Usage](a33c07b3f96448f9af29b9e59a080b73)
-* [The Art of Card Stunts](9316b88ba7800087e445370bfa1e3943)
-* [The Challenge of Rethinking the Supply Chain](fa27e27bdec01712d582ab0f61c95bac)
-* [Cookie Descriptions and Durations for Website Analytics and Payment](7717bf4adf361e8117bc88437c660273)
+* [Google Revolutionizes Consumer Image Capture](a60e6bcdb17f08219630a0dfff0760f9)
 * [Teaching Digital Literacy in Kindergarten](ad15fbe04bbe50ec3436c61403d19fca)
+* [The Rise of AI: Replacing Humans](048217ea507fedd0b8205ec892c6986b)
+* [The Rise of Digital Transformation and AI in Government Efficiency and Productivity](3f295c6c0c9af1ecd24bfa22b6ef6b47)
+* [AI, Imaging, Imagining 2024](de89ae90257007a4fbb1a5c7a7dc82a5)

@@ -39,7 +39,7 @@ The USS Yorktown incident, which occurred on 21 September 1997, highlights the i
 ## Closest
 
 * [Bad software destroyed my doctor's memory](976f66dccf4086981111e810d0160229)
-* [Unpredictable AI: When Machines Outsmart Humans](48f89d6d7e552a0a5b1f6b59d7eeb0e9)
-* [Ironies of Automation: The Paradox of Increasing Dependence on Skilled Operators](6a67048dd9edce24a136022c6ce0c2eb)
+* [LLM Kryptonite – and the Ignored Bug](ee99edefa47ee27dd9a542883d01ba46)
 * [Vintage Tech: Keeping the Past Alive](2a98922fc3676ea6365782ce075cf589)
+* [Transforming U.S. Warfighting with Uncrewed Systems](df83d0064f88153a92b016bc412f6b97)
 * [Complexity and Insecurity in Computer Systems](fba2096cec7c08fe7c05d259b29dd5d9)

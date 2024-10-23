@@ -43,6 +43,6 @@ Public consultations are crucial for the policymaking process, but analyzing the
 
 * [The Rise of Digital Transformation and AI in Government Efficiency and Productivity](3f295c6c0c9af1ecd24bfa22b6ef6b47)
 * [Maximizing AI Adoption in Government Services](953521f099a7344b89a76fbdefbbc71c)
+* [AI Transparency in Government Initiatives](4dfbcd63db7ee3f5da2f9ecc8eaf2ed0)
 * [CNIL Supports 8 Innovative AI Projects for Public Services](8c1236cbcdf34f8d0c8db7ab0fd1b0ad)
 * [The Rapid Rise of AI in Consulting](b99998b008db6c50ad9a32ca4554daf4)
-* [Citizens Advice and i.AI Collaborate on AI Copilot Caddy to Support Customer Service Advisors](37e286069428dbdc55804330fec0d734)

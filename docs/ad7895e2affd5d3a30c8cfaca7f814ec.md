@@ -35,8 +35,8 @@ The OpenTitan coalition has announced the first commercial silicon chip that inc
 
 ## Closest
 
+* [Breakthrough in Flexible Microprocessor Technology](a4e006bf91f0a903f2362490ce71c7dd)
 * [YouTube's Custom Video Chip Revolution](5d8b4aa6d5d8d086044fd9d1a00c270f)
+* [White House Focuses on Open Source Security](925e58163f39d747785e0e85eeea0f25)
 * [Researchers Uncover Backdoor in Encrypted Radios Used by Police and Military](841546c0efc4c82f0aabc545a47a09e1)
 * [Complexity and Insecurity in Computer Systems](fba2096cec7c08fe7c05d259b29dd5d9)
-* [Chipiron: Portable Mini-MRI Revolutionizing Healthcare](f99fa5e02647a517b709d5b44f85fd5c)
-* [Light-based chip: China's Taichi could power artificial general intelligence](1aec7cb8723d807f5486e963a0eb6337)

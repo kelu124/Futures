@@ -39,7 +39,7 @@ Debashis Chanda and his team at the University of Central Florida have developed
 ## Closest
 
 * [Ultra-White Paint: Cooling Airplanes and Spacecraft](8e1b3608f46c809be3c61538048824a8)
+* [Solar Energy Innovation Revolutionizes Power Generation](121994a09192673002c6987ca6b78f77)
 * [Thermoformable Ceramics: A New Frontier in Materials](bd35b1587de303b44a62d0e99fb749fc)
 * [Researchers Develop New Source of Quantum Light](059bc68ff6f1a35906ae3e976a00c335)
 * [New Powder Uses Sunlight to Disinfect Water](0531e1f77a3339cc11432d7601f9c7a4)
-* [Google DeepMind Discovers 2.2 Million Crystal Structures Through AI](115b59fc3f0d7b148482545adb1a8038)

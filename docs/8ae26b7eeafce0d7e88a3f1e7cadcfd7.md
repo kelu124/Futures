@@ -44,4 +44,4 @@ Belgium has introduced a national safe harbor framework for ethical hackers, mak
 * [Hackers-for-Hire Targeting Law Firms](86eed7596de75b410b471fb8618f4be3)
 * [Biden Administration Unveils Cybersecurity Strategy and Targets China as Major Threat](1eaefdcf11b24d5f443b5f4e7645e0a5)
 * [EU Approves New Data Transfer Deal with the US, Ending Legal Limbo for Tech Giants](bef6f36725097d0c16289eca2eb18df4)
-* [Exploring the Cyber Resilience Act in Europe](7cb0f70e7d0873d8ccb01acaf9bf302e)
+* [Switzerland's Bold Move on Open Source](04a4d0fc7fec92a16d9cc273f823e2af)

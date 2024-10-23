@@ -39,4 +39,4 @@ In this text, the author describes their experience with lupus cerebritis, a sev
 * [The Ongoing Battle with Long Covid](c47cb1fe2b4ae786edcfe793f7c528c2)
 * [Night Owls Have Sharper Brains](102e2ef3c861d877ee2b36b56c606e91)
 * [Bad software destroyed my doctor's memory](976f66dccf4086981111e810d0160229)
-* [Saving Time: Reshaping Temporality and Reclaiming Agency](047936a2b08c1b5dda3018bc98dc1d9b)
+* [Alzheimer's Links Found in Long COVID](0e90069de9e9a8638056fc2ab84e7f17)

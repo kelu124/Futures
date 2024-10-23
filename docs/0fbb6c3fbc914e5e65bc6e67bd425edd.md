@@ -42,8 +42,8 @@ HydraUSB3 V1 is an open source developer kit for the WCH CH569 MCU that allows f
 
 ## Closest
 
+* [Exploring NuttX on Seeed Studio RP2040](39532d05c33e664e2315dbb6b20006b2)
 * [Kilsyth: ECP5 FPGA + FT60x FIFO](076f9b6d6122fb2ac7933c60cf1e7dbc)
+* [Breakthrough in Flexible Microprocessor Technology](a4e006bf91f0a903f2362490ce71c7dd)
 * [Pi Pico Rx - A Modern Crystal Radio](1fd0845ff9239d74ce3f089d10cb2f61)
 * [OpenTitan Announces First Commercial Silicon Chip with Built-in Open-Source Hardware Security](ad7895e2affd5d3a30c8cfaca7f814ec)
-* [Repurposing Old Phones for Personal Projects](40aa9f2abd08b4cefd81827111b64979)
-* [The Perfect Ultra-Low Power Digital Watch](5af9b5ebcf47c95c77fe4e896651a4dd)

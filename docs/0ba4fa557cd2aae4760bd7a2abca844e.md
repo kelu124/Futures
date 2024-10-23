@@ -47,6 +47,6 @@ The text discusses the author's perspective on technological innovation, particu
 
 * [The Impact of AI on Society](87709d0e31dee725ec1f54b7f4facbc4)
 * [Embracing the AI Age: Thriving Amidst Change](23a3410059759ba4214235628d4ebd4b)
-* [The Problem With AI and Capitalism](cc3c2afb44e50f74152fd58c92f5b418)
 * [The Dilemma of Revealing AI Cyborgs](c42a95f16678ed3834840d48f8e775a3)
-* [The Age of AI: Opportunities and Responsibilities](8acafe1fbe51c2de3cd689956b25b39f)
+* [The Problem With AI and Capitalism](cc3c2afb44e50f74152fd58c92f5b418)
+* [The Power of Fiction in Shaping AI's Future](026067bce7eb8accee127cf0cac4dfa5)

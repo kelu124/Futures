@@ -44,4 +44,4 @@ Leica has launched the M11-P, the first camera in the world to have built-in con
 * [OpenAI's DALL-E 3 Implements Watermarks for Content Provenance](1bcd97057549477b1985b5965b78ab43)
 * [AI and the Changing Landscape of Photography](447aaddba1b3b4ac319e14628e6ed8f2)
 * [Reinvigorating Vintage Analog Cameras with a 20MP Sensor](f7b3a19af28d70bf1f74f5d17c496c39)
-* [The Cameras-Everywhere Culture: A Science Fiction Reality](7790ecd5c227bae024a54ac5725ac978)
+* [Google Revolutionizes Consumer Image Capture](a60e6bcdb17f08219630a0dfff0760f9)

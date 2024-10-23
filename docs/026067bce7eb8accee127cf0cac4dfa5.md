@@ -36,7 +36,7 @@ The Future of Life Institute has been advocating for human welfare in discussion
 ## Closest
 
 * [The Impact of AI on Society](87709d0e31dee725ec1f54b7f4facbc4)
+* [AI's Role in Human Evolution](8893f2e58b95e1993a5f8a1af090eedd)
 * [Embracing the AI Age: Thriving Amidst Change](23a3410059759ba4214235628d4ebd4b)
 * [AI 2041: Shaping Our Collective Future](1621aeb7941f2df0feefc2de14851249)
 * [The Misleading Myth of Artificial Intelligence](15c812523685076326204f061bf025cd)
-* [The Impact of AI on Society: Part 1](cf119665e47c7434e3e3c54dbbc585e3)

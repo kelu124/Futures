@@ -36,7 +36,7 @@ This text is promoting a social event called "Hello Stranger" where strangers ca
 ## Closest
 
 * [Embracing the Solo Diner: Making Dining Alone a Memorable Experience](387cc7d6dcac314087dfc35f2091b410)
-* [Dutch Soup Brand Launches Chat Baskets to Combat Loneliness](d73cef2dc5d458ba6b4a61dff2997181)
 * [The Radical Power of Hanging Out](edbb7336dfb26098bcc966ca17c074b9)
 * [Greeting Neighbors Linked to Higher Wellbeing](d16e5657697812f4271d7ff1d18fd874)
 * [A Proposal for a Letter Circle](e0dd77b135a529ee920c59b0fc1e1059)
+* [Embracing Unconventional Life Paths](8a01dfcc1e72828381a84487c32bd572)

@@ -49,5 +49,5 @@ This article discusses the concept of single-threaded leadership as a critical o
 * [Reshaping the Tree: Rebuilding Organizations for AI](fd0f3b7a6783ba6a0fcd3a18c8241be5)
 * [Balancing Autonomy and Alignment with Accountability](2f9b0e015264ffb84681864aa348771a)
 * [Shattering the Illusion of Uniqueness Bias in Leadership](d58cdfa2239c4073bde09c04e7751eeb)
-* [Change Management in the AI Age: How to Sidestep Common Mistakes](7eff1fa6b2dda89fa9c1470272891080)
-* [The Complexity of Designing a Product](e7f06e98059e0e8ed4f95bb326e60e1c)
+* [Strategies for Lean Problem Solving](c47a1d430cd80c828275e1eb5f5fbdc5)
+* [AI's Impact on Organizational Structures](fe6a32f4a3def00b40a187cec64fec72)

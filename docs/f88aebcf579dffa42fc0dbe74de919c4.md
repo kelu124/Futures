@@ -44,6 +44,6 @@ The US Department of Defense (DoD) has released an unclassified summary of its 2
 
 * [Biden Administration Unveils Cybersecurity Strategy and Targets China as Major Threat](1eaefdcf11b24d5f443b5f4e7645e0a5)
 * [Cyber Force Proposal to Resurface in House Defense Bill Debate](a5a2a0309c17b7d7d88eb53b29e5ebd9)
+* [White House Focuses on Open Source Security](925e58163f39d747785e0e85eeea0f25)
 * [Cybersecurity Job Market Faces Challenges Amidst Economic Uncertainty](0ab36af538bf262c85b73fa7e7bd657f)
 * [Army Struggles to Hire Cyber Security Experts Amidst Business Competition](9a34e1185220f0646d9672d1430ce579)
-* [Transforming U.S. Warfighting with Uncrewed Systems](df83d0064f88153a92b016bc412f6b97)

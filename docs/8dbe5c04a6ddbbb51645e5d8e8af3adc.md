@@ -49,4 +49,4 @@ LangChain is an open-source framework built to help developers build LLM-powered
 * [LangChain Library Adds Neo4j Vector Index Support](f6bc0876eba844318faae06b030904a5)
 * [LangChain Adds Cypher Search for Efficient Information Retrieval from Neo4j](f43094a456dc947dabd541b510f86856)
 * [Conversations with LangChain for Lead Qualification](7b8894cb47253aad29a4567e669af028)
-* [Understanding the LLM Agent Orchestration](62a60fa0c519e5d7d0b4e480f231f163)
+* [Limitations of LLMs and Overcoming Them](9fd8c7460fe2d17a54694de66ebd64ca)

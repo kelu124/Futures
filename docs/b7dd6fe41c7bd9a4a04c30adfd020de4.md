@@ -44,8 +44,8 @@ New AI tools are allowing people to have interactive conversations with their de
 
 ## Closest
 
+* [The Creepy Digital Afterlife Industry](b3bf37e3b59a56380f056d4a3df78395)
 * [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
 * [Amazon Plans to Turn Deceased Loved Ones' Voices into Digital Assistants](316c2bc07bdae32ea05595973043b766)
 * [AI Connects Cartoonist with Deceased Grandfather](671d185f0e81893e18bdb04993e7d1c7)
 * [Alexa Voice Assistant Replicates Human Voices](95a21e5407df1f9dfe1f323e5a827e94)
-* [Connecting with Your Future Self through Chatbots](65cf4789fa6df6abeb1b059b62894622)
