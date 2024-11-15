@@ -44,4 +44,4 @@ In 2020, a Korean documentary team created a digitized re-creation of a mother's
 * [New AI Tools Preserve Memories of Deceased Relatives](b7dd6fe41c7bd9a4a04c30adfd020de4)
 * [Amazon Plans to Turn Deceased Loved Ones' Voices into Digital Assistants](316c2bc07bdae32ea05595973043b766)
 * [Connecting with Your Future Self through Chatbots](65cf4789fa6df6abeb1b059b62894622)
-* [AI Connects Cartoonist with Deceased Grandfather](671d185f0e81893e18bdb04993e7d1c7)
+* [AI's Impact on Human Connection](729afaa8f8699c39b8d4b175d032fa41)

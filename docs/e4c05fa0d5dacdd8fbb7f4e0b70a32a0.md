@@ -35,8 +35,8 @@ Bumble founder Whitney Wolfe Herd suggests a future in which artificial intellig
 
 ## Closest
 
+* [AI's Impact on Human Connection](729afaa8f8699c39b8d4b175d032fa41)
 * [Preparing for Addictive AI Companions](4611565d14a05789e2efc6fafc563f58)
 * [AI Chatbots Aim to Enhance Books](52ee8c1b0291daa92b97c28225a816b6)
 * [The Impact of AI on Society: Part 1](cf119665e47c7434e3e3c54dbbc585e3)
 * [The Future of Software: Intelligent Agents](f9ab247df033c3d903c94289a8687845)
-* [Business Schools Embrace AI for Competitive Graduates](bc232b227c806ac26adf2b99fa4cff9d)

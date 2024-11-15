@@ -41,6 +41,6 @@ Google has announced the discontinuation of Google Jamboard, a digital whiteboar
 
 * [The Impact of Digital Whiteboards](0427292acb53be01ba35b3b5b561cb59)
 * [Vintage Tech: Keeping the Past Alive](2a98922fc3676ea6365782ce075cf589)
+* [The Boiling Frog of Digital Freedom](1f01cd79ea4dad626936ecf8a068c1be)
 * [The Beauty of Chalk](090645d9a28b97c7fcb9dff3174e9ab8)
 * [AeroGarden Shuts Down Operation](2880ed7c0485e1fa17a598c0810a16ec)
-* [The Power of the Blackboard](36a34265510934a9a13e8d5a1bc8f42e)

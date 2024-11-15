@@ -41,8 +41,8 @@ Klarna has launched an AI assistant powered by OpenAI, which has had 2.3 million
 
 ## Closest
 
-* [Boosting Productivity and Satisfaction with Generative AI](01bec9add8819c277aad7d7ba19983f7)
+* [Klarna Cuts Jobs Amid AI Expansion](b1bceca46e2b9fe10e823980501f95dd)
 * [Two bots are better than one](f98dab2817789f549215229135f086d0)
 * [Microsoft's GitHub Copilot Exceeds $100 Million in Annual Revenue](7e5c1ed5c33c7dbc323cd0264cc94099)
+* [Anthropic Introduces Claude 3.5 Sonnet](3e5862b8a6e5bf31b60fe4380bcd952a)
 * [Businesses' Adoption of Generative AI](767b74c90576473294b2c47568c0e355)
-* [The Rise of AI Workers: Opportunities for Founders in the Service-as-a-Software Market](608530bf4c83aae76cccb8a3e7383b6d)

@@ -49,4 +49,4 @@ Voice actors are facing challenges as artificial intelligence (AI) is being used
 * [Writer Protection and Compensation in AI-Generated Works](32f927ba9dd86866c45f72f407a2950e)
 * [Microsoft's AI Simulates Voice with Three Seconds of Audio](146bf2c4637290e20802f18dee14bbaf)
 * [Speaking to Video Game Characters: The Future of NPC Interaction](65b2d69656e5ea98828b1587df1ddb7e)
-* [AI took their jobs. Now they get paid to make it sound human](59af07f2473d3c7206db85369b4e563e)
+* [California Leads AI Protection Legislation](d1edb1b7342b22989cca39e23d906eb2)

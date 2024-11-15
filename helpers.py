@@ -302,6 +302,8 @@ def createDB():
     mt = pd.read_parquet("data/metatags.parquet.gzip")
     df = df.merge(mt,on="src",how="left")
     df.to_parquet("data/consolidated.parquet.gzip",compression="gzip")
+    #df["text"] = df.content
+    df["source"] = df.url
     for x in df.columns:
         df[x] = df[x].astype(str)
     df_loader = DataFrameLoader(df, page_content_column="content")

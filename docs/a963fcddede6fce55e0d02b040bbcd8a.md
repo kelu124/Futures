@@ -39,8 +39,8 @@ This text discusses the concept of "long-terminology" and the importance of long
 
 ## Closest
 
+* [Technology's Rapid Evolution Over Time](9d6464c96612c9edb19cf4f53bd26faf)
 * [The Future Thinker’s Dilemma](670b7a7f03caef5935520a962c78dd5a)
 * [The Path to Slow Learning](042cf62855760b54fa5a194db9e6cf11)
 * [The Power and Pitfalls of Foresight](e11adc0adef22064e0ee2b531341ff07)
 * [Visualizing the Future in Different Ways](b8b0a7af9c851d7f68d775d61199fa62)
-* [Strategic Foresight: Anticipating and Adapting to the Future](40a99c098bad8dda821b757d8d88a80a)

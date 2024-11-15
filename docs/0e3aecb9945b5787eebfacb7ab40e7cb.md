@@ -35,8 +35,8 @@ Bigbug is a French science fiction black comedy film directed by Jean-Pierre Jeu
 
 ## Closest
 
-* [A Gem of a Sci-Fi Film](877b56f9548cc1eee5aa5d92f7af6a2d)
-* [A Chaotic Journey of Sibling Tragedy](109fdce64e3534d2f17935a3c4fbd713)
-* [J.Lo's AI Thriller 'Atlas' Proclaims Pro-Progress Ideas](900c048b22dc97afa6abae89fe873d26)
-* [The Future of Cognitive Work: AI and the Cyborg Profile](a54883b1db1c3c4f1b212b77117f3f8c)
-* [Robo-Roaches: Remote-Controlled Insect Cyborgs](b0cc49ba07708ecffb1a8c88d66554fd)
+* [Evaluative Soliloquies: Drive, Judge, and Rescue](b9ea5ee9727124d32792361b15af2499)
+* [Research Robots Vulnerable to Hacking](a693f0b1a14e29b99b33845c23ed8561)
+* [Living Robot Powered by Mushroom](14bde94df37ad065cd108bc30f3903c1)
+* [Hacking Security Flaws in Robot Vacuums](f0cb19749546b051b8ccdb7af0c8908a)
+* [The Glitchy, Spammy, Scammy AI-Powered Internet](b30a4282af9e53ca673438a8223d9525)

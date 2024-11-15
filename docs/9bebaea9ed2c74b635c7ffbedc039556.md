@@ -46,4 +46,4 @@ The study highlights the underestimated risks of harvest failures in multiple gl
 * [Global Food Systems: Treating Food as a Human Right](c21f7a31bf1c99ef78e154ae4249e712)
 * [Climate Change's Cascading Consequences: Everything Change](7f30f2f7549b14f00211791717a8a342)
 * [The Challenge of Finding a Safe Place in a Changing Climate](efa36dc9bd5ddc890866d4ab1e68e71f)
-* [Climate Change Increasing Wildfire Risk](685e1aa9e1db8a94a4bb04cd27a1db86)
+* [Navigating Climate Change and Community](d1e5dc8cd0f7c34dede43f5429dded3d)

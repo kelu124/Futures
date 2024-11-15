@@ -47,4 +47,4 @@ Google has taken action to block ads for e-commerce sites that use the Polyfill.
 * [US Department of Justice Seizes Domains in Operation to Combat Russian Disinformation](1fbf07a918bb1e37ab2eb41365d6bbe2)
 * [U.S. Department of Justice Seizes Z-Library Domains](d050024991b2307add12adc6f590ad54)
 * [How I Got Scammed: And Why AI Will Make It Worse](6bca129462382d090b52faf72fe48e3d)
-* [The Glitchy, Spammy, Scammy AI-Powered Internet](b30a4282af9e53ca673438a8223d9525)
+* [The Challenge of Rethinking the Supply Chain](fa27e27bdec01712d582ab0f61c95bac)
