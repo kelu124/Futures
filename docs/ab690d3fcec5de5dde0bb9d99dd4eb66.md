@@ -42,8 +42,8 @@ The article discusses the upcoming United Nations' "Summit of the Future," sched
 
 ## Closest
 
-* [Global Foresight: Experts Predict a Pessimistic Decade Ahead](4c1d4c91735e960e46ac534d9a90fc60)
 * [Global Foresight: Experts Predict a Pessimistic Decade Ahead](7c5704fc7ced135231421044eed7ec4b)
+* [Global Foresight: Experts Predict a Pessimistic Decade Ahead](4c1d4c91735e960e46ac534d9a90fc60)
 * [Open Source Takes Center Stage at UN Headquarters](8dc0df9ec066b8cd1bca120998fc0f90)
 * [Exploring NYC's Future Scenarios](decd2991c2418a441fec2dec0dd33279)
 * [Representing Future Generations in Climate Decision-Making](32228bbf929d81d39a1808dd9b7c4493)

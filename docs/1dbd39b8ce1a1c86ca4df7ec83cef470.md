@@ -39,8 +39,8 @@ The text advocates for the use of RSS readers as a means to improve individual i
 
 ## Closest
 
-* [Democracy's Battle Against Viral Misinformation](56d1a28746cd95ebaa3d62a4e1f91c3a)
 * [The Ethics and Politics of Data Scraping](2703e9bdcf4fd2ee2214fd78aa4064dc)
 * [The Sterile World of Infinite Choice](7b316ebe449187b79e519a8c6d12a2cd)
 * [Tools Needed by Open Source Researchers](232af96e853049a58bc2dae466ea495d)
 * [The Challenge of Rethinking the Supply Chain](fa27e27bdec01712d582ab0f61c95bac)
+* [The Banality of Surveillance and Automated Warfare](ccdebc20efc0694474f1c64e2835e260)

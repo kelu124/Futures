@@ -41,8 +41,8 @@ The text examines the impact of generative AI on the video game industry, highli
 
 ## Closest
 
-* [The Impact of AI on the Video Game Industry](f9e48d7ccb7479cb60051af41b429584)
-* [The Impact of AI on Ad Agency Jobs](54491b49e9fd2c6eab777dca0ba67e76)
 * [The Impact of Generative AI on Business and Society](aa811fcb765939e9ead9542accd38a5b)
 * [The Impact of AI on Jobs](17cff4adea214f71c7a5eed15307b0e7)
 * [AI Job Losses Are Rising, but the Full Story Goes Beyond the Numbers](b0e031972e42be984d1309170155800e)
+* [The Impact of Generative AI on Middle Managers](4427e1d7ce3ce8d0a6f40cb808f69b6a)
+* [AI Redefining Work-Life Balance](bc5ff4c170f1f63b34eb7ca70775d8d7)
