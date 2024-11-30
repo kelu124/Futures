@@ -45,5 +45,5 @@ The text discusses the evolution of generative AI and its advancement from knowl
 * [The Rise of AI Agents: Multi-Agent Systems](8c3af57e1a9f1b3f778f7b3cefcd6318)
 * [Creating and Destroying Value with Generative AI](15d4ec180189ca1739398f516844cefb)
 * [The Impact of Generative AI on Business and Society](aa811fcb765939e9ead9542accd38a5b)
+* [The Impact of Generative AI on Middle Managers](4427e1d7ce3ce8d0a6f40cb808f69b6a)
 * [US Intelligence Community Embraces Generative AI](dc6864119c8835a3637517b2a4fe9fbb)
-* [10 Ideas Shaping the Business Landscape in 2023](0d5cc4e60484c56f76248ad109ad9c04)

@@ -46,8 +46,8 @@ This article discusses the concept of single-threaded leadership as a critical o
 
 ## Closest
 
+* [Redesigning Organizations for the Future](a6112c31b538ae6e0d92d0e186d5c5f0)
 * [The Shift from Bosses to Leaders](74d6cb3000734dab48879c07a53c6632)
 * [Reshaping the Tree: Rebuilding Organizations for AI](fd0f3b7a6783ba6a0fcd3a18c8241be5)
 * [Balancing Autonomy and Alignment with Accountability](2f9b0e015264ffb84681864aa348771a)
 * [Shattering the Illusion of Uniqueness Bias in Leadership](d58cdfa2239c4073bde09c04e7751eeb)
-* [Strategies for Lean Problem Solving](c47a1d430cd80c828275e1eb5f5fbdc5)

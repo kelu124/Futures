@@ -37,6 +37,52 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
+import re
+    
+INLINE_LINK_RE = re.compile(r'\[([^\]]+)\]\(([^)]+)\)')
+FOOTNOTE_LINK_TEXT_RE = re.compile(r'\[([^\]]+)\]\[(\d+)\]')
+FOOTNOTE_LINK_URL_RE = re.compile(r'\[(\d+)\]:\s+(\S+)')
+
+
+from langchain.chains.question_answering import load_qa_chain
+from langchain_openai import ChatOpenAI
+
+from langchain.globals import set_llm_cache
+from langchain.cache import SQLiteCache
+
+set_llm_cache(SQLiteCache(database_path="data/.langchain.db"))
+
+from langchain_openai import OpenAIEmbeddings
+from langchain.embeddings import CacheBackedEmbeddings
+from langchain.cache import SQLiteCache
+
+underlying_embeddings = OpenAIEmbeddings(
+    openai_api_key=os.getenv("OAI")
+)
+
+store = SQLiteCache(database_path="data/.embedding.langchain.db")
+
+if 0:
+    embeddings = CacheBackedEmbeddings.from_bytes_store(
+        underlying_embeddings, store, namespace=underlying_embeddings.model
+    )
+else:
+    embeddings = underlying_embeddings
+
+
+
+def find_md_links(md):
+    """ Return dict of links in markdown """
+
+    links = list(INLINE_LINK_RE.findall(md))
+    footnote_links = dict(FOOTNOTE_LINK_TEXT_RE.findall(md))
+    footnote_urls = dict(FOOTNOTE_LINK_URL_RE.findall(md))
+
+    for key in footnote_links.keys():
+        links.append((footnote_links[key], footnote_urls[footnote_links[key]]))
+
+    return links
+
 def get_cache(BASE_URL):
 
     page_url = "https://"+BASE_URL+"/archive"
@@ -71,6 +117,8 @@ def download_substack_pages(pages):
             print(name,"exists.")
     return 1
 
+
+
 def getlinks():
     URLs = []
     cached_pages = glob.glob(".cache/*")
@@ -92,6 +140,29 @@ def getlinks():
     return df
 
 
+
+def getdraftlinks():
+    URLs = []
+    cached_drafts = glob.glob("drafts/*")
+    for page in cached_drafts:
+        with open(page) as fp:
+            md = fp.read()
+        content = [x[1] for x in find_md_links(md) if len(x[1])]
+        #print(page,content)
+        for link in content:
+            URLs.append([page,link])
+
+    df = pd.DataFrame(URLs)
+    df.columns = ["page","url"]
+    df = df.drop_duplicates(subset=["url"])
+    df["url"] = df.url.apply(lambda x: str(x).encode('utf-8'))
+
+    df["hash"] = df.url.apply(lambda x: hashlib.md5(str(x).encode('utf-8')).hexdigest())
+    DF = pd.read_parquet("data/urls.parquet.gzip")
+    df = pd.concat([DF,df]).drop_duplicates(subset="hash")
+    df.to_parquet("data/urls.parquet.gzip",  engine='pyarrow', compression='gzip')
+    return df
+
 def pages_content(dfpath):
     df = pd.read_parquet(dfpath)
     headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11',
@@ -99,30 +170,34 @@ def pages_content(dfpath):
     'Connection': 'keep-alive'}
     session = requests.Session()
     DICO = {}
-
+    with open("errors.log", "r") as log:
+        errors = [x.strip() for x in log.read().split("\n") if len(x.strip())]
     for ix, row in df.sample(frac=1).iterrows():
         #print(row["url"])
-        if not os.path.exists(".archive/"+row["hash"]+".type"):
-            try:
-                response = session.head(row["url"], timeout=10, headers=headers)
-                contentType = response.headers['content-type']
-            except:
-                contentType = "error"
-            with open(".archive/"+row["hash"]+".type", "w") as f:
-                f.write(contentType)
-            #print(row["hash"],row["url"],contentType)
-            
-        if not os.path.exists(".archive/"+row["hash"]):
-            try:
-                r = requests.get(row["url"], timeout=10, headers=headers)
-                with open(".archive/"+row["hash"], "wb") as f:
-                    f.write(r.content)
-            except:
-                print(row["url"],"error.")
-                pass
-            print(row["hash"],"saved.")
-        else:
-            0
+        if str(row["url"]) not in errors:
+            if not os.path.exists(".archive/"+row["hash"]+".type"):
+                try:
+                    response = session.head(row["url"], timeout=10, headers=headers)
+                    contentType = response.headers['content-type']
+                except:
+                    contentType = "error"
+                with open(".archive/"+row["hash"]+".type", "w") as f:
+                    f.write(contentType)
+                #print(row["hash"],row["url"],contentType)
+                
+            if not os.path.exists(".archive/"+row["hash"]):
+                try:
+                    r = requests.get(row["url"], timeout=10, headers=headers)
+                    with open(".archive/"+row["hash"], "wb") as f:
+                        f.write(r.content)
+                except:
+                    print(str(row["url"]),"error.")
+                    with open("errors.log", "a") as log:
+                        log.write(str(row["url"])+"\n")
+                    pass
+                print(row["hash"],"saved.")
+            else:
+                0
 
 
 
@@ -185,7 +260,7 @@ def createSeeds():
     else:
         print ("OPENAI_API_KEY environment variable not found")
 
-    embeddings = OpenAIEmbeddings(openai_api_key=os.getenv("OAI"))
+
 
     h = OAI.Helper("local_seeds") 
 
@@ -291,12 +366,12 @@ def createDB():
     else:
         print ("OPENAI_API_KEY environment variable not found")
 
-    embeddings = OpenAIEmbeddings(openai_api_key=os.getenv("OAI"))
+
 
     df = pd.read_parquet('data/articles.parquet.gzip')
     df.columns = ["src","content","LEN"]
     df = df[(df.LEN > 1500) & (df.LEN < 30000)].reset_index(drop=True)
-    print(len(df),"articles of good lengths in the articles.partquet.gzip")
+    print(len(df),"articles of good lengths in the articles.parquet.gzip")
     titles = pd.read_parquet("data/titles.parquet.gzip")
     df = df.merge(titles, on="src",how="left")
     mt = pd.read_parquet("data/metatags.parquet.gzip")
@@ -321,7 +396,7 @@ def createDB():
     else:
         print ("OPENAI_API_KEY environment variable not found")
 
-    embeddings = OpenAIEmbeddings(openai_api_key=os.getenv("OAI"))
+
 
 
     if not os.path.isfile(base_path+"chroma.sqlite3"):
@@ -359,11 +434,11 @@ def createDB():
             time.sleep(0.2)
             vectordb.persist()
         else:
-            0
+            pass
             #print("Item already in the DB",doc.page_content[:100].replace("\n"," "))
     LSDOCS = vectordb.get()["documents"]
     vectordb.persist()
-
+    print("Database filled in")
     return "DONE"
 
 def intersection(lst1, lst2):
@@ -380,7 +455,7 @@ def getClosest(vectordb,txt):
         X.append(b.metadata["src"])
     return X
 
-def createPages_metaPrep():
+def createPages_metaPrep(longtest=False):
     signals = pd.read_parquet("data/signals.parquet.gzip")
     metatags = pd.read_parquet("data/metatags.parquet.gzip")
     df = pd.read_parquet('data/articles.parquet.gzip')
@@ -397,13 +472,14 @@ def createPages_metaPrep():
     metatags = metatags[metatags.src.isin(articles)]
     len(articles)
     base_path = "./DB/"
-    embeddings = OpenAIEmbeddings(openai_api_key=os.getenv("OAI"))
+
     vectordb = Chroma(persist_directory=base_path,embedding_function=embeddings)
     print(len(vectordb.get()["ids"]),"elements already stored.")
     LSDOCS = vectordb.get()["documents"]
     metatags["closest"] = ""
-    metatags["closest"] = metatags["summary"].apply(lambda x: getClosest(vectordb,x))
-    metatags.to_parquet("data/pages_metatags_with_closest.parquet.gzip", compression = "gzip")
+    if longtest:
+        metatags["closest"] = metatags["summary"].apply(lambda x: getClosest(vectordb,x))
+        metatags.to_parquet("data/pages_metatags_with_closest.parquet.gzip", compression = "gzip")
     return df, signals
 
 def createPages_metaUse(df, signals):

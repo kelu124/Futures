@@ -41,6 +41,6 @@ Google has announced the discontinuation of Google Jamboard, a digital whiteboar
 
 * [The Impact of Digital Whiteboards](0427292acb53be01ba35b3b5b561cb59)
 * [Vintage Tech: Keeping the Past Alive](2a98922fc3676ea6365782ce075cf589)
+* [Google Japan's Unique Möbius Keyboard](5cd2f47e703096900525068b35db72c5)
 * [The Beauty of Chalk](090645d9a28b97c7fcb9dff3174e9ab8)
 * [AeroGarden Shuts Down Operation](2880ed7c0485e1fa17a598c0810a16ec)
-* [Technology and Children’s Well-Being in Danish Schools](17ac55c1f87675e075557fa4fa5ba14e)

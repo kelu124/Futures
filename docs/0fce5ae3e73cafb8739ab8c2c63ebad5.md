@@ -41,6 +41,6 @@ The tool-in ceremony of TSMC's new fab in Arizona was attended by prominent figu
 
 * [Delays in TSMC's Arizona Chip Factory Construction Impact US AI Investment](2b6cc7a8e528932936c2b72ea35d930c)
 * [Biden Administration to Award Billions in Subsidies to Semiconductor Companies](56fdd83956fda4be2560c7d4c4238af2)
+* [TSMC Suspends AI Chip Production for China](2f3c3eb80f2d1bc30cfac18323b89e87)
 * [TSMC 2nm Update: Two Fabs in Construction, One Awaiting Government Approval](4be308670b5c0c5a47ba2b0185459ff4)
 * [TSMC: Ecosystem for 2nm Chip Development Is Nearing Completion](cca4ca46edfcac58a750fffde3522e7e)
-* [France Invests €3 Billion in Semiconductor Factory](8dfeb7f353bb51c54f0fbaeadf3ed292)
