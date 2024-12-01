@@ -50,14 +50,13 @@ embeddings_model = CacheBackedEmbeddings.from_bytes_store(
     underlying_embeddings, store, namespace=underlying_embeddings.model
 )
 
-PDF_STORAGE_PATH = "../data/docs"
 
 
 @cl.password_auth_callback
 def auth_callback(username: str, password: str):
     # Fetch the user matching username from your database
     # and compare the hashed password with the value stored in the database
-    if (username, password) == ("probono", "probono"):
+    if (username, password) == ("kelu", "futures"):
         return cl.User(
             identifier="Probono", metadata={"role": "user", "provider": "credentials"}
         )
@@ -83,7 +82,7 @@ async def on_chat_start():
 
     settings = await cl.ChatSettings(
         [
-            Select(
+            Select( 
                 id="details",
                 label="Do you want to see the sources of the answers",
                 values=["No","Yes"],

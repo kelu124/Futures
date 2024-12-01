@@ -54,7 +54,7 @@ edit_message = true
 
 [UI]
 # Name of the assistant.
-name = "PROBONO Project Assistant"
+name = "@kelu124's Futures stuff oracle"
 
 # Description of the assistant. This is used for HTML tags.
 # description = ""
@@ -63,7 +63,7 @@ name = "PROBONO Project Assistant"
 default_collapse_content = true
 
 # Chain of Thought (CoT) display mode. Can be "hidden", "tool_call" or "full".
-cot = "hidden"
+cot = "full"
 
 # Link to your github repo. This will add a github button in the UI's header.
 # github = "https://github.com/kelu124/pbn_bot"
