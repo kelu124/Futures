@@ -77,7 +77,9 @@ class PostMessageHandler(BaseCallbackHandler):
                     cl.Text(name="Sources", content=sources_text, display="inline")
                 )
 
-
+############
+# AUTH
+############
 @cl.password_auth_callback
 def auth_callback(username: str, password: str):
     # Fetch the user matching username from your database
@@ -89,8 +91,9 @@ def auth_callback(username: str, password: str):
     else:
         return None
 
-
-
+############
+# AUTH
+############
 base_path = "../DB/"
 if os.path.isfile(base_path + "chroma.sqlite3"):
     print("Loading from local files")
@@ -104,7 +107,9 @@ model = ChatOpenAI(model_name="gpt-4o-mini", streaming=True)
 
 
 
-
+############
+# AUTH
+############
 
 @cl.on_chat_start
 async def on_chat_start():
