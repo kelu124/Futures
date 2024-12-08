@@ -36,9 +36,7 @@ else:
     print("No local .env file")
 print("Key: ",os.getenv("OPENAI_API_KEY"))
 
-#from literalai import LiteralClient
-#lai = LiteralClient()
-#lai.instrument_openai()
+
 
 
 underlying_embeddings = OpenAIEmbeddings(openai_api_key=os.getenv("OPENAI_API_KEY"))
@@ -50,6 +48,33 @@ embeddings_model = CacheBackedEmbeddings.from_bytes_store(
     underlying_embeddings, store, namespace=underlying_embeddings.model
 )
 
+
+class PostMessageHandler(BaseCallbackHandler):
+    """
+    Callback handler for handling the retriever and LLM processes.
+    Used to post the sources of the retrieved documents as a Chainlit element.
+    """
+
+    def __init__(self, msg: cl.Message):
+        BaseCallbackHandler.__init__(self)
+        self.msg = msg
+        self.sources = set()  # To store unique pairs
+
+    def on_retriever_end(self, documents, *, run_id, parent_run_id, **kwargs):
+        for d in documents:
+            self.sources.add(d.metadata["title"]+" | "+d.metadata["origin"]+" | "+d.metadata["src"])  # Add unique pairs to the set
+            #print(d.metadata)
+
+    def on_llm_end(self, response, *, run_id, parent_run_id, **kwargs):
+        if len(self.sources):
+            print(len(self.sources))
+            sources_text = "* "+"\n* ".join(
+                [x.strip() for x in self.sources]
+            )
+            if cl.user_session.get("details") == "Yes":
+                self.msg.elements.append(
+                    cl.Text(name="Sources", content=sources_text, display="inline")
+                )
 
 
 @cl.password_auth_callback
@@ -123,32 +148,6 @@ async def setup_agent(settings):
 async def on_message(message: cl.Message):
     runnable = cl.user_session.get("runnable")  # type: Runnable
     msg = cl.Message(content="")
-
-    class PostMessageHandler(BaseCallbackHandler):
-        """
-        Callback handler for handling the retriever and LLM processes.
-        Used to post the sources of the retrieved documents as a Chainlit element.
-        """
-
-        def __init__(self, msg: cl.Message):
-            BaseCallbackHandler.__init__(self)
-            self.msg = msg
-            self.sources = set()  # To store unique pairs
-
-        def on_retriever_end(self, documents, *, run_id, parent_run_id, **kwargs):
-            for d in documents:
-                self.sources.add(d.metadata["title"])  # Add unique pairs to the set
-
-        def on_llm_end(self, response, *, run_id, parent_run_id, **kwargs):
-            if len(self.sources):
-                print(len(self.sources))
-                sources_text = "* "+"\n* ".join(
-                    [x.split(os.sep)[-1].replace(".docx", "").strip() for x in self.sources]
-                )
-                if cl.user_session.get("details") == "Yes":
-                    self.msg.elements.append(
-                        cl.Text(name="Sources", content=sources_text, display="inline")
-                    )
 
     async for chunk in runnable.astream(
         message.content,
