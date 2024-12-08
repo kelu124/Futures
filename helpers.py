@@ -83,7 +83,7 @@ def find_md_links(md):
 
     return links
 
-def get_cache(BASE_URL):
+def get_cache(BASE_URL,moar=[]):
 
     page_url = "https://"+BASE_URL+"/archive"
 
@@ -94,7 +94,9 @@ def get_cache(BASE_URL):
     links = html_content.findAll('a', class_="pencraft")
     print(len(links)) 
     pages = [i.get('href') for i in links if (not (i.get('href') is None))]
-
+    if len(moar):
+        for x in moar:
+            pages.append(x)
     pages = [ i for i in pages  if "https://"+BASE_URL+"/p/" in i ]
     pages = list(set([ i for i in pages  if not i.endswith("comments") ]))
     len(pages), pages
@@ -352,6 +354,7 @@ def do_meta():
     META = pd.DataFrame(allSeeds)
     META.columns = ["src","keywords","themes","summary"]
     META = META.merge(srcFiles,on="src",how="left")
+    META = META[~META.origin.isna()]
     META.origin = META.origin.apply(lambda x: x.split("/")[-1])
     #META = META.drop(columns=['origin'])
     print(len(META))

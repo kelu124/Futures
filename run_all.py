@@ -1,8 +1,10 @@
 import helpers as s
 
 BASE_URL = "substack.kghosh.me"
-pages = s.get_cache(BASE_URL)
-print(pages)
+pages = s.get_cache(BASE_URL,["20241207"])
+
+
+
 s.download_substack_pages(pages)
 ## Create content and analysis
 s.getlinks()
