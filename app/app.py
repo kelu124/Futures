@@ -37,7 +37,8 @@ else:
 print("Key: ",os.getenv("OPENAI_API_KEY"))
 
 
-
+from dbclass import VectorDB
+myvdb = VectorDB(k=3)
 
 underlying_embeddings = OpenAIEmbeddings(openai_api_key=os.getenv("OPENAI_API_KEY"))
 
@@ -87,7 +88,7 @@ def auth_callback(username: str, password: str):
         )
     else:
         return None
-    
+
 
 
 base_path = "../DB/"
@@ -100,6 +101,9 @@ else:
     print("ERROR")
 
 model = ChatOpenAI(model_name="gpt-4o-mini", streaming=True)
+
+
+
 
 
 @cl.on_chat_start

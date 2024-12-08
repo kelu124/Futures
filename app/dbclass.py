@@ -1,4 +1,6 @@
 import os
+import pandas as pd
+
 
 from langchain.storage import LocalFileStore
 from langchain.embeddings import CacheBackedEmbeddings
@@ -79,6 +81,11 @@ metadata_field_info = [
 ]
 
 
+
+
+
+
+
 class VectorDB:
 
     def __init__(
@@ -86,6 +93,7 @@ class VectorDB:
         dbpath="../DB/",
         embCache="../cache/",
         langchaindbpath="../data/.langchain.db",
+        pathsignals = "../data/signals.parquet.gzip",
         k=5,
     ):
         set_llm_cache(SQLiteCache(database_path=langchaindbpath))
@@ -99,6 +107,7 @@ class VectorDB:
             self.store,
             namespace=self.underlying_embeddings.model,
         )
+        self.signals =  pd.read_parquet(pathsignals)
 
         if os.path.isfile(self.base_db_path + "chroma.sqlite3"):
             print("Loading from local files")
@@ -123,6 +132,17 @@ class VectorDB:
             verbose=True,
             search_kwargs={"k": k},
         )
+    def reviewSignals(self,question):
+        """Asks a question, find articles, and summarize trends in two paragraphs"""
+        DOCS = self.selfQR.invoke(input="Give me articles about AIs becoming virtual colleagues")
+        ids = [x.metadata["src"] for x in DOCS]
+        signals = self.signals[self.signals.src.isin(ids)]
+        prompt = "Here is a list of weak signals demonstrating changes:\n"
+        for ix, row in signals.iterrows():
+            prompt += "* This signal '"+row["Signal"].strip()+"' shows the following change '"+row["Change"].strip()+"'\n"
+        signal_summary = self.selfQueryllm.invoke("Write a high level creative summary as a prospective journalist of ths weak signals detailed below. It is a short paragraph from an extract of a Futures journal. Then add a separate paragraph about how the future will be impacted in 5 year time, you can be creative.  "+prompt).content
+        return signal_summary
+
 
     def getArticles(self):
         IDS = self.vectordb.get()["ids"]
@@ -153,7 +173,7 @@ class VectorDB:
         context += "Your tone of voice is that of a journalist at NY Times, profesional, to the point.\n"
         context += "Include each and every article, as much as you can. Also, avoid bulletpoints. Don't include an introduction sentence (something like 'the articles this month'.. should be avoided at all costs), nor a conclusion part (ending with 'overall, these articles ..'. This should be avoided at all cost too.). The language should avoid flowery language or fancy language, it should be written in a way a 20yo non technical person can read it."
 
-        return self.selfllm.invoke(context).content
+        return self.selfQueryllm.invoke(context).content
     
 
     def getStories(self, origin_list):
