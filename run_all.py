@@ -1,7 +1,7 @@
 import helpers as s
 
 BASE_URL = "substack.kghosh.me"
-pages = s.get_cache(BASE_URL,["20241207"])
+pages = s.get_cache(BASE_URL,["20241222","20241229","20241215"])
 
 
 
