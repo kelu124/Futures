@@ -53,7 +53,9 @@ def getStories():
             prompt += "You are a sci-fi writer, and you want to write a short story in one page or slightly less, that takes place in today world and seems very realistic.\n\n"
             prompt += "You are given summaries of texts that contains elements (possibly forward-looking) that can feed this short story. Try and use each of the summaries, especially the 'innovative' parts.\n\n"
             prompt += "You need to pick a theme for that story (which you don't need to tell me) and make it the backbone of the story.\n\nStart and give it a try! Don't forget to add at least a point in the story that comes from each  bullet point, but you can interleave the different points of course. Give me around one page that surprising short story - you don't need to give me any intro to it."
-            prompt += "\n\n## How to do it\n\n"+"* Change any reference to personal names so to anonymyse real persons names\n* You will use a style mix of Terry Pratchett and Philip K Dick:\n\n"+STYLE
+            prompt += "\n\n## How to do it\n\n"+"* Change any reference to personal names so to anonymyse real persons names\n")
+            prompt += "* You will use a style mix of Terry Pratchett and Philip K Dick:\n\n"+STYLE
+            prompt += "\n\nStill, your style needs to be simple and readable by a 20yo, and keep a simple writing style.\n\n"
             prompt += "\n\n## Summaries of texts\n\n"+ context
             story = llm.invoke(prompt).content
             title = llm.invoke("Give a title to the short story below. Don't use quotes or any accompanying text:\n\n"+story).content
