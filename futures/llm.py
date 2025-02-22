@@ -77,7 +77,11 @@ class LLM:
     def askTool(self, instructions, text, function, function_name):
         js = self.askFunctions(instructions, text, function, function_name)
         js = json.loads(js)
-        k = list(js.keys())[0]
-        print(k)
-        return pd.DataFrame(js[k])
+        KEYS = list(js.keys())
+        if len(KEYS) == 1:
+            k = list(js.keys())[0]
+            return pd.DataFrame(js[k])
+        else:
+            print(str(js))
+            return pd.DataFrame(js)
 
