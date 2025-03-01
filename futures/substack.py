@@ -69,7 +69,7 @@ class SubstackManager:
                 html_content = BeautifulSoup(page_sourced, "html.parser")
                 content = html_content.findAll('div', class_="body markup")
 
-                with open(".cache/"+name, 'w') as f:
+                with open(self.cache_substackpages+name, 'w') as f:
                     f.write(str(content))
                 print("- Substack manager: ", name, "saved")
             else:
@@ -133,6 +133,7 @@ class SubstackManager:
 
     def pages_content(self):
         # "data/urls.parquet.gzip")
+        print("# Saving links from the substack pages")
         df = pd.read_parquet(self.srcURLs)
         headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11',
         'Accept-Charset': 'utf-8',
@@ -162,7 +163,7 @@ class SubstackManager:
                         with open("errors.log", "a") as log:
                             log.write(str(row["url"])+"\n")
                         pass
-                    print(row["hash"],"saved.")
+                    print("- ",row["hash"],"saved.")
 
 
 
@@ -200,5 +201,15 @@ class SubstackManager:
         NEW = pd.DataFrame(articles, columns = ['file_name', 'content'])
         NEW["LEN"] = NEW["content"].apply(lambda x: len(str(x)))
         df = pd.concat([NEW,D]).reset_index(drop=True)
+
+
+
+        urls = pd.read_parquet(self.srcURLs)
+        urls["origin"] = urls["page"].apply(lambda x: x.split(os.sep)[-1].replace(".md",""))
+        urls.columns = ["page","url","file_name","origin"]
+        urls = urls[["file_name","origin"]]
+        df = df.merge(urls, on="file_name",how="left")
+        
+
         df.to_parquet(self.srcArticles,compression="gzip")
         return df

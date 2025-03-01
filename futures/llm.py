@@ -82,6 +82,6 @@ class LLM:
             k = list(js.keys())[0]
             return pd.DataFrame(js[k])
         else:
-            print(str(js))
-            return pd.DataFrame(js)
+            #print(str(js))
+            return pd.DataFrame.from_dict(js, orient='index').T
 

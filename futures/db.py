@@ -44,7 +44,6 @@ class DB:
         self.srcSummaries = ai.srcSummaries
         self.srcSeeds = ai.srcSeeds
         self.srcMetas = ai.srcMetas
-        self.chain = load_qa_chain(ai.ai, chain_type="stuff")
 
     def createDB(self):
 
@@ -68,7 +67,7 @@ class DB:
 
         # @TODO self.underlying_embeddings to be replaced with self.embeddings
         if not os.path.isfile(self.basepath+"chroma.sqlite3"):
-            print("- VectorDB: start a new DB")
+            print("# VectorDB: start a new DB")
             self.vectordb = Chroma.from_documents(
                 documents=[chunked_documents[0]],
                 embedding=self.ai.underlying_embeddings,
@@ -76,12 +75,11 @@ class DB:
             )
             #vectordb.persist()
         else:
-            print("- VectorDB: continue on the DB")
+            print("# VectorDB: continue on the DB")
             self.vectordb = Chroma(persist_directory=self.basepath, embedding_function=self.ai.underlying_embeddings)
-            print(len(self.vectordb.get()["ids"]),"elements already stored.")
+            print("-",len(self.vectordb.get()["ids"]),"elements already stored.")
             LSDOCS = self.vectordb.get()["documents"]
 
-        print("- VectorDB: already",len(self.vectordb.get()["documents"]),"documents.")
         print("- VectorDB: adding",len(chunked_documents),"documents.")
 
         if self.vectordb:
@@ -103,3 +101,12 @@ class DB:
 
         return self.vectordb
 
+
+    def getClosest(self, txt,n=6):
+        B = self.vectordb.similarity_search(txt, n)
+        L = []
+        X = []
+        for b in list(B):
+            L.append([b.metadata["src"], b.metadata["title"]])
+            X.append(b.metadata["src"])
+        return X
