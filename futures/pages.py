@@ -53,6 +53,12 @@ class PagesWriter:
         meta = pd.read_parquet(self.srcMetas).reset_index(drop=True)
         signals = pd.read_parquet(self.srcSeeds).reset_index(drop=True)
         summaries = pd.read_parquet(self.srcSummaries).reset_index(drop=True)
+
+        techs = pd.read_parquet(self.srcEmergingTechs).reset_index(drop=True)
+        behav = pd.read_parquet(self.srcEmergingBehav).reset_index(drop=True)
+        issue = pd.read_parquet(self.srcEmergingIssue).reset_index(drop=True)
+
+
         for ix, row in meta.iterrows():
 
             ID = row["src"]
@@ -75,9 +81,22 @@ class PagesWriter:
                 TXT += summaries[summaries.src == ID].summary.iloc[0]
             except:
                 pass
-            TXT += "\n\n## Signals\n\n"
             SIG = signals[signals.src == ID]
-            TXT += SIG[list(SIG.columns)[:-1]].to_markdown(index=False)
+            if len(SIG):
+                TXT += "\n\n## Signals\n\n"
+                TXT += SIG[list(SIG.columns)[:-1]].to_markdown(index=False)
+            BVR = behav[behav.src == ID]
+            if len(BVR):
+                TXT += "\n\n## Behaviors\n\n"
+                TXT += BVR[list(BVR.columns)[:-1]].to_markdown(index=False)
+            TEK = techs[techs.src == ID]
+            if len(TEK):
+                TXT += "\n\n## Technologies\n\n"
+                TXT += TEK[list(TEK.columns)[1:]].to_markdown(index=False)
+            ISS = issue[issue.src == ID]
+            if len(ISS):
+                TXT += "\n\n## Issues\n\n"
+                TXT += ISS[list(ISS.columns)[:-1]].to_markdown(index=False)
 
             with open("docs/"+ID+".md", "w") as f:
                 f.write(TXT)
