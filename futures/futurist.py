@@ -108,12 +108,15 @@ class Futurist:
         #return pd.read_parquet(self.proccat[category]["dataframe"])
 
 
-    def doMeta(self,n=10):
+    def doMeta(self, minL=1500, maxL=30000, n=10):
         print("# Doing metas processing")
         srcURLs = pd.read_parquet(self.srcURLs)
         srcURLs.columns = ["path","url","src"]
         srcContent = pd.read_parquet(self.srcArticles)
         srcContent.drop([x for x in list(srcContent.columns) if "n_" in x], axis=1, inplace=True)
+
+        srcContent = srcContent[(srcContent.LEN > minL) & (srcContent.LEN < maxL)]
+
         #print(srcContent)
         srcContent.columns = ["src","content","LEN","origin"]
         #@ TODO add PDF filter on metas
