@@ -2,11 +2,14 @@
 import pandas as pd
 import json
 # Chats
-from langchain.chat_models import ChatOpenAI
+# from langchain.chat_models import ChatOpenAI
+from langchain_openai import ChatOpenAI
 # Caching
-#from langchain_openai import OpenAIEmbeddings
+
 from langchain.embeddings import CacheBackedEmbeddings
-from langchain.embeddings import OpenAIEmbeddings
+#from langchain.embeddings import OpenAIEmbeddings
+from langchain_openai import OpenAIEmbeddings
+
 # Messages
 from langchain.schema import HumanMessage
 # Caching

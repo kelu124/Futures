@@ -8,12 +8,17 @@ class PagesWriter:
 
     def __init__(self, db):
         self.db = db
+        self.datastore = self.db.ai.datastore
+
         self.srcArticles = self.db.ai.srcArticles
         self.srcSummaries = self.db.ai.srcSummaries
         self.srcSeeds = self.db.ai.srcSeeds
         self.srcURLs = self.db.ai.srcURLs
         self.srcMetas = self.db.ai.srcMetas
-        self.datastore = self.db.ai.datastore
+        self.srcEmergingTechs = self.db.ai.srcEmergingTechs
+        self.srcEmergingBehav = self.db.ai.srcEmergingBehav
+        self.srcEmergingIssue = self.db.ai.srcEmergingIssue
+
         self.srcMetaProximities = self.datastore +\
             "metas_proximity.parquet.gzip"
         self.srcConsolidated = self.datastore +\
@@ -38,11 +43,12 @@ class PagesWriter:
         metatags["closest"] = ""
         if longtest:
             metatags["closest"] = metatags["summary"].apply(\
-                lambda x: db.getClosest(vectordb, x))
+                lambda x: self.db.getClosest(vectordb, x))
             metatags.reset_index(drop=True).to_parquet(self.srcMetaProximities, compression="gzip")
         return df, signals
 
     def createPages_metaUse(df, signals):
+        # @TODO
         metatags = pd.read_parquet("data/pages_metatags_with_closest.parquet.gzip")
         metatags["kwsl"] = metatags["keywords"].apply(lambda lst: [x.lower().replace('"','') for x in lst])
         metatags = metatags.merge(df[["src","title"]],on="src",how="left")

@@ -89,7 +89,7 @@ class Futurist:
         
 
         if len(newItems):
-            print("* Saving to",)
+            #print("* Saving to",)
             newItems = pd.concat(newItems)
             if len(initIds):
                 oldItems = pd.read_parquet(namefile)
@@ -125,7 +125,8 @@ class Futurist:
             meta_init = []
     
         allMetas = []
-        for _, row in dfContent[0:n].iterrows():
+        for ix, row in dfContent[0:n].iterrows():
+            print(ix)
             if not row["src"] in meta_init:
                 meta = pd.DataFrame([json.loads(self.ai.askFunctions("Extract the metatags of this text", row["content"], getMeta(), "get_meta"))])
                 meta["src"] = row["src"]

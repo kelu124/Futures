@@ -1,27 +1,31 @@
-import helpers as s
+from futures.substack import SubstackManager
+from futures.llm import LLM
+from futures.futurist import Futurist
+from futures.db import DB
+from futures.pages import PagesWriter
 
-BASE_URL = "substack.kghosh.me"
-pages = s.get_cache(BASE_URL,["20241222","20241229","20241215"])
+# Getting pages
+sm = SubstackManager()
+sm.download_pages()
+sm.getPages()  # 25seconds
 
+# Futurist
+llm = LLM(datastore="data/")
+f = Futurist(llm)
 
+nb_articles = 30000
+# Creating seeds
+f.createSeeds(n=nb_articles)
+# Creating metas
+f.moreIntel(n=nb_articles)
+# Creating metas
+f.doMeta(n=nb_articles)
 
-s.download_substack_pages(pages)
-## Create content and analysis
-s.getlinks()
-s.getdraftlinks()
-s.pages_content("data/urls.parquet.gzip")
-s.download_pages(archivepath='.archive')
-s.createSeeds()
-s.do_signals()
-s.do_meta()
-print("DoDB")
-## DB
-s.createDB()
-findclosest = False 
-df, signals = s.createPages_metaPrep(longtest=findclosest)
-if findclosest:
-    s.createPages_metaUse(df, signals)
+# Getting stories
+f.writeAllStories()
 
-print("Do Stories")
-from writers import getStories
-stories = getStories()
+# Preparing pages
+db = DB(llm)
+# Pages writer
+pw = PagesWriter(db=db)
+pw.createPages_metaPrep()
