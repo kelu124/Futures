@@ -94,7 +94,7 @@ class SubstackManager:
         df = df.drop_duplicates(subset=["url"])
         df["url"] = df.url.apply(lambda x: str(x).encode('utf-8'))
         df["hash"] = df.url.apply(lambda x: hashlib.md5(str(x).encode('utf-8')).hexdigest())
-        df.to_parquet(self.srcURLs,  engine='pyarrow', compression='gzip')
+        df.reset_index(drop=True).to_parquet(self.srcURLs,  engine='pyarrow', compression='gzip')
         return df
 
 
@@ -117,7 +117,7 @@ class SubstackManager:
         df["hash"] = df.url.apply(lambda x: hashlib.md5(str(x).encode('utf-8')).hexdigest())
         DF = pd.read_parquet(self.srcURLs)
         df = pd.concat([DF, df]).drop_duplicates(subset="hash")
-        df.to_parquet(self.srcURLs,  engine='pyarrow', compression='gzip')
+        df.reset_index(drop=True).to_parquet(self.srcURLs,  engine='pyarrow', compression='gzip')
         return df
 
 
@@ -178,8 +178,10 @@ class SubstackManager:
         # Read existing files
         try:
             D = pd.read_parquet(self.srcArticles)
+            D = D[['file_name', 'content']]
         except:
             D = pd.DataFrame(columns = ['file_name', 'content'])
+
         DONE = list(D.file_name)
         articles = []
         errors = []
@@ -199,17 +201,16 @@ class SubstackManager:
                         #print(file_name,e)
                         errors.append(file_name)
         NEW = pd.DataFrame(articles, columns = ['file_name', 'content'])
-        NEW["LEN"] = NEW["content"].apply(lambda x: len(str(x)))
+        #NEW["LEN"] = NEW["content"].apply(lambda x: len(str(x)))
         df = pd.concat([NEW,D]).reset_index(drop=True)
-
-
 
         urls = pd.read_parquet(self.srcURLs)
         urls["origin"] = urls["page"].apply(lambda x: x.split(os.sep)[-1].replace(".md",""))
         urls.columns = ["page","url","file_name","origin"]
         urls = urls[["file_name","origin"]]
         df = df.merge(urls, on="file_name",how="left")
-        
+        df["LEN"] = df["content"].apply(lambda x: int(len(str(x))))
+        #print(df)
+        df.reset_index(drop=True).to_parquet(self.srcArticles, compression="gzip")
 
-        df.to_parquet(self.srcArticles,compression="gzip")
         return df

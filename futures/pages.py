@@ -26,7 +26,7 @@ class PagesWriter:
         df = pd.read_parquet(self.db.ai.srcArticles)
         df.columns = ["src", "content", "LEN"]
         df = df[(df.LEN > 1500) & (df.LEN < 30000)].reset_index(drop=True)
-        df.to_parquet(self.srcConsolidated, compression="gzip")
+        df.reset_index(drop=True).to_parquet(self.srcConsolidated, compression="gzip")
         articles = intersection(metatags.src.unique(), signals.src.unique())
 
         signals = signals[signals.src.isin(articles)]
@@ -39,7 +39,7 @@ class PagesWriter:
         if longtest:
             metatags["closest"] = metatags["summary"].apply(\
                 lambda x: db.getClosest(vectordb, x))
-            metatags.to_parquet(self.srcMetaProximities, compression="gzip")
+            metatags.reset_index(drop=True).to_parquet(self.srcMetaProximities, compression="gzip")
         return df, signals
 
     def createPages_metaUse(df, signals):

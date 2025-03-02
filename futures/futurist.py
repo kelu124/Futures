@@ -103,7 +103,7 @@ class Futurist:
         #    newItems = newItems.rename(columns={"page_x": "page", "origin_x": "origin"})
         #    newItems.drop(['page_y', 'origin_y'], inplace = True, axis=1)
 
-        newItems.to_parquet(namefile, compression="gzip")
+        newItems.reset_index(drop=True).to_parquet(namefile, compression="gzip")
 
         #return pd.read_parquet(self.proccat[category]["dataframe"])
 
@@ -125,7 +125,7 @@ class Futurist:
             meta_init = []
     
         allMetas = []
-        for ix, row in dfContent[0:n].iterrows():
+        for _, row in dfContent[0:n].iterrows():
             if not row["src"] in meta_init:
                 meta = pd.DataFrame([json.loads(self.ai.askFunctions("Extract the metatags of this text", row["content"], getMeta(), "get_meta"))])
                 meta["src"] = row["src"]
@@ -140,14 +140,15 @@ class Futurist:
                 meta_init = pd.read_parquet(self.srcMetas)
                 META = pd.concat([META, meta_init])
 
-            META.to_parquet(self.srcMetas, compression="gzip")
-            META
+            META.reset_index(drop=True).to_parquet(self.srcMetas, compression="gzip")
+
         META = pd.read_parquet(self.srcMetas)
         return META
 
 
     def writeStory(self, ids):
-        print("Writing stories for",ids)
+        """Takes dictionnary, title plus list of articles"""
+        print("# Writing stories for",ids)
         try:
             df = pd.read_parquet(self.ai.srcSummaries)
         except:
@@ -162,9 +163,9 @@ class Futurist:
         stories = []
         for s in ids.keys():
             if len(s):
-                print("- Story for", s)
+                #print("- Story for", s)
                 if s not in stories_id:
-                    print("- Story not in ", s)
+                    print("- Doing story for", s)
                     summaries = list(df[df.src.isin(ids[s])].summary)
                     if len(summaries) > 6:
                         context = "* " + "\n* ".join(summaries)
@@ -205,7 +206,7 @@ class Futurist:
         if len(stories):
             if len(stories_df):
                 stories = pd.concat([stories_df,stories]).drop_duplicates()
-            stories.to_parquet(self.ai.srcStories)
+            stories.reset_index(drop=True).to_parquet(self.ai.srcStories)
 
     def getLinksPerArticle(self):
         articles = {}
