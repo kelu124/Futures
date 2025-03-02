@@ -109,7 +109,7 @@ class Futurist:
 
 
     def doMeta(self,n=10):
-
+        print("# Doing metas processing")
         srcURLs = pd.read_parquet(self.srcURLs)
         srcURLs.columns = ["path","url","src"]
         srcContent = pd.read_parquet(self.srcArticles)
@@ -126,7 +126,6 @@ class Futurist:
     
         allMetas = []
         for ix, row in dfContent[0:n].iterrows():
-            print(ix)
             if not row["src"] in meta_init:
                 meta = pd.DataFrame([json.loads(self.ai.askFunctions("Extract the metatags of this text", row["content"], getMeta(), "get_meta"))])
                 meta["src"] = row["src"]
@@ -136,13 +135,13 @@ class Futurist:
             META = pd.concat(allMetas)
             META = META.merge(dfContent, on="src", how="left")
             META = META[~META.origin.isna()]
-            META.origin = META.origin.apply(lambda x: x.split("/")[-1])
+            META.origin = META.origin.apply(lambda x: str(x).split("/")[-1])
             if len(meta_init):
                 meta_init = pd.read_parquet(self.srcMetas)
                 META = pd.concat([META, meta_init])
-
-            META.reset_index(drop=True).to_parquet(self.srcMetas, compression="gzip")
-
+            META = META.reset_index(drop=True)
+            META["LEN"] = META["content"].apply(lambda x: int(len(str(x))))
+            META.to_parquet(self.srcMetas, compression="gzip")
         META = pd.read_parquet(self.srcMetas)
         return META
 
@@ -207,7 +206,8 @@ class Futurist:
         if len(stories):
             if len(stories_df):
                 stories = pd.concat([stories_df,stories]).drop_duplicates()
-            stories.reset_index(drop=True).to_parquet(self.ai.srcStories)
+            stories = stories.reset_index(drop=True)
+            stories.to_parquet(self.ai.srcStories)
 
     def getLinksPerArticle(self):
         articles = {}

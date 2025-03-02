@@ -1,42 +1,276 @@
-# __Introducing Hello Stranger: Connecting Strangers Over Dinner__, from ([20231126](https://kghosh.substack.com/p/20231126).)
+# __The Necessity of Cash in an Increasingly Digital Society: A Defense Against Cashlessness__, from ([26420.0](https://kghosh.substack.com/p/26420.0).)
 
-__[External link](https://timeleft.com/?utm_source=substack&utm_medium=email)__
+__[External link](https://brettscott.substack.com/p/the-luddites-guide-to-defending-physical-cash?utm_source=substack&utm_medium=email)__
 
 
-
-## Summary
-
-This text is promoting a social event called "Hello Stranger" where strangers can meet and have dinner together every Wednesday night. The event aims to introduce participants to five other individuals they will get along well with, based on calculations. The event promises a good time and encourages people to register for the upcoming dinner. The text emphasizes the enjoyment of dining and socializing with strangers while highlighting the regularity of the event taking place every Wednesday night.
 
 ## Keywords
 
-* introduce
-* people
-* dinner
-* Wednesday night
-* strangers
-* wine
-* dine
-* good time
-* register
-* next dinner
+* c
+* a
+* s
+* h
+* ,
+* c
+* a
+* s
+* h
+* l
+* e
+* s
+* s
+*  
+* s
+* o
+* c
+* i
+* e
+* t
+* y
+* ,
+* d
+* i
+* g
+* i
+* t
+* a
+* l
+*  
+* p
+* a
+* y
+* m
+* e
+* n
+* t
+* s
+* ,
+* m
+* o
+* n
+* e
+* t
+* a
+* r
+* y
+*  
+* p
+* o
+* w
+* e
+* r
+* ,
+* L
+* u
+* d
+* d
+* i
+* t
+* e
+* '
+* s
+*  
+* G
+* u
+* i
+* d
+* e
 
 ## Themes
 
-* socializing
-* meetings
-* dining
+* m
+* o
+* n
+* e
+* t
+* a
+* r
+* y
+*  
+* s
+* y
+* s
+* t
+* e
+* m
+* s
+* ,
+* c
+* a
+* s
+* h
+* l
+* e
+* s
+* s
+*  
+* s
+* o
+* c
+* i
+* e
+* t
+* y
+* ,
+* d
+* i
+* g
+* i
+* t
+* a
+* l
+*  
+* p
+* a
+* y
+* m
+* e
+* n
+* t
+* s
+
+## Other
+
+* Category: politics
+* Type: blog post
+
+## Summary
+
+The article, "The Luddite's Guide to Defending Cash (Part 1)," discusses the importance of cash in a society increasingly leaning towards digital payments. It challenges the narrative that digital payments are superior and inevitable, arguing that cash is a vital tool for maintaining monetary power and autonomy. The piece outlines various steps to build a case for cash, including understanding the global meta-narrative of digitization, recognizing the structural limitations of digital money, and highlighting the potential dangers of a cashless society. Through metaphors, such as comparing cash to bicycles and digital payments to Ubers, the author illustrates the complexities of dependence and autonomy in monetary systems. The article underscores the need for balance between cash and digital payments to safeguard individual rights and maintain economic resilience.
 
 ## Signals
 
-| Signal                           | Change                         | 10y horizon                                             | Driving force                                      |
-|:---------------------------------|:-------------------------------|:--------------------------------------------------------|:---------------------------------------------------|
-| Group dinner matchmaking service | Meeting new people over dinner | Increased reliance on technology for social connections | Desire for meaningful connections in a digital age |
+| name                                    | description                                                                                      | change                                                                                             | 10-year                                                                                           | driving-force                                                                             |   relevancy |
+|:----------------------------------------|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|------------:|
+| Growing Concern Over Cashless Societies | Rising public apprehension regarding the transition to cashless systems.                         | Shift from accepting cashlessness as inevitable to questioning its implications.                   | In 10 years, there may be a resurgence in cash usage and alternative payment methods.             | Growing awareness of privacy, autonomy, and inclusion issues in digital payments.         |           4 |
+| Meta-Narrative of Digitization          | A prevailing ideology promoting the transition to digital systems as unstoppable and beneficial. | Transition from viewing digitization as a necessity to recognizing its complexities and drawbacks. | In a decade, the narrative may evolve to include significant critiques of unchecked digitization. | Corporate interests promoting digitization for data and financial benefits.               |           5 |
+| Reevaluation of Digital Payments        | Increasing recognition that digital payments are not inherently superior to cash.                | From viewing digital payments as an upgrade to understanding their limitations and risks.          | In 10 years, there may be a balanced coexistence of cash and digital payments.                    | Emerging understanding of the vulnerabilities and risks associated with digital payments. |           5 |
+| Awareness of Cash's Structural Role     | Public understanding of cash's foundational role in supporting digital payment systems.          | Shift from seeing cash as obsolete to acknowledging its importance for digital stability.          | In a decade, cash may be more appreciated for its role in financial stability.                    | Increased public discourse on financial systems and their dependencies.                   |           4 |
+| Desire for Balance of Power             | Growing public sentiment for maintaining a balance between cash and digital payments.            | From total dependence on digital systems to advocating for diverse payment methods.                | In 10 years, there may be a more varied payment landscape that includes cash.                     | Concerns over privacy, surveillance, and centralization of power in digital systems.      |           5 |
+| Cultural Preference for Informality     | A societal inclination towards informal economic interactions over formalized systems.           | Shift from acceptance of total digitalization to valuing informal cash transactions.               | In a decade, informal cash transactions may see a revival alongside digital methods.              | Desire for personal autonomy and resistance against corporate control.                    |           4 |__[External link](https://timeleft.com/?utm_source=substack&utm_medium=email)__
 
-## Closest
 
-* [Embracing the Solo Diner: Making Dining Alone a Memorable Experience](387cc7d6dcac314087dfc35f2091b410)
-* [Dutch Soup Brand Launches Chat Baskets to Combat Loneliness](d73cef2dc5d458ba6b4a61dff2997181)
-* [The Radical Power of Hanging Out](edbb7336dfb26098bcc966ca17c074b9)
-* [Greeting Neighbors Linked to Higher Wellbeing](d16e5657697812f4271d7ff1d18fd874)
-* [Community Building Through Casement Windows](c4728e4ed6178e40f3f788745d12f911)
+
+## Keywords
+
+* d
+* i
+* n
+* n
+* e
+* r
+* ,
+*  
+* s
+* o
+* c
+* i
+* a
+* l
+*  
+* c
+* o
+* n
+* n
+* e
+* c
+* t
+* i
+* o
+* n
+* s
+* ,
+*  
+* s
+* t
+* r
+* a
+* n
+* g
+* e
+* r
+* s
+* ,
+*  
+* w
+* i
+* n
+* e
+*  
+* a
+* n
+* d
+*  
+* d
+* i
+* n
+* e
+* ,
+*  
+* w
+* e
+* e
+* k
+* l
+* y
+*  
+* e
+* v
+* e
+* n
+* t
+
+## Themes
+
+* s
+* o
+* c
+* i
+* a
+* l
+* ,
+*  
+* d
+* i
+* n
+* n
+* e
+* r
+* ,
+*  
+* s
+* t
+* r
+* a
+* n
+* g
+* e
+* r
+* s
+* ,
+*  
+* c
+* o
+* n
+* n
+* e
+* c
+* t
+* i
+* o
+* n
+* s
+
+## Other
+
+* Category: others
+* Type: blog post
+
+## Summary
+
+
+
+## Signals
+
+| name   | description   | change   | 10-year   | driving-force   | relevancy   |
+|--------|---------------|----------|-----------|-----------------|-------------|

@@ -1,49 +1,214 @@
-# __Science Fiction Prototyping: Modeling Future Threats__, from ([20220904](https://kghosh.substack.com/p/20220904).)
+# __Exploring Future Threats Through Science Fiction Prototyping with Brian David Johnson__, from ([8876.0](https://kghosh.substack.com/p/8876.0).)
 
 __[External link](https://farsight.cifs.dk/how-futurists-use-science-fiction-to-model-future-threats/)__
 
 
 
-## Summary
-
-Professor Brian David Johnson uses science fiction prototyping as a tool to model and assess future threats. Science fiction prototyping is a way to imagine potential futures and discover previously unseen threats. It involves using short science fiction stories to bring these futures to life and push people to think differently. Johnson has used this technique to threatcast dark futures based on Intel's technologies, which has sometimes upset his colleagues. Military institutions and organizations hire comic book writers and sci-fi authors because sci-fi prototyping can effectively communicate complex technological concepts and their effects. Sci-fi prototyping is different from other futurist methods like scenario planning because it captures the complexity and human element of future issues. Although science fiction often critiques abuses of power and warns of dark futures, sci-fi prototyping can also be used to explore all the things that could go wrong and provoke conversations about prevention and action. The goal is to make the world better and safer by envisioning and preparing for potential future scenarios.
-
 ## Keywords
 
-* science fiction prototyping
-* futures modelling tool
-* threatcasting
-* imagining possible futures
-* sci-fi prototypes
-* future threats
-* technology
-* future scenarios
-* innovation sandboxing
-* empowering action
+* s
+* c
+* i
+* e
+* n
+* c
+* e
+*  
+* f
+* i
+* c
+* t
+* i
+* o
+* n
+*  
+* p
+* r
+* o
+* t
+* o
+* t
+* y
+* p
+* i
+* n
+* g
+* ,
+*  
+* t
+* h
+* r
+* e
+* a
+* t
+* c
+* a
+* s
+* t
+* i
+* n
+* g
+* ,
+*  
+* f
+* u
+* t
+* u
+* r
+* e
+* s
+*  
+* m
+* o
+* d
+* e
+* l
+* i
+* n
+* g
+* ,
+*  
+* q
+* u
+* a
+* n
+* t
+* u
+* m
+*  
+* t
+* e
+* c
+* h
+* n
+* o
+* l
+* o
+* g
+* y
+* ,
+*  
+* f
+* u
+* t
+* u
+* r
+* i
+* s
+* t
+*  
+* m
+* e
+* t
+* h
+* o
+* d
+* o
+* l
+* o
+* g
+* i
+* e
+* s
 
 ## Themes
 
-* futures modelling
-* threat assessment
-* sci-fi prototyping
+* s
+* c
+* i
+* e
+* n
+* c
+* e
+*  
+* f
+* i
+* c
+* t
+* i
+* o
+* n
+* ,
+*  
+* f
+* u
+* t
+* u
+* r
+* i
+* s
+* m
+* ,
+*  
+* t
+* h
+* r
+* e
+* a
+* t
+*  
+* m
+* o
+* d
+* e
+* l
+* i
+* n
+* g
+* ,
+*  
+* i
+* n
+* n
+* o
+* v
+* a
+* t
+* i
+* o
+* n
+* ,
+*  
+* t
+* e
+* c
+* h
+* n
+* o
+* l
+* o
+* g
+* y
+* ,
+*  
+* s
+* t
+* o
+* r
+* y
+* t
+* e
+* l
+* l
+* i
+* n
+* g
+
+## Other
+
+* Category: science
+* Type: blog post
+
+## Summary
+
+Professor Brian David Johnson, a futurist at Arizona State University, discusses 'science fiction prototyping,' a method using sci-fi narratives to model potential future threats. Unlike traditional sci-fi, this approach aims to engage organizations in exploring unseen dangers through imaginative storytelling. Johnson explains how he employs 'threatcasting' to visualize dark futures based on technologies, provoking discussions and a deeper understanding of the implications of such threats. His work, including projects for military institutions, illustrates the effectiveness of using comic books and graphic novels to convey complex ideas. Johnson argues that this method is superior to scenario planning as it captures human complexity and encourages proactive strategies for addressing potential issues. Ultimately, the goal is to empower action and foster safer futures by contemplating the darker possibilities.
 
 ## Signals
 
-| Signal                                    | Change                                                                              | 10y horizon                                                     | Driving force                                       |
-|:------------------------------------------|:------------------------------------------------------------------------------------|:----------------------------------------------------------------|:----------------------------------------------------|
-| Science fiction prototyping               | Use of science fiction as a futures modelling tool                                  | More widespread use in organizations for threat discovery       | Need to discover potential futures and threats      |
-| Threatcasting                             | Modelling future threats and necessary steps to avoid them                          | More accurate and actionable threat models                      | Necessity to anticipate and mitigate threats        |
-| Imagination-driven futures                | Using characters and situations to bring future scenarios to life                   | More creativity and imagination in envisioning futures          | Desire to explore possibilities beyond the abstract |
-| Sci-fi prototypes as communication tools  | Using comic books and stories to provoke conversations and create a common language | Enhanced understanding and dialogue about the future            | Need for imaginative and fact-based discussions     |
-| Shift towards sci-fi prototyping          | Moving from traditional futurist methods to sci-fi prototyping                      | Increased acceptance and reliance on sci-fi for future planning | Recognition of its practicality and repeatability   |
-| Complexity and human-centric focus        | Capturing the complexity and human element in future scenarios                      | More comprehensive and realistic future models                  | Desire for detailed and relatable futures           |
-| Cautionary tales and exploration of risks | Using sci-fi prototyping to explore potential dark futures                          | Heightened awareness and prevention of negative outcomes        | Need to examine and address potential risks         |
-| Empowerment through action                | Using sci-fi prototyping to provoke action and preventive measures                  | More proactive approach towards future challenges               | Goal of making the world better and safer           |
-
-## Closest
-
-* [Designing the Future Through Science Fiction](5d2fec6b3cc04645c92e73267da0f7d9)
-* [Designing the Future through Science Fiction](a438591373b3ce215c807a83c53eabe3)
-* [The Importance of Science Fiction](8ebb431ce8d949d5a1ecb52bbd42a69f)
-* [The Power of Fiction in Shaping AI's Future](026067bce7eb8accee127cf0cac4dfa5)
-* [The Power of Design Fiction](77c0e8759215c017ab121d61a8aa37eb)
+| name                              | description                                                                  | change                                                                                         | 10-year                                                                                                  | driving-force                                                                             |   relevancy |
+|:----------------------------------|:-----------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|------------:|
+| Science Fiction Prototyping       | Using sci-fi narratives to model potential future threats and scenarios.     | Shift from traditional scenario planning to a more imaginative and detailed modeling approach. | Widespread adoption of sci-fi prototyping in strategic planning across various sectors.                  | Need for organizations to anticipate and prepare for complex future threats innovatively. |           5 |
+| Threatcasting Methodology         | A method to foresee and analyze potential future threats systematically.     | Transition from abstract future scenarios to more tangible, relatable narratives.              | Enhanced preparedness and proactive measures against emerging threats through narrative-driven planning. | Growing complexity of global challenges requiring innovative foresight strategies.        |           4 |
+| Integration of Comic Book Writers | Hiring comic book writers to communicate complex future threats.             | Move towards more engaging and relatable mediums for serious topics like security.             | Increased collaboration between creatives and technologists for effective communication of risks.        | Desire to make complex information accessible and engaging to broader audiences.          |           3 |
+| Cautionary Tales in Sci-Fi        | Utilizing science fiction to warn against potential future abuses of power.  | Shift from entertainment-focused to cautionary narratives influencing policy and technology.   | A culture of critical engagement with technology fostering ethical considerations in development.        | Rising awareness of technology's implications on society and governance.                  |           4 |
+| Quantum Technology in Warfare     | Exploration of quantum technologies' potential impacts in military contexts. | Shift in military strategies and preparations due to emerging quantum capabilities.            | Transformative advancements in warfare and defense strategies influenced by quantum technology.          | Rapid development in quantum computing necessitating new military considerations.         |           4 |

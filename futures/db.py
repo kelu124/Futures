@@ -48,12 +48,12 @@ class DB:
     def createDB(self):
 
         df = pd.read_parquet(self.srcArticles)
-        df.columns = ["src","content","LEN"]
+        df.columns = ["src","content","origin","LEN"]
         df = df[(df.LEN > 1500) & (df.LEN < 30000)].reset_index(drop=True)
         titles = pd.read_parquet(self.srcSummaries)
         df = df.merge(titles, on="src",how="left")
         mt = pd.read_parquet(self.srcMetas )
-        mt = mt[["themes","category","keywords","origin","url","src"]]
+        mt = mt[["themes","category","keywords","url","src"]]
         df = df.merge(mt,on="src",how="left")
 
         df["source"] = df.url
@@ -77,7 +77,7 @@ class DB:
         else:
             print("# VectorDB: continue on the DB")
             self.vectordb = Chroma(persist_directory=self.basepath, embedding_function=self.ai.underlying_embeddings)
-            print("-",len(self.vectordb.get()["ids"]),"elements already stored.")
+            print("- VectorDB: ",len(self.vectordb.get()["ids"]),"elements already stored.")
             LSDOCS = self.vectordb.get()["documents"]
 
         print("- VectorDB: adding",len(chunked_documents),"documents.")

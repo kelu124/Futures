@@ -1,0 +1,294 @@
+# __Survey Insights: Essential Tools and Challenges for Open Source Researchers__, from ([17340.0](https://kghosh.substack.com/p/17340.0).)
+
+__[External link](https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/?utm_source=substack&utm_medium=email)__
+
+
+
+## Keywords
+
+* o
+* p
+* e
+* n
+*  
+* s
+* o
+* u
+* r
+* c
+* e
+* ,
+*  
+* o
+* n
+* l
+* i
+* n
+* e
+*  
+* r
+* e
+* s
+* e
+* a
+* r
+* c
+* h
+* ,
+*  
+* t
+* o
+* o
+* l
+* s
+* ,
+*  
+* s
+* u
+* r
+* v
+* e
+* y
+* ,
+*  
+* r
+* e
+* s
+* e
+* a
+* r
+* c
+* h
+* e
+* r
+* s
+* ,
+*  
+* t
+* o
+* o
+* l
+*  
+* d
+* e
+* v
+* e
+* l
+* o
+* p
+* m
+* e
+* n
+* t
+* ,
+*  
+* G
+* o
+* o
+* g
+* l
+* e
+* ,
+*  
+* M
+* a
+* l
+* t
+* e
+* g
+* o
+* ,
+*  
+* G
+* i
+* t
+* H
+* u
+* b
+
+## Themes
+
+* o
+* p
+* e
+* n
+*  
+* s
+* o
+* u
+* r
+* c
+* e
+*  
+* r
+* e
+* s
+* e
+* a
+* r
+* c
+* h
+* ,
+*  
+* o
+* n
+* l
+* i
+* n
+* e
+*  
+* t
+* o
+* o
+* l
+* s
+* ,
+*  
+* r
+* e
+* s
+* e
+* a
+* r
+* c
+* h
+* e
+* r
+*  
+* n
+* e
+* e
+* d
+* s
+* ,
+*  
+* t
+* o
+* o
+* l
+*  
+* d
+* e
+* v
+* e
+* l
+* o
+* p
+* m
+* e
+* n
+* t
+
+## Other
+
+* Category: technology
+* Type: blog post
+
+## Summary
+
+A survey of over 500 open source researchers highlighted their diverse backgrounds and tool usage preferences, revealing a strong need for free, user-friendly tools. Google emerged as the most favored tool, followed by Google Earth Pro and Maltego. While many researchers appreciated scraping tools, their complexity limited usage. Key challenges identified included source verification, managing information overload, and a lack of coding skills. Respondents expressed frustration with tools lacking clear documentation, and many struggled to find appropriate resources, indicating a demand for better-designed tools with comprehensive guidance. Developers are encouraged to create accessible tools that address these needs, as the community is eager for innovations that enhance their research capabilities.
+
+## Signals
+
+| name                                        | description                                                                                             | change                                                                                            | 10-year                                                                                                                    | driving-force                                                                                                        |   relevancy |
+|:--------------------------------------------|:--------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|------------:|
+| Diverse Background of Researchers           | Survey respondents come from varied professional backgrounds and levels of expertise.                   | Shift from professional researchers to a more inclusive community of hobbyists and volunteers.    | In ten years, open source research might be significantly democratized, attracting more diverse contributors.              | The increasing accessibility of online research tools and platforms encourages participation from non-professionals. |           4 |
+| Need for User-Friendly Tools                | Researchers prefer tools that do not require advanced technical skills, such as coding or command line. | Transition from complex tools to more intuitive, accessible applications for a broader user base. | Ten years from now, we may see a proliferation of user-friendly tools tailored for non-technical users.                    | The growing demand for inclusivity and accessibility in research tools to accommodate varying skill levels.          |           5 |
+| Frustration with Paid Tools                 | Many researchers struggle with the cost of paid tools, feeling they do not provide adequate value.      | Shift from reliance on paid tools to a preference for high-quality free or freemium options.      | In a decade, the market for research tools may be dominated by effective free solutions due to user demand.                | The financial constraints of many researchers drive the need for affordable alternatives in research tools.          |           4 |
+| Struggles with Information Overload         | Researchers report feeling overwhelmed by the sheer volume of available information.                    | From manageable amounts of information to a deluge, complicating the research process.            | Research processes may evolve to include advanced filtering and sorting tools to manage information overload.              | The exponential growth of online content necessitates better organization and retrieval solutions for researchers.   |           5 |
+| Desire for Comprehensive Tool Documentation | Researchers expressed the need for detailed, accessible documentation for tools they use.               | Shift from vague documentation to comprehensive guides and tutorials that enhance usability.      | In ten years, standardized, high-quality documentation may become a norm across research tools, enhancing user experience. | The need for user retention and satisfaction drives developers to provide better support and guidance.               |           4 |
+| Motivation to Learn New Tools               | A significant portion of researchers is open to trying new tools and eager to learn.                    | From reluctance to explore new technologies to a proactive approach in adopting innovative tools. | In the future, open-source research may foster a culture of continuous learning and tool innovation.                       | Curiosity and the desire for improved efficiency encourage researchers to embrace new technologies.                  |           3 |
+| Challenges in Finding Relevant Tools        | Researchers find it difficult and time-consuming to locate the right tools for their work.              | From easy access to tools to a fragmented landscape that complicates tool discovery.              | In a decade, improved search and recommendation systems may streamline the process of finding suitable research tools.     | The necessity for efficiency in research motivates the development of better tool discovery platforms.               |           4 |
+| Concerns Over Tool Limitations              | Researchers are wary of tools that overpromise and underdeliver on their capabilities.                  | Shift from trust in established tools to skepticism regarding their actual functionality.         | Future tools may prioritize transparency about their capabilities, fostering trust between developers and users.           | User feedback and the need for accountability push developers to be more transparent about tool limitations.         |           4 |__[External link](https://twitter.com/TrentTelenko/status/1507056013245128716?s=20&t=WtKRfDx_RHCqzE6mLuvYOA&mc_cid=4454d81e20&mc_eid=1e79b50c11&utm_source=substack&utm_medium=email)__
+
+
+
+## Keywords
+
+* t
+* w
+* i
+* t
+* t
+* e
+* r
+* ,
+*  
+* s
+* u
+* p
+* p
+* o
+* r
+* t
+* e
+* d
+*  
+* b
+* r
+* o
+* w
+* s
+* e
+* r
+* s
+* ,
+*  
+* h
+* e
+* l
+* p
+*  
+* c
+* e
+* n
+* t
+* e
+* r
+
+## Themes
+
+* b
+* r
+* o
+* w
+* s
+* e
+* r
+*  
+* s
+* u
+* p
+* p
+* o
+* r
+* t
+* ,
+*  
+* u
+* s
+* e
+* r
+*  
+* g
+* u
+* i
+* d
+* a
+* n
+* c
+* e
+
+## Other
+
+* Category: technology
+* Type: error message
+
+## Summary
+
+
+
+## Signals
+
+| name   | description   | change   | 10-year   | driving-force   | relevancy   |
+|--------|---------------|----------|-----------|-----------------|-------------|

@@ -1,59 +1,209 @@
-# __Roboticists Want to Give You a Third Arm__, from ([20230205](https://kghosh.substack.com/p/20230205).)
+# __Exploring the Future of Human Augmentation with Extra Robotic Limbs and Neural Control__, from ([20230205](https://kghosh.substack.com/p/20230205).)
 
 __[External link](https://spectrum.ieee.org/human-augmentation)__
 
 
 
-## Summary
-
-Recent progress in robotics and neuroscience has made extra robotic limbs a possibility with today's technology. Researchers are working on exploring whether humans can effectively control additional body parts and what neural signals can be used for this control. The goal is to improve human abilities and expand what they can do beyond their natural bodies. Robotic limbs are already being used to enhance abilities and assist people with amputations or paralysis, but true mind-controlled prosthetics are still rare. Researchers are exploring noninvasive ways to pick up brain commands, such as using electromyography (EMG) signals produced by muscles. They have developed a real-time method to extract signals from spinal motor neurons and are now investigating the use of spare neural information to control robotic limbs. The next steps include connecting the control technology to external devices and understanding the impact of this technology on neural processes. Other research groups are also exploring different control mechanisms for movement augmentation. The ultimate goal is to achieve neural control of extra robotic limbs while allowing for natural movement and everyday use.
-
 ## Keywords
 
-* extra limb
-* surgeon
-* robotic limb
-* construction worker
-* exoskeleton
-* neuroscience
-* neurotechnology
-* human augmentation
-* robotic limbs
-* neural signals
+* r
+* o
+* b
+* o
+* t
+* i
+* c
+*  
+* l
+* i
+* m
+* b
+* s
+* ,
+*  
+* b
+* r
+* a
+* i
+* n
+*  
+* c
+* o
+* n
+* t
+* r
+* o
+* l
+* ,
+*  
+* h
+* u
+* m
+* a
+* n
+*  
+* e
+* n
+* h
+* a
+* n
+* c
+* e
+* m
+* e
+* n
+* t
+* ,
+*  
+* n
+* e
+* u
+* r
+* a
+* l
+*  
+* i
+* n
+* t
+* e
+* r
+* f
+* a
+* c
+* e
+* s
+* ,
+*  
+* E
+* M
+* G
+* ,
+*  
+* B
+* M
+* I
 
 ## Themes
 
-* human augmentation
-* robotic limbs
-* neural control
+* r
+* o
+* b
+* o
+* t
+* i
+* c
+* s
+* ,
+*  
+* n
+* e
+* u
+* r
+* o
+* s
+* c
+* i
+* e
+* n
+* c
+* e
+* ,
+*  
+* h
+* u
+* m
+* a
+* n
+*  
+* a
+* u
+* g
+* m
+* e
+* n
+* t
+* a
+* t
+* i
+* o
+* n
+* ,
+*  
+* b
+* r
+* a
+* i
+* n
+* -
+* m
+* a
+* c
+* h
+* i
+* n
+* e
+*  
+* i
+* n
+* t
+* e
+* r
+* f
+* a
+* c
+* e
+* s
+* ,
+*  
+* e
+* l
+* e
+* c
+* t
+* r
+* o
+* m
+* y
+* o
+* g
+* r
+* a
+* p
+* h
+* y
+* ,
+*  
+* n
+* e
+* u
+* r
+* a
+* l
+*  
+* s
+* i
+* g
+* n
+* a
+* l
+* s
+
+## Other
+
+* Category: science
+* Type: research article
+
+## Summary
+
+Recent advancements in robotics and neuroscience have led researchers to explore the possibility of augmenting human abilities with additional robotic limbs. The study focuses on whether the human brain can effectively control extra limbs and the neural signals needed for this control. Current robotic systems often require manual input, but researchers aim to develop mind-controlled prosthetics using noninvasive methods like electromyography (EMG). They have discovered that higher frequency neural signals may be utilized to control these robotic limbs, potentially allowing for greater dexterity without sacrificing natural movement. Future research will assess the practical applications of this technology and its impact on neural processes, with hopes of creating intuitive control systems for everyday use.
 
 ## Signals
 
-| Signal                          | Change                               | 10y horizon              | Driving force                     |
-|:--------------------------------|:-------------------------------------|:-------------------------|:----------------------------------|
-| Roboticists want to give you a  | Addition of extra robotic limbs      | More people using extra  | Desire to extend human abilities  |
-| third arm                       |                                      | limbs for various tasks  |                                   |
-| Unused bandwidth in neurons can | From controlling biological parts    | More effective control   | Desire to improve human abilities |
-| be tapped to control extra      | to controlling extra robotic limbs   | of extra robotic limbs   |                                   |
-| limbs                           |                                      |                          |                                   |
-| Augmentation of the human body  | From current augmentation levels     | More advanced and        | Desire to enhance human abilities |
-| can be achieved with invasive   | to new levels of augmentation        | sophisticated human      |                                   |
-| BMI implants, EEG technology,   |                                      | augmentation systems     |                                   |
-| and EMG signals                 |                                      |                          |                                   |
-| Neural signals from muscles can | From current control mechanisms      | Improved control of      | Desire for more accurate control  |
-| be used for control purposes    | to using neural signals from muscles | extra robotic limbs      |                                   |
-|                                 |                                      |                          |                                   |
-| Spare frequencies in neural     | From using neural signals for muscle | Control of robotic limbs | Desire to utilize spare bandwidth |
-| signals can be used to control  | control                              | using spare frequencies  | in neural signals                 |
-| robotic limbs                   |                                      | in neural signals        |                                   |
-| Controlling extra robotic limbs | From current limitations             | Concurrent control of    | Desire for practical technology   |
-| concurrently with natural       |                                      | extra limbs with natural |                                   |
-| movement is a challenge         |                                      | movement                 |                                   |
-
-## Closest
-
-* [Revolutionary Prosthetic Provides Control and Comfort](90accf3ba55fb5e705bbaa47ad145c50)
-* [Revolutionizing Medical Technologies with Optrodes](7aeb03c0771769ceb99c3085c141c1fe)
-* [Living Robot Powered by Mushroom](14bde94df37ad065cd108bc30f3903c1)
-* [Mind-Reading Technologies: Opportunities and Concerns](95a515aafcc880230a55f57c5d902d3f)
-* [Robotic 'Third Thumb' Expands Hand's Range of Motion, Carrying Capacity](7718baede32403f5a59ce5254e61c010)
+| name                                  | description                                                                            | change                                                                                           | 10-year                                                                                                              | driving-force                                                                                                       |   relevancy |
+|:--------------------------------------|:---------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------|------------:|
+| Neuroscience of Extra Limbs           | Research is exploring how the human brain can control extra robotic limbs effectively. | Shift from limited control of biological limbs to potential mastery over multiple robotic limbs. | In 10 years, people may routinely use extra robotic limbs in daily tasks, enhancing capabilities significantly.      | Advancements in neuroscience and robotics are driving the exploration of human augmentation technologies.           |           4 |
+| High-Density EMG Technology           | High-density EMG can decode neural signals for controlling prosthetics non-invasively. | Transition from invasive brain-machine interfaces to non-invasive control of robotic limbs.      | Non-invasive technologies may enable widespread use of robotic limbs without surgical procedures.                    | The demand for accessible rehabilitation solutions is pushing advancements in non-invasive neural interfaces.       |           5 |
+| Unused Neural Bandwidth               | Discovery of unused higher-frequency neural signals that may control robotic limbs.    | Recognition of previously overlooked neural signals that can control robotic devices.            | There may be a new understanding of neural signal utility, leading to advanced control systems for robotic limbs.    | The pursuit of innovative control methods for robotics is fueling research into neural signal applications.         |           4 |
+| Multi-Limb Virtual Environment (MUVE) | Development of a virtual reality platform for testing robotic arm control.             | From traditional training to immersive simulations for training with multiple robotic limbs.     | Virtual environments may become standard for training users in controlling multiple robotic limbs efficiently.       | The integration of virtual reality in training systems is enhancing user experience and effectiveness.              |           3 |
+| Cognitive Load of Extra Limbs         | Exploration of cognitive load required to control additional robotic limbs.            | Understanding the balance between focus and multitasking with robotic limb control.              | Future systems may allow seamless integration of multiple limbs into daily activities with minimal cognitive strain. | The need for practical applications of robotic limbs is prompting studies on user experience and cognitive factors. |           4 |
+| Global Research Collaboration         | Collaborative efforts among international research groups on human augmentation.       | From isolated research to a more interconnected global effort in neuroscience and robotics.      | A global knowledge-sharing framework may emerge, accelerating advancements in human augmentation technologies.       | The complexity of challenges in augmentation drives collaboration across institutions worldwide.                    |           3 |

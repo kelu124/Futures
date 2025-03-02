@@ -29,3 +29,6 @@ db = DB(llm)
 # Pages writer
 pw = PagesWriter(db=db)
 pw.createPages_metaPrep()
+# Creating actual pages
+pw.createPages()
+pw.createPagesIndex()
