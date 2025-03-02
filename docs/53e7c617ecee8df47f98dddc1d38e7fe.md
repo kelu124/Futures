@@ -6,189 +6,20 @@ __[External link](https://techcrunch.com/2025/01/05/united-airlines-accelerates-
 
 ## Keywords
 
-* U
-* n
-* i
-* t
-* e
-* d
-*  
-* A
-* i
-* r
-* l
-* i
-* n
-* e
-* s
-* ,
-*  
-* S
-* t
-* a
-* r
-* l
-* i
-* n
-* k
-* ,
-*  
-* i
-* n
-* -
-* f
-* l
-* i
-* g
-* h
-* t
-*  
-* W
-* i
-* -
-* F
-* i
-* ,
-*  
-* a
-* v
-* i
-* a
-* t
-* i
-* o
-* n
-* ,
-*  
-* c
-* u
-* s
-* t
-* o
-* m
-* e
-* r
-*  
-* e
-* x
-* p
-* e
-* r
-* i
-* e
-* n
-* c
-* e
-* ,
-*  
-* M
-* i
-* l
-* e
-* a
-* g
-* e
-* P
-* l
-* u
-* s
+* United Airlines
+* Starlink
+* in-flight Wi-Fi
+* aviation
+* customer experience
+* MileagePlus
 
 ## Themes
 
-* U
-* n
-* i
-* t
-* e
-* d
-*  
-* A
-* i
-* r
-* l
-* i
-* n
-* e
-* s
-* ,
-*  
-* S
-* t
-* a
-* r
-* l
-* i
-* n
-* k
-* ,
-*  
-* i
-* n
-* -
-* f
-* l
-* i
-* g
-* h
-* t
-*  
-* i
-* n
-* t
-* e
-* r
-* n
-* e
-* t
-*  
-* a
-* c
-* c
-* e
-* s
-* s
-* ,
-*  
-* a
-* v
-* i
-* a
-* t
-* i
-* o
-* n
-*  
-* t
-* e
-* c
-* h
-* n
-* o
-* l
-* o
-* g
-* y
-* ,
-*  
-* c
-* u
-* s
-* t
-* o
-* m
-* e
-* r
-*  
-* e
-* x
-* p
-* e
-* r
-* i
-* e
-* n
-* c
-* e
+* United Airlines
+* Starlink
+* in-flight internet access
+* aviation technology
+* customer experience
 
 ## Other
 
@@ -208,3 +39,29 @@ United Airlines has expedited its partnership with Starlink to provide in-flight
 | Increased Loyalty Program Benefits          | Starlink service will enhance benefits for United's MileagePlus members.              | From basic rewards to more valuable, tech-enhanced loyalty incentives for frequent flyers.             | Loyalty programs may evolve to include more tech-driven benefits, enhancing customer retention strategies.                   | The competitive airline industry seeks innovative ways to attract and retain loyal customers.            |           4 |
 | Streaming and Gaming Demand on Flights      | High bandwidth from Starlink enables streaming and gaming during flights.             | From limited media consumption options to full access to streaming services and online games.          | In 10 years, in-flight entertainment may mirror home options, changing how passengers plan their activities.                 | The rising culture of streaming and gaming among consumers, even during travel.                          |           5 |
 | Partnerships and Collaborations in Aviation | Starlink's service may lead to new partnerships for United Airlines.                  | From traditional airline services to innovative collaborations enhancing customer experiences.         | Airlines could form diverse partnerships to offer unique services, reshaping the travel ecosystem.                           | The drive for airlines to differentiate themselves in a competitive market through innovative services.  |           4 |
+
+## Behaviors
+
+| name                                     | description                                                                                                                                    |   relevancy |
+|:-----------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Enhanced In-Flight Connectivity          | United Airlines is implementing Starlink for in-flight internet, providing a ground-like Wi-Fi experience for passengers.                      |           5 |
+| Accelerated Technology Adoption          | United Airlines is fast-tracking the installation of Starlink technology, indicating a shift towards rapid deployment of new tech in aviation. |           4 |
+| Customer-Centric Innovations             | Focus on enhancing passenger experience through innovative solutions like free Wi-Fi for MileagePlus members.                                  |           4 |
+| Partnership Expansion through Technology | Starlink's integration is expected to unlock new partnerships and benefits for frequent flyers, emphasizing collaboration.                     |           4 |
+| Multi-Device Connectivity                | Passengers will be able to connect multiple devices under one account, enhancing user convenience.                                             |           3 |
+
+## Technologies
+
+| name                               | description                                                                                                            |   relevancy |
+|:-----------------------------------|:-----------------------------------------------------------------------------------------------------------------------|------------:|
+| Starlink in-flight internet access | Satellite-based internet service providing high-speed connectivity during flights, enhancing the in-flight experience. |           5 |
+
+## Issues
+
+| name                                | description                                                                                                                           |   relevancy |
+|:------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| In-flight Connectivity Revolution   | The integration of Starlink for in-flight Wi-Fi is set to significantly enhance passenger connectivity, changing travel expectations. |           5 |
+| Impact on Airline Partnerships      | The ability to offer advanced connectivity may lead to new business partnerships and service enhancements in the airline industry.    |           4 |
+| Passenger Experience Transformation | Improved in-flight internet will transform the overall flying experience, allowing for streaming and productivity.                    |           5 |
+| Frequent Flyer Program Innovations  | United's MileagePlus program could evolve significantly by incorporating new connectivity benefits for members.                       |           4 |
+| Regulatory Challenges               | The rollout of satellite-based internet in aviation may face regulatory scrutiny and challenges across different regions.             |           3 |

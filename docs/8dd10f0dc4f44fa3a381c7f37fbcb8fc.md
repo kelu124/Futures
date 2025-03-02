@@ -1,46 +1,71 @@
-# __The Future of Generative AI is Niche, Not Generalized__, from ([20230521](https://kghosh.substack.com/p/20230521).)
+# __The Niche Future of Generative AI: Beyond Generalized Chatbots__, from ([6868.0](https://kghosh.substack.com/p/6868.0).)
 
 __[External link](https://www.technologyreview.com/2023/04/27/1072102/the-future-of-generative-ai-is-niche-not-generalized/)__
 
 
 
-## Summary
-
-The future of generative AI lies in its application to specific domains and contexts, rather than aiming for generalized AI. While there has been hype surrounding generative AI, it's important not to overlook immediate risks such as sustainability and bias. Generative AI systems, like ChatGPT, can be valuable tools for niche domains by providing novel ways of finding and exploring specific information. Organizations, such as Expedia, can leverage these tools to gain a competitive edge in information discovery. OpenAI is capitalizing on this opportunity by offering access to its generative AI systems, but there are also options for self-hosted large language models (LLMs) that provide privacy advantages. The future of generative AI will involve domain-specific language models and fine-tuning publicly available LLMs on specific data to develop useful information retrieval tools. Overall, the success of generative AI lies in its integration into specific contexts, where it can become a useful and embedded technology.
-
 ## Keywords
 
-* generative AI
-* specific domains
-* contexts
-* sustainability
-* bias
-* tools
-* information discovery
-* large language models
-* OpenAI
-* self-hosted LLMs
+* ChatGPT
+* Thoughtworks
+* LLMs
+* self-hosted models
+* privacy issues
 
 ## Themes
 
-* Future of generative AI
-* Niche applications of AI
-* Value of generative AI
+* generative ai
+* artificial intelligence
+* niche applications
+* data privacy
+* domain-specific models
+
+## Other
+
+* Category: technology
+* Type: blog post
+
+## Summary
+
+The future of generative AI is shifting towards niche applications rather than generalized solutions. While ChatGPT has generated excitement about artificial general intelligence, the real advancement lies in utilizing AI tools for specific domains, enhancing data interaction and retrieval. Companies are exploring self-hosted language models (LLMs) and domain-specific applications, which address privacy concerns and improve information management. This trend indicates a less threatening relationship between humans and AI, akin to tools like GitHub Copilot, which assists in specific contexts rather than replacing human expertise. The success of generative AI will be measured not by grand proclamations but by its seamless integration into everyday tasks.
 
 ## Signals
 
-| Signal                                   | Change                                               | 10y horizon                                    | Driving force                                  |
-|:-----------------------------------------|:-----------------------------------------------------|:-----------------------------------------------|:-----------------------------------------------|
-| Generative AI shifting to niche domains  | From generalized AI to specific domains              | More specialized AI tools for specific domains | Need for novel ways of finding specific info   |
-| OpenAI's ChatGPT plugin initiative       | More organizations adopting generative AI systems    | More products and interfaces backed by AI      | Commercial opportunity and market advantage    |
-| Self-hosted LLMs                         | Less reliance on OpenAI for generative AI technology | Increased privacy and data control             | Concerns with privacy and data management      |
-| Domain-specific language models emerging | Fine-tuning LLMs for specific information retrieval  | More useful information retrieval tools        | Improved customer support and content creation |
-| Subtle shift in relationship with AI     | AI becoming embedded in context                      | AI losing mystique and becoming useful         | Realization that AI doesn't know everything    |
+| name                             | description                                                                                    | change                                                                                                        | 10-year                                                                                                                   | driving-force                                                                                                      |   relevancy |
+|:---------------------------------|:-----------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------|------------:|
+| Niche Focus of Generative AI     | Generative AI is expected to become more specialized rather than generalized.                  | Shift from general-purpose AI tools to domain-specific applications tailored for unique contexts.             | In ten years, generative AI may predominantly serve niche industries with tailored solutions enhancing productivity.      | The need for organizations to utilize AI for specific tasks and improve efficiency drives this change.             |           4 |
+| Self-Hosted Language Models      | The rise of self-hosted large language models (LLMs) is being observed.                        | Transition from reliance on centralized AI services to decentralized, self-hosted solutions for data privacy. | In a decade, self-hosted LLMs could become the norm, empowering businesses to manage their own AI tools securely.         | Growing concerns about data privacy and control over proprietary information motivate this trend.                  |           5 |
+| Domain-Specific Language Models  | Emergence of language models fine-tuned for specific domains and datasets.                     | Shift from general language models to those optimized for particular sectors or applications.                 | In ten years, domain-specific models may dominate fields like customer support and content creation, enhancing relevance. | The necessity for more effective information retrieval and task-specific AI applications fosters this development. |           4 |
+| Prosaic Success of Generative AI | The successful integration of generative AI may appear unremarkable rather than revolutionary. | Moving from grand AI expectations to practical, everyday applications that enhance workflows.                 | In a decade, generative AI will be seamlessly integrated into daily tasks, becoming an unnoticed yet vital tool.          | The desire for practical utility in technology drives acceptance of AI as a routine aspect of work.                |           3 |
 
-## Closest
+## Behaviors
 
-* [Challenges and Concerns in AI Deployment](382e9ebc1e518ee49e541da1e6b5f8af)
-* [The Uncertain Future of Generative AI](f35afe43c2e3b465b8ed4b00023cb0ac)
-* [The Setbacks and Realities of Generative AI in 2024](cab076719e173aa2eee9c4773a4559cd)
-* [The Impact of Generative AI on Business and Society](aa811fcb765939e9ead9542accd38a5b)
-* [Creating and Destroying Value with Generative AI](15d4ec180189ca1739398f516844cefb)
+| name                            | description                                                                                                                                 |   relevancy |
+|:--------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Niche Application of AI         | Generative AI is shifting focus from generalist tools to specialized applications tailored for specific domains and contexts.               |           5 |
+| Self-hosting of AI Models       | Organizations are increasingly opting to self-host large language models for greater control and privacy over their data.                   |           4 |
+| Domain-specific Language Models | Emergence of models fine-tuned on specific datasets for improved information retrieval and task performance.                                |           4 |
+| Contextual AI Interaction       | Users are developing a more contextual relationship with AI, seeing it as a supportive tool rather than an omniscient entity.               |           5 |
+| DIY AI Development              | Growing interest in do-it-yourself approaches to AI, with companies and developers creating their custom solutions.                         |           4 |
+| Pragmatic AI Use Cases          | The utility of AI is becoming more practical and mundane, focusing on enhancing existing workflows rather than presenting as revolutionary. |           5 |
+
+## Technologies
+
+| name                                            | description                                                                                           |   relevancy |
+|:------------------------------------------------|:------------------------------------------------------------------------------------------------------|------------:|
+| Domain-specific Language Models                 | Models fine-tuned on specific datasets to improve information retrieval in particular contexts.       |           4 |
+| Self-hosted Large Language Models (LLMs)        | LLMs that organizations can deploy on their own infrastructure for privacy and customization.         |           5 |
+| ChatGPT Plugins                                 | Plugins developed for ChatGPT to enhance its functionality in specific industries or applications.    |           4 |
+| Generative AI Tools for Niche Applications      | Generative AI applied to specialized tasks rather than generalist uses, providing tailored solutions. |           4 |
+| AI-Assisted Coding Tools (e.g., GitHub Copilot) | AI tools used by developers for contextual assistance in coding, enhancing productivity and learning. |           4 |
+
+## Issues
+
+| name                                               | description                                                                                                                        |   relevancy |
+|:---------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Niche AI Applications                              | Generative AI is shifting towards specialized applications rather than generalist uses, focusing on specific domains and contexts. |           4 |
+| Privacy Concerns in AI                             | Self-hosted language models may address privacy issues associated with using large tech companies' AI products.                    |           5 |
+| Domain-Specific Language Models                    | Emergence of domain-specific models fine-tuned on proprietary data for improved information retrieval.                             |           4 |
+| Shift in Human-AI Interaction                      | As generative AI becomes more embedded in specific contexts, the relationship between humans and AI will evolve.                   |           3 |
+| DIY AI Solutions                                   | Growing trend of self-hosting AI models allows organizations to maintain control over their data and applications.                 |           4 |
+| AI's Role in Customer Support and Content Creation | Generative AI could enhance the productivity of customer support staff and content creators through specialized tools.             |           3 |

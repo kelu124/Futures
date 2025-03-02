@@ -1,51 +1,76 @@
-# __New AI Tools Preserve Memories of Deceased Relatives__, from ([20220824](https://kghosh.substack.com/p/20220824).)
+# __Exploring New AI Tools for Conversing with Departed Loved Ones__, from ([5338.0](https://kghosh.substack.com/p/5338.0).)
 
 __[External link](https://www.axios.com/2022/07/13/artificial-intelligence-chatbots-dead-relatives-grandma)__
 
 
 
-## Summary
-
-New AI tools are allowing people to have interactive conversations with their deceased relatives, raising questions about whether this is creepy or cool. These tools, such as StoryFile, enable families to preserve memories and personal connections with their ancestors. The tools have been used to record the memories of notable individuals, including celebrities and Holocaust survivors. StoryFile was used at the memorial service of actor Ed Asner, where mourners had the opportunity to converse with him through an interactive display. While some people found it unsettling, most were amazed by the technology. These memory-preservation programs have the potential to change the way history is collected and emphasize the importance of personal stories.
-
 ## Keywords
 
-* AI tools
-* chat
-* dead relatives
-* genealogy
-* ancestry
-* memories
-* personal connections
+* AI
+* digital memories
 * StoryFile
-* Ed Asner
-* interactive display
+* death
+* genealogy
+* interactive conversation
 
 ## Themes
 
-* AI technology
+* AI tools
 * memory preservation
-* digital memories
+* interactive conversations
+* genealogy
+* technological advancements
+
+## Other
+
+* Category: technology
+* Type: news
+
+## Summary
+
+New AI tools, like StoryFile, allow users to interact with deceased relatives through recorded video interviews, preserving memories and connections for future generations. These tools cater to genealogy interests and have been showcased at memorials, like Ed Asner's, where attendees could "converse" with him using AI technology. Additional innovations include Amazon's Alexa replicating voices of the deceased, MyHeritage's photo animation tool, and Microsoft’s chatbot patents. Despite some initial discomfort, many users find these experiences comforting and engaging. Experts believe these memory-preservation technologies could alter historical documentation and highlight the significance of personal stories.
 
 ## Signals
 
-| Signal                                                                                                                | Change                                                                            | 10y horizon                                                                             | Driving force                                                                |
-|:----------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------|
-| New AI tools for chatting with dead relatives                                                                         | Preservation of memories and personal connections                                 | More advanced AI tools for interactive conversations with deceased loved ones           | Interest in genealogy and ancestry                                           |
-| Tools used to record the memories of noteworthy people                                                                | Recording and preserving the memories of notable individuals                      | Increased accessibility and use of tools for preserving memories                        | Desire to preserve the legacies of notable individuals                       |
-| StoryFile used at Ed Asner's memorial service                                                                         | Conversations with deceased loved ones through interactive displays               | Widely available interactive displays for conversing with the deceased                  | Desire to maintain a sense of connection with deceased loved ones            |
-| Amazon's experimental Alexa feature that reads books aloud in the voice of a late relative                            | Artificially recreating the voices of deceased loved ones                         | Improved technology for recreating the voices of deceased loved ones                    | Desire to hear the voices of deceased loved ones                             |
-| MyHeritage's "Deep Nostalgia" tool for animating old-timey photographs of relatives                                   | Animation of old photographs for a more interactive experience                    | Enhanced animation technology for more realistic and interactive animations             | Desire to bring old photographs to life                                      |
-| HereAfter AI for recording personal stories and experiences                                                           | Recording and preserving personal stories for future generations                  | More advanced AI tools for recording and preserving personal stories                    | Desire to share personal stories with future generations                     |
-| Microsoft's patent for creating "chatbots" that mimic individual people based on social media posts and text messages | Creation of chatbots that mimic deceased or living individuals                    | More realistic and accurate chatbots based on extensive data                            | Desire to interact with simulated versions of deceased or living individuals |
-| Growing familiarity with AI programs through deepfakes, science fiction, and holograms                                | Integration of AI programs in various forms of media and entertainment            | Increased use and acceptance of AI programs for simulating deceased individuals         | Fascination with and curiosity about the capabilities of AI                  |
-| Potential future development of AI that responds in a human-like way to new situations                                | Creation of AI with enhanced adaptability and human-like behavior                 | AI that can effectively respond to novel situations in a human-like manner              | Advancements in AI technology and algorithms                                 |
-| Memory-preservation programs changing the way history is collected                                                    | Shift in the preservation and documentation of personal and historical narratives | Increased emphasis on personal stories and individual experiences in historical records | Recognition of the value of personal narratives in shaping history           |
+| name                                            | description                                                                              | change                                                                              | 10-year                                                                                                | driving-force                                                                               |   relevancy |
+|:------------------------------------------------|:-----------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|------------:|
+| AI-Enhanced Conversations with the Deceased     | AI tools enabling conversations with deceased relatives using pre-recorded videos.       | Shifting from traditional grieving practices to interactive digital memories.       | In 10 years, AI may allow seamless interactions with deceased loved ones, changing memorial practices. | Growing interest in genealogy and preserving family memories through technology.            |           4 |
+| Digital Memory Preservation                     | Tools that help families preserve and interact with the memories of their relatives.     | Transitioning from physical memorials to digital interactions and memories.         | Digital archives of personal histories may become commonplace in family traditions.                    | Advancements in technology facilitating the recording and sharing of personal histories.    |           5 |
+| Mainstream Acceptance of AI in Mourning         | AI tools for interacting with deceased relatives becoming accepted in memorial services. | From skepticism to acceptance of AI as a means to cope with loss.                   | AI may be standard in funerals, helping families to connect with memories of the departed.             | Desire for emotional closure and connection with lost loved ones.                           |           4 |
+| Integration of AI in Personal Storytelling      | AI tools being used to animate photographs and tell stories of relatives.                | From static memories to dynamic, interactive storytelling experiences.              | Storytelling may become an interactive experience with AI narrating family histories.                  | Increased emphasis on personal narratives and family histories in modern culture.           |           3 |
+| Cultural Shift in Memory and History Collection | Emerging programs altering how personal and historical narratives are recorded.          | Moving from traditional history collection methods to technology-driven approaches. | History may be increasingly recorded through personal AI interactions instead of written accounts.     | The democratization of storytelling through technology allowing diverse voices to be heard. |           4 |
+| AI's Role in Grief Management                   | AI technologies being utilized to aid in the grieving process through interaction.       | Shifting from solitary grief to shared experiences with AI representations.         | AI may provide personalized grief support, transforming how people process loss.                       | The need for emotional support and connection during the grieving process.                  |           5 |
 
-## Closest
+## Behaviors
 
-* [The Creepy Digital Afterlife Industry](b3bf37e3b59a56380f056d4a3df78395)
-* [Connecting with the Deceased Through Technology](f97f969e4aadfbae3dee287de4ab721d)
-* [Amazon Plans to Turn Deceased Loved Ones' Voices into Digital Assistants](316c2bc07bdae32ea05595973043b766)
-* [AI Connects Cartoonist with Deceased Grandfather](671d185f0e81893e18bdb04993e7d1c7)
-* [Alexa Voice Assistant Replicates Human Voices](95a21e5407df1f9dfe1f323e5a827e94)
+| name                          | description                                                                                                                                    |   relevancy |
+|:------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Digital Resurrection          | Utilizing AI to create interactive experiences with deceased relatives, preserving memories and facilitating conversations across generations. |           5 |
+| Genealogy Engagement          | Increased interest in genealogy tools that help families maintain connections with past relatives through technology.                          |           4 |
+| AI-Personalized Memories      | Use of AI to tailor experiences based on recorded memories of individuals, allowing for a personalized interaction.                            |           4 |
+| Interactive Memorial Services | Incorporation of technology in memorials to create engaging, interactive experiences for mourners.                                             |           4 |
+| Voice Emulation Technology    | Advancements in creating voice emulations of deceased individuals, enhancing the personal connection in storytelling.                          |           3 |
+| Historical Storytelling       | Preserving and sharing stories of notable figures through interactive digital formats, enriching historical context.                           |           3 |
+
+## Technologies
+
+| name                                               | description                                                                                                                                  |   relevancy |
+|:---------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| AI Conversational Tools for Posthumous Interaction | AI tools that allow users to interactively converse with deceased relatives through pre-recorded video and audio materials.                  |           5 |
+| Interactive Digital Memories                       | Technologies that create interactive digital memories of individuals, allowing families to preserve personal connections across generations. |           4 |
+| Voice Mimicking Chatbots                           | Chatbots developed to mimic the voice and personality of individuals based on their social media and recorded communications.                |           4 |
+| Photographic Animation Tools                       | Tools that animate old photographs of relatives, providing a more dynamic way to engage with family history.                                 |           3 |
+| Memory Preservation AI                             | AI systems designed to record and preserve personal stories and experiences, creating a digital legacy for future generations.               |           4 |
+
+## Issues
+
+| name                                      | description                                                                                                                                       |   relevancy |
+|:------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| AI-Powered Memory Preservation            | Emerging AI tools allow for interactive conversations with deceased relatives, preserving personal histories and memories for future generations. |           5 |
+| Ethical Implications of AI Replication    | The use of AI to replicate deceased individuals raises ethical concerns about consent, authenticity, and the emotional impact on users.           |           4 |
+| Digital Ancestry and Genealogy Trends     | Growing interest in genealogy encourages the use of technology to connect with family histories, affecting how people perceive their lineage.     |           4 |
+| AI in Grief and Mourning Processes        | AI tools provide new ways for individuals to cope with grief, potentially altering traditional mourning practices.                                |           4 |
+| Public Figures and AI Legacy              | Creating digital memories of notable individuals through AI may impact how society remembers and interacts with cultural figures.                 |           3 |
+| Deepfake Technology and Social Perception | The familiarity with deepfake technology influences public perception of AI's capabilities and its implications for reality.                      |           3 |
+| Legalities of AI-Generated Personas       | The development of AI chatbots that mimic real people raises questions about intellectual property and the rights of the deceased.                |           4 |
+| Future of Interactive Storytelling        | Advancements in AI may revolutionize how personal and historical narratives are shared and experienced by future generations.                     |           4 |

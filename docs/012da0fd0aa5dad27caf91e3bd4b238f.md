@@ -1,48 +1,77 @@
-# __Cybathlon 2020: Pushing Assistive Technology Forward__, from ([20220626](https://kghosh.substack.com/p/20220626).)
+# __Cybathlon 2020: A Global Championship Elevating Assistive Technology for Individuals with Disabilities__, from ([4777.0](https://kghosh.substack.com/p/4777.0).)
 
 __[External link](https://ethz.ch/en/news-and-events/eth-news/news/2020/02/cybathlon-2020-start.html)__
 
 
 
-## Summary
-
-The Cybathlon is a unique championship that allows individuals with disabilities to overcome everyday challenges with the help of cutting-edge technology. The event, which will take place in Zurich in May 2020, will feature over 90 teams from around the world competing in six disciplines. The goal of the Cybathlon is to push the boundaries of assistive devices and enable people with disabilities to participate more fully in society. The challenges in the competition are designed to simulate everyday activities that many individuals with disabilities find difficult. The event has gained widespread interest and support, with teams from over 30 countries participating. Switzerland has a strong presence in the competition, with 11 teams representing the country. The Cybathlon promotes international cooperation and playful competition in the field of assistive technology.
-
 ## Keywords
 
-* Cybathlon
-* competition
-* challenges
-* technology
-* disability
+* Cybathlon 2020
 * assistive devices
-* teams
-* disciplines
-* international
-* Switzerland
+* competition disciplines
+* technology
+* Zurich
+* disability
+* international teams
 
 ## Themes
 
+* Cybathlon
 * assistive technology
-* disability inclusion
-* international competition
+* disability
+* competition
+* international cooperation
+* innovation
+
+## Other
+
+* Category: science
+* Type: news
+
+## Summary
+
+The Cybathlon 2020, held on May 2-3 in Zurich, is a unique championship featuring over 90 international teams comprising individuals with disabilities utilizing advanced assistive technologies. This year's event includes six disciplines designed to mimic everyday challenges, such as tying shoelaces and opening doors, encouraging innovation in practical assistive devices. The competition promotes global collaboration, with participants from diverse countries including the UK, USA, and South Africa. Notably, Swiss teams represent all six disciplines, showcasing local advancements in assistive technology. The Cybathlon's goal is to enhance the usability of assistive devices for better societal participation, reflecting a commitment to social relevance and technological progress.
 
 ## Signals
 
-| Signal                                       | Change                                | 10y horizon                                                     | Driving force                                                                        |
-|:---------------------------------------------|:--------------------------------------|:----------------------------------------------------------------|:-------------------------------------------------------------------------------------|
-| Cybathlon 2020: More than just a competition | Expansion of event's scope and impact | Increased participation and advancement in assistive technology | Desire to create more useful assistive devices for people with disabilities          |
-| Widespread interest in Cybathlon 2016        | Increased interest and participation  | Greater attention and support for the event                     | Recognition of the importance of inclusive technology and accessibility              |
-| Six disciplines with fresh challenges        | Evolving competition activities       | More advanced and diverse challenges for participants           | Continuous improvement and user feedback to enhance assistive devices                |
-| More than 90 teams from some 30 countries    | Global participation                  | Increased global representation and collaboration               | International cooperation and competition in the field of assistive technology       |
-| Strong Swiss presence                        | Swiss representation                  | Continued participation and innovation from Swiss teams         | Commitment to advancing assistive technology and fostering collaboration             |
-| Cybathlon 2020 for the Media                 | Media coverage and engagement         | Increased media attention and coverage for the event            | Desire to raise awareness about the importance of assistive technology and inclusion |
-| CYBATHLON 2020 in a new format               | Shift in event format                 | Adoption of a new format for the event in the future            | Adaptation to changing needs and advancements in technology                          |
+| name                                                      | description                                                                              | change                                                                                  | 10-year                                                                                                            | driving-force                                                                      |   relevancy |
+|:----------------------------------------------------------|:-----------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------|------------:|
+| Global Participation in Assistive Technology Competitions | Increased participation from diverse countries in assistive technology competitions.     | Shift from local to global participation in assistive technology development.           | More inclusive global competitions that foster innovation in assistive technology.                                 | Growing awareness and need for assistive devices in various regions worldwide.     |           4 |
+| Advancements in Everyday Assistive Technology             | Focus on creating practical and usable assistive devices for daily challenges.           | Transition from complex to practical assistive technologies suitable for everyday use.  | Widespread availability of user-friendly assistive devices improving daily life for individuals with disabilities. | User-centered design driven by feedback from individuals with disabilities.        |           5 |
+| Interdisciplinary Collaboration                           | Collaboration among universities, industry, and NGOs to innovate assistive technologies. | Increased collaboration across sectors to enhance assistive device development.         | More effective and diverse solutions emerging from collaborative efforts in technology.                            | Recognition of the importance of diverse expertise in tackling complex challenges. |           4 |
+| Focus on User Experience in Competitions                  | Competitions designed around practical challenges faced by people with disabilities.     | Emphasis on real-life applicability and user experience in assistive tech competitions. | Competitions that prioritize user experience will drive better designs in assistive technology.                    | Desire for assistive devices to integrate seamlessly into users' daily lives.      |           5 |
+| Technological Innovation in Mobility Devices              | Emergence of semi-autonomous and smart mobility devices like eye-controlled wheelchairs. | Shift from traditional mobility aids to smart, tech-driven solutions.                   | Smart mobility devices will become commonplace, enhancing independence for users.                                  | Technological advancements in AI and robotics improving device functionality.      |           4 |
 
-## Closest
+## Behaviors
 
-* [Airshield: Revolutionary Training Aid for Runners](8cab491fb7be16a880b6d24655941e75)
-* [ANSSI Launches Hackropole: Cybersecurity Challenge Platform](3e09d24de02da3d269252fd763a313d5)
-* [Chaos Computer Club Announces 37th Chaos Communication Congress (37C3)](bcff5643d6572db7c8c9d2bffc215812)
-* [Robots Dream of Root Shells](fcecc286a32d931f1abf882fa737bf9c)
-* [Prepare for AI Hackers](5b3d3d834980e2ca7912f46b7e74917d)
+| name                                                | description                                                                                                                        |   relevancy |
+|:----------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Global Collaboration in Disability Technology       | International teams from various sectors collaborate to enhance assistive technologies for individuals with disabilities.          |           5 |
+| Focus on Practicality in Assistive Devices          | Emphasis on developing assistive devices that are useful for everyday tasks rather than overly complex solutions.                  |           5 |
+| Integration of User Feedback in Design              | Competitions like Cybathlon incorporate user input to refine the design of assistive devices, ensuring they meet real-world needs. |           4 |
+| Increased Visibility and Awareness for Disabilities | Events such as the Cybathlon raise public awareness and interest in the challenges faced by individuals with disabilities.         |           5 |
+| Innovative Competition Formats                      | The Cybathlon introduces new challenges to reflect real-life scenarios faced by individuals with disabilities.                     |           4 |
+| Technological Advancement in Rehabilitation         | The event showcases advancements in technology aimed at improving rehabilitation and mobility for people with disabilities.        |           5 |
+| Social Media Engagement and Community Building      | Utilizing social media to engage the community and promote discussions around assistive technology and disability.                 |           3 |
+
+## Technologies
+
+| name                              | description                                                                                                                                    |   relevancy |
+|:----------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Brain-Computer Interface          | Technology enabling direct communication between the brain and external devices, facilitating control of prosthetics or computers via thought. |           5 |
+| Functional Electrical Stimulation | Technique using electrical impulses to activate muscles in individuals with disabilities, improving mobility and muscle function.              |           5 |
+| Powered Prosthetics               | Advanced prosthetic limbs that are powered and controlled by the user, enhancing functionality and usability in daily tasks.                   |           5 |
+| Powered Exoskeletons              | Wearable robotic devices that assist individuals with mobility impairments, allowing them to walk or perform tasks more easily.                |           5 |
+| Semi-Autonomous Wheelchairs       | Wheelchairs that can be navigated using eye movements or other non-traditional inputs, increasing independence for users.                      |           4 |
+| Haptic Feedback Technology        | Technology providing tactile feedback to users, enhancing their ability to identify objects through touch, especially in prosthetics.          |           4 |
+
+## Issues
+
+| name                                         | description                                                                                                                                     |   relevancy |
+|:---------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Advancements in Assistive Technology         | The push for more functional and accessible assistive devices for individuals with disabilities is gaining momentum.                            |           4 |
+| Global Collaboration in Disability Solutions | International participation in events like Cybathlon fosters collaboration among universities, industry, and NGOs to innovate for disabilities. |           5 |
+| Integration of Technology in Daily Life      | Challenges at the Cybathlon highlight the importance of integrating technology into everyday tasks for people with disabilities.                |           4 |
+| Raising Awareness for Disability Sports      | Events like the Cybathlon promote visibility and awareness for the capabilities of individuals with disabilities through competitive sports.    |           3 |
+| Evolving Competition Formats for Inclusivity | The adaptation of competition formats to include more diverse and inclusive technologies and participants is a growing trend.                   |           4 |
+| Haptic and Sensory Technology in Prosthetics | The use of haptic feedback and sensory technology in assistive devices is emerging as a crucial area of development.                            |           4 |

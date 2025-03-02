@@ -64,9 +64,9 @@ class PagesWriter:
             
             TXT += "__[External link]("+str(row.url)[2:-1]+")__\n\n"
             TXT += "\n\n## Keywords\n\n"
-            TXT += "* "+"\n* ".join(row["keywords"])
+            TXT += "* "+"\n* ".join([x.strip() for x in row["keywords"].split(",")])
             TXT += "\n\n## Themes\n\n"
-            TXT += "* "+"\n* ".join(row["themes"])
+            TXT += "* "+"\n* ".join([x.strip() for x in row["themes"].split(",")])
             TXT += "\n\n## Other\n\n"
             TXT += "* Category: "+row["category"] +"\n"
             TXT += "* Type: "+row["type"]

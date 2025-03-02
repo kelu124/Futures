@@ -1,48 +1,76 @@
-# __Increasing Luck through Work and Publication__, from ([20220717](https://kghosh.substack.com/p/20220717).)
+# __Enhancing Your Luck Through Public Engagement and Sharing Your Work__, from ([10674.0](https://kghosh.substack.com/p/10674.0).)
 
 __[External link](https://github.com/readme/guides/publishing-your-work)__
 
 
 
-## Summary
-
-In order to increase our chances of encountering good luck, we can increase the number of opportunities we have for good fortune to find us. One of the best ways to do this is by publishing our work and building a reputation for ourselves. The concept of the "Luck Surface Area" states that the more things we do and the more people we tell, the larger our Luck Surface Area becomes, making it more likely for luck to find us. To increase our Luck Surface Area, we need to do the work and be public about it, whether it's through sharing our work in communities or diving deep into our curiosity and expertise. By hitting the publish button and sharing our work, we capture the luck and increase the odds of good, unexpected things happening to us.
-
 ## Keywords
 
-* luck
-* increase
-* opportunities
-* publishing
-* work
-* surface area
-* passion
-* communication
-* sharing
-* curiosity
+* luck surface area
+* publishing work
+* building reputation
+* increasing opportunities
+* sharing knowledge
 
 ## Themes
 
 * luck
 * publishing
-* work
+* opportunities
+* personal growth
+* reputation
+
+## Other
+
+* Category: others
+* Type: blog post
+
+## Summary
+
+The text discusses the interplay of hard work and luck in achieving success, emphasizing that while luck may seem uncontrollable, individuals can enhance their chances of encountering good fortune. This is achieved by increasing opportunities through public engagement with their work. The concept of 'Luck Surface Area' is introduced, highlighting that the more one does and shares, the more luck they attract. The author encourages readers to embrace their work, overcome fears of sharing, and recognize that publishing their efforts can lead to unexpected benefits, such as job offers and community connections. Ultimately, the message is to do meaningful work and share it publicly to increase the likelihood of serendipitous opportunities.
 
 ## Signals
 
-| Signal                                             | Change                                                                 | 10y horizon                                                                  | Driving force                                                |
-|:---------------------------------------------------|:-----------------------------------------------------------------------|:-----------------------------------------------------------------------------|:-------------------------------------------------------------|
-| Increasing chances of encountering good luck       | From relying on external forces to increasing opportunities            | More people actively creating and sharing their work                         | Motivation to increase personal luck surface area            |
-| Luck defined as unexpected and good events         | From vague definitions to a simple definition                          | Clear understanding and recognition of luck                                  | Motivation to increase chances of unexpected and good events |
-| Increasing luck through public work                | From relying on luck to taking proactive actions                       | More people working in public and building reputations                       | Motivation to increase Luck Surface Area                     |
-| Importance of doing the work                       | From underestimating the value of work to recognizing its significance | Increased appreciation for the importance of doing meaningful work           | Motivation to focus on and complete tasks                    |
-| Sharing work to increase luck                      | From keeping work to oneself to sharing with others                    | Greater emphasis on public sharing and collaboration                         | Motivation to gain recognition and opportunities             |
-| Overcoming fear of publishing                      | From fear of judgment to embracing vulnerability                       | More individuals confidently sharing their work                              | Motivation to overcome fear and connect with others          |
-| Capturing the luck through increased opportunities | From relying on chance to actively seeking opportunities               | More individuals experiencing positive outcomes and unexpected opportunities | Motivation to increase chances of positive outcomes          |
+| name                                        | description                                                                                 | change                                                                                          | 10-year                                                                                                     | driving-force                                                                                       |   relevancy |
+|:--------------------------------------------|:--------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------|------------:|
+| Increased Opportunities for Good Luck       | More people are sharing their work publicly, increasing their chances of encountering luck. | Shift from private work to public sharing to attract unexpected opportunities.                  | In a decade, public sharing will be the norm for professionals, enriching collaboration and opportunities.  | The recognition that public sharing enhances visibility and potential for unexpected opportunities. |           4 |
+| Luck Surface Area Concept                   | The idea that personal luck can be increased by doing and sharing more widely.              | Change from relying solely on luck to actively creating conditions for luck through engagement. | In ten years, the Luck Surface Area will be a common metric for personal and professional success.          | The desire for individuals to gain more control over their professional luck and opportunities.     |           4 |
+| Growth of Online Publishing                 | More individuals are turning to various platforms to publish their work and ideas.          | Transition from traditional publishing to diverse online platforms for sharing work.            | In a decade, niche content creators will thrive in specialized online communities, transforming industries. | The democratization of content creation tools and platforms making publishing accessible to all.    |           5 |
+| Community Engagement in Professional Growth | Professionals increasingly rely on community feedback and engagement for growth.            | Shift from solitary professional development to community-oriented growth strategies.           | In ten years, community feedback will be integral to professional development and innovation.               | The understanding that collaboration and feedback enhance learning and creativity.                  |           4 |
+| Rising Fear of Public Criticism             | Individuals are hesitant to share their work due to fear of negative feedback.              | A shift from confidence in sharing to anxiety over public perception and criticism.             | In a decade, the culture of constructive criticism will reshape how feedback is perceived.                  | The increasing prevalence of online criticism and public scrutiny affecting personal expression.    |           3 |
 
-## Closest
+## Behaviors
 
-* [Developing Curiosity and Finding Interesting Ideas](4b827b6a0c41e87019713723ad04efce)
-* [Developing a Fun Mindset: The Key to Attracting Fun](bc734fd4bd996e68c387249bbc4d33e2)
-* [Developing a Fun Mindset: The Key to Attracting Fun](91a89306cd8e0d3a05a468796e941420)
-* [Managing Oneself for Success and Fulfillment](b76d6d3f8d4be2311caae40cce7b39a3)
-* [Learn In Public](037aba804501ec9f75f8bb434b8a6c20)
+| name                       | description                                                                                                                   |   relevancy |
+|:---------------------------|:------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Publishing Work Publicly   | Increasing visibility by sharing projects, ideas, and experiences publicly to attract opportunities and connections.          |           5 |
+| Building Luck Surface Area | Actively engaging in projects and sharing them to enhance chances of unexpected positive outcomes.                            |           5 |
+| Overcoming Fear of Sharing | Challenging personal fears and societal norms to promote work and ideas, fostering community engagement.                      |           4 |
+| Curiosity-Driven Projects  | Pursuing projects based on personal interests and curiosity, leading to authentic and engaging content.                       |           4 |
+| Community Engagement       | Participating in and contributing to community discussions and collaborations, enhancing networking and learning.             |           4 |
+| Iterative Publishing       | Emphasizing the process of sharing ongoing work rather than waiting for a perfect product, encouraging continuous engagement. |           4 |
+| Learning from Feedback     | Adapting and evolving work based on community feedback, fostering a collaborative learning environment.                       |           3 |
+
+## Technologies
+
+| name                        | description                                                                                                                     |   relevancy |
+|:----------------------------|:--------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Open Source Software (OSS)  | Software with source code that anyone can inspect, modify, and enhance, fostering collaboration and innovation.                 |           5 |
+| Podcasting                  | An audio broadcasting medium where creators share content, stories, and expertise, growing in popularity for knowledge sharing. |           4 |
+| Blogging                    | Writing online articles to share knowledge, experiences, or passions, enhancing visibility and engagement with audiences.       |           4 |
+| Community Building          | Creating and nurturing networks of individuals with shared interests, enhancing collaboration and opportunities.                |           4 |
+| Online Publishing           | Sharing work and ideas through various digital platforms, increasing visibility and potential for serendipitous connections.    |           5 |
+| Thermal Printing Technology | A printing process using heat to produce images, applicable in various fields including retail and documentation.               |           3 |
+| SVG Drawing Tools           | Software tools for creating scalable vector graphics, enhancing design and creative possibilities.                              |           3 |
+
+## Issues
+
+| name                                  | description                                                                                                                                               |   relevancy |
+|:--------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Luck and Opportunity Dynamics         | The interplay between individual effort and luck in creating opportunities for success, emphasizing the importance of public engagement and sharing work. |           4 |
+| Publishing as a Skill                 | The growing recognition of publishing one's work as a crucial skill for professional development and opportunity creation.                                |           4 |
+| Fear of Sharing Work                  | The psychological barriers that prevent individuals from sharing their work publicly, impacting their chances of success and connection.                  |           5 |
+| Luck Surface Area Concept             | The idea that increasing public engagement and sharing activities can enhance one's chances of encountering luck.                                         |           4 |
+| Community Engagement                  | The importance of building relationships and sharing knowledge within communities to foster personal and professional growth.                             |           3 |
+| Curiosity-Driven Projects             | The trend of pursuing projects driven by personal curiosity as a way to enhance creativity and professional opportunities.                                |           3 |
+| Online Presence and Personal Branding | The necessity of establishing a strong online presence to maximize visibility and opportunities in professional realms.                                   |           4 |

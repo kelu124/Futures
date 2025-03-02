@@ -6,187 +6,21 @@ __[External link](https://spectrum.ieee.org/human-augmentation)__
 
 ## Keywords
 
-* r
-* o
-* b
-* o
-* t
-* i
-* c
-*  
-* l
-* i
-* m
-* b
-* s
-* ,
-*  
-* b
-* r
-* a
-* i
-* n
-*  
-* c
-* o
-* n
-* t
-* r
-* o
-* l
-* ,
-*  
-* h
-* u
-* m
-* a
-* n
-*  
-* e
-* n
-* h
-* a
-* n
-* c
-* e
-* m
-* e
-* n
-* t
-* ,
-*  
-* n
-* e
-* u
-* r
-* a
-* l
-*  
-* i
-* n
-* t
-* e
-* r
-* f
-* a
-* c
-* e
-* s
-* ,
-*  
-* E
-* M
-* G
-* ,
-*  
-* B
-* M
-* I
+* robotic limbs
+* brain control
+* human enhancement
+* neural interfaces
+* EMG
+* BMI
 
 ## Themes
 
-* r
-* o
-* b
-* o
-* t
-* i
-* c
-* s
-* ,
-*  
-* n
-* e
-* u
-* r
-* o
-* s
-* c
-* i
-* e
-* n
-* c
-* e
-* ,
-*  
-* h
-* u
-* m
-* a
-* n
-*  
-* a
-* u
-* g
-* m
-* e
-* n
-* t
-* a
-* t
-* i
-* o
-* n
-* ,
-*  
-* b
-* r
-* a
-* i
-* n
-* -
-* m
-* a
-* c
-* h
-* i
-* n
-* e
-*  
-* i
-* n
-* t
-* e
-* r
-* f
-* a
-* c
-* e
-* s
-* ,
-*  
-* e
-* l
-* e
-* c
-* t
-* r
-* o
-* m
-* y
-* o
-* g
-* r
-* a
-* p
-* h
-* y
-* ,
-*  
-* n
-* e
-* u
-* r
-* a
-* l
-*  
-* s
-* i
-* g
-* n
-* a
-* l
-* s
+* robotics
+* neuroscience
+* human augmentation
+* brain-machine interfaces
+* electromyography
+* neural signals
 
 ## Other
 
@@ -207,3 +41,41 @@ Recent advancements in robotics and neuroscience have led researchers to explore
 | Multi-Limb Virtual Environment (MUVE) | Development of a virtual reality platform for testing robotic arm control.             | From traditional training to immersive simulations for training with multiple robotic limbs.     | Virtual environments may become standard for training users in controlling multiple robotic limbs efficiently.       | The integration of virtual reality in training systems is enhancing user experience and effectiveness.              |           3 |
 | Cognitive Load of Extra Limbs         | Exploration of cognitive load required to control additional robotic limbs.            | Understanding the balance between focus and multitasking with robotic limb control.              | Future systems may allow seamless integration of multiple limbs into daily activities with minimal cognitive strain. | The need for practical applications of robotic limbs is prompting studies on user experience and cognitive factors. |           4 |
 | Global Research Collaboration         | Collaborative efforts among international research groups on human augmentation.       | From isolated research to a more interconnected global effort in neuroscience and robotics.      | A global knowledge-sharing framework may emerge, accelerating advancements in human augmentation technologies.       | The complexity of challenges in augmentation drives collaboration across institutions worldwide.                    |           3 |
+
+## Behaviors
+
+| name                          | description                                                                                                                            |   relevancy |
+|:------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Neural Control of Extra Limbs | Utilizing unused neural bandwidth to control additional robotic limbs, enhancing dexterity and capabilities.                           |           5 |
+| Mind-Controlled Prosthetics   | Advancements in brain-machine interfaces allowing individuals to control robotic limbs with thought alone, improving quality of life.  |           5 |
+| Noninvasive Neural Interfaces | Development of noninvasive methods for decoding neural signals to control robotic limbs, increasing accessibility and usability.       |           4 |
+| Adaptive Brain Plasticity     | Exploration of how prolonged use of robotic limbs may enhance brain adaptability and user dexterity over time.                         |           4 |
+| Concurrent Movement Control   | Researching the ability to control robotic limbs while performing natural movements, aiming for seamless integration into daily tasks. |           5 |
+| Human Augmentation Levels     | Categorizing human augmentation into levels, focusing on enhancing existing capabilities or adding new functional limbs.               |           3 |
+| Robotic Limb Applications     | Exploring practical applications of extra robotic limbs in various fields such as surgery, construction, and music.                    |           4 |
+| Wearable Robotic Technology   | Creating lightweight, wearable robotic arms for practical use in diverse environments, including virtual reality settings.             |           4 |
+
+## Technologies
+
+| name                                | description                                                                                                                             |   relevancy |
+|:------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Extra Robotic Limbs                 | Robotic limbs that can be controlled by the human brain to augment physical capabilities.                                               |           5 |
+| Brain-Machine Interfaces (BMI)      | Technologies that allow direct communication between the brain and external devices, enabling control of robotic limbs.                 |           5 |
+| Electromyography (EMG) Systems      | Noninvasive systems that record electrical signals from muscles to decode neural commands for controlling prosthetics or robotic limbs. |           5 |
+| High-Density EMG Technology         | Advanced EMG systems with multiple electrodes for improved decoding of motor neuron activity in real time.                              |           4 |
+| Wearable Robotic Arms               | Lightweight robotic arms that can be used in various tasks, controlled through neural signals or EMG systems.                           |           4 |
+| Virtual Reality for Robotic Control | Simulated environments that allow users to practice and interact with multiple robotic limbs in a virtual setting.                      |           3 |
+| Neural Plasticity in Augmentation   | Research into how the brain adapts to controlling extra limbs over time, potentially improving dexterity and control.                   |           3 |
+
+## Issues
+
+| name                                         | description                                                                                                                                  |   relevancy |
+|:---------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Neural Control of Robotic Limbs              | Research on brain-machine interfaces to control additional robotic limbs using neural signals may revolutionize human augmentation.          |           5 |
+| Unused Neural Bandwidth                      | Exploiting higher-frequency neural signals that are not currently utilized for muscle control could enhance robotic limb functionality.      |           4 |
+| Noninvasive Brain-Computer Interfaces        | Developing noninvasive methods for controlling robotic limbs presents a significant advancement in accessibility for users.                  |           5 |
+| Cognitive Load in Augmentation               | Understanding the cognitive load required to control extra limbs will determine the practicality of these technologies in everyday tasks.    |           4 |
+| Adaptation of Neural Control                 | Investigating how prolonged use of robotic limbs affects brain plasticity and user control over time could enhance functionality.            |           4 |
+| Ethical Implications of Human Augmentation   | As human augmentation technologies advance, ethical considerations regarding their use and accessibility will become increasingly important. |           3 |
+| Multimodal Control Systems                   | Exploring multiple control sources for robotic limbs could improve precision and usability, leading to more intuitive interactions.          |           4 |
+| Collaborative Research in Human Augmentation | Global collaboration among research groups is crucial for addressing fundamental questions in the emerging field of human augmentation.      |           4 |

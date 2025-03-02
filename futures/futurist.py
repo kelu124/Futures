@@ -151,21 +151,25 @@ class Futurist:
 
     def writeStory(self, ids):
         """Takes dictionnary, title plus list of articles"""
-        print("# Writing stories for",ids)
+        
         try:
             df = pd.read_parquet(self.ai.srcSummaries)
         except:
             return "No consolidated dataframe yet"
         try:
             stories_df = pd.read_parquet(self.ai.srcStories)
-            stories_id = stories_df.origin.unique()
-            print(stories_id)
+            stories_id = stories_df.src.unique()
+            #print(stories_id)
         except:
             stories_id = []
-
+        #print(stories_id)
+        TODO = [x for x in list(ids.keys()) if ((x not in stories_id) and x)]
+        if len(TODO):
+            print("# Writing stories for",TODO)
         stories = []
         for s in ids.keys():
-            if len(s):
+            #print("- Checking story for", s)
+            if s != None :
                 #print("- Story for", s)
                 if s not in stories_id:
                     print("- Doing story for", s)
@@ -205,9 +209,9 @@ class Futurist:
                     title = row["title"]
                 stories.append([s,title,story])
         stories  = pd.DataFrame(stories,columns=["src","title","story"])
-
+        #print(stories)
         if len(stories):
-            if len(stories_df):
+            if len(stories_id):
                 stories = pd.concat([stories_df,stories]).drop_duplicates()
             stories = stories.reset_index(drop=True)
             stories.to_parquet(self.ai.srcStories)
@@ -218,10 +222,11 @@ class Futurist:
         df = pd.read_parquet(self.ai.srcArticles)
         df = df[df.file_name.isin(summaries)]
         for orig in df.origin.unique():
-            articles[orig]=list(df[df.origin == orig].file_name)
+            if len(str(orig)):
+                articles[orig]=list(df[df.origin == orig].file_name)
         return articles
     
     def writeAllStories(self):
         articles = self.getLinksPerArticle()
-        print(articles)
+        #print(articles)
         story = self.writeStory(articles)

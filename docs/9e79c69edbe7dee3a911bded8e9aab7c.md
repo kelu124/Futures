@@ -6,135 +6,19 @@ __[External link](https://bootcamp.uxdesign.cc/art-practicality-via-ai-harnessin
 
 ## Keywords
 
-* i
-* n
-* v
-* i
-* s
-* i
-* b
-* l
-* e
-*  
-* Q
-* R
-*  
-* c
-* o
-* d
-* e
-* s
-* ,
-*  
-* C
-* o
-* n
-* t
-* r
-* o
-* l
-* N
-* e
-* t
-* ,
-*  
-* S
-* t
-* a
-* b
-* l
-* e
-*  
-* D
-* i
-* f
-* f
-* u
-* s
-* i
-* o
-* n
-* ,
-*  
-* d
-* e
-* s
-* i
-* g
-* n
-*  
-* i
-* n
-* n
-* o
-* v
-* a
-* t
-* i
-* o
-* n
-* ,
-*  
-* A
-* I
-*  
-* i
-* n
-*  
-* d
-* e
-* s
-* i
-* g
-* n
+* invisible QR codes
+* ControlNet
+* Stable Diffusion
+* design innovation
+* AI in design
 
 ## Themes
 
-* A
-* I
-* ,
-*  
-* Q
-* R
-*  
-* c
-* o
-* d
-* e
-* s
-* ,
-*  
-* d
-* e
-* s
-* i
-* g
-* n
-* ,
-*  
-* t
-* e
-* c
-* h
-* n
-* o
-* l
-* o
-* g
-* y
-* ,
-*  
-* d
-* i
-* g
-* i
-* t
-* a
-* l
-*  
-* a
-* r
-* t
+* AI
+* QR codes
+* design
+* technology
+* digital art
 
 ## Other
 
@@ -153,83 +37,55 @@ The article discusses the innovative use of AI to create aesthetically pleasing 
 | AI in Design Customization       | AI-driven interfaces that adapt to user preferences and behaviors for personalized experiences.    | Shift from static designs to dynamic, personalized interfaces that enhance user engagement.        | In 10 years, design interfaces will be highly personalized, adapting to user needs in real-time.                | The demand for personalized user experiences and enhanced engagement in digital platforms.      |           5 |
 | Context-Aware Design Suggestions | AI suggesting design elements based on context and purpose, streamlining creativity.               | Move from manual design choices to automated, intelligent suggestions that enhance creativity.     | In 10 years, designers will rely on AI for instant context-aware design recommendations, boosting productivity. | The growing complexity of design tasks and the need for efficiency in the creative process.     |           4 |
 | AI as Creative Collaborator      | AI assisting artists by suggesting styles, patterns, and ideas, enhancing creativity.              | Shift from traditional artist roles to collaborative partnerships with AI in the creative process. | In 10 years, AI will be an integral part of the creative process, acting as a collaborator not a replacement.   | The desire to expand creative possibilities through technology without replacing human artists. |           4 |
-| Accessible Design Tools          | AI tools that simplify design processes, making professional-grade designs accessible to everyone. | Transition from exclusive design skills to democratized access to design tools for all users.      | In 10 years, anyone will be able to create professional designs regardless of skill level due to AI tools.      | The push towards inclusivity and accessibility in creative fields through technology.           |           5 |__[External link](https://www.fastcompany.com/90888672/switzerland-turning-the-gap-between-train-tracks-into-a-solar-carpet?utm_source=substack&utm_medium=email)__
+| Accessible Design Tools          | AI tools that simplify design processes, making professional-grade designs accessible to everyone. | Transition from exclusive design skills to democratized access to design tools for all users.      | In 10 years, anyone will be able to create professional designs regardless of skill level due to AI tools.      | The push towards inclusivity and accessibility in creative fields through technology.           |           5 |
+
+## Behaviors
+
+| name                                        | description                                                                                                                                      |   relevancy |
+|:--------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Integration of Aesthetics and Functionality | The fusion of visual appeal with practical utility in designs like QR codes, enhancing user engagement while maintaining functionality.          |           5 |
+| AI-Driven Customization                     | AI systems that adapt and personalize user experiences in real-time, creating tailored interfaces based on individual preferences and behaviors. |           4 |
+| Context-Aware Design Suggestions            | AI providing automatic design recommendations based on context, streamlining the design process and enhancing relevance.                         |           4 |
+| Collaboration Between AI and Artists        | AI acting as a co-creator, suggesting ideas and enhancing the creative process without replacing human artists.                                  |           5 |
+| Immersive Virtual Reality Environments      | The use of AI to generate responsive virtual spaces that react to user interactions, creating engaging experiences.                              |           4 |
+| Democratization of Design Tools             | AI-powered design tools that simplify complex processes, making it easier for anyone to create professional-quality designs.                     |           5 |
+
+## Technologies
+
+| name                                  | description                                                                                                           |   relevancy |
+|:--------------------------------------|:----------------------------------------------------------------------------------------------------------------------|------------:|
+| Invisible QR Codes                    | Aesthetic QR codes integrated within images, retaining functionality while being visually appealing.                  |           4 |
+| ControlNet for Stable Diffusion       | An AI model enhancing QR code design, allowing seamless integration of codes into images while ensuring scannability. |           5 |
+| AI-Driven Customizable Interfaces     | Interfaces that adapt to user behavior and preferences, enhancing personalized user experience.                       |           4 |
+| Context-Aware Graphic Designs         | AI that suggests design elements based on context, improving design efficiency and relevance.                         |           4 |
+| AI as Art Partners                    | AI tools that assist artists by suggesting ideas and designs based on vast art data.                                  |           4 |
+| Immersive Virtual Reality Experiences | AI-generated virtual environments that respond to user input for enhanced immersion.                                  |           5 |
+| Accessible Design Tools               | AI-powered tools that simplify design tasks, making professional design accessible to everyone.                       |           4 |
+
+## Issues
+
+| name                                  | description                                                                                                                  |   relevancy |
+|:--------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|------------:|
+| Invisible QR Codes                    | The integration of AI to create aesthetically pleasing QR codes that are functional yet hidden within designs.               |           4 |
+| AI in Customizable Interfaces         | Utilization of AI to create interfaces that adapt to individual user preferences, enhancing user experience.                 |           5 |
+| Context-Aware Graphic Design          | AI technology that suggests design elements based on context, improving design efficiency and relevance.                     |           4 |
+| AI as Collaborative Art Partners      | AI's role in assisting artists by generating ideas and solutions, fostering collaboration between technology and creativity. |           3 |
+| Immersive Virtual Reality Experiences | The potential of AI to create responsive virtual environments for enhanced user immersion and interaction.                   |           5 |
+| Democratization of Design Tools       | AI-powered tools that simplify design processes, making professional design accessible to a broader audience.                |           4 |__[External link](https://www.fastcompany.com/90888672/switzerland-turning-the-gap-between-train-tracks-into-a-solar-carpet?utm_source=substack&utm_medium=email)__
 
 
 
 ## Keywords
 
-* J
-* a
-* v
-* a
-* S
-* c
-* r
-* i
-* p
-* t
-* ,
-*  
-* a
-* d
-*  
-* b
-* l
-* o
-* c
-* k
-* e
-* r
-* ,
-*  
-* w
-* e
-* b
-*  
-* a
-* c
-* c
-* e
-* s
-* s
+* JavaScript
+* ad blocker
+* web access
 
 ## Themes
 
-* J
-* a
-* v
-* a
-* S
-* c
-* r
-* i
-* p
-* t
-* ,
-*  
-* a
-* d
-*  
-* b
-* l
-* o
-* c
-* k
-* e
-* r
-* ,
-*  
-* w
-* e
-* b
-*  
-* a
-* c
-* c
-* e
-* s
-* s
+* JavaScript
+* ad blocker
+* web access
 
 ## Other
 
@@ -238,9 +94,3 @@ The article discusses the innovative use of AI to create aesthetically pleasing 
 
 ## Summary
 
-
-
-## Signals
-
-| name   | description   | change   | 10-year   | driving-force   | relevancy   |
-|--------|---------------|----------|-----------|-----------------|-------------|

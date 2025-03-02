@@ -6,222 +6,24 @@ __[External link](https://translate.google.com/translate?sl=fr&tl=en&hl=fr&u=htt
 
 ## Keywords
 
-* m
-* o
-* d
-* è
-* l
-* e
-* s
-*  
-* o
-* p
-* e
-* n
-*  
-* s
-* o
-* u
-* r
-* c
-* e
-* ,
-*  
-* m
-* o
-* d
-* è
-* l
-* e
-* s
-*  
-* p
-* r
-* o
-* p
-* r
-* i
-* é
-* t
-* a
-* i
-* r
-* e
-* s
-* ,
-*  
-* s
-* t
-* r
-* a
-* t
-* é
-* g
-* i
-* e
-*  
-* I
-* A
-* ,
-*  
-* p
-* e
-* r
-* f
-* o
-* r
-* m
-* a
-* n
-* c
-* e
-* ,
-*  
-* c
-* o
-* û
-* t
-* ,
-*  
-* c
-* o
-* n
-* f
-* i
-* d
-* e
-* n
-* t
-* i
-* a
-* l
-* i
-* t
-* é
-* ,
-*  
-* G
-* P
-* T
-* -
-* 4
-* ,
-*  
-* M
-* i
-* s
-* t
-* r
-* a
-* l
-* ,
-*  
-* f
-* i
-* n
-* e
-* -
-* t
-* u
-* n
-* i
-* n
-* g
+* modèles open source
+* modèles propriétaires
+* stratégie IA
+* performance
+* coût
+* confidentialité
+* GPT-4
+* Mistral
+* fine-tuning
 
 ## Themes
 
-* m
-* o
-* d
-* è
-* l
-* e
-* s
-*  
-* o
-* p
-* e
-* n
-*  
-* s
-* o
-* u
-* r
-* c
-* e
-* ,
-*  
-* m
-* o
-* d
-* è
-* l
-* e
-* s
-*  
-* p
-* r
-* o
-* p
-* r
-* i
-* é
-* t
-* a
-* i
-* r
-* e
-* s
-* ,
-*  
-* s
-* t
-* r
-* a
-* t
-* é
-* g
-* i
-* e
-*  
-* I
-* A
-* ,
-*  
-* p
-* e
-* r
-* f
-* o
-* r
-* m
-* a
-* n
-* c
-* e
-* ,
-*  
-* c
-* o
-* û
-* t
-* ,
-*  
-* c
-* o
-* n
-* f
-* i
-* d
-* e
-* n
-* t
-* i
-* a
-* l
-* i
-* t
-* é
+* modèles open source
+* modèles propriétaires
+* stratégie IA
+* performance
+* coût
+* confidentialité
 
 ## Other
 
@@ -241,3 +43,38 @@ Le choix entre un modèle open source et un modèle propriétaire pour des proje
 | Cost Dynamics in AI Deployment               | Growing concerns about the costs associated with proprietary versus open source models.           | Shift from unpredictable costs of proprietary models to more predictable expenses with open source solutions. | In ten years, cost structures for AI deployment may become more transparent and manageable for businesses.     | The necessity for budget management and cost predictability in AI projects drives this change.             |           5 |
 | Latency Improvements in Open Source Models   | Improvements in the speed and efficiency of open source AI models compared to proprietary models. | Change from slower response times in proprietary models to faster inference in open source alternatives.      | Ten years from now, performance benchmarks may favor open source models for real-time applications.            | The demand for rapid responses in applications drives advancements in open source model optimization.      |           4 |
 | The Need for Regular Model Evaluation        | Emphasis on continuous testing and evaluation of AI models for relevance and performance.         | Shift from static model deployment to dynamic evaluation and adjustment of AI systems over time.              | In a decade, AI systems may be regularly updated based on real-time performance metrics and user feedback.     | The necessity for adaptability and continuous improvement in AI solutions motivates ongoing evaluations.   |           3 |
+
+## Behaviors
+
+| name                                   | description                                                                                                                                                       |   relevancy |
+|:---------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Strategic Model Selection for AI       | Companies are increasingly adopting a strategic approach to select between open-source and proprietary AI models based on specific project needs and constraints. |           5 |
+| Performance Benchmarking               | Organizations are focusing on benchmarking AI models based on performance metrics to determine suitability for complex tasks.                                     |           4 |
+| Document Segmentation for AI Usability | There is a trend towards segmenting large documents to optimize AI model performance for specific use cases.                                                      |           4 |
+| Cost-Efficient AI Deployment           | Businesses are evaluating the cost implications of using open-source vs proprietary models, particularly at scale.                                                |           5 |
+| Hardware Investment for AI Solutions   | Companies are recognizing the need for significant hardware investments to effectively deploy open-source AI models.                                              |           4 |
+| Latency Optimization in AI Models      | There is an increasing focus on reducing latency in AI models, with open-source models being favored for their speed.                                             |           4 |
+| Continuous Evaluation and Adaptation   | Organizations are committing to ongoing testing and adaptation of AI models to ensure performance and relevance over time.                                        |           5 |
+
+## Technologies
+
+| name                                              | description                                                                                                            |   relevancy |
+|:--------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------|------------:|
+| Modèles de langage open source                    | Des modèles de langage comme Mixtral, Llama et Zephyr qui rivalisent avec les modèles propriétaires en performance.    |           4 |
+| RAG (retrieval augmented generation)              | Une technique qui améliore les réponses des modèles en s'appuyant sur des bases documentaires.                         |           4 |
+| Fine-tuning des modèles open source               | La personnalisation des modèles open source pour mieux répondre à des cas d'usage spécifiques.                         |           4 |
+| Optimisation de la compacité des modèles          | Des efforts pour réduire la taille des modèles open source, permettant une inférence plus rapide.                      |           4 |
+| Modèles open source adaptés à la langue française | Des modèles de grande taille capables de gérer la complexité de la langue française pour des applications spécifiques. |           4 |
+| Infrastructure GPU pour IA                        | L'utilisation de matériel GPU avancé, comme les H100, pour exécuter des modèles d'IA performant.                       |           3 |
+
+## Issues
+
+| name                                               | description                                                                                                                                                       |   relevancy |
+|:---------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Open Source vs Proprietary AI Models               | The debate on whether to adopt open source or proprietary AI models is becoming increasingly relevant as performance and cost factors evolve.                     |           5 |
+| Performance Limitations of AI Models               | There are significant performance limitations associated with open source models, especially when dealing with long documents, which could impact their adoption. |           4 |
+| Cost Efficiency of AI Implementation               | The cost implications of using proprietary versus open source models are becoming critical as organizations scale their AI usage.                                 |           5 |
+| Latency in AI Model Responses                      | The latency associated with different AI models can significantly affect user experience and project outcomes.                                                    |           4 |
+| Complexity of AI Use Cases                         | Different AI use cases require tailored approaches in model selection, indicating a need for deeper understanding of specific requirements.                       |           4 |
+| Infrastructure Requirements for Open Source Models | The substantial infrastructure investments required for deploying open source AI models could limit their accessibility for some organizations.                   |           3 |
+| Language Proficiency in AI Models                  | The ability of AI models to handle specific languages, particularly in nuanced applications, is an emerging concern.                                              |           4 |

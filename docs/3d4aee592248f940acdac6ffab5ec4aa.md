@@ -6,149 +6,21 @@ __[External link](https://www.theverge.com/2022/8/12/23303006/amazon-care-ginger
 
 ## Keywords
 
-* a
-* m
-* a
-* z
-* o
-* n
-* ,
-*  
-* a
-* m
-* a
-* z
-* o
-* n
-*  
-* c
-* a
-* r
-* e
-* ,
-*  
-* g
-* i
-* n
-* g
-* e
-* r
-* ,
-*  
-* m
-* e
-* n
-* t
-* a
-* l
-*  
-* h
-* e
-* a
-* l
-* t
-* h
-* ,
-*  
-* t
-* e
-* l
-* e
-* h
-* e
-* a
-* l
-* t
-* h
-* ,
-*  
-* p
-* a
-* r
-* t
-* n
-* e
-* r
-* s
-* h
-* i
-* p
-* ,
-*  
-* p
-* r
-* i
-* v
-* a
-* c
-* y
-*  
-* r
-* i
-* s
-* k
-* s
+* amazon
+* amazon care
+* ginger
+* mental health
+* telehealth
+* partnership
+* privacy risks
 
 ## Themes
 
-* a
-* m
-* a
-* z
-* o
-* n
-* ,
-*  
-* h
-* e
-* a
-* l
-* t
-* h
-* c
-* a
-* r
-* e
-* ,
-*  
-* m
-* e
-* n
-* t
-* a
-* l
-*  
-* h
-* e
-* a
-* l
-* t
-* h
-* ,
-*  
-* t
-* e
-* c
-* h
-* n
-* o
-* l
-* o
-* g
-* y
-* ,
-*  
-* p
-* a
-* r
-* t
-* n
-* e
-* r
-* s
-* h
-* i
-* p
+* amazon
+* healthcare
+* mental health
+* technology
+* partnership
 
 ## Other
 
@@ -168,3 +40,36 @@ Amazon is expanding its virtual healthcare program, Amazon Care, by partnering w
 | Surge in Mental Health Apps           | There is an increasing reliance on mental health apps due to limited access to traditional therapists.  | The landscape of mental health support is moving from in-person therapy to app-based solutions for accessibility. | In ten years, mental health apps might become the primary source of support for many individuals.                           | The urgent need for mental health support, especially post-pandemic, drives the adoption of digital solutions.  |           5 |
 | Amazon's Healthcare Ecosystem         | Amazon is building a comprehensive healthcare ecosystem through acquisitions and partnerships.          | The healthcare sector is experiencing a shift towards tech-driven, integrated care models.                        | In a decade, tech companies may dominate healthcare delivery, providing seamless services across platforms.                 | The trend of technology companies entering healthcare is motivated by the need for innovation and efficiency.   |           4 |
 | Invasion of Privacy with Health Data  | Potential privacy risks arise as companies like Amazon integrate health information and personal data.  | Public perception is shifting as privacy concerns grow with the merging of health and technology.                 | In ten years, privacy regulations may be stricter due to increased awareness and concerns about data security.              | Consumer awareness and demand for privacy protection are driving the need for better data security measures.    |           4 |
+
+## Behaviors
+
+| name                                   | description                                                                                                                                              |   relevancy |
+|:---------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Integration of Mental Health Services  | Amazon Care is expanding to include mental health services through its partnership with Ginger, providing easier access to mental health support.        |           5 |
+| Digital Health Platforms               | The rise of mental health apps like Ginger reflects a growing trend of seeking digital solutions for healthcare challenges, especially in mental health. |           4 |
+| Healthcare Accessibility               | Amazon's approach aims to improve accessibility to healthcare services, including mental health, by integrating them into existing platforms.            |           5 |
+| Privacy Concerns in Digital Health     | The integration of services raises concerns about privacy and data sharing between platforms like Amazon Care and Ginger.                                |           4 |
+| Holistic Health Management             | Amazon's strategy indicates a move towards comprehensive health management by combining physical and mental health services.                             |           5 |
+| Tech Companies in Healthcare           | The involvement of tech companies like Amazon in healthcare signifies a shift towards digital-first health solutions and services.                       |           5 |
+| Home Automation and Health Integration | The acquisition of companies like iRobot shows a trend towards integrating home automation with health monitoring and services.                          |           4 |
+
+## Technologies
+
+| name                                       | description                                                                                                                |   relevancy |
+|:-------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------|------------:|
+| Amazon Care                                | A virtual healthcare program that offers telehealth and mental health services, including partnerships for broader access. |           5 |
+| Ginger                                     | A digital mental health platform providing 24/7 access to mental health coaches and therapists.                            |           5 |
+| Mental Health Apps                         | Applications designed to provide mental health support and resources, addressing the demand for accessible services.       |           4 |
+| Hybrid In-person and Virtual Care Services | Healthcare models combining physical and digital interactions to enhance patient access and convenience.                   |           4 |
+| Alexa Integration in Healthcare            | Utilizing voice technology to assist and streamline processes in hospitals and healthcare settings.                        |           3 |
+| Smart Home Technology (iRobot)             | Home automation devices that collect data about living spaces, potentially for personalized services.                      |           3 |
+
+## Issues
+
+| name                                                        | description                                                                                                                                                      |   relevancy |
+|:------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Integration of Mental Health Services in Virtual Healthcare | Amazon Care's partnership with Ginger reflects a growing trend of digital platforms integrating mental health support into general healthcare services.          |           4 |
+| Privacy Concerns with Health Data Sharing                   | The sharing of health information between Amazon Care and Ginger raises potential privacy risks for users of the service.                                        |           5 |
+| Demand for Accessible Mental Health Services                | The increasing difficulty in finding traditional therapists highlights a rising demand for accessible mental health services, particularly digital ones.         |           4 |
+| Tech Companies Expanding into Healthcare                    | Amazon's continuous expansion into healthcare signifies a trend of tech companies entering the healthcare sector, influencing service delivery and patient care. |           5 |
+| Data Collection in Everyday Life                            | Acquisitions like iRobot suggest a trend where companies collect extensive data on consumers' everyday activities, raising privacy concerns.                     |           4 |

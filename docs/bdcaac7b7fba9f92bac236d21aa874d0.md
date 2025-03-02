@@ -6,175 +6,22 @@ __[External link](https://www.polygon.com/videos/506918/playing-cards-history)__
 
 ## Keywords
 
-* c
-* a
-* r
-* d
-*  
-* g
-* a
-* m
-* e
-* s
-* ,
-*  
-* S
-* o
-* l
-* i
-* t
-* a
-* i
-* r
-* e
-* ,
-*  
-* B
-* a
-* l
-* a
-* t
-* r
-* o
-* ,
-*  
-* p
-* r
-* o
-* b
-* a
-* b
-* i
-* l
-* i
-* t
-* y
-* ,
-*  
-* g
-* a
-* m
-* e
-*  
-* d
-* e
-* s
-* i
-* g
-* n
-* ,
-*  
-* h
-* i
-* s
-* t
-* o
-* r
-* y
-*  
-* o
-* f
-*  
-* c
-* a
-* r
-* d
-* s
-* ,
-*  
-* a
-* d
-* d
-* i
-* c
-* t
-* i
-* o
-* n
-* ,
-*  
-* g
-* a
-* m
-* i
-* n
-* g
-*  
-* c
-* u
-* l
-* t
-* u
-* r
-* e
+* card games
+* Solitaire
+* Balatro
+* probability
+* game design
+* history of cards
+* addiction
+* gaming culture
 
 ## Themes
 
-* c
-* a
-* r
-* d
-*  
-* g
-* a
-* m
-* e
-* s
-* ,
-*  
-* a
-* d
-* d
-* i
-* c
-* t
-* i
-* o
-* n
-* ,
-*  
-* m
-* a
-* t
-* h
-* e
-* m
-* a
-* t
-* i
-* c
-* s
-* ,
-*  
-* g
-* a
-* m
-* e
-*  
-* d
-* e
-* s
-* i
-* g
-* n
-* ,
-*  
-* c
-* u
-* l
-* t
-* u
-* r
-* a
-* l
-*  
-* h
-* i
-* s
-* t
-* o
-* r
-* y
+* card games
+* addiction
+* mathematics
+* game design
+* cultural history
 
 ## Other
 
@@ -195,3 +42,40 @@ The popularity of card games is highlighted, showcasing titles like Marvel Snap 
 | Cultural Significance of Playing Cards | Playing cards have a rich history and are intertwined with cultural practices worldwide.     | From specialized historical items to ubiquitous entertainment tools across cultures.                | Playing cards may become a focal point in cultural studies and historical research.           | The need to preserve cultural heritage and explore the origins of gaming traditions.           |           3 |
 | Tactile Experience in Digital Games    | Digital card games are leveraging tactile sensations to enhance user experience.             | From purely visual experiences to incorporating sound and feel in gameplay.                         | Digital games may increasingly replicate physical sensations, blurring real and digital play. | Player demand for immersive experiences drives innovation in game design.                      |           4 |
 | Innovative Game Mechanics              | Developers are experimenting with unique card mechanics to create new gameplay experiences.  | From traditional rules to innovative twists, transforming how card games are played.                | Card games may evolve into multifaceted experiences with surprising rules and interactions.   | The quest for novel entertainment and player engagement leads to creative game design.         |           4 |
+
+## Behaviors
+
+| name                                             | description                                                                                                                                      |   relevancy |
+|:-------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Increased Popularity of Card Games               | Card games, both physical and digital, are experiencing a resurgence in popularity as people seek engaging and familiar gameplay.                |           5 |
+| Complex Game Design with Simple Mechanics        | Game developers are creating complex gameplay experiences using the simple mechanics of card games, leading to innovative and addictive designs. |           4 |
+| Addiction to Game Mechanics                      | Players are increasingly becoming addicted to the mechanics of games like Solitaire, which offer a balance of challenge and reward.              |           5 |
+| Interactivity and Tactile Feedback               | Digital card games are focusing on recreating the tactile experience of handling physical cards to enhance player engagement.                    |           4 |
+| Exploration of Card Game Variants                | Developers are experimenting with unique variants of traditional card games, expanding gameplay possibilities and player interest.               |           4 |
+| Integration of Mathematical Concepts in Gameplay | The complexity of card games is being explored through mathematical research, influencing game mechanics and player strategies.                  |           5 |
+| Cultural Evolution of Card Games                 | Playing cards are being adapted across cultures, leading to diverse gameplay experiences and historical exploration of their origins.            |           4 |
+| Emphasis on 'Aha' Moments in Gameplay            | Card games are designed to create sudden insights or realizations during play, enhancing the player’s engagement and satisfaction.               |           5 |
+
+## Technologies
+
+| name                              | description                                                                                                                                              |   relevancy |
+|:----------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Game Development Algorithms       | Advanced algorithms for simulating randomness and game mechanics in card games and other genres, enhancing player experience.                            |           4 |
+| Digital Card Game Innovations     | New variants and mechanics in digital card games that utilize familiar concepts while offering unique gameplay experiences, such as A Solitaire Mystery. |           4 |
+| Mathematical Game Theory          | Application of complex mathematical theories to analyze and enhance card game strategies and probabilities, improving gameplay understanding.            |           5 |
+| Physical-Digital Game Interaction | Technologies that recreate tactile sensations of physical card games in digital formats, enhancing player engagement.                                    |           4 |
+| AI in Game Design                 | Utilizing artificial intelligence to create unpredictable and engaging gameplay experiences in card games and simulations.                               |           5 |
+| Behavioral Game Mechanics         | Understanding player psychology to design games that create 'aha' moments and addictive gameplay through strategic challenges.                           |           5 |
+
+## Issues
+
+| name                                      | description                                                                                                                                    |   relevancy |
+|:------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Complexity of Card Games                  | Despite their simplicity, card games like Solitaire reveal underlying mathematical complexities that challenge players and researchers alike.  |           4 |
+| Digital vs Physical Card Games            | The transition from physical card games to digital formats raises questions about player experience and the tactile nature of gameplay.        |           3 |
+| Historical Preservation of Gaming Objects | The fragility of playing cards poses challenges for historians in preserving the evolution of card games.                                      |           5 |
+| Mathematics in Game Design                | Game developers are increasingly leveraging mathematical principles, such as probability and randomness, to enhance gameplay experiences.      |           4 |
+| Cultural Significance of Playing Cards    | Playing cards have a rich cultural history that influences modern gameplay and game design across different cultures.                          |           4 |
+| Addictiveness of Card Games               | Research highlights the psychological factors that contribute to the addictiveness of card games, impacting game design and player engagement. |           5 |
+| Emergence of New Card Game Variants       | Innovative variations of traditional card games are emerging, creating new gameplay experiences and expanding the genre.                       |           4 |
+| Interactivity in Card Games               | The concept of 'the jerk' in gameplay design reflects the balance of information and uncertainty, influencing player engagement.               |           3 |

@@ -1,47 +1,66 @@
-# __Q+A: Future You and Your Data__, from ([20240707](https://kghosh.substack.com/p/20240707).)
+# __Understanding the Future You Platform: Data, Accuracy, and Purpose__, from ([1885.0](https://kghosh.substack.com/p/1885.0).)
 
 __[External link](https://www.media.mit.edu/projects/future-you/overview/)__
 
 
 
-## Summary
-
-This text provides information about the data collected by the Future You tool and how it is used for research purposes. It explains that Future You aims to paint a realistic picture of the user's future life based on survey responses and conversations with the future self. However, it clarifies that Future You cannot predict specific details about the future. The text also emphasizes the importance of providing detailed information in the initial survey to enhance the user's experience. Additionally, it mentions the research goals of Future You and its potential benefits in various areas such as long-term thinking, academic performance, financial savings, and mental health. Lastly, the text briefly mentions the team members and institutions involved in the project, as well as their plans to make the platform more accessible and collaborate with institutions to support young people in envisioning their futures.
-
 ## Keywords
 
-* data
-* anonymize
-* survey responses
-* conversation
-* future self
-* improve
 * Future You
-* accurate
-* predict
-* personalized
+* survey responses
+* large language model
+* intervention
+* mental health benefits
 
 ## Themes
 
-* data collection and anonymization
-* future prediction
-* research
+* data privacy
+* data accuracy
+* future self
+* mental health
+
+## Other
+
+* Category: science
+* Type: blog post
+
+## Summary
+
+The Future You platform anonymizes user data from surveys and conversations to enhance its service. It does not predict specific future events but helps users visualize potential future scenarios based on their goals and personal traits. The accuracy of its responses relies on the detail provided in the initial survey. The tool is designed to promote long-term thinking and personal development, with ongoing efforts to increase accessibility and collaboration with institutions. The project is supported by a team from various universities and organizations, including MIT, Harvard, and KBTG.
 
 ## Signals
 
-| Signal                                         | Change                  | 10y horizon                                             | Driving force                                                |
-|:-----------------------------------------------|:------------------------|:--------------------------------------------------------|:-------------------------------------------------------------|
-| Data collection for research improvement       | Data collection process | More efficient and effective data analysis              | Improvement in future self-research                          |
-| Future You aims for realistic future paths     | Predictive accuracy     | Better understanding of potential futures               | Helping individuals navigate uncertain future paths          |
-| Personalized responses from future self        | Interaction experience  | More accurate and relatable conversations               | Personalized language model and user input data              |
-| Future You grounded in research                | Research approach       | Greater understanding of future self-continuity         | Empirical and theoretical research on future self-continuity |
-| Platform accessibility and collaboration       | Platform enhancement    | Increased accessibility and collaboration               | Making the tool available to more users and institutions     |
-| Research and project support from institutions | Project collaboration   | More support for young people envisioning their futures | Collaboration with institutions and researchers              |
+| name                            | description                                                                            | change                                                                                         | 10-year                                                                                               | driving-force                                                                      |   relevancy |
+|:--------------------------------|:---------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------|------------:|
+| Anonymization of Data           | Survey responses and conversations are anonymized for research purposes.               | Shift from personal data collection to anonymized data usage for improved insights.            | In a decade, anonymization may become a standard practice in all data-driven applications.            | Increasing concerns about privacy and data protection among users and regulators.  |           4 |
+| Personalized AI Interactions    | Conversations with a future self generated by a personalized language model.           | Transition from generic AI responses to highly personalized interactions based on user data.   | In ten years, personalized AI may be the norm, deeply integrated into daily life and decision-making. | Advances in AI and user demand for tailored experiences in digital interactions.   |           5 |
+| Future Self-Continuity          | Tool grounded in research promoting future self-continuity for better decision-making. | Moving from short-term thinking to long-term future planning and reflection.                   | Long-term thinking may become a core part of personal development and education.                      | Growing recognition of mental health benefits from future-oriented thinking.       |           5 |
+| Collaboration with Institutions | Efforts to collaborate with institutions to enhance accessibility of the platform.     | From isolated applications to collaborative efforts between tech and educational institutions. | In ten years, collaborative platforms may dominate future planning and educational tools.             | The need for inclusive and accessible resources for young people in a digital age. |           4 |
 
-## Closest
+## Behaviors
 
-* [Connecting with Your Future Self through Chatbots](65cf4789fa6df6abeb1b059b62894622)
-* [Harnessing Collective Creativity with Futures Canvas](ca4df2617146551eab6d6792c32adb78)
-* [Array of Toolkits for Future Studies](1627c349466b12746bafae14c5c576eb)
-* [Calibrating Experiences of the Future](60ca937aa44bdaf31b5128e3b4f01fe9)
-* [Strategic Foresight: Anticipating and Adapting to the Future](40a99c098bad8dda821b757d8d88a80a)
+| name                            | description                                                                                                            |   relevancy |
+|:--------------------------------|:-----------------------------------------------------------------------------------------------------------------------|------------:|
+| Data Anonymization in Research  | Collecting and anonymizing user data for research purposes to improve future tools and interventions.                  |           4 |
+| Future Self Continuity          | Promoting long-term thinking and reflection on future pathways through interaction with a personalized future self.    |           5 |
+| Personalized AI Conversations   | Using AI to generate real-time conversations based on user input and personal qualities for better engagement.         |           4 |
+| Collaboration for Accessibility | Engaging with institutions to enhance the accessibility of tools designed to help young people envision their futures. |           4 |
+| Research-Driven Interventions   | Grounding interventions in empirical and theoretical research to support mental health and academic performance.       |           5 |
+
+## Technologies
+
+| name                                 | description                                                                                                                |   relevancy |
+|:-------------------------------------|:---------------------------------------------------------------------------------------------------------------------------|------------:|
+| Large Language Models                | AI systems that can generate human-like text responses based on user input and personalized data.                          |           5 |
+| Future Self Continuity Interventions | Techniques aimed at improving long-term thinking and decision-making by helping individuals visualize their future selves. |           4 |
+| Anonymized Data Collection           | The process of gathering user data while ensuring individual identities are protected for research purposes.               |           3 |
+
+## Issues
+
+| name                                              | description                                                                                                                                    |   relevancy |
+|:--------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Data Anonymization in AI Tools                    | The practice of anonymizing user data for research raises concerns about privacy and data security.                                            |           4 |
+| Future Self-Continuity Interventions              | Interventions focused on future self-continuity may influence long-term decision-making in various life aspects.                               |           5 |
+| Personalization of AI Responses                   | The reliance on personalized data for generating responses highlights issues of bias and accuracy in AI models.                                |           3 |
+| Accessibility of Future Planning Tools            | Efforts to improve accessibility in tools like Future You indicate a growing focus on equitable access to developmental resources.             |           4 |
+| Collaboration between Institutions and Technology | The collaboration between educational institutions and tech companies for future planning reflects a trend towards integrated support systems. |           3 |

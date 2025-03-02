@@ -6,183 +6,19 @@ __[External link](https://umdearborn.edu/news/ev-charging-stations-could-be-targ
 
 ## Keywords
 
-* e
-* l
-* e
-* c
-* t
-* r
-* i
-* c
-*  
-* v
-* e
-* h
-* i
-* c
-* l
-* e
-* s
-* ,
-* c
-* y
-* b
-* e
-* r
-* s
-* e
-* c
-* u
-* r
-* i
-* t
-* y
-* ,
-* c
-* h
-* a
-* r
-* g
-* i
-* n
-* g
-*  
-* s
-* t
-* a
-* t
-* i
-* o
-* n
-* s
-* ,
-* E
-* V
-*  
-* m
-* a
-* n
-* u
-* f
-* a
-* c
-* t
-* u
-* r
-* e
-* r
-* s
-* ,
-* a
-* u
-* t
-* o
-* m
-* o
-* t
-* i
-* v
-* e
-*  
-* t
-* e
-* c
-* h
-* n
-* o
-* l
-* o
-* g
-* y
+* electric vehicles
+* cybersecurity
+* charging stations
+* EV manufacturers
+* automotive technology
 
 ## Themes
 
-* e
-* l
-* e
-* c
-* t
-* r
-* i
-* c
-*  
-* v
-* e
-* h
-* i
-* c
-* l
-* e
-* s
-* ,
-* c
-* y
-* b
-* e
-* r
-* s
-* e
-* c
-* u
-* r
-* i
-* t
-* y
-* ,
-* a
-* u
-* t
-* o
-* m
-* o
-* t
-* i
-* v
-* e
-*  
-* i
-* n
-* d
-* u
-* s
-* t
-* r
-* y
-* ,
-* t
-* e
-* c
-* h
-* n
-* o
-* l
-* o
-* g
-* y
-* ,
-* c
-* h
-* a
-* r
-* g
-* i
-* n
-* g
-*  
-* i
-* n
-* f
-* r
-* a
-* s
-* t
-* r
-* u
-* c
-* t
-* u
-* r
-* e
+* electric vehicles
+* cybersecurity
+* automotive industry
+* technology
+* charging infrastructure
 
 ## Other
 
@@ -202,3 +38,36 @@ Electric vehicles (EVs) are gaining traction, with major automakers like Ford an
 | Cybersecurity Risks in EVs            | Potential cybersecurity vulnerabilities arise from EVs' reliance on charging infrastructure.               | Emerging concerns about vehicle security due to increased cyber threats as EVs connect to grids.     | Cybersecurity will become a key focus in automotive design, affecting consumer trust and regulations.                 | The need for secure technology in an increasingly connected world, especially for critical infrastructure. |           5 |
 | Research on EV Security               | Emerging academic interest in cybersecurity risks associated with electric vehicles and charging stations. | Growing academic focus on the security vulnerabilities of EVs and their charging infrastructure.     | Robust cybersecurity frameworks will likely be established for EVs, enhancing safety and consumer confidence.         | The necessity to protect critical infrastructure and consumer data from cyber threats.                     |           4 |
 | Anomaly Detection in Charging Systems | Research into using machine learning for detecting anomalies during EV charging.                           | Shifting from prevention-focused security to detection and response in EV charging systems.          | Real-time cybersecurity measures will be standard in EV technology, improving overall safety.                         | Advancements in machine learning and AI to enhance cybersecurity measures.                                 |           3 |
+
+## Behaviors
+
+| name                                        | description                                                                                                                          |   relevancy |
+|:--------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Shift to Electric Vehicles (EVs)            | Major auto manufacturers are transitioning to fully electric vehicle production, phasing out gas-powered models by 2040.             |           5 |
+| Consumer Anxiety Over EV Range              | Despite growing EV sales, consumers experience anxiety regarding the driving range of electric vehicles.                             |           4 |
+| Growth of Charging Infrastructure           | There is a need for the expansion of fast-charging infrastructure to support the increasing number of electric vehicles on the road. |           5 |
+| Cybersecurity Concerns in EVs               | As EVs connect to electrical infrastructure, they present potential cybersecurity risks, including hacking threats.                  |           5 |
+| Vulnerability Research in Charging Stations | Research is being conducted on vulnerabilities in EV charging stations, identifying potential security weaknesses.                   |           5 |
+| Anomaly Detection for Cyber Defense         | Using machine learning for anomaly detection to identify and respond to cyberattacks on electric vehicles in real-time.              |           5 |
+| Academic Focus on EV Cybersecurity          | Emerging academic interests in the cybersecurity of electric vehicles, highlighting the growing field of study.                      |           4 |
+
+## Technologies
+
+| name                                                | description                                                                                                                 |   relevancy |
+|:----------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------|------------:|
+| Electric Vehicles (EVs)                             | Vehicles powered by electricity rather than gasoline, with major auto companies phasing out gas-powered models by 2040.     |           5 |
+| Cybersecurity for Electric Vehicles                 | Focus on securing EVs and charging stations against hacking threats and vulnerabilities in their networks.                  |           4 |
+| Anomaly Detection in Cybersecurity                  | Using machine learning to detect unusual patterns in vehicle charging activity to identify potential cyber attacks.         |           4 |
+| Controller Area Network (CAN) Security Improvements | Enhancements to the security of vehicle communication systems that are vulnerable to cyber threats.                         |           4 |
+| Fast-Charging Infrastructure                        | Development of faster and more reliable charging stations to support the growing EV market and alleviate consumer concerns. |           4 |
+
+## Issues
+
+| name                                             | description                                                                                                                         |   relevancy |
+|:-------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Cybersecurity Risks in Electric Vehicles         | The potential for hackers to infiltrate EVs through charging infrastructure poses significant cybersecurity threats.                |           5 |
+| Inadequate Fast-Charging Infrastructure          | Slow development of fast-charging stations may hinder consumer adoption of electric vehicles.                                       |           4 |
+| Vulnerabilities in Controller Area Network (CAN) | The CAN system in vehicles is not very secure, leading to potential vulnerabilities when connected to charging stations.            |           4 |
+| Lack of Universal Standards for EV Chargers      | The absence of universal manufacturing standards for EV chargers increases the risk of security breaches.                           |           4 |
+| Anomaly Detection in Vehicle Charging Systems    | The use of machine learning for real-time attack detection in EV charging systems is an emerging research area.                     |           3 |
+| Transition from Gas to Electric Vehicles         | The shift from gas-powered vehicles to electric vehicles is accelerating, necessitating adaptations in infrastructure and security. |           5 |

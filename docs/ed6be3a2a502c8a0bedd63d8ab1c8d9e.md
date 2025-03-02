@@ -1,114 +1,76 @@
-# __The Rise of Virtual Humans in China__, from ([20231005](https://kghosh.substack.com/p/20231005).)
+# __The Rise of Virtual Humans in China's Luxury Market: Trends and Influencers__, from ([4752.0](https://kghosh.substack.com/p/4752.0).)
 
 __[External link](https://jingdaily.com/prada-porsche-tissot-tesla-brands-collaborate-with-virtual-humans-in-china/)__
 
 
 
-## Summary
-
-Virtual humans have become a significant presence in China, partnering with luxury brands like Bulgari, Porsche, Estée Lauder, and Tissot. Chinese tech giants Baidu and Tencent are also developing platforms for the creation of virtual humans. The virtual human market is predicted to reach $440.3 billion by 2031. Liu Yexi and Ayayi are two popular virtual humans in China, known for their aesthetics and luxury brand partnerships. AI-powered virtual influencer Ling has collaborated with various brands and is using AI-generated content. The rise of virtual influencers humanizes them and creates a connection with the audience.
-
 ## Keywords
 
 * virtual humans
-* China
 * luxury brands
-* Bulgari
-* Porsche
-* Estée Lauder
-* Tissot
-* AI developments
-* Chinese tech giants
-* Baidu
-* Tencent
-* virtual human market
-* predicted
-* 2031
-* Allied Market Research
-* Gen Z social media
-* virtual human content
-* livestreams
-* China’s top virtual humans
-* appeal
-* consumers
-* brands
-* Liu Yexi
-* popular virtual humans
-* Douyin-style makeup
-* traditional Chinese dress
-* hanfu
-* magical mysticism
-* viewers
-* styling
-* analog world
-* virtual influencer aesthetic
+* AI
+* TikTok
+* Douyin
+* influencers
 * Carla O’Connor
-* American influencer
-* China
-* West
-* Lululemon
-* Mercedes
-* Douyin videos
+* Liu Yexi
 * Ayayi
-* luxury partnerships
-* Ferragamo
-* Prada
-* Louis Vuitton
-* Guerlain
-* luxury influencers
-* aspirational branding
-* modern consumers
-* authenticity
-* heritage
-* distinct attitude
-* lifestyle
-* virtual influencers
-* genuine engagement
-* Caroline York
-* Director of Marketing
-* Asia’s leading brand technology group Gusto Collective
-* Chinese tech giant Alibaba
-* digital human employee
-* interpreter
-* 2022 Beijing Winter Olympics
-* digital influencer
-* blank slate
-* Liu Yan
-* manager of virtual influencers
-* Gina
-* advertisement deal
-* KOL
-* AI-powered Ling
-* collaborations
-* Pechoin
-* Tesla
-* Centaine
-* AIGC
-* Weibo posts
-* AI-generated
-* humanizes
-* connection
+* Ling
 
 ## Themes
 
-* Virtual humans in China
-* Luxury brand partnerships
-* AI-powered virtual influencers
+* virtual humans
+* luxury brands
+* AI technology
+* Chinese influencers
+* social media trends
+
+## Other
+
+* Category: technology
+* Type: blog post
+
+## Summary
+
+Virtual humans in China have partnered with luxury brands like Bulgari and Estée Lauder, with the market projected to reach $440.3 billion by 2031. Popular virtual influencers such as Liu Yexi, Ayayi, and Ling showcase the blending of digital and analog aesthetics, attracting millions of followers. Liu Yexi, known for her mystical content and traditional fashion, has gained immense popularity since her debut in 2021. Ayayi has collaborated with top luxury brands and serves as a digital employee for Alibaba. Ling, utilizing AI in her content, connects modern technology with traditional aesthetics through collaborations with brands like Tesla. These virtual influencers offer brands a controlled and engaging way to connect with consumers.
 
 ## Signals
 
-| Signal                                                | Change                                 | 10y horizon                          | Driving force                          |
-|:------------------------------------------------------|:---------------------------------------|:-------------------------------------|:---------------------------------------|
-| Virtual humans partnering with luxury brands          | Integration of virtual humans in ads   | More virtual humans in the market    | Desire for unique and engaging content |
-| Predicted $440.3 billion virtual human market by 2031 | Market growth                          | Increased market size                | Potential for profit and innovation    |
-| Popularity of virtual human Liu Yexi                  | Increased popularity of virtual humans | More virtual human influencers       | Blend of trends and magical appeal     |
-| Ayayi's luxury brand partnerships                     | Brands using virtual influencers       | Increased use of virtual influencers | Ability to convey distinct lifestyle   |
-| Ling's AI-generated content                           | Use of AI in content generation        | More AI-generated virtual content    | Enhancing humanization and connection  |
+| name                                           | description                                                                          | change                                                                            | 10-year                                                                               | driving-force                                                                         |   relevancy |
+|:-----------------------------------------------|:-------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------|------------:|
+| Rise of Virtual Humans in China                | Luxury brands are increasingly collaborating with virtual influencers in China.      | Shift from traditional human influencers to virtual influencers for marketing.    | Virtual humans may dominate the influencer landscape, reshaping branding strategies.  | The desire for brands to connect with younger audiences through innovative marketing. |           5 |
+| AI-generated Content by Influencers            | Virtual influencers are utilizing AI technology to create content.                   | Transition from manually created content to AI-assisted content generation.       | Content creation may become fully automated, impacting influencer authenticity.       | Advancements in AI technology and its integration into marketing strategies.          |           4 |
+| Changing Aesthetic Preferences in Social Media | Chinese audiences prefer polished and idealized content from influencers.            | Shift from casual, unfiltered content to curated, aesthetically pleasing content. | Social media aesthetics may evolve towards hyper-realistic, idealized portrayals.     | Cultural emphasis on perfection and visual appeal in digital media.                   |           4 |
+| Luxury Brand Marketing Evolution               | Luxury brands are adapting to new consumer expectations through virtual influencers. | Move from heritage-focused branding to modern self-expression branding.           | Luxury branding may prioritize character and emotional connection over tradition.     | Changing consumer values toward authenticity and self-expression.                     |           5 |
+| Humanization of Virtual Influencers            | Virtual influencers are being positioned in relatable, real-life contexts.           | Evolution from abstract digital beings to relatable personas in social media.     | Virtual influencers may become indistinguishable from real influencers in engagement. | The need for brands to create emotional connections with audiences.                   |           5 |
 
-## Closest
+## Behaviors
 
-* [China's Growing Virtual People Industry](9830e769665e82dcea315b1089dc40c4)
-* [The Rise of Virtual Idols](f2c164b7ff8eb0a6fd223511dba15804)
-* [Deepfakes of Chinese Influencers Take Over Livestreaming](648de774fbff1434a953141f7652db07)
-* [Balabala Makes Virtual Move with Gu Yu](c9ec4ffbfe911a0c5d04e95d8fa17e77)
-* [Artificial Intelligence Provides Unlimited Income for Influencers](18df8a96fab62c7792d6643a6e9646f1)
+| name                                   | description                                                                                                                                    |   relevancy |
+|:---------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Virtual Influencer Partnerships        | Luxury brands are collaborating with virtual humans to enhance brand engagement and self-expression among consumers.                           |           5 |
+| Aesthetic Emphasis in Content Creation | Chinese social media favors polished, aesthetically pleasing content, contrasting with Western trends favoring authenticity and imperfection.  |           4 |
+| AI-Driven Content Generation           | Virtual influencers are increasingly utilizing AI to produce content, blurring the lines between human and virtual creativity.                 |           4 |
+| Humanization of Virtual Influencers    | Placing virtual influencers in familiar real-life contexts enhances their relatability and fosters consumer connection.                        |           5 |
+| Luxury Brand Characterization          | Modern consumers seek brands that represent personal self-expression over traditional authenticity, leading to a shift in branding strategies. |           4 |
+
+## Technologies
+
+| name                                               | description                                                                                                          |   relevancy |
+|:---------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|------------:|
+| Virtual Humans                                     | AI-generated personas that engage with audiences and brands, blending digital and physical realities.                |           5 |
+| AI-Generated Content (AIGC)                        | Content created with the assistance of artificial intelligence, enhancing the capabilities of virtual influencers.   |           4 |
+| Luxury Brand Partnerships with Virtual Influencers | Collaborations between high-end brands and virtual personas to reach modern consumers through unique branding.       |           5 |
+| Digital Human Employees                            | Virtual beings employed by companies for marketing and representation roles, exemplified by Ayayi's role at Alibaba. |           4 |
+
+## Issues
+
+| name                                     | description                                                                                                                                                   |   relevancy |
+|:-----------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Rise of Virtual Influencers              | The emergence of virtual humans as influencers is reshaping marketing strategies for luxury brands, tapping into consumer preferences for curated aesthetics. |           5 |
+| AI-Generated Content                     | The integration of AI in content creation for virtual influencers raises questions about authenticity and the blurring of lines between real and virtual.     |           4 |
+| Consumer Engagement with Digital Avatars | Brands are leveraging virtual influencers to foster deeper engagement with audiences, reflecting a shift in consumer expectations towards brand interaction.  |           4 |
+| Cultural Aesthetics in Marketing         | The blending of traditional Chinese aesthetics with modern technology in virtual branding appeals to a value-driven consumer base seeking self-expression.    |           3 |
+| Influencer Market Dynamics               | Virtual influencers are changing the landscape of influencer marketing, leading to new dynamics in audience reach and brand partnerships.                     |           5 |
+| Impact of Social Media on Brand Strategy | The rise of platforms like Douyin is influencing how luxury brands strategize their marketing, focusing on visual perfection and curated content.             |           4 |
+| Challenges of Authenticity               | As virtual influencers gain traction, brands face challenges in maintaining authenticity while leveraging digital personas for marketing.                     |           3 |

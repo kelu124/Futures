@@ -1,0 +1,67 @@
+# __The Impact of Generative AI on Human Creativity in Story Writing__, from ([1955.0](https://kghosh.substack.com/p/1955.0).)
+
+__[External link](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4535536_code1843267.pdf?abstractid=4535536&mirid=1)__
+
+
+
+## Keywords
+
+* creativity
+* generative artificial intelligence
+* machine behavior
+* ethics
+* experiment
+
+## Themes
+
+* creativity
+* generative artificial intelligence
+* human experience
+* causal impact
+* creative output
+* short stories
+* online experimental study
+
+## Other
+
+* Category: science
+* Type: research article
+
+## Summary
+
+This study examines the impact of generative artificial intelligence (GenAI) on human creativity, specifically in the context of writing short stories. An online experiment showed that writers with access to GenAI ideas demonstrated an 8% to 9% increase in creativity, producing stories that were rated as better and more enjoyable, particularly among less creative writers, who saw improvements of 22% to 26%. However, the stories generated with GenAI assistance were found to be more similar to each other and to the original GenAI ideas, leading to concerns that they may reflect less of the author’s unique perspective. The findings suggest that while GenAI can enhance creativity, it may also constrain originality, prompting further exploration into its role in creative processes.
+
+## Signals
+
+| name                                     | description                                                                                   | change                                                                                   | 10-year                                                                                                        | driving-force                                                                                         |   relevancy |
+|:-----------------------------------------|:----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------|------------:|
+| GenAI's Role in Enhancing Creativity     | Generative AI is being used to augment human creativity, especially in creative writing.      | Transition from traditional creativity methods to AI-assisted creativity.                | In ten years, GenAI may be a standard tool for writers and artists, fundamentally changing creative processes. | The demand for innovative and diverse creative output in a competitive landscape.                     |           4 |
+| Dependence on AI for Creativity          | Writers using GenAI become more similar in style, potentially stifling individual creativity. | Shift from unique human creativity to a more homogenized AI-influenced creative output.  | In a decade, creativity may be perceived as less personal and more algorithmically driven.                     | The efficiency and ease of using AI tools in creative processes outweighs the value of individuality. |           4 |
+| Quality versus Originality in Creativity | GenAI assistance leads to better-rated but less original stories.                             | Change from valuing originality to prioritizing quality and enjoyment in creative works. | Creative industries may prioritize audience enjoyment over unique artistic expression.                         | Market trends favoring consumer satisfaction and engagement over traditional artistic values.         |           5 |
+
+## Behaviors
+
+| name                                        | description                                                                                                                                 |   relevancy |
+|:--------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Enhanced Creativity through AI              | Generative AI assists human creators by providing new ideas, leading to increased creativity and improved outputs.                          |           5 |
+| Dependency on AI for Creativity             | Writers becoming reliant on GenAI ideas may result in less original creative output, as stories become more similar to each other.          |           4 |
+| Improved Quality of Creative Work           | Access to GenAI leads to stories being perceived as better written and more enjoyable, particularly for less creative writers.              |           4 |
+| Causal Impact of GenAI on Writing           | The study provides evidence of the positive impact of GenAI on creative writing, emphasizing the need for further development in this area. |           5 |
+| Shift in Authorial Voice                    | Stories created with GenAI assistance reflect less of the author's original ideas, indicating a shift in how creativity is perceived.       |           4 |
+| Potential for Broader Applications of GenAI | The findings encourage researchers and practitioners to explore GenAI's role in enhancing creativity across various sectors.                |           5 |
+
+## Technologies
+
+| name                                       | description                                                                                                                          |   relevancy |
+|:-------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Generative Artificial Intelligence (GenAI) | A technology that generates new content and ideas, enhancing creativity by providing inspiration and new possibilities for creators. |           5 |
+
+## Issues
+
+| name                                    | description                                                                                                                                |   relevancy |
+|:----------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Impact of GenAI on Creativity           | Generative AI can enhance creativity but may also limit unique human expression by anchoring creators to machine-generated ideas.          |           4 |
+| Ethics of AI in Creative Fields         | The use of GenAI raises ethical questions regarding authorship and originality in creative outputs.                                        |           5 |
+| Dependence on AI for Creative Processes | Writers may become increasingly reliant on GenAI for inspiration, potentially affecting their creative development over time.              |           4 |
+| Variability in Creative Output Quality  | The quality of creative outputs may vary significantly based on the user's initial creativity and their interaction with GenAI.            |           3 |
+| AI's Role in Economic Creativity        | The implications of GenAI on creativity could influence economic sectors reliant on creative outputs, necessitating policy considerations. |           4 |

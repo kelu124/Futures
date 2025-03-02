@@ -6,165 +6,19 @@ __[External link](https://www.yahoo.com/lifestyle/passive-house-survives-fire-ca
 
 ## Keywords
 
-* P
-* a
-* s
-* s
-* i
-* v
-* e
-*  
-* H
-* o
-* u
-* s
-* e
-* ,
-* f
-* i
-* r
-* e
-*  
-* s
-* a
-* f
-* e
-* t
-* y
-* ,
-* C
-* a
-* l
-* i
-* f
-* o
-* r
-* n
-* i
-* a
-*  
-* w
-* i
-* l
-* d
-* f
-* i
-* r
-* e
-* s
-* ,
-* a
-* r
-* c
-* h
-* i
-* t
-* e
-* c
-* t
-* u
-* r
-* e
-* ,
-* e
-* n
-* e
-* r
-* g
-* y
-*  
-* e
-* f
-* f
-* i
-* c
-* i
-* e
-* n
-* c
-* y
+* Passive House
+* fire safety
+* California wildfires
+* architecture
+* energy efficiency
 
 ## Themes
 
-* p
-* a
-* s
-* s
-* i
-* v
-* e
-*  
-* h
-* o
-* u
-* s
-* e
-* ,
-* f
-* i
-* r
-* e
-*  
-* s
-* a
-* f
-* e
-* t
-* y
-* ,
-* a
-* r
-* c
-* h
-* i
-* t
-* e
-* c
-* t
-* u
-* r
-* e
-* ,
-* C
-* a
-* l
-* i
-* f
-* o
-* r
-* n
-* i
-* a
-*  
-* w
-* i
-* l
-* d
-* f
-* i
-* r
-* e
-* s
-* ,
-* e
-* c
-* o
-* -
-* f
-* r
-* i
-* e
-* n
-* d
-* l
-* y
-*  
-* d
-* e
-* s
-* i
-* g
-* n
+* passive house
+* fire safety
+* architecture
+* California wildfires
+* eco-friendly design
 
 ## Other
 
@@ -184,3 +38,39 @@ The recent California wildfires have destroyed vast areas, but some homes, like 
 | Certification of Passive Houses          | More buildings receiving Passive House certification, indicating a trend towards eco-friendly design. | Growth in certified passive houses from niche to mainstream acceptance.                  | A significant increase in passive house certifications, reflecting changing consumer preferences.  | Demand for energy-efficient and sustainable living spaces amid rising energy costs.               |           4 |
 | Emerging Fireproof Materials             | Development and use of new materials and methods that improve fire resistance in homes.               | Advancement from traditional materials to innovative fireproof options.                  | Widespread adoption of advanced fireproof materials in residential construction.                   | Innovation in construction materials driven by the need for safer homes.                          |           3 |
 | Consumer Awareness of Home Safety        | Increased consumer focus on home safety features due to recent wildfire events.                       | Shift from aesthetic concerns to prioritizing safety and resilience in home design.      | Homebuyers will increasingly prioritize safety features in property selection.                     | Recent disasters raising awareness about the importance of home safety measures.                  |           4 |
+
+## Behaviors
+
+| name                                         | description                                                                                                                        |   relevancy |
+|:---------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Adoption of Passive House Design             | Increasing interest in passive house principles for building eco-friendly and fire-resistant homes amidst rising wildfire threats. |           5 |
+| Integration of Fire-Resilient Features       | Architects are incorporating fire-proofing strategies in home designs to enhance safety against wildfires.                         |           4 |
+| Shift Towards Energy Efficiency              | Growing emphasis on energy-efficient building practices, which inadvertently improve fire resilience.                              |           4 |
+| Use of Advanced Materials                    | Preference for materials like aluminum-framed windows and fire-retardant coatings to enhance fire resistance in homes.             |           4 |
+| Community Awareness and Preparedness         | Heightened awareness in communities about fire risks and the importance of resilient building practices.                           |           4 |
+| Policy Changes Supporting Passive Structures | States are updating building codes to include passive house strategies for improved energy efficiency and fire resilience.         |           5 |
+| Investment in Long-term Cost Savings         | Homeowners are willing to invest more upfront for passive houses due to long-term savings on utility bills and enhanced safety.    |           4 |
+
+## Technologies
+
+| name                                | description                                                                                                                    |   relevancy |
+|:------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Passive House Design                | A building approach emphasizing energy efficiency and fire resilience through airtight construction and eco-friendly features. |           5 |
+| Fire-Resilient Construction Methods | Design strategies that enhance a building's ability to withstand fire, including metal roofs and fire-resistant materials.     |           4 |
+| Energy Recovery Ventilation Systems | Systems designed to improve indoor air quality while conserving energy by recovering heat from exhaust air.                    |           3 |
+| High-Performance Glazing            | Advanced window technologies that provide better insulation and resistance to heat and fire.                                   |           4 |
+| Superinsulated Envelopes            | Building envelopes that minimize energy loss, contributing to both energy efficiency and fire resilience.                      |           5 |
+| Fire Retardant Coatings for Wood    | Special coatings applied to wood materials to enhance their fire resistance.                                                   |           3 |
+| Aluminum-Framed Windows             | Windows designed with aluminum frames for enhanced durability and fire resilience compared to traditional materials.           |           4 |
+
+## Issues
+
+| name                                   | description                                                                                                                           |   relevancy |
+|:---------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Increasing Wildfire Risks              | The ongoing wildfires in California highlight the growing threat of wildfires due to climate change and urban development.            |           5 |
+| Rise of Passive House Design           | The increasing adoption of passive house design principles as a strategy for fire resilience and energy efficiency in construction.   |           4 |
+| Energy Efficiency in Housing           | The trend towards building energy-efficient homes, which are not only eco-friendly but also more resilient to extreme weather events. |           4 |
+| Fire-Resilient Building Strategies     | The need for innovative construction methods and materials to enhance fire resilience in residential buildings.                       |           4 |
+| Regulatory Changes in Building Codes   | The potential for new regulations in building codes to incorporate passive house principles for fire safety and energy efficiency.    |           3 |
+| Health Impacts of Smoke Exposure       | The importance of protecting occupants from smoke damage and health impacts during wildfires through advanced building designs.       |           3 |
+| Cost-Benefit Analysis of Passive Homes | The discussion around the upfront costs versus long-term savings associated with passive house construction.                          |           4 |

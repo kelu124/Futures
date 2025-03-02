@@ -1,49 +1,88 @@
-# __The Salt of the Cosmos__, from ([20230827](https://kghosh.substack.com/p/20230827).)
+# __Exploring the Interconnections of Lithium, Digital Space, and Mental Health Experiences__, from ([22457.0](https://kghosh.substack.com/p/22457.0).)
 
 __[External link](https://one.compost.digital/the-salt-of-the-cosmos/?utm_source=substack&utm_medium=email)__
 
 
 
-## Summary
-
-This text explores the themes of lithium, digital space, and mental health. It discusses the history and extraction of lithium, its use in treating mental disorders such as bipolar, and the impact of medicalization on individuals. The text also delves into the relationship between digital space and the self, highlighting the potential for both connection and harm. It critiques the colonial origins of knowledge and explores the ways in which technology can be used to decolonize and reconnect with ancestral knowledge. Overall, the text raises questions about identity, power, and the potential for transformation in the face of societal hierarchies.
-
 ## Keywords
 
 * lithium
-* salt
-* digital
-* mental disorders
-* DSM
-* bipolar
-* medicalization
-* colonialism
-* madness
+* mental health
 * internet
+* colonialism
+* medicalization
+* capitalism
+* identity
+* schizophrenia
+* bipolar disorder
+* technology
 
 ## Themes
 
-* Lithium
-* Digital Space
-* Mental Health
+* lithium
+* digital infrastructures
+* mental health
+* colonialism
+* internet culture
+* medicalization
+* capitalism
+* self
+* identity
+
+## Other
+
+* Category: science
+* Type: blog post
+
+## Summary
+
+This text explores the multifaceted relationship between lithium, digital technology, and human experiences, particularly through the lens of mental health. It highlights lithium's journey from a little-known mineral to a crucial component in pharmaceuticals and batteries, emphasizing its role in treating mood disorders like bipolar disorder. The author critiques the medicalization of mental health, arguing that diagnostic manuals like the DSM obscure the complexities of emotional experiences and reinforce societal hierarchies. Additionally, the text examines the intersections of digital spaces and physical realities, suggesting that the internet can both support and alienate individuals struggling with mental health. Ultimately, it advocates for a reimagining of identities and relationships beyond conventional norms, urging for a recognition of the interconnectedness of human experiences, technology, and the environment.
 
 ## Signals
 
-| Signal                                                  | Change                                                 | 10y horizon                              | Driving force                              |
-|:--------------------------------------------------------|:-------------------------------------------------------|:-----------------------------------------|:-------------------------------------------|
-| The growing importance of lithium                       | From overlooked resource to essential                  | Increased usage and demand               | The need for lithium-ion batteries         |
-| The connection between lithium and mental health        | From limited use to widespread treatment               | Increased research and treatment         | Improved understanding and acceptance      |
-| The impact of lithium mining on the environment         | From clean land to pollution and contamination         | Increased environmental degradation      | Demand for lithium and profitability       |
-| The role of the internet in mental health and community | From isolation to virtual support and connection       | Increased accessibility and support      | Desire for community and care              |
-| The consequences of medicalization                      | From pathologizing to rethinking                       | A shift in understanding and treatment   | Critique of power structures and knowledge |
-| The relationship between digital and physical worlds    | From separate realms to co-creation                    | Blurring of boundaries and integration   | Interconnectedness and historical legacies |
-| Elon Musk's involvement in Bolivia's coup               | From political neutrality to controversial involvement | Increased scrutiny and awareness         | Political power and corporate interests    |
-| The potential of decentralized cryptocurrencies         | From centralized control to community ownership        | Increased autonomy and financial support | Desire for alternatives and resistance     |
+| name                                           | description                                                                                  | change                                                                                  | 10-year                                                                                   | driving-force                                                               |   relevancy |
+|:-----------------------------------------------|:---------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------|------------:|
+| Digital Mental Health Communities              | Online platforms provide support for individuals facing mental health challenges.            | Shift from traditional therapy to digital spaces for community support.                 | In 10 years, digital mental health communities may become mainstream support systems.     | The need for accessible mental health resources and community support.      |           4 |
+| Rise of Lithium Usage                          | Lithium is increasingly used in various sectors from medicine to technology.                 | Transition from a niche medical treatment to a global resource for technology.          | In 10 years, lithium may be as common in everyday products as plastic.                    | Growing demand for electric vehicles and renewable energy solutions.        |           5 |
+| E-colonialism in Digital Space                 | The internet perpetuates systems of surveillance and colonial power dynamics.                | Shift from a perceived free digital space to a controlled and surveilled environment.   | In 10 years, digital spaces may reflect more pronounced inequities and control.           | The ongoing impact of colonial histories on modern technology.              |           4 |
+| Decentralized Care Models                      | Emerging models for care are challenging traditional medical frameworks.                     | Move from centralized medical authority to decentralized, community-driven care.        | In 10 years, care models may prioritize community and individual agency over institution. | Increased awareness of the limitations of current medical practices.        |           3 |
+| Environmental Impact of Lithium Mining         | Aboriginal communities face pollution and resource degradation from lithium extraction.      | Shift from viewing lithium mining as beneficial to recognizing its environmental costs. | In 10 years, there may be stricter regulations or alternatives to lithium extraction.     | Growing environmental activism and awareness of indigenous rights.          |           5 |
+| Intersection of Digital and Physical Realities | The relationship between digital experiences and physical realities is increasingly blurred. | Transition from separate digital and physical lives to an integrated existence.         | In 10 years, personal identity may be defined more by digital presence than physical.     | Advancements in technology and social media's influence on self-perception. |           4 |
+| Expansion of Lithium Battery Use               | Lithium batteries are marketed as green solutions despite environmental concerns.            | Shift from traditional energy sources to lithium-based technologies.                    | In 10 years, lithium batteries may dominate personal and public transport energy.         | Global push towards renewable energy and decreasing carbon footprints.      |           5 |
+| Changing Definitions of Sanity and Disorder    | Societal perceptions of mental health are evolving, affecting diagnoses and treatment.       | Evolution from rigid definitions of mental health to more fluid understandings.         | In 10 years, diagnostic categories may be more inclusive and individualized.              | Growing recognition of the complexity of mental health experiences.         |           4 |
 
-## Closest
+## Behaviors
 
-* [Our Technology Sickness—and How to Heal It](c1bb890337ef382bfaa5720c9fd05134)
-* [Psychonauts: Drugs and the Making of the Modern Mind](46b83c5dfd8f27c0bb2335917e2f5a1f)
-* [Psychonauts: A History of Drug Exploration](9f63fa720db53d39066cead1fabeb6df)
-* [Maintaining Mental Hygiene as an Open Source Researcher](ed4473b3a0fa1513b565081d8773b33e)
-* [Building a Inclusive Digital World](8115a7120c6b8a58c853c504e0d0ab75)
+| name                                    | description                                                                                                                              |   relevancy |
+|:----------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Digital-Physical Interdependence        | The blending of digital and physical experiences, suggesting that online interactions influence and shape physical realities.            |           5 |
+| Decentralized Care Networks             | Emerging communities forming online that provide support and resources, challenging traditional medical and societal structures.         |           5 |
+| Critical Engagement with Medicalization | A growing skepticism towards psychiatric diagnoses and medical frameworks, advocating for a more nuanced understanding of mental health. |           5 |
+| E-colonialism Awareness                 | Recognition of the digital world's ties to colonial histories and practices, prompting calls for decolonization of digital spaces.       |           4 |
+| Fluid Identities and Multiplicity       | The acceptance and exploration of non-fixed identities, allowing individuals to exist in multiple realities or states of being.          |           5 |
+| Activism Through Digital Platforms      | Utilizing social media and digital tools for grassroots activism and community organizing, especially in marginalized communities.       |           5 |
+| Reimagining Knowledge and Truth         | Challenging traditional epistemologies and seeking to recover indigenous and alternative forms of knowledge in the digital age.          |           4 |
+| Hyperawareness of Surveillance          | A growing consciousness about digital surveillance and its implications on selfhood and privacy in online spaces.                        |           4 |
+
+## Technologies
+
+| name                           | description                                                                                                                    |   relevancy |
+|:-------------------------------|:-------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Lithium-Ion Batteries          | High-performance batteries allowing faster charging and longer lifespan, crucial for electric vehicles and electronic devices. |           5 |
+| Augmented Reality              | Technology that overlays digital information onto the physical world, transforming how we interact with our environment.       |           4 |
+| Digital Commons                | Online platforms that enable collective knowledge sharing and support for marginalized communities.                            |           4 |
+| Decentralized Cryptocurrencies | Digital currencies that operate independently of central authorities, promoting alternative economic systems.                  |           5 |
+| Cyber-Healing                  | Integrating traditional knowledge with digital technologies for holistic healing practices.                                    |           3 |
+
+## Issues
+
+| name                                     | description                                                                                                                                                  |   relevancy |
+|:-----------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Environmental Impact of Lithium Mining   | Lithium mining in regions like the lithium triangle leads to pollution, water shortages, and health issues for local communities.                            |           5 |
+| Digital and Physical Interconnectedness  | The intertwining of digital and physical lives raises questions about identity, privacy, and the impact of technology on human experiences.                  |           5 |
+| Medicalization and Mental Health         | The increasing reliance on medical diagnoses and treatments for mental health issues reflects broader societal attitudes towards normality and disorder.     |           4 |
+| E-colonialism and Technology             | The internet and digital infrastructures perpetuate colonial legacies, impacting how knowledge and power are distributed.                                    |           4 |
+| Corporate Control of Resources           | The involvement of corporations in resource extraction, exemplified by lithium mining, raises ethical concerns about exploitation and environmental justice. |           5 |
+| Decentralized Technologies and Care      | Emerging technologies like cryptocurrency may provide alternative frameworks for care and community support outside mainstream systems.                      |           3 |
+| Affective Crises and Social Connectivity | The challenges of managing emotions in a hyper-connected digital world can lead to feelings of isolation and the search for community.                       |           4 |
+| Neoliberalism and Mental Health          | The connection between neoliberal economic policies and the commodification of mental health care reflects systemic issues in health care access.            |           4 |

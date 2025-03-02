@@ -1,52 +1,81 @@
-# __Getting Started with LangChain: A Beginner’s Guide to Building LLM-Powered Applications__, from ([20230521](https://kghosh.substack.com/p/20230521).)
+# __A Comprehensive Guide to Getting Started with LangChain for LLM Applications__, from ([16668.0](https://kghosh.substack.com/p/16668.0).)
 
 __[External link](https://towardsdatascience.com/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c)__
 
 
 
-## Summary
-
-LangChain is an open-source framework built to help developers build LLM-powered applications easily. It provides a generic interface to various foundation models, prompt management, and integration with other components like memory, agents, and external tools. The framework allows developers to create applications such as personal assistants, chatbots, and document analysis or summarization. LangChain simplifies the process of working with LLMs, which have gained popularity since the release of ChatGPT. The framework is centered around OpenAI's API, but it also supports open-source foundation models. It offers features like prompt templates, chaining LLMs with other components, accessing external data, and utilizing conversational memory. With LangChain, developers can leverage the power of large language models to build impressive prototypes quickly and easily.
-
 ## Keywords
 
-* LangChain
-* LLM-powered applications
+* langchain
 * large language models
-* ChatGPT
+* AI
+* python
+* development tutorial
+* API keys
 * LLMOps
-* framework
-* models
-* prompts
-* memory
-* agents
+* open-source
+* proprietary models
 
 ## Themes
 
-* LLM-powered applications
-* LangChain framework
-* Building with large language models
+* tutorial
+* langchain
+* large language models
+* python
+* application development
+
+## Other
+
+* Category: technology
+* Type: blog post
+
+## Summary
+
+This tutorial introduces LangChain, a Python framework designed to simplify the development of applications powered by large language models (LLMs). It highlights the growing popularity of LLMs since ChatGPT's release and discusses the potential applications, such as personal assistants and custom chatbots. Key features of LangChain include a generic interface for various foundation models, prompt management, memory handling, and the ability to access external data and tools. The guide covers prerequisites, installation, and provides code examples for using LangChain's six key modules: Models, Prompts, Chains, Indexes, Memory, and Agents. Additionally, it notes the importance of API keys for LLM providers and addresses the costs associated with using proprietary models. Overall, LangChain empowers developers to quickly create LLM-powered applications.
 
 ## Signals
 
-| Signal                                     | Change                                                   | 10y horizon                                                                             | Driving force                                                          |
-|:-------------------------------------------|:---------------------------------------------------------|:----------------------------------------------------------------------------------------|:-----------------------------------------------------------------------|
-| LangChain Tutorial                         | Introduction of LangChain tutorial                       | More advanced and comprehensive tutorials available                                     | Increasing demand for learning and using LangChain                     |
-| Popularity of large language models (LLMs) | Increased popularity of LLMs                             | Wider adoption and use of LLMs in various applications                                  | Improved performance and accessibility of LLMs                         |
-| New developer tools emerging               | Emergence of new developer tools for LLMs                | Greater availability and diversity of tools for building AI-powered products with LLMs  | Growing demand for efficient and user-friendly LLM development tools   |
-| LangChain framework                        | Introduction of LangChain framework                      | Simplified and streamlined development of LLM-powered applications                      | Facilitating the use of LLMs in application development                |
-| LangChain functionalities                  | Expansion of LangChain functionalities                   | Enhanced capabilities and versatility of LangChain for different application needs      | Continuous improvement and innovation in LLM application development   |
-| API keys for LLM providers                 | Requirement of API keys for LLM providers                | Increased need for API keys to access proprietary or open-source LLMs                   | Balancing between performance and cost in choosing LLM providers       |
-| Open-source models on Hugging Face         | Availability of open-source models on Hugging Face       | Access to free or cost-effective open-source LLMs                                       | Cost-effective alternatives to proprietary LLMs                        |
-| External data access with LangChain        | Integration of external data with LLMs through LangChain | Enhanced contextual information and knowledge for LLM applications                      | Expanding the capabilities and accuracy of LLM applications            |
-| Long-term memory in LLM applications       | Integration of conversational memory in LLM applications | Improved conversational experiences and continuity in LLM applications                  | Enabling LLM applications to remember previous conversations           |
-| Agents for LLM applications                | Introduction of agents for LLM applications              | Integration of supplementary tools and decision-making capabilities in LLM applications | Enhancing the functionality and performance of LLM applications        |
-| Ongoing developments in LangChain          | Continuous updates and developments in LangChain         | Advanced features, improvements, and optimizations in LangChain                         | Meeting evolving needs and advancements in LLM application development |
+| name                            | description                                                                                            | change                                                                                   | 10-year                                                                                 | driving-force                                                              |   relevancy |
+|:--------------------------------|:-------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------|:---------------------------------------------------------------------------|------------:|
+| Growing Accessibility of LLMs   | Increased availability of pre-trained LLMs for various applications without heavy computational needs. | From requiring extensive resources to allowing more users to create applications easily. | Widespread use of LLMs in everyday applications by individuals and small businesses.    | The democratization of AI technology, making it accessible to non-experts. |           4 |
+| Emergence of LLMOps             | The rise of developer tools termed 'LLMOps' for managing LLM applications.                             | From ad-hoc use of LLMs to structured management and deployment of LLM applications.     | Standard practices for LLM application development and management will be commonplace.  | The need for efficiency and scalability in AI application development.     |           5 |
+| Integration of External Data    | LLMs increasingly accessing external data sources for improved context and accuracy.                   | From isolated LLM use to integrating real-time data for enhanced performance.            | LLMs will provide real-time, context-aware responses in applications.                   | The demand for accurate and up-to-date information in AI responses.        |           4 |
+| Shift Towards Open-Source LLMs  | A trend of developers choosing open-source LLMs over proprietary ones due to cost considerations.      | From reliance on costly proprietary models to leveraging open-source alternatives.       | A vibrant ecosystem of open-source LLMs will emerge, widely adopted in various sectors. | The balance between performance and cost in AI solutions.                  |           4 |
+| Evolution of Prompt Engineering | The growing importance of prompt engineering in getting desired outputs from LLMs.                     | From simple input-output interaction to a refined process of crafting effective prompts. | Prompt engineering will be a recognized skill essential for LLM application developers. | The necessity for precision in AI outputs to meet user expectations.       |           5 |
 
-## Closest
+## Behaviors
 
-* [Getting started with LangChain](1d0dc2f312480a89cebc85097dcfbb37)
-* [LangChain Library Adds Neo4j Vector Index Support](f6bc0876eba844318faae06b030904a5)
-* [LangChain Adds Cypher Search for Efficient Information Retrieval from Neo4j](f43094a456dc947dabd541b510f86856)
-* [Conversations with LangChain for Lead Qualification](7b8894cb47253aad29a4567e669af028)
-* [Limitations of LLMs and Overcoming Them](9fd8c7460fe2d17a54694de66ebd64ca)
+| name                                       | description                                                                                                                                         |   relevancy |
+|:-------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| LLMOps Development                         | Emerging developer tools specifically focused on operationalizing large language models, simplifying their integration into applications.           |           5 |
+| Prompt Engineering                         | The process of refining and optimizing prompts to elicit desired responses from large language models, indicating a new skill set for developers.   |           4 |
+| Integration of External Tools              | Utilizing external APIs and tools alongside LLMs to enhance functionality and address LLM limitations, such as calculations and data retrieval.     |           5 |
+| Conversational Memory                      | Implementing memory features in applications to retain context and enhance user interactions over multiple exchanges.                               |           4 |
+| Open-source Model Adoption                 | A shift towards using open-source models due to cost considerations and accessibility, affecting developer choices and project dynamics.            |           4 |
+| Modular Application Design                 | Creating applications in a modular fashion by chaining different functionalities and components together, improving flexibility and reusability.    |           5 |
+| Experimentation with Cost-Effective Models | Developers experimenting with both proprietary and open-source LLMs based on performance and cost trade-offs, shaping future development practices. |           4 |
+
+## Technologies
+
+| name                         | description                                                                                                           |   relevancy |
+|:-----------------------------|:----------------------------------------------------------------------------------------------------------------------|------------:|
+| Large Language Models (LLMs) | Models that can generate human-like text based on given prompts, revolutionizing AI applications.                     |           5 |
+| LangChain                    | A framework that simplifies the development of applications powered by LLMs, facilitating integration and management. |           5 |
+| LLMOps                       | Emerging tools and practices for managing large language models in production environments.                           |           4 |
+| Prompt Engineering           | The process of designing effective prompts to optimize LLM outputs for specific tasks.                                |           4 |
+| Vector Databases             | Specialized databases designed to efficiently store and retrieve high-dimensional vector representations of data.     |           4 |
+| Conversational Memory        | Technologies that allow chatbots and applications to remember previous interactions for improved user experience.     |           4 |
+| Agents for Tool Access       | Systems that enable LLMs to access external tools and data sources to enhance their capabilities.                     |           4 |
+
+## Issues
+
+| name                                 | description                                                                                                                   |   relevancy |
+|:-------------------------------------|:------------------------------------------------------------------------------------------------------------------------------|------------:|
+| LLMOps                               | The rise of developer tools under the term 'LLMOps' signals a new trend in building AI applications.                          |           4 |
+| Open-source vs Proprietary Models    | The trade-off between proprietary and open-source LLMs raises important questions about performance, cost, and accessibility. |           5 |
+| Prompt Engineering                   | The need for prompt engineering highlights the complexities of interacting with LLMs effectively.                             |           4 |
+| Long-term Memory in LLM Applications | The development of mechanisms for LLMs to remember past interactions is crucial for applications like chatbots.               |           4 |
+| Integration of External Tools        | The integration of LLMs with external tools for enhanced functionality reflects a shift towards more capable AI systems.      |           5 |
+| Rapid Development of LLM Tools       | The fast-paced development of tools like LangChain suggests ongoing innovation in the AI space.                               |           4 |
+| Cost of API Services                 | The financial implications of using proprietary API services impact the accessibility of LLM capabilities for developers.     |           4 |
+| Documentation and Community Support  | The importance of active documentation and community support for open-source projects like LangChain.                         |           3 |

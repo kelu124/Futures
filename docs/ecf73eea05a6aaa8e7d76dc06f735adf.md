@@ -1,50 +1,70 @@
-# __Introducing DALL·E 2: AI Creates Realistic Images from Text__, from ([20220810](https://kghosh.substack.com/p/20220810).)
+# __Overview of DALL·E 2: An AI Image Generation System by OpenAI__, from ([2641.0](https://kghosh.substack.com/p/2641.0).)
 
 __[External link](https://openai.com/dall-e-2/)__
 
 
 
-## Summary
-
-DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language. It has the ability to combine concepts, attributes, and styles to generate original compositions. Additionally, DALL·E 2 can make realistic edits to existing images based on a text caption, taking into account shadows, reflections, and textures. The system has learned the relationship between images and text, using a process called "diffusion" to gradually transform random dots into recognizable images. DALL·E 2 has been preferred over its predecessor for its improved caption matching and photorealism. OpenAI has implemented safety mitigations to limit the generation of explicit or harmful content. The development of DALL·E 2 involved learning from real-world use and gradually expanding its user base. The goal of DALL·E 2 is to empower people creatively and contribute to the understanding of AI systems.
-
 ## Keywords
 
 * DALL·E 2
 * AI system
-* realistic images
-* art
-* description
+* image generation
 * natural language
-* original
-* concepts
-* attributes
-* styles
+* OpenAI
+* safety policy
+* creative expression
 
 ## Themes
 
-* AI system
+* AI
 * image generation
-* safety precautions
+* DALL·E 2
+* OpenAI
+* safety
+* creative expression
+
+## Other
+
+* Category: technology
+* Type: blog post
+
+## Summary
+
+DALL·E 2 is an AI system developed by OpenAI that generates realistic images from natural language descriptions. It improves upon its predecessor, DALL·E 1, by offering higher resolution images and better caption matching. The system can create original images, expand existing compositions, and make realistic edits based on user prompts. DALL·E 2 uses a diffusion process to generate images, and it has been designed with safety measures to prevent the creation of harmful content. Initially introduced as a research project, DALL·E 2 is now in beta, aiming to empower creative expression and enhance understanding of AI's perception of the world.
 
 ## Signals
 
-| Signal                                         | Change                                   | 10y horizon                                      | Driving force                                      |
-|:-----------------------------------------------|:-----------------------------------------|:-------------------------------------------------|:---------------------------------------------------|
-| DALL·E 2 can create realistic images and art   | Creation of realistic images and art     | Improved AI systems for image generation         | Advancements in AI technology                      |
-| DALL·E 2 can expand images beyond the original | Expansion of image compositions          | More dynamic and expansive artistic creations    | Desire for more creative possibilities             |
-| DALL·E 2 can make realistic edits to images    | Realistic image editing capabilities     | Streamlined and efficient image editing          | Demand for efficient and realistic image editing   |
-| DALL·E 2 can create variations of an image     | Generation of image variations           | Diverse interpretations of original images       | Need for creative exploration and experimentation  |
-| DALL·E 2 has improved resolution and realism   | Higher resolution and realistic images   | Enhanced visual quality and accuracy             | Advancements in AI technology                      |
-| DALL·E 2 has safety mitigations                | Minimization of explicit content         | Reduced exposure to violent and adult images     | Ethical considerations and user protection         |
-| DALL·E 2 is gradually released to more users   | Expanding accessibility of the system    | Increased availability and user base             | Gradual improvement and confidence in safety       |
-| DALL·E 2 empowers creative expression          | Facilitation of creative self-expression | Enhanced creative opportunities and freedom      | Enabling individuals to unleash their creativity   |
-| DALL·E 2 contributes to understanding AI       | Insight into AI systems' perception      | Improved understanding of AI's view of the world | Advancing the mission of beneficial AI development |
+| name                           | description                                                                                   | change                                                                  | 10-year                                                                                                              | driving-force                                                               |   relevancy |
+|:-------------------------------|:----------------------------------------------------------------------------------------------|:------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------|------------:|
+| AI-generated Art               | DALL·E 2 can create art from natural language descriptions, expanding creative possibilities. | Shift from traditional art creation to AI-assisted artistic expression. | Art and design industries may see an increased reliance on AI for creative processes.                                | The democratization of art creation through accessible AI technology.       |           4 |
+| Image Editing Revolution       | DALL·E 2 enables realistic edits to images based on text prompts.                             | Transition from manual image editing to AI-driven image manipulation.   | Professional and personal image editing may become predominantly AI-based, reducing the need for traditional skills. | The demand for quick and efficient image editing solutions.                 |           5 |
+| Content Policy and Safety      | DALL·E 2 has strict policies to prevent the generation of harmful content.                    | Move towards more responsible AI usage and content generation.          | AI systems may evolve with more robust safety features and policies to ensure ethical usage.                         | Growing concerns about AI misuse and the impact of generated content.       |           5 |
+| Enhanced Image Resolution      | DALL·E 2 offers images with 4x greater resolution than its predecessor.                       | Improvement from lower resolution images to high-quality outputs.       | Visual content across industries could reach new levels of detail and quality, influencing design standards.         | The need for higher quality visuals in digital media and marketing.         |           4 |
+| User Empowerment in Creativity | DALL·E 2 aims to empower users to express themselves creatively.                              | Shift from limited creative tools to AI-enhanced creativity.            | More individuals may engage in creative fields, facilitated by AI tools that simplify creation processes.            | The desire for self-expression and creativity among the general population. |           4 |
 
-## Closest
+## Behaviors
 
-* [Exploring the Creative Potential of DALL-E 2](c62d2942a1454cd9810be2b3a93f7bc6)
-* [The Copyright Conundrum of AI-Generated Art](2cfdc6fba6f11e089c2df3cda1604174)
-* [Shutterstock Partners with OpenAI to Integrate DALL-E into Stock Image Platform](99ffe526026a0494fc25d44aba64bd70)
-* [The Impact of AI on Architecture](1f02642f54cf28611a00e4c83c1d428f)
-* [The Dominance of AI in Animation](7335d2a0f0dbf2aa11f41457cdf15757)
+| name                         | description                                                                                                                       |   relevancy |
+|:-----------------------------|:----------------------------------------------------------------------------------------------------------------------------------|------------:|
+| AI-Generated Art Creation    | DALL·E 2 allows users to create original, realistic images from natural language descriptions, enhancing creative expression.     |           5 |
+| Dynamic Image Editing        | The ability to make realistic edits to existing images based on natural language prompts, improving user interaction with images. |           4 |
+| Content Safety Measures      | Implementation of safety policies to prevent the generation of harmful or inappropriate content, reflecting responsible AI use.   |           5 |
+| Evolution of AI Capabilities | Continuous learning from user interactions to improve AI systems, showcasing adaptive AI technology.                              |           4 |
+| Empowerment through AI       | DALL·E 2 aims to empower users creatively, indicating a shift towards AI as a tool for personal expression.                       |           5 |
+| User-Centric Development     | Gradual rollout to trusted users for feedback, highlighting a user-focused approach in AI development.                            |           4 |
+
+## Technologies
+
+| name     | description                                                                                                                    |   relevancy |
+|:---------|:-------------------------------------------------------------------------------------------------------------------------------|------------:|
+| DALL·E 2 | An AI system that creates realistic images and art from text descriptions, capable of image editing and generating variations. |           5 |
+
+## Issues
+
+| name                                 | description                                                                                                                         |   relevancy |
+|:-------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| AI-generated content ethics          | The ethical implications of using AI to create images, including issues of copyright, ownership, and authenticity.                  |           5 |
+| Content moderation challenges        | The ongoing difficulty in effectively moderating AI-generated content to prevent misuse and the generation of inappropriate images. |           5 |
+| Impact on creative industries        | The potential disruption to traditional art and creative professions as AI tools like DALL·E 2 gain popularity.                     |           4 |
+| AI safety and bias mitigation        | The importance of developing robust safety measures to minimize bias and harmful content generation in AI systems.                  |           5 |
+| Public perception of AI capabilities | The evolving understanding and expectations of AI technologies among the public as they become more advanced and accessible.        |           4 |

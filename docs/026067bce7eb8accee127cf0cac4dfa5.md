@@ -1,42 +1,75 @@
-# __The Power of Fiction in Shaping AI's Future__, from ([20240609](https://kghosh.substack.com/p/20240609).)
+# __Harnessing Storytelling to Reimagine AI: The Role of Arts and Humanities in Shaping a Positive Future__, from ([8053.0](https://kghosh.substack.com/p/8053.0).)
 
 __[External link](https://www.scientificamerican.com/article/how-new-science-fiction-could-help-us-improve-ai/?ref=sentiers.media)__
 
 
 
-## Summary
-
-The Future of Life Institute has been advocating for human welfare in discussions around nuclear weapons, climate change, and artificial intelligence. However, popular narratives, influenced by depictions such as the Terminator, often portray AI in a negative light. To counter this, AI and computer science experts argue for the integration of fiction and the arts to explore benevolent AI. Entertainment plays a significant role in shaping perceptions of AI, and preconceptions can influence actual AI performance. By incorporating the humanities in conversations about AI, we can imagine positive futures and instill ethical considerations in AI development. The Future of Life Institute is actively supporting initiatives that bring together technologists, fiction writers, and creatives to envision AI futures that prioritize human goals and well-being.
-
 ## Keywords
 
 * Future of Life Institute
-* human welfare
-* nuclear weapons
-* climate change
-* artificial intelligence
-* Terminator
-* dystopian visions
 * AI risk
 * artificial humanities
-* positive technological potential
+* science fiction
+* public opinion
 
 ## Themes
 
-* AI and fiction
-* influence of popular narratives
-* role of arts and humanities
+* artificial intelligence
+* narratives
+* public perception
+* technology
+* creativity
+
+## Other
+
+* Category: technology
+* Type: blog post
+
+## Summary
+
+The Future of Life Institute has been advocating for human welfare amid evolving threats like nuclear weapons and artificial intelligence (AI). To combat negative perceptions shaped by dystopian narratives, experts are promoting the idea of 'artificial humanities,' which merges the arts with AI technology to envision more positive futures. They argue that fiction can help reshape our understanding of AI, leading to constructive interactions rather than adversarial ones. Initiatives like the Worldbuilding Competition and the Blue Sky Scriptwriting Contest aim to inspire creative narratives that depict hopeful AI scenarios, highlighting the need for storytelling to influence the development of AI in a way that serves humanity positively.
 
 ## Signals
 
-| Signal                                                     | Change                                                                     | 10y horizon                                                                       | Driving force                                                               |
-|:-----------------------------------------------------------|:---------------------------------------------------------------------------|:----------------------------------------------------------------------------------|:----------------------------------------------------------------------------|
-| Integrating fiction and the humanities into AI discussions | From focusing on negative AI narratives to envisioning positive AI futures | More emphasis on AI serving human goals, exploration of AI's benevolent potential | The desire to mitigate risks and imaginatively envision positive AI futures |
+| name                                        | description                                                                      | change                                                                                                      | 10-year                                                                                                   | driving-force                                                                        |   relevancy |
+|:--------------------------------------------|:---------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------|------------:|
+| Artificial Humanities                       | A new discipline merging arts and technology to explore AI's positive potential. | Shift from technologists developing AI in isolation to a collaborative approach with humanities.            | In 10 years, AI development may include diverse perspectives, fostering positive societal impacts.        | A growing recognition of the need for interdisciplinary collaboration in technology. |           4 |
+| Positive AI Narratives                      | Efforts to create fictional works that portray beneficial AI applications.       | Move from predominantly negative portrayals of AI in media to more hopeful representations.                 | In 10 years, popular media may feature uplifting AI narratives, influencing public perception positively. | Desire to reshape societal views on AI through storytelling and creative expression. |           5 |
+| Worldbuilding Competitions                  | Initiatives to imagine positive futures with AI through creative competitions.   | Transition from fear-driven narratives to collaborative worldbuilding for positive futures with technology. | In 10 years, these competitions may lead to more innovative and inclusive technological designs.          | Increased awareness of the importance of imagination in shaping future technologies. |           4 |
+| Scenario Mapping for AI Development         | Creating detailed maps of potential AI trajectories to guide development.        | Shift from reactive to proactive approaches in AI development and its societal impacts.                     | In 10 years, scenario mapping might lead to more thoughtful and ethical AI advancements.                  | Need for strategic foresight in navigating the complexities of AI evolution.         |           4 |
+| Crossover Between Technology and Creativity | Encouraging collaboration between technologists and artists to shape AI futures. | From a technology-first approach to integrating artistic insights in AI development.                        | In 10 years, AI technologies may be more human-centered, reflecting diverse cultural narratives.          | Recognition of storytelling's power in influencing technology's role in society.     |           5 |
 
-## Closest
+## Behaviors
 
-* [The Impact of AI on Society](87709d0e31dee725ec1f54b7f4facbc4)
-* [AI's Role in Human Evolution](8893f2e58b95e1993a5f8a1af090eedd)
-* [Embracing the AI Age: Thriving Amidst Change](23a3410059759ba4214235628d4ebd4b)
-* [AI 2041: Shaping Our Collective Future](1621aeb7941f2df0feefc2de14851249)
-* [The Misleading Myth of Artificial Intelligence](15c812523685076326204f061bf025cd)
+| name                                    | description                                                                                                                                       |   relevancy |
+|:----------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Incorporating Fiction in AI Discussions | AI experts advocate for using fiction to shape positive narratives around AI, countering negative stereotypes.                                    |           5 |
+| Development of Artificial Humanities    | A new discipline merging arts and sciences to explore AI's benevolent potential, emphasizing the collaboration between technologists and artists. |           4 |
+| Worldbuilding for Positive Futures      | Initiatives like competitions that encourage creative teams to envision friendly AI scenarios and futures.                                        |           5 |
+| Cultural Impact Awareness               | Recognition that popular media influences public perceptions of AI, prompting a need for more positive representations.                           |           4 |
+| Training AI with Positive Prompts       | Research shows that the quality of prompts given to AI affects the quality of its outputs, highlighting the importance of user expectations.      |           5 |
+| Scenario Mapping for AI Development     | Creating detailed maps of potential AI trajectories to guide developers and artists in envisioning positive outcomes.                             |           4 |
+| Storytelling as a Tool for AI Ethics    | Utilizing storytelling to address ethical concerns and promote hopeful narratives about AI's role in society.                                     |           5 |
+
+## Technologies
+
+| name                                | description                                                                                     |   relevancy |
+|:------------------------------------|:------------------------------------------------------------------------------------------------|------------:|
+| Artificial Humanities               | A discipline merging science and arts to explore AI's potential through fiction and philosophy. |           5 |
+| Generative AI Coaching              | Techniques to refine prompts for AI to produce higher-quality narrative outputs.                |           4 |
+| Worldbuilding Competitions          | Initiatives that engage multidisciplinary teams to conceptualize positive AI futures.           |           4 |
+| Scenario Mapping for AI Development | Creating detailed maps to visualize potential trajectories for AI technology.                   |           5 |
+| AI in Storytelling                  | Using narrative techniques to positively influence perceptions and applications of AI.          |           4 |
+
+## Issues
+
+| name                                           | description                                                                                                                |   relevancy |
+|:-----------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------|------------:|
+| Influence of Fiction on AI Perception          | Popular narratives shape public perceptions of AI, often focusing on negative portrayals rather than positive potential.   |           4 |
+| Artificial Humanities                          | A proposed new discipline merging arts and technology to explore AI's benevolent potential through fiction and philosophy. |           5 |
+| Dystopian vs. Utopian Narratives in AI         | The need for more positive depictions of AI in media to inspire hope rather than fear, influencing societal expectations.  |           4 |
+| Self-fulfilling Prophecies in AI Interaction   | User fears and expectations can influence AI behavior, creating a feedback loop that reinforces negative perceptions.      |           3 |
+| Storytelling as a Tool for AI Development      | Using storytelling and creative thinking to envision positive futures with AI and steer its development responsibly.       |           5 |
+| Interdisciplinary Collaboration for AI Futures | Encouraging collaboration between technologists, artists, and thinkers to envision and create positive AI scenarios.       |           4 |
+| Ethical Considerations in AI Design            | The necessity of instilling ethical frameworks in AI development before widespread implementation.                         |           5 |
+| Worldbuilding in AI Futures                    | Imagining diverse, positive futures through worldbuilding competitions to inspire innovative AI applications.              |           4 |

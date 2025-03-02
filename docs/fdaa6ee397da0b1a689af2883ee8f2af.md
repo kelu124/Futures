@@ -1,52 +1,77 @@
-# __Voice Actors Express Concerns Over Voice-Generating AI__, from ([20220225](https://kghosh.substack.com/p/20220225).)
+# __Concerns Rise Among Voice Actors Over AI Voice Synthesis and Job Security__, from ([8376.0](https://kghosh.substack.com/p/8376.0).)
 
 __[External link](https://www.vice.com/en/article/5d37za/voice-actors-sign-away-rights-to-artificial-intelligence?utm_content=null&utm_source=Sailthru&utm_medium=email&utm_campaign=Wednesday%20Email&utm_term=4ABCD)__
 
 
 
-## Summary
-
-Voice actors are facing challenges as artificial intelligence (AI) is being used to generate synthetic versions of their voices. Advocacy organizations and actors have raised concerns about contractual obligations that require actors to sign away rights to their voices without additional compensation. The rise of voice-generating AI threatens to impact the voice acting industry and push some actors out of work. The ease of synthesizing voices using AI has been demonstrated by a beta program from ElevenLabs, which was used to generate voices of celebrities. The use of synthetic voices raises questions about the value of human performance and the need for ongoing consent. Many companies now offer voice cloning services using AI, which can be done at a low cost. This technology poses a threat to the livelihoods of voice actors, especially those who rely on non-synthetic voice roles. The National Association of Voice Actors (NAVA) has highlighted the prevalence of contractual clauses that give producers the right to synthesize an actor's voice without additional compensation. The industry is at risk of losing certain segments of voice actors, particularly those who work in blue-collar jobs and pursue voice acting as a secondary career. ElevenLabs sees a future where AI and voice actors collaborate, but some actors argue that this undermines their ability to make a living. The voice acting industry needs to ensure that voice actors are involved in the evolution of the industry and are fairly compensated for their work. The use of synthetic voices raises ethical concerns and the need for actors to have the choice to refuse their use.
-
 ## Keywords
 
 * voice actors
 * artificial intelligence
-* synthetic versions
-* advocacy organizations
-* labor implications
-* voice-generating AI
-* voice acting industry
-* artificial voice company
-* celebrities
-* voice cloning
+* synthetic voices
+* contracts
+* labor rights
+* ElevenLabs
+* production rights
 
 ## Themes
 
-* Impact of AI on voice actors
-* Concerns about labor implications
-* Synthetic voices replacing human performance
+* voice actors
+* artificial intelligence
+* synthetic voices
+* contracts
+* labor rights
+
+## Other
+
+* Category: technology
+* Type: news
+
+## Summary
+
+Voice actors are facing pressure to surrender rights to their voices for use in artificial intelligence (AI) generated content, raising concerns about job security and fair compensation. Advocacy groups highlight the risks of AI replacing human performances in the industry, with instances of AI-generated celebrity voices prompting ethical concerns. Many voice actors report that contract clauses allowing AI use are becoming common, often without their knowledge. While companies like ElevenLabs promote partnerships with voice actors, many actors fear losing their livelihoods to synthetic voices. The National Association of Voice Actors (NAVA) is advising members on contract language to protect their rights, while some union members have secured protections against AI voice simulation. Overall, the rise of AI in voice acting is seen as a threat to the authenticity and economic stability of the profession.
 
 ## Signals
 
-| Signal                                                        | Change                                                               | 10y horizon                                                                    | Driving force                                                  |
-|:--------------------------------------------------------------|:---------------------------------------------------------------------|:-------------------------------------------------------------------------------|:---------------------------------------------------------------|
-| Voice actors asked to sign away rights                        | Replacement of human voice actors with AI-generated voices           | Voice actors losing jobs, increased use of AI-generated voices                 | Lower costs for clients, increased efficiency                  |
-| Rise of voice-generating AI                                   | Threatening to push voice acting industry out of work                | More widespread use of AI-generated voices in gaming, movies, audiobooks       | Lower costs, ease of use in voice production                   |
-| Concerns about the quality of AI-generated voices             | Replacing human performances with hollow and false replicas          | Improved AI technology that produces highly realistic voices                   | Desire for cost savings, efficiency in voice production        |
-| Synthetic voice services offering cloning and synthesis       | Increased accessibility and affordability for voice synthesis        | More people able to synthesize voices, potential for unauthorized use          | Lower costs, ease of use in voice production                   |
-| Contracts giving producers rights to synthesize actor's voice | Loss of control and compensation for voice actors                    | Voice actors losing rights and compensation for synthetic voice use            | Lower costs, ease of use in voice production                   |
-| Labor implications for voice acting industry                  | Loss of jobs and damage to the industry                              | Loss of blue-collar voice acting jobs, industry-wide impact                    | Desire for cost savings, efficiency in voice production        |
-| Voice actors concerned about consent and objection rights     | Circumvention of actors' objections to certain content               | AI technology bypasses actors' ability to refuse objectionable content         | Desire for cost savings, efficiency in voice production        |
-| Voice actors advised to flag problematic contract language    | Union involvement and protection for voice actors                    | Union representation and negotiation for fair treatment of voice actors        | Protection of voice actors' rights and compensation            |
-| AI companies and voice actors partnering together             | Expanding opportunities for voice actors, additional revenue streams | Voice actors licensing their voices for multiple projects, increased revenue   | Desire for cost savings, efficiency in voice production        |
-| Union protection for performers' rights                       | Mandatory bargaining for digital simulation rights                   | SAG-AFTRA ensuring fair treatment and compensation for union actors            | Protection of voice actors' rights and compensation            |
-| Voice actors' opposition to synthetic voices                  | Desire to maintain authenticity and spontaneity in performances      | Push for the elimination of synthetic voices or the option to refuse their use | Preservation of artistic integrity and quality in voice acting |
+| name                                           | description                                                                                 | change                                                                                              | 10-year                                                                                            | driving-force                                                                                  |   relevancy |
+|:-----------------------------------------------|:--------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------|------------:|
+| Rise of AI-generated voices                    | Voice actors face pressure to relinquish rights for AI-generated versions of their voices.  | Shift from human voice performances to AI-generated synthetic voices in entertainment.              | Potentially a significant reduction in demand for human voice actors in various media.             | Increasing demand for cost-effective and scalable voice solutions in entertainment and media.  |           5 |
+| Contractual rights issues                      | Voice actors are increasingly signing ambiguous contracts regarding AI use of their voices. | Transition from clear contracts to ambiguous clauses that allow AI voice synthesis without consent. | Voice actors may lose control over their own likeness and voice usage in the industry.             | Desire for companies to maximize profits while minimizing costs associated with human labor.   |           4 |
+| Emergence of low-cost voice synthesis services | Affordable AI voice synthesis services are becoming widely available for users.             | Shift from expensive professional voice acting to accessible AI voice generation for all.           | Widespread use of AI-generated voices in various sectors, reducing opportunities for voice actors. | Technological advancements lowering barriers to entry for voice synthesis.                     |           4 |
+| Consent and ongoing performance rights         | Voice actors express concerns over the lack of ongoing consent in performances.             | Change from established consent practices to potential exploitation through AI.                     | Actors may face challenges in maintaining agency over their performances and rights.               | The need for companies to streamline production processes at the expense of individual rights. |           4 |
+| Union involvement and rights protection        | Unions like SAG-AFTRA are stepping in to negotiate digital simulation rights for actors.    | Shift from individual rights to collective bargaining for voice simulation rights.                  | Stronger protection measures for voice actors may be established through union negotiations.       | The need to adapt to technological changes while safeguarding artists' rights.                 |           5 |
 
-## Closest
+## Behaviors
 
-* [AI Voice Simulators Enable Scammers to Exploit Vulnerable Individuals](0a49a5c0770b63ff41a4b19b66e478b1)
-* [Writer Protection and Compensation in AI-Generated Works](32f927ba9dd86866c45f72f407a2950e)
-* [Microsoft's AI Simulates Voice with Three Seconds of Audio](146bf2c4637290e20802f18dee14bbaf)
-* [Speaking to Video Game Characters: The Future of NPC Interaction](65b2d69656e5ea98828b1587df1ddb7e)
-* [California Leads AI Protection Legislation](d1edb1b7342b22989cca39e23d906eb2)
+| name                            | description                                                                                                                                                    |   relevancy |
+|:--------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| AI Voice Licensing              | Voice actors are being offered opportunities to license their voices for AI-generated content, which raises concerns about fair compensation and usage rights. |           4 |
+| Contractual Rights Erosion      | Voice actors are increasingly signing contracts that include clauses allowing the use of their voices for AI without adequate compensation or knowledge.       |           5 |
+| Synthetic Voice Adoption        | There is a growing acceptance of synthetic voices in various industries, including gaming and film, despite concerns from traditional voice actors.            |           4 |
+| Ongoing Consent in Performance  | Voice actors are advocating for continuous consent regarding the use of their performances, emphasizing the importance of their comfort and agency.            |           5 |
+| Industry Advocacy and Awareness | Organizations like NAVA are raising awareness about the implications of AI in voice acting and advising members on contract language.                          |           4 |
+| AI as a Threat to Employment    | The rise of AI-generated voices is perceived as a significant threat to job security within the voice acting industry, particularly for lower-tier actors.     |           5 |
+| AI Technology Utilization       | Some voice actors are exploring AI technology as a tool for creative expression, despite the associated risks and ethical concerns.                            |           3 |
+
+## Technologies
+
+| name                                     | description                                                                                                                                        |   relevancy |
+|:-----------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Voice-Generating Artificial Intelligence | AI technology that synthesizes human voices for various applications, raising concerns about job displacement in the voice acting industry.        |           5 |
+| Synthetic Voice Cloning                  | The ability to create accurate replicas of human voices using AI, potentially without consent, impacting privacy and intellectual property rights. |           5 |
+| AI in Multimedia Production              | The integration of AI-generated voices in gaming, movies, and audiobooks, changing the landscape of content creation.                              |           4 |
+| Automated Voice Performance Generation   | Technology that allows users to input text and have it read in a synthetic voice, enabling low-cost production of audio content.                   |           4 |
+| AI-Driven Voice Licensing                | Emerging models where voice actors may license their voices for AI-generated content, creating new revenue streams and ethical dilemmas.           |           3 |
+
+## Issues
+
+| name                                    | description                                                                                                                           |   relevancy |
+|:----------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| AI Voice Synthesis Rights               | Voice actors face pressure to sign away rights to their voices for AI synthesis, risking their livelihoods without fair compensation. |           5 |
+| Employment Displacement in Voice Acting | The rise of AI-generated voices may threaten job security for voice actors, particularly in lower-income segments of the industry.    |           5 |
+| Lack of Informed Consent                | Voice actors may unknowingly agree to contracts that allow the use of their voices for AI without ongoing consent or compensation.    |           4 |
+| Ethical Concerns in AI Usage            | The ethical implications of using AI to replicate human voices, especially in sensitive contexts, raise significant concerns.         |           4 |
+| Contractual Exploitation                | Ambiguous contract language can lead to exploitation of voice actors, allowing companies to use their likeness without fair terms.    |           5 |
+| Impact on Artistic Integrity            | AI-generated performances are seen as lacking the depth and authenticity of human voice acting, affecting the craft's value.          |           4 |
+| Potential for Abuse of AI Technology    | AI voice synthesis technology could be used to create deepfakes or impersonate individuals without consent.                           |           5 |
+| Industry Adaptation to AI               | The voice acting industry must adapt to the presence of AI, balancing innovation with protection of artists' rights.                  |           5 |

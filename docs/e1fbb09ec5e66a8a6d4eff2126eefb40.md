@@ -1,49 +1,74 @@
-# __The Rising Threat of Paraphrasing Attacks on AI Algorithms__, from ([20221016](https://kghosh.substack.com/p/20221016).)
+# __The Threat of Paraphrasing Attacks on AI: Understanding New Security Risks in NLP Models__, from ([13198.0](https://kghosh.substack.com/p/13198.0).)
 
 __[External link](https://bdtechtalks.com/2019/04/02/ai-nlp-paraphrasing-adversarial-attacks/)__
 
 
 
-## Summary
-
-This article discusses the vulnerability of AI algorithms to adversarial attacks, specifically paraphrasing attacks. Researchers have found that small modifications to text content can alter the behavior of AI algorithms without being noticeable to human readers. Deep learning algorithms, which are commonly used in text-related tasks, are particularly susceptible to these attacks due to their complexity and lack of interpretability. Paraphrasing attacks involve making changes to the input text that go unnoticed to humans but manipulate the behavior of NLP models. The article also highlights the importance of retraining AI models with adversarial examples to increase their robustness and accuracy. Overall, the rise of adversarial attacks poses a significant security risk as AI algorithms become more prevalent in processing and moderating online content.
-
 ## Keywords
 
-* AI research papers
-* typos
-* attack
-* artificial intelligence algorithms
-* machine learning
-* language models
-* text content
+* AI
+* artificial intelligence
 * paraphrasing attacks
-* adversarial examples
-* deep learning algorithms
+* cybersecurity
+* NLP
+* deep learning
 
 ## Themes
 
-* AI security
+* AI research
+* artificial intelligence
+* cybersecurity
 * adversarial attacks
-* paraphrasing attacks
+* natural language processing
+
+## Other
+
+* Category: technology
+* Type: blog post
+
+## Summary
+
+The article discusses emerging security threats posed by subtle text modifications, known as paraphrasing attacks, which can manipulate AI algorithms without being detected by human readers. Researchers from IBM, Amazon, and the University of Texas have shown that these attacks can significantly alter AI behavior, especially in natural language processing (NLP) models, by changing the semantics of sentences while preserving their meaning. Unlike adversarial attacks on images, paraphrasing attacks are complex due to the discrete nature of text. The study highlights the need for AI models to be retrained with adversarial examples to improve robustness and accuracy. As AI becomes more entrenched in processing online content, the potential for such attacks raises concerns about the integrity of automated systems and their susceptibility to manipulation.
 
 ## Signals
 
-| Signal                                                            | Change                                                                                | 10y horizon                                                               | Driving force                                                    |
-|:------------------------------------------------------------------|:--------------------------------------------------------------------------------------|:--------------------------------------------------------------------------|:-----------------------------------------------------------------|
-| Typos as hidden attacks on AI algorithms                          | From innocent typos to potential security threats                                     | Typos will have to be treated as security issues                          | Increasing reliance on AI algorithms for text processing         |
-| Vulnerability of deep learning algorithms to adversarial examples | From robust to vulnerable AI algorithms                                               | Improved understanding and defense against adversarial attacks            | Complexity and poor interpretability of deep learning algorithms |
-| Paraphrasing attacks on NLP models                                | From limited attacks on single words to versatile attacks on entire sequences of text | More sophisticated and effective attacks on AI models                     | Desire to manipulate the behavior of NLP models                  |
-| Difficulty in creating adversarial text samples                   | From simple to complex attacks on text                                                | Development of gradient-guided algorithms for efficient attacks           | Complexity and discretization of text                            |
-| Black box attacks against NLP models                              | From limited attacks on known models to attacks on unknown models                     | Discovery of vulnerabilities even without knowledge of model architecture | Desire to attack closed AI systems                               |
-| Lack of sensitivity to paraphrasing attacks in humans             | From humans being able to detect attacks to humans being unaware                      | Adversarial attacks can go unnoticed due to human error                   | Humans' familiarity with faulty input                            |
-| Adversarial training to protect AI models                         | From vulnerable to robust AI models                                                   | Improved robustness and generalizability of AI models                     | Use of adversarial examples in training                          |
-| Rise of security risks in AI systems                              | From limited security risks to widespread logic breaches                              | Increased potential for attacks on AI systems for various purposes        | Reliance on automated AI systems and lack of focus on security   |
+| name                                               | description                                                                                               | change                                                                                             | 10-year                                                                                                     | driving-force                                                                                               |   relevancy |
+|:---------------------------------------------------|:----------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------|------------:|
+| Increasing AI Vulnerability to Text Manipulation   | AI algorithms may become increasingly vulnerable to subtle text attacks due to reliance on deep learning. | Shift from minimal security concerns to significant vulnerabilities in AI systems processing text. | AI systems will require advanced security measures against sophisticated text manipulation attacks.         | The growing reliance on AI for critical tasks increases the incentive for adversarial attacks.              |           5 |
+| Normalization of Typographical Security Risks      | Users may start recognizing typos as potential security threats rather than simple errors.                | Change from viewing typos as harmless to seeing them as potential attack vectors.                  | Public awareness of text-based security vulnerabilities will lead to heightened scrutiny of online content. | The rise of AI-driven decision-making processes creates new security concerns around typographical errors.  |           4 |
+| Adversarial Content Creation Tools                 | Tools to create adversarial examples for AI systems may become more prevalent and accessible.             | Shift from manual methods to automated tools for generating adversarial text.                      | Widespread availability of adversarial content creation tools could democratize cyberattack capabilities.   | The increasing sophistication of AI research fosters the development of tools for adversarial manipulation. |           4 |
+| AI Mitigation Strategies Enhance Model Performance | Training AI with adversarial examples may improve both robustness and accuracy of models.                 | Transition from viewing adversarial examples as purely threats to useful training materials.       | AI systems will be more resilient and accurate due to integrated adversarial training techniques.           | The need for improved AI performance drives research into adversarial training methodologies.               |           4 |
+| Rise of Logic Breaches in AI Systems               | AI systems may face new types of security breaches characterized as logic breaches.                       | Shift from traditional data breaches to logic-based vulnerabilities in AI decision-making.         | AI moderation and decision-making processes will need to evolve to counteract logic-based attacks.          | The increasing complexity of AI algorithms creates new opportunities for exploiting logical flaws.          |           4 |
 
-## Closest
+## Behaviors
 
-* [The Glitchy, Spammy, Scammy AI-Powered Internet](b30a4282af9e53ca673438a8223d9525)
-* [Safety Concerns and Automated Attacks on Large Language Models](74c58b0ca359725b4a116ff765656c7c)
-* [AI Misuse in Scientific Publishing](6dd4fe4c2f8f6e8fcc6f47e7ac1641cf)
-* [The Threat of Misinformation: Society's Battle](9787333cafcd0252d71a9bff845ad093)
-* [The Menace of Deepfake Images](14889902198ab8b6f7991b108f6ebb02)
+| name                                             | description                                                                                                            |   relevancy |
+|:-------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------|------------:|
+| Vigilance Against Typos                          | Heightened awareness of typos in online content as potential security threats to AI algorithms.                        |           5 |
+| Adversarial Text Manipulation                    | Increasing use of paraphrasing and subtle text modifications to manipulate AI behavior without detection.              |           5 |
+| Human-AI Interaction Sensitivity                 | Growing recognition that humans may overlook adversarial attacks due to desensitization to typographical errors.       |           4 |
+| Community-Based Evaluation of AI Output          | Use of online platforms to test the coherence and effectiveness of AI-generated content through community feedback.    |           4 |
+| AI Model Robustness Through Adversarial Training | Adoption of adversarial training techniques to enhance the robustness and generalizability of AI models.               |           5 |
+| Emerging Security Risks in AI                    | Recognition of new security threats posed by AI algorithms, paralleling historical trends in cybersecurity.            |           5 |
+| Automation and Governance Challenges             | Concerns about reliance on automated systems for decision-making in critical areas, leading to potential manipulation. |           5 |
+
+## Technologies
+
+| name                                          | description                                                                                                                    |   relevancy |
+|:----------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Adversarial Attacks on AI                     | Techniques that manipulate AI algorithms by altering input data, leading to incorrect predictions or classifications.          |           5 |
+| Paraphrasing Attacks                          | A form of adversarial attack that subtly modifies text to deceive NLP models while remaining coherent to human readers.        |           5 |
+| Gradient-Guided Greedy Algorithm              | An algorithm developed to efficiently search for optimal modifications in adversarial examples, enhancing AI model robustness. |           4 |
+| Robust AI Models through Adversarial Training | Training AI models with adversarial examples to improve resilience against attacks while enhancing performance and accuracy.   |           4 |
+| Deep Learning in Text Processing              | Utilization of deep learning algorithms for automating text-related tasks, increasing reliance on AI for decision-making.      |           5 |
+
+## Issues
+
+| name                                                   | description                                                                                                                              |   relevancy |
+|:-------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Paraphrasing Attacks on AI Systems                     | Manipulation of NLP models through subtle text changes to evade detection and alter outcomes.                                            |           5 |
+| Vulnerability of AI Algorithms to Adversarial Examples | Deep learning algorithms, especially in NLP, are at risk of being exploited through minor input modifications.                           |           5 |
+| Security Risks in Automated Content Moderation         | Automated AI systems may be susceptible to attacks that bypass human oversight, leading to harmful content being classified incorrectly. |           4 |
+| Weaponization of AI Adversarial Attacks                | Potential for malicious use of adversarial examples to compromise AI systems and manipulate decision-making processes.                   |           5 |
+| Inadequate Investment in AI Security                   | Concerns over companies prioritizing automation over robust security measures against emerging AI threats.                               |           4 |
+| Impact of AI Misclassification on Society              | Risk of adversarial attacks influencing public opinion and political stability through misclassification of content.                     |           5 |

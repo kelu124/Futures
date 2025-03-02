@@ -6,144 +6,21 @@ __[External link](https://www.salon.com/2023/11/05/a-brain-injury-removed-my-abi
 
 ## Keywords
 
-* l
-* u
-* p
-* u
-* s
-* ,
-* n
-* e
-* u
-* r
-* o
-* s
-* c
-* i
-* e
-* n
-* c
-* e
-* ,
-* m
-* u
-* s
-* i
-* c
-* ,
-* b
-* r
-* a
-* i
-* n
-*  
-* f
-* u
-* n
-* c
-* t
-* i
-* o
-* n
-* ,
-* t
-* i
-* m
-* e
-*  
-* p
-* e
-* r
-* c
-* e
-* p
-* t
-* i
-* o
-* n
-* ,
-* m
-* e
-* n
-* t
-* a
-* l
-*  
-* h
-* e
-* a
-* l
-* t
-* h
-* ,
-* n
-* e
-* u
-* r
-* o
-* p
-* a
-* t
-* h
-* y
+* lupus
+* neuroscience
+* music
+* brain function
+* time perception
+* mental health
+* neuropathy
 
 ## Themes
 
-* l
-* u
-* p
-* u
-* s
-* ,
-* c
-* h
-* r
-* o
-* n
-* i
-* c
-*  
-* i
-* l
-* l
-* n
-* e
-* s
-* s
-* ,
-* n
-* e
-* u
-* r
-* o
-* s
-* c
-* i
-* e
-* n
-* c
-* e
-* ,
-* m
-* u
-* s
-* i
-* c
-* ,
-* b
-* r
-* a
-* i
-* n
-*  
-* f
-* u
-* n
-* c
-* t
-* i
-* o
-* n
+* lupus
+* chronic illness
+* neuroscience
+* music
+* brain function
 
 ## Other
 
@@ -163,3 +40,35 @@ The narrative recounts the author's struggle with lupus, leading to severe brain
 | Chronic Illness Impact on Memory       | Chronic conditions like lupus can severely affect cognitive functions, including memory.       | Recognition of cognitive impairment as a significant aspect of chronic illness management.           | Healthcare approaches may integrate cognitive rehabilitation in chronic illness treatment plans.         | Rising awareness of the neurological implications of chronic diseases.              |           4 |
 | Increased Awareness of Neuroplasticity | Neuroscience research reveals the brain's adaptability in processing time and memory.          | Understanding of neuroplasticity is expanding, influencing treatment options.                        | Neuroscience could provide personalized recovery plans based on individual brain function.               | The pursuit of innovative therapies for cognitive rehabilitation and recovery.      |           4 |
 | Episodic Memory Research               | Studies show episodes influence our perception of time and memory formation.                   | Shift from viewing memory as static to understanding it as dynamic and episodic.                     | Potential for new memory-enhancing strategies based on episodic memory research.                         | Advancements in cognitive psychology and neuroscience.                              |           3 |
+
+## Behaviors
+
+| name                         | description                                                                                                                                    |   relevancy |
+|:-----------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Altered Perception of Time   | Individuals with brain trauma may experience a distorted sense of time, making it difficult to gauge the passage of minutes, hours, or days.   |           5 |
+| Memory Fragmentation         | Patients may struggle with memory retention, recalling events or details as if they happened recently, regardless of the actual timeline.      |           5 |
+| Emotional Instability        | Patients may experience rapid emotional fluctuations, ranging from intense joy to deep sadness, complicating their recovery process.           |           4 |
+| Musical Therapy for Recovery | Utilizing musical instruments and rhythmic exercises aids in cognitive recovery, helping patients regain a sense of timing and memory.         |           5 |
+| Neuroscience Awareness       | Patients are increasingly seeking to understand the neuroscience behind their conditions, fostering a deeper connection with their recovery.   |           4 |
+| Dependency on External Aids  | Patients adopt tools like to-do lists or digital reminders to manage daily tasks and memories post-recovery.                                   |           4 |
+| Social Isolation Awareness   | Patients express feelings of loneliness due to their conditions, leading to a desire for social connection despite their incapacity to engage. |           4 |
+
+## Technologies
+
+| name                                          | description                                                                                                          |   relevancy |
+|:----------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|------------:|
+| Neuroscience Research on Time Perception      | Studies investigating how the brain processes the concept of time, including neural mechanisms and memory formation. |           5 |
+| Therapeutic Use of Rhythmic Interventions     | Utilizing rhythmic cueing and drumming as therapeutic methods to aid recovery in neuropsychiatric conditions.        |           4 |
+| Meta-analysis of Neuroimaging Techniques      | Utilizing MRIs and PET scans to study brain function and collaboration in processing complex cognitive tasks.        |           4 |
+| Neuroplasticity in Recovery from Brain Trauma | Research on how the brain adapts and reorganizes itself following injury, influencing recovery methods.              |           5 |
+| Episodic Memory Formation                     | Exploration of how memories are formed and influence our perception of time.                                         |           4 |
+
+## Issues
+
+| name                                            | description                                                                                                                               |   relevancy |
+|:------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Impact of Chronic Illness on Cognitive Function | The effects of chronic autoimmune diseases like lupus on cognitive abilities and time perception.                                         |           4 |
+| Neuroscience of Time Perception                 | Emerging research on how the brain processes time and the implications for mental health and recovery.                                    |           5 |
+| Therapeutic Interventions for Brain Trauma      | The use of rhythm and timing-based therapies, like metronomes, in recovery from brain injuries and cognitive disorders.                   |           4 |
+| Memory and Identity in Illness                  | The relationship between memory loss due to illness and personal identity, particularly for musicians and artists.                        |           3 |
+| Social Implications of Memory Disorders         | The challenges faced by individuals with memory disorders in social and professional settings, affecting communication and relationships. |           4 |

@@ -1,46 +1,74 @@
-# __Monetising Hacking Through Commodity Shipments__, from ([20230416](https://kghosh.substack.com/p/20230416).)
+# __Understanding the Financial Motivations Behind Maritime Cyber Security Threats__, from ([6998.0](https://kghosh.substack.com/p/6998.0).)
 
 __[External link](https://www.pentestpartners.com/security-blog/monetising-hacking-by-shorting-commodity-shipments/)__
 
 
 
-## Summary
-
-Maritime cyber security is a growing concern, as hackers are increasingly targeting the maritime industry for financial gain. Hackers are organized and motivated by money, using tactics such as ransomware and bunkering invoice fraud to extort funds from maritime businesses. However, a new and sinister opportunity for monetizing hacking is shorting stock in advance of a ransomware incident or breach. This creates conflicts of interest, as market activist investors who are shorting stock may have an incentive to see organizations be breached. Additionally, supply chain vulnerabilities, such as poor helmsmanship and cyber security weaknesses in vessels, can lead to disruptions in commodity shipments and price spikes. It is crucial for maritime businesses to proactively address cyber security issues and understand the potential financial risks involved.
-
 ## Keywords
 
-* maritime cyber security
-* hackers
-* hacking
-* organised crime
 * ransomware
-* bunkering invoice fraud
-* stock price manipulation
-* shorting stock
-* containerised and bulk transport
-* liquified natural gas
+* shipping
+* cyber security
+* stock price
+* commodity shipments
 
 ## Themes
 
-* cyber security
-* financial crime
-* supply chain vulnerabilities
+* maritime cyber security
+* hacking
+* money
+* stock manipulation
+
+## Other
+
+* Category: technology
+* Type: blog post
+
+## Summary
+
+The maritime industry faces significant cyber security threats, primarily driven by organized crime and financial motives rather than hacktivism. Hackers often engage in ransomware attacks, bunkering invoice fraud, and potentially shorting stocks of companies before breaches, capitalizing on resulting stock price drops. Vulnerabilities in maritime operations, as demonstrated by incidents like the Suez Canal blockage, highlight the risks posed by motivated hackers, who could manipulate supply chains and commodity prices. The article emphasizes the need for improved cyber security measures on vessels and warns about the potential exclusion of cyber-related events from insurance coverage. It calls for the maritime sector to proactively address these threats through better understanding of cyber security among vendors and crew training.
 
 ## Signals
 
-| Signal                                                  | Change                                                   | 10y horizon                                       | Driving force                                     |
-|:--------------------------------------------------------|:---------------------------------------------------------|:--------------------------------------------------|:--------------------------------------------------|
-| Monetising hacking by shorting commodity shipments      | Motivation of hackers shifting to monetary gain          | Increased sophistication of hacking tactics       | Financial gain                                    |
-| Shorting stock in advance of ransomware incidents       | Exploiting stock price drops for financial gain          | Increase in stock price manipulation              | Financial gain, avoidance of SEC monitoring       |
-| Cybersecurity vulnerabilities in maritime supply chains | Increased awareness and proactive cybersecurity measures | Improved cybersecurity in maritime industry       | Enhancing security measures                       |
-| Hacking LNG carriers to manipulate gas prices           | Manipulating gas futures prices for financial gain       | Increased focus on cybersecurity for LNG carriers | Financial gain, manipulation of commodity prices  |
-| Blockage of ports affecting publicly quoted firms       | Disruption of business operations and stock prices       | Increased focus on port security                  | Financial gain, destabilizing business operations |
+| name                                           | description                                                                          | change                                                                              | 10-year                                                                                              | driving-force                                                                                   |   relevancy |
+|:-----------------------------------------------|:-------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------|------------:|
+| Monetisation of Cyber Attacks                  | Increasing trend of hackers treating cyber attacks as a business for profit.         | Shift from individual hacking to organized crime and profit-driven hacking.         | Cyber crime will evolve into a well-structured industry, influencing global markets significantly.   | The high profitability of cyber crime and low risk of prosecution encourage this trend.         |           5 |
+| Stock Manipulation via Cyber Security Breaches | Intruders may short stocks of firms before launching cyber attacks.                  | Emergence of financial strategies leveraging cyber vulnerabilities for profit.      | Market strategies may increasingly incorporate cyber vulnerabilities, affecting stock trading norms. | The potential for significant financial gains drives the exploitation of cyber vulnerabilities. |           4 |
+| Targeting Vulnerabilities in Supply Chains     | Criminals exploiting supply chain vulnerabilities for financial gain.                | From isolated incidents to coordinated attacks on global supply chains.             | Increased awareness and regulation on supply chain vulnerabilities due to cyber threats.             | The interconnectedness of global trade makes supply chains ripe for exploitation.               |           4 |
+| Insurance Exclusions for Cyber Events          | Emerging insurance policies may exclude cyber-related incidents from coverage.       | Transition from general coverage to more specific exclusions in insurance policies. | Insurance practices will evolve, with stricter requirements for cyber risk management.               | The rising prevalence of cyber events leads insurers to reassess coverage.                      |           4 |
+| Regulatory Changes Impacting Cyber Security    | New regulations may mandate better cyber security practices for maritime operations. | Shift from voluntary to mandatory cyber security standards in maritime sectors.     | Maritime operations will see enhanced cyber security measures driven by regulations.                 | Increasing incidents of cyber threats push for regulatory changes for safety.                   |           5 |
 
-## Closest
+## Behaviors
 
-* [The Growing Investment Opportunity in Cybersecurity](211803931bfabc324f12ad1524640ef1)
-* [Cybersecurity Job Market Faces Challenges Amidst Economic Uncertainty](0ab36af538bf262c85b73fa7e7bd657f)
-* [UK Government Data Reveals Common Cyber Threats Faced by Organizations](576f8cf76f713e057b075e2424ea709c)
-* [UK Government at High Risk of Catastrophic Ransomware Attack](3de8b64ba20eb613a72b0479350b5e5b)
-* [Undersea Cables: Essential for National Security](f421780e31dc53b35c17a72026b14814)
+| name                                         | description                                                                                                                                      |   relevancy |
+|:---------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Monetisation of Hacking                      | Hacking is increasingly viewed as a business, with organized crime and hostile states monetizing cyber attacks for financial gain.               |           5 |
+| Ransomware as a Business Model               | Ransomware has evolved into a lucrative business model, often opportunistic rather than targeted, generating significant revenues for criminals. |           5 |
+| Stock Price Manipulation                     | Criminals may short stock prices in anticipation of cyber incidents, creating conflicts of interest with investors.                              |           4 |
+| Exploitation of Supply Chain Vulnerabilities | Criminals could exploit vulnerabilities in just-in-time supply chains to manipulate commodity prices and profit from disruptions.                |           4 |
+| Cyber Control over Vessels                   | Hackers gaining remote control of ships poses a significant threat, potentially leading to financial exploitation through market manipulation.   |           5 |
+| Insurance Gaps in Cybersecurity              | New insurance clauses are excluding cyber-related events, highlighting the emerging risks in maritime security.                                  |           4 |
+| Cybersecurity as a Boardroom Concern         | There is a need to present cybersecurity risks in financial terms to gain attention from boards and investors.                                   |           5 |
+| Proactive Cybersecurity Measures             | The maritime industry is urged to proactively address cybersecurity risks, as current standards are inadequate against motivated attackers.      |           5 |
+
+## Technologies
+
+| name                                           | description                                                                                                          |   relevancy |
+|:-----------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|------------:|
+| Ransomware                                     | Malware that encrypts data demanding payment for decryption, often used opportunistically by hackers.                |           5 |
+| Stock Price Manipulation through Cyber Attacks | Exploiting cyber incidents to influence stock prices, especially through shorting stocks of affected companies.      |           4 |
+| Cyber-Physical Attacks on Maritime Vessels     | Remote control of vessel systems to disrupt operations, potentially leading to economic gain for attackers.          |           5 |
+| Insurance Exclusions for Cyber Events          | Emerging insurance clauses that exclude coverage for cyber-related incidents, impacting risk management in maritime. |           4 |
+| Cyber Security in Maritime Supply Chains       | Focus on improving cyber security protocols to protect vital supply chains and prevent economic disruptions.         |           5 |
+
+## Issues
+
+| name                                            | description                                                                                                                                      |   relevancy |
+|:------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Monetisation of Cyber Attacks                   | The shift towards viewing hacking as a business opportunity, focusing on financial gains through methods like ransomware and stock manipulation. |           5 |
+| Stock Price Manipulation via Cyber Attacks      | Criminals potentially shorting stock in advance of ransomware incidents, creating conflicts of interest for investors.                           |           4 |
+| Vulnerability of Supply Chains to Cyber Attacks | The potential for hackers to disrupt global supply chains, particularly in just-in-time manufacturing, causing commodity price spikes.           |           5 |
+| Cybersecurity Risks in LNG Transport            | The risk of hacking LNG carriers to manipulate gas prices by causing operational disruptions.                                                    |           4 |
+| Insurance Limitations for Cyber Events          | Emerging exclusions in insurance coverage for cyber-related incidents, impacting risk management in the maritime industry.                       |           4 |
+| Regulatory Changes in Maritime Cybersecurity    | New regulations requiring improved cyber security measures on vessels, affecting insurance and operational standards.                            |           5 |
+| Inadequate Cyber Security in Vessel Operations  | The consistent lack of adequate cyber security measures across vessels, posing risks to maritime operations.                                     |           5 |
