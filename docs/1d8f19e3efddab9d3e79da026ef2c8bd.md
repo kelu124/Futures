@@ -1,4 +1,4 @@
-# __Google Blocks Ads for Sites Using Compromised Polyfill.io Service Amid Security Concerns__, from ([6236.0](https://kghosh.substack.com/p/6236.0).)
+# __Google Blocks Ads for Sites Using Compromised Polyfill.io Service Amid Security Concerns__, (from page [20240707](https://kghosh.substack.com/p/20240707).)
 
 __[External link](https://thehackernews.com/2024/06/over-110000-websites-affected-by.html)__
 

@@ -1,4 +1,4 @@
-# __Rethinking Influence in Social Networks: The Role of Betweenness Over Connections__, from ([5182.0](https://kghosh.substack.com/p/5182.0).)
+# __Rethinking Influence in Social Networks: The Role of Betweenness Over Connections__, (from page [20241124](https://kghosh.substack.com/p/20241124).)
 
 __[External link](https://www.workfutures.io/p/its-betweenness-that-matters-not)__
 

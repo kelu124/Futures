@@ -1,4 +1,4 @@
-# __China's 2028 Invasion Plan for Taiwan: A Potential Global Conflict Ignored by the West__, from ([25984.0](https://kghosh.substack.com/p/25984.0).)
+# __China's 2028 Invasion Plan for Taiwan: A Potential Global Conflict Ignored by the West__, (from page [20240630](https://kghosh.substack.com/p/20240630).)
 
 __[External link](https://www.wired.com/story/this-is-what-would-happen-if-china-invaded-taiwan/)__
 

@@ -1,4 +1,4 @@
-# __Google Announces Discontinuation of Jamboard, Ending Cloud Support and Hardware Sales by 2024__, from ([3840.0](https://kghosh.substack.com/p/3840.0).)
+# __Google Announces Discontinuation of Jamboard, Ending Cloud Support and Hardware Sales by 2024__, (from page [20231017](https://kghosh.substack.com/p/20231017).)
 
 __[External link](https://arstechnica.com/gadgets/2023/09/5000-google-jamboard-dies-in-2024-cloud-based-apps-will-stop-working-too/)__
 

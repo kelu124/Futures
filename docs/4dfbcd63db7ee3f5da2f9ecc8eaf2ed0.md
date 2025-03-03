@@ -1,4 +1,4 @@
-# __UK Government to Publish AI Tools Register Amid Bias Concerns and Campaigner Challenges__, from ([4705.0](https://kghosh.substack.com/p/4705.0).)
+# __UK Government to Publish AI Tools Register Amid Bias Concerns and Campaigner Challenges__, (from page [20240915](https://kghosh.substack.com/p/20240915).)
 
 __[External link](https://www.theguardian.com/technology/article/2024/aug/25/register-aims-to-quash-fears-over-racist-and-biased-ai-tools-used-on-uk-public)__
 

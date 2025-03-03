@@ -1,4 +1,4 @@
-# __Discovery of Plastic Rocks on Trindade Island Raises Alarm About Pollution's Geological Impact__, from ([2181.0](https://kghosh.substack.com/p/2181.0).)
+# __Discovery of Plastic Rocks on Trindade Island Raises Alarm About Pollution's Geological Impact__, (from page [20230319](https://kghosh.substack.com/p/20230319).)
 
 __[External link](https://www.reuters.com/lifestyle/science/brazilian-researchers-find-terrifying-plastic-rocks-remote-island-2023-03-15/)__
 

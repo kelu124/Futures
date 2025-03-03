@@ -1,4 +1,4 @@
-# __Overview of HydraUSB3 V1: An Open Source Developer Kit for High-Speed Protocols__, from ([10559.0](https://kghosh.substack.com/p/10559.0).)
+# __Overview of HydraUSB3 V1: An Open Source Developer Kit for High-Speed Protocols__, (from page [20220810](https://kghosh.substack.com/p/20220810).)
 
 __[External link](https://hydrabus.com/hydrausb3-v1-0-specifications/?v=1ee0bf89c5d1)__
 

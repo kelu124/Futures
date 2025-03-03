@@ -1,4 +1,4 @@
-# __Leveraging NLP for Competitive Advantage: A Guide for Startups__, from ([3370.0](https://kghosh.substack.com/p/3370.0).)
+# __Leveraging NLP for Competitive Advantage: A Guide for Startups__, (from page [20230115](https://kghosh.substack.com/p/20230115).)
 
 __[External link](https://txt.cohere.ai/how-startups-can-use-nlp-to-build-a-competitive-moat/?utm_source=twitter&utm_medium=paidsocial&utm_campaign=contentpromotion_desktop_nlplookalike&twclid=2-2lv96148rgp1s6p3b60hudmnf)__
 

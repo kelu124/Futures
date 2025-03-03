@@ -1,4 +1,4 @@
-# __Persi Diaconis' Quest to Solve the Mystery of Card Smooshing and Its Mathematical Implications__, from ([14100.0](https://kghosh.substack.com/p/14100.0).)
+# __Persi Diaconis' Quest to Solve the Mystery of Card Smooshing and Its Mathematical Implications__, (from page [20250126](https://kghosh.substack.com/p/20250126).)
 
 __[External link](https://www.quantamagazine.org/persi-diaconis-mixes-math-and-magic-20150414/)__
 

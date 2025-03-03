@@ -1,4 +1,4 @@
-# __Navigating Time and Memory: A Musician's Journey Through Lupus and Recovery__, from ([11626.0](https://kghosh.substack.com/p/11626.0).)
+# __Navigating Time and Memory: A Musician's Journey Through Lupus and Recovery__, (from page [20231119](https://kghosh.substack.com/p/20231119).)
 
 __[External link](https://www.salon.com/2023/11/05/a-brain-injury-removed-my-ability-to-perceive-time-heres-what-its-like-in-a-world-without-it/)__
 

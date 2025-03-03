@@ -1,4 +1,4 @@
-# __Understanding Chi-Fi Tuning: Cultural Influences on Sound Perception Across Markets__, from ([8465.0](https://kghosh.substack.com/p/8465.0).)
+# __Understanding Chi-Fi Tuning: Cultural Influences on Sound Perception Across Markets__, (from page [20241201](https://kghosh.substack.com/p/20241201).)
 
 __[External link](https://www.audioreviews.org/chi-fi-tuning/)__
 

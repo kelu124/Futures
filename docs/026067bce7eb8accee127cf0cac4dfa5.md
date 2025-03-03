@@ -1,4 +1,4 @@
-# __Harnessing Storytelling to Reimagine AI: The Role of Arts and Humanities in Shaping a Positive Future__, from ([8053.0](https://kghosh.substack.com/p/8053.0).)
+# __Harnessing Storytelling to Reimagine AI: The Role of Arts and Humanities in Shaping a Positive Future__, (from page [20240609](https://kghosh.substack.com/p/20240609).)
 
 __[External link](https://www.scientificamerican.com/article/how-new-science-fiction-could-help-us-improve-ai/?ref=sentiers.media)__
 

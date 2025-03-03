@@ -1,4 +1,4 @@
-# __The Future of Generative AI: From Tools to Intelligent Agents Transforming Business Workflows__, from ([17565.0](https://kghosh.substack.com/p/17565.0).)
+# __The Future of Generative AI: From Tools to Intelligent Agents Transforming Business Workflows__, (from page [20240908](https://kghosh.substack.com/p/20240908).)
 
 __[External link](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/why-agents-are-the-next-frontier-of-generative-ai)__
 

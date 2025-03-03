@@ -1,4 +1,4 @@
-# __Mystery of Downed Object Over Canada: Was It a Hobbyist Balloon?__, from ([7358.0](https://kghosh.substack.com/p/7358.0).)
+# __Mystery of Downed Object Over Canada: Was It a Hobbyist Balloon?__, (from page [20220118](https://kghosh.substack.com/p/20220118).)
 
 __[External link](https://nymag.com/intelligencer/2023/02/did-an-f-22-blow-up-some-illinois-hobbyists-pico-balloon.html)__
 

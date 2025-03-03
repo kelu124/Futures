@@ -1,4 +1,4 @@
-# __Blair Kamin Funds New Architecture Column at Chicago Tribune Amid Declining Arts Coverage__, from ([13407.0](https://kghosh.substack.com/p/13407.0).)
+# __Blair Kamin Funds New Architecture Column at Chicago Tribune Amid Declining Arts Coverage__, (from page [20241103](https://kghosh.substack.com/p/20241103).)
 
 __[External link](https://localnewsinitiative.northwestern.edu/posts/2024/10/22/blair-kamin-funds-chicago-tribune-architecture-writer/)__
 

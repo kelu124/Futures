@@ -1,4 +1,4 @@
-# __The Impact of Generative AI on Human Creativity in Story Writing__, from ([1955.0](https://kghosh.substack.com/p/1955.0).)
+# __The Impact of Generative AI on Human Creativity in Story Writing__, (from page [20230819](https://kghosh.substack.com/p/20230819).)
 
 __[External link](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4535536_code1843267.pdf?abstractid=4535536&mirid=1)__
 

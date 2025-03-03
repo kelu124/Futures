@@ -1,4 +1,4 @@
-# __Understanding the Art of Graciously Saying No in Creative Work__, from ([1846.0](https://kghosh.substack.com/p/1846.0).)
+# __Understanding the Art of Graciously Saying No in Creative Work__, (from page [20231119](https://kghosh.substack.com/p/20231119).)
 
 __[External link](https://tumblr.austinkleon.com/post/120472862666?utm_source=substack&utm_medium=email)__
 

@@ -1,4 +1,4 @@
-# __Whitney Wolfe Herd Envisions AI Dating Concierge Amid 'Black Mirror' Comparisons__, from ([1756.0](https://kghosh.substack.com/p/1756.0).)
+# __Whitney Wolfe Herd Envisions AI Dating Concierge Amid 'Black Mirror' Comparisons__, (from page [20040714](https://kghosh.substack.com/p/20040714).)
 
 __[External link](https://www.thewrap.com/bumble-ai-dating-future/)__
 

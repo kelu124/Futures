@@ -1,4 +1,4 @@
-# __Ziklag's $12 Million Strategy to Influence 2024 Election Through Voter Mobilization and Purging__, from ([23247.0](https://kghosh.substack.com/p/23247.0).)
+# __Ziklag's $12 Million Strategy to Influence 2024 Election Through Voter Mobilization and Purging__, (from page [20240804](https://kghosh.substack.com/p/20240804).)
 
 __[External link](https://www.propublica.org/article/inside-ziklag-secret-christian-charity-2024-election)__
 

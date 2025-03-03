@@ -1,4 +1,4 @@
-# __Enhancing Government Consultations: AI Tool for Faster Analysis of Public Responses__, from ([2627.0](https://kghosh.substack.com/p/2627.0).)
+# __Enhancing Government Consultations: AI Tool for Faster Analysis of Public Responses__, (from page [20240414](https://kghosh.substack.com/p/20240414).)
 
 __[External link](https://ai.gov.uk/projects/consultations/)__
 

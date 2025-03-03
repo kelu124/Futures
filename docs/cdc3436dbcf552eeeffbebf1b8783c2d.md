@@ -1,4 +1,4 @@
-# __Exploring Future Threats Through Science Fiction Prototyping with Brian David Johnson__, from ([8876.0](https://kghosh.substack.com/p/8876.0).)
+# __Exploring Future Threats Through Science Fiction Prototyping with Brian David Johnson__, (from page [20220904](https://kghosh.substack.com/p/20220904).)
 
 __[External link](https://farsight.cifs.dk/how-futurists-use-science-fiction-to-model-future-threats/)__
 

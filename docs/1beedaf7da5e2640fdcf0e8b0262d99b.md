@@ -1,4 +1,4 @@
-# __Understanding the Future You Platform: Data, Accuracy, and Purpose__, from ([1885.0](https://kghosh.substack.com/p/1885.0).)
+# __Understanding the Future You Platform: Data, Accuracy, and Purpose__, (from page [20240707](https://kghosh.substack.com/p/20240707).)
 
 __[External link](https://www.media.mit.edu/projects/future-you/overview/)__
 

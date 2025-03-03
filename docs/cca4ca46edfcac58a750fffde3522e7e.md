@@ -1,4 +1,4 @@
-# __TSMC Advances Toward 2nm Chip Production with New Innovations and Tool Readiness__, from ([11955.0](https://kghosh.substack.com/p/11955.0).)
+# __TSMC Advances Toward 2nm Chip Production with New Innovations and Tool Readiness__, (from page [20231022](https://kghosh.substack.com/p/20231022).)
 
 __[External link](https://www.anandtech.com/show/21091/tsmc-ecosystem-for-2nm-chip-development-is-nearing-completion)__
 

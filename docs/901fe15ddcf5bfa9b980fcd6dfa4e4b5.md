@@ -1,4 +1,4 @@
-# __Longitudinal Study Reveals Decline in Men's Emotional Support Networks from Ages 30 to 90__, from ([4786.0](https://kghosh.substack.com/p/4786.0).)
+# __Longitudinal Study Reveals Decline in Men's Emotional Support Networks from Ages 30 to 90__, (from page [20250209](https://kghosh.substack.com/p/20250209).)
 
 __[External link](https://www.psypost.org/men-lose-half-their-emotional-support-networks-between-30-and-90-decades-long-study-finds/)__
 

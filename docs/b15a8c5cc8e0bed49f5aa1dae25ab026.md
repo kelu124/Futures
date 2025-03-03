@@ -1,4 +1,4 @@
-# __Klarna Launches AI Assistant with OpenAI to Enhance Customer Experience and Efficiency__, from ([4256.0](https://kghosh.substack.com/p/4256.0).)
+# __Klarna Launches AI Assistant with OpenAI to Enhance Customer Experience and Efficiency__, (from page [20240310](https://kghosh.substack.com/p/20240310).)
 
 __[External link](https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/?utm_source=substack&utm_medium=email)__
 

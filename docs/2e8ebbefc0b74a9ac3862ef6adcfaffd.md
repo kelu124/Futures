@@ -1,4 +1,4 @@
-# __The EU Cyber Resilience Act: A Threat to Open Source Development__, from ([5865.0](https://kghosh.substack.com/p/5865.0).)
+# __The EU Cyber Resilience Act: A Threat to Open Source Development__, (from page [20230513](https://kghosh.substack.com/p/20230513).)
 
 __[External link](https://www.theregister.com/2023/05/12/eu_cyber_resilience_act/)__
 

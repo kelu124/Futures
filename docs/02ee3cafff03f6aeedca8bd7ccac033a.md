@@ -1,4 +1,4 @@
-# __The Evolving Role of Brand Publishing in Investment Banking and Media Landscape__, from ([4821.0](https://kghosh.substack.com/p/4821.0).)
+# __The Evolving Role of Brand Publishing in Investment Banking and Media Landscape__, (from page [20221016](https://kghosh.substack.com/p/20221016).)
 
 __[External link](https://toolkits.com/uncategorized/why-banks-are-becoming-publishers/)__
 

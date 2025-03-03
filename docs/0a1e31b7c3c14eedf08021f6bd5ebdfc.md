@@ -1,4 +1,4 @@
-# __Enhancing Your Luck Through Public Engagement and Sharing Your Work__, from ([10674.0](https://kghosh.substack.com/p/10674.0).)
+# __Enhancing Your Luck Through Public Engagement and Sharing Your Work__, (from page [20220717](https://kghosh.substack.com/p/20220717).)
 
 __[External link](https://github.com/readme/guides/publishing-your-work)__
 

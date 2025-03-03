@@ -1,4 +1,4 @@
-# __The Emotional Impact of Virtual Reality and AI in Grieving Process__, from ([9600.0](https://kghosh.substack.com/p/9600.0).)
+# __The Emotional Impact of Virtual Reality and AI in Grieving Process__, (from page [20221204](https://kghosh.substack.com/p/20221204).)
 
 __[External link](https://www.washingtonpost.com/health/2022/11/12/artificial-intelligence-grief/)__
 

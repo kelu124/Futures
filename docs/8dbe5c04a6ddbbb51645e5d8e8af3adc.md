@@ -1,4 +1,4 @@
-# __A Comprehensive Guide to Getting Started with LangChain for LLM Applications__, from ([16668.0](https://kghosh.substack.com/p/16668.0).)
+# __A Comprehensive Guide to Getting Started with LangChain for LLM Applications__, (from page [20230521](https://kghosh.substack.com/p/20230521).)
 
 __[External link](https://towardsdatascience.com/getting-started-with-langchain-a-beginners-guide-to-building-llm-powered-applications-95fc8898732c)__
 

@@ -1,4 +1,4 @@
-# __The Niche Future of Generative AI: Beyond Generalized Chatbots__, from ([6868.0](https://kghosh.substack.com/p/6868.0).)
+# __The Niche Future of Generative AI: Beyond Generalized Chatbots__, (from page [20230521](https://kghosh.substack.com/p/20230521).)
 
 __[External link](https://www.technologyreview.com/2023/04/27/1072102/the-future-of-generative-ai-is-niche-not-generalized/)__
 

@@ -1,4 +1,4 @@
-# __How the Parcae Satellite Program Revolutionized Cold War Surveillance and Intelligence Gathering__, from ([21024.0](https://kghosh.substack.com/p/21024.0).)
+# __How the Parcae Satellite Program Revolutionized Cold War Surveillance and Intelligence Gathering__, (from page [20250209](https://kghosh.substack.com/p/20250209).)
 
 __[External link](https://spectrum.ieee.org/reconnaissance-satellite)__
 

@@ -1,4 +1,4 @@
-# __Ransomware Group Files SEC Complaint Over Cyber Breach Disclosure Delay by MeridianLink__, from ([6100.0](https://kghosh.substack.com/p/6100.0).)
+# __Ransomware Group Files SEC Complaint Over Cyber Breach Disclosure Delay by MeridianLink__, (from page [20231203](https://kghosh.substack.com/p/20231203).)
 
 __[External link](https://www.dandodiary.com/2023/11/articles/cyber-liability/hackers-complain-to-sec-company-they-hacked-failed-to-disclose-the-incident/)__
 

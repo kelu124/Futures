@@ -1,4 +1,4 @@
-# __Cybathlon 2020: A Global Championship Elevating Assistive Technology for Individuals with Disabilities__, from ([4777.0](https://kghosh.substack.com/p/4777.0).)
+# __Cybathlon 2020: A Global Championship Elevating Assistive Technology for Individuals with Disabilities__, (from page [20220626](https://kghosh.substack.com/p/20220626).)
 
 __[External link](https://ethz.ch/en/news-and-events/eth-news/news/2020/02/cybathlon-2020-start.html)__
 

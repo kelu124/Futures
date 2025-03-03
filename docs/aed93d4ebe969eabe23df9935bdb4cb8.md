@@ -1,4 +1,4 @@
-# __Electric Vehicles Surge Ahead Amid Cybersecurity Concerns and Research Innovations__, from ([4153.0](https://kghosh.substack.com/p/4153.0).)
+# __Electric Vehicles Surge Ahead Amid Cybersecurity Concerns and Research Innovations__, (from page [20221106](https://kghosh.substack.com/p/20221106).)
 
 __[External link](https://umdearborn.edu/news/ev-charging-stations-could-be-target-hackers?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axioscodebook&stream=top)__
 

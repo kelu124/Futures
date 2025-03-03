@@ -1,4 +1,4 @@
-# __The Unsung Success of INR: How a Small Agency Outshines Larger Intelligence Organizations__, from ([22690.0](https://kghosh.substack.com/p/22690.0).)
+# __The Unsung Success of INR: How a Small Agency Outshines Larger Intelligence Organizations__, (from page [20240616](https://kghosh.substack.com/p/20240616).)
 
 __[External link](https://www.vox.com/future-perfect/351638/the-obscure-federal-intelligence-bureau-that-got-vietnam-iraq-and-ukraine-right)__
 

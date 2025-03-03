@@ -1,4 +1,4 @@
-# __Exploring A.I. Romance: Ayrin's Relationship with ChatGPT and the Future of Artificial Companionship__, from ([1603.0](https://kghosh.substack.com/p/1603.0).)
+# __Exploring A.I. Romance: Ayrin's Relationship with ChatGPT and the Future of Artificial Companionship__, (from page [20250216](https://kghosh.substack.com/p/20250216).)
 
 __[External link](https://www.nytimes.com/2025/01/15/technology/ai-chatgpt-boyfriend-companion.html)__
 

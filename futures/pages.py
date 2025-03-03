@@ -54,7 +54,7 @@ class PagesWriter:
         meta = pd.read_parquet(self.srcMetas).reset_index(drop=True)
         signals = pd.read_parquet(self.srcSeeds).reset_index(drop=True)
         summaries = pd.read_parquet(self.srcSummaries).reset_index(drop=True)
-
+        df = pd.read_parquet(self.db.ai.srcArticles)
         techs = pd.read_parquet(self.srcEmergingTechs).reset_index(drop=True)
         behav = pd.read_parquet(self.srcEmergingBehav).reset_index(drop=True)
         issue = pd.read_parquet(self.srcEmergingIssue).reset_index(drop=True)
@@ -65,42 +65,44 @@ class PagesWriter:
             ID = row["src"]
             try:
                 S = summaries[summaries.src == ID]["title"].iloc[0]
-                TXT = "# __"+S +"__, from (["+str(row.origin)+"](https://kghosh.substack.com/p/"+str(row.origin)+").)\n\n"
-            except:
-                pass
-            
-            TXT += "__[External link]("+str(row.url)[2:-1]+")__\n\n"
-            TXT += "\n\n## Keywords\n\n"
-            TXT += "* "+"\n* ".join([x.strip() for x in row["keywords"].split(",")])
-            TXT += "\n\n## Themes\n\n"
-            TXT += "* "+"\n* ".join([x.strip() for x in row["themes"].split(",")])
-            TXT += "\n\n## Other\n\n"
-            TXT += "* Category: "+row["category"] +"\n"
-            TXT += "* Type: "+row["type"]
-            try:
-                TXT += "\n\n## Summary\n\n"
-                TXT += summaries[summaries.src == ID].summary.iloc[0]
-            except:
-                pass
-            SIG = signals[signals.src == ID]
-            if len(SIG):
-                TXT += "\n\n## Signals\n\n"
-                TXT += SIG[list(SIG.columns)[:-1]].to_markdown(index=False)
-            BVR = behav[behav.src == ID]
-            if len(BVR):
-                TXT += "\n\n## Behaviors\n\n"
-                TXT += BVR[list(BVR.columns)[:-1]].to_markdown(index=False)
-            TEK = techs[techs.src == ID]
-            if len(TEK):
-                TXT += "\n\n## Technologies\n\n"
-                TXT += TEK[list(TEK.columns)[1:]].to_markdown(index=False)
-            ISS = issue[issue.src == ID]
-            if len(ISS):
-                TXT += "\n\n## Issues\n\n"
-                TXT += ISS[list(ISS.columns)[:-1]].to_markdown(index=False)
+                origin = str(df[df.file_name == ID]["origin"].iloc[0])
+                TXT = "# __"+S +"__, (from page ["+origin+"](https://kghosh.substack.com/p/"+origin+").)\n\n"
 
-            with open("docs/"+ID+".md", "w") as f:
-                f.write(TXT)
+            
+                TXT += "__[External link]("+str(row.url)[2:-1]+")__\n\n"
+                TXT += "\n\n## Keywords\n\n"
+                TXT += "* "+"\n* ".join([x.strip() for x in row["keywords"].split(",")])
+                TXT += "\n\n## Themes\n\n"
+                TXT += "* "+"\n* ".join([x.strip() for x in row["themes"].split(",")])
+                TXT += "\n\n## Other\n\n"
+                TXT += "* Category: "+row["category"] +"\n"
+                TXT += "* Type: "+row["type"]
+                try:
+                    TXT += "\n\n## Summary\n\n"
+                    TXT += summaries[summaries.src == ID].summary.iloc[0]
+                except:
+                    pass
+                SIG = signals[signals.src == ID]
+                if len(SIG):
+                    TXT += "\n\n## Signals\n\n"
+                    TXT += SIG[list(SIG.columns)[:-1]].to_markdown(index=False)
+                BVR = behav[behav.src == ID]
+                if len(BVR):
+                    TXT += "\n\n## Behaviors\n\n"
+                    TXT += BVR[list(BVR.columns)[:-1]].to_markdown(index=False)
+                TEK = techs[techs.src == ID]
+                if len(TEK):
+                    TXT += "\n\n## Technologies\n\n"
+                    TXT += TEK[list(TEK.columns)[1:]].to_markdown(index=False)
+                ISS = issue[issue.src == ID]
+                if len(ISS):
+                    TXT += "\n\n## Issues\n\n"
+                    TXT += ISS[list(ISS.columns)[:-1]].to_markdown(index=False)
+                with open("docs/"+ID+".md", "w") as f:
+                    f.write(TXT)
+            except:
+                pass
+
 
     def createPagesIndex(self):
         ## Write Index

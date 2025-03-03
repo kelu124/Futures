@@ -1,4 +1,4 @@
-# __Monash University Develops DishBrain: A Semi-Biological Chip with Learning Capabilities__, from ([2828.0](https://kghosh.substack.com/p/2828.0).)
+# __Monash University Develops DishBrain: A Semi-Biological Chip with Learning Capabilities__, (from page [20230723](https://kghosh.substack.com/p/20230723).)
 
 __[External link](https://newatlas.com/computers/human-brain-chip-ai/)__
 

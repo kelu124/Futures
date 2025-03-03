@@ -1,4 +1,4 @@
-# __The Threat of Authoritarian Intelligence: A Call for Responsible AI Development__, from ([6998.0](https://kghosh.substack.com/p/6998.0).)
+# __The Threat of Authoritarian Intelligence: A Call for Responsible AI Development__, (from page [20231029](https://kghosh.substack.com/p/20231029).)
 
 __[External link](https://time.com/6302761/ai-risks-autonomy/)__
 

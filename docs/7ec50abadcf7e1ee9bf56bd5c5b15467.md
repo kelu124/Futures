@@ -1,4 +1,4 @@
-# __Reactions and Security Measures Following the Murder of UnitedHealthcare CEO Brian Thompson__, from ([5641.0](https://kghosh.substack.com/p/5641.0).)
+# __Reactions and Security Measures Following the Murder of UnitedHealthcare CEO Brian Thompson__, (from page [20241229](https://kghosh.substack.com/p/20241229).)
 
 __[External link](https://www.healthcaredive.com/news/health-insurers-remove-executive-bios-images-unitedhealthcare-ceo-killing/734824/?utm_medium=newsletter&_bhlid=107897d2b2f9cc2781de8423e3faff675bf9495a)__
 

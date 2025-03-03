@@ -1,4 +1,4 @@
-# __Exploring the Future of Human Augmentation with Extra Robotic Limbs and Neural Control__, from ([20230205](https://kghosh.substack.com/p/20230205).)
+# __Exploring the Future of Human Augmentation with Extra Robotic Limbs and Neural Control__, (from page [20230205](https://kghosh.substack.com/p/20230205).)
 
 __[External link](https://spectrum.ieee.org/human-augmentation)__
 

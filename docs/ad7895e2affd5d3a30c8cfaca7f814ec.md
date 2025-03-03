@@ -1,4 +1,4 @@
-# __OpenTitan Launches First Commercial Open-Source Silicon Chip with Built-in Security Features__, from ([6030.0](https://kghosh.substack.com/p/6030.0).)
+# __OpenTitan Launches First Commercial Open-Source Silicon Chip with Built-in Security Features__, (from page [20240414](https://kghosh.substack.com/p/20240414).)
 
 __[External link](https://spectrum.ieee.org/open-titan-chip)__
 

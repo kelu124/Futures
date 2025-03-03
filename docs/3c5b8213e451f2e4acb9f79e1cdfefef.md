@@ -1,4 +1,4 @@
-# __Exploring the Demographics and Life Spans of Middle-earth's Inhabitants__, from ([9120.0](https://kghosh.substack.com/p/9120.0).)
+# __Exploring the Demographics and Life Spans of Middle-earth's Inhabitants__, (from page [20240121](https://kghosh.substack.com/p/20240121).)
 
 __[External link](https://bigthink.com/strange-maps/middle-earth-demographics/)__
 

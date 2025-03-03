@@ -1,4 +1,4 @@
-# __Alaska Cancels Snow Crab Season Amidst Mysterious Population Decline__, from ([2003.0](https://kghosh.substack.com/p/2003.0).)
+# __Alaska Cancels Snow Crab Season Amidst Mysterious Population Decline__, (from page [20221016](https://kghosh.substack.com/p/20221016).)
 
 __[External link](https://www.cbsnews.com/news/fishing-alaska-snow-crab-season-canceled-investigation-climate-change/#app)__
 

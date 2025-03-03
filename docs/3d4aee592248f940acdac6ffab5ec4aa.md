@@ -1,4 +1,4 @@
-# __Amazon Expands Its Healthcare Reach with Mental Health Services Through Ginger Partnership__, from ([2272.0](https://kghosh.substack.com/p/2272.0).)
+# __Amazon Expands Its Healthcare Reach with Mental Health Services Through Ginger Partnership__, (from page [20220904](https://kghosh.substack.com/p/20220904).)
 
 __[External link](https://www.theverge.com/2022/8/12/23303006/amazon-care-ginger-mental-health-therapy)__
 

@@ -1,4 +1,4 @@
-# __The Impact of A.I. on the Legal Profession: Threat or Opportunity?__, from ([8264.0](https://kghosh.substack.com/p/8264.0).)
+# __The Impact of A.I. on the Legal Profession: Threat or Opportunity?__, (from page [20230416](https://kghosh.substack.com/p/20230416).)
 
 __[External link](https://www.nytimes.com/2023/04/10/technology/ai-is-coming-for-lawyers-again.html)__
 

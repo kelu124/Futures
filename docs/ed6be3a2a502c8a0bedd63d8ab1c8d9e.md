@@ -1,4 +1,4 @@
-# __The Rise of Virtual Humans in China's Luxury Market: Trends and Influencers__, from ([4752.0](https://kghosh.substack.com/p/4752.0).)
+# __The Rise of Virtual Humans in China's Luxury Market: Trends and Influencers__, (from page [20231005](https://kghosh.substack.com/p/20231005).)
 
 __[External link](https://jingdaily.com/prada-porsche-tissot-tesla-brands-collaborate-with-virtual-humans-in-china/)__
 

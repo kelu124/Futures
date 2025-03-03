@@ -1,4 +1,4 @@
-# __The Future of Construction: Top Trends Shaping the Industry by 2025__, from ([20799.0](https://kghosh.substack.com/p/20799.0).)
+# __The Future of Construction: Top Trends Shaping the Industry by 2025__, (from page [20241207](https://kghosh.substack.com/p/20241207).)
 
 __[External link](https://www.rib-software.com/en/blogs/construction-industry-trends)__
 

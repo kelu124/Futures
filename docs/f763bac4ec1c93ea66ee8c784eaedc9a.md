@@ -1,4 +1,4 @@
-# __Exploring the Feasibility of Nuclear-Powered F1 Cars: Advantages, Challenges, and Alternatives__, from ([15804.0](https://kghosh.substack.com/p/15804.0).)
+# __Exploring the Feasibility of Nuclear-Powered F1 Cars: Advantages, Challenges, and Alternatives__, (from page [20250112](https://kghosh.substack.com/p/20250112).)
 
 __[External link](https://f1-analysis.com/2025/01/09/could-f1-cars-ever-go-nuclear/)__
 

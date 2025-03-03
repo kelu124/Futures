@@ -1,4 +1,4 @@
-# __Innovative Cooling Paint Based on Structural Color Promises Environmental Benefits__, from ([2128.0](https://kghosh.substack.com/p/2128.0).)
+# __Innovative Cooling Paint Based on Structural Color Promises Environmental Benefits__, (from page [20230408](https://kghosh.substack.com/p/20230408).)
 
 __[External link](https://www.wired.com/story/lightest-paint-in-the-world/)__
 

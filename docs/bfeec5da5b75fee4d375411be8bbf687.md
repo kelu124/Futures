@@ -1,4 +1,4 @@
-# __Neal Stephenson's Vision of AI and Its Societal Implications in "The Diamond Age"__, from ([10881.0](https://kghosh.substack.com/p/10881.0).)
+# __Neal Stephenson's Vision of AI and Its Societal Implications in "The Diamond Age"__, (from page [20240317](https://kghosh.substack.com/p/20240317).)
 
 __[External link](https://www.theatlantic.com/technology/archive/2024/02/chatbots-ai-neal-stephenson-diamond-age/677364/?utm_source=substack&utm_medium=email)__
 

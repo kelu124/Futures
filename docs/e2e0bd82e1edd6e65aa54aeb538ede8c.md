@@ -1,4 +1,4 @@
-# __Introducing ASH: An AI-Powered Field Guide for Young Ecology Guardians__, from ([1525.0](https://kghosh.substack.com/p/1525.0).)
+# __Introducing ASH: An AI-Powered Field Guide for Young Ecology Guardians__, (from page [20240428](https://kghosh.substack.com/p/20240428).)
 
 __[External link](https://www.finh.cc/ash)__
 

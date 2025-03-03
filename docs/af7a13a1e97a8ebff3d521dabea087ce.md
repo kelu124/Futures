@@ -1,4 +1,4 @@
-# __Understanding the Financial Motivations Behind Maritime Cyber Security Threats__, from ([6998.0](https://kghosh.substack.com/p/6998.0).)
+# __Understanding the Financial Motivations Behind Maritime Cyber Security Threats__, (from page [20230416](https://kghosh.substack.com/p/20230416).)
 
 __[External link](https://www.pentestpartners.com/security-blog/monetising-hacking-by-shorting-commodity-shipments/)__
 

@@ -1,4 +1,4 @@
-# __Exploring the Historical Relationship Between Drugs and Consciousness in Modern Society__, from ([13408.0](https://kghosh.substack.com/p/13408.0).)
+# __Exploring the Historical Relationship Between Drugs and Consciousness in Modern Society__, (from page [20230701](https://kghosh.substack.com/p/20230701).)
 
 __[External link](https://thebaffler.com/latest/brains-on-drugs-semley)__
 

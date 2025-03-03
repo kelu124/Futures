@@ -1,4 +1,4 @@
-# __The Future Belongs to Generalists: Embracing Adaptability in the Age of AI__, from ([10499.0](https://kghosh.substack.com/p/10499.0).)
+# __The Future Belongs to Generalists: Embracing Adaptability in the Age of AI__, (from page [20250112](https://kghosh.substack.com/p/20250112).)
 
 __[External link](https://every.to/chain-of-thought/why-generalists-own-the-future)__
 

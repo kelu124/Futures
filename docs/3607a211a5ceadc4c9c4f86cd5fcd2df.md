@@ -1,4 +1,4 @@
-# __The AI Scientist: A Revolutionary Autonomous AI for Scientific Research__, from ([2917.0](https://kghosh.substack.com/p/2917.0).)
+# __The AI Scientist: A Revolutionary Autonomous AI for Scientific Research__, (from page [20240915](https://kghosh.substack.com/p/20240915).)
 
 __[External link](https://techxplore.com/news/2024-08-ai-scientist-scientific-autonomously.html)__
 

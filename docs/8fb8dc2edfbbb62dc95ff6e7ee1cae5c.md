@@ -1,4 +1,4 @@
-# __Understanding the Unsustainability of Content Marketing Amidst Content Shock__, from ([12864.0](https://kghosh.substack.com/p/12864.0).)
+# __Understanding the Unsustainability of Content Marketing Amidst Content Shock__, (from page [20231119](https://kghosh.substack.com/p/20231119).)
 
 __[External link](https://businessesgrow.com/2014/01/06/content-shock/?utm_source=substack&utm_medium=email)__
 

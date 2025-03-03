@@ -1,4 +1,4 @@
-# __Public Libraries Transforming into Coworking Spaces: Opportunities and Challenges Ahead__, from ([1730.0](https://kghosh.substack.com/p/1730.0).)
+# __Public Libraries Transforming into Coworking Spaces: Opportunities and Challenges Ahead__, (from page [20220626](https://kghosh.substack.com/p/20220626).)
 
 __[External link](https://futureparty.com/stories/public-library-coworking-space)__
 

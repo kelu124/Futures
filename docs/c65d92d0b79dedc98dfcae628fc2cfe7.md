@@ -1,4 +1,4 @@
-# __Understanding the Fundamental Process to Generate Living Systems in Modern Society__, from ([18419.0](https://kghosh.substack.com/p/18419.0).)
+# __Understanding the Fundamental Process to Generate Living Systems in Modern Society__, (from page [20230115](https://kghosh.substack.com/p/20230115).)
 
 __[External link](https://mysticalsilicon.substack.com/p/how-to-make-living-systems)__
 

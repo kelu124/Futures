@@ -1,4 +1,4 @@
-# __The Enduring Appeal of Classic Toys Amidst Modern Trends and Nostalgia__, from ([23866.0](https://kghosh.substack.com/p/23866.0).)
+# __The Enduring Appeal of Classic Toys Amidst Modern Trends and Nostalgia__, (from page [20221002](https://kghosh.substack.com/p/20221002).)
 
 __[External link](https://thewalrus.ca/how-do-you-make-the-perfect-toy/)__
 

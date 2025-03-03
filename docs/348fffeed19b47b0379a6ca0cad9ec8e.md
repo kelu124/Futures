@@ -1,4 +1,4 @@
-# __Optimizing Counting Results with Custom Templates and Cookie Management__, from ([2636.0](https://kghosh.substack.com/p/2636.0).)
+# __Optimizing Counting Results with Custom Templates and Cookie Management__, (from page [20221210](https://kghosh.substack.com/p/20221210).)
 
 __[External link](https://countthings.com/en/accuracy)__
 

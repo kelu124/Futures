@@ -1,4 +1,4 @@
-# __The Rise and Challenges of Eat Just: A Deep Dive into Alternative Protein Innovation__, from ([18635.0](https://kghosh.substack.com/p/18635.0).)
+# __The Rise and Challenges of Eat Just: A Deep Dive into Alternative Protein Innovation__, (from page [20240407](https://kghosh.substack.com/p/20240407).)
 
 __[External link](https://agfundernews.com/10-years-in-foodtech-with-eat-just-ceo-josh-tetrick-theres-not-a-template-for-how-you-make-egg-from-a-plant-or-meat-from-a-cell?utm_source=substack&utm_medium=email)__
 

@@ -1,4 +1,4 @@
-# __Leica Launches M11-P Camera with Built-in Content Credentials to Combat Misinformation__, from ([1588.0](https://kghosh.substack.com/p/1588.0).)
+# __Leica Launches M11-P Camera with Built-in Content Credentials to Combat Misinformation__, (from page [20231209](https://kghosh.substack.com/p/20231209).)
 
 __[External link](https://www.capturemag.com.au/news/leica-launches-the-m11-p-the-world-s-first-camera-with-content-credentials)__
 

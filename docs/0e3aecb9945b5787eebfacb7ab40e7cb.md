@@ -1,4 +1,4 @@
-# __Exploring Jean-Pierre Jeunet's 'Bigbug': A Sci-Fi Comedy of Hostage Robots and Rogue AI__, from ([3493.0](https://kghosh.substack.com/p/3493.0).)
+# __Exploring Jean-Pierre Jeunet's 'Bigbug': A Sci-Fi Comedy of Hostage Robots and Rogue AI__, (from page [20220904](https://kghosh.substack.com/p/20220904).)
 
 __[External link](https://en.wikipedia.org/wiki/Bigbug)__
 

@@ -1,4 +1,4 @@
-# __Belgium Implements Comprehensive Legal Protections for Ethical Hackers, Leading EU in Cybersecurity Policy__, from ([4238.0](https://kghosh.substack.com/p/4238.0).)
+# __Belgium Implements Comprehensive Legal Protections for Ethical Hackers, Leading EU in Cybersecurity Policy__, (from page [20230305](https://kghosh.substack.com/p/20230305).)
 
 __[External link](https://portswigger.net/daily-swig/belgium-launches-nationwide-safe-harbor-for-ethical-hackers)__
 

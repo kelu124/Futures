@@ -1,4 +1,4 @@
-# __Exploring John Cage's 4'33": The Silence That Redefined Music__, from ([4711.0](https://kghosh.substack.com/p/4711.0).)
+# __Exploring John Cage's 4'33": The Silence That Redefined Music__, (from page [20241117](https://kghosh.substack.com/p/20241117).)
 
 __[External link](https://www.classical-music.com/features/works/john-cage-433)__
 

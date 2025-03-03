@@ -1,4 +1,4 @@
-# __Reflections on the USS Yorktown Incident: Lessons in IT and Software Quality Assurance__, from ([19047.0](https://kghosh.substack.com/p/19047.0).)
+# __Reflections on the USS Yorktown Incident: Lessons in IT and Software Quality Assurance__, (from page [20240818](https://kghosh.substack.com/p/20240818).)
 
 __[External link](https://medium.com/dataseries/when-smart-ships-divide-by-zer0-uss-yorktown-4e53837f75b2)__
 

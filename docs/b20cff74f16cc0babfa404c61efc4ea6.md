@@ -1,4 +1,4 @@
-# __Human Trial for Revolutionary Tooth Regeneration Drug Set to Begin Soon__, from ([2637.0](https://kghosh.substack.com/p/2637.0).)
+# __Human Trial for Revolutionary Tooth Regeneration Drug Set to Begin Soon__, (from page [20240623](https://kghosh.substack.com/p/20240623).)
 
 __[External link](https://newatlas.com/medical/tooth-regrowing-human-trial/)__
 

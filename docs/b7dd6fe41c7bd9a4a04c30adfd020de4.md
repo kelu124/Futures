@@ -1,4 +1,4 @@
-# __Exploring New AI Tools for Conversing with Departed Loved Ones__, from ([5338.0](https://kghosh.substack.com/p/5338.0).)
+# __Exploring New AI Tools for Conversing with Departed Loved Ones__, (from page [20220824](https://kghosh.substack.com/p/20220824).)
 
 __[External link](https://www.axios.com/2022/07/13/artificial-intelligence-chatbots-dead-relatives-grandma)__
 

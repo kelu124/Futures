@@ -1,4 +1,4 @@
-# __Exploring the Significance of the Upcoming United Nations 'Summit of the Future'__, from ([12957.0](https://kghosh.substack.com/p/12957.0).)
+# __Exploring the Significance of the Upcoming United Nations 'Summit of the Future'__, (from page [20240915](https://kghosh.substack.com/p/20240915).)
 
 __[External link](https://www.apf.org/post/the-un-summit-of-the-future-why-it-is-necessary)__
 

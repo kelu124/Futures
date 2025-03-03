@@ -1,4 +1,4 @@
-# __United Airlines Accelerates Starlink Internet Service Rollout for Passengers__, from ([1805.0](https://kghosh.substack.com/p/1805.0).)
+# __United Airlines Accelerates Starlink Internet Service Rollout for Passengers__, (from page [20250119](https://kghosh.substack.com/p/20250119).)
 
 __[External link](https://techcrunch.com/2025/01/05/united-airlines-accelerates-its-starlink-rollout-with-first-commercial-flight-planned-for-spring/)__
 

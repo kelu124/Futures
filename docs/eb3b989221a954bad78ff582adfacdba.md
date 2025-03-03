@@ -1,4 +1,4 @@
-# __Enhancing Scenario Planning with Generative AI: Overcoming Traditional Limitations__, from ([1875.0](https://kghosh.substack.com/p/1875.0).)
+# __Enhancing Scenario Planning with Generative AI: Overcoming Traditional Limitations__, (from page [20231209](https://kghosh.substack.com/p/20231209).)
 
 __[External link](https://hbr.org/2023/11/use-genai-to-improve-scenario-planning)__
 

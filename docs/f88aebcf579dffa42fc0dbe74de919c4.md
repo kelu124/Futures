@@ -1,4 +1,4 @@
-# __Overview of the US DoD's 2023 Cyber Strategy: Enhancing Cyber Defense and Partnerships__, from ([3805.0](https://kghosh.substack.com/p/3805.0).)
+# __Overview of the US DoD's 2023 Cyber Strategy: Enhancing Cyber Defense and Partnerships__, (from page [20230320](https://kghosh.substack.com/p/20230320).)
 
 __[External link](https://www.securityweek.com/pentagons-2023-cyber-strategy-focuses-on-helping-allies/)__
 

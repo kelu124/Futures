@@ -1,4 +1,4 @@
-# __Creating Beautiful Chlorophyll Prints: A Step-by-Step Guide to Alternative Photography Techniques__, from ([3873.0](https://kghosh.substack.com/p/3873.0).)
+# __Creating Beautiful Chlorophyll Prints: A Step-by-Step Guide to Alternative Photography Techniques__, (from page [20230715](https://kghosh.substack.com/p/20230715).)
 
 __[External link](https://www.lomography.com/magazine/294016-let-the-sun-do-the-work-with-chlorophyl-prints)__
 

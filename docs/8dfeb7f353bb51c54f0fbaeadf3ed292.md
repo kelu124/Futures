@@ -1,4 +1,4 @@
-# __France Invests €2.9 Billion in Semiconductor Factory to Strengthen Local Production Amid Global Competition__, from ([1909.0](https://kghosh.substack.com/p/1909.0).)
+# __France Invests €2.9 Billion in Semiconductor Factory to Strengthen Local Production Amid Global Competition__, (from page [20230612](https://kghosh.substack.com/p/20230612).)
 
 __[External link](https://www.france24.com/en/europe/20230605-france-to-invest-nearly-%E2%82%AC3-billion-in-semiconductor-factory-to-boost-local-production?utm_source=substack&utm_medium=email)__
 

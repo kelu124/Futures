@@ -1,4 +1,4 @@
-# __Evaluating GPT-4o's Impact on Job Skills and Human Workforce Dynamics__, from ([22830.0](https://kghosh.substack.com/p/22830.0).)
+# __Evaluating GPT-4o's Impact on Job Skills and Human Workforce Dynamics__, (from page [20241124](https://kghosh.substack.com/p/20241124).)
 
 __[External link](https://www.hiringlab.org/2024/09/25/artificial-intelligence-skills-at-work/)__
 

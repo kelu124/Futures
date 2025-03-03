@@ -1,4 +1,4 @@
-# __Understanding Amazon's Single-Threaded Leadership Model for Organizational Design__, from ([8019.0](https://kghosh.substack.com/p/8019.0).)
+# __Understanding Amazon's Single-Threaded Leadership Model for Organizational Design__, (from page [20230122](https://kghosh.substack.com/p/20230122).)
 
 __[External link](https://pedrodelgallego.github.io/blog/amazon/single-threaded-model/?utm_source=substack&utm_medium=email)__
 

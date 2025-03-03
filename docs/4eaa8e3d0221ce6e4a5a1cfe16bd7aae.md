@@ -1,4 +1,4 @@
-# __The Controversial Journey of the Eiffel Tower: From Opposition to Iconic Status in Paris__, from ([9004.0](https://kghosh.substack.com/p/9004.0).)
+# __The Controversial Journey of the Eiffel Tower: From Opposition to Iconic Status in Paris__, (from page [20240901](https://kghosh.substack.com/p/20240901).)
 
 __[External link](https://www.toureiffel.paris/en/news/history-and-culture/when-eiffel-tower-was-subject-controversy)__
 

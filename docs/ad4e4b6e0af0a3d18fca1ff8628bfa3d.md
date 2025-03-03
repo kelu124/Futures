@@ -1,4 +1,4 @@
-# __Massive Protests Erupt Across Germany Against Rising Far-Right Extremism__, from ([5068.0](https://kghosh.substack.com/p/5068.0).)
+# __Massive Protests Erupt Across Germany Against Rising Far-Right Extremism__, (from page [20240204](https://kghosh.substack.com/p/20240204).)
 
 __[External link](https://www.npr.org/2024/01/21/1225882007/tens-of-thousands-protest-in-germany-against-the-rise-of-the-far-right)__
 

@@ -1,4 +1,4 @@
-# __Exploring the Rise of Splinternet and AI Divisions in a New Cold War__, from ([5674.0](https://kghosh.substack.com/p/5674.0).)
+# __Exploring the Rise of Splinternet and AI Divisions in a New Cold War__, (from page [20250209](https://kghosh.substack.com/p/20250209).)
 
 __[External link](https://www.newworldsamehumans.xyz/p/intelligence-kingdoms?publication_id=36405&post_id=155170535&isFreemail=true&r=5ah01&triedRedirect=true)__
 

@@ -1,4 +1,4 @@
-# __Exploring the Interconnections of Lithium, Digital Space, and Mental Health Experiences__, from ([22457.0](https://kghosh.substack.com/p/22457.0).)
+# __Exploring the Interconnections of Lithium, Digital Space, and Mental Health Experiences__, (from page [20230827](https://kghosh.substack.com/p/20230827).)
 
 __[External link](https://one.compost.digital/the-salt-of-the-cosmos/?utm_source=substack&utm_medium=email)__
 

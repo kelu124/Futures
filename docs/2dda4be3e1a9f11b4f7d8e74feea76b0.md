@@ -1,4 +1,4 @@
-# __Exploring Autonomous Agents: A Hands-On Guide to GPT-Driven Intelligence__, from ([22805.0](https://kghosh.substack.com/p/22805.0).)
+# __Exploring Autonomous Agents: A Hands-On Guide to GPT-Driven Intelligence__, (from page [20230521](https://kghosh.substack.com/p/20230521).)
 
 __[External link](https://bootcamp.uxdesign.cc/a-comprehensive-and-hands-on-guide-to-autonomous-agents-with-gpt-b58d54724d50)__
 

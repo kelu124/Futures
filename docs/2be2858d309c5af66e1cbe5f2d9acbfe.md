@@ -1,4 +1,4 @@
-# __Elon Musk Accuses EU Commission of Offering Illegal Deal to Censor Speech on X__, from ([1772.0](https://kghosh.substack.com/p/1772.0).)
+# __Elon Musk Accuses EU Commission of Offering Illegal Deal to Censor Speech on X__, (from page [20240818](https://kghosh.substack.com/p/20240818).)
 
 __[External link](https://deadline.com/2024/07/elon-musk-x-digital-services-act-european-union-1236008524/?utm_source=substack&utm_medium=email)__
 

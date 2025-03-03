@@ -1,4 +1,4 @@
-# __China Warns Military Enthusiasts Against Posting Photos of Army Equipment Online__, from ([2561.0](https://kghosh.substack.com/p/2561.0).)
+# __China Warns Military Enthusiasts Against Posting Photos of Army Equipment Online__, (from page [20230109](https://kghosh.substack.com/p/20230109).)
 
 __[External link](https://petapixel.com/2023/12/27/china-warns-military-fans-to-stop-posting-photos-online-or-face-prison/)__
 

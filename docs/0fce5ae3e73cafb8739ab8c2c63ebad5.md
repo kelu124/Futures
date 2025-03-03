@@ -1,4 +1,4 @@
-# __Morris Chang's Sobering Insights at TSMC Arizona Fab Ceremony Highlight Semiconductor Challenges Ahead__, from ([11335.0](https://kghosh.substack.com/p/11335.0).)
+# __Morris Chang's Sobering Insights at TSMC Arizona Fab Ceremony Highlight Semiconductor Challenges Ahead__, (from page [20221218](https://kghosh.substack.com/p/20221218).)
 
 __[External link](https://interconnected.blog/globalization-is-dead-and-no-one-is-listening/)__
 

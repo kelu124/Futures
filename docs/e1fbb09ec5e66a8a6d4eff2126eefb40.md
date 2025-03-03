@@ -1,4 +1,4 @@
-# __The Threat of Paraphrasing Attacks on AI: Understanding New Security Risks in NLP Models__, from ([13198.0](https://kghosh.substack.com/p/13198.0).)
+# __The Threat of Paraphrasing Attacks on AI: Understanding New Security Risks in NLP Models__, (from page [20221016](https://kghosh.substack.com/p/20221016).)
 
 __[External link](https://bdtechtalks.com/2019/04/02/ai-nlp-paraphrasing-adversarial-attacks/)__
 

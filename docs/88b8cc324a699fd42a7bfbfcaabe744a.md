@@ -1,4 +1,4 @@
-# __Gustav Theodor Fechner: A Pioneer of Plant Consciousness and Sentience__, from ([23502.0](https://kghosh.substack.com/p/23502.0).)
+# __Gustav Theodor Fechner: A Pioneer of Plant Consciousness and Sentience__, (from page [20240630](https://kghosh.substack.com/p/20240630).)
 
 __[External link](https://aeon.co/essays/can-we-see-past-our-soul-blindness-to-recognise-plant-minds)__
 

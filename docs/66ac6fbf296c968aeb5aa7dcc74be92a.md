@@ -1,4 +1,4 @@
-# __Innovative Strategies in the Fight Against Mosquito-Borne Diseases and Malaria__, from ([17159.0](https://kghosh.substack.com/p/17159.0).)
+# __Innovative Strategies in the Fight Against Mosquito-Borne Diseases and Malaria__, (from page [20240218](https://kghosh.substack.com/p/20240218).)
 
 __[External link](https://www.gatesnotes.com/Mosquito-Week-2022?WT.mc_id=20220815100000_Mosquito-Week-2022_BG-EM_&WT.tsrc=BGEM&utm_source=substack&utm_medium=email)__
 

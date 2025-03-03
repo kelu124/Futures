@@ -1,4 +1,4 @@
-# __Top 10 Construction Technology Trends Transforming the Industry by 2025__, from ([23354.0](https://kghosh.substack.com/p/23354.0).)
+# __Top 10 Construction Technology Trends Transforming the Industry by 2025__, (from page [20241207](https://kghosh.substack.com/p/20241207).)
 
 __[External link](https://www.rib-software.com/en/blogs/construction-technology-trends)__
 

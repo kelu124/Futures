@@ -1,4 +1,4 @@
-# __How Passive Houses in California Survived Wildfires: Features and Benefits Explained__, from ([5955.0](https://kghosh.substack.com/p/5955.0).)
+# __How Passive Houses in California Survived Wildfires: Features and Benefits Explained__, (from page [20250119](https://kghosh.substack.com/p/20250119).)
 
 __[External link](https://www.yahoo.com/lifestyle/passive-house-survives-fire-california-000029045.html?guccounter=1)__
 

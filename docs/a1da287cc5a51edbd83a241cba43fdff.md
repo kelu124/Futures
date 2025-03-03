@@ -1,4 +1,4 @@
-# __The Quirky Journey of Null Island: From Cartographic Joke to Mapping Easter Egg__, from ([26009.0](https://kghosh.substack.com/p/26009.0).)
+# __The Quirky Journey of Null Island: From Cartographic Joke to Mapping Easter Egg__, (from page [20240825](https://kghosh.substack.com/p/20240825).)
 
 __[External link](https://stamen.com/the-many-lives-of-null-island/)__
 

@@ -1,4 +1,4 @@
-# __The A-TEAM: A Failed U.S. Government Initiative to Replace Migrant Workers with High School Students__, from ([8338.0](https://kghosh.substack.com/p/8338.0).)
+# __The A-TEAM: A Failed U.S. Government Initiative to Replace Migrant Workers with High School Students__, (from page [20250119](https://kghosh.substack.com/p/20250119).)
 
 __[External link](https://www.npr.org/sections/thesalt/2018/07/31/634442195/when-the-u-s-government-tried-to-replace-migrant-farmworkers-with-high-schoolers)__
 

@@ -1,4 +1,4 @@
-# __The Educational Value of Zines: A Creative Approach to Storytelling__, from ([6072.0](https://kghosh.substack.com/p/6072.0).)
+# __The Educational Value of Zines: A Creative Approach to Storytelling__, (from page [20220212](https://kghosh.substack.com/p/20220212).)
 
 __[External link](https://theartofeducation.edu/2017/12/14/zines/)__
 

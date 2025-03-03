@@ -1,4 +1,4 @@
-# __Exploring the Allure and Complexity of Card Games: From Solitaire to Modern Variants__, from ([17835.0](https://kghosh.substack.com/p/17835.0).)
+# __Exploring the Allure and Complexity of Card Games: From Solitaire to Modern Variants__, (from page [20250119](https://kghosh.substack.com/p/20250119).)
 
 __[External link](https://www.polygon.com/videos/506918/playing-cards-history)__
 

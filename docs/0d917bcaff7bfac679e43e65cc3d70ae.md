@@ -1,4 +1,4 @@
-# __Astrophotographer Captures Stunning Detailed Image of the Moon's Surface__, from ([1516.0](https://kghosh.substack.com/p/1516.0).)
+# __Astrophotographer Captures Stunning Detailed Image of the Moon's Surface__, (from page [20241124](https://kghosh.substack.com/p/20241124).)
 
 __[External link](https://www.thisiscolossal.com/2024/10/darya-kawa-mirza-moon-photos/)__
 

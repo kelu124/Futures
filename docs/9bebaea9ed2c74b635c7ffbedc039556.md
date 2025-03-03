@@ -1,4 +1,4 @@
-# __Study Highlights Underestimated Risks of Simultaneous Harvest Failures Due to Climate Change__, from ([3019.0](https://kghosh.substack.com/p/3019.0).)
+# __Study Highlights Underestimated Risks of Simultaneous Harvest Failures Due to Climate Change__, (from page [20230715](https://kghosh.substack.com/p/20230715).)
 
 __[External link](https://www.sciencealert.com/researchers-weve-underestimated-the-risk-of-simultaneous-crop-failures-worldwide?utm_source=substack&utm_medium=email)__
 

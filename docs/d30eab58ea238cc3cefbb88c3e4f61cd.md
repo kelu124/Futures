@@ -1,4 +1,4 @@
-# __The First Instance of Sologamy in India: Kshama Bindu's Journey of Self-Marriage__, from ([10033.0](https://kghosh.substack.com/p/10033.0).)
+# __The First Instance of Sologamy in India: Kshama Bindu's Journey of Self-Marriage__, (from page [20220810](https://kghosh.substack.com/p/20220810).)
 
 __[External link](https://www.aljazeera.com/features/2022/7/20/the-indian-woman-who-married-herself)__
 

@@ -1,4 +1,4 @@
-# __Onboarding Your AI Intern: Maximizing Productivity through Collaboration and Understanding__, from ([12800.0](https://kghosh.substack.com/p/12800.0).)
+# __Onboarding Your AI Intern: Maximizing Productivity through Collaboration and Understanding__, (from page [20230623](https://kghosh.substack.com/p/20230623).)
 
 __[External link](https://www.oneusefulthing.org/p/on-boarding-your-ai-intern)__
 

@@ -1,4 +1,4 @@
-# __Concerns Over AI Misuse in Scientific Literature: A Growing Challenge for Research Integrity__, from ([7359.0](https://kghosh.substack.com/p/7359.0).)
+# __Concerns Over AI Misuse in Scientific Literature: A Growing Challenge for Research Integrity__, (from page [20240908](https://kghosh.substack.com/p/20240908).)
 
 __[External link](https://www.scientificamerican.com/article/chatbots-have-thoroughly-infiltrated-scientific-publishing/)__
 

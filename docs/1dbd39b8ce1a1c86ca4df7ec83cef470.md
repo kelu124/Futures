@@ -1,4 +1,4 @@
-# __Embracing RSS: A Solution for a Better Internet Experience__, from ([10487.0](https://kghosh.substack.com/p/10487.0).)
+# __Embracing RSS: A Solution for a Better Internet Experience__, (from page [20241103](https://kghosh.substack.com/p/20241103).)
 
 __[External link](https://doctorow.medium.com/you-should-be-using-an-rss-reader-76aed31151f9)__
 

@@ -1,4 +1,4 @@
-# __Concerns Rise Among Voice Actors Over AI Voice Synthesis and Job Security__, from ([8376.0](https://kghosh.substack.com/p/8376.0).)
+# __Concerns Rise Among Voice Actors Over AI Voice Synthesis and Job Security__, (from page [20220225](https://kghosh.substack.com/p/20220225).)
 
 __[External link](https://www.vice.com/en/article/5d37za/voice-actors-sign-away-rights-to-artificial-intelligence?utm_content=null&utm_source=Sailthru&utm_medium=email&utm_campaign=Wednesday%20Email&utm_term=4ABCD)__
 

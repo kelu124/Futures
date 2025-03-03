@@ -1,4 +1,4 @@
-# __Introducing Vicuna-13B: A New Open-Source Chatbot Surpassing ChatGPT Performance__, from ([5743.0](https://kghosh.substack.com/p/5743.0).)
+# __Introducing Vicuna-13B: A New Open-Source Chatbot Surpassing ChatGPT Performance__, (from page [20230416](https://kghosh.substack.com/p/20230416).)
 
 __[External link](https://pub.towardsai.net/meet-vicuna-the-latest-metas-llama-model-that-matches-chatgpt-performance-e23b2fc67e6b)__
 

@@ -1,4 +1,4 @@
-# __The Rise of Solo Travel: Trends, Challenges, and Opportunities for 2024__, from ([7413.0](https://kghosh.substack.com/p/7413.0).)
+# __The Rise of Solo Travel: Trends, Challenges, and Opportunities for 2024__, (from page [20231209](https://kghosh.substack.com/p/20231209).)
 
 __[External link](https://www.forbes.com/sites/christopherelliott/2023/11/19/why-2024-will-be-the-year-of-the-solo-traveler---and-what-it-means-for-you/?sh=72e24cc41226&utm_source=substack&utm_medium=email)__
 

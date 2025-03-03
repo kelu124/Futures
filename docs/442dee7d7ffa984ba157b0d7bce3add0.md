@@ -1,4 +1,4 @@
-# __University of Texas Team Develops Wireless Charging Tech for Drones and Beyond__, from ([4216.0](https://kghosh.substack.com/p/4216.0).)
+# __University of Texas Team Develops Wireless Charging Tech for Drones and Beyond__, (from page [20240616](https://kghosh.substack.com/p/20240616).)
 
 __[External link](https://interestingengineering.com/innovation/wireless-charge-flying-drones)__
 

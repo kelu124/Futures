@@ -1,4 +1,4 @@
-# __Understanding Effectuation: A Practical Theory of Entrepreneurship for All__, from ([9148.0](https://kghosh.substack.com/p/9148.0).)
+# __Understanding Effectuation: A Practical Theory of Entrepreneurship for All__, (from page [20230810](https://kghosh.substack.com/p/20230810).)
 
 __[External link](https://necrophone.com/2014/01/20/effectuation-the-best-theory-of-entrepreneurship-you-actually-follow-whether-youve-heard-of-it-or-not/)__
 

@@ -1,4 +1,4 @@
-# __Nvidia's Stock Surge and Dominance in the AI Chip Market Amid Growing Demand__, from ([4069.0](https://kghosh.substack.com/p/4069.0).)
+# __Nvidia's Stock Surge and Dominance in the AI Chip Market Amid Growing Demand__, (from page [20230604](https://kghosh.substack.com/p/20230604).)
 
 __[External link](https://venturebeat.com/ai/nvidias-is-poised-to-join-1-trillion-club-thanks-to-ai-driven-surge/?utm_source=substack&utm_medium=email)__
 

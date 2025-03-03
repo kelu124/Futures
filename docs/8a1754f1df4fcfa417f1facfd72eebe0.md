@@ -1,4 +1,4 @@
-# __The Resale Revolution: Redefining Fashion Through Sustainable Practices and Technology__, from ([12636.0](https://kghosh.substack.com/p/12636.0).)
+# __The Resale Revolution: Redefining Fashion Through Sustainable Practices and Technology__, (from page [20231209](https://kghosh.substack.com/p/20231209).)
 
 __[External link](https://www.digitalnative.tech/p/the-resale-revolution-fashionably)__
 

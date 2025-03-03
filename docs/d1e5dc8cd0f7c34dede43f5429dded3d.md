@@ -1,4 +1,4 @@
-# __Navigating the Climate Crisis: The Importance of Community and Social Trust in Adapting to Change__, from ([21808.0](https://kghosh.substack.com/p/21808.0).)
+# __Navigating the Climate Crisis: The Importance of Community and Social Trust in Adapting to Change__, (from page [20241110](https://kghosh.substack.com/p/20241110).)
 
 __[External link](https://billmckibben.substack.com/p/where-should-i-live)__
 

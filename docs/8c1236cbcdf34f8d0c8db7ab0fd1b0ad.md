@@ -1,4 +1,4 @@
-# __CNIL Supports Eight Innovative AI Projects to Enhance Public Services and Data Protection__, from ([6088.0](https://kghosh.substack.com/p/6088.0).)
+# __CNIL Supports Eight Innovative AI Projects to Enhance Public Services and Data Protection__, (from page [20231209](https://kghosh.substack.com/p/20231209).)
 
 __[External link](https://www.cnil.fr/en/artificial-intelligence-and-public-services-sandbox-cnil-supports-8-innovative-projects)__
 

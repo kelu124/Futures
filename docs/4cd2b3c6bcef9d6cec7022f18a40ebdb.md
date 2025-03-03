@@ -1,4 +1,4 @@
-# __The Impact of AI on Job Security and Creativity in the Video Game Industry__, from ([20766.0](https://kghosh.substack.com/p/20766.0).)
+# __The Impact of AI on Job Security and Creativity in the Video Game Industry__, (from page [20241006](https://kghosh.substack.com/p/20241006).)
 
 __[External link](https://www.wired.com/story/ai-is-already-taking-jobs-in-the-video-game-industry/?utm_medium=newsletter)__
 

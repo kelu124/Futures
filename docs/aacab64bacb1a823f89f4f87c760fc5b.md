@@ -1,4 +1,4 @@
-# __Zomato CEO's Controversial Job Ad Sparks Backlash Over Financial Privilege and Labor Issues__, from ([3489.0](https://kghosh.substack.com/p/3489.0).)
+# __Zomato CEO's Controversial Job Ad Sparks Backlash Over Financial Privilege and Labor Issues__, (from page [20241222](https://kghosh.substack.com/p/20241222).)
 
 __[External link](https://edition.cnn.com/2024/11/21/business/zomato-job-for-fee-stunt-intl-hnk/index.html?_hsmi=335465468)__
 

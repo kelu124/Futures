@@ -1,4 +1,4 @@
-# __Deb Chachra Discusses Infrastructure's Role in Society and Climate Resilience__, from ([20286.0](https://kghosh.substack.com/p/20286.0).)
+# __Deb Chachra Discusses Infrastructure's Role in Society and Climate Resilience__, (from page [20231029](https://kghosh.substack.com/p/20231029).)
 
 __[External link](https://www.scopeofwork.net/an-ode-to-living-on-the-grid/?ref=scope-of-work-newsletter&utm_source=substack&utm_medium=email)__
 

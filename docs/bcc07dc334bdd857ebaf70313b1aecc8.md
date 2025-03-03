@@ -1,4 +1,4 @@
-# __Enya Honami: Capturing the Essence of Sento Through Architectural Renderings__, from ([1835.0](https://kghosh.substack.com/p/1835.0).)
+# __Enya Honami: Capturing the Essence of Sento Through Architectural Renderings__, (from page [20240908](https://kghosh.substack.com/p/20240908).)
 
 __[External link](https://www.spoon-tamago.com/honami-enya-artwork-book/)__
 

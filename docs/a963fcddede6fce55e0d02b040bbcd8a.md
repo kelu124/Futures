@@ -1,4 +1,4 @@
-# __Exploring Long-Term Thinking and the Importance of 'Long-Term Terminology' in Society__, from ([8850.0](https://kghosh.substack.com/p/8850.0).)
+# __Exploring Long-Term Thinking and the Importance of 'Long-Term Terminology' in Society__, (from page [20230408](https://kghosh.substack.com/p/20230408).)
 
 __[External link](https://longviewer.substack.com/p/the-lexicon-of-long-terminology?utm_source=substack&utm_medium=email)__
 

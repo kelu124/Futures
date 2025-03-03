@@ -1,4 +1,4 @@
-# __Exploring the Future of the Construction Industry: Trends and Challenges for 2025__, from ([16011.0](https://kghosh.substack.com/p/16011.0).)
+# __Exploring the Future of the Construction Industry: Trends and Challenges for 2025__, (from page [20241207](https://kghosh.substack.com/p/20241207).)
 
 __[External link](https://www.epicflow.com/blog/key-technology-trends-in-the-construction-industry)__
 
