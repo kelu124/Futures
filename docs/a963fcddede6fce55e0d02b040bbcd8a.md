@@ -54,16 +54,16 @@ The Long View: A Field Guide is a newsletter centered on long-term thinking, ann
 
 ## Technologies
 
-| name                        | description                                                                                                 |   relevancy |
-|:----------------------------|:------------------------------------------------------------------------------------------------------------|------------:|
-| Long-Term Thinking          | A mindset that emphasizes the importance of considering future consequences in decision-making.             |           5 |
-| Long-Term Terminology       | New words and phrases that help articulate long-term perspectives and thinking.                             |           4 |
-| Temporal Awareness          | Awareness of how time-related biases affect decision-making and societal behavior.                          |           4 |
-| Timefulness                 | A concept that promotes an understanding of our relationship with time, encouraging long-term perspectives. |           5 |
-| Long-Mindedness             | A cognitive approach that integrates lessons from history with awareness of future impacts.                 |           5 |
-| Temporal Habits             | Patterns of thought that influence how we perceive and respond to time.                                     |           4 |
-| Collective Temporal Lexicon | A shared vocabulary that enhances communication about long-term perspectives and strategies.                |           4 |
-| Future Compassion           | The ethical consideration for future generations in present-day decision-making.                            |           5 |
+| description                                                                                                 |   relevancy | src                              |
+|:------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| A mindset that emphasizes the importance of considering future consequences in decision-making.             |           5 | a963fcddede6fce55e0d02b040bbcd8a |
+| New words and phrases that help articulate long-term perspectives and thinking.                             |           4 | a963fcddede6fce55e0d02b040bbcd8a |
+| Awareness of how time-related biases affect decision-making and societal behavior.                          |           4 | a963fcddede6fce55e0d02b040bbcd8a |
+| A concept that promotes an understanding of our relationship with time, encouraging long-term perspectives. |           5 | a963fcddede6fce55e0d02b040bbcd8a |
+| A cognitive approach that integrates lessons from history with awareness of future impacts.                 |           5 | a963fcddede6fce55e0d02b040bbcd8a |
+| Patterns of thought that influence how we perceive and respond to time.                                     |           4 | a963fcddede6fce55e0d02b040bbcd8a |
+| A shared vocabulary that enhances communication about long-term perspectives and strategies.                |           4 | a963fcddede6fce55e0d02b040bbcd8a |
+| The ethical consideration for future generations in present-day decision-making.                            |           5 | a963fcddede6fce55e0d02b040bbcd8a |
 
 ## Issues
 

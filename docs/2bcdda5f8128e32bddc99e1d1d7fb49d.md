@@ -49,9 +49,9 @@ The article discusses the process of creating chlorophyll prints, an alternative
 
 ## Technologies
 
-| name                 | description                                                                                                                           |   relevancy |
-|:---------------------|:--------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Chlorophyll Printing | A photographic printing technique using photosensitive properties of plant leaves to create contact prints through sunlight exposure. |           3 |
+| description                                                                                                                           |   relevancy | src                              |
+|:--------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| A photographic printing technique using photosensitive properties of plant leaves to create contact prints through sunlight exposure. |           3 | 2bcdda5f8128e32bddc99e1d1d7fb49d |
 
 ## Issues
 

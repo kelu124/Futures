@@ -57,13 +57,13 @@ Recent concerns have emerged regarding the misuse of AI chatbots like ChatGPT in
 
 ## Technologies
 
-| name                                  | description                                                                                                                              |   relevancy |
-|:--------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Large Language Models (LLMs)          | AI models designed to generate human-like text, increasingly used in scientific literature but prone to inaccuracies and hallucinations. |           5 |
-| Automated AI Text Detectors           | Tools developed to identify AI-generated content in academic papers, currently facing reliability issues.                                |           4 |
-| AI-Generated Scientific Diagrams      | Use of AI technology to create illustrations for academic papers, expanding the role of AI in scientific publishing.                     |           4 |
-| AI in Peer Review Processes           | The integration of AI-generated feedback and judgments in the academic peer review process, raising concerns about quality and ethics.   |           5 |
-| Data Analytics Platforms for Research | Platforms like Dimensions that track and analyze scientific literature to identify trends and AI involvement in publications.            |           4 |
+| description                                                                                                                              |   relevancy | src                              |
+|:-----------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| AI models designed to generate human-like text, increasingly used in scientific literature but prone to inaccuracies and hallucinations. |           5 | 6dd4fe4c2f8f6e8fcc6f47e7ac1641cf |
+| Tools developed to identify AI-generated content in academic papers, currently facing reliability issues.                                |           4 | 6dd4fe4c2f8f6e8fcc6f47e7ac1641cf |
+| Use of AI technology to create illustrations for academic papers, expanding the role of AI in scientific publishing.                     |           4 | 6dd4fe4c2f8f6e8fcc6f47e7ac1641cf |
+| The integration of AI-generated feedback and judgments in the academic peer review process, raising concerns about quality and ethics.   |           5 | 6dd4fe4c2f8f6e8fcc6f47e7ac1641cf |
+| Platforms like Dimensions that track and analyze scientific literature to identify trends and AI involvement in publications.            |           4 | 6dd4fe4c2f8f6e8fcc6f47e7ac1641cf |
 
 ## Issues
 

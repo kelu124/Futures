@@ -53,13 +53,13 @@ The maritime industry faces significant cyber security threats, primarily driven
 
 ## Technologies
 
-| name                                           | description                                                                                                          |   relevancy |
-|:-----------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|------------:|
-| Ransomware                                     | Malware that encrypts data demanding payment for decryption, often used opportunistically by hackers.                |           5 |
-| Stock Price Manipulation through Cyber Attacks | Exploiting cyber incidents to influence stock prices, especially through shorting stocks of affected companies.      |           4 |
-| Cyber-Physical Attacks on Maritime Vessels     | Remote control of vessel systems to disrupt operations, potentially leading to economic gain for attackers.          |           5 |
-| Insurance Exclusions for Cyber Events          | Emerging insurance clauses that exclude coverage for cyber-related incidents, impacting risk management in maritime. |           4 |
-| Cyber Security in Maritime Supply Chains       | Focus on improving cyber security protocols to protect vital supply chains and prevent economic disruptions.         |           5 |
+| description                                                                                                          |   relevancy | src                              |
+|:---------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Malware that encrypts data demanding payment for decryption, often used opportunistically by hackers.                |           5 | af7a13a1e97a8ebff3d521dabea087ce |
+| Exploiting cyber incidents to influence stock prices, especially through shorting stocks of affected companies.      |           4 | af7a13a1e97a8ebff3d521dabea087ce |
+| Remote control of vessel systems to disrupt operations, potentially leading to economic gain for attackers.          |           5 | af7a13a1e97a8ebff3d521dabea087ce |
+| Emerging insurance clauses that exclude coverage for cyber-related incidents, impacting risk management in maritime. |           4 | af7a13a1e97a8ebff3d521dabea087ce |
+| Focus on improving cyber security protocols to protect vital supply chains and prevent economic disruptions.         |           5 | af7a13a1e97a8ebff3d521dabea087ce |
 
 ## Issues
 

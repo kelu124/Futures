@@ -51,13 +51,13 @@ The report discusses the importance of strategic foresight in addressing Sweden'
 
 ## Technologies
 
-| name                       | description                                                                                                             |   relevancy |
-|:---------------------------|:------------------------------------------------------------------------------------------------------------------------|------------:|
-| Strategic Foresight        | A structured method for exploring future scenarios and identifying disruptive changes to create sustainable strategies. |           5 |
-| AI-generated Audio Reports | Utilization of AI tools to produce accessible audio formats of reports, enhancing dissemination of information.         |           4 |
-| Futures Literacy Education | Investing in education to improve understanding and skills in anticipating future challenges and opportunities.         |           4 |
-| Horizon Scanning Systems   | Developing systems for continuous monitoring of trends and scenarios to anticipate changes.                             |           5 |
-| Cross-sector Cooperation   | Strengthening collaboration between different sectors to tackle common challenges and enhance innovation.               |           4 |
+| description                                                                                                             |   relevancy | src                              |
+|:------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| A structured method for exploring future scenarios and identifying disruptive changes to create sustainable strategies. |           5 | 01c2906255ffdf1e882991405f1d2f9b |
+| Utilization of AI tools to produce accessible audio formats of reports, enhancing dissemination of information.         |           4 | 01c2906255ffdf1e882991405f1d2f9b |
+| Investing in education to improve understanding and skills in anticipating future challenges and opportunities.         |           4 | 01c2906255ffdf1e882991405f1d2f9b |
+| Developing systems for continuous monitoring of trends and scenarios to anticipate changes.                             |           5 | 01c2906255ffdf1e882991405f1d2f9b |
+| Strengthening collaboration between different sectors to tackle common challenges and enhance innovation.               |           4 | 01c2906255ffdf1e882991405f1d2f9b |
 
 ## Issues
 

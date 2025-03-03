@@ -55,13 +55,13 @@ Tens of thousands protested against the far right in Germany, with slogans like 
 
 ## Technologies
 
-| name                                            | description                                                                                                                                    |   relevancy |
-|:------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Protest Mobilization Platforms                  | Technologies or applications that facilitate large-scale protest organization and mobilization through social media and digital communication. |           5 |
-| Real-Time Crowd Monitoring Systems              | Technologies that enable live monitoring of crowd size and movement to enhance safety during large gatherings.                                 |           4 |
-| Disinformation Detection Tools                  | Emerging tools designed to identify and counter misinformation related to social and political movements.                                      |           4 |
-| Digital Voting Systems for Political Engagement | Secure digital platforms that allow citizens to participate in political processes, including voting on party bans or policies.                |           3 |
-| Social Sentiment Analysis Tools                 | AI tools that analyze public sentiment in real-time, potentially influencing political responses to social movements.                          |           4 |
+| description                                                                                                                                    |   relevancy | src                              |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Technologies or applications that facilitate large-scale protest organization and mobilization through social media and digital communication. |           5 | ad4e4b6e0af0a3d18fca1ff8628bfa3d |
+| Technologies that enable live monitoring of crowd size and movement to enhance safety during large gatherings.                                 |           4 | ad4e4b6e0af0a3d18fca1ff8628bfa3d |
+| Emerging tools designed to identify and counter misinformation related to social and political movements.                                      |           4 | ad4e4b6e0af0a3d18fca1ff8628bfa3d |
+| Secure digital platforms that allow citizens to participate in political processes, including voting on party bans or policies.                |           3 | ad4e4b6e0af0a3d18fca1ff8628bfa3d |
+| AI tools that analyze public sentiment in real-time, potentially influencing political responses to social movements.                          |           4 | ad4e4b6e0af0a3d18fca1ff8628bfa3d |
 
 ## Issues
 

@@ -62,13 +62,13 @@ The rise of artificial intelligence (AI) in the video game industry has sparked 
 
 ## Technologies
 
-| name                              | description                                                                                                                         |   relevancy |
-|:----------------------------------|:------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Generative AI                     | AI systems capable of creating content such as images, text, and music, with applications in various industries including gaming.   |           5 |
-| Large Language Models (LLMs)      | AI models trained on vast amounts of text data to understand and generate human-like text, influencing game design and development. |           4 |
-| AI-powered Game Development Tools | Tools that integrate AI to assist in game design, including generating storyboards, character designs, and animations.              |           5 |
-| Automated Game Studios            | Studios that utilize AI to operate with minimal human input, allowing for rapid game development through AI-generated content.      |           4 |
-| AI Training Systems               | Systems that train AI models using existing artistic works to automate the creation of game art and assets.                         |           4 |
+| description                                                                                                                         |   relevancy | src                              |
+|:------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| AI systems capable of creating content such as images, text, and music, with applications in various industries including gaming.   |           5 | 4cd2b3c6bcef9d6cec7022f18a40ebdb |
+| AI models trained on vast amounts of text data to understand and generate human-like text, influencing game design and development. |           4 | 4cd2b3c6bcef9d6cec7022f18a40ebdb |
+| Tools that integrate AI to assist in game design, including generating storyboards, character designs, and animations.              |           5 | 4cd2b3c6bcef9d6cec7022f18a40ebdb |
+| Studios that utilize AI to operate with minimal human input, allowing for rapid game development through AI-generated content.      |           4 | 4cd2b3c6bcef9d6cec7022f18a40ebdb |
+| Systems that train AI models using existing artistic works to automate the creation of game art and assets.                         |           4 | 4cd2b3c6bcef9d6cec7022f18a40ebdb |
 
 ## Issues
 

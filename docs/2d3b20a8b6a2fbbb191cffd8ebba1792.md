@@ -54,13 +54,13 @@ The legal profession faces renewed scrutiny as advances in artificial intelligen
 
 ## Technologies
 
-| name                                      | description                                                                                                                         |   relevancy |
-|:------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Artificial Intelligence in Legal Services | AI technologies like ChatGPT are being integrated into legal work to assist with document review, drafting, and research.           |           5 |
-| Large Language Models                     | Advanced AI models that can understand and generate human-like text, significantly impacting legal documentation and communication. |           5 |
-| Legal Tech Startups                       | Companies like Casetext and Harvey are developing tailored AI software for legal professionals to enhance productivity.             |           4 |
-| AI-Driven Document Analysis               | Software that can quickly review vast amounts of legal documents, summarizing key points and identifying gaps.                      |           4 |
-| AI in Legal Research                      | AI tools that assist lawyers in legal research by generating relevant questions and summaries based on provided documents.          |           4 |
+| description                                                                                                                         |   relevancy | src                              |
+|:------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| AI technologies like ChatGPT are being integrated into legal work to assist with document review, drafting, and research.           |           5 | 2d3b20a8b6a2fbbb191cffd8ebba1792 |
+| Advanced AI models that can understand and generate human-like text, significantly impacting legal documentation and communication. |           5 | 2d3b20a8b6a2fbbb191cffd8ebba1792 |
+| Companies like Casetext and Harvey are developing tailored AI software for legal professionals to enhance productivity.             |           4 | 2d3b20a8b6a2fbbb191cffd8ebba1792 |
+| Software that can quickly review vast amounts of legal documents, summarizing key points and identifying gaps.                      |           4 | 2d3b20a8b6a2fbbb191cffd8ebba1792 |
+| AI tools that assist lawyers in legal research by generating relevant questions and summaries based on provided documents.          |           4 | 2d3b20a8b6a2fbbb191cffd8ebba1792 |
 
 ## Issues
 

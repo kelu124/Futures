@@ -54,14 +54,14 @@ The article discusses the emotional impact of technology in grief, particularly 
 
 ## Technologies
 
-| name                                  | description                                                                                              |   relevancy |
-|:--------------------------------------|:---------------------------------------------------------------------------------------------------------|------------:|
-| Virtual Reality (VR)                  | Digital re-creations of deceased individuals for immersive experiences of connection and goodbye.        |           5 |
-| Artificial Intelligence (AI) Chatbots | Chatbots created from the digital footprints of deceased individuals to interact with loved ones.        |           5 |
-| Digital Personas                      | Platforms that create digital representations of deceased individuals based on their online data.        |           5 |
-| Voice Replication Technology          | Technology allowing virtual assistants to emulate the voices of deceased loved ones based on recordings. |           4 |
-| Augmented Eternity                    | A platform for creating digital personas that can engage with relatives posthumously.                    |           5 |
-| Grief Therapy Technologies            | Digital tools aimed at helping individuals cope with loss through interaction with virtual recreations.  |           4 |
+| description                                                                                              |   relevancy | src                              |
+|:---------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Digital re-creations of deceased individuals for immersive experiences of connection and goodbye.        |           5 | f97f969e4aadfbae3dee287de4ab721d |
+| Chatbots created from the digital footprints of deceased individuals to interact with loved ones.        |           5 | f97f969e4aadfbae3dee287de4ab721d |
+| Platforms that create digital representations of deceased individuals based on their online data.        |           5 | f97f969e4aadfbae3dee287de4ab721d |
+| Technology allowing virtual assistants to emulate the voices of deceased loved ones based on recordings. |           4 | f97f969e4aadfbae3dee287de4ab721d |
+| A platform for creating digital personas that can engage with relatives posthumously.                    |           5 | f97f969e4aadfbae3dee287de4ab721d |
+| Digital tools aimed at helping individuals cope with loss through interaction with virtual recreations.  |           4 | f97f969e4aadfbae3dee287de4ab721d |
 
 ## Issues
 

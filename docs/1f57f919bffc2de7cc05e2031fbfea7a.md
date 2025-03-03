@@ -49,10 +49,10 @@ The article discusses the importance of knowing when to say no, especially for c
 
 ## Technologies
 
-| name                               | description                                                                                                                   |   relevancy |
-|:-----------------------------------|:------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Creative Genius Concept            | A framework suggesting that creative individuals must prioritize their time by saying no to requests to enhance productivity. |           3 |
-| Generosity vs. Selfishness Balance | The idea of balancing generosity with self-care to maintain productivity in creative endeavors.                               |           4 |
+| description                                                                                                                   |   relevancy | src                              |
+|:------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| A framework suggesting that creative individuals must prioritize their time by saying no to requests to enhance productivity. |           3 | 1f57f919bffc2de7cc05e2031fbfea7a |
+| The idea of balancing generosity with self-care to maintain productivity in creative endeavors.                               |           4 | 1f57f919bffc2de7cc05e2031fbfea7a |
 
 ## Issues
 

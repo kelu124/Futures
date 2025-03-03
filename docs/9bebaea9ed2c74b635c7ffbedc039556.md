@@ -53,13 +53,13 @@ A study published in Nature Communications warns that the risks of simultaneous 
 
 ## Technologies
 
-| name                               | description                                                                                                                                            |   relevancy |
-|:-----------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Advanced Climate Models            | Models that incorporate complex interactions of climate variables and their impact on food systems, providing better risk assessments for agriculture. |           5 |
-| Jet Stream Analysis Technologies   | Technologies designed to study and predict the behavior of jet streams and their effects on weather patterns crucial for agriculture.                  |           4 |
-| Food Security Monitoring Systems   | Systems that monitor global food production and risks, aiming to predict and mitigate food insecurity due to climate change.                           |           5 |
-| Sustainable Agricultural Practices | Innovative farming practices that adapt to changing climate conditions to ensure food security and reduce emissions.                                   |           4 |
-| Climate Resilient Crop Varieties   | Development of crop varieties that can withstand extreme weather events and changing climate conditions, ensuring stable yields.                       |           5 |
+| description                                                                                                                                            |   relevancy | src                              |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Models that incorporate complex interactions of climate variables and their impact on food systems, providing better risk assessments for agriculture. |           5 | 9bebaea9ed2c74b635c7ffbedc039556 |
+| Technologies designed to study and predict the behavior of jet streams and their effects on weather patterns crucial for agriculture.                  |           4 | 9bebaea9ed2c74b635c7ffbedc039556 |
+| Systems that monitor global food production and risks, aiming to predict and mitigate food insecurity due to climate change.                           |           5 | 9bebaea9ed2c74b635c7ffbedc039556 |
+| Innovative farming practices that adapt to changing climate conditions to ensure food security and reduce emissions.                                   |           4 | 9bebaea9ed2c74b635c7ffbedc039556 |
+| Development of crop varieties that can withstand extreme weather events and changing climate conditions, ensuring stable yields.                       |           5 | 9bebaea9ed2c74b635c7ffbedc039556 |
 
 ## Issues
 

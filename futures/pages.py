@@ -36,12 +36,13 @@ class PagesWriter:
 
         signals = signals[signals.src.isin(articles)]
         metatags = metatags[metatags.src.isin(articles)]
-        vectordb = self.db.vectordb
-        print("- vectordb:",len(vectordb.get()["ids"]),"elements stored.")
-        LSDOCS = vectordb.get()["documents"]
-        # @TODO : add metatags for distance
+
         metatags["closest"] = ""
         if longtest:
+            vectordb = self.db.vectordb
+            print("- vectordb:",len(vectordb.get()["ids"]),"elements stored.")
+            LSDOCS = vectordb.get()["documents"]
+            # @TODO : add metatags for distance
             metatags["closest"] = metatags["summary"].apply(\
                 lambda x: self.db.getClosest(vectordb, x))
             metatags.reset_index(drop=True).to_parquet(self.srcMetaProximities, compression="gzip")

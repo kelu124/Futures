@@ -60,17 +60,17 @@ The HydraUSB3 V1 is an open-source developer kit designed for the WCH CH569 MCU,
 
 ## Technologies
 
-| name                                 | description                                                                                                               |   relevancy |
-|:-------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|------------:|
-| HydraUSB3 V1                         | An open-source developer kit for the WCH CH569 MCU, facilitating high-speed data transfer using USB3 and other protocols. |           4 |
-| USB3 SS and USB2 PHY                 | High-speed data transfer capabilities with built-in PHY for both USB3 (5Gbps) and USB2 (480Mbps).                         |           5 |
-| High Speed Parallel Interface (HSPI) | Allows up to 3.8Gbps data transfer using a bidirectional parallel bus.                                                    |           4 |
-| SerDes                               | Serializer/Deserializer technology enabling high-speed data transfer, officially up to 1.20Gbps.                          |           4 |
-| Embedded Flash Memory (WCH CH569W)   | Embedded Flash memory technology in a RISC-V MCU for efficient data storage and processing.                               |           4 |
-| RISC-V Architecture                  | A free and open ISA (Instruction Set Architecture) for microprocessors, promoting innovation and customization.           |           5 |
-| Open Source Test Firmware            | Fully open source firmware supporting high-speed data exchange and real-time streaming over various interfaces.           |           5 |
-| eMMC Controller                      | Embedded MultiMediaCard controller for high-speed data storage, compliant with modern eMMC specifications.                |           4 |
-| Gigabit Ethernet Controller          | Controller supporting high-speed Ethernet connectivity, facilitating data transfer rates of up to 1Gbps.                  |           4 |
+| description                                                                                                               |   relevancy | src                              |
+|:--------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| An open-source developer kit for the WCH CH569 MCU, facilitating high-speed data transfer using USB3 and other protocols. |           4 | 0fbb6c3fbc914e5e65bc6e67bd425edd |
+| High-speed data transfer capabilities with built-in PHY for both USB3 (5Gbps) and USB2 (480Mbps).                         |           5 | 0fbb6c3fbc914e5e65bc6e67bd425edd |
+| Allows up to 3.8Gbps data transfer using a bidirectional parallel bus.                                                    |           4 | 0fbb6c3fbc914e5e65bc6e67bd425edd |
+| Serializer/Deserializer technology enabling high-speed data transfer, officially up to 1.20Gbps.                          |           4 | 0fbb6c3fbc914e5e65bc6e67bd425edd |
+| Embedded Flash memory technology in a RISC-V MCU for efficient data storage and processing.                               |           4 | 0fbb6c3fbc914e5e65bc6e67bd425edd |
+| A free and open ISA (Instruction Set Architecture) for microprocessors, promoting innovation and customization.           |           5 | 0fbb6c3fbc914e5e65bc6e67bd425edd |
+| Fully open source firmware supporting high-speed data exchange and real-time streaming over various interfaces.           |           5 | 0fbb6c3fbc914e5e65bc6e67bd425edd |
+| Embedded MultiMediaCard controller for high-speed data storage, compliant with modern eMMC specifications.                |           4 | 0fbb6c3fbc914e5e65bc6e67bd425edd |
+| Controller supporting high-speed Ethernet connectivity, facilitating data transfer rates of up to 1Gbps.                  |           4 | 0fbb6c3fbc914e5e65bc6e67bd425edd |
 
 ## Issues
 

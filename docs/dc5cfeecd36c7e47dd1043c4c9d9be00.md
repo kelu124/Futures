@@ -58,12 +58,12 @@ A U.S. Air Force F-22 Raptor shot down an unidentified object over Canada, which
 
 ## Technologies
 
-| name                             | description                                                                                                         |   relevancy |
-|:---------------------------------|:--------------------------------------------------------------------------------------------------------------------|------------:|
-| Pico Balloons                    | Small, antenna-and-tracker-equipped balloons for high-altitude circumnavigation, costing less than $200 to build.   |           4 |
-| High-Altitude Balloon Technology | Emerging technology for launching and tracking balloons that can operate at altitudes above 43,000 ft.              |           4 |
-| Solar-Powered Tracking Systems   | Use of solar panels in pico balloons to power GPS and transmission systems for real-time location updates.          |           3 |
-| Software-Defined Radio (SDR)     | Flexible radio communication technology that allows for a variety of signal processing and transmission techniques. |           3 |
+| description                                                                                                         |   relevancy | src                              |
+|:--------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Small, antenna-and-tracker-equipped balloons for high-altitude circumnavigation, costing less than $200 to build.   |           4 | dc5cfeecd36c7e47dd1043c4c9d9be00 |
+| Emerging technology for launching and tracking balloons that can operate at altitudes above 43,000 ft.              |           4 | dc5cfeecd36c7e47dd1043c4c9d9be00 |
+| Use of solar panels in pico balloons to power GPS and transmission systems for real-time location updates.          |           3 | dc5cfeecd36c7e47dd1043c4c9d9be00 |
+| Flexible radio communication technology that allows for a variety of signal processing and transmission techniques. |           3 | dc5cfeecd36c7e47dd1043c4c9d9be00 |
 
 ## Issues
 

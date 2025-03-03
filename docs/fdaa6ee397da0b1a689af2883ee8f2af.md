@@ -55,13 +55,13 @@ Voice actors are facing pressure to surrender rights to their voices for use in 
 
 ## Technologies
 
-| name                                     | description                                                                                                                                        |   relevancy |
-|:-----------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Voice-Generating Artificial Intelligence | AI technology that synthesizes human voices for various applications, raising concerns about job displacement in the voice acting industry.        |           5 |
-| Synthetic Voice Cloning                  | The ability to create accurate replicas of human voices using AI, potentially without consent, impacting privacy and intellectual property rights. |           5 |
-| AI in Multimedia Production              | The integration of AI-generated voices in gaming, movies, and audiobooks, changing the landscape of content creation.                              |           4 |
-| Automated Voice Performance Generation   | Technology that allows users to input text and have it read in a synthetic voice, enabling low-cost production of audio content.                   |           4 |
-| AI-Driven Voice Licensing                | Emerging models where voice actors may license their voices for AI-generated content, creating new revenue streams and ethical dilemmas.           |           3 |
+| description                                                                                                                                        |   relevancy | src                              |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| AI technology that synthesizes human voices for various applications, raising concerns about job displacement in the voice acting industry.        |           5 | fdaa6ee397da0b1a689af2883ee8f2af |
+| The ability to create accurate replicas of human voices using AI, potentially without consent, impacting privacy and intellectual property rights. |           5 | fdaa6ee397da0b1a689af2883ee8f2af |
+| The integration of AI-generated voices in gaming, movies, and audiobooks, changing the landscape of content creation.                              |           4 | fdaa6ee397da0b1a689af2883ee8f2af |
+| Technology that allows users to input text and have it read in a synthetic voice, enabling low-cost production of audio content.                   |           4 | fdaa6ee397da0b1a689af2883ee8f2af |
+| Emerging models where voice actors may license their voices for AI-generated content, creating new revenue streams and ethical dilemmas.           |           3 | fdaa6ee397da0b1a689af2883ee8f2af |
 
 ## Issues
 

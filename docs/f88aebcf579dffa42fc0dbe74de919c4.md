@@ -56,14 +56,14 @@ The US Department of Defense (DoD) has released an unclassified summary of its 2
 
 ## Technologies
 
-| name                                      | description                                                                                                                  |   relevancy |
-|:------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|------------:|
-| Cyber Operations Forces Optimization      | Enhancing the organization, training, and equipping of cyberspace operations forces for improved defense capabilities.       |           5 |
-| Cybersecurity Infrastructure Augmentation | Improving the cybersecurity infrastructure of partners to enhance collective resilience against cyber threats.               |           5 |
-| Bug Bounty Programs                       | Initiatives like 'Hack the Pentagon' to recruit security researchers and improve cybersecurity through community engagement. |           4 |
-| Intelligent Cyber Threat Intelligence     | Utilizing timely and actionable intelligence to support cyberspace operations and enhance defensive strategies.              |           4 |
-| Cyber Workforce Development               | Investing in education, training, and knowledge development for personnel in cybersecurity roles.                            |           5 |
-| Asymmetric Advantage Generation           | Leveraging cyberspace operations to gain advantages over adversaries, particularly in military contexts.                     |           5 |
+| description                                                                                                                  |   relevancy | src                              |
+|:-----------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Enhancing the organization, training, and equipping of cyberspace operations forces for improved defense capabilities.       |           5 | f88aebcf579dffa42fc0dbe74de919c4 |
+| Improving the cybersecurity infrastructure of partners to enhance collective resilience against cyber threats.               |           5 | f88aebcf579dffa42fc0dbe74de919c4 |
+| Initiatives like 'Hack the Pentagon' to recruit security researchers and improve cybersecurity through community engagement. |           4 | f88aebcf579dffa42fc0dbe74de919c4 |
+| Utilizing timely and actionable intelligence to support cyberspace operations and enhance defensive strategies.              |           4 | f88aebcf579dffa42fc0dbe74de919c4 |
+| Investing in education, training, and knowledge development for personnel in cybersecurity roles.                            |           5 | f88aebcf579dffa42fc0dbe74de919c4 |
+| Leveraging cyberspace operations to gain advantages over adversaries, particularly in military contexts.                     |           5 | f88aebcf579dffa42fc0dbe74de919c4 |
 
 ## Issues
 

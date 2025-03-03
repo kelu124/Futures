@@ -51,12 +51,12 @@ In 1965, U.S. Secretary of Labor W. Willard Wirtz initiated a program called A-T
 
 ## Technologies
 
-| name                               | description                                                                                                                                                              |   relevancy |
-|:-----------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| A-TEAM Program                     | A government initiative aimed at recruiting high school students to replace migrant farmworkers during labor shortages in the 1960s.                                     |           3 |
-| Labor Market Adaptation Strategies | Innovative approaches to adapt labor markets in response to shortages and social issues, as seen in historical attempts to recruit American youth for agricultural work. |           4 |
-| Youth Employment Schemes           | Programs designed to engage high school students in temporary employment to fill labor gaps, particularly in agriculture.                                                |           3 |
-| Agricultural Automation            | Emerging technology to automate agricultural tasks, potentially reducing reliance on manual labor from migrants.                                                         |           4 |
+| description                                                                                                                                                              |   relevancy | src                              |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| A government initiative aimed at recruiting high school students to replace migrant farmworkers during labor shortages in the 1960s.                                     |           3 | 8edb48beeae0e6605e0a1f453db7ccb0 |
+| Innovative approaches to adapt labor markets in response to shortages and social issues, as seen in historical attempts to recruit American youth for agricultural work. |           4 | 8edb48beeae0e6605e0a1f453db7ccb0 |
+| Programs designed to engage high school students in temporary employment to fill labor gaps, particularly in agriculture.                                                |           3 | 8edb48beeae0e6605e0a1f453db7ccb0 |
+| Emerging technology to automate agricultural tasks, potentially reducing reliance on manual labor from migrants.                                                         |           4 | 8edb48beeae0e6605e0a1f453db7ccb0 |
 
 ## Issues
 

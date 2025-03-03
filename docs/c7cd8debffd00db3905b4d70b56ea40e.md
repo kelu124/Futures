@@ -55,13 +55,13 @@ The narrative recounts the author's struggle with lupus, leading to severe brain
 
 ## Technologies
 
-| name                                          | description                                                                                                          |   relevancy |
-|:----------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|------------:|
-| Neuroscience Research on Time Perception      | Studies investigating how the brain processes the concept of time, including neural mechanisms and memory formation. |           5 |
-| Therapeutic Use of Rhythmic Interventions     | Utilizing rhythmic cueing and drumming as therapeutic methods to aid recovery in neuropsychiatric conditions.        |           4 |
-| Meta-analysis of Neuroimaging Techniques      | Utilizing MRIs and PET scans to study brain function and collaboration in processing complex cognitive tasks.        |           4 |
-| Neuroplasticity in Recovery from Brain Trauma | Research on how the brain adapts and reorganizes itself following injury, influencing recovery methods.              |           5 |
-| Episodic Memory Formation                     | Exploration of how memories are formed and influence our perception of time.                                         |           4 |
+| description                                                                                                          |   relevancy | src                              |
+|:---------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Studies investigating how the brain processes the concept of time, including neural mechanisms and memory formation. |           5 | c7cd8debffd00db3905b4d70b56ea40e |
+| Utilizing rhythmic cueing and drumming as therapeutic methods to aid recovery in neuropsychiatric conditions.        |           4 | c7cd8debffd00db3905b4d70b56ea40e |
+| Utilizing MRIs and PET scans to study brain function and collaboration in processing complex cognitive tasks.        |           4 | c7cd8debffd00db3905b4d70b56ea40e |
+| Research on how the brain adapts and reorganizes itself following injury, influencing recovery methods.              |           5 | c7cd8debffd00db3905b4d70b56ea40e |
+| Exploration of how memories are formed and influence our perception of time.                                         |           4 | c7cd8debffd00db3905b4d70b56ea40e |
 
 ## Issues
 

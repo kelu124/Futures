@@ -60,13 +60,13 @@ Zomato CEO Deepinder Goyal's unconventional job ad for a chief of staff sparked 
 
 ## Technologies
 
-| name                     | description                                                                                                               |   relevancy |
-|:-------------------------|:--------------------------------------------------------------------------------------------------------------------------|------------:|
-| Gig Economy Apps         | Applications facilitating short-term, flexible jobs, often without minimum wage policies, impacting employment practices. |           4 |
-| Social Media Recruitment | Using social media platforms to recruit for roles, demonstrating new trends in hiring practices.                          |           3 |
-| Unpaid Internship Models | The practice of offering unpaid internships, which raises ethical and legal questions in various contexts.                |           4 |
-| NGO-Linked Employment    | Job roles linked with NGOs, highlighting a trend where employment opportunities are tied to social causes.                |           3 |
-| Digital Public Relations | Engagement with the public through digital platforms, influencing brand image and job perceptions.                        |           3 |
+| description                                                                                                               |   relevancy | src                              |
+|:--------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Applications facilitating short-term, flexible jobs, often without minimum wage policies, impacting employment practices. |           4 | aacab64bacb1a823f89f4f87c760fc5b |
+| Using social media platforms to recruit for roles, demonstrating new trends in hiring practices.                          |           3 | aacab64bacb1a823f89f4f87c760fc5b |
+| The practice of offering unpaid internships, which raises ethical and legal questions in various contexts.                |           4 | aacab64bacb1a823f89f4f87c760fc5b |
+| Job roles linked with NGOs, highlighting a trend where employment opportunities are tied to social causes.                |           3 | aacab64bacb1a823f89f4f87c760fc5b |
+| Engagement with the public through digital platforms, influencing brand image and job perceptions.                        |           3 | aacab64bacb1a823f89f4f87c760fc5b |
 
 ## Issues
 

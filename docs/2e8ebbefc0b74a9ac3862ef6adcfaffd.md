@@ -52,13 +52,13 @@ The EU's proposed Cyber Resilience Act (CRA) aims to enhance software security b
 
 ## Technologies
 
-| name                            | description                                                                                                                                                       |   relevancy |
-|:--------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Cybersecurity Frameworks        | Best practices for ensuring software security throughout its lifecycle, including transparency and secure usage for consumers.                                    |           4 |
-| Open Source Software Regulation | Legal frameworks aimed at governing the development and deployment of open source software, potentially impacting its availability and security.                  |           5 |
-| Software Supply Chain Security  | Practices and technologies to secure the software supply chain against vulnerabilities and attacks, like those seen in high-profile incidents.                    |           4 |
-| AI in Software Development      | Utilizing artificial intelligence to assist in software development processes, including vulnerability detection and code generation.                             |           3 |
-| Geo-blocking Technology         | Technological measures that restrict access to online content based on the user's geographical location, potentially affecting open source software distribution. |           3 |
+| description                                                                                                                                                       |   relevancy | src                              |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Best practices for ensuring software security throughout its lifecycle, including transparency and secure usage for consumers.                                    |           4 | 2e8ebbefc0b74a9ac3862ef6adcfaffd |
+| Legal frameworks aimed at governing the development and deployment of open source software, potentially impacting its availability and security.                  |           5 | 2e8ebbefc0b74a9ac3862ef6adcfaffd |
+| Practices and technologies to secure the software supply chain against vulnerabilities and attacks, like those seen in high-profile incidents.                    |           4 | 2e8ebbefc0b74a9ac3862ef6adcfaffd |
+| Utilizing artificial intelligence to assist in software development processes, including vulnerability detection and code generation.                             |           3 | 2e8ebbefc0b74a9ac3862ef6adcfaffd |
+| Technological measures that restrict access to online content based on the user's geographical location, potentially affecting open source software distribution. |           3 | 2e8ebbefc0b74a9ac3862ef6adcfaffd |
 
 ## Issues
 

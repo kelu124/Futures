@@ -54,13 +54,13 @@ The Alaska Department of Fish and Game has canceled the winter snow crab season 
 
 ## Technologies
 
-| name                            | description                                                                                 |   relevancy |
-|:--------------------------------|:--------------------------------------------------------------------------------------------|------------:|
-| Climate Monitoring Technologies | Advanced systems and tools for monitoring climate change effects on marine ecosystems.      |           5 |
-| Fisheries Management Software   | Innovative software solutions to manage and track fish populations and health in real-time. |           4 |
-| Oceanographic Research Tools    | Cutting-edge instruments for studying ocean conditions and their impact on marine life.     |           4 |
-| Disease Detection Technologies  | Emerging technologies for early detection of diseases affecting marine species.             |           4 |
-| Sustainable Fishing Practices   | New methods aimed at reducing environmental impact while maintaining fish populations.      |           5 |
+| description                                                                                 |   relevancy | src                              |
+|:--------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Advanced systems and tools for monitoring climate change effects on marine ecosystems.      |           5 | 7e83f7bbd34b9f20b0dbd61cdbb0dcdf |
+| Innovative software solutions to manage and track fish populations and health in real-time. |           4 | 7e83f7bbd34b9f20b0dbd61cdbb0dcdf |
+| Cutting-edge instruments for studying ocean conditions and their impact on marine life.     |           4 | 7e83f7bbd34b9f20b0dbd61cdbb0dcdf |
+| Emerging technologies for early detection of diseases affecting marine species.             |           4 | 7e83f7bbd34b9f20b0dbd61cdbb0dcdf |
+| New methods aimed at reducing environmental impact while maintaining fish populations.      |           5 | 7e83f7bbd34b9f20b0dbd61cdbb0dcdf |
 
 ## Issues
 

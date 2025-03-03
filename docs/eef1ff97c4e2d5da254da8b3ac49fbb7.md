@@ -63,16 +63,16 @@ The construction industry is set to undergo significant changes by 2025, driven 
 
 ## Technologies
 
-| name                                | description                                                                                                                    |   relevancy |
-|:------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Additive Manufacturing              | 3D printing in construction allows for layer-by-layer creation of structures, minimizing project timelines and material waste. |           5 |
-| Construction Drones                 | Drones provide real-time imaging and data collection to identify construction site problems and enhance planning accuracy.     |           5 |
-| Building Information Modeling (BIM) | BIM software creates detailed 3D models for better project visualization and error detection in construction design.           |           5 |
-| Connected Construction Sites        | A network of devices and sensors that enhance communication, safety, and efficiency in construction processes.                 |           4 |
-| Robotics and Automation             | Utilization of robots to streamline construction tasks, reduce labor costs, and improve safety and project timelines.          |           5 |
-| Digital Twin                        | Digital replicas of physical structures for better planning, safety, and collaboration in construction projects.               |           5 |
-| Generative AI                       | AI applications in construction for design automation, compliance checking, and site optimization.                             |           5 |
-| Modular Construction                | Building structures offsite and transporting them for assembly to reduce lead times and material waste.                        |           4 |
+| description                                                                                                                    |   relevancy | src                              |
+|:-------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| 3D printing in construction allows for layer-by-layer creation of structures, minimizing project timelines and material waste. |           5 | eef1ff97c4e2d5da254da8b3ac49fbb7 |
+| Drones provide real-time imaging and data collection to identify construction site problems and enhance planning accuracy.     |           5 | eef1ff97c4e2d5da254da8b3ac49fbb7 |
+| BIM software creates detailed 3D models for better project visualization and error detection in construction design.           |           5 | eef1ff97c4e2d5da254da8b3ac49fbb7 |
+| A network of devices and sensors that enhance communication, safety, and efficiency in construction processes.                 |           4 | eef1ff97c4e2d5da254da8b3ac49fbb7 |
+| Utilization of robots to streamline construction tasks, reduce labor costs, and improve safety and project timelines.          |           5 | eef1ff97c4e2d5da254da8b3ac49fbb7 |
+| Digital replicas of physical structures for better planning, safety, and collaboration in construction projects.               |           5 | eef1ff97c4e2d5da254da8b3ac49fbb7 |
+| AI applications in construction for design automation, compliance checking, and site optimization.                             |           5 | eef1ff97c4e2d5da254da8b3ac49fbb7 |
+| Building structures offsite and transporting them for assembly to reduce lead times and material waste.                        |           4 | eef1ff97c4e2d5da254da8b3ac49fbb7 |
 
 ## Issues
 

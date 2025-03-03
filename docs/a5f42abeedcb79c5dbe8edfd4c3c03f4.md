@@ -51,13 +51,13 @@ Public libraries are evolving into coworking spaces, offering amenities and a co
 
 ## Technologies
 
-| name                               | description                                                                                                 |   relevancy |
-|:-----------------------------------|:------------------------------------------------------------------------------------------------------------|------------:|
-| Public Library Coworking Spaces    | Transforming public libraries into coworking hubs with amenities for remote workers and entrepreneurs.      |           4 |
-| Drive-Up Internet Access           | Providing internet access from library parking lots to support individuals without home broadband.          |           5 |
-| Community-Centric Library Programs | Libraries partnering with organizations like Google to enhance services and amenities for local businesses. |           4 |
-| Library Upgrades for Remote Work   | Investing in business centers, recording studios, and meeting rooms to facilitate remote work.              |           4 |
-| Café Integration in Libraries      | Opening coffee shops within libraries to create a more inviting and functional space for users.             |           3 |
+| description                                                                                                 |   relevancy | src                              |
+|:------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Transforming public libraries into coworking hubs with amenities for remote workers and entrepreneurs.      |           4 | a5f42abeedcb79c5dbe8edfd4c3c03f4 |
+| Providing internet access from library parking lots to support individuals without home broadband.          |           5 | a5f42abeedcb79c5dbe8edfd4c3c03f4 |
+| Libraries partnering with organizations like Google to enhance services and amenities for local businesses. |           4 | a5f42abeedcb79c5dbe8edfd4c3c03f4 |
+| Investing in business centers, recording studios, and meeting rooms to facilitate remote work.              |           4 | a5f42abeedcb79c5dbe8edfd4c3c03f4 |
+| Opening coffee shops within libraries to create a more inviting and functional space for users.             |           3 | a5f42abeedcb79c5dbe8edfd4c3c03f4 |
 
 ## Issues
 

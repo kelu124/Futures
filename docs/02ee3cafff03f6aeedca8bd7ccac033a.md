@@ -54,15 +54,15 @@ The narrative surrounding brand publishing versus traditional media is evolving,
 
 ## Technologies
 
-| name                           | description                                                                                                                                      |   relevancy |
-|:-------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Brand Publishing               | Brands creating content and media to engage audiences directly, blurring the lines between traditional media and marketing.                      |           4 |
-| In-house Content Teams         | Financial institutions establishing editorial teams to produce content for both internal and external audiences, enhancing engagement and trust. |           4 |
-| Content as a Service           | Using published content to enhance customer relationships and provide additional value in competitive markets.                                   |           5 |
-| Data-driven Storytelling       | Leveraging analytical insights to create compelling narratives that resonate with targeted audiences.                                            |           4 |
-| Acquisition of Media Platforms | Financial institutions acquiring media companies to bolster their content strategy and customer engagement.                                      |           4 |
-| Thought Leadership Content     | Content aimed at establishing authority and trust among consumers and employees, particularly in financial services.                             |           5 |
-| Internal Publishing Strategies | Using editorial strategies internally to drive engagement among employees and enhance organizational communication.                              |           3 |
+| description                                                                                                                                      |   relevancy | src                              |
+|:-------------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Brands creating content and media to engage audiences directly, blurring the lines between traditional media and marketing.                      |           4 | 02ee3cafff03f6aeedca8bd7ccac033a |
+| Financial institutions establishing editorial teams to produce content for both internal and external audiences, enhancing engagement and trust. |           4 | 02ee3cafff03f6aeedca8bd7ccac033a |
+| Using published content to enhance customer relationships and provide additional value in competitive markets.                                   |           5 | 02ee3cafff03f6aeedca8bd7ccac033a |
+| Leveraging analytical insights to create compelling narratives that resonate with targeted audiences.                                            |           4 | 02ee3cafff03f6aeedca8bd7ccac033a |
+| Financial institutions acquiring media companies to bolster their content strategy and customer engagement.                                      |           4 | 02ee3cafff03f6aeedca8bd7ccac033a |
+| Content aimed at establishing authority and trust among consumers and employees, particularly in financial services.                             |           5 | 02ee3cafff03f6aeedca8bd7ccac033a |
+| Using editorial strategies internally to drive engagement among employees and enhance organizational communication.                              |           3 | 02ee3cafff03f6aeedca8bd7ccac033a |
 
 ## Issues
 

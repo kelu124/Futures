@@ -53,13 +53,13 @@ The text discusses the benefits of using RSS readers as a means to improve one's
 
 ## Technologies
 
-| name                                                     | description                                                                                                                             |   relevancy |
-|:---------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| RSS (Really Simple Syndication)                          | An automated system for internet-connected platforms to publish feeds, allowing users to access content without personal data tracking. |           5 |
-| Surveillance-resistant platforms                         | Technologies designed to protect user privacy and minimize tracking by reducing data collection during content consumption.             |           4 |
-| Algorithm-free content consumption                       | Systems that allow users to control their content feeds without algorithmic interference, prioritizing user choice and experience.      |           4 |
-| OPML (Outline Processor Markup Language) file management | A format for sharing and managing RSS feed subscriptions, enabling easy migration between different RSS readers.                        |           3 |
-| Decentralized social media integration                   | The ability to follow decentralized platforms' content (like Mastodon and Bluesky) through RSS feeds, enhancing user control.           |           4 |
+| description                                                                                                                             |   relevancy | src                              |
+|:----------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| An automated system for internet-connected platforms to publish feeds, allowing users to access content without personal data tracking. |           5 | 1dbd39b8ce1a1c86ca4df7ec83cef470 |
+| Technologies designed to protect user privacy and minimize tracking by reducing data collection during content consumption.             |           4 | 1dbd39b8ce1a1c86ca4df7ec83cef470 |
+| Systems that allow users to control their content feeds without algorithmic interference, prioritizing user choice and experience.      |           4 | 1dbd39b8ce1a1c86ca4df7ec83cef470 |
+| A format for sharing and managing RSS feed subscriptions, enabling easy migration between different RSS readers.                        |           3 | 1dbd39b8ce1a1c86ca4df7ec83cef470 |
+| The ability to follow decentralized platforms' content (like Mastodon and Bluesky) through RSS feeds, enhancing user control.           |           4 | 1dbd39b8ce1a1c86ca4df7ec83cef470 |
 
 ## Issues
 

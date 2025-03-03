@@ -49,11 +49,11 @@ The Future You platform anonymizes user data from surveys and conversations to e
 
 ## Technologies
 
-| name                                 | description                                                                                                                |   relevancy |
-|:-------------------------------------|:---------------------------------------------------------------------------------------------------------------------------|------------:|
-| Large Language Models                | AI systems that can generate human-like text responses based on user input and personalized data.                          |           5 |
-| Future Self Continuity Interventions | Techniques aimed at improving long-term thinking and decision-making by helping individuals visualize their future selves. |           4 |
-| Anonymized Data Collection           | The process of gathering user data while ensuring individual identities are protected for research purposes.               |           3 |
+| description                                                                                                                |   relevancy | src                              |
+|:---------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| AI systems that can generate human-like text responses based on user input and personalized data.                          |           5 | 1beedaf7da5e2640fdcf0e8b0262d99b |
+| Techniques aimed at improving long-term thinking and decision-making by helping individuals visualize their future selves. |           4 | 1beedaf7da5e2640fdcf0e8b0262d99b |
+| The process of gathering user data while ensuring individual identities are protected for research purposes.               |           3 | 1beedaf7da5e2640fdcf0e8b0262d99b |
 
 ## Issues
 

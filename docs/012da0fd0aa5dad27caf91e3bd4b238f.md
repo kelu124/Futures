@@ -56,14 +56,14 @@ The Cybathlon 2020, held on May 2-3 in Zurich, is a unique championship featurin
 
 ## Technologies
 
-| name                              | description                                                                                                                                    |   relevancy |
-|:----------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Brain-Computer Interface          | Technology enabling direct communication between the brain and external devices, facilitating control of prosthetics or computers via thought. |           5 |
-| Functional Electrical Stimulation | Technique using electrical impulses to activate muscles in individuals with disabilities, improving mobility and muscle function.              |           5 |
-| Powered Prosthetics               | Advanced prosthetic limbs that are powered and controlled by the user, enhancing functionality and usability in daily tasks.                   |           5 |
-| Powered Exoskeletons              | Wearable robotic devices that assist individuals with mobility impairments, allowing them to walk or perform tasks more easily.                |           5 |
-| Semi-Autonomous Wheelchairs       | Wheelchairs that can be navigated using eye movements or other non-traditional inputs, increasing independence for users.                      |           4 |
-| Haptic Feedback Technology        | Technology providing tactile feedback to users, enhancing their ability to identify objects through touch, especially in prosthetics.          |           4 |
+| description                                                                                                                                    |   relevancy | src                              |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Technology enabling direct communication between the brain and external devices, facilitating control of prosthetics or computers via thought. |           5 | 012da0fd0aa5dad27caf91e3bd4b238f |
+| Technique using electrical impulses to activate muscles in individuals with disabilities, improving mobility and muscle function.              |           5 | 012da0fd0aa5dad27caf91e3bd4b238f |
+| Advanced prosthetic limbs that are powered and controlled by the user, enhancing functionality and usability in daily tasks.                   |           5 | 012da0fd0aa5dad27caf91e3bd4b238f |
+| Wearable robotic devices that assist individuals with mobility impairments, allowing them to walk or perform tasks more easily.                |           5 | 012da0fd0aa5dad27caf91e3bd4b238f |
+| Wheelchairs that can be navigated using eye movements or other non-traditional inputs, increasing independence for users.                      |           4 | 012da0fd0aa5dad27caf91e3bd4b238f |
+| Technology providing tactile feedback to users, enhancing their ability to identify objects through touch, especially in prosthetics.          |           4 | 012da0fd0aa5dad27caf91e3bd4b238f |
 
 ## Issues
 

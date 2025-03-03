@@ -49,10 +49,10 @@ Debashis Chanda and his nanoscience lab at the University of Central Florida dev
 
 ## Technologies
 
-| name                           | description                                                                                                                                       |   relevancy |
-|:-------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Structural Color Paint         | A revolutionary paint that uses structural color instead of pigments, making it lightweight, temperature-regulating, and less toxic.              |           5 |
-| Nanoparticle-Enhanced Coatings | Paints that incorporate tiny nanoparticles for improved durability and performance, promising reduced heat absorption and environmental benefits. |           4 |
+| description                                                                                                                                       |   relevancy | src                              |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| A revolutionary paint that uses structural color instead of pigments, making it lightweight, temperature-regulating, and less toxic.              |           5 | a6bfcabefea560d7dfefd5aab87f047c |
+| Paints that incorporate tiny nanoparticles for improved durability and performance, promising reduced heat absorption and environmental benefits. |           4 | a6bfcabefea560d7dfefd5aab87f047c |
 
 ## Issues
 

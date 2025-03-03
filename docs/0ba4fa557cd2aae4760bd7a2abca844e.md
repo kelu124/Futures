@@ -59,13 +59,13 @@ The author, identified as an influential figure in the tech industry, expresses 
 
 ## Technologies
 
-| name                                   | description                                                                                                                                             |   relevancy |
-|:---------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Generative AI                          | A subset of artificial intelligence focused on generating content and mimicking human creativity.                                                       |           5 |
-| Performative AI                        | A type of AI that emphasizes production and mimicry, often prioritizing output over creativity or empathy.                                              |           4 |
-| Deep Fakes                             | Synthetic media where a person in an existing image or video is replaced with someone else's likeness, raising concerns about trust and misinformation. |           5 |
-| AI Governance and Ethics Guidelines    | Frameworks aimed at ensuring responsible AI development and usage, safeguarding human rights and dignity.                                               |           5 |
-| Distributed Power Models in Technology | Approaches that promote power distribution among various stakeholders in tech, contrasting with current centralization trends.                          |           4 |
+| description                                                                                                                                             |   relevancy | src                              |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| A subset of artificial intelligence focused on generating content and mimicking human creativity.                                                       |           5 | 0ba4fa557cd2aae4760bd7a2abca844e |
+| A type of AI that emphasizes production and mimicry, often prioritizing output over creativity or empathy.                                              |           4 | 0ba4fa557cd2aae4760bd7a2abca844e |
+| Synthetic media where a person in an existing image or video is replaced with someone else's likeness, raising concerns about trust and misinformation. |           5 | 0ba4fa557cd2aae4760bd7a2abca844e |
+| Frameworks aimed at ensuring responsible AI development and usage, safeguarding human rights and dignity.                                               |           5 | 0ba4fa557cd2aae4760bd7a2abca844e |
+| Approaches that promote power distribution among various stakeholders in tech, contrasting with current centralization trends.                          |           4 | 0ba4fa557cd2aae4760bd7a2abca844e |
 
 ## Issues
 

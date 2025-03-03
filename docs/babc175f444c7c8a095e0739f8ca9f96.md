@@ -52,12 +52,12 @@ Stella McCartney has been a pioneer in sustainable luxury fashion for 20 years, 
 
 ## Technologies
 
-| name                             | description                                                                                                                                  |   relevancy |
-|:---------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Mylo™️ Mushroom Leather          | A sustainable leather alternative made from mycelium, offering a renewable and less environmentally harmful option than traditional leather. |           5 |
-| Microsilk™️                      | A vegan material created by Bolt Threads, inspired by spider silk, that emphasizes sustainability in fashion.                                |           4 |
-| Lab-grown Materials              | Materials developed in a lab that mimic natural processes, reducing environmental impact and resource usage.                                 |           5 |
-| Next-Generation Material Science | Innovative methods to create materials that have minimal environmental impact, enhancing sustainability in various industries.               |           5 |
+| description                                                                                                                                  |   relevancy | src                              |
+|:---------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| A sustainable leather alternative made from mycelium, offering a renewable and less environmentally harmful option than traditional leather. |           5 | babc175f444c7c8a095e0739f8ca9f96 |
+| A vegan material created by Bolt Threads, inspired by spider silk, that emphasizes sustainability in fashion.                                |           4 | babc175f444c7c8a095e0739f8ca9f96 |
+| Materials developed in a lab that mimic natural processes, reducing environmental impact and resource usage.                                 |           5 | babc175f444c7c8a095e0739f8ca9f96 |
+| Innovative methods to create materials that have minimal environmental impact, enhancing sustainability in various industries.               |           5 | babc175f444c7c8a095e0739f8ca9f96 |
 
 ## Issues
 

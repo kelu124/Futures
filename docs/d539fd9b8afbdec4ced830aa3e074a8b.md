@@ -50,13 +50,13 @@ The article explores the cultural and historical reasons behind the unique tunin
 
 ## Technologies
 
-| name                                  | description                                                                                                                           |   relevancy |
-|:--------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Chi-Fi Tuning                         | A tuning approach for audio devices from China to cater to both domestic and Western audio preferences.                               |           4 |
-| High-Fidelity Audio Equipment         | Advanced audio equipment designed for high-fidelity sound reproduction, increasingly accessible to the Chinese middle class.          |           5 |
-| Cultural Audio Adaptation             | The practice of adapting audio products to suit varying cultural sound preferences, particularly between Eastern and Western markets. |           4 |
-| Audio Product Manufacturing in China  | The growth of the Chi-Fi industry, producing high-quality audio devices that increasingly meet global standards.                      |           5 |
-| Social Influence on Audio Preferences | The impact of social and economic changes on audio preferences and product design in China.                                           |           3 |
+| description                                                                                                                           |   relevancy | src                              |
+|:--------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| A tuning approach for audio devices from China to cater to both domestic and Western audio preferences.                               |           4 | d539fd9b8afbdec4ced830aa3e074a8b |
+| Advanced audio equipment designed for high-fidelity sound reproduction, increasingly accessible to the Chinese middle class.          |           5 | d539fd9b8afbdec4ced830aa3e074a8b |
+| The practice of adapting audio products to suit varying cultural sound preferences, particularly between Eastern and Western markets. |           4 | d539fd9b8afbdec4ced830aa3e074a8b |
+| The growth of the Chi-Fi industry, producing high-quality audio devices that increasingly meet global standards.                      |           5 | d539fd9b8afbdec4ced830aa3e074a8b |
+| The impact of social and economic changes on audio preferences and product design in China.                                           |           3 | d539fd9b8afbdec4ced830aa3e074a8b |
 
 ## Issues
 

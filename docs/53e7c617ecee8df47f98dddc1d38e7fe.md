@@ -52,9 +52,9 @@ United Airlines has expedited its partnership with Starlink to provide in-flight
 
 ## Technologies
 
-| name                               | description                                                                                                            |   relevancy |
-|:-----------------------------------|:-----------------------------------------------------------------------------------------------------------------------|------------:|
-| Starlink in-flight internet access | Satellite-based internet service providing high-speed connectivity during flights, enhancing the in-flight experience. |           5 |
+| description                                                                                                            |   relevancy | src                              |
+|:-----------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Satellite-based internet service providing high-speed connectivity during flights, enhancing the in-flight experience. |           5 | 53e7c617ecee8df47f98dddc1d38e7fe |
 
 ## Issues
 

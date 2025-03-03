@@ -56,13 +56,13 @@ In "Psychonauts: Drugs and the Making of the Modern Mind," Mike Jay explores the
 
 ## Technologies
 
-| name                               | description                                                                                                    |   relevancy |
-|:-----------------------------------|:---------------------------------------------------------------------------------------------------------------|------------:|
-| Psychedelic Therapy                | Utilizing hallucinogens like psilocybin and DMT in clinical settings for mental health treatment.              |           5 |
-| Microdosing                        | Administering sub-perceptual doses of psychedelics for cognitive enhancement without full-blown trips.         |           4 |
-| Self-Experimentation               | A method where individuals conduct personal experiments with psychoactive substances to explore consciousness. |           3 |
-| Psychoactive Substances Research   | Scientific study of the effects and potential therapeutic applications of various drugs.                       |           4 |
-| Cultural Shifts in Drug Perception | Changing societal attitudes toward the use of psychedelics for personal and therapeutic purposes.              |           4 |
+| description                                                                                                    |   relevancy | src                              |
+|:---------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Utilizing hallucinogens like psilocybin and DMT in clinical settings for mental health treatment.              |           5 | 9f63fa720db53d39066cead1fabeb6df |
+| Administering sub-perceptual doses of psychedelics for cognitive enhancement without full-blown trips.         |           4 | 9f63fa720db53d39066cead1fabeb6df |
+| A method where individuals conduct personal experiments with psychoactive substances to explore consciousness. |           3 | 9f63fa720db53d39066cead1fabeb6df |
+| Scientific study of the effects and potential therapeutic applications of various drugs.                       |           4 | 9f63fa720db53d39066cead1fabeb6df |
+| Changing societal attitudes toward the use of psychedelics for personal and therapeutic purposes.              |           4 | 9f63fa720db53d39066cead1fabeb6df |
 
 ## Issues
 

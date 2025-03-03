@@ -55,14 +55,14 @@ Amazon is expanding its virtual healthcare program, Amazon Care, by partnering w
 
 ## Technologies
 
-| name                                       | description                                                                                                                |   relevancy |
-|:-------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------|------------:|
-| Amazon Care                                | A virtual healthcare program that offers telehealth and mental health services, including partnerships for broader access. |           5 |
-| Ginger                                     | A digital mental health platform providing 24/7 access to mental health coaches and therapists.                            |           5 |
-| Mental Health Apps                         | Applications designed to provide mental health support and resources, addressing the demand for accessible services.       |           4 |
-| Hybrid In-person and Virtual Care Services | Healthcare models combining physical and digital interactions to enhance patient access and convenience.                   |           4 |
-| Alexa Integration in Healthcare            | Utilizing voice technology to assist and streamline processes in hospitals and healthcare settings.                        |           3 |
-| Smart Home Technology (iRobot)             | Home automation devices that collect data about living spaces, potentially for personalized services.                      |           3 |
+| description                                                                                                                |   relevancy | src                              |
+|:---------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| A virtual healthcare program that offers telehealth and mental health services, including partnerships for broader access. |           5 | 3d4aee592248f940acdac6ffab5ec4aa |
+| A digital mental health platform providing 24/7 access to mental health coaches and therapists.                            |           5 | 3d4aee592248f940acdac6ffab5ec4aa |
+| Applications designed to provide mental health support and resources, addressing the demand for accessible services.       |           4 | 3d4aee592248f940acdac6ffab5ec4aa |
+| Healthcare models combining physical and digital interactions to enhance patient access and convenience.                   |           4 | 3d4aee592248f940acdac6ffab5ec4aa |
+| Utilizing voice technology to assist and streamline processes in hospitals and healthcare settings.                        |           3 | 3d4aee592248f940acdac6ffab5ec4aa |
+| Home automation devices that collect data about living spaces, potentially for personalized services.                      |           3 | 3d4aee592248f940acdac6ffab5ec4aa |
 
 ## Issues
 

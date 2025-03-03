@@ -58,14 +58,14 @@ This text discusses the Fundamental Process to Generate Living Systems, based on
 
 ## Technologies
 
-| name                           | description                                                                                                                  |   relevancy |
-|:-------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|------------:|
-| Generative Processes           | Processes that adapt and strengthen living systems through gradual improvements, enhancing wholeness and latent centers.     |           5 |
-| Dynamic Development Theory     | A theory explaining that living systems evolve through specific generative processes rather than static designs.             |           5 |
-| Systems Thinking               | An approach that emphasizes understanding the interactions and relationships within a whole system to improve its aliveness. |           4 |
-| Adaptive Design                | Design methodology that allows for changes and adaptations based on real-world feedback and interactions.                    |           4 |
-| Temporal Workflow Processes    | Workflows that incorporate generative processes and emphasize continuous improvement and adaptation over time.               |           3 |
-| Pattern Language for Processes | A framework for understanding and applying generative processes in various contexts, including workflows and design.         |           3 |
+| description                                                                                                                  |   relevancy | src                              |
+|:-----------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Processes that adapt and strengthen living systems through gradual improvements, enhancing wholeness and latent centers.     |           5 | c65d92d0b79dedc98dfcae628fc2cfe7 |
+| A theory explaining that living systems evolve through specific generative processes rather than static designs.             |           5 | c65d92d0b79dedc98dfcae628fc2cfe7 |
+| An approach that emphasizes understanding the interactions and relationships within a whole system to improve its aliveness. |           4 | c65d92d0b79dedc98dfcae628fc2cfe7 |
+| Design methodology that allows for changes and adaptations based on real-world feedback and interactions.                    |           4 | c65d92d0b79dedc98dfcae628fc2cfe7 |
+| Workflows that incorporate generative processes and emphasize continuous improvement and adaptation over time.               |           3 | c65d92d0b79dedc98dfcae628fc2cfe7 |
+| A framework for understanding and applying generative processes in various contexts, including workflows and design.         |           3 | c65d92d0b79dedc98dfcae628fc2cfe7 |
 
 ## Issues
 

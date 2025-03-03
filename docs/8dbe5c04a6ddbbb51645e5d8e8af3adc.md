@@ -57,15 +57,15 @@ This tutorial introduces LangChain, a Python framework designed to simplify the 
 
 ## Technologies
 
-| name                         | description                                                                                                           |   relevancy |
-|:-----------------------------|:----------------------------------------------------------------------------------------------------------------------|------------:|
-| Large Language Models (LLMs) | Models that can generate human-like text based on given prompts, revolutionizing AI applications.                     |           5 |
-| LangChain                    | A framework that simplifies the development of applications powered by LLMs, facilitating integration and management. |           5 |
-| LLMOps                       | Emerging tools and practices for managing large language models in production environments.                           |           4 |
-| Prompt Engineering           | The process of designing effective prompts to optimize LLM outputs for specific tasks.                                |           4 |
-| Vector Databases             | Specialized databases designed to efficiently store and retrieve high-dimensional vector representations of data.     |           4 |
-| Conversational Memory        | Technologies that allow chatbots and applications to remember previous interactions for improved user experience.     |           4 |
-| Agents for Tool Access       | Systems that enable LLMs to access external tools and data sources to enhance their capabilities.                     |           4 |
+| description                                                                                                           |   relevancy | src                              |
+|:----------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Models that can generate human-like text based on given prompts, revolutionizing AI applications.                     |           5 | 8dbe5c04a6ddbbb51645e5d8e8af3adc |
+| A framework that simplifies the development of applications powered by LLMs, facilitating integration and management. |           5 | 8dbe5c04a6ddbbb51645e5d8e8af3adc |
+| Emerging tools and practices for managing large language models in production environments.                           |           4 | 8dbe5c04a6ddbbb51645e5d8e8af3adc |
+| The process of designing effective prompts to optimize LLM outputs for specific tasks.                                |           4 | 8dbe5c04a6ddbbb51645e5d8e8af3adc |
+| Specialized databases designed to efficiently store and retrieve high-dimensional vector representations of data.     |           4 | 8dbe5c04a6ddbbb51645e5d8e8af3adc |
+| Technologies that allow chatbots and applications to remember previous interactions for improved user experience.     |           4 | 8dbe5c04a6ddbbb51645e5d8e8af3adc |
+| Systems that enable LLMs to access external tools and data sources to enhance their capabilities.                     |           4 | 8dbe5c04a6ddbbb51645e5d8e8af3adc |
 
 ## Issues
 

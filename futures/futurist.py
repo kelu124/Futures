@@ -230,3 +230,11 @@ class Futurist:
         articles = self.getLinksPerArticle()
         #print(articles)
         story = self.writeStory(articles)
+
+    def getStory(self, id):
+        df = pd.read_parquet(self.ai.srcStories)
+        df = df[df.src == id]
+        if len(df):
+            return "## "+df["title"].iloc[0]+"\n\n"+df["story"].iloc[0]
+        else:
+            return "No story for this ID"

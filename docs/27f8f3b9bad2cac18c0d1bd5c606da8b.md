@@ -58,14 +58,14 @@ A recent survey shows that 68% of participants identify as independent travelers
 
 ## Technologies
 
-| name                                        | description                                                                                                                                    |   relevancy |
-|:--------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Solo Travel Services                        | Tour operators are increasingly catering to solo travelers by providing group experiences that foster connections while allowing independence. |           4 |
-| Shared Accommodations Design                | Hotels are designing shared spaces like lounges and game rooms to encourage interaction among solo travelers.                                  |           4 |
-| Group Activity Integration                  | Hotels are offering group activities such as cooking classes and shows to help solo travelers meet others.                                     |           4 |
-| Transportation Solutions for Solo Travelers | Hotels are providing free transportation to town centers to facilitate solo exploration and local interaction.                                 |           3 |
-| Tailored Travel Experiences for Women       | Travel operators are focusing on the unique needs of female solo travelers by creating supportive environments.                                |           4 |
-| Social Media Connections for Travelers      | Platforms like Facebook groups are being utilized to connect solo travelers before trips.                                                      |           3 |
+| description                                                                                                                                    |   relevancy | src                              |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Tour operators are increasingly catering to solo travelers by providing group experiences that foster connections while allowing independence. |           4 | 27f8f3b9bad2cac18c0d1bd5c606da8b |
+| Hotels are designing shared spaces like lounges and game rooms to encourage interaction among solo travelers.                                  |           4 | 27f8f3b9bad2cac18c0d1bd5c606da8b |
+| Hotels are offering group activities such as cooking classes and shows to help solo travelers meet others.                                     |           4 | 27f8f3b9bad2cac18c0d1bd5c606da8b |
+| Hotels are providing free transportation to town centers to facilitate solo exploration and local interaction.                                 |           3 | 27f8f3b9bad2cac18c0d1bd5c606da8b |
+| Travel operators are focusing on the unique needs of female solo travelers by creating supportive environments.                                |           4 | 27f8f3b9bad2cac18c0d1bd5c606da8b |
+| Platforms like Facebook groups are being utilized to connect solo travelers before trips.                                                      |           3 | 27f8f3b9bad2cac18c0d1bd5c606da8b |
 
 ## Issues
 

@@ -54,16 +54,16 @@ TSMC is nearing completion of its ecosystem for 2nm chip development, focusing o
 
 ## Technologies
 
-| name                                                            | description                                                                                                                           |   relevancy |
-|:----------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| 2 nm-class Chip Technologies                                    | Next-generation chip technologies including N2, N2P, and N2X, featuring innovations like GAA transistors and advanced power delivery. |           5 |
-| Nanosheet Gate-All-Around (GAA) Transistors                     | A new type of transistor that promises better performance and efficiency compared to traditional FinFETs.                             |           5 |
-| Backside Power Delivery Networks                                | An innovative way to deliver power to chips, improving efficiency in chip design.                                                     |           4 |
-| Super-High-Performance Metal-Insulator-Metal (SHPMIM) Capacitor | A cutting-edge capacitor technology aimed at enhancing chip performance.                                                              |           4 |
-| Electronic Design Automation (EDA) Tools for N2                 | New EDA tools tailored for designing chips with 2 nm technologies, essential for chip developers.                                     |           5 |
-| Analog Design Migration Tools                                   | Tools from Cadence and Synopsys that support the transition to new chip designs, particularly for analog circuits.                    |           4 |
-| Pre-Silicon Development Kits                                    | Development kits that include essential building blocks for chip design, currently in progress for N2 technologies.                   |           3 |
-| Foundation IP for Mobile and High-Performance Computing         | Pre-built intellectual property (IP) designs necessary for developing mobile and high-performance chips.                              |           4 |
+| description                                                                                                                           |   relevancy | src                              |
+|:--------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Next-generation chip technologies including N2, N2P, and N2X, featuring innovations like GAA transistors and advanced power delivery. |           5 | cca4ca46edfcac58a750fffde3522e7e |
+| A new type of transistor that promises better performance and efficiency compared to traditional FinFETs.                             |           5 | cca4ca46edfcac58a750fffde3522e7e |
+| An innovative way to deliver power to chips, improving efficiency in chip design.                                                     |           4 | cca4ca46edfcac58a750fffde3522e7e |
+| A cutting-edge capacitor technology aimed at enhancing chip performance.                                                              |           4 | cca4ca46edfcac58a750fffde3522e7e |
+| New EDA tools tailored for designing chips with 2 nm technologies, essential for chip developers.                                     |           5 | cca4ca46edfcac58a750fffde3522e7e |
+| Tools from Cadence and Synopsys that support the transition to new chip designs, particularly for analog circuits.                    |           4 | cca4ca46edfcac58a750fffde3522e7e |
+| Development kits that include essential building blocks for chip design, currently in progress for N2 technologies.                   |           3 | cca4ca46edfcac58a750fffde3522e7e |
+| Pre-built intellectual property (IP) designs necessary for developing mobile and high-performance chips.                              |           4 | cca4ca46edfcac58a750fffde3522e7e |
 
 ## Issues
 

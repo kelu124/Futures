@@ -56,13 +56,13 @@ The European Union has voted to implement regulations requiring smartphones to h
 
 ## Technologies
 
-| name                                  | description                                                                                                                   |   relevancy |
-|:--------------------------------------|:------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Easy-to-Replace Batteries             | Regulations for smartphones to have batteries that can be easily replaced by users with basic tools, aimed at sustainability. |           5 |
-| Ecodesign for Smartphones and Tablets | Legislation to ensure smartphones and tablets have easily replaceable batteries, expected to come into effect in 2025.        |           4 |
-| User-Replacement Regulations          | Legislation that mandates batteries must be replaceable without specialized tools, making devices more user-friendly.         |           5 |
-| Durable Battery Standards             | New requirements for batteries to maintain a high capacity after numerous charge cycles, promoting longevity.                 |           4 |
-| Right to Repair Movement              | A growing initiative advocating for consumer rights to repair and modify their devices, enhancing sustainability.             |           5 |
+| description                                                                                                                   |   relevancy | src                              |
+|:------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Regulations for smartphones to have batteries that can be easily replaced by users with basic tools, aimed at sustainability. |           5 | 7e3448aaf8dcf592d5c14da8fb0fc233 |
+| Legislation to ensure smartphones and tablets have easily replaceable batteries, expected to come into effect in 2025.        |           4 | 7e3448aaf8dcf592d5c14da8fb0fc233 |
+| Legislation that mandates batteries must be replaceable without specialized tools, making devices more user-friendly.         |           5 | 7e3448aaf8dcf592d5c14da8fb0fc233 |
+| New requirements for batteries to maintain a high capacity after numerous charge cycles, promoting longevity.                 |           4 | 7e3448aaf8dcf592d5c14da8fb0fc233 |
+| A growing initiative advocating for consumer rights to repair and modify their devices, enhancing sustainability.             |           5 | 7e3448aaf8dcf592d5c14da8fb0fc233 |
 
 ## Issues
 

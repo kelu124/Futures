@@ -49,12 +49,12 @@ Ayrin, a 28-year-old woman, finds solace and companionship in her A.I. boyfriend
 
 ## Technologies
 
-| name                                  | description                                                                                                      |   relevancy |
-|:--------------------------------------|:-----------------------------------------------------------------------------------------------------------------|------------:|
-| Artificial Intelligence Companionship | The use of AI chatbots for emotional support and companionship, simulating human-like relationships.             |           5 |
-| Personalization in AI                 | The ability to customize AI responses based on user preferences, enhancing user experience and engagement.       |           4 |
-| Humanlike AI Interaction              | Advancements in AI that allow for more natural and relatable conversations with users, mimicking human traits.   |           5 |
-| AI in Mental Health Support           | Utilizing AI to provide emotional support and advice, potentially transforming mental health care accessibility. |           4 |
+| description                                                                                                      |   relevancy | src                              |
+|:-----------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| The use of AI chatbots for emotional support and companionship, simulating human-like relationships.             |           5 | fb7bff9fd47bc5ee71e96591add37ae8 |
+| The ability to customize AI responses based on user preferences, enhancing user experience and engagement.       |           4 | fb7bff9fd47bc5ee71e96591add37ae8 |
+| Advancements in AI that allow for more natural and relatable conversations with users, mimicking human traits.   |           5 | fb7bff9fd47bc5ee71e96591add37ae8 |
+| Utilizing AI to provide emotional support and advice, potentially transforming mental health care accessibility. |           4 | fb7bff9fd47bc5ee71e96591add37ae8 |
 
 ## Issues
 

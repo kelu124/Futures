@@ -55,12 +55,12 @@ This text discusses innovative approaches to combat mosquito-borne diseases, foc
 
 ## Technologies
 
-| name                                    | description                                                                                                                                   |   relevancy |
-|:----------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Wolbachia Mosquitoes                    | Genetically modified mosquitoes carrying Wolbachia bacteria that prevent virus transmission, helping to reduce diseases like dengue and Zika. |           5 |
-| Attractive Targeted Sugar Baits (ATSBs) | Lethal baits that attract mosquitoes with sugar scents, laced with insecticide to reduce mosquito populations and malaria spread.             |           5 |
-| Drones for Mosquito Release             | Using drones to release mosquitoes into populations to enhance the spread of Wolbachia bacteria for disease prevention.                       |           4 |
-| Malaria Vaccine (RTS,S)                 | The world’s first malaria vaccine aimed at preventing malaria infections in children and reducing transmission.                               |           5 |
+| description                                                                                                                                   |   relevancy | src                              |
+|:----------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Genetically modified mosquitoes carrying Wolbachia bacteria that prevent virus transmission, helping to reduce diseases like dengue and Zika. |           5 | 66ac6fbf296c968aeb5aa7dcc74be92a |
+| Lethal baits that attract mosquitoes with sugar scents, laced with insecticide to reduce mosquito populations and malaria spread.             |           5 | 66ac6fbf296c968aeb5aa7dcc74be92a |
+| Using drones to release mosquitoes into populations to enhance the spread of Wolbachia bacteria for disease prevention.                       |           4 | 66ac6fbf296c968aeb5aa7dcc74be92a |
+| The world’s first malaria vaccine aimed at preventing malaria infections in children and reducing transmission.                               |           5 | 66ac6fbf296c968aeb5aa7dcc74be92a |
 
 ## Issues
 
