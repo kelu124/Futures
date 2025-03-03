@@ -1,3 +1,12 @@
+data/.langchain.db
+data/.embedding.langchain.db
+data/.*langchain.db
+data/.langchain.db
+data/.langchain.db
+data/.embedding.langchain.db
+data/.embedding.langchain.db
+data/.langchain.db
+
 APIKEY.txt
 .fullpages
 .ipynb_checkpoints
@@ -18,3 +27,5 @@ data/.*langchain.db
 data/.langchain.db
 data/.langchain.db
 data/.embedding.langchain.db
+data/.embedding.langchain.db
+data/.langchain.db
