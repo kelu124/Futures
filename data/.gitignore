@@ -1,2 +1,3 @@
 .embedding.langchain.db
 .langchain.db
+*.db
