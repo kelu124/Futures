@@ -49,11 +49,11 @@ Darya Kawa Mirza, a self-taught Kurdish astrophotographer, captured an enormous,
 
 ## Technologies
 
-| description                                                                                                                                                               |   relevancy | src                              |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| Advanced methods for capturing high-resolution images of celestial bodies, enhancing detail and clarity in photographs of the moon and beyond.                            |           4 | 0d917bcaff7bfac679e43e65cc3d70ae |
-| A technique that combines images from different phases of the moon to create a composite that reveals variable lighting and topographical details.                        |           5 | 0d917bcaff7bfac679e43e65cc3d70ae |
-| Utilization of advanced telescopes to achieve unprecedented detail in astronomical photography, enabling amateur astronomers to capture stunning images of the night sky. |           4 | 0d917bcaff7bfac679e43e65cc3d70ae |
+| name                        | description                                                                                                                                                               |   relevancy |
+|:----------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Astrophotography Techniques | Advanced methods for capturing high-resolution images of celestial bodies, enhancing detail and clarity in photographs of the moon and beyond.                            |           4 |
+| Phase Fusion Imaging        | A technique that combines images from different phases of the moon to create a composite that reveals variable lighting and topographical details.                        |           5 |
+| High-Powered Telescopes     | Utilization of advanced telescopes to achieve unprecedented detail in astronomical photography, enabling amateur astronomers to capture stunning images of the night sky. |           4 |
 
 ## Issues
 

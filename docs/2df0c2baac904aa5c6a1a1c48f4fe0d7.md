@@ -55,11 +55,11 @@ John Cage's 4'33" is a controversial composition scored for any instrument, wher
 
 ## Technologies
 
-| description                                                                                                                            |   relevancy | src                              |
-|:---------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| A soundproof room designed to completely absorb reflections of sound, allowing for pure sound experiences.                             |           4 | 2df0c2baac904aa5c6a1a1c48f4fe0d7 |
-| The integration of Zen principles in artistic expression, promoting openness and acceptance of environmental sounds.                   |           3 | 2df0c2baac904aa5c6a1a1c48f4fe0d7 |
-| Artistic expression that challenges traditional definitions of music and sound, focusing on ideas over traditional musical structures. |           5 | 2df0c2baac904aa5c6a1a1c48f4fe0d7 |
+| name                          | description                                                                                                                            |   relevancy |
+|:------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Anechoic Chamber              | A soundproof room designed to completely absorb reflections of sound, allowing for pure sound experiences.                             |           4 |
+| Zen Buddhism Influence on Art | The integration of Zen principles in artistic expression, promoting openness and acceptance of environmental sounds.                   |           3 |
+| Conceptual Art in Music       | Artistic expression that challenges traditional definitions of music and sound, focusing on ideas over traditional musical structures. |           5 |
 
 ## Issues
 

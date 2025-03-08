@@ -66,13 +66,13 @@ This text explores the multifaceted relationship between lithium, digital techno
 
 ## Technologies
 
-| description                                                                                                                    |   relevancy | src                              |
-|:-------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| High-performance batteries allowing faster charging and longer lifespan, crucial for electric vehicles and electronic devices. |           5 | fa8cbd7fc0beae839d485f07ed3b6dff |
-| Technology that overlays digital information onto the physical world, transforming how we interact with our environment.       |           4 | fa8cbd7fc0beae839d485f07ed3b6dff |
-| Online platforms that enable collective knowledge sharing and support for marginalized communities.                            |           4 | fa8cbd7fc0beae839d485f07ed3b6dff |
-| Digital currencies that operate independently of central authorities, promoting alternative economic systems.                  |           5 | fa8cbd7fc0beae839d485f07ed3b6dff |
-| Integrating traditional knowledge with digital technologies for holistic healing practices.                                    |           3 | fa8cbd7fc0beae839d485f07ed3b6dff |
+| name                           | description                                                                                                                    |   relevancy |
+|:-------------------------------|:-------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Lithium-Ion Batteries          | High-performance batteries allowing faster charging and longer lifespan, crucial for electric vehicles and electronic devices. |           5 |
+| Augmented Reality              | Technology that overlays digital information onto the physical world, transforming how we interact with our environment.       |           4 |
+| Digital Commons                | Online platforms that enable collective knowledge sharing and support for marginalized communities.                            |           4 |
+| Decentralized Cryptocurrencies | Digital currencies that operate independently of central authorities, promoting alternative economic systems.                  |           5 |
+| Cyber-Healing                  | Integrating traditional knowledge with digital technologies for holistic healing practices.                                    |           3 |
 
 ## Issues
 

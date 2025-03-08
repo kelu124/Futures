@@ -63,18 +63,18 @@ The article discusses the top 10 construction technology trends that are expecte
 
 ## Technologies
 
-| description                                                                                                                  |   relevancy | src                              |
-|:-----------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| A digital representation of physical and functional characteristics of a project that enhances collaboration and efficiency. |           5 | e5f654f63eaeb60d2dce7ea70a8c03aa |
-| Technology that superimposes digital data onto the real world, enhancing on-site construction processes and visualization.   |           5 | e5f654f63eaeb60d2dce7ea70a8c03aa |
-| Tools that assess the carbon footprint of materials and processes, promoting sustainability in construction.                 |           5 | e5f654f63eaeb60d2dce7ea70a8c03aa |
-| Real-time digital replicas of physical assets that integrate data for monitoring and optimizing operations.                  |           5 | e5f654f63eaeb60d2dce7ea70a8c03aa |
-| Solutions that consolidate diverse data from various sources to improve equipment management and operational efficiency.     |           4 | e5f654f63eaeb60d2dce7ea70a8c03aa |
-| Use of AI and robots to perform labor-intensive construction tasks, improving efficiency and safety.                         |           5 | e5f654f63eaeb60d2dce7ea70a8c03aa |
-| Centralized tools for project management, collaboration, and data storage accessible from anywhere.                          |           5 | e5f654f63eaeb60d2dce7ea70a8c03aa |
-| Unmanned aerial vehicles used for surveying, monitoring, and inspecting construction sites with high accuracy.               |           5 | e5f654f63eaeb60d2dce7ea70a8c03aa |
-| Additive manufacturing technique that allows for rapid, cost-effective, and customizable building processes.                 |           5 | e5f654f63eaeb60d2dce7ea70a8c03aa |
-| Simulated environments for training and site planning, enhancing safety and collaboration in construction.                   |           5 | e5f654f63eaeb60d2dce7ea70a8c03aa |
+| name                                | description                                                                                                                  |   relevancy |
+|:------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|------------:|
+| Building Information Modeling (BIM) | A digital representation of physical and functional characteristics of a project that enhances collaboration and efficiency. |           5 |
+| Augmented Reality (AR)              | Technology that superimposes digital data onto the real world, enhancing on-site construction processes and visualization.   |           5 |
+| Carbon-Estimating Technology        | Tools that assess the carbon footprint of materials and processes, promoting sustainability in construction.                 |           5 |
+| Digital Twins                       | Real-time digital replicas of physical assets that integrate data for monitoring and optimizing operations.                  |           5 |
+| Data Integration Tools              | Solutions that consolidate diverse data from various sources to improve equipment management and operational efficiency.     |           4 |
+| Automation and Robotics             | Use of AI and robots to perform labor-intensive construction tasks, improving efficiency and safety.                         |           5 |
+| Cloud-based Construction Software   | Centralized tools for project management, collaboration, and data storage accessible from anywhere.                          |           5 |
+| Drone Technology                    | Unmanned aerial vehicles used for surveying, monitoring, and inspecting construction sites with high accuracy.               |           5 |
+| 3D Printing                         | Additive manufacturing technique that allows for rapid, cost-effective, and customizable building processes.                 |           5 |
+| Virtual Reality (VR)                | Simulated environments for training and site planning, enhancing safety and collaboration in construction.                   |           5 |
 
 ## Issues
 

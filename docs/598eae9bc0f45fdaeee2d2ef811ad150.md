@@ -57,14 +57,14 @@ Nvidia's stock surged nearly 30% following its first-quarter financial results, 
 
 ## Technologies
 
-| description                                                                                                                                                   |   relevancy | src                              |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| A category of AI focused on creating new content, models, and data, significantly influencing industries and investment strategies.                           |           5 | 598eae9bc0f45fdaeee2d2ef811ad150 |
-| Specialized hardware designed to efficiently process AI algorithms and large datasets, crucial for training and running AI models.                            |           5 | 598eae9bc0f45fdaeee2d2ef811ad150 |
-| A computing paradigm that enhances performance for AI workloads, particularly in the context of GPUs and parallel processing.                                 |           4 | 598eae9bc0f45fdaeee2d2ef811ad150 |
-| The use of supercomputers to perform advanced AI computations, enabling the training of large-scale models.                                                   |           4 | 598eae9bc0f45fdaeee2d2ef811ad150 |
-| Integrated systems comprising chips and software tailored for AI applications, creating a comprehensive ecosystem for developers.                             |           4 | 598eae9bc0f45fdaeee2d2ef811ad150 |
-| Cloud-based infrastructure that provides scalable resources for deploying and managing AI applications, though often less integrated than Nvidia's offerings. |           3 | 598eae9bc0f45fdaeee2d2ef811ad150 |
+| name                             | description                                                                                                                                                   |   relevancy |
+|:---------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Generative AI                    | A category of AI focused on creating new content, models, and data, significantly influencing industries and investment strategies.                           |           5 |
+| High-powered AI chips            | Specialized hardware designed to efficiently process AI algorithms and large datasets, crucial for training and running AI models.                            |           5 |
+| Accelerated computing            | A computing paradigm that enhances performance for AI workloads, particularly in the context of GPUs and parallel processing.                                 |           4 |
+| AI supercomputing                | The use of supercomputers to perform advanced AI computations, enabling the training of large-scale models.                                                   |           4 |
+| AI chip platforms                | Integrated systems comprising chips and software tailored for AI applications, creating a comprehensive ecosystem for developers.                             |           4 |
+| Cloud computing platforms for AI | Cloud-based infrastructure that provides scalable resources for deploying and managing AI applications, though often less integrated than Nvidia's offerings. |           3 |
 
 ## Issues
 

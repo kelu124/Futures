@@ -63,14 +63,14 @@ The article explores the enduring appeal of classic toys amidst a rapidly changi
 
 ## Technologies
 
-| description                                                                                                                    |   relevancy | src                              |
-|:-------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| A play material that mimics wet sand, allowing kids to build and create without drying out, promoting tactile engagement.      |           4 | dd9fc6f91eeb99cb289ba2e9f8af02f3 |
-| A long-term research project examining how different toys influence imaginative play and child development.                    |           5 | dd9fc6f91eeb99cb289ba2e9f8af02f3 |
-| The practice of incorporating popular digital media franchises into toy lines to maintain relevance and attract new audiences. |           4 | dd9fc6f91eeb99cb289ba2e9f8af02f3 |
-| Using nostalgic elements in toy design and marketing to connect with parents and enhance the desirability of toys.             |           5 | dd9fc6f91eeb99cb289ba2e9f8af02f3 |
-| Toy companies acquiring classic brands to ensure long-term sales and consumer engagement with timeless products.               |           4 | dd9fc6f91eeb99cb289ba2e9f8af02f3 |
-| Toys designed for open-ended play, allowing children to use their imagination and creativity without restrictions.             |           5 | dd9fc6f91eeb99cb289ba2e9f8af02f3 |
+| name                        | description                                                                                                                    |   relevancy |
+|:----------------------------|:-------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Kinetic Sand                | A play material that mimics wet sand, allowing kids to build and create without drying out, promoting tactile engagement.      |           4 |
+| TIMPANI Study               | A long-term research project examining how different toys influence imaginative play and child development.                    |           5 |
+| Digital Toy Licensing       | The practice of incorporating popular digital media franchises into toy lines to maintain relevance and attract new audiences. |           4 |
+| Nostalgia Marketing in Toys | Using nostalgic elements in toy design and marketing to connect with parents and enhance the desirability of toys.             |           5 |
+| Classic Toy Acquisitions    | Toy companies acquiring classic brands to ensure long-term sales and consumer engagement with timeless products.               |           4 |
+| Open-ended Play Designs     | Toys designed for open-ended play, allowing children to use their imagination and creativity without restrictions.             |           5 |
 
 ## Issues
 

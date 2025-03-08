@@ -57,15 +57,15 @@ The article discusses the evolution of generative AI (gen AI) from knowledge-bas
 
 ## Technologies
 
-| description                                                                                                                |   relevancy | src                              |
-|:---------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| AI systems capable of generating content and executing complex workflows based on user instructions.                       |           5 | e1baf6b4cdd1160dd2264fe6fd2e24ab |
-| Digital systems that can independently interact, plan actions, and collaborate with humans using natural language.         |           5 | e1baf6b4cdd1160dd2264fe6fd2e24ab |
-| Frameworks that allow multiple agents to work together to complete tasks and improve performance iteratively.              |           4 | e1baf6b4cdd1160dd2264fe6fd2e24ab |
-| Large language models trained on vast datasets, enabling adaptability and complex task execution in AI systems.            |           5 | e1baf6b4cdd1160dd2264fe6fd2e24ab |
-| Using natural language as instruction for automating complex workflows, making AI tools accessible to non-technical users. |           4 | e1baf6b4cdd1160dd2264fe6fd2e24ab |
-| Agents designed to handle complex business processes, enhancing productivity and decision-making.                          |           5 | e1baf6b4cdd1160dd2264fe6fd2e24ab |
-| Libraries and frameworks (e.g., Microsoft Autogen, Hugging Face) to support the development of agentic functionalities.    |           4 | e1baf6b4cdd1160dd2264fe6fd2e24ab |
+| name                                       | description                                                                                                                |   relevancy |
+|:-------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------|------------:|
+| Generative AI (Gen AI)                     | AI systems capable of generating content and executing complex workflows based on user instructions.                       |           5 |
+| Agentic Systems                            | Digital systems that can independently interact, plan actions, and collaborate with humans using natural language.         |           5 |
+| Multiagent Systems                         | Frameworks that allow multiple agents to work together to complete tasks and improve performance iteratively.              |           4 |
+| Foundation Models                          | Large language models trained on vast datasets, enabling adaptability and complex task execution in AI systems.            |           5 |
+| Natural Language Processing for Automation | Using natural language as instruction for automating complex workflows, making AI tools accessible to non-technical users. |           4 |
+| AI Agents in Business Automation           | Agents designed to handle complex business processes, enhancing productivity and decision-making.                          |           5 |
+| APIs and Toolkits for Agent Development    | Libraries and frameworks (e.g., Microsoft Autogen, Hugging Face) to support the development of agentic functionalities.    |           4 |
 
 ## Issues
 

@@ -107,7 +107,7 @@ class VectorDB:
             self.store,
             namespace=self.underlying_embeddings.model,
         )
-        self.signals =  pd.read_parquet(pathsignals)
+        self.signals = pd.read_parquet(pathsignals)
 
         if os.path.isfile(self.base_db_path + "chroma.sqlite3"):
             print("Loading from local files")

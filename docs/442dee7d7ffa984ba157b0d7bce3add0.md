@@ -60,13 +60,13 @@ A team at the University of Texas at Dallas, led by Dr. Ifana Mahbub, has receiv
 
 ## Technologies
 
-| description                                                                                                               |   relevancy | src                              |
-|:--------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| A technology that enables drones to recharge in flight using electromagnetic waves over long distances.                   |           5 | 442dee7d7ffa984ba157b0d7bce3add0 |
-| A method that directs electromagnetic waves to minimize path loss and efficiently deliver power to moving drones.         |           4 | 442dee7d7ffa984ba157b0d7bce3add0 |
-| Development of wireless charging technology for implanted medical devices using safe low-frequency electromagnetic waves. |           4 | 442dee7d7ffa984ba157b0d7bce3add0 |
-| A system that tracks UAV movements in real-time for accurate power delivery during flight.                                |           4 | 442dee7d7ffa984ba157b0d7bce3add0 |
-| Integration of wireless power systems to provide energy for neural signal recording and stimulation in animal models.     |           5 | 442dee7d7ffa984ba157b0d7bce3add0 |
+| name                                               | description                                                                                                               |   relevancy |
+|:---------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|------------:|
+| Far-Field Wireless Power Transfer                  | A technology that enables drones to recharge in flight using electromagnetic waves over long distances.                   |           5 |
+| Beamforming Technology                             | A method that directs electromagnetic waves to minimize path loss and efficiently deliver power to moving drones.         |           4 |
+| Wireless Charging for Implanted Devices            | Development of wireless charging technology for implanted medical devices using safe low-frequency electromagnetic waves. |           4 |
+| Telemetry for UAVs                                 | A system that tracks UAV movements in real-time for accurate power delivery during flight.                                |           4 |
+| Wireless Power Transfer Systems for Brain Implants | Integration of wireless power systems to provide energy for neural signal recording and stimulation in animal models.     |           5 |
 
 ## Issues
 

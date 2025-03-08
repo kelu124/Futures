@@ -28,8 +28,8 @@ class LLM:
         # Setting up the stores
         self.underlying_embeddings = OpenAIEmbeddings()
         set_llm_cache(SQLiteCache(database_path=llmcache+".langchain.db"))
-        self.store = SQLiteCache(database_path=\
-                                 llmcache+".embedding.langchain.db")
+        self.store = SQLiteCache(database_path=
+                                 llmcache+"embedding/.embedding.langchain.db")
         # cached embeddings
         self.embeddings = CacheBackedEmbeddings.from_bytes_store(
             self.underlying_embeddings, self.store,
@@ -53,6 +53,7 @@ class LLM:
         self.srcEmergingTechs = self.datastore + 'mrg_tech.parquet.gzip'
         self.srcEmergingBehav = self.datastore + 'mrg_behav.parquet.gzip'
         self.srcEmergingIssue = self.datastore + 'mrg_issue.parquet.gzip'
+        self.srcEmergingConcerns = self.datastore + 'mrg_concern.parquet.gzip'
 
     def ask(self, question):
         answer = self.ai.invoke(question)

@@ -57,13 +57,13 @@ The recent murder of UnitedHealthcare CEO Brian Thompson has prompted major heal
 
 ## Technologies
 
-| description                                                                                                                                                                     |   relevancy | src                              |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| Healthcare companies are adopting advanced security protocols to protect executives following violent incidents, including virtual events and online identity scrubbing.        |           4 | 7ec50abadcf7e1ee9bf56bd5c5b15467 |
-| The shift from in-person to virtual investor meetings in response to safety concerns highlights the growing reliance on digital platforms for corporate communication.          |           3 | 7ec50abadcf7e1ee9bf56bd5c5b15467 |
-| With the rise of public backlash and misinformation on platforms like X and Reddit, companies are increasingly using social media monitoring tools to manage their reputations. |           4 | 7ec50abadcf7e1ee9bf56bd5c5b15467 |
-| The use of data analytics to assess and report on claims denial rates is becoming crucial for transparency in the insurance sector.                                             |           5 | 7ec50abadcf7e1ee9bf56bd5c5b15467 |
-| Healthcare firms are developing crisis communication strategies to address public outrage and misinformation effectively.                                                       |           4 | 7ec50abadcf7e1ee9bf56bd5c5b15467 |
+| name                                   | description                                                                                                                                                                     |   relevancy |
+|:---------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Enhanced Executive Security Measures   | Healthcare companies are adopting advanced security protocols to protect executives following violent incidents, including virtual events and online identity scrubbing.        |           4 |
+| Virtual Investor Conferences           | The shift from in-person to virtual investor meetings in response to safety concerns highlights the growing reliance on digital platforms for corporate communication.          |           3 |
+| Social Media Monitoring Tools          | With the rise of public backlash and misinformation on platforms like X and Reddit, companies are increasingly using social media monitoring tools to manage their reputations. |           4 |
+| Data Analytics for Claims Denial Rates | The use of data analytics to assess and report on claims denial rates is becoming crucial for transparency in the insurance sector.                                             |           5 |
+| Crisis Communication Strategies        | Healthcare firms are developing crisis communication strategies to address public outrage and misinformation effectively.                                                       |           4 |
 
 ## Issues
 

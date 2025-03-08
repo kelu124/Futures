@@ -59,11 +59,11 @@ Elon Musk has accused the European Commission of offering X (formerly Twitter) a
 
 ## Technologies
 
-| description                                                                                                        |   relevancy | src                              |
-|:-------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| Regulatory framework by the EU aimed at ensuring transparency and user protection on digital platforms.            |           5 | 2be2858d309c5af66e1cbe5f2d9acbfe |
-| A system for authenticating user identities on social media, aimed at reducing misinformation and enhancing trust. |           4 | 2be2858d309c5af66e1cbe5f2d9acbfe |
-| Requirement for social media platforms to provide clear access to advertising data for accountability purposes.    |           4 | 2be2858d309c5af66e1cbe5f2d9acbfe |
+| name                       | description                                                                                                        |   relevancy |
+|:---------------------------|:-------------------------------------------------------------------------------------------------------------------|------------:|
+| Digital Services Act       | Regulatory framework by the EU aimed at ensuring transparency and user protection on digital platforms.            |           5 |
+| Verified Accounts System   | A system for authenticating user identities on social media, aimed at reducing misinformation and enhancing trust. |           4 |
+| Ad Repository Transparency | Requirement for social media platforms to provide clear access to advertising data for accountability purposes.    |           4 |
 
 ## Issues
 

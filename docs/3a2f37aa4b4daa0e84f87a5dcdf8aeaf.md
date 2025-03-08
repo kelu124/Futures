@@ -52,12 +52,12 @@ Researchers in Brazil have discovered alarming rocks made from melted plastic on
 
 ## Technologies
 
-| description                                                                                                                        |   relevancy | src                              |
-|:-----------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| Rocks formed from a mixture of sedimentary materials and melted plastic debris, highlighting human impact on geological processes. |           4 | 3a2f37aa4b4daa0e84f87a5dcdf8aeaf |
-| Research and techniques to identify and analyze plastic debris in geological formations and natural environments.                  |           3 | 3a2f37aa4b4daa0e84f87a5dcdf8aeaf |
-| Innovative methods for managing and mitigating the effects of plastic pollution in marine ecosystems.                              |           4 | 3a2f37aa4b4daa0e84f87a5dcdf8aeaf |
-| Research focused on the geological epoch characterized by significant human impact on Earth's geology and ecosystems.              |           5 | 3a2f37aa4b4daa0e84f87a5dcdf8aeaf |
+| name                       | description                                                                                                                        |   relevancy |
+|:---------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Plastiglomerates           | Rocks formed from a mixture of sedimentary materials and melted plastic debris, highlighting human impact on geological processes. |           4 |
+| Plastic Pollution Tracking | Research and techniques to identify and analyze plastic debris in geological formations and natural environments.                  |           3 |
+| Marine Debris Management   | Innovative methods for managing and mitigating the effects of plastic pollution in marine ecosystems.                              |           4 |
+| Anthropocene Studies       | Research focused on the geological epoch characterized by significant human impact on Earth's geology and ecosystems.              |           5 |
 
 ## Issues
 

@@ -57,13 +57,13 @@ Vicuna-13B is a new open-source chatbot developed by researchers from UC Berkele
 
 ## Technologies
 
-| description                                                                                                                     |   relevancy | src                              |
-|:--------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| An open-source chatbot developed by fine-tuning a LLaMA base model to improve conversation quality using user-shared data.      |           5 | e91b6e1d0dcf2c5d43dfddbf6a56310b |
-| Techniques to enhance LLMs like memory optimizations and multi-round conversation handling for better AI chatbot performance.   |           4 | e91b6e1d0dcf2c5d43dfddbf6a56310b |
-| A framework using GPT-4 to automate the assessment of chatbot performance across various question categories.                   |           4 | e91b6e1d0dcf2c5d43dfddbf6a56310b |
-| A cloud computing feature that allows for cost-effective training and serving of AI models by utilizing cheaper spot instances. |           3 | e91b6e1d0dcf2c5d43dfddbf6a56310b |
-| A system capable of serving multiple AI models with distributed workers, enhancing scalability and cost efficiency.             |           3 | e91b6e1d0dcf2c5d43dfddbf6a56310b |
+| name                                               | description                                                                                                                     |   relevancy |
+|:---------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Vicuna-13B                                         | An open-source chatbot developed by fine-tuning a LLaMA base model to improve conversation quality using user-shared data.      |           5 |
+| Large Language Models (LLMs) Optimization          | Techniques to enhance LLMs like memory optimizations and multi-round conversation handling for better AI chatbot performance.   |           4 |
+| Automated Chatbot Performance Evaluation Framework | A framework using GPT-4 to automate the assessment of chatbot performance across various question categories.                   |           4 |
+| SkyPilot Managed Spot Instances                    | A cloud computing feature that allows for cost-effective training and serving of AI models by utilizing cheaper spot instances. |           3 |
+| Distributed Serving System for AI Models           | A system capable of serving multiple AI models with distributed workers, enhancing scalability and cost efficiency.             |           3 |
 
 ## Issues
 

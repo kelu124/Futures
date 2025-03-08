@@ -9,7 +9,7 @@ from langchain.vectorstores import Chroma
 
 
 
-from futures.fcts import getWeaksignals, getSummary, getMeta
+from futures.fcts import getWeaksignals, getSummary, getMeta, getEmergingConcerns
 from futures.fcts import getWeaksignals, getEmergingIssues, getEmergingBehaviors, getEmergingTechnologies
 
 from futures.llm import LLM
@@ -38,7 +38,7 @@ class Futurist:
         self.doProcessing(category="get_emergingissues", minL=1500, maxL=30000, n=n)
         self.doProcessing(category="get_emergingtechnologies", minL=1500, maxL=30000, n=n)
         self.doProcessing(category="get_emergingbehaviors", minL=1500, maxL=30000, n=n)
-
+        self.doProcessing(category="get_emergingconcerns", minL=1500, maxL=30000, n=n)
 
     def doProcessing(self, category, minL=1500, maxL=30000, n=10):
         self.proccat = {}
@@ -52,6 +52,9 @@ class Futurist:
         self.proccat["get_emergingissues"] = {"function": getEmergingIssues(),
                                            "instruction": "Identify emerging issues in this text",
                                            "dataframe": self.ai.srcEmergingIssue}
+        self.proccat["get_emergingconcerns"] = {"function": getEmergingConcerns(),
+                                           "instruction": "Identify emerging concerns in this text",
+                                           "dataframe": self.ai.srcEmergingConcerns}
         self.proccat["get_emergingtechnologies"] = {"function": getEmergingTechnologies(),
                                            "instruction": "Identify emerging technologies in this text",
                                            "dataframe": self.ai.srcEmergingTechs}
@@ -238,3 +241,4 @@ class Futurist:
             return "## "+df["title"].iloc[0]+"\n\n"+df["story"].iloc[0]
         else:
             return "No story for this ID"
+        

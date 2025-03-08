@@ -52,11 +52,11 @@ Effectuation, a theory developed by Professor Saras Sarasvathy, offers a new per
 
 ## Technologies
 
-| description                                                                                                                                                    |   relevancy | src                              |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| A theory of entrepreneurship emphasizing action and flexibility in unpredictable environments rather than predictive causality.                                |           5 | 3fa3aefb7ebd85ee6eec21bf4bb4122f |
-| An approach to developing businesses and products that aims to shorten product development cycles and rapidly discover if a proposed business model is viable. |           4 | 3fa3aefb7ebd85ee6eec21bf4bb4122f |
-| A problem-solving approach where entrepreneurs use whatever resources are available to create new solutions and business models.                               |           4 | 3fa3aefb7ebd85ee6eec21bf4bb4122f |
+| name                  | description                                                                                                                                                    |   relevancy |
+|:----------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Effectuation Theory   | A theory of entrepreneurship emphasizing action and flexibility in unpredictable environments rather than predictive causality.                                |           5 |
+| Lean Startup Movement | An approach to developing businesses and products that aims to shorten product development cycles and rapidly discover if a proposed business model is viable. |           4 |
+| Bricolage             | A problem-solving approach where entrepreneurs use whatever resources are available to create new solutions and business models.                               |           4 |
 
 ## Issues
 

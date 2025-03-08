@@ -54,11 +54,11 @@ The Eiffel Tower, a symbol of Paris, faced significant opposition before its con
 
 ## Technologies
 
-| description                                                                                                           |   relevancy | src                              |
-|:----------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| A fast-growing form of communication technology that allows for long-distance signal transmission and reception.      |           5 | 4eaa8e3d0221ce6e4a5a1cfe16bd7aae |
-| Utilizing elevated structures for scientific experiments and weather observations, enhancing data collection methods. |           4 | 4eaa8e3d0221ce6e4a5a1cfe16bd7aae |
-| Studying the behavior of objects in motion through the air, crucial for advancements in engineering and architecture. |           4 | 4eaa8e3d0221ce6e4a5a1cfe16bd7aae |
+| name                        | description                                                                                                           |   relevancy |
+|:----------------------------|:----------------------------------------------------------------------------------------------------------------------|------------:|
+| Wireless Telegraphy         | A fast-growing form of communication technology that allows for long-distance signal transmission and reception.      |           5 |
+| Meteorological Observations | Utilizing elevated structures for scientific experiments and weather observations, enhancing data collection methods. |           4 |
+| Aerodynamics Research       | Studying the behavior of objects in motion through the air, crucial for advancements in engineering and architecture. |           4 |
 
 ## Issues
 

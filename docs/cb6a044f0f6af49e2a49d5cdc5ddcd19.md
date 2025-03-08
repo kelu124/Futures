@@ -53,13 +53,13 @@ The newsletter update by David Mattin discusses the implications of TikTok's ban
 
 ## Technologies
 
-| description                                                                                                                       |   relevancy | src                              |
-|:----------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| A push for domestic production of AI chips to reduce reliance on foreign technology, particularly from Taiwan and China.          |           5 | cb6a044f0f6af49e2a49d5cdc5ddcd19 |
-| The division of the internet into separate networks based on geopolitical lines, particularly between the Global North and China. |           5 | cb6a044f0f6af49e2a49d5cdc5ddcd19 |
-| Development of AI systems within China that align with the CCP's ideology, in contrast to Western AI systems.                     |           4 | cb6a044f0f6af49e2a49d5cdc5ddcd19 |
-| The rise of military applications of drone technology for surveillance and combat.                                                |           4 | cb6a044f0f6af49e2a49d5cdc5ddcd19 |
-| Advanced surveillance technologies that monitor the lives of ordinary people, raising privacy concerns.                           |           4 | cb6a044f0f6af49e2a49d5cdc5ddcd19 |
+| name                  | description                                                                                                                       |   relevancy |
+|:----------------------|:----------------------------------------------------------------------------------------------------------------------------------|------------:|
+| AI Chip Manufacturing | A push for domestic production of AI chips to reduce reliance on foreign technology, particularly from Taiwan and China.          |           5 |
+| Splinternet           | The division of the internet into separate networks based on geopolitical lines, particularly between the Global North and China. |           5 |
+| Domestic AI Systems   | Development of AI systems within China that align with the CCP's ideology, in contrast to Western AI systems.                     |           4 |
+| Drone Armies          | The rise of military applications of drone technology for surveillance and combat.                                                |           4 |
+| Surveillance Systems  | Advanced surveillance technologies that monitor the lives of ordinary people, raising privacy concerns.                           |           4 |
 
 ## Issues
 

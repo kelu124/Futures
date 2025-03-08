@@ -52,13 +52,13 @@ ASH is an AI-powered field guide designed for children aged 6 and up, inspired b
 
 ## Technologies
 
-| description                                                                                                                          |   relevancy | src                              |
-|:-------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| An AI-driven device that helps children discover and learn about biodiversity through photography and instant information retrieval. |           5 | e2e0bd82e1edd6e65aa54aeb538ede8c |
-| A modern digital camera interface designed for children to capture and identify wildlife, enhancing their learning experience.       |           4 | e2e0bd82e1edd6e65aa54aeb538ede8c |
-| A gamified reward system for encouraging exploration and discovery of biodiversity among children.                                   |           3 | e2e0bd82e1edd6e65aa54aeb538ede8c |
-| A technology used for rapid prototyping that allows for the creation of customized devices and educational tools.                    |           4 | e2e0bd82e1edd6e65aa54aeb538ede8c |
-| A hardware platform integrated with a species recognition dataset, enabling real-time identification of flora and fauna.             |           5 | e2e0bd82e1edd6e65aa54aeb538ede8c |
+| name                                        | description                                                                                                                          |   relevancy |
+|:--------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| AI-Powered Ecology Device                   | An AI-driven device that helps children discover and learn about biodiversity through photography and instant information retrieval. |           5 |
+| Point and Click Digital Camera for Learning | A modern digital camera interface designed for children to capture and identify wildlife, enhancing their learning experience.       |           4 |
+| Collectible Digital Badges                  | A gamified reward system for encouraging exploration and discovery of biodiversity among children.                                   |           3 |
+| SLS 3D Printing                             | A technology used for rapid prototyping that allows for the creation of customized devices and educational tools.                    |           4 |
+| Coral Board with iNaturalist Dataset        | A hardware platform integrated with a species recognition dataset, enabling real-time identification of flora and fauna.             |           5 |
 
 ## Issues
 

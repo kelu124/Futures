@@ -62,16 +62,16 @@ In March 2028, a Taiwanese analyst revealed satellite images of Chinese military
 
 ## Technologies
 
-| description                                                                                                           |   relevancy | src                              |
-|:----------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| Large naval vessels designed for landing ground forces on enemy territory, equipped to transport troops and supplies. |           5 | 5ef6dd39c0b5eeaebb8dd1e1eb77a4c5 |
-| Military units that are deployed via helicopters for rapid deployment and assault operations.                         |           5 | 5ef6dd39c0b5eeaebb8dd1e1eb77a4c5 |
-| Missiles designed to hit specific targets with high accuracy, reducing collateral damage.                             |           5 | 5ef6dd39c0b5eeaebb8dd1e1eb77a4c5 |
-| Unmanned aerial vehicles used for one-way missions to strike targets, enhancing military capabilities.                |           4 | 5ef6dd39c0b5eeaebb8dd1e1eb77a4c5 |
-| Technologies used to conduct operations in cyberspace to disrupt or damage adversary infrastructure.                  |           5 | 5ef6dd39c0b5eeaebb8dd1e1eb77a4c5 |
-| Vessels designed for easy loading and unloading of vehicles, crucial for rapid military logistics.                    |           4 | 5ef6dd39c0b5eeaebb8dd1e1eb77a4c5 |
-| High-speed vessels that can transport troops and equipment to beaches and shallow waters.                             |           4 | 5ef6dd39c0b5eeaebb8dd1e1eb77a4c5 |
-| Innovative systems for efficient transportation and supply chain management during military operations.               |           4 | 5ef6dd39c0b5eeaebb8dd1e1eb77a4c5 |
+| name                                | description                                                                                                           |   relevancy |
+|:------------------------------------|:----------------------------------------------------------------------------------------------------------------------|------------:|
+| Amphibious Assault Ships            | Large naval vessels designed for landing ground forces on enemy territory, equipped to transport troops and supplies. |           5 |
+| Heliborne Assault Forces            | Military units that are deployed via helicopters for rapid deployment and assault operations.                         |           5 |
+| Precision-Guided Missiles           | Missiles designed to hit specific targets with high accuracy, reducing collateral damage.                             |           5 |
+| Kamikaze Drones                     | Unmanned aerial vehicles used for one-way missions to strike targets, enhancing military capabilities.                |           4 |
+| Cyber Warfare Capabilities          | Technologies used to conduct operations in cyberspace to disrupt or damage adversary infrastructure.                  |           5 |
+| Roll-on/Roll-off (RORO) Ferries     | Vessels designed for easy loading and unloading of vehicles, crucial for rapid military logistics.                    |           4 |
+| Air-Cushioned Landing Craft (LCAC)  | High-speed vessels that can transport troops and equipment to beaches and shallow waters.                             |           4 |
+| Advanced Military Logistics Systems | Innovative systems for efficient transportation and supply chain management during military operations.               |           4 |
 
 ## Issues
 

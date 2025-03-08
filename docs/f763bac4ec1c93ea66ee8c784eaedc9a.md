@@ -57,12 +57,12 @@ The discussion around nuclear-powered F1 cars explores the contradictions in cur
 
 ## Technologies
 
-| description                                                                                                                               |   relevancy | src                              |
-|:------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| An experimental concept for an F1 engine using nuclear power, promising efficiency and performance but facing safety and cost challenges. |           4 | f763bac4ec1c93ea66ee8c784eaedc9a |
-| A lightweight power source using temperature differences from nuclear decay, suitable for long-duration missions but limited in output.   |           3 | f763bac4ec1c93ea66ee8c784eaedc9a |
-| Autonomous vehicles that could potentially use nuclear power, reducing safety risks related to shielding and weight.                      |           4 | f763bac4ec1c93ea66ee8c784eaedc9a |
-| A proposed concept for cars using thorium as a nuclear fuel, aiming for sustainability and efficiency in energy use.                      |           4 | f763bac4ec1c93ea66ee8c784eaedc9a |
+| name                                                    | description                                                                                                                               |   relevancy |
+|:--------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Nuclear Powered F1 Engine                               | An experimental concept for an F1 engine using nuclear power, promising efficiency and performance but facing safety and cost challenges. |           4 |
+| Nuclear Battery (Radioisotope Thermoelectric Generator) | A lightweight power source using temperature differences from nuclear decay, suitable for long-duration missions but limited in output.   |           3 |
+| Driverless Cars                                         | Autonomous vehicles that could potentially use nuclear power, reducing safety risks related to shielding and weight.                      |           4 |
+| Thorium Powered Cars                                    | A proposed concept for cars using thorium as a nuclear fuel, aiming for sustainability and efficiency in energy use.                      |           4 |
 
 ## Issues
 

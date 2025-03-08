@@ -61,10 +61,10 @@ A network of ultrawealthy Christian donors, known as Ziklag, is set to spend nea
 
 ## Technologies
 
-| description                                                                                                                                          |   relevancy | src                              |
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| Controversial AI technology used to automate and expedite challenges to the eligibility of voters in competitive states.                             |           4 | 4cf0dce2c4d4630ab2ab936ededf6c13 |
-| A tool leveraging artificial intelligence to automate the process of challenging ineligible voters, potentially impacting voter rolls significantly. |           5 | 4cf0dce2c4d4630ab2ab936ededf6c13 |
+| name                                         | description                                                                                                                                          |   relevancy |
+|:---------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| AI software for voter eligibility challenges | Controversial AI technology used to automate and expedite challenges to the eligibility of voters in competitive states.                             |           4 |
+| EagleAI                                      | A tool leveraging artificial intelligence to automate the process of challenging ineligible voters, potentially impacting voter rolls significantly. |           5 |
 
 ## Issues
 

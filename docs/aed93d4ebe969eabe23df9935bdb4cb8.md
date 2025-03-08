@@ -53,13 +53,13 @@ Electric vehicles (EVs) are gaining traction, with major automakers like Ford an
 
 ## Technologies
 
-| description                                                                                                                 |   relevancy | src                              |
-|:----------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| Vehicles powered by electricity rather than gasoline, with major auto companies phasing out gas-powered models by 2040.     |           5 | aed93d4ebe969eabe23df9935bdb4cb8 |
-| Focus on securing EVs and charging stations against hacking threats and vulnerabilities in their networks.                  |           4 | aed93d4ebe969eabe23df9935bdb4cb8 |
-| Using machine learning to detect unusual patterns in vehicle charging activity to identify potential cyber attacks.         |           4 | aed93d4ebe969eabe23df9935bdb4cb8 |
-| Enhancements to the security of vehicle communication systems that are vulnerable to cyber threats.                         |           4 | aed93d4ebe969eabe23df9935bdb4cb8 |
-| Development of faster and more reliable charging stations to support the growing EV market and alleviate consumer concerns. |           4 | aed93d4ebe969eabe23df9935bdb4cb8 |
+| name                                                | description                                                                                                                 |   relevancy |
+|:----------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------|------------:|
+| Electric Vehicles (EVs)                             | Vehicles powered by electricity rather than gasoline, with major auto companies phasing out gas-powered models by 2040.     |           5 |
+| Cybersecurity for Electric Vehicles                 | Focus on securing EVs and charging stations against hacking threats and vulnerabilities in their networks.                  |           4 |
+| Anomaly Detection in Cybersecurity                  | Using machine learning to detect unusual patterns in vehicle charging activity to identify potential cyber attacks.         |           4 |
+| Controller Area Network (CAN) Security Improvements | Enhancements to the security of vehicle communication systems that are vulnerable to cyber threats.                         |           4 |
+| Fast-Charging Infrastructure                        | Development of faster and more reliable charging stations to support the growing EV market and alleviate consumer concerns. |           4 |
 
 ## Issues
 

@@ -1,6 +1,10 @@
 # Overview 
 
 This page tries to capture the information obtained in my [tech watch](https://substack.kghosh.me/). The different links and pages are captured below, trying to catalogue different weak signals.
+* [Chile Declares State of Emergency Following Major Power Outage Affecting Millions](5e3cc5530d906f18c45ef321405d39d9)
+* [Elon Musk's Starlink May Replace Verizon for $2.4 Billion Air Traffic Control Contract](b78c9905be134bbf3540f5c11d862564)
+* [US Congress Accuses UK of Cyber Attack Over Apple Data Access Demand](56a70772c6ce62eb458a6026061b1e2c)
+* [Navigating Uncertainty: Roger Spitz's Framework for Systemic Change and Transformation](569e54d34c92bd75a1795d0d97c32325)
 * [Study Reveals Human Controllers Can Manage Large Swarms of Robots Effectively](d53909b5dc0d4c947475949f1a1686f7)
 * [Technofossils: The Enduring Legacy of Plastic, Fast Food, and Synthetic Clothing](9b28b467817ea898c7c8c104f9103ab9)
 * [Exploring the WHO Course on Developing and Sustaining Healthy Cities in 20 Steps](913d0269ceb45988ccb27e8f60b4f3c7)

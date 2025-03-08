@@ -53,12 +53,12 @@ A groundbreaking human trial for a tooth regeneration drug will begin at Kyoto U
 
 ## Technologies
 
-| description                                                                                                                   |   relevancy | src                              |
-|:------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| A drug that can regenerate teeth by deactivating the USAG-1 protein, encouraging new tooth growth.                            |           5 | b20cff74f16cc0babfa404c61efc4ea6 |
-| Utilizing gene editing techniques to modify proteins that suppress tooth growth, potentially enabling new dental treatments.  |           4 | b20cff74f16cc0babfa404c61efc4ea6 |
-| Therapeutic approaches aimed at treating tooth loss in patients with congenital conditions through innovative drug therapies. |           4 | b20cff74f16cc0babfa404c61efc4ea6 |
-| Targeting BMP signaling pathways to stimulate new bone and tooth growth, based on molecular interactions.                     |           4 | b20cff74f16cc0babfa404c61efc4ea6 |
+| name                                               | description                                                                                                                   |   relevancy |
+|:---------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Tooth Regeneration Drug                            | A drug that can regenerate teeth by deactivating the USAG-1 protein, encouraging new tooth growth.                            |           5 |
+| Gene Editing for Dental Regeneration               | Utilizing gene editing techniques to modify proteins that suppress tooth growth, potentially enabling new dental treatments.  |           4 |
+| Molecular Therapy for Congenital Dental Conditions | Therapeutic approaches aimed at treating tooth loss in patients with congenital conditions through innovative drug therapies. |           4 |
+| Bone Morphogenetic Protein (BMP) Signaling         | Targeting BMP signaling pathways to stimulate new bone and tooth growth, based on molecular interactions.                     |           4 |
 
 ## Issues
 

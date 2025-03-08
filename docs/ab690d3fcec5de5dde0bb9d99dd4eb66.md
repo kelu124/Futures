@@ -57,15 +57,15 @@ The upcoming United Nations 'Summit of the Future' on September 22-23, 2024, aim
 
 ## Technologies
 
-| description                                                                                                                                  |   relevancy | src                              |
-|:---------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| A systematic approach for nations to predict and prepare for future global challenges through strategic foresight and risk assessment.       |           5 | ab690d3fcec5de5dde0bb9d99dd4eb66 |
-| Goals established to promote global development while ensuring sustainability and equity, requiring collective commitments from all nations. |           5 | ab690d3fcec5de5dde0bb9d99dd4eb66 |
-| Innovative technologies aimed at reducing greenhouse gas emissions and addressing climate change challenges effectively.                     |           5 | ab690d3fcec5de5dde0bb9d99dd4eb66 |
-| Frameworks that enable collaborative decision-making and problem-solving at a global scale using diverse perspectives and expertise.         |           4 | ab690d3fcec5de5dde0bb9d99dd4eb66 |
-| Systems designed to coordinate international responses to complex global crises, ensuring timely interventions.                              |           4 | ab690d3fcec5de5dde0bb9d99dd4eb66 |
-| A scientific framework defining the ecological limits within which humanity can safely operate, guiding sustainable development efforts.     |           4 | ab690d3fcec5de5dde0bb9d99dd4eb66 |
-| Technologies aimed at achieving net-zero carbon emissions, critical for combating climate change by 2050.                                    |           5 | ab690d3fcec5de5dde0bb9d99dd4eb66 |
+| name                                   | description                                                                                                                                  |   relevancy |
+|:---------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Global Foresight and Risk Assessment   | A systematic approach for nations to predict and prepare for future global challenges through strategic foresight and risk assessment.       |           5 |
+| Sustainable Development Goals (SDGs)   | Goals established to promote global development while ensuring sustainability and equity, requiring collective commitments from all nations. |           5 |
+| Climate Change Mitigation Technologies | Innovative technologies aimed at reducing greenhouse gas emissions and addressing climate change challenges effectively.                     |           5 |
+| Collective Intelligence Systems        | Frameworks that enable collaborative decision-making and problem-solving at a global scale using diverse perspectives and expertise.         |           4 |
+| Emergency Response Platforms           | Systems designed to coordinate international responses to complex global crises, ensuring timely interventions.                              |           4 |
+| Planetary Boundaries Model             | A scientific framework defining the ecological limits within which humanity can safely operate, guiding sustainable development efforts.     |           4 |
+| Net-Zero Technologies                  | Technologies aimed at achieving net-zero carbon emissions, critical for combating climate change by 2050.                                    |           5 |
 
 ## Issues
 

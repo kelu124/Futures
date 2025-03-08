@@ -56,15 +56,15 @@ The USS Yorktown incident on September 21, 1997, serves as a critical case study
 
 ## Technologies
 
-| description                                                                                                                       |   relevancy | src                              |
-|:----------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| Automated systems for navigation, machinery control, and communication in naval vessels using fiber optics and wireless networks. |           5 | 4c4da5feaaa0e6bc72bdaf165ca28151 |
-| Digital design tools for efficient manufacturing processes in shipbuilding, enhancing precision and reducing time.                |           4 | 4c4da5feaaa0e6bc72bdaf165ca28151 |
-| Advanced programming practices to manage errors and exceptions in software applications, improving reliability.                   |           5 | 4c4da5feaaa0e6bc72bdaf165ca28151 |
-| Systems designed to continue operation despite failures, essential for mission-critical applications like naval operations.       |           5 | 4c4da5feaaa0e6bc72bdaf165ca28151 |
-| Iterative and flexible approaches to software development and project execution, enhancing responsiveness to change.              |           4 | 4c4da5feaaa0e6bc72bdaf165ca28151 |
-| Networking technology for efficient communication and data exchange among shipboard systems and devices.                          |           4 | 4c4da5feaaa0e6bc72bdaf165ca28151 |
-| Technology that integrates automation into machinery management to reduce manpower and enhance operational efficiency.            |           5 | 4c4da5feaaa0e6bc72bdaf165ca28151 |
+| name                                               | description                                                                                                                       |   relevancy |
+|:---------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Smart Ship Systems                                 | Automated systems for navigation, machinery control, and communication in naval vessels using fiber optics and wireless networks. |           5 |
+| Computer-Aided Design (CAD)                        | Digital design tools for efficient manufacturing processes in shipbuilding, enhancing precision and reducing time.                |           4 |
+| Exception Handling in Software Development         | Advanced programming practices to manage errors and exceptions in software applications, improving reliability.                   |           5 |
+| Fault Tolerant Systems                             | Systems designed to continue operation despite failures, essential for mission-critical applications like naval operations.       |           5 |
+| Agile Methodologies in Project Management          | Iterative and flexible approaches to software development and project execution, enhancing responsiveness to change.              |           4 |
+| Local Area Networks (LAN) in Military Applications | Networking technology for efficient communication and data exchange among shipboard systems and devices.                          |           4 |
+| Automated Control Systems for Machinery            | Technology that integrates automation into machinery management to reduce manpower and enhance operational efficiency.            |           5 |
 
 ## Issues
 

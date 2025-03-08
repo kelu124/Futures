@@ -53,11 +53,11 @@ __[External link](https://en.wikipedia.org/wiki/Bigbug)__
 
 ## Technologies
 
-| description                                                                             |   relevancy | src                              |
-|:----------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| AI is integrated into everyday life, serving various human needs and desires.           |           5 | 0e3aecb9945b5787eebfacb7ab40e7cb |
-| Robotic helpers that are used in homes, capable of performing various tasks for humans. |           4 | 0e3aecb9945b5787eebfacb7ab40e7cb |
-| Advanced androids that may possess self-awareness and can rebel against human control.  |           5 | 0e3aecb9945b5787eebfacb7ab40e7cb |
+| name                         | description                                                                             |   relevancy |
+|:-----------------------------|:----------------------------------------------------------------------------------------|------------:|
+| Artificial Intelligence (AI) | AI is integrated into everyday life, serving various human needs and desires.           |           5 |
+| Domestic Robots              | Robotic helpers that are used in homes, capable of performing various tasks for humans. |           4 |
+| Sentient AI Androids         | Advanced androids that may possess self-awareness and can rebel against human control.  |           5 |
 
 ## Issues
 

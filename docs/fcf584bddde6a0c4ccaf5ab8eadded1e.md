@@ -55,15 +55,15 @@ Monash University scientists developed "DishBrain," a semi-biological computer c
 
 ## Technologies
 
-| description                                                                                                                     |   relevancy | src                              |
-|:--------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| A semi-biological computer chip with lab-grown brain cells that learns and acts, potentially surpassing silicon-based hardware. |           5 | fcf584bddde6a0c4ccaf5ab8eadded1e |
-| Integration of biological systems with computer technology to enhance learning and adaptability in machines.                    |           5 | fcf584bddde6a0c4ccaf5ab8eadded1e |
-| Technologies that allow direct communication between brain cells and machines, enhancing interaction and control.               |           4 | fcf584bddde6a0c4ccaf5ab8eadded1e |
-| Chips that can be programmed to replicate biological learning processes, improving machine intelligence.                        |           5 | fcf584bddde6a0c4ccaf5ab8eadded1e |
-| Machines that can learn and adapt continuously, utilizing biological neural networks for improved performance.                  |           5 | fcf584bddde6a0c4ccaf5ab8eadded1e |
-| Technologies focused on automating tasks with intelligent systems that learn from their environment.                            |           4 | fcf584bddde6a0c4ccaf5ab8eadded1e |
-| Enhanced machine learning methods that incorporate biological principles to improve adaptability and efficiency.                |           5 | fcf584bddde6a0c4ccaf5ab8eadded1e |
+| name                            | description                                                                                                                     |   relevancy |
+|:--------------------------------|:--------------------------------------------------------------------------------------------------------------------------------|------------:|
+| DishBrain                       | A semi-biological computer chip with lab-grown brain cells that learns and acts, potentially surpassing silicon-based hardware. |           5 |
+| Biological Computing            | Integration of biological systems with computer technology to enhance learning and adaptability in machines.                    |           5 |
+| Brain-Machine Interfaces        | Technologies that allow direct communication between brain cells and machines, enhancing interaction and control.               |           4 |
+| Programmable Chips              | Chips that can be programmed to replicate biological learning processes, improving machine intelligence.                        |           5 |
+| Autonomous Learning Systems     | Machines that can learn and adapt continuously, utilizing biological neural networks for improved performance.                  |           5 |
+| Advanced Automation             | Technologies focused on automating tasks with intelligent systems that learn from their environment.                            |           4 |
+| New Generation Machine Learning | Enhanced machine learning methods that incorporate biological principles to improve adaptability and efficiency.                |           5 |
 
 ## Issues
 

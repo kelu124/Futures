@@ -56,12 +56,12 @@ Virtual humans in China have partnered with luxury brands like Bulgari and Esté
 
 ## Technologies
 
-| description                                                                                                          |   relevancy | src                              |
-|:---------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| AI-generated personas that engage with audiences and brands, blending digital and physical realities.                |           5 | ed6be3a2a502c8a0bedd63d8ab1c8d9e |
-| Content created with the assistance of artificial intelligence, enhancing the capabilities of virtual influencers.   |           4 | ed6be3a2a502c8a0bedd63d8ab1c8d9e |
-| Collaborations between high-end brands and virtual personas to reach modern consumers through unique branding.       |           5 | ed6be3a2a502c8a0bedd63d8ab1c8d9e |
-| Virtual beings employed by companies for marketing and representation roles, exemplified by Ayayi's role at Alibaba. |           4 | ed6be3a2a502c8a0bedd63d8ab1c8d9e |
+| name                                               | description                                                                                                          |   relevancy |
+|:---------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|------------:|
+| Virtual Humans                                     | AI-generated personas that engage with audiences and brands, blending digital and physical realities.                |           5 |
+| AI-Generated Content (AIGC)                        | Content created with the assistance of artificial intelligence, enhancing the capabilities of virtual influencers.   |           4 |
+| Luxury Brand Partnerships with Virtual Influencers | Collaborations between high-end brands and virtual personas to reach modern consumers through unique branding.       |           5 |
+| Digital Human Employees                            | Virtual beings employed by companies for marketing and representation roles, exemplified by Ayayi's role at Alibaba. |           4 |
 
 ## Issues
 

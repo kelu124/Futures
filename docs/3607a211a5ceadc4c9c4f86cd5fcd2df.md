@@ -51,9 +51,9 @@ A team of researchers from Sakana AI, the University of Oxford, and the Universi
 
 ## Technologies
 
-| description                                                                                                                               |   relevancy | src                              |
-|:------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| An AI model that conducts scientific research autonomously, automating the entire research process from idea generation to paper writing. |           5 | 3607a211a5ceadc4c9c4f86cd5fcd2df |
+| name         | description                                                                                                                               |   relevancy |
+|:-------------|:------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| AI Scientist | An AI model that conducts scientific research autonomously, automating the entire research process from idea generation to paper writing. |           5 |
 
 ## Issues
 

@@ -55,11 +55,11 @@ Japanese illustrator Enya Honami specializes in isometric drawings of sento, tra
 
 ## Technologies
 
-| description                                                                                                                               |   relevancy | src                              |
-|:------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| A style of architectural rendering that provides a three-dimensional view in two dimensions, used to illustrate complex structures.       |           4 | bcc07dc334bdd857ebaf70313b1aecc8 |
-| The practice of creating two-dimensional images or animations showing the attributes of a proposed architectural design.                  |           4 | bcc07dc334bdd857ebaf70313b1aecc8 |
-| Using artistic skills to document and preserve cultural artifacts, like Japanese public bathhouses, through renderings and illustrations. |           3 | bcc07dc334bdd857ebaf70313b1aecc8 |
+| name                               | description                                                                                                                               |   relevancy |
+|:-----------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Isometric Drawings                 | A style of architectural rendering that provides a three-dimensional view in two dimensions, used to illustrate complex structures.       |           4 |
+| Architectural Rendering            | The practice of creating two-dimensional images or animations showing the attributes of a proposed architectural design.                  |           4 |
+| Cultural Documentation through Art | Using artistic skills to document and preserve cultural artifacts, like Japanese public bathhouses, through renderings and illustrations. |           3 |
 
 ## Issues
 

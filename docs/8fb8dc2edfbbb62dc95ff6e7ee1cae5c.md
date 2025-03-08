@@ -51,9 +51,9 @@ Mark Schaefer's post argues that content marketing, despite its popularity, may 
 
 ## Technologies
 
-| description                                                                                                                         |   relevancy | src                              |
-|:------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| A new strategy focusing on improving the transmission of content to overcome information overload and engage consumers effectively. |           4 | 8fb8dc2edfbbb62dc95ff6e7ee1cae5c |
+| name                            | description                                                                                                                         |   relevancy |
+|:--------------------------------|:------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Content Transmission Competency | A new strategy focusing on improving the transmission of content to overcome information overload and engage consumers effectively. |           4 |
 
 ## Issues
 

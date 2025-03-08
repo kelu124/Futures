@@ -54,14 +54,14 @@ Belgium has become the first country in the EU to implement a comprehensive safe
 
 ## Technologies
 
-| description                                                                                                                          |   relevancy | src                              |
-|:-------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| A comprehensive safe harbor framework in Belgium that protects security researchers from prosecution when reporting vulnerabilities. |           5 | 8ae26b7eeafce0d7e88a3f1e7cadcfd7 |
-| National frameworks that establish guidelines for reporting IT vulnerabilities while ensuring legal protection for researchers.      |           5 | 8ae26b7eeafce0d7e88a3f1e7cadcfd7 |
-| Programs encouraging organizations to adopt structured processes for reporting and managing security vulnerabilities.                |           4 | 8ae26b7eeafce0d7e88a3f1e7cadcfd7 |
-| Incentive schemes for ethical hackers to discover and report vulnerabilities in exchange for rewards.                                |           4 | 8ae26b7eeafce0d7e88a3f1e7cadcfd7 |
-| New legal frameworks across EU member states that aim to protect ethical hackers and promote security reporting.                     |           4 | 8ae26b7eeafce0d7e88a3f1e7cadcfd7 |
-| Best practices and policies adopted by organizations to improve cybersecurity and vulnerability management.                          |           3 | 8ae26b7eeafce0d7e88a3f1e7cadcfd7 |
+| name                                                 | description                                                                                                                          |   relevancy |
+|:-----------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Legal Protections for Ethical Hackers                | A comprehensive safe harbor framework in Belgium that protects security researchers from prosecution when reporting vulnerabilities. |           5 |
+| Coordinated Vulnerability Disclosure Policies (CVDP) | National frameworks that establish guidelines for reporting IT vulnerabilities while ensuring legal protection for researchers.      |           5 |
+| Vulnerability Disclosure Programs (VDPs)             | Programs encouraging organizations to adopt structured processes for reporting and managing security vulnerabilities.                |           4 |
+| Bug Bounty Programs                                  | Incentive schemes for ethical hackers to discover and report vulnerabilities in exchange for rewards.                                |           4 |
+| Cybersecurity Legislation in the EU                  | New legal frameworks across EU member states that aim to protect ethical hackers and promote security reporting.                     |           4 |
+| Cybersecurity Guidelines and Standards               | Best practices and policies adopted by organizations to improve cybersecurity and vulnerability management.                          |           3 |
 
 ## Issues
 

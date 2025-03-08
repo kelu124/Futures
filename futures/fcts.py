@@ -113,7 +113,7 @@ def getEmergingIssues():
     functions = [
             {
             "name": "get_emergingissues",
-            "description": "If the user asks for emerging issues, act like a Futurist, process the text and extract if you can a list of emerging issues (which are defined as issues may be tangentially of importance today, but may grow to wider concerns later on). Do not invent anything, stick to what is explicitly detailed or can be inferred directly from the text.",
+            "description": "If the user asks for emerging issues, act like a Futurist, process the text and extract if you can a list of emerging issues (which are defined as issues may be tangentially of importance today, but may grow to wider issues later on). Do not invent anything, stick to what is explicitly detailed or can be inferred directly from the text.",
             "parameters": {
                 "type": "object",
                 "properties": {
@@ -147,6 +147,42 @@ def getEmergingIssues():
     return functions
 
 
+def getEmergingConcerns():
+    functions = [
+            {
+            "name": "get_emergingconcerns",
+            "description": "If the user asks for emerging concerns, act like a Futurist, process the text and extract if you can a list of emerging concerns (which are defined as concerns of what could go wrong (or very wrong) based on what you read. Do not invent anything, stick to what is explicitly detailed or can be inferred directly from the text.",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "concerns": {
+                        "type": 'array',
+                        "items": {
+                            "type": 'object',
+                            "description": "An emerging concerns, as you have identified.",
+                            "properties": {
+                                "name" :{
+                                    "type": 'string', 
+                                    "description": 'A name for this emerging concerns'
+                                },
+                                "description" :{
+                                    "type": 'string', 
+                                    "description": 'A short description of this emerging concerns, in 10 to 30 words.'
+                                },
+                                "relevancy" :{
+                                    "type": 'integer', 
+                                    "description": 'Your appreciation of the relevancy and importance of the concerns. 0 is really weak, 5 is a very strong concern which may severely impact the future of living beings.'
+                                }                                
+                            },
+                            "required": ["name","description","relevancy"],
+                        }
+                    },
+                },
+                "required": ["concerns"],
+            },
+        }
+    ]
+    return functions
 
 
 def getEmergingTechnologies():

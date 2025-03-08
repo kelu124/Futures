@@ -53,12 +53,12 @@ Research published in Psychology & Aging reveals that men's emotional support ne
 
 ## Technologies
 
-| description                                                                                                                            |   relevancy | src                              |
-|:---------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| A psychological framework that suggests older adults prioritize close relationships as they age, impacting emotional support networks. |           4 | 901fe15ddcf5bfa9b980fcd6dfa4e4b5 |
-| Research methodology involving data collection over long periods to study changes in emotional support networks across the lifespan.   |           5 | 901fe15ddcf5bfa9b980fcd6dfa4e4b5 |
-| Methods and tools to assess emotional support networks through open-ended questions and self-reported data.                            |           4 | 901fe15ddcf5bfa9b980fcd6dfa4e4b5 |
-| Using early-life experiences and socio-economic factors to predict the size of emotional support networks in adulthood.                |           4 | 901fe15ddcf5bfa9b980fcd6dfa4e4b5 |
+| name                                   | description                                                                                                                            |   relevancy |
+|:---------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Socioemotional Selectivity Theory      | A psychological framework that suggests older adults prioritize close relationships as they age, impacting emotional support networks. |           4 |
+| Longitudinal Data Analysis             | Research methodology involving data collection over long periods to study changes in emotional support networks across the lifespan.   |           5 |
+| Emotional Support Measurement Tools    | Methods and tools to assess emotional support networks through open-ended questions and self-reported data.                            |           4 |
+| Predictive Analytics in Social Support | Using early-life experiences and socio-economic factors to predict the size of emotional support networks in adulthood.                |           4 |
 
 ## Issues
 

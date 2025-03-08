@@ -54,13 +54,13 @@ New AI tools, like StoryFile, allow users to interact with deceased relatives th
 
 ## Technologies
 
-| description                                                                                                                                  |   relevancy | src                              |
-|:---------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| AI tools that allow users to interactively converse with deceased relatives through pre-recorded video and audio materials.                  |           5 | b7dd6fe41c7bd9a4a04c30adfd020de4 |
-| Technologies that create interactive digital memories of individuals, allowing families to preserve personal connections across generations. |           4 | b7dd6fe41c7bd9a4a04c30adfd020de4 |
-| Chatbots developed to mimic the voice and personality of individuals based on their social media and recorded communications.                |           4 | b7dd6fe41c7bd9a4a04c30adfd020de4 |
-| Tools that animate old photographs of relatives, providing a more dynamic way to engage with family history.                                 |           3 | b7dd6fe41c7bd9a4a04c30adfd020de4 |
-| AI systems designed to record and preserve personal stories and experiences, creating a digital legacy for future generations.               |           4 | b7dd6fe41c7bd9a4a04c30adfd020de4 |
+| name                                               | description                                                                                                                                  |   relevancy |
+|:---------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| AI Conversational Tools for Posthumous Interaction | AI tools that allow users to interactively converse with deceased relatives through pre-recorded video and audio materials.                  |           5 |
+| Interactive Digital Memories                       | Technologies that create interactive digital memories of individuals, allowing families to preserve personal connections across generations. |           4 |
+| Voice Mimicking Chatbots                           | Chatbots developed to mimic the voice and personality of individuals based on their social media and recorded communications.                |           4 |
+| Photographic Animation Tools                       | Tools that animate old photographs of relatives, providing a more dynamic way to engage with family history.                                 |           3 |
+| Memory Preservation AI                             | AI systems designed to record and preserve personal stories and experiences, creating a digital legacy for future generations.               |           4 |
 
 ## Issues
 

@@ -60,15 +60,15 @@ Eat Just, a foodtech company co-founded by Josh Tetrick, aims to disrupt the mea
 
 ## Technologies
 
-| description                                                                                                        |   relevancy | src                              |
-|:-------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| Innovative food products that aim to replace traditional animal proteins with plant-based or lab-cultured options. |           5 | df3eedff9086debf1a7f5824b0cc2f69 |
-| Meat produced by cultivating animal cells in a controlled environment, aiming for commercial viability.            |           5 | df3eedff9086debf1a7f5824b0cc2f69 |
-| Egg substitutes made from plant proteins, such as mung beans and yellow peas, designed to mimic conventional eggs. |           4 | df3eedff9086debf1a7f5824b0cc2f69 |
-| A technology for editing genes, used to enhance cell efficiency in cultivated meat production.                     |           4 | df3eedff9086debf1a7f5824b0cc2f69 |
-| Equipment for cultivating cells at scale, crucial for the production of cultivated meat.                           |           5 | df3eedff9086debf1a7f5824b0cc2f69 |
-| Facilities designed to extract and refine proteins from plant sources for food production.                         |           4 | df3eedff9086debf1a7f5824b0cc2f69 |
-| Using 3D printing technology to create cultured meat and other food products.                                      |           3 | df3eedff9086debf1a7f5824b0cc2f69 |
+| name                           | description                                                                                                        |   relevancy |
+|:-------------------------------|:-------------------------------------------------------------------------------------------------------------------|------------:|
+| Alternative Protein            | Innovative food products that aim to replace traditional animal proteins with plant-based or lab-cultured options. |           5 |
+| Cultivated Meat                | Meat produced by cultivating animal cells in a controlled environment, aiming for commercial viability.            |           5 |
+| Plant-Based Eggs               | Egg substitutes made from plant proteins, such as mung beans and yellow peas, designed to mimic conventional eggs. |           4 |
+| CRISPR Gene Editing            | A technology for editing genes, used to enhance cell efficiency in cultivated meat production.                     |           4 |
+| Bioreactor Technology          | Equipment for cultivating cells at scale, crucial for the production of cultivated meat.                           |           5 |
+| Protein Separation Facilities  | Facilities designed to extract and refine proteins from plant sources for food production.                         |           4 |
+| 3D Printing in Food Production | Using 3D printing technology to create cultured meat and other food products.                                      |           3 |
 
 ## Issues
 

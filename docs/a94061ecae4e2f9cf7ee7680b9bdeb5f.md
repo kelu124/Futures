@@ -52,13 +52,13 @@ The government emphasizes the importance of public consultations for policy-maki
 
 ## Technologies
 
-| description                                                                                                                             |   relevancy | src                              |
-|:----------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| A tool that uses AI and data science to analyze public consultation responses, extracting patterns and themes to aid policymakers.      |           5 | a94061ecae4e2f9cf7ee7680b9bdeb5f |
-| Techniques like topic modeling used to automatically identify themes in large datasets of text responses.                               |           5 | a94061ecae4e2f9cf7ee7680b9bdeb5f |
-| Models such as ChatGPT, used to generate labels and summaries for themes in consultation responses while ensuring data confidentiality. |           5 | a94061ecae4e2f9cf7ee7680b9bdeb5f |
-| Dashboards that present analyzed data visually, allowing policymakers to explore topics and responses effectively.                      |           4 | a94061ecae4e2f9cf7ee7680b9bdeb5f |
-| The initiative to make the code for the Consultation Analyser open source, promoting transparency and collaboration.                    |           4 | a94061ecae4e2f9cf7ee7680b9bdeb5f |
+| name                                         | description                                                                                                                             |   relevancy |
+|:---------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| AI-powered Consultation Analyser             | A tool that uses AI and data science to analyze public consultation responses, extracting patterns and themes to aid policymakers.      |           5 |
+| Natural Language Processing (NLP) Techniques | Techniques like topic modeling used to automatically identify themes in large datasets of text responses.                               |           5 |
+| Large Language Models (LLMs)                 | Models such as ChatGPT, used to generate labels and summaries for themes in consultation responses while ensuring data confidentiality. |           5 |
+| Data Visualization Dashboards                | Dashboards that present analyzed data visually, allowing policymakers to explore topics and responses effectively.                      |           4 |
+| Open Source Software for Government Tools    | The initiative to make the code for the Consultation Analyser open source, promoting transparency and collaboration.                    |           4 |
 
 ## Issues
 

@@ -57,15 +57,15 @@ Recent advancements in robotics and neuroscience have led researchers to explore
 
 ## Technologies
 
-| description                                                                                                                             |   relevancy | src                              |
-|:----------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| Robotic limbs that can be controlled by the human brain to augment physical capabilities.                                               |           5 | faad51d1f885af1db9dee5e5ce52b46e |
-| Technologies that allow direct communication between the brain and external devices, enabling control of robotic limbs.                 |           5 | faad51d1f885af1db9dee5e5ce52b46e |
-| Noninvasive systems that record electrical signals from muscles to decode neural commands for controlling prosthetics or robotic limbs. |           5 | faad51d1f885af1db9dee5e5ce52b46e |
-| Advanced EMG systems with multiple electrodes for improved decoding of motor neuron activity in real time.                              |           4 | faad51d1f885af1db9dee5e5ce52b46e |
-| Lightweight robotic arms that can be used in various tasks, controlled through neural signals or EMG systems.                           |           4 | faad51d1f885af1db9dee5e5ce52b46e |
-| Simulated environments that allow users to practice and interact with multiple robotic limbs in a virtual setting.                      |           3 | faad51d1f885af1db9dee5e5ce52b46e |
-| Research into how the brain adapts to controlling extra limbs over time, potentially improving dexterity and control.                   |           3 | faad51d1f885af1db9dee5e5ce52b46e |
+| name                                | description                                                                                                                             |   relevancy |
+|:------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Extra Robotic Limbs                 | Robotic limbs that can be controlled by the human brain to augment physical capabilities.                                               |           5 |
+| Brain-Machine Interfaces (BMI)      | Technologies that allow direct communication between the brain and external devices, enabling control of robotic limbs.                 |           5 |
+| Electromyography (EMG) Systems      | Noninvasive systems that record electrical signals from muscles to decode neural commands for controlling prosthetics or robotic limbs. |           5 |
+| High-Density EMG Technology         | Advanced EMG systems with multiple electrodes for improved decoding of motor neuron activity in real time.                              |           4 |
+| Wearable Robotic Arms               | Lightweight robotic arms that can be used in various tasks, controlled through neural signals or EMG systems.                           |           4 |
+| Virtual Reality for Robotic Control | Simulated environments that allow users to practice and interact with multiple robotic limbs in a virtual setting.                      |           3 |
+| Neural Plasticity in Augmentation   | Research into how the brain adapts to controlling extra limbs over time, potentially improving dexterity and control.                   |           3 |
 
 ## Issues
 

@@ -53,13 +53,13 @@ The Future of Life Institute has been advocating for human welfare amid evolving
 
 ## Technologies
 
-| description                                                                                     |   relevancy | src                              |
-|:------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| A discipline merging science and arts to explore AI's potential through fiction and philosophy. |           5 | 026067bce7eb8accee127cf0cac4dfa5 |
-| Techniques to refine prompts for AI to produce higher-quality narrative outputs.                |           4 | 026067bce7eb8accee127cf0cac4dfa5 |
-| Initiatives that engage multidisciplinary teams to conceptualize positive AI futures.           |           4 | 026067bce7eb8accee127cf0cac4dfa5 |
-| Creating detailed maps to visualize potential trajectories for AI technology.                   |           5 | 026067bce7eb8accee127cf0cac4dfa5 |
-| Using narrative techniques to positively influence perceptions and applications of AI.          |           4 | 026067bce7eb8accee127cf0cac4dfa5 |
+| name                                | description                                                                                     |   relevancy |
+|:------------------------------------|:------------------------------------------------------------------------------------------------|------------:|
+| Artificial Humanities               | A discipline merging science and arts to explore AI's potential through fiction and philosophy. |           5 |
+| Generative AI Coaching              | Techniques to refine prompts for AI to produce higher-quality narrative outputs.                |           4 |
+| Worldbuilding Competitions          | Initiatives that engage multidisciplinary teams to conceptualize positive AI futures.           |           4 |
+| Scenario Mapping for AI Development | Creating detailed maps to visualize potential trajectories for AI technology.                   |           5 |
+| AI in Storytelling                  | Using narrative techniques to positively influence perceptions and applications of AI.          |           4 |
 
 ## Issues
 

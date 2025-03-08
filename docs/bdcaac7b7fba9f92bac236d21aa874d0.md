@@ -58,14 +58,14 @@ The popularity of card games is highlighted, showcasing titles like Marvel Snap 
 
 ## Technologies
 
-| description                                                                                                                                              |   relevancy | src                              |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| Advanced algorithms for simulating randomness and game mechanics in card games and other genres, enhancing player experience.                            |           4 | bdcaac7b7fba9f92bac236d21aa874d0 |
-| New variants and mechanics in digital card games that utilize familiar concepts while offering unique gameplay experiences, such as A Solitaire Mystery. |           4 | bdcaac7b7fba9f92bac236d21aa874d0 |
-| Application of complex mathematical theories to analyze and enhance card game strategies and probabilities, improving gameplay understanding.            |           5 | bdcaac7b7fba9f92bac236d21aa874d0 |
-| Technologies that recreate tactile sensations of physical card games in digital formats, enhancing player engagement.                                    |           4 | bdcaac7b7fba9f92bac236d21aa874d0 |
-| Utilizing artificial intelligence to create unpredictable and engaging gameplay experiences in card games and simulations.                               |           5 | bdcaac7b7fba9f92bac236d21aa874d0 |
-| Understanding player psychology to design games that create 'aha' moments and addictive gameplay through strategic challenges.                           |           5 | bdcaac7b7fba9f92bac236d21aa874d0 |
+| name                              | description                                                                                                                                              |   relevancy |
+|:----------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Game Development Algorithms       | Advanced algorithms for simulating randomness and game mechanics in card games and other genres, enhancing player experience.                            |           4 |
+| Digital Card Game Innovations     | New variants and mechanics in digital card games that utilize familiar concepts while offering unique gameplay experiences, such as A Solitaire Mystery. |           4 |
+| Mathematical Game Theory          | Application of complex mathematical theories to analyze and enhance card game strategies and probabilities, improving gameplay understanding.            |           5 |
+| Physical-Digital Game Interaction | Technologies that recreate tactile sensations of physical card games in digital formats, enhancing player engagement.                                    |           4 |
+| AI in Game Design                 | Utilizing artificial intelligence to create unpredictable and engaging gameplay experiences in card games and simulations.                               |           5 |
+| Behavioral Game Mechanics         | Understanding player psychology to design games that create 'aha' moments and addictive gameplay through strategic challenges.                           |           5 |
 
 ## Issues
 

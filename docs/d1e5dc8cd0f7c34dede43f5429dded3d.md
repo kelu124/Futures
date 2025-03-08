@@ -59,12 +59,12 @@ The text discusses the evolving challenges of climate change and its impact on h
 
 ## Technologies
 
-| description                                                                                                                        |   relevancy | src                              |
-|:-----------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| A technology designed to decarbonize heating by replacing gas boilers, but facing public criticism and backlash in the UK.         |           4 | d1e5dc8cd0f7c34dede43f5429dded3d |
-| An emissions-free method of producing hydrogen by splitting water molecules using electricity from carbon-free sources.            |           5 | d1e5dc8cd0f7c34dede43f5429dded3d |
-| AI models requiring significant resources for operation, including substantial water for cooling, raising sustainability concerns. |           3 | d1e5dc8cd0f7c34dede43f5429dded3d |
-| Models predicting increased turbulence in airplane travel due to climate change, impacting aviation safety and planning.           |           4 | d1e5dc8cd0f7c34dede43f5429dded3d |
+| name                                 | description                                                                                                                        |   relevancy |
+|:-------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Electric Heat Pumps                  | A technology designed to decarbonize heating by replacing gas boilers, but facing public criticism and backlash in the UK.         |           4 |
+| Hydrogen Production via Electrolysis | An emissions-free method of producing hydrogen by splitting water molecules using electricity from carbon-free sources.            |           5 |
+| Large Language Models                | AI models requiring significant resources for operation, including substantial water for cooling, raising sustainability concerns. |           3 |
+| Advanced Climate Modelling           | Models predicting increased turbulence in airplane travel due to climate change, impacting aviation safety and planning.           |           4 |
 
 ## Issues
 

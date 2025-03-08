@@ -58,15 +58,15 @@ The Parcae project was a top-secret U.S. satellite program developed in the 1970
 
 ## Technologies
 
-| description                                                                                                                                        |   relevancy | src                              |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| Advanced satellite systems designed for electronic intelligence gathering and analysis, enhancing military and maritime surveillance capabilities. |           5 | 4eba67adee5c5ab1c0a32c11cc0f736d |
-| A mechanism allowing satellites to maintain orientation towards Earth using a long arm with a weight, improving signal accuracy.                   |           4 | 4eba67adee5c5ab1c0a32c11cc0f736d |
-| Minicomputer systems capable of real-time data analysis from satellite signals, enabling rapid intelligence reporting.                             |           5 | 4eba67adee5c5ab1c0a32c11cc0f736d |
-| Sophisticated software algorithms developed to sift through vast amounts of electronic signals and identify significant threats.                   |           4 | 4eba67adee5c5ab1c0a32c11cc0f736d |
-| Secure communication channels for rapid distribution of intelligence data to military forces, facilitating timely decision-making.                 |           5 | 4eba67adee5c5ab1c0a32c11cc0f736d |
-| Systems designed to present complex intelligence data in easily interpretable formats for military users, enhancing situational awareness.         |           4 | 4eba67adee5c5ab1c0a32c11cc0f736d |
-| Technology enabling the precise location of ships based on synchronized satellite data collection, improving naval reconnaissance.                 |           5 | 4eba67adee5c5ab1c0a32c11cc0f736d |
+| name                                                    | description                                                                                                                                        |   relevancy |
+|:--------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Satellite-Based Electronic Intelligence (ELINT) Systems | Advanced satellite systems designed for electronic intelligence gathering and analysis, enhancing military and maritime surveillance capabilities. |           5 |
+| Gravity-Gradient Stabilization Technology               | A mechanism allowing satellites to maintain orientation towards Earth using a long arm with a weight, improving signal accuracy.                   |           4 |
+| Real-Time Data Processing Systems                       | Minicomputer systems capable of real-time data analysis from satellite signals, enabling rapid intelligence reporting.                             |           5 |
+| Automated Signal Detection Algorithms                   | Sophisticated software algorithms developed to sift through vast amounts of electronic signals and identify significant threats.                   |           4 |
+| Tactical Communications Networks                        | Secure communication channels for rapid distribution of intelligence data to military forces, facilitating timely decision-making.                 |           5 |
+| User-Friendly Intelligence Display Systems              | Systems designed to present complex intelligence data in easily interpretable formats for military users, enhancing situational awareness.         |           4 |
+| Triangulation Technology for Maritime Surveillance      | Technology enabling the precise location of ships based on synchronized satellite data collection, improving naval reconnaissance.                 |           5 |
 
 ## Issues
 

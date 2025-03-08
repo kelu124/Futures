@@ -51,11 +51,11 @@ China's Ministry of State Security has issued a warning to military enthusiasts,
 
 ## Technologies
 
-| description                                                                                                                              |   relevancy | src                              |
-|:-----------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| The use of drones to capture images and data from military sites, raising concerns about national security.                              |           4 | b85e63bdfa48eab5ccfe3114e6fcef40 |
-| Platforms like Weibo where military fans share images and information about military equipment, posing security risks.                   |           3 | b85e63bdfa48eab5ccfe3114e6fcef40 |
-| Advanced photography equipment allowing enthusiasts to capture distant military installations, increasing the risk of information leaks. |           3 | b85e63bdfa48eab5ccfe3114e6fcef40 |
+| name                                  | description                                                                                                                              |   relevancy |
+|:--------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Drones for Surveillance               | The use of drones to capture images and data from military sites, raising concerns about national security.                              |           4 |
+| Social Media for Military Enthusiasts | Platforms like Weibo where military fans share images and information about military equipment, posing security risks.                   |           3 |
+| Telephoto Lenses in Photography       | Advanced photography equipment allowing enthusiasts to capture distant military installations, increasing the risk of information leaks. |           3 |
 
 ## Issues
 

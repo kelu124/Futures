@@ -58,15 +58,15 @@ The OpenTitan coalition announced the first commercial silicon chip featuring op
 
 ## Technologies
 
-| description                                                                                                                             |   relevancy | src                              |
-|:----------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| The first commercial silicon chip with open-source hardware security, integrating built-in security and cryptography modules.           |           5 | ad7895e2affd5d3a30c8cfaca7f814ec |
-| An open-source processor architecture providing a foundation for efficient computer operation at a basic level.                         |           4 | ad7895e2affd5d3a30c8cfaca7f814ec |
-| A new framework for open-source hardware design, addressing challenges unique to hardware compared to software.                         |           4 | ad7895e2affd5d3a30c8cfaca7f814ec |
-| A hardware security protocol that provides a secure on-chip source of cryptographic keys, ensuring system integrity.                    |           5 | ad7895e2affd5d3a30c8cfaca7f814ec |
-| The practice of collaboratively designing hardware with open access to components and protocols, reducing costs and enhancing security. |           4 | ad7895e2affd5d3a30c8cfaca7f814ec |
-| Cryptographic protocols developed to be secure against future quantum computing threats, incorporated into hardware designs.            |           5 | ad7895e2affd5d3a30c8cfaca7f814ec |
-| Innovative security measures for IoT devices, addressing significant security challenges in connected environments.                     |           4 | ad7895e2affd5d3a30c8cfaca7f814ec |
+| name                                        | description                                                                                                                             |   relevancy |
+|:--------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| OpenTitan Silicon Chip                      | The first commercial silicon chip with open-source hardware security, integrating built-in security and cryptography modules.           |           5 |
+| RISC-V Architecture                         | An open-source processor architecture providing a foundation for efficient computer operation at a basic level.                         |           4 |
+| Silicon Commons Methodology                 | A new framework for open-source hardware design, addressing challenges unique to hardware compared to software.                         |           4 |
+| Root of Trust (RoT) Protocol                | A hardware security protocol that provides a secure on-chip source of cryptographic keys, ensuring system integrity.                    |           5 |
+| Open-Source Hardware Development            | The practice of collaboratively designing hardware with open access to components and protocols, reducing costs and enhancing security. |           4 |
+| Quantum-Safe Cryptography Protocols         | Cryptographic protocols developed to be secure against future quantum computing threats, incorporated into hardware designs.            |           5 |
+| Internet of Things (IoT) Security Solutions | Innovative security measures for IoT devices, addressing significant security challenges in connected environments.                     |           4 |
 
 ## Issues
 

@@ -49,10 +49,10 @@ A federal judge issued a temporary restraining order preventing DOGE from access
 
 ## Technologies
 
-| description                                                                                                                                   |   relevancy | src                              |
-|:----------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| Technologies related to handling and protecting personal data, particularly in legal contexts like privacy acts and unauthorized disclosures. |           4 | b7b5ad950b211b7c7bcc3ecf86edbce7 |
-| Automated processes in financial systems to manage and halt payments, especially in government departments.                                   |           4 | b7b5ad950b211b7c7bcc3ecf86edbce7 |
+| name                        | description                                                                                                                                   |   relevancy |
+|:----------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| DOGE and Privacy Technology | Technologies related to handling and protecting personal data, particularly in legal contexts like privacy acts and unauthorized disclosures. |           4 |
+| Automated Payment Systems   | Automated processes in financial systems to manage and halt payments, especially in government departments.                                   |           4 |
 
 ## Issues
 

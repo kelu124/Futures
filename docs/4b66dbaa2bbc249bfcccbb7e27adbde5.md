@@ -53,15 +53,15 @@ This article discusses how to effectively onboard and work with AI as an 'intern
 
 ## Technologies
 
-| description                                                                                                              |   relevancy | src                              |
-|:-------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| AI models that assist users in various tasks, improving productivity and providing creative solutions.                   |           5 | 4b66dbaa2bbc249bfcccbb7e27adbde5 |
-| Collaboration between humans and AI for enhanced productivity, integrating AI deeply into workflows.                     |           4 | 4b66dbaa2bbc249bfcccbb7e27adbde5 |
-| Tasks fully managed by AI without human oversight, although currently limited due to AI's error rate.                    |           3 | 4b66dbaa2bbc249bfcccbb7e27adbde5 |
-| Advanced AI models like GPT-4 and Claude that are used for diverse applications based on user needs.                     |           4 | 4b66dbaa2bbc249bfcccbb7e27adbde5 |
-| The integration of AI capabilities into platforms like Microsoft Office and Google Workspace for enhanced functionality. |           5 | 4b66dbaa2bbc249bfcccbb7e27adbde5 |
-| Using AI for creative endeavors such as writing, coding, and brainstorming, allowing for novel ideas.                    |           4 | 4b66dbaa2bbc249bfcccbb7e27adbde5 |
-| The process of learning to effectively utilize AI tools, understanding their strengths and weaknesses.                   |           4 | 4b66dbaa2bbc249bfcccbb7e27adbde5 |
+| name                           | description                                                                                                              |   relevancy |
+|:-------------------------------|:-------------------------------------------------------------------------------------------------------------------------|------------:|
+| AI Interns                     | AI models that assist users in various tasks, improving productivity and providing creative solutions.                   |           5 |
+| Centaur Tasks                  | Collaboration between humans and AI for enhanced productivity, integrating AI deeply into workflows.                     |           4 |
+| Automated Tasks                | Tasks fully managed by AI without human oversight, although currently limited due to AI's error rate.                    |           3 |
+| Foundational AI Models         | Advanced AI models like GPT-4 and Claude that are used for diverse applications based on user needs.                     |           4 |
+| AI Integration in Office Tools | The integration of AI capabilities into platforms like Microsoft Office and Google Workspace for enhanced functionality. |           5 |
+| AI for Creative Tasks          | Using AI for creative endeavors such as writing, coding, and brainstorming, allowing for novel ideas.                    |           4 |
+| AI-Focused Training            | The process of learning to effectively utilize AI tools, understanding their strengths and weaknesses.                   |           4 |
 
 ## Issues
 

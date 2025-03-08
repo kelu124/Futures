@@ -56,11 +56,11 @@ Kshama Bindu, a 24-year-old woman from India, made headlines by marrying herself
 
 ## Technologies
 
-| description                                                                                                                                     |   relevancy | src                              |
-|:------------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| A practice where individuals marry themselves, representing a form of self-love and personal empowerment, gaining popularity in modern society. |           4 | d30eab58ea238cc3cefbb88c3e4f61cd |
-| The role of social media in shaping personal identities and societal norms, leading to new forms of relationship expressions like sologamy.     |           4 | d30eab58ea238cc3cefbb88c3e4f61cd |
-| Utilizing Bluetooth speakers for traditional rituals, showcasing the intersection of technology and cultural practices in modern ceremonies.    |           3 | d30eab58ea238cc3cefbb88c3e4f61cd |
+| name                                    | description                                                                                                                                     |   relevancy |
+|:----------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Sologamy                                | A practice where individuals marry themselves, representing a form of self-love and personal empowerment, gaining popularity in modern society. |           4 |
+| Social Media Influence on Relationships | The role of social media in shaping personal identities and societal norms, leading to new forms of relationship expressions like sologamy.     |           4 |
+| Bluetooth Technology for Rituals        | Utilizing Bluetooth speakers for traditional rituals, showcasing the intersection of technology and cultural practices in modern ceremonies.    |           3 |
 
 ## Issues
 

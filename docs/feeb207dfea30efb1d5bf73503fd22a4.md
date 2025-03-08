@@ -53,13 +53,13 @@ Startups can leverage natural language processing (NLP) to gain a competitive ed
 
 ## Technologies
 
-| description                                                                                                                               |   relevancy | src                              |
-|:------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
-| A technology that enables computers to understand and process human language for various applications.                                    |           5 | feeb207dfea30efb1d5bf73503fd22a4 |
-| AI models capable of understanding and generating human-like text, revolutionizing how startups can leverage language data.               |           5 | feeb207dfea30efb1d5bf73503fd22a4 |
-| The field of engineering focused on creating algorithms and models that enable machines to learn from and make predictions based on data. |           4 | feeb207dfea30efb1d5bf73503fd22a4 |
-| APIs that generate images based on textual descriptions, enhancing creative applications and content generation.                          |           3 | feeb207dfea30efb1d5bf73503fd22a4 |
-| A suite of tools designed to make NLP accessible and efficient for startups without extensive resources.                                  |           4 | feeb207dfea30efb1d5bf73503fd22a4 |
+| name                              | description                                                                                                                               |   relevancy |
+|:----------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Natural Language Processing (NLP) | A technology that enables computers to understand and process human language for various applications.                                    |           5 |
+| Large Language Models (LLMs)      | AI models capable of understanding and generating human-like text, revolutionizing how startups can leverage language data.               |           5 |
+| AI/ML Engineering                 | The field of engineering focused on creating algorithms and models that enable machines to learn from and make predictions based on data. |           4 |
+| Text-to-Image APIs                | APIs that generate images based on textual descriptions, enhancing creative applications and content generation.                          |           3 |
+| Cohere's NLP Solutions            | A suite of tools designed to make NLP accessible and efficient for startups without extensive resources.                                  |           4 |
 
 ## Issues
 
