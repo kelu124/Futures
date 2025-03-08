@@ -9,7 +9,7 @@ from langchain_openai import ChatOpenAI
 from langchain.embeddings import CacheBackedEmbeddings
 #from langchain.embeddings import OpenAIEmbeddings
 from langchain_openai import OpenAIEmbeddings
-
+import datetime
 # Messages
 from langchain.schema import HumanMessage
 # Caching
@@ -56,6 +56,8 @@ class LLM:
 
     def ask(self, question):
         answer = self.ai.invoke(question)
+        print("--- "+self.llm_fast +":\t",
+              datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
         return json.loads(answer.model_dump_json())["content"]
 
     def askFunctions(self, instructions, text, function, function_name):
@@ -74,7 +76,8 @@ class LLM:
             functions=function,
             function_call={"name": function_name}
         )
-
+        print("--- Function call:\t",
+              datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
         return response.additional_kwargs["function_call"]["arguments"]
 
     def askTool(self, instructions, text, function, function_name):
