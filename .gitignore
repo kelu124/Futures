@@ -29,3 +29,6 @@ data/.langchain.db
 data/.embedding.langchain.db
 data/.embedding.langchain.db
 data/.langchain.db
+
+run_all*
+errors.log
