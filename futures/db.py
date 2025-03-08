@@ -206,7 +206,15 @@ class DB:
             techs = techs[techs.description.isin(txts)]
         techs = techs[techs.columns[0:-2]].reset_index(drop=True)
 
-        return seeds, behav, issue, techs
+        concerns = pd.read_parquet(self.ai.srcEmergingConcerns)
+        concerns = concerns[concerns.src.isin(docs)]
+        if len(topic):
+            txts = self.find_similar_sentences(topic, concerns, column_name="description", top_k=10 )
+            concerns = concerns[concerns.description.isin(txts)]
+        concerns = concerns[concerns.columns[0:-2]].reset_index(drop=True)
+
+
+        return seeds, behav, issue, techs, concerns
     
 
     def getClosest(self, txt,n=6):
