@@ -190,34 +190,54 @@ class DB:
         if len(topic):
             txts = self.find_similar_sentences(topic, behav, column_name="description", top_k=10 )
             behav = behav[behav.description.isin(txts)]
-        behav = behav[behav.columns[0:-2]].reset_index(drop=True)
+        behav = behav[["name","description"]].reset_index(drop=True)
 
         issue = pd.read_parquet(self.ai.srcEmergingIssue)
         issue = issue[issue.src.isin(docs)]
         if len(topic):
             txts = self.find_similar_sentences(topic, issue, column_name="description", top_k=10 )
             issue = issue[issue.description.isin(txts)]
-        issue = issue[issue.columns[0:-2]].reset_index(drop=True)
+        issue = issue[["name","description"]].reset_index(drop=True)
 
         techs = pd.read_parquet(self.ai.srcEmergingTechs)
         techs = techs[techs.src.isin(docs)]
         if len(topic):
             txts = self.find_similar_sentences(topic, techs, column_name="description", top_k=10 )
             techs = techs[techs.description.isin(txts)]
-        techs = techs[techs.columns[0:-2]].reset_index(drop=True)
+        techs = techs[["name","description"]].reset_index(drop=True)
 
         concerns = pd.read_parquet(self.ai.srcEmergingConcerns)
         concerns = concerns[concerns.src.isin(docs)]
         if len(topic):
             txts = self.find_similar_sentences(topic, concerns, column_name="description", top_k=10 )
             concerns = concerns[concerns.description.isin(txts)]
-        concerns = concerns[concerns.columns[0:-2]].reset_index(drop=True)
+        concerns = concerns[["name","description"]].reset_index(drop=True)
 
 
         return seeds, behav, issue, techs, concerns
     
+    def writeOracleTopic(self, topic, k=30):
+        """ Writes about a topic, picking 30 articles, 5 cards of each"""
+        topic = "AI in infrastructure companies"
+        txt, lst = self.getSummary(topic, k)
+        a, b, c, d, e = self.getCards(lst, topic=topic, top_k=5)
+        MD = "# *Topic*: "+topic+"\n\n"
+        MD += "# Summary\n\n"+txt+"\n\n"
+        MD += "# Seeds\n\n"+a.to_markdown()+"\n\n"
+        MD += "# Concerns\n\n"+e.to_markdown()+"\n\n"
+        MD += "# Behaviors\n\n"+b.to_markdown()+"\n\n"
+        MD += "# Issues\n\n"+c.to_markdown()+"\n\n"
+        MD += "# Technologies\n\n"+d.to_markdown()+"\n\n"
+        MD += "# Links\n\n"
+        titles = pd.read_parquet(self.srcSummaries)
+        for lx in list(set(lst)):
+            #print(lx)
+            title = titles[titles["src"] == lx].iloc[0]["title"]
+            MD += "\n* ["+title+"](https://futures.kghosh.me/"+lx+")"
+        return MD
 
-    def getClosest(self, txt,n=6):
+
+    def getClosest(self, txt, n=6):
         B = self.vectordb.similarity_search(txt, n)
         L = []
         X = []

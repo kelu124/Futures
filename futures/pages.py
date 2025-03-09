@@ -58,7 +58,7 @@ class PagesWriter:
         techs = pd.read_parquet(self.srcEmergingTechs).reset_index(drop=True)
         behav = pd.read_parquet(self.srcEmergingBehav).reset_index(drop=True)
         issue = pd.read_parquet(self.srcEmergingIssue).reset_index(drop=True)
-
+        cncrn = pd.read_parquet(self.ai.srcEmergingConcerns).reset_index(drop=True)
 
         for ix, row in meta.iterrows():
 
@@ -86,6 +86,10 @@ class PagesWriter:
                 if len(SIG):
                     TXT += "\n\n## Signals\n\n"
                     TXT += SIG[list(SIG.columns)[:-1]].to_markdown(index=False)
+                CON = cncrn[cncrn.src == ID]
+                if len(CON):
+                    TXT += "\n\n## Concerns\n\n"
+                    TXT += CON[list(CON.columns)[:-1]].to_markdown(index=False)
                 BVR = behav[behav.src == ID]
                 if len(BVR):
                     TXT += "\n\n## Behaviors\n\n"
