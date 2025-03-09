@@ -18,6 +18,7 @@ class PagesWriter:
         self.srcEmergingTechs = self.db.ai.srcEmergingTechs
         self.srcEmergingBehav = self.db.ai.srcEmergingBehav
         self.srcEmergingIssue = self.db.ai.srcEmergingIssue
+        self.srcEmergingCncrn = self.db.ai.srcEmergingConcerns
 
         self.srcMetaProximities = self.datastore +\
             "metas_proximity.parquet.gzip"
@@ -58,7 +59,7 @@ class PagesWriter:
         techs = pd.read_parquet(self.srcEmergingTechs).reset_index(drop=True)
         behav = pd.read_parquet(self.srcEmergingBehav).reset_index(drop=True)
         issue = pd.read_parquet(self.srcEmergingIssue).reset_index(drop=True)
-        cncrn = pd.read_parquet(self.ai.srcEmergingConcerns).reset_index(drop=True)
+        cncrn = pd.read_parquet(self.srcEmergingCncrn).reset_index(drop=True)
 
         for ix, row in meta.iterrows():
 
