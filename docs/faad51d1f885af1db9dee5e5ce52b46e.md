@@ -42,6 +42,21 @@ Recent advancements in robotics and neuroscience have led researchers to explore
 | Cognitive Load of Extra Limbs         | Exploration of cognitive load required to control additional robotic limbs.            | Understanding the balance between focus and multitasking with robotic limb control.              | Future systems may allow seamless integration of multiple limbs into daily activities with minimal cognitive strain. | The need for practical applications of robotic limbs is prompting studies on user experience and cognitive factors. |           4 |
 | Global Research Collaboration         | Collaborative efforts among international research groups on human augmentation.       | From isolated research to a more interconnected global effort in neuroscience and robotics.      | A global knowledge-sharing framework may emerge, accelerating advancements in human augmentation technologies.       | The complexity of challenges in augmentation drives collaboration across institutions worldwide.                    |           3 |
 
+## Concerns
+
+| name                              | description                                                                                                                                           |   relevancy |
+|:----------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Neural Control Complexity         | The challenge of accurately controlling multiple robotic limbs with our neural signals may exceed individual cognitive capacity, impacting usability. |           4 |
+| Impact on Brain Plasticity        | Potential changes in brain structure and function after prolonged use of robotic limbs could lead to unforeseen neurological issues.                  |           3 |
+| Dependency on Technology          | Increased reliance on robotic augmentation may lead to diminished natural abilities or psychological dependency.                                      |           4 |
+| Ethical Implications              | The enhancement of human capabilities raises ethical questions about equity, accessibility, and what it means to be human.                            |           5 |
+| Safety Risks                      | Use of robotic limbs in high-stakes environments (e.g., surgery) could lead to accidents or malfunctions unexpectedly affecting outcomes.             |           5 |
+| Cognitive Load Considerations     | The necessity of focused attention to control additional limbs could hinder multitasking and overall efficiency.                                      |           4 |
+| Invasiveness of Neural Interfaces | Current technologies requiring invasive brain surgery pose risks of complications and limit accessibility for users.                                  |           5 |
+| Development of New Skills         | Users may require extensive training to adapt to using additional limbs, which could create barriers to effective implementation.                     |           3 |
+| Social Acceptance                 | Societal norms and acceptance regarding human augmentation may hinder widespread adaptation and integration of technology.                            |           3 |
+| Unintended Behavioral Changes     | Augmenting human capabilities may lead to unpredicted changes in social interaction and behavior, challenging current norms.                          |           4 |
+
 ## Behaviors
 
 | name                          | description                                                                                                                            |   relevancy |

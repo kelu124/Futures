@@ -43,6 +43,19 @@ Eat Just, a foodtech company co-founded by Josh Tetrick, aims to disrupt the mea
 | Cost Reduction Challenges                         | Tetrick highlights significant challenges in reducing the costs of cultivated meat production.            | From high-cost innovative solutions to a necessity for affordable production methods.              | Production costs for cultivated meat may decrease, making it competitive with traditional meat.                | Advancements in biotechnology and scaling processes aimed at reducing production expenses.           |           5 |
 | Increased Competition in Alternative Protein      | Growth in the alternative protein sector leads to more players entering the market.                       | Transition from early pioneers to a crowded market with various alternatives.                      | A diverse range of protein sources could lead to more consumer choices and lower prices.                       | Consumer demand for variety and sustainability driving innovation across multiple food categories.   |           4 |
 
+## Concerns
+
+| name                                                | description                                                                                                                              |   relevancy |
+|:----------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Financial Viability of Alternative Protein Startups | The potential collapse of loss-making companies like Eat Just could endanger the entire alternative protein market.                      |           5 |
+| Investor Confidence and Trust                       | Concerns about the management capabilities and transparency of CEO Josh Tetrick may affect future investments in Eat Just.               |           4 |
+| Media Perception and Narrative Instability          | The shifting media narrative surrounding Eat Just could influence public perception and investor behavior unpredictably.                 |           3 |
+| Scaling Challenges in Cultivated Meat Production    | The technical and financial hurdles of building large-scale cultivated meat facilities may limit industry growth.                        |           5 |
+| Cost Competitiveness with Traditional Meat          | Cultivated meat must find ways to reduce production costs to compete effectively with conventional meat for consumer adoption.           |           4 |
+| Regulatory Compliance Risks                         | Ongoing compliance with food safety and labeling regulations is critical, as failures could result in legal and financial repercussions. |           4 |
+| Supply Chain Vulnerability                          | Reliance on specific ingredients like mung beans may expose the company to supply chain disruptions and volatility in sourcing costs.    |           3 |
+| Market Adoption of Alternative Proteins             | The challenge of educating consumers and altering preferences away from traditional animal products limits market growth potential.      |           4 |
+
 ## Behaviors
 
 | name                                          | description                                                                                                                          |   relevancy |

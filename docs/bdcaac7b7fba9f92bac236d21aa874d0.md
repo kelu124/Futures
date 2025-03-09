@@ -43,6 +43,16 @@ The popularity of card games is highlighted, showcasing titles like Marvel Snap 
 | Tactile Experience in Digital Games    | Digital card games are leveraging tactile sensations to enhance user experience.             | From purely visual experiences to incorporating sound and feel in gameplay.                         | Digital games may increasingly replicate physical sensations, blurring real and digital play. | Player demand for immersive experiences drives innovation in game design.                      |           4 |
 | Innovative Game Mechanics              | Developers are experimenting with unique card mechanics to create new gameplay experiences.  | From traditional rules to innovative twists, transforming how card games are played.                | Card games may evolve into multifaceted experiences with surprising rules and interactions.   | The quest for novel entertainment and player engagement leads to creative game design.         |           4 |
 
+## Concerns
+
+| name                                      | description                                                                                                                          |   relevancy |
+|:------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Addictive nature of card games            | The complexity and randomness of card games may lead to excessive addiction and implications for mental health.                      |           4 |
+| Mathematical understanding of card games  | Limited knowledge in the mathematical probabilities of card games may hinder players' experiences and game design.                   |           3 |
+| Evolution and preservation of card games  | The fragility of playing cards as physical objects poses challenges in preserving their historical importance.                       |           3 |
+| Gendered stereotypes of card games        | Cultural perceptions of card games as trivial may diminish their value and contributions to mathematics and education.               |           2 |
+| Resource exploitation in game development | The endless possibilities for game designs could lead to an over-saturation of the market, impacting developers and consumers alike. |           3 |
+
 ## Behaviors
 
 | name                                             | description                                                                                                                                      |   relevancy |

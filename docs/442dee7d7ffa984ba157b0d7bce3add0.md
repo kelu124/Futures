@@ -47,6 +47,17 @@ A team at the University of Texas at Dallas, led by Dr. Ifana Mahbub, has receiv
 | Wireless Charging for Medical Devices              | Development of wireless charging technology for implanted medical devices using low-frequency waves.  | Moving from wired power sources to wireless solutions for implanted devices.                            | In ten years, medical implants may operate wirelessly, enhancing patient comfort and mobility.               | Advances in medical technology and the need for patient-friendly solutions.            |           5 |
 | Dynamic Beamforming for Power Transfer             | Using telemetry and phased-array antennas to direct power beams to moving UAVs.                       | Advancing from static power sources to dynamic, real-time power transfer systems.                       | In a decade, power transfer systems may adapt to moving targets across various applications.                 | The evolution of autonomous vehicles and the need for continuous power supply.         |           5 |
 
+## Concerns
+
+| name                                       | description                                                                                                                                      |   relevancy |
+|:-------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Electromagnetic Wave Scattering            | The challenge of electromagnetic wave scattering during power beaming may hinder effective power transfer over long distances.                   |           4 |
+| Theoretical vs Practical Implementation    | Much of the current research on far-field wireless power transfer is theoretical; practical applications and safety measures are still unproven. |           4 |
+| Interference with Existing Technologies    | The introduction of far-field wireless charging could interfere with existing wireless technologies and communication systems.                   |           3 |
+| Health Concerns of Electromagnetic Waves   | Long-term exposure to electromagnetic waves, even at mandated low frequencies, raises concerns about their impact on health.                     |           5 |
+| Privacy and Security of UAVs               | Tracking and powering UAVs in real time may pose privacy and security risks for sensitive operations and data.                                   |           4 |
+| Unintended Consequences of Neural Implants | The development of wireless power transfer for brain implants may lead to unexpected ethical and health implications.                            |           5 |
+
 ## Behaviors
 
 | name                                  | description                                                                                                                       |   relevancy |

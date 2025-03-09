@@ -46,6 +46,17 @@ Elon Musk has accused the European Commission of offering X (formerly Twitter) a
 | Research Access Limitations          | X is accused of blocking access to data for researchers.                            | A movement from open data sharing to restrictive practices that hinder research efforts.        | The landscape of social media research could shift, with fewer insights available to academia and public.    | Calls for transparency and accountability in social media operations are shaping data access policies. |           3 |
 | Misinformation as a Platform Issue   | Research indicates X has the highest ratio of disinformation among major platforms. | A transition from ignoring to actively addressing misinformation on social media.               | Platforms may adopt more rigorous content moderation practices to combat misinformation effectively.         | Growing public concern about misinformation is pressuring platforms to take decisive action.           |           4 |
 
+## Concerns
+
+| name                              | description                                                                                                                                         |   relevancy |
+|:----------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Censorship and Freedom of Speech  | The potential for X to censor speech in exchange for avoiding penalties raises concerns about the erosion of free speech online.                    |           5 |
+| Disinformation and User Deception | X's operation that may mislead users regarding verified accounts contributes to the overall challenge of disinformation on social media.            |           4 |
+| Accountability of Tech Giants     | The situation highlights the difficulty of holding powerful platforms like X accountable to regulatory frameworks designed to protect users.        |           4 |
+| Transparency in Advertising       | The failure to comply with transparency requirements on advertising threatens the integrity of information on the platform.                         |           3 |
+| Data Access for Researchers       | Blocking researchers from accessing public data inhibits the understanding and monitoring of disinformation trends.                                 |           4 |
+| Regulatory Compliance Risks       | The potential for significant fines and operational disruptions for non-compliance with the Digital Services Act poses risks to X's business model. |           4 |
+
 ## Behaviors
 
 | name                        | description                                                                                                                           |   relevancy |

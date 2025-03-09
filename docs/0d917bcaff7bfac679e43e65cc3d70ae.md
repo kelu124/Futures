@@ -37,6 +37,16 @@ Darya Kawa Mirza, a self-taught Kurdish astrophotographer, captured an enormous,
 | High-Resolution Imaging Technology | The use of high-powered telescopes and cameras for detailed celestial imaging.                      | Evolution from low-resolution to high-resolution imaging techniques in astronomy.          | Potential for unprecedented detail in celestial photography, changing how we study space.            | Technological advancements in imaging and data processing capabilities.            |           5 |
 | Phase Fusion Technique             | Mirza's unique method of combining images from different lunar phases for detailed analysis.        | From static to dynamic imaging techniques that capture celestial bodies in motion.         | New imaging techniques may revolutionize our understanding of celestial bodies.                      | Desire for more detailed and comprehensive astronomical data.                      |           4 |
 
+## Concerns
+
+| name                               | description                                                                                                                                                                |   relevancy |
+|:-----------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Astrophotography Challenges        | The intricate techniques required for astrophotography may limit participation and innovation in the field, affecting the collective understanding of celestial phenomena. |           3 |
+| Technological Reliance             | Dependence on high-powered telescopes and advanced equipment may create accessibility issues for amateur astrophotographers, potentially hindering discoveries.            |           4 |
+| Data Overload                      | The generation of massive photo files (708-gigabytes) raises concerns about data management, storage solutions, and accessibility for future studies.                      |           3 |
+| Environmental Impact of Technology | The rise of advanced astronomical observation technologies could lead to an increase in resource consumption and environmental degradation.                                |           4 |
+| Public Engagement in Astronomy     | The complexity and technical nature of advanced astrophotography may alienate the general public from engaging with astronomy and space exploration.                       |           3 |
+
 ## Behaviors
 
 | name                                     | description                                                                                                                                                     |   relevancy |

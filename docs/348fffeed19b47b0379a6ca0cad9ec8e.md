@@ -39,6 +39,16 @@ The support team assists users in achieving optimal counting results using Count
 | Camera Technology Advancements          | Improvements in camera technology enabling better counting accuracy from varying distances. | Evolution from static counting methods to dynamic imaging techniques for counting.      | In a decade, counting might leverage advanced imaging technology for real-time data collection.       | Advancements in imaging technology and machine learning capabilities.                          |           3 |
 | Privacy Preferences in Digital Services | Users becoming more aware and selective about their privacy settings online.                | Shift from passive consent to active management of privacy and cookie settings.         | In ten years, users may have comprehensive control over their digital footprints and data usage.      | Increasing awareness of data privacy and security issues among internet users.                 |           5 |
 
+## Concerns
+
+| name                          | description                                                                                                                                  |   relevancy |
+|:------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Cookie Consent Management     | There may be issues with users understanding their cookie preferences and the implications of blocking certain cookies.                      |           4 |
+| Accuracy of Image Recognition | The reliability of image counting may be compromised due to variations in the visual environment and perspectives used during image capture. |           5 |
+| Personal Data Security        | Potential risks associated with storing and processing user data without explicit consent.                                                   |           5 |
+| User Experience Discrepancies | Blocking certain cookies could lead to a diminished user experience and functionality on the website.                                        |           3 |
+| Lack of Customization         | Challenges may arise in creating Counting Templates for unique use-cases, impacting the efficiency of the counting process.                  |           4 |
+
 ## Behaviors
 
 | name                                 | description                                                                                                                      |   relevancy |

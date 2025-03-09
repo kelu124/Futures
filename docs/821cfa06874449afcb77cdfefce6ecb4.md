@@ -41,6 +41,19 @@ The Bureau of Intelligence and Research (INR) is a small yet highly effective in
 | Polling as an Intelligence Tool      | INR's Office of Opinion Research employs polling to gauge public sentiment on global issues.      | From traditional intelligence gathering to incorporating public sentiment analysis.       | Polling may become a standard tool in intelligence analysis for understanding public opinion.      | The increasing importance of public perception in foreign policy and conflict resolution.    |           3 |
 | Dissent as a Strength                | INR's culture of dissent has led to accurate assessments against the majority opinion.            | From a culture of compliance to one that values dissent and independent analysis.         | Intelligence agencies may increasingly embrace dissenting opinions to improve decision-making.     | Recognition that groupthink can lead to significant intelligence failures and policy errors. |           5 |
 
+## Concerns
+
+| name                                           | description                                                                                                                                                                              |   relevancy |
+|:-----------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Neglect of Effective Intelligence Analysis     | The State Department's INR is consistently correct while being overlooked compared to larger agencies like the CIA, raising concerns about decision-making based on flawed intelligence. |           5 |
+| Resistance to Contrarian Views                 | INR has faced institutional pushback for providing dissenting opinions, which could hinder accurate assessments and lead to catastrophic decisions.                                      |           4 |
+| Potential Degradation of Analytical Expertise  | A potential future overemphasis on growth and modern technology might dilute the emphasis on the deep analytical expertise that currently characterizes INR.                             |           4 |
+| Threat of Groupthink in Intelligence Community | The larger intelligence agencies may fall into groupthink, leading to intelligence failures as evidenced by past events like the Iraq War.                                               |           5 |
+| Insufficient Funding for Critical Insights     | The relatively tiny budget of INR may limit its capability to compete with larger agencies, risking the loss of crucial insights in national security.                                   |           5 |
+| Overreliance on Technology in Intelligence     | An increasing focus on IT improvements in INR may prioritize technological solutions over human expertise and analytical skills.                                                         |           3 |
+| Inadequate Adaptation to Global Changes        | If INR fails to adapt its methods and tools to modern geopolitical realities and technological advancements, it risks becoming obsolete.                                                 |           4 |
+| Equity in Intelligence Evaluation              | The disparity in resources and recognition between INR and larger agencies may lead to inequities in intelligence evaluation and implementation.                                         |           4 |
+
 ## Behaviors
 
 | name                                    | description                                                                                                                                                 |   relevancy |

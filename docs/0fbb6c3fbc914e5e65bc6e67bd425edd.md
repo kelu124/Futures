@@ -45,6 +45,17 @@ The HydraUSB3 V1 is an open-source developer kit designed for the WCH CH569 MCU,
 | Real-Time Data Streaming           | Capabilities for real-time data exchange and streaming between boards.     | From batch data processing to real-time data communication.                               | In ten years, real-time processing will be essential in various industries, including healthcare and finance. | The trend towards instantaneous data processing and response in technology applications. |           4 |
 | RISC-V Architecture Adoption       | The use of RISC-V architecture in the HydraUSB3 MCU.                       | From proprietary architectures to open RISC-V standards in microcontrollers.              | RISC-V could become a dominant architecture in embedded systems due to its flexibility.                       | The need for open standards in hardware to foster innovation and collaboration.          |           4 |
 
+## Concerns
+
+| name                                     | description                                                                                                                |   relevancy |
+|:-----------------------------------------|:---------------------------------------------------------------------------------------------------------------------------|------------:|
+| Electrostatic Sensitivity Risks          | The HydraUSB3 V1 is classified as an electrostatic sensitive device, which poses risks of damage if not handled correctly. |           4 |
+| High-Speed Data Transfer Vulnerabilities | With fast data transfer protocols, there is concern for data integrity and security during transmission.                   |           5 |
+| Obsolescence of Components               | Rapid advancements in technology may make the current components and protocols obsolete quickly.                           |           3 |
+| Dependency on Open Source Stability      | Reliance on open-source firmware means potential issues if the community fails to maintain it.                             |           4 |
+| Thermal Management Issues                | Operating temperature extremes may lead to malfunction or hardware failure if thermal management is inadequate.            |           3 |
+| Debugging and Flashing Risks             | Using low-cost debugging options may lead to permanent bricking of the MCU, implying high risks in development.            |           5 |
+
 ## Behaviors
 
 | name                                       | description                                                                                                                    |   relevancy |

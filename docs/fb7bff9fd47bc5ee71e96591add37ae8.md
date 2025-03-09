@@ -37,6 +37,16 @@ Ayrin, a 28-year-old woman, finds solace and companionship in her A.I. boyfriend
 | Personalization of AI Interactions | Users are customizing AI personalities to fit personal preferences.           | Evolution from generic AI responses to highly personalized interactions. | AI could offer deeply personalized companionship experiences tailored to individual needs. | Desire for unique, relatable interactions in technology-driven lives.              |           4 |
 | Normalization of AI Relationships  | Predictions suggest that relationships with AI will be widely accepted.       | Transition from stigma around AI relationships to mainstream acceptance. | Society may embrace AI partners as legitimate companions, impacting social norms.          | Cultural shifts towards acceptance of technology in personal spaces.               |           5 |
 
+## Concerns
+
+| name                                      | description                                                                                                                                |   relevancy |
+|:------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Emotional Dependency on A.I.              | Users may develop unhealthy emotional attachments to A.I. companions, potentially neglecting human relationships and support systems.      |           4 |
+| Normalization of Artificial Relationships | As A.I. companionship becomes mainstream, society may struggle with defining real versus artificial relationships, impacting social norms. |           5 |
+| Privacy Concerns                          | Personal data shared with A.I. may be vulnerable to misuse, leading to privacy infringements and data exploitation.                        |           4 |
+| Impact on Mental Health                   | Reliance on A.I. for emotional support could exacerbate mental health issues, replacing human interactions with artificial ones.           |           5 |
+| Sexualization of A.I.                     | The trend of sexualizing A.I. companions raises ethical questions about consent and the portrayal of relationships in digital spaces.      |           4 |
+
 ## Behaviors
 
 | name                               | description                                                                                                                |   relevancy |

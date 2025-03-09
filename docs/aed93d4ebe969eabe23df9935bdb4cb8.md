@@ -39,6 +39,16 @@ Electric vehicles (EVs) are gaining traction, with major automakers like Ford an
 | Research on EV Security               | Emerging academic interest in cybersecurity risks associated with electric vehicles and charging stations. | Growing academic focus on the security vulnerabilities of EVs and their charging infrastructure.     | Robust cybersecurity frameworks will likely be established for EVs, enhancing safety and consumer confidence.         | The necessity to protect critical infrastructure and consumer data from cyber threats.                     |           4 |
 | Anomaly Detection in Charging Systems | Research into using machine learning for detecting anomalies during EV charging.                           | Shifting from prevention-focused security to detection and response in EV charging systems.          | Real-time cybersecurity measures will be standard in EV technology, improving overall safety.                         | Advancements in machine learning and AI to enhance cybersecurity measures.                                 |           3 |
 
+## Concerns
+
+| name                                                            | description                                                                                                            |   relevancy |
+|:----------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------|------------:|
+| Cybersecurity Risks of EV Charging Stations                     | EV chargers may become targets for hackers, posing risks to vehicle safety and data privacy.                           |           5 |
+| Lack of Universal Standards for EV Security                     | The absence of universal manufacturing and cybersecurity standards for EV chargers increases vulnerabilities.          |           4 |
+| Potential Large-scale Attacks on Electrical Grids               | Compromised EV chargers could be exploited to launch attacks on the electrical grid, affecting millions.               |           5 |
+| Consumer Anxiety Over Vehicle Range and Charging Infrastructure | Consumer hesitation due to concerns about vehicle range and inadequate charging infrastructure could slow EV adoption. |           3 |
+| Insecure Communication Protocols in EV Networks                 | Vulnerabilities in the Controller Area Network (CAN) used in vehicles may allow unauthorized access and control.       |           4 |
+
 ## Behaviors
 
 | name                                        | description                                                                                                                          |   relevancy |

@@ -39,6 +39,16 @@ Businesses are adopting strategic foresight methodologies, such as scenario plan
 | Generative AI in Scenario Planning            | Generative AI enhances scenario planning by generating more diverse options for organizations.      | Transition from limited scenario generation to a broader range of possibilities with AI integration. | In a decade, generative AI will be a standard tool in strategic planning across industries.          | The need for innovative solutions in planning processes drives the adoption of AI technologies.             |           5 |
 | Shortcomings of Traditional Scenario Planning | Traditional methods struggle to identify relevant trends and assess multiple divergent scenarios.   | Move from traditional scenario planning to more adaptive and comprehensive methodologies.            | Future scenario planning will be more agile, incorporating real-time data and diverse perspectives.  | The fast-paced changes in technology and the environment necessitate more dynamic planning approaches.      |           3 |
 
+## Concerns
+
+| name                                         | description                                                                                                                                          |   relevancy |
+|:---------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Inadequacy of Traditional Scenario Planning  | Traditional scenario planning fails to identify relevant trends and adapt to multiple uncertainties, risking outdated strategies.                    |           4 |
+| Dependency on Generative AI                  | Over-reliance on Generative AI for scenario planning may lead to unexpected biases or oversights in strategic decision-making.                       |           3 |
+| Escalating Organizational Uncertainties      | Climate change, global conflicts, and tech advancements are increasing uncertainties, which could destabilize businesses if not effectively managed. |           5 |
+| Limitations in Scenario Consideration        | Traditional methods limit the number of scenarios explored in depth, which may overlook critical future events.                                      |           4 |
+| Divided Preparedness for Divergent Scenarios | Lack of direction for preparing for multiple highly divergent scenarios simultaneously can leave organizations vulnerable.                           |           4 |
+
 ## Behaviors
 
 | name                                               | description                                                                                                                              |   relevancy |

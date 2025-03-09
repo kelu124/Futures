@@ -39,6 +39,16 @@ ASH is an AI-powered field guide designed for children aged 6 and up, inspired b
 | Parental Involvement in Eco-Learning    | Parents are given control over their children's data and learning experiences.       | From parents being passive observers to active participants in their children's ecological education.   | Parents will be more engaged in their children's learning about nature, fostering family-oriented eco-consciousness.       | The trend towards data privacy and parental control in children's digital experiences.                   |           4 |
 | Gamification of Environmental Awareness | Using collectible badges and game mechanics to motivate learning about biodiversity. | Evolving from traditional education methods to gamified experiences to foster learning.                 | Learning about biodiversity will become more engaging, leading to increased participation in conservation efforts.         | The successful application of gamification in education to enhance engagement and motivation.            |           5 |
 
+## Concerns
+
+| name                                     | description                                                                                                                    |   relevancy |
+|:-----------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Biodiversity Loss Awareness              | The potential for insufficient engagement in biodiversity protection due to generational disconnect with nature.               |           4 |
+| Data Privacy for Children                | Concerns regarding the management of data collected from children during their interactions with the device.                   |           5 |
+| Dependence on Technology for Learning    | The risk of children becoming overly reliant on technology such as ASH for learning about nature instead of direct experience. |           3 |
+| Digital Distraction                      | While ASH aims to eliminate distractions, the increasing use of digital devices might inadvertently lead to new distractions.  |           4 |
+| Effectiveness in Biodiversity Protection | Uncertain impact of digital engagement tools like ASH on actual conservation efforts and behaviors in children.                |           4 |
+
 ## Behaviors
 
 | name                                    | description                                                                                                |   relevancy |

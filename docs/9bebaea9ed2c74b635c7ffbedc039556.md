@@ -41,6 +41,17 @@ A study published in Nature Communications warns that the risks of simultaneous 
 | Rising Global Hunger              | Climate change could increase global hunger significantly by mid-century.             | From current hunger levels to a potential increase by 80 million people by 2050.             | By 2033, more than 900 million people may face hunger due to climate impacts.                            | The intersection of climate change and food security is becoming increasingly urgent.                 |           5 |
 | Civil Unrest from Food Insecurity | Food insecurity driven by climate change may lead to civil unrest.                    | From stable food systems to potential civil unrest due to food shortages.                    | Increased food insecurity may trigger social unrest and conflicts in vulnerable regions.                 | The connection between food systems and social stability is becoming clearer under climate pressures. |           4 |
 
+## Concerns
+
+| name                                      | description                                                                                                                                                    |   relevancy |
+|:------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Underestimated Harvest Failures           | The risk of simultaneous crop failures in major food regions is underestimated, posing a serious threat to food security and economies.                        |           5 |
+| Climate Change Impact on Food Security    | Climate change is expected to worsen food insecurity, potentially increasing hunger levels significantly by mid-century.                                       |           5 |
+| Ineffective Climate Models                | Current climate models fail to accurately capture the magnitude of extreme weather impacts on agriculture, leading to inadequate preparation for future risks. |           4 |
+| Increased Civil Unrest Due to Food Prices | Price spikes from harvest failures could lead to civil unrest, highlighting the social implications of agricultural failures.                                  |           4 |
+| Uncharted Climate Extremes                | The increasing concentration of greenhouse gases leads to unpredictable extreme weather patterns that could severely affect food production.                   |           5 |
+| Deterioration of Ecosystems               | Climate change threatens crucial ecosystems, contributing to a dystopian future of hunger and suffering if left unaddressed.                                   |           5 |
+
 ## Behaviors
 
 | name                                   | description                                                                                                                                           |   relevancy |

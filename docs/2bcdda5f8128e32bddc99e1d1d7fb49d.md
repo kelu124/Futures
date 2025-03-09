@@ -36,6 +36,16 @@ The article discusses the process of creating chlorophyll prints, an alternative
 | DIY Art Projects               | Increase in popularity of do-it-yourself art projects amongst hobbyists and artists. | Transition from commercial art production to more personalized and handmade art experiences. | In 10 years, DIY art could dominate the art scene, emphasizing personal creativity and sustainability.   | Desire for unique, personalized art experiences and a connection with nature.                  |           4 |
 | Natural Photography Techniques | A trend towards using natural elements and processes in photography.                 | Shift from digital and artificial photography to more organic and natural methods.           | In 10 years, photography may heavily incorporate organic processes, blending art with nature.            | The quest for authenticity and a deeper connection to the environment in artistic expression.  |           3 |
 
+## Concerns
+
+| name                                | description                                                                                                                                    |   relevancy |
+|:------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Environmental Impact of Plant Usage | Excessive harvesting of plant leaves for chlorophyll printing may lead to local biodiversity loss and impact ecosystems.                       |           4 |
+| Photographic Material Safety        | Use of non-safe materials like chemical inks could pose environmental concerns if not disposed of properly after printing.                     |           3 |
+| Exposure to Sunlight Risks          | Extended exposure of prints to sunlight may lead to fading, which might compel users to reprint more frequently and waste materials.           |           2 |
+| Learned Skills Dependency           | Dependency on alternative techniques may inhibit the development of digital photographic skills and understanding of modern practices.         |           2 |
+| Waste from Experimentation          | Frequent experimentation may lead to waste generation from prints that do not yield satisfactory results, increasing environmental footprints. |           3 |
+
 ## Behaviors
 
 | name                               | description                                                                                                                              |   relevancy |

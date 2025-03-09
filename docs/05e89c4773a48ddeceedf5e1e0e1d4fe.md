@@ -40,6 +40,20 @@ This text argues that countries and large corporations need to establish their o
 | Archiving Digital Data              | A need to archive digital data safely for future AI training.                               | From unstructured digital data access to structured, secured digital archives. | National archives of trusted data will be critical resources for AI development.                     | The realization that data integrity is paramount for future AI evolution.                       |           5 |
 | Dependency on Clean Training Data   | Future AI training may rely on uncontaminated, high-quality datasets.                       | From diverse data sources to focused, clean data reserves.                     | The training of AI may be limited by access to quality data, affecting AI performance.               | The necessity for accurate AI outputs in governance and industry dictates this need.            |           4 |
 
+## Concerns
+
+| name                                            | description                                                                                                                                      |   relevancy |
+|:------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Dependence on AI as Cognitive Infrastructure    | Society's increasing reliance on AI for decision-making may lead to diminished critical thinking skills and unevaluated reliance on technology.  |           4 |
+| Ideological Bias in AI Training Data            | AI models reflect the ideological views of their creators, leading to biased outcomes based on geographic and cultural contexts.                 |           5 |
+| Data Availability and Accessibility             | Future availability of trusted training data for AI development is uncertain, which may hinder innovation and access.                            |           5 |
+| National Security Risks of AI Dependence        | Countries lacking independent AI capabilities may face vulnerabilities, particularly regarding AI-generated information and strategic decisions. |           4 |
+| Market Control by Corporates                    | The competition between large corporates for dominant AI technologies could lead to monopolistic behaviors and hinder equitable access.          |           4 |
+| Degradation of Public Trust                     | Increased use of AI in critical decision-making might erode public trust in institutions if perceived biases or errors arise.                    |           4 |
+| Loss of Control over Data                       | Shifts in copyright or data-sharing policies could prevent access to essential training data, limiting AI development.                           |           5 |
+| Unpredictable Future of AI Research             | The evolution of AI technology might lead to reliance on self-augmenting models that could collapse under specific conditions.                   |           3 |
+| Challenges in Preservation of Digital Knowledge | Failure to establish reliable repositories for safe, uncontaminated digital data could limit future AI training opportunities.                   |           4 |
+
 ## Behaviors
 
 | name                                           | description                                                                                                                                            |   relevancy |

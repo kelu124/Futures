@@ -39,6 +39,18 @@ The Future of Life Institute has been advocating for human welfare amid evolving
 | Scenario Mapping for AI Development         | Creating detailed maps of potential AI trajectories to guide development.        | Shift from reactive to proactive approaches in AI development and its societal impacts.                     | In 10 years, scenario mapping might lead to more thoughtful and ethical AI advancements.                  | Need for strategic foresight in navigating the complexities of AI evolution.         |           4 |
 | Crossover Between Technology and Creativity | Encouraging collaboration between technologists and artists to shape AI futures. | From a technology-first approach to integrating artistic insights in AI development.                        | In 10 years, AI technologies may be more human-centered, reflecting diverse cultural narratives.          | Recognition of storytelling's power in influencing technology's role in society.     |           5 |
 
+## Concerns
+
+| name                                                | description                                                                                                                                          |   relevancy |
+|:----------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Dystopian Narratives in AI                          | Popular media often portrays AI through a dystopian lens, influencing public perception and potentially shaping technology's development negatively. |           5 |
+| Public Perception of AI                             | Negative depictions of AI can create a self-fulfilling prophecy, leading to adversarial interactions with AI technologies.                           |           4 |
+| Underrepresentation of Humanities in AI Development | The exclusion of arts and humanities from AI discussions may hinder the development of technologies that align with human values and goals.          |           4 |
+| Ethical Use of AI                                   | The potential for AI to be misapplied or developed without ethical considerations could lead to harmful outcomes for society.                        |           5 |
+| Technological Determinism                           | The belief that technology develops independently of human input could result in ignoring vital considerations like ethics and social impact.        |           4 |
+| Fear of AI's Potential                              | An overwhelming fear of AI's risks may lead to resistance against technological advancements that could benefit society.                             |           3 |
+| Negative Feedback Loops with AI Interactions        | Preconceived notions about AI may create negative feedback loops that diminish AI's effectiveness and inhibit positive interactions.                 |           4 |
+
 ## Behaviors
 
 | name                                    | description                                                                                                                                       |   relevancy |

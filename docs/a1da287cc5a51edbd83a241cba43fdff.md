@@ -43,6 +43,20 @@ The article discusses the recreation of Stamen basemaps, focusing on the inclusi
 | Increased Awareness of Data Errors    | More attention is being drawn to the issues of data misinterpretation and handling. | From ignoring minor data errors to actively addressing and correcting them.      | The future might see automated systems for recognizing and correcting data errors in real-time.          | The critical need for accuracy in data analysis across various sectors, from academic to commercial. |           4 |
 | GeoJSON and Open Data Movement        | The shift towards open, accessible geographic data formats is gaining traction.     | From proprietary formats to open-source and accessible formats like GeoJSON.     | Ten years from now, open data will dominate the landscape, facilitating collaboration and innovation.    | The push for transparency and collaboration in data handling and sharing.                            |           5 |
 
+## Concerns
+
+| name                                     | description                                                                                                                      |   relevancy |
+|:-----------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Data Integrity and Accuracy              | The presence of Null Island highlights issues with misconfigured data and accuracy in geographical information systems.          |           5 |
+| Confusion in Mapping Representations     | The increase in sizes and representations of Null Island may cause confusion and misinterpretation of map data among users.      |           4 |
+| Easter Egg Impact on Serious Mapping     | Including whimsical elements like Null Island in serious mapping can undermine user trust and data accuracy.                     |           4 |
+| Potential for Misleading Geographic Data | The phenomenon of Null Island may mislead users about the accuracy and reliability of location-based services and data.          |           5 |
+| Legacy Technology Issues                 | Transitioning from older mapping technologies to new systems may retain problematic data handling practices.                     |           3 |
+| Data Usage Misinterpretation             | Users may misinterpret GPS and data placement leading to erroneous conclusions about geographic locations like Null Island.      |           4 |
+| Cultural Impact of Geographical Fiction  | The narrative surrounding Null Island reflects a cultural phenomenon that affects how people interact with geographic data.      |           3 |
+| GPS Spoofing Concerns                    | The possibility of using GPS spoofing raises security and ethical concerns in data authenticity and usage.                       |           4 |
+| Environmental Monitoring Gaps            | The removal of the buoy at Null Island indicates potential gaps in environmental monitoring and data reliability in that region. |           5 |
+
 ## Behaviors
 
 | name                            | description                                                                                                                                                       |   relevancy |

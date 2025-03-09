@@ -41,6 +41,16 @@ Leica has introduced the M11-P, the world's first camera featuring built-in cont
 | Secure Exif Data for Image Authenticity           | Leica's M11-P embeds secure, unalterable data in image files for verification.              | Move from easily manipulated image data to secure, verifiable content.                    | This may lead to industry-wide standards for image data security and authenticity.                     | Technological advancements in data security and the rise of digital forensics.        |           3 |
 | Potential for Mainstream Adoption by Other Brands | Uncertainty exists whether other camera manufacturers will adopt similar features as Leica. | Could shift from niche technology to mainstream camera industry standard.                 | Mainstream adoption could redefine how photography is approached by both professionals and amateurs.   | Competitive pressure among camera manufacturers to innovate and meet market demands.  |           4 |
 
+## Concerns
+
+| name                            | description                                                                                                                                                   |   relevancy |
+|:--------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Misinformation and Fake Content | The rise of misinformation in digital media could proliferate if proper standards for content authenticity are not adopted widely.                            |           5 |
+| Adoption by Other Manufacturers | The potential slow adoption of content credentialing technology by mainstream camera manufacturers could limit its effectiveness in combating misinformation. |           4 |
+| Security of Digital Credentials | Concerns may arise regarding the security of the embedded content credentials and whether they can be compromised or spoofed.                                 |           4 |
+| Trust in Digital Media          | As digital manipulation becomes more sophisticated, continued trust in digital images may erode if authenticity measures are not universally implemented.     |           5 |
+| Standardization Challenges      | The varying degree of compliance and implementation of content authenticity standards across different platforms could create confusion or loopholes.         |           4 |
+
 ## Behaviors
 
 | name                                              | description                                                                                                 |   relevancy |

@@ -41,6 +41,18 @@ Monash University scientists developed "DishBrain," a semi-biological computer c
 | Biological-AI Synergy                 | Combining biological systems with AI for enhanced machine intelligence.  | Emergence of hybrid systems that leverage biological and artificial intelligence. | Hybrid systems could revolutionize industries such as robotics and healthcare.                   | The need for machines that can learn and adapt like biological entities.                  |           5 |
 | Applications in Autonomous Technology | Potential impacts on robotics and autonomous vehicles.                   | Evolution of AI applications in robotics from basic to advanced learning systems. | Autonomous machines will have greater capabilities and adaptability, reshaping industries.       | Advancements in machine learning and AI technologies driving automation.                  |           5 |
 
+## Concerns
+
+| name                                      | description                                                                                                                           |   relevancy |
+|:------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Ethical Implications of Sentient Machines | The development of sentient-like capabilities in machines raises ethical questions about their rights and roles in society.           |           5 |
+| Security Risks with Advanced AI           | The integration of advanced AI in critical fields raises concerns about potential misuse and security vulnerabilities.                |           4 |
+| Dependency on Biological Computing        | Over-reliance on biological neural networks may pose risks if their functioning becomes compromised or uncontrollable.                |           4 |
+| Impact on Employment                      | The advancement of autonomous machines may disrupt job markets and lead to widespread unemployment in various sectors.                |           4 |
+| Unpredictability of Machine Learning      | Machines capable of self-optimizing may develop unpredictable behaviors, posing risks in safety-critical applications.                |           5 |
+| Regulatory Challenges                     | Existing laws and regulations may not adequately address the emergence of hybrid biological-AI systems, leading to governance issues. |           5 |
+| Unequal Access to Technology              | Advancements in this technology might lead to disparities in access, creating inequalities in benefits derived from its use.          |           3 |
+
 ## Behaviors
 
 | name                                  | description                                                                                                                |   relevancy |

@@ -41,6 +41,17 @@ The legal profession faces renewed scrutiny as advances in artificial intelligen
 | Conservative Legal Culture  | Resistance to rapid changes due to traditional practices in legal profession. | Transition from traditional billing and legal practices to tech-driven models.   | Legal billing models may evolve to be based on project outcomes rather than hours. | Cultural inertia in the legal profession slowing down AI adoption.           |           3 |
 | AI in Client Interactions   | AI tools may change how lawyers interact with clients.                        | Shift from time-based billing to value-based billing due to AI efficiency.       | Client relationships may evolve as lawyers adapt to AI-enhanced services.          | Client demand for more cost-effective and transparent legal services.        |           3 |
 
+## Concerns
+
+| name                                             | description                                                                                                                                                       |   relevancy |
+|:-------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Job Displacement in Legal Profession             | The rise of A.I. may lead to significant job losses within the legal industry, particularly for roles that involve routine document review and legal research.    |           4 |
+| Data Protection and Client Confidentiality Risks | The use of A.I. tools raises concerns about maintaining client confidentiality and protecting sensitive legal data from breaches or misuse.                       |           5 |
+| Reliability of A.I. Legal Outputs                | A.I. models are prone to generating inaccurate information, including fake legal citations, which could lead to malpractice suits.                                |           5 |
+| Pressure on Billable Hours                       | Increased efficiency from A.I. could challenge the traditional hourly billing model and pressure law firms to adapt their pricing strategies.                     |           3 |
+| Cultural Resistance to Technological Adoption    | The conservative culture of the legal profession may slow down the integration of A.I., preventing the industry from fully benefiting from advancements.          |           3 |
+| Skill Gap Among Legal Professionals              | As A.I. takes on more tasks, legal professionals may need to rapidly upskill to stay relevant, risking a divide between those who can adapt and those who cannot. |           4 |
+
 ## Behaviors
 
 | name                                             | description                                                                                                                                         |   relevancy |

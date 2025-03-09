@@ -38,6 +38,17 @@ The future of generative AI is shifting towards niche applications rather than g
 | Domain-Specific Language Models  | Emergence of language models fine-tuned for specific domains and datasets.                     | Shift from general language models to those optimized for particular sectors or applications.                 | In ten years, domain-specific models may dominate fields like customer support and content creation, enhancing relevance. | The necessity for more effective information retrieval and task-specific AI applications fosters this development. |           4 |
 | Prosaic Success of Generative AI | The successful integration of generative AI may appear unremarkable rather than revolutionary. | Moving from grand AI expectations to practical, everyday applications that enhance workflows.                 | In a decade, generative AI will be seamlessly integrated into daily tasks, becoming an unnoticed yet vital tool.          | The desire for practical utility in technology drives acceptance of AI as a routine aspect of work.                |           3 |
 
+## Concerns
+
+| name                                  | description                                                                                                                                                              |   relevancy |
+|:--------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Sustainability Risks                  | The increasing reliance on generative AI tools may lead to unaddressed sustainability concerns related to resource usage, energy consumption, and environmental impacts. |           4 |
+| Bias and Fairness Issues              | Generative AI could perpetuate or exacerbate biases present in training data, posing challenges for fair and equitable outcomes.                                         |           5 |
+| Privacy Concerns with Data Management | Connecting enterprise data with AI tools, especially from big tech, raises significant privacy and data management issues.                                               |           5 |
+| Over-reliance on Specific Providers   | Businesses may become overly dependent on major AI providers, potentially stifling innovation and leading to monopolistic behaviors.                                     |           4 |
+| Misunderstanding AI Capabilities      | There is a risk that users may overestimate the capabilities of generative AI, leading to reliance on technology in inappropriate contexts.                              |           3 |
+| Neglect of DIY AI Solutions           | The focus on major AI platforms may lead to neglect of self-hosted, DIY AI solutions that could provide more tailored and privacy-conscious benefits.                    |           4 |
+
 ## Behaviors
 
 | name                            | description                                                                                                                                 |   relevancy |

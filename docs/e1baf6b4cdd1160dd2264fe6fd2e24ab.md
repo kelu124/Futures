@@ -42,6 +42,18 @@ The article discusses the evolution of generative AI (gen AI) from knowledge-bas
 | Integration of AI agents with existing tools   | Agents can interface with various software tools to streamline processes.                          | From isolated software applications to interconnected AI-driven workflows.                | In ten years, businesses may operate within a fully integrated AI ecosystem for all tasks.                 | The need for operational efficiency drives the integration of AI with existing systems.               |           4 |
 | Human oversight in AI systems                  | Human-in-the-loop mechanisms are essential for AI agents to ensure accuracy and compliance.        | From fully autonomous systems to hybrid approaches involving human oversight.             | In a decade, effective collaboration between humans and AI may redefine workplace dynamics.                | The need for accountability and risk management in AI deployment drives this change.                  |           5 |
 
+## Concerns
+
+| name                             | description                                                                                                                                                 |   relevancy |
+|:---------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Autonomy and Control Risks       | As gen AI agents gain more autonomy, the challenge of ensuring control over their actions without compromising accuracy or compliance grows.                |           5 |
+| Complexity in Implementation     | The integration of AI agents into existing systems could lead to unforeseen complexities, requiring significant changes to IT infrastructure and processes. |           4 |
+| Job Displacement Concerns        | The rise of AI agents capable of performing tasks traditionally done by humans raises concerns about potential job displacement across various sectors.     |           4 |
+| Data Security and Privacy Issues | The use of AI agents involves handling sensitive data, which poses risks related to data breaches and privacy violations.                                   |           5 |
+| Bias and Fairness                | AI agents may inherit bias from training data, leading to outcomes that could perpetuate or amplify social inequalities.                                    |           4 |
+| Dependency on Technology         | Increased reliance on AI agents for critical tasks could foster a dependency that may be problematic in case of system failures.                            |           4 |
+| Human Oversight Limitations      | As agentic systems operate more independently, maintaining effective human oversight becomes increasingly challenging, risking errors in decision-making.   |           5 |
+
 ## Behaviors
 
 | name                                               | description                                                                                                                             |   relevancy |

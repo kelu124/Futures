@@ -42,6 +42,18 @@ This article serves as a comprehensive guide to autonomous agents powered by GPT
 | Impact on Job Roles                         | Autonomous agents freeing workers from mundane tasks to focus on higher-level responsibilities.       | From manual task execution to strategic, creative, and interpersonal work.                             | Workforce dynamics will shift, emphasizing human creativity and emotional intelligence.                    | The desire for more meaningful work and effective use of human resources.                      |           4 |
 | Public Interest and Media Coverage          | Increased media attention on projects like AutoGPT and BabyAGI indicates widespread public curiosity. | Shift from niche tech discussions to mainstream interest in AI capabilities.                           | Greater public engagement and understanding of AI technologies and their implications.                     | The rapid advancement of AI technologies capturing public imagination and interest.            |           4 |
 
+## Concerns
+
+| name                            | description                                                                                                                                       |   relevancy |
+|:--------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Uncontrolled Autonomy of Agents | As autonomous agents become more capable, their ability to operate independently raises concerns about uncontrolled behavior and decision-making. |           5 |
+| Job Displacement                | The rise of autonomous agents may lead to significant job displacement in various sectors as tasks become automated.                              |           5 |
+| Ethical Decision Making         | The lack of clear ethical frameworks for how autonomous agents should make decisions could lead to harmful consequences.                          |           4 |
+| Dependence on Technology        | Increased reliance on autonomous agents might lead to diminished human skills and critical thinking over time.                                    |           4 |
+| Data Security and Privacy       | Autonomous agents may require access to sensitive personal data, raising concerns about data security and privacy violations.                     |           5 |
+| Misinformation and Misuse       | Autonomous agents can propagate misinformation if not properly managed, leading to potential societal harm.                                       |           4 |
+| Regulatory Challenges           | The rapid development of autonomous agents creates challenges for regulatory frameworks to keep pace with their deployment and impact.            |           5 |
+
 ## Behaviors
 
 | name                            | description                                                                                                                                            |   relevancy |

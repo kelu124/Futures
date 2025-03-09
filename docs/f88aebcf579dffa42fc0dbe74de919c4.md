@@ -42,6 +42,18 @@ The US Department of Defense (DoD) has released an unclassified summary of its 2
 | Integration of Emerging Technologies in Cyber Operations | DoD explores the intersection of emerging technologies with cyber capabilities.             | Shift from conventional cyber tactics to incorporating emerging technologies in defense.         | Cyber operations will leverage advanced technologies, making them more sophisticated and effective. | Rapid technological advancement necessitates integration into defense strategies.                  |           5 |
 | Long-term Cyber Defense Strategy                         | DoD focuses on the long-term impact of its cyber efforts.                                   | Transition from reactive measures to a proactive, long-term cybersecurity strategy.              | Cybersecurity will be deeply embedded in military and national strategies, ensuring resilience.     | Acknowledgment of the persistent and evolving nature of cyber threats.                             |           5 |
 
+## Concerns
+
+| name                                                     | description                                                                                                                                          |   relevancy |
+|:---------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Increased Cyber Vulnerability of Allied Partners         | The focus on boosting allies' cyber capabilities could inadvertently expose them to higher risks if not managed properly.                            |           4 |
+| Malicious Cyber Activity from State Actors               | China and Russia’s use of cyberattacks as asymmetric warfare highlights a dangerous escalation in international relations and cybersecurity threats. |           5 |
+| Over-reliance on Bug Bounty Programs                     | The increasing dependence on bug bounty initiatives may not be sufficient to address all cybersecurity challenges effectively.                       |           3 |
+| Critical Infrastructure Security Risks                   | Defending critical infrastructure against sophisticated cyber threats remains a pressing concern for national security.                              |           5 |
+| Emerging Technologies and Cybercapabilities Intersection | The exploration of new technologies in cybersecurity could lead to unforeseen vulnerabilities if not carefully evaluated.                            |           4 |
+| Cyber Workforce Development Challenges                   | While training is emphasized, the speed of technological advancement may outpace workforce readiness and competency.                                 |           4 |
+| Long-term Impact of Cyber Strategy                       | Ensuring a lasting effect of the cyber strategy may prove challenging amid rapid cyber threat evolution.                                             |           4 |
+
 ## Behaviors
 
 | name                                                 | description                                                                                                                 |   relevancy |

@@ -42,6 +42,20 @@ Deb Chachra, a material scientist and engineering professor, discusses her upcom
 | Intergenerational Responsibility in Infrastructure | Awareness of the impact of current infrastructure decisions on future generations.              | From a short-term focus on infrastructure to long-term implications for future generations.          | In 10 years, infrastructure planning will increasingly incorporate intergenerational equity and sustainability. | The urgency of climate change and social equity highlights the need for long-term thinking.                       |           5 |
 | Infrastructure as a Reflection of Power Dynamics   | Recognition that infrastructure systems reflect and reinforce existing social power dynamics.   | From seeing infrastructure as neutral to understanding its role in perpetuating social inequities.   | In 10 years, infrastructure design will actively seek to address and rectify existing inequalities.             | Awareness of historical injustices drives demand for equitable infrastructure solutions.                          |           4 |
 
+## Concerns
+
+| name                                                | description                                                                                                                                                 |   relevancy |
+|:----------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Infrastructure Vulnerability to Climate Change      | Infrastructure systems are at risk of failure as they were built for a stable climate that no longer exists, necessitating engagement with their mechanics. |           5 |
+| Inequitable Distribution of Infrastructure Benefits | Benefits of infrastructure are unevenly distributed, often favoring those in power while marginalizing vulnerable communities.                              |           5 |
+| Historical Context of Settler Colonialism           | Infrastructure decisions have historically reflected and reinforced settler colonialism, impacting Indigenous communities disproportionately.               |           4 |
+| Over-Reliance on Centralized Systems                | Dependence on centralized infrastructure systems may limit resilience and adaptability in the face of climate change.                                       |           4 |
+| Political Power Dynamics                            | As political power becomes more contested, decisions around infrastructure development may not serve equitable community interests.                         |           4 |
+| Public vs. Private Infrastructure Ownership         | Privatization of essential infrastructure can lead to profit motives undermining public good, risking equitable access.                                     |           5 |
+| Technological Transformation Challenges             | Transitioning to sustainable energy sources poses complexity and requires significant societal and infrastructural shifts.                                  |           4 |
+| Generational Equity in Infrastructure Planning      | Current infrastructure development impacts future generations, emphasizing the need for foresight in planning and decision-making.                          |           4 |
+| Social and Environmental Resilience                 | Infrastructure must adapt to changing environmental conditions to remain viable and meet community needs.                                                   |           5 |
+
 ## Behaviors
 
 | name                                                    | description                                                                                                                                                              |   relevancy |

@@ -40,6 +40,21 @@ The text discusses the benefits of using RSS readers as a means to improve one's
 | Existence of Surveillance Resistance Tools | Tools like RSS are seen as a way to bypass surveillance and data tracking.                   | Shift from digital experiences that track users to more privacy-focused alternatives.      | Mainstream adoption of privacy-centric tools leads to a cultural shift in online behavior.           | Growing public concern over personal data privacy and the ethics of data collection.   |           4 |
 | Potential for a Utopian Internet           | The vision of an internet where users have full control over their content and interactions. | From a platform-dominated internet to a user-empowered digital ecosystem.                  | Creation of a user-centric internet where privacy and access are prioritized.                        | Desire for a more equitable and open internet that values user choice and privacy.     |           5 |
 
+## Concerns
+
+| name                                              | description                                                                                                                                        |   relevancy |
+|:--------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Systemic Issues in Individual Efforts             | Personal efforts like recycling are inadequate against systemic problems, undermining individual impact on large-scale issues like climate change. |           5 |
+| Enshittification of Digital Platforms             | The deterioration of digital platforms into places prioritizing profit over user experience results in collective action problems for users.       |           4 |
+| Monopoly Capitalism and Market Control            | The dominance of monopolistic companies like Amazon leads to a lack of viable alternatives for consumers, impacting market competition.            |           5 |
+| High Switching Costs for Users                    | The difficulty and costs associated with switching away from large platforms hinder users from seeking better digital experiences.                 |           4 |
+| Loss of Privacy on Major Platforms                | Users sacrifice privacy and control over personal data to engage with platforms, which track user behavior and information.                        |           5 |
+| Dependence on Algorithmic Control                 | The reliance on algorithms for content prioritization can lead to a loss of user agency and exposure to undesired content.                         |           3 |
+| Collective Action Problems in Digital Communities | The challenge of coordinating collective actions like leaving a platform leads to stagnation in seeking better alternatives.                       |           4 |
+| Surveillance and Control of User Experience       | Current digital ecosystems often compromise user privacy and limit access to information, reinforcing control by tech giants.                      |           5 |
+| Decline of Independent Publishers                 | Independent voices and small publishers may be marginalized as users gravitate towards dominant platforms for convenience.                         |           4 |
+| Erosion of User Empowerment                       | Users face increasing challenges in maintaining control over their information and choices in a rapidly evolving digital landscape.                |           4 |
+
 ## Behaviors
 
 | name                              | description                                                                                                                       |   relevancy |

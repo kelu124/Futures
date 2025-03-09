@@ -40,6 +40,17 @@ Neal Stephenson, a renowned science fiction author, has made remarkably accurate
 | Perception of AI Capabilities      | Public awareness of AI as a statistics engine, rather than true intelligence, is growing.        | From viewing AI as a form of intelligence to recognizing its limitations as a statistical tool. | Society may develop a more nuanced understanding of AI’s capabilities and limitations.                    | Increased exposure to AI failures and misapplications will inform public perception.                          |           5 |
 | Evolution of AI Applications       | AI applications are still in their infancy, resembling early transistor technology.              | From speculative AI capabilities to real-world, practical applications emerging gradually.      | AI technology could become deeply integrated into everyday life, much like transistors did.               | Ongoing venture capital investment and innovation in AI will drive its evolution.                             |           3 |
 
+## Concerns
+
+| name                            | description                                                                                                                                                                        |   relevancy |
+|:--------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Misuse of AI in Education       | The potential for AI models to incorrectly teach concepts or generate fabricated information in educational settings, leading to a misunderstanding of facts.                      |           5 |
+| Intellectual Labor Exploitation | AI technologies may exploit the uncredited work of human artists, reducing opportunities for creative professionals and diminishing the value of their labor.                      |           4 |
+| Access Inequality               | As generative AI technologies are expensive to operate, there may be significant disparities in access based on socioeconomic status, mirroring class divisions seen in schooling. |           5 |
+| Misleading AI Outputs           | Generative AI can produce outputs that sound accurate but lack true understanding, leading users to falsely believe in their validity and reliability.                             |           5 |
+| Naivety in AI Perception        | A potential misunderstanding of what generative AI can achieve, leading to unrealistic expectations about its societal impact and capabilities.                                    |           3 |
+| Dependence on Corporations      | Increasing dominance of corporations in AI development could lead to monopolistic practices, further entrenching power dynamics and limiting innovation.                           |           4 |
+
 ## Behaviors
 
 | name                                   | description                                                                                                                 |   relevancy |

@@ -38,6 +38,16 @@ Whitney Wolfe Herd, founder of Bumble, suggests a future where AI systems could 
 | Concierge Dating Services               | Concept of AI dating concierges dating on behalf of users.                       | Transforming dating from user-driven to AI-driven matchmaking.                        | AI could handle all interactions, possibly diminishing the need for human involvement in dating. | The growing trend of outsourcing personal tasks to digital assistants.     |           4 |
 | Cultural Shift Towards AI Relationships | Growing acceptance of AI in personal relationships mimicking human interactions. | From human-centric relationships to acceptance of AI as legitimate partners.          | AI companions may become commonplace, changing human relationship dynamics.                      | A societal shift towards automation and technology reliance in daily life. |           5 |
 
+## Concerns
+
+| name                                        | description                                                                                                              |   relevancy |
+|:--------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------|------------:|
+| AI-Driven Emotional Manipulation            | AI systems could exploit human insecurities to manipulate dating preferences and behaviors, raising ethical concerns.    |           4 |
+| Loss of Genuine Human Connection            | Reliance on AI for dating may diminish authentic human interactions and emotional connections.                           |           5 |
+| Dependence on AI for Relationship Decisions | Relying on AI-led matchmaking could lead to poor decision-making in relationships, undermining personal growth.          |           4 |
+| Erosion of Personal Agency                  | Allowing AI to make dating decisions could reduce individual autonomy and self-awareness in relationships.               |           5 |
+| Privacy Concerns with AI Data               | Involvement of AI in personal matters raises issues about data privacy and the potential misuse of personal information. |           5 |
+
 ## Behaviors
 
 | name                                | description                                                                                                         |   relevancy |

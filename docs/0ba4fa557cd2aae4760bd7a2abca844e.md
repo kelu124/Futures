@@ -44,6 +44,18 @@ The author, identified as an influential figure in the tech industry, expresses 
 | Calls for Regulation         | Tech leaders advocate for minimal regulations under the guise of public interest. | Shift from proactive regulation to reactive and limited oversight of technology.               | Regulatory frameworks may lag behind technological advancements, leading to increased risks.                      | Corporate interests seek to limit regulatory encroachments to maximize profitability.            |           4 |
 | Human Dignity and Well-being | A call to prioritize human values in technological development.                   | Shift from tech-driven solutions to human-centered approaches in innovation.                   | Future technologies may better align with human values, enhancing well-being and dignity.                         | Growing awareness of the consequences of technology on society and individual rights.            |           5 |
 
+## Concerns
+
+| name                                 | description                                                                                                                           |   relevancy |
+|:-------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Authoritarian Intelligence           | The concentration of power among tech leaders threatens individual and societal autonomy, shaping a future without democratic debate. |           5 |
+| Manipulation of Innovation Narrative | The perception of technological progress as inevitable can suppress dissent and obscure alternative approaches to AI development.     |           4 |
+| Risks of Bias and Disinformation     | Generative AI could amplify existing biases and spread disinformation, eroding public trust in technology.                            |           5 |
+| Job Displacement                     | The rapid evolution of AI may lead to significant job loss and economic disruption, with unclear societal impacts.                    |           4 |
+| Opaque Decision-Making Systems       | The reliance on AI for decision-making may undermine human agency and accountability in society.                                      |           4 |
+| Erosion of Humanity                  | Prioritizing AI-based 'intelligence' over human cognition could lead to a loss of essential human qualities and values.               |           5 |
+| Environmental and Ethical Risks      | AI advancements could pose environmental risks and exacerbate ethical dilemmas without proper checks and balances.                    |           4 |
+
 ## Behaviors
 
 | name                        | description                                                                                                                    |   relevancy |

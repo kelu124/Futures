@@ -43,6 +43,16 @@ Nvidia's stock surged nearly 30% following its first-quarter financial results, 
 | Shift to Accelerated Computing      | The industry is recognizing accelerated computing as the future of processing power. | Transition from traditional CPU-based computing to accelerated computing solutions.           | Computing architectures could evolve to prioritize AI and machine learning capabilities.         | The limitations of current CPU technology in meeting AI demands drive this shift.            |           5 |
 | AI Supercomputing Landscape         | Nvidia is seen as more than a GPU company; it's an AI supercomputing leader.         | Evolution from generic computing to specialized AI supercomputing roles.                      | The definition of computing leadership may revolve around AI capabilities and innovations.       | The need for advanced computing solutions tailored for AI applications.                      |           5 |
 
+## Concerns
+
+| name                                | description                                                                                                                                                    |   relevancy |
+|:------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| GPU Access Crisis                   | The surge in demand for GPUs driven by generative AI has created a crisis for companies unable to afford access, impacting innovation and competition.         |           4 |
+| Market Monopoly Risks               | Nvidia's dominance in the GPU market raises concerns about potential monopolistic practices and stifling of competition in AI development.                     |           5 |
+| Geopolitical Tensions in Tech       | Geopolitical issues, like U.S. export controls on advanced GPUs, threaten global collaboration and technology access, impacting international AI advancements. |           4 |
+| AI Dependency on Hardware Suppliers | An increasing reliance on Nvidia for AI hardware could lead to vulnerabilities in the tech ecosystem and hinder diversification in AI approaches.              |           3 |
+| Software Tooling Under-investment   | AI chip startups that neglect software tooling may face difficulties in competing, impacting the overall development of AI technologies.                       |           3 |
+
 ## Behaviors
 
 | name                                  | description                                                                                                                    |   relevancy |

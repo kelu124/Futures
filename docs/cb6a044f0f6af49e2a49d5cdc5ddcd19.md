@@ -39,6 +39,17 @@ The newsletter update by David Mattin discusses the implications of TikTok's ban
 | Intel's Strategic Importance         | Intel is seen as crucial for US dominance in AI and chip manufacturing amidst geopolitical tensions.         | Shift from reliance on foreign chip manufacturers to domestic production capabilities.        | In 10 years, the US may significantly enhance its tech sovereignty through domestic manufacturing. | The need for technological self-sufficiency in the face of potential threats.                         |           5 |
 | Emergence of AI Monocultures         | Concerns over the dominance of singular AI mindsets affecting societal diversity.                            | From diverse AI applications to potential over-optimization of a single cultural perspective. | In a decade, societies may struggle with the implications of AI that lacks diverse viewpoints.     | The drive for efficiency in AI development may lead to cultural homogenization.                       |           4 |
 
+## Concerns
+
+| name                               | description                                                                                                                        |   relevancy |
+|:-----------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Digital Bifurcation                | The emergence of two opposing internet systems (Global North vs. China) could foster cultural division and misinformation.         |           5 |
+| Competitive AI Development         | The race to develop AI technologies could lead to rival systems of intelligence with conflicting values and agendas.               |           4 |
+| Geopolitical Tensions and Conflict | The growing technological tensions between the US and China may escalate into a new Cold War, threatening global stability.        |           5 |
+| Monopolization of Technology       | The risk of AI and technology being dominated by a single mindset, leading to a lack of diversity and resilience in intelligence.  |           4 |
+| Surveillance and Control           | Rapid advancements in surveillance technologies could undermine personal freedoms and privacy on a global scale.                   |           5 |
+| Social Fragmentation               | The splinternet might lead to fragmented societies that struggle to communicate, collaborate, and solve global issues effectively. |           4 |
+
 ## Behaviors
 
 | name                                           | description                                                                                                                                              |   relevancy |

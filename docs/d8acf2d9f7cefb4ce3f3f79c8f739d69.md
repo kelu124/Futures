@@ -39,6 +39,21 @@ Blair Kamin, the former architecture critic for the Chicago Tribune, ended his 2
 | Individual Sponsorship of Journalistic Positions | Individuals are stepping in to fund journalism roles directly to ensure coverage.         | From institutional funding to individual funding for specific journalism positions.           | Individual sponsorship becomes a common avenue for sustaining niche journalism roles.                       | Concern over the decline of critical journalism drives individuals to take action.                                    |           3 |
 | Emergence of Nonprofit Journalism Models         | Nonprofit organizations are becoming intermediaries for funding journalistic roles.       | From traditional for-profit journalism models to nonprofit-mediated funding solutions.        | Nonprofit models dominate local media, ensuring diverse coverage while maintaining journalistic integrity.  | The need for sustainable journalism practices that prioritize community and culture over profit.                      |           4 |
 
+## Concerns
+
+| name                                      | description                                                                                                                            |   relevancy |
+|:------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Decline of Cultural Criticism             | The reduction of arts and culture reporting is leading to a lack of oversight and awareness of important cultural issues in cities.    |           5 |
+| Impact of Ownership on Journalism Quality | Hedge fund ownership of news organizations may prioritize profit over quality journalism, potentially leading to cultural voids.       |           4 |
+| Funding Gap for Cultural Coverage         | There is a significant lack of financial support for arts journalism compared to other news areas, risking cultural representation.    |           4 |
+| Risk of Superficial Coverage              | Funding models offering biweekly columns rather than full-time positions may lead to less comprehensive cultural coverage.             |           4 |
+| Donor Influence on Content                | Philanthropic support can create challenges around editorial independence and influence over content and priorities.                   |           4 |
+| Disconnection from Community Needs        | Local news organizations may be out of touch with community interests and needs due to cutbacks in arts coverage.                      |           3 |
+| Potential for Further Job Losses in Media | As newspapers continue to cut staff in response to financial pressures, more critical journalism roles could be eliminated.            |           5 |
+| Public Trust in Media                     | Declining coverage in key cultural areas could undermine public trust in local media as a reliable source of information.              |           4 |
+| Long-Term Viability of Local News Outlets | The ongoing financial struggles of local news outlets pose a risk to their long-term sustainability and meeting community needs.       |           5 |
+| Corporate Pressure on Editorial Choices   | The financial struggles of news organizations may lead to editorial choices driven by corporate interests rather than public interest. |           4 |
+
 ## Behaviors
 
 | name                                          | description                                                                                                                  |   relevancy |

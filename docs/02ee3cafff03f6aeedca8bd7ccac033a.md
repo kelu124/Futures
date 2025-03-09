@@ -39,6 +39,17 @@ The narrative surrounding brand publishing versus traditional media is evolving,
 | Brand Publishing Growth                      | Increased investment in brand publishing among financial institutions.              | Shift from minimal content creation to a robust brand publishing model.               | Brand publishing may become a core function across various sectors, not just finance.                   | Recognition of the value of content in enhancing brand reputation and trust.          |           5 |
 | Integration of Content in Financial Services | Content is being integrated into financial services as a core offering.             | From isolated content creation to content being central to service offerings.         | Content may become an integral part of all service industries, enhancing value propositions.            | The evolving landscape of consumer expectations for informative and engaging content. |           4 |
 
+## Concerns
+
+| name                                         | description                                                                                                                         |   relevancy |
+|:---------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Misinformation and Bias in Financial Content | Increased brand publishing may lead to biased information that promotes the interests of banks over factual reporting.              |           4 |
+| Erosion of Trust in Journalism               | Brand publishing initiatives could further blur the lines between journalism and marketing, undermining trust in traditional media. |           5 |
+| Over-Saturation of Financial Content         | The influx of financial-related content may overwhelm consumers, making it difficult to discern credible information.               |           3 |
+| Conflict of Interest in Content Creation     | Banks creating their own content could result in conflicts of interest, prioritizing their agenda over consumer transparency.       |           4 |
+| Monopolization of Information Sources        | As banks acquire media outlets, there is a risk of monopolizing financial news and restricting diverse viewpoints.                  |           4 |
+| Internal Manipulation of Employee Perception | Content aimed at employees could be used to manipulate perceptions and drive engagement without addressing real issues.             |           3 |
+
 ## Behaviors
 
 | name                                           | description                                                                                                                             |   relevancy |

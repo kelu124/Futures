@@ -40,6 +40,16 @@ Researchers in Brazil have discovered alarming rocks made from melted plastic on
 | Conservation Area Vulnerability | Discovery of pollution in a protected conservation area raises concerns.       | Protected areas are no longer immune to human-induced environmental changes.                     | In 10 years, conservation strategies may need to adapt to address pollution in protected regions.                        | The need to protect ecosystems leads to reevaluation of conservation effectiveness in polluted areas.    |           4 |
 | Anthropocene Recognition        | Discussion about the Anthropocene as a new geological epoch gaining traction.  | Shift from traditional geological timelines to acknowledging human impact as a geological force. | In a decade, the Anthropocene may be widely accepted and studied in geological contexts.                                 | Increased scientific discourse and public awareness of human environmental impacts drives this change.   |           5 |
 
+## Concerns
+
+| name                            | description                                                                                                                          |   relevancy |
+|:--------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Plastic Pollution in Geology    | The fusion of plastic debris with geological materials signifies a worrying trend in pollution affecting Earth's geological records. |           5 |
+| Impact on Marine Ecosystems     | The accumulation of plastic, especially from fishing nets, poses a severe threat to marine life, particularly in conservation areas. |           5 |
+| Legacy of Human Activity        | The discovery emphasizes humans' lasting negative impact on the planet, raising concerns about environmental sustainability.         |           4 |
+| Climate Change Effects          | Rising temperatures contributing to the melting of plastics highlights a connection between climate change and pollution escalation. |           4 |
+| Threat to Wildlife Conservation | The presence of plastics in turtle nesting areas jeopardizes the conservation efforts for green turtles and their habitats.          |           5 |
+
 ## Behaviors
 
 | name                                      | description                                                                                                                  |   relevancy |

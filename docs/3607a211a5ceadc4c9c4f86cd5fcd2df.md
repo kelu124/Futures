@@ -38,6 +38,19 @@ A team of researchers from Sakana AI, the University of Oxford, and the Universi
 | Funding Dynamics in Research       | Research funding could be dramatically reduced if AI can perform tasks more cheaply. | From traditional funding models reliant on human researchers to cost-effective AI systems. | Funding allocation may prioritize AI-driven research projects over human-led initiatives.            | The efficiency of AI in conducting research is likely to change funding priorities.                            |           4 |
 | Potential Breakthroughs in Science | AI-driven research could lead to significant scientific breakthroughs.               | From slow, human-led discoveries to rapid AI-driven advancements in various fields.        | Accelerated discoveries in critical fields like cancer research and climate change solutions.        | The capability of AI to process vast data sets and generate insights quickly.                                  |           5 |
 
+## Concerns
+
+| name                                       | description                                                                                                                                        |   relevancy |
+|:-------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Job Displacement in Research               | Automation of scientific research may lead to significant loss of jobs in research institutions and universities.                                  |           5 |
+| Reduction of University Enrollments        | As AI systems take over research roles, student interest in pursuing related degrees may decline, affecting enrollments.                           |           4 |
+| Funding Cuts for Scientific Research       | The shift towards AI conducting research could result in reduced funding for traditional research programs and jobs.                               |           4 |
+| Ethical Concerns in Autonomous Research    | The autonomy of AI in conducting research raises ethical questions regarding accountability and reliability of AI-generated results.               |           5 |
+| Dependence on AI for Scientific Innovation | Relying too heavily on AI systems for breakthroughs can hinder human creativity and innovation in scientific fields.                               |           4 |
+| Potential Misuse of AI Research Outputs    | AI-generated research may be misapplied or misused, leading to unintended negative consequences in various scientific applications.                |           4 |
+| Impact on Scientific Integrity             | Fully automated research processes could challenge peer review and the integrity of scientific findings.                                           |           5 |
+| Societal Implications of AI Breakthroughs  | Scientific breakthroughs enabled by AI could exacerbate existing inequalities if access to technologies and benefits is not equitably distributed. |           4 |
+
 ## Behaviors
 
 | name                                 | description                                                                                                                                             |   relevancy |

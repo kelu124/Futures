@@ -40,6 +40,18 @@ The article discusses the emotional impact of technology in grief, particularly 
 | Public Acceptance of Virtual Interactions with the Dead | Increased willingness to use technology for maintaining connections with deceased loved ones.     | Shift from taboo surrounding death and technology to embracing virtual interactions.       | Society may normalize the concept of interacting with deceased loved ones through technology.      | Cultural shifts towards technology in personal and emotional domains influence acceptance.     |           4 |
 | Potential for Addiction to Digital Grief                | Concerns about individuals becoming overly reliant on digital recreations of deceased loved ones. | Awareness of the fine line between healing and dependency in digital grief management.     | In ten years, there may be established guidelines for healthy engagement with digital grief.       | Understanding of grief psychology and technology's impact drives the need for balance.         |           4 |
 
+## Concerns
+
+| name                                            | description                                                                                                                                               |   relevancy |
+|:------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Emotional Dependence on Digital Representations | Individuals may become overly attached to digital recreations of deceased loved ones, potentially leading to an unhealthy emotional dependence.           |           4 |
+| Exacerbation of Grief                           | While digital interactions may provide comfort, they could also intensify feelings of grief, especially in unresolved cases.                              |           4 |
+| Addiction to Virtual Interactions               | The ability to interact with virtual versions of deceased loved ones may become addictive, distracting individuals from engaging with the real world.     |           5 |
+| Ethical Considerations                          | Creating digital personas of deceased individuals raises ethical questions regarding consent and the representation of their identities.                  |           4 |
+| Impact on Mental Health                         | Using technology to recreate interactions with the deceased could have varied impacts on mental health, necessitating careful consideration and guidance. |           5 |
+| Digital Legacy Concerns                         | The desire to create a digital legacy may lead to privacy concerns and the commodification of individuals after death.                                    |           3 |
+| Generational Divide in Digital Footprint        | The effectiveness of digital persona technologies may be limited for older generations who have less online presence, raising issues of accessibility.    |           4 |
+
 ## Behaviors
 
 | name                                        | description                                                                                                                        |   relevancy |

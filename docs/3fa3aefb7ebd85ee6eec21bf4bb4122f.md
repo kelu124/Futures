@@ -40,6 +40,17 @@ Effectuation, a theory developed by Professor Saras Sarasvathy, offers a new per
 | Risk Management Focus                | Entrepreneurs are focusing more on managing downside risks than upside potentials. | Shift from traditional market sizing to a risk-centric approach in entrepreneurship.         | Entrepreneurs will develop more nuanced risk management strategies, influencing investment practices. | The need for sustainable growth and lower failure rates in uncertain markets drives this focus.     |           4 |
 | Inclusive Entrepreneurship Education | A trend towards more inclusive theories of entrepreneurship education.             | Shift from elitist views of entrepreneurship to inclusive, practical approaches.             | Entrepreneurship education will become more accessible, fostering diverse entrepreneurial talent.     | The democratization of entrepreneurship is pushing for broader participation and representation.    |           5 |
 
+## Concerns
+
+| name                                 | description                                                                                                                       |   relevancy |
+|:-------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Unpredictability of Entrepreneurship | The assumption that the future is unpredictable poses challenges for entrepreneurs who rely on flexibility and adaptability.      |           4 |
+| Market Analysis Limitations          | Entrepreneurs seeking to enter unknown markets face risks as traditional market analysis methods may not apply.                   |           3 |
+| Risk Management in Ventures          | The emphasis on managing downside risks can deter entrepreneurs from pursuing innovative and potentially high-reward ventures.    |           4 |
+| Networking Reliance                  | Overemphasis on partnerships could lead to dependency, diluting the unique vision and innovation of startups.                     |           3 |
+| Complacency in Innovation            | Focusing only on avoiding failure may hinder the drive for continual innovation and improvement in entrepreneurship.              |           4 |
+| Misinterpretation of Flexibility     | Flexibility in entrepreneurship could be misinterpreted as merely reactive rather than an opportunity for strategic advancements. |           3 |
+
 ## Behaviors
 
 | name                                    | description                                                                                                                                          |   relevancy |

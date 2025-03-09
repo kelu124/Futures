@@ -40,6 +40,17 @@ A groundbreaking human trial for a tooth regeneration drug will begin at Kyoto U
 | Aging Population and Dental Health    | A significant percentage of older adults are missing teeth due to various factors.        | Increased focus on regenerative dental options for aging populations.                      | Improved quality of life for older adults through advanced dental treatments.                        | Aging demographic seeking better dental health solutions.                               |           5 |
 | Molecular Biology in Dentistry        | Utilization of advanced molecular biology techniques in dental treatments is on the rise. | Move towards evidence-based, molecularly-targeted dental therapies.                        | More personalized and effective dental treatments based on genetic profiles.                         | Innovations in molecular biology enhancing treatment efficacy and safety.               |           4 |
 
+## Concerns
+
+| name                                 | description                                                                                                                                   |   relevancy |
+|:-------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Safety and Side Effects of Drug      | Possible unforeseen adverse reactions in humans during the trial phase, despite previous success in animals without significant side effects. |           4 |
+| Long-term Efficacy and Dependability | Uncertainty about how long the regenerated teeth will last and whether they will function as natural teeth over time.                         |           4 |
+| Ethical Concerns of Gene Editing     | Potential ethical implications of modifying gene expressions associated with tooth growth and its long-term effects on human genetics.        |           5 |
+| Access and Affordability             | Concerns about who will have access to this treatment and whether it will be affordable for the general population.                           |           4 |
+| General Public Expectations          | High expectations from the public may lead to disappointment if the results aren’t as successful as anticipated in real-world scenarios.      |           3 |
+| Regulatory and Approval Delays       | Possible delays in gaining regulatory approval for widespread use following the trials could affect availability.                             |           3 |
+
 ## Behaviors
 
 | name                                           | description                                                                                                                                   |   relevancy |

@@ -42,6 +42,17 @@ DALL·E 2 is an AI system developed by OpenAI that generates realistic images fr
 | Enhanced Image Resolution      | DALL·E 2 offers images with 4x greater resolution than its predecessor.                       | Improvement from lower resolution images to high-quality outputs.       | Visual content across industries could reach new levels of detail and quality, influencing design standards.         | The need for higher quality visuals in digital media and marketing.         |           4 |
 | User Empowerment in Creativity | DALL·E 2 aims to empower users to express themselves creatively.                              | Shift from limited creative tools to AI-enhanced creativity.            | More individuals may engage in creative fields, facilitated by AI tools that simplify creation processes.            | The desire for self-expression and creativity among the general population. |           4 |
 
+## Concerns
+
+| name                            | description                                                                                                                                        |   relevancy |
+|:--------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Content Misuse                  | Despite safety mitigations, there's a risk of DALL·E 2 being used to generate harmful, violent, or explicit content that violates policies.        |           5 |
+| Deepfake Concerns               | The potential for creating realistic images of individuals, including public figures, raises concerns about misinformation and privacy violations. |           5 |
+| Bias in AI Outputs              | The removal of explicit content does not guarantee the absence of bias in the generated images, which could propagate stereotypes.                 |           4 |
+| Intellectual Property Issues    | The ability to generate art and images raises questions about ownership and copyright for AI-generated content.                                    |           4 |
+| Impact on Creative Professions  | The advent of such advanced AI systems may threaten traditional creative jobs, altering the job market landscape significantly.                    |           4 |
+| Dependency on AI for Creativity | Increasing reliance on AI tools like DALL·E 2 for creative processes may diminish human creativity and originality.                                |           3 |
+
 ## Behaviors
 
 | name                         | description                                                                                                                       |   relevancy |

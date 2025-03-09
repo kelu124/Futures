@@ -40,6 +40,19 @@ Professor Brian David Johnson, a futurist at Arizona State University, discusses
 | Cautionary Tales in Sci-Fi        | Utilizing science fiction to warn against potential future abuses of power.  | Shift from entertainment-focused to cautionary narratives influencing policy and technology.   | A culture of critical engagement with technology fostering ethical considerations in development.        | Rising awareness of technology's implications on society and governance.                  |           4 |
 | Quantum Technology in Warfare     | Exploration of quantum technologies' potential impacts in military contexts. | Shift in military strategies and preparations due to emerging quantum capabilities.            | Transformative advancements in warfare and defense strategies influenced by quantum technology.          | Rapid development in quantum computing necessitating new military considerations.         |           4 |
 
+## Concerns
+
+| name                                | description                                                                                                                                |   relevancy |
+|:------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Cybersecurity Vulnerabilities       | Exploration of how cyber-attacks can exploit vulnerabilities in technology systems, potentially leading to large-scale disasters.          |           5 |
+| Impact of Quantum Technologies      | Potential misuse of quantum computing in warfare and cybersecurity, leading to critical failures in military operations.                   |           5 |
+| Technological Abuse                 | Concerns over how beloved technologies can be weaponized or used for harm, affecting public safety and trust.                              |           4 |
+| Environmental Security Risks        | Linking global security and climate resources may lead to competition and conflict over dwindling resources.                               |           4 |
+| Scenario Planning Limitations       | Traditional scenario planning may not effectively capture complex future threats, necessitating new methodologies like sci-fi prototyping. |           4 |
+| Social Impacts of Automation        | Risks associated with autonomous systems failing during critical moments, affecting human safety.                                          |           4 |
+| Emerging Threats from Supply Chains | Supply chain weaknesses being exploited by cyber threats or terrorism, posing risks to national security.                                  |           4 |
+| Cautionary Tales of Technology      | Science fiction often reflects potential futures gone wrong, urging against technological overreach or negligence.                         |           4 |
+
 ## Behaviors
 
 | name                            | description                                                                                                          |   relevancy |

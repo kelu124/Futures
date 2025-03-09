@@ -37,6 +37,17 @@ Mark Schaefer's post argues that content marketing, despite its popularity, may 
 | Shift in Content Consumption Habits            | Consumers are approaching their limits on content consumption per day.                 | From an increasing trend in content consumption to a plateau or decline as limits are reached. | Content consumption patterns may evolve, leading to more selective and quality-focused engagement.       | The physiological limits of human attention and engagement with digital content.                   |           4 |
 | Emergence of Content Transmission Competencies | New marketing strategies focusing on effective content transmission will arise.        | From traditional content creation to strategies that emphasize content reach and impact.       | Future marketing may prioritize how well content is transmitted over mere content creation.              | The need to cut through noise in an increasingly crowded content landscape.                        |           4 |
 
+## Concerns
+
+| name                                       | description                                                                                                                                        |   relevancy |
+|:-------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Sustainability of Content Marketing        | As content supply continues to grow exponentially while demand remains flat, the feasibility of content marketing as a viable strategy diminishes. |           5 |
+| Economic Pressure on Content Creators      | Increasing costs related to content creation may lead marketers to unsustainable financial practices, ultimately threatening their operations.     |           5 |
+| Barrier to Entry for New Businesses        | The overwhelming dominance of big players in content production may prevent new entrants from competing effectively in the market.                 |           4 |
+| Content Commoditization                    | As supply increases without a corresponding rise in demand, content may become commoditized, reducing its value to consumers.                      |           4 |
+| Declining Consumer Engagement              | With an overload of content, engagement levels may drop, leading to diminished returns for marketers and decreased consumer interest.              |           4 |
+| Market Saturation and Attention Limitation | The increasing volume of content relative to limited consumer attention may lead to significant disruptions in market dynamics.                    |           5 |
+
 ## Behaviors
 
 | name                                     | description                                                                                                                 |   relevancy |

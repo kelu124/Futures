@@ -43,6 +43,18 @@ The OpenTitan coalition announced the first commercial silicon chip featuring op
 | Hardware Root-of-Trust (RoT)             | Implementation of a hardware security protocol for trusted connections.   | Shift from software-based security to hardware-centric security solutions.                     | Ten years from now, hardware security protocols may be standard in all devices, enhancing trust.           | Increasing security threats in the IoT space necessitate robust hardware solutions.        |           5 |
 | Collaboration with Academic Institutions | Involvement of academic institutions in open-source hardware projects.    | From industry-only collaborations to include academic perspectives and research.               | Academic partnerships could lead to more innovative solutions and advancements in hardware design.         | Need for diverse expertise to address complex challenges in hardware security and design.  |           4 |
 
+## Concerns
+
+| name                                    | description                                                                                                                            |   relevancy |
+|:----------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Security Risks in Open-Source Hardware  | With the rise of open-source silicon, there may be vulnerabilities that could be exploited if not properly managed and monitored.      |           4 |
+| Cost Implications for Development       | Transitioning to open-source hardware may incur higher initial costs compared to proprietary solutions, potentially limiting adoption. |           3 |
+| Quality Control Challenges              | Open-source hardware may struggle with maintaining consistent quality and reliability without a centralized control mechanism.         |           4 |
+| Community Fragmentation                 | As open-source hardware grows, the potential for fragmentation within the developer community could hinder collaborative progress.     |           3 |
+| Trustworthiness of Open Designs         | While open designs can enhance trust, malicious modifications can still be introduced, raising concerns about their integrity.         |           5 |
+| Deployment of IoT Security Protocols    | The adoption of chip technology in IoT devices could expose systems to new forms of cyber threats if not adequately secured.           |           4 |
+| Adaptation to Quantum Computing Threats | Cryptography protocols need constant updates to stay secure against emerging threats like quantum computing.                           |           5 |
+
 ## Behaviors
 
 | name                                            | description                                                                                                                                                   |   relevancy |

@@ -45,6 +45,20 @@ The rise of artificial intelligence (AI) in the video game industry has sparked 
 | Legal Ambiguity in AI Use       | Uncertainty around copyright and AI-generated content.                      | Legal frameworks struggling to keep up with AI advancements in creative fields. | Possible new regulations may emerge to address AI-related copyright issues.              | Evolving technology outpacing existing intellectual property laws.                |           3 |
 | Technological Limitations of AI | Concerns about the reliability and quality of AI-generated content.         | Shift from excitement about AI capabilities to skepticism about quality.        | AI may not fully take over creative roles due to inherent limitations.                   | Recognition of the complexities and challenges of creative AI outputs.            |           4 |
 
+## Concerns
+
+| name                                            | description                                                                                                                                                  |   relevancy |
+|:------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Job Displacement due to AI                      | Generative AI tools are threatening jobs in the gaming industry, leading to layoffs and creating anxiety among workers about their future.                   |           5 |
+| Autonomy of AI in Creative Processes            | The increasing reliance on AI for creative tasks may undermine the quality and originality of game production and diminish human artistic contribution.      |           4 |
+| Ethical Concerns in AI Usage                    | The adoption of generative AI raises ethical issues around copyright infringement, consent, and the potential exploitation of workers.                       |           5 |
+| Impact on Artistic Value and Industry Standards | Widespread reliance on AI may lead to a degradation of artistic standards, as companies prioritize cost-cutting over quality.                                |           4 |
+| Uncertainty and Lack of Transparency            | There is a lack of clarity regarding the implementation of AI in game development, leading to mistrust among workers about its effects.                      |           4 |
+| Unionization and Worker Rights                  | The displacement fears linked to AI are prompting calls for unionization among game industry workers to secure rights and control over AI use.               |           3 |
+| Overreliance on AI for Productivity             | Management’s push for AI use to boost productivity could lead to undervalue of human skills and a cycle of job cuts.                                         |           4 |
+| Global Impact on Job Market                     | AI's influence on job markets extends beyond the U.S., affecting global talent and significantly reducing job opportunities in various regions.              |           4 |
+| Long-term Sustainability of AI in Gaming        | The effectiveness and reliability of AI in game development are uncertain, leading to potential long-term impacts on output quality and creative innovation. |           4 |
+
 ## Behaviors
 
 | name                                  | description                                                                                                                                       |   relevancy |

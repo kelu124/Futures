@@ -41,6 +41,18 @@ This text discusses innovative approaches to combat mosquito-borne diseases, foc
 | Community Involvement in Disease Prevention | Community members are engaged in releasing and managing Wolbachia mosquitoes.        | Shift from passive to active community participation in public health initiatives.                      | Empowered communities with better health outcomes and reduced disease transmission.       | Desire for local solutions to public health problems and community resilience.           |           4 |
 | Climate Change Impact on Mosquito Habitats  | Aedes aegypti mosquitoes expanding their habitats due to rising temperatures.        | Increased geographic range of mosquito-borne diseases as climate warms.                                 | New regions experiencing outbreaks of diseases previously uncommon in those areas.        | Global warming and changing environmental conditions altering species distribution.      |           5 |
 
+## Concerns
+
+| name                                                | description                                                                                                                                                 |   relevancy |
+|:----------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| High Student-Counselor Ratio                        | The average ratio of 424 students to 1 counselor may lead to inadequate mental health support for students in public high schools.                          |           4 |
+| Dengue and Other Mosquito-Borne Diseases            | Global warming is increasing the spread of mosquito-borne diseases like dengue, threatening public health worldwide.                                        |           5 |
+| Insufficient Mosquito Control Solutions             | Reliance on outdated methods for mosquito control may hinder the fight against evolving mosquito populations and diseases.                                  |           4 |
+| Insecticide Resistance                              | Mosquitoes and malaria parasites are evolving resistance to current insecticides, potentially jeopardizing existing control measures.                       |           5 |
+| Gender Disparities in Health Leadership             | The underrepresentation of women in health leadership roles may hinder effective strategies against diseases like malaria, where women play a crucial role. |           4 |
+| Food Insecurity and Health Disparities              | Increasing health burdens from diseases like malaria could exacerbate food insecurity and health disparities in affected populations.                       |           4 |
+| Public Misunderstanding of Mosquito-Borne Solutions | Public perception may resist biologically innovative solutions like the Wolbachia mosquitoes, limiting their acceptance and distribution.                   |           3 |
+
 ## Behaviors
 
 | name                                     | description                                                                                                              |   relevancy |

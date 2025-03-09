@@ -41,6 +41,19 @@ New AI tools, like StoryFile, allow users to interact with deceased relatives th
 | Cultural Shift in Memory and History Collection | Emerging programs altering how personal and historical narratives are recorded.          | Moving from traditional history collection methods to technology-driven approaches. | History may be increasingly recorded through personal AI interactions instead of written accounts.     | The democratization of storytelling through technology allowing diverse voices to be heard. |           4 |
 | AI's Role in Grief Management                   | AI technologies being utilized to aid in the grieving process through interaction.       | Shifting from solitary grief to shared experiences with AI representations.         | AI may provide personalized grief support, transforming how people process loss.                       | The need for emotional support and connection during the grieving process.                  |           5 |
 
+## Concerns
+
+| name                                        | description                                                                                                                                    |   relevancy |
+|:--------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Ethical implications of AI resurrection     | Utilizing AI to create conversations with the deceased raises ethical concerns around consent and the portrayal of individuals' personalities. |           4 |
+| Emotional impact on grief and loss          | Engaging with AI representations of deceased loved ones may complicate the grieving process or hinder emotional closure.                       |           5 |
+| Data privacy and security                   | Recording and using deceased individuals' personal data for AI replication could lead to misuse or breaches of privacy.                        |           5 |
+| Impact on family dynamics                   | AI tools may alter how families interact with memories of deceased members, potentially causing discord or conflicting attachments.            |           3 |
+| Misinformation through AI-generated content | AI could generate misleading content or narratives about deceased individuals, creating confusion about their true life stories.               |           4 |
+| Cultural implications of digital memories   | The rise of AI tools for preserving memories may affect cultural practices surrounding death and remembrance, changing traditional rituals.    |           3 |
+| Dependence on technology for remembrance    | Over-reliance on AI for preserving memories may diminish the value of personal, lived experiences and human storytelling.                      |           4 |
+| Manipulation of individual legacies         | AI tools may misrepresent or idealize the lives of individuals, shaping public perception inauthentically.                                     |           4 |
+
 ## Behaviors
 
 | name                          | description                                                                                                                                    |   relevancy |

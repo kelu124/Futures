@@ -37,6 +37,16 @@ The Future You platform anonymizes user data from surveys and conversations to e
 | Future Self-Continuity          | Tool grounded in research promoting future self-continuity for better decision-making. | Moving from short-term thinking to long-term future planning and reflection.                   | Long-term thinking may become a core part of personal development and education.                      | Growing recognition of mental health benefits from future-oriented thinking.       |           5 |
 | Collaboration with Institutions | Efforts to collaborate with institutions to enhance accessibility of the platform.     | From isolated applications to collaborative efforts between tech and educational institutions. | In ten years, collaborative platforms may dominate future planning and educational tools.             | The need for inclusive and accessible resources for young people in a digital age. |           4 |
 
+## Concerns
+
+| name                             | description                                                                                                                                                     |   relevancy |
+|:---------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Data Privacy and Anonymization   | Concerns about how effectively user data is anonymized and utilized for research purposes, which could risk personal information exposure.                      |           4 |
+| Accuracy of Predictions          | The limitations of the predictive capabilities of the Future You tool raise concerns about reliance on possibly misleading insights regarding personal futures. |           3 |
+| Dependence on User Input Quality | The effectiveness of the Future You experience highly depends on the quality of initial survey responses, potentially leading to skewed outcomes for users.     |           3 |
+| Access and Inclusivity           | Efforts to enhance platform accessibility may not reach all intended users, potentially leaving some demographics underserved.                                  |           4 |
+| Ethical Implications of AI Usage | Using large language models to generate personalized future selves raises ethical questions about AI's role and impact on individual self-perception.           |           5 |
+
 ## Behaviors
 
 | name                            | description                                                                                                            |   relevancy |

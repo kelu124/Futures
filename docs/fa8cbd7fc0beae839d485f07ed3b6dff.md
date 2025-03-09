@@ -51,6 +51,21 @@ This text explores the multifaceted relationship between lithium, digital techno
 | Expansion of Lithium Battery Use               | Lithium batteries are marketed as green solutions despite environmental concerns.            | Shift from traditional energy sources to lithium-based technologies.                    | In 10 years, lithium batteries may dominate personal and public transport energy.         | Global push towards renewable energy and decreasing carbon footprints.      |           5 |
 | Changing Definitions of Sanity and Disorder    | Societal perceptions of mental health are evolving, affecting diagnoses and treatment.       | Evolution from rigid definitions of mental health to more fluid understandings.         | In 10 years, diagnostic categories may be more inclusive and individualized.              | Growing recognition of the complexity of mental health experiences.         |           4 |
 
+## Concerns
+
+| name                                                | description                                                                                                                                                     |   relevancy |
+|:----------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Environmental Damage from Lithium Mining            | Lithium extraction leads to pollution, water shortages, and contamination of local ecosystems, affecting indigenous communities and the environment.            |           5 |
+| Health Risks from Lithium Use                       | Patients prescribed lithium can experience toxicity, leading to serious health issues and even death, raising concerns about its safety in medical use.         |           4 |
+| Corporate Exploitation of Resources                 | Large corporations exploit lithium resources for profit, often disregarding the rights and health of local communities, especially in countries like Bolivia.   |           5 |
+| Digital Surveillance and Control                    | The intertwining of physical and digital spaces leads to increased surveillance, exploitation, and loss of privacy, impacting marginalized communities.         |           4 |
+| Stigmatization of Mental Health Conditions          | The framing of mental health diagnoses can perpetuate stigma, complicating individuals' relationships with their identities and society.                        |           4 |
+| Colonial Legacy in Technology                       | The historical context of technology reflects colonial practices, perpetuating inequalities and excluding indigenous knowledge and perspectives.                |           5 |
+| The Myth of a Utopian Internet                      | The assumption that digital spaces create equality overlooks systemic barriers, enabling oppressive behaviors and reinforcing socio-economic hierarchies.       |           5 |
+| Impact of Medicalization on Identity                | Medical definitions of sanity and disorder often erase complex social realities and emotional experiences, shaping individual identities through a narrow lens. |           4 |
+| Potential for Deregulated AI and Surveillance Tools | As companies develop technologies with little oversight, there is a risk of harmful applications that exacerbate discrimination and control.                    |           5 |
+| Psychiatric Colonialism                             | Psychiatric practices often reflect colonial attitudes, marginalizing other forms of knowledge and reinforcing a singular perspective on mental health.         |           5 |
+
 ## Behaviors
 
 | name                                    | description                                                                                                                              |   relevancy |

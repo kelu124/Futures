@@ -40,6 +40,18 @@ The EU's proposed Cyber Resilience Act (CRA) aims to enhance software security b
 | Geo-blocking by Developers             | Developers might consider geo-blocking to avoid EU regulations.                 | Shifting from open access to restricted access for European users.                                | Reduced availability of open source software in Europe, with developers less willing to share.        | Desire to mitigate legal risks associated with international regulations.                           |           4 |
 | Call for Community Engagement          | Open source community urged to engage with EU regulators.                       | From passive observation of regulations to active participation in policy discussions.            | Improved policies that better understand and support open source development practices.               | Recognition of the need for dialogue to protect open source interests in legislation.               |           3 |
 
+## Concerns
+
+| name                                        | description                                                                                                              |   relevancy |
+|:--------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------|------------:|
+| Regulatory Misunderstanding of Open Source  | EU's CRA reflects a lack of understanding of open source development, potentially harming the model.                     |           5 |
+| Financial Burden on Open Source Developers  | The requirement to secure software may impose heavy financial and resource burdens on volunteer-based developers.        |           4 |
+| Fragmentation of Open Source Community      | The CRA could fragment the open source ecosystem, undermining collaboration and accessibility for developers.            |           4 |
+| Legal Liabilities for Developers            | Open source authors may face legal and financial responsibility under the CRA, discouraging contributions.               |           5 |
+| Geo-blocking as a Response                  | Developers might resort to geo-blocking to protect themselves from international liabilities, limiting software access.  |           3 |
+| Unattainable Security Standards             | Requirements for software to be free from known vulnerabilities are unrealistic, leading to potential compliance issues. |           4 |
+| Chilling Effect on Open Source Availability | The CRA may chill or prevent access to globally maintained open source software in Europe.                               |           5 |
+
 ## Behaviors
 
 | name                                         | description                                                                                                                                                                  |   relevancy |

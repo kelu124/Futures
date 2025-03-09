@@ -40,6 +40,19 @@ The Long View: A Field Guide is a newsletter centered on long-term thinking, ann
 | Long-Mindedness as a Concept      | Introduction of 'long-minded' thinking as a way to foster long-term perspectives.    | From disjointed understanding of time to a cohesive framework for long-term thinking.                     | A more holistic approach to decision-making that includes long-term consequences and historical lessons.   | The need for comprehensive strategies to address complex global challenges effectively.   |           4 |
 | Collective Temporal Habits        | Identification of cognitive biases that influence our perception of time.            | Awareness of biases that hinder long-term thinking replaces ignorance of their existence.                 | A more educated populace that can recognize and counteract biases in decision-making.                      | A drive for self-awareness and cognitive improvement in personal and societal contexts.   |           3 |
 
+## Concerns
+
+| name                                | description                                                                                                                    |   relevancy |
+|:------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Short-termism                       | The pervasive focus on immediate results that obscures long-term impacts, leading to detrimental outcomes across society.      |           5 |
+| Time-blinkered behavior             | A lack of awareness of long-term consequences, embedding shortsightedness in politics, business, and personal life.            |           5 |
+| Temporal stresses                   | External pressures that shorten perspectives, such as metrics and sensational news, distracting from long-term thinking.       |           5 |
+| Salience Bias                       | The tendency to prioritize loud, urgent issues over long-term considerations, skewing decision-making.                         |           4 |
+| Shifting Baseline Syndrome          | Generational amnesia leading to a lack of awareness of historical norms and future implications.                               |           4 |
+| Cognitive biases in time perception | Subconscious habits that distort our understanding of time and influence our decision-making.                                  |           4 |
+| Neglecting future generations       | The potential consequences of failing to consider the needs of future generations in our current decisions.                    |           5 |
+| Environmental sustainability        | Failure to prioritize long-term sustainability could lead to catastrophic environmental outcomes affecting future generations. |           5 |
+
 ## Behaviors
 
 | name                                    | description                                                                                                              |   relevancy |

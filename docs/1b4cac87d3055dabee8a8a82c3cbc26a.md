@@ -39,6 +39,17 @@ The recent California wildfires have destroyed vast areas, but some homes, like 
 | Emerging Fireproof Materials             | Development and use of new materials and methods that improve fire resistance in homes.               | Advancement from traditional materials to innovative fireproof options.                  | Widespread adoption of advanced fireproof materials in residential construction.                   | Innovation in construction materials driven by the need for safer homes.                          |           3 |
 | Consumer Awareness of Home Safety        | Increased consumer focus on home safety features due to recent wildfire events.                       | Shift from aesthetic concerns to prioritizing safety and resilience in home design.      | Homebuyers will increasingly prioritize safety features in property selection.                     | Recent disasters raising awareness about the importance of home safety measures.                  |           4 |
 
+## Concerns
+
+| name                               | description                                                                                                                                                                   |   relevancy |
+|:-----------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Wildfire Damage and Resilience     | The increasing frequency and intensity of wildfires poses a severe threat to homes, necessitating the development of more fire-resistant construction methods.                |           5 |
+| Passive House Adoption Barriers    | While passive houses offer resilience to fire and energy efficiency, their higher upfront costs may limit widespread adoption, impacting community safety and sustainability. |           4 |
+| Air Quality and Health Risks       | As wildfires worsen, the potential for smoke damage and resulting health issues for occupants highlights the need for better air filtration and ventilation systems in homes. |           4 |
+| Building Codes and Regulations     | The integration of passive house standards into building codes could be inadequate or slow, risking compliance with fire safety standards in vulnerable areas.                |           3 |
+| Urban Planning and Fire Management | With increasing development in fire-prone areas, there is a pressing need for smarter urban planning to prevent future disasters and protect communities.                     |           4 |
+| Environmental Sustainability       | The dual challenge of maintaining eco-friendly practices while ensuring constructions can withstand extreme weather events is becoming increasingly critical.                 |           4 |
+
 ## Behaviors
 
 | name                                         | description                                                                                                                        |   relevancy |

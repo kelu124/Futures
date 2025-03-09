@@ -43,6 +43,18 @@ The Parcae project was a top-secret U.S. satellite program developed in the 1970
 | Rise of Automation in Intelligence Gathering  | Parcae included automated systems to sift through ELINT data for signals of interest.                      | Shift from manual data analysis to automated processing and filtering of intelligence data.    | Automation may lead to AI-driven intelligence analysis, enhancing efficiency and accuracy.                   | The overwhelming volume of data generated necessitated automation for effective intelligence gathering.        |           5 |
 | Integration of Multiple Intelligence Sources  | Parcae's systems integrated various data sources for comprehensive maritime awareness.                     | Transition from single-source intelligence to multi-source intelligence gathering.             | Future intelligence systems may seamlessly integrate data from satellites, drones, and ground sources.       | Complex security challenges demand a holistic approach to intelligence gathering.                              |           4 |
 
+## Concerns
+
+| name                                           | description                                                                                                                                      |   relevancy |
+|:-----------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Technological Arms Race                        | The advancement of espionage satellites like Parcae may escalate competition between global powers, leading to an unstable arms race.            |           4 |
+| Data Overload and Processing Challenges        | The vast amounts of data collected by modern surveillance systems can overwhelm processing capabilities, risking vital information being missed. |           4 |
+| Privacy Violations                             | Surveillance technologies developed during the Cold War may impact civil liberties and privacy in contemporary contexts.                         |           3 |
+| Dependency on Technology for National Security | Reliance on advanced technology for military intelligence can create vulnerabilities if systems fail or are compromised.                         |           5 |
+| Cybersecurity Threats                          | Increased use of espionage technologies raises the risk of cyber-attacks targeting defense systems and intelligence data.                        |           5 |
+| Impact of AI in Surveillance                   | Emerging artificial intelligence capabilities can enhance surveillance methods, potentially leading to ethical and human rights concerns.        |           4 |
+| Legacy of Cold War Technologies                | The continuation of Cold War-era surveillance technologies may perpetuate tensions and conflicts among nations.                                  |           4 |
+
 ## Behaviors
 
 | name                                        | description                                                                                                                                                                      |   relevancy |

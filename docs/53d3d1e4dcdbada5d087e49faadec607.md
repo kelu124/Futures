@@ -37,6 +37,17 @@ This text emphasizes the importance of zines in education, highlighting their ro
 | DIY and Maker Culture in Education         | Increased focus on hands-on, DIY projects like zines in educational settings.             | Shift from passive learning to active, participatory learning experiences.            | Educational systems may prioritize maker culture, fostering creativity and collaboration.                     | The DIY movement's influence on education, promoting creativity and resourcefulness.     |           4 |
 | Casual Learning Environments               | Growing acceptance of informal formats like zines for learning and expression.            | From formal presentations to more relaxed, creative methods of sharing knowledge.     | Casual formats may dominate educational practices, encouraging comfort and creativity.                        | Demand for less rigid educational structures that foster creativity and self-expression. |           3 |
 
+## Concerns
+
+| name                                            | description                                                                                                                      |   relevancy |
+|:------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Digital Divide in Education                     | Not all students have access to the internet or tools to create zines, potentially widening educational inequalities.            |           4 |
+| Perception of Art Mediums                       | Zines and visual storytelling may be dismissed as 'low art', affecting students' confidence in creative expression.              |           3 |
+| Loss of Diverse Learning Methods                | Shifting focus away from visual storytelling in education may lead to the loss of effective learning tools for diverse learners. |           4 |
+| Overemphasis on Conventional Academic Standards | Pressure to conform to traditional academic standards may stifle creativity and limit students' engagement with their learning.  |           4 |
+| Cultural Appropriation in Art and Zines         | Using borrowed imagery without context could lead to issues of cultural appropriation, impacting marginalized voices.            |           3 |
+| Accessibility of Resources                      | There may be a lack of resources and support for teachers to effectively teach zine-making and storytelling techniques.          |           4 |
+
 ## Behaviors
 
 | name                                            | description                                                                                                                 |   relevancy |

@@ -40,6 +40,17 @@ The Alaska Department of Fish and Game has canceled the winter snow crab season 
 | Need for Fisherman Relief Programs    | Calls for relief programs for fishermen similar to agricultural disaster assistance due to fishery collapses. | From limited support for fishermen to potential structured relief programs addressing seafood industry challenges. | Support systems for fishermen may become standardized, similar to agricultural disaster assistance programs.  | The growing recognition of the economic vulnerabilities faced by fishing communities in climate-affected regions. |           3 |
 | Ecosystem Health Indicators           | The decline of snow crabs is seen as an indicator of broader ecosystem health issues in the Arctic.           | From a healthy Arctic ecosystem to one under stress, potentially affecting multiple species and food webs.         | The ecosystem may require new management strategies to restore balance and protect biodiversity.              | Increased awareness of the interconnectedness of species and the need for conservation efforts.                   |           4 |
 
+## Concerns
+
+| name                                 | description                                                                                                             |   relevancy |
+|:-------------------------------------|:------------------------------------------------------------------------------------------------------------------------|------------:|
+| Disappearance of Snow Crabs          | An estimated 1 billion snow crabs have vanished, indicating potential ecological collapse and economic repercussions.   |           5 |
+| Climate Change Impact on Marine Life | Rapid warming in the Bering Sea affecting cold-adapted species may lead to further ecological imbalances.               |           5 |
+| Food Industry Disruption             | The cancellation of the snow crab season threatens the seafood supply chain, impacting restaurants and local economies. |           4 |
+| Need for Fishermen Relief Programs   | A lack of support systems for fishermen facing drastic changes in fish populations could lead to economic hardships.    |           4 |
+| Deteriorating Arctic Ecosystem       | The health of Arctic marine ecosystems is jeopardized by significant temperature changes and species decline.           |           5 |
+| Potential for Disease Spread         | The mass disappearance of crabs raises concerns about disease that could affect other marine species and fisheries.     |           3 |
+
 ## Behaviors
 
 | name                                      | description                                                                                                                                           |   relevancy |

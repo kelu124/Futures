@@ -37,6 +37,16 @@ Debashis Chanda and his nanoscience lab at the University of Central Florida dev
 | Nanotechnology in Coatings              | Use of tiny aluminum flakes and nanoparticles in paint formulation.                   | Advancement from traditional paint materials to nanomaterials for improved performance.                      | Nanotechnology might lead to the development of ultra-lightweight, multifunctional coatings used in various applications. | The rapid advancement in nanotechnology and its applications in various fields.              |           4 |
 | Lightweight Materials in Transportation | Potential of lightweight paint to reduce fuel usage in vehicles.                      | Shift from heavy traditional coatings to lightweight materials that enhance fuel efficiency.                 | Transportation industries may adopt lightweight technologies extensively, significantly lowering carbon footprints.       | The push for sustainability and efficiency in transportation to combat climate change.       |           5 |
 
+## Concerns
+
+| name                                  | description                                                                                                                                     |   relevancy |
+|:--------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Dependence on Specialized Skills      | The inability of researchers to demonstrate the product highlights a gap in interdisciplinary skills necessary for innovation.                  |           3 |
+| Environmental Impact of New Materials | While the new paint is designed to be less toxic, the production and disposal of nanoparticles could introduce unforeseen environmental issues. |           4 |
+| High-Tech Manufacturing Risks         | Creating advanced materials like this paint requires precise manufacturing processes, raising concerns about safety and reliability.            |           4 |
+| Market Adoption Challenges            | The transition to new types of paint could face resistance from traditional industries that rely on established pigments.                       |           3 |
+| Thermal Regulation in Climate Change  | The paint's effectiveness in cooling applications may not be sufficient to address rising global temperatures in the long term.                 |           5 |
+
 ## Behaviors
 
 | name                                       | description                                                                                                                                         |   relevancy |

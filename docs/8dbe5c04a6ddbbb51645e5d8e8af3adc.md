@@ -43,6 +43,19 @@ This tutorial introduces LangChain, a Python framework designed to simplify the 
 | Shift Towards Open-Source LLMs  | A trend of developers choosing open-source LLMs over proprietary ones due to cost considerations.      | From reliance on costly proprietary models to leveraging open-source alternatives.       | A vibrant ecosystem of open-source LLMs will emerge, widely adopted in various sectors. | The balance between performance and cost in AI solutions.                  |           4 |
 | Evolution of Prompt Engineering | The growing importance of prompt engineering in getting desired outputs from LLMs.                     | From simple input-output interaction to a refined process of crafting effective prompts. | Prompt engineering will be a recognized skill essential for LLM application developers. | The necessity for precision in AI outputs to meet user expectations.       |           5 |
 
+## Concerns
+
+| name                                      | description                                                                                                                                   |   relevancy |
+|:------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Dependency on Proprietary APIs            | Reliance on proprietary API services like OpenAI may lead to cost issues and limitations on access and use in applications.                   |           4 |
+| Quality and Performance Trade-offs        | Choosing between proprietary and open-source models presents a trade-off in quality vs. cost, which could affect application performance.     |           4 |
+| Contextual Limitations of LLMs            | LLMs often lack contextual information and memory, which can result in incomplete or inaccurate outputs, limiting their effectiveness.        |           5 |
+| Data Privacy Concerns                     | Using personal data for training LLMs raises ethical and privacy concerns, especially when handling sensitive information in applications.    |           5 |
+| Rapid Obsolescence of LLMs                | The fast pace of development in LLM technology may render current models quickly obsolete, complicating long-term planning for applications.  |           4 |
+| Complexity in Prompt Engineering          | The requirement for intricate prompt engineering can complicate user interactions with LLMs and hinder usability for non-technical users.     |           3 |
+| Cost of Experimentation                   | Experimenting with LLMs, particularly proprietary ones, incurs costs that could become a barrier for small developers and startups.           |           4 |
+| Dependence on Open-Source Model Stability | Reliance on community-driven open-source models may lead to inconsistencies in performance and availability, affecting application stability. |           3 |
+
 ## Behaviors
 
 | name                                       | description                                                                                                                                         |   relevancy |

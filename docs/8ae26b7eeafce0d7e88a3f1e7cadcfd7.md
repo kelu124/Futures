@@ -40,6 +40,17 @@ Belgium has become the first country in the EU to implement a comprehensive safe
 | EU-Wide Shift in Cybersecurity Policies              | Other EU member states are developing similar legal protections for ethical hackers. | From disparate national policies to a more unified EU approach to cybersecurity protections.                       | In 10 years, the EU may have standardized legal protections making ethical hacking more accepted.              | The increasing frequency of cyber attacks prompting governments to protect ethical researchers.                         |           5 |
 | Corporate Adoption of Security Trends                | Companies are increasingly recognizing the value of security researchers and VDPs.   | Shift from ignorance to recognition of security researchers' contributions to cybersecurity.                       | In the future, companies may proactively engage with security researchers as partners in safeguarding systems. | The urgent need to mitigate cyber risks and leverage external expertise for better security.                            |           4 |
 
+## Concerns
+
+| name                                               | description                                                                                                                                                                |   relevancy |
+|:---------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Legal Ambiguity in Ethical Hacking                 | The conditions for legal protection may create confusion among security researchers about what constitutes acceptable behavior.                                            |           4 |
+| Inconsistent Adoption by Companies                 | Lack of VDPs among many organizations may lead to inconsistent practices in vulnerability reporting and protection for researchers.                                        |           4 |
+| Potential for Abuse of Disclosure Mechanisms       | The requirement to notify the owner simultaneously with the CCB may lead to scenarios where companies retaliate against researchers instead of addressing vulnerabilities. |           5 |
+| Limited Scope of Existing Protections              | Some EU countries offer limited legal protections, leading to varied safety and accountability for ethical hackers across borders.                                         |           4 |
+| Accessibility of Vulnerability Disclosure Programs | The low adoption of VDPs among Fortune 500 companies suggests a barrier for many organizations to engage positively with ethical hackers.                                  |           3 |
+| Impact on Security Research Dynamics               | Researchers may predominantly work with companies that are already receptive to vulnerabilities, potentially neglecting those in need.                                     |           3 |
+
 ## Behaviors
 
 | name                                                      | description                                                                                                                                        |   relevancy |

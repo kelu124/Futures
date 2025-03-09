@@ -41,6 +41,17 @@ France is investing €2.9 billion ($3.1 billion) in a semiconductor factory to 
 | Impact of Pandemic on Supply Chains              | Pandemic caused a significant semiconductor supply crunch affecting global industries. | Shift from stable to highly vulnerable semiconductor supply chains due to global events.                          | Future supply chains may be restructured to enhance resilience against global disruptions.                                | Recognition of vulnerabilities in global supply chains revealed by the pandemic.                          |           5 |
 | US Protectionism in Semiconductor Sector         | US Chips Act aims to protect domestic semiconductor firms with significant funding.    | From open international competition to protectionist policies favoring domestic production.                       | Increased protectionism may lead to trade tensions and reshaping of global semiconductor alliances.                       | Economic nationalism and focus on domestic job creation in technology sectors.                            |           4 |
 
+## Concerns
+
+| name                    | description                                                                                                                               |   relevancy |
+|:------------------------|:------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Supply Chain Dependence | Heavy reliance on semiconductor production in specific regions may lead to vulnerabilities if those areas face disruptions.               |           4 |
+| Geopolitical Tensions   | Competition between the US, China, and Europe over semiconductor production could escalate geopolitical tensions and trade conflicts.     |           5 |
+| Market Monopolization   | Potential for a few companies to monopolize semiconductor production, impacting prices and availability for consumers.                    |           4 |
+| Investment Inequities   | Significant government investments in semiconductor industries could lead to unequal advantages that disrupt global market dynamics.      |           3 |
+| Environmental Impact    | Increased semiconductor manufacturing could lead to higher energy consumption and environmental concerns related to production processes. |           3 |
+| Innovation Stagnation   | Over-reliance on government funding for semiconductor development may stifle independent innovation within the sector.                    |           3 |
+
 ## Behaviors
 
 | name                                                  | description                                                                                                                 |   relevancy |

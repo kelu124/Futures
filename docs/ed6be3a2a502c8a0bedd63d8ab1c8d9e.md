@@ -44,6 +44,18 @@ Virtual humans in China have partnered with luxury brands like Bulgari and Esté
 | Luxury Brand Marketing Evolution               | Luxury brands are adapting to new consumer expectations through virtual influencers. | Move from heritage-focused branding to modern self-expression branding.           | Luxury branding may prioritize character and emotional connection over tradition.     | Changing consumer values toward authenticity and self-expression.                     |           5 |
 | Humanization of Virtual Influencers            | Virtual influencers are being positioned in relatable, real-life contexts.           | Evolution from abstract digital beings to relatable personas in social media.     | Virtual influencers may become indistinguishable from real influencers in engagement. | The need for brands to create emotional connections with audiences.                   |           5 |
 
+## Concerns
+
+| name                              | description                                                                                                                                             |   relevancy |
+|:----------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Manipulation of Perception        | The use of virtual humans to manipulate consumer perceptions of brands may lead to unrealistic expectations and consumer dissatisfaction.               |           4 |
+| AI-Generated Content Confusion    | The blending of AI-generated and human content could lead to confusion among consumers, impacting trust in digital media.                               |           5 |
+| Market Oversaturation             | With the rapid growth of virtual influencers, the market may become oversaturated, leading to diminished returns for brands and influencers.            |           3 |
+| Loss of Authenticity in Influence | As virtual influencers rise, the traditional notion of authenticity in influencer marketing may suffer, causing potential disengagement from audiences. |           4 |
+| Control Over Brand Image          | Brands may exert excessive control over virtual influencers, leading to a homogenization of brand representation, limiting diversity.                   |           3 |
+| Cultural Appropriation            | The blending of traditional aesthetics with modern branding by virtual humans may lead to claims of cultural appropriation and insensitivity.           |           4 |
+| Disassociation from Reality       | As virtual humans blur the lines between reality and fiction, consumers may become increasingly disconnected from genuine human experiences.            |           5 |
+
 ## Behaviors
 
 | name                                   | description                                                                                                                                    |   relevancy |

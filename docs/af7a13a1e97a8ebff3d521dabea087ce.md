@@ -38,6 +38,17 @@ The maritime industry faces significant cyber security threats, primarily driven
 | Insurance Exclusions for Cyber Events          | Emerging insurance policies may exclude cyber-related incidents from coverage.       | Transition from general coverage to more specific exclusions in insurance policies. | Insurance practices will evolve, with stricter requirements for cyber risk management.               | The rising prevalence of cyber events leads insurers to reassess coverage.                      |           4 |
 | Regulatory Changes Impacting Cyber Security    | New regulations may mandate better cyber security practices for maritime operations. | Shift from voluntary to mandatory cyber security standards in maritime sectors.     | Maritime operations will see enhanced cyber security measures driven by regulations.                 | Increasing incidents of cyber threats push for regulatory changes for safety.                   |           5 |
 
+## Concerns
+
+| name                                   | description                                                                                                                             |   relevancy |
+|:---------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Monetization of Hacking                | Hackers are increasingly organized and motivated by financial gain, shifting from individual acts to structured crime operations.       |           5 |
+| Stock Market Manipulation              | Criminals may exploit hacking incidents to short stocks of affected companies, creating conflicts of interest among investors.          |           5 |
+| Supply Chain Vulnerability             | Cyber weaknesses in vessels could lead to supply chain disruptions, impacting global commodity prices and availability.                 |           4 |
+| Ineffective Cybersecurity Measures     | Current cybersecurity protocols on vessels are inadequate, leaving them vulnerable to severe hacking incidents.                         |           5 |
+| Insurance Limitations for Cyber Events | New insurance clauses may exclude coverage for cyber-related incidents, increasing financial risks for maritime firms.                  |           4 |
+| Cascading Impact of Maritime Incidents | Blockages in critical shipping channels could disrupt multiple sectors and destabilize associated businesses through stock price drops. |           4 |
+
 ## Behaviors
 
 | name                                         | description                                                                                                                                      |   relevancy |

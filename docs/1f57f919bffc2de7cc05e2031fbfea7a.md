@@ -37,6 +37,15 @@ The article discusses the importance of knowing when to say no, especially for c
 | Privilege in Professional Autonomy                    | The realization that the ability to say 'no' often comes with privilege and success. | From a meritocratic view of success to recognizing structural inequalities in career autonomy.      | In ten years, there may be a stronger emphasis on equity and access in professional opportunities.            | Growing awareness of systemic inequalities in professional environments.         |           4 |
 | Adoption of Gracious Communication                    | A rising trend in how professionals decline requests with empathy and respect.       | Moving from abrupt rejections to more gracious and thoughtful communication styles.                 | In a decade, communication norms may evolve to prioritize kindness and support in professional interactions.  | The increasing importance of emotional intelligence in workplace dynamics.       |           5 |
 
+## Concerns
+
+| name                                  | description                                                                                                                                                  |   relevancy |
+|:--------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Privilege in Saying No                | The ability to say 'no' reflects privilege; not everyone can afford to decline requests, which highlights socio-economic disparities.                        |           4 |
+| Misinterpretation of Creative Success | The misconception that saying 'no' correlates directly with creative genius may pressure individuals without resources to decline opportunities prematurely. |           3 |
+| Burnout from Overcommitment           | A culture that encourages overscheduling and constant agreement can lead to burnout among those striving to be seen as creative or valuable.                 |           5 |
+| Inequity in Support Systems           | The pressure to provide alternative support can create a sense of obligation or guilt, particularly among those who cannot afford to help others.            |           3 |
+
 ## Behaviors
 
 | name                             | description                                                                                                        |   relevancy |

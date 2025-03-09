@@ -44,6 +44,18 @@ A network of ultrawealthy Christian donors, known as Ziklag, is set to spend nea
 | Targeted Messaging on Parental Rights         | Ziklag plans to leverage parental rights as a key issue for mobilizing voters.                         | Shift in political strategies focusing on cultural issues to engage conservative voters.                 | Parental rights could become a significant political issue influencing voter turnout and policy.                       | Concerns among conservative voters about education and family rights.                                 |           4 |
 | Shift in Political Campaign Strategies        | Ziklag’s approach signals a new way of organizing political campaigns through faith-based networks.    | Emergence of faith-based political strategies that prioritize cultural issues over traditional politics. | Faith-based initiatives may redefine campaign strategies and voter mobilization efforts.                               | Desire to merge faith with political activism and influence elections.                                |           5 |
 
+## Concerns
+
+| name                                            | description                                                                                                                                   |   relevancy |
+|:------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Political Influence of Charitable Organizations | The potential for tax-exempt charities like Ziklag to actively engage in partisan political activities, risking their legal status.           |           5 |
+| Voter Suppression Tactics                       | The use of AI software and mass challenges to voter eligibility could disenfranchise hundreds of thousands, undermining democratic processes. |           5 |
+| Christian Nationalism Rise                      | The coordinated efforts to promote a Christian nationalist agenda may lead to increased polarization and undermine secular governance.        |           4 |
+| Exploitation of Tax Exemption Laws              | Leverage of tax-exempt status to fund politically motivated initiatives raises concerns about accountability and transparency in fundraising. |           4 |
+| Mobilization against Transgender Rights         | Targeting transgender policies and rights may intensify societal divisions and contribute to discrimination against marginalized groups.      |           4 |
+| Long-Term Cultural Shift                        | Ziklag's 30-year vision could reshape cultural values and norms in America, prioritizing Christian doctrine over diverse beliefs.             |           4 |
+| Legal Oversight on Charities                    | Potential gaps in IRS oversight might allow for exploitation of charitable organizations for political aims.                                  |           4 |
+
 ## Behaviors
 
 | name                                     | description                                                                                                                               |   relevancy |

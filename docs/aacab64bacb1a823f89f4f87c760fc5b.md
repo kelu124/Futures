@@ -48,6 +48,16 @@ Zomato CEO Deepinder Goyal's unconventional job ad for a chief of staff sparked 
 | Social Media as a Hiring Platform            | Social media is becoming a primary platform for job advertisements and applications.          | From traditional job boards and recruitment methods to social media-driven hiring.                      | Social media could dominate the recruitment landscape, reshaping how job seekers and employers connect.                        | The increasing use of social media by companies for engagement and outreach to potential candidates.                |           4 |
 | Public Backlash Influencing Company Policies | Public reaction on social media can lead companies to reassess controversial practices.       | From companies ignoring public sentiment to adapting policies based on social media feedback.           | Companies may increasingly prioritize public opinion, altering their practices to avoid backlash.                              | The powerful voice of consumers on social media platforms can impact corporate decision-making.                     |           4 |
 
+## Concerns
+
+| name                              | description                                                                                                                        |   relevancy |
+|:----------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Financial Exclusion in Employment | The requirement to pay for a job opportunity may disproportionately exclude less privileged candidates.                            |           5 |
+| Normalization of Unpaid Labor     | The idea of paying a company for a job could set a dangerous precedent for unpaid internships and exploitative practices.          |           4 |
+| Impact on Diversity and Inclusion | Such hiring practices may hinder workplace diversity by favoring financially privileged individuals, limiting equal opportunities. |           5 |
+| Reinforcement of Social Privilege | This incident underscores existing social hierarchies, particularly related to caste and socioeconomic status in employment.       |           5 |
+| Labor Rights Violations           | The practice raises concerns about adherence to labor laws and policies in the gig economy, especially regarding minimum wage.     |           4 |
+
 ## Behaviors
 
 | name                              | description                                                                                                                              |   relevancy |

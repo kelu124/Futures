@@ -46,6 +46,18 @@ The article explores the enduring appeal of classic toys amidst a rapidly changi
 | Influx of New Toy Products        | The toy industry sees over half of its products being new each year.                           | Shift from established classics to a constantly rotating selection of new toys.            | The market may become saturated with new products, making it harder for classics to stand out. | Market competition and the need for novelty drive the creation of new toy products.                 |           4 |
 | Cultural Relevance in Toy Design  | Toys must resonate culturally to maintain relevance across generations.                        | Shift from timeless designs to toys that reflect current societal values.                  | Toys may increasingly reflect contemporary societal issues to remain relevant.                 | Cultural shifts and changing values influence toy design and popularity.                            |           4 |
 
+## Concerns
+
+| name                                      | description                                                                                                                                |   relevancy |
+|:------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Nostalgia and Toy Longevity               | The enduring popularity of classic toys may fade as cultural connections weaken over generations, risking loss of play traditions.         |           4 |
+| Digital vs. Analog Play                   | In an increasingly digital world, reliance on digital toys may diminish imaginative, problem-solving play associated with analog toys.     |           5 |
+| Market Saturation of Toys                 | With more than half of toy products being new each year, marketing strategies may become overly aggressive, leading to unsustainable fads. |           4 |
+| Evolving Cultural Relevance               | Toys tied to specific cultural trends risk becoming irrelevant if they cannot adapt to contemporary values or interests.                   |           4 |
+| Childhood Experience Commercialization    | Classic toys might be commercialized to the point where their original value for imaginative play gets diluted.                            |           3 |
+| Influence of Adult Nostalgia on Selection | Parents’ nostalgic preferences may dominate toy selections, overshadowing children's current interests or needs.                           |           4 |
+| Environmental Impact of Toy Production    | The toy industry’s rapid product turnover and reliance on plastic pose concerns about sustainability and environmental degradation.        |           5 |
+
 ## Behaviors
 
 | name                                 | description                                                                                                                                                      |   relevancy |

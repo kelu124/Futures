@@ -38,6 +38,17 @@ Google has blocked ads for e-commerce sites using the Polyfill.io service after 
 | Growing Importance of Code Integrity Monitoring | Real-time monitoring of code integrity becomes essential for businesses using JavaScript.          | From reactive security measures to proactive code integrity monitoring and management.                          | Real-time monitoring of code behavior will be standard practice in web development, enhancing security.                            | The recognition of vulnerabilities in client-side scripts and the need for robust security measures. |           5 |
 | Public Awareness of Supply Chain Risks          | Consumers and businesses become more aware of supply chain risks associated with web technologies. | From low awareness of supply chain risks to a heightened understanding of potential vulnerabilities.            | Consumers will demand transparency and security assurances from service providers and developers.                                  | Increasing incidents of supply chain attacks highlighting vulnerabilities in software supply chains. |           4 |
 
+## Concerns
+
+| name                                         | description                                                                                                                |   relevancy |
+|:---------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------|------------:|
+| Supply Chain Attacks on Open-Source Projects | The increasing prevalence of supply chain attacks targeting open-source projects poses a significant security risk.        |           5 |
+| Malicious Code Injection                     | The risk of malicious code being injected into widely-used libraries can compromise numerous websites and applications.    |           4 |
+| Reliance on Third-Party Libraries            | Dependence on third-party libraries like Polyfill.io can lead to vulnerabilities if these libraries are compromised.       |           4 |
+| Inadequate Mitigation Responses              | Long response times in addressing critical security flaws can leave systems vulnerable to exploitation.                    |           5 |
+| JavaScript Vulnerabilities                   | As reliance on JavaScript grows, its inherent weaknesses may be increasingly exploited by malicious actors.                |           4 |
+| Reputation Risk in Crisis Management         | The public dispute between stakeholders raises concerns about the management of reputational risks during security crises. |           3 |
+
 ## Behaviors
 
 | name                                                           | description                                                                                                                                     |   relevancy |

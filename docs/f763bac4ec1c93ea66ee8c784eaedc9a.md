@@ -42,6 +42,19 @@ The discussion around nuclear-powered F1 cars explores the contradictions in cur
 | Nuclear Waste Management Concerns                 | Discussion of nuclear waste implications in motorsport due to proposed nuclear engines.       | From traditional waste management to complex nuclear waste disposal needs.                | Regulatory frameworks around nuclear waste management may evolve in motorsport contexts. | Heightened awareness of environmental and safety standards in industries.         |           3 |
 | Cost Challenges for Nuclear Technology in F1      | The potential high costs of developing nuclear engines could hinder their adoption.           | From competitive engine development to a focus on cost-effective solutions.               | F1 may see a shift towards more economically viable engine technologies.                 | Economic sustainability pressures on racing teams and sponsors.                   |           4 |
 
+## Concerns
+
+| name                                                   | description                                                                                                                                        |   relevancy |
+|:-------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Safety Risks of Nuclear Reactors in Racing             | Potential safety hazards include nuclear leaks during crashes and the long-term impact of radiation exposure to drivers and teams.                 |           5 |
+| Cost and Financial Viability                           | High costs associated with designing and building nuclear engines may lead to fewer teams participating in F1, impacting competition.              |           5 |
+| Regulatory and Waste Management Issues                 | Challenges related to the regulation, surveillance, and disposal of nuclear waste generated from F1 cars could lead to legal and ethical dilemmas. |           4 |
+| Public Relations and Sponsorship Challenges            | The controversial nature of nuclear power may deter sponsors and create a PR disaster following incidents involving nuclear materials.             |           5 |
+| Technological Feasibility                              | The lack of existing technology suitable for nuclear F1 cars poses significant challenges for implementation and acceptance.                       |           4 |
+| Inefficiencies from Weight and Size of Nuclear Engines | Heavy shielding required may affect the car's performance, handling, and overall racing dynamics negatively.                                       |           4 |
+| Transportation Security of Nuclear Materials           | Securing the transport of nuclear fuel across different countries presents risks of theft or misuse by malicious actors.                           |           5 |
+| Impact on F1 Culture and Fan Base                      | The introduction of nuclear engines could alienate traditional fans who value the sound and aesthetics of existing F1 cars.                        |           4 |
+
 ## Behaviors
 
 | name                                           | description                                                                                                                    |   relevancy |

@@ -40,6 +40,17 @@ The Indeed Hiring Lab evaluated OpenAI's GPT-4o model across over 2,800 job skil
 | Increased Importance of Human Oversight | As GenAI tools evolve, the need for human oversight in AI-generated outputs remains critical.             | Shift from reliance on AI outputs to a model requiring human validation and guidance.                  | Future job roles will emphasize collaboration between humans and AI, requiring oversight skills.         | The complexity of tasks and the need for ethical considerations in AI outputs drive this change.                 |           5 |
 | Sector-Specific Impacts                 | The impact of GenAI will vary significantly across different sectors and job types.                       | From a uniform application of GenAI to tailored approaches based on sector needs.                      | Industries may develop specialized roles that integrate GenAI while retaining human expertise.           | The diverse requirements of various job sectors necessitate distinct strategies for GenAI integration.           |           4 |
 
+## Concerns
+
+| name                                    | description                                                                                                                                                                 |   relevancy |
+|:----------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Job Displacement Due to GenAI           | As GenAI technology advances, there is a concern that it could replace human jobs, especially in fields with less hands-on requirements.                                    |           4 |
+| Educational Needs for GenAI Skills      | The complexity of GenAI necessitates training programs for workers to effectively interact with these tools, indicating a growing need for education in prompt-engineering. |           5 |
+| Bias Reinforcement in AI Outputs        | GenAI may inadvertently reinforce existing biases in its outputs, leading to stereotyping and ethical concerns in various fields.                                           |           4 |
+| Dependence on Human Oversight           | The necessity for human supervision of GenAI outputs raises concerns about the balance of power and control in tasks traditionally done by humans.                          |           4 |
+| Inequality in Job Markets               | GenAI's impact may vary across different job markets, potentially exacerbating inequalities, particularly in fields requiring extensive physical presence like healthcare.  |           5 |
+| Limitations of GenAI in Problem-Solving | GenAI's moderate problem-solving abilities suggest certain jobs may not significantly benefit from automation, raising concern about over-reliance on technology.           |           3 |
+
 ## Behaviors
 
 | name                                | description                                                                                                                    |   relevancy |

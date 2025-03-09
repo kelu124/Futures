@@ -39,6 +39,16 @@ This study examines the impact of generative artificial intelligence (GenAI) on 
 | Dependence on AI for Creativity          | Writers using GenAI become more similar in style, potentially stifling individual creativity. | Shift from unique human creativity to a more homogenized AI-influenced creative output.  | In a decade, creativity may be perceived as less personal and more algorithmically driven.                     | The efficiency and ease of using AI tools in creative processes outweighs the value of individuality. |           4 |
 | Quality versus Originality in Creativity | GenAI assistance leads to better-rated but less original stories.                             | Change from valuing originality to prioritizing quality and enjoyment in creative works. | Creative industries may prioritize audience enjoyment over unique artistic expression.                         | Market trends favoring consumer satisfaction and engagement over traditional artistic values.         |           5 |
 
+## Concerns
+
+| name                                          | description                                                                                                                    |   relevancy |
+|:----------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Over-reliance on AI for Creativity            | Writers may become dependent on GenAI for ideas, potentially stifling their own creative processes.                            |           4 |
+| Homogenization of Creative Output             | Stories generated with GenAI may exhibit a lack of originality, leading to a uniformity in creative works across the industry. |           5 |
+| Misattribution of Creative Authors            | Works created with GenAI assistance may blur the lines of authorship, causing confusion about the source of creativity.        |           3 |
+| Ethical Implications of AI in Creative Fields | The expansion of GenAI raises questions about intellectual property and ethics in the creative industries.                     |           4 |
+| Impact on Employment of Human Creatives       | Increased reliance on GenAI could threaten the job security of writers and creative professionals.                             |           4 |
+
 ## Behaviors
 
 | name                                        | description                                                                                                                                 |   relevancy |

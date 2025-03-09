@@ -45,6 +45,21 @@ The article discusses the top 10 construction technology trends that are expecte
 | 3D Printing for Construction                        | 3D printing is streamlining the construction process with rapid and cost-effective methods.       | Shifting from traditional building techniques to automated, additive manufacturing processes.                  | Widespread adoption of 3D-printed structures leading to reduced construction times and costs.           | The challenge of labor shortages and the need for innovative building solutions.        |           5 |
 | Virtual Reality for Training                        | VR is being utilized extensively for worker training and safety simulations.                      | Moving from conventional training methods to immersive, simulated environments for skill development.          | A more skilled workforce with enhanced safety protocols due to VR training.                             | The need for improved safety and efficiency in construction training programs.          |           4 |
 
+## Concerns
+
+| name                                              | description                                                                                                                                               |   relevancy |
+|:--------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Data Security Vulnerabilities                     | As construction technology increasingly relies on cloud-based solutions, potential data breaches pose significant risks to sensitive project information. |           5 |
+| Job Displacement due to Automation                | The rise of AI and robotics may lead to job losses in the construction sector, impacting workers and subsequently the economy.                            |           4 |
+| Real-time Sensor Data Reliability                 | Increased dependence on IoT sensors for decision-making raises concerns about potential failures or inaccuracies in data collection.                      |           4 |
+| Sustainability Practices and Greenwashing         | Companies may falsely claim sustainability through inadequate carbon-estimating technologies, risking true environmental impact assessments.              |           4 |
+| Integration Challenges across Technologies        | Ensuring compatibility among diverse software and hardware solutions could hinder the efficiency gains promised by technological integration.             |           4 |
+| Safety Risks with Drone and Robot Usage           | The deployment of drones and robots in construction may inadvertently introduce new safety hazards if not managed carefully.                              |           3 |
+| Ethical Considerations in AI Usage                | The use of AI in construction, especially in predictive analytics, may pose ethical questions regarding privacy and decision-making biases.               |           4 |
+| Inequality in Access to Technology                | Small construction firms may struggle to adopt emerging technologies, widening the gap between larger and smaller players in the industry.                |           3 |
+| Environmental Impact of New Technologies          | The production and operation of advanced technologies, such as 3D printing, may have unforeseen negative environmental consequences.                      |           5 |
+| Regulatory Compliance Issues with New Innovations | As technologies evolve rapidly, keeping up with regulation and safety standards may become increasingly complex for construction firms.                   |           4 |
+
 ## Behaviors
 
 | name                                                   | description                                                                                                                                              |   relevancy |

@@ -39,6 +39,19 @@ TSMC is nearing completion of its ecosystem for 2nm chip development, focusing o
 | Delay in Mass Production          | Concerns about the timeline for mass production of 2nm chips by TSMC.                          | Potential delays in production could slow the adoption of new technology.                     | Delays may push the adoption of advanced chips further into the future, impacting the market.      | Uncertainties in technology readiness and production capabilities.                       |           4 |
 | Training for New Technologies     | Chip vendors require training to adapt to new nanosheet transistor technology.                 | Need for educational resources to support the transition to advanced manufacturing processes. | A new workforce skilled in advanced semiconductor technologies could emerge.                       | The necessity for companies to stay competitive in a rapidly evolving tech landscape.    |           3 |
 
+## Concerns
+
+| name                                         | description                                                                                                                                                         |   relevancy |
+|:---------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Reliability of New Process Technologies      | Concerns about the actual performance and reliability of the new 2 nm process technologies when deployed in mass production.                                        |           4 |
+| Tooling Gaps During Transition               | Chip designers may face significant delays due to the lack of necessary EDA tools and IP while transitioning from FinFET to nanosheet technology.                   |           5 |
+| Intellectual Property (IP) Challenges        | The complexity of new IP development and potential bottlenecks could slow down the overall chip design process for 2 nm technologies.                               |           4 |
+| Manufacturing Delays                         | Potential delays in receiving necessary high-NA equipment and completing the build-out of production facilities may push back timelines for 2 nm chip availability. |           5 |
+| Market Competition and Ecosystem Disruption  | Intensified competition among semiconductor companies could lead to aggressive tactics, impacting market stability and vendor relationships.                        |           3 |
+| Training Needs for New Technologies          | The need for extensive training on new technology may slow down progress as developers adapt to nanosheet GAA transistors and associated tools.                     |           4 |
+| Supply Chain Risks                           | Risks associated with the supply chain for equipment and materials necessary for advanced chip production could affect timelines and costs.                         |           4 |
+| Economic Feasibility of Technology Migration | Concerns about the economic implications of migrating from established processes to more advanced technologies may hinder adoption.                                 |           4 |
+
 ## Behaviors
 
 | name                                            | description                                                                                                                             |   relevancy |

@@ -44,6 +44,16 @@ A recent survey shows that 68% of participants identify as independent travelers
 | Design Changes in Accommodations | Hotels are adapting designs to include shared spaces for solo travelers to meet.                   | Hotel design is shifting toward fostering social interactions among guests.                         | Future hotels will prioritize communal areas, enhancing solo traveler experiences.               | The growing number of solo travelers is prompting changes in hospitality design.      |           4 |
 | Experience-Driven Spending       | Travelers are increasingly allocating income for experiences, even when alone.                     | Shifting from material goods to experiences, even without travel partners.                          | In 10 years, travel will be seen as a primary way to spend disposable income.                    | A cultural shift towards valuing experiences over possessions is driving this change. |           5 |
 
+## Concerns
+
+| name                                      | description                                                                                                                      |   relevancy |
+|:------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Single Supplement Costs                   | The ongoing prevalence of single supplements that double costs for solo travelers, limiting accessibility to travel experiences. |           4 |
+| Safety Concerns for Solo Female Travelers | With 85% of solo travelers being women, safety concerns remain paramount for this demographic while traveling alone.             |           5 |
+| Impact of Post-Pandemic Anxiety           | Many potential solo travelers experience anxiety about being alone, affecting their willingness to travel.                       |           4 |
+| Integration Challenges in Group Settings  | Solo travelers may struggle to integrate into groups, leading to feelings of isolation during trips.                             |           3 |
+| Insurance and Emergency Protocols         | Solo travelers may face unique challenges regarding safety protocols and insurance coverage in emergencies.                      |           4 |
+
 ## Behaviors
 
 | name                                      | description                                                                                                                                                   |   relevancy |

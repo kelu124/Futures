@@ -46,6 +46,19 @@ The article discusses the rapid growth of the resale market in fashion, highligh
 | Emerging Resale Market Size                    | The secondhand apparel market is expected to grow significantly in the coming years.              | From a niche market to a multi-billion dollar industry, rivaling fast fashion.                       | The secondhand market could rival or surpass the fast fashion industry in size.               | Increasing consumer demand for sustainable options fuels market growth.                                |           5 |
 | Sustainable Fashion Awareness                  | Growing consumer awareness about the environmental impact of fashion drives resale.               | Shift from indifference to active concern about fashion's carbon footprint.                          | Sustainable fashion practices will dominate consumer preferences and purchasing decisions.    | Heightened awareness of environmental issues influences purchasing behavior.                           |           5 |
 
+## Concerns
+
+| name                                          | description                                                                                                                                     |   relevancy |
+|:----------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Supply Constraint in Resale Market            | The friction in the resale process limits consumer willingness to sell, resulting in constrained supply of secondhand goods.                    |           5 |
+| Environmental Impact of Fast Fashion          | The fast fashion industry significantly contributes to environmental degradation and waste generation, affecting global sustainability efforts. |           5 |
+| Misalignment of Consumer and Brand Incentives | Current resale models fail to align the interests of brands and consumers, hindering market growth.                                             |           4 |
+| Technological Solution Gaps                   | The lack of comprehensive technology solutions for managing resale creates inefficiencies in the resale process.                                |           4 |
+| Market Volatility and Consumer Behavior       | Trends in consumer behaviors, especially among Gen Z, may lead to unpredictable changes in resale demand and pricing.                           |           3 |
+| AI Dependence in Resale Transactions          | Relying heavily on AI for resale interactions could lead to miscommunication and transaction errors if not properly managed.                    |           3 |
+| Carbon Footprint of Secondhand Goods          | While resale reduces new item consumption, the lifecycle carbon footprint of secondhand goods is still significant.                             |           3 |
+| Regulatory Scrutiny of Resale Models          | Emerging concerns about taxation and regulation of resale platforms may impact their growth and operational viability.                          |           2 |
+
 ## Behaviors
 
 | name                           | description                                                                                                                     |   relevancy |

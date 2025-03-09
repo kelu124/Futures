@@ -44,6 +44,18 @@ Le choix entre un modèle open source et un modèle propriétaire pour des proje
 | Latency Improvements in Open Source Models   | Improvements in the speed and efficiency of open source AI models compared to proprietary models. | Change from slower response times in proprietary models to faster inference in open source alternatives.      | Ten years from now, performance benchmarks may favor open source models for real-time applications.            | The demand for rapid responses in applications drives advancements in open source model optimization.      |           4 |
 | The Need for Regular Model Evaluation        | Emphasis on continuous testing and evaluation of AI models for relevance and performance.         | Shift from static model deployment to dynamic evaluation and adjustment of AI systems over time.              | In a decade, AI systems may be regularly updated based on real-time performance metrics and user feedback.     | The necessity for adaptability and continuous improvement in AI solutions motivates ongoing evaluations.   |           3 |
 
+## Concerns
+
+| name                          | description                                                                                                                        |   relevancy |
+|:------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Performance Discrepancy       | The gap in performance between open source and proprietary models can lead to inefficient solutions for complex tasks.             |           4 |
+| Data Processing Limits        | Document processing limits in open source models may lead to information loss, impacting decision-making processes.                |           3 |
+| Cost Overruns                 | Proprietary models can result in significantly escalating costs for organizations based on usage volume.                           |           4 |
+| Resource Requirements         | High hardware and infrastructure investments are required for deploying open source models effectively, posing a barrier to entry. |           4 |
+| Latency Issues                | Choosing the wrong model can affect response times, crucial for user satisfaction in real-time applications.                       |           3 |
+| Language Handling Limitations | Open source models may struggle with complex language generation, particularly in non-English languages.                           |           3 |
+| Evaluation and Maintenance    | Regular testing and maintenance are necessary to ensure the chosen model remains effective and efficient over time.                |           5 |
+
 ## Behaviors
 
 | name                                   | description                                                                                                                                                       |   relevancy |

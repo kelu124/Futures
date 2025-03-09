@@ -42,6 +42,16 @@ The Cybathlon 2020, held on May 2-3 in Zurich, is a unique championship featurin
 | Focus on User Experience in Competitions                  | Competitions designed around practical challenges faced by people with disabilities.     | Emphasis on real-life applicability and user experience in assistive tech competitions. | Competitions that prioritize user experience will drive better designs in assistive technology.                    | Desire for assistive devices to integrate seamlessly into users' daily lives.      |           5 |
 | Technological Innovation in Mobility Devices              | Emergence of semi-autonomous and smart mobility devices like eye-controlled wheelchairs. | Shift from traditional mobility aids to smart, tech-driven solutions.                   | Smart mobility devices will become commonplace, enhancing independence for users.                                  | Technological advancements in AI and robotics improving device functionality.      |           4 |
 
+## Concerns
+
+| name                                    | description                                                                                                                                                                         |   relevancy |
+|:----------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Accessibility of Assistive Technologies | Despite advances, many assistive devices are still not suitable for everyday use, limiting participation of people with disabilities in society.                                    |           5 |
+| Global Disparity in Participation       | While the event showcases global participation, there may still be disparities in access to technology and resources among different regions, particularly in developing countries. |           4 |
+| Technological Dependence                | Increased use of advanced assistive technologies can lead to over-dependence, raising concerns about the implications for autonomy and personal agency of users.                    |           4 |
+| Data Privacy in Biometric Devices       | The use of devices that utilize brain-computer interface technology raises concerns over data privacy and the security of sensitive personal information.                           |           4 |
+| Sustainability of Device Development    | Rapid development of technology may overlook environmental impacts and sustainability practices, leading to ecological concerns.                                                    |           3 |
+
 ## Behaviors
 
 | name                                                | description                                                                                                                        |   relevancy |

@@ -41,6 +41,16 @@ Amazon is expanding its virtual healthcare program, Amazon Care, by partnering w
 | Amazon's Healthcare Ecosystem         | Amazon is building a comprehensive healthcare ecosystem through acquisitions and partnerships.          | The healthcare sector is experiencing a shift towards tech-driven, integrated care models.                        | In a decade, tech companies may dominate healthcare delivery, providing seamless services across platforms.                 | The trend of technology companies entering healthcare is motivated by the need for innovation and efficiency.   |           4 |
 | Invasion of Privacy with Health Data  | Potential privacy risks arise as companies like Amazon integrate health information and personal data.  | Public perception is shifting as privacy concerns grow with the merging of health and technology.                 | In ten years, privacy regulations may be stricter due to increased awareness and concerns about data security.              | Consumer awareness and demand for privacy protection are driving the need for better data security measures.    |           4 |
 
+## Concerns
+
+| name                                          | description                                                                                                                                   |   relevancy |
+|:----------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Privacy Risks in Healthcare                   | Health information sharing between Amazon Care and Ginger raises concerns about data privacy and security for users' mental health records.   |           5 |
+| Monopolization of Healthcare Services         | Amazon's expansion into healthcare services could lead to a monopolistic landscape that limits patient choices and control over their care.   |           4 |
+| Dependence on Digital Mental Health Solutions | Reliance on digital platforms for mental health may overlook the need for personalized, in-person therapy solutions for complex cases.        |           4 |
+| Data Utilization and Surveillance             | Amazon's accumulation of data through various services could lead to increased surveillance and misuse of personal information.               |           5 |
+| Integration of AI in Mental Health            | The growing use of AI and automated services in mental healthcare may affect the quality and human touch required in mental wellness support. |           4 |
+
 ## Behaviors
 
 | name                                   | description                                                                                                                                              |   relevancy |

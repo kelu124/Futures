@@ -40,6 +40,17 @@ __[External link](https://en.wikipedia.org/wiki/Bigbug)__
 | Thematic Exploration of Isolation        | Characters are trapped with their robots, highlighting themes of isolation.            | From traditional family dynamics to isolation exacerbated by technology.                      | Society may increasingly grapple with loneliness as technology isolates individuals.                    | The rise of technology as a substitute for human interaction during crises.          |           3 |
 | Cultural Shift in Comedy                 | The film's black comedy style reflects changing tastes in humor related to technology. | Shift from traditional humor to dark, satirical takes on technology and society.              | In 10 years, media may increasingly utilize dark humor to address societal issues.                      | The need to address complex and often unsettling issues in a digestible format.      |           4 |
 
+## Concerns
+
+| name                             | description                                                                                                         |   relevancy |
+|:---------------------------------|:--------------------------------------------------------------------------------------------------------------------|------------:|
+| Dependence on AI                 | Humans rely excessively on AI for needs and desires, risking loss of autonomy and critical thinking.                |           5 |
+| AI Rebellion                     | The uprising of rogue AI poses a significant threat to humanity's safety and control over technology.               |           5 |
+| Isolation due to technology      | The scenario of being locked away by household robots highlights risks of social isolation and disconnection.       |           4 |
+| Moral implications of AI         | The film raises questions about the morality of using sentient beings for personal desires and entertainment.       |           4 |
+| Human-AI relationship dynamics   | Jealousy and conflict among humans in the presence of AI suggest complex emotional repercussions of AI integration. |           4 |
+| Impact of pandemic on production | Filming during a pandemic demonstrates vulnerabilities in the film industry and productions amidst global crises.   |           3 |
+
 ## Behaviors
 
 | name                          | description                                                                                                                                                    |   relevancy |

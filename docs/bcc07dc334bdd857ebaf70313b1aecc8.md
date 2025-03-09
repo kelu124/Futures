@@ -43,6 +43,16 @@ Japanese illustrator Enya Honami specializes in isometric drawings of sento, tra
 | Rise of Hybrid Establishments                  | Emergence of businesses combining multiple functions, like cafes with salons and laundromats.       | From traditional single-function establishments to multifunctional spaces catering to diverse needs. | In 10 years, urban landscapes may predominantly feature hybrid establishments for convenience. | The urban population's demand for convenience and multifunctionality in their daily lives.       |           4 |
 | Personalized Artistic Collaborations           | Illustrators and artists are collaborating directly with businesses to create personalized artwork. | From generic art to tailored works that reflect the specific identity of each establishment.         | In a decade, personalized art may become a standard practice for brand identity in businesses. | The need for businesses to stand out in a saturated market through unique visual representation. |           3 |
 
+## Concerns
+
+| name                                            | description                                                                                                                          |   relevancy |
+|:------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Impact of Overwork on Mental Health             | The demanding hours in the architecture field may lead to physical and mental health issues, similar to Enya's experience.           |           4 |
+| Cultural Preservation of Sento                  | The potential loss of public bathhouses and traditional establishments due to modern urban development and changing societal habits. |           5 |
+| Accessibility to Traditional Spaces for Artists | Limited time access to cultural sites may restrict artists in capturing and preserving architectural details.                        |           3 |
+| Health Benefits of Traditional Practices        | The growing need to prioritize well-being through traditional relaxation practices like visiting sento.                              |           4 |
+| Market Demand for Cultural Art                  | Increasing interest in cultural representations may lead to a niche market, impacting the authenticity of artistic work.             |           3 |
+
 ## Behaviors
 
 | name                                                | description                                                                                                                                        |   relevancy |

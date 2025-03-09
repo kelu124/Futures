@@ -43,6 +43,19 @@ Kshama Bindu, a 24-year-old woman from India, made headlines by marrying herself
 | Mental Health Awareness      | There is a growing recognition of the importance of self-love and mental well-being.               | From neglecting mental health to prioritizing self-care and personal acceptance.                     | Mental health practices may become more integrated into societal norms, influencing relationship choices.             | Increased awareness and discourse around mental health and trauma recovery are central to this change.         |           5 |
 | Resistance to Patriarchy     | Acts of self-marriage are seen as a rejection of patriarchal societal structures.                  | Shifting from traditional marriage as a societal expectation to individual choice and empowerment.   | Societal structures may evolve, leading to reduced emphasis on traditional marriage and family norms.                 | A collective movement towards gender equality and dismantling patriarchal systems is fueling this trend.       |           5 |
 
+## Concerns
+
+| name                                  | description                                                                                                                                        |   relevancy |
+|:--------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Social Acceptance of Sologamy         | The challenge of gaining societal acceptance for unconventional relationships like sologamy in traditional cultures.                               |           4 |
+| Mental Health Implications            | The potential psychological effects of self-marriage, including isolation or narcissism, necessitating a better understanding of its implications. |           5 |
+| Impact of Media and Fame              | The influence of social media can drive individuals to embrace trends like sologamy for fame, possibly distorting genuine self-love.               |           3 |
+| Cultural Norms and Resistance         | Political and cultural backlash against non-traditional marriage practices can create significant pressure on individuals choosing sologamy.       |           4 |
+| Effect on Interpersonal Relationships | Sologamy may lead to decreased interest in forming relationships with others, impacting social interactions and community ties.                    |           4 |
+| Misinterpretation of Self-Love        | The idea that self-marriage arises solely from trauma may oversimplify complex emotional experiences and diminish the empowerment aspect.          |           5 |
+| Gender Norms and Expectations         | Rejection of traditional gender roles through sologamy could face societal pushback, influencing other women’s choices.                            |           4 |
+| Need for Improved Understanding       | The lack of data and awareness around sologamy underlines the need for discourse and education on alternative relationship models.                 |           3 |
+
 ## Behaviors
 
 | name                                       | description                                                                                                                       |   relevancy |

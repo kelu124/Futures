@@ -42,6 +42,17 @@ The CNIL has selected eight innovative AI projects aimed at enhancing public ser
 | AI for Ecological Awareness                      | AI projects focus on promoting ecological responsibility among citizens.                     | Shift from passive awareness to active engagement through AI insights.             | Citizens will have AI tools that guide sustainable practices in daily life.                             | Urgency of addressing climate change and promoting ecological initiatives.       |           4 |
 | Collaboration between Public and Private Sectors | Involvement of various stakeholders in AI project development.                               | From isolated projects to collaborative efforts among public and private entities. | A robust ecosystem of innovation will emerge, driving advancements in public service AI.                | The need for diverse expertise and resources in complex AI projects.             |           3 |
 
+## Concerns
+
+| name                                       | description                                                                                                                                             |   relevancy |
+|:-------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Data Privacy Concerns                      | The integration of AI in public services raises potential risks regarding the protection of personal data and privacy rights of individuals.            |           5 |
+| Dependency on AI Systems                   | Increased reliance on AI tools by public services may lead to a decrease in human oversight and critical decision-making, compromising service quality. |           4 |
+| Bias in AI Algorithms                      | Generative AI tools may inadvertently perpetuate biases present in training data, leading to unequal outcomes in public service delivery.               |           4 |
+| Misuse of Data for Surveillance            | The collection of data through AI technologies could be misused for surveillance or monitoring individuals without their consent.                       |           5 |
+| Implementation of Ineffective AI Solutions | There is a risk that projects may lead to the deployment of ineffective AI tools that do not meet the intended goals or user needs.                     |           3 |
+| Regulatory Challenges                      | The fast-paced development of AI technologies may outstrip existing legal frameworks, creating gaps in regulation that could harm public interests.     |           5 |
+
 ## Behaviors
 
 | name                                    | description                                                                                                                            |   relevancy |

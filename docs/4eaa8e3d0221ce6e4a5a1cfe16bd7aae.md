@@ -42,6 +42,17 @@ The Eiffel Tower, a symbol of Paris, faced significant opposition before its con
 | Media Influence on Public Opinion           | Press campaigns played a critical role in shaping public perception of the Eiffel Tower.                       | Shift from elite-driven narratives to broader public engagement through media.                         | Media will continue to shape public discourse on architectural projects, impacting their reception.                   | The democratization of information and the rise of social media platforms empower diverse voices. |           4 |
 | Architectural Rivalry and Innovation        | The competition between Eiffel and Bourdais highlighted the tension between materials and design philosophies. | Evolution from rivalry to collaboration among architects and engineers in urban projects.              | Future projects may increasingly integrate diverse materials and design philosophies for innovation.                  | The need for sustainable and innovative solutions in architecture will foster collaboration.      |           3 |
 
+## Concerns
+
+| name                                      | description                                                                                                                                               |   relevancy |
+|:------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Public Resistance to Engineering Projects | Historical and ongoing opposition from the public and artistic communities towards large engineering projects, potentially hindering future developments. |           4 |
+| Loss of Historical Architectural Identity | Concerns regarding the impact of modern engineering structures on traditional Parisian architecture and the historic identity of cities.                  |           3 |
+| Environmental and Safety Risks            | The potential risks and hazards associated with large constructions, especially in densely populated urban areas, affecting local residents.              |           5 |
+| Technological Dependence                  | The reliance on advancements in technology for the purpose of preservation and functionality of historical structures like the Eiffel Tower.              |           4 |
+| Changing Public Perception                | The evolving attitudes toward monumental structures, reflecting how initial skepticism can transform into acceptance and pride over time.                 |           3 |
+| Cultural Heritage vs. Modernity           | The tension between preserving cultural heritage and embracing modern engineering innovations in urban environments.                                      |           4 |
+
 ## Behaviors
 
 | name                                         | description                                                                                                                                      |   relevancy |

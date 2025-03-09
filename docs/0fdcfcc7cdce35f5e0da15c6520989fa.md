@@ -40,6 +40,16 @@ A ransomware group named AlphV filed a complaint with the SEC against MeridianLi
 | Materiality Standards in Cybersecurity           | Debate over what constitutes a material cybersecurity incident for disclosure.              | Evolving definitions of materiality affecting when companies report breaches.        | In the future, clearer standards will exist for defining cybersecurity materiality across sectors.    | The need for clarity in regulations drives discussions around materiality in cybersecurity incidents.      |           4 |
 | Corporate Response Strategies to Cyber Incidents | Companies developing diverse strategies for communicating and managing breaches.            | Shift from reactive to proactive incident management and communication strategies.   | In a decade, organizations will have established crisis communication frameworks for cyber incidents. | The increasing impact of breaches on reputation drives companies to refine their response strategies.      |           4 |
 
+## Concerns
+
+| name                                    | description                                                                                                                      |   relevancy |
+|:----------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Cyber Ransom Gang Filing SEC Complaints | The audacity of cyber ransom gangs to file complaints with regulatory agencies could undermine institutional trust.              |           4 |
+| Regulatory Challenges for Companies     | The evolving regulatory landscape regarding cybersecurity disclosure may create significant compliance challenges for companies. |           5 |
+| Publicity Stunts by Hackers             | Hackers leveraging SEC processes for publicity raises questions about the legitimacy and consequences of their actions.          |           3 |
+| Emerging Pressure Tactics               | Cybercriminals adopting new tactics to pressure companies may increase the risk of compliance failures.                          |           4 |
+| Materiality Assessment Complexity       | Determining what constitutes a material cybersecurity incident may become increasingly complex for companies after breaches.     |           4 |
+
 ## Behaviors
 
 | name                                         | description                                                                                                                       |   relevancy |

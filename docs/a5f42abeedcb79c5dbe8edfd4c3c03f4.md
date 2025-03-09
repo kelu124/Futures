@@ -38,6 +38,16 @@ Public libraries are evolving into coworking spaces, offering amenities and a co
 | Community Connection through Libraries | Libraries are becoming essential centers for social connection in a digital era.               | Shift from solitary remote work to communal workspaces fostering social interaction.            | In 10 years, libraries could be vital for community cohesion and networking opportunities.                   | The rise of remote work highlights the need for spaces that foster community and collaboration.                 |           5 |
 | Library as a Business Hub              | Libraries are evolving to support the entrepreneurial ecosystem in their communities.          | Transition from traditional educational roles to supporting local businesses and entrepreneurs. | In 10 years, libraries may be key players in local economic development and entrepreneurship.                | The growth of freelance and remote work necessitates support systems for entrepreneurs.                         |           4 |
 
+## Concerns
+
+| name                                       | description                                                                                                                                            |   relevancy |
+|:-------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Funding and Support for Libraries          | Without adequate funding and support, libraries may fail to fully realize their potential as coworking spaces.                                         |           4 |
+| Resource Limitations in Smaller Libraries  | Smaller libraries may struggle to accommodate an influx of remote workers due to limited space and resources.                                          |           3 |
+| Dependence on Partnerships for Improvement | Libraries may become reliant on external partnerships, like those with corporations, for funding and resources, potentially compromising independence. |           3 |
+| Digital Divide                             | Access to reliable internet during remote work is crucial; disparities in access could widen the digital divide.                                       |           4 |
+| Social Isolation Trends                    | Although libraries offer community and connections, there may be broader societal trends of isolation that libraries cannot fully address.             |           3 |
+
 ## Behaviors
 
 | name                                      | description                                                                                                                                  |   relevancy |

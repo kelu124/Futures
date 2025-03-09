@@ -42,6 +42,19 @@ The upcoming United Nations 'Summit of the Future' on September 22-23, 2024, aim
 | Planetary Boundaries Awareness               | Recognition of critical environmental thresholds that humanity must not exceed.          | Shift from unlimited growth mindset to a sustainable development approach.          | Global policies that respect planetary boundaries to ensure sustainable living.                  | Scientific consensus on Earth's environmental limits necessitating urgent action.      |           5 |
 | Emergence of Strategic Foresight             | Need for foresight and strategic planning in global governance.                          | Transition from reactive crisis management to proactive strategic foresight.        | Global institutions equipped with foresight capabilities to tackle future issues effectively.    | Increased complexity of global challenges requiring anticipatory governance.           |           4 |
 
+## Concerns
+
+| name                                      | description                                                                                                                                                   |   relevancy |
+|:------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Underaddressed Global Challenges          | Despite awareness, significant global challenges like poverty, climate change, and biodiversity loss remain inadequately addressed, risking future stability. |           5 |
+| Inadequate Geopolitical Infrastructure    | Existing geopolitical and institutional frameworks may be ill-equipped to manage and respond to rapid global changes and crises.                              |           5 |
+| Failure of Economic Growth Models         | Current economic models prioritize endless growth over sustainability, often leading to environmental degradation and resource depletion.                     |           4 |
+| Insufficient Public Policy Action         | Knowledge exists to solve key issues, but lack of decisive public policy results in stagnation in addressing urgent global problems.                          |           5 |
+| Risks of Social and Economic Inequality   | Persistent poverty and inequality could lead to social unrest and destabilization, undermining progress towards global goals.                                 |           4 |
+| Threat of Environmental Collapse          | Exceeding planetary boundaries could result in catastrophic environmental changes detrimental to human civilization.                                          |           5 |
+| Urgency of Climate Action                 | Failure to achieve net-zero carbon emissions by 2050 threatens global temperature rise and long-term human survival.                                          |           5 |
+| Shortcomings of International Cooperation | A lack of effective collaboration among nations to address common challenges could lead to global crises worsening.                                           |           4 |
+
 ## Behaviors
 
 | name                                         | description                                                                                                            |   relevancy |

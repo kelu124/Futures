@@ -44,6 +44,16 @@ The text discusses Amazon's organizational design focused on single-threaded lea
 | Focus on Time-to-Value              | A growing emphasis on reducing the time it takes to deliver value to customers.                          | Shift from traditional metrics to prioritizing time-to-value as a key performance indicator. | In 10 years, time-to-value will be a standard metric for measuring success across industries.                              | The need to remain competitive in fast-paced markets where customer expectations are high. |           5 |
 | Hiring for Builders                 | Organizations increasingly prioritize hiring individuals with a strong focus on building and innovation. | Shift from general hiring practices to a specific focus on builders and innovators.          | In 10 years, companies may have predominantly builder-focused teams, driving continuous innovation.                        | The need for organizations to innovate rapidly and effectively in their markets.           |           4 |
 
+## Concerns
+
+| name                               | description                                                                                                    |   relevancy |
+|:-----------------------------------|:---------------------------------------------------------------------------------------------------------------|------------:|
+| Bureaucratic Drag                  | Rising layers of permission and accountability could hinder decision-making and innovation speed.              |           4 |
+| Dependency Management              | Increased organizational or technical dependencies may delay results and reduce team effectiveness.            |           4 |
+| Autonomy versus Oversight          | Balancing team autonomy with necessary oversight may be challenging, affecting ownership and innovation.       |           3 |
+| Resource Allocation                | Competing priorities may divert resources from new initiatives to established businesses, stifling innovation. |           4 |
+| Scaling Single-Threaded Leadership | Implementing single-threaded leadership might not be feasible for all organizations, especially smaller ones.  |           3 |
+
 ## Behaviors
 
 | name                          | description                                                                                                                  |   relevancy |

@@ -40,6 +40,19 @@ The article discusses emerging security threats posed by subtle text modificatio
 | AI Mitigation Strategies Enhance Model Performance | Training AI with adversarial examples may improve both robustness and accuracy of models.                 | Transition from viewing adversarial examples as purely threats to useful training materials.       | AI systems will be more resilient and accurate due to integrated adversarial training techniques.           | The need for improved AI performance drives research into adversarial training methodologies.               |           4 |
 | Rise of Logic Breaches in AI Systems               | AI systems may face new types of security breaches characterized as logic breaches.                       | Shift from traditional data breaches to logic-based vulnerabilities in AI decision-making.         | AI moderation and decision-making processes will need to evolve to counteract logic-based attacks.          | The increasing complexity of AI algorithms creates new opportunities for exploiting logical flaws.          |           4 |
 
+## Concerns
+
+| name                                      | description                                                                                                                                                |   relevancy |
+|:------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Innocuous Typos as Security Threats       | Typos in online content could evolve into vectors for attacks on AI algorithms, compromising their integrity and operational security.                     |           4 |
+| Adversarial Vulnerabilities in AI Models  | Deep learning algorithms exhibit vulnerabilities to adversarial examples, which could be weaponized for malicious purposes, posing a threat to AI systems. |           5 |
+| Manipulation of AI Content Moderation     | Paraphrasing attacks could allow malicious actors to bypass content filters in AI systems, posing risks to online safety and misinformation.               |           5 |
+| Complexity of Adversarial Attacks on Text | Creating adversarial examples for text is complex, potentially allowing sophisticated attacks that can evade detection by human users.                     |           4 |
+| Operational Risks from Automation         | Increased reliance on AI for decision-making without adequate safeguards may expose organizations to logic breaches and exploitative attacks.              |           5 |
+| Erosion of Trust in Automated Systems     | As adversarial attacks evolve, public trust in automated AI systems designed for content moderation and other functions may decline.                       |           4 |
+| Underestimation of AI Security Needs      | Companies may neglect the necessary investment in AI security, leading to a rise in vulnerabilities as technology evolves rapidly.                         |           5 |
+| Political Manipulation via AI             | Adversarial techniques may be used to influence democratic processes and incite political unrest, representing a significant ethical concern.              |           5 |
+
 ## Behaviors
 
 | name                                             | description                                                                                                            |   relevancy |

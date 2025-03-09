@@ -41,6 +41,19 @@ Voice actors are facing pressure to surrender rights to their voices for use in 
 | Consent and ongoing performance rights         | Voice actors express concerns over the lack of ongoing consent in performances.             | Change from established consent practices to potential exploitation through AI.                     | Actors may face challenges in maintaining agency over their performances and rights.               | The need for companies to streamline production processes at the expense of individual rights. |           4 |
 | Union involvement and rights protection        | Unions like SAG-AFTRA are stepping in to negotiate digital simulation rights for actors.    | Shift from individual rights to collective bargaining for voice simulation rights.                  | Stronger protection measures for voice actors may be established through union negotiations.       | The need to adapt to technological changes while safeguarding artists' rights.                 |           5 |
 
+## Concerns
+
+| name                                   | description                                                                                                                                      |   relevancy |
+|:---------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Voice Replacement by AI                | The threat of AI-generated synthetic voices replacing human voice actors, leading to job losses in the industry.                                 |           5 |
+| Lack of Consent and Compensation       | Voice actors signing contracts that permit the use of their voices for AI synthesis without additional compensation or consent.                  |           4 |
+| Erosion of Artistic Integrity          | The potential diminishing of the artistic quality and emotional depth associated with human performances due to reliance on AI-generated voices. |           5 |
+| Ambiguous Contract Clauses             | Confusing language in contracts that may lead voice actors to unknowingly surrender their rights for AI voice synthesis.                         |           4 |
+| Exploitation of Non-Union Voice Actors | Non-union actors may be more susceptible to exploitative practices regarding voice replication without fair compensation.                        |           4 |
+| Industry Inequality                    | Growing disparity in job security and remuneration between lower-class voice actors and higher-profile talent due to AI.                         |           4 |
+| Privacy Violations                     | The potential for voices to be synthesized or cloned without the person's knowledge or consent, violating privacy rights.                        |           5 |
+| Responses from Advocacy Organizations  | Increasing need for advocacy groups to safeguard voice actors' rights and interests as AI technology evolves.                                    |           3 |
+
 ## Behaviors
 
 | name                            | description                                                                                                                                                    |   relevancy |

@@ -42,6 +42,17 @@ The UK government will publish a public register of artificial intelligence (AI)
 | Campaigns for Fair AI Use         | Organizations like PLP actively campaign for fair and non-discriminatory AI practices. | A move towards accountability and fairness in the deployment of AI in government services.             | In a decade, campaigns may lead to established norms for fairness and non-discrimination in AI.          | Public advocacy for justice and equality is pushing for reform in AI usage.                    |           4 |
 | Limited AI Transparency Records   | Only a few AI models have been documented in the public transparency repository.       | Shift from underreporting AI tools to comprehensive documentation of all AI systems used.              | In ten years, comprehensive public records of AI tools may be standard practice for all organizations.   | Demand for transparency and accountability in AI systems is increasing among stakeholders.     |           3 |
 
+## Concerns
+
+| name                                               | description                                                                                                                                        |   relevancy |
+|:---------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Bias in AI algorithms                              | AI tools used in government may contain entrenched racism and bias, affecting decision-making processes like visa applications and benefit claims. |           5 |
+| Lack of transparency in deployment of AI           | There has been insufficient transparency on the existence and usage of AI systems in government, raising concerns over accountability.             |           4 |
+| Potential for racial discrimination                | Certain nationalities may be unfairly targeted by algorithmic decisions, leading to discrimination in visa processing and investigations.          |           5 |
+| Insufficient regulation of AI use in public sector | The slow progress in publishing AI usage records may lead to unchecked biases and misuse of technology in government services.                     |           4 |
+| Inadequate human oversight in AI implementation    | While AI technology has potential benefits, lack of proper human oversight could lead to harmful consequences in decision-making.                  |           4 |
+| Challenges in accountability for AI decisions      | Government departments are resistant to disclose operational details of AI tools which can hinder accountability and trust.                        |           5 |
+
 ## Behaviors
 
 | name                                           | description                                                                                                                                    |   relevancy |

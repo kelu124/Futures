@@ -43,6 +43,17 @@ This text discusses the Fundamental Process to Generate Living Systems, based on
 | Integration of Generative Processes in Business  | Adoption of generative processes in organizational workflows and structures. | From static organizational frameworks to adaptive, evolving business practices.                      | Companies will prioritize flexibility and responsiveness, enhancing innovation and employee engagement.             | The need for businesses to adapt rapidly to changing market conditions and consumer needs.              |           3 |
 | Cultural Shift Towards Process-Oriented Thinking | A growing cultural preference for process over definitive outcomes.          | From fixed, planned outcomes to embracing uncertainty and adaptability in projects.                  | Society will increasingly value iterative processes, embracing experimentation in various fields.                   | The realization that adaptability and responsiveness lead to more successful outcomes.                  |           4 |
 
+## Concerns
+
+| name                                | description                                                                                                                                          |   relevancy |
+|:------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Neglect of Generative Processes     | Modern society often ignores the generative processes essential for creating lively environments, leading to sterile designs.                        |           5 |
+| Impact of Strict Regulations        | Current regulations and bureaucracies inhibit adaptive modifications, making it difficult to implement living processes in constructions and cities. |           4 |
+| Loss of Cultural Knowledge          | The traditional knowledge of generative processes and wholeness is fading, leading to a lack of lively structures and environments.                  |           5 |
+| Remote Ownership Issues             | Remote ownership prevents communities from engaging in processes that strengthen their living environments, stifling development and life.           |           4 |
+| Diminished Public Involvement       | Public perceptions of planning focus on fixed outcomes, reducing community engagement in continuous environmental improvement.                       |           4 |
+| Economic Constraints on Development | Modern economic models favor rapid, uniform construction, hindering complex, living process development seen in traditional societies.               |           4 |
+
 ## Behaviors
 
 | name                              | description                                                                                                 |   relevancy |

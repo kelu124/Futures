@@ -40,6 +40,17 @@ Recent research challenges the perception that individuals with the most connect
 | The Role of Betweenness                 | Betweenness centrality becomes a key factor in understanding influence.     | Recognition that being strategically placed in a network is more important than sheer connectivity.     | Future influence strategies will focus on enhancing betweenness rather than just increasing connections.   | The realization that influence is nuanced and dependent on network topology.                    |           5 |
 | Influence as a Filter and Amplifier     | Individuals act as conduits for ideas rather than just information sources. | Shift from viewing individuals as mere information sources to seeing them as filters and amplifiers.    | Social dynamics will emphasize the role of individuals as curators of information across networks.         | The increasing complexity of information and the need for effective curation in digital spaces. |           4 |
 
+## Concerns
+
+| name                            | description                                                                                                                                                                |   relevancy |
+|:--------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Misinterpretation of Influence  | The reliance on traditional metrics of influence, like follower count, could lead to ineffective strategies for information dissemination and public health measures.      |           4 |
+| Vulnerability to Misinformation | Individuals with high betweenness who act as conduits may also spread misinformation, amplifying false narratives across social networks.                                  |           5 |
+| Overlooking Non-Hub Influencers | The tendency to focus on hub individuals may cause the neglect of strategically positioned influencers who could effectively disseminate information within core networks. |           4 |
+| Public Health Risks             | Misjudgment of influential spreaders might exacerbate the spread of viruses and diseases, especially in pandemics where network dynamics are crucial.                      |           5 |
+| Network Analysis Limitations    | Current tools and metrics used for measuring influence may not adequately capture the complex dynamics of social networks, leading to misguided decisions.                 |           4 |
+| Social Fragmentation            | Overemphasis on connections may lead to social fragmentation, where communities become isolated rather than interconnected, reducing overall influence.                    |           3 |
+
 ## Behaviors
 
 | name                                   | description                                                                                                                       |   relevancy |

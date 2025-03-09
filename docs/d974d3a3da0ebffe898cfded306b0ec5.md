@@ -42,6 +42,18 @@ The article discusses the relevance of generalists in the age of AI, countering 
 | Wicked Problems vs. Kind Problems | Increased focus on 'wicked' domains where generalists excel.                         | A transition from valuing specialized knowledge to appreciating adaptive problem-solving. | Industries will increasingly seek professionals who can navigate complex challenges.       | The complexity of modern problems that require holistic approaches.                   |           5 |
 | AI in Workforce Dynamics          | AI creates divisions between those who can leverage technology and those who cannot. | From a balanced skill set workforce to a polarized one based on AI proficiency.           | Workforce dynamics will be defined by the ability to use AI effectively across fields.     | The growing importance of technology in everyday problem-solving and decision-making. |           4 |
 
+## Concerns
+
+| name                                             | description                                                                                                                    |   relevancy |
+|:-------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Risk of Generalists Being Undervalued            | As AI automates specialized skills, generalists may struggle to prove their value in a world favoring deep expertise.          |           4 |
+| Dependency on AI for Knowledge Acquisition       | Over-reliance on AI tools might inhibit deep learning and critical thinking skills among generalists.                          |           4 |
+| Inequality in Knowledge Access                   | The gap between those who can leverage AI effectively and those who cannot may exacerbate social inequality.                   |           5 |
+| Loss of Diverse Problem-Solving Approaches       | As generalists rely more on AI, unique insights from diverse experiences might decrease in importance.                         |           3 |
+| Cultural Shift Away from Specialization          | The trend towards generalism may challenge traditional education and career paths, leading to potential societal unrest.       |           3 |
+| Widening Gap Between Generalists and Specialists | Experts may face difficulties adapting to changes AI brings to their fields, leading to a divide in professional adaptability. |           4 |
+| Challenge of Maintaining Adaptability            | As roles become more tailored, individuals may struggle to remain adaptable and versatile as environments rapidly change.      |           4 |
+
 ## Behaviors
 
 | name                          | description                                                                                                                                  |   relevancy |

@@ -42,6 +42,18 @@ Tens of thousands protested against the far right in Germany, with slogans like 
 | Calls for Political Bans       | Discussions about banning the AfD are becoming more prevalent in political circles. | From passive acceptance of the AfD to active discussions about its restriction.      | In 10 years, political strategies may include more rigorous measures against extremist parties.         | A reaction to the perceived threat of fascism and extremism in the political landscape.               |           4 |
 | Demographic Shifts in Protests | Protests are not limited to major cities but are spreading to smaller towns.        | From urban-centric protests to a more nationwide grassroots movement.                | In 10 years, this could lead to a more unified national stance against extremism.                       | A collective concern for democratic values and human rights across diverse populations.               |           4 |
 
+## Concerns
+
+| name                                        | description                                                                                                                                                         |   relevancy |
+|:--------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Rise of Far-Right Extremism                 | Increasing support for the far-right AfD party in Germany poses a threat to democracy and social stability.                                                         |           5 |
+| Potential Deportation Plans                 | Discussions among far-right groups about deporting millions, including citizens, raise concerns about human rights violations.                                      |           5 |
+| Public Safety during Protests               | The mass protests, while expressing dissent, also raise safety concerns due to large crowds leading to possible chaos or violence.                                  |           4 |
+| Political Polarization                      | Growing divisions within German society regarding the AfD's rise could result in heightened tensions and conflict.                                                  |           4 |
+| Misuse of Political Processes for Extremism | The potential ban on the AfD could be used by the party to gain sympathy and portray themselves as victims, complicating political discourse.                       |           4 |
+| Civic Engagement and Mobilization           | The protests reflect a mobilization of citizens against extremism, indicating a shift in public engagement, which could either strengthen or destabilize democracy. |           3 |
+| Influence of External Extremist Groups      | The involvement of international far-right movements in German politics may further complicate domestic issues and extremism.                                       |           3 |
+
 ## Behaviors
 
 | name                                           | description                                                                                                                                          |   relevancy |

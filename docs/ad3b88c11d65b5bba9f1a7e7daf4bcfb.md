@@ -43,6 +43,21 @@ On February 1, 2025, a coup led by media mogul Elon Musk resulted in his ascensi
 | Militarization of Politics             | Military forces are used for political repression under Trump's orders.                     | Shift from civilian oversight to military involvement in governance.                 | Potential increase in military coups and authoritarian governance globally.                      | Perception of the military as a tool for political power rather than national defense.                      |           4 |
 | Economic Instability from Trade Wars   | Immediate trade wars initiated by the regime threaten economic stability.                   | From stable economic partnerships to volatile trade relations.                       | Possible long-term economic crises resulting from isolationist policies.                         | Populist agendas leading to protectionist policies that disrupt global trade.                               |           4 |
 
+## Concerns
+
+| name                              | description                                                                                                                                      |   relevancy |
+|:----------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Erosion of Democracy              | The swift takeover of government functions by Musk's junta undermines the democratic system and poses a severe threat to rule of law.            |           5 |
+| Political Purges                  | Mass ousting of officials loyal to the previous regime raises concerns about political loyalty overriding meritocratic governance.               |           4 |
+| Far-Right Militia Mobilization    | The rise of far-right paramilitary forces poses risks for civil rights and public safety as they target racial and ethnic minorities.            |           5 |
+| Government Corruption and Bribery | The normalization of bribery among business oligarchs undermines government integrity and the public trust in democratic institutions.           |           4 |
+| Environmental Catastrophe         | Military orders leading to environmental disasters raise concerns about the militarization of policy and lack of accountability.                 |           4 |
+| Economic Instability              | Trade wars and irresponsible economic policies threaten to destabilize the economy and disrupt global supply chains.                             |           5 |
+| Suppression of Media              | Barriers to independent media hinder free press and suppress dissenting voices, central to a democratic society.                                 |           5 |
+| Racial and Ethnic Violence        | State-sanctioned violence against minorities could lead to widespread civil unrest and societal fragmentation.                                   |           5 |
+| International Relations Crisis    | Destabilizing rhetoric and aggressive policies may alienate foreign allies and lead to international conflicts.                                  |           4 |
+| Institutional Failure             | The lack of objection from parliamentary leaders signifies a crisis of governance and accountability, threatening the integrity of institutions. |           4 |
+
 ## Behaviors
 
 | name                        | description                                                                                                                                         |   relevancy |

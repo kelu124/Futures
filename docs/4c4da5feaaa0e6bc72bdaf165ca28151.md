@@ -42,6 +42,19 @@ The USS Yorktown incident on September 21, 1997, serves as a critical case study
 | Evolution of programming practices                    | The necessity for modern programming practices like exception handling is highlighted by the incident.             | From less rigorous programming practices to a need for stringent validation and error handling. | Software development will increasingly prioritize robust error handling and input validation to enhance reliability. | The urgency for system reliability in critical applications drives evolution in programming methodologies. |           4 |
 | Impact of legacy systems on modernization             | Challenges of retrofitting legacy systems with new technology demonstrated in the Smart Ship program.              | From reliance on older technologies to integrating new systems with existing infrastructure.    | Future military projects may prioritize compatibility and adaptability of new technologies with legacy systems.      | The need for modernization while managing costs and operational readiness drives this change.              |           5 |
 
+## Concerns
+
+| name                                                         | description                                                                                                                                             |   relevancy |
+|:-------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Reliance on Inadequate Software Architecture                 | The incident illustrates potential vulnerabilities in using outdated or poorly designed software architectures in critical systems like military ships. |           5 |
+| Human Error Amplifying System Failures                       | The event highlights how human errors, especially in software input and calibration, can trigger catastrophic failures in technology-dependent systems. |           4 |
+| Organizational Pressure in Technological Adoption            | Intense organizational and political pressure can lead to hasty decisions in technology adoption, affecting system reliability and safety.              |           4 |
+| Insufficient Testing and Development Time                    | Rushing software development and testing for critical systems can result in failures due to unaddressed issues and vulnerabilities.                     |           5 |
+| Dependency on Single Points of Failure                       | The Yorktown incident exemplifies the risks associated with systems that do not incorporate redundancy and fault tolerance.                             |           5 |
+| Data Validation Gaps in Software Applications                | Inadequate input data validation can lead to significant software vulnerabilities and system failures, as seen in the divide-by-zero error.             |           4 |
+| Failure to Adapt to Modern Software Practices                | Slow adaptation to modern programming practices such as exception handling can lead to avoidable system crashes.                                        |           4 |
+| Inadequate Integration of New Technologies in Legacy Systems | Challenges in integrating modern technologies into older legacy systems can result in increased failure risks due to incompatibilities.                 |           4 |
+
 ## Behaviors
 
 | name                                   | description                                                                                                                                   |   relevancy |

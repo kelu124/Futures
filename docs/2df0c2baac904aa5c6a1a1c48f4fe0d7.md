@@ -40,6 +40,17 @@ John Cage's 4'33" is a controversial composition scored for any instrument, wher
 | Rethinking audience engagement         | Cage's work shifts focus from performer to audience experience and their interpretation of sounds. | A change from passive listening to active participation and awareness of surroundings.           | Audiences may seek out immersive experiences, reshaping concert formats and venues.             | Evolving expectations for engagement and participatory experiences in art and music.            |           4 |
 | Exploration of environmental sounds    | Cage's emphasis on ambient noise reflects a growing interest in environmental soundscapes.         | A shift from controlled sound environments to embracing natural and urban soundscapes.           | Sound art may increasingly incorporate elements of nature and urban life as musical components. | Growing environmental awareness and interest in sustainability influencing artistic expression. |           3 |
 
+## Concerns
+
+| name                           | description                                                                                                                             |   relevancy |
+|:-------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Misinterpretation of silence   | Cage's work challenges perceptions of silence, potentially leading to misunderstanding of listening and sound in society.               |           4 |
+| Cultural backlash against art  | The shock and anger during the premiere indicate a risk of cultural resistance to unconventional artistic expressions.                  |           3 |
+| Commercialization of art       | Cage's criticism of Muzak reflects concerns about the commodification and intrusion of art in public spaces.                            |           4 |
+| Norms in artistic performance  | 4'33" can create a conflict between traditional performance expectations and new interpretations of art.                                |           5 |
+| Isolation of artistic intent   | Cage's philosophy may lead to isolation among artists regarding the intent and purpose of their work, complicating audience engagement. |           3 |
+| Misunderstanding of art's role | The varied reception of 4'33" illustrates a gap in understanding contemporary art's evolving role in society.                           |           4 |
+
 ## Behaviors
 
 | name                                  | description                                                                                                                                     |   relevancy |

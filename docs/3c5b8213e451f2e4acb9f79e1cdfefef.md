@@ -41,6 +41,16 @@ The article explores the demographics of Middle-earth as analyzed by Emil Johans
 | Cultural Interpretation of Fantasy Races | The portrayal and cultural background of races like Dwarves and Orcs in Tolkien's works is complex and varied. | Evolving understanding from simplistic portrayals of fantasy races to more nuanced cultural explorations.  | Future fantasy literature may delve deeper into cultural dynamics and histories of various races.             | A shift towards more in-depth character and world-building in fantasy storytelling.    |           4 |
 | Character Mapping and Journeys           | Johanssen's mapping of characters' journeys in Middle-earth highlights narrative structure.                    | Transition from passive reading to interactive engagement with character journeys in literature.           | Readers may engage with narratives through interactive maps and visual storytelling elements.                 | Technological integration in literature enhancing reader experience and interaction.   |           3 |
 
+## Concerns
+
+| name                                   | description                                                                                                                                                |   relevancy |
+|:---------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Gender Imbalance                       | Middle-earth's population is heavily male-dominated, leading to concerns about representation and gender roles in fantasy narratives.                      |           4 |
+| Incomplete Demographic Data            | The lack of complete census data for races in Middle-earth may reflect broader issues of representation and historical biases in literature.               |           3 |
+| Cultural Misrepresentation             | The portrayal of female characters, especially among Dwarves and Orcs, raises concerns about female invisibility and cultural stereotypes in fantasy lore. |           4 |
+| Population Decline in Fantasy Races    | The narrative suggests that some races in Middle-earth are dwindling fast, highlighting issues of survival and cultural extinction in fantasy worlds.      |           3 |
+| Historical Bias in Character Lifespans | Variations in character lifespans may reflect underlying biases and stereotypes about different races or classes within the story.                         |           2 |
+
 ## Behaviors
 
 | name                                        | description                                                                                                                                        |   relevancy |

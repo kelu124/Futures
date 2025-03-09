@@ -42,6 +42,21 @@ The construction industry is set to undergo significant changes by 2025, driven 
 | Emergence of Modular Construction        | Modular construction is gaining traction as a method for efficiency and sustainability.            | Transition from on-site traditional construction to off-site modular building techniques.            | In 2035, modular construction will dominate the industry, significantly reducing construction time and costs.           | The need for affordable housing and infrastructure development drives the adoption of modular approaches.    |           4 |
 | Connected Construction Sites             | The integration of devices and sensors for real-time data sharing is increasing.                   | Shift from isolated construction practices to connected, data-driven project management.             | By 2035, all construction sites will operate as connected ecosystems, enhancing collaboration and safety.               | The demand for real-time insights and efficiency in construction management drives connectivity.             |           3 |
 
+## Concerns
+
+| name                     | description                                                                                                                                   |   relevancy |
+|:-------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Labor Shortage           | The construction sector is suffering from a skilled labor shortage, risking project delays and increased costs.                               |           5 |
+| Supply Chain Disruptions | Ongoing supply chain issues affecting material availability and project timelines, exacerbated by geopolitical tensions and increased demand. |           4 |
+| Safety Risks             | Despite technological advancements, the construction industry remains prone to accidents, necessitating improved safety measures.             |           5 |
+| Environmental Impact     | The urgency to implement sustainable practices in construction to minimize ecological footprint amid rising regulations.                      |           4 |
+| Technological Dependence | Increased reliance on digital technologies may lead to vulnerabilities if systems fail or are compromised.                                    |           4 |
+| Material Costs           | Continued rising costs of construction materials could strain budgets and project viability.                                                  |           5 |
+| Regulatory Compliance    | Complexity in navigating building codes and regulations, especially with the introduction of new technologies.                                |           4 |
+| Quality Control          | As construction technology evolves, maintaining quality amid automation and offsite construction methods remains a concern.                   |           4 |
+| Inadequate Training      | With the rise of new technologies, insufficient training may hinder worker efficiency and safety.                                             |           3 |
+| Public Perception        | Negative public perception about construction practices and safety could impact industry growth and job recruitment.                          |           3 |
+
 ## Behaviors
 
 | name                                               | description                                                                                                                                     |   relevancy |

@@ -45,6 +45,19 @@ In March 2028, a Taiwanese analyst revealed satellite images of Chinese military
 | Chinese Diplomatic Maneuvers             | China engages in diplomatic efforts to downplay invasion plans while building military presence. | China is transitioning from diplomatic negotiation to military action under the guise of peace.        | This could lead to a re-evaluation of international relationships and alliances regarding China.           | China's strategic goal of unifying Taiwan under its control, regardless of international opinion. |           4 |
 | Increased Military Technology Dependence | China's military modernization includes acquiring foreign technology for domestic use.           | China is shifting from reliance on foreign military technology to domestic production capabilities.    | This may lead to a more self-sufficient Chinese military, increasing its strategic autonomy.               | Desire for military independence and technological advancement.                                   |           3 |
 
+## Concerns
+
+| name                                      | description                                                                                                                                             |   relevancy |
+|:------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Military Tensions in the Taiwan Strait    | Increasing military buildups and strategies indicate a potential for conflict between China and Taiwan, raising concerns about regional instability.    |           5 |
+| Global Economic Impacts of War            | A military confrontation could disrupt global trade, particularly in technology and semiconductors, impacting economies worldwide.                      |           5 |
+| Cybersecurity Threats                     | Potential cyberattacks from China could target critical U.S. infrastructure, leading to widespread disruptions.                                         |           4 |
+| Humanitarian Crisis                       | An invasion could lead to humanitarian disasters in Taiwan, creating refugee crises and international responses.                                        |           4 |
+| Nuclear Escalation Risks                  | The possibility of nuclear powers engaging in conflict raises existential risks for global security.                                                    |           5 |
+| Political Manipulation and Misinformation | China's potential manipulation of narratives during conflict might influence global public opinion and diplomatic responses.                            |           4 |
+| Taiwan's Political Climate                | Recent political shifts in Taiwan could escalate tensions with China as leadership is more pro-independence, provoking aggressive stances from Beijing. |           4 |
+| Geopolitical Alliances and Responses      | The response of the U.S. and its allies to a potential invasion could shift geopolitical alliances and provoke further conflicts.                       |           5 |
+
 ## Behaviors
 
 | name                                           | description                                                                                                                                                                                 |   relevancy |

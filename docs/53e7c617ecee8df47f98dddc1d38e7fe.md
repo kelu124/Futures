@@ -40,6 +40,16 @@ United Airlines has expedited its partnership with Starlink to provide in-flight
 | Streaming and Gaming Demand on Flights      | High bandwidth from Starlink enables streaming and gaming during flights.             | From limited media consumption options to full access to streaming services and online games.          | In 10 years, in-flight entertainment may mirror home options, changing how passengers plan their activities.                 | The rising culture of streaming and gaming among consumers, even during travel.                          |           5 |
 | Partnerships and Collaborations in Aviation | Starlink's service may lead to new partnerships for United Airlines.                  | From traditional airline services to innovative collaborations enhancing customer experiences.         | Airlines could form diverse partnerships to offer unique services, reshaping the travel ecosystem.                           | The drive for airlines to differentiate themselves in a competitive market through innovative services.  |           4 |
 
+## Concerns
+
+| name                                 | description                                                                                                                                         |   relevancy |
+|:-------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Data Privacy and Security Risks      | The introduction of in-flight internet access raises concerns about the security of personal data and privacy of passengers.                        |           4 |
+| Increased Distraction During Flights | With high-speed internet access, the potential for distractions during flights could lead to safety hazards or decreased passenger engagement.      |           3 |
+| Equity in Access to Services         | The free Wi-Fi for MileagePlus members may create disparities between members and non-members, raising concerns about equitable access to services. |           3 |
+| Overdependence on Technology         | Passengers may become overly reliant on technology for entertainment and communication, affecting their ability to disconnect during flights.       |           3 |
+| Impact on Flight Operations          | Rapid installation and integration of new technology could introduce operational challenges or malfunctions impacting flight safety.                |           4 |
+
 ## Behaviors
 
 | name                                     | description                                                                                                                                    |   relevancy |

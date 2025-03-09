@@ -43,6 +43,20 @@ The text discusses the evolving challenges of climate change and its impact on h
 | Climate-Driven Economic Changes | Economic activities are being influenced by climate change, such as shifts to renewable energy.    | From fossil fuel dependency to a growing emphasis on sustainable and renewable energy sources.           | In ten years, economies may largely pivot to green technologies and sustainable practices.                    | The urgent need to mitigate climate impacts driving investment in sustainable solutions.              |           5 |
 | Emerging Climate Refugees       | Indigenous communities are increasingly becoming climate refugees due to environmental changes.    | From stable living conditions to forced displacement and loss of traditional lands.                      | In a decade, climate refugees may become a significant demographic, influencing policy and social structures. | Severe climate events and habitat destruction impacting vulnerable populations.                       |           5 |
 
+## Concerns
+
+| name                                     | description                                                                                                                                |   relevancy |
+|:-----------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Inhabitable Zones                        | Rapid climate change making many Earth locations uninhabitable, causing mass displacement and existential concerns for future generations. |           5 |
+| Mental Health Impacts of Climate Anxiety | Increasing anxiety over climate change and questions about future family stability leading to a collective mental health crisis.           |           4 |
+| Resilience of Social Trust               | Decreasing social trust amid climate disasters complicating collective action and localized responses to crises.                           |           4 |
+| Fossil Fuel Dependency in Policy         | Political movements promoting fossil fuel development threaten climate progress and perpetuate environmental degradation.                  |           5 |
+| Food Security Risks                      | Localized agricultural systems at risk due to climate change impacts, threatening food security and livelihood.                            |           4 |
+| Emergence of New Diseases                | Climate change potentially facilitating the spread of diseases due to changing environmental conditions.                                   |           4 |
+| Water Scarcity due to AI Infrastructure  | High water demands for cooling AI server farms, particularly in arid regions, could lead to significant local water crises.                |           4 |
+| Indigenous Rights and Climate Refugees   | Indigenous communities facing displacement from traditional lands due to climate change impacts, threatening cultural heritage.            |           5 |
+| Increase in Extreme Weather Events       | Turbulence in air travel due to climate change impacts, complicating travel safety and logistics.                                          |           3 |
+
 ## Behaviors
 
 | name                                           | description                                                                                                                                                          |   relevancy |

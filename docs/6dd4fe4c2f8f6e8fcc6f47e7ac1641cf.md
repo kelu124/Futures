@@ -42,6 +42,18 @@ Recent concerns have emerged regarding the misuse of AI chatbots like ChatGPT in
 | Increase in AI-generated Visuals           | Use of AI to create diagrams and illustrations in research papers.             | Transition from human-created visuals to AI-generated content in publications.       | Visual content in scientific papers may largely be produced by AI, altering design norms.        | Need for quick and effective visual representation in research dissemination.    |           3 |
 | Over-reliance on AI for Writing Assistance | Researchers using AI for grammar and syntax, risking misuse in research.       | Shifting from human editing to AI assistance in scientific writing.                  | Editing processes may become dominated by AI tools, potentially compromising quality.            | Pressure on researchers to produce high-quality manuscripts quickly.             |           4 |
 
+## Concerns
+
+| name                                | description                                                                                                                   |   relevancy |
+|:------------------------------------|:------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Misuse of AI in Scientific Research | Research papers may increasingly be based on AI-generated text, undermining the integrity of scientific literature.           |           5 |
+| Inaccuracy due to AI Hallucination  | AI-generated content can fabricate references or facts, jeopardizing the credibility of scientific findings.                  |           5 |
+| Detection Challenges                | Automated text detectors are unreliable, making it difficult to identify AI involvement in research papers.                   |           4 |
+| Increased Use of AI Terminology     | The rising frequency of specific terms in scientific papers may indicate reliance on AI writing, diluting academic rigor.     |           4 |
+| AI in Peer Review Process           | There is a risk that AI may influence peer review, leading to biased or unqualified evaluations of research.                  |           4 |
+| Automation of Scientific Processes  | Using AI for various academic tasks may lead to complete reliance on flawed technologies, compromising the scientific method. |           5 |
+| Ethical Concerns in Publishing      | The potential for AI-generated errors raises questions about the ethical standards of publishing practices in academia.       |           5 |
+
 ## Behaviors
 
 | name                            | description                                                                                                                               |   relevancy |

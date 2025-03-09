@@ -41,6 +41,16 @@ Google has announced that it will discontinue its Jamboard product, a $5,000 dig
 | Shift to Cost-Effective Solutions | High costs of Jamboard ownership signal a market shift towards more affordable collaboration tools.               | Changing from high-investment hardware solutions to lower-cost, scalable software options.             | Collaboration technology in the future may focus on affordability and accessibility for all users.                | Economic pressures on businesses and educational institutions to manage budgets effectively.               |           4 |
 | Customer Migration to Competitors | Google's recommendation of competitor products for Jamboard users indicates a shift in market dynamics.           | Transitioning from brand loyalty to exploring competitive alternatives in digital collaboration.       | The market may see a diverse range of collaboration tools as users seek better options post-Jamboard.             | Increased competition and the need for businesses to adapt to changing technology landscapes.              |           3 |
 
+## Concerns
+
+| name                                        | description                                                                                                                     |   relevancy |
+|:--------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Product Lifecycle Uncertainty               | The abrupt discontinuation of Google Jamboard raises concerns about the longevity and sustainability of tech products.          |           4 |
+| Data Accessibility and Migration Challenges | Users may face obstacles in accessing or migrating their data after the discontinuation of Jamboard and its cloud services.     |           5 |
+| Impact on Educational Institutions          | Schools reliant on Jamboard face significant financial losses and operational disruptions due to the product's discontinuation. |           5 |
+| Vendor Lock-in Risks                        | Users may experience increased dependency on third-party platforms for migration, impacting their operational flexibility.      |           3 |
+| Financial Burden for Users                  | The high cost of initial investment combined with ongoing fees may create a financial strain for customers.                     |           4 |
+
 ## Behaviors
 
 | name                                   | description                                                                                                                                                                   |   relevancy |

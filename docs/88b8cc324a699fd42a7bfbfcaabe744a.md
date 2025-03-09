@@ -47,6 +47,17 @@ Gustav Theodor Fechner was a pioneer in the idea that plants possess consciousne
 | Revival of Panpsychism                               | Fechner's panpsychism suggests all matter has a form of consciousness, gaining renewed attention today. | Rejection of reductive materialism in favor of a holistic view of consciousness in all beings.         | Panpsychism may gain traction, influencing scientific and philosophical discourse on consciousness.                 | Desire for a more integrated understanding of consciousness beyond human and animal frameworks.            |           4 |
 | Plant-Blindness Phenomenon                           | The notion that humans largely overlook plants in their environment, affecting ecological awareness.    | From neglect and ignorance of plant life to a recognition of their importance in ecosystems.           | Increased awareness of plant life could lead to greater conservation efforts and ecological ethics.                 | Emerging ecological crises prompting a reevaluation of humanity's relationship with nature.                |           4 |
 
+## Concerns
+
+| name                                               | description                                                                                                                                                 |   relevancy |
+|:---------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Plant Sentience Recognition                        | The challenge of acknowledging plant consciousness could lead to neglect in environmental stewardship and biodiversity efforts.                             |           4 |
+| Soul-Blindness                                     | A pervasive skepticism about consciousness may result in disconnection from nature, causing ecological apathy.                                              |           5 |
+| Criticism of Innovative Ideas in Science           | Resistance to the exploration of plant consciousness in scientific discourse might hinder progress and funding for important ecological research.           |           4 |
+| Impact of Modern Crises on Environmental Awareness | Current global crises could overshadow the urgency of recognizing plant sentience and ecological balance, leading to further environmental degradation.     |           5 |
+| Reducing the Scope of Consciousness Understanding  | The current materialistic view of consciousness could limit acceptance of diverse forms of intelligence in non-animal life, impacting conservation efforts. |           4 |
+| Crisis of Scepticism                               | Scepticism may prevent society from acknowledging the interconnectedness of life, hampering efforts toward understanding and preserving the environment.    |           5 |
+
 ## Behaviors
 
 | name                                                    | description                                                                                                                       |   relevancy |

@@ -39,6 +39,17 @@ In 1965, U.S. Secretary of Labor W. Willard Wirtz initiated a program called A-T
 | Labor Rights Awareness                            | The A-TEAM program highlighted issues of labor rights and working conditions in agriculture.          | Increased scrutiny of labor practices and push for better conditions for all workers.    | Labor rights movements may gain momentum, leading to legislative changes in worker protections.           | Social justice movements advocating for equitable treatment of all workers.                     |           5 |
 | Cultural Narratives Around Work Ethic             | The narrative that immigrants lack a work ethic contradicted by firsthand experiences of youth.       | Shift from negative stereotypes of immigrant laborers to recognition of their hard work. | Cultural narratives may evolve to honor the contributions of all workers, including immigrants.           | Firsthand experiences and storytelling reshaping public perceptions of labor.                   |           4 |
 
+## Concerns
+
+| name                                      | description                                                                                                                                                                |   relevancy |
+|:------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Labor Rights Violations                   | Historical context shows that migrant workers faced exploitation and poor working conditions, raising concerns about ongoing labor rights issues.                          |           5 |
+| Economic Impact of Labor Shortages        | The reliance on migrant labor raises concerns about the economic implications of labor shortages when programs like Bracero end.                                           |           4 |
+| Unintended Consequences of Policy Changes | Attempts to replace migrant workers with high school students led to a failure due to misjudgment of work conditions, highlighting potential pitfalls of similar policies. |           4 |
+| Youth Engagement in Unsuitable Jobs       | Requiring teenagers to take on difficult agricultural work rather than suitable summer jobs raises concerns about youth engagement and exploitation.                       |           3 |
+| Perception of Immigrant Workers           | Negative perceptions of migrant workers as 'lazy' conflict with firsthand experiences of those who have worked in similar conditions, highlighting cultural biases.        |           4 |
+| Mental and Physical Health Risks          | The extreme conditions faced by laborers raised concerns about the mental and physical health risks associated with such work environments.                                |           4 |
+
 ## Behaviors
 
 | name                                          | description                                                                                                                                        |   relevancy |

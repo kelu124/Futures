@@ -38,6 +38,19 @@ The article explores the cultural and historical reasons behind the unique tunin
 | Cultural Sound Preferences               | Distinct sound preferences based on cultural experiences and upbringing.                | From unique regional sound signatures to more harmonized global audio preferences.         | Emergence of a more standardized global audio preference among consumers.                | Global connectivity and cultural exchange influencing sound preferences.                    |           3 |
 | Emergence of New Audiophile Demographics | Younger generations of audiophiles shape the future of audio preferences.               | Shift from traditional audio perspectives to modern, diverse sound appreciation.           | A more inclusive audiophile community valuing varied sound experiences and preferences.  | New generations with different cultural and socioeconomic backgrounds influencing trends.   |           4 |
 
+## Concerns
+
+| name                                         | description                                                                                                                                  |   relevancy |
+|:---------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Cultural Disconnect in Audio Tuning          | Different cultural backgrounds affect perceptions of audio quality, making it hard to bridge tuning preferences between East and West.       |           4 |
+| Resistance to Change in Chi-Fi Manufacturing | Chi-Fi manufacturers prioritize domestic market preferences, which impedes the adoption of tuning that aligns with international standards.  |           5 |
+| Historical Influence on Sound Preferences    | Decades of limited exposure to diverse audio experiences shape current sound preferences in Mainland China, creating a challenge for tuners. |           4 |
+| Market Influence Discrepancy                 | Western markets, though less prioritized, hold significant influence on global audio purchasing decisions, creating a complex dynamic.       |           5 |
+| Quality vs. Cultural Preference Struggle     | The struggle between achieving high-quality sound and catering to cultural preferences may compromise audio experiences.                     |           4 |
+| Gradual Improvement in Chi-Fi Products       | The growing wealth and exposure to global audio standards may lead to gradual improvements in Chi-Fi products, but discrepancies remain.     |           3 |
+| Generational Wealth Disparities              | Economic disparities create differing generations with varying sound preferences, influencing market trends and production decisions.        |           4 |
+| Ethnic Diversity in Sound Preferences        | Sichuan's ethnic diversity highlights unique regional sound preferences that may further complicate standardization in audio tuning.         |           3 |
+
 ## Behaviors
 
 | name                                     | description                                                                                                                                                                     |   relevancy |

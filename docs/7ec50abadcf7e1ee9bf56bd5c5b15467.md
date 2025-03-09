@@ -43,6 +43,18 @@ The recent murder of UnitedHealthcare CEO Brian Thompson has prompted major heal
 | Increased Scrutiny of Claims Denial Rates | Public awareness of high claims denial rates is rising, leading to industry scrutiny.                 | From unchallenged practices to public pressure for transparency and accountability.                        | In ten years, insurers may face strict regulations regarding claims processing and denial transparency.              | Demand for transparency and accountability in healthcare drives scrutiny of denial rates.          |           4 |
 | Public Misinformation and Backlash        | Misinformation on social media influences public perception and policy decisions in healthcare.       | Shifting from informed public discourse to a landscape rife with misinformation affecting decision-making. | In ten years, misinformation may lead to widespread distrust in health systems and policies.                         | The rapid spread of information and misinformation online influences public sentiment and actions. |           4 |
 
+## Concerns
+
+| name                                                | description                                                                                                                                                          |   relevancy |
+|:----------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Increased Violence Against Health Executives        | The assassination of an executive may signify a growing trend of violence against healthcare leaders, raising security concerns.                                     |           4 |
+| Online Harassment and Threats                       | Growing social media hostility and threats directed toward healthcare executives could escalate further, making leadership roles highly risky.                       |           4 |
+| Public Misinformation                               | The spread of misinformation regarding healthcare policies can incite public outrage and aggressive reactions, impacting the industry's stability.                   |           4 |
+| Lack of Transparency in Health Insurance Practices  | High denial rates and the opacity of insurance providers might lead to increased frustration among consumers, individuals potentially acting out violently.          |           5 |
+| Corporate Governance and Security Measures          | The removal of executive information from websites indicates a shift towards heightened security protocols, which might impact transparency in corporate governance. |           3 |
+| Psychological Impact of Leadership Loss             | The murder of a prominent leader could generate fear and anxiety among employees, affecting morale and productivity within the organization.                         |           3 |
+| Societal Polarization Surrounding Healthcare Issues | The applauding reactions on social media reflect deep-seated frustration with the healthcare system, possibly leading to increased societal division and unrest.     |           4 |
+
 ## Behaviors
 
 | name                                     | description                                                                                                                            |   relevancy |

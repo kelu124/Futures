@@ -40,6 +40,18 @@ In "Psychonauts: Drugs and the Making of the Modern Mind," Mike Jay explores the
 | Double Standards in Drug Policy        | Discrepancies in societal and legal treatment of different drug users.     | From a unified approach to drug use to a bifurcated perspective based on drug type and user background. | A more equitable approach to drug policy may emerge, addressing disparities in treatment and enforcement. | Advocacy for fair policies and recognition of drug user rights influences legal reforms.               |           4 |
 | Historical Context of Drug Use         | Historical acceptance of drug use contrasts current prohibitions.          | Change from historical openness to modern restrictions on psychoactive substances.                      | A return to historical contexts may inspire policy shifts, focusing on harm reduction and education.      | Cultural historians and advocates highlight the benefits of historical drug use practices.             |           4 |
 
+## Concerns
+
+| name                                          | description                                                                                                                                            |   relevancy |
+|:----------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Cultural Double Standards in Drug Use         | The revival of certain psychedelics could lead to a re-ghettoization of other narcotics and their users, highlighting inconsistent societal attitudes. |           4 |
+| Potential for New Prohibition Eras            | The history of drug use indicates that we could easily revert to new prohibitions, highlighting the fleeting nature of acceptance.                     |           5 |
+| Marginalization of Non-Psychedelic Drug Users | Those who use non-psychedelic drugs like opioids may be demonized, leading to unequal treatment and societal neglect.                                  |           4 |
+| Public Health vs. Criminalization             | Policies focusing on criminalization over harm reduction for opioid use could exacerbate the drug crisis and neglect public health.                    |           5 |
+| Generational Shift Toward Sobriety            | The trend among Gen Z favoring sobriety may diminish the cultural significance of drug exploration, impacting future perceptions.                      |           3 |
+| Lack of Access to Therapeutic Options         | The privilege of therapy access with psychedelics may not be applied broadly, leading to inequities in treatment availability.                         |           4 |
+| Misguided Drug Policy Responses               | Aggressive policies against drug supply may lead to unintended consequences, such as cheaper, more dangerous substitutes.                              |           5 |
+
 ## Behaviors
 
 | name                                     | description                                                                                                                                   |   relevancy |

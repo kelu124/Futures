@@ -42,6 +42,17 @@ Persi Diaconis, a mathematician and magician, is investigating the effectiveness
 | Interdisciplinary Collaboration          | Collaboration between mathematicians and scientists for innovative problem-solving.            | From isolated mathematical research to collaborative approaches tackling real-world problems.     | Increased collaboration may lead to breakthroughs in various scientific fields through shared methodologies. | Recognition of the interconnectedness of different scientific disciplines.                         |           4 |
 | Public Engagement in Mathematics         | Encouraging public participation in mathematical experiments like 'national smoosh'.           | From private research to public involvement in mathematical exploration and education.            | Greater public interest and understanding of mathematics could foster a new generation of mathematicians.    | The need for improved mathematical literacy and engagement in society.                             |           3 |
 
+## Concerns
+
+| name                                                     | description                                                                                                                                                                |   relevancy |
+|:---------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Understanding Smooshing Mechanics                        | The need for a comprehensive mathematical model to accurately determine how long and effectively smooshing randomizes a deck of cards is crucial for various applications. |           4 |
+| Potential Exploitation in Gambling                       | Insufficient understanding of smooshing may lead to exploitative advantages in card games, impacting fairness and integrity in gambling environments.                      |           5 |
+| Fluid Dynamics Applications                              | The connection between smooshing and fluid dynamics highlights potential oversights or misapplications in fluid mixing problems, warranting further investigation.         |           3 |
+| Mathematical Proofs of Randomness                        | The absence of a conclusive mathematical proof for the effectiveness of smooshing raises concerns regarding the reliability of conclusions drawn from statistical tests.   |           4 |
+| Influence of Mathematical Models on Real-world Processes | Smooshing could have broader implications for understanding complex systems, emphasizing the importance of mathematical tools in different fields.                         |           4 |
+| Underdeveloped Fields in Mathematics                     | The quantitative theory of differential equations is still in its infancy, potentially limiting advancements in understanding behavior over short time frames.             |           3 |
+
 ## Behaviors
 
 | name                                         | description                                                                                                                    |   relevancy |

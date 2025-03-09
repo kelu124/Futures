@@ -41,6 +41,17 @@ The narrative recounts the author's struggle with lupus, leading to severe brain
 | Increased Awareness of Neuroplasticity | Neuroscience research reveals the brain's adaptability in processing time and memory.          | Understanding of neuroplasticity is expanding, influencing treatment options.                        | Neuroscience could provide personalized recovery plans based on individual brain function.               | The pursuit of innovative therapies for cognitive rehabilitation and recovery.      |           4 |
 | Episodic Memory Research               | Studies show episodes influence our perception of time and memory formation.                   | Shift from viewing memory as static to understanding it as dynamic and episodic.                     | Potential for new memory-enhancing strategies based on episodic memory research.                         | Advancements in cognitive psychology and neuroscience.                              |           3 |
 
+## Concerns
+
+| name                                                | description                                                                                                                         |   relevancy |
+|:----------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Cognitive Impairment from Autoimmune Diseases       | Chronic autoimmune diseases like lupus may lead to severe cognitive decline, affecting memory and perception of time significantly. |           5 |
+| Impact on Musical Skills due to Neurological Issues | Inability to perceive and comprehend time can lead to loss of musical abilities, affecting professional musicians' careers.         |           4 |
+| Mental Health Deterioration in Chronic Illness      | Chronic illness can cause severe fluctuations in mood and mental health, impacting day-to-day functioning.                          |           4 |
+| Reliance on Medication for Brain Recovery           | Dependence on immunosuppressants and steroids might lead to long-term health risks and impact recovery progress.                    |           3 |
+| Neuroscience Research Gaps                          | The complexities of brain function in time perception may be inadequately understood, hindering therapeutic advancements.           |           4 |
+| Effects of Brain Trauma on Long-term Health         | Brain trauma may have lingering effects on memory and cognition that last beyond physical recovery, affecting quality of life.      |           5 |
+
 ## Behaviors
 
 | name                         | description                                                                                                                                    |   relevancy |

@@ -44,6 +44,17 @@ Vicuna-13B is a new open-source chatbot developed by researchers from UC Berkele
 | Cost-Effective AI Training Techniques           | Techniques like using spot instances to reduce training costs show a shift towards cost efficiency.      | From expensive, resource-heavy training methods to more economical solutions in AI development. | AI training will become significantly cheaper, democratizing access to advanced models for smaller organizations. | The push for sustainability and cost-effectiveness in AI research and development. |           4 |
 | Growing Data Utilization from User Interactions | Using user-shared conversations for training indicates a trend in leveraging real-world data.            | Transitioning to more data-driven training processes that utilize community-generated content.  | AI models will increasingly rely on real-world interactions, improving relevance and personalization.             | The need for AI to be more contextually aware and aligned with user expectations.  |           4 |
 
+## Concerns
+
+| name                                  | description                                                                                                                                                        |   relevancy |
+|:--------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Data Quality and Bias                 | The reliance on user-shared conversations from ShareGPT.com raises concerns about data quality, potential biases, and the representativeness of training datasets. |           4 |
+| Resource Intensive Training           | The expanded GPU memory requirements for training advanced models like Vicuna could lead to higher energy consumption and environmental impact.                    |           3 |
+| Evaluation Framework Limitations      | Current evaluation metrics may not adequately differentiate between advanced chatbots, potentially leading to misleading performance assessments.                  |           4 |
+| Training Data Contamination           | The risk of training/test data contamination may compromise the effectiveness and reliability of model evaluation methodologies.                                   |           3 |
+| Open-Source Model Risks               | Open-sourcing powerful AI models poses risks of misuse, including the potential for generating harmful content or misinformation.                                  |           5 |
+| Dependence on External Infrastructure | The use of external services for training and serving models may introduce vulnerabilities and dependencies on third-party systems.                                |           3 |
+
 ## Behaviors
 
 | name                                  | description                                                                                                                                     |   relevancy |

@@ -39,6 +39,17 @@ China's Ministry of State Security has issued a warning to military enthusiasts,
 | Government Surveillance of Online Activities | Chinese government increasing monitoring of online content related to national security.        | Move from limited oversight to extensive monitoring of social media activities concerning military.      | In a decade, online activities will likely be heavily monitored, with severe consequences for violations.                    | The need to maintain national security amid rising tensions with other nations.                 |           5 |
 | Criminalization of Hobbyist Activities       | Amateur military enthusiasts face potential imprisonment for sharing photos online.             | Shift from harmless hobby to a criminal offense under national security laws.                            | In ten years, engaging in military-related hobbies could be highly regulated and risky in many countries.                    | The tightening grip of governments on civilian activities seen as threats to national security. |           4 |
 
+## Concerns
+
+| name                                   | description                                                                                                                               |   relevancy |
+|:---------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Restriction of Free Expression         | The warning against posting military photos limits personal freedoms in sharing interests and hobbies online.                             |           4 |
+| National Security vs. Individual Hobby | The clash between national security interests and individual hobbies raises concerns about governmental overreach and personal liberties. |           4 |
+| Increasing Surveillance Measures       | The government's monitoring of citizen activities, especially online, suggests a trend towards increased surveillance and control.        |           5 |
+| Punitive Measures for Hobbyists        | Imprisoning individuals for sharing photos poses a serious concern about legal repercussions for benign activities.                       |           5 |
+| Compromising Civilian Privacy          | Governmental focus on monitoring amateur photographers may lead to breaches of privacy and civil liberties.                               |           4 |
+| Censorship in Online Spaces            | The enforcement of such warnings may lead to broader censorship and restriction of content shared on social media platforms.              |           5 |
+
 ## Behaviors
 
 | name                                              | description                                                                                                                      |   relevancy |

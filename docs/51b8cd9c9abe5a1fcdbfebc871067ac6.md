@@ -44,6 +44,19 @@ The construction industry is poised for transformation by 2025, driven by trends
 | Adoption of Subscription Models        | Subscription-based technology solutions are becoming increasingly popular in construction.           | Transition from one-time software purchases to ongoing subscription services for tech. | Small and medium-sized construction firms gain access to advanced technologies through subscriptions. | Economic pressure to control costs while accessing necessary technology.                 |           4 |
 | New Construction Materials Development | Innovative materials like biodegradable plastics and microbial concrete are emerging.                | From traditional materials to advanced, sustainable options in construction.           | New materials revolutionize building practices, enhancing sustainability and efficiency.              | Demand for environmentally friendly and efficient construction solutions.                |           3 |
 
+## Concerns
+
+| name                                      | description                                                                                                                    |   relevancy |
+|:------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Labor Shortages                           | A significant portion of the construction workforce is set to retire, creating a skill gap and demand for qualified personnel. |           5 |
+| Supply Chain Disruptions                  | Continued disruptions from global events impact material availability and costs, complicating project planning and execution.  |           5 |
+| Economic Fluctuations                     | Volatile interest rates and material prices can affect profitability and availability of resources in construction projects.   |           4 |
+| Worksite Safety                           | Despite advancements in safety technology, construction remains a high-risk environment, necessitating ongoing vigilance.      |           4 |
+| Environmental Sustainability              | Failure to adopt eco-friendly practices can lead to long-term environmental harm and loss of client trust in a greener market. |           4 |
+| Technological Integration                 | Inadequate adoption of innovative technologies could leave firms lagging behind in efficiency and project management.          |           3 |
+| Talent Acquisition and Retention          | Challenges in attracting and retaining young talent may impede the construction industry's future growth and innovation.       |           4 |
+| Quality Control with Modular Construction | Increased reliance on modular construction may lead to challenges in maintaining consistent quality across different projects. |           3 |
+
 ## Behaviors
 
 | name                                   | description                                                                                                                      |   relevancy |

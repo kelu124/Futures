@@ -45,6 +45,17 @@ A U.S. Air Force F-22 Raptor shot down an unidentified object over Canada, which
 | Potential for New Regulations on Balloon Launches    | Concerns about military engagement may lead to new regulations on civilian balloon launches.               | Change from minimal oversight to potential regulatory frameworks governing balloon launches.        | Stricter regulations could limit civilian ballooning activities and increase compliance requirements.   | Government response to emerging security threats and incidents involving civilian projects. |           5 |
 | Technological Advances in Balloon Tracking           | Technological improvements in tracking and communications for pico balloons are becoming common.           | Transition from basic tracking systems to advanced, reliable communication technologies.            | More robust and efficient tracking systems may improve safety and monitoring of high-altitude balloons. | Advancements in miniaturization and wireless communication technologies.                    |           4 |
 
+## Concerns
+
+| name                                               | description                                                                                                                                            |   relevancy |
+|:---------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Military Engagement with Non-Military Objects      | The downing of a likely hobbyist balloon by military forces raises concerns about military engagement with civilian or non-threatening aerial objects. |           4 |
+| Public Trust and Transparency                      | Confusion surrounding the identification of objects and lack of transparency from military agencies can erode public trust in governmental operations. |           3 |
+| Impact on Private Research and Hobbyist Activities | Potential military scrutiny and regulations on hobbyist balloon activities could hinder scientific research and personal projects.                     |           4 |
+| Accidental Escalation of Conflict                  | The incident showcases risks of escalating conflict over non-threatening items, which may lead to misinterpretation of threats.                        |           5 |
+| Regulatory Response to Unmanned Aerial Vehicles    | Increased regulation on unmanned aerial vehicles could result from this incident, affecting the development and deployment of similar technologies.    |           4 |
+| Loss of Data and Research Opportunities            | The disappearance of pico balloons can result in lost data for research purposes, affecting scientific studies reliant on such tools.                  |           4 |
+
 ## Behaviors
 
 | name                                                | description                                                                                                                                                                                 |   relevancy |

@@ -39,6 +39,19 @@ This article discusses how to effectively onboard and work with AI as an 'intern
 | AI-driven productivity metrics        | AI usage is linked to higher productivity rates, encouraging more widespread adoption.           | From traditional productivity methods to AI-enhanced productivity benchmarks in various tasks.                | AI will be a standard component in measuring and enhancing productivity across industries.                   | The pursuit of efficiency and effectiveness in work processes motivates the integration of AI.              |           4 |
 | Task categorization for AI assistance | Users are learning to categorize tasks for optimal AI assistance, improving workflow efficiency. | Shifting from unstructured AI interactions to clearly defined task categories for AI support.                 | Work environments will have established frameworks for task categorization, maximizing AI utility.           | The need for structured approaches to manage AI interactions and improve outcomes drives this change.       |           4 |
 
+## Concerns
+
+| name                      | description                                                                                                                                               |   relevancy |
+|:--------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| AI Miscommunication       | Users may misinterpret AI's capabilities and trust it too much, leading to reliance on incorrect or misleading information.                               |           4 |
+| Over-automation           | The trend towards automating more tasks may lead to a decline in critical thinking and reducing human involvement in decision-making.                     |           4 |
+| Ethics and Privacy Issues | As AI systems are integrated into work processes, there are concerns regarding the handling of personal data and the ethical use of AI-generated content. |           5 |
+| Quality Control           | AI often makes mistakes or produces low-quality content, requiring ongoing human oversight to ensure reliability.                                         |           4 |
+| Dependence on AI          | Individuals may become overly dependent on AI for productivity, potentially hindering their skills development and creativity.                            |           3 |
+| Job Displacement          | Widespread AI adoption could lead to job losses in various sectors as tasks become automated.                                                             |           5 |
+| Dynamic Evolution of AI   | As AI technologies evolve rapidly, users must continuously adapt and understand new capabilities and limitations.                                         |           3 |
+| Misinformation Spread     | The potential for AI to generate and spread false information could erode trust in digital communications.                                                |           5 |
+
 ## Behaviors
 
 | name                           | description                                                                                                                                          |   relevancy |

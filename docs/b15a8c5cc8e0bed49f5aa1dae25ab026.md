@@ -42,6 +42,18 @@ Klarna has launched an AI assistant powered by OpenAI, which has been operationa
 | Enhanced Speed of Service   | Customer errands resolved in under 2 minutes due to AI support.                           | Shift from extended wait times to rapid resolution of issues.                         | Customer expectations for service speed will increase significantly, favoring AI solutions.             | The growing demand for instant gratification in service experiences. |           5 |
 | AI's Role in Retail Banking | Klarna aims for a fully AI-powered financial assistant, transforming retail banking.      | Transition from human-centric banking to AI-driven financial services.                | Retail banking will be revolutionized by AI technologies, enhancing user experiences.                   | The need for efficiency and consumer-centric banking solutions.      |           4 |
 
+## Concerns
+
+| name                      | description                                                                                                                                                          |   relevancy |
+|:--------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Job Displacement          | The deployment of AI assistants could lead to significant job losses among customer service agents, as AI takes over roles traditionally held by humans.             |           5 |
+| Data Privacy and Security | Increased reliance on AI assistants raises concerns about the collection, storage, and security of users' personal and financial information.                        |           5 |
+| Bias in AI Decisions      | Potential biases in AI algorithms may affect decision-making processes regarding refunds and financial assistance, leading to unfair treatment of certain customers. |           4 |
+| Dependence on Technology  | Consumers may become overly reliant on AI for financial decisions and support, potentially undermining their ability to manage finances independently.               |           4 |
+| Access Inequality         | While AI aims to enhance accessibility, disparities in technology access may widen gaps between different socio-economic groups, leaving some consumers behind.      |           4 |
+| Regulatory Challenges     | Rapid AI adoption in financial services may outpace existing regulations, leading to potential misuse and lack of oversight in the industry.                         |           5 |
+| Ethical Use of AI         | The potential for misuse of AI in consumer manipulation or unfair practices raises important ethical considerations for companies like Klarna.                       |           4 |
+
 ## Behaviors
 
 | name                              | description                                                                                                          |   relevancy |

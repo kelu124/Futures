@@ -40,6 +40,18 @@ The recent "tool-in" ceremony for TSMC's new fab in Arizona featured prominent a
 | Cultural Shift in Corporate Operations    | TSMC's adaptation to American corporate culture reflects changing operational strategies.     | From a globalized operational model to one that embraces local cultural nuances.    | Corporate strategies may increasingly reflect local cultural practices in global operations.                    | The need for companies to align with local cultures to succeed in new markets.                    |           4 |
 | Shift to Onshoring and Friendshoring      | The move from offshoring to onshoring and friendshoring in manufacturing.                     | A change in manufacturing strategy from global sourcing to regional partnerships.   | In ten years, we could see a landscape where most manufacturing is done closer to the consumer market.          | Geopolitical stability and economic factors are influencing this shift.                           |           5 |
 
+## Concerns
+
+| name                                | description                                                                                                                               |   relevancy |
+|:------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------|------------:|
+| Decline of Globalization            | Globalization and free trade are perceived as being in decline, which could lead to increased economic isolationism.                      |           5 |
+| Rising Costs of Production          | The shift to onshoring may result in significantly higher production costs, impacting consumer prices and inflation.                      |           4 |
+| Talent Shortage in Semiconductors   | The inability to find sufficient qualified American engineers could hinder the operations of semiconductor fabs in the US.                |           5 |
+| Economic and Political Instability  | The changing geopolitical situation may disrupt supply chains and economic stability, affecting global trade dynamics.                    |           4 |
+| Cultural and Operational Challenges | Cultural differences and training requirements for American employees pose challenges that could delay operational readiness.             |           3 |
+| Dependency on Foreign Expertise     | The reliance on Taiwanese engineers for training in American facilities indicates a long-term dependency on foreign expertise.            |           4 |
+| Inflation and Cost of Living        | Persistent inflation could be exacerbated by increased production costs and supply chain disruptions stemming from reduced globalization. |           4 |
+
 ## Behaviors
 
 | name                                              | description                                                                                                                        |   relevancy |
