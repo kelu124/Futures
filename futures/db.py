@@ -1,43 +1,26 @@
 import os
-import glob
-import pandas as pd
-import random
-import json
-import openai, re
 import time
-
+# import glob
+import pandas as pd
+# import random
+# import json
+# import openai, re
 from langchain.text_splitter import CharacterTextSplitter
 from langchain.document_loaders import DataFrameLoader
-#from langchain.vectorstores import Chroma
-from langchain.chains import LLMChain, StuffDocumentsChain
-from langchain_core.prompts import ChatPromptTemplate, PromptTemplate
-from langchain.embeddings import OpenAIEmbeddings
-#from langchain.chat_models import ChatOpenAI
+# from langchain.vectorstores import Chroma
+# from langchain.chains import LLMChain, StuffDocumentsChain
+# from langchain_core.prompts import ChatPromptTemplate, PromptTemplate
+# from langchain.embeddings import OpenAIEmbeddings
+# from langchain.chat_models import ChatOpenAI
 from langchain_openai import ChatOpenAI
-#from langchain.vectorstores import Chroma
+# from langchain.vectorstores import Chroma
 from langchain_chroma import Chroma
-import pandas as pd
-import futures.db_desc as dbdesc
 from langchain_core.documents import Document
 from langchain_community.vectorstores import FAISS
-
-import string
-LETTERS = string.ascii_uppercase
-
-from langchain.chains.query_constructor.base import AttributeInfo
 from langchain.retrievers.self_query.base import SelfQueryRetriever
-
-
-import pandas as pd
-import os
-
-
-
+import futures.db_desc as dbdesc
 from dotenv import load_dotenv
 load_dotenv()
-
-
-
 
 
 class DB:
@@ -45,7 +28,8 @@ class DB:
     def __init__(self, ai, basepath="./DB/"):
         self.ai = ai
         self.basepath = basepath
-        self.embeddings = ai.embeddings
+        self.embeddings = ai.underlying_embeddings
+        print(self.embeddings)
         self.srcArticles = ai.srcArticles
         self.srcSummaries = ai.srcSummaries
         self.srcSeeds = ai.srcSeeds
@@ -56,13 +40,13 @@ class DB:
     def createDB(self):
 
         df = pd.read_parquet(self.srcArticles)
-        df.columns = ["src","content","origin","LEN"]
+        df.columns = ["src", "content", "origin", "LEN"]
         df = df[(df.LEN > 1500) & (df.LEN < 30000)].reset_index(drop=True)
         titles = pd.read_parquet(self.srcSummaries)
-        df = df.merge(titles, on="src",how="left")
-        mt = pd.read_parquet(self.srcMetas )
-        mt = mt[["themes","category","keywords","url","src"]]
-        df = df.merge(mt,on="src",how="left")
+        df = df.merge(titles, on="src", how="left")
+        mt = pd.read_parquet(self.srcMetas)
+        mt = mt[["themes", "category", "keywords", "url", "src"]]
+        df = df.merge(mt, on="src", how="left")
 
         df["source"] = df.url
         for x in df.columns:
@@ -70,25 +54,33 @@ class DB:
         df_loader = DataFrameLoader(df, page_content_column="content")
 
         df_document = df_loader.load()
-        text_splitter = CharacterTextSplitter(separator='\n\n',chunk_size=2000, chunk_overlap=200)
+        text_splitter = CharacterTextSplitter(
+            separator="\n\n", chunk_size=2000, chunk_overlap=200
+        )
         chunked_documents = text_splitter.split_documents(df_document)
 
         # @TODO self.underlying_embeddings to be replaced with self.embeddings
-        if not os.path.isfile(self.basepath+"chroma.sqlite3"):
+        if not os.path.isfile(self.basepath + "chroma.sqlite3"):
             print("# VectorDB: start a new DB")
             self.vectordb = Chroma.from_documents(
                 documents=[chunked_documents[0]],
                 embedding=self.ai.underlying_embeddings,
-                persist_directory=self.base_path
+                persist_directory=self.basepath,
             )
-            #vectordb.persist()
+            # vectordb.persist()
         else:
             print("# VectorDB: continue on the DB")
-            self.vectordb = Chroma(persist_directory=self.basepath, embedding_function=self.ai.underlying_embeddings)
-            print("- VectorDB: ",len(self.vectordb.get()["ids"]),"elements already stored.")
+            self.vectordb = Chroma(
+                persist_directory=self.basepath, embedding_function=self.ai.underlying_embeddings
+            )
+            print(
+                "- VectorDB: ",
+                len(self.vectordb.get()["ids"]),
+                "elements already stored.",
+            )
             LSDOCS = self.vectordb.get()["documents"]
 
-        print("- VectorDB: adding",len(chunked_documents),"documents.")
+        print("- VectorDB: adding", len(chunked_documents), "documents.")
 
         if self.vectordb:
             LSDOCS = self.vectordb.get()["documents"]
@@ -98,15 +90,14 @@ class DB:
         for doc in chunked_documents:
             if not doc.page_content in LSDOCS:
                 self.vectordb.add_documents(
-                    documents=[doc], 
-                    embedding=self.underlying_embeddings, 
-                    persist_directory=self.basepath
+                    documents=[doc],
+                    embedding=self.ai.underlying_embeddings,
+                    persist_directory=self.basepath,
                 )
                 time.sleep(0.2)
             else:
                 pass
         LSDOCS = self.vectordb.get()["documents"]
-
 
         return self.vectordb
 
@@ -118,8 +109,9 @@ class DB:
             self.document_content_description,
             self.metadata_field_info,
             verbose=True,
-            search_kwargs={"k": k})
-        return self.selfQR.invoke(input="Give me articles about "+topic)
+            search_kwargs={"k": k},
+        )
+        return self.selfQR.invoke(input="Give me articles about " + topic)
 
     def getSummary(self, topic, k):
         docs = self.getArticles(topic, k)
@@ -133,11 +125,12 @@ class DB:
         context += "Your tone of voice is that of a journalist at NY Times, profesionnal, to the point. Keep sentences structure simple and clear.\n"
         context += "Include each and every article, as much as you can. Also, avoid bulletpoints. Don't include an introduction sentence (something like 'the articles this month'.. should be avoided at all costs), nor a conclusion part (ending with 'overall, these articles ..'. This should be avoided at all cost too.). The language should avoid flowery language or fancy language, it should be written in a way a 20yo non technical person can read it."
 
-        return self.selfQueryllm.invoke(context).content, [x.metadata["src"] for x in docs]
+        return self.selfQueryllm.invoke(context).content, [
+            x.metadata["src"] for x in docs
+        ]
 
-
-
-    def find_similar_sentences(self, 
+    def find_similar_sentences(
+        self,
         query: str,
         df: pd.DataFrame,
         column_name: str,
@@ -160,10 +153,7 @@ class DB:
         documents = []
         for i, row in df.iterrows():
             if pd.notna(row[column_name]) and isinstance(row[column_name], str):
-                doc = Document(
-                    page_content=row[column_name],
-                    metadata={"index": i}
-                )
+                doc = Document(page_content=row[column_name], metadata={"index": i})
                 documents.append(doc)
         # Create vector store
         vectorstore = FAISS.from_documents(documents, self.ai.underlying_embeddings)
@@ -174,12 +164,13 @@ class DB:
 
         return similar_sentences
 
-
     def getCards(self, docs, topic="", top_k=5):
         seeds = pd.read_parquet(self.ai.srcSeeds)
         seeds = seeds[seeds.src.isin(docs)]
         if len(topic):
-            txts = self.find_similar_sentences(topic, seeds, column_name="description", top_k=10 )
+            txts = self.find_similar_sentences(
+                topic, seeds, column_name="description", top_k=10
+            )
             print(len(txts))
             seeds = seeds[seeds.description.isin(txts)]
             print(len(seeds))
@@ -188,54 +179,60 @@ class DB:
         behav = pd.read_parquet(self.ai.srcEmergingBehav)
         behav = behav[behav.src.isin(docs)]
         if len(topic):
-            txts = self.find_similar_sentences(topic, behav, column_name="description", top_k=10 )
+            txts = self.find_similar_sentences(
+                topic, behav, column_name="description", top_k=10
+            )
             behav = behav[behav.description.isin(txts)]
-        behav = behav[["name","description"]].reset_index(drop=True)
+        behav = behav[["name", "description"]].reset_index(drop=True)
 
         issue = pd.read_parquet(self.ai.srcEmergingIssue)
         issue = issue[issue.src.isin(docs)]
         if len(topic):
-            txts = self.find_similar_sentences(topic, issue, column_name="description", top_k=10 )
+            txts = self.find_similar_sentences(
+                topic, issue, column_name="description", top_k=10
+            )
             issue = issue[issue.description.isin(txts)]
-        issue = issue[["name","description"]].reset_index(drop=True)
+        issue = issue[["name", "description"]].reset_index(drop=True)
 
         techs = pd.read_parquet(self.ai.srcEmergingTechs)
         techs = techs[techs.src.isin(docs)]
         if len(topic):
-            txts = self.find_similar_sentences(topic, techs, column_name="description", top_k=10 )
+            txts = self.find_similar_sentences(
+                topic, techs, column_name="description", top_k=10
+            )
             techs = techs[techs.description.isin(txts)]
-        techs = techs[["name","description"]].reset_index(drop=True)
+        techs = techs[["name", "description"]].reset_index(drop=True)
 
         concerns = pd.read_parquet(self.ai.srcEmergingConcerns)
         concerns = concerns[concerns.src.isin(docs)]
         if len(topic):
-            txts = self.find_similar_sentences(topic, concerns, column_name="description", top_k=10 )
+            txts = self.find_similar_sentences(
+                topic, concerns, column_name="description", top_k=10
+            )
             concerns = concerns[concerns.description.isin(txts)]
-        concerns = concerns[["name","description"]].reset_index(drop=True)
-
+        concerns = concerns[["name", "description"]].reset_index(drop=True)
 
         return seeds, behav, issue, techs, concerns
-    
+
     def writeOracleTopic(self, topic, k=30):
-        """ Writes about a topic, picking 30 articles, 5 cards of each"""
+        """Writes about a topic, picking 30 articles, 5 cards of each"""
         topic = "AI in infrastructure companies"
         txt, lst = self.getSummary(topic, k)
         a, b, c, d, e = self.getCards(lst, topic=topic, top_k=5)
-        MD = "# *Topic*: "+topic+"\n\n"
-        MD += "# Summary\n\n"+txt+"\n\n"
-        MD += "# Seeds\n\n"+a.to_markdown()+"\n\n"
-        MD += "# Concerns\n\n"+e.to_markdown()+"\n\n"
-        MD += "# Behaviors\n\n"+b.to_markdown()+"\n\n"
-        MD += "# Issues\n\n"+c.to_markdown()+"\n\n"
-        MD += "# Technologies\n\n"+d.to_markdown()+"\n\n"
+        MD = "# *Topic*: " + topic + "\n\n"
+        MD += "# Summary\n\n" + txt + "\n\n"
+        MD += "# Seeds\n\n" + a.to_markdown() + "\n\n"
+        MD += "# Concerns\n\n" + e.to_markdown() + "\n\n"
+        MD += "# Behaviors\n\n" + b.to_markdown() + "\n\n"
+        MD += "# Issues\n\n" + c.to_markdown() + "\n\n"
+        MD += "# Technologies\n\n" + d.to_markdown() + "\n\n"
         MD += "# Links\n\n"
         titles = pd.read_parquet(self.srcSummaries)
         for lx in list(set(lst)):
-            #print(lx)
+            # print(lx)
             title = titles[titles["src"] == lx].iloc[0]["title"]
-            MD += "\n* ["+title+"](https://futures.kghosh.me/"+lx+")"
+            MD += "\n* [" + title + "](https://futures.kghosh.me/" + lx + ")"
         return MD
-
 
     def getClosest(self, txt, n=6):
         B = self.vectordb.similarity_search(txt, n)

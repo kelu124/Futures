@@ -1,4 +1,4 @@
-# __Coup in America: Elon Musk's Junta and the Fall of Democracy__, (from page [20250216](https://kghosh.substack.com/p/20250216).)
+# __Coup in America: Elon Musk's Junta and the Fall of Democracy__, (from page [20250309](https://kghosh.substack.com/p/20250309).)
 
 __[External link](https://www.doomsdayscenario.co/p/musk-s-junta-establishes-him-as-head-of-government)__
 
