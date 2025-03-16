@@ -69,13 +69,13 @@ Klarna has launched an AI assistant powered by OpenAI, which has been operationa
 
 ## Technologies
 
-| name                           | description                                                                                                             |   relevancy |
-|:-------------------------------|:------------------------------------------------------------------------------------------------------------------------|------------:|
-| AI Assistant                   | An AI-powered tool that handles customer service inquiries, manages financial tasks, and provides multilingual support. |           5 |
-| Multilingual Support in AI     | AI capable of communicating in over 35 languages to enhance customer interactions across diverse markets.               |           4 |
-| AI-Powered Financial Assistant | An AI that helps consumers manage their finances, providing real-time updates and spending insights.                    |           5 |
-| AI in Retail Banking           | Utilizing AI to improve efficiency and customer satisfaction in the retail banking industry.                            |           4 |
-| AI-Driven Customer Service     | AI systems that can match or exceed human agents in customer satisfaction and efficiency.                               |           5 |
+| description                                                                                                             |   relevancy | src                              |
+|:------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| An AI-powered tool that handles customer service inquiries, manages financial tasks, and provides multilingual support. |           5 | b15a8c5cc8e0bed49f5aa1dae25ab026 |
+| AI capable of communicating in over 35 languages to enhance customer interactions across diverse markets.               |           4 | b15a8c5cc8e0bed49f5aa1dae25ab026 |
+| An AI that helps consumers manage their finances, providing real-time updates and spending insights.                    |           5 | b15a8c5cc8e0bed49f5aa1dae25ab026 |
+| Utilizing AI to improve efficiency and customer satisfaction in the retail banking industry.                            |           4 | b15a8c5cc8e0bed49f5aa1dae25ab026 |
+| AI systems that can match or exceed human agents in customer satisfaction and efficiency.                               |           5 | b15a8c5cc8e0bed49f5aa1dae25ab026 |
 
 ## Issues
 

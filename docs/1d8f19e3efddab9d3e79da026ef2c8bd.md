@@ -63,13 +63,13 @@ Google has blocked ads for e-commerce sites using the Polyfill.io service after 
 
 ## Technologies
 
-| name                                         | description                                                                                                                 |   relevancy |
-|:---------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------|------------:|
-| Supply Chain Security Solutions              | Technologies aimed at securing software supply chains to prevent attacks like code injections.                              |           5 |
-| Automated Script Monitoring                  | Advanced solutions that monitor and manage JavaScript behavior and integrity in real-time to prevent exploitation.          |           5 |
-| Malware Detection and Response Systems       | Systems that detect and respond to malware threats in web applications, particularly those utilizing third-party libraries. |           4 |
-| Obfuscation Detection Tools                  | Tools that identify and analyze obfuscated code to prevent hidden malicious activities in software.                         |           4 |
-| Client-Side JavaScript Security Enhancements | Innovative methods to enhance security in client-side JavaScript applications against exploitation.                         |           4 |
+| description                                                                                                                 |   relevancy | src                              |
+|:----------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Technologies aimed at securing software supply chains to prevent attacks like code injections.                              |           5 | 1d8f19e3efddab9d3e79da026ef2c8bd |
+| Advanced solutions that monitor and manage JavaScript behavior and integrity in real-time to prevent exploitation.          |           5 | 1d8f19e3efddab9d3e79da026ef2c8bd |
+| Systems that detect and respond to malware threats in web applications, particularly those utilizing third-party libraries. |           4 | 1d8f19e3efddab9d3e79da026ef2c8bd |
+| Tools that identify and analyze obfuscated code to prevent hidden malicious activities in software.                         |           4 | 1d8f19e3efddab9d3e79da026ef2c8bd |
+| Innovative methods to enhance security in client-side JavaScript applications against exploitation.                         |           4 | 1d8f19e3efddab9d3e79da026ef2c8bd |
 
 ## Issues
 

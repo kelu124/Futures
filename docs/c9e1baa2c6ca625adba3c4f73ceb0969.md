@@ -66,15 +66,15 @@ The Indeed Hiring Lab evaluated OpenAI's GPT-4o model across over 2,800 job skil
 
 ## Technologies
 
-| name                           | description                                                                                                                                              |   relevancy |
-|:-------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Generative AI (GenAI)          | AI models capable of generating text, images, and audio, demonstrating strong theoretical knowledge but limited problem-solving and execution abilities. |           5 |
-| Large Language Models (LLMs)   | Advanced AI systems trained on vast data sets to understand and generate human language, currently improving in practical applications.                  |           4 |
-| AI-Powered Assistive Tools     | Tools such as Microsoft Copilot and Salesforce Einstein that integrate AI to enhance productivity and assist in various tasks.                           |           4 |
-| Robotics Enhancements for AI   | Future developments combining AI with robotics to enable machines to perform complex, hands-on tasks traditionally requiring human presence.             |           4 |
-| Advanced Prompt Engineering    | The skill of creating specific prompts to extract high-quality outputs from AI models, increasingly necessary for effective AI use.                      |           3 |
-| AI in Healthcare Documentation | Utilizing AI to streamline documentation processes in healthcare, allowing professionals to focus on patient care.                                       |           3 |
-| AI in Software Development     | The integration of AI tools in coding and debugging processes, enhancing efficiency and problem-solving in tech roles.                                   |           3 |
+| description                                                                                                                                              |   relevancy | src                              |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| AI models capable of generating text, images, and audio, demonstrating strong theoretical knowledge but limited problem-solving and execution abilities. |           5 | c9e1baa2c6ca625adba3c4f73ceb0969 |
+| Advanced AI systems trained on vast data sets to understand and generate human language, currently improving in practical applications.                  |           4 | c9e1baa2c6ca625adba3c4f73ceb0969 |
+| Tools such as Microsoft Copilot and Salesforce Einstein that integrate AI to enhance productivity and assist in various tasks.                           |           4 | c9e1baa2c6ca625adba3c4f73ceb0969 |
+| Future developments combining AI with robotics to enable machines to perform complex, hands-on tasks traditionally requiring human presence.             |           4 | c9e1baa2c6ca625adba3c4f73ceb0969 |
+| The skill of creating specific prompts to extract high-quality outputs from AI models, increasingly necessary for effective AI use.                      |           3 | c9e1baa2c6ca625adba3c4f73ceb0969 |
+| Utilizing AI to streamline documentation processes in healthcare, allowing professionals to focus on patient care.                                       |           3 | c9e1baa2c6ca625adba3c4f73ceb0969 |
+| The integration of AI tools in coding and debugging processes, enhancing efficiency and problem-solving in tech roles.                                   |           3 | c9e1baa2c6ca625adba3c4f73ceb0969 |
 
 ## Issues
 

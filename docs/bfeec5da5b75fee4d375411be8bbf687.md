@@ -65,16 +65,16 @@ Neal Stephenson, a renowned science fiction author, has made remarkably accurate
 
 ## Technologies
 
-| name                           | description                                                                                                                                    |   relevancy |
-|:-------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Metaverse                      | A collective virtual shared space created by the convergence of virtually enhanced physical reality and physically persistent virtual reality. |           4 |
-| Generative AI                  | AI systems that create content, including text, images, and music, based on learned patterns from existing data.                               |           5 |
-| Personalized AI Tutors         | AI applications that adapt their teaching methods based on an individual’s learning style and preferences.                                     |           5 |
-| Voice Cloning Technology       | Technology that creates highly realistic simulations of human voices for various applications, including entertainment and education.          |           4 |
-| Secure Anonymous Communication | Technologies enabling secure and anonymous communication over the internet, essential for privacy in digital interactions.                     |           5 |
-| AI Characters in Video Games   | Artificial intelligence systems designed to create dynamic and interactive characters in gaming environments.                                  |           4 |
-| Pseudointelligence             | A term referring to AI outputs that mimic human-like intelligence but lack true understanding or discernment.                                  |           3 |
-| Transistor Technology in AI    | The foundational technology for AI development that enables the creation of various electronic devices and applications.                       |           4 |
+| description                                                                                                                                    |   relevancy | src                              |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| A collective virtual shared space created by the convergence of virtually enhanced physical reality and physically persistent virtual reality. |           4 | bfeec5da5b75fee4d375411be8bbf687 |
+| AI systems that create content, including text, images, and music, based on learned patterns from existing data.                               |           5 | bfeec5da5b75fee4d375411be8bbf687 |
+| AI applications that adapt their teaching methods based on an individual’s learning style and preferences.                                     |           5 | bfeec5da5b75fee4d375411be8bbf687 |
+| Technology that creates highly realistic simulations of human voices for various applications, including entertainment and education.          |           4 | bfeec5da5b75fee4d375411be8bbf687 |
+| Technologies enabling secure and anonymous communication over the internet, essential for privacy in digital interactions.                     |           5 | bfeec5da5b75fee4d375411be8bbf687 |
+| Artificial intelligence systems designed to create dynamic and interactive characters in gaming environments.                                  |           4 | bfeec5da5b75fee4d375411be8bbf687 |
+| A term referring to AI outputs that mimic human-like intelligence but lack true understanding or discernment.                                  |           3 | bfeec5da5b75fee4d375411be8bbf687 |
+| The foundational technology for AI development that enables the creation of various electronic devices and applications.                       |           4 | bfeec5da5b75fee4d375411be8bbf687 |
 
 ## Issues
 

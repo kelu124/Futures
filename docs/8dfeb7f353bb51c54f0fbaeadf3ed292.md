@@ -65,10 +65,10 @@ France is investing €2.9 billion ($3.1 billion) in a semiconductor factory to 
 
 ## Technologies
 
-| name           | description                                                                                                         |   relevancy |
-|:---------------|:--------------------------------------------------------------------------------------------------------------------|------------:|
-| Semiconductors | Essential components for electronic devices, crucial for industries like smartphones and electric cars.             |           5 |
-| Chips Acts     | Legislative measures in Europe and the US to boost investment in semiconductor production and secure supply chains. |           4 |
+| description                                                                                                         |   relevancy | src                              |
+|:--------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Essential components for electronic devices, crucial for industries like smartphones and electric cars.             |           5 | 8dfeb7f353bb51c54f0fbaeadf3ed292 |
+| Legislative measures in Europe and the US to boost investment in semiconductor production and secure supply chains. |           4 | 8dfeb7f353bb51c54f0fbaeadf3ed292 |
 
 ## Issues
 

@@ -63,12 +63,12 @@ Recent research challenges the perception that individuals with the most connect
 
 ## Technologies
 
-| name                               | description                                                                                             |   relevancy |
-|:-----------------------------------|:--------------------------------------------------------------------------------------------------------|------------:|
-| Network Theory Analysis            | Study of social networks focusing on centrality measures and influence spread dynamics.                 |           4 |
-| K-Shell Decomposition              | A method for identifying influential nodes in a network based on their connections.                     |           4 |
-| Betweenness Centrality Measurement | A new approach to measure influence based on the shortest connections between individuals in a network. |           5 |
-| Social Network Influence Mapping   | Mapping influence in social networks through advanced algorithms beyond traditional follower counts.    |           4 |
+| description                                                                                             |   relevancy | src                              |
+|:--------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Study of social networks focusing on centrality measures and influence spread dynamics.                 |           4 | ad1bb524eecf855a5d576f6bb1cb4bbb |
+| A method for identifying influential nodes in a network based on their connections.                     |           4 | ad1bb524eecf855a5d576f6bb1cb4bbb |
+| A new approach to measure influence based on the shortest connections between individuals in a network. |           5 | ad1bb524eecf855a5d576f6bb1cb4bbb |
+| Mapping influence in social networks through advanced algorithms beyond traditional follower counts.    |           4 | ad1bb524eecf855a5d576f6bb1cb4bbb |
 
 ## Issues
 

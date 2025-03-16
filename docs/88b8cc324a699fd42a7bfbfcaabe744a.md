@@ -75,13 +75,13 @@ Gustav Theodor Fechner was a pioneer in the idea that plants possess consciousne
 
 ## Technologies
 
-| name                                       | description                                                                                                                                                 |   relevancy |
-|:-------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Plant Neurobiology                         | A field focused on understanding how plants perceive their environment and respond in an integrated manner, suggesting plants may have cognitive abilities. |           5 |
-| Plant Sentience Research                   | An exploration of the consciousness and experiential life of plants, investigating their capacity for feelings and reactions to stimuli.                    |           5 |
-| Panpsychism in Ecology                     | The philosophical view that all entities, including plants and possibly inanimate objects, possess some form of consciousness or mind-like quality.         |           4 |
-| Experimental Evidence for Plant Learning   | Research documenting that plants can learn, communicate, and exhibit intelligent behavior, challenging traditional views of plant life.                     |           4 |
-| Interdisciplinary Studies on Consciousness | Integrative research combining biology, philosophy, and psychology to explore consciousness across species, including plants.                               |           4 |
+| description                                                                                                                                                 |   relevancy | src                              |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| A field focused on understanding how plants perceive their environment and respond in an integrated manner, suggesting plants may have cognitive abilities. |           5 | 88b8cc324a699fd42a7bfbfcaabe744a |
+| An exploration of the consciousness and experiential life of plants, investigating their capacity for feelings and reactions to stimuli.                    |           5 | 88b8cc324a699fd42a7bfbfcaabe744a |
+| The philosophical view that all entities, including plants and possibly inanimate objects, possess some form of consciousness or mind-like quality.         |           4 | 88b8cc324a699fd42a7bfbfcaabe744a |
+| Research documenting that plants can learn, communicate, and exhibit intelligent behavior, challenging traditional views of plant life.                     |           4 | 88b8cc324a699fd42a7bfbfcaabe744a |
+| Integrative research combining biology, philosophy, and psychology to explore consciousness across species, including plants.                               |           4 | 88b8cc324a699fd42a7bfbfcaabe744a |
 
 ## Issues
 

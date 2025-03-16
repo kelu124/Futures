@@ -1,4 +1,4 @@
-# __Federal Judge Blocks DOGE's Access to Personal Data Amid Privacy Concerns__, (from page [20250316d](https://kghosh.substack.com/p/20250316d).)
+# __Federal Judge Blocks DOGE's Access to Personal Data Amid Privacy Concerns__, (from page [20250316](https://kghosh.substack.com/p/20250316).)
 
 __[External link](https://arstechnica.com/tech-policy/2025/02/judges-block-doge-access-to-personal-data-in-loss-for-trump-administration/)__
 
@@ -59,10 +59,10 @@ A federal judge issued a temporary restraining order preventing DOGE from access
 
 ## Technologies
 
-| name                        | description                                                                                                                                   |   relevancy |
-|:----------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| DOGE and Privacy Technology | Technologies related to handling and protecting personal data, particularly in legal contexts like privacy acts and unauthorized disclosures. |           4 |
-| Automated Payment Systems   | Automated processes in financial systems to manage and halt payments, especially in government departments.                                   |           4 |
+| description                                                                                                                                   |   relevancy | src                              |
+|:----------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Technologies related to handling and protecting personal data, particularly in legal contexts like privacy acts and unauthorized disclosures. |           4 | b7b5ad950b211b7c7bcc3ecf86edbce7 |
+| Automated processes in financial systems to manage and halt payments, especially in government departments.                                   |           4 | b7b5ad950b211b7c7bcc3ecf86edbce7 |
 
 ## Issues
 

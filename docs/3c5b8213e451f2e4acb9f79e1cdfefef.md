@@ -65,11 +65,11 @@ The article explores the demographics of Middle-earth as analyzed by Emil Johans
 
 ## Technologies
 
-| name                 | description                                                                                                                    |   relevancy |
-|:---------------------|:-------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Data Visualization   | The practice of representing data in graphical formats to make complex information understandable and accessible.              |           4 |
-| Demographic Analysis | Statistical analysis of populations to understand characteristics such as gender balance and life expectancy.                  |           4 |
-| Mapping Technologies | Tools and techniques for creating visual representations of geographic data, enhancing understanding of spatial relationships. |           4 |
+| description                                                                                                                    |   relevancy | src                              |
+|:-------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| The practice of representing data in graphical formats to make complex information understandable and accessible.              |           4 | 3c5b8213e451f2e4acb9f79e1cdfefef |
+| Statistical analysis of populations to understand characteristics such as gender balance and life expectancy.                  |           4 | 3c5b8213e451f2e4acb9f79e1cdfefef |
+| Tools and techniques for creating visual representations of geographic data, enhancing understanding of spatial relationships. |           4 | 3c5b8213e451f2e4acb9f79e1cdfefef |
 
 ## Issues
 

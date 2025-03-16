@@ -62,10 +62,10 @@ This text emphasizes the importance of zines in education, highlighting their ro
 
 ## Technologies
 
-| name                        | description                                                                                                        |   relevancy |
-|:----------------------------|:-------------------------------------------------------------------------------------------------------------------|------------:|
-| Zines                       | Self-published works combining text and images, promoting storytelling and narrative skills among learners.        |           4 |
-| Visual storytelling methods | Techniques that integrate images and text to enhance communication and learning, fostering creativity in students. |           3 |
+| description                                                                                                        |   relevancy | src                              |
+|:-------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Self-published works combining text and images, promoting storytelling and narrative skills among learners.        |           4 | 53d3d1e4dcdbada5d087e49faadec607 |
+| Techniques that integrate images and text to enhance communication and learning, fostering creativity in students. |           3 | 53d3d1e4dcdbada5d087e49faadec607 |
 
 ## Issues
 

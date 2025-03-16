@@ -71,13 +71,13 @@ The authors, who run a micro-school in Mumbai, advocate for personalized learnin
 
 ## Technologies
 
-| name                         | description                                                                                                                                 |   relevancy |
-|:-----------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| AI Tutor                     | An AI-driven personalized learning assistant capable of adapting to individual student needs and enhancing the teacher-learner interaction. |           5 |
-| Generative AI in Education   | Utilizing generative AI to create personalized educational content and learning experiences tailored to diverse pedagogical styles.         |           5 |
-| Large Language Models (LLMs) | Advanced AI models capable of understanding and generating human-like text, improving educational interactions and content creation.        |           5 |
-| Interactive Learning Tools   | Technologies that facilitate playful, engaging learning experiences, moving away from rote memorization to active exploration.              |           4 |
-| Pedagogy Translators         | AI systems that can adapt teaching methods and styles to match the learning preferences of individual students.                             |           4 |
+| description                                                                                                                                 |   relevancy | src                              |
+|:--------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| An AI-driven personalized learning assistant capable of adapting to individual student needs and enhancing the teacher-learner interaction. |           5 | 8f4d495f94113bef7aed043ebceafebb |
+| Utilizing generative AI to create personalized educational content and learning experiences tailored to diverse pedagogical styles.         |           5 | 8f4d495f94113bef7aed043ebceafebb |
+| Advanced AI models capable of understanding and generating human-like text, improving educational interactions and content creation.        |           5 | 8f4d495f94113bef7aed043ebceafebb |
+| Technologies that facilitate playful, engaging learning experiences, moving away from rote memorization to active exploration.              |           4 | 8f4d495f94113bef7aed043ebceafebb |
+| AI systems that can adapt teaching methods and styles to match the learning preferences of individual students.                             |           4 | 8f4d495f94113bef7aed043ebceafebb |
 
 ## Issues
 

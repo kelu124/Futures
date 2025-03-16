@@ -68,12 +68,12 @@ The article discusses the relevance of generalists in the age of AI, countering 
 
 ## Technologies
 
-| name                                     | description                                                                                                                        |   relevancy |
-|:-----------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Large Language Models (LLMs)             | AI models like GPT-4 that excel in processing and generating human-like text, aiding in knowledge acquisition and problem-solving. |           5 |
-| AI-Enhanced Problem Solving              | The use of AI tools to facilitate quick learning and effective problem-solving across various domains.                             |           5 |
-| Adaptive Learning Systems                | Technologies that support personalized learning experiences by adapting to individual learner needs and interests.                 |           4 |
-| Cross-Disciplinary Knowledge Integration | The ability to synthesize knowledge from diverse fields to address complex, novel problems.                                        |           4 |
+| description                                                                                                                        |   relevancy | src                              |
+|:-----------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| AI models like GPT-4 that excel in processing and generating human-like text, aiding in knowledge acquisition and problem-solving. |           5 | d974d3a3da0ebffe898cfded306b0ec5 |
+| The use of AI tools to facilitate quick learning and effective problem-solving across various domains.                             |           5 | d974d3a3da0ebffe898cfded306b0ec5 |
+| Technologies that support personalized learning experiences by adapting to individual learner needs and interests.                 |           4 | d974d3a3da0ebffe898cfded306b0ec5 |
+| The ability to synthesize knowledge from diverse fields to address complex, novel problems.                                        |           4 | d974d3a3da0ebffe898cfded306b0ec5 |
 
 ## Issues
 

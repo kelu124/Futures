@@ -62,13 +62,13 @@ The future of generative AI is shifting towards niche applications rather than g
 
 ## Technologies
 
-| name                                            | description                                                                                           |   relevancy |
-|:------------------------------------------------|:------------------------------------------------------------------------------------------------------|------------:|
-| Domain-specific Language Models                 | Models fine-tuned on specific datasets to improve information retrieval in particular contexts.       |           4 |
-| Self-hosted Large Language Models (LLMs)        | LLMs that organizations can deploy on their own infrastructure for privacy and customization.         |           5 |
-| ChatGPT Plugins                                 | Plugins developed for ChatGPT to enhance its functionality in specific industries or applications.    |           4 |
-| Generative AI Tools for Niche Applications      | Generative AI applied to specialized tasks rather than generalist uses, providing tailored solutions. |           4 |
-| AI-Assisted Coding Tools (e.g., GitHub Copilot) | AI tools used by developers for contextual assistance in coding, enhancing productivity and learning. |           4 |
+| description                                                                                           |   relevancy | src                              |
+|:------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Models fine-tuned on specific datasets to improve information retrieval in particular contexts.       |           4 | 8dd10f0dc4f44fa3a381c7f37fbcb8fc |
+| LLMs that organizations can deploy on their own infrastructure for privacy and customization.         |           5 | 8dd10f0dc4f44fa3a381c7f37fbcb8fc |
+| Plugins developed for ChatGPT to enhance its functionality in specific industries or applications.    |           4 | 8dd10f0dc4f44fa3a381c7f37fbcb8fc |
+| Generative AI applied to specialized tasks rather than generalist uses, providing tailored solutions. |           4 | 8dd10f0dc4f44fa3a381c7f37fbcb8fc |
+| AI tools used by developers for contextual assistance in coding, enhancing productivity and learning. |           4 | 8dd10f0dc4f44fa3a381c7f37fbcb8fc |
 
 ## Issues
 

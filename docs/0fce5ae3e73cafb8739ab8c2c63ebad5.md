@@ -66,13 +66,13 @@ The recent "tool-in" ceremony for TSMC's new fab in Arizona featured prominent a
 
 ## Technologies
 
-| name                                     | description                                                                                                                     |   relevancy |
-|:-----------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Semiconductor Manufacturing in the U.S.  | The establishment of semiconductor fabs in the U.S. to reduce reliance on global supply chains and enhance domestic production. |           4 |
-| Onshoring and Friendshoring              | Shifting manufacturing back to the U.S. and allied nations to mitigate risks associated with globalization.                     |           4 |
-| Advanced Training Programs for Engineers | Long-term training programs for engineers to bridge the talent gap in semiconductor manufacturing within the U.S.               |           3 |
-| Cost-effective Semiconductor Production  | New methods to produce semiconductors at a lower cost despite rising expenses associated with onshoring.                        |           4 |
-| Geopolitical Impact on Supply Chains     | Understanding how geopolitical shifts affect global supply chains, particularly in the semiconductor industry.                  |           5 |
+| description                                                                                                                     |   relevancy | src                              |
+|:--------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| The establishment of semiconductor fabs in the U.S. to reduce reliance on global supply chains and enhance domestic production. |           4 | 0fce5ae3e73cafb8739ab8c2c63ebad5 |
+| Shifting manufacturing back to the U.S. and allied nations to mitigate risks associated with globalization.                     |           4 | 0fce5ae3e73cafb8739ab8c2c63ebad5 |
+| Long-term training programs for engineers to bridge the talent gap in semiconductor manufacturing within the U.S.               |           3 | 0fce5ae3e73cafb8739ab8c2c63ebad5 |
+| New methods to produce semiconductors at a lower cost despite rising expenses associated with onshoring.                        |           4 | 0fce5ae3e73cafb8739ab8c2c63ebad5 |
+| Understanding how geopolitical shifts affect global supply chains, particularly in the semiconductor industry.                  |           5 | 0fce5ae3e73cafb8739ab8c2c63ebad5 |
 
 ## Issues
 

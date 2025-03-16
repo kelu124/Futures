@@ -68,17 +68,17 @@ This article serves as a comprehensive guide to autonomous agents powered by GPT
 
 ## Technologies
 
-| name                                           | description                                                                                                                  |   relevancy |
-|:-----------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------|------------:|
-| Autonomous Agents                              | Intelligent systems powered by LLMs that can autonomously achieve long-term goals with minimal human guidance.               |           5 |
-| Generative Pre-trained Transformers (GPT/LLMs) | Large language models that can generate text and exhibit reasoning capabilities, enabling advanced tasks and interactions.   |           5 |
-| LangChain                                      | A Python framework that simplifies the integration of LLM functionalities, enabling easier development of autonomous agents. |           4 |
-| Semantic Kernel                                | A framework that enhances the interaction capabilities of LLMs with external tools and APIs.                                 |           4 |
-| Toolformer                                     | A method allowing language models to learn how to use external tools effectively to complete tasks.                          |           4 |
-| HuggingGPT                                     | A collaborative framework for solving AI tasks by integrating ChatGPT with other models from Hugging Face.                   |           4 |
-| Reflexion                                      | An autonomous agent framework that incorporates dynamic memory and self-reflection to enhance decision-making.               |           4 |
-| Vector Databases                               | Databases used for efficient text-searching and memory storage, enabling LLMs to retain context and information.             |           4 |
-| ReAct Framework                                | A framework that synergizes reasoning and acting in language models to improve task execution and interaction.               |           4 |
+| description                                                                                                                  |   relevancy | src                              |
+|:-----------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Intelligent systems powered by LLMs that can autonomously achieve long-term goals with minimal human guidance.               |           5 | 2dda4be3e1a9f11b4f7d8e74feea76b0 |
+| Large language models that can generate text and exhibit reasoning capabilities, enabling advanced tasks and interactions.   |           5 | 2dda4be3e1a9f11b4f7d8e74feea76b0 |
+| A Python framework that simplifies the integration of LLM functionalities, enabling easier development of autonomous agents. |           4 | 2dda4be3e1a9f11b4f7d8e74feea76b0 |
+| A framework that enhances the interaction capabilities of LLMs with external tools and APIs.                                 |           4 | 2dda4be3e1a9f11b4f7d8e74feea76b0 |
+| A method allowing language models to learn how to use external tools effectively to complete tasks.                          |           4 | 2dda4be3e1a9f11b4f7d8e74feea76b0 |
+| A collaborative framework for solving AI tasks by integrating ChatGPT with other models from Hugging Face.                   |           4 | 2dda4be3e1a9f11b4f7d8e74feea76b0 |
+| An autonomous agent framework that incorporates dynamic memory and self-reflection to enhance decision-making.               |           4 | 2dda4be3e1a9f11b4f7d8e74feea76b0 |
+| Databases used for efficient text-searching and memory storage, enabling LLMs to retain context and information.             |           4 | 2dda4be3e1a9f11b4f7d8e74feea76b0 |
+| A framework that synergizes reasoning and acting in language models to improve task execution and interaction.               |           4 | 2dda4be3e1a9f11b4f7d8e74feea76b0 |
 
 ## Issues
 

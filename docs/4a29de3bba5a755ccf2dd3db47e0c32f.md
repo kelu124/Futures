@@ -71,16 +71,16 @@ Deb Chachra, a material scientist and engineering professor, discusses her upcom
 
 ## Technologies
 
-| name                                            | description                                                                                                           |   relevancy |
-|:------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|------------:|
-| Resilient Infrastructure Systems                | Infrastructure systems designed to withstand climate change impacts and enhance social equity.                        |           5 |
-| Decentralized Energy Systems                    | Energy systems that allow for localized production, reducing reliance on centralized power networks.                  |           4 |
-| Charismatic Megastructures                      | Large infrastructure projects that engage public interest and awareness about hidden utility systems.                 |           3 |
-| Meta Layer (Ultrastructure)                     | The social context and governance systems influencing infrastructure development and accessibility.                   |           4 |
-| Network Effects in Infrastructure               | The phenomenon where the value of infrastructure increases as more users are connected, enhancing community benefits. |           5 |
-| Public vs. Private Water Infrastructure         | A framework for ensuring public control over water resources to prevent privatization and profit motives.             |           4 |
-| Technological Transformation in Energy          | Transitioning from fossil fuels to renewable energy sources like wind and water for sustainable energy solutions.     |           5 |
-| Socially Responsible Infrastructure Development | Developing infrastructure that equitably distributes benefits and addresses historical injustices.                    |           4 |
+| description                                                                                                           |   relevancy | src                              |
+|:----------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Infrastructure systems designed to withstand climate change impacts and enhance social equity.                        |           5 | 4a29de3bba5a755ccf2dd3db47e0c32f |
+| Energy systems that allow for localized production, reducing reliance on centralized power networks.                  |           4 | 4a29de3bba5a755ccf2dd3db47e0c32f |
+| Large infrastructure projects that engage public interest and awareness about hidden utility systems.                 |           3 | 4a29de3bba5a755ccf2dd3db47e0c32f |
+| The social context and governance systems influencing infrastructure development and accessibility.                   |           4 | 4a29de3bba5a755ccf2dd3db47e0c32f |
+| The phenomenon where the value of infrastructure increases as more users are connected, enhancing community benefits. |           5 | 4a29de3bba5a755ccf2dd3db47e0c32f |
+| A framework for ensuring public control over water resources to prevent privatization and profit motives.             |           4 | 4a29de3bba5a755ccf2dd3db47e0c32f |
+| Transitioning from fossil fuels to renewable energy sources like wind and water for sustainable energy solutions.     |           5 | 4a29de3bba5a755ccf2dd3db47e0c32f |
+| Developing infrastructure that equitably distributes benefits and addresses historical injustices.                    |           4 | 4a29de3bba5a755ccf2dd3db47e0c32f |
 
 ## Issues
 

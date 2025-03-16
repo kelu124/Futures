@@ -69,14 +69,14 @@ This text argues that countries and large corporations need to establish their o
 
 ## Technologies
 
-| name                             | description                                                                                                                                                      |   relevancy |
-|:---------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| AI as Cognitive Infrastructure   | AI is becoming an essential infrastructure comparable to energy and education systems, facilitating automation in various sectors.                               |           5 |
-| Training Data Preservation       | The concept of preserving high-quality training data for AI models to ensure future accessibility and reliability, much like archival methods for cultural data. |           4 |
-| Independent AI Development       | Countries need to develop their own AI capabilities and infrastructures to avoid dependency on external systems and ensure national security.                    |           5 |
-| OpenStreetMap for Data Accuracy  | Utilizing contributor-based systems like OpenStreetMap to maintain an accurate and reliable data environment, preventing monopolization.                         |           4 |
-| Long-term Digital Data Archiving | Establishing read-only archives for digital data to ensure its integrity and accessibility for future AI training.                                               |           5 |
-| Large Language Models Awareness  | Understanding the ideological implications and biases inherent in large language models based on their training data and creators.                               |           3 |
+| description                                                                                                                                                      |   relevancy | src                              |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| AI is becoming an essential infrastructure comparable to energy and education systems, facilitating automation in various sectors.                               |           5 | 05e89c4773a48ddeceedf5e1e0e1d4fe |
+| The concept of preserving high-quality training data for AI models to ensure future accessibility and reliability, much like archival methods for cultural data. |           4 | 05e89c4773a48ddeceedf5e1e0e1d4fe |
+| Countries need to develop their own AI capabilities and infrastructures to avoid dependency on external systems and ensure national security.                    |           5 | 05e89c4773a48ddeceedf5e1e0e1d4fe |
+| Utilizing contributor-based systems like OpenStreetMap to maintain an accurate and reliable data environment, preventing monopolization.                         |           4 | 05e89c4773a48ddeceedf5e1e0e1d4fe |
+| Establishing read-only archives for digital data to ensure its integrity and accessibility for future AI training.                                               |           5 | 05e89c4773a48ddeceedf5e1e0e1d4fe |
+| Understanding the ideological implications and biases inherent in large language models based on their training data and creators.                               |           3 | 05e89c4773a48ddeceedf5e1e0e1d4fe |
 
 ## Issues
 

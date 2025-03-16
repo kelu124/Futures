@@ -63,12 +63,12 @@ Google has announced that it will discontinue its Jamboard product, a $5,000 dig
 
 ## Technologies
 
-| name                            | description                                                                                                               |   relevancy |
-|:--------------------------------|:--------------------------------------------------------------------------------------------------------------------------|------------:|
-| Digital Whiteboarding           | An interactive digital tool for collaboration and brainstorming, allowing users to draw and share ideas in real-time.     |           4 |
-| Cloud-Based Collaboration Tools | Software systems that enable remote team collaboration through shared documents and whiteboards, enhancing productivity.  |           5 |
-| Touchscreen Technology          | Advanced touch-sensitive displays that allow for interactive engagement in educational and corporate settings.            |           4 |
-| Remote Access Applications      | Applications that allow users to participate in sessions from different locations, facilitating remote work and learning. |           5 |
+| description                                                                                                               |   relevancy | src                              |
+|:--------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| An interactive digital tool for collaboration and brainstorming, allowing users to draw and share ideas in real-time.     |           4 | 1f6ffedb8c1bbd834ffc6a40038cbf7c |
+| Software systems that enable remote team collaboration through shared documents and whiteboards, enhancing productivity.  |           5 | 1f6ffedb8c1bbd834ffc6a40038cbf7c |
+| Advanced touch-sensitive displays that allow for interactive engagement in educational and corporate settings.            |           4 | 1f6ffedb8c1bbd834ffc6a40038cbf7c |
+| Applications that allow users to participate in sessions from different locations, facilitating remote work and learning. |           5 | 1f6ffedb8c1bbd834ffc6a40038cbf7c |
 
 ## Issues
 

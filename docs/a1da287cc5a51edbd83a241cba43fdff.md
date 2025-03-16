@@ -71,14 +71,14 @@ The article discusses the recreation of Stamen basemaps, focusing on the inclusi
 
 ## Technologies
 
-| name                       | description                                                                                             |   relevancy |
-|:---------------------------|:--------------------------------------------------------------------------------------------------------|------------:|
-| New Tech Stack for Mapping | A modernized technology stack used for creating efficient and aesthetically pleasing mapping solutions. |           4 |
-| OpenMapTiles Schema        | A schema for vector-based web maps that allows for efficient rendering of geographic data.              |           4 |
-| GIS Data Handling          | Advanced handling of Geographic Information System data to reduce errors and improve accuracy.          |           4 |
-| GeoJSON                    | A format for encoding a variety of geographic data structures using JavaScript Object Notation (JSON).  |           3 |
-| Multilingual Mapping       | The ability to render maps in multiple languages through modern vector-based mapping tools.             |           4 |
-| GPS Spoofing               | Techniques to falsify GPS location data, allowing for artistic or experimental purposes.                |           3 |
+| description                                                                                             |   relevancy | src                              |
+|:--------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| A modernized technology stack used for creating efficient and aesthetically pleasing mapping solutions. |           4 | a1da287cc5a51edbd83a241cba43fdff |
+| A schema for vector-based web maps that allows for efficient rendering of geographic data.              |           4 | a1da287cc5a51edbd83a241cba43fdff |
+| Advanced handling of Geographic Information System data to reduce errors and improve accuracy.          |           4 | a1da287cc5a51edbd83a241cba43fdff |
+| A format for encoding a variety of geographic data structures using JavaScript Object Notation (JSON).  |           3 | a1da287cc5a51edbd83a241cba43fdff |
+| The ability to render maps in multiple languages through modern vector-based mapping tools.             |           4 | a1da287cc5a51edbd83a241cba43fdff |
+| Techniques to falsify GPS location data, allowing for artistic or experimental purposes.                |           3 | a1da287cc5a51edbd83a241cba43fdff |
 
 ## Issues
 

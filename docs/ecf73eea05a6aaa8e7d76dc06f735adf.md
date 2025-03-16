@@ -66,9 +66,9 @@ DALL·E 2 is an AI system developed by OpenAI that generates realistic images fr
 
 ## Technologies
 
-| name     | description                                                                                                                    |   relevancy |
-|:---------|:-------------------------------------------------------------------------------------------------------------------------------|------------:|
-| DALL·E 2 | An AI system that creates realistic images and art from text descriptions, capable of image editing and generating variations. |           5 |
+| description                                                                                                                    |   relevancy | src                              |
+|:-------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| An AI system that creates realistic images and art from text descriptions, capable of image editing and generating variations. |           5 | ecf73eea05a6aaa8e7d76dc06f735adf |
 
 ## Issues
 

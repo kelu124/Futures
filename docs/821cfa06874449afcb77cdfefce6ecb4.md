@@ -69,13 +69,13 @@ The Bureau of Intelligence and Research (INR) is a small yet highly effective in
 
 ## Technologies
 
-| name                                         | description                                                                                                   |   relevancy |
-|:---------------------------------------------|:--------------------------------------------------------------------------------------------------------------|------------:|
-| Intelligence Analysis Improvement Techniques | Methodologies developed by INR to enhance accuracy and predictive capabilities in intelligence assessments.   |           4 |
-| Polling and Data Analysis                    | Use of advanced polling techniques to gauge public sentiment and inform intelligence decisions.               |           4 |
-| Individualized Intelligence Reporting        | A system where analysts write reports independently, reducing groupthink and enhancing clarity.               |           4 |
-| Integrated Diplomatic Intelligence           | Modeling intelligence processes to support diplomatic decision-making, akin to military intelligence support. |           5 |
-| IT Modernization in Intelligence             | Efforts to upgrade information technology systems within intelligence agencies for better efficiency.         |           3 |
+| description                                                                                                   |   relevancy | src                              |
+|:--------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Methodologies developed by INR to enhance accuracy and predictive capabilities in intelligence assessments.   |           4 | 821cfa06874449afcb77cdfefce6ecb4 |
+| Use of advanced polling techniques to gauge public sentiment and inform intelligence decisions.               |           4 | 821cfa06874449afcb77cdfefce6ecb4 |
+| A system where analysts write reports independently, reducing groupthink and enhancing clarity.               |           4 | 821cfa06874449afcb77cdfefce6ecb4 |
+| Modeling intelligence processes to support diplomatic decision-making, akin to military intelligence support. |           5 | 821cfa06874449afcb77cdfefce6ecb4 |
+| Efforts to upgrade information technology systems within intelligence agencies for better efficiency.         |           3 | 821cfa06874449afcb77cdfefce6ecb4 |
 
 ## Issues
 

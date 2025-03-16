@@ -73,12 +73,12 @@ The article discusses the rapid growth of the resale market in fashion, highligh
 
 ## Technologies
 
-| name               | description                                                                                                                       |   relevancy |
-|:-------------------|:----------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Resale Platforms   | Platforms enabling users to resell clothing and items easily and profitably, addressing the friction in current resale processes. |           5 |
-| AI in Resale       | Utilizing AI and large language models to streamline the resale process, including automating listings and negotiations.          |           5 |
-| Digital Closets    | Systems that allow consumers to organize their wardrobes digitally, making it easier to manage and resell clothing.               |           4 |
-| Resale at Checkout | Integrating resale value information at the point of purchase to enhance consumer decision-making and reduce cart abandonment.    |           4 |
+| description                                                                                                                       |   relevancy | src                              |
+|:----------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Platforms enabling users to resell clothing and items easily and profitably, addressing the friction in current resale processes. |           5 | 8a1754f1df4fcfa417f1facfd72eebe0 |
+| Utilizing AI and large language models to streamline the resale process, including automating listings and negotiations.          |           5 | 8a1754f1df4fcfa417f1facfd72eebe0 |
+| Systems that allow consumers to organize their wardrobes digitally, making it easier to manage and resell clothing.               |           4 | 8a1754f1df4fcfa417f1facfd72eebe0 |
+| Integrating resale value information at the point of purchase to enhance consumer decision-making and reduce cart abandonment.    |           4 | 8a1754f1df4fcfa417f1facfd72eebe0 |
 
 ## Issues
 

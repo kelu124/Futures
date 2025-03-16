@@ -62,9 +62,9 @@ This study examines the impact of generative artificial intelligence (GenAI) on 
 
 ## Technologies
 
-| name                                       | description                                                                                                                          |   relevancy |
-|:-------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Generative Artificial Intelligence (GenAI) | A technology that generates new content and ideas, enhancing creativity by providing inspiration and new possibilities for creators. |           5 |
+| description                                                                                                                          |   relevancy | src                              |
+|:-------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| A technology that generates new content and ideas, enhancing creativity by providing inspiration and new possibilities for creators. |           5 | de55bd2afb2b9bfadae84d2a0fb8b4e8 |
 
 ## Issues
 

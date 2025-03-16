@@ -77,18 +77,18 @@ This text discusses Results as a Service (RaaS), a transformative model in busin
 
 ## Technologies
 
-| name                             | description                                                                                                           |   relevancy |
-|:---------------------------------|:----------------------------------------------------------------------------------------------------------------------|------------:|
-| Results as a Service (RaaS)      | A service delivery model focusing on delivering specific outcomes through automated processes and AI agents.          |           5 |
-| AI Agents                        | Automated systems that handle tasks, analyze data, and interact with users to improve efficiency and decision-making. |           5 |
-| Machine Learning in RaaS         | Utilizes algorithms to predict outcomes, optimize processes, and personalize services based on data analysis.         |           4 |
-| Automated Workflows              | Systems that streamline processes by automating repetitive tasks, enhancing operational efficiency.                   |           4 |
-| Data Analytics                   | The process of examining data sets to draw conclusions and provide actionable insights for businesses.                |           4 |
-| AI-Powered Chatbots              | AI systems designed to simulate conversation and provide customer support through automated interactions.             |           3 |
-| Predictive Maintenance           | Using data analysis to predict when equipment will fail, allowing for proactive maintenance and reduced downtime.     |           4 |
-| Personalized Marketing Campaigns | Tailored marketing strategies that leverage customer data to enhance engagement and conversion rates.                 |           4 |
-| Advanced Encryption Methods      | Techniques used to secure data and protect against unauthorized access, crucial for RaaS implementations.             |           4 |
-| Voice Assistants in RaaS         | Voice-activated AI systems that provide hands-free interaction and support for users in a RaaS framework.             |           3 |
+| description                                                                                                           |   relevancy | src                              |
+|:----------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| A service delivery model focusing on delivering specific outcomes through automated processes and AI agents.          |           5 | efe7fe774d7f110b747eddbc2fca6c8d |
+| Automated systems that handle tasks, analyze data, and interact with users to improve efficiency and decision-making. |           5 | efe7fe774d7f110b747eddbc2fca6c8d |
+| Utilizes algorithms to predict outcomes, optimize processes, and personalize services based on data analysis.         |           4 | efe7fe774d7f110b747eddbc2fca6c8d |
+| Systems that streamline processes by automating repetitive tasks, enhancing operational efficiency.                   |           4 | efe7fe774d7f110b747eddbc2fca6c8d |
+| The process of examining data sets to draw conclusions and provide actionable insights for businesses.                |           4 | efe7fe774d7f110b747eddbc2fca6c8d |
+| AI systems designed to simulate conversation and provide customer support through automated interactions.             |           3 | efe7fe774d7f110b747eddbc2fca6c8d |
+| Using data analysis to predict when equipment will fail, allowing for proactive maintenance and reduced downtime.     |           4 | efe7fe774d7f110b747eddbc2fca6c8d |
+| Tailored marketing strategies that leverage customer data to enhance engagement and conversion rates.                 |           4 | efe7fe774d7f110b747eddbc2fca6c8d |
+| Techniques used to secure data and protect against unauthorized access, crucial for RaaS implementations.             |           4 | efe7fe774d7f110b747eddbc2fca6c8d |
+| Voice-activated AI systems that provide hands-free interaction and support for users in a RaaS framework.             |           3 | efe7fe774d7f110b747eddbc2fca6c8d |
 
 ## Issues
 

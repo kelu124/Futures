@@ -68,15 +68,15 @@ The CNIL has selected eight innovative AI projects aimed at enhancing public ser
 
 ## Technologies
 
-| name                                     | description                                                                                                                       |   relevancy |
-|:-----------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Generative AI                            | AI tools that generate text, images, or other media based on user input, with applications in public services and job assistance. |           5 |
-| Open Language Models                     | Language models that assist in information retrieval and response formulation for civil servants and public administration.       |           5 |
-| AI for Ecological Monitoring             | AI systems analyzing water consumption data to provide recommendations for ecological transition and sustainability.              |           4 |
-| Privacy-Preserving AI                    | AI technologies using matrix data capture to protect personal data while enabling event detection and analysis.                   |           5 |
-| Conversational Agents                    | AI tools designed to assist users in various public service procedures by providing personalized guidance and information.        |           4 |
-| Generative Language Models in Healthcare | Specialized AI models for tasks in hospitals, such as activity declaration and pricing, enhancing operational efficiency.         |           4 |
-| Performance Analysis Tools for Athletes  | AI tools that analyze athletes' performance data to estimate their chances of winning competitions.                               |           4 |
+| description                                                                                                                       |   relevancy | src                              |
+|:----------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| AI tools that generate text, images, or other media based on user input, with applications in public services and job assistance. |           5 | 8c1236cbcdf34f8d0c8db7ab0fd1b0ad |
+| Language models that assist in information retrieval and response formulation for civil servants and public administration.       |           5 | 8c1236cbcdf34f8d0c8db7ab0fd1b0ad |
+| AI systems analyzing water consumption data to provide recommendations for ecological transition and sustainability.              |           4 | 8c1236cbcdf34f8d0c8db7ab0fd1b0ad |
+| AI technologies using matrix data capture to protect personal data while enabling event detection and analysis.                   |           5 | 8c1236cbcdf34f8d0c8db7ab0fd1b0ad |
+| AI tools designed to assist users in various public service procedures by providing personalized guidance and information.        |           4 | 8c1236cbcdf34f8d0c8db7ab0fd1b0ad |
+| Specialized AI models for tasks in hospitals, such as activity declaration and pricing, enhancing operational efficiency.         |           4 | 8c1236cbcdf34f8d0c8db7ab0fd1b0ad |
+| AI tools that analyze athletes' performance data to estimate their chances of winning competitions.                               |           4 | 8c1236cbcdf34f8d0c8db7ab0fd1b0ad |
 
 ## Issues
 

@@ -1,6 +1,9 @@
 # Overview 
 
 This page tries to capture the information obtained in my [tech watch](https://substack.kghosh.me/). The different links and pages are captured below, trying to catalogue different weak signals.
+* [Europe Pursues Supercomputing Independence with RISC-V through DARE Project](258df315b7027c2c77a186931dc61f20)
+* [Russell Vought's Ideological War Against Government and the Rise of the Addiction Economy](619829bd081d7da919912e4f63d2549c)
+* [Overview of the Orange Pi RV2: Affordable Octa-Core Single-Board Computer](020f4c068eda98b86af4897adbd52354)
 * [Exploring the Dataset of Paramilitary Groups: Insights and Challenges](40d77037959c01f51cbdb8acf8dfdf8b)
 * [Comment les données de géolocalisation exposent la vie privée des citoyens et les lacunes de sécurité nationales en France.](5b4a04a58b917709575e82036d891289)
 * [Cortical Labs Launches World's First Biological Computer: The CL1](c3e6ac3d2c8dcccbff885b74128c5536)

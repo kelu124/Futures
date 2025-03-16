@@ -60,12 +60,12 @@ Whitney Wolfe Herd, founder of Bumble, suggests a future where AI systems could 
 
 ## Technologies
 
-| name                               | description                                                                                                                       |   relevancy |
-|:-----------------------------------|:----------------------------------------------------------------------------------------------------------------------------------|------------:|
-| AI Dating Concierges               | Artificial Intelligence systems that assist users in navigating dating by providing personalized advice and matchmaking services. |           4 |
-| AI-Powered Relationship Management | Technology enabling AI to analyze users' emotional states and relationship patterns to offer insights and tips for improvement.   |           4 |
-| Automated Dating Interactions      | Using AI to conduct dating conversations on behalf of users, potentially interacting with other AIs to find matches.              |           5 |
-| Predictive Relationship Algorithms | AI algorithms that predict compatibility and relationship longevity based on user data and interactions.                          |           5 |
+| description                                                                                                                       |   relevancy | src                              |
+|:----------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Artificial Intelligence systems that assist users in navigating dating by providing personalized advice and matchmaking services. |           4 | e4c05fa0d5dacdd8fbb7f4e0b70a32a0 |
+| Technology enabling AI to analyze users' emotional states and relationship patterns to offer insights and tips for improvement.   |           4 | e4c05fa0d5dacdd8fbb7f4e0b70a32a0 |
+| Using AI to conduct dating conversations on behalf of users, potentially interacting with other AIs to find matches.              |           5 | e4c05fa0d5dacdd8fbb7f4e0b70a32a0 |
+| AI algorithms that predict compatibility and relationship longevity based on user data and interactions.                          |           5 | e4c05fa0d5dacdd8fbb7f4e0b70a32a0 |
 
 ## Issues
 

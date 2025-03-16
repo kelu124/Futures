@@ -75,14 +75,14 @@ On February 1, 2025, a coup led by media mogul Elon Musk resulted in his ascensi
 
 ## Technologies
 
-| name                                  | description                                                                                                                             |   relevancy |
-|:--------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Media Control Technologies            | Technologies used to suppress independent media and control information dissemination, particularly in authoritarian regimes.           |           5 |
-| Political Manipulation Algorithms     | Advanced algorithms utilized for political propaganda and misinformation on social media platforms.                                     |           5 |
-| Surveillance and Data Control Systems | Systems that monitor and restrict access to personal and governmental data, often for political purposes.                               |           4 |
-| Automated Political Purging Systems   | Technologies that facilitate the identification and removal of political opponents or dissenters within government and law enforcement. |           4 |
-| Environmental Warfare Technologies    | Technologies that can be used to manipulate environmental conditions for political or military advantage.                               |           3 |
-| Corporate Bribery Platforms           | Emerging systems that streamline and facilitate bribery as a means of gaining political favor or influence.                             |           4 |
+| description                                                                                                                             |   relevancy | src                              |
+|:----------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Technologies used to suppress independent media and control information dissemination, particularly in authoritarian regimes.           |           5 | ad3b88c11d65b5bba9f1a7e7daf4bcfb |
+| Advanced algorithms utilized for political propaganda and misinformation on social media platforms.                                     |           5 | ad3b88c11d65b5bba9f1a7e7daf4bcfb |
+| Systems that monitor and restrict access to personal and governmental data, often for political purposes.                               |           4 | ad3b88c11d65b5bba9f1a7e7daf4bcfb |
+| Technologies that facilitate the identification and removal of political opponents or dissenters within government and law enforcement. |           4 | ad3b88c11d65b5bba9f1a7e7daf4bcfb |
+| Technologies that can be used to manipulate environmental conditions for political or military advantage.                               |           3 | ad3b88c11d65b5bba9f1a7e7daf4bcfb |
+| Emerging systems that streamline and facilitate bribery as a means of gaining political favor or influence.                             |           4 | ad3b88c11d65b5bba9f1a7e7daf4bcfb |
 
 ## Issues
 

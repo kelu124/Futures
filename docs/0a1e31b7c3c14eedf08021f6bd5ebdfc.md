@@ -63,15 +63,15 @@ The text discusses the interplay of hard work and luck in achieving success, emp
 
 ## Technologies
 
-| name                        | description                                                                                                                     |   relevancy |
-|:----------------------------|:--------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Open Source Software (OSS)  | Software with source code that anyone can inspect, modify, and enhance, fostering collaboration and innovation.                 |           5 |
-| Podcasting                  | An audio broadcasting medium where creators share content, stories, and expertise, growing in popularity for knowledge sharing. |           4 |
-| Blogging                    | Writing online articles to share knowledge, experiences, or passions, enhancing visibility and engagement with audiences.       |           4 |
-| Community Building          | Creating and nurturing networks of individuals with shared interests, enhancing collaboration and opportunities.                |           4 |
-| Online Publishing           | Sharing work and ideas through various digital platforms, increasing visibility and potential for serendipitous connections.    |           5 |
-| Thermal Printing Technology | A printing process using heat to produce images, applicable in various fields including retail and documentation.               |           3 |
-| SVG Drawing Tools           | Software tools for creating scalable vector graphics, enhancing design and creative possibilities.                              |           3 |
+| description                                                                                                                     |   relevancy | src                              |
+|:--------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Software with source code that anyone can inspect, modify, and enhance, fostering collaboration and innovation.                 |           5 | 0a1e31b7c3c14eedf08021f6bd5ebdfc |
+| An audio broadcasting medium where creators share content, stories, and expertise, growing in popularity for knowledge sharing. |           4 | 0a1e31b7c3c14eedf08021f6bd5ebdfc |
+| Writing online articles to share knowledge, experiences, or passions, enhancing visibility and engagement with audiences.       |           4 | 0a1e31b7c3c14eedf08021f6bd5ebdfc |
+| Creating and nurturing networks of individuals with shared interests, enhancing collaboration and opportunities.                |           4 | 0a1e31b7c3c14eedf08021f6bd5ebdfc |
+| Sharing work and ideas through various digital platforms, increasing visibility and potential for serendipitous connections.    |           5 | 0a1e31b7c3c14eedf08021f6bd5ebdfc |
+| A printing process using heat to produce images, applicable in various fields including retail and documentation.               |           3 | 0a1e31b7c3c14eedf08021f6bd5ebdfc |
+| Software tools for creating scalable vector graphics, enhancing design and creative possibilities.                              |           3 | 0a1e31b7c3c14eedf08021f6bd5ebdfc |
 
 ## Issues
 

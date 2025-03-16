@@ -66,11 +66,11 @@ The UK government will publish a public register of artificial intelligence (AI)
 
 ## Technologies
 
-| name                               | description                                                                                                                                     |   relevancy |
-|:-----------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Artificial Intelligence            | AI technologies being deployed by central government for various decision-making processes, including fraud detection and immigration controls. |           5 |
-| Algorithmic Transparency Standards | Standards proposed for public bodies to publish details about AI and algorithmic tools to ensure transparency and fairness.                     |           4 |
-| Automated Decision-Making Tools    | Tools used by government departments to automate decision processes, requiring transparency and oversight to mitigate bias.                     |           4 |
+| description                                                                                                                                     |   relevancy | src                              |
+|:------------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| AI technologies being deployed by central government for various decision-making processes, including fraud detection and immigration controls. |           5 | 4dfbcd63db7ee3f5da2f9ecc8eaf2ed0 |
+| Standards proposed for public bodies to publish details about AI and algorithmic tools to ensure transparency and fairness.                     |           4 | 4dfbcd63db7ee3f5da2f9ecc8eaf2ed0 |
+| Tools used by government departments to automate decision processes, requiring transparency and oversight to mitigate bias.                     |           4 | 4dfbcd63db7ee3f5da2f9ecc8eaf2ed0 |
 
 ## Issues
 

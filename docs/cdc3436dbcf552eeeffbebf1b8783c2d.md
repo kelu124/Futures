@@ -66,12 +66,12 @@ Professor Brian David Johnson, a futurist at Arizona State University, discusses
 
 ## Technologies
 
-| name                        | description                                                                                                 |   relevancy |
-|:----------------------------|:------------------------------------------------------------------------------------------------------------|------------:|
-| Science Fiction Prototyping | A methodology using science fiction narratives to model and explore potential future threats and scenarios. |           5 |
-| Threatcasting               | A technique for forecasting potential future threats and assessing necessary actions to avoid them.         |           4 |
-| Quantum Technologies        | Advanced technologies based on quantum mechanics, with potential applications in computing and warfare.     |           5 |
-| Cybersecurity Prototyping   | Using narrative-driven approaches to predict and mitigate cybersecurity threats in real-world scenarios.    |           4 |
+| description                                                                                                 |   relevancy | src                              |
+|:------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| A methodology using science fiction narratives to model and explore potential future threats and scenarios. |           5 | cdc3436dbcf552eeeffbebf1b8783c2d |
+| A technique for forecasting potential future threats and assessing necessary actions to avoid them.         |           4 | cdc3436dbcf552eeeffbebf1b8783c2d |
+| Advanced technologies based on quantum mechanics, with potential applications in computing and warfare.     |           5 | cdc3436dbcf552eeeffbebf1b8783c2d |
+| Using narrative-driven approaches to predict and mitigate cybersecurity threats in real-world scenarios.    |           4 | cdc3436dbcf552eeeffbebf1b8783c2d |
 
 ## Issues
 

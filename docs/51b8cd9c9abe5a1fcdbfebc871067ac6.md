@@ -74,19 +74,19 @@ The construction industry is poised for transformation by 2025, driven by trends
 
 ## Technologies
 
-| name                                              | description                                                                                                            |   relevancy |
-|:--------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------|------------:|
-| Modular Construction                              | A method that reduces building time, costs, and waste by assembling components in controlled settings.                 |           5 |
-| 3D Printing in Construction                       | Allows for the creation of customized construction materials and components on demand.                                 |           5 |
-| Artificial Intelligence (AI) and Machine Learning | Used for predicting project costs, managing delays, and enhancing resource allocation in construction.                 |           5 |
-| Robotics and Automation                           | Implementing robots to handle repetitive and dangerous tasks, improving efficiency and safety on job sites.            |           5 |
-| Blockchain and IoT in Supply Chains               | Enhances transparency and efficiency in construction supply chains through real-time monitoring and data sharing.      |           4 |
-| Smart Wearable Devices                            | Devices like smart helmets and vests that track worker health and safety conditions on-site.                           |           4 |
-| Digital Twins                                     | Virtual representations of construction sites that use IoT data for real-time insights and monitoring.                 |           4 |
-| Eco-friendly Construction Materials               | Innovative materials like microbial concrete and hempcrete that enhance sustainability and efficiency in construction. |           5 |
-| Subscription-based Technology Models              | Increasing use of subscription services for accessing construction software and equipment in a cost-effective manner.  |           4 |
-| Building Information Modeling (BIM)               | A digital tool that promotes collaboration and efficiency among stakeholders in the construction process.              |           5 |
-| 5G Networks                                       | Improves IoT connectivity and interaction among devices in the construction industry.                                  |           4 |
+| description                                                                                                            |   relevancy | src                              |
+|:-----------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| A method that reduces building time, costs, and waste by assembling components in controlled settings.                 |           5 | 51b8cd9c9abe5a1fcdbfebc871067ac6 |
+| Allows for the creation of customized construction materials and components on demand.                                 |           5 | 51b8cd9c9abe5a1fcdbfebc871067ac6 |
+| Used for predicting project costs, managing delays, and enhancing resource allocation in construction.                 |           5 | 51b8cd9c9abe5a1fcdbfebc871067ac6 |
+| Implementing robots to handle repetitive and dangerous tasks, improving efficiency and safety on job sites.            |           5 | 51b8cd9c9abe5a1fcdbfebc871067ac6 |
+| Enhances transparency and efficiency in construction supply chains through real-time monitoring and data sharing.      |           4 | 51b8cd9c9abe5a1fcdbfebc871067ac6 |
+| Devices like smart helmets and vests that track worker health and safety conditions on-site.                           |           4 | 51b8cd9c9abe5a1fcdbfebc871067ac6 |
+| Virtual representations of construction sites that use IoT data for real-time insights and monitoring.                 |           4 | 51b8cd9c9abe5a1fcdbfebc871067ac6 |
+| Innovative materials like microbial concrete and hempcrete that enhance sustainability and efficiency in construction. |           5 | 51b8cd9c9abe5a1fcdbfebc871067ac6 |
+| Increasing use of subscription services for accessing construction software and equipment in a cost-effective manner.  |           4 | 51b8cd9c9abe5a1fcdbfebc871067ac6 |
+| A digital tool that promotes collaboration and efficiency among stakeholders in the construction process.              |           5 | 51b8cd9c9abe5a1fcdbfebc871067ac6 |
+| Improves IoT connectivity and interaction among devices in the construction industry.                                  |           4 | 51b8cd9c9abe5a1fcdbfebc871067ac6 |
 
 ## Issues
 

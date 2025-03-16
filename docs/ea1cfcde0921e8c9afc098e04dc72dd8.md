@@ -59,10 +59,10 @@ Deux couples d'amis, Laura et Madru, ainsi que Jana et Luka, se retrouvent régu
 
 ## Technologies
 
-| name                        | description                                                                                                                               |   relevancy |
-|:----------------------------|:------------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Gemeinsame Ökonomie (GemÖk) | A shared economy concept where members collectively manage resources and expenses, promoting financial cooperation and community support. |           4 |
-| Cooperative Housing         | Collective living arrangements where resources are shared among members, enhancing community ties and reducing housing costs.             |           4 |
+| description                                                                                                                               |   relevancy | src                              |
+|:------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| A shared economy concept where members collectively manage resources and expenses, promoting financial cooperation and community support. |           4 | ea1cfcde0921e8c9afc098e04dc72dd8 |
+| Collective living arrangements where resources are shared among members, enhancing community ties and reducing housing costs.             |           4 | ea1cfcde0921e8c9afc098e04dc72dd8 |
 
 ## Issues
 

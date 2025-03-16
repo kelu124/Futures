@@ -68,13 +68,13 @@ The text discusses Amazon's organizational design focused on single-threaded lea
 
 ## Technologies
 
-| name                            | description                                                                                                                            |   relevancy |
-|:--------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Single-Threaded Leadership      | A leadership approach where leaders focus exclusively on one initiative, enhancing speed and accountability in project execution.      |           5 |
-| Autonomous Teams                | Teams that operate independently with minimal dependencies, increasing efficiency and decision-making speed.                           |           4 |
-| Separable Team Structures       | Organizational design that allows teams to function independently and efficiently, reducing bureaucratic delays.                       |           4 |
-| Instrumentation for Measurement | Infrastructure used to measure important actions within teams, facilitating data-driven decision making.                               |           4 |
-| Open-Source Software Adoption   | The increasing trend of software developers using open-source solutions to build applications, promoting innovation and collaboration. |           4 |
+| description                                                                                                                            |   relevancy | src                              |
+|:---------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| A leadership approach where leaders focus exclusively on one initiative, enhancing speed and accountability in project execution.      |           5 | f7c3cefc5b83fbd9df3507bdad7ff3fe |
+| Teams that operate independently with minimal dependencies, increasing efficiency and decision-making speed.                           |           4 | f7c3cefc5b83fbd9df3507bdad7ff3fe |
+| Organizational design that allows teams to function independently and efficiently, reducing bureaucratic delays.                       |           4 | f7c3cefc5b83fbd9df3507bdad7ff3fe |
+| Infrastructure used to measure important actions within teams, facilitating data-driven decision making.                               |           4 | f7c3cefc5b83fbd9df3507bdad7ff3fe |
+| The increasing trend of software developers using open-source solutions to build applications, promoting innovation and collaboration. |           4 | f7c3cefc5b83fbd9df3507bdad7ff3fe |
 
 ## Issues
 

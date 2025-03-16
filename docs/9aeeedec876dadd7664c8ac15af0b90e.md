@@ -63,11 +63,11 @@ The U.S. Surgeon General's report highlights a growing public health crisis of l
 
 ## Technologies
 
-| name                             | description                                                                                                                                  |   relevancy |
-|:---------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Social Health Metrics            | Applications tracking social interactions and rewarding users for social engagements, integrated with wearable technology like smartwatches. |           4 |
-| Go-to-Community Strategies       | Business strategies focusing on fostering community connections rather than traditional market-centric approaches.                           |           4 |
-| Hobby and Interest-Centric Clubs | A resurgence of clubs and associations focused on shared interests, hobbies, and professional networking.                                    |           3 |
+| description                                                                                                                                  |   relevancy | src                              |
+|:---------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Applications tracking social interactions and rewarding users for social engagements, integrated with wearable technology like smartwatches. |           4 | 9aeeedec876dadd7664c8ac15af0b90e |
+| Business strategies focusing on fostering community connections rather than traditional market-centric approaches.                           |           4 | 9aeeedec876dadd7664c8ac15af0b90e |
+| A resurgence of clubs and associations focused on shared interests, hobbies, and professional networking.                                    |           3 | 9aeeedec876dadd7664c8ac15af0b90e |
 
 ## Issues
 

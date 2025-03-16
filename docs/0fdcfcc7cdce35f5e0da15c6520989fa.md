@@ -62,13 +62,13 @@ A ransomware group named AlphV filed a complaint with the SEC against MeridianLi
 
 ## Technologies
 
-| name                                     | description                                                                                                                         |   relevancy |
-|:-----------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Ransomware Operations                    | Cybercriminal organizations that use ransomware to extort money from companies by threatening to leak stolen data.                  |           5 |
-| Cybersecurity Disclosure Guidelines      | New regulatory requirements for companies to disclose cybersecurity incidents to protect customer data and operational information. |           4 |
-| Automated Incident Reporting Systems     | Systems that generate automated receipts and notifications for cybersecurity incident reports to regulatory bodies like the SEC.    |           3 |
-| Third-Party Cybersecurity Investigations | Engaging external experts to investigate and respond to cybersecurity incidents to ensure compliance and security.                  |           4 |
-| Cyber Incident Materiality Assessment    | The process companies must undertake to determine if a cybersecurity incident is significant enough to require disclosure.          |           4 |
+| description                                                                                                                         |   relevancy | src                              |
+|:------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Cybercriminal organizations that use ransomware to extort money from companies by threatening to leak stolen data.                  |           5 | 0fdcfcc7cdce35f5e0da15c6520989fa |
+| New regulatory requirements for companies to disclose cybersecurity incidents to protect customer data and operational information. |           4 | 0fdcfcc7cdce35f5e0da15c6520989fa |
+| Systems that generate automated receipts and notifications for cybersecurity incident reports to regulatory bodies like the SEC.    |           3 | 0fdcfcc7cdce35f5e0da15c6520989fa |
+| Engaging external experts to investigate and respond to cybersecurity incidents to ensure compliance and security.                  |           4 | 0fdcfcc7cdce35f5e0da15c6520989fa |
+| The process companies must undertake to determine if a cybersecurity incident is significant enough to require disclosure.          |           4 | 0fdcfcc7cdce35f5e0da15c6520989fa |
 
 ## Issues
 

@@ -61,9 +61,9 @@ Businesses are adopting strategic foresight methodologies, such as scenario plan
 
 ## Technologies
 
-| name          | description                                                                                                                                                      |   relevancy |
-|:--------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Generative AI | A technology that assists organizations in generating and considering numerous options for scenario planning, overcoming traditional methodologies' limitations. |           5 |
+| description                                                                                                                                                      |   relevancy | src                              |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| A technology that assists organizations in generating and considering numerous options for scenario planning, overcoming traditional methodologies' limitations. |           5 | eb3b989221a954bad78ff582adfacdba |
 
 ## Issues
 

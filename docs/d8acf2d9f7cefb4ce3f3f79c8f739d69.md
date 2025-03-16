@@ -68,12 +68,12 @@ Blair Kamin, the former architecture critic for the Chicago Tribune, ended his 2
 
 ## Technologies
 
-| name                           | description                                                                                                                                |   relevancy |
-|:-------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Journalism Funding Partners    | A nonprofit group that connects funders with news organizations to support journalism, particularly in the arts and culture sector.        |           4 |
-| Press Forward initiative       | A funding initiative aimed at addressing inequities in journalistic coverage of underserved communities through grants to local newsrooms. |           4 |
-| Community Supported Journalism | A model where local communities fund journalism positions to maintain coverage of important cultural and local issues.                     |           5 |
-| Donor-Advised Funds            | Financial accounts established by individuals to manage charitable donations, influencing how funds are allocated to nonprofit journalism. |           3 |
+| description                                                                                                                                |   relevancy | src                              |
+|:-------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| A nonprofit group that connects funders with news organizations to support journalism, particularly in the arts and culture sector.        |           4 | d8acf2d9f7cefb4ce3f3f79c8f739d69 |
+| A funding initiative aimed at addressing inequities in journalistic coverage of underserved communities through grants to local newsrooms. |           4 | d8acf2d9f7cefb4ce3f3f79c8f739d69 |
+| A model where local communities fund journalism positions to maintain coverage of important cultural and local issues.                     |           5 | d8acf2d9f7cefb4ce3f3f79c8f739d69 |
+| Financial accounts established by individuals to manage charitable donations, influencing how funds are allocated to nonprofit journalism. |           3 | d8acf2d9f7cefb4ce3f3f79c8f739d69 |
 
 ## Issues
 

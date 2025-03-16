@@ -64,14 +64,14 @@ Leica has introduced the M11-P, the world's first camera featuring built-in cont
 
 ## Technologies
 
-| name                                                               | description                                                                                                                            |   relevancy |
-|:-------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Built-in Content Credentials                                       | A feature in the M11-P camera providing digital authenticity labels for images, enhancing verification and provenance.                 |           5 |
-| Content Authenticity Initiative (CAI)                              | A collaborative effort among major industry players to establish standards for content authenticity and provenance in the digital era. |           5 |
-| Digital Nutrition Labels for Images                                | Labels embedded in images that convey metadata such as creator information, alterations, and tools used.                               |           4 |
-| Digital Signatures for Images                                      | A method to ensure the authenticity of images by embedding a signature that travels with the content.                                  |           5 |
-| Content Verification Platforms                                     | Web-based platforms to verify the authenticity of images, enhancing trust in digital media.                                            |           4 |
-| Coalition for Content Provenance and Authenticity (C2PA) Standards | Global standards aimed at establishing trust and authenticity in digital content creation and sharing.                                 |           5 |
+| description                                                                                                                            |   relevancy | src                              |
+|:---------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| A feature in the M11-P camera providing digital authenticity labels for images, enhancing verification and provenance.                 |           5 | bc3b32f7e96fc98dd6d20a6bd4bb0f3d |
+| A collaborative effort among major industry players to establish standards for content authenticity and provenance in the digital era. |           5 | bc3b32f7e96fc98dd6d20a6bd4bb0f3d |
+| Labels embedded in images that convey metadata such as creator information, alterations, and tools used.                               |           4 | bc3b32f7e96fc98dd6d20a6bd4bb0f3d |
+| A method to ensure the authenticity of images by embedding a signature that travels with the content.                                  |           5 | bc3b32f7e96fc98dd6d20a6bd4bb0f3d |
+| Web-based platforms to verify the authenticity of images, enhancing trust in digital media.                                            |           4 | bc3b32f7e96fc98dd6d20a6bd4bb0f3d |
+| Global standards aimed at establishing trust and authenticity in digital content creation and sharing.                                 |           5 | bc3b32f7e96fc98dd6d20a6bd4bb0f3d |
 
 ## Issues
 

@@ -64,15 +64,15 @@ The recent California wildfires have destroyed vast areas, but some homes, like 
 
 ## Technologies
 
-| name                                | description                                                                                                                    |   relevancy |
-|:------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Passive House Design                | A building approach emphasizing energy efficiency and fire resilience through airtight construction and eco-friendly features. |           5 |
-| Fire-Resilient Construction Methods | Design strategies that enhance a building's ability to withstand fire, including metal roofs and fire-resistant materials.     |           4 |
-| Energy Recovery Ventilation Systems | Systems designed to improve indoor air quality while conserving energy by recovering heat from exhaust air.                    |           3 |
-| High-Performance Glazing            | Advanced window technologies that provide better insulation and resistance to heat and fire.                                   |           4 |
-| Superinsulated Envelopes            | Building envelopes that minimize energy loss, contributing to both energy efficiency and fire resilience.                      |           5 |
-| Fire Retardant Coatings for Wood    | Special coatings applied to wood materials to enhance their fire resistance.                                                   |           3 |
-| Aluminum-Framed Windows             | Windows designed with aluminum frames for enhanced durability and fire resilience compared to traditional materials.           |           4 |
+| description                                                                                                                    |   relevancy | src                              |
+|:-------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| A building approach emphasizing energy efficiency and fire resilience through airtight construction and eco-friendly features. |           5 | 1b4cac87d3055dabee8a8a82c3cbc26a |
+| Design strategies that enhance a building's ability to withstand fire, including metal roofs and fire-resistant materials.     |           4 | 1b4cac87d3055dabee8a8a82c3cbc26a |
+| Systems designed to improve indoor air quality while conserving energy by recovering heat from exhaust air.                    |           3 | 1b4cac87d3055dabee8a8a82c3cbc26a |
+| Advanced window technologies that provide better insulation and resistance to heat and fire.                                   |           4 | 1b4cac87d3055dabee8a8a82c3cbc26a |
+| Building envelopes that minimize energy loss, contributing to both energy efficiency and fire resilience.                      |           5 | 1b4cac87d3055dabee8a8a82c3cbc26a |
+| Special coatings applied to wood materials to enhance their fire resistance.                                                   |           3 | 1b4cac87d3055dabee8a8a82c3cbc26a |
+| Windows designed with aluminum frames for enhanced durability and fire resilience compared to traditional materials.           |           4 | 1b4cac87d3055dabee8a8a82c3cbc26a |
 
 ## Issues
 

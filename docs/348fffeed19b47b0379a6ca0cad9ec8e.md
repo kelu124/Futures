@@ -61,11 +61,11 @@ The support team assists users in achieving optimal counting results using Count
 
 ## Technologies
 
-| name                                        | description                                                                                                          |   relevancy |
-|:--------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|------------:|
-| Counting Templates                          | A system that uses sample images to teach apps what to count, optimizing counting processes for different scenarios. |           4 |
-| High Zoom Imaging                           | Utilizing high zoom levels for capturing images to minimize distortion in counting accuracy.                         |           3 |
-| Personalized Web Experience through Cookies | Technology that customizes user experience based on stored preferences and device information.                       |           3 |
+| description                                                                                                          |   relevancy | src                              |
+|:---------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| A system that uses sample images to teach apps what to count, optimizing counting processes for different scenarios. |           4 | 348fffeed19b47b0379a6ca0cad9ec8e |
+| Utilizing high zoom levels for capturing images to minimize distortion in counting accuracy.                         |           3 | 348fffeed19b47b0379a6ca0cad9ec8e |
+| Technology that customizes user experience based on stored preferences and device information.                       |           3 | 348fffeed19b47b0379a6ca0cad9ec8e |
 
 ## Issues
 

@@ -66,13 +66,13 @@ Persi Diaconis, a mathematician and magician, is investigating the effectiveness
 
 ## Technologies
 
-| name                                          | description                                                                                                                                                               |   relevancy |
-|:----------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Mathematical Analysis of Smooshing            | Investigating the mathematical principles behind the smooshing technique in card shuffling, potentially influencing various fields like fluid dynamics and randomization. |           4 |
-| Fluid Mixing Techniques                       | Researching fluid mechanics and mixing processes which could lead to advancements in understanding complex fluid behaviors and their mathematical modeling.               |           4 |
-| Quantitative Theory of Differential Equations | A developing field focusing on the behavior of differential equations over short time scales, aiming to improve understanding of system dynamics.                         |           3 |
-| Markov Chain Monte Carlo Methods              | Numerical approximation algorithms used in scientific simulations that leverage random processes similar to shuffling techniques.                                         |           5 |
-| Randomization Algorithms                      | Algorithms developed to improve randomness in various applications, inspired by new insights into card shuffling methods.                                                 |           4 |
+| description                                                                                                                                                               |   relevancy | src                              |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Investigating the mathematical principles behind the smooshing technique in card shuffling, potentially influencing various fields like fluid dynamics and randomization. |           4 | e90b91f5c6d7a5cf94a95d21fafbd7bf |
+| Researching fluid mechanics and mixing processes which could lead to advancements in understanding complex fluid behaviors and their mathematical modeling.               |           4 | e90b91f5c6d7a5cf94a95d21fafbd7bf |
+| A developing field focusing on the behavior of differential equations over short time scales, aiming to improve understanding of system dynamics.                         |           3 | e90b91f5c6d7a5cf94a95d21fafbd7bf |
+| Numerical approximation algorithms used in scientific simulations that leverage random processes similar to shuffling techniques.                                         |           5 | e90b91f5c6d7a5cf94a95d21fafbd7bf |
+| Algorithms developed to improve randomness in various applications, inspired by new insights into card shuffling methods.                                                 |           4 | e90b91f5c6d7a5cf94a95d21fafbd7bf |
 
 ## Issues
 

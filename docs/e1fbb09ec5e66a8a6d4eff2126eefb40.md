@@ -67,13 +67,13 @@ The article discusses emerging security threats posed by subtle text modificatio
 
 ## Technologies
 
-| name                                          | description                                                                                                                    |   relevancy |
-|:----------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------|------------:|
-| Adversarial Attacks on AI                     | Techniques that manipulate AI algorithms by altering input data, leading to incorrect predictions or classifications.          |           5 |
-| Paraphrasing Attacks                          | A form of adversarial attack that subtly modifies text to deceive NLP models while remaining coherent to human readers.        |           5 |
-| Gradient-Guided Greedy Algorithm              | An algorithm developed to efficiently search for optimal modifications in adversarial examples, enhancing AI model robustness. |           4 |
-| Robust AI Models through Adversarial Training | Training AI models with adversarial examples to improve resilience against attacks while enhancing performance and accuracy.   |           4 |
-| Deep Learning in Text Processing              | Utilization of deep learning algorithms for automating text-related tasks, increasing reliance on AI for decision-making.      |           5 |
+| description                                                                                                                    |   relevancy | src                              |
+|:-------------------------------------------------------------------------------------------------------------------------------|------------:|:---------------------------------|
+| Techniques that manipulate AI algorithms by altering input data, leading to incorrect predictions or classifications.          |           5 | e1fbb09ec5e66a8a6d4eff2126eefb40 |
+| A form of adversarial attack that subtly modifies text to deceive NLP models while remaining coherent to human readers.        |           5 | e1fbb09ec5e66a8a6d4eff2126eefb40 |
+| An algorithm developed to efficiently search for optimal modifications in adversarial examples, enhancing AI model robustness. |           4 | e1fbb09ec5e66a8a6d4eff2126eefb40 |
+| Training AI models with adversarial examples to improve resilience against attacks while enhancing performance and accuracy.   |           4 | e1fbb09ec5e66a8a6d4eff2126eefb40 |
+| Utilization of deep learning algorithms for automating text-related tasks, increasing reliance on AI for decision-making.      |           5 | e1fbb09ec5e66a8a6d4eff2126eefb40 |
 
 ## Issues
 
