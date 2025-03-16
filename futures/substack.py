@@ -152,18 +152,23 @@ class SubstackManager:
                         contentType = "error"
                     with open(self.archivepath +row["hash"]+".type", "w") as f:
                         f.write(contentType)
-                    
                 if not os.path.exists(self.archivepath +row["hash"]):
                     try:
                         r = requests.get(row["url"], timeout=10, headers=headers)
                         with open(self.archivepath +row["hash"], "wb") as f:
                             f.write(r.content)
+                        print("- ",row["hash"],"saved.")
                     except:
-                        print(str(row["url"]),"error.")
-                        with open("errors.log", "a") as log:
-                            log.write(str(row["url"])+"\n")
-                        pass
-                    print("- ",row["hash"],"saved.")
+                        try:
+                            r = requests.get(row["url"].split("?")[0], timeout=10, headers=headers)
+                            with open(self.archivepath +row["hash"], "wb") as f:
+                                f.write(r.content)
+                        except:
+                            print(str(row["url"]),"error.")
+                            with open("errors.log", "a") as log:
+                                log.write(str(row["url"])+"\n")
+                            pass
+                    
 
 
 

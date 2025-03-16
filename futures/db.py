@@ -1,5 +1,6 @@
 import os
 import time
+import json
 # import glob
 import pandas as pd
 # import random
@@ -19,6 +20,9 @@ from langchain_core.documents import Document
 from langchain_community.vectorstores import FAISS
 from langchain.retrievers.self_query.base import SelfQueryRetriever
 import futures.db_desc as dbdesc
+from futures.cards import UrbanAICardGenerator
+import hashlib 
+
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -36,6 +40,7 @@ class DB:
         self.srcMetas = ai.srcMetas
         self.metadata_field_info = dbdesc.metadata_field_info
         self.selfQueryllm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
+        self.cardMaker = UrbanAICardGenerator()
 
     def createDB(self):
 
@@ -174,65 +179,117 @@ class DB:
             print(len(txts))
             seeds = seeds[seeds.description.isin(txts)]
             print(len(seeds))
-        seeds = seeds[seeds.columns[0:-2]].reset_index(drop=True)
+        seeds = seeds.reset_index(drop=True)
 
         behav = pd.read_parquet(self.ai.srcEmergingBehav)
-        behav = behav[behav.src.isin(docs)]
+        behav = behav[behav.src.isin(docs)].drop_duplicates(subset="name")
         if len(topic):
             txts = self.find_similar_sentences(
                 topic, behav, column_name="description", top_k=10
             )
             behav = behav[behav.description.isin(txts)]
-        behav = behav[["name", "description"]].reset_index(drop=True)
+        behav = behav.reset_index(drop=True)
 
         issue = pd.read_parquet(self.ai.srcEmergingIssue)
-        issue = issue[issue.src.isin(docs)]
+        issue = issue[issue.src.isin(docs)].drop_duplicates(subset="name")
         if len(topic):
             txts = self.find_similar_sentences(
                 topic, issue, column_name="description", top_k=10
             )
             issue = issue[issue.description.isin(txts)]
-        issue = issue[["name", "description"]].reset_index(drop=True)
+        issue = issue.reset_index(drop=True)
 
         techs = pd.read_parquet(self.ai.srcEmergingTechs)
-        techs = techs[techs.src.isin(docs)]
+        techs = techs[techs.src.isin(docs)].drop_duplicates(subset="name")
         if len(topic):
             txts = self.find_similar_sentences(
                 topic, techs, column_name="description", top_k=10
             )
             techs = techs[techs.description.isin(txts)]
-        techs = techs[["name", "description"]].reset_index(drop=True)
+        techs = techs.reset_index(drop=True)
 
         concerns = pd.read_parquet(self.ai.srcEmergingConcerns)
-        concerns = concerns[concerns.src.isin(docs)]
+        concerns = concerns[concerns.src.isin(docs)].drop_duplicates(subset="name")
         if len(topic):
             txts = self.find_similar_sentences(
                 topic, concerns, column_name="description", top_k=10
             )
             concerns = concerns[concerns.description.isin(txts)]
-        concerns = concerns[["name", "description"]].reset_index(drop=True)
+        concerns = concerns.reset_index(drop=True)
 
         return seeds, behav, issue, techs, concerns
 
-    def writeOracleTopic(self, topic, k=30):
+    def writeOracleTopic(self, topic, path = "./", name = "exploration.md", k=30):
         """Writes about a topic, picking 30 articles, 5 cards of each"""
         topic = "AI in infrastructure companies"
         txt, lst = self.getSummary(topic, k)
         a, b, c, d, e = self.getCards(lst, topic=topic, top_k=5)
         MD = "# *Topic*: " + topic + "\n\n"
         MD += "# Summary\n\n" + txt + "\n\n"
-        MD += "# Seeds\n\n" + a.to_markdown() + "\n\n"
-        MD += "# Concerns\n\n" + e.to_markdown() + "\n\n"
-        MD += "# Behaviors\n\n" + b.to_markdown() + "\n\n"
-        MD += "# Issues\n\n" + c.to_markdown() + "\n\n"
-        MD += "# Technologies\n\n" + d.to_markdown() + "\n\n"
+        MD += "# Seeds\n\n" + a[["name","description","change","10-year","driving-force"]].to_markdown() + "\n\n"
+        MD += "# Concerns\n\n" + e[["name","description"]].to_markdown() + "\n\n"
+        MD += "# Behaviors\n\n" + b[["name","description"]].to_markdown() + "\n\n"
+        MD += "# Issues\n\n" + c[["name","description"]].to_markdown() + "\n\n"
+        MD += "# Technologies\n\n" + d[["name","description"]].to_markdown() + "\n\n"
+        MD += "# Cards\n\n"
+
+        p = self.createBigCards(e, "Concern", path)
+        MD += "## Concerns\n\n![Concerns](Concern.png)\n\n"
+        p = self.createBigCards(b, "Behavior", path)
+        MD += "## Behaviors\n\n![Behavior](Behavior.png)\n\n"
+        p = self.createBigCards(c, "Issue", path)
+        MD += "## Issue\n\n![Issue](Issue.png)\n\n"
+        p = self.createBigCards(d, "Technology", path)
+        MD += "## Technology\n\n![Technology](Technology.png)\n\n"
+
         MD += "# Links\n\n"
         titles = pd.read_parquet(self.srcSummaries)
         for lx in list(set(lst)):
             # print(lx)
             title = titles[titles["src"] == lx].iloc[0]["title"]
             MD += "\n* [" + title + "](https://futures.kghosh.me/" + lx + ")"
+
+
+        with open(path+name+".md", "w") as fi:
+            fi.write(MD)
         return MD
+
+
+    def createBigCards(self, b, typItem, path):
+
+        classified = {"Concern": {"color": "green", "source": "Concern"},
+                      "Behavior": {"color": "blue", "source": "Behavior"},
+                      "Issue": {"color": "red", "source": "Issue"},
+                      "Technology": {"color": "light_blue", "source": "Technology"}
+                      }
+        src = classified[typItem]["source"]
+        clr = classified[typItem]["color"]
+        self.createCards(b,source=src, color=clr)
+        dn = path+typItem+".png"
+        self.generate_grid(b, source=src, color=clr, rows=2, cols=3, output_file=dn)
+        return dn
+
+    def createCards(self, df, source, color, generate = False):
+
+        df["source"] = source
+        df["color"] = color
+        df["timing"] = "TBD"
+        df = df.rename(columns={"name": "title", "description": "content"})
+        df = df.T.to_json()
+        df = json.loads(df)
+        self.cards_to_generate = [df[k] for k in df.keys()]
+        if generate:
+            ids = self.cardMaker.generate_cards(self.cards_to_generate)
+            return ids
+        else:
+            return []
+    
+    def generate_grid(self, df, source, color, rows, cols, output_file):
+        self.createCards(df, source, color, generate=False)
+        self.cardMaker.generate_cards(self.cards_to_generate)
+        selected_cards = self.cards_to_generate
+        self.cardMaker.generate_grid(selected_cards, rows, cols, output_file)
+
 
     def getClosest(self, txt, n=6):
         B = self.vectordb.similarity_search(txt, n)
