@@ -90,19 +90,19 @@ class PagesWriter:
                 CON = cncrn[cncrn.src == ID]
                 if len(CON):
                     TXT += "\n\n## Concerns\n\n"
-                    TXT += CON[list(CON.columns)[:-1]].to_markdown(index=False)
+                    TXT += CON[["name","descriptions"]].to_markdown(index=False)
                 BVR = behav[behav.src == ID]
                 if len(BVR):
                     TXT += "\n\n## Behaviors\n\n"
-                    TXT += BVR[list(BVR.columns)[:-1]].to_markdown(index=False)
+                    TXT += BVR[["name","descriptions"]].to_markdown(index=False)
                 TEK = techs[techs.src == ID]
                 if len(TEK):
                     TXT += "\n\n## Technologies\n\n"
-                    TXT += TEK[list(TEK.columns)[1:]].to_markdown(index=False)
+                    TXT += TEK[["name","descriptions"]].to_markdown(index=False)
                 ISS = issue[issue.src == ID]
                 if len(ISS):
                     TXT += "\n\n## Issues\n\n"
-                    TXT += ISS[list(ISS.columns)[:-1]].to_markdown(index=False)
+                    TXT += ISS[["name","descriptions"]].to_markdown(index=False)
                 with open("docs/"+ID+".md", "w") as f:
                     f.write(TXT)
             except:
