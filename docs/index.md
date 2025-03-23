@@ -1,6 +1,18 @@
 # Overview 
 
 This page tries to capture the information obtained in my [tech watch](https://substack.kghosh.me/). The different links and pages are captured below, trying to catalogue different weak signals.
+* [Emerging Technologies Shape the Future of the AEC Industry in 2025](95d469c68ec86b47c502e645a5b5c141)
+* [AI's Role in Fragmenting Culture and Software: A New Era of Creation](c25f207450d56b52443cc95f158d4138)
+* [Key Trends Shaping the Future of Architecture, Engineering, and Construction by 2025](ff47e6e9ab7061f5cb848d4f10d1e06f)
+* [The Impact of AI on Employment: Contrasting Perspectives and the Future of Work](47609c83275171183566464cb8e7e7fe)
+* [Pentagon Integrates AI into Military Operations with Scale AI Contract](c09f834f8634af5e89cc820aa5feed41)
+* [Exploring the Top AEC Industry Trends for 2025: Embrace Change and Innovation](0907269aebaf97320d9422c6878c1910)
+* [The 2025 Transformation of the AEC Industry: Embracing Innovation and Sustainability](7b28983e661f02dd4b79aa866889d2a4)
+* [Transformations in the Architecture, Engineering, and Construction Industry: Key Digital Trends for 2025](02aa17b4b1a6e60fd84fd570ada11997)
+* [Nine Emerging Trends in BIM Shaping the Future of the AEC Industry](c0decad8857c7c85aa74375d2df66136)
+* [Predicted Transformations in the AEC/O Industry: Key Trends for 2025](ddcfc28c996492cd08e056e967b66a85)
+* [Coca-Cola's Pioneering Journey with Generative AI in Marketing Campaigns](3d916d077334a1ce71d60e0186891709)
+* [Key BIM Trends Shaping the Construction Industry in 2025](db19efdef6be30b739c30502d88e1298)
 * [The Rise of AI Agent Marketplaces: A New Era for Small Businesses](3f3f736e1a4c0cb5bb016e789bcdc445)
 * [Evo: The Large Language Model Revolutionizing DNA Reading and Writing](45d34ce40d5974664e5ea44a7d14f104)
 * [Understanding Media: The Impact of McLuhan's Insights on Technology and Human Experience](2393e91c693abbda88eab24cdd1c0a28)
