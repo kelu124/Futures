@@ -2,7 +2,7 @@ import pandas as pd
 import random
 import json
 from futures.commons import intersection
-
+import os
 
 class PagesWriter:
 
@@ -61,52 +61,55 @@ class PagesWriter:
         issue = pd.read_parquet(self.srcEmergingIssue).reset_index(drop=True)
         cncrn = pd.read_parquet(self.srcEmergingCncrn).reset_index(drop=True)
 
-        for ix, row in meta.iterrows():
+        for _, row in meta.iterrows():
 
             ID = row["src"]
-            try:
-                S = summaries[summaries.src == ID]["title"].iloc[0]
-                origin = str(df[df.file_name == ID]["origin"].iloc[0])
-                TXT = "# __"+S +"__, (from page ["+origin+"](https://kghosh.substack.com/p/"+origin+").)\n\n"
-
-            
-                TXT += "__[External link]("+str(row.url)[2:-1]+")__\n\n"
-                TXT += "\n\n## Keywords\n\n"
-                TXT += "* "+"\n* ".join([x.strip() for x in row["keywords"].split(",")])
-                TXT += "\n\n## Themes\n\n"
-                TXT += "* "+"\n* ".join([x.strip() for x in row["themes"].split(",")])
-                TXT += "\n\n## Other\n\n"
-                TXT += "* Category: "+row["category"] +"\n"
-                TXT += "* Type: "+row["type"]
+            fn = "docs/"+ID+".md"
+            if not os.path.isfile(fn):
                 try:
-                    TXT += "\n\n## Summary\n\n"
-                    TXT += summaries[summaries.src == ID].summary.iloc[0]
+                    S = summaries[summaries.src == ID]["title"].iloc[0]
+                    origin = str(df[df.file_name == ID]["origin"].iloc[0])
+                    TXT = "# __"+S +"__, (from page ["+origin+"](https://kghosh.substack.com/p/"+origin+").)\n\n"
+
+                
+                    TXT += "__[External link]("+str(row.url)[2:-1]+")__\n\n"
+                    TXT += "\n\n## Keywords\n\n"
+                    TXT += "* "+"\n* ".join([x.strip() for x in row["keywords"].split(",")])
+                    TXT += "\n\n## Themes\n\n"
+                    TXT += "* "+"\n* ".join([x.strip() for x in row["themes"].split(",")])
+                    TXT += "\n\n## Other\n\n"
+                    TXT += "* Category: "+row["category"] +"\n"
+                    TXT += "* Type: "+row["type"]
+                    try:
+                        TXT += "\n\n## Summary\n\n"
+                        TXT += summaries[summaries.src == ID].summary.iloc[0]
+                    except:
+                        pass
+                    SIG = signals[signals.src == ID]
+                    if len(SIG):
+                        TXT += "\n\n## Signals\n\n"
+                        TXT += SIG[list(SIG.columns)[:-1]].to_markdown(index=False)
+                    CON = cncrn[cncrn.src == ID]
+                    if len(CON):
+                        TXT += "\n\n## Concerns\n\n"
+                        TXT += CON[["name","description"]].to_markdown(index=False)
+                    BVR = behav[behav.src == ID]
+                    if len(BVR):
+                        TXT += "\n\n## Behaviors\n\n"
+                        TXT += BVR[["name","description"]].to_markdown(index=False)
+                    TEK = techs[techs.src == ID]
+                    if len(TEK):
+                        TXT += "\n\n## Technologies\n\n"
+                        TXT += TEK[["name","description"]].to_markdown(index=False)
+                    ISS = issue[issue.src == ID]
+                    if len(ISS):
+                        TXT += "\n\n## Issues\n\n"
+                        TXT += ISS[["name","description"]].to_markdown(index=False)
+                    with open(fn, "w") as f:
+                        f.write(TXT)
                 except:
+                    print("Error with",fn)
                     pass
-                SIG = signals[signals.src == ID]
-                if len(SIG):
-                    TXT += "\n\n## Signals\n\n"
-                    TXT += SIG[list(SIG.columns)[:-1]].to_markdown(index=False)
-                CON = cncrn[cncrn.src == ID]
-                if len(CON):
-                    TXT += "\n\n## Concerns\n\n"
-                    TXT += CON[["name","descriptions"]].to_markdown(index=False)
-                BVR = behav[behav.src == ID]
-                if len(BVR):
-                    TXT += "\n\n## Behaviors\n\n"
-                    TXT += BVR[["name","descriptions"]].to_markdown(index=False)
-                TEK = techs[techs.src == ID]
-                if len(TEK):
-                    TXT += "\n\n## Technologies\n\n"
-                    TXT += TEK[["name","descriptions"]].to_markdown(index=False)
-                ISS = issue[issue.src == ID]
-                if len(ISS):
-                    TXT += "\n\n## Issues\n\n"
-                    TXT += ISS[["name","descriptions"]].to_markdown(index=False)
-                with open("docs/"+ID+".md", "w") as f:
-                    f.write(TXT)
-            except:
-                pass
 
 
     def createPagesIndex(self):
