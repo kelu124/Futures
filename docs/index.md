@@ -1,6 +1,9 @@
 # Overview 
 
 This page tries to capture the information obtained in my [tech watch](https://substack.kghosh.me/). The different links and pages are captured below, trying to catalogue different weak signals.
+* [Shifting Perspectives: The Growing Skepticism Towards AI and Its Implications](29c7deb9342372a5679806355c66d5e2)
+* [Exploring Megatrends: Key Opportunities and Insights for 2025](6494032629e7837b70fa8173aa8ddf6a)
+* [DeepSeek Drives AI Adoption Across Chinese Industries, Enhancing Products and Efficiency](2de041df60f4d626c606c32451b8b9e7)
 * [Emerging Technologies Shape the Future of the AEC Industry in 2025](95d469c68ec86b47c502e645a5b5c141)
 * [AI's Role in Fragmenting Culture and Software: A New Era of Creation](c25f207450d56b52443cc95f158d4138)
 * [Key Trends Shaping the Future of Architecture, Engineering, and Construction by 2025](ff47e6e9ab7061f5cb848d4f10d1e06f)
