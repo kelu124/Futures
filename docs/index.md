@@ -1,6 +1,14 @@
 # Overview 
 
 This page tries to capture the information obtained in my [tech watch](https://substack.kghosh.me/). The different links and pages are captured below, trying to catalogue different weak signals.
+* [Understanding the Origin of Purple: A Unique Brain Creation](1897dff3d6431d49e94f4ed608ad1066)
+* [Exploring the Complex Crisis of Scam Centers in Myanmar and the Plight of Victims](1b91002ee5b425f590ab9c00af4ce874)
+* [The Hidden Role of Silica Gel Packets in Modern Global Supply Chains](e270655b9be8a586dc8c96e28fd502f3)
+* [Study Reveals Wealthy Americans Have Shorter Lifespans Than Wealthy Europeans](9d42c850b3188fa657b08316a6cefb66)
+* [A Journey from Playing Games to Becoming a Programmer through Multi-User Dungeons](62a3dbd983dbf56254705f5567c8df55)
+* [The Challenges and Advances in Simulating the C. elegans Brain Over 25 Years](32e91a01ba181534d1578186bfcc240a)
+* [Exploring the Risks of Heavy Chatbot Use on Mental Health and Social Interactions](424dd84488f34cb7d735777fe34b584e)
+* [Merc Release 2.1: Guidelines for Aspiring Software Engineers](660a40ff9f9b84e44ac720b50563da13)
 * [Advancements and Sustainability in Perovskite LED Technology for Future Applications](3434e9315c934a4922e82b89644e989d)
 * [The Surprising Rise of Wild Parrots in Urban Areas and Their Ecological Impact](1a18baef824e32abe8ed26a1babe5df4)
 * [The Environmental Impact of SpaceX's Starlink Satellite Deorbits and Their Atmospheric Consequences](88f8044f1670ae96127b8bd75755e19e)
