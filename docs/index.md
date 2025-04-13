@@ -1,6 +1,19 @@
 # Overview 
 
 This page tries to capture the information obtained in my [tech watch](https://substack.kghosh.me/). The different links and pages are captured below, trying to catalogue different weak signals.
+* [Exploring Harry Houdini's Legacy in Magic and Espionage History](79b9837c5b7a1635cb7fa3586127b91f)
+* [DeepSeek-V3-0324 Launch: A Game-Changer in Open Source AI Technology](3ee955e2149cdab540660e9513852dfb)
+* [Breakthrough Discovery of New Antibiotic Molecule from Soil Samples](fa6115ae1686f345d64fa1c0c3dfafd5)
+* [Earth AI's Breakthrough in Mineral Discovery Using AI Technology in Australia](01d99c80c2a7c79cb131a6b2038c8c8e)
+* [The Lasting Appeal of Typewriters in a Digital Age](7467a0de89537b8c66275d7469b5d388)
+* [Trump, Musk, and the Risky Overhaul of Social Security by DOGE](0dcc4230d999a62397529a7eadbc0197)
+* [Exploring the Future: How Technology Will Transform Society by 2034](8ef50cfd87ff3eedbc028932b07520b3)
+* [Understanding the Importance of Robust Evaluation Systems in AI Development](036d251f4174f7f407504fbb77e9c7c5)
+* [Rising AI Project Failures Among Enterprises: Challenges and Insights for 2023](dff752bdc4a60d242f9040d19081c206)
+* [Reimagining Urban Spaces: Embracing Wildlife in City Environments](88d958b42141d5ddfae941e43db4eda7)
+* [The Rise of Dungeons & Dragons and Its Impact on Community and Mental Health](674fd490eecf9d22782edc66eaf63ac2)
+* [Experts Predict Dramatic Changes in Human Nature Due to AI by 2035](aedfc5daa90ddd6bccac686585173933)
+* [Deutsche Bank’s DWS Fined $27 Million for Misleading Green Investment Claims](4e8f282e50afedd2828379da96f9d627)
 * [Understanding the Origin of Purple: A Unique Brain Creation](1897dff3d6431d49e94f4ed608ad1066)
 * [Exploring the Complex Crisis of Scam Centers in Myanmar and the Plight of Victims](1b91002ee5b425f590ab9c00af4ce874)
 * [The Hidden Role of Silica Gel Packets in Modern Global Supply Chains](e270655b9be8a586dc8c96e28fd502f3)
