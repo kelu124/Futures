@@ -234,9 +234,11 @@ class Futurist:
         #print(articles)
         story = self.writeStory(articles)
 
-    def getStory(self, id):
+    def getStory(self, ID):
         df = pd.read_parquet(self.ai.srcStories)
-        df = df[df.src == id]
+        #print(len(df),df.src.unique())
+        df.src = df.src.str.strip()
+        df = df[df.src == ID]
         if len(df):
             return "## "+df["title"].iloc[0]+"\n\n"+df["story"].iloc[0]
         else:
