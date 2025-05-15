@@ -1,6 +1,21 @@
 # Overview 
 
 This page tries to capture the information obtained in my [tech watch](https://substack.kghosh.me/). The different links and pages are captured below, trying to catalogue different weak signals.
+* [Innovative Chewing Gum Developed to Neutralize Influenza and Herpes Viruses](ce0713daeab1284e0db3d389eb2c456d)
+* [Future Today Institute Transforms into Future Today Strategy Group, Unveils Tech Trends Report](950754a0809cf0b06033edeb281ffb73)
+* [Innovative Drone Technology Revolutionizes Sewer Inspections in Macomb County, Michigan](28bac8b91bfd9b9da233b9f828cd5220)
+* [Understanding Neurosecurity: Protection for Neural Devices and User Behavior](70be08bc846223ea4b986fd5f9a69bcf)
+* [Innovative Quantum Sensing Technique Revolutionizes Infrastructure and Environmental Monitoring](92eababae2221aa6578c0eb95e5c370a)
+* [Innovative Hairlike 3D-Printable Electrode Improves EEG Monitoring for Brain Activity](45b9a8de8b364a995e54680b57eabcad)
+* [NASA's Quantum Gravity Gradiometer Pathfinder to Revolutionize Earth Science and Exploration](bb9c8da11ad3d8c3ad7ad605d9106e4a)
+* [Lessons from Leonardo da Vinci: Embracing Curiosity, Creativity, and Collaboration in Modern Work](b08992d0830a341605227920fa7a3a45)
+* [The Resistance to AI: Perspectives on Its Ethical, Environmental, and Creative Implications](d6b9f82c326ceb5994d94d5d5d68f0ee)
+* [Washington State's New Child Abuse Reporting Law Sparks Clash with Catholic Church's Confessional Seal](f8cff4ea59965b635525b0610b078877)
+* [Harnessing Quantum Sensing for Sustainable Urban Infrastructure Management](4fddc420c6c76d438d8447e1828e7ed5)
+* [L'impact du numérique et de l'IA sur les générations et l'équilibre émotionnel](c096b0a7c1e64befd2b2fdfeda3b4774)
+* [Southwestern College Struggles with Rise of Fake Students Exploiting Financial Aid](39719c2ea216c84a0912986f67aa5a05)
+* [DARPA’s Intrinsic Cognitive Security Program: Safeguarding Mixed Reality from Cognitive Attacks](1ef9afc963271d8ef3bd9684b0e3d629)
+* [Exploration d'Hypnocratie : Idées, Identité et Intelligence Artificielle dans notre Réalité Partagée](765d35585e856e908f95ba2ef2d2c222)
 * [China Achieves Landmark Success with Thorium-Powered Nuclear Reactor in Gobi Desert](c48f3a9b02f019354d70e1e43401525d)
 * [China's Secret Admission of Cyberattacks on U.S. Infrastructure Linked to Taiwan Conflict](bd6bd379c3077d9f3768f20a111f7fe6)
 * [Intel Plans Major Workforce Reduction to Streamline Operations and Focus on Engineering Culture](8748925e140fbf8e052138fd6b458ecd)
