@@ -1,6 +1,8 @@
 # Overview 
 
 This page tries to capture the information obtained in my [tech watch](https://substack.kghosh.me/). The different links and pages are captured below, trying to catalogue different weak signals.
+* [CIO Advocates for Digital Twins and AI to Enhance Tech Workforce Efficiency at UC San Diego](9decd18c96b2e397a3ca5c1ecd5f8176)
+* [Exploring the Future of Superintelligence and Its Impact on Humanity](8a7f0b887d1b9b17fc4f72a0815ec849)
 * [The AI Implementation Crisis: Emphasizing Human-AI Collaboration to Avoid Regret](6169720fb37bbac4dedfce5795d91cd5)
 * [Fungi May Use Electrical Signals to Communicate, Mimicking Human Speech Patterns](8a8138a46c30cf1e9b25a76cfc264f13)
 * [OpenAI Challenges Court Order on Data Retention Amid Ongoing Lawsuit with The New York Times](e5814d56bec479f1dfa4ac11cf4a400c)
