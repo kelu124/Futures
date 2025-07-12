@@ -1,6 +1,20 @@
 # Overview 
 
 This page tries to capture the information obtained in my [tech watch](https://substack.kghosh.me/). The different links and pages are captured below, trying to catalogue different weak signals.
+* [An Overview of the UK's F-35 Lightning II Program and Its Challenges](b11c1af7e800ee7c65b041a6ddbe9e0b)
+* [Arizona Plague Death Linked to Prairie Dog Die-Off and Rare Disease Cases](87c6af77c7fee02ae9527633a40b2b50)
+* [Hacker for Sinaloa Cartel Spied on U.S. Embassy in 2018, Report Reveals](3dc8b48f04fca27de3d5a45e036ec9eb)
+* [Massive Cyberattack on Nova Scotia Power Affects 280,000 Customers and Compromises Sensitive Data](960a8d9b35740e61eb36055cca0ea362)
+* [Navigating Uncertainty in Coding Careers: Embracing AI and Human Ingenuity](69579b13c16355295735391cbb79e29f)
+* [Ursula Franklin: A Pioneer of Pacifism and Social Justice Advocacy in Canada](dd1e1071baeabdb218da7ffc2e6d481c)
+* [Run Local LLMs Easily with Local LLM Notepad: No Installation Required](ce95b59e51bdfa62f7507689a74ccd20)
+* [Anduril's Fury: The Future of Autonomous Warfare and AI in Combat](85deccc43eda257950f61b7acd662b07)
+* [Explore an Immersive Dungeon Adventure with Generative Technologies](7118cc0a5a982a43267120118b7f6766)
+* [Reclaiming Time: The Case for Time Ownership and Autonomy](feafa0faefec5de7bde81b2469e71081)
+* [Urgent Warning: Threats from Iranian Cyber Hackers to U.S. Critical Infrastructure](605e2654bd3bbaa502827084ca7a44be)
+* [Analyzing AI's Impact on Wages and Employment: Two Diverging Pathways in the Future of Work](ef65b4ec6a48bf076171480f9ec6c8cc)
+* [U.S. Lifts Chip Design Export Ban on China for Rare Earth Material Compromise](f1b541cab285959d215ad40c3a16ac94)
+* [Exploring the Complex Nature of Coolness in Society and Business](bb2ed9fcfac96e3fac78075701b365eb)
 * [Understanding Burnout: The ARMOR Framework for Tech Workers' Resilience](3ee0568fd96a3921f830e3d5703be922)
 * [Frustration Over Forced AI Integration in Everyday Software: A Call for Choice and Regulation](4366333aa2f65ba16b1fea9eef36b315)
 * [Exploring Tensions and Truths in Envisioning Future Possibilities After Recent Events](b752d5e8f3a088df428207c6902c9477)
