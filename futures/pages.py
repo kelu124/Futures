@@ -69,7 +69,7 @@ class PagesWriter:
                 try:
                     S = summaries[summaries.src == ID]["title"].iloc[0]
                     origin = str(df[df.file_name == ID]["origin"].iloc[0])
-                    TXT = "# __"+S +"__, (from page ["+origin+"](https://kghosh.substack.com/p/"+origin+").)\n\n"
+                    TXT = "# __"+S +"__, (from page ["+origin.replace("d","")+"](https://kghosh.substack.com/p/"+origin.replace("d","")+").)\n\n"
 
                 
                     TXT += "__[External link]("+str(row.url)[2:-1]+")__\n\n"
