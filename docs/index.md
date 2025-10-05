@@ -1,6 +1,23 @@
 # Overview 
 
 This page tries to capture the information obtained in my [tech watch](https://substack.kghosh.me/). The different links and pages are captured below, trying to catalogue different weak signals.
+* [Exploring the Intentional Design and Inclusivity of Tokyo Metro System](a7fc810c89d2b62f8a68a9a75088bace)
+* [Caltech Team Develops New Quantum Computer with 6100 Qubits, Breaking Previous Record](2aad0d2567f4d35e5b86eb09b2b070bd)
+* [China's Landmark Climate Emission Reduction Pledge and Its Global Implications](686adeb8f4cee3978e507ad103461f6a)
+* [Exploring AI's Impact on Geopolitics, Economy, and the Environment in 2025](2e17bc938e25843ff2f0cd7f7921ef35)
+* [Projected Surge in Global Cancer Cases and Deaths: Focus on Lower-Income Countries](44a892a126d54424ddd21d7e27976b85)
+* [A Major Surge in Solar Panel Imports Signals Growth in Africa's Renewable Energy Sector](a20725d5082be9178533392deb5ca4fd)
+* [Exploring the Concept of Otroverts: A New Personality Type Beyond Introverts and Extroverts](ee584da3ab69b09c802b62fdd86fa286)
+* [Resilience 2.0: A Strategic Foresight Report for the EU's Future Security and Growth](a4b221bd40d351c2ed13fa1bbbc74056)
+* [China Renounces Developing-Country Status in WTO to Strengthen Global Trade Amid Tariff Wars](6cf3fe7e68a011176c8e87af8877acef)
+* [UC Davis Health Leads $16 Million Study on AI in Mammogram Interpretation for Breast Cancer Detection](846c0e3bad3cff41ac11609ecb907b14)
+* [Understanding Otroverts: The Gift of Embracing Otherness and Freedom from Belonging](ca7b62daaef4ca0639c867620d8682e4)
+* [New Oral GLP-1 Drug Shows Significant Weight Loss in Phase III Trial](8218ec191c266e0838a01a222a184472)
+* [A Deep Dive into the Swatting Calls Targeting High-Level Officials in 2023](13d0e91399a9ece7af592211932cba9b)
+* [Beau Miles Revisit: Reflecting on Four Years of Forest Growth After Planting 1440 Trees](322059ee66b4d3950cecf00c6cb11a8e)
+* [Putin's Military Recruitment Surge Signals Potential NATO Conflict Amid Tensions](295482a81133d3b07fbb57a9b31cd3c6)
+* [EU Targets Big Tech Over Online Financial Fraud Compliance and Regulation](9f00a202a57779259fe6d6291b5773bf)
+* [U.N. Security Council Addresses the Challenges and Opportunities of Artificial Intelligence](ca000dd628ace8fa385910be496aaf7e)
 * [The Impact of Job Qualification on Early Career Success in the US Air Force](44a772921990996c62f0890c4b6883b5)
 * [RICS Introduces Mandatory AI Standard for Construction by March 2026](ea166a02759c00ddcd49f978ed0ec9e4)
 * [Exploring the Intersection of Technology and Sci-Fi: Insights on AI, Predictive Policing, and Drone Warfare](026209244953fa87db05ebd0105fb0c4)
