@@ -1,6 +1,19 @@
 # Overview 
 
 This page tries to capture the information obtained in my [tech watch](https://substack.kghosh.me/). The different links and pages are captured below, trying to catalogue different weak signals.
+* [The Rise of AI Chatbots in China's Mental Health Landscape: Opportunities and Risks](70e9fcd5fc1d2dd04ae1df8b2628194d)
+* [Online Private Investigators: The Intersection of Infidelity and Public Shaming in the Social Media Age](2f64e6efd6cc222f233033a8549f1d82)
+* [Navigating Organizational Chaos: The Role of AI and Human Judgment in Adoption](95f960a9689f6c13694908fb762c84e5)
+* [Exploring Cultural Heritage Through AI: Armenia's Pavilion at Venice Biennale 2025](34b4d87b744230499df1eb6a00d5c11d)
+* [The Role of AI in Software Development: Revolutionizing Code Writing and Engineering Standards](43ee17235c4fbb08b701fe8512c15180)
+* [The Impact of AI in Chinese Education: Promise and Concerns](5374f9d1b84138f1c928c0e7fd727877)
+* [The Hidden Power of Writing Fan Letters in Your Artistic Journey](077c5f18b0f03ca1c83dadefbc636aaf)
+* [The Perils of Expertise: How Assumptions Can Hinder Market Understanding](2cf6f5729ee4e412f3083c0db2f76c9f)
+* [Reviving Ancient Trade Routes: The Standing Buffalo Dakota Nation's Economic Initiative](a1f4b89071fb2dba681cf57060ccb391)
+* [Balancing AI Integration: Avoiding Cognitive Atrophy in Organizations](7bc86d3c4ba53a11310e6d0003b52124)
+* [Bone-02: A Revolutionary Oystery-Inspired Medical Adhesive for Faster Bone Healing](b5719bff3b686b78a94f9366f16cfe8a)
+* [The Rise of a Permanent Underclass Due to AI Automation and Its Implications](43ffd54cf0bb675f362e9c9295e7e7c1)
+* [Tech Trends Report 2026: Insights on Technology's Impact on Education and Research](dabb5ceb885639af09d8904cff70e044)
 * [Customer Frustrations with Deutsche Bahn's Subscription Practices and Poor Service Transparency](e48cf1fdbf39c7af0cb269bdbf72ac85)
 * [Britain's Water Crisis: The Debate Over Reservoirs vs. Sustainable Solutions](91f5d870184203cdc8fbb87dede02fe8)
 * [Lufthansa Plans to Cut 4,000 Jobs by 2030 Amidst AI and Efficiency Initiatives](860b9b2dbbfdee7fe644945983121c05)
