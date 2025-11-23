@@ -152,7 +152,7 @@ class Futurist:
         return META
 
 
-    def writeStory(self, ids):
+    def writeStory(self, ids,redo=[]):
         """Takes dictionnary, title plus list of articles"""
         
         try:
@@ -174,7 +174,7 @@ class Futurist:
             #print("- Checking story for", s)
             if s != None :
                 #print("- Story for", s)
-                if s not in stories_id:
+                if (s not in stories_id) or (s in redo):
                     print("- Doing story for", s)
                     summaries = list(df[df.src.isin(ids[s])].summary)
                     if len(summaries) > 6:
@@ -229,10 +229,11 @@ class Futurist:
                 articles[orig]=list(df[df.origin == orig].file_name)
         return articles
     
-    def writeAllStories(self):
+    def writeAllStories(self,redo=[]):
         articles = self.getLinksPerArticle()
         #print(articles)
-        story = self.writeStory(articles)
+        story = self.writeStory(articles, redo=redo)
+        return story
 
     def getStory(self, ID):
         df = pd.read_parquet(self.ai.srcStories)
@@ -240,7 +241,8 @@ class Futurist:
         df.src = df.src.str.strip()
         df = df[df.src == ID]
         if len(df):
-            return "## "+df["title"].iloc[0]+"\n\n"+df["story"].iloc[0]
+            #print(len(df))
+            return "## "+df["title"].iloc[-1]+"\n\n"+df["story"].iloc[-1]
         else:
             return "No story for this ID"
         

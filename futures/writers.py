@@ -23,7 +23,7 @@ def get_llm_response(query,vectordb,temperature=0.1,k=10):
 
     return answer, matching_docs
 
-df = pd.read_parquet("data/consolidated.parquet.gzip")
+
 
 STYLE = """* Master the Art of Footnotes: Treat them as your secret weapon. Use them to share amusing observations that pop into your head while telling the story. These asides should feel like you're whispering a clever joke to your reader without derailing the main narrative.
 * Embrace the Pun-possible: Keep a sharp eye out for common phrases that could be twisted or taken literally in unexpected ways. If you spot a potential wordplay, don't resist it – Pratchett certainly wouldn't. But remember, the best puns aren't just groaners; they should also illuminate something about your story or characters.
@@ -40,11 +40,12 @@ AND THE MOST IMPORTANT
 """
 
 def getStories():
+    df = pd.read_parquet("data/consolidated.parquet.gzip")
     src = [x for x in list(df.origin.unique()) if str(x).startswith("202")]
     stories = []
 
     for s in src:
-
+        print(s)
         REFS = list( df[df.origin == s].summary )
         if len(REFS) > 6:
             context = "* "+ "\n* ".join(REFS)
@@ -53,13 +54,13 @@ def getStories():
             prompt += "You are a sci-fi writer, and you want to write a short story in one page or slightly less, that takes place in today world and seems very realistic.\n\n"
             prompt += "You are given summaries of texts that contains elements (possibly forward-looking) that can feed this short story. Try and use each of the summaries, especially the 'innovative' parts.\n\n"
             prompt += "You need to pick a theme for that story (which you don't need to tell me) and make it the backbone of the story.\n\nStart and give it a try! Don't forget to add at least a point in the story that comes from each  bullet point, but you can interleave the different points of course. Give me around one page that surprising short story - you don't need to give me any intro to it."
-            prompt += "\n\n## How to do it\n\n"+"* Change any reference to personal names so to anonymyse real persons names\n")
+            prompt += "\n\n## How to do it\n\n"+"* Change any reference to personal names so to anonymyse real persons names\n"
             prompt += "* You will use a style mix of Terry Pratchett and Philip K Dick:\n\n"+STYLE
             prompt += "\n\nStill, your style needs to be simple and readable by a 20yo, and keep a simple writing style.\n\n"
             prompt += "\n\n## Summaries of texts\n\n"+ context
             story = llm.invoke(prompt).content
             title = llm.invoke("Give a title to the short story below. Don't use quotes or any accompanying text:\n\n"+story).content
-
+            print(s,title)
             stories.append([s,title,story])
 
     STORY  = pd.DataFrame(stories,columns=["post","title","story"])
