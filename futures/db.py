@@ -252,9 +252,11 @@ class DB:
         titles = pd.read_parquet(self.srcSummaries)
         for lx in list(set(lst)):
             # print(lx)
-            title = titles[titles["src"] == lx].iloc[0]["title"]
-            MD += "\n* [" + title + "](https://futures.kghosh.me/" + lx + ")"
-
+            try:
+                title = titles[titles["src"] == lx].iloc[0]["title"]
+                MD += "\n* [" + title + "](https://futures.kghosh.me/" + lx + ")"
+            except:
+                pass
 
         with open(path+folder+name+".md", "w") as fi:
             fi.write(MD)
