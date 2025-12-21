@@ -3,6 +3,8 @@ import random
 import json
 from futures.commons import intersection
 import os
+import glob
+
 
 class PagesWriter:
 
@@ -120,6 +122,19 @@ class PagesWriter:
 
         for ix, row in summaries.iterrows():
             INDEX += "\n* ["+row["title"]+"]("+row["src"]+")"
+
+
+        INDEX += "\n\n---\n\n"
+
+        TOP = glob.glob("docs/analyses/topics/**/*.md", recursive=True)
+        print(TOP)
+        YRLY = glob.glob("docs/analyses/yearly/**/*.md", recursive=True)
+
+        INDEX += "# Analyses by Topic\n\n"
+        for p in TOP:
+            with open(p, "r") as f:
+                name = f.readline().replace("# *Topic*: ","").strip()
+            INDEX += "\n* ["+name+"]("+p[5:]+")"
 
         with open("docs/index.md", "w") as f:
             f.write(INDEX) 

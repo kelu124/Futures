@@ -219,27 +219,33 @@ class DB:
 
         return seeds, behav, issue, techs, concerns
 
-    def writeOracleTopic(self, topic, path = "./", name = "exploration.md", k=30):
+    def writeOracleTopic(self, topic= "AI in infrastructure companies", path = "./", name = None, k=30):
         """Writes about a topic, picking 30 articles, 5 cards of each"""
-        topic = "AI in infrastructure companies"
+        if not name:
+            NAME = ''.join(char.lower() for char in topic if char.isalpha())
+            name = NAME
+        else:
+            NAME = name
+        folder = NAME+"/"
+        os.makedirs(path+folder, exist_ok=True)
         txt, lst = self.getSummary(topic, k)
         a, b, c, d, e = self.getCards(lst, topic=topic, top_k=5)
         MD = "# *Topic*: " + topic + "\n\n"
         MD += "# Summary\n\n" + txt + "\n\n"
         MD += "# Seeds\n\n" + a[["name","description","change","10-year","driving-force"]].to_markdown() + "\n\n"
         MD += "# Concerns\n\n" + e[["name","description"]].to_markdown() + "\n\n"
-        MD += "# Behaviors\n\n" + b[["name","description"]].to_markdown() + "\n\n"
-        MD += "# Issues\n\n" + c[["name","description"]].to_markdown() + "\n\n"
-        MD += "# Technologies\n\n" + d[["name","description"]].to_markdown() + "\n\n"
+        #MD += "# Behaviors\n\n" + b[["name","description"]].to_markdown() + "\n\n"
+        #MD += "# Issues\n\n" + c[["name","description"]].to_markdown() + "\n\n"
+        #MD += "# Technologies\n\n" + d[["name","description"]].to_markdown() + "\n\n"
         MD += "# Cards\n\n"
 
-        p = self.createBigCards(e, "Concern", path)
+        p = self.createBigCards(e, "Concern", path+folder)
         MD += "## Concerns\n\n![Concerns](Concern.png)\n\n"
-        p = self.createBigCards(b, "Behavior", path)
+        p = self.createBigCards(b, "Behavior", path+folder)
         MD += "## Behaviors\n\n![Behavior](Behavior.png)\n\n"
-        p = self.createBigCards(c, "Issue", path)
+        p = self.createBigCards(c, "Issue", path+folder)
         MD += "## Issue\n\n![Issue](Issue.png)\n\n"
-        p = self.createBigCards(d, "Technology", path)
+        p = self.createBigCards(d, "Technology", path+folder)
         MD += "## Technology\n\n![Technology](Technology.png)\n\n"
 
         MD += "# Links\n\n"
@@ -250,7 +256,7 @@ class DB:
             MD += "\n* [" + title + "](https://futures.kghosh.me/" + lx + ")"
 
 
-        with open(path+name+".md", "w") as fi:
+        with open(path+folder+name+".md", "w") as fi:
             fi.write(MD)
         return MD
 
