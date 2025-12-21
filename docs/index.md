@@ -3260,3 +3260,4 @@ This page tries to capture the information obtained in my [tech watch](https://s
 
 
 * [AI in infrastructure companies](analyses/topics/aiininfrastructurecompanies/aiininfrastructurecompanies.md)
+* [the use of AI for companionship](analyses/topics/theuseofaiforcompanionship/theuseofaiforcompanionship.md)

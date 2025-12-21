@@ -127,7 +127,7 @@ class PagesWriter:
         INDEX += "\n\n---\n\n"
 
         TOP = glob.glob("docs/analyses/topics/**/*.md", recursive=True)
-        print(TOP)
+        #print(TOP)
         YRLY = glob.glob("docs/analyses/yearly/**/*.md", recursive=True)
 
         INDEX += "# Analyses by Topic\n\n"
