@@ -3256,8 +3256,39 @@ This page tries to capture the information obtained in my [tech watch](https://s
 
 ---
 
+
+
 # Analyses by Topic
 
 
 * [AI in infrastructure companies](analyses/topics/aiininfrastructurecompanies/aiininfrastructurecompanies.md)
-* [the use of AI for companionship](analyses/topics/theuseofaiforcompanionship/theuseofaiforcompanionship.md)
+* [AI Integration in Daily Life](analyses/topics/aiintegrationindailylife/aiintegrationindailylife.md)
+* [Autonomous Robotics](analyses/topics/autonomousrobotics/autonomousrobotics.md)
+* [Brain-Computer Interfaces (BCIs)](analyses/topics/braincomputerinterfacesbcis/braincomputerinterfacesbcis.md)
+* [Collaborative Knowledge Sharing](analyses/topics/collaborativeknowledgesharing/collaborativeknowledgesharing.md)
+* [Consumer Behavior Changes](analyses/topics/consumerbehaviorchanges/consumerbehaviorchanges.md)
+* [Crisis of Misinformation through AI](analyses/topics/crisisofmisinformationthroughai/crisisofmisinformationthroughai.md)
+* [Cultural Homogenization](analyses/topics/culturalhomogenization/culturalhomogenization.md)
+* [Dependency on AI Technology](analyses/topics/dependencyonaitechnology/dependencyonaitechnology.md)
+* [Disconnection from Reality](analyses/topics/disconnectionfromreality/disconnectionfromreality.md)
+* [Emotional AI](analyses/topics/emotionalai/emotionalai.md)
+* [Experience-Driven Consumerism](analyses/topics/experiencedrivenconsumerism/experiencedrivenconsumerism.md)
+* [Geopolitical Tensions Over Resources](analyses/topics/geopoliticaltensionsoverresources/geopoliticaltensionsoverresources.md)
+* [Holistic Health Tracking](analyses/topics/holistichealthtracking/holistichealthtracking.md)
+* [Inequality in Access](analyses/topics/inequalityinaccess/inequalityinaccess.md)
+* [Mental Health Crisis Among Youth](analyses/topics/mentalhealthcrisisamongyouth/mentalhealthcrisisamongyouth.md)
+* [Neurodivergent Expression & Inclusion](analyses/topics/neurodivergentexpressioninclusion/neurodivergentexpressioninclusion.md)
+* [Neurotechnology](analyses/topics/neurotechnology/neurotechnology.md)
+* [Quality Control Challenges in AI](analyses/topics/qualitycontrolchallengesinai/qualitycontrolchallengesinai.md)
+* [Redefining Identities](analyses/topics/redefiningidentities/redefiningidentities.md)
+* [Shift Toward Wellness and Authenticity](analyses/topics/shifttowardwellnessandauthenticity/shifttowardwellnessandauthenticity.md)
+* [Skepticism towards AI Integration](analyses/topics/skepticismtowardsaiintegration/skepticismtowardsaiintegration.md)
+* [Smart Home Integration](analyses/topics/smarthomeintegration/smarthomeintegration.md)
+* [Technological Dependency](analyses/topics/technologicaldependency/technologicaldependency.md)
+
+# Yearly reviews
+
+
+* [2025 review](analyses/yearly/2025_claude.md)
+* [Review of 2025!!](analyses/yearly/2025.md)
+* [2025 review](analyses/yearly/2025_linked.md)

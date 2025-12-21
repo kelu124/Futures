@@ -127,13 +127,20 @@ class PagesWriter:
         INDEX += "\n\n---\n\n"
 
         TOP = glob.glob("docs/analyses/topics/**/*.md", recursive=True)
-        #print(TOP)
-        YRLY = glob.glob("docs/analyses/yearly/**/*.md", recursive=True)
+        TOP.sort()
 
-        INDEX += "# Analyses by Topic\n\n"
+        INDEX += "\n\n# Analyses by Topic\n\n"
         for p in TOP:
             with open(p, "r") as f:
                 name = f.readline().replace("# *Topic*: ","").strip()
+            INDEX += "\n* ["+name+"]("+p[5:]+")"
+
+        #print(TOP)
+        YRLY = glob.glob("docs/analyses/yearly/**/*.md", recursive=True)
+        INDEX += "\n\n# Yearly reviews\n\n"
+        for p in YRLY:
+            with open(p, "r") as f:
+                name = f.readline().replace("#","").strip()
             INDEX += "\n* ["+name+"]("+p[5:]+")"
 
         with open("docs/index.md", "w") as f:
