@@ -31,6 +31,7 @@ class UrbanAICardGenerator:
                 "content": "Digitalisation of life has seen data centres urbanise to provide low latency and real-time responsiveness to consumers. Their energy, water and space needs, as well as waste heat, are some of the issues urban planners need to consider.",
                 "source": "CIDOB, 2023",
                 "timing": "NOW",
+                "id": "card_test_001",
                 "color": "green"
             },
             {
@@ -38,6 +39,7 @@ class UrbanAICardGenerator:
                 "content": "Generative AI adoption is allowing designers to explore new ideas, including previously unimagined ones, much faster than traditional methods. Here, designers are increasingly using text prompts to generate unique visuals within minutes, supporting rapid ideation and explore design concepts more efficiently.",
                 "source": "Forbes, 2024",
                 "timing": "NOW",
+                "id": "card_test_002",
                 "color": "blue"
             },
             {
@@ -45,6 +47,7 @@ class UrbanAICardGenerator:
                 "content": "AI is only as good as the data it is trained on. Poor data in models can perpetuate bias, causing unintended and discriminative consequences in solution designs/plans.",
                 "source": "OCHR, 2024",
                 "timing": "NEAR",
+                "id": "card_test_003",
                 "color": "red"
             },
             {
@@ -52,6 +55,7 @@ class UrbanAICardGenerator:
                 "content": "Using AI to create higher fidelity and more accessible digital twins, this can help planners better analyze, prepare and respond to potential climate events and population shocks, aiding greater levels of urban resilience.",
                 "source": "Frontiers Policy Labs, 2024",
                 "timing": "NEAR",
+                "id": "card_test_004",
                 "color": "red"
             },
             {
@@ -59,6 +63,7 @@ class UrbanAICardGenerator:
                 "content": "AI has the potential to make projects more efficient, inclusive and creative but carries risks due to bias, privacy issues, and over-reliance on technology. Balancing regulation and human insight will be crucial.",
                 "source": "Archdaily, 2024",
                 "timing": "NEAR",
+                "id": "card_test_005",
                 "color": "blue"
             },
             {
@@ -66,6 +71,7 @@ class UrbanAICardGenerator:
                 "content": "With interventions across the construction lifecycle, AI can improve location selection, pre-building, accelerate planning by generating multiple design proposals with the latest building codes and regulations as well as optimise construction sites and processes.",
                 "source": "UN OHCHR, 2023",
                 "timing": "NEAR",
+                "id": "card_test_006",
                 "color": "red"
             },
             {
@@ -73,6 +79,7 @@ class UrbanAICardGenerator:
                 "content": "Using AI to break silos and integrate our systems and infrastructure could allow for vastly improved and responsive urban services and infrastructure.",
                 "source": "Wired, 2023",
                 "timing": "NEXT",
+                "id": "card_test_007",
                 "color": "gray"
             },
             {
@@ -80,6 +87,7 @@ class UrbanAICardGenerator:
                 "content": "New highly iterative methods of urban planning could emerge by converting text prompts into photorealistic designs for public feedback, bringing citizens early in the design process to shape their city.",
                 "source": "Forbes, 2024",
                 "timing": "NEXT",
+                "id": "card_test_008",
                 "color": "light_blue"
             },
             {
@@ -87,6 +95,7 @@ class UrbanAICardGenerator:
                 "content": "Public spending pressures are universal around the globe and increasing. Delivering more with limited resources creates the need for resource and time efficiency across the design and planning lifecycle.",
                 "source": "UNCTAD, 2024",
                 "timing": "NOW",
+                "id": "card_test_009",
                 "color": "green"
             },
             {
@@ -94,6 +103,7 @@ class UrbanAICardGenerator:
                 "content": "Immersive and personalised urban experiences such as 3D billboards are increasingly prevalent. AI can help this infrastructure adapt in real time to environmental conditions and user preferences.",
                 "source": "Artist, Warm & Fuzzy, 2023",
                 "timing": "NEXT",
+                "id": "card_test_010",
                 "color": "gray"
             }
         ]
@@ -158,9 +168,9 @@ class UrbanAICardGenerator:
         
         # Generate MD5 hash (8 characters) from the title
         title_hash = hashlib.md5(card_data["title"].encode()).hexdigest()#[:8]  # First 8 characters
-        
+        URL = card_data["ID"]
         # Generate QR code that points to a URL with the hash
-        qr_url = f"https://futures.kghosh.me/{title_hash}"
+        qr_url = f"https://futures.kghosh.me/{URL}"
         qr = qrcode.QRCode(
             version=1,
             error_correction=qrcode.constants.ERROR_CORRECT_L,
@@ -259,7 +269,7 @@ class UrbanAICardGenerator:
             #safe_title = card_data["title"].replace(" ", "_")[:20]  # Truncate and make filename safe
             filename = f"{output_dir}/card_{id}.png"
             # Save with transparency
-            card_img.save(filename, format="PNG")
+            card_img.save(filename, format="png")
             if debug:
                 print(f"Generated card: {filename}")
         return ids
@@ -293,14 +303,15 @@ class UrbanAICardGenerator:
         
         return output_file
 
-    def generate_custom_card(self, title, content, source, timing, color, debug = False):
+    def generate_custom_card(self, title, content, source, timing, color, ID, debug = False):
         """Generate a custom card with user-provided content"""
         custom_card_data = {
             "title": title,
             "content": content,
             "source": source,
             "timing": timing,
-            "color": color
+            "color": color,
+            "id": ID
         }
         
         card_img = self.create_card(custom_card_data)

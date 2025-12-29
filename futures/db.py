@@ -272,6 +272,7 @@ class DB:
                       }
         src = classified[typItem]["source"]
         clr = classified[typItem]["color"]
+        b["ID"] = b["src"]
         self.createCards(b,source=src, color=clr)
         dn = path+typItem+".png"
         self.generate_grid(b, source=src, color=clr, rows=2, cols=3, output_file=dn)
