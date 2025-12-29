@@ -167,10 +167,12 @@ class UrbanAICardGenerator:
         draw = ImageDraw.Draw(img)
         
         # Generate MD5 hash (8 characters) from the title
-        title_hash = hashlib.md5(card_data["title"].encode()).hexdigest()#[:8]  # First 8 characters
-        URL = card_data["ID"]
+        
+
         # Generate QR code that points to a URL with the hash
-        qr_url = f"https://futures.kghosh.me/{URL}"
+
+        ID = card_data["id"]
+        qr_url = f"https://futures.kghosh.me/{ID}"
         qr = qrcode.QRCode(
             version=1,
             error_correction=qrcode.constants.ERROR_CORRECT_L,
@@ -232,7 +234,7 @@ class UrbanAICardGenerator:
         draw.text((35, self.card_height - 70), source_text, font=self.source_font, fill=text_color)
         
         # Draw MD5 hash below the source
-        draw.text((35, self.card_height - 35), title_hash, font=self.hash_font, fill=text_color)
+        draw.text((35, self.card_height - 35), ID, font=self.hash_font, fill=text_color)
         
         # Draw timing label at bottom right
         timing_text = card_data["timing"]
@@ -247,6 +249,8 @@ class UrbanAICardGenerator:
         )
         
         return img
+
+
     
     def generate_cards(self, cards_to_generate=None, output_dir="docs/imgs", debug = False):
         """Generate multiple cards and save to output directory"""
@@ -261,25 +265,28 @@ class UrbanAICardGenerator:
         # Generate and save each card
         ids = []
         for i, card_data in enumerate(cards_to_generate):
-            id = hashlib.md5(str(card_data).encode()).hexdigest()
             ids.append(id)
             card_img = self.create_card(card_data)
             # Create filename using hash of title for uniqueness
             #title_hash = hashlib.md5(card_data["title"].encode()).hexdigest()[:8]
             #safe_title = card_data["title"].replace(" ", "_")[:20]  # Truncate and make filename safe
-            filename = f"{output_dir}/card_{id}.png"
+            IDTOHASH = card_data["id"]+card_data["title"]
+            title_hash = hashlib.md5(IDTOHASH.encode()).hexdigest()#[:8]  # First 8 characters
+            filename = f"{output_dir}/card_{title_hash}.png"
             # Save with transparency
             card_img.save(filename, format="png")
             if debug:
                 print(f"Generated card: {filename}")
         return ids
 
-    def generate_grid(self, selected_cards, rows=2, cols=3, output_file="urban_ai_cards_grid.png",debug=False):
+    def generate_grid(self, selected_cards=None, rows=2, cols=3, output_file="urban_ai_cards_grid.png",debug=False):
         """Generate a grid of cards and save as a single image"""
         num_cards = rows * cols
-        
-        if not len(selected_cards):
+        if not selected_cards:
             selected_cards = self.sample_cards
+        else:
+            if not len(selected_cards):
+                selected_cards = self.sample_cards
             
         selected_cards = selected_cards[:]
         
@@ -315,8 +322,9 @@ class UrbanAICardGenerator:
         }
         
         card_img = self.create_card(custom_card_data)
-        safe_title = title.replace(" ", "_")[:20]  # Use part of title for filename
-        filename = f"custom_card_{safe_title}.png"
+        IDTOHASH = custom_card_data["id"]+custom_card_data["title"]
+        title_hash = hashlib.md5(IDTOHASH.encode()).hexdigest()#[:8]  # First 8 characters
+        filename = f"card_{title_hash}.png"
         # Save with transparency
         card_img.save(filename, format="PNG")
         if debug:
@@ -329,7 +337,8 @@ if __name__ == "__main__":
     generator = UrbanAICardGenerator()
     
     # Generate all sample cards
-    generator.generate_cards(debug=True)
+    generator.generate_cards(output_dir="./",debug=True)
+    
     
     # Generate a 3x3 grid of cards
     generator.generate_grid(rows=3, cols=3, debug=True)
@@ -341,5 +350,6 @@ if __name__ == "__main__":
         source="Smart Cities Journal, 2024",
         timing="NEAR",
         color="blue",
+        ID = "custom_card_xxx",
         debug = True
     )
