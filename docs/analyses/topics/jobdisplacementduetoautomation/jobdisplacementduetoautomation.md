@@ -24,7 +24,7 @@ The conversation around AI and automation is ongoing, with a consensus that whil
 |---:|:---------------------------------------------|:-----------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------|
 |  0 | Displacement of Industrial Workers by Robots | Robots are increasingly displacing manual labor in industrial sectors.                               | Shift from human manual labor to robotic automation in industrial jobs.                                   | Industrial sectors may see a predominant use of robots for various manual tasks.                              | Advancements in robotics technology and cost-effectiveness of automation.                                    |
 |  1 | Labor Market Adaptation                      | Workers are adapting to automation rather than facing mass job loss.                                 | Change in perception from mass unemployment fears to job transformation and adaptation.                   | 10-year outlook may show continued adaptation of job roles rather than replacement by automation.             | Historical resilience of labor markets and ability of workers to evolve roles amidst technological change.   |
-|  2 | Emergence of New Job Categories              | Automation technology is likely to create jobs that currently don't exist.                           | Shift from traditional roles to newly created positions driven by automation trends.                      | The job market may see a burgeoning of roles focused on managing and developing AI technologies.              | Rapid technological advancements driving the necessity for new job roles and skills.                         |
+|  2 | Gig Economy Expansion                        | Roles in gig economy platforms may expand due to automation displacing traditional jobs.             | Growth from traditional employment to gig-based roles in various sectors.                                 | Increased reliance on gig economy work may change the concept of job security and benefits.                   | Shift in consumer preferences towards flexible work and services driven by technology.                       |
 |  3 | Disparity in Job Impact                      | White-collar jobs are at a higher risk of automation compared to manual labor jobs.                  | Increased automation in office roles while manual jobs remain relatively safe from AI.                    | Employment landscape may favor manual labor roles over white-collar positions due to automation.              | The nature of tasks performed in white-collar versus manual labor jobs.                                      |
 |  4 | Changing Perception of Roles                 | Job titles are disappearing as automation reshapes roles and responsibilities in various fields.     | From traditional role definitions to new hybrid roles that emphasize creativity and strategic thinking.   | Job roles will be more fluid, emphasizing skill bundles and adaptability over fixed titles.                   | The need for businesses to stay competitive in an AI-driven economy creates demand for versatile skill sets. |
 |  5 | Automation as a Job Creator                  | Automation could lead to the creation of new job categories, offsetting losses in traditional roles. | Transition from viewing automation solely as a job threat to recognizing its potential for job creation.  | In ten years, new job roles may emerge that focus on managing and maintaining automated systems.              | The need for efficiency and productivity in various sectors pushing for more automation.                     |
@@ -69,28 +69,28 @@ The conversation around AI and automation is ongoing, with a consensus that whil
 # Links
 
 
-* [MIT Study Challenges AI Job Displacement Fears with Economic Viability Insights](https://futures.kghosh.me/89ee61cc0d9fa77ecb1eb4100622a53f)
-* [The Impact of AI on Wages and Human Adaptation in the Workforce](https://futures.kghosh.me/faa0e4de05145c04c5d22a8449a70d95)
-* [The Impact of AI on Employment: A Shift in Vulnerability from Blue-Collar to White-Collar Jobs](https://futures.kghosh.me/ce379c62e35a93a1d93fce2061cabb74)
 * [The Role of AI Copilots in Transforming White-Collar Workflows and Opportunities for Startups](https://futures.kghosh.me/fb3e9547ab9dcd19c85e551ae3230a30)
-* [The Future of Corporate America: AI's Role in Replacing Middle Management and Transforming Retail Workforces](https://futures.kghosh.me/95ddb5a9e335a7f5f977a4ff7b1d17e3)
-* [Preparing for AI Job Displacement: The Case for Universal Basic Income](https://futures.kghosh.me/550efa34f0d3da2d8dc49d97f98859d9)
-* [The Impact of AI on Employment: Predictions, Layoffs, and the Future of Work](https://futures.kghosh.me/b0e031972e42be984d1309170155800e)
-* [The Promise and Risks of Automation: Creating Jobs While Navigating Challenges](https://futures.kghosh.me/7e84b45a4f5f2bdecec14572bc5fe323)
-* [The Impending Shift in Job Markets Due to AI Automation and Its Implications](https://futures.kghosh.me/089ff2f5d42f901983cb8fdc4f213ced)
-* [A Historical Overview of Fears Surrounding Technological Unemployment from 1920s to 2020s](https://futures.kghosh.me/722403da2630fcd2d36f3eb46d87e276)
 * [The Future of Work: Navigating Deskilling in an Automated World](https://futures.kghosh.me/ad98d6b30beed537d0d8b01d9db6491b)
-* [The Impact of New Technologies on Labor Markets: Insights and Challenges](https://futures.kghosh.me/096459a1ab888f94f55ea8ac6d15235f)
+* [MIT Study Challenges AI Job Displacement Fears with Economic Viability Insights](https://futures.kghosh.me/89ee61cc0d9fa77ecb1eb4100622a53f)
+* [The Future of Jobs in Advertising: Impact of AI and Automation by 2030](https://futures.kghosh.me/54491b49e9fd2c6eab777dca0ba67e76)
 * [AI's Impact on Society: Job Displacement and the Need for Retraining](https://futures.kghosh.me/cf119665e47c7434e3e3c54dbbc585e3)
-* [How AI Could Transform Work-Life Balance and Job Dynamics in Various Industries](https://futures.kghosh.me/bc5ff4c170f1f63b34eb7ca70775d8d7)
-* [Unraveling AI's Impact on Young Job Seekers: A Complex Debate](https://futures.kghosh.me/e32d04126d9c10f116be0ec272bd7a20)
 * [The Impact of Generative AI on Automation and Employment: Opportunities and Challenges Ahead](https://futures.kghosh.me/897ed4ea5ae6173e4397f1091ddb7e7e)
+* [Impact of Generative AI on Early-Career Employment: A Study](https://futures.kghosh.me/6286563cae4851c1c414fffd13d908c2)
+* [Preparing for AI Job Displacement: The Case for Universal Basic Income](https://futures.kghosh.me/550efa34f0d3da2d8dc49d97f98859d9)
+* [The Future of Corporate America: AI's Role in Replacing Middle Management and Transforming Retail Workforces](https://futures.kghosh.me/95ddb5a9e335a7f5f977a4ff7b1d17e3)
+* [Navigating Job Transitions: Embracing AI and Automation with Confidence](https://futures.kghosh.me/b0d2ee7f12089094cc1ccbe512130503)
+* [Goldman Sachs Report: 300 Million Jobs Could Be Automated by AI Innovations](https://futures.kghosh.me/8bf628f811052831ab699f75caeb0205)
 * [The Future of AI: Challenging the Optimistic Narrative of Transformation and Equality](https://futures.kghosh.me/aa208a5edc5bcaddb6081ee6ca8bb7d3)
 * [Rethinking Jobs: From Manufacturing Nostalgia to Thriving Service Economies and Future Work](https://futures.kghosh.me/c13f2cb6cfa1728ffddc82e36c0d126d)
-* [Analyzing the Impact of AI on Job Markets: A Historical Perspective](https://futures.kghosh.me/0e88862a1eff3e62cb08365a90a37f70)
-* [Impact of Generative AI on Early-Career Employment: A Study](https://futures.kghosh.me/6286563cae4851c1c414fffd13d908c2)
-* [The Future of Jobs in Advertising: Impact of AI and Automation by 2030](https://futures.kghosh.me/54491b49e9fd2c6eab777dca0ba67e76)
-* [Goldman Sachs Report: 300 Million Jobs Could Be Automated by AI Innovations](https://futures.kghosh.me/8bf628f811052831ab699f75caeb0205)
 * [Analyzing AI's Impact on Wages and Employment: Two Diverging Pathways in the Future of Work](https://futures.kghosh.me/ef65b4ec6a48bf076171480f9ec6c8cc)
-* [Navigating Job Transitions: Embracing AI and Automation with Confidence](https://futures.kghosh.me/b0d2ee7f12089094cc1ccbe512130503)
+* [Analyzing the Impact of AI on Job Markets: A Historical Perspective](https://futures.kghosh.me/0e88862a1eff3e62cb08365a90a37f70)
+* [The Impact of AI on Employment: Predictions, Layoffs, and the Future of Work](https://futures.kghosh.me/b0e031972e42be984d1309170155800e)
+* [Unraveling AI's Impact on Young Job Seekers: A Complex Debate](https://futures.kghosh.me/e32d04126d9c10f116be0ec272bd7a20)
+* [The Promise and Risks of Automation: Creating Jobs While Navigating Challenges](https://futures.kghosh.me/7e84b45a4f5f2bdecec14572bc5fe323)
+* [A Historical Overview of Fears Surrounding Technological Unemployment from 1920s to 2020s](https://futures.kghosh.me/722403da2630fcd2d36f3eb46d87e276)
+* [The Impact of New Technologies on Labor Markets: Insights and Challenges](https://futures.kghosh.me/096459a1ab888f94f55ea8ac6d15235f)
+* [The Impact of AI on Wages and Human Adaptation in the Workforce](https://futures.kghosh.me/faa0e4de05145c04c5d22a8449a70d95)
+* [How AI Could Transform Work-Life Balance and Job Dynamics in Various Industries](https://futures.kghosh.me/bc5ff4c170f1f63b34eb7ca70775d8d7)
+* [The Impending Shift in Job Markets Due to AI Automation and Its Implications](https://futures.kghosh.me/089ff2f5d42f901983cb8fdc4f213ced)
 * [Global Talent Shortage: A Looming Crisis for Industries by 2030](https://futures.kghosh.me/a2de650354976b7bc4c6442255f91931)
+* [The Impact of AI on Employment: A Shift in Vulnerability from Blue-Collar to White-Collar Jobs](https://futures.kghosh.me/ce379c62e35a93a1d93fce2061cabb74)

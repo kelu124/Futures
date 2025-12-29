@@ -37,9 +37,9 @@ As AI continues to evolve, its potential to revolutionize industries is matched 
 
 |    | name                                    | description                                                                                                                          |
 |---:|:----------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------|
-|  0 | Over-Reliance on AI for Research        | Dependence on AI for research may impede critical thinking and information validation skills among users.                            |
-|  1 | Over-reliance on AI                     | Consultants exhibited over-reliance on AI tools, leading to potential errors and diminished independent problem-solving skills.      |
-|  2 | Skill Atrophy                           | Over-reliance on generative AI tools may lead to a decline in critical research and writing skills among researchers.                |
+|  0 | Inconsistent Quality of AI Outputs      | AI-generated content varies widely in quality, potentially leading to misinformation or unreliable research.                         |
+|  1 | Over-Reliance on AI for Research        | Dependence on AI for research may impede critical thinking and information validation skills among users.                            |
+|  2 | Over-reliance on AI                     | Consultants exhibited over-reliance on AI tools, leading to potential errors and diminished independent problem-solving skills.      |
 |  3 | Changing Publication Formats            | Generative AI could transform how research is published and accessed, potentially leading to less human-readable formats.            |
 |  4 | Ethical Concerns in Autonomous Research | The autonomy of AI in conducting research raises ethical questions regarding accountability and reliability of AI-generated results. |
 |  5 | Quality Control in Research             | With AI's ability to generate research content, there are concerns about the quality and reliability of research outputs.            |
@@ -69,26 +69,26 @@ As AI continues to evolve, its potential to revolutionize industries is matched 
 # Links
 
 
-* [The Transformative Role of Generative AI in Supply Chain and Marketing Management](https://futures.kghosh.me/1b46caa07ff58af58c2e1cf51b86402d)
-* [Overview of the Closed Agentic AI Research Grant Program and Its Objectives](https://futures.kghosh.me/b394787c467cb4f7f164c975923bc874)
 * [Exploring an Autonomous Dual-Chatbot System for Efficient Research Paper Understanding](https://futures.kghosh.me/3f2d71fd29e59b34cde2af2dd3222940)
-* [The Rise of Lethal Autonomous Weapons: Ethical and Regulatory Challenges in Modern Warfare](https://futures.kghosh.me/7f25552b9124a4dc3833e782ef331275)
-* [Recent Developments in AI Regulation and Technology: A Review of Key Initiatives and Critiques](https://futures.kghosh.me/a009ccdffaa59f53de56887aa19e6239)
-* [The Impact of Generative AI and Autonomous Agents on Business Value Creation and Trust Issues](https://futures.kghosh.me/15d4ec180189ca1739398f516844cefb)
-* [The Shift to AI-Mediated Interactions: Implications for Businesses and APIs](https://futures.kghosh.me/416560fac9bedd69aa678761b51406a2)
 * [MIT Study Challenges AI Job Displacement Fears with Economic Viability Insights](https://futures.kghosh.me/89ee61cc0d9fa77ecb1eb4100622a53f)
+* [The Impact of Generative AI and Autonomous Agents on Business Value Creation and Trust Issues](https://futures.kghosh.me/15d4ec180189ca1739398f516844cefb)
 * [The Flexibility of Human Self-Orientation vs. AI Limitations in Dynamic Environments](https://futures.kghosh.me/d9411983cedc4ea97632f2e8a3c2c090)
+* [The Rise of Lethal Autonomous Weapons: Ethical and Regulatory Challenges in Modern Warfare](https://futures.kghosh.me/7f25552b9124a4dc3833e782ef331275)
+* [Leveraging AI in Research and Reading: Tools and Strategies for Better Focus](https://futures.kghosh.me/6df3d0c8a3ae4a2bfce8d9c3750faad8)
+* [The Transformative Impact of AI on Academic Research and Its Future Challenges](https://futures.kghosh.me/04ea36e5447d3914bd8e463d50f2715f)
+* [The Shift to AI-Mediated Interactions: Implications for Businesses and APIs](https://futures.kghosh.me/416560fac9bedd69aa678761b51406a2)
+* [Generative AI's Impact on Scientific Writing: Opportunities and Concerns](https://futures.kghosh.me/60f3a64993d5e355561c59e5d641bec9)
+* [Global Government Reforms: Advancements in Efficiency through Digital Transformation and AI](https://futures.kghosh.me/3f295c6c0c9af1ecd24bfa22b6ef6b47)
+* [The Shift from SEO to AI: Enhancing User Experience and Information Retrieval](https://futures.kghosh.me/b109d3163c90428c0a67504bd2878adf)
+* [Exploring AI's Impact on Legal Analysis: Insights from a Randomized Trial](https://futures.kghosh.me/4f3697c8144f776170502c3036e1d6f3)
+* [Overview of the Closed Agentic AI Research Grant Program and Its Objectives](https://futures.kghosh.me/b394787c467cb4f7f164c975923bc874)
+* [Exploring AI's Effect on Cognitive Skills and Learning Processes](https://futures.kghosh.me/950253f15955ca7be1cb2ebf244d0939)
+* [The Impact of AI on Human Performance: A Study on Complacency and Skill Reduction](https://futures.kghosh.me/82d675e881c727c6bf2f35d6a78e72f6)
 * [The AI Scientist: A Revolutionary Autonomous AI for Scientific Research](https://futures.kghosh.me/3607a211a5ceadc4c9c4f86cd5fcd2df)
 * [Navigating the Challenges and Opportunities of Generative AI in Business](https://futures.kghosh.me/6a8633d1148eb442435b9f6bca735ad3)
-* [Understanding AI's Role: Challenges and Strategies for Effective Use in Diagnosis and Beyond](https://futures.kghosh.me/7fa4f08e57477f5ca2e9ba7a725a9934)
-* [The Shift from SEO to AI: Enhancing User Experience and Information Retrieval](https://futures.kghosh.me/b109d3163c90428c0a67504bd2878adf)
-* [Exploring AI's Effect on Cognitive Skills and Learning Processes](https://futures.kghosh.me/950253f15955ca7be1cb2ebf244d0939)
-* [Leveraging AI in Research and Reading: Tools and Strategies for Better Focus](https://futures.kghosh.me/6df3d0c8a3ae4a2bfce8d9c3750faad8)
-* [MIT Researchers Develop AI Assistant to Enhance Teamwork in Critical Missions](https://futures.kghosh.me/d35cc2611e8b6e8e143446ca4ee22e19)
-* [The Rise of Autonomous Agents: Opportunities and Challenges Ahead](https://futures.kghosh.me/0e336ce2e4b07459b257407e90d27389)
-* [The Impact of AI on Human Performance: A Study on Complacency and Skill Reduction](https://futures.kghosh.me/82d675e881c727c6bf2f35d6a78e72f6)
-* [Exploring AI's Impact on Legal Analysis: Insights from a Randomized Trial](https://futures.kghosh.me/4f3697c8144f776170502c3036e1d6f3)
-* [The Transformative Impact of AI on Academic Research and Its Future Challenges](https://futures.kghosh.me/04ea36e5447d3914bd8e463d50f2715f)
-* [Global Government Reforms: Advancements in Efficiency through Digital Transformation and AI](https://futures.kghosh.me/3f295c6c0c9af1ecd24bfa22b6ef6b47)
-* [Generative AI's Impact on Scientific Writing: Opportunities and Concerns](https://futures.kghosh.me/60f3a64993d5e355561c59e5d641bec9)
 * [Examining the Effects of AI on Knowledge Worker Performance: A Study with Boston Consulting Group](https://futures.kghosh.me/c63bd059cb529b72b00ecbdcd2f85268)
+* [The Transformative Role of Generative AI in Supply Chain and Marketing Management](https://futures.kghosh.me/1b46caa07ff58af58c2e1cf51b86402d)
+* [The Rise of Autonomous Agents: Opportunities and Challenges Ahead](https://futures.kghosh.me/0e336ce2e4b07459b257407e90d27389)
+* [Recent Developments in AI Regulation and Technology: A Review of Key Initiatives and Critiques](https://futures.kghosh.me/a009ccdffaa59f53de56887aa19e6239)
+* [MIT Researchers Develop AI Assistant to Enhance Teamwork in Critical Missions](https://futures.kghosh.me/d35cc2611e8b6e8e143446ca4ee22e19)
+* [Understanding AI's Role: Challenges and Strategies for Effective Use in Diagnosis and Beyond](https://futures.kghosh.me/7fa4f08e57477f5ca2e9ba7a725a9934)
