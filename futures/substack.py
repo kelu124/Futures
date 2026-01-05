@@ -103,11 +103,12 @@ class SubstackManager:
         URLs = []
         cached_drafts = glob.glob(pathtodraft+"*")
         for page in cached_drafts:
-            with open(page) as fp:
-                md = fp.read()
-            content = [x[1] for x in find_md_links(md) if len(x[1])]
-            for link in content:
-                URLs.append([page, link])
+            if "old" not in page:
+                with open(page) as fp:
+                    md = fp.read()
+                content = [x[1] for x in find_md_links(md) if len(x[1])]
+                for link in content:
+                    URLs.append([page, link])
 
         df = pd.DataFrame(URLs)
         df.columns = ["page", "url"]

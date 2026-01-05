@@ -4,7 +4,7 @@ import json
 from futures.commons import intersection
 import os
 import glob
-
+import re
 
 class PagesWriter:
 
@@ -113,6 +113,29 @@ class PagesWriter:
                     print("Error with",fn)
                     pass
 
+    def clean_markdown_dates(self, folder_path: str = None) -> None:
+        """
+        Scans all .md files in the given folder and replaces any occurrence
+        of an 8-digit string followed by 'd' (e.g. 20250202d) with the 8-digit
+        string only (e.g. 20250202).
+        """
+        pattern = re.compile(r'(\d{8})d')
+        if not folder_path:
+            folder_path = self.srcPages 
+        for filename in os.listdir(folder_path):
+            if not filename.lower().endswith(".md"):
+                continue
+
+            file_path = os.path.join(folder_path, filename)
+
+            with open(file_path, "r", encoding="utf-8") as f:
+                content = f.read()
+
+            updated_content = pattern.sub(r'\1', content)
+
+            if updated_content != content:
+                with open(file_path, "w", encoding="utf-8") as f:
+                    f.write(updated_content)
 
     def createPagesIndex(self):
         ## Write Index
