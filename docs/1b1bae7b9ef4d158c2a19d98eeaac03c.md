@@ -1,4 +1,4 @@
-# __Concerns Over Potential Termination of NASA's Carbon Monitoring Satellite Missions Daily Affecting Climate Data and Agriculture__, (from page [20250831d](https://kghosh.substack.com/p/20250831d).)
+# __Concerns Over Potential Termination of NASA's Carbon Monitoring Satellite Missions Daily Affecting Climate Data and Agriculture__, (from page [20250831](https://kghosh.substack.com/p/20250831).)
 
 __[External link](https://www.npr.org/2025/08/04/nx-s1-5453731/nasa-carbon-dioxide-satellite-mission-threatened?ref=sentiers.media)__
 

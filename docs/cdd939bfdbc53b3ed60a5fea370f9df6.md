@@ -1,4 +1,4 @@
-# __Reflecting on AI's Impact: Skills, Augmentation, and Perspective During Summer's Calm__, (from page [20250831d](https://kghosh.substack.com/p/20250831d).)
+# __Reflecting on AI's Impact: Skills, Augmentation, and Perspective During Summer's Calm__, (from page [20250831](https://kghosh.substack.com/p/20250831).)
 
 __[External link](https://maried.substack.com/p/missing-the-point-big-time?publication_id=58443&post_id=170605060&utm_source=substack&utm_medium=email)__
 

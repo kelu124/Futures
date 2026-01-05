@@ -1,4 +1,4 @@
-# __The Demo Scene: A Cultural Legacy Facing Decline and Change__, (from page [20250928d](https://kghosh.substack.com/p/20250928d).)
+# __The Demo Scene: A Cultural Legacy Facing Decline and Change__, (from page [20250928](https://kghosh.substack.com/p/20250928).)
 
 __[External link](https://www.datagubbe.se/sceneherit/)__
 

@@ -1,4 +1,4 @@
-# __Future Prospects of Deep Space Economy Discussed at International Conference__, (from page [20250921d](https://kghosh.substack.com/p/20250921d).)
+# __Future Prospects of Deep Space Economy Discussed at International Conference__, (from page [20250921](https://kghosh.substack.com/p/20250921).)
 
 __[External link](https://news.cgtn.com/news/2025-09-05/Space-conference-in-China-unveils-future-trends-of-deep-space-economy-1GpEvhaoLx6/p.html?utm_source=substack&utm_medium=email)__
 

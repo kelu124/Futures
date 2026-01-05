@@ -1,4 +1,4 @@
-# __Online Private Investigators: The Intersection of Infidelity and Public Shaming in the Social Media Age__, (from page [20250907d](https://kghosh.substack.com/p/20250907d).)
+# __Online Private Investigators: The Intersection of Infidelity and Public Shaming in the Social Media Age__, (from page [20250907](https://kghosh.substack.com/p/20250907).)
 
 __[External link](https://www.wired.com/story/from-cheating-exposes-to-dating-background-checks-tiktok-detectives-are-thriving/?utm_source=Rest%20of%20World%20Newsletter&utm_campaign=cf87cfd35c-row-newsletters-global_2025-08-05&utm_medium=email&utm_term=0_-cf87cfd35c-409913639)__
 

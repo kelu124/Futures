@@ -1,4 +1,4 @@
-# __The Vital Role of Dissent in Effective Decision-Making for Organizations__, (from page [20250713d](https://kghosh.substack.com/p/20250713d).)
+# __The Vital Role of Dissent in Effective Decision-Making for Organizations__, (from page [20250713](https://kghosh.substack.com/p/20250713).)
 
 __[External link](https://www.workfutures.io/p/dissent-not-consensus-is-the-shorter?utm_source=substack&utm_medium=email&hide_intro_popup=true)__
 

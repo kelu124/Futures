@@ -1,4 +1,4 @@
-# __Addressing the Social Fitness Crisis: The Need for Connection in Modern Society__, (from page [20250330d](https://kghosh.substack.com/p/20250330d).)
+# __Addressing the Social Fitness Crisis: The Need for Connection in Modern Society__, (from page [20250330](https://kghosh.substack.com/p/20250330).)
 
 __[External link](https://brentturner.is/posting/the-social-fitness-crisis/)__
 

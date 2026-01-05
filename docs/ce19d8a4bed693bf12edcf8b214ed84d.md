@@ -1,4 +1,4 @@
-# __Generation Z: The Key Driver Behind Vinyl's Resurgence and Cultural Integration__, (from page [20251005d](https://kghosh.substack.com/p/20251005d).)
+# __Generation Z: The Key Driver Behind Vinyl's Resurgence and Cultural Integration__, (from page [20251005](https://kghosh.substack.com/p/20251005).)
 
 __[External link](https://www.musicweek.com/labels/read/vinyl-alliance-says-gen-z-is-now-the-driving-force-behind-the-format-s-popularity/091294)__
 

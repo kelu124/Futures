@@ -1,4 +1,4 @@
-# __Exploring the Intersection of Video Game Simulation and Real-World Ecology__, (from page [20250907d](https://kghosh.substack.com/p/20250907d).)
+# __Exploring the Intersection of Video Game Simulation and Real-World Ecology__, (from page [20250907](https://kghosh.substack.com/p/20250907).)
 
 __[External link](https://www.sum.si/journal-articles/all-the-worlds-polygons?ref=sentiers.media)__
 

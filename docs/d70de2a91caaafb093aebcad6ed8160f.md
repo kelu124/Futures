@@ -1,4 +1,4 @@
-# __The Dilemma of Learning vs. Efficiency in the Age of LLMs__, (from page [20250608d](https://kghosh.substack.com/p/20250608d).)
+# __The Dilemma of Learning vs. Efficiency in the Age of LLMs__, (from page [20250608](https://kghosh.substack.com/p/20250608).)
 
 __[External link](https://vvvincent.me/llms-are-making-me-dumber/)__
 

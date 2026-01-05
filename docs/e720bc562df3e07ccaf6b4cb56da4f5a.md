@@ -1,4 +1,4 @@
-# __Analyse des Indemnités Journalières et Arrêts Maladie en France en 2023__, (from page [20250713d](https://kghosh.substack.com/p/20250713d).)
+# __Analyse des Indemnités Journalières et Arrêts Maladie en France en 2023__, (from page [20250713](https://kghosh.substack.com/p/20250713).)
 
 __[External link](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/etudes-et-resultats/241211_ER_Arrets-Maladie?utm_source=substack&utm_medium=email)__
 

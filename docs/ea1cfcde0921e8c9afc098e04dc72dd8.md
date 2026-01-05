@@ -1,4 +1,4 @@
-# __Exploration de l'économie commune entre amis à Berlin__, (from page [20250330d](https://kghosh.substack.com/p/20250330d).)
+# __Exploration de l'économie commune entre amis à Berlin__, (from page [20250330](https://kghosh.substack.com/p/20250330).)
 
 __[External link](https://www.courrierinternational.com/article/societe-bienvenue-chez-les-gemok-ces-allemands-qui-partagent-tous-leurs-revenus_225887_1)__
 

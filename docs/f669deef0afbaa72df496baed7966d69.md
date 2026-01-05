@@ -1,4 +1,4 @@
-# __Unprecedented Ice Piracy Observed Among Glaciers in Antarctica Using Satellite Data__, (from page [20250622d](https://kghosh.substack.com/p/20250622d).)
+# __Unprecedented Ice Piracy Observed Among Glaciers in Antarctica Using Satellite Data__, (from page [20250622](https://kghosh.substack.com/p/20250622).)
 
 __[External link](https://nautil.us/ice-theft-in-antarctica-1210083/)__
 

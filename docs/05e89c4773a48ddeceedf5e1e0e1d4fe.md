@@ -1,4 +1,4 @@
-# __The Necessity of Strategic Fact Reserves for AI Development in Nations and Corporations__, (from page [20250323d](https://kghosh.substack.com/p/20250323d).)
+# __The Necessity of Strategic Fact Reserves for AI Development in Nations and Corporations__, (from page [20250323](https://kghosh.substack.com/p/20250323).)
 
 __[External link](https://interconnected.org/home/2025/01/17/facts?utm_source=substack&utm_medium=email)__
 

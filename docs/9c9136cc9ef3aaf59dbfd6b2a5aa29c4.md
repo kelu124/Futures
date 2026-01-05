@@ -1,4 +1,4 @@
-# __Impact of Light Pollution on Bird Vocalization Patterns__, (from page [20250921d](https://kghosh.substack.com/p/20250921d).)
+# __Impact of Light Pollution on Bird Vocalization Patterns__, (from page [20250921](https://kghosh.substack.com/p/20250921).)
 
 __[External link](https://kottke.org/25/08/0047421-light-pollution-has-lengt?ref=sentiers.media)__
 

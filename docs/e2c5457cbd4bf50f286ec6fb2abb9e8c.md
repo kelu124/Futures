@@ -1,4 +1,4 @@
-# __Enhancing Elderly Wellbeing Through Meaningful Conversations with inTouch Service__, (from page [20250518d](https://kghosh.substack.com/p/20250518d).)
+# __Enhancing Elderly Wellbeing Through Meaningful Conversations with inTouch Service__, (from page [20250518](https://kghosh.substack.com/p/20250518).)
 
 __[External link](https://www.intouch.family/en)__
 

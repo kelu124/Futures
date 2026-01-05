@@ -1,4 +1,4 @@
-# __The Surprising Rise of Wild Parrots in Urban Areas and Their Ecological Impact__, (from page [20250427d](https://kghosh.substack.com/p/20250427d).)
+# __The Surprising Rise of Wild Parrots in Urban Areas and Their Ecological Impact__, (from page [20250427](https://kghosh.substack.com/p/20250427).)
 
 __[External link](https://sammatey.substack.com/p/wild-parrots-in-cities-are-a-delightful?ref=sentiers.media)__
 

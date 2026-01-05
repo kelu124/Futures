@@ -1,4 +1,4 @@
-# __SourceHut Faces Disruptions from Aggressive AI Crawlers Amid Web Traffic Challenges__, (from page [20250420d](https://kghosh.substack.com/p/20250420d).)
+# __SourceHut Faces Disruptions from Aggressive AI Crawlers Amid Web Traffic Challenges__, (from page [20250420](https://kghosh.substack.com/p/20250420).)
 
 __[External link](https://www.theregister.com/2025/03/18/ai_crawlers_sourcehut/)__
 

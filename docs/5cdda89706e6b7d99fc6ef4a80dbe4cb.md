@@ -1,4 +1,4 @@
-# __Exploring Skills Beyond Digital Fabrication in MIT's Fab Academy__, (from page [20250914d](https://kghosh.substack.com/p/20250914d).)
+# __Exploring Skills Beyond Digital Fabrication in MIT's Fab Academy__, (from page [20250914](https://kghosh.substack.com/p/20250914).)
 
 __[External link](https://news.ycombinator.com/item?id=44775830)__
 

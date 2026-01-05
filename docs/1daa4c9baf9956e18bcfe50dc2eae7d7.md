@@ -1,4 +1,4 @@
-# __Understanding the Humming Sound of Beetham Tower During Storms__, (from page [20250622d](https://kghosh.substack.com/p/20250622d).)
+# __Understanding the Humming Sound of Beetham Tower During Storms__, (from page [20250622](https://kghosh.substack.com/p/20250622).)
 
 __[External link](http://trevorcox.me/why-does-the-beetham-tower-hum)__
 

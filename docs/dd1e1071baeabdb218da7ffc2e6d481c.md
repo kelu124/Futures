@@ -1,4 +1,4 @@
-# __Ursula Franklin: A Pioneer of Pacifism and Social Justice Advocacy in Canada__, (from page [20250803d](https://kghosh.substack.com/p/20250803d).)
+# __Ursula Franklin: A Pioneer of Pacifism and Social Justice Advocacy in Canada__, (from page [20250803](https://kghosh.substack.com/p/20250803).)
 
 __[External link](https://www.goodreads.com/book/show/661546.The_Ursula_Franklin_Reader)__
 

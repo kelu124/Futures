@@ -1,4 +1,4 @@
-# __The Impact of AI on Physics: Revolutionizing Experimentation and Discoveries__, (from page [20250817d](https://kghosh.substack.com/p/20250817d).)
+# __The Impact of AI on Physics: Revolutionizing Experimentation and Discoveries__, (from page [20250817](https://kghosh.substack.com/p/20250817).)
 
 __[External link](https://www.quantamagazine.org/ai-comes-up-with-bizarre-physics-experiments-but-they-work-20250721/)__
 

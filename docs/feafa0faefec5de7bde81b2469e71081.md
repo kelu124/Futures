@@ -1,4 +1,4 @@
-# __Reclaiming Time: The Case for Time Ownership and Autonomy__, (from page [20250803d](https://kghosh.substack.com/p/20250803d).)
+# __Reclaiming Time: The Case for Time Ownership and Autonomy__, (from page [20250803](https://kghosh.substack.com/p/20250803).)
 
 __[External link](https://www.joanwestenberg.com/p/how-to-become-a-time-billionaire-d50677ce6215ea8a)__
 

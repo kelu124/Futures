@@ -1,4 +1,4 @@
-# __Exploring a Hopeful Future: Stories from Adolescent Girls in 2055__, (from page [20250427d](https://kghosh.substack.com/p/20250427d).)
+# __Exploring a Hopeful Future: Stories from Adolescent Girls in 2055__, (from page [20250427](https://kghosh.substack.com/p/20250427).)
 
 __[External link](https://plan-international.org/publications/stories-from-the-future/)__
 

@@ -1,4 +1,4 @@
-# __Exploring the Depths of Tove Jansson's Moomin Series and Its Cultural Impact__, (from page [20250511d](https://kghosh.substack.com/p/20250511d).)
+# __Exploring the Depths of Tove Jansson's Moomin Series and Its Cultural Impact__, (from page [20250511](https://kghosh.substack.com/p/20250511).)
 
 __[External link](https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson)__
 

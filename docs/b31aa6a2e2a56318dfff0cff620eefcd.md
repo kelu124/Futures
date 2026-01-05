@@ -1,4 +1,4 @@
-# __Macron Announces France Will Recognize Palestinian State Amid Ongoing Conflict__, (from page [20250817d](https://kghosh.substack.com/p/20250817d).)
+# __Macron Announces France Will Recognize Palestinian State Amid Ongoing Conflict__, (from page [20250817](https://kghosh.substack.com/p/20250817).)
 
 __[External link](https://www.bbc.com/news/articles/ckg5g4p3245o)__
 

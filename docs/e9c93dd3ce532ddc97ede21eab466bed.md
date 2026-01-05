@@ -43,4 +43,4 @@ Scientists have discovered a cave on the Moon that is at least 100m deep and cou
 * [Microbial Mining for Space Colonization](a67f9e7de0ac3ab7399e7e056c0f8883)
 * [Curiosity Rover Discovers Elemental Sulfur on Mars](89a074c28278d3044addcf788778cacd)
 * [Mysterious Underground City Found in Turkey](8f692340509e6a4be9518522b4cca022)
-* [Potential for Life on Terminator Planets](fbba0dee0595167fa2c44980935de6e2)
+* [Potential for Life on Terminator Planets](fbba0dee0595167fa2c44980935e6e2)

@@ -1,4 +1,4 @@
-# __The Future of AI: Challenging the Optimistic Narrative of Transformation and Equality__, (from page [20250831d](https://kghosh.substack.com/p/20250831d).)
+# __The Future of AI: Challenging the Optimistic Narrative of Transformation and Equality__, (from page [20250831](https://kghosh.substack.com/p/20250831).)
 
 __[External link](https://www.versobooks.com/blogs/news/is-the-ai-bubble-about-to-burst?ref=sentiers.media)__
 

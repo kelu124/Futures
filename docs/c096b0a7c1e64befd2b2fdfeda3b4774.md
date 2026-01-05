@@ -1,4 +1,4 @@
-# __L'impact du numérique et de l'IA sur les générations et l'équilibre émotionnel__, (from page [20250601d](https://kghosh.substack.com/p/20250601d).)
+# __L'impact du numérique et de l'IA sur les générations et l'équilibre émotionnel__, (from page [20250601](https://kghosh.substack.com/p/20250601).)
 
 __[External link](https://mariedolle.substack.com/p/algorithmes-emotions-et-travail-le)__
 

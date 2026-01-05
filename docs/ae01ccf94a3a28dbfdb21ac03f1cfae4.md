@@ -1,4 +1,4 @@
-# __Exploring the Friction Economy: The Contrast Between Digital Ease and Physical Disarray__, (from page [20250928d](https://kghosh.substack.com/p/20250928d).)
+# __Exploring the Friction Economy: The Contrast Between Digital Ease and Physical Disarray__, (from page [20250928](https://kghosh.substack.com/p/20250928).)
 
 __[External link](https://kyla.substack.com/p/the-most-valuable-commodity-in-the?ref=thenewnew.is&utm_source=substack&utm_medium=email)__
 

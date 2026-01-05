@@ -1,4 +1,4 @@
-# __Automated Interrogation: The Dangers of Large Language Models and Psychological Torture__, (from page [20250608d](https://kghosh.substack.com/p/20250608d).)
+# __Automated Interrogation: The Dangers of Large Language Models and Psychological Torture__, (from page [20250608](https://kghosh.substack.com/p/20250608).)
 
 __[External link](https://morganjlee.substack.com/p/llm-enabled-coercive-interrogation)__
 

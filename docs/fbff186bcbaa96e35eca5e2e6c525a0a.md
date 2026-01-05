@@ -1,4 +1,4 @@
-# __Exploring Ephemerisle: A Unique Floating Community Experience on the Delta__, (from page [20250629d](https://kghosh.substack.com/p/20250629d).)
+# __Exploring Ephemerisle: A Unique Floating Community Experience on the Delta__, (from page [20250629](https://kghosh.substack.com/p/20250629).)
 
 __[External link](https://ephemerisle.org/index.php/Ephemerisle?utm_source=substack&utm_medium=email)__
 

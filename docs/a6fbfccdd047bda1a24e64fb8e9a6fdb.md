@@ -1,4 +1,4 @@
-# __FAA's Plan to Modernize Air Traffic Control System: No More Floppy Disks or Windows 95__, (from page [20250629d](https://kghosh.substack.com/p/20250629d).)
+# __FAA's Plan to Modernize Air Traffic Control System: No More Floppy Disks or Windows 95__, (from page [20250629](https://kghosh.substack.com/p/20250629).)
 
 __[External link](https://www.tomshardware.com/pc-components/storage/the-faa-seeks-to-eliminate-floppy-disk-usage-in-air-traffic-control-systems)__
 
