@@ -55,6 +55,7 @@ class PagesWriter:
         # @TODO
 
         meta = pd.read_parquet(self.srcMetas).reset_index(drop=True)
+        meta = meta[~meta.path.str.contains("yearly")]
         signals = pd.read_parquet(self.srcSeeds).reset_index(drop=True)
         summaries = pd.read_parquet(self.srcSummaries).reset_index(drop=True)
         df = pd.read_parquet(self.db.ai.srcArticles)
@@ -139,12 +140,17 @@ class PagesWriter:
 
     def createPagesIndex(self):
         ## Write Index
+        meta = pd.read_parquet(self.srcMetas).reset_index(drop=True)
+        meta = meta[~meta.path.str.contains("yearly")]
+        lst = meta.src.unique()
+
         INDEX  = "# Overview \n\n"
         INDEX += "This page tries to capture the information obtained in my [tech watch](https://substack.kghosh.me/). The different links and pages are captured below, trying to catalogue different weak signals." 
         summaries = pd.read_parquet(self.srcSummaries).reset_index(drop=True)
 
         for ix, row in summaries.iterrows():
-            INDEX += "\n* ["+row["title"]+"]("+row["src"]+")"
+            if row["src"] in lst:
+                INDEX += "\n* ["+row["title"]+"]("+row["src"]+")"
 
 
         INDEX += "\n\n---\n\n"

@@ -7,6 +7,9 @@ import os
 from langchain.vectorstores import Chroma
 
 
+import string
+import secrets
+
 
 
 from futures.fcts import getWeaksignals, getSummary, getMeta, getEmergingConcerns
@@ -15,6 +18,9 @@ from futures.fcts import getWeaksignals, getEmergingIssues, getEmergingBehaviors
 from futures.llm import LLM
 
 
+def random_string_3():
+    alphabet = string.ascii_letters + string.digits
+    return ''.join(secrets.choice(alphabet) for _ in range(3))
 
 class Futurist:
 
@@ -177,9 +183,14 @@ class Futurist:
                 if (s not in stories_id) or (s in redo):
                     print("- Doing story for", s)
                     summaries = list(df[df.src.isin(ids[s])].summary)
+
+
                     if len(summaries) > 6:
                         context = "* " + "\n* ".join(summaries)
-
+                        if s in redo:
+                            print("* Forcing redo of story for",s)
+                            context += "\n"+random_string_3()
+                        print("- "+"\n- ".join(summaries))
                         STYLE = """* Master the Art of Footnotes: Treat them as your secret weapon. Use them to share amusing observations that pop into your head while telling the story. These asides should feel like you're whispering a clever joke to your reader without derailing the main narrative.
                         * Embrace the Pun-possible: Keep a sharp eye out for common phrases that could be twisted or taken literally in unexpected ways. If you spot a potential wordplay, don't resist it – Pratchett certainly wouldn't. But remember, the best puns aren't just groaners; they should also illuminate something about your story or characters.
                         * Wield Your Metaphors Like a Slightly Wobbly Sword: Craft comparisons that are simultaneously ridiculous and perfect. For example, don't just say someone is confused – say their thoughts are "as organized as a library after a tornado had decided to learn the Dewey Decimal System."
@@ -205,6 +216,7 @@ class Futurist:
                         story = self.ai.ask(prompt)
                         title = self.ai.ask("Give a title to the short story below. Don't use quotes or any accompanying text:\n\n"+story)
                     else:
+                        print(len(summaries),"links dispo")
                         print("* Pas assez de résumés")
                 else:
                     row = stories_df[stories_df.src == s].iloc[0]
