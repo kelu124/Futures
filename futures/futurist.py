@@ -33,20 +33,20 @@ class Futurist:
         self.srcURLs = self.ai.srcURLs
         self.srcMetas = self.ai.srcMetas
 
-    def createSeeds(self, minL=1500, maxL=30000, n=10):
+    async def createSeeds(self, minL=1500, maxL=30000, n=10):
         # Does the basics on the texts
-        self.doProcessing(category="get_weaksignals", minL=1500, maxL=30000, n=n)
-        self.doProcessing(category="get_summary", minL=1500, maxL=30000, n=n)
+        await self.doProcessing(category="get_weaksignals", minL=1500, maxL=30000, n=n)
+        await self.doProcessing(category="get_summary", minL=1500, maxL=30000, n=n)
 
 
-    def moreIntel(self, minL=1500, maxL=30000, n=10):
+    async def moreIntel(self, minL=1500, maxL=30000, n=10):
         # getEmergingIssues()  getEmergingTechnologies(): getEmergingBehaviors():
-        self.doProcessing(category="get_emergingissues", minL=1500, maxL=30000, n=n)
-        self.doProcessing(category="get_emergingtechnologies", minL=1500, maxL=30000, n=n)
-        self.doProcessing(category="get_emergingbehaviors", minL=1500, maxL=30000, n=n)
-        self.doProcessing(category="get_emergingconcerns", minL=1500, maxL=30000, n=n)
+        await self.doProcessing(category="get_emergingissues", minL=1500, maxL=30000, n=n)
+        await self.doProcessing(category="get_emergingtechnologies", minL=1500, maxL=30000, n=n)
+        await self.doProcessing(category="get_emergingbehaviors", minL=1500, maxL=30000, n=n)
+        await self.doProcessing(category="get_emergingconcerns", minL=1500, maxL=30000, n=n)
 
-    def doProcessing(self, category, minL=1500, maxL=30000, n=10):
+    async def doProcessing(self, category, minL=1500, maxL=30000, n=10):
         self.proccat = {}
         print("# Doing",category,"processing")
         self.proccat["get_weaksignals"] = {"function": getWeaksignals(),
@@ -88,7 +88,7 @@ class Futurist:
                     instructions = self.proccat[category]["instruction"]
                     function = self.proccat[category]["function"]
                     #print(function)
-                    result = self.ai.askTool(instructions, row["content"], function, category)
+                    result = await self.ai.askTool(instructions, row["content"], function, category)
                     #print(result)
                     result["src"] = row["file_name"]
                     newItems.append(result)
@@ -117,7 +117,7 @@ class Futurist:
         #return pd.read_parquet(self.proccat[category]["dataframe"])
 
 
-    def doMeta(self, minL=1500, maxL=30000, n=10):
+    async def doMeta(self, minL=1500, maxL=30000, n=10):
         print("# Doing metas processing")
         srcURLs = pd.read_parquet(self.srcURLs)
         srcURLs.columns = ["path","url","src"]
@@ -139,7 +139,14 @@ class Futurist:
         allMetas = []
         for ix, row in dfContent[0:n].iterrows():
             if not row["src"] in meta_init:
-                meta = pd.DataFrame([json.loads(self.ai.askFunctions("Extract the metatags of this text", row["content"], getMeta(), "get_meta"))])
+                meta_json = await self.ai.askFunctions(
+                    "Extract the metatags of this text",
+                    row["content"],
+                    getMeta(),
+                    "get_meta"
+                )
+
+                meta = pd.DataFrame([json.loads(meta_json)])
                 meta["src"] = row["src"]
                 allMetas.append(meta)
 
@@ -158,7 +165,7 @@ class Futurist:
         return META
 
 
-    def writeStory(self, ids,redo=[]):
+    async def writeStory(self, ids,redo=[]):
         """Takes dictionnary, title plus list of articles"""
         
         try:
@@ -213,8 +220,8 @@ class Futurist:
                         prompt += "* You will use a style mix of Terry Pratchett and Philip K Dick:\n\n"+STYLE
                         prompt += "\n\nStill, your style needs to be simple and readable by a 20yo, and keep a simple writing style.\n\n"
                         prompt += "\n\n## Summaries of texts\n\n"+ context
-                        story = self.ai.ask(prompt)
-                        title = self.ai.ask("Give a title to the short story below. Don't use quotes or any accompanying text:\n\n"+story)
+                        story = await self.ai.ask(prompt)
+                        title = await self.ai.ask("Give a title to the short story below. Don't use quotes or any accompanying text:\n\n"+story)
                     else:
                         print(len(summaries),"links dispo")
                         print("* Pas assez de résumés")
@@ -241,10 +248,10 @@ class Futurist:
                 articles[orig]=list(df[df.origin == orig].file_name)
         return articles
     
-    def writeAllStories(self,redo=[]):
+    async def writeAllStories(self,redo=[]):
         articles = self.getLinksPerArticle()
         #print(articles)
-        story = self.writeStory(articles, redo=redo)
+        story = await self.writeStory(articles, redo=redo)
         return story
 
     def getStory(self, ID):

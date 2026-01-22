@@ -15,6 +15,10 @@ from langchain.schema import HumanMessage
 # Caching
 from langchain.globals import set_llm_cache
 from langchain.cache import SQLiteCache
+import asyncio
+import time
+
+
 # Load env
 from dotenv import load_dotenv
 load_dotenv()
@@ -55,13 +59,38 @@ class LLM:
         self.srcEmergingIssue = self.datastore + 'mrg_issue.parquet.gzip'
         self.srcEmergingConcerns = self.datastore + 'mrg_concern.parquet.gzip'
 
-    def ask(self, question):
+    def old_ask(self, question):
         answer = self.ai.invoke(question)
         print("--- "+self.llm_fast +":\t",
               datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
         return json.loads(answer.model_dump_json())["content"]
 
-    def askFunctions(self, instructions, text, function, function_name):
+    async def ask(self, question):
+        answer = await self.ai.ainvoke(question)
+        time.sleep(1)
+        return answer.content
+    
+
+    async def askFunctions(self, instructions, text, function, function_name):
+        messages = [
+            HumanMessage(content=f"""
+            ## Instructions
+            {instructions}
+
+            ## Text
+            {text}
+            """)
+        ]
+
+        response = await self.ai.ainvoke(
+            messages,
+            functions=function,
+            function_call={"name": function_name}
+        )
+        time.sleep(1)
+        return response.additional_kwargs["function_call"]["arguments"]
+    
+    def old_askFunctions(self, instructions, text, function, function_name):
         messages = [
             HumanMessage(content=f"""
             ## Instructions
@@ -81,8 +110,8 @@ class LLM:
               datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
         return response.additional_kwargs["function_call"]["arguments"]
 
-    def askTool(self, instructions, text, function, function_name):
-        js = self.askFunctions(instructions, text, function, function_name)
+    async def askTool(self, instructions, text, function, function_name):
+        js = await self.askFunctions(instructions, text, function, function_name)
         js = json.loads(js)
         KEYS = list(js.keys())
         if len(KEYS) == 1:
