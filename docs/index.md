@@ -1,6 +1,18 @@
 # Overview 
 
 This page tries to capture the information obtained in my [tech watch](https://substack.kghosh.me/). The different links and pages are captured below, trying to catalogue different weak signals.
+* [Celebrating 45: A Reflective List of Life Lessons on Parenting, Writing, and Living Fully](dd135acaeeef9025cb72cfa170f9e4c7)
+* [Exploring Hierarchy and Variety in Classical and Experimental Music Through Brian Eno's Perspective](219a52aa9e947799e355b788bd227e3f)
+* [Understanding the Crisis of Futurelessness Among Today's Youth](7e4e3c6753266e37d8b143af86914d7b)
+* [Exploring the Rise and Challenges of AI Agents in Writing and Economy](355cff2c3313acb8b575ff135a8a8f0a)
+* [The Allure of Queues: How London’s Eateries Turn Waiting Into an Experience](03a3f2313125d0d961661b0953b66905)
+* [The Fascinating Connection Between New Yorkers and the Snowy Owl in January 2021](8432564d37b7cf0d9eff5847aeacf2ba)
+* [Adapting to Change: Embracing Uncertainty in the Age of AI](121c5a1dab30659b7b859a7a9037793f)
+* [The Impact of AI on Programming: Boring Ideas and Lost Originality](e5a4d59e55f6c139121477832002e2f1)
+* [Exploring OpenClaw: The Future of Personalized AI Assistants and Automation](5a588dcebec7badf210e2433d00623a3)
+* [Exploring Creative Synesthesia: AI Agents as Generative Composers in Modern Programming](f19800f6291029954f0eed30fa03181c)
+* [KulturistenHochZwei: Bridging Generations Through Cultural Engagement in Hamburg](9eda8aeacf4fe8a07975a9e08ee916d3)
+* [Ring's Super Bowl Ad: A Friendly Face on Dystopian Surveillance Practices](edc1ae05cd291205a0cd7ae45d6f5def)
 * [Global Water Bankruptcy and the Misunderstanding of AI's Impact on Graduate Employment](bfeb42d15f91185216f112c0bee0ea7a)
 * [Examining Technology's Role in Wealth Extraction: The Straw, Siphon, and Sieve Metaphors](638eb3ce71ad2da7557a213dd716a4c3)
 * [UN Faces Imminent Financial Collapse Due to Member Fee Defaults, Warns Secretary General](4e7a634d6bbdb6b0cfebfc2c1f7d1452)
