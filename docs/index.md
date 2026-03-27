@@ -1,6 +1,18 @@
 # Overview 
 
 This page tries to capture the information obtained in my [tech watch](https://substack.kghosh.me/). The different links and pages are captured below, trying to catalogue different weak signals.
+* [Tendances actuelles de l'IA et culture des puissants : Un regard critique et humoristique](3b32ae05ede57d6c615945c39a9d48a7)
+* [China's Rapid Adoption of OpenClaw AI Tool Reshapes Technology Landscape](d40bc69e8e616c04015015ae2125ca59)
+* [OpenClaw: The Future of Work with AI Agents Revolutionizing Business Operations](380844b13d5f4308bbcd9d3994100471)
+* [Foresight Africa 2026: Navigating Challenges and Seizing Opportunities for Development](ff69013dad48d80b7e3abe5ef8f1c008)
+* [The Rise of the Dinergoth: A New Cultural Identity in Stagnant America](737afc27599919b790221a1b566c4a20)
+* [Rethinking AI: Why It Should Be Seen as an Exoskeleton Not an Autonomous Coworker](e67f50085719899e17c1d3622468292)
+* [La divulgation accidentelle de la position du porte-avions Charles-de-Gaulle met en lumière des failles de sécurité.](e1957b39067e10e7a25d1e1943c82003)
+* [Exploring Nostalgia: The Visual History of UK Crisp Packets from 1970 to 2000](f711b7091062718c74a8c50c5bf44ba)
+* [Exploring the Comic Genius of Bad Design Through Katerina Kamprani's Uncomfortable Project](147bac80c24bb7d279704808a1efe926)
+* [China Surpasses US in Adoption of Autonomous AI Agents with OpenClaw Framework](3dd602befa49c20e8eca3b711e00c942)
+* [Embracing Friction: The Value of Effort in Art and Human Experience](40d27cf1930873ef85bf62389b884a42)
+* [How Gen Z's Movie Preferences are Transforming Hollywood's Landscape](67699f6be38e604bed9b8d8c7f9506b2)
 * [The Future of Creativity: Embracing a Generalist Mindset in an AI World](76db49cf62e0d606d7b866b9ac6b96e1)
 * [Adaptation des Écoles face à l'Intelligence Artificielle : Enjeux et Perspectives dans le Secteur de la Communication](df23eac54db1bbcb0d26da48b8836597)
 * [The Current Energy Crisis: Europe's Dependency and Its Consequences](a3eef26451bcc5faaf06c016ab028de2)
