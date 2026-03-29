@@ -1,6 +1,22 @@
 # Overview 
 
 This page tries to capture the information obtained in my [tech watch](https://substack.kghosh.me/). The different links and pages are captured below, trying to catalogue different weak signals.
+* [Struggles in Modern Work Culture: Embracing Change and Navigating Distractions](323d711c5ddadaad774954410012c61)
+* [The Race for AI: Manus's Move to Singapore and Beijing's Backlash](2b7ac6ac1a34726bb7e3851c41a3e80e)
+* [Understanding Chopsticks Faux Pas in Japanese Dining Etiquette](0a2e0bf6b4a53de0701f6204185f9e36)
+* [Chinese Cities Compete to Attract AI-Driven One-Person Startups with Incentives](b3cad0300c8419496ad1562793d9b0cf)
+* [Eigg: A Model for Utopian Living Through Community Land Ownership and Management](d9b4367a4f18e932ea7f7dff525d9596)
+* [Revolutionizing Hand Tracking with a Wireless Ultrasound Imaging Wristband](901adbed2ed4bc1287cc55d7ce553fa9)
+* [Federal Employee Disengagement and Workplace Safety Concerns for Women](bf6628c7e259de059e498a3e503656a1)
+* [Battle Against the Invasive Golden Oyster Mushroom Threatening Native Fungi](abdfd870a00aee994ee9554aa2994c27)
+* [Exploring Roots and Their Profound Connection to Life and Identity](4ecdd3a4cf3e60010a3d1aec579c3e6e)
+* [Exploring Emerging Trends and Insights: Summary of Weak Signals and Other Trends, Issue 174](a7a72a6406af95d360d88b8cd1d27a6b)
+* [Exploring the Solar Supercycle and Rapid AI Adoption: Insights from Exponential View #565](5dc41b3678a9e108543b661b9a621e79)
+* [Evaluating the Accuracy of Language Models in Automated Essay Grading Compared to Human Raters](6456da6229b8fd5ad9540261718783e1)
+* [Unprecedented Early Spring Heatwave Hits Southwestern U.S. as Climate Change Intensifies Risks](dc7d8c798de0d569e441dda9d512bb2f)
+* [Les Universités et l'Intelligence Artificielle : Vers une Réflexion Nuancée sur l'Éducation et l'Évaluation](da98601c0f6c1c94ef66d98bc8806aca)
+* [From Pokémon Go to Delivery Robots: How Crowdsourced Data Transforms Navigation Technology](559e423aa98bc5eea26d3658d30f9e87)
+* [The Transformative Impact of AI on Work, Development, and Science in Exponential View #567](237ae7b332567e5dc958263458b99de)
 * [Tendances actuelles de l'IA et culture des puissants : Un regard critique et humoristique](3b32ae05ede57d6c615945c39a9d48a7)
 * [China's Rapid Adoption of OpenClaw AI Tool Reshapes Technology Landscape](d40bc69e8e616c04015015ae2125ca59)
 * [OpenClaw: The Future of Work with AI Agents Revolutionizing Business Operations](380844b13d5f4308bbcd9d3994100471)
