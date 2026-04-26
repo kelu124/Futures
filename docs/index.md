@@ -1,6 +1,21 @@
 # Overview 
 
 This page tries to capture the information obtained in my [tech watch](https://substack.kghosh.me/). The different links and pages are captured below, trying to catalogue different weak signals.
+* [Federal Employee Disengagement and Workplace Safety Concerns for Women](37f62b3923a46264ddb4162c25d5cd88)
+* [Exploring Stowe Boyd's Digital Garden: A Journey Through Contemporary Issues and Ideas](5fbf17d6161419114fd3b3283a4f9747)
+* [Exploring Stowe Boyd's Digital Garden: A Comprehensive Look at Contemporary Issues](e87ec17828a89394a27da99295a075bf)
+* [Exploring the Evolving Landscape of Work and Society in Stowe Boyd's Digital Garden](0ddc98c91bc5387064a0e3e78287cee1)
+* [Exploring Ad-Supported AI Chat: A Satirical Demo of Monetization in AI Interfaces](de7cdd516feb7c6181a5927f0a442e0f)
+* [Exploring the Impact of AI Companionship on Human Relationships in a Hyper-Individualistic Society](14263aab7982c9d520b3839d81e33cef)
+* [The World Bank's Dramatic Shift: Embracing Industrial Policy After Decades of Opposition](8ad3dcf3a9116e7584903d38d2ec6dae)
+* [Struggling to Find Authentic Travel Recommendations in a Sponsored Online Landscape](e4a8706caa7f9c809ede0395a9bb3bb2)
+* [Middle East Conflict Disrupts Aluminum and Helium Supplies, Impacting Korean Manufacturers](84a349bcdb98289aed43591142c58e3)
+* [Exploring the Impact of Zero-Sum Thinking on U.S. Political Preferences and Policies](88346fdb1b596fc4419e978272d57c31)
+* [Exploring the Balance Between Memory and Forgetting in Long-Term Legacy Projects](61a31c00e4bdf3d0fff8bfd6a657f9d8)
+* [Leveraging AI for Accelerated Scientific Discovery Through Multi-Day Agentic Coding Workflows](c54e3763bfc2e91b162dc769c17e8d93)
+* [GitHub Removes Copilot Advertising Feature Following Developer Backlash](15210384b7295be63023cbb2cc7d4da6)
+* [OpenAI Faces Computing Constraints, Prioritizes Core Projects Amid Rising AI Demand](5394f72fbee49493c161938b0d03c312)
+* [Examining AI's Role in Theoretical Physics Research Through Professor Matthew Schwartz's Experiment with Claude](904ae59804675c88bc9ba55e94cb05bf)
 * [Struggles in Modern Work Culture: Embracing Change and Navigating Distractions](323d711c5ddadaad774954410012c61)
 * [The Race for AI: Manus's Move to Singapore and Beijing's Backlash](2b7ac6ac1a34726bb7e3851c41a3e80e)
 * [Understanding Chopsticks Faux Pas in Japanese Dining Etiquette](0a2e0bf6b4a53de0701f6204185f9e36)
