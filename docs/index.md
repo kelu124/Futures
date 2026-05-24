@@ -1,6 +1,8 @@
 # Overview 
 
 This page tries to capture the information obtained in my [tech watch](https://substack.kghosh.me/). The different links and pages are captured below, trying to catalogue different weak signals.
+* [Reviving Endangered Butterflies and Lives: The Intersection of Conservation and Incarceration in Washington State](66e79835b2e0c89fc0ca4d69a73e0e96)
+* [Paris Rehearses for Future Heat Waves: Preparing Children and Officials for Climate Change Challenges](8a4fd253e7ba0f3b6e93d304fbfee3d3)
 * [The Ozempicification of Society: Individual Optimization versus Collective Challenges](1cd0bed9a6b6f006473931e55617510)
 * [Judo and the Importance of Learning to Fall Safely for Aging Adults](d2fa33d12ecef6ccf0aa438a393e2226)
 * [Understanding Job Descriptions: A New Approach to Job Applications](d1dad928c284b266d9731b3def0df15d)
